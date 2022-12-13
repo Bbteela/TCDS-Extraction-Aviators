@@ -16,7 +16,7 @@ Bach Xuan Le: github.com/Bbteela\
 Kai Chun Chan: github.com/KaiChan20\
 Patcharaporn Adchariyavivit: github.com/PatchaAdcha\
 Rohit Varma Chekuri: github.com/rohitcrft79\
-Saroj Siril Palaparthi: github.com/Sarojsiril1\
+Saroj Siril Palaparthi: github.com/Sarojsiril1
 
 ### Thank you note
 Special thanks to the help of Prof. Robert Kraig\
