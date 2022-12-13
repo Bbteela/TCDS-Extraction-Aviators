@@ -1,0 +1,395 @@
+Keyterm,Info
+"A51NM 
+ Revision 2 
+ Grumman 
+ September 3, 2014 
+ S2F-3T",
+Type Certificate Holder,"Marsh Aviation Company 
+ 5060 East Falcon Drive 
+ Mesa, Arizona 85215 
+ Anne Stilwell Kleefisch 
+ 5060 East Falcon Drive 
+ Mesa, Arizona 85215 
+ Marsh Aviation Company 
+ 5060 East Falcon Drive 
+ Mesa, Arizona 85215"
+"I - Model S2F-3T (Restricted Category) Approved Date May 21, 1999",
+Engine,"2, AlliedSignal/Garrett 331-15AW 
+ TC E18NE"
+Fuel,"Engine operation is approved with the following fuels: 
+ AlliedSignal EMS53111 
+ (Type A) 
+ AlliedSignal EMS53112 
+ (Type A1) (JP-8) 
+ (British D. Eng. R.D. 2494 Issue 7) 
+ AlliedSignal EMS53113 
+ (Class A-JP4) 
+ Class B-type (British D. Eng. R.D. 2486 Issue 8) 
+ AlliedSignal EMS53116 
+ (Type JP-5) 
+ AlliedSignal EMS53122 
+ (Grade 100 LL) 
+ Anti-icing additive conforming to PFA-55MB or MIL-I-27686 must be used 
+ when operating in conditions where the fuel temperature is 0° C or less. 
+ Shell ASA-3 anti-static additive, or equivalent, to bring fuel up to 300 
+ conductivity units and no more than 1 ppm. 
+ Sohio Biobor JF Biocide additive or equivalent not to exceed 270 ppm 
+ maximum (220 ppm of elemental boron), for pesticide purposes. 
+ Aviation gasoline MIL-G-5572D, Grade 100/130 (low lead), not in excess of 50 
+ gallons per 100 hours of operation (per engine), may be used for emergency"
+Page,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev,"- 
+ - 
+ - 
+ - 
+ - 
+ operation. Total usage must be limited to 7000 gallons during any 3000 hour 
+ period. Aviation gasoline MIL-G-5572D, Grade 80/87 not in excess of 1000 
+ gallons per 100 hours of operation, may be used for emergency operation. If 
+ 25% or more Avgas is used at any time, one quart of Aviation grade 120 mineral 
+ oil must be added to mixture per 100 gallons of Avgas. (Aviation grade oil to 
+ MIL-L-6082.) 
+ If combinations of aviation gasoline are used, the following formula is required 
+ for establishing proportions of combinations during any 3000 hour period: 
+ Gals. 100/130 (low lead) + Gals. 80/87 < or = 1 
+ 7000 Gals. 30,000 Gals 
+ Fuel Type 
+ Avgas, JP-4, Jet-B 
+ JP-5/I, JetA/A-1 
+ JP-8 
+ Min. Temp for 
+ -50°C 
+ -44°C 
+ -42°C 
+ Starting"
+Engine Limits,"Engine Ratings and Operating Limits: 
+ Takeoff and Maximum Continuous SHP 
+ 1645 
+ Maximum Continuous Torque 
+ 6234 Ft - Lb. (100%) 
+ Takeoff and Maximum Continuous RPM 
+ 1390 (101%) 
+ Ground Idle - Minimum RPM 
+ 890 (64%) 
+ RPM % 
+ OIL PRESS 
+ EGT 
+ OIL TEMP 
+ CONDITION 
+ TORQUE 
+ MIN/MAX 
+ MIN/MAX 
+ MIN/MAX 
+ Takeoff 
+ 100 
+ 100/101 
+ 45/70 
+ 100% (2) 
+ 55/110°C 
+ Max. Cont. 
+ 100 
+ 96/101 
+ 45/70 
+ 100% (2) 
+ 55/110°C 
+ Ground Idle 
+ --- 
+ 64 (Min) 
+ 15/70 
+ --- 
+ 55/100°C 
+ Starting 
+ --- 
+ --- 
+ --- 
+ 770°C 
+ 44/110°C 
+ Transient 
+ 104 (Max) 
+ 104 (Max) 
+ --- 
+ 37 Above 
+ --- 
+ 30 Sec. 
+ (1) 
+ (1) Do not exceed 106% RPM at any time. Transient engine speed maximum 
+ limit is from 101% to 104% RPM. Engine speed for Overspeed Governor 
+ (OSG) check is limited to 30 seconds from 104% to 105% RPM and 
+ seconds from 105% to 106% RPM. 
+ (2) 100% with variable redline system EGT (VRL) operative, see approved 
+ Flight Manual Supplement/Pilot’s Operating Handbook 3DE6105 dated 
+ May 13, 1997, for EGT values with VRL system inoperative. 
+ Reverse; Landing 
+ --- 
+ 93 (Min) 
+ Maximum airspeed (on 
+ ground) for reverse operation 
+ is 90 KIAS 
+ Reverse; Static 
+ --- 
+ 64 (Min) 
+ If Beta light is inoperative, do 
+ not use reverse 
+ Windmilling 
+ 5-20% 
+ 5 MINUTE MAXIMUM 
+ Above 20% 
+ 1 MINUTE MAXIMUM 
+ Backward Rotation 
+ NOT RECOMMEND"
+Propeller and Propeller Limits,"Hartzell Five Blade Single Acting 
+ TC No. P20NE 
+ Hub Model - HC-E5B-5X1 
+ Blade Model - E12902KX 
+ Diameter - 132 inches 
+ Blade Angle (measured at Station 54 inches): 
+ Reverse 
+ 8.0° ± 0.5° 
+ Start Lock 
+ -4.0° ± 0.1° 
+ Feather 
+ -78.7° ± 0.5° 
+ Flight Idle 
+ 5.0° to 6.6° 
+ Counterweight 
+ 100° (Fixed) 
+ Limitations - Stable ground operation below 655 and from 69% to 75% RPM is 
+ prohibited. 
+ Propeller blades are life limited and shall be retired after 12500 
+ hours of operation. 
+ Propeller blade diameter is 132 inches and no cutoff is allowed."
+Airspeed Limits IAS,"VD (Dive) 
+ 280 KIAS 
+ VMO (Maximum Operating ) (1) 
+ 235 KIAS 
+ VA (Maneuvering) 
+ 175 KIAS 
+ VFE (Flaps Extended) 
+ 150 KIAS 
+ VLE (Landing Gear Extended) 
+ 150 KIAS 
+ (1) VMO is 235 KCAS 20,500 feet and below. Above 20,500 feet straight line 
+ variation to 215 KCAS at 25,000 feet."
+Center of Gravity CG Range,"Landing Gear Extended (all flight weights) 
+ Forward Limit 
+ 213.41 in. aft of Datum (21.0% MAC) 
+ Aft Limit 
+ 221.22 in. aft of Datum (29.85 MAC) 
+ Landing Gear Retracted (all flight weights) 
+ Forward Limit 
+ 215.35 in. aft of Datum (23.2% MAC) 
+ Aft Limit . 
+ 223.16 in. aft of Datum (32.0% MAC)"
+Empty Weight C G Range,None.
+Datum,The Datum is a point 32 inches forward of the most forward structure of the aircraft.
+Leveling Means,Floor inside cabin entrance door at Station No. 189.
+Maximum Weights,"Takeoff 
+ 29,150 lbs. 
+ Landing 
+ 24,800 lbs."
+Minimum Crew,One pilot at Station No. 104.7 left side.
+Number of Seats,"Four plus one jumpseat. 
+ Two at Station No. 104.7. 
+ Two at Station No. 162.5. 
+ Jumpseat at Station No. 126."
+Fuel Capacity,"Two wing tanks total 765 U.S. gallons at Station No. 228.9. 
+ Total usable fuel (all tanks) is 728 U.S. gallons. Reference Note 1."
+Oil Capacity,"One tank each engine of 7 quart capacity. Oil tank is supplied with engine and 
+ forms an integral part of engine. 
+ Engine is approved for Type II oils meeting MIL-L-23699B or EMS53110. 
+ Operating oil temperature range is as follows: 
+ Ground Start Minimum 
+ -40°C 
+ Ground Idle Maximum 
+ 127°C 
+ Cruise Maximum 
+ 110°C 
+ Takeoff Maximum 
+ 127°C 
+ (5 minute limit above 110°C for takeoff)"
+Maximum Operation Altitude,"25,000 Feet"
+Control Surface Movements,"DEGREES 
+ CONTROL SURFACE 
+ DIRECTION 
+ ALLOWABLE 
+ Left Aileron 
+ Up 
+ 18 + 1/-2 
+ Down 
+ 15 +1/-2 
+ Right Aileron 
+ Up 
+ 18 +1/-2 
+ Down 
+ 15 +1/-2 
+ Left Elevator 
+ Up 
+ 25 ± 1 
+ Down 
+ 15 ± 1 
+ Right Elevator 
+ Up 
+ 25 ± 1 
+ Down 
+ 15 ± 1 
+ Rudder 
+ Left 
+ 21 ± 1 
+ Right 
+ 21 ± 1 
+ Rudder Trimmer (Hydraulic @ 
+ Left 
+ 15 
+ Electric Actuator Extended) 
+ Right 
+ 25 
+ Rudder Trimmer (Hydraulic @ 
+ Left 
+ 25 
+ Electric Actuator Retracted) 
+ Right 
+ 15 
+ Rudder Trimmer 
+ Left 
+ 20 ± 1 
+ (Hydraulic Actuator Only) 
+ Right 
+ 20 ± 1 
+ Rudder Trimmer 
+ Left 
+ 5 ± 0.10’ 
+ (Electric Actuator Only) 
+ Right 
+ 5 ± 0.10’ 
+ Left Elevator Trim Tab 
+ Up 
+ 20 ± 1 
+ Down 
+ 20 ± 1 
+ Right Elevator Trim Tab 
+ Up 
+ 20 ± 1 
+ Down 
+ 20 ± 1 
+ Aileron Trim Tab (L. Only) 
+ Up 
+ 20 ± 1 
+ Down 
+ 20 ± 1 
+ Rudder Tab 
+ Left 
+ 14 ± 2 
+ Left Elevator Geared Tab 
+ Down Elevator 
+ 5 ± 1 
+ Up Elevator 
+ 20 ± 2"
+Control Surface Movements,"` 
+ Right Elevator Geared Tab 
+ Down Elevator 
+ 5 ± 1 
+ Up Elevator 
+ 20 ± 2 
+ Left Elevator Spring Tab 
+ Up 
+ 15 ± 1 
+ Down 
+ 20 ± 2 
+ Right Elevator Spring Tab 
+ Up 
+ 15 ± 1 
+ Down 
+ 20 ± 2 
+ Left Outboard Flap 
+ Down 
+ 27.5 ± 2 
+ Right Outboard Flap 
+ Down 
+ 30 ± 2 
+ Left Inboard Flap 
+ Down 
+ 40 ± 2 
+ Right Inboard Flat 
+ Down 
+ 40 ± 2 
+ Left Outboard Spoiler 
+ Up 
+ 52 ± 3 
+ Right Outboard Spoiler 
+ Up 
+ 52 ± 3 
+ Left Inboard Spoiler 
+ Up 
+ 37 ± 2 
+ Right Inboard Spoiler 
+ Up 
+ 37 ± 2"
+Manufacturer’s Serial Numbers,"The original Navy designation for the eligible airplanes was S2F-3. Variations 
+ in installed mission equipment resulted in new designations for the S2F-3 
+ airframe. These variations were designated S2F-3S, S-2D, ES-2D, S-2E, and S- 
+ 2G. 
+ S2F-3 aircraft eligible for Airworthiness certification under this Type Certificate, 
+ must be modified for the special purpose forest and wildlife conservation (fire 
+ fighting) by installing Allied Signal/Garrett 331 engines and Hartzell propellers 
+ in accordance with the latest FAA approved revision of Marsh Aviation 
+ Company Master Drawing List 3-DE1104. 
+ Only the aircraft listed below are eligible for Airworthiness Certification under 
+ this Type Certificate. 
+ Grumman S/N 
+ Navy S/N 
+ 001C 
+ 147531"
+Certification Basis,"FAR 21.25 (a) (2) FAR 21.101 (a) (b) (c) and FAR Part 25 dated June, 1964, 
+ through Amendments 25-1 through 25-79. 
+ Restricted Category Type Certificate A51NM, dated May 21, 1999, issued for 
+ the special purpose of forest and wildlife conservation (fire fighting). 
+ Application for Restricted Type Certificate dated June 8, 1992. 
+ A Finding of No Significant Impact (FONSI) for the modified Grumman Model 
+ S2F-3 aircraft has been accomplished and approved on November 12, 1998. 
+ A finding under the applicable provisions of the Noise Control Act of 1972 has 
+ been accomplished and approved on November 12, 1998, for the modified 
+ Grumman S2F-3 aircraft (Restricted Category – Military Surplus)."
+Production Basis,"None. Prior to original certification of each aircraft an FAA representative must 
+ perform a detailed inspection for workmanship, materials, conformity with 
+ approved technical data, and a check of flight characteristics."
+Equipment,"Basic required equipment as prescribed in applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. 
+ Aircraft must be equipped with Allied Signal/Garrett 331-15AW engines and 
+ Hartzell HC-E5B-5X1 propellers installed in accordance with the latest FAA 
+ approved revision of Marsh Aviation Company Master Drawing List number 
+ 3-DE1104 to be eligible for airworthiness certification under Type Certificate 
+ A51NM."
+NOTE 1,"Current Weight and Balance report containing a list of equipment included in the 
+ certified empty weight, and loading instructions, when necessary, must be 
+ provided for each aircraft at time of original certification."
+NOTE 2,"All required placards listed in the FAA approved S2F-3T Flight Manual 
+ Supplement/Pilot Operating Handbook 3-DE6105 dated May 13, 1997, must be 
+ installed in the aircraft."
+NOTE 3,"This aircraft must be maintained in accordance with NAVAIR 01-85SAD-2 and 
+ the latest revision of Marsh Aviation Company Maintenance Manual Supplement 
+ 3-DE6106 which contain the original minimum scheduled maintenance program 
+ required for the S2F-3T to meet the requirements for continued airworthiness."
+NOTE 4,"Aircraft shall be operated in accordance with NATOPS Flight Manual 01- 
+ 855AE-1, plus the FAA approved S2F-3T Flight Manual Supplement/Pilot 
+ Operating Handbook 3-DE6105 dated May 13, 1997."
+NOTE 5,"Prior to issuance of airworthiness certificate for each aircraft, and at prescribed 
+ intervals all inspections and modifications must be accomplished per latest 
+ version of Marsh Aviation Company S2F-3T Technical Directive Index."
+NOTE 6,"Upon completion of conversion to certified status in Restricted category, an 
+ additional dataplate, incorporating the S2F-3T designation which includes a 
+ statement that the aircraft has been modified per TC A51NM, must be installed 
+ near the original dataplate. Under no circumstances should the original or any 
+ succeeding dataplate be removed from the aircraft."
+NOTE 7,"This aircraft is prohibited from carrying cargo for compensation or hire. 
+ Carriage of cargo is limited to such cargo that is incidental to the aircraft 
+ owner/operator’s business which is other than air transportation."
+NOTE 8,"Restricted category aircraft may not be operated in a foreign country without the 
+ express written approval of that country."
+NOTE 9,"This aircraft has not been shown to meet the requirements of the applicable 
+ comprehensive and detailed airworthiness code as provided by Annex 8 to the 
+ Convention on International Civil Aviation."

@@ -1,0 +1,394 @@
+Keyterm,Info
+"A-706 
+ Revision 4 
+ FAIRCHILD 
+ 24R9 (Army UC-61C) 
+ 24R9S 
+ 24R40 (Army UC-86) 
+ 24R40S 
+ 24R46 
+ 24R46S 
+ 24R46A (Army UC-61K) 
+ October 21,1949",
+Manufacturer,"Fairchild Personal Planes Division 
+ of Fairchild Engine and Airplane Corp. 
+ Hagerstown, MD."
+"I - Model 24R9 (Army UC-61C) and Model 24R9S, 4 PCLSM, Approved February 8, 1939 
+ See NOTE 2 regarding night operation for UC-61C.",
+Engine,"Ranger 6-410-B1, -B1A, -B2, -B2A or -B2B"
+Fuel,80 min. octane aviation gasoline
+Engine limits,"For all operations, 2450 rpm (165 hp)"
+Airspeed limits,"Level flight or climb 
+ 137 mph True Ind. 
+ Glide or dive 
+ 185 mph True Ind. 
+ Flaps extended 
+ 94 mph True Ind. (when flaps are installed.)"
+Propeller limits,"Maximum permissible diameter: 
+ Landplane - 103 in. 
+ Seaplane - 111 in."
+CG range,"Landplane - (+16.4) to (+24.6) 
+ Seaplane - (+16.8) to (+23.5)"
+Empty weight CG range,None.
+Maximum weight,"Landplane - 
+ 2550 lbs. 
+ Seaplane - 
+ 2750 lbs."
+No seats,4 (2 at +20 and 2 at +50)
+Maximum baggage,170 lbs. (140 lbs. at +74 and 30 lbs. at +50)
+Fuel capacity,40 gals. (one 20 gal. tank in each wing at +24)
+Oil capacity,3 gals. (-22)
+Control surface movements,Not available.
+Serial Nos eligible,"R9-300 and up and all AAF Nos. of UC-61C. Use manufacturer's number 
+ when available."
+Required equipment,"Landplane - Items 101, 102, 103(a), 104, 105, 106, 107(a), 108(a), 109, 110(a) and 111. 
+ Seaplane - Items 101, 102, 103(a), 107(a), 109, 110(a), 111, 151, and 152."
+"II - Model 24R40 (Army UC-86) and Model 24R40S, 4 PCLSM, Approved April 2, 1940, and August 26, 1940, respectively 
+ (Same as Model 24R9 and Model 24R9S except engine installation).",
+Engine,Ranger 6-410-B3
+Fuel,80 min. octane aviation gasoline
+Engine limits,"Maximum continuous 
+ 2425 rpm (165 hp) 
+ Take-off (one minute) 
+ 2450 rpm (175 hp)"
+Airspeed limits,"Level flight or climb 137 mph True Ind. 
+ Glide or dive 
+ 185 mph True Ind. 
+ Flaps extended 
+ 94 mph True Ind."
+Propeller limits,"Diameter - 86 in., Pitch - 58 in."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"4 
+ 4 
+ - 
+ - 
+ 4 
+ 4"
+CG range,"Landplane - (+16.4) to (+24.6) 
+ Seaplane - (+16.8) to (+23.5)"
+Empty weight CG range,None.
+Maximum weight,"Landplane - 
+ 2550 lbs. 
+ Seaplane - 
+ 2750 lbs."
+No seats,4 (2 at +20 and 2 at +50)
+Maximum baggage,170 lbs. (140 lbs. at +74 and 30 lbs. at +50)
+Fuel capacity,40 gals. (one 20 gal. tank in each wing at +24)
+Oil capacity,3 gals. (-22)
+Control surface movements,Not available.
+Serial Nos eligible,"R40-401 and up and all AAF Nos. of UC-86. Use manufacturer's number when 
+ available."
+Required equipment,"Landplane - Items 101, 102, 103(a), 104, 105, 106, 107(a), 108(b), 109, 110(a) 111 and 
+ 112. 
+ Seaplane - Items 101, 102, 103(a), 107(a), 109, 110(a), 111, 112, 151, and 152."
+"III - Model 24R46 and 24R46S, 4 PCLSM, Approved June 8, 1948",
+Engine,Ranger 6-440-C2
+Fuel,80 min. octane aviation gasoline
+Engine limits,"Maximum continuous 2400 rpm (165 hp) 
+ Take-off (one minute) 2450 rpm (175 hp)"
+Airspeed limits,"Level flight or climb 137 mph True Ind. 
+ Glide or dive 
+ 185 mph True Ind. 
+ Flaps extended 
+ 94 mph True Ind."
+Propeller limits,"Static rpm at maximum permissible throttle setting: 
+ Landplane - not over 2075, not under 1975 
+ Seaplane - not over 2175, not under 2075 
+ No additional tolerance permitted. 
+ Diameter: Not over 86 in., not under 84 in."
+CG range,"Landplane - (+16.4) to (+24.6) 
+ Seaplane - (+16.8) to (+23.5)"
+Empty weight CG range,None.
+Maximum weight,"Landplane -2562 lbs. 
+ Seaplane - 2762 lbs."
+No seats,4 (2 at +20 and 2 at +50)
+Maximum baggage,170 lbs. (140 lbs. at +74 and 30 lbs. at +50)
+Fuel capacity,60 gals. (one 30 gal. tank in each wing at +24)
+Oil capacity,4 gals. (-19)
+Control surface movements,"Aileron 
+ 17° up 12° down 
+ Flaps 
+ 0° up 55° down 
+ Elevator 
+ 28° up 20° down 
+ Elevator trim tab 
+ 8° up 11° down 
+ Rudder 
+ 25° right 25° left"
+Serial Nos eligible,R46-101 and up.
+Required equipment,"Landplane - Items 104, 105, 107(b), 109, 110(b), 112 and 215. 
+ Seaplane - Items 107(b), 109, 110(b), 112, 151, 152 and 303."
+"IV - Model 24R46A (Army UC-61K), 4 PCLM, Approved May 6, 1947 
+ See NOTES 2 and 3 for modifications for civil conversion of UC-61K.",
+Engine,Ranger 6-440-C5
+Fuel,87 min. octane aviation gasoline
+Engine limits,"Maximum continuous 
+ 2300 rpm (165 hp) 
+ Take-off (one minute) 
+ 2450 rpm (200 hp)"
+Airspeed limits,"Level flight or climb 
+ 137 mph True Ind. 
+ Glide or dive 
+ 185 mph True Ind. 
+ Flaps extended 
+ 94 mph True Ind."
+Propeller limits,"Static rpm at maximum permissible throttle setting: 
+ not over 2050, not under 1950 
+ No additional tolerance permitted. 
+ Diameter: Not over 86 in., not under 84 in."
+CG range,(+16.4) to (+24.6)
+Maximum weight,2562 lbs.
+No seats,4 (2 at +20 and 2 at +50)
+Maximum baggage,170 lbs. (140 lbs. at +74 and 30 lbs. at +50)
+Fuel capacity,60 gals. (one 30 gal. tank in each wing at +24)
+Oil capacity,4 gals. (-19)
+Control surface movements,"Aileron 
+ 17° up 12° down 
+ Flaps 
+ 0° up 55° down 
+ Elevator 
+ 28° up 20° down 
+ Elevator trim tab 
+ 8° up 11° down 
+ Rudder 
+ 25° right 25° left"
+Serial Nos eligible,"R46-101 and up and all AAF Nos. of Model UC-61K. Use manufacturer's numbers 
+ when available."
+Required equipment,"Items 104, 105, 107(b), 109, 110(b), 112 and 215."
+Specifications Pertinent to All Models,
+Datum,Wing leading edge
+Leveling means,"Average level indication taken at outermost left or right sides of extreme rear portion of 
+ cabin floor with level parallel to longeron."
+Certification basis,Type Certificate No. 706 (CAR 4a)
+Production basis,"None. Prior to original certification of each aircraft must satisfactorily pass: 
+ (a) An inspection for workmanship, materials and conformity before any covering, metal 
+ priming or final finish is applied. All woodwork may be varnished. 
+ (b) A final inspection of the completed aircraft. 
+ (c) A check of the flight characteristics."
+Export eligibility,"Eligible for export to all countries except as follows, subject to the provisions of ASR 
+ 312 (MOP 2-4 contains the same information): 
+ (Canada - Landplane and seaplane are eligible. 
+ Skiplane is not eligible. However, structure complies with Canadian 
+ requirements for ski gear when oleo strut per Dwg. 3340-10 is installed. 
+ Maximum ski height 9.25 in. Tread with skis not to exceed that with wheels. 
+ Equipment: A Plus (+) or minus (-) sign preceding the weight of an item indicates net weight change when that item is 
+ installed."
+Propellers and Propeller Accessories,"24R9 or 24R9S 
+ 24R40 or 24R40S 24R46 or 24R46S 24R46A 
+ 109. Propeller - wood (any fixed 
+ 28 lbs. (-63) 
+ 28 lbs. (-63) 
+ 32 lbs. (-74) 
+ 32 lbs. (-74)"
+pitch wood propeller eligible,"for the engine rpm and power,"
+and static rpm limits specified,"--- 
+ --- 
+ 66 lbs. (-73) ---"
+Static rpm in lowest pitch,"approx. 11.5° at 33 in. sta.): 
+ not over 2075, not under 1975."
+No additional tolerance permitted,"Diameter: Not over 88 in., not"
+Propeller  Koppers Aeromatic,"--- 
+ --- 
+ 53 lbs. (-75) ---"
+Landplane only Parts List Assembly,"No. 4321. Low pitch setting 10.3° 
+ measured at 30 in. sta. Static rpm"
+at max permissible throttle setting,Not over 2450; not under 2350. No
+additional tolerance permitted,"Diameter: Not over 85 in., not under 
+ 83 1/4 in. (Oil cooler air ducts to be"
+is installed installation and operation,must be accomplished in accordance with
+3,"--- 
+ --- 
+ 64 lbs. (-74) 
+ --- 
+ Hub HC-12x20-1 with 8428 or 8428C"
+blades Landplane only Pitch,"setting at 31 in. sta.: Low 9.5°, 
+ high 20.5°. Low pitch static rpm: 
+ not over 2250, not under 2150."
+"In order to be eligible with Item 3 installed, the Model 24R46 landplane must have the oil cooler air ducts modified,",
+4,"--- 
+ --- 
+ 68 lbs. (-74) 
+ 68 lbs. (-74)"
+Landplane only Pitch,"settings at 31 in. sta.: 24R46: 
+ low 9 1/2°, high 20 1;2°; 24R46A: 
+ low 12°, high 21 1/2°. Low pitch 
+ static rpm: 24R46: not over 2250, 
+ not under 2150; 24R46A: not over 
+ 2260, not under 2160. No additional"
+tolerance permitted Diameter,"not over 84 in., not under 82.5 in."
+"In order to be eligible with Item 4 installed, the Models 24R46 and 24R46A landplanes must have the oil cooler air duct",
+a Eclipse Y150,"18 lbs. (-16) 
+ 18 lbs. (-16) 
+ --- 
+ ---"
+b Eclipse E80,"--- 
+ --- 
+ 18 lbs. (-24) 
+ 18 lbs. (-24)"
+a Harrison 3074410,"11 lbs. (-20) 
+ 11 lbs. (-20) 
+ --- 
+ ---"
+b United Aircraft Product,"--- 
+ --- 
+ 17 lbs. (-41) 
+ 17 lbs. (-41)"
+a Integral with engine,"x 
+ x 
+ x 
+ x"
+b Fairchild Dwg 48661,"--- 
+ --- 
+ x 
+ x"
+207 Engine shielding,"5 lbs. (-29) 
+ 5 lbs. (+29) 
+ 5 lbs. (-35) 
+ 5 lbs. (-35) 
+ 301. Two 30 gal. fuel tanks 
+ +17 lbs. (+24) 
+ +17 lbs. (+24) 
+ --- 
+ ---"
+104 75010 wheels Hayes 750M,"55 lbs. ( -1) 
+ 55 lbs. (-1) 
+ 58 lbs. (-1) 
+ 58 lbs. (-1)"
+105 Hydraulic brake cylinder,"5 lbs. (-10) 
+ 5 lbs. (-10) 
+ 5 lbs. (-10) 
+ 5 lbs. (-10)"
+106 8 in steerable streamline,"6 lbs. (+205) 
+ 6 lbs. (+205) 
+ --- 
+ ---"
+a Hub,"4 lbs. (0) 
+ 4 lbs. (+1) 
+ -9 lbs. (+1) 
+ -9 lbs. (+1)"
+b Wheel,"13 lbs. (+1) 
+ 17 lbs. (+1) 
+ 17 lbs. (+1) 
+ 17 lbs. (+1)"
+151 Edo 452880 floats,"369 lbs. (+23) 
+ 374 lbs. (+23) 
+ 374 lbs. (+23) 
+ ---"
+including water rudders,"5 lbs. (-10) 
+ 5 lbs. (-10) 
+ 5 lbs. (-10) 
+ 5 lbs. (-10)"
+213 75010 4ply tires,"+6 lbs. (-1) 
+ +6 lbs. (-1) 
+ +6 lbs. (-1) 
+ +6 lbs. (-1)"
+214 20x94 wheels Goodyear,"5 lbs. (-1) 
+ +5 lbs. (-1) 
+ +5 lbs. (-1) 
+ +5 lbs. (-1)"
+Maximum permissible propeller,diameter 100 in. with these wheels)
+prior to starting modification,"+4 lbs. (+205) 
+ +4 lbs. (+205) 
+ 6 lbs. (+205) 
+ 6 lbs. (+205)"
+311. Skis (Eligible on any airplane of these models provided the propeller installation meets the minimum 9 in. ground clearance.,
+"each ski model, whichever is less) Use actual wt. change",
+312 Landing gear installation,"No wt. change 
+ No wt. change 
+ --- 
+ ---"
+101 Generator and cutout,"16 lbs. (-15) 
+ 16 lbs. (-15) 
+ 16 lbs. (-15) 
+ 16 lbs. (-15)"
+Elec Spec NA1,"102. Battery and box (Reading R-24) 28 lbs. (-30) 
+ 28 lbs. (-30) 
+ 28 lbs. (+141) 
+ 28 lbs.(+141)"
+212 Battery Reading R40,"+11 lbs. (-30) 
+ +11 lbs. (-30) 
+ --- 
+ ---"
+a 2 Grimes ST250,"9 lbs. (+16) 
+ 9 lbs. (+16) 
+ 9 lbs. (+16) 
+ 9 lbs. (+16)"
+b 1 Grimes ST250,"5 lbs. (+16) 
+ 5 lbs. (+16) 
+ 5 lbs. (+16) 
+ 5 lbs. (+16)"
+a Irvin 24 ft,"+35 lbs. (+28) 
+ +35 lbs. (+28) 
+ +35 lbs. (+28) 
+ +35 lbs.(+28)"
+b Switlik 24 ft,"+30 lbs. (+28) 
+ +30 lbs. (+28) 
+ +30 lbs. (+28) 
+ +30 lbs.(+28) 
+ 202. Flares (Three 1 1/2 min.) (MK-1)"
+a,"20 lbs. (+46) 
+ 20 lbs. (+46) 
+ 20 lbs. (+46) 
+ 20 lbs. (+46)"
+b,"20 lbs. (+75) 
+ 20 lbs. (+75) 
+ 20 lbs. (+75) 
+ 20 lbs. (+75)"
+Lux No 5,"18 lbs. (+44) 
+ 18 lbs. (+44) 
+ 18 lbs. (+44) 
+ 18 lbs. (+44)"
+208 Cabin heater,"4 lbs. (-24) 
+ 4 lbs. (-24) 
+ 6 lbs. (-18) 
+ 6 lbs. (-18)"
+216 Cargo compt per,"18 lbs. (+49) 
+ 18 lbs. (+49) 
+ 18 lbs. (+49) 
+ 18 lbs. (+49)"
+111 Two cabin doors,"x 
+ x 
+ x 
+ x 
+ 39 lbs. (+50) 
+ 39 lbs. (+50) 
+ 39 lbs. (+50) 
+ 39 lbs. (+50)"
+152 Auxiliary fin,"5 lbs. (+197) 
+ 5 lbs. (+197) 
+ 5 lbs. (+197) 
+ ---"
+203 Metalizing and corrosion,"18 lbs. (+39) 
+ 12 lbs. (+39) 
+ --- 
+ ---"
+204 Corrosion proofing,"8 lbs. (+39) 
+ 12 lbs. (+39) 
+ --- 
+ ---"
+302 Cabin door windows 532,"+8 lbs. (+23) 
+ +8 lbs. (+23) 
+ +8 lbs. (+23) 
+ +8 lbs. (+23)"
+303 Seaplane fittings,"--------------Neglect weight------------------ 
+ ---"
+304 Quick release door hinges,"+1 lb. (+7) 
+ l lb. (+7) 
+ l lb. (+7) 
+ 1 lb. (+7)"
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight empty, and loading 
+ instructions when necessary must be in each aircraft at the time of original certification and at all times thereafter 
+ (except in the case of air carrier operators having an approved weight control system)."
+NOTE 2,"In order to be eligible for night operations, any UC-61 Series airplane having uncertificated position lights should have 
+ them replaced with approved types. If Air Force type A-9 wing-tip lights are installed, they may be used provided the 
+ sand-blasted surface on the inside of the cover glass is painted black."
+NOTE 3,"Prior to original certification of the UC-61K models install a single-pole, 5 ampere, toggle switch in the generator field 
+ circuit. Mount this switch adjacent to the battery circuit breaker switch on the instrument panel and placard it 
+ ""Generator Field Switch."" The battery circuit breaker switch and generator field switch should be ganged so either 
+ simultaneous or individual action is possible. When so ganged these switches constitute a Master Switch and should 
+ be so placarded."

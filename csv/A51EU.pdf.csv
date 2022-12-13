@@ -1,0 +1,1144 @@
+Keyterm,Info
+"A51EU 
+ Revision 18 
+ DAHER 
+ (SOCATA) 
+ TB 9 
+ TB 10 
+ TB 20 
+ TB 21 
+ TB 200 
+ August 30, 2021",
+Type Certificate Holder,"DAHER AEROSPACE 
+ 23 route de TOURS 
+ 41400 SAINT JULIEN DE CHEDON 
+ FRANCE"
+Type Certificate Holder Record,"SOCATA name dropped by owner DAHER in 2015 
+ 65921 - TARBES Cedex 9 
+ France 
+ S O C A T A - Groupe AEROSPATIALE transferred to SOCATA 
+ on February 16, 2011"
+"I. Model TB 20, 4 PCLM (Normal Category), approved January 27, 1984.",
+Engine,LYCOMING IO-540-C4D5D
+Fuel,100 minimum octane aviation gasoline
+Engine Limits,"For all operations, 2575 r.p.m. (250 H.P.)"
+Propeller  Propeller Limits,"HARTZELL Constant Speed 
+ HC-C2YK-1BF/F8477-4 
+ Diameter: not over 80 in., not under 78 in. 
+ Pitch setting at 30 in., sta.: Low 15o 
+ High 31o 
+ Spinner SOCATA TB 10.58.018.100, TB 10.58.018.104 or TB 10.58.026.001 
+ OR 
+ HARTZELL Constant Speed 
+ HC-C3YR-1RF/F7693F or HC-C3YR-1RF/F7693FB 
+ Diameter: not over 78 in., not under 76 in. 
+ Pitch setting at 30 in., sta.: Low 13o 
+ High 31o 
+ Spinner HARTZELL A-2295-3(P) 
+ WOODWARD hydraulic governor: 
+ -E210681 for aircraft from S/N 1 to 730 
+ -M210681 for aircraft from S/N 1 to 878 (except S/N 823 to 849 and 888)."
+Page,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19"
+Rev,"18 
+ 7 
+ 12 
+ 16 
+ 14 
+ 12 
+ 14 
+ 12 
+ 8 
+ 18 
+ 13 
+ 15 
+ 7 
+ 12 
+ 8 
+ 7 
+ 12 
+ 12 
+ 12 
+ -C210761 or F210 761 for aircraft from S/N 1"
+Airspeed Limits IAS,"Normal Category. 
+ a) Aircraft up to S/N 587 where modification No 50 has not been applied. 
+ Maximum take-off and landing weight: 2943 lbs. 
+ Never exceed 
+ 189 knots - 217 m.p.h. 
+ Maximum structural cruising 
+ 151 knots - 174 m.p.h. 
+ Maneuvering 
+ 127 knots - 146 m.p.h. 
+ Flaps extended 
+ 100 knots - 115 m.p.h. 
+ Gear extended 
+ 140 knots - 162 m.p.h. 
+ Gear operating 
+ 130 knots - 149 m.p.h. 
+ b) Aircraft from S/N 588 up to S/N 878 except S/N 823 to 849 and those where 
+ modification No 50 has been applied. 
+ Maximum take-off weight: 3086 lbs; 
+ Maximum landing weight: 2943 lbs. 
+ Never exceed 
+ 187 knots - 216 m.p.h. 
+ Maximum structural cruising 
+ 150 knots - 173 m.p.h. 
+ Maneuvering 
+ 129 knots - 149 m.p.h. 
+ Flaps extended 
+ 103 knots - 119 m.p.h. 
+ Gear extended 
+ 139 knots - 160 m.p.h. 
+ Gear operating 
+ 129 knots - 149 m.p.h. 
+ c) Aircraft from S/N 879 and S/N 823 to 849. 
+ Maximum take-off and landing weight: 3086 lbs 
+ Never exceed 
+ 187 knots - 216 m.p.h. 
+ Maximum structural cruising 
+ 150 knots - 173 m.p.h. 
+ Maneuvering 
+ 129 knots - 149 m.p.h. 
+ Flaps extended take-off position 
+ 129 knots - 149 m.p.h. 
+ Flaps extended landing position 
+ 103 knots - 119 m.p.h. 
+ Gear extended 
+ 139 knots - 160 m.p.h. 
+ Gear operating 
+ 129 knots - 149 m.p.h."
+CG Range,"Normal Category. 
+ a) Aircraft up to S/N 587 and where modification No 50 has not been applied. 
+ Take-off and landing maximum weight: 2943 lbs 
+ (+ 36.9) to (+ 47.4) at 2000 lbs or less 
+ (+ 37.9) to (+ 47.4) at 2645 lbs 
+ (+ 42.6) to (+ 47.4) at 2943 lbs 
+ Straight line between points given. 
+ b) Aircraft where modification No 50 has been applied for S/N 1 to 587. 
+ (+ 36.9) to (+ 47.4) at 2000 lbs or less 
+ (+ 37.9) to (+ 47.4) at 2645 lbs 
+ (+ 42.6) to (+ 47.4) at 2943 lbs 
+ (+ 42.6) to (+ 47.4) at 3086 lbs 
+ Straight line between points given. 
+ c) Aircraft from S/N 588 included 
+ (+ 35.9) to (+ 47.4) at 2205 lbs or less 
+ (+ 37.4) to (+ 47.4) at 2756 lbs 
+ (+ 42.2) to (+ 47.4) at 3086 lbs 
+ Straight line between points given."
+Empty Weight CG Range,None.
+Maximum Weight,"Normal Category 
+ a) Aircraft where modification No 50 has not been applied. 
+ - Maximum take-off and landing weight: 2943 lbs 
+ b) Aircraft from S/N 588 and those where modification No 50 has been applied, up to 
+ S/N 878, except for S/N 823 to 849. 
+ - Maximum take-off: 3086 lbs 
+ - Maximum landing: 2943 lbs 
+ c) Aircraft from S/N 879 and S/N 823 to 849. 
+ - Maximum take-off weight: 3086 lbs 
+ - Maximum landing weight: 3086 lbs"
+Number of seats,"4 (2 at + 45.5, 2 at + 80.1) - See Note 5 for additional rear seat."
+Maximum Baggage,110 lb at (+ 102) or 143 lb at (+ 102) if modification No. 40 is applied.
+Fuel Capacity,"88.8 gal. (two 44.4 gal. at + 42.7: 86.2 gal. usable) 
+ See Note 1 for weight and unusable fuel"
+Oil Capacity,"13.3 qt at (-23.6) (3.9 qt unusable) 
+ See Note 1 for weight"
+Control Surface Movements,"Stabilator (Angles references: upper fuselage spar) 
+ Leading edge down: 16o ± 1o 
+ Leading edge up: 3o ± 1o 
+ Stabilator tab (Angles reference: stabilator chord) 
+ with stabilator leading edge full down. 
+ a) Aircraft where modification No 50 has not been applied. 
+ Tab trailing edge minimum up 2.5o ± 0.5o 
+ Tab trailing edge maximum up 17.5o ± 1.5o 
+ b) Aircraft from S/N 588 and those where modification No 50 has been applied. 
+ Tab trailing edge minimum up 0o ± 0.5o 
+ Tab trailing edge maximum up 15o ± 1.5o 
+ Ailerons (Reference: wing chord) 
+ up 15o ± 1.5o 
+ down 15o ± 1.5o 
+ Rudder (Reference: fin chord) 
+ Right and left 
+ 25o ± 2o 
+ Rudder tab (Reference: rudder chord) 
+ Left turn 
+ 10o ± 2o 
+ Right turn 
+ 25o ± 2o 
+ Flaps (Reference: wing chord) + 0.5o 
+ Full flaps 
+ 40o 
+ - 1o"
+"II. Model TB 10, 4 PCLM (Normal and Utility Category) approved November 27, 1985 
+ Similar to the TB 20 but with fixed gear.",
+Engine,LYCOMING O-360-A1AD
+Fuel,100 minimum octane aviation gasoline
+Engine Limits,"For all operations, 2700 r.p.m. (180 HP)"
+Propeller  Propeller Limits,"HARTZELL constant speed 
+ HC-C2YK-1BF/F-7666 A-2 
+ Diameter: not over 74 in., not under 72 in. 
+ Pitch setting at 30 in., sta.: Low 13o30 
+ High 31o 
+ Spinner SOCATA TB 10.58.018.100, TB 10.58.018.104 or TB 10.58.026.001 
+ HARTZELL Hydraulic governor F4-26 or F4-4A or F4-4AZ or F4-18"
+Airspeed Limits IAS,"Normal and Utility Category. 
+ Never exceed 
+ 165 knots - 190 m.p.h. 
+ Maneuvering 
+ 122 knots - 142 m.p.h. 
+ Flaps extended 
+ 95 knots - 109 m.p.h."
+CG Range,"Normal Category. 
+ (+ 37.3) to (+ 47.4) at 2138 lbs or less 
+ (+ 39.8) to (+ 47.4) at 2359 lbs 
+ (+ 45.0) to (+ 47.4) at 2535 lbs (Aircraft up to S/N 947) 
+ (+ 42.6) to (+ 47.4) at 2535 lbs (Aircraft from S/N 948 included) 
+ Straight line variation between points given. 
+ Utility Category. 
+ (+ 37.3) to (+ 47.4) at 2138 lb or less 
+ (+ 38.3) to (+ 47.4) at 2249 lb 
+ (+ 40.7) to (+ 47.4) at 2359 lb 
+ Straight line variation between points given."
+Empty weight CG Range,None
+Maximum Weight,"Normal Category. 
+ a) 
+ Aircraft up to S/N 822, except S/N 804, 807, 808, and 816 to 819. 
+ - Maximum take-off weight: 2535 lbs 
+ - Maximum landing weight : 2407 lbs 
+ b) 
+ Aircraft from S/N 823, and S/N 804, 807, 808 and 816 to 819. 
+ - Maximum take-off weight: 2535 lbs 
+ - Maximum landing weight : 2535 lbs 
+ Utility Category. 
+ Maximum take-off and landing weight: 2359 lbs"
+Number of seats,"4 (2 at + 45.9, 2 at + 82.4) See Note 5 for rear seat occupancy."
+Maximum Baggage,"22 lbs at (+ 116.7) and 66 lbs at (+ 99) for aircraft up to S/N 399 and 
+ 143 lbs at (+ 102.3) from aircraft S/N 400"
+Fuel Capacity,"55.4 gal. (two 27.7 gal. at + 42.3 ; 53.8 gal. usable) 
+ See Note 1 for weight and unusable fuel."
+Oil Capacity,"8.45 qt at (-23.8)(-2.64 qt unusable) 
+ See Note 1 for weight."
+Control Surface Movements,"Stabilator (Angles reference: upper fuselage spar) 
+ Leading edge down 
+ 17o ± 1o 
+ Leading edge up 
+ 2o ± 1o 
+ Stabilator tab (Angles reference: stabilizer chord) with stabilator leading edge full down 
+ Tab trailing edge minimum up 
+ 2.5o ± 0.5o 
+ Tab trailing edge maximum up 
+ 17o ± 1.5o"
+Control Surface Movements,Ailerons (Reference: wing chord) up 15o ± 1.5
+Continued,"down 15o ± 1.5o 
+ Rudder (Reference: fin chord) 
+ Right and left 
+ 25o ± 2o 
+ Flaps (Reference: wing chord) 
+ + 0.5o 
+ Full flaps 25.5o 
+ - 1o"
+"III. Model TB 21, 4 PCLM (Normal Category) approved March 5, 1986 
+ Similar to the TB 20 but with a turbocharged engine.",
+Engine,LYCOMING TIO-540-AB1AD
+Fuel,100 minimum octane aviation gasoline
+Engine Limits,"For all operations, 2575 r.p.m. (250 HP)"
+Propeller and Propeller Limits,"HARTZELL Constant Speed 
+ HC-C2YK-1BF/F 8477-4 
+ Diameter: not over 80 in., not under 78 in. 
+ Pitch setting at 30 in., sta.: Low 15o 
+ High 31o 
+ Spinner SOCATA TB 10.58.018.100 or TB 10.58.018.104 
+ OR 
+ HARTZELL Constant Speed 
+ HC-C3YR-1RF/F7693F or HC-C3YR-1RF/F7693FB 
+ Diameter: not over 78 in., not under 76 in. 
+ Pitch setting at 30 in., sta.: Low 13o 
+ High 31o 
+ Spinner HARTZELL A-2295-3(P) 
+ WOODWARD hydraulic governor: 
+ -E210681 or M210681 or C210761 for aircraft from S/N 1 to 730 
+ -C210761 or F210761 for aircraft from S/N 1"
+Airspeed Limits IAS,"Normal Category. 
+ a) Aircraft up to S/N 878: 
+ Never exceed 
+ 187 knots - 216 m.p.h. 
+ Maximum structural cruising 
+ 150 knots - 173 m.p.h. 
+ Maneuvering 
+ 129 knots - 149 m.p.h. 
+ Flaps extended 
+ 103 knots - 119 m.p.h. 
+ Gear extended 
+ 139 knots - 160 m.p.h. 
+ Gear operating 
+ 129 knots - 149 m.p.h."
+Airspeed Limits IAS,b) Aircraft from S/N 879:
+Continued,"Never exceed 
+ 187 knots - 216 m.p.h. 
+ Maximum structural cruising 
+ 150 knots - 173 m.p.h. 
+ Maneuvering 
+ 129 knots - 149 m.p.h. 
+ Flaps extended take-off position 
+ 129 knots - 149 m.p.h. 
+ Flaps extended landing position 
+ 103 knots - 119 m.p.h. 
+ Gear extended 
+ 139 knots - 160 m.p.h. 
+ Gear operating 
+ 129 knots - 149 m.p.h."
+CG Range,"Normal Category. 
+ (+ 35.9) to (+ 47.4) at 2205 lbs or less 
+ (+ 37.4) to (+ 47.4) at 2756 lbs 
+ (+ 42.2) to (+ 47.4) at 3086 lbs 
+ Straight line between points given."
+Empty weight CG Range,None
+Maximum Weight,"Normal Category 
+ a) Aircraft up to S/N 878: 
+ - Maximum take-off weight: 3086 lbs 
+ - Maximum landing weight : 2943 lbs 
+ b) Aircraft from S/N 879: 
+ - Maximum take-off weight: 3086 lbs 
+ - Maximum landing weight : 3086 lbs"
+Number of Seats,"4(2 at + 45.5, 2 at + 80.1) - See Note 5 for additional rear seat."
+Maximum Baggage,143 lbs at (+ 102)
+Fuel Capacity,"88.8 gal. (two 44.4 gal. at + 42.7; 86.2 gal. usable) 
+ See Note 1 for weight and unusable fuel"
+Oil Capacity,"13.3 qt at (-23.6) (3.9 qt unusable) 
+ See Note 1 for weight"
+Control Surface Movements,"Stabilator (Angles references: upper fuselage spar) 
+ Leading edge down : 
+ 16o ± 1o 
+ Leading edge up : 
+ 3o ± 1o 
+ Stabilator tab (Angles reference: stabilator chord) with stabilator leading edge full down. 
+ Tab trailing edge minimum up 
+ 0o ± 0.5o 
+ Tab trailing edge maximum up 
+ 15o ± 1.5o 
+ Ailerons (Reference: wing chord) 
+ up 15o ± 1.5o 
+ down 15o ± 1.5o 
+ Rudder (Reference: fin chord) 
+ Right and left 
+ 25o ± 2o 
+ Rudder tab (Reference: rudder chord) 
+ Left turn 
+ 10o ± 2o 
+ Right turn 
+ 25o ± 2o 
+ Flaps (Reference: wing chord) 
+ + 0.5o 
+ Full flaps 
+ 40o 
+ - 1o"
+"IV. Model TB9, 4 PCLM (Utility Category) approved July 11, 1988 
+ Similar to the TB10 but with a 160 HP engine.",
+Engine,LYCOMING O-320-D2A
+Fuel,100 minimum octane aviation gasoline
+Engine Limits,"For all operations, 2700 r.p.m. (160 HP)"
+Propeller  Propeller Limits,"Aircraft up to S/N 878 except S/N 765: 
+ SENSENICH fixed pitch 
+ 74 DM6 S8 061 
+ Diameter: not over 74 in., not under 72 in. 
+ Spinner SOCATA TB 9.58.013.100 or TB 9.58.013.104 
+ HARTZELL constant speed 
+ HC-C2YL-1BF/F-7663 A-4 
+ Diameter: not over 72 in., not under 70 in. 
+ Pitch setting at 27 in., sta.: Low 11o 
+ High 26o06' 
+ Spinner SOCATA TB 10.58.018.104 or TB 10.58.026.001 
+ HARTZELL hydraulic governor F4-26 or F4-4A or F4-4AZ or F4-18 
+ Aircraft from S/N 879 and S/N 765: 
+ SENSENICH fixed pitch 
+ 74 DM6 SB 054 
+ Diameter: not over 74 in., not under 72 in. 
+ Spinner SOCATA TB9.58.013.100 or TB 9.58.013.104 
+ Aircraft from S/N 1851 and from S/N 948 retrofitted with modification no. 139: 
+ SENSENICH fixed pitch 
+ 74 DM6 S8 058 
+ Diameter: not over 74 in., not under 72 in. 
+ Spinner SOCATA TB9.58.013.100 or TB 9.58.013.104"
+Wheel Fairings,"Wheel fairing equipments are mandatory with propeller: 
+ - SENSENICH 74 DM6 S8 061 and 
+ - HARTZELL HC-C2YL-1BF/F 7663 A-4 
+ - SENSENICH 74 DM6 S8 058"
+Airspeed Limits IAS,"Never exceed 
+ 165 knots - 190 m.p.h. 
+ Maneuvering 
+ 122 knots - 142 m.p.h. 
+ Flaps extended 
+ 95 knots - 109 m.p.h."
+CG Range,"Utility Category. 
+ (+ 38.3) to (+ 47.4) at 2138 lbs or less 
+ (+ 41.3) to (+ 47.4) at 2337 lbs 
+ Straight line variation between points given."
+Empty Weight CG Range,None
+Maximum Weight,"Maximum take-off weight : 2337 lbs 
+ Maximum landing weight : 2337 lbs"
+Number of seats,"4 (2 at + 45.9, 2 at + 82.4) See Note 5 for rear seat occupancy"
+Maximum Baggage,"88 lbs at (+ 102.3) for aircraft up to S/N 399 and 413 
+ 143 lbs at (+ 102.3) from aircraft S/N 400"
+Fuel Capacity,"41.7 gal. (two 20.85 gal. at + 42.3; 40.2 gal. usable) 
+ or 
+ 55.4 gal. (two 27.7 gal. at + 42.3; 53.8 gal. usable) 
+ See Note 1 for weight and unusable fuel."
+Oil Capacity,"8.45 qt at (-23.8) (2.64 qt unusable) 
+ See Note 1 for weight."
+Control Surface Movements,"Stabilator (Angles reference: upper fuselage spar) 
+ Leading edge down 
+ 17o ± 1o 
+ Leading edge up 
+ 2o ± 1o 
+ Stabilator tab (angles reference: stabilizer chord) with stabilator leading edge full down. 
+ Tab trailing edge minimum up 
+ 2.5o ± 0.5o 
+ Tab trailing edge maximum up 
+ 17o ± 1.5o 
+ Ailerons (Reference: wing chord) 
+ up 15o ± 1.5o 
+ down 15o ± 1.5o 
+ Rudder (Reference: fin chord) 
+ Right and left 
+ 25o ± 2o 
+ Flaps (Reference: wing chord) 
+ - Aircraft up to S/N 878 except S/N 765 
+ + 0.5o 
+ Full flaps 
+ 32o 
+ - 1o 
+ - Aircraft from S/N 879 and S/N 765 
+ +0.5o 
+ Full flaps 
+ 25.5o 
+ -1o"
+"V. Model TB 200, 4 PCLM (Normal Category) approved September 14, 1992. Similar to the TB 20 but with fixed gear.",
+Engine,LYCOMING IO 360 A1B6
+Fuel,100 minimum octane aviation gasoline
+Engine Limits,"For all operations, 2700 r.p.m. (200 Hp)"
+Propeller and Propeller Limits,"HARTZELL constant speed 
+ HC-C2YK-1BF/F-7666 A-2 
+ Diameter: not over 74 in., not under 72 in. 
+ Pitch setting at 30 in., sta.: 
+ Low 13o30 
+ High 31o 
+ Spinner SOCATA TB 10.58.018.100, TB 10.58.018.104 or TB 1058.026.001 
+ WOODWARD governor A210776"
+Airspeed Limits IAS,"Never exceed 
+ 165 knots - 190 m.p.h. 
+ Maneuvering 
+ 122 knots - 142 m.p.h. 
+ Flaps extended 
+ 95 knots - 109 m.p.h."
+CG Range,"42.6 in to (+47.4) at 2535 lbs 
+ 39.8 in to (+47.4) at 2359 lbs 
+ 37.3 in to (+47.4) at 2138 lbs or less"
+Empty Weight CG Range,None
+Maximum Weight,Maximum take-off and landing weight: 2535 lbs
+Number of Seats,"4 (2 at +45.9, 2 at 82.4) See Note 5 for rear seat occupancy"
+Maximum Baggage,143 lbs at (+102.3)
+Fuel Capacity,"55.4 gal. (two 27.7 gal. at 42.3 ; 53.8 gal. usable) 
+ See Note 1 for weight and unusable fuel."
+Oil Capacity,"8.45 qt at (-23.8) (2.64 qt unusable) 
+ See Note 1 for weight"
+Control Surface Movements,"Stabilator (Angles reference: upper fuselage spar) 
+ Leading edge down 
+ 17o ± 1o 
+ Leading edge up 
+ 2o ± 1o 
+ Stabilator tab (angles reference: stabilizer chord) with stabilator leading edge full down. 
+ Tab trailing edge minimum up 
+ 2.5o ± 0.5o 
+ Tab trailing edge maximum up 
+ 17o ± 1.5o 
+ Ailerons (reference: wing chord) 
+ Up 
+ 15o ± 1.5 
+ Down 
+ 15o ± 1.5o 
+ Rudder (Reference: fin chord) 
+ Right and left 
+ 25o ± 2o 
+ Flaps (Reference: wing chord) 
+ + 0.5o 
+ Full flaps 
+ 25.5o 
+ - 1o"
+DATA PERTINENT TO ALL MODELS,
+Certification Basis,"Type Certification under 14 CFR Section 21-29 including the following requirements: 
+ TB 20 
+ - 14 CFR Part 23 effective February 1, 1965, including amendments 23-1 through 23-16. 
+ - 14 CFR Part 36 effective Dec 1, 1969, including amendments 36-1 through 36-11. 
+ Effective date of certification basis: November 2, 1975 
+ Date of U.S. application: April 5, 1982 
+ Type Certificate issued on January 27, 1984 
+ TB 10 
+ - 14 CFR Part 23 effective February 1, 1965, including amendments 23-1 through 23-16. 
+ - 14 CFR Part 36 effective Dec 1, 1969, including amendments 36-1 through 36-11. 
+ Effective date of certification basis: November 2, 1975 
+ Date of U.S. application: May 3, 1979 
+ Type Certificate issued on November 27, 1985. 
+ TB 21 
+ - 14 CFR Part 23 effective February 1, 1965, including amendments 23-1 through 23-16. 
+ - 14 CFR Part 36 effective Dec 1, 1969, including amendments 36-1 through 36-11. 
+ Effective date of certification basis: November 2, 1975 
+ Date of U.S. application: September 30, 1985 
+ Type Certificate issued on March 5, 1986. 
+ TB 9 
+ - 14 CFR Part 23 effective February 1, 1965, including amendments 23-1 through 23-16. 
+ - 14 CFR Part 36 effective Feb 17, 1987, including amendments 36-1 through 36-13. 
+ Effective date of certification basis: November 2, 1975 
+ Date of U.S. application: August 10, 1987 
+ Type Certificate issued on July 11, 1988."
+Certification Basis,"TB 200 
+ - 14 CFR Part 23 effective February 1, 1965, including amendments 23-1 through 23-16. 
+ - 14 CFR Part 36 effective Dec 1, 1969, including amendments 36-1 through 36-11. 
+ Effective date of certification basis: November 2, 1975 
+ Date of U.S. application: April 15, 1992. 
+ Type Certificate issued on September 14, 1992. 
+ The Direction Générale de l’Aviation Civile (DGAC) originally type certificated this 
+ aircraft under its type certificate Number 165. The FAA validated this product under U.S. 
+ Type Certificate Number A51EU. Effective September 28, 2003, the European Aviation 
+ Safety Agency (EASA) began oversight of this product on behalf of France."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on an NAA Export Certificate 
+ of Airworthiness (Export C of A) signed by a representative of the Direction Générale de 
+ l’Aviation Civile (DGAC) on behalf of the European Community. The Export C of A 
+ should contain the following statement: ‘The aircraft covered by this certificate has been 
+ examined, tested, and found to comply with U.S. airworthiness regulations 14 CFR Part 
+ 23 approved under U.S. Type Certificate No. A51EU and to be in a condition for safe 
+ operation.’ 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United 
+ States of both new and used aircraft based on the scope of the agreement, to identify any 
+ required statements by the exporting authority on the export certificate of airworthiness 
+ (or equivalent document), and for procedures for coordinating exceptions to conformity 
+ statements on these documents. Refer to FAA Order 8130.2, Airworthiness Certification 
+ of Aircraft, for requirements for issuance of an airworthiness certificate for imported 
+ aircraft."
+Serial Nos Eligible,"A certificate of Airworthiness for Export endorsed as noted under ""Import Requirements"" 
+ must be submitted for each individual aircraft for which application for U.S. Certification 
+ is made."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see certification basis) must be installed in the aircraft for certification. Approved 
+ equipment is listed as follows: 
+ TB20: 
+ 1) 
+ Aircraft up to S/N 947 except S/N 823 to 849 and 888 (14 volt electrical system) 
+ SOCATA Equipment List TB 20 BE/EQ No 91/81, Issue No 6 dated November 85 
+ or later version. 
+ 2) 
+ Aircraft from to S/N 948 and S/N 823 to 849 plus S/N 888 (28 volt electrical 
+ system) 
+ SOCATA Equipment List TB 20 NAV No 92/89, Issue No 1 dated MAY 89 or later 
+ version. 
+ TB10: 
+ 1) 
+ Aircraft up to S/N 947 (14 volt electrical system) SOCATA Equipment List TB 20 
+ BE/EQ No 74/79, Issue No 5 dated November 85 or later version. 
+ 2) 
+ Aircraft from S/N 948 (28 volt electrical system) SOCATA Equipment List TB 10 
+ NAV No 232/89, Issue No 1 dated November 89 or later version. 
+ TB21: 
+ 1) 
+ Aircraft from S/N 879 to 947 (14 volt electrical system) SOCATA Equipment List 
+ TB 21 BE/EQ No 142/85, Issue No 3 dated November 85 or later version. 
+ 2) 
+ Aircraft from S/N 948 (28 volt electrical system) SOCATA Equipment List TB 21 
+ NAV No 124/89, Issue No 1 dated August 89 or later version. 
+ TB9: 
+ 1) 
+ Aircraft up to 947 (14 volt electrical system) SOCATA Equipment List TB 9 NAV 
+ No 102/87, Issue No 1 dated May 87 or later version. 
+ 2) 
+ Aircraft from S/N 948 (28 volt electrical system) SOCATA Equipment List TB 10 
+ NAV No 232/89, Issue No 1 dated November 89 or later version. 
+ TB200: 
+ SOCATA Equipment List to TB 200 NAV No. 410/91 or later version. 
+ In addition, the following items of equipment are required 
+ Model TB 20 
+ (a) French DGAC approved Airplane Flight Manual or Pilot's Operating Handbook 
+ (1) Aircraft up to S/N 587 A.F.M. DGAC approved on December 14, 1983; 
+ edition 
+ 1 of December 1983 to edition 4A of December 1985 or 
+ (1.1) aircraft up to S/N 587 without kit 9118, P.O.H. DGAC approved on 
+ February 18, 1991; edition 3 of December 31, 1989 or; 
+ (1.2) aircraft up to S/N 587 with kit 9118, P.O.H. DGAC approved on 
+ February 18, 1991; edition 4 of January 31, 1990. 
+ (2) Aircraft from S/N 588 up to 730 A.F.M. DGAC approved on January 23, 
+ 1986; edition 5 of December 1985 or P.O.H. DGAC approved on February 18, 
+ 1991; edition 4 of January 31, 1990. 
+ (3) Aircraft from S/N 731 up to S/N 878 (except S/N 823 to 849) P.O.H. 
+ DGAC approved on April 21, 1987; edition 0 of December 31, 1986 or later 
+ approved revisions. 
+ (4) Aircraft from S/N 879 up to S/N 947 (except S/N 888) P.O.H. DGAC 
+ approved on January 31, 1989; edition 1 of January 31, 1988 or later 
+ approved revisions. 
+ (5) Aircraft S/N 823 to S/N 849, plus S/N 888, and from S/N 948 on: 
+ (5.1) P.O.H. DGAC approved on August 23, 1989; edition 2 of June 30, 1988 
+ or later approved revisions. 
+ (5.2) ""I.A.F"" version - P.O.H. DGAC approved on November 17, 1994; 
+ edition 2 of September 30, 1994. 
+ (6) Aircraft equipped with SOCATA option OPT10-61-001 must have Pilot's 
+ Operating Handbook Supplement 45, ""Three Bladed Propeller."" 
+ (b) Stall warning system, SOCATA Reference TB 10-61-017-000. 
+ Model TB 10 
+ (a) French DGAC approved Airplane Flight Manual or Pilot's Operating Handbook 
+ (1) Aircraft up to S/N 730 A.F.M. DGAC approved on November 1985; edition 1 
+ of January 1985 or A.F.M. DGAC approved on March 1986; edition 2 of 
+ March 1986 and 3 of May 1986 or P.O.H. DGAC approved on November 4, 
+ 1988; edition 0 of January 31, 1988 or later approved revisions. 
+ (2) Aircraft from S/N 731 up to S/N 822 except S/N 804, 807, 808 and S/N 816 up 
+ to 819, A.F.M. DGAC approved on March 1986; edition 4 of December 1986 
+ or P.O.H. DGAC approved on November 4, 1988; edition 1 of February 29, 
+ 1988 or later approved revisions. 
+ (3) Aircraft from S/N 823 to S/N 947 and S/N 804, 807, 808 and S/N 816 up to 
+ 819, P.O.H. DGAC approved on November 4, 1988; edition 2 of March 31, 
+ 1988 or later approved revisions. 
+ (4) Aircraft from S/N 948 P.O.H. DGAC approved on December 13, 1989; edition 
+ 3 of September 30, 1989. 
+ (b) Stall warning system, SOCATA Reference TB 10-61-017-000 
+ (c) Aileron-Rudder controls interconnection option No. 597 
+ Model TB 21 
+ (a) French DGAC approved Airplane Flight Manual or Pilot's Operating Handbook 
+ (1) Aircraft up to S/N 730, A.F.M. DGAC approved on November 1985; editions 
+ 1 of April 1985, to edition 3 of June 1986 or P.O.H. DGAC approved on 
+ February 18, 1991; edition 3 of December 31, 1989. 
+ (2) Aircraft from S/N 731 up to S/N 878, P.O.H. DGAC approved on April 21, 
+ 1987; edition 0 of December 31, 1986 or later approved revisions. 
+ (3) Aircraft from S/N 879 up to S/N 947, P.O.H. DGAC approved on June 2, 
+ 1989; edition 1 of January 31, 1988 
+ (4) Aircraft from S/N 948, P.O.H. DGAC approved on November 21, 1989; 
+ edition 2 of May 31, 1989 or later approved revisions. 
+ (5) Aircraft equipped with SOCATA option OPT10-61-001 must have Pilot's 
+ Operating Handbook Supplement 45, ""Three Bladed Propeller."" 
+ (b) Stall warning system, SOCATA Reference TB 10-61-017-000 
+ Model TB 9 
+ (a) French DGAC approved Airplane Flight Manual or Pilot's Operating Handbook 
+ (1) Aircraft from S/N 731 up to S/N 878, A.F.M. DGAC approved on May 16, 
+ 1988; edition 1bis of August 1987 or (except S/N 765) P.O.H. DGAC 
+ approved on April 6, 1989; edition 1 of February 29, 1988 or later approved 
+ revisions. 
+ (2) Aircraft from S/N 879 to 947 and S/N 765, P.O.H. DGAC approved on 
+ December 13, 1988; edition 2 of September 30, 1988 
+ (3) Aircraft from S/N 948, P.O.H. DGAC approved on February 02, 1990 edition 
+ 3 of September 30, 1989 
+ (4) Aircraft up to S/N 730, P.O.H. DGAC approved on September 5 1989; edition 
+ 0 of January 31, 1988, or later approved revisions. 
+ (5) Aircraft from S/N 1851 and from S/N 948 retrofitted with modification no. 
+ 139, P.O.H. DGAC approved on February 2001; edition 4 of December 31, 
+ 1997, revision 1 of October 31, 2000 or later approved revisions. 
+ (b) Stall warning system, SOCATA Reference TB 10-61-017-000 
+ (c) Aileron-Rudder controls interconnection option No. 597 
+ Model TB 200 
+ (a) French DGAC approved Airplane Flight Manual or Pilot's Operating Handbook. 
+ (b) Stall warning system, SOCATA Reference TB 10-61-017-000."
+Datum,Front face of firewall
+Leveling Means,Upper fuselage spar horizontal (Maintenance Manual Subchapter 15 of Chapter II)
+Service Information,"Each of the documents listed below must state that it is approved by the European 
+ Aviation Safety Agency (EASA) or – for approvals made before September 28, 2003 – 
+ by the Direction Générale de l’Aviation Civile (DGAC). 
+ • Service bulletins, 
+ • Structural repair manuals, 
+ • Vendor manuals, 
+ • Aircraft flight manuals, and 
+ • Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved unless one of the 
+ following conditions exists: 
+ • The documents change the limitations, performance, or procedures of the 
+ FAA approved manuals; or 
+ •The documents make an acoustical or emissions changes to this product’s U.S. 
+ type certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. The FAA 
+ may delegate on case-by-case to EASA to approve on behalf of the FAA for the U.S. type 
+ certificate. If this is the case it will be noted on the document."
+Note 1,"Current weight and balance report including list of equipment included in certificated 
+ empty weight and loading instructions when necessary must be provided for each aircraft 
+ at the time of original certification. 
+ Model TB 20 
+ The certificated empty weight and corresponding center of gravity location must include 
+ unusable fuel of 15.9 lb at (+ 42.7) and full oil of 24.8 lb at (-23.6). 
+ Model TB 10 
+ The certificated empty weight and corresponding center of gravity location must include 
+ unusable fuel of 9.5 lb at (+ 42.3) and full oil of 15.8 lbs at (-23.8). 
+ Model TB 21 
+ The certificated empty weight and corresponding center of gravity location must include 
+ unusable fuel of 15.9 lb at (+ 42.7) and full oil of 24.8 lbs at (-23.6). 
+ Model TB 9 
+ The certificated empty weight and corresponding center of gravity location must include 
+ unusable fuel of 9.5 lb at (+ 42.3) and full oil of 15.8 lbs at (- 23.8). 
+ Model TB 200 
+ The certificated empty weight and corresponding center of gravity location must include 
+ unusable fuel of 9.5 lb at (+42.3) and full oil of 15.8 lb at 
+ (-23.8)"
+Note 2,"Model TB 20 
+ a) 
+ The following placard must be displayed in front and in clear view of the pilot. 
+ 1) 
+ Aircraft up to S/N 587 and where modification No 50 has not been applied. 
+ ""This aircraft must be operated as a normal category airplane in compliance with the 
+ operating limitations stated in the form of placards, markings and manual."" 
+ Inverted flight 
+ Prohibited 
+ Acrobatic maneuvers 
+ Prohibited 
+ Intentional spins 
+ Prohibited 
+ Icing Conditions 
+ Prohibited 
+ Maximum weight 
+ 2943 lbs 
+ Maneuver speed VA 
+ 127 kt 
+ Never exceed speed VNE 
+ 189 kt 
+ Flaps extended speed VLE 
+ 100 kt 
+ Landing gear extended maximum speed VLE 
+ 140 kt 
+ Landing gear operating maximum speed VLO 
+ 130 kt 
+ Design positive load factor (Maximum) 
+ Flaps retracted 
+ + 3.8 
+ Flaps extended 
+ + 2 
+ 2) 
+ Aircraft from S/N 588 up to 878, except S/N 823 to 849, and those where 
+ modification No 50 has been applied. 
+ ""This airplane must be operated as a normal category airplane in compliance with the 
+ operating limitations stated in the form of placards, markings and flight manual."" 
+ Inverted flight 
+ Prohibited 
+ Acrobatic maneuvers 
+ Prohibited 
+ Intentional spins 
+ Prohibited 
+ Icing Conditions 
+ Prohibited 
+ Maximum take-off weight 
+ 3086 lbs 
+ Maximum computation weight and landing 
+ 2943 lbs 
+ Maneuver speed VA 
+ 129 kt 
+ Never exceed speed VNE 
+ 187 kt 
+ Flaps extended speed VFE 
+ 103 kt 
+ Landing gear extended maximum speed VLE 
+ 139 kt 
+ Landing gear operating maximum speed VLO 
+ 129 kt 
+ Design positive load factor (Maximum) 
+ Flaps retracted 
+ + 3.8 
+ Flaps extended 
+ + 2 
+ 3) Aircraft from S/N 879 
+ ""This airplane must be operated as a normal category airplane in compliance with the 
+ operating limitations stated in the form of placards, markings and flight manual."" 
+ Inverted Flight 
+ Prohibited 
+ Acrobatic Maneuvers 
+ Prohibited 
+ Intentional Spins 
+ Prohibited 
+ Icing Conditions 
+ Prohibited 
+ Maximum take-off and landing weight 
+ 3086 lbs 
+ Maneuver speed VA 
+ 129 kt 
+ Never exceed speed VNE 
+ 187 kt 
+ Flaps extended maximum speed VFE 
+ - Flaps ""take-off"" 
+ 129 kt 
+ - Flaps ""landing"" 
+ 103 kt 
+ Landing gear extended maximum speed VFE 
+ 139 kt 
+ Landing gear operating maximum speed VFE 
+ 129 kt 
+ Design positive load factor (maximum) 
+ - Flaps retracted 
+ + 3.8 
+ - Flaps extended 
+ + 2 
+ b) 
+ The following placard must be displayed on the baggage door: 
+ - Maximum weight: 110 lb or if modification No. 40 is applied 
+ 65 Kg - 143 lbs maximum 
+ For loading instructions see 
+ ""Weight and Balance Data"" in Flight Manual 
+ c) 
+ The following placard must be displayed on the fuel selector: 
+ Left tank 43.1 U.S. gal. usable 
+ OFF 
+ Right tank 43.1 U.S. gal. usable 
+ d) 
+ The following placard must be displayed on each tank: 
+ 100/130 octane or AVGAS 100 LL 
+ 43.1 U.S. gal. 
+ e) 
+ The following placard must be displayed on each rear window: 
+ In emergency, kick out here. 
+ Model TB 10 
+ a) 
+ The following placard must be displayed in front of and in clear view of the pilot. 
+ 1) 
+ Aircraft up to S/N 822, except S/N 804, 807, 808, and 816 to 819. 
+ ""The airplane must be operated as a normal and utility categories airplane in compliance 
+ with the operating limitations stated in the form of placards, markings and manuals."" 
+ Inverted flight 
+ Prohibited 
+ Acrobatic maneuvers in normal category 
+ Prohibited 
+ Intentional spins 
+ Prohibited 
+ Icing Conditions 
+ Prohibited 
+ Normal Category 
+ Maximum take-off weight 
+ 2535 lb 
+ Maximum landing weight 
+ 2407 lb 
+ Maneuver speed VA 
+ 122 kt 
+ Never exceed speed VNE 
+ 165 kt 
+ Flap extended speed VFE 
+ 95 kt 
+ Design limit load factor 
+ Flaps retracted 
+ + 3.8 
+ Flaps extended 
+ + 2 
+ Utility Category 
+ Maximum take-off weight 
+ 2359 lb 
+ Maximum landing weight 
+ 2359 lb 
+ Maneuver speed VA 
+ 122 kt 
+ Never exceed speed VNE 
+ 165 kt 
+ Flap extended speed VFE 
+ 95 kt 
+ Design limit load factor 
+ Flaps retracted 
+ + 4.4 
+ Flaps extended 
+ + 2 
+ Entry Speed 
+ Chandelles 
+ 135 kt 
+ Lazy eight 
+ 130 kt 
+ Steep turns 
+ 108 kt 
+ Stalls 
+ 2) Aircraft from S/N 823 and S/N 804, 807, 808 and 816 to 819. 
+ ""This airplane must be operated as a normal and utility categories airplane in compliance 
+ with the operating limitations stated in the form of placards, markings and manuals."" 
+ Inverted flight 
+ Prohibited 
+ Acrobatic maneuvers in normal category 
+ Prohibited 
+ Intentional spins 
+ Prohibited 
+ Icing conditions 
+ Prohibited 
+ Normal Category 
+ Maximum take-off and landing weight 
+ 2535 lbs 
+ Maneuver Speed VA 
+ 122 KIAS 
+ Never exceed speed VNE 
+ 165 KIAS 
+ Flap extended speed VFE 
+ 95 KIAS 
+ Design limit load factor 
+ Flaps retracted 
+ + 3.8 
+ Flaps extended 
+ + 2 
+ Utility Category 
+ Maximum take-off weight and landing weight 
+ 2359 lbs 
+ Maneuver speed VA 
+ 122 KIAS 
+ Never exceed speed VNE 
+ 165 KIAS 
+ Flap extended speed VFE 
+ 95 KIAS 
+ Design limit load factor 
+ Flaps retracted 
+ + 4.4 
+ Flaps extended 
+ + 2 
+ Entry Speed 
+ Chandelles 
+ 135 KIAS 
+ Lazy eight 
+ 130 KIAS 
+ Steep turn 
+ 108 KIAS 
+ Stall 
+ b) The following placard from the flight manual, (placard 2.12 (3)) must be displayed on 
+ the baggage door: 
+ Valid up to S / N 399 
+ MAX. 
+ MAX. 
+ 30 Kg 
+ 10 Kg 
+ 66 lbs 22 lbs 
+ Valid from S / N 400 
+ 65 kg - 143 lbs MAXIMUM 
+ FOR LOADING INSTRUCTIONS 
+ SEE ""WEIGHT AND BALANCE"" 
+ DATA IN FLIGHT MANUAL 
+ c) The following placard must be displayed on the fuel selector 
+ Left tank 26.9 U.S. gal. usable 
+ OFF 
+ Right tank 26.9 U.S. gal. usable 
+ d) The following placard must be displayed on each fuel tank 
+ 100/130 octane AVGAS 100 LL 
+ 26.9 U.S. gal. 
+ e) The following placard must be displayed on each rear window. 
+ In emergency, kick out here. 
+ Model TB 21 
+ a) The following placard must be displayed in front and in clear view of the pilot. 
+ 1) Aircraft up to S/N 878. 
+ ""This aircraft must be operated as a normal category airplane in compliance with the 
+ operating limitations stated in the form of placards, markings and flight manual."" 
+ Inverted flight 
+ Prohibited 
+ Acrobatic maneuvers 
+ Prohibited 
+ Intentional spins 
+ Prohibited 
+ Icing conditions 
+ Prohibited 
+ Maximum take-off weight 
+ 3086 lbs 
+ Maximum computation weight and landing 
+ 2943 lbs 
+ Maneuver speed VA 
+ 129 kt 
+ Never exceed speed VNE 
+ 187 kt 
+ Flaps extended speed VFE 
+ 103 kt 
+ Landing gear extended maximum speed VLE 
+ 139 kt 
+ Landing gear operating maximum speed VLO 
+ 129 kt 
+ Design positive load factor (Maximum) 
+ Flaps retracted 
+ + 3.8 
+ Flaps extended 
+ + 2 
+ 2) Aircraft from S/N 879 
+ ""This airplane must be operated as a normal category airplane in compliance with the 
+ operating limitations stated in the form of placards, markings and flight manual."" 
+ Inverted flight 
+ Prohibited 
+ Acrobatic maneuvers 
+ Prohibited 
+ Intentional spins 
+ Prohibited 
+ Icing conditions 
+ Prohibited 
+ Maximum take-off and landing weight 
+ 3086 lbs 
+ Maneuver speed VA 
+ 129 kt 
+ Never exceed speed VNE 
+ 187 kt 
+ Flaps extended speed VFE 
+ - Flaps ""TAKE-OFF"" 
+ 129 kt 
+ - Flaps ""LANDING"" 
+ 103 kt 
+ Landing gear extended maximum speed VLE 
+ 139 kt 
+ Landing gear operating maximum speed VLO 
+ 129 kt 
+ Design positive load factor (Maximum) 
+ Flaps retracted 
+ + 3.8 
+ Flaps extended 
+ + 2 
+ b) The following placard must be displayed on the baggage door: 
+ 65 Kg - 143 lb maximum 
+ For loading instructions see 
+ ""Weight and Balance Data"" in Flight Manual 
+ c) The following placard must be displayed on the fuel selector: 
+ Left tank 43.1 U.S. gal. usable 
+ OFF 
+ Right tank 43.1 U.S. gal. usable 
+ d) The following placard must be displayed on each tank: 
+ 100/130 octane AVGAS 100 LL 
+ 43.1 U.S. gal. 
+ e) The following placard must be displayed on each rear window: 
+ In emergency, kick out here. 
+ Model TB 9 
+ a) The following placard must be displayed in front of and in clear view of the pilot. 
+ ""This aircraft must be flown in utility category in accordance with the placards, markings 
+ and Flight Manual."" 
+ Inverted Flight 
+ Prohibited 
+ Acrobatic Maneuvers 
+ Prohibited (except as noted below) 
+ Intentional Spins 
+ Prohibited 
+ Icing Conditions 
+ Prohibited 
+ Maximum Weight 
+ 2337 lbs 
+ Maneuvering speed VA 
+ 122 KIAS 
+ Never Exceed VNE 
+ 165 KIAS 
+ Flap Extended Speed VFE 
+ 95 KIAS 
+ Design Limit Load Factor : 
+ Flaps retracted 
+ - 1.8 to + 4.4 
+ Flaps extended 
+ 0 to + 2 
+ The following acrobatic maneuvers are permitted in utility category. 
+ Entry Speed 
+ Chandelles 
+ 130 KIAS 
+ Lazy Eight 
+ 124 KIAS 
+ Steep Turns 
+ 108 KIAS 
+ Stalls 
+ b) The following placard must be displayed on the baggage door: 
+ 65 Kg - 143 lb maximum 
+ For loading instructions see 
+ ""Weight and Balance Data"" in Flight Manual 
+ c) The following placard must be displayed on the fuel selector 
+ Left tank 20.1 U.S. gal. usable 
+ OFF 
+ Right tank 20.1 U.S. gal. usable 
+ or 
+ Left tank 26.9 U.S. gal. usable 
+ OFF 
+ Right tank 26.9 U.S. gal. usable 
+ d) The following placard must be displayed on each fuel tank 
+ 100/130 octane AVGAS 100 LL 
+ 26.9 U.S. gal. 
+ or 
+ 100/130 octane AVGAS 100 LL 
+ 20.1 U.S. gal. 
+ e) The following placard must be displayed on each rear window. 
+ In emergency, kick out here. 
+ Model TB 200 
+ a) The following placard must be displayed in front of and in clear view of the pilot. 
+ ""This airplane must be operated as a normal and utility categories airplane in compliance 
+ with the operating limitations stated in the form of placards, markings and manuals."" 
+ Inverted flight 
+ Prohibited 
+ Acrobatic maneuvers 
+ Prohibited 
+ Intentional spins 
+ Prohibited 
+ Icing conditions 
+ Prohibited 
+ Maximum take-off and landing weight 
+ 2535 lb 
+ Maneuver speed VA 
+ 122 kt 
+ Never exceed speed VNE 
+ 165 kt 
+ Flap extended speed VFE 
+ 95 kt 
+ Design limit load factor 
+ Flap retracted 
+ + 3.8 and - 1.5 
+ Flap extended 
+ + 2 and 0 
+ b) The following placard must be displayed on the baggage door: 
+ 65 Kg - 143 lb maximum 
+ For loading instructions see 
+ ""weight and balance Data"" in Flight Manual 
+ c) The following placard must be displayed on the fuel selector 
+ Left tank 26.9 U.S. gal. usable 
+ OFF 
+ Right tank 26.9 U.S. gal. usable 
+ d) The following placard must be displayed on each fuel tank 
+ 100/130 octane AVGAS 100 LL 
+ 26.9 U.S. gal. 
+ e) The following placard must be displayed on each rear window. 
+ In emergency, kick out here."
+Note 3,"Service Life Limits 
+ Information with respect to service life limited parts is contained in the applicable 
+ manufacturer's Maintenance Manual, chapter 4 DGAC approved: 
+ TB10: 
+ Maintenance Manual TB10 revision 4 dated April 1995 DGAC approved on 
+ June 11, 1996, and later approved revisions. 
+ TB9: 
+ Maintenance Manual TB9 revision 4 dated April 1995 DGAC approved on 
+ June 11, 1996, and later approved revisions. 
+ TB20: 
+ Maintenance Manual TB20 revision 4 dated April 1995 DGAC approved on 
+ June 11, 1996, and later approved revisions. 
+ TB21: 
+ Maintenance Manual TB21 revision 4 dated April 1995 DGAC approved on 
+ March 4, 1996, and later approved revisions. 
+ TB200: Maintenance Manual TB21 revision 4 dated April 1995 DGAC approved on 
+ June 11, 1996, and later approved revisions."
+Note 4,"Information essential for the proper maintenance of the airplane is contained in the 
+ SOCATA Maintenance Manual."
+Note 5,"Model TB 20 
+ Rear seat may be fitted out with three seats: 
+ a) The rear seat is equipped with three separate safety belts in accordance SOCATA 
+ option No. 502 
+ b) Weight and C.G. position are within limits. 
+ c) 3 seats at + 80.1 
+ Model TB 10 
+ Rear seat may be fitted out with three seats: 
+ a) The rear seat is equipped with three separate safety belts in accordance SOCATA 
+ option No. 502 
+ b) The total weight on the rear seats is under 454 lbs 
+ c) Weight and C.G. position are within limits 
+ d) 3 seats at + 80.1 
+ Model TB 21 
+ Rear seat may be fitted out with three seats: 
+ a) The rear seat is equipped with three safety belts in accordance SOCATA option No. 
+ 502 
+ b) Weight and C.G. position are within limits 
+ c) 3 seats at + 80.1 
+ Model TB 9 
+ Rear seat may be fitted out with three seats: 
+ a) The rear seat is equipped with three separate safety belts in accordance SOCATA 
+ option No. 502 
+ b) The total weight on the rear seats is under 386 lbs 
+ c) Weight and C.G. position are within limits 
+ d) 3 seats at + 80.1 
+ Model TB 200 
+ Rear seat may be fitted out with three seats: 
+ a) The rear seat is equipped with three separate safety belts in accordance SOCATA 
+ option No. 502 
+ b) The total weight on the rear seats is under 454 lb 
+ c) Weight and C.G. position are within limits 
+ d) 3 seats at + 80.1"

@@ -1,0 +1,658 @@
+Keyterm,Info
+A00002AC,
+Revision 22,
+"Eclipse Aerospace 
+ EA500 
+ January 7, 2021",
+Type Certificate Holder,"Eclipse Aerospace, Inc. 
+ 43W514 US Route 30 
+ Sugar Grove, IL 60554"
+Type Certificate Holder Record,"Eclipse Aerospace, Inc (a subsidiary of ONE Aviation) transferred ownership to 
+ Eclipse Aerospace, Inc. (a subsidiary of AML Global Eclipse), retaining the same 
+ address, on December 8, 2020. 
+ …… Eclipse Aviation Corporation transferred ownership to Eclipse Aerospace, Inc., 
+ retaining the same address, on September 30, 2009."
+,Type Certificate originally issued to Eclipse Aviation Corporation on
+,"September 30, 2006."
+"I. Model EA500, (Eclipse 500) (Normal Category), Approved September 30, 2006 (Serial Numbers 000001 through 
+ 000038",
+Engines,"Two Pratt & Whitney Canada PW610F-A, 
+ Type Certificate Data Sheet (TCDS) E00074EN"
+Fuel,"JET A and Jet A-1 per ASTM D 1655; JP-8 per MIL-T-83133 
+ Fuels not containing icing inhibitors must have MIL-I-27686, MIL-I-85470, or Phillips PFA- 
+ 55MB fuel system icing inhibitors blended into the aircraft fuel at concentrations not less than 
+ 0.10% but no more than 0.15% by volume. The minimum fuel icing inhibitor content during 
+ refueling is 0.10% by volume."
+Engine Limits,"N1(%) 
+ N2(%) 
+ MAX ITT (°C) 
+ Time Limit 
+ Maximum Take-off 
+ 102 
+ 100 
+ 795 
+ 5 minutes 
+ Max. Continuous 
+ 102 
+ 100 
+ 795 
+ Continuous 
+ APR 
+ 102 
+ 100 
+ 795 
+ 10 minutes 
+ Transient 
+ 103 
+ 102 
+ 850 
+ 20 seconds"
+Airspeed Limits,"Vo 
+ Maximum Operating Maneuvering Speed 
+ 180 KEAS 
+ VMO 
+ Maximum Operating Airspeed 
+ 275 KEAS 
+ MMO 
+ Maximum Operating Mach 
+ 0.64 M 
+ VFE (Flap T/O) 
+ Maximum Flap Extended Speed 
+ 200 KEAS 
+ VFE (Flap LDG) 
+ Maximum Flap Extended Speed 
+ 120 KEAS 
+ VLO 
+ Maximum Landing Gear Operating Speed 
+ 200 KEAS 
+ VLE 
+ Maximum Landing Gear Extended Speed 
+ 275 KEAS 
+ Maximum tire ground speed 
+ 139 KNOTS"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11"
+Rev No,"21 
+ 21 
+ 21 
+ 4 
+ 1 
+ 7 
+ 18 
+ 21 
+ 19 
+ 20 
+ 21 
+ Rev 19: Oil Capacity, added “see AFM for recommended oil types”; Changed to Part 36 Amdmt 36-28; Note 2, added “See AFM for"
+Center of Gravity CG Range,"Forward limits: 195.65 inches aft of datum up to 4,910 lbs with a straight line taper to 197.5 
+ inches at 5,760 lbs. 
+ Aft Limits: 203.25 inches aft of datum up to 5,509 lbs with a straight line taper to 200.0 
+ inches at 5,760 lbs."
+Minimum Crew,"1 Pilot plus required equipment as specified in the FAA Approved Airplane Flight Manual 
+ (AFM)"
+Maximum Weights,"Max. Ramp 
+ 5,800 lbs 
+ Max. Takeoff 
+ 5,760 lbs 
+ Max. Landing 
+ 5,415 lbs 
+ Max. Zero Fuel 
+ 4,860 lbs"
+Number of Seats,"6 Max (Includes pilot and crew); Refer to the FAA Approved Airplane Flight Manual (AFM), 
+ Document No. 06-100106, revision 4, dated December 13, 2007 or later FAA approved 
+ revision, reference Section 6 for seat configurations and moment arms."
+Maximum Compartments,"260 lbs; 1 compartment, moment arm 217.92 inches aft of datum"
+Weights,"Baggage Compartment floor loading is 100 lb/ft2 
+ Cabin floor loading is 80 lb/ft2"
+Fuel Capacity,"227.5 gallons (USG) total; 224 gallons (USG) usable; 
+ 3.5 gallons (USG) unusable 
+ Moment arm 198 inches aft of datum"
+Oil Capacity,6.48 quarts (USQ) total per engine; 1.15 quarts (USQ) usable per engine
+Maximum Operating,"Takeoff 10,000 ft MSL"
+Altitude,"Operating 41,000 ft MSL"
+Control Surface Movements,"Elevator 
+ UP 
+ 25°± 0.5° 
+ DOWN 
+ 15°± 0.5° 
+ Elevator Trim 
+ Tab 
+ UP 
+ 20.0° ± 1.0° 
+ DOWN 
+ 20.0° ± 1.0° 
+ Ailerons 
+ UP 
+ 15.5° + 0.5°/-0.2° DOWN 
+ 11.6°+ 0.5°/-0.2° 
+ Aileron Trim 
+ UP 
+ 5.4° ± 0.3° 
+ DOWN 
+ 4.8° ± 0.3° 
+ Rudder 
+ LEFT 
+ 30° ± 0.5° 
+ RIGHT 
+ 30° ± 0.5° 
+ Rudder Trim 
+ Tab 
+ LEFT 
+ 20.0° ± 1.0° 
+ RIGHT 
+ 20.0° ± 1.0° 
+ Flaps 
+ Cruise 
+ 0° ± 0.5° 
+ Takeoff 16.8° ± 0.5° 
+ Landing 33.8° ± 1.0° 
+ For serial numbers 000039 through 000104, 000113 through 000115, 000120 and 000123 through 000124. 
+ For serial numbers 000001 through 000038 which incorporate Eclipse FAA approved Service Bulletin, SB 500-99-"
+Engines,"Two Pratt & Whitney Canada PW610F-A, 
+ Type Certificate Data Sheet (TCDS) E00074EN"
+Fuel,"JET A and Jet A-1 per ASTM D 1655; JP-8 per MIL-T-83133 
+ Fuels not containing icing inhibitors must have MIL-I-27686, MIL-I-85470, or Phillips PFA- 
+ 55MB fuel system icing inhibitors blended into the aircraft fuel at concentrations not less than 
+ 0.10% but no more than 0.15% by volume. The minimum fuel icing inhibitor content during 
+ refueling is 0.10% by volume."
+Engine Limits,"N1(%) 
+ N2(%) 
+ MAX ITT (°C) 
+ Time Limit 
+ Maximum Take-off 
+ 102 
+ 100 
+ 795 
+ 5 minutes 
+ Max. Continuous 
+ 102 
+ 100 
+ 795 
+ Continuous 
+ APR 
+ 102 
+ 100 
+ 795 
+ 10 minutes 
+ Transient 
+ 103 
+ 102 
+ 850 
+ 20 seconds"
+Airspeed Limits,"Vo 
+ Maximum Operating Maneuvering Speed 
+ 180 KEAS 
+ VMO 
+ Maximum Operating Airspeed 
+ 285 KEAS 
+ MMO 
+ Maximum Operating Mach 
+ 0.64 M 
+ VFE (Flap T/O) 
+ Maximum Flap Extended Speed 
+ 200 KEAS 
+ VFE (Flap LDG) 
+ Maximum Flap Extended Speed 
+ 120 KEAS 
+ VLO 
+ Maximum Landing Gear Operating Speed 
+ 200 KEAS 
+ VLE 
+ Maximum Landing Gear Extended Speed 
+ 285 KEAS 
+ Maximum tire ground speed 
+ 139 KNOTS"
+Center of Gravity CG Range,"Forward limits: 195.65 inches aft of datum up to 4,922 lbs with a straight line taper to 197.91 
+ inches at 5,995 lbs. 
+ Aft Limits: 204.37 inches aft of datum up to 5,461 lbs with a straight line taper to 199.74 
+ inches at 5,995 lbs."
+Maximum Weights,"Max. Ramp 
+ 6,029 lbs 
+ Max. Takeoff 
+ 5,995 lbs 
+ Max. Landing 
+ 5,600 lbs 
+ Max. Zero Fuel 
+ 4,922 lbs"
+Minimum Crew,"1 Pilot plus required equipment as specified in the FAA Approved Airplane Flight Manual 
+ (AFM)"
+Number of Seats,"6 Max (Includes pilot and crew); Refer to the FAA Approved Airplane Flight Manual (AFM), 
+ Document No. 06-121654, revision 1, dated January 28, 2008 or later FAA approved revision, 
+ reference Section 6 for seat configurations and moment arms."
+Maximum Compartments,"260 lbs; 1 compartment, moment arm 217.92 inches aft of datum"
+Weights,"Baggage Compartment floor loading is 100 lb/ft2 
+ Cabin floor loading is 80 lb/ft2"
+Fuel Capacity,"254.4 gallons (USG) total; 250.9 gallons (USG) usable; 
+ 3.5 gallons (USG) unusable 
+ Moment arm 198 inches aft of datum"
+Oil Capacity,6.088 quarts (USQ) total per engine; 0.832 quarts (USQ) usable per engine
+Maximum Operating,"Takeoff 10,000 ft MSL"
+Altitude,"Operating 41,000 ft MSL"
+Control Surface Movements,"Elevator 
+ UP 
+ 25°± 0.5° 
+ DOWN 
+ 15°± 0.5° 
+ Elevator Trim 
+ Tab 
+ UP 
+ 4.1° ± 1.0° 
+ DOWN 
+ 20.0° ± 1.0° 
+ Ailerons 
+ UP 
+ 15.5° + 0.5°/-0.2° DOWN 
+ 11.6°+ 0.5°/-0.2° 
+ Aileron Trim 
+ UP 
+ 5.4° ± 0.3° 
+ DOWN 
+ 4.8° ± 0.3° 
+ Rudder 
+ LEFT 
+ 30° ± 0.5° 
+ RIGHT 
+ 30° ± 0.5° 
+ Rudder Trim 
+ Tab 
+ LEFT 
+ 20.0° ± 1.0° 
+ RIGHT 
+ 20.0° ± 1.0° 
+ Flaps 
+ Cruise 
+ 0° ± 0.5° 
+ Takeoff 
+ 16.8° ± 0.5° 
+ Landing 
+ 33.8° ± 1.0° 
+ For serial numbers 000105 through 000112, 000116 through 000119, 000121 through 000122, 000125 through 000262, 
+ and serial numbers 550-0263 through 550-0265. 
+ For serial numbers 000001 through 000104, 000113 through 000115, 000120 and 000123 through 000124, which 
+ incorporate Eclipse FAA approved Service Bulletin, SB 500-99-002. 
+ Note: SB 500-99-002 requires the incorporation of Eclipse FAA approved Service Bulletin, SB 500-99-001 for"
+Engines,"Two Pratt & Whitney Canada PW610F-A, 
+ Type Certificate Data Sheet (TCDS) E00074EN"
+Fuel,"JET A and Jet A-1 per ASTM D 1655; JP-8 per MIL-T-83133 
+ Fuels not containing icing inhibitors must have MIL-I-27686, MIL-I-85470, or Phillips PFA- 
+ 55MB fuel system icing inhibitors blended into the aircraft fuel at concentrations not less than 
+ 0.10% but no more than 0.15% by volume. The minimum fuel icing inhibitor content during 
+ refueling is 0.10% by volume."
+Engine Limits,"N1(%) 
+ N2(%) 
+ MAX ITT (°C) 
+ Time Limit 
+ Maximum Take-off 
+ 102 
+ 100 
+ 795 
+ 5 minutes 
+ Max. Continuous 
+ 102 
+ 100 
+ 795 
+ Continuous 
+ APR 
+ 102 
+ 100 
+ 795 
+ 10 minutes 
+ Transient 
+ 103 
+ 102 
+ 850 
+ 20 seconds"
+Airspeed Limits,"Vo 
+ Maximum Operating Maneuvering Speed 
+ 180 KEAS 
+ VMO 
+ Maximum Operating Airspeed 
+ 285 KEAS 
+ MMO 
+ Maximum Operating Mach 0.64 M 
+ VFE (Flap T/O) 
+ Maximum Flap Extended Speed 
+ 200 KEAS 
+ VFE (Flap LDG) 
+ Maximum Flap Extended Speed 
+ 120 KEAS 
+ VLO 
+ Maximum Landing Gear Operating Speed 200 KEAS 
+ VLE 
+ Maximum Landing Gear Extended Speed 
+ 285 KEAS 
+ Maximum tire ground speed 
+ 139 KNOTS 
+ Minimum Airspeed Icing conditions (applicable if SB 500-99-004 is 
+ 165 KEAS 
+ incorporated)"
+Center of Gravity CG Range,"Forward limits: 195.65 inches aft of datum up to 4,922 lbs with a straight line taper to 197.91 
+ inches at 5,995 lbs. 
+ Aft Limits: 204.37 inches aft of datum up to 5,461 lbs with a straight line taper to 199.74 
+ inches at 5,995 lbs."
+Maximum Weights,"Max. Ramp 
+ 6,029 lbs 
+ Max. Takeoff 
+ 5,995 lbs 
+ Max. Landing 
+ 5,600 lbs 
+ Max. Zero Fuel 
+ 4,922 lbs"
+Minimum Crew,"1 Pilot plus required equipment as specified in the FAA Approved Airplane Flight Manual 
+ (AFM)"
+Number of Seats,"6 Max (Includes pilot and crew); Refer to the FAA Approved Airplane Flight Manual (AFM), 
+ Document No. 06-122204, revision 4, dated July 23, 2012 or later FAA approved revision, 
+ reference Section 6 for seat configurations and moment arms."
+Maximum Compartments,"260 lbs; 1 compartment, moment arm 217.92 inches aft of datum"
+Weights,"Baggage Compartment floor loading is 100 lb/ft2 
+ Cabin floor loading is 80 lb/ft2"
+Fuel Capacity,"254.4 gallons (USG) total; 250.9 gallons (USG) usable; 
+ 3.5 gallons (USG) unusable 
+ Moment arm 198 inches aft of datum"
+Oil Capacity,6.088 quarts (USQ) total per engine; 0.832 quarts (USQ) usable per engine
+Maximum Operating,"Takeoff 10,000 ft MSL"
+Altitude,"Operating 41,000 ft MSL"
+Control Surface Movements,"Elevator 
+ UP 
+ 25°± 0.5° 
+ DOWN 
+ 15°± 0.5° 
+ Elevator Trim 
+ Tab 
+ UP 
+ 4.1° ± 1.0° 
+ DOWN 
+ 20.0° ± 1.0° 
+ Ailerons 
+ UP 
+ 15.5° + 0.5°/-0.2° DOWN 
+ 11.6°+ 0.5°/-0.2° 
+ Aileron Trim 
+ UP 
+ 5.4° ± 0.3° 
+ DOWN 
+ 4.8° ± 0.3° 
+ Rudder 
+ LEFT 
+ 30° ± 0.5° 
+ RIGHT 
+ 30° ± 0.5° 
+ Rudder Trim 
+ Tab 
+ LEFT 
+ 20.0° ± 1.0° 
+ RIGHT 
+ 20.0° ± 1.0° 
+ Flaps 
+ Cruise 
+ 0° ± 0.5° 
+ Takeoff 
+ 16.8° ± 0.5° 
+ Landing 
+ 33.8° ± 1.0° 
+ For serial numbers 000266, 000267 and serial numbers 550-0268 through 550-0280, 550-0282 through 550-0284, and"
+5501001 and up,"For serial numbers 000001 through 000262 and serial numbers 550-0263 through 550-0265 which incorporate 
+ Eclipse FAA approved Service Bulletin, SB 500-99-005. 
+ For serial numbers 000001 through 000262, 000266 and 000267, which incorporate Eclipse FAA Approved 
+ Modification Bulletin, MB 500-99-001 or MB 500-99-002. 
+ For serial numbers 550-0280, 550-0282 through 550-0284 which incorporate Eclipse Modification Bulletin, MB 500-"
+20001,"For serial numbers 550-1002 and up which incorporate Eclipse Modification Bulletin, MB 550-20-002. 
+ Note: SB 500-99-005 requires the incorporation of Eclipse FAA approved Service Bulletins, SB 500-99-001, SB 500- 
+ 99-002, and SB 500-99-004 for affected aircraft."
+Engines,"Two Pratt & Whitney Canada PW610F-A, 
+ Type Certificate Data Sheet (TCDS) E00074EN"
+Fuel,"JET A and Jet A-1 per ASTM D 1655; JP-8 per MIL-T-83133 
+ Fuels not containing icing inhibitors must have MIL-I-27686, MIL-I-85470, or Phillips PFA- 
+ 55MB fuel system icing inhibitors blended into the aircraft fuel at concentrations not less than 
+ 0.10% but no more than 0.15% by volume. The minimum fuel icing inhibitor content during 
+ refueling is 0.10% by volume."
+Engine Limits,"N1(%) 
+ N2(%) 
+ MAX ITT (°C) 
+ Time Limit 
+ Maximum Take-off 
+ 102 
+ 100 
+ 795 
+ 5 minutes 
+ Max. Continuous 
+ 102 
+ 100 
+ 795 
+ Continuous 
+ APR 
+ 102 
+ 100 
+ 795 
+ 10 minutes 
+ Transient 
+ 103 
+ 102 
+ 850 
+ 20 seconds"
+Airspeed Limits,"Vo 
+ Maximum Operating Maneuvering Speed 
+ 180 KEAS 
+ VMO 
+ Maximum Operating Airspeed 
+ 285 KEAS 
+ MMO 
+ Maximum Operating Mach 
+ 0.64 M 
+ VFE (Flap T/O) 
+ Maximum Flap Extended Speed 
+ 200 KEAS 
+ VFE (Flap LDG) 
+ Maximum Flap Extended Speed 
+ 140 KEAS* 
+ VLO 
+ Maximum Landing Gear Operating Speed 
+ 200 KEAS 
+ VLE 
+ Maximum Landing Gear Extended Speed 
+ 285 KEAS 
+ Maximum Tire Ground Speed 
+ 139 KNOTS 
+ Minimum Airspeed in Icing Conditions 
+ 165 KEAS * 
+ *For serial numbers 550-0280, 550-0282 through 550-0284 and 550-1002 and up: 
+ VFE (Flap LDG), Maximum Flap Extended Speed, 120 KEAS and Minimum Airspeed in Icing Conditions, 165 
+ KEAS (unless MB 500-20-001 or MB 550-20-002 is incorporated, as applicable)"
+Center of Gravity CG Range,"Forward limits: 195.65 inches aft of datum up to 4,922 lbs with a straight line taper to 
+ 197.91 inches at 6,000 lbs. 
+ Aft Limits: 204.37 inches aft of datum up to 5,461 lbs with a straight line taper to 199.70 
+ inches at 6,000 lbs."
+Maximum Weights,"Max. Ramp 
+ 6,034 lbs 
+ Max. Takeoff 
+ 6,000 lbs 
+ Max. Landing 
+ 5,600 lbs 
+ Max. Zero Fuel 
+ 4,922 lbs"
+Minimum Crew,"1 Pilot plus required equipment as specified in the FAA Approved Airplane Flight Manual 
+ (AFM)"
+Number of Seats,"6 Max (Includes pilot and crew); Refer to the FAA Approved Airplane Flight Manual (AFM), 
+ (Document No. 06-122204, revision 4, dated July 23, 2012 or later FAA approved revision; or 
+ Document No. 06-123844, revision 1, dated September 18, 2015 or later FAA approved 
+ revision; or Document No. 06-123841, revision 0, dated June 10, 2014 or later FAA approved 
+ revision) reference Section 6 for seat configurations and moment arms."
+Maximum Compartments,"260 lbs; 1 compartment, moment arm 217.92 inches aft of datum"
+Weights,"Baggage Compartment floor loading is 100 lb/ft2 
+ Cabin floor loading is 80 lb/ft2"
+Fuel Capacity,"254.4 gallons (USG) total; 250.9 gallons (USG) usable; 
+ 3.5 gallons (USG) unusable 
+ Moment arm 198 inches aft of datum"
+Oil Capacity,"6.088 quarts (USQ) total per engine; 0.832 quarts (USQ) usable per engine (see AFM for 
+ recommended oil types)"
+Maximum Operating,"Takeoff 10,000 ft MSL"
+Altitude,"Operating 41,000 ft MSL"
+Control Surface Movements,"Elevator 
+ UP 
+ 25°± 0.5° 
+ DOWN 
+ 15°± 0.5° 
+ Elevator Trim 
+ Tab 
+ UP 
+ 4.1° ± 1.0° 
+ DOWN 
+ 20.0° ± 1.0° 
+ Ailerons 
+ UP 
+ 15.5° + 0.5°/-0.2° DOWN 
+ 11.6°+ 0.5°/-0.2° 
+ Aileron Trim 
+ UP 
+ 5.4° ± 0.3° 
+ DOWN 
+ 4.8° ± 0.3° 
+ Rudder 
+ LEFT 
+ 30° ± 0.5° 
+ RIGHT 
+ 30° ± 0.5° 
+ Rudder Trim 
+ Tab 
+ LEFT 
+ 20.0° ± 1.0° 
+ RIGHT 
+ 20.0° ± 1.0° 
+ Flaps 
+ Cruise 
+ 0° ± 0.5° 
+ Takeoff 
+ 16.8° ± 0.5° 
+ Landing 
+ 33.8° ± 1.0°"
+Data Pertinent to All Models and Effectivities,
+Datum,Is located 23.25 inches forward of the nose radome.
+Leveling Means,"Laterally: Forward edge of the baggage compartment floor 
+ Longitudinally: Left hand outboard seat track in front of the main cabin door"
+Certification Basis,"14 CFR Part 23 through Amendment 55 (except 14 CFR 23.1303 Amendment 23-62), Part 34 
+ through Amendment 34-3, and Part 36 through Amendment 36-28. 
+ Special Conditions: 
+ 23-128-SC for Engine Fire Extinguishing System 
+ 23-121-SC for Electronic Engine Control System 
+ 23-112A-SC for High Intensity Radiated Fields (HIRF) Protection 
+ 23-13-01-SC for Autothrottle Functions 
+ Equivalent Levels of Safety Findings: 
+ ACE-02-19: 14 CFR §§ 23.777(d) and 23.781 Fuel Cutoff Control 
+ ACE-05-32: 14 CFR §§ 23.1545(a) and 23.1581(d) for Indicated Airspeeds 
+ ACE-05-34: 14 CFR §23.181(b), Dynamic Stability 
+ ACE-05-35: 14 CFR §23.1353(h), Storage Battery Design and Installation 
+ ACE-05-36: 14 CFR §23.1323(c), Airspeed Indicating System 
+ ACE-06-01: 14 CFR § 23.1545(b)(4), Airspeed Indicator 
+ ACE-06-05: 14 CFR 23, Appendix H, § H23.5, Installation of an Automatic Power 
+ Reserve System 
+ ACE-07-04: 14 CFR § 23.1545(b)(4), Airspeed Indicator 
+ ACE-08-12, 14 CFR §§ 23.201(b)(2) Wings Level Stall, and 23.203(a), Turning Flight 
+ and Accelerated Turning Stalls for flight into known icing (FIKI) 
+ Exemptions: 
+ None 
+ Icing Approval: Serial numbers 000266, 000267, serial numbers 550-0268 through 550-0280, 
+ 550-0282 through 550-0284, and 550-1001 and up are approved for flight into known or 
+ forecast icing. Serial numbers 000001 through 000262, and 550-0263 through 550-0265 
+ which incorporate Eclipse FAA approved Service Bulletin SB 500-99-005, are approved for 
+ flight into known or forecast icing. 
+ Note: For serial numbers 550-0280, 550-0282 through 550-0284 which incorporate 
+ Eclipse Modification Bulletin, MB 500-20-001. Aircraft serial numbers 550-1002 and up 
+ without exterior finish, which incorporate MB 550-20-002. 
+ Compliance with optional ditching provisions has not been established. 
+ Type Certificate: A00002AC, issued September 30, 2006 
+ Date of application: July 12, 2001 
+ Model EA500 is defined by Eclipse drawing 06-102100-1002 for serial numbers: 000001 
+ through 000262, 000266, 000267, 550-0263 through 550-0265, 550-0268 through 550-0280, 
+ 550-0282 through 550-0284. 
+ Model EA500 is defined by Eclipse drawing 06-500550-1001 for serial numbers: 550-1001 
+ and up."
+Production Basis,"The following Serial Numbers were produced under Type Certificate only: 000001 through 
+ 000011, 000261 through 000262, 000266 and 000267. 
+ Serial Numbers 000012 through 000260 were produced under Production Certificate No. 500 
+ issued April 26, 2007. 
+ Serial Numbers 550-0263 through 550-0265, 550-0268 through 550-0280, 550-0282 through 
+ 550-0284, and 550-1001 and up were produced under Production Certificate No. 550SW 
+ issued March 22, 2013."
+Serial Numbers,"Aircraft Serial Numbers 000001 through 000260 manufactured by Eclipse Aviation 
+ Corporation are eligible. 
+ Aircraft Serial Numbers 000261 through 000262, 000266, 000267, 550-0263 through 550- 
+ 0265, 550-0268 through 550-0280, 550-0282 through 550-0284, and 550-1001 and up 
+ manufactured by Eclipse Aerospace Incorporated are eligible."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see 
+ Certification Basis) must be installed in the aircraft for certification."
+Note 1,"A current weight and balance report, including a list of equipment included in the certificated 
+ empty weight, and loading instructions when necessary must be provided for each aircraft at 
+ the time of original certification."
+Note 2,"The Model EA500 must be operated according to the FAA approved Airplane Flight Manual 
+ (AFM), Document No. 06-100106, latest FAA approved revision or 06-121654, latest FAA 
+ approved revision, or 06-122204, latest FAA approved revision, or 06-123841, latest FAA 
+ approved revision. See AFM for Operating Limitations. 
+ For serial numbers 550-0263 through 550-0265, 550-0268 through 550-0280, 550-0282 
+ through 550-0284 which incorporate Eclipse FAA approved Modification Bulletin, MB 550- 
+ 99-001 and 550-1001 and up, the Model EA500 must be operated according to the FAA 
+ approved Airplane Flight Manual (AFM), Document No. 06-123841, latest FAA approved 
+ revision. See AFM for Operating Limitations. 
+ For serial numbers 000001 through 000262, 000266 and 000267, which incorporate Eclipse 
+ FAA Approved Modification Bulletins, MB 500-99-001 and MB 500-99-002, the Model 
+ EA500 must be operated according to the FAA approved Airplane Flight Manual (AFM), 
+ Document No. 06-123844, latest FAA approved revision. See AFM for Operating Limitations."
+Note 3,"FAA approved Airworthiness Limitations for inspection time limits, aircraft life limits, and 
+ maintenance checks are included in Chapter 4 of the Aircraft Maintenance Manual (AMM) 
+ Document No. 06-117751, latest FAA approved revision or 06-123838, latest FAA approved 
+ revision."
+Note 4,"The Model EA500 is FAA Aircraft Evaluation Group approved for Reduced Vertical 
+ Separation Minimum (RVSM). All airplanes are equipped with RVSM capable dual air data 
+ system, pilot and co-pilot Primary Flight Displays, and Autopilot. 
+ Each operator must obtain RVSM operating approval."
+Note 5,"The Model EA500 incorporates integrated avionics systems using software-based line 
+ replaceable units (LRU’s) which share a digital signal transmission bus. The avionics 
+ configuration of the Model EA500 as delivered from production is critical to the proper 
+ operation of the cockpit instrumentation system. Modification to the LRU software supplied 
+ with the Model EA500, replacement of an LRU with a different LRU, addition of new LRU, 
+ or alteration of an LRU interface could adversely affect the airworthiness of the certified 
+ product. Accordingly, no changes to the integrated avionics system may be made without 
+ coordination with the Certificate Management Aircraft Certification Office."
+Note 6,"The Eclipse Model EA500 fuselage incorporates a specialized joining process and structural 
+ optimization that may not be compatible with traditional repair methodologies. Incorporation 
+ of repairs or alterations using traditional methods could adversely affect airworthiness. 
+ Accordingly, major alterations or repairs (ref. 14 CFR Part 43, Appendix A) to fuselage 
+ structure that are not listed in EAI Structural Repair Manual (SRM) No. 06-117755 must be 
+ coordinated with the Federal Aviation Administration's Certificate Management Aircraft 
+ Certification Office."
+Note 7,"The inspection program for the Model EA500 developed by Eclipse Aerospace is contained in 
+ the following FAA approved/accepted documents: 
+ For serial numbers 000001 through 000262, 000266 through 000267, 550-0263 through 550- 
+ 0265, 550-0268 through 550-0280, 550-0282 through 550-0284. 
+ Aircraft Maintenance Manual (AMM), No. 06-117751, revision 19, dated August 2011 or 
+ later FAA accepted revision 
+ Structural Repair Manual (SRM), No. 06-117755, revision 4, dated April 2014 or later 
+ FAA accepted revision 
+ Wiring Diagram Manual (WDM), No. 06-117753, revision 7, dated December 2008 or 
+ later FAA accepted revision 
+ For serial numbers 550-0263 through 550-0265, 550-0268 through 550-0280, 550-0282 
+ through 550-0284 which incorporate Eclipse FAA approved Modification Bulletin, MB 550- 
+ 99-001 and 550-1001 and up: 
+ Aircraft Maintenance Manual (AMM), No. 06-123838, revision 0, dated May 2014 or 
+ later FAA accepted revision 
+ Structural Repair Manual (SRM), No. 06-117755, revision 4, dated April 2014 or later 
+ FAA accepted revision 
+ Wiring Diagram Manual (WDM), No. 06-123840, revision 0, dated April 2014 or later 
+ FAA accepted revision"
+Note 8,"Any modification or changes in cockpit configuration which may affect aircrew workload, 
+ cockpit noise level or day/night operational capabilities must be evaluated by an FAA Aircraft 
+ Certification Flight Test Pilot."
+Note 9,"All pilots operating a U.S. registered Model EA500 must be trained and qualified in 
+ accordance with the FAA Accepted/Approved Eclipse training program or equivalent FAA 
+ Accepted/Approved training program. 
+ All pilots operating a Model EA500 that is non-US registered must be trained and qualified in 
+ accordance with the Eclipse training program or equivalent training program that is 
+ Accepted/Approved by the Civil Aviation Authority having jurisdiction."

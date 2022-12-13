@@ -1,0 +1,95 @@
+Keyterm,Info
+"1H13 
+ Revision 10 
+ Centerpointe Aerospace Inc. 
+ S62A 
+ September 19, 2019",
+Type Certificate Holder,"Centerpointe Aerospace Inc. 
+ 279 Blackland Road 
+ Royse City, TX 75189"
+Type Certificate Holder Record,"California Helicopter Airways Inc. became Centerpointe Aerospace Inc. on September 19, 2019. 
+ Sikorsky Aircraft transferred TC 1H13 to California Helicopter Airways Inc. on May 06, 2015."
+"I - Model S-62A (Amphibious Transport Helicopter), approved June 30, 1960.",
+Engine,"General Electric CT58-100-1, or CT58-100-2, or CT58-110-1 or CT58-110-2. See 
+ engine nameplate and/or General Electric Bulletin CT58 No. 45 and revisions thereto 
+ for appropriate derated fuel control part numbers."
+Fuel,Aviation Kerosene JP4 or JP5 (General Electric Co. Spec. No. F9134A).
+Engine limits,"Sea level static 
+ Shaft 
+ Power 
+ Power"
+Turbine,"HP 
+ Turbine R.P.M. 
+ Gas Gen. R.P.M. 
+ Inlet (T5)°F 
+ Takeoff 
+ 730 
+ 20960 (100%Nf) 
+ 26300 (100%NG) 
+ 1165 
+ Maximum continuous 
+ 671 
+ 20960 (100%Nf) 
+ 25600 ( 97%NG) 
+ 1105 
+ Maximum transient 
+ 1250 
+ Starting 
+ 1200 
+ Takeoff and Maximum continuous horsepower ratings are normally obtained at power 
+ turbine speed of 20340 r.p.m. (97%Nf) and 19500 r.p.m. (93%Nf) respectively."
+Rotor Limits,"Maximum 245 r.p.m. (Dual tachometer reading 107%) 
+ Minimum 170 r.p.m. (Dual tachometer reading 75%)"
+Airspeed limits IAS,Vne (never exceed) 109 m.p.h. (95 knots) (See NOTE 6).
+CG range,(+249.0) to (+262.0)
+CG range,None
+Datum,252 in. forward of main rotor centroid.
+Leveling means,Plumb line from top of main cabin door frame.
+Maximum weight,7500 lb. (See NOTE 6 for higher weight).
+Maximum Crew,1 (Pilot)
+Page No,"1 
+ 2"
+Rev No,"8 
+ 10"
+Maximum Passengers,"19, limited by emergency exit requirements."
+Maximum Baggage,None (See NOTE 3 for cargo).
+Fuel capacity,187 gal. (+252)
+Oil capacity,"2.5 gal. (+174) 
+ See NOTE 1 for data on system fuel and oil."
+Control Movements,"For rigging information, refer to Maintenance Manual."
+Serial Nos eligible,"62001 through 62003, 62005 through 62007, 62009 through 62016, 62020, 62027, 
+ 62028, 62031, 62033, 62058 through 62060, 62062, 62063, 62078, 62079, 62080, 
+ 62081, 62105, 62106, 62107, 62108, 62121, 62122, 62123, 62124."
+Certification Basis,"CAR 7, August 1, 1956 (Category B) including Amendment 7-1, 7.203 and 7.612(2)(4) 
+ of Amendment 7-4, 6.246 of Amendment 6.2 to CAR 6, December 20, 1956, and 
+ Exemption No. 100 dated June 30, 1960. Type Certificate No. 1H13 issued June 30, 
+ 1960. Date of Application for Type Certificate January 31, 1958."
+Production Basis,Production Certificate No. 105.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see certification basis) must be installed in the aircraft for certification. In addition the 
+ following items of equipment are required: 
+ (a) FAA Approved Rotorcraft Flight Manual."
+NOTE 1,"Current weight and balance report including list of equipment included in certificated empty weight, and 
+ loading instructions when necessary, must be provided for each helicopter at the time of original 
+ certification. The certificated empty weight and corresponding C.G. locations must include undrainable oil 
+ of 0.8 lb. (+174) and unusable fuel of 21 lb. (+252)."
+NOTE 2,"The following placard must be displayed in front of and in clear view of the pilot: 
+ ""THIS HELICOPTER MUST BE OPERATED IN COMPLIANCE WITH THE OPERATING 
+ LIMITATIONS SPECIFIED IN THE FAA APPROVED ROTORCRAFT FLIGHT MANUAL."""
+NOTE 3,"The cabin floor area between stations 180 and 348 is structurally satisfactory for a uniformly distributed 
+ loading of 175 p.s.f. when used for cargo purposes, with the following limitations. The areas between 
+ stations 276 and 312 and stations 312 to 348 are each limited to a maximum of 1200 lb. The maximum 
+ total floor load permitted is 2400 lb."
+NOTE 4,"Information essential to the proper maintenance of the helicopter including retirement time of critical 
+ components is contained in the Sikorsky S62A Maintenance Manual provided with each helicopter. 
+ Sikorsky publication No. SA4045-22 revision dated March 26, 1982, Maintenance Manual Model S62A 
+ helicopter, is applicable to the Sikorsky Model S62A helicopter. The values of retirement or service life 
+ cannot be increased without FAA engineering approval."
+NOTE 5,"The cargo sling and hoist are special purpose equipment and are to be operated in accordance with the 
+ limitations described in FAR 133. Additional operating limitations are also contained in revised Rotorcraft 
+ Flight Manual Supplements No. 3 (September 27, 1972), 6 (September 27, 1972), and 7 (September 27, 
+ 1972)."
+NOTE 6,"The S62A is eligible for a gross weight of 7900 lb. when modified in accordance with Sikorsky Kit 
+ Drawing S6207-45100. Serial Nos. 62021 and up have been modified by the manufacturer in production. 
+ Supplement No. 10 dated July 3, 1963, to the FAA Approved Rotorcraft Flight Manual is required. The 
+ Vne (never exceed) speed is 101 m.p.h. (88 knots) IAS."

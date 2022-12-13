@@ -1,0 +1,356 @@
+Keyterm,Info
+"A15EA 
+ Revision 12 
+ Seastar Corp. 
+ (BOHICA) 
+ (F. D. Beckett) 
+ (Teal) 
+ (Schweizer) 
+ (Thurston) 
+ TSC-1A 
+ TSC-1A1 
+ TSC-1A2 
+ May 30, 2006",
+Type Certificate Holder,"Seastar Corp 
+ P. O. Box 2214 
+ Homer, AK 99603"
+Type Certificate Holder Record,"Seastar Corp assumed ownership of this TCDS from Bohica, Inc. May 30, 2006."
+"I - Model TSC-1A, 2PCAmM (Normal Category), Approved 28 August 1969.",
+Engine,Lycoming O-320-A3B (Carburetor setting 10-3678-32)
+Fuel,80/87 minimum grade aviation gasoline
+Engine limits,"For all operations, 2700 r.p.m. (150 hp.)"
+Propeller and,Hartzell Model HC-C2YL-1B/7663-4 2 bladed metal
+propeller limits,"Pitch setting at 30 in. station: Low 12° High 27.5° 
+ Diameter: Maximum 72"" minimum 70""; no further reduction permitted 
+ Governor: Hartzell F-2-6A"
+Airspeed limits CAS,"*Vne (Never exceed speed) 
+ 135 mph (117 knots) 
+ *V 
+ (Maximum structural cruising speed) 
+ 106 mph ( 92 knots) 
+ *Va (Design maneuvering speed) 
+ no 
+ 106 mph ( 92 knots) 
+ Vlo (Maximum speed for landing gear operation) 
+ 100 mph ( 87 knots) 
+ Vle (Maximum speed for landing gear extended) 
+ 135 mph (117 knots) 
+ Side windows open 
+ 110 mph ( 96 knots) 
+ *See NOTE 2."
+Center of Gravity,+102.3 to +109.7 at 1900 lb. or less
+CG range,"(Moment change due to landing gear retraction, plus 860 in.-lb.)"
+Empty weight CG range,"+109.2 to +112.7 
+ When the empty weight C.G. falls within the range given, complete computations 
+ of critical fore and aft C.G. positions are unnecessary. Range is not valid for 
+ non-standard arrangements."
+Datum,"Bow of airplane, Hull Sta. 0; located 91.5 in. forward of wing leading edge at side 
+ of hull."
+Leveling means,"Entrance sill, left or right side."
+Maximum weight,1900 lb.
+Number of seats,2 at (+71)
+Maximum baggage,230 lb. at (+96)
+Fuel capacity,"24.5 gal. at (+118) 24 gal. usable (single hull tank system) 
+ 46.0 gal. at (+103) 40.6 gal. usable (standard 2 tank system) 
+ 70.5 gal. at (+103) wing tanks (+118) hull tank, 64.6 gal. usable 
+ (3 tank system) 
+ (see NOTE 1 for data on system fuel and oil)"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5"
+Rev No,"12 
+ 10 
+ 10 
+ 10 
+ 10"
+Oil capacity,2 gal. at (+126) 6 qt. usable
+Control surface movements,"Rudder 
+ Left 28° + or -2° 
+ Right 28° + or -2°"
+measured from surface,"Elevator 
+ Up 15° + 2° -0° 
+ Down 20° + 2° -0°"
+chord line,"Elevator tab 
+ Up 7.5° + 2.5° -0° 
+ Down 21° + 2° -0° 
+ Aileron 
+ Up 30° + 3° -0° 
+ Down 20° + 3° -0° 
+ Rudder Tab 
+ Left 30° + or -2° 
+ Right 30° + or -2°"
+Manufacturers Serial,"2, 3, 4, 5, 7, 9, 11, 12, 13"
+"II - Model TSC-1A1, 2PCAmM (Normal Category), Approved 23 September 1971",
+Engine,Lycoming O-320-A3B (Carburetor setting 10-3678-32)
+Fuel,80/87 minimum grade aviation gasoline
+Engine limits,"For all operations, 2700 r.p.m. (150 hp.)"
+Propeller and,Hartzell Model HC-C2YL-1B/7663-4 2 bladed metal
+propeller limits,"Pitch setting at 30 in. station: Low 12° High 27.5° 
+ Diameter: Maximum 72"" minimum 70""; no further reduction permitted 
+ Governor: Hartzell F-2-6A"
+Airspeed limits CAS,"*Vne (Never exceed speed) 
+ 123 mph (107 knots) 
+ *Vno (Maximum structural cruising speed) 
+ 97 mph ( 84 knots) 
+ *Va (Design maneuvering speed) 
+ 97 mph ( 84 knots) 
+ Vlo (Maximum speed for landing gear operation) 
+ 100 mph ( 87 knots) 
+ Vle (Maximum speed for landing gear extended) 
+ 123 mph (107 knots) 
+ Side windows open 
+ 110 mph ( 96 knots) 
+ *See NOTE 2."
+Center of Gravity,+103.5 to +107.8 at 2200 lb.
+CG range,+103.1 to +108.4 at 2100 lb.
+Landing gear extended,"+102.3 to +109.7 at 1900 lb. or less 
+ Straight line variation between points given 
+ (Moment change due to landing gear retraction, plus 860 in.-lb.)"
+Empty weight CG range,"+110.2 to +112.7 
+ When the empty weight C.G. falls within the range given, complete computations 
+ of critical fore and aft C.G. positions are unnecessary. Range is not valid for 
+ non-standard arrangements."
+Datum,"Bow of airplane, Hull Sta. 0; located 91.5 in. forward of wing 
+ leading edge at side of hull."
+Leveling means,"Entrance sill, left or right side."
+Maximum weight,"2200 lb. for land operations 
+ 2100 lb. for water operations"
+Number of seats,2 at (+71)
+Maximum baggage,230 lb. at (+96)
+Fuel capacity,"46 gal. at (+103.0) 40.6 gal. usable (standard 2 tank system) 
+ 70.5 gal. at (+103) wing tanks (+118) hull tank, 64.6 gal. usable 
+ (3 tank system) 
+ (see NOTE 1 for data on system fuel and oil)"
+Oil capacity,2 gal. at (+126) 6 qt. usable
+Control surface movements,"Rudder 
+ Left 
+ 28° + or -2° 
+ Right 
+ 28° + or -2°"
+measured from surface,"Elevator 
+ Up 
+ 15° + 2° -0° 
+ Down 
+ 20° + 2° -0°"
+chord line,"Elevator tab 
+ Up 
+ 7.5° + 2.5° -0° 
+ Down 
+ 21° + 2° -0° 
+ Aileron 
+ Up 
+ 30° + 3° -0° 
+ Down 
+ 20° + 3° -0° 
+ Rudder tab 
+ Left 
+ 30° + or -2° 
+ Right 
+ 30° + or -2°"
+Manufacturers Serial,"1, 6, 8, 10, 14 through 21, 23"
+"III - Model TSC-1A2, 2PCAmM (Normal Category), Approved June 28, 1973",
+Engine,Lycoming O-320-A3B (Carburetor setting 10-3678-32)
+Fuel,80/87 minimum grade aviation gasoline
+Engine limits,"For all operations, 2700 r.p.m. (150 hp.)"
+Propeller and,Hartzell Model HC-C2YL-1B/7663-4 2 bladed metal
+propeller limits,"Pitch setting at 30 in. station: Low 12° High 27.5° 
+ Diameter: Maximum 72"" minimum 70""; no further reduction permitted 
+ Governor: Hartzell F-2-6A"
+Airspeed limits CAS,"*Vne (Never exceed speed) 
+ 123 mph (107 knots) 
+ *Vno (Maximum structural cruising speed) 
+ 97 mph ( 84 knots) 
+ *Va (Design maneuvering speed) 
+ 97 mph ( 84 knots) 
+ Vlo (Maximum speed for landing gear operation) 
+ 100 mph ( 87 knots) 
+ Vle (Maximum speed for landing gear extended) 
+ 123 mph (107 knots) 
+ Side windows open 
+ 110 mph ( 96 knots) 
+ Vfe (Maximum speed for flaps extended) 
+ 90 mph ( 78 knots) 
+ *See NOTE 2."
+Center of Gravity,+102.8 to +107.4 for all weights to 2200 pound max. gross weight
+CG range,"(Moment change due to landing gear retraction, plus 860 in.-lb.)"
+Empty weight CG range,"+110.2 to +112.7 
+ When the empty weight C.G. falls within the range given, complete computations of critical 
+ fore and aft C.G. positions are unnecessary. Range is not valid for non-standard 
+ arrangements."
+Datum,"Bow of airplane, Hull Sta. 0; located 91.5 in. forward of wing 
+ leading edge at side of hull."
+Leveling means,"Entrance sill, left or right side."
+Maximum weight,2200 lb. for land and water operations
+Number of seats,"2 at (+71), 1 at (+96)"
+Maximum baggage,230 lb. at (+96)
+Fuel capacity,"46 gal. at (+103.0) 40.6 gal. usable (std 2 tank system) 
+ 70.5 gal. at (+103) wing tanks (+118) hull tank, 64.6 gal. usable 
+ (3 tank system) 
+ (see NOTE 1 for data on system fuel and oil)"
+Oil capacity,2 gal. at (+126) 6 qt. usable
+Control surface movements,"Rudder 
+ Left 
+ 28° + or -2° 
+ Right 
+ 28° + or -2°"
+measured from surface,"Elevator 
+ Up 
+ 21° + or -2° 
+ Down 
+ 17° + or -2°"
+chord line,"Elevator tab 
+ Up 
+ 16° + or -2° 
+ Down 
+ 30° + or -2° 
+ Aileron 
+ Up 
+ 30° + 3° -0° 
+ Down 
+ 20° + 3° -0° 
+ Rudder tab 
+ Left 
+ 30° + or -2° 
+ Right 
+ 30° + or -2° 
+ Flap 
+ Down 
+ 15° + 2° -0°"
+Manufacturers Serial,"22, 24 and subsequent, IFR operation approved per note 2 (a) (8)."
+Certification basis,"Federal Aviation Regulations Part 23, effective 1 February 1965 and 
+ Amendments 23-1 through 23-6."
+Production basis,"None. Prior to original certification of each aircraft, an FAA representative must perform a 
+ detailed inspection for workmanship, materials, and conformity with the approved technical 
+ data, and a check of the flight characteristics."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. In addition, 
+ the following items of equipment are required: 
+ Stall warning indicator installed per TAC drawing No. 1-6715"
+NOTE 1,"Current weight and balance report including list of equipment included in certificated empty weight, and loading 
+ instruction when necessary must be provided for each aircraft at the time of original certification. The certificated empty 
+ weight and corresponding center of gravity location must include undrainable system oil of 1 lb. at +126 and unusable"
+fuel as follows,"3 lb. at (+118.0) (single tank system) 
+ 32 lb. at (+103.0) (standard 2 tank system) 
+ 35 lb. at (+103) wing tanks (+118) hull tank (3 tank system)"
+NOTE 2,The following placards must be displayed:
+a,"In front of and in full view of the pilot: 
+ (1) 
+ ""THIS AIRPLANE MUST BE OPERATED AS A NORMAL CATEGORY AIRPLANE 
+ IN COMPLIANCE WITH THE OPERATING LIMITATIONS STATED IN THE FORM OF 
+ PLACARDS, MARKINGS, AND MANUALS. ALL ACROBATIC MANEUVERS, INCLUDING 
+ SPINS PROHIBITED."" 
+ (2) 
+ Models TSC-1A, TSC-1A1 and TSC-1A2 S/Ns 22 and 24 only 
+ ""OPERATION OF THIS AIRPLANE IS LIMITED TO VFR FLYING UNDER NON-ICING 
+ CONDITIONS."" 
+ (3) 
+ Model TSC-1A only 
+ ""OPERATE LANDING GEAR BELOW 
+ 100 m.p.h. 
+ GEAR DOWN SPEED LIMIT 
+ 135 m.p.h. 
+ WINDOW OPEN SPEED LIMIT 
+ 110 m.p.h. 
+ CROSSWIND OPERATING LIMIT 
+ 15 m.p.h. land; 20 m.p.h. water 
+ DESIGN MANEUVERING SPEED 
+ 106 m.p.h. 
+ ALTITUDE LOSS IN POWER OFF STALL 
+ 250 ft. 
+ USABLE FUEL IS AVAILABLE IN 
+ ALL APPROVED FLIGHT CONDITIONS."" 
+ (4) 
+ Models TSC-1A1 and TSC-1A2 only 
+ ""OPERATE LANDING GEAR BELOW 
+ 100 m.p.h. 
+ GEAR DOWN SPEED LIMIT 
+ 123 m.p.h. 
+ WINDOW OPEN SPEED LIMIT 
+ 110 m.p.h. 
+ CROSSWIND OPERATING LIMIT 
+ 15 m.p.h. land; 20 m.p.h. water 
+ DESIGN MANEUVERING SPEED 
+ 97 m.p.h. 
+ ALTITUDE LOSS IN POWER OFF STALL 
+ 250 ft. 
+ USABLE FUEL IS AVAILABLE IN 
+ ALL APPROVED FLIGHT CONDITIONS."" 
+ (5) 
+ Model TSC-1A only 
+ ""WEIGHT AND BALANCE LIMITS 
+ MAXIMUM DESIGN GROSS WEIGHT - 1900 LB. 
+ CENTER OF GRAVITY RANGE - 102.3 TO 109.7 INCHES 
+ - 18.0% TO 30.4% MAC 
+ REFER TO AIRPLANE WEIGHT & BALANCE REPORT 
+ FOR PROPER LOADING INFORMATION."" 
+ (6) 
+ Model TSC-1A1 only 
+ ""WEIGHT AND BALANCE LIMITS MAXIMUM DESIGN 
+ GROSS WEIGHT - 2200 LB., 2100 lb. water 
+ CENTER OF GRAVITY RANGE 
+ 103.5 to 107.8 at 2200 lb. 
+ +103.1 to +108.4 at 2100 lb. 
+ +102.3 to +109.7 at 1900 lb. or less 
+ STRAIGHT LINE VARIATION BETWEEN POINTS GIVEN 
+ REFER TO AIRPLANE WEIGHT AND BALANCE REPORT 
+ FOR PROPER LOADING INFORMATION."" 
+ (7) 
+ Model TSC-1A2 only 
+ ""TEAL II - WEIGHT AND BALANCE LIMITS 
+ MAXIMUM DESIGN GROSS WEIGHT: 2200 LB. 
+ CENTER OF GRAVITY RANGE : 102.8 to 107.4 in. at 2200 lb. or less 
+ REFER TO AIRPLANE WEIGHT AND BALANCE REPORT 
+ FOR PROPER LOADING INFORMATION."" 
+ (8) 
+ Model TSC-1A2, S/N's 25 and up 
+ ""THIS AIRPLANE APPROVED FOR DAY OR NIGHT VFR OR IFR FLIGHT IN NON-ICING 
+ CONDITIONS WHEN PROPERLY EQUIPPED IN ACCORDANCE WITH FAR 91."" 
+ (b) 
+ On top surface of landing gear retraction mechanism housing: 
+ ""RAISE PIVOT TO LOWER GEAR IN WATER. LOWER PIVOT PRIOR TO WATER TAKE OFF."" 
+ (c) 
+ On top surface of landing gear retraction mechanism housing: 
+ ""NOTE: IF GEAR IS INADVERTENTLY LOWERED IN FLIGHT WITH PIVOT UP, BLEED AIR 
+ CYLINDERS TO RETRACT GEAR."" 
+ (d) 
+ On or adjacent to air cylinder: 
+ ""CAUTION"" 
+ ""PRESSURIZED AIR CYLINDER. RELEASE PRESSURE BEFORE REMOVING. 
+ AFTER INSTALLATION INFLATE TO 300 PSI WITH NITROGEN OR AIR WITH GEAR DOWN."" 
+ (e) 
+ On or adjacent to baggage compartment: 
+ ""BAGGAGE LIMIT, 60 LB. WITH PILOT AND PASSENGER, 230 LB. WITH PILOT ONLY."" 
+ (f) 
+ Adjacent to fuel filler cap: 
+ ""23.0 GALLON CAPACITY 80/87 OCTANE (WING TANKS) 
+ 24.5 GALLON CAPACITY 80/87 OCTANE (HULL TANK)."" 
+ (g) 
+ Adjacent to fuel control valve: 
+ ""FUEL VALVE 20.3 GAL. USABLE (STANDARD 2 TANK SYSTEM) 
+ FUEL VALVE 24 GAL. USABLE (SINGLE TANK AND 3 TANK SYSTEM)."" 
+ (h) 
+ Such that horizontal bar on placard is 10.38 in. above side window sill. 
+ ""MAXIMUM WINDOW OPENING IN FLIGHT."" 
+ (i) 
+ Adjacent to light switches on instrument panel: 
+ ""WARNING: TO AVOID OPTICAL ILLUSION AND SEVERE VERTIGO, TURN ANTI-COLLISION 
+ LIGHTS OFF UPON ENTERING CLOUDS, FOG OR HAZE."" 
+ (j) 
+ Adjacent to cabin heater controls (Janitrol model B-1500, P/N 99C42):. 
+ ""WARNING: WAIT 2 MINUTES AFTER TURNING HEATER OFF BEFORE TURNING 
+ OFF HEATER MASTER SWITCH."" 
+ (k) 
+ Beneath the left and right fuel quantity gages on the instrument panel: 
+ ""THE 2.7 GALLONS OF UNUSABLE FUEL IN EACH WING TANK WHEN 
+ QUANTITY INDICATOR READS ZERO CANNOT BE SAFELY USED IN FLIGHT."" 
+ (l) 
+ On the selector valve plate for the three tank system 
+ (Model TSC-1A2 only): 
+ ""CAUTION: USE HULL FUEL FIRST"" 
+ In addition to the placards specified above, the prescribed operating limitations indicated by an asterisk (*) 
+ under Section I, II and III of this data sheet must also be displayed by permanent markings."
+NOTE 3,None
+NOTE 4,"Model TSC-1A Type Certificate issued 28 August 1969 for a maximum gross weight of 1850 lb. 
+ Maximum gross weight of 1900 lb. approved 9 December 1969."

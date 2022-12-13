@@ -1,0 +1,337 @@
+Keyterm,Info
+"H10WE 
+ REVISION 17 
+ ROBINSON 
+ R22 
+ R22 ALPHA 
+ R22 BETA 
+ R22 MARINER 
+ October 30, 2020",
+Type Certificate Holder,"Robinson Helicopter Company 
+ 2901 Airport Drive 
+ Torrance, California 90505"
+"I. Model R22 Helicopter (Normal Category), Approved March 16, 1979",
+Engine,"Lycoming O-320-A2B or O-320-A2C or 
+ O-320-B2C (See NOTES 5 & 6)"
+Fuel,See Rotorcraft Flight Manual (RFM)
+Engine Limits for all operations,"124 hp at 2652 rpm (104%) 
+ See RFM for manifold pressure limit corresponding to 124 hp and ambient 
+ conditions."
+Rotor Limits,"Power Off (Rotor Tach) 
+ Power On (Rotor Tach) 
+ Maximum (110%) 561 rpm 
+ (104%) 530 rpm 
+ Minimum (90%) 459 rpm 
+ (97%) 495 rpm"
+Airspeed Limits CAS,"98 KCAS Power On and Off VNE (never exceed) at sea level. 
+ See RFM for reduction of VNE with altitude and temperature."
+Altitude Limits,"Density Altitude Limit - 14,000 feet"
+CG Range,See RFM
+Maximum Gross Weight,1300 lbs.
+No Seats,2 (See NOTE 1)
+Minimum Weight,920 lbs.
+Maximum Baggage,"50 pounds of baggage and installed equipment in either baggage compartment, 
+ except combined seat load plus baggage and equipment not to exceed 240 pounds."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"17 
+ 16 
+ 16 
+ 16 
+ 17 
+ 17"
+Fuel Capacity,"Tanks Without Bladders 
+ Tanks With Bladders 
+ Location 
+ Tank 
+ Usable 
+ Capacity 
+ Usable 
+ Capacity 
+ (STA) 
+ (gal.) 
+ (gal.) 
+ (gal.) 
+ (gal.) 
+ Main 
+ 19.8 
+ 19.2 
+ 18.3 
+ 16.9 
+ 108.6 
+ Auxiliary 
+ N/A 
+ N/A 
+ 9.7 
+ 9.4 
+ 103.8"
+Oil Capacity,"Engine Oil, 6 qt. at STA 104.8; 
+ Transmission oil, 1.2 qt. at STA 100. 
+ For rigging information refer to R22 Maintenance Manual"
+Serial Nos Eligible,"0002 thru 0300 
+ 0302 thru 0349 
+ 0352 thru 0356"
+"II. Model R22 ALPHA Helicopter (Normal Category), Approved October 12, 1983",
+Engine,Lycoming O-320-B2C
+Fuel,See RFM
+Engine Limits for all operations,"124 hp at 2652 rpm (104%) 
+ See RFM for manifold pressure limit corresponding to 124 hp and ambient 
+ conditions."
+Rotor Limits,"Power Off (Rotor Tach) 
+ Power On (Rotor Tach) 
+ Maximum (110%) 561 rpm 
+ (104%) 530 rpm 
+ Minimum (90%) 459 rpm 
+ (97%) 495 rpm"
+Airspeed Limits,"98 KCAS Power On and Off VNE (never exceed) at sea level. 
+ See RFM for reduction of VNE with altitude and temperature."
+Altitude Limits,"Density Altitude Limit - 14,000 feet"
+Maximum Gross Weight,1370 lbs.
+No Seats,2 (Pilot Location STA 78.0)
+Minimum Weight,920 lbs.
+Maximum Baggage,"50 pounds of baggage and installed equipment in either baggage compartment, 
+ except combined seat load plus baggage and equipment not to exceed 240 pounds."
+Fuel Capacity,"Tanks Without Bladders 
+ Tanks With Bladders 
+ Location 
+ Tank 
+ Usable 
+ Capacity 
+ Usable 
+ Capacity 
+ (STA) 
+ (gal.) 
+ (gal.) 
+ (gal.) 
+ (gal.) 
+ Main 
+ 19.8 
+ 19.2 
+ 18.3 
+ 16.9 
+ 108.6 
+ Auxiliary 
+ 10.9 
+ 10.5 
+ 9.7 
+ 9.4 
+ 103.8"
+Oil Capacity,"Engine oil, 6 qt. at STA 104.8; 
+ Transmission oil, 1.2 qt. at STA 100. 
+ For rigging information refer to R22 Maintenance Manual."
+Serial Nos Eligible,"0301, 0350, 0351, 0357 thru 0500, excluding 0364"
+"III. Model R22 BETA Helicopter (Normal Category), Approved August 12, 1985 
+ The R22 BETA Helicopter includes a 131 hp. takeoff rating. A larger oil cooler and associated installation changes were made to 
+ permit the 131 hp. takeoff rating with the O-320 engine.",
+Engine,Lycoming O-320-B2C or O-360-J2A (See NOTE 11)
+Fuel,See RFM
+Engine Limits for all operations,"Maximum continuous: 124 hp at 2652 rpm (104%) 
+ Takeoff (5 minutes): 
+ 131 hp at 2652 rpm (104%) 
+ See RFM for manifold pressure limit corresponding to hp. rating and ambient 
+ conditions."
+Rotor Limits,"Power Off (Rotor Tach) for 
+ Power On (Rotor 
+ Power On (Rotor Tach) 
+ O-320-B2C and O-360-J2A 
+ Tach) for O-320-B2C 
+ for O-360-J2A 
+ Maximum (110%) 561 rpm 
+ (104%) 530 rpm 
+ (104%) 530 rpm 
+ Minimum (90%) 459 rpm 
+ (97%) 495 rpm 
+ (101%) 515 rpm"
+Airspeed Limits CAS,"98 KCAS Power On and Off VNE (never exceed) at sea level. 
+ See RFM for reduction of VNE with altitude and temperature."
+Altitude Limits,"Density Altitude Limit - 14,000 feet"
+CG Range,See RFM
+Maximum Gross Weight,1370 lbs.
+No Seats,2 (Pilot Location STA 78.0)
+Minimum Weight,920 lbs.
+Maximum Baggage,"50 pounds of baggage and installed equipment in either baggage compartment, 
+ except combined seat load plus baggage and equipment not to exceed 240 pounds."
+Fuel Capacity,"Tanks Without Bladders 
+ Tanks With Bladders 
+ Location 
+ Tank 
+ Usable 
+ Capacity 
+ Usable 
+ Capacity 
+ (STA) 
+ (gal.) 
+ (gal.) 
+ (gal.) 
+ (gal.) 
+ Main 
+ 19.8 
+ 19.2 
+ 18.3 
+ 16.9 
+ 108.6 
+ Auxiliary 
+ 10.9 
+ 10.5 
+ 9.7 
+ 9.4 
+ 103.8"
+Oil Capacity,"Engine oil, 6 qt. at STA 104.8; 
+ Transmission oil, 1.2 qt. at STA 100. 
+ For rigging information refer to R22 Maintenance Manual."
+Serial Nos Eligible,0501 and subsequent
+"IV. Model R22 MARINER Helicopter (Normal Category), Approved September 12, 1985 
+ The R22 MARINER helicopter includes two inflatable floats, additional corrosion protection, 131 hp. takeoff rating, tailcone 
+ with nose-up horizontal stabilizer mounting angle and float stabilizer in place of the tail skid. The helicopter can be used with or 
+ without floats See NOTE 9",
+Engine,Lycoming O-320-B2C or O-360-J2A (See NOTE 11)
+Fuel,See RFM
+Engine Limits for all operations,"Maximum continuous: 124 hp at 2652 rpm (104%) 
+ Takeoff (5 minutes): 
+ 131 hp at 2652 rpm (104%) 
+ See RFM for manifold pressure limit corresponding to hp. rating and ambient 
+ conditions."
+Rotor Limits,"Power Off (Rotor Tach) for 
+ Power On (Rotor 
+ Power On (Rotor Tach) 
+ O-320-B2C and O-360-J2A 
+ Tach) for O-320-B2C 
+ for O-360-J2A 
+ Maximum (110%) 561 rpm 
+ (104%) 530 rpm 
+ (104%) 530 rpm 
+ Minimum (90%) 459 rpm 
+ (97%) 495 rpm 
+ (101%) 515 rpm"
+Airspeed Limits CAS,"With Floats Installed 
+ 91 KCAS Power On VNE (never exceed) at sea level. 
+ 77 KCAS Power Off VNE (never exceed) at sea level. 
+ See RFM for reduction of VNE with altitude and temperature. 
+ Without Floats Installed 
+ 98 KCAS Power On and Off VNE (never exceed) at sea level. 
+ See RFM for reduction of VNE with altitude and temperature."
+Altitude Limits,"Density Altitude Limit - 14,000 feet"
+CG Range,See RFM
+Maximum Gross Weight,1370 pounds
+No Seats,2 (Pilot Location STA 78.0)
+Minimum Weight,920 pounds
+Maximum Baggage,"50 pounds of baggage and installed equipment in either baggage compartment, 
+ except combined seat load, plus baggage and equipment not to exceed 240 pounds."
+Fuel Capacity,"Tanks Without Bladders 
+ Tanks With Bladders 
+ Location 
+ Tank 
+ Usable 
+ Capacity 
+ Usable 
+ Capacity 
+ (STA) 
+ (gal.) 
+ (gal.) 
+ (gal.) 
+ (gal.) 
+ Main 
+ 19.8 
+ 19.2 
+ 18.3 
+ 16.9 
+ 108.6 
+ Auxiliary 
+ 10.9 
+ 10.5 
+ 9.7 
+ 9.4 
+ 103.8"
+Oil Capacity,"Engine oil, 6 qt. at STA 104.8; 
+ Transmission oil, 1.2 qt. at STA 100."
+Rotor Blade and,For rigging information refer to R22 Maintenance Manual.
+Serial No Eligible,"0364, 0501 and subsequent (Suffix ""M"" added to all MARINERs.)"
+DATA PERTINENT TO ALL MODELS,
+Datum,100 inches forward of main rotor centerline.
+Leveling Means,Refer to the Weight and Balance Section of the R22 Rotorcraft Flight Manual.
+Certification Basis,"14 CFR Part 27 dated February 1, 1965, including Amendments 27-1 through 27-10. 
+ § 27.1559 of Amendment 27-21 is an option for all S/Ns. 
+ For S/N 4815 and subsequent: 
+ 14 CFR §§ 27.952(a), 27.952(c), 27.952(f), 27.952(g), 27.963(g) (except with a 
+ minimum puncture force of 250 pounds), and 27.975(b) as amended by Amendment 
+ 27-30 (see Note 13) 
+ National Environmental Act of 1969 
+ Noise Control Act of 1972 
+ Equivalent Safety Findings: 
+ Number TD10352LA-R/S-1 
+ 14 CFR Part 27.1401(d), Anticollision Light System 
+ For S/N 4815 and subsequent: 
+ Number AT17316LA-R/P-1 
+ 14 CFR Part 27.952(c)(1)(i), Breakaway coupling separation load (see Note 13)"
+Production Basis,"Production Certificate No. 424WE, dated March 6, 1981"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (See Certification Basis) must be installed in the helicopter for 
+ certification. In addition, the following FAA-approved Rotorcraft Flight Manual is 
+ required: 
+ R22 
+ R22 Rotorcraft Flight Manual dated March 16, 1979, or later revision. 
+ R22 ALPHA 
+ R22 Rotorcraft Flight Manual dated March 16, 1979, with revisions through October 
+ 12, 1983 or later (see NOTE 8). 
+ R22 BETA with O-320-B2C 
+ R22 Rotorcraft Flight Manual dated March 16, 1979, with revisions through August 
+ 7, 1985 or later (see NOTE 8). 
+ R22 BETA with O-360-J2A 
+ R22 Rotorcraft Flight Manual dated March 16, 1979,with revisions through August 
+ 7, 1985 or later. For R22 Rotorcraft Flight Manual with revisions prior to October 
+ 13, 2000, Flight Manual Supplement 7 dated January 31, 1996, or later revision, is 
+ required (see NOTE 8). 
+ R22 MARINER with O-320-B2C 
+ R22 Rotorcraft Flight Manual dated March 16, 1979, with revisions through August 
+ 7, 1985 or later, and Flight Manual Supplement 4 dated September 9, 1985, or later 
+ revision. 
+ R22 MARINER with O-360-J2A 
+ R22 Rotorcraft Flight Manual dated March 16, 1979, with revisions through August 
+ 7, 1985 or later, and Flight Manual Supplement 4 dated September 9, 1985, with 
+ revisions through October 13, 2000 or later. For R22 Rotorcraft Flight Manual with 
+ revisions prior to October 13, 2000, Flight Manual Supplement 8 dated January 31, 
+ 1996, or later revision, is required in place of Flight Manual Supplement 4. 
+ ALL MODELS 
+ If fuel tanks with bladders are installed: R22 Rotorcraft Flight Manual dated March 
+ 16, 1979, with revisions through February 15, 2013 or later. R22 Mariners also 
+ require Flight Manual Supplement 4 as noted above. Also see Note 8."
+NOTE 1,"Current weight and balance report, including list of equipment included in certificated empty weight , and loading 
+ instructions, when necessary, must be provided for each helicopter at the time of original certification and at all 
+ times thereafter (except in the case of operators having an approved weight control system). 
+ Pilot Location STA 79.0 for helicopter S/Ns 0002 thru 0255 and STA 78.0 for helicopter S/Ns 0256 and 
+ subsequent and helicopters in which Robinson P/N seats A466-1 and A467-1 have been replaced by Robinson 
+ P/N seats A932-1 and A928-1."
+NOTE 2,"One of the following placards must be installed in clear view of the pilot: 
+ ""THE MARKINGS AND PLACARDS INSTALLED ON THIS HELICOPTER CONTAIN 
+ OPERATING LIMITATIONS WHICH MUST BE COMPLIED WITH WHEN OPERATING THIS 
+ ROTORCRAFT. OTHER OPERATING LIMITATIONS WHICH MUST BE COMPLIED WITH WHEN 
+ OPERATING THIS ROTORCRAFT ARE CONTAINED IN THE ROTORCRAFT FLIGHT MANUAL."" 
+ Or: ""THIS ROTORCRAFT APPROVED FOR DAY AND NIGHT VFR OPERATIONS"" 
+ For the R22 MARINER: 
+ ""THIS ROTORCRAFT APPROVED FOR DAY AND NIGHT VFR OPERATIONS WITHOUT 
+ FLOATS INSTALLED OR DAY VFR OPERATIONS ONLY WITH FLOATS INSTALLED."" 
+ For additional placards, see R22 Rotorcraft Flight Manual."
+NOTE 3,"Information essential to the proper maintenance of the helicopter, including retirement time of critical 
+ components, is contained in the Robinson R22 Maintenance Manual and Instructions For Continued Airworthiness 
+ (RTR 060). Retirement times are listed in the ""AIRWORTHINESS LIMITATIONS"" section."
+NOTE 4,"Deleted as of April 11, 1988."
+NOTE 5,"Lycoming O-320-A2C, with Retard Magneto Starting System, eligible on S/Ns 0002 thru 0300, 0302 thru 0349, 
+ and 0352 thru 0356 helicopters."
+NOTE 6,"Lycoming O-320-B2C installed on S/Ns 0175 and 0200 thru 2570 in production. It may be installed in prior 
+ S/N helicopters if the following parts are changed; Robinson P/Ns B193-2 (Window Plate - Instrument Cluster), 
+ A145-3 (Engine), A600-2 (Manifold Pressure Gauge), and A654-40 & -41 (Decals)."
+NOTE 7,"Deleted as of April 25, 2001."
+NOTE 8,"The R22 ""Police Helicopter"" configuration requires Flight Manual Supplement 3, dated March 27, 1984 or later."
+NOTE 9,The R22 MARINER with floats installed is limited to daylight VFR operation only.
+NOTE 10,"R22 ALPHA S/N 0364 was converted to an R22 MARINER by the manufacturer. The original R22 ALPHA 
+ dataplate was removed and replaced with an R22 MARINER data plate S/N 0364M."
+NOTE 11,"Lycoming O-360-J2A installed on S/N 2571 and subsequent in production. Retrofit installation of the O-360-J2A 
+ engines may only be accomplished at the Robinson Helicopter Company."
+NOTE 12,"Deleted as of May 24, 2018."
+NOTE 13,"To operate in U.S. airspace, the following helicopter serial numbers meet the crash resistant fuel system 
+ certification basis requirements per section 44737 of Title 49 U.S.C.: Model R22 BETA, S/N 4815 and 
+ subsequent."

@@ -1,0 +1,244 @@
+Keyterm,Info
+"A62CE 
+ Revision 8 
+ Costruzioni Aeronautiche Tecnam S.P.A. 
+ P2006T 
+ March 9, 2022",
+Type Certificate Holder,"Costruzioni Aeronautiche Tecnam S.P.A. 
+ Via S. D’acquisto 62 
+ 80042 Boscotrecase (NA) 
+ Italy"
+Type Certificate Holder Record,"Costruzioni Aeronautiche Tecnam srl transferred TC A62CE to Costruzioni 
+ Aeronautiche Tecnam S.P.A. on March 14, 2018."
+"I - Model P2006T (Normal Category), Approved November 10, 2010",
+Engines,Two Bombardier-Rotax 912 S3 (TC E00051EN)
+Fuel,"MOGAS ASTM D4814 (Min RON 95) 
+ AVGAS 100LL (ASTM D910)"
+Engine Limits,"Max rotational speed (5 min) 5800 r.p.m. (98.6 hp) 
+ Max continuous rotational speed 5500 r.p.m. (92.5 hp) 
+ (Engine shaft r.p.m)"
+Propeller and,Two MT Propeller MTV-21-A-C-F/CF178-05 (TC P16BO)
+Propeller Limits,"Two blades, constant speed, variable pitch with feathering capability, wood 
+ construction. Diameter: 1780 mm (70.08 in) - no reduction allowed. 
+ Low Pitch Setting 10° 
+ Feather Position 82°"
+Oil,"Oil with API classification ""SG"" or higher. 
+ For additional info, refer to ""Rotax Operators Manual"" - latest issue – 
+ ""Operating Media"" Section. 
+ KIAS 
+ KCAS"
+Airspeed Limits,"VA (Design Manoeuvring Speed) 
+ 119 
+ 117 
+ VFE (Flap Extended Speed) 
+ 93 
+ 92 
+ Landing 
+ 119 
+ 117 
+ Take Off 
+ VMC (Minimum Control Speed) 
+ 62 
+ 62 
+ VLO (Maximum Landing Gear Operation Speed) 
+ 93 
+ 92 
+ VLE (Maximum Landing Gear Extended Speed) 
+ 93 
+ 92 
+ VNO (Maximum Structural Cruising Speed) 
+ 135 
+ 134 
+ VNE (Never Exceed Speed) 
+ 167 
+ 168 
+ Page No. 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ Rev. No. 
+ 8 
+ 7 
+ 8 
+ 7 
+ 7 
+ The following values apply when Tecnam MOD2006/033 is installed (Other Air 
+ Speeds remain unchanged.) 
+ VLO (Maximum Landing Gear Operation Speed) 
+ 122 KIAS (119 KCAS) 
+ VLE (Maximum Landing Gear Extended Speed) 
+ 122 KIAS (119 KCAS)"
+Center of Gravity CG Range,8.7 in (16.5 % MAC) to 16.34 in (31.0 % MAC)
+Empty Weight CG Range,None
+Datum,Wing leading edge (MAC = 52.72 in)
+Levelling Means,"Seat support trusses (see Airplane Flight Manual (AFM), 2006/044, Sect.6 for the 
+ procedure)."
+Maximum Weight,"Take-off 
+ 2600 lbs 
+ Zero Fuel 
+ 2524 lbs 
+ Landing 
+ 2600 lbs"
+Minimum Crew,1 pilot
+Number of Seats,"4 
+ Maximum Compartments Weights 176 lbs at 47.83 in aft the datum"
+Fuel Capacity,"52.8 US Gal (+ 29.7 in) 
+ Usable 51.35 US Gal"
+Oil Capacity each engine,"Maximum: 
+ 0.92 US Gal 
+ Minimum: 
+ 0.79 US Gal"
+Control Surface Movements ,"Ailerons 
+ 20° TEU (**) 
+ 17° TED (***) 
+ Stabilator 
+ 4° TEU 
+ 15° TED 
+ Stabilator trim tab 
+ 2° TEU 
+ 19° TED 
+ Rudder 
+ 26° RH 
+ 26° LH 
+ Rudder trim tab 
+ 20° RH 
+ 20° LH 
+ Flaps 
+ 15° TED (Take-off position) 
+ 40° TED (Landing position) 
+ (*) Nominal Values 
+ (**) Trailing Edge Up 
+ (***) Trailing Edge Down"
+Applicable Serial Numbers,S/N 1/US to 9999/US
+Import Requirements,"a) A U.S. airworthiness certificate may be issued on the basis of an NAA Export 
+ Certificate of Airworthiness (Export of C of A) signed by a representative of the 
+ Ente Nazionale per l'Aviazione Civile (ENAC) on behalf of the European 
+ Community. The Export C of A should contain the following statement ""The 
+ aircraft covered by this certificate has been examined, tested, and found to 
+ comply with U.S. Type Certificate No. A62CE and to be in a condition for safe 
+ operation."" 
+ b) The U.S. airworthiness certification basis for aircraft type certificated under 14 
+ CFR part 21, section 21.29 and exported 
+ c) Each P2006T aircraft must have the following modifications: 
+  
+ MOD2006/049 “Engine Starting Battery”, 
+  
+ MOD2006/066 “New Powerplant Control Setting Layout” and 
+ It must be identified with a “Steel identification plate” showing USA S/N 
+ (xxx/US) and TCDS references. Aircraft in-service can be modified by Tecnam 
+ incorporating these modifications using Tecnam Service Bulletin SB 35-CS 
+ d) Refer to the applicable bilateral agreement to verify eligibility for import into the 
+ United States of both new and used aircraft based on the scope of the agreement, 
+ to identify any required statements by the exporting authority on the export 
+ certificate of airworthiness (or equivalent document), and for procedures for 
+ coordinating exceptions to conformity statements on these documents. Refer to 
+ FAA Order 8130.2, Airworthiness Certification of Aircraft, for requirements for 
+ issuance of an airworthiness certificate for imported aircraft."
+Certification Basis,"Type Certification under 14 CFR Section 21.29 including the following 
+ requirements: 
+ 14 CFR Part 23 effective February 1, 1965 including amdt 23-1 through 23-57 
+ 14 CFR Part 36 effective December 1, 1969 including amdt 36-1 through 36-28 
+ Equivalent levels of safety (ELOS): findings made per the provisions of 14 CFR Part 
+ 21.21(b)(1) for: 
+ a) ELOS ACE-10-15: 14 CFR § 23. 807(e) Emergency Exits - overhead 
+ emergency exit size 
+ b) ELOS ACE-10-16: 14 CFR § 23. 783(b) Doors - proximity of propeller and 
+ main door 
+ c) ELOS ACE-10-17: 14 CFR §§ 23.1061 (b), 23.1063 Liquid Cooling and 
+ Cooling Tank 
+ d) ELOS ACE-10-18: 14 CFR § 23.777 (d) Cockpit Controls Location - 
+ Carburetor Heat Location 
+ Approved Kinds of Operation: 
+ Day and Night, Visual Flight Rules (VFR) and Instrument Flight Rules (IFR) 
+ Prohibited Kinds of Operation: 
+ Flight into known icing conditions 
+ Type Certificate No. A62CE was issued November 10, 2010. 
+ Date of Application for FAA Type Certificate was November 14, 2007. 
+ The European Aviation Safety Agency (EASA) originally type certified this aircraft 
+ under its type certificate number A.185."
+Maximum Operating Altitude,14000 ft
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the airplane for certification. 
+ Such equipment is listed in the current FAA approved AFM: 2006/044 Ed. 2, Rev. 2 
+ or later approved revisions."
+Service Information,"Each of the documents listed below must state that it is approved by the EASA: 
+  
+ Service bulletins, 
+  
+ Structural repair manuals, 
+  
+ Vendor manuals, 
+  
+ Aircraft flight manuals, and 
+  
+ Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved for type design 
+ data only unless one of the following conditions exists: 
+  
+ The documents change the limitations, performance, or procedures of the 
+ FAA approved manuals; or 
+  
+ The documents make an acoustical or emissions changes to this product’s 
+ U.S. type certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. The 
+ FAA may delegate on case-by-case to EASA to approve on behalf of the FAA for the 
+ U.S. type certificate. If this is the case, it will be noted on the document. 
+ Each airplane is provided with the following approved documents: 
+ a) AFM doc. 2006/044 Ed. 2, Rev. 2, or later FAA approved revision. 
+ b) Airplane Maintenance Manual (AMM) doc. 2006/045 Ed. 2, Rev. 0, or later 
+ FAA approved revision, including Chapter 4: ""Airworthiness Limitations"" 
+ and Chapter 5: ""Time Limits/ Maintenance Check"". 
+ c) The appropriate Rotax 912 series engine maintenance manuals. 
+ d) The appropriate Instruction Manual MT Propellers Doc No. E-124."
+NOTE 1,"Current weight and balance report, including list of equipment included in certificated empty weight 
+ and loading instructions when necessary, must be provided for each aircraft at the time of original 
+ certification. The certificated empty weight and corresponding center of gravity location must include: 
+ Unusable fuel 8.8 lbs at 29.7 in aft of datum 
+ Full oil 11.9 lbs at 23.27 in aft of datum"
+NOTE 2,"Airplane operation must be in accordance with the EASA approved AFM listed above. All placards 
+ listed in Section 2 must be displayed."
+NOTE 3,"Airworthiness Limitations are specified in the Section 2 LIMITATIONS of the AFM and Chapter 4 of 
+ the AMM and are approved by the EASA and the FAA. These LIMITATIONS specify mandatory 
+ replacement times, and operating limitations, and may not be changed without FAA approval. 
+ Revisions to the Airworthiness Limitations must be approved by the FAA. The inspections, 
+ maintenance, repair and painting must be accomplished according to the Maintenance Manual or other 
+ procedures acceptable to the FAA."
+NOTE 4,"Information essential for the proper operation, maintenance and inspection of the airplane is contained 
+ in the Tecnam P2006T AFM and AMM."
+NOTE 5,"Tecnam Modification No. MOD2006-001 (S-TEC 55x Autopilot). Airplanes can be modified by 
+ Tecnam at the factory under their major level 1 type design change approval. Airplanes with this 
+ modification must have Tecnam AFM doc. 2006/044 Ed. 2, Rev.2, Supplement No. A-12 with EASA 
+ approval date November 12, 2010 or later FAA/EASA approved revisions."
+NOTE 6,"Tecnam Modification No. MOD2006-002 (Glass Cockpit Garmin G950). Airplanes can be modified by 
+ Tecnam at the factory under their major level 1 type design change approval. Airplanes with this 
+ modification must have Tecnam AFM doc. 2006/044 Ed. 2, Rev.2, Supplement No. G-1 with EASA 
+ approval date November 12, 2010 or later FAA/EASA approved revisions and Tecnam P2006T AMM 
+ Supplement No. SG-1, Ed. 2, Rev. 0, dated. February 28, 2011 or later FAA/EASA approved revisions."
+NOTE 7,"Tecnam Modification No. MOD2006-015 (Increase Maximum Take-off Weight 1230kg (2712lbs)). 
+ Airplanes can be modified by Tecnam under their major level 1 type design change approval. Aircraft 
+ in-service can incorporate this modification using Tecnam Service Bulletin SB 76-CS (Analogue 
+ Version) or Tecnam Service Bulletin SB 77-CS (Digital Version). 
+ Analogue Version - Airplanes with this modification must have Tecnam AFM Supplement No. A19 – 
+ Increased MTOW (1230kg), Ed. 3, Rev. 1 with EASA approval date October 15, 2012 or later 
+ FAA/EASA approved revisions and Tecnam P2006T AMM Supplement No. S3, Ed. 1, Rev. 0, dated. 
+ June 25, 2012 or later FAA/EASA approved revisions. 
+ Digital Version - Airplanes with this modification and equipped with Tecnam Modification No. 
+ MOD2006-002 (Glass Cockpit Garmin G950) must have Tecnam AFM Supplement No. G10 – 
+ Increased MTOW (1230kg), Ed. 3, Rev. 1 with EASA approval date October 15, 2012 or later 
+ FAA/EASA approved revisions and Tecnam P2006T AMM Supplement No. S3, Ed. 1, Rev. 0, dated. 
+ June 25, 2012 or later FAA/EASA approved revisions."
+NOTE 8,"Tecnam Modification No. MOD2006-033 (VLE and VLO Increment). Airplanes can be modified by 
+ Tecnam under their major level 1 type design change approval. Aircraft in-service can incorporate this 
+ modification using Tecnam Service Bulletin SB 98-CS “VLO and VLE Increment for P2006T aircraft”. 
+ Analogue Version - Airplanes with this modification must have Tecnam AFM Supplement No. A20 – 
+ VLO/VLE Increase, Ed. 3, Rev. 1, with EASA approval date October 1, 2012 or later FAA/EASA 
+ approved revisions. 
+ Digital Version - Airplanes with this modification must have Tecnam AFM Supplement No. G11 – 
+ VLO/VLE Increase, Ed. 3, Rev. 1, with EASA approval date October 1, 2012 or later FAA/EASA 
+ approved revisions."
+NOTE 9,"Tecnam Modification No. MOD2006-212 (MD302 Alternative Stand-By Instrument). Airplanes with 
+ this modification must have Tecnam AFM Supplement No. G16, Rev. 0 with EASA approval date May 
+ 31, 2016 or later FAA/EASA approved revisions and Tecnam P2006T AMM Supplement No. S7, Ed. 
+ 1, Rev 0, dated February 19, 2016 or later FAA/EASA approved revisions."

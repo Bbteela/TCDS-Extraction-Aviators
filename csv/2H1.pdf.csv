@@ -1,0 +1,977 @@
+Keyterm,Info
+"2H1 
+ Revision 14 
+ Scotts – Bell 47 
+ 47J 
+ 47K 
+ 47J-2 
+ 47J-2A 
+ June 3 2010",
+Type Certificate Holder,"Scotts-Bell 47 Inc. 
+ 780 S Elmwood Ave 
+ Le Sueur, Minnesota 56058-2169"
+Type Certificate Holder Record,"Bell Helicopter Textron Inc. transferred TC 2H1 to Scotts-Bell 47 Inc on June 3, 2010."
+"I – Model 47J, 4 PCLH, Approved August 23, 1956",
+Engine,"Lycoming VO-435-A1B, -A1D, or -A1E"
+Fuel,80/87 minimum grade aviation gasoline
+Engine limits,Maximum r.p.m. 3200 (220 hp.) (See item 602 for 240 hp)
+Carburetor ,"Marvel-Schebler MA4-5, Setting 10-3856 or 10-3856-1 or"
+carburetor settings,"Marvel-Schebler MA4-5AA, Setting 10-4025-1"
+ operational,Power On (Engine Tach.) Power Off (Rotor Tach.)
+engine speeds,"Maximum 
+ 3200 
+ Maximum 
+ 370 
+ Minimum 
+ 3000 
+ Minimum 
+ 333"
+Airspeed limits,Never exceed 105 m.p.h. (91.5 knots) True Ind.
+CG range,(+81.4) to (+89.0)
+Empty weight CG range,"See Figure 
+ 2000 
+ 1960 
+ 1900 
+ Aft 
+ Limit 
+ 1840 
+ LBS 
+ 1780 
+ 1720 
+ Fw d 
+ Limit 
+ 1660 
+ 91.6 
+ 92.8 
+ 93.4 
+ 90.4 
+ 91.0 
+ 92.2 
+ Inches Af t of Datum"
+Maximum weight,2565 lbs. (See items 6 and 602 for 2800 lbs. and 2850 lbs.)
+No of seats,"4. Pilot (+32) to (+35), 3 passengers (+63)."
+Maximum baggage,250 lbs. (+140)
+Fuel capacity,35 gals. (+93) (Usable 34.6 gals.) See NOTE 1 for unusable fuel
+Oil capacity,"2.9 gals. (+156) (Usable 1.6 gals.) See NOTE 1 for undrainable oil 
+ For rigging information refer to the applicable Bell Maintenance"
+movements,Manual
+Serial Nos eligible,"1420 thru 1443, 1559 thru 1581; 1712 thru 1872"
+Required equipment,"In addition to the pertinent required basic equipment specified in 
+ CAR 6, the following items of equipment must be installed (see section 
+ titled “DATA PERTINENT TO ALL MODELS” following section IV): 
+ 1, 2, 3, 4, 5, 101, 102(a), 103, 104(a), 105, 201(a), 301(a), 
+ 302(a) or (b), 401(a), 402, 601(a), (b) or (c)"
+"II - Model 47K (Navy HTL-7 - See NOTE 4), 2 PCLH, Approved March 30, 1959 
+ Model 47K is similar to the 47J except for cabin, open engine compartment, oil system, lights, and other miscellaneous items in 
+ accordance with Bell Report No. 47-947-067. Military Model HTL-7 is similar to Model 47K except for blind flying instruments. 
+ See NOTE 4 for modification required for conversion of Navy HTL-7 to Model 47K.",
+Engine,Lycoming VO-435-6A or VO-435-A1D
+Fuel,80/87 minimum grade aviation gasoline
+Engine limits,"Maximum continuous, 
+ (Sea level) 24.6 in.Hg., 3200 rpm (220 hp.) 
+ (4300 ft.) 23.3 in.Hg., 3200 rpm (220 hp.) 
+ (Straight line manifold pressure variation with altitude) 
+ Takeoff (2 minutes) 26.5 in.Hg., 3200 rpm (240 hp.)"
+Carburetor ,"Marvel-Schebler MA4-5AA, Setting 10-4025-1"
+ operational,"Power On (Engine Tach.) 
+ Power Off (Rotor Tach.)"
+engine limits,"Maximum 
+ 3200 
+ Maximum 
+ 370 
+ Minimum 
+ 3000 
+ Minimum 
+ 333"
+Airspeed limits,"Never exceed 105 m.p.h. (91.5 knots) True Ind. from S.L. to 7000 ft. 
+ Above 7000 ft. decrease Vne 4 knots per 1000 ft."
+CG range,(+82.0) to (88.5)
+Empty weight CG range,"See Figure 
+ 1950 
+ Fw d 
+ Limit 
+ 1930 
+ Af t 
+ Limit 
+ 1910 
+ LBS. 
+ 1890 
+ 1870 
+ 89.5 
+ .6 
+ . 7 
+ .8 
+ .9 90.0 
+ .1 
+ .2 
+ .3 
+ .4 
+ Inches Af t of Dat um"
+Maximum weight,2565 lbs.
+No of seats,2 (+51.6)
+Maximum baggage,For baggage loading refer to the applicable Flight Manual
+Fuel capacity,35 gals. (+93) (Usable 34.6 gals.) See NOTE 1 for unusable fuel
+Oil capacity,"2.7 gals. (+121) (Usable 1.5 gals.) See NOTE 1 for undrainable oil 
+ For rigging information refer to applicable Bell Service Manual"
+Serial Nos eligible,2114 thru 2131
+Required equipment,"In addition to the pertinent required basic equipment specified in 
+ CAR 6, the following items of equipment must be installed (see section 
+ titled “DATA PERTINENT TO ALL MODELS” following section IV): 
+ 1, 2, 3, 4, 5, 101, 102(a), 103, 104(a), 105, 201(a), 301(b), 302(a) or (b), 401(b)"
+"III - Model 47J-2, 4 PCLH, Approved January 14, 1960 
+ Model 47J-2 is similar to the 47J except the basic helicopter incorporates metal main rotor blades, fixed stabilizer, VO-540 engine, 
+ blue tinted bubble and windows, and miscellaneous minor improvements. (See Note 7 for conversion of 47J to 47J-2.)",
+Engine,Lycoming VO-540-B1B or -B1B3 (See Item 610 for 260 hp.)
+Fuel,80/87 minimum grade aviation gasoline
+Engine limits,"Maximum continuous, 
+ (Sea level) 20.5 in.Hg., 3200 rpm (220 hp.) 
+ (9,500 ft.) 19.3 in.Hg., 3200 rpm (220 hp.) 
+ (Straight line manifold pressure variation with altitude) 
+ Takeoff (2 minutes) 22.0 in.Hg., 3200 rpm (240 hp.)"
+Carburetor ,"Marvel-Schebler MA-6AA, Setting No. 10-4218"
+ operational,Power On (Engine Tach.) Power Off (Rotor Tach.)
+engine limits,"Maximum 
+ 3200 
+ Maximum 
+ 370 
+ Minimum 
+ 3000 
+ Minimum 
+ 333"
+Airspeed limits,Never exceed 105 m.p.h. (91.5 knots) True Ind.
+CG range,(+81.4) to (+89.0)
+Empty weight CG range,"See Figure 
+ 2000 
+ 1960 
+ Aft 
+ Limit 
+ 1900 
+ 1840 
+ LBS 
+ 1780 
+ 1720 
+ Fw d Limit 
+ 1660 
+ 90.4 
+ 91.0 
+ 91.6 
+ 92.2 
+ 92.8 
+ 93.4 
+ Inches Aft of Datum"
+Maximum weight,2850 lbs.
+No of seats,"4. Pilot (+32) to (+35), 3 passengers (+63)."
+Maximum baggage,250 lbs. (+140)
+Fuel capacity,48 gals. (+93) (Usable 47.5 gals.) See NOTE 1 for unusable fuel
+Oil capacity,"4.3 gals. (+114.5) (Usable 2.5 gals.) See NOTE 1 for undrainable oil 
+ For rigging information refer to the applicable Bell Maintenance"
+movements,Manual
+Serial Nos eligible,1804 and up and Model 47J converted per Note 7.
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 6, 
+ the following items of equipment must be installed (see section titled 
+ “DATA PERTINENT TO ALL MODELS” following section IV): 
+ 2, 3, 4, 5, 6(a), 101, 102(b), 103, 104(b), 105, 106, 201(a), 301(a), 302(b), 401(c)"
+"IV - Model 47J-2A, 4 PCLH, Approved March 4, 1964 
+ Model 47J-2A is similar to the 47J-2 except for increased weight, the installation of collective boost system, addition of main rotor 
+ tip weights, a change in the C.G. limits, and miscellaneous minor improvements.",
+Engine,Lycoming VO-540-B1B3
+Fuel,80/87 minimum grade aviation gasoline
+Engine limits,"Maximum continuous, 
+ (Sea level) 20.5 in.Hg., 3200 rpm (220 hp.) 
+ (9,500 ft.) 19.3 in.Hg., 3200 rpm (220 hp.) 
+ (Straight line manifold pressure variation with altitude) 
+ Takeoff (2 minutes) 23.6 in.Hg., 3200 rpm (260 hp.)"
+Carburetor ,"Marvel-Schebler MA-6AA, Setting No. 10-4218"
+ operational,Power On (Engine Tach.) Power Off (Rotor Tach.)
+engine limits,"Maximum 
+ 3200 
+ Maximum 
+ 370 
+ Minimum 
+ 3000 
+ Minimum 
+ 322"
+Airspeed limits,"S.L. to 3000 ft. Vne = 105 mph (91.5K) 
+ Above 3000 ft. decrease Vne 4 mph per 1000 ft."
+CG range,(+81.0) to (+87.7)
+Empty weight CG range,"See Figure, or see page 1-30 of Maintenance Manual 
+ 2050 
+ 2000 
+ Aft Limit 
+ Tail 
+ 1950 
+ Heavy 
+ 1900 
+ LB. 
+ 1850 
+ 1800 
+ FwdLimit 
+ 1750 
+ 1700 
+ 89.8 
+ 90.2 
+ 90.6 
+ 90.4 
+ 90.8 91.0 91.2 
+ 90.0"
+Maximum weight,2950 lbs.
+No of seats,"4. Pilot (+32) to (+35), 3 passengers (+63)."
+Maximum baggage,250 lbs. (+140)
+Fuel capacity,"48 gals. (+93) (Usable 47.5 gals.) 
+ See NOTE 1 for unusable fuel"
+Oil capacity,"4.3 gals. (+114.5) (Usable 2.5 gals.) 
+ See NOTE 1 for undrainable oil 
+ For rigging information refer to the applicable Bell Service Manual"
+Serial Nos eligible,3108 and up
+Required equipment,"In addition to the pertinent required basic equipment specified in 
+ CAR 6, the following items of equipment must be installed (see section 
+ titled “DATA PERTINENT TO ALL MODELS” following section IV): 
+ 2(b), 3, 4, 5, 6(c), 101, 102(b), 103, 104(b), 105(b), 106, 
+ 201(a) or 210(e), 301(c), 401(d)"
+"DATA PERTINENT TO ALL MODELS 
+ Datum 
+ Station 0 (87 in. forward of centerline of mast.) 
+ Leveling means 
+ Leveling lugs lower left hand longeron aft of mast and adjacent cross tube 
+ Certification basis 
+ Type Certificate No. 2H1 (CAR effective January 15, 1951, Amendments 
+ 6-1, 6-2, 6-3, 6-4, 6-5, and 6-6) (Structural loading cond. skid landing gear 
+ dated 11-12-74) 
+ Production basis 
+ None. See Note 8 for serial numbers produced under Bell Helicopter Textron Inc. 
+ Production Certificate No. 100 
+ Equipment 
+ A plus (+) or minus (-) sign preceding the weight of an item indicates the net 
+ weight change when that item is installed. 
+ ""- -"" indicates ""same as preceding model"" 
+ "" "" indicates ""does not apply"" 
+ Rotors and Rotor Equipment 
+ 47J 
+ 47K 
+ 47J-2 
+ 47J-2A 
+ 1. Wood rotor blades, Bell 47-110-401 See NOTE 5. 
+ eligible 
+ eligible 
+ __ 
+ __ 
+ 2. Tail rotor, metal, Bell 47-641-074 
+ eligible 
+ - - 
+ - - 
+ - - 
+ 3. 2 Stabilizer Bar Dampers, Houde Eng. 
+ Div A13965 
+ 4 lbs. (+87) 
+ - - 
+ - - 
+ - - 
+ 4. Main rotor counterweights, Bell 47-110-239 
+ use actual 
+ and 61103120 
+ wt. (+87) 
+ - - 
+ - - 
+ - - 
+ 5. Main rotor hub, Bell 47-120-184 
+ 91 lbs (+87) 
+ - - 
+ - - 
+ - - 
+ 6. (a) Main rotor metal blades, Bell 
+ 4711025011 or 21 
+ see Item 6(b) 
+ __ 
+ STD 
+ __ 
+ (b) Main rotor metal blades kit, Bell 
+ 47706618 installed in accordance 
+ with Service Instruction 316SI Bell 
+ 477066181 
+ +28 lbs (+83) 
+ __ 
+ __ 
+ __ 
+ or -5 (includes Item 602). When Item 602 
+ is installed on helicopter Bell 
+ 47-706-618-3 or -7 is eligible. When 
+ this Item (6(b)) is installed, maximum 
+ weight is 2850 lbs 
+ +25 lbs (+83) 
+ __ 
+ __ 
+ __ 
+ Flight Manual Supplement dated June 18, 
+ 1958 required 
+ c Main rotor metal blades 
+ Bell 4711025023 
+ __ 
+ __ 
+ __ 
+ __ 
+ 7. Tail rotor blades 47-641-117 SI428 
+ __ 
+ __ 
+ use act 
+ STD 
+ wt. chg. 
+ wt. chg. 
+ Engine and Engine Accessories  
+ Fuel and Oil System 
+ 101. Starter, Eclipse - Pioneer 756-22c 
+ 19 lbs (+87) 
+ - - 
+ - - 
+ - - 
+ 102. (a) Oil cooler, Bell 47-671-025 (Oil cooler 
+ 6 lbs (+80) 
+ - - 
+ __ 
+ __ 
+ valve included with this cooler 
+ b Oil cooler Harrison D65705 
+ __ 
+ __ 
+ 7 lbs (+80) 
+ - - 
+ 103. 2 Fan belts, Bell 47-661-041 
+ 1 lb. (+68) 
+ - - 
+ - - 
+ - - 
+ 104. (a) Carburetor Air Filter, Purolator 51845 
+ 1 lb. (+100) 
+ - - 
+ __ 
+ __ 
+ (b) Carburetor Air Filter, Fram X-4079 
+ __ 
+ __ 
+ 2 lbs (+100) 
+ - - 
+ 105. (a) Hydraulic pump, N.Y. Air Brake 67B025 
+ 2 lbs (+89) 
+ - - 
+ - - 
+ __ 
+ b Hydraulic pump Weldon 6010 
+ __ 
+ __ 
+ __ 
+ 2 lbs (+90) 
+ 106. Long range fuel tank, Bell 47-706-613, 
+ +8 lbs (+100) 
+ - - 
+ STD 
+ - - 
+ installed in accordance with Service 
+ Instruction 324SI Flight Manual 
+ Supplement dated May 21, 1959 required. 
+ 107. Breather Heater Kit, Bell 47-706-658 
+ __ 
+ __ 
+ __ 
+ 1 lb (+55) 
+ 108 Primer Kit Bell 47606669 
+ __ 
+ __ 
+ __ 
+ 5 lbs (+114) 
+ 47J 
+ 47K 
+ 47J-2 
+ 47J-2A 
+ Landing Gear 
+ 201. (a) 2 Skids, Bell 47-500-022 
+ 50 lbs (+74) 
+ - - 
+ - - 
+ - - 
+ (b) Float landing gear (2565 lbs. max. 
+ use act. wt. 
+ __ 
+ __ 
+ __ 
+ wt.), Bell 47-706-533-1, -3, -5, & -7, 
+ installed in accordance with Service 
+ Instruction 241SI Flight Manual 
+ Supplement dated March 14 1957 
+ required 
+ (c) Float landing gear (2850 lbs. max. 
+ 117 lbs (+76) 
+ __ 
+ - - 
+ __ 
+ wt Bell 477065339  11 
+ installed in accordance with Service 
+ Instruction 248SI Flight Manual 
+ Supplement dated March 14 1957 
+ required 
+ (d) High skid gear (2850 lbs. max. wt.), 
+ +10 lbs. (+79) 
+ __ 
+ __ 
+ __ 
+ Bell 477066281 installed in 
+ accordance with Service Instruction 
+ 340SI (Eligible only when Item 6 
+ is installed Flight Manual 
+ Supplement dated May 8 1959 
+ required 
+ (e) Float landing gear (2950 lbs. max. 
+ __ 
+ __ 
+ __ 
+ 117 lbs. (+76) 
+ wt Bell 4770653311 installed 
+ in accordance with Service Instruc 
+ tion 248SI Flight Manual dated 
+ March 4 1964 required 
+ Electrical and Radio Equipment 
+ 301. (a) Generator, Leece Neville 2591G-12 
+ 20 lbs (+87) 
+ __ 
+ 20 lbs (+87) 
+ __ 
+ b Generator Bendix Model 30E1611C 
+ __ 
+ 40 lbs (+87) 
+ __ 
+ __ 
+ c Generator Leece Neville G0012591GA 
+ __ 
+ __ 
+ __ 
+ 20 lbs (+87) 
+ 302 a Battery Yardley 14XHR15V 
+ 14 lbs (+76) 
+ - - 
+ - - 
+ - - 
+ b Battery AN3154 
+ 28 lbs (+76) 
+ 28 lbs (+76) 
+ STD 
+ STD 
+ 303 Radio Installation 
+ a ANARN41A ADF 
+ __ 
+ 32 lbs (+69) 
+ __ 
+ __ 
+  
+ b ARC12 UHF Command 
+ __ 
+ 39 lbs (+150) 
+ __ 
+ __ 
+ 304. Radio, Lear LTR-6 & LTRA-6, installed 
+ in accordance with Service Instruction 
+ 290SI Bell 477065631 
+ 22 lbs (+90.5) 
+ 22 lbs (+90.5) 
+ __ 
+ Bell 477065633 
+ 25 lbs (+83.0) 
+ __ 
+ 25 lbs (+83.0) 
+ __ 
+ 305 Radio Dare Bell 47706599 
+ installed in accordance with Service 
+ 27 lbs (+104) 
+ __ 
+ 27 lbs (+104) 
+ __ 
+ instruction 284SI 
+ 306. Radio, King KY-95, Bell 47-706-670 
+ __ 
+ __ 
+ __ 
+ +12.5 lbs (+45) 
+ 307. Radio, Narco Mark XII, Bell 47-706-622 
+ __ 
+ __ 
+ __ 
+ +14.7 lbs (+42) 
+ Interior Equipment 
+ 401. (a) ""Bell Helicopter Model 47J Appv'd 
+ Flight Man."" dated Aug. 17, 1956. 
+ (b) Bell Helicopter Model 47K Appv'd 
+ Flight Man."" dated Mar. 26, 1959. 
+ (c) ""Bell Helicopter Model 47J-2 Appv'd 
+ Flight Man."" dated Jan. 13, 1960. 
+ (d) ""Bell Helicopter Model 47J-2A Appv'd 
+ Flight Man."" dated Mar. 4, 1964. 
+ 402 Antifogging fan Bell 47733063 
+ 3 lbs (+11) 
+ __ 
+ 3 lbs (+11) 
+ - - 
+ 47J 
+ 47K 
+ 47J-2 
+ 47J-2A 
+ 403. (a) Cabin heater, Bell 47-706-556, 
+ +22 lbs (+92) 
+ __ 
+ +22 lbs (+92) 
+ - - 
+ installed in accordance with Service 
+ Instruction 298SI Flight Manual 
+ Supplement dated March 14 1957 
+ required 
+ b Heater installation Bell 47706632 
+ __ 
+ __ 
+ __ 
+ 7 lbs (+70.2) 
+ 404. (a) Fire Extinguisher, Bell 47-706-549 
+ 6 lbs (+23) 
+ __ 
+ 6 lbs (+23) 
+ __ 
+ installed in accordance with Service 
+ Instruction 294SI 
+ b Fire Extinguisher Bell 47706651 
+ __ 
+ __ 
+ __ 
+ 6 lbs (+23) 
+ 405. Safety belt, seat, Bell 47-706-604, 
+ negligible 
+ __ 
+ negligible 
+ __ 
+ installed in accordance with Service 
+ Instruction 305SI 
+ Miscellaneous Equipment 
+ 601. Fixed ballast (total weight to be 
+ determined for each helicopter 
+ a Bell 47260015 
+ (+270) 
+ - - 
+ - - 
+ - - 
+ b Bell 47300005 
+ (+8.5) 
+ (+8.5) 
+ __ 
+ c Bell 47260018 
+ (+304) 
+ - - 
+ - - 
+ - - 
+ d Bell 47314034 
+ __ 
+ (+8) 
+ __ 
+ __ 
+ 602. 2800 lbs. gross weight and 240 hp. kit, 
+ +3 lbs (+42) 
+ __ 
+ __ 
+ __ 
+ Bell 47706605 installed in accordance 
+ with Service Instruction 278SI Flight 
+ Manual dated June 7, 1957 required. 
+ Engine limits 
+ (Sea level) 24.6 in.Hg., 3200 rpm (220 hp.) 
+ (4300 ft.) 23.3 in.Hg., 3200 rpm (220 hp.) 
+ Straight line manifold pressure variation 
+ with altitude 
+ Takeoff 2 minutes 
+ 26.3 in.Hg., 3200 rpm (240 hp.) 
+ 603. Night Flying installation, Bell 47-706-515, 
+ installed in accordance with Service Instruction 
+ 297SI Flight Manual Supplement dated 
+ December 28 1956 required 
+ 10 lbs (+60.5) 
+ __ 
+ 10 lbs (+60.5) 
+ - - 
+ 604. (a) Rotor brake installation (Manual 
+ 7 lbs (+76) 
+ __ 
+ 7 lbs (+76) 
+ - - 
+ operation Bell 47706538 
+ installed in accordance with Service 
+ Instruction 289SI Flight Manual 
+ Supplement dated February 1 1957 
+ required 
+ b Rotor brake installation Power 
+ 9 lbs (+78) 
+ __ 
+ 9 lbs (+78) 
+ __ 
+ operation Bell 47706587 installed 
+ in accordance with Service Instruction 
+ 255SI Flight Manual Supplement dated 
+ July 30 1958 required 
+ 605 Litter installation Bell 47706517 
+ installation in accordance with Service 
+ Instruction 239SI Flight Manual 
+ Supplement dated February 1 1957 
+ required 
+ Including litter 
+ +59 lbs (+58) 
+ __ 
+ +59 lbs (+58) 
+ - - 
+ Less litter 
+ +22 lbs (+55) 
+ __ 
+ +22 lbs (+55) 
+ - - 
+ 606 Deleted 
+ 47J 
+ 47K 
+ 47J-2 
+ 47J-2A 
+ 607. Hoist installation (Eligible only when 
+ +64 lbs (+65) 
+ __ 
+ +64 lbs (+65) 
+ - - 
+ helicopter is certified under CAR 8. 
+ Hoist must be rendered inoperative when 
+ helicopter is used under standard certi- 
+ ficate Bell 47706513 installed in 
+ accordance with Service Instruction 
+ 292SI Flight Manual Supplement dated 
+ March 14 1957 required 
+ 608. Cargo deck, Bell 47-706-554, installed 
+ 27 lbs (+56) 
+ __ 
+ 27 lbs (+56) 
+ __ 
+ in accordance with Service Instruction 
+ 296SI 
+ 609. Cabin step, Bell 47-369-029, installed 
+ negligible 
+ __ 
+ negligible 
+ __ 
+ in accordance with Service Instruction 
+ 327SI 
+ 610. 260 takeoff horsepower kit. Bell Kit No. 
+ __ 
+ __ 
+ +15 lbs (+87) 
+ __ 
+ 4716031 installed in accordance with 
+ Service Instruction 386SI Bell 
+ Helicopter Model 47J2 Approved Flight 
+ Manual dated January 13, 1960 (Item 
+ 401c), revised March 21, 1961 required. 
+ Engine Lycoming VO540B1B3 
+ Engine limits 
+ (sea level) 20.5 in.Hg., 3200 rpm (220 hp.) 
+ (9500 ft.) 19.3 in.Hg., 3200 rpm (220 hp.) 
+ Straight line manifold pressure variation 
+ with altitude 
+ Takeoff (2 minutes), 23.6 in.Hg., 3200 rpm 
+ 260 hp 
+ Transmission Bell PN 4762060025 required 
+ with this rating. (Included in kit) 
+ 611. Door ejection, Bell 47-706-748 installed 
+ 1 lb (+28) 
+ __ 
+ 1 lb (+28) 
+ - - 
+ in accordance with Service Instruction 
+ 317SI 
+ 612 Beacon Installation Bell 47706624 
+ 5 lbs (+43.5) 
+ __ 
+ 5 lbs (+43.5) 
+ - - 
+ instld. in accordance with Serv. Inst. 351SI. 
+ NOTE 1. Current weight and balance report, including list of equipment included in certificated weight empty 
+ and loading instructions, when necessary, must be in each helicopter at the time of original certification 
+ and at all times thereafter. In order to obtain the most consistent weight and balance results, all model",
+Model 47J ,"Unusable fuel (Included in fuel capacity) 
+ 2 lbs. (+100) 
+ Undrainable oil (Included in oil capacity) 
+ 2 lbs. (+100)"
+Model 47K ,"Unusable fuel (Included in fuel capacity) 
+ 2 lbs. (+100) 
+ Undrainable oil (Included in oil capacity) 
+ 2 lbs. (+100)"
+Model 47J-2 - Unusable fuel (Included in fuel capacity),
+Model 47J-2A - Unusable fuel (Included in fuel capacity),
+NOTE 3. The Tables below address life-limited parts for the various model 47 helicopters.,
+COMMENT,"The retirement times of critical parts are listed in the following tables (TABLE 1 and TABLE 2). These 
+ limitations may not be increased without FAA engineering approval. The list of Airworthiness 
+ Directives (ADs) referenced with the following replacement or service lives may not be all-inclusive. 
+ Additional ADs may also be applicable. 
+ MAIN ROTOR SYSTEM 
+ AIRWORTHINESS LIFE 
+ NOMENCLATURE 
+ PART NUMBER 
+ Not Eligible (REF. Note 5 in TCDS) 
+ Main Rotor Blade 
+ 47-110-401-(ALL) 
+ 5000 hrs 
+ Main Rotor Blade 
+ 47-110-250-11 
+ 5000 hrs 
+ Main Rotor Blade 
+ 47-110-250-21 
+ 5000 hrs 
+ Main Rotor Pitch Horn 
+ 47-120-126-5 
+ 2500 hrs 
+ Main Rotor Drag Brace 
+ 47-110-301-1 
+ 2500 hrs 
+ Main Rotor Drag Brace 
+ 47-110-372-1 
+ 1200 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-5, /-6 /-11 /-13 /-15 /-17 
+ 4800 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-23 
+ 1200 hrs (REF. AD 2001-17-17) 
+ Main Rotor Grip 
+ 47-120-252-1, /-7 /-11 /-115 
+ 300 hrs 
+ Main Rotor Grip 
+ 47-120-252-5 
+ 5000 hrs 
+ 3600 hrs if ever used w/ wood blades on all 
+ other models except 47G-3, 47G- 
+ Main Rotor Yoke (Steel) 
+ 47-120-177-1 
+ 3B, 47J, 47J-2 or 47J-2A 
+ 2500 hrs if ever used w/ wood blades on 
+ any model 47G-3, 47G-3B, 47J, 
+ 47J-2 or 47J-2A 
+ Main Rotor Counterweight 
+ 200 hrs (REF. AD 58-17-01) 
+ Bracket 
+ 47-110-287-9 
+ FLIGHT CONTROLS 
+ AIRWORTHINESS LIFE 
+ NOMENCLATURE 
+ PART NUMBER 
+ Collective Pitch Link Rod End 
+ REF. AD 61-22-01 
+ Bearing 
+ RE4F7/RE4FL7/47-140-241-3 
+ 5000 hrs 
+ Cyclic Bellcrank, Longitudinal 
+ 47-724-097-7, /-9 
+ 2500 hrs if ever used w/ wood blades 
+ Cyclic Bellcrank, Longitudinal 
+ 47-724-097-7, /-9 
+ 1200 hrs 
+ Torque Tube, Lateral 
+ 47-725-852-1 
+ 5000 hrs 
+ Collective Sleeve 
+ 47-150-117-5, /-13 /-21 
+ 5000 hrs 
+ Scissors Assembly 
+ 47-150-249-1, /-5 
+ Tail Rotor Pitch Change Shaft 
+ 600 hrs (REF. AD 80-10-04 R1) 
+ Bearing 
+ 47-640-069-1, /-3 
+ Tail Rotor Pitch Change Shaft 
+ 600 hrs (REF. AD 80-10-04 R1) 
+ Bearing 
+ S3K or S3S 
+ TABLE 1: Life Limits for Models 47J & 47K. 
+ TAIL ROTOR SYSTEM 
+ AIRWORTHINESS LIFE 
+ NOMENCLATURE 
+ PART NUMBER 
+ Not Eligible (REF. AD 80-10-04 R1) 
+ Tail Rotor Yoke 
+ 47-641-104-5 
+ 2500 hrs 
+ Tail Rotor Yoke 
+ 47-641-126-5 
+ Tail Rotor Blade 
+ 47-642-102-(ALL) 
+ Not Eligible 
+ REF. AD 70-10-08 and AD 80-10-04 R1 
+ 2500 hrs 
+ Tail Rotor Blade 
+ 47-642-117-1, /-105 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-172-3 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-180-1, /-5 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-186-1 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-187-1, /-5 /-11 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-214-1 
+ 600 hrs 
+ Tail Rotor Extension Tube 
+ 47-640-055-3 
+ POWERPLANT 
+ AIRWORTHINESS LIFE 
+ NOMENCLATURE 
+ PART NUMBER 
+ 2500 hrs at 2565 lb max gross weight 
+ Engine Mount* 
+ 47-612-135-147 
+ 600 hrs at 2800 to 2850 lb max gross weight 
+ Engine Mount* 
+ 47-612-135-147 
+ 2500 hrs 
+ Engine Mount 
+ 47-612-171-(ALL) 
+ 600 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-1 through /-7 
+ 600 hrs - 5 year shelf life 
+ Fan Belt (Matched Sets) 
+ 47-661-041-9 
+ REF. AD 81-04-03 
+ Fan Drive Bearing 
+ 47-620-605-1 
+ TRANSMISSION 
+ AIRWORTHINESS LIFE 
+ NOMENCLATURE 
+ PART NUMBER 
+ 600 hrs 
+ Shear Screws 
+ 47-620-485-1 
+ 1200 hrs 
+ Shear Screws 
+ 47-620-485-9 
+ TABLE 1 (cont'd): Life Limits for Models 47J & 47K. 
+ * The 47-612-135-147 engine mount which as been operated at 2565 pounds maximum gross weight for less 
+ 600 additional hours, provided total service time does not exceed 900 hours. 
+ MAIN ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Main Rotor Blade 
+ 47-110-250-21 
+ 5000 hrs 
+ Main Rotor Blade 
+ 47-110-250-23 
+ 5000 hrs 
+ Main Rotor Pitch Horn 
+ 47-120-126-5 
+ 5000 hrs 
+ Main Rotor Drag Brace 
+ 47-110-372-1 
+ 2500 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-5, /-6 /-11 /-13 /-15 /-17 
+ 1200 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-23 
+ 4800 hrs 
+ Main Rotor Grip 
+ 47-120-252-1, /-7 /-11 /-115 
+ 1200 hrs (REF. AD 2001-17-17) 
+ Main Rotor Grip 
+ 47-120-252-5 
+ 300 hrs 
+ 5000 hrs 
+ 3600 hrs if ever used w/ wood blades on 
+ all other models except 47G-3, 
+ Main Rotor Yoke (Steel) 
+ 47-120-177-1 
+ 47G-3B, 47J, 47J-2 or 47J-2A 
+ 2500 hrs if ever used w/ wood blades on 
+ any model 47G-3, 47G-3B, 47J, 
+ 47J-2 or 47J-2A 
+ TABLE 2: Life Limits for Models 47J-2 & 47J-2A 
+ FLIGHT CONTROLS 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Collective Sleeve 
+ 47-150-117-13, /-21 
+ 5000 hrs 
+ Scissors Assembly 
+ 47-150-249-1, /-5 
+ 5000 hrs 
+ Cyclic Bellcrank Longitudinal 
+ 47-724-097-9 
+ 2500 hrs 
+ Tail Rotor Pitch Change Shaft 
+ 600 hrs (REF. AD 80-10-04 R1) 
+ Bearing 
+ 47-640-069-1, /-3 
+ Tail Rotor Pitch Change Shaft 
+ 600 hrs (REF. AD 80-10-04 R1) 
+ Bearing 
+ S3K or S3S 
+ TAIL ROTOR SYSTEM 
+ AIRWORTHINESS LIFE 
+ NOMENCLATURE 
+ PART NUMBER 
+ Not Eligible (REF. AD 80-10-04 R1) 
+ Tail Rotor Yoke 
+ 47-641-104-5 
+ 2500 hrs 
+ Tail Rotor Yoke 
+ 47-641-126-5 
+ Tail Rotor Blade 
+ 47-642-102-(ALL) 
+ Not Eligible 
+ REF. AD 70-10-08 and AD 80-10-04 R1 
+ 2500 hrs 
+ Tail Rotor Blade 
+ 47-642-117-1, /-105 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-172-3 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-180-1, /-5 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-186-1 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-187-1, /-5 /-11 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-214-1 
+ POWERPLANT 
+ AIRWORTHINESS LIFE 
+ NOMENCLATURE 
+ PART NUMBER 
+ 2500 hrs 
+ Engine Mount 
+ 47-612-171-(ALL) 
+ 600 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-1 through /-7 
+ 600 hrs - 5 year shelf life 
+ Fan Belt (Matched Sets) 
+ 47-661-041-9 
+ TRANSMISSION 
+ AIRWORTHINESS LIFE 
+ NOMENCLATURE 
+ PART NUMBER 
+ 1200 hrs 
+ Shear Screw 
+ 47-620-485-9 
+ TABLE 2 (cont'd): Life Limits for Models 47J-2 & 47J-2A"
+"NOTE 4. To meet the basic eligibility requirements for a U.S. airworthiness certificate, U.S. Navy Model HTL-7 helicopters must be",
+"as delivered to the U.S. Navy, to a civil configuration Model 47K helicopter. Scotts-Bell 47 Inc. Report No. SB4701-10,",
+U.S. Navy Model HTL-7 helicopter. The previous Bell Helicopter Report No. 47-099-013 is no longer available from Bell,
+Helicopter,NOTE 5. Wooden main rotor blades 47-110-401-13 are not eligible for use. See Bell Service Bulletin No. 47-04-1-74-1.
+NOTE 6. Section 1 of the pertinent Model Maintenance and Overhaul Information Manual includes the following,
+"for eligibility of certain items on the models. 
+ NOTE 7. Bell Model 47J helicopters may be converted to Model 47J-2 in accordance with Service",
+"NOTE 8. Model 47J S/N 1420-1443, 1559-1581, 1712-1872; Model 47J-2 S/N 2621-2631, 2832-2856; Model 47J-2A S/N 3108- 
+ 3132, 3301-3325, 3701-3725; and Model 47K S/N 2114-2131 were produced under FAA Production Certificate No. 100",

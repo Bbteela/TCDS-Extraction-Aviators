@@ -1,0 +1,240 @@
+Keyterm,Info
+"H6EA 
+ Revision 17 
+ Erickson Air-Crane 
+ S-64E 
+ S-64F 
+ June 15, 2018",
+Type Certificate TC Holder,"Erickson Incorporated, DBA Erickson Air-Crane 
+ 3100 Willow Springs Road"
+Type Certificate Holder Record,"Erickson Air-Crane Incorporated, DBA Erickson Air-Crane transferred TC 
+ H6EA to Erickson Incoporated, DBA Erickson Air-Crane on August 13, 2014 
+ Erickson Air-Crane Co., L.L.C. transferred TC H6EA to 
+ Erickson Air-Crane Incorporated, DBA Erickson Air-Crane on February 14,"
+2001,"Erickson Air-Crane Co. transferred TC H6EA to 
+ Erickson Air-Crane Co., L.L.C. on August 22, 1997 
+ Sikorsky Aircraft transferred TC H6EA to 
+ Erickson Air-Crane Co. on February 13, 1992."
+I,"MODEL NUMBER: S-64E (Transport Category Rotorcraft) (See ALL MODEL Section) (See NOTES 
+ Section) 
+ Approved: 08/21/69"
+Engines,2 Pratt & Whitney JFTD12A-4A (with Hamilton Standard Fuel Control JFC56-4)
+Fuel,"Aviation Kerosene Jet A or Jet A-1 or Jet B or JP-4 or JP-5 or JP-8 or JP-8+100 
+ (conforming to Pratt & Whitney Aircraft SB 2016)"
+Engine Limits,"Sea Level Static, Standard Day Conditions 
+ POWER TURBINE 
+ GAS GEN 
+ POWER TURBINE 
+ SHAFT HP 
+ RPM 
+ RPM 
+ INLET TEMP (T5)"
+Takeoff 5 min,"4,500 
+ 9,500(105%N2) 
+ 16,700(104.2%N1) 
+ 688o C"
+One engine inoperative 30 min,"4,500 
+ 9,500(105%N2) 
+ 16,700(104.2%N1) 
+ 688o C 
+ 4,000 
+ 9,500(105%N2) 
+ 16,700(104.2%N1) 
+ 655o C"
+Allowable maximum overspeed,"-- 
+ 10,350(114%N2) 
+ 16,700(104.2%N1) 
+ --"
+Acceleration limit 2 min,"-- 
+ -- 
+ -- 
+ 688o C 
+ Takeoff and maximum continuous horsepower ratings are normally obtained at a 
+ power turbine speed of 9,000 rpm (100%N2) 
+ Total power for two-engine operation is limited to 6,600 s.hp. for takeoff, and 
+ 5,400 s.hp. maximum continuous. 
+ Power Off 
+ Power On"
+Rotor Limits,"Max 110% Nr (204 r.p.m.) 
+ Max 104% Nr (193 r.p.m.) 
+ Min 89% Nr (165 r.p.m.) 
+ Min 100% Nr (185 r.p.m.)"
+Airspeed Limits,"VNE (never exceed) 114 m.p.h. (99 knots) at 42,000 lb gross weight. For 
+ increased airspeed limits at lower gross weights and variation of VNE with 
+ altitude refer to Rotorcraft Flight Manual."
+CG Range,"(+328.0) to (+353.0) at 23,000 lb 
+ (+324.0) to (+353.0) at 30,000 lb 
+ (+328.0) to (+353.0) at 38,000 lb 
+ (+328.0) to (+346.0) at 38,000 lb 
+ 42,000 
+ GROSS 
+ 38,000 
+ WEIGHT 
+ (POUNDS) 
+ 30,000 
+ 23,000 
+ 324 
+ 328 
+ 346 
+ 353 
+ Station--Inches"
+ ,"(+328.0) to (+346.0) at 42,000 lb"
+Empty Weight CG Range,None
+Datum,336 inches forward of main rotor centroid
+Leveling Means,Plumb line from top level plate inside cockpit aft door
+Maximum Weight,"42,000 lb"
+Number of Seats,"5. 2 at (+94.0), 1 at (+108.5), 1 at (+127.0), 1 at (+130.0)."
+Maximum Baggage,"500 lb at (+124.0) Two baggage compartments with a maximum allowable floor 
+ loading of 300 p.s.f. and a total allowable load of 250 lb each compartment. See 
+ NOTE 3 for information pertaining to the carriage of external loads."
+Fuel Capacity,"1356 gal. (454 gal. at (+280.8), 454 gal. at (+397.3), 448 gal. at (+461.3))."
+Oil Capacity,"2.6 gal. (+234.0) (2 tanks 1.3 gal. each). See NOTE 1 for data on system fuel 
+ and oil."
+Serial Numbers Eligible,"64002, 64003, 64015, 64016, 64017, 64018, 64019, 64022, 64025, 64027, 
+ 64028, 64033, 64034D, 64037, 64038, 64042, 64043, 64050, 64052, 64058, 
+ 64061, 64064, 64065, 64066, 64079, 64099, 64101, 641001, 64E3001, and 
+ subsequent."
+Certification Basis,"FAR 29, 1 February 1965, including Amendments 29-1 and 29-2 except FAR 
+ 29.855(d), and Special Conditions No. 29-014-SC"
+Type Certificate Issued,"08/21/69 
+ The S-64E is designed and intended to be operated as an industrial flying crane. 
+ It is primarily intended to carry cargo in external load operations and the 
+ certification basis has been developed for that purpose. Special Conditions No. 
+ 29-014-SC include modifications to sections of FAR 29 considered appropriate 
+ for industrial flying crane operation without external loads under FAR 91 and for 
+ rotorcraft-load combinations meeting the requirements of Subpart D of FAR 133."
+II MODEL NUMBER,"S-64F (Transport Category Rotorcraft) (See ALL MODEL Section) (See 
+ NOTES Section)"
+Approved,11/25/70
+Engines,"2 Pratt & Whitney JFTD12A-5A (with Hamilton Standard Fuel Control JFC56- 
+ 6)"
+Fuel,"Aviation Kerosene Jet A or Jet A-1 or Jet B or JP-4 or JP-5 or JP-8 or JP-8+100 
+ (conforming to Pratt & Whitney Aircraft SB 2016)."
+Engine Limits,"Sea level static, standard day conditions 
+ POWER TURBINE 
+ GAS GEN 
+ POWER TURBINE 
+ SHAFT HP 
+ RPM 
+ RPM 
+ INLET TEMP (T5)"
+Takeoff 5 min,"4,800 
+ 9,500(105%N2) 
+ 16,700(104.2%N1) 
+ 720o C"
+One engine imperative 30 min,"4,800 
+ 9,500(105%N2) 
+ 16,700(104.2%N1) 
+ 720o C 
+ 4,430 
+ 9,500(105%N2) 
+ 16,700(104.2%N1) 
+ 675o C"
+Allowable maximum overspeed,"-- 
+ 10,350(114%N2) 
+ 16,700(104.2%N1) 
+ --"
+Acceleration limit 2 min,"-- 
+ -- 
+ -- 
+ 720o C"
+Starting limit 2 sec,"-- 
+ -- 
+ -- 
+ 525o C 
+ Takeoff and maximum continuous horsepower ratings are normally obtained at a 
+ power turbine speed of 9,000 rpm (100%N2) 
+ Total power for two-engine operation is limited to 7,900 s.hp. for takeoff, and 
+ 6,600 s.hp. maximum continuous. 
+ Power Off 
+ Power On"
+Rotor Limits,"Max 110% Nr (204 r.p.m.) 
+ Max 104% Nr (193 r.p.m.) 
+ Min 95% Nr (176 r.p.m.) 
+ Min 100% Nr (185 r.p.m.)"
+Airspeed Limits,"VNE (never exceed) 120 m.p.h. (104 knots) at 47,000 lb gross weight. For 
+ airspeed limits at lower gross weights and variation of VNE with altitude refer to 
+ Rotorcraft Flight Manual."
+CG Range,"(+323.0) to (+349.0) at 23,000 lb 
+ (+323.0) to (+349.0) at 30,000 lb 
+ (+326.4) to (+349.0) at 38,000 lb 
+ (+326.4) to (+346.0) at 38,000 lb 
+ (+328.0) to (+346.0) at 42,000 lb 
+ (+328.0) to (+346.0) at 47,000 lb 
+ 47,000 
+ 42,000 
+ GROSS 
+ WEIGHT 
+ (POUNDS) 
+ 30,000 
+ 23,000 
+ 323 
+ 328 
+ 346 
+ 349 
+ Station--Inches"
+Empty Weight CG Range,None
+Datum,336 inches forward of main rotor centroid
+Leveling Means,Plumb line from top level plate inside cockpit aft door
+Maximum Weight,"47,000 lb"
+Number of Seats,"5. 2 at (+94.0). 1 at (+108.5), 1 at (+127.0), 1 at (+130.0)."
+Maximum Baggage,"500 lb at (+124.0). Two baggage compartments with a maximum allowable floor 
+ loading of 300 p.s.f. and a total allowable load of 250 lb each compartment. See 
+ NOTE 3 for information pertaining to the carriage of external loads."
+Fuel Capacity,"1,356 gal. (454 gal. at (+280.8), 454 gal. at (+397.3), 448 gal. at (461.3))."
+Oil Capacity,"2.6 gal. (+234.0) (2 tanks 1.3 gal. each). See NOTE 1 for data on system fuel 
+ and oil."
+Serial Numbers Eligible,"64081, 64084, 64085, 64086, 64091, 64093, 64097, 64067, 64078, 64080, 
+ 64088, 64089, 64090, 64095, 64098, 64F5001, and subsequent."
+Certification Basis,"FAR 29 dated 1 February 1965 including Amendments 29-1 and 29-2 except 
+ FAR 29.855(d), and Special Conditions No. 29-014-SC."
+Type Certificate Application Date,04/02/69
+Type Certificate Amended,"11/25/70 
+ The S-64F is designed and intended to be operated as an industrial flying crane. 
+ It is primarily intended to carry cargo in external load operations and the 
+ certification basis has been developed for that purpose. Special Conditions No. 
+ 29-014-SC include modifications to sections of FAR 29 considered appropriate 
+ for industrial flying crane operation without external loads under FAR 91 and for 
+ rotorcraft-load combinations meeting the requirements of Subpart D of FAR 133."
+THE FOLLOWING DATA IS PERTINENT TO ALL MODELS OF THIS SERIES:,
+Production Basis,Production Certificate 716NM
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see certification basis) must be installed in the aircraft for 
+ certification. In addition, the following items of equipment are required: (a) 
+ FAA Approved Rotorcraft Flight Manual."
+NOTE 1,"Current weight and balance report including list of required equipment and equipment included 
+ in certificated empty weight, and loading instructions when necessary, must be provided for each 
+ helicopter at the time of original certification. The certificated empty weight and corresponding 
+ C.G. locations must include undrainable oil of 5 lb (+234.0) and unusable fuel of 26 lb (10 lb at 
+ (+290.0), 9 lb at (+370.0), 7 lb at (+461.0))."
+NOTE 2,"The following placard must be displayed in front of and in clear view of the pilot: 
+ ""THIS HELICOPTER MUST BE OPERATED IN COMPLIANCE WITH THE OPERATING 
+ LIMITATIONS SPECIFIED IN THE FAA APPROVED ROTORCRAFT FLIGHT MANUAL."""
+NOTE 3,"Provisions for the carriage of external loads are available in the form of structural hard points on 
+ the fuselage and main landing gear; single point hoist; and a four point load leveler suspension 
+ system. Information concerning the operating limitations with this equipment is contained in the 
+ Rotorcraft Flight Manual."
+NOTE 4,"Information essential to the proper maintenance of the helicopter is contained in the manufacturer’s 
+ Maintenance Manual provided with each helicopter. In addition to the maintenance manuals, the 
+ helicopters are to be serviced and maintained according to the following Service Bulletins: 
+ Model S-64E 
+ 1. Service Bulletin 64B General-2 for component maximum recommended time between overhaul. 
+ Model S-64F 
+ 1. Service Bulletin 64F General-2 for component maximum recommended time between overhaul. 
+ In addition, the following Airworthiness Limitations have been established for this Rotorcraft: 
+ Model S-64E 
+ 1. Service Bulletin 64B General-1 for component retirement times. FAA approved by the 
+ Rotorcraft Certification Office (RCO). 
+ Model S-64F 
+ 1. Service Bulletin 64F General-1 Time Limits-Retirement Schedule. FAA approved. 
+ 2. Service Bulletin 64F General-3 Mandatory Structural Inspections. FAA approved."
+NOTE 5,"Prior to Airworthiness certification as a Model S-64F helicopter, either a military Model CH-54B 
+ helicopter must be inspected and modified according to Erickson Air-Crane Document No. 1097 
+ “Master Conversion Drawing List, CH-54B to S-64F”, or conforms to Erickson Air-Crane General 
+ Arrangement Drawing 6401-10015, Rev. D, or later FAA approved revision level."
+NOTE 6,"Prior to Airworthiness certification as Model S-64E helicopter, military Model CH-54A 
+ helicopters must be inspected and modified according to Erickson Air-Crane Document No. 
+ 1077, “Modification of CH-54A to S-64E Helicopter”, or confoms to Erickson Air-Crane General 
+ Arrangement Drawing 6401-10021, Rev. IR, or later FAA approved revision level."
+NOTE 7,Revision No. 5 to this TCDS was not published by the FAA.
+NOTE 8,Both S-64E and S-64F models are also known as “Industrial Flying Crane Helicopters.”

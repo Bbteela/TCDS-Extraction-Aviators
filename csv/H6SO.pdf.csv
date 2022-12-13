@@ -1,0 +1,669 @@
+Keyterm,Info
+"H6SO 
+ Revision 9 
+ Southwest Florida Aviation 
+ International, Inc. 
+ SW204 (UH-1B) 
+ SW204HP (UH-1B) 
+ SW205 (UH-1H) 
+ SW205A-1 
+ May 3, 2019",
+Type Certificate Holder,"Southwest Florida Aviation International, Inc. 
+ 6075 Wauchula Road 
+ P.O. Box 348 
+ Myakka City, Florida 34251"
+Type Certificate Holder Record,"Mr. Jamie R. Hill transferred TC H6SO to Southwest Florida Aviation International, Inc. 
+ on June 30, 2003. 
+ Southwest Florida Aviation, Inc. transferred TC to Mr. Jamie R. Hill on November 21, 
+ 1998. 
+ TC was originally issued to Southwest Florida Aviation, Inc. April 17, 1989."
+"I – Model SW205 (UH-1H) (Restricted Category Military Surplus Helicopter), Approved April 17, 1989 
+ [SW205 is the TC Holder’s model designation of this helicopter]",
+Engine,Lycoming T53-L-13B
+Fuel,"ASTM 1655, Type A (JP-5) or Type B (JP-4) (See Note 11) 
+ Refer to current TM 55-1520-210-10 operator’s manual for approved vendor designation 
+ and NATO guidelines."
+Engine Limits,"Torque 
+ Output Shaft 
+ Exhaust 
+ Pres. (psi) 
+ Speed (rpm) 
+ Gas Temp. 
+ Takeoff 
+ 50.0 
+ 6,600 
+ 625oC 
+ (30 min.) 
+ (1100 SHP) 
+ (100%) 
+ Maximum 
+ 50.0 
+ 6,600 
+ 610oC 
+ Cont. 
+ (1100 SHP) 
+ (100%) 
+ (See Notes 8 and 9) 
+ Refer to Operators Manual TM55-1520-210-10 for additional limitation data."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9"
+Rev No,"9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 339 rpm 
+ Maximum 324 rpm 
+ Minimum 294 rpm 
+ Minimum 294 rpm 
+ Continuous Operation 294 - 324 rpm"
+Airspeed Limits,"Roof Mounted Pitot Static: 
+ Vne (never exceed speed) 124 knots up to and including 7,500 lbs. G.W. at sea level to 
+ 2000 ft. 
+ Vne (never exceed speed) 113 knots at 9500 lbs. G.W. at sea level to 2000 ft. 
+ Never Exceed 110 knots above 7,500 to 9,500 lbs. G.W. at sea level. 
+ Vne decreases 3 knots per 1,000 feet above sea level."
+CG Range,"Longitudinal C.G. Limits 
+ (+134) to (+143) at 9,500 lbs. 
+ (+130) to (+144) at 8,600 lbs. and below 
+ Lateral C.G. Limits 
+ 4.7 in. left from centerline of fuselage 
+ 6.5 in. right from centerline of fuselage 
+ See TM55-1520-210-10 Flight Manual center of gravity charts for specific 
+ loads/weights."
+Empty Weight,See Model UH-1H TM55-1520-210-10 Flight Manual
+Datum,"Station 0, datum is located 7.6 inches aft of the most forward point of the fuselage nose 
+ section. See TM 55-1520-210-10 Flight Manual."
+Leveling Means,Plumb line from top of left main door frame.
+Maximum Weight,"9,500 lbs."
+Minimum Crew,One (1) pilot
+No of Seats,See Note 19. (See TM-55-1520-210-10 for seat locations)
+Fuel Capacity,"208.5 gallons (+150.4) 
+ Usable fuel 206.5 gallons"
+Oil System,"3.15 gallons (+173) 
+ Usable oil 1.5 gallons (included in capacity) 
+ See Note 1 for data on undrainable oil."
+Rotor Blade and,For rigging information refer to the Model UH-1H Maintenance Manual
+Control Movements,TM55-1520-210-23.
+Serial No’s Approved,"US Military Surplus Helicopters as identified in FAA Approved Southwest Florida 
+ Aviation Report SWFA7, revision 6 dated May 31, 2000, or later FAA approved 
+ revision."
+"II - Model SW204 and SW-204HP (UH-1B) (Restricted Category Military Surplus Helicopter), Approved January 19, 1994. 
+ [SW204 and SW-204HP are the TC holder’s model designations of this helicopter] 
+ SW204 UH1B as surplus",
+Engine,Lycoming T53-L-11D
+Fuel,"ASTM 1655, Type A (JP-5) or Type B (JP-4) 
+ (See Note 11)"
+Engine Limits,"Torque 
+ Output Shaft 
+ Exhaust 
+ Pres. (psi) 
+ Speed (rpm) 
+ Gas Temp. 
+ Takeoff 
+ 47.5 
+ 6,600 
+ 610oC 
+ (5 min.) 
+ (1100 SHP) 
+ Maximum 
+ 39.0 
+ 6,400 
+ 590oC 
+ Cont. 
+ (900 SHP) 
+ (See Notes 8 and 9)"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 339 rpm 
+ Maximum 324 rpm 
+ Minimum 295 rpm 
+ Minimum 294 rpm 
+ Continuous Operation 294 - 324 rpm"
+Airspeed Limits,"Never Exceed 120 knots up to and including 6,600 lbs. G.W. from sea level to 2,000 MSL. 
+ Never Exceed 112 knots from 6,600 to 7,200 lbs. G.W. from sea level to 2,000 MSL. 
+ Never Exceed 95 knots from 7,200 to 8,500 lbs. G.W. from sea level to 2,000 MSL. 
+ Vne decreases 3 knots per 1,000 feet above sea level."
+CG Range,"Longitudinal C.G. Limits 
+ (+125) to (+136) to 6,600 lbs. and above 
+ (+125) to (+136.4) to 6,500 lbs. 
+ (+125) to (+137.3) to 6,250 lbs. 
+ (+125) to (+138) at 6,000 lbs. or less 
+ Lateral C.G. Limits 
+ +/- 4.7 in. left from centerline of fuselage"
+Empty Weight CG Range,See Model UH-1B (204) Maintenance Manual
+Maximum Weight,"8,500 lbs."
+Minimum Crew,One (1) pilot
+Fuel Capacity,"163 gallons with crashworthy system (+136) 
+ Usable fuel 154.5 gallons with crashworthy system 
+ 168 gallons without crashworthy system (+136) 
+ Usable fuel 160.5 gallons without crashworthy system"
+Oil System,"3.25 gallons (+157) 
+ Usable oil 1.5 gallons (included in capacity)"
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9"
+9,"9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ See Note 1 for data on undrainable oil."
+Rotor Blade and,For rigging information refer to the Model UH-1B (204) Maintenance Manual
+Control Movements,TM55-1520-219-20.
+Serial No’s Approved,"US Military Surplus Helicopters as identified in FAA Approved Southwest Florida 
+ Aviation Report SWFA7, revision 6 dated May 31, 2000, or later FAA approved revision. 
+ SW204HP (UH-1B, as modified with alternate engine):"
+Engine,Lycoming T53-L-13B or T5313B (See Note 7)
+Fuel,"ASTM 1655, Type A (JP-5) or Type B (JP-4) 
+ (See Note 11)"
+Engine Limits,"Torque 
+ Output Shaft 
+ Exhaust 
+ Pres. (psi) 
+ Speed (rpm) 
+ Gas Temp. 
+ Takeoff 
+ 50.0 
+ 6,600 (100%) 
+ 625oC 
+ (5 min.) 
+ (1100 SHP) 
+ Max. Cont. 
+ 50.0 
+ 6,600 (100%) 
+ 610oC 
+ (1100 SHP) 
+ (See Notes 8 and 9)"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 339 rpm 
+ Maximum 324 rpm 
+ Minimum 295 rpm 
+ Minimum 294 rpm 
+ Continuous Operation 294 - 324 rpm"
+Airspeed Limits,"Never Exceed 120 knots up to and including 6,600 lbs. G.W. from sea level to 2,000 MSL. 
+ Never Exceed 112 knots from 6,600 to 7,200 lbs. G.W. from sea level to 2,000 MSL. 
+ Never Exceed 95 knots from 7,200 to 8,500 lbs. G.W. from sea level to 2,000 MSL. 
+ Vne decreases 3 knots per 1,000 feet above sea level."
+CG Range,"Longitudinal C.G. Limits 
+ (+125) to (+136) to 6,600 lbs. and above 
+ (+125) to (+136.4) to 6,500 lbs. 
+ (+125) to (+137.3) to 6,250 lbs. 
+ (+125) to (+138) at 6,000 lbs. or less 
+ Lateral C.G. Limits 
+ +/- 4.7 in. left from centerline of fuselage"
+Empty Weight CG Range,See Model UH-1B (204) Maintenance Manual
+Maximum Weight,"8,500 lbs."
+Minimum Crew,One (1) pilot
+Fuel Capacity,"163 gallons with crashworthy system (+136) 
+ Usable fuel 154.5 gallons with crashworthy system 
+ 168 gallons without crashworthy system (+136) 
+ Usable fuel 160.5 gallons without crashworthy system"
+Oil System,"3.25 gallons (+157) 
+ Usable oil 1.5 gallons (included in capacity) 
+ See Note 1 for data on undrainable oil."
+Rotor Blade and,For rigging information refer to the Model UH-1B (204) Maintenance Manual
+Control Movements,TM55-1520-219-20.
+Serial No’s Approved,"US Military Surplus Helicopters as identified in FAA Approved Southwest Florida 
+ Aviation Report SWFA7, revision 6 dated May 31, 2000, or later FAA approved 
+ revision."
+"III-Model SW205A-1 (Restricted Category), Approved June 29, 1996",
+Engine,Lycoming T53-L-13 series
+Fuel,"ASTM Type A (JP-5) or Type B (JP-4) (See Note 11) 
+ See Section 8 of the Bell 205A-1 Flight Manual."
+Engine Limits,"Torque 
+ Output Shaft 
+ Exhaust 
+ Gas Gen. 
+ Pres. (psi) 
+ Speed (rpm) 
+ Gas Temp. 
+ Speed (rpm) 
+ Takeoff 
+ 47.5 
+ 6,600 (100%) 
+ 625oC 
+ 25,200 
+ (5 min.) 
+ (1100 SHP) 
+ (100.2%) 
+ Max. Cont. 
+ 39.0 
+ 6,600 (100%) 
+ 625oC 
+ 24,700 
+ (900 SHP) 
+ (98.2%) 
+ (See Notes 7 and 8)"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 339 rpm 
+ Maximum 324 rpm 
+ Minimum 294 rpm 
+ Minimum 294 rpm 
+ Continuous Operation 294 - 324 rpm"
+Airspeed Limits,"Never Exceed 120 knots up to and including 7,500 lbs. G.W. at sea level. 
+ Never Exceed 110 knots from 7,500 to 9,500 lbs. G.W. at sea level. 
+ Vne decreases 3 knots per 1,000 feet above sea level."
+CG Range,"Longitudinal C.G. Limits 
+ (+133) to (+143) at 9,500 lbs. 
+ (+130) to (+144) at 8,500 lbs. 
+ (+130) to (+144) at 6,500 lbs. 
+ (+134) to (+144) at 5,300 lbs."
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9"
+9,"9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ Lateral C.G. Limits 
+ 4.7 in. left from centerline of fuselage 
+ 6.5 in. right from centerline of fuselage 
+ See Bell Model 205A-1 Flight Manual center of gravity charts for specific 
+ loads/weights."
+Empty Weight CG Range,See Bell Model 205A-1 Flight Manual.
+Maximum Weight,"9,500 lbs."
+Minimum Crew,One (1) pilot
+Fuel Capacity,"220 gallons (+150.4) 
+ Unusable fuel 2 gallons (+144)"
+Oil System,"3.15 gallons (+173) 
+ Usable oil 1.5 gallons (included in capacity) 
+ Undrainable oil 1.72 lbs. (+154)."
+Rotor Blade and,For rigging information refer to the Bell Model 205A-1 Maintenance Manual.
+Serial No’s Approved,No eligible serial numbers (See Note 23)
+Data Pertinent to all Models,
+Datum,"Station 0 (datum is located 7.60 inches aft of the forward point of the fuselage 
+ cabin nose section)."
+Leveling Means,Plumb line from top of left main door frame.
+Certification,"FAR 21.25(a)(2) effective February 1, 1965, for Southwest Florida Aviation"
+Basis,"Models SW205, SW204HP and SW204. 
+ FAR21.25(a)(1)effective January 6, 1975, for Southwest Florida Aviation 
+ Model SW205A-1. 
+ Type Certificate H6SO issued April 17, 1989, for the purpose of: 
+ 1) Agricultural Operations under FAR 21.25(b)(1). 
+ Note: In accordance with FAR 36.1(a)(4), compliance with noise 
+ requirements was not shown. Therefore, aircraft certificated under this type 
+ certficate are only eligible for agricultural operations excepted by FAR 
+ 36.1(a)(4) and defined under FAR 137.3. 
+ 2) Forest and Wildlife Conservation Operations under FAR 21.25(b)(2). 
+ Note: In accordance with FAR 36.1(a)(4), compliance with noise 
+ requirements was not shown. Therefore, aircraft certificated under this type 
+ certficate are only eligible for dispensing firefighting materials excepted by 
+ FAR 36.1(a)(4) and defined under FAR 137.3. 
+ 3) External Load Operations under FAR 21.25(b)(7). 
+ Note: In accordance with FAR 36.1(a)(4), compliance with noise 
+ requirements was not shown. Therefore, aircraft certificated under this type 
+ certficate are only eligible for external load operations excepted by FAR 
+ 36.1(a)(4) and defined under FAR 133.1(b). 
+ Any alteration to the aircraft for Special Purposes not identified above require 
+ further FAA approval and in addition may require noise and/or flight testing. 
+ General Note: Any subsequent modifications to the helicopters type certified 
+ under this Type Certificate are to have the certification basis for that modification 
+ established under 14 CFR 21.101 published June 7, 2000 which became effective 
+ June 10, 2003. Otherwise non-significant modifications are to meet the 
+ requirements of 14 CFR 29 airworthiness standards, transport category, 
+ Amendment 1, effective August 12, 1965 and 14 CFR 29.1529, 
+ Instructions for Continued Airworthiness, Amendment 20, effective September 11, 
+ 1980."
+Production Basis,"None. No helicopter may be manufactured under this approval. Prior to adding serial 
+ numbers to this Type Certificate, each candidate helicopter must undergo a conformity 
+ inspection. The conformity inspection will be conducted in accordance with a Type 
+ Inspection Authorization, Part 1, or request for conformity that will include as a 
+ minimum, the inspections contained in the FAA Rotorcraft Directorate Restricted 
+ Category conformity document dated September 25, 2001 or later FAA approved 
+ revision."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (See Certification Basis) must be installed in the rotorcraft for 
+ certification. In addition the following items or equipment are required with each 
+ rotorcraft as specified: 
+ (a) Outside air temperature gauge 
+ (b) Engine tail pipe temperature gauge 
+ (c) The applicable rotorcraft operator's manual or flight manual as revised 
+ (See Note 4). 
+ (d) For the Model SW204HP (UH-1B, as modified with alternate engine), 
+ FAA approved Rotorcraft Flight Manual Supplement dated January 19, 1994, 
+ or later FAA approved revision, is required. 
+ (e) For the Model SW204 (UH-1B, as surplus), FAA approved Rotorcraft 
+ Flight Manual Supplement dated January 10, 1995, or later FAA approved 
+ revision, is required. 
+ (f) For the Model SW205 (UH-1H), FAA approved Rotorcraft Flight 
+ Manual Supplement dated January 10, 1995, or later FAA approved 
+ revision, is required. 
+ (g) For the Model SW205A-1, FAA approved Rotorcraft Flight Manual 
+ Supplement dated June 9, 1996, or later FAA approved revision, is required."
+NOTE 1,"A current weight and balance report including list of equipment included in the certificated empty 
+ weight, and loading instructions when necessary, must be provided for each rotorcraft at the time of 
+ original certification. For C.G. determination and use of ballast, if required, refer to the 
+ applicable operator's manual, or flight manual, and maintenance manual (See Note 4 for manual 
+ listing). 
+ Model SW205 (UH-1H): The certificated empty weight and corresponding C.G. locations must include 
+ undrainable oil of 1.72 lbs.(+154), and unusable fuel of 16.5 lbs. (+144). 
+ Model SW204 (UH-1B, as surplus) and SW204HP (UH-1B, as modified with alternate engine): The 
+ certificated empty weight and corresponding C.G. locations must include undrainable oil of 1.72 lbs. 
+ and unusable fuel of 16.75 lbs. (+136). 
+ Model SW205A-1: The certificated empty weight and corresponding C.G. locations must include 
+ undrainable oil of 1.72 lbs. (+154) and unusable fuel of 13 lbs. (+144)."
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9"
+9,"9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9"
+NOTE 2,"The following placards must be prominently displayed in the cockpit on the instrument panel and in 
+ full view of the pilot: 
+ All Models: 
+ (a) 
+ External Loads: ""External load operations Vne will be determined for each proposed external load 
+ application."" 
+ (b) 
+ “VFR OPERATIONS ONLY” 
+ Models SW205 (UH-1H) and SW204 (UH-1B, as surplus): 
+ (a) Operating Limits: ""This helicopter must be operated in compliance with the operating limitations 
+ specified in the operator's manual."" 
+ (b) Restricted Category Operations: ""The rotorcraft must be operated in accordance with the restricted 
+ category operating limitations of FAR 91.313 in addition to the limitations noted in the 
+ operator's manual."" See Note 5 for appropriate manual. 
+ Model SW204HP (UH-1B, modified with alternate engine): 
+ (a) Operating Limits: ""This helicopter must be operated in compliance with the operating limitations 
+ specified in the operator's manual and Rotorcraft Flight Manual Supplement."" 
+ (b) Restricted Category Operations: ""The rotorcraft must be operated in accordance with the restricted 
+ category operating limitations of FAR 91.313 in addition to the limitations noted in the 
+ operator's manual and Rotorcraft Flight Manual Supplement."" See Note 5 for the appropriate 
+ manual. 
+ Model SW205A-1: 
+ (a) Operating Limits: ""This helicopter must be operated in compliance with the operating limitations 
+ specified in the flight manual."" 
+ (b) Restricted Category Operations: ""The rotorcraft must be operated in accordance with the restricted 
+ category operating limitations of FAR 91.313 in addition to the limitations noted in the flight 
+ manual."" See note 4 for appropriate manual. 
+ Models SW204 (UH-1B, as surplus) and SW204HP (UH-1B, as modified with alternate engine): 
+ The following placard, as found in TM55-1520-219-10, must be prominently displayed in the cockpit on 
+ the instrument and in full view of the pilot: 
+ CALIBRATED AIRSPEED - KNOTS 
+ WEIGHT 
+ 6,600 lbs. or less 
+ 7,200 lbs. 
+ 8,000 lbs. 
+ 8,500 lbs."
+ENGINE RPM,"6400 
+ 6600 
+ 6400 
+ 6600 
+ 6400 
+ 6600 
+ 6400 
+ 6600"
+SL to 2000,"120 
+ 120 
+ 109 
+ 112 
+ 95 
+ 101 
+ 86 
+ 95 
+ 3000 
+ 116 
+ 118 
+ 105 
+ 108 
+ 92 
+ 97 
+ 82 
+ 92 
+ 6000 
+ 102 
+ 108 
+ 92 
+ 97 
+ 77 
+ 86 
+ 68 
+ 80 
+ 9000 
+ 90 
+ 94 
+ 79 
+ 86 
+ 65 
+ 76 
+ - 
+ - 
+ 12000 
+ 77 
+ 84 
+ 68 
+ 75 
+ - 
+ - 
+ - 
+ - 
+ 15000 
+ 64 
+ 72 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 18000 
+ 51 
+ 61 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ From 0 to 70 knots use 6000 to 6600 rpm range. 
+ From 70 to 120 knots use 6400 to 6600 rpm range. 
+ Reduce speed when vibration is excessive."
+NOTE 3,"The retirement times of critical parts and corresponding approved replacement parts are listed 
+ in Southwest Florida Aviation Report Numbers SWFA3, no revision, dated October 26, 1993, 
+ SWFA4, no revision, dated October 26, 1993, and SWFA9, no revision, dated August 11, 
+ 1995, and also appear in Section 1 of the pertinent maintenance manual, as revised. These 
+ values of retirement or service life cannot be increased without FAA engineering approval. 
+ Parts requiring overhaul and approved replacements for these parts are listed in Southwest Florida 
+ Aviation Report Numbers SWFA1, no revision, October 26, 1993, SWFA2, no revision, dated 
+ October 26, 1993, and SWFA8, no revision, August 11, 1995. 
+ FAA approved revisions to the Southwest Florida Aviation Reports listed above are 
+ also acceptable."
+NOTE 4,"Any maintenance performed on these helicopters must be accomplished in accordance 
+ with applicable maintenance manuals listed below: 
+ The following manuals are required: 
+ Models SW204 (UH-1B, as surplus) and SW204HP (UH-1B, as modified with alternate engine): 
+ (a) 
+ TM55-1520-219-34 Maintenance Manual with current revisions. 
+ (b) 
+ TM55-1520-219-20 Maintenance Manual with current revisions. 
+ (c) 
+ TM55-2840-229-23 Maintenance Manual T53 engines with current revisions. 
+ (d) 
+ TO2J-T53-16 Maintenance Manual T53 engines with current revisions. 
+ (e) 
+ TM38-750 Policy and Procedures for Maintenance Records. 
+ Model SW205 (UH-1H): 
+ (a) 
+ TM55-1520-210-23 Maintenance Manual with current revisions. 
+ (b) 
+ DMWR55-1520-210 ADM UH-1H/UH-1V/EH-1H/EH-1X helicopters with current revisions. 
+ (c) 
+ TM55-2840-229-23 Maintenance Manual T53 engines with current revisions. 
+ (d) 
+ TO2J-T53-16 Maintenance Manual T53 engines with current revisions. 
+ (e) 
+ TM38-750 Policy and Procedures for Maintenance Records. 
+ Model SW205A-1: 
+ (a) 
+ Bell Model 205A-1 Maintenance Manual. 
+ (b) 
+ Bell Model 205A-1 Component and Overhaul Manuel. 
+ (c) 
+ Bell Model 205A-1 Illustrated Parts Manual. 
+ (d) 
+ TM55-2840-229-23 Maintenance Manual T53 Engines with current revisions. 
+ (e) 
+ TM55-2840-229-23P T53 Illustrated Parts Manual. 
+ Other maintenance methods, techniques and practices maybe used as an alternative to these manuals, 
+ provided the maintenance methods, techniques, and practices have been determined to be acceptable 
+ to the FAA."
+NOTE 5,"These helicopters must be operated in accordance with the applicable operator’s manual and FAA 
+ approved flight manual supplement listed below: 
+ Model SW204 (UH-1B, as surplus): 
+ (a) TM55-1520-219-10 Operator’s Manual with revisions. 
+ (b) FAA approved Rotorcraft Flight Manual Supplement dated January 10, 1995 or later FAA 
+ approved revisions. 
+ Model SW204HP (UH-1B, as modified with alternate engine): 
+ (a) TM55-1520-219-10 Operator’s Manual with revisions. 
+ (b) FAA approved Rotorcraft Flight Manual Supplement dated January 19, 1994 or later FAA 
+ approved revisions. 
+ Model SW205 (UH-1H): 
+ (a) TM55-1520-210-10 Operator’s Manual with revisions. 
+ (b) FAA approved Rotorcraft Flight Manual Supplement dated January 10, 1995 or later FAA 
+ approved revisions."
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9"
+9,"9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ Model SW205A-1: 
+ (a) Bell lModel 205A-1 Flight Manual.. 
+ (b) FAA approved Rotorcraft Flight Manual Supplement for the SW205A-1."
+NOTE 6,"Upgraded components used to modify these rotorcraft (as outlined in the reports in Note 3) may not 
+ be covered in the manuals listed above and will require the use of Bell Helicopter civilian Model 204 
+ and 205 manuals or Lycoming civilian engine Model T53 manuals when completing overhauls 
+ and/or routine maintenance."
+NOTE 7,"The TC holder’s model designation for the UH-1B modified by the installation of a Lycoming 
+ Military Model T53-L-13B or Commercial Model T5313B engine is model SW204HP. For 
+ installation of the Lycoming T53-L-13B or T5313B engine on the UH-1B , see Southwest Florida 
+ Aviation Report Number SWFA5, no revision, dated October 26, 1993, or later FAA approved 
+ revision. For limitations, see the Rotorcraft Flight Manual Supplement dated January 19, 1994."
+NOTE 8,"Torque pressure output by the engine torque sensing system varies with individual engines. A 
+ calibration of this value is required on each engine and the value corresponding to the maximum 
+ rated takeoff power is stamped on the engine data plate."
+NOTE 9,"Gas producer speed for maximum rated output varies with individual engines and must be 
+ determined during engine calibration and is then stamped on the engine data plate"
+NOTE 10,"FAA airworthiness directives and manufacturer's alert service bulletins, technical bulletins, service 
+ instructions, operation safety notices and service letters for all Bell 204, 205 and UH-1 series 
+ rotorcraft and Lycoming T5313B, T5311A and T5311B powerplants must be reviewed for 
+ applicability and complied with accordingly."
+NOTE 11,"Phillips PFA55MB anti-icing additive at a concentration not in excess of 0.01% by volume may be 
+ used in fuel for this rotorcraft. No fuel system anti-icing credit is allowed. For all operation below 
+ 40o F ambient temperature, all fuel used in the model UH-1H rotorcraft must contain anti-icing 
+ additive in accordance with Phillips Specification PFA55MB in concentrations of not less than 
+ 0.035% nor more than 0.15% by volume. Blending this additive into the fuel and checking its 
+ concentration must be conducted in the manner prescribed by the military operator's manual."
+NOTE 12,"Main rotor retention strap, Bell P/N 204-012-112-1, are not eligible for installation."
+NOTE 13,Helicopter is not approved for IFR operation or flight into known icing conditions.
+NOTE 14,"Southwest Florida Aviation, Inc. is the original holder of Type Certificate H6SO. Bell Helicopter 
+ Textron, Inc. has no involvement with this Type Certificate."
+NOTE 15,"The following equipment is not authorized to be installed on FAA Restricted Category civilian 
+ certified rotorcraft: 
+ (a) 
+ Gun mounts 
+ (b) 
+ Turrets 
+ (c) 
+ Rocket launchers 
+ (d) 
+ Similar equipment to items a, b, and c which have been designed for military combat or 
+ military training purposes related to combat."
+NOTE 16,"The military external fittings (hard points) are removed from the airframe and civilian external 
+ fittings (auxiliary equipment mounting points) are installed in order to mount the accessory 
+ equipment listed above."
+NOTE 17,"No person may be carried in this helicopter during flight unless that person is essential to the purpose 
+ of the flight."
+NOTE 18,"This helicopter is prohibited from carrying cargo for compensation or hire. Carriage of cargo is 
+ limited to such cargo that is incidental to the helicopter owner/operator’s business, which is other than 
+ air transportation."
+NOTE 19,"Any alteration to the type design of this aircraft may require Instructions For Continued Airworthiness 
+ (ICA’s). Changes to the Type Design by means of a Supplemental Type Certificate (STC) requiring 
+ ICA’s or changes to existing ICA’s must be submitted and reviewed by the Fort Worth Aircraft 
+ Evaluation Group (FTW-AEG). Type Design Changes by means of a field approval that require 
+ ICA’s must have those ICA’s reviewed by the Flight Standards District Office (FSDO) managing the 
+ field approval or the FTW-AEG."
+NOTE 20,"Restricted Category aircraft may not be operated in a foreign country without the express written 
+ approval of that country."
+NOTE 21,"This aircraft has not been shown to meet the requirements of the applicable comprehensive and 
+ detailed airworthiness code as provided by Annex 8 to the Convention on International Civil Aviation."
+NOTE 22,"Military to Civil or Military to Military engine changes are allowed, provided the replacement engine 
+ is of the same make and model as identified in this TCDS. The military or civil replacement engine 
+ must have proper military or civil records and have the applicable FAA Airworthiness Inspection 
+ accomplished and is in an airworthy condition."
+NOTE 23,"The Model SW205A-1 is the Bell Model 205A-1 with a Lycoming T53-L-13B engine. For installation 
+ of the Lycoming T53-L-13B engine on the Bell Model 205A-1 see Southwest Florida Aviation Report 
+ Number SWFA10, no revision, dated September 8, 1995, or later FAA approved revision. At the time 
+ of approval, Southwest Florida Aviation Report Number SWFA7 listed only two eligible serial 
+ numbers, SW205A-1 30090 and 30133. These two aircraft have since been de-registered and re- 
+ configured to the Bell 205A-1 for export. These rotorcraft are no longer eligible for certification as a 
+ SW205A-1 without undergoing an FAA conformity inspection in accordance with the TCDS H6SO 
+ latest revision."
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9"
+9,"9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9"

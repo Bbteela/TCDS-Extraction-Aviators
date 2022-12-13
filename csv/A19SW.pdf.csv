@@ -1,0 +1,1819 @@
+Keyterm,Info
+"A19SW 
+ Revision 12 
+ Air Tractor 
+ AT-602 
+ AT-802 
+ AT-802A 
+ May 19, 2020",
+Type Certificate Holder,"Air Tractor, Inc. 
+ Olney, Texas 76374"
+"I - Model AT-802A 1 PCLM (Restricted Category), Approved December 17, 1992",
+Engine,"Pratt & Whitney PT6A-45R, PT6A-65AR, PT6A-65B, PT6A-65R, PT6A-65AG, PT6A-67R, PT6A-67AG, 
+ PT6A-67AF, or PT6A-67F."
+Fuel,"ASTM D1655-70, JET A, JET A1, JET B, MIL-T-5624, JP-4, JP-8. 
+ For required use of anti-icing additives and emergency use of aviation gasoline per MIL-G-5572, refer to the 
+ FAA Approved Airplane Flight Manual."
+Oil,"MIL-L-7808, MIL-L-23699."
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1173 
+ 3625 
+ 800 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1020 
+ 3150 
+ 800 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 0 to 99"
+Run,"700 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"800 
+ 1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 850 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 60 Min. 
+ 0 to 110 
+ (20 sec)"
+Reverse,"315 
+ 1000 
+ 800 
+ 1650 
+ 90 to 135 
+ 0 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1100 
+ 3625 
+ 820 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1100 
+ 3625 
+ 810 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"700 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"700 
+ 1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 870 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110 
+ (20 sec)"
+Reverse,"900 
+ 760 
+ 1650 
+ 90 to 135 
+ 0 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1295 
+ 4000 
+ 820 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1173 
+ 3625 
+ 810 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"715 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"700 
+ 1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 870 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110 
+ (20 sec)"
+Reverse,"900 
+ 760 
+ 1650 
+ 90 to 135 
+ 0 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1295 
+ 4000 
+ 820 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1220 
+ 3770 
+ 810 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"715 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 870 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ -40 to 110 
+ (20 sec)"
+Reverse,"900 
+ 760 
+ 1650 
+ 90 to 135 
+ 0 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1350 
+ 4170 
+ 800 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1220 
+ 3770 
+ 800 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"750 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 870 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110 
+ (20 sec)"
+Reverse,"900 
+ 760 
+ 1650 
+ 90 to 135 
+ 10 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1424 
+ 4400 
+ 835 
+ 855 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1220 
+ 3825 
+ 820 
+ 840 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"750 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"700 
+ 1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 870 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110 
+ (20 sec)"
+Reverse,"900 
+ 765 
+ 1650 
+ 90 to 135 
+ 10 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1424 
+ 4400 
+ 835 
+ 855 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1220 
+ 3770 
+ 820 
+ 840 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"755 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"700 
+ 1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+transient,"5100 
+ 870 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110 
+ (20 sec)"
+Reverse,"900 
+ 765 
+ 1650 
+ 90 to 135 
+ 10 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1424 
+ 4400 
+ 870 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1220 
+ 3770 
+ 870 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"760 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 910 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110 
+ (20 sec)"
+Reverse,"900 
+ 760 
+ 1650 
+ 90 to 135 
+ 10 to 99"
+Propeller ,"FOR PT6A-45R, PT6A-65B, PT6A-65AR, PT6A-65R, or PT6A-65AG ENGINES:"
+Propeller,Hartzell HC-B5MP-3C/M10876AS or HC-B5MP-3C/M10876ANS
+Limits,"Maximum dia. 111.0 inch, minimum dia. 110.7 inch 
+ Pitch settings, high 79.0, low 16.5, reverse -11.0 at 42 inch station. 
+ OR: 
+ Hartzell HC-B5MP-3F/M11276NS 
+ Maximum dia. 115.2 inch, minimum dia. 114.7 inch 
+ Pitch settings, high 83.1, low 13.9, reverse -10.0 at 42 inch station."
+Propeller ,"FOR PT6A-67R, PT6A-67AF, PT6A-67AG, or PT6A-67F ENGINES:"
+Propeller,Hartzell HC-B5MA-3D/M11276 or HC-B5MA-3D/M11276N (Thru s/n 802A-0073)
+Limits,"HC-B5MA-3D/M11276NS (s/n 802A-0074 & Subs.) SEE NOTE 5 
+ Maximum dia. 115.2 inch, minimum dia. 114.7 inch 
+ Pitch settings, high 83.1, low 13.9, reverse -10.0 at 42-inch station. 
+ OR: 
+ Hartzell HC-B5MA-3D/M11691NS (s/n 802A-0003 & Subs.) 
+ Minimum diameter – 118.2 inch, Maximum diameter – 118.7 in. 
+ Pitch Settings, high 84.0º, low 13.9º, Reverse –10.0º at 42 inch station"
+Airspeed,"VNE (Never Exceed) 
+ 227 mph (197 knots) below 12,500 lbs."
+Limits,"*VNE (Never Exceed) 
+ 169 mph (147 knots) above 12,500 lbs."
+CAS,"*VA (Maneuvering) 
+ 169 mph (147 knots) 
+ *VNO (Max. structural cruise) 
+ 169 mph (147 knots) 
+ **VNE (Never Exceed) 
+ 167 mph (145 knots) above 12,500 lbs. 
+ **VA (Maneuvering) 
+ 167 mph (145 knots) 
+ **VNO (Max. structural cruise) 
+ 167 mph (145 knots) 
+ VFE (Flap extended) 
+ 142 mph (123 knots) 
+ *For s/n 802A-0003 thru 802A-0058 
+ **For s/n 802A-0060 & subs."
+CG Range,"(+23.0) to (+27.0) at 15,000 lbs. (with PT6A-45R) 
+ (+23.0) to (+27.0) at 16,000 lbs. (with PT6A-65 or -67 series) 
+ (+23.0) to (+30.59) at 14,800 lbs. (with PT6A-65 or -67 series) 
+ (+23.0) to (+32.0) at 10,200 lbs. (with Swathmaster Spreader) 
+ (+23.0) to (+35.0) at 10,300 lbs. 
+ Straight-line variation between points."
+Max Weight,"15,000 lbs. (with PT6A-45R) in sprayer configuration 
+ 14,850 lbs. (with PT6A-45R) in duster configuration 
+ 15,000 lbs. (with PT6A-45R) in fire bomber configuration 
+ 15,200 lbs. (with PT6A-65 series) in duster configuration 
+ 16,000 lbs. (with PT6A-67 series) in duster configuration 
+ 16,000 lbs. (with PT6A-65 series or PT6A-67 series) in sprayer configuration 
+ 16,000 lbs. (with PT6A-65 series or PT6A-67 series) in fire bomber configuration 
+ 14,800 lbs. (with PT6A-65 series or PT6A-67 series) in aerial surveying/patrolling configuration"
+No of Seats,"1 (+84.0) 
+ 1 crew (+123.0) when optional crew seat is installed in accordance with Dwg. 11742"
+Max Hopper,"8,000 lbs. (+20.5) with PT6A-45R"
+Load,"8,800 lbs. (+20.5) with PT6A-65 series or PT6A-67 series"
+Fuel Capacity,"256 gallons (+33.0) 
+ (250 gal. usable capacity, one 127 gal. tank in each wing) 
+ 308 gallons optional (+33.0) 
+ (302 gal. usable capacity, one 153 gal. tank in each wing) 
+ 380 gallons optional (+33.0) 
+ (374 gal. usable capacity, one 189 gal. tank in each wing)"
+Oil Capacity,"10.0 quarts, 6.0 quarts usable"
+Control,"Elevator 
+ Up 29  1 
+ Down 15  1"
+Surface,"Elevator tab 
+ Up 8  1.5 
+ Down 11  1.5"
+Movements,"Rudder 
+ Left 24  1 
+ Right 24  1 
+ Aileron 
+ Up 17  1 
+ Down 13  1 
+ Flaps 
+ --- 
+ Down 30  1.5"
+Eligible,802A-0003 and subsequent.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations must be 
+ installed in the aircraft for certification. In addition, the following equipment is required: 
+ a. 
+ Operative pre-stall warning system (Dwg. 50130) 
+ b. 
+ 24 volt electrical system 
+ c. 
+ Slip indicator 
+ d. 
+ Fire Extinguisher (Dwg 10564 or 11421)"
+Agricultural,The following agricultural dispersal equipment may be installed:
+Dispersal,"None, or any of the following:"
+Equipment,"a. 
+ Dust spreader (Dwg. 80634 or 80697 or 80776) 
+ b. 
+ Standard spray system (Dwg. 80472 or 80745) 
+ c. 
+ Micronair spray system (Dwg. 80678) 
+ d. 
+ Fire Gate spray system (Dwg. 80745) 
+ e. 
+ Automatic flagger (Dwg. 80612) 
+ f. 
+ Drift finder smoker (Dwg. 80610) 
+ g. 
+ Crop Hawk, Micronair, Accuflo flowmeter (Dwg. 80472) 
+ h. 
+ 48 extra nozzles (Dwg. 80037) 
+ i. 
+ Night working lights (Dwg. 60382) 
+ j. 
+ Hopper rinse system (dwg. 80900) 
+ k. 
+ Foam tank (dwg. 80576)"
+Optional,The following items of optional equipment may be installed.
+Equipment,"Other items of optional equipment may be approved but not listed here. 
+ Conventional fire bomber gate and vent (Dwg. 81196) 
+ Computerized fire bomber gate and vent (Dwg. 80540) 
+ Air conditioning system (Dwg. 60414 or Dwg 60719) 
+ Cockpit heater (Dwg. 51477) 
+ Fuel flowmeter (Dwg. 60286 or 60585) 
+ Attitude gyro (Dwg. 51625) 
+ Turn coordinator (Dwg. 51625) 
+ King COM or NAV/COM radio (Dwg. 60616) 
+ Windshield washer (Dwg. 60439) 
+ Windshield wiper (Dwg. 60177) 
+ King transponder (Dwg. 60434) 
+ King LMH 3142 radio (Dwg. 60436) 
+ King DME (Dwg.60451) 
+ King HSI/Slaved compass (Dwg. 60451) 
+ King audio console (Dwg. 60451) 
+ Loran-C (Dwg. 60451) 
+ King Automatic direction finder (Dwg. 60724) 
+ King Marker Beacon (Dwg. 60473) 
+ Narco ELT (Dwg. 60554) 
+ Dorne and Margolin ELT (Dwg. 60684) 
+ Garmin GPS 150 (Dwg. 60619) 
+ Trimble GPS (Dwg. 60978) 
+ N.A.T. Audio Control Panel (Dwg. 60493) 
+ King KN53 NAV (Dwg. 60453) 
+ ACK ELT (dwg. 60617) 
+ Public Address/Siren (dwg. 60922) 
+ Directional Gyro (dwg. 51625) 
+ S-Tec Autopilot (Dwg. 70656) 
+ King KLX-135 GPS/COM (Dwg. 60939) 
+ Vertical speed indicator (dwg. 51625) 
+ King high frequency radio (Dwg. 61001) 
+ King Radar altimeter (Dwg. 61004) 
+ King GPS (Dwg. 60992) 
+ Crew Seat (Dwg. 11742) 
+ Garmin GMA 340 Audio Control (Dwg. 61155) 
+ Garmin GNS 530 GPS NAV COM (Dwg. 61163) 
+ Garmin GNS 430 GPS NAV COM (Dwg. 61161) 
+ Garmin GNC 250XL GPS COM (Dwg. 61159) 
+ Garmin GTX 327 Transponder (Dwg. 61157) 
+ King KRA 405B Radar Altimeter (Dwg. 61196) 
+ Engine Fire Detection System (Dwg. 52260) 
+ Fuel Control Override System (Dwg. 70640) 
+ Garmin/Apollo SL40 Com radio (Dwg. 61339) 
+ Ram Air Engine Inlet (Dwg 51208) 
+ Light Package (Dwg 60038). 
+ Auxiliary Fuselage Fuel System (Dwg 52940) (for Aerial Surveying/Patrolling configuration) 
+ Electronics International MVP-50T Engine Monitor Installation (drawing 53160 – alternate to 51625 
+ standard instrument installation) 
+ Amsafe Inflatable Restraints (Dwg 11068) 
+ Dispersal Monitoring System (Dwg 81926) 
+ Reabe Hopper Gauge System (Dwg 82060) 
+ Retractable Firewall Mount (Dwg 13874) 
+ Optional Engine Power Quadrant (Dwg. 70567)"
+Certification,"FAR 23, dated February 1, 1965, through Amendment 23-42, effective February 4, 1991"
+Basis,"with the following sections below being defined as appropriate or inappropriate for the special purpose use of 
+ agricultural spraying, dusting, and seeding and for the special purpose use of forest and wildlife conservation 
+ (fire fighting) per FAR 21.25 (b)(1) and 21.25(b)(2); including the special purpose of Drug Eradication in 
+ accordance with FAR 21.25(b)(7) for the application of herbicides. 
+ Additionally, the airplane may be operated under the special purposes of aerial surveying per 
+ FAR 21.25(b)(3) and patrolling per FAR 21.25(b)(4) with the following restrictions to meet the requirements 
+ of FAR 36 Appendix G, Amendment 36-28: 
+ 1) Maximum takeoff weight of 14,800 lbs 
+ 2) No installed engine with less than 1,295 SHP at takeoff. Acceptable engines are: 
+ a) PT6A-65AG 
+ b) PT6A-65AR 
+ c) PT6A-65R 
+ d) PT6A-67AG 
+ e) PT6A-67AF 
+ f) PT6A-67R 
+ g) PT6A-67F 
+ 3) No agricultural spray or granular dispersal equipment installed, consisting of: 
+ a) Spray booms (Dwg 80647) 
+ b) Spray plumbing (Dwg 80643 or 81321) 
+ c) Fan-operated spray pump (Dwg 80635, 81199, or 80745) 
+ d) Spreader (Dwg 80776, 80634, or 80697) 
+ At Maximum Weight: Defined as the maximum restricted category gross weight the airplane is to be 
+ operated and includes at least full fuel, full operating liquids, crew, baggage, and full hopper. 
+ Appropriate FAR 23 Requirements: 
+ 23.21, 23.23, 23.25(a), 23.29, 23.49(a)(c), 23.65(c), 23.143, 23.171, 23.173(c), 23.201, 23.231(a), 23.233, 
+ 23.235, 23.251, All of Subpart C - Structures, 23.629, 23. 721, 23.723, 23.725, 23.726, 23.727, 23.731, 
+ 23.733, 23.1041, 23.1043, 23.1045, 23.1323, 23.1505, 23.1545, 23.1585(a). 
+ Serial numbers 802A-0003 thru 802A-0083 do comply with 23.629(f). 
+ At Baseline Weight: Defined as a reference weight not to be less than 75 percent of the Maximum Weight 
+ (above). FAR 23 through Amendment 23-42 with the exception of the following requirements deemed 
+ inappropriate per FAR 21.25(a)(1). 
+ Inappropriate FAR 23 Requirements: 
+ 23.1, 23.3, 23.45(b)(c)(d)&(e), 23.51, 23.75, 23.221, 23.629(f)(1), 23.777(f)(1),(h)(1)(ii), 23.781(a),(b), 
+ 23.867, 23.901(d), 23.954, 23.1303(e), 23.1321(d), 23.1325(b)(3),(e), 23.1351(d)(1), 23.1505(c), 
+ 23.1587(a)(5), (a)(6), (a)(7), (a)(8). 
+ Exemption No. 5574 [23.49 (b) (1)] 61 knot stall speed 
+ Equivalent Safety Finding to FAR 23.562, dated September 14, 1992 
+ Equivalent Safety Finding to FAR 23.677 (a), dated March 23, 1999 
+ Equivalent Level of Safety to FAR 23.1093(b), dated December 7, 1992"
+Datum,Wing Leading edge
+Leveling,Top of left hand main landing gear leg 5° tail down
+Baggage,One baggage compartment at (+105). Max capacity 60 lbs.
+Basis,PC2SW
+Export,Aircraft will be eligible for issuance of an Export Certificate of Airworthiness subject to
+Eligibility,compliance with FAR Part 21.
+NOTE 1,"FAA approved Airplane Flight Manual dated December 17, 1992, or later FAA approved revision is required. 
+ Current weight and balance report including list of equipment included in certificated empty weight, and 
+ loading instructions, when necessary, must be provided for each aircraft at the time of original certification. 
+ The empty weight and corresponding center of gravity location must include the following unusable fuel: 40 
+ lbs. at (+33.0)."
+NOTE 2,"All placards required by either FAA Approved Airplane Flight Manual, the applicable operating rules, or the 
+ Certification Basis must be installed in the aircraft."
+NOTE 3,Life Limited airframe parts are listed in the applicable AT-802/802A series Maintenance Manual
+NOTE 4,"The placard “FLIGHT IN VICINITY OF THUNDERSTORMS PROHIBITED” may be deleted when 
+ Lightning-Safe modifications have been incorporated in accordance with drawing 11615."
+NOTE 5,"AT-802A aircraft prior to s/n 802A-0074 with PT6A-67R, PT6A-67AF, or PT6A-67AG engines installed 
+ that have been retrofitted with the p/n 50821-32 side-thrust engine mount must use the Hartzell p/n HC- 
+ B5MA-3D/M11276NS propeller."
+"II - Model AT-802 2 PCLM (Restricted Category) Approved April 27, 1993",
+Engine,"Pratt & Whitney PT6A-45R, PT6A-65AR, PT6A-65B, PT6A-65R, PT6A-65AG, PT6A-67R, PT6A-67AG, 
+ PT6A-67AF, or PT6A-67F"
+Fuel,"ASTM D1655-70, JET A, JET A1, JET B, MIL-T-5624, JP-4, JP-8 
+ For required use of anti-icing additives and emergency use of aviation gasoline per MIL-G-5572, refer to the 
+ FAA Approved Airplane Flight Manual."
+Oil,"MIL-L-7808, MIL-L-23699"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1173 
+ 3625 
+ 800 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1020 
+ 3150 
+ 800 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 0 to 99"
+Run,"700 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"800 
+ 1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 850 
+ (20 sec) 
+ 104.0 
+ 1870 
+ (20 sec)"
+Reverse,"315 
+ 1000 
+ 800 
+ 1650 
+ 90 to 135 
+ 0 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1295 
+ 4000 
+ 820 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1173 
+ 3625 
+ 810 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"715 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"700 
+ 1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 870 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110 
+ (20 sec)"
+Reverse,"900 
+ 760 
+ 1650 
+ 90 to 135 
+ 0 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1295 
+ 4000 
+ 820 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1220 
+ 3770 
+ 810 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"715 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 870 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ -40 to 110 
+ (20 sec)"
+Reverse,"900 
+ 760 
+ 1650 
+ 90 to 135 
+ 0 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1100 
+ 3625 
+ 820 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1100 
+ 3625 
+ 810 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"700 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"700 
+ 1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 870 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110 
+ (20 sec)"
+Reverse,"900 
+ 760 
+ 1650 
+ 90 to 135 
+ 0 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1424 
+ 4400 
+ 835 
+ 855 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1220 
+ 3770 
+ 820 
+ 840 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"755 
+ 58 
+ 60 Min. 
+ -40 to 99"
+Starting,"700 
+ 1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 870 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110 
+ (20 sec)"
+Reverse,"900 
+ 765 
+ 1650 
+ 90 to 135 
+ 10 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1350 
+ 4170 
+ 800 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1220 
+ 3770 
+ 800 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"750 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 870 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110 
+ (20 sec)"
+Reverse,"900 
+ 760 
+ 1650 
+ 90 to 135 
+ 10 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITT C 
+ C"
+Takeoff,"1424 
+ 4400 
+ 855 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1220 
+ 3825 
+ 840 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"750 
+ 58.0 
+ 60 Min 
+ -40 to 99"
+Starting,"1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 870 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110 
+ (20 sec)"
+Reverse,"900 
+ 765 
+ 1650 
+ 90 to 135 
+ 10 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1424 
+ 4400 
+ 870 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1220 
+ 3770 
+ 870 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"760 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 910 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110 
+ (20 sec)"
+Reverse,"900 
+ 760 
+ 1650 
+ 90 to 135 
+ 10 to 99"
+Propeller ,"FOR PT6A-45R, PT6A-65B, PT6A-65AR, PT6A-65R, or PT6A-65AG ENGINES:"
+Propeller,Hartzell HC-B5MP-3C/M10876AS or HC-B5MP-3C/M10876ANS
+Limits,"Maximum dia. 111.0 inch, minimum dia. 110.7 inch 
+ Pitch settings, high 79.0, low 16.5, reverse -11.0 at 42 inch station. 
+ OR: 
+ Hartzell HC-B5MP-3F/M11276NS 
+ Maximum dia. 115.2 inch, minimum dia. 114.7 inch 
+ Pitch settings, high 83.1, low 13.9 , reverse -10.0 at 42 inch station."
+Propeller ,"FOR PT6A-67R, PT6A-67AF, PT6A-67AG, or PT6A-67F ENGINES:"
+Propeller,Hartzell HC-B5MA-3D/M11276 or HC-B5MA-3D/M11276N (Thru s/n 802-0076)
+Limits,"Hartzell HC-B5MA-3D/M11276NS (s/n 802-0078 & Subs.) See Note 5 
+ Maximum dia. 115.2 inch, minimum dia. 114.7 inch 
+ Pitch settings, high 83.1, low 13.9 , reverse -10.0 at 42 inch station. 
+ OR 
+ Hartzell HC-B5MA-3D/M11691NS (s/n 802-0001 & subs.) 
+ Minimum diameter – 118.2 in, Maximum diameter – 118.7 in 
+ Pitch settings, high 84.0º, low 13.9º, reverse –10.0º at 42 inch station"
+Airspeed,"VNE (Never Exceed) 
+ 227 mph (197 knots) below 12,500 lbs."
+Limits,"*VNE (Never Exceed) 
+ 169 mph (147 knots) above 12,500 lbs."
+CAS,"*VA (Maneuvering) 
+ 169 mph (147 knots) 
+ *VNO (Max. structural cruise) 
+ 169 mph (147 knots) 
+ **VNE (Never Exceed) 
+ 167 mph (145 knots) above 12,500 lbs. 
+ **VA (Maneuvering) 
+ 167 mph (145 knots) 
+ **VNO (Max. structural cruise) 
+ 167 mph (145 knots) 
+ VFE (Flap extended) 
+ 142 mph (123 knots) 
+ *For s/n 802-0001 thru 802-0059 
+ **For s/n 802-0064 & subs."
+CG Range,"(+23.0) to (+27.0) at 15,000 lbs. (with PT6A-45R) 
+ (+23.0) to (+27.0) at 16,000 lbs. (with PT6A-65 or -67 series) 
+ (+23.0) to (+30.59) at 14,800 lbs. (with PT6A-65 or -67 series) 
+ (+23.0) to (+32.0) at 10,200 lbs. (with Swathmaster Spreader) 
+ (+23.0) to (+35.0) at 10,300 lbs. 
+ Straight line variation between points."
+Max Weight,"15,000 lbs. (with PT6A-45R) in sprayer configuration 
+ 14,850 lbs. (with PT6A-45R) in duster configuration 
+ 16,000 lbs. (with PT6A-65 series or PT6A-67 series) in sprayer configuration 
+ 15,200 lbs. (with PT6A-65 series or PT6A-67 series) in duster configuration 
+ 16,000 lbs. (with PT6A-65 series or PT6A-67 series) in fire bomber configuration 
+ 15,000 lbs. (with PT6A-45R) in fire bomber configuration 
+ 14,800 lbs. (with PT6A-65 series or PT6A-67 series) in aerial surveying/patrolling configuration"
+No of Seats,"1 at (+84), 1 at (+123)"
+Max Hopper,"8,000 lbs. (+20.5) with PT6A-45R"
+Load,"8,800 lbs. (+20.5) with PT6A-65 series or PT6A-67 series"
+Fuel Capacity,"256 gallons (+33.0) 
+ (250 gal. usable capacity, one 127 gal. tank in each wing) 
+ 308 gallons optional (+33.0) 
+ (302 gal. usable capacity, one 153 gal. tank in each wing) 
+ 380 gallons optional (+33.0) 
+ (374 gal. usable capacity, one 189 gal. tank in each wing)"
+Oil Capacity,"10.0 quarts, 6.0 quarts usable"
+Control,"Elevator 
+ Up 29  1 
+ Down 15  1"
+Surface,"Elevator tab 
+ Up 8  1.5 
+ Down 11  1.5"
+Movements,"Rudder 
+ Left 24  1 
+ Right 24  1 
+ Aileron 
+ Up 17°  1 
+ Down 13  1 
+ Flaps 
+ --- 
+ Down 30  1.5"
+Eligible,802-0001 and subsequent.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations must be installed in 
+ the aircraft for certification. In addition, the following equipment is required: 
+ a. 
+ Operative pre-stall warning system (Dwg. 50130) 
+ b. 
+ 24 volt electrical system 
+ c. 
+ Slip indicator 
+ d. 
+ Fire Extinguisher (Dwg. 10564 or 11421)"
+Agricultural,The following agricultural dispersal equipment may be installed:
+Dispersal,"None, or any of the following:"
+Equipment,"a. 
+ Dust spreader (Dwg. 80634 or 80697 or 80776) 
+ b. 
+ Standard spray system (Dwg. 80472 or 80745) 
+ c. 
+ Micronair spray system (Dwg. 80678) 
+ d. 
+ Fire gate spray system (Dwg. 80745) 
+ e. 
+ Automatic flagger (Dwg. 80612) 
+ f. 
+ Drift finder smoker (Dwg. 80610) 
+ g. 
+ Crop Hawk, Micronair, Accuflo flowmeter (Dwg. 80472) 
+ h. 
+ 48 extra nozzles (Dwg. 80037) 
+ i. 
+ Night working lights (Dwg. 60382) 
+ j. 
+ Hopper rinse system (dwg. 80900) 
+ k. 
+ Foam tank (dwg. 80576)"
+Optional,The following items of optional equipment may be installed.
+Equipment,"Other items of optional equipment may be approved but not listed here. 
+ Conventional fire bomber gate and vent (Dwg. 81196) 
+ Computerized fire bomber gate and vent (Dwg. 80540) 
+ Air conditioning system (Dwg. 60414 or Dwg. 60719) 
+ Cockpit heater (Dwg. 51477) 
+ Fuel flowmeter (Dwg. 60286 or 60499) 
+ Attitude gyro (Dwg. 51625) 
+ Turn coordinator (Dwg. 51625) 
+ King COM or NAV/COM radio (Dwg. 60616) 
+ Windshield washer (Dwg. 60439) 
+ Windshield wiper (Dwg. 60296) 
+ King transponder (Dwg. 60434) 
+ King LMH 3142 radio (Dwg. 60436) 
+ King DME (Dwg.60451) 
+ King HSI/Slaved compass (Dwg. 60451) 
+ King audio console (Dwg. 60451) 
+ Loran-C (Dwg. 60451) 
+ King - Automatic direction finder (Dwg. 60724) 
+ Garmin GPS 150 (Dwg. 60619) 
+ Trimble GPS (Dwg. 60978) 
+ N.A.T. Audio Control Panel (Dwg. 60493) 
+ King KN53 NAV (Dwg. 60453) 
+ S-Tec Autopilot (dwg. 70656) 
+ King KLX-135 GPS/COM (dwg. 60939) 
+ ACK ELT (dwg. 60617) 
+ Narco ELT (Dwg. 60554) 
+ Dorne & Margolin ELT (Dwg. 60684) 
+ Public Address/Siren (dwg. 60922) 
+ Directional Gyro (dwg. 51625) 
+ Vertical Speed indicator (dwg. 51625) 
+ King high frequency radio (Dwg. 61001) 
+ King radar Altimeter (Dwg. 61004) 
+ King GPS (Dwg. 60992) 
+ King Marker beacon (Dwg. 60473) 
+ Garmin GMA 340 Audio Control (Dwg. 61155) 
+ Garmin GNS 530 GPS NAV COM (Dwg. 61163) 
+ Garmin GNS 430 GPS NAV COM (Dwg. 61161) 
+ Garmin GNC 250XL GPS COM (Dwg. 61159) 
+ Garmin GTX 327 Transponder (Dwg. 61157) 
+ King KRA 405B Radar Altimeter (Dwg. 61196) 
+ Engine Fire Detection System (Dwg. 52260) 
+ Garmin/Apollo SL40 Com Radio (Dwg. 61339) 
+ FCU Override System (70640) 
+ Light Package (Dwg. 60038) 
+ Ram Air Engine Inlet (Dwg. 51208) 
+ Auxiliary Fuselage Fuel System (Dwg 52940) (for Aerial Surveying/Patrolling configuration) 
+ Electronics International MVP-50T Engine Monitor Installation (drawing 53160 – alternate to 51625 
+ standard instrument installation) 
+ Amsafe Inflatable Restraints (Dwg 11068) 
+ Dispersal Monitoring System (Dwg 81926) 
+ Reabe Hopper Gauge System (Dwg 82060) 
+ Retractable Firewall Mount (Dwg 13874) 
+ Armor Installation (Dwg. 12032) 
+ Forward Avionics Console (Dwg. 62104) 
+ Aft Avionics Console (Dwg. 62105) 
+ Ballistic Glass Split Doors (Dwg. 11984) 
+ Dual Engine Starter and Ignitor Switches (Dwg. 60408) 
+ Dual Fuel Shutoff Valve Controls (Dwg. 53328) 
+ Dual Fuselage Fuel Valve Controls (Dwg. 71440) 
+ Dual Parking Brake Controls (Dwg. 40108) 
+ Dual Trim Controls (Dwg. 70556) 
+ Externally Mounted Tow Bar (Dwg. 40162) 
+ Optional Engine Power Quadrant (Dwg. 70567)"
+Certification,"FAR 23, dated February 1, 1965, through Amendment 23-42, effective February 4, 1991"
+Basis,"with the following sections below being defined as appropriate or inappropriate for the special purpose use of 
+ agricultural spraying, dusting, and seeding and for the special purpose use of forest and wildlife conservation 
+ (fire fighting) per FAR 21.25 (b)(1) and 21.25(b)(2); including the special purpose of Drug Eradication in 
+ accordance with FAR 21.25(b)(7) for the application of herbicides. 
+ Additionally, the airplane may be operated under the special purposes of aerial surveying per 
+ FAR 21.25(b)(3) and patrolling per FAR 21.25(b)(4) with the following restrictions to meet the requirements 
+ of FAR 36 Appendix G, Amendment 36-28: 
+ 1) Maximum takeoff weight of 14,800 lbs 
+ 2) No installed engine with less than 1,295 SHP at takeoff. Acceptable engines are: 
+ a) PT6A-65AG 
+ b) PT6A-65AR 
+ c) PT6A-65R 
+ d) PT6A-67AG 
+ e) PT6A-67AF 
+ f) PT6A-67R 
+ g) PT6A-67F 
+ 3) No agricultural spray or granular dispersal equipment installed, consisting of: 
+ a) Spray booms (Dwg 80647) 
+ b) Spray plumbing (Dwg 80643 or 81321) 
+ c) Fan-operated spray pump (Dwg 80635, 81199, or 80745) 
+ d) Spreader (Dwg 80776, 80634, or 80697) 
+ At Maximum Weight: Defined as the maximum restricted category gross weight the airplane is to be 
+ operated and includes at least full fuel, full operating liquids, crew, baggage, and full hopper. 
+ Appropriate FAR 23 Requirements: 
+ 23.21, 23.23, 23.25(a), 23.29, 23.49(a)(c), 23.65(c), 23.143, 23.171, 23.173(c), 23.201, 23.231(a), 23.233, 
+ 23.235, 23.251, All of Subpart C - Structures, 23.629, 23.721, 23.723, 23.725, 23.726, 23.727, 23.731, 
+ 23.733, 23.1041, 23.1043, 23.1045, 23.1323, 23.1505, 23.1545, 23.1585(a). 
+ Serial numbers 802-0001 thru 802-0082 do comply with 23.629(f). 
+ At Baseline Weight: Defined as a reference weight not to be less than 75 percent of the Maximum 
+ Weight(above). FAR 23 through Amendment 23-42 with the exception of the following requirements 
+ deemed inappropriate per FAR 21.25(a)(1). 
+ Inappropriate FAR 23 Requirements: 
+ 23.1, 23.3, 23.45(b)(c)(d)&(e), 23.51, 23.75, 23.221, 23.777(f)(1),(h)(1)(ii), 23.781(a),(b), 23.629(f)(1), 
+ 23.867, 23.901(d), 23.954, 23.1303(e), 23.1321(d), 23.1325(b)(3),(e), 23.1351(d)(1), 23.1505(c), 
+ 23.1587(a)(5), (a)(6), (a)(7), (a)(8). 
+ Exemption No. 5574 [23.49 (b) (1)] 61 knot stall speed 
+ Equivalent Safety Finding to FAR 23.562, dated September 14, 1992 
+ Equivalent Safety Finding to FAR 23.677 (a), dated March 23, 1999 
+ Equivalent Level of Safety to FAR 23.1093(b), dated December 7, 1992"
+Datum,Wing Leading edge
+Leveling Means,Top of lefthand main landing gear leg 5° tail down
+Baggage,One baggage compartment at (+105). Max capacity 60 lbs.
+Production Basis,PC2SW
+Export,Aircraft will be eligible for issuance of an Export Certificate of Airworthiness subject to
+Eligibility,compliance with FAR Part 21.
+NOTE 1,"FAA approved Airplane Flight Manual dated April 27, 1993, or later FAA approved revision is required. 
+ Current weight and balance report including list of equipment included in certificated empty weight, and 
+ loading instructions, when necessary, must be provided for each aircraft at the time of original certification. 
+ The empty weight and corresponding center of gravity location must include the following unusable fuel: 40 
+ lbs. at (+33.0)."
+NOTE 2,"All placards required by either FAA Approved Airplane Flight Manual, the applicable operating rules, or the 
+ Certification Basis must be installed in the aircraft."
+NOTE 3,Life Limited airframe parts are listed in the applicable AT-802/802A series Maintenance Manual
+NOTE 4,"The placard “FLIGHT IN VICINITY OF THUNDERSTORMS PROHIBITED” may be deleted when 
+ Lightning-Safe modifications have been incorporated in accordance with drawing 11615."
+NOTE 5,"AT-802 aircraft prior to s/n 802-0078 with PT6A-67R, PT6A-67AF, or PT6A-67AG engines installed that 
+ have been retrofitted with the p/n 50821-32 side-thrust engine mount must use the Hartzell p/n HC-B5MA- 
+ 3D/M11276NS propeller."
+NOTE 6,"Aircraft s/n 802-4001 and subsequent have wings and fuselage frames that are configured for planned future 
+ modifications."
+"III - Model AT-602 1 PCLM (Restricted Category), Approved June 6, 1996",
+Engine,"Pratt & Whitney PT6A-45R, PT6A-45A, PT6A-45B, PT6A-60AG, PT6A-65AR, PT6A-65B, PT6A-65R, or 
+ PT6A-65AG."
+Fuel,"ASTM D1655-70, JET A, JET A1, JET B, MIL-T-5624, JP-4, JP-8. 
+ For required use of anti-icing additives and emergency use of aviation gasoline per MIL-G-5572, refer to the 
+ FAA Approved Airplane Flight Manual."
+Oil,"MIL-L-7808, MIL-L-23699."
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1050 
+ 3245 
+ 800 
+ (5 min) 
+ 104.0 
+ 1700 
+ 100* to 
+ 135 
+ 10 to 99"
+Continuous,"1020 
+ 3150 
+ 800 
+ 104.0 
+ 1700 
+ 100* to 
+ 135 
+ 0 to 99"
+Run,"700 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"800 
+ 1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 850 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 60 Min. 
+ 0 to 110 
+ (20 sec)"
+Reverse,"900 
+ 1000 
+ 800 
+ 1650 
+ 100* to 
+ 135 
+ 0 to 99 
+ * - PT6A-45R minimum oil pressure is 90 PSIG."
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1050 
+ 3245 
+ 820 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1020 
+ 3150 
+ 775 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"750 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"800 
+ 1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 850 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110 
+ (20 sec)"
+Reverse,"900 
+ 760 
+ 1650 
+ 90 to 135 
+ 10 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1050 
+ 3245 
+ 820 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1050 
+ 3245 
+ 810 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"715 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"700 
+ 1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 870 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110 
+ (20 sec)"
+Reverse,"900 
+ 760 
+ 1650 
+ 90 to 135 
+ 0 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1050 
+ 3245 
+ 820 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1050 
+ 3245 
+ 810 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"700 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"700 
+ 1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 870 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110 
+ (20 sec)"
+Reverse,"900 
+ 760 
+ 1650 
+ 90 to 135 
+ 0 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1050 
+ 3245 
+ 820 
+ (5 min) 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Continuous,"1050 
+ 3245 
+ 810 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+Run,"715 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"1000 
+ (5 sec) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 870 
+ (20 sec) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ -40 to 
+ (20 sec) 
+ 110"
+Reverse,"900 
+ 760 
+ 1650 
+ 90 to 135 
+ 0 to 99"
+Propeller ,"FOR PT6A-45R, PT6A-45A, PT6A-45B, or PT6A-60AG ENGINES:"
+Propeller,Hartzell HC-B5MP-3C/M10876AS or HC-B5MP-3C/M10876ANS
+Limits,"Maximum dia. 111.2 inch, minimum dia. 110.7 inch 
+ Pitch settings, high 79.0, low 16.5, reverse -11.0 at 42 inch station."
+Propeller ,"FOR PT6A-65AR, PT6A-65B, PT6A-65R, or PT6A-65AG ENGINES:"
+Propeller,Hartzell HC-B5MP-3C/M10876AS or HC-B5MP-3C/M10876ANS
+Limits,"Maximum dia. 111.2 inch, minimum dia. 110.7 inch 
+ Pitch settings, high 79.0, low 16.5, reverse -11.0 at 42 inch station. 
+ OR: 
+ Hartzell HC-B5MP-3F/M11276NS 
+ Maximum dia. 115.2 inch, minimum dia. 114.7 inch 
+ Pitch settings, high 83.1, low 13.9, reverse -10.0 at 42 inch station."
+Airspeed,"VNE (Never Exceed) 
+ 218 mph (189 knots) below 9,200 lbs."
+Limits,"VNE (Never Exceed) 
+ 162 mph (141 knots) above 9,200 lbs."
+CAS,"VA (Maneuvering) 
+ 162 mph (141 knots) 
+ VNO (Max. structural cruise) 
+ 162 mph (141 knots) 
+ VFE (Flap extended) 
+ 130 mph (113 knots)"
+CG Range,"(+17.5) to (+24.0) at 12,500 lbs. 
+ (+17.5) to (+24.0) at 12,000 lbs. 
+ (+17.5) to (+24.9) at 11,750 lbs. 
+ (+17.5) to (+29.5) at 7,700 lbs."
+Max Weight,"12,500 lbs."
+Max Weight,"12,000 lbs."
+No of Seats,"1 at (+74.0), 1 at (+107.0) when optional crew seat installed per dwg. 11524-40"
+Max Hopper,"6,500 lbs. (+16.0)"
+Fuel Capacity,"218 gallons (+33.0) 
+ (212 gal. usable capacity, one 108 gal. tank in each wing) 
+ 236 gallons optional (+33.0) 
+ (230 gal. usable capacity, one 117 gal. tank in each wing) 
+ 292 gallons optional (+33.0) 
+ (286 gal. usable capacity, one 189 gal. tank in each wing)"
+Oil Capacity,"10.0 quarts, 6.0 quarts usable"
+Control,"Elevator 
+ Up 29  1 
+ Down 16  1"
+Surface,"Elevator tab 
+ Up 11  1.5 
+ Down 9  1.5"
+Movements,"Rudder 
+ Left 20  0/-1° 
+ Right 19  0/-1 
+ Aileron 
+ Up 19  1 
+ Down 14  1 
+ Flaps 
+ --- 
+ Down 28  1.5 
+ Aileron droop with full flaps 9  1"
+Serial Nos,602-0337 and subsequent
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations must be 
+ installed in the aircraft for certification. In addition, the following equipment is required: 
+ a. 
+ Operative pre-stall warning system (Dwg. 50130) 
+ b. 
+ 24 volt electrical system 
+ c. 
+ Slip indicator 
+ d. 
+ Fire Extinguisher (Dwg. 10564 or 11421)"
+Agricultural,The following agricultural dispersal equipment may be installed:
+Dispersal,"None, or any of the following:"
+Equipment,"a. 
+ Dust spreader (Dwg. 80634 or 80697) 
+ b. 
+ Standard spray system (Dwg. 80990) 
+ c. 
+ Micronair spray system (Dwg. 80990) 
+ d. 
+ Automatic flagger (Dwg. 80612) 
+ e. 
+ Drift finder smoker (Dwg. 80610) 
+ f. 
+ Crop Hawk, Micronair, Accuflo flowmeter (Dwg. 80990) 
+ g. 
+ 48 extra nozzles (Dwg. 80037) 
+ h. 
+ Night working lights (Dwg. 60956) 
+ i. 
+ Hopper rinse system (dwg. 80707)"
+Optional,The following items of optional equipment may be installed.
+Equipment,"Other items of optional equipment may be approved but not listed here. 
+ Conventional fire bomber gate and vent (Dwg. 80343) 
+ Air conditioning system (Dwg. 60740) 
+ Cockpit heater (Dwg. 51477) 
+ Fuel flowmeter (Dwg. 60286) 
+ Commercial Band Radio (Dwg. 60436) 
+ Vertical speed indicator (Dwg. 51625) 
+ Loader Seat (Dwg. 11524) 
+ Attitude gyro (Dwg. 51625) 
+ Turn coordinator (Dwg. 51625) 
+ King COM or NAV/COM radio (Dwg. 60616) 
+ Windshield washer (Dwg. 80216) 
+ Windshield wiper (Dwg. 60177) 
+ King transponder (Dwg. 60434) 
+ King audio console (Dwg. 60451) 
+ Automatic direction finder (Dwg. 60724) 
+ Garmin GPS 150 (Dwg. 60619) 
+ King KLX-135 GPS/COM (Dwg. 60939) 
+ Directional Gyro (Dwg. 51625) 
+ ACK ELT (dwg. 60617) 
+ Strobe, Panel, flap lights (Dwg. 60004) 
+ FCU Override System ( Dwg. 70640) 
+ Light Package (Dwg. 60038) 
+ Garmin/Apollo SL40 Com Radio (Dwg. 70640) 
+ Ram Air Engine Inlet (Dwg. 50825) 
+ Electronics International MVP-50T Engine Monitor Installation (Drawing 53159 – alternate to 51625 
+ standard instrument installation) 
+ Amsafe Inflatable Restraints (Dwg 11068) 
+ Dispersal Monitoring System (Dwg 81926) 
+ Reabe Hopper Gauge System (Dwg 82060) 
+ Optional Engine Power Quadrant (Dwg. 70622)"
+Certification,"FAR 23, dated February 1, 1965, through Amendment 23-42, effective February 4, 1991"
+Basis,"with the following sections below being defined as appropriate or inappropriate for the special purpose use of 
+ agricultural spraying, dusting, and seeding and for the special purpose use of forest and wildlife conservation 
+ (fire fighting) per FAR 21.25 (b)(1) and 21.25(b)(2); including the special purpose of Drug Eradication in 
+ accordance with FAR 21.25(b)(7) for the application of herbicides. 
+ At Maximum Weight: Defined as the maximum restricted category gross weight the airplane is to be 
+ operated and includes at least full fuel, full operating liquids, crew, baggage, and full hopper. 
+ Appropriate FAR 23 Requirements: 
+ 23.21, 23.23, 23.25(a), 23.29,23.49(a)(c), 23.65(c), 23.143, 23.171, 23.173(c), 23.201, 23.231(a), 23.233, 
+ 23.235, 23.251, All of Subpart C - Structures, 23.629, 23.721, 23.723, 23.725, 23.726, 23.727, 23.731, 
+ 23.733, 23.1041, 23.1043, 23.1045, 23.1323, 23.1505, 23.1545, 23.1585(a). 
+ At Baseline Weight: Defined as a reference weight not to be less than 75 percent of the Maximum Weight 
+ (above). FAR 23 through Amendment 23-42 with the exception of the following requirements deemed 
+ inappropriate per FAR 21.25(a)(1). 
+ Inappropriate FAR 23 Requirements: 
+ 23.1, 23.3, 23.45(b)(c)(d)&(e), 23.51, 23.75, 23.221, 23.629(f)(1), 23.777(f)(1),(h)(1)(ii), 23.781(a),(b), 
+ 23.867, 23.901(d), 23.954, 23.1303(e), 23.1321(d), 23.1325(b)(3),(e), 23.1351(d)(1), 23.1505(c), 
+ 23.1587(a)(5), (a)(6), (a)(7), (a)(8). 
+ Exemption No. 6136 [23.562(d)] 61 knot stall speed 
+ Equivalent Safety Finding to FAR 23.562, dated September 14, 1992 
+ Equivalent Safety Finding to FAR 23.677 (a), dated February 4, 2000."
+Datum,Wing Leading edge
+Leveling Means,Top of lefthand main landing gear leg 5° tail down
+Baggage,One baggage compartment at (+98.0). Max capacity 60 lbs.
+Production Basis,PC2SW
+Export,Aircraft will be eligible for issuance of an Export Certificate of Airworthiness subject to
+Eligibility,compliance with FAR Part 21.
+NOTE 1,"FAA approved Airplane Flight Manual dated June 6, 1996, or later FAA approved revision is required. 
+ Current weight and balance report including list of equipment included in certificated empty weight, and 
+ loading instructions, when necessary, must be provided for each aircraft at the time of original certification. 
+ The empty weight and corresponding center of gravity location must include the following unusable fuel: 40 
+ lbs. at (+33.0)."
+NOTE 2,"All placards required by either FAA Approved Airplane Flight Manual, the applicable operating rules, or the 
+ Certification Basis must be installed in the aircraft."
+NOTE 3,Life Limited airframe parts are listed in the AT-602 Maintenance Manual

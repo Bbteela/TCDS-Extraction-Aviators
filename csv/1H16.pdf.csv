@@ -1,0 +1,239 @@
+Keyterm,Info
+"1H16 
+ Revision 16 
+ Columbia Helicopters, 
+ Inc 
+ 107-II 
+ June 10, 2019",
+Type Certificate Holder,"Columbia Helicopters, Inc. 
+ 14452 Arndt Road NE 
+ Aurora, OR 97002"
+Type Certificate Holder Record,"Boeing Defense & Space Group transferred TC 1H16 to 
+ Columbia Helicopters, Inc. on December 15, 2006."
+"Model 107-II (Transport Helicopter - Category A and B), Approved January 26, 1962",
+Engine,"2 General Electric CT58-110-1 (with Hamilton Standard Fuel Control 
+ JFC-26, Ref. General Electric Service Bulletin No. 45) or 2 General 
+ Electric CT58-110-2 installed per Vertol Service Bulletin No. 107-277 or 
+ 2 General Electric CT58-140-1 installed per CHI Service Bulletin No. 107-71-0001 or 
+ 2 General Electric CT58-140-2 installed per CHI Service Bulletin No. 107-71-0001"
+Fuel,"Aviation Kerosene, JP4, JP5, JP8 or TS-1 (General Electric Co., Spec. No. D50TF2.) 
+ Approved fuels, Limitations and control adjustments are in the Rotorcraft Flight Manual, 107-1."
+Engine Operating Limits,Sea level static
+For CT58110 Engines,"Shaft 
+ Power 
+ Gas 
+ Power Turbine 
+ hp 
+ Turbine r.p.m. 
+ Gen. r.p.m. 
+ Inlet Temp (T5)"
+Takeoff 5 min,"1250 
+ 21275 (109% Nf) 
+ 26300 (100.3% Ng) 
+ 1250°F (677°C)"
+One engine inoperative,"1250 
+ 21275 (109% Nf) 
+ 26300 (100.3% Ng) 
+ 1250°F (677°C)"
+One engine inoperative,"1350 
+ 21275 (109% Nf) 
+ 26800 (102.2% Ng) 
+ 1300°F (704°C)"
+See NOTE 6,"1050 
+ 21275 (109% Nf) 
+ 26300 (100.3% Ng) 
+ 1175°F (635°C)"
+Maximum transient 2 sec,1545°F (840°C)
+Starting 4 sec,1545°F (840°C)
+Allowable maximum,"23100 (118.5% Nf) 
+ 27600 (105.3% Ng)"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5"
+Rev No,"16 
+ 14 
+ 15 
+ 15 
+ 14"
+Engine Operating Limits,Sea level static
+For CT581401 Engines,"Shaft 
+ Power 
+ Gas 
+ Power Turbine 
+ hp 
+ Turbine r.p.m. 
+ Gen. r.p.m. 
+ Inlet Temp (T5)"
+Takeoff 5 min,"1400 
+ 21275 (109% Nf) 
+ 26300 (100.3% Ng) 
+ 1285°F (696°C)"
+One engine inoperative,"1400 
+ 21275 (109% Nf) 
+ 26300 (100.3% Ng) 
+ 1285°F (696°C)"
+One engine inoperative,"1500 
+ 21275 (109% Nf) 
+ 26800 (103.6% Ng) 
+ 1330°F (721°C)"
+See NOTE 6,"1250 
+ 21275 (109% Nf) 
+ 26300 (100.3% Ng) 
+ 1220°F (660°C)"
+Maximum transient 2 sec,1545°F (840°C)
+Starting 4 sec,1740°F (949°C)
+Allowable maximum,"23100 (118.5% Nf) 
+ 27600 (105.3% Ng)"
+Engine Operating Limits,Sea level static
+For CT581402 Engines,"Shaft 
+ Power 
+ Gas 
+ Power Turbine 
+ hp 
+ Turbine r.p.m. 
+ Gen. r.p.m. 
+ Inlet Temp (T5)"
+Takeoff 5 min,"1400 
+ 21275 (109% Nf) 
+ 26300 (100.3% Ng) 
+ 1285°F (696°C)"
+One engine inoperative,"1400 
+ 21275 (109% Nf) 
+ 26300 (100.3% Ng) 
+ 1285°F (696°C)"
+One engine inoperative,"1500 
+ 21275 (109% Nf) 
+ 27200 (103.6% Ng) 
+ 1396°F (758°C)"
+See NOTE 6,"1250 
+ 21275 (109% Nf) 
+ 26300 (100.3% Ng) 
+ 1220°F (660°C)"
+Maximum transient 2 sec,1545°F (840°C)
+Starting 4 sec,1740°F (949°C)
+Allowable maximum,"23100 (118.5% Nf) 
+ 27600 (105.3% Ng)"
+overspeed 15 sec,"Takeoff and maximum continuous horsepower ratings are normally obtained at 
+ a power turbine speed of 19,500 r.p.m. (100% Nf). Engine identifications and fuel 
+ control adjustment for alternate normal power turbine speed necessary for vertical 
+ operations are in the Rotorcraft Flight Manual, 107-1. 
+ Total power for twin-engine operation is limited to 2440 hp. for takeoff and 2100 hp 
+ maximum continuous. Transmission input power and torque limitations are in the 
+ Rotorcraft Flight Manual, 107-1."
+Rotor Limits,"Maximum 299 r.p.m. 
+ Minimum 233 r.p.m."
+Airspeed Limits,"Never exceed 
+ 168 m.p.h. (146 knots) CAS 
+ 170 m.p.h. (148 knots) IAS zero instrument error 
+ Variation of Vne with rotor r.p.m. and altitude is in 
+ the Rotorcraft Flight Manual, 107-1."
+CG range,"Category A: 
+ (+267.5 in.) to (+307.5 in.) at 17,900 lb. 
+ (+267.5 in.) to (+317.0 in.) at 16,500 lb. or less 
+ C.G. limits vary linearly between 16,500 lbs. and 17,900 lbs. 
+ Category B: 
+ (+276.5 in.) to (+299.0 in.) at 20,000 lb. 
+ (+271.0 in.) to (+300.0 in.) at 19,000 lb. 
+ (+267.5 in.) to (+306.0 in.) at 18,100 lb. 
+ (+267.5 in.) to (+317.0 in.) at 16,500 lb. or less 
+ C.G. limits vary linearly between 16,500 lbs. and 17,900 lbs., 
+ between 17,900 lbs. and 19,000 lbs., and between 19,000 lbs. 
+ and 20,000 lbs."
+Empty weight CG range,None
+Datum,103.6 inches forward of forward jacking point.
+Leveling Means,Plumb line from top of main door frame.
+Maximum weight,"Category A: 
+ 17,900 lb. 
+ Category B: 
+ 19,000 lb. (CT58-110 engines only) 
+ 20,000 lb. (CT58-140 engines only operation above 19,000 lbs. 
+ requires specific rotor pitch housing part numbers listed in NOTE 7) 
+ See NOTE 7 for increased gross weight."
+Minimum Crew,"2 (Pilot, copilot)"
+Maximum Passengers,"Limited by emergency exit requirements: 
+ 39 For S/N's 2,4,5,6,11,101,107 and 108 when airliner ""airstair"" 
+ type main cabin door, P/N 107S8304-1, is installed 
+ 26 For S/N's 402, 404, 406, 408, 2002 and 2003, or when two piece 
+ utility type main cabin door, P/N 107S8303-1, is installed."
+Maximum Baggage,"Baggage bin 1,500 lb. (+440). See NOTE 4 for cargo."
+Fuel capacity,"350 gal. (+348.4) or 
+ 380 gal. (+363.0) when kit 107PK400 and A02S1006-1 and -2 
+ Stub Wing Structures are installed."
+Oil capacity,"4.2 gal. (+431.3) 
+ See NOTE 1 for data on system fuel and oil. 
+ For rigging information, refer to Maintenance Manual 107-2."
+Serial Nos Eligible,"2, 4, 5, 6, 11, 101, 107, 108 
+ 402, 404, 406, 408 (See NOTE 8) 
+ 2002, 2003 (See NOTE 9)"
+Certification basis,"CAR 7 dated August 1, 1956 including amendments 7-1 through 7-4 
+ and Special Conditions for Turbine Powered Rotorcraft in FAA letter to 
+ Vertol March 31, 1961; FAA Administrator telegram, Performance 
+ Requirements, dated August 7, 1961; Exemptions Nos. 188 dated 
+ November 27, 1961, 188A dated April 4, 1962 and 374 dated 
+ December 21, 1964; Equivalent Level of Safety finding dated March 
+ 30, 1994 for S/N 402, 404, 406 and 408 regarding emergency exits 
+ required under CAR 7.354 for a maximum of 26 passengers. 
+ Type Certificate 1H16 issued January 26, 1962. 
+ Date of Application for Type Certificate November 20, 1959."
+Production basis,Production Certificate No. 727NM
+Equipment,"The basic required equipment as prescribed in the applicable 
+ airworthiness regulations (See Certification Basis) must be installed in 
+ the helicopter for certification. In addition, the following items of 
+ equipment are required: 
+ (a) FAA Approved Rotorcraft Flight Manual 107-1"
+NOTE 1,"Current weight and balance report including list of required equipment and equipment 
+ included in certificated empty weight, and loading instructions when necessary, must be 
+ provided for each helicopter at the time of original certification. The certificated empty 
+ weight and corresponding C.G. locations must include undrainable oil of 10 lb. (405) and 
+ unusable fuel of 9 lb. (362). Unusable fuel for vertical operation is 286 lb. (362)."
+NOTE 2,"The following placard must be displayed in front of and in clear view of the pilot: 
+ "" THIS HELICOPTER MUST BE OPERATED IN COMPLIANCE WITH THE 
+ OPERATING LIMITATIONS SPECIFIED IN THE FAA APPROVED ROTORCRAFT 
+ FLIGHT MANUAL."""
+NOTE 3,"Information essential to the proper maintenance of the helicopter including retirement times 
+ and required inspections is contained in the 107-II Maintenance Manual 107-2, Chapter 4 – 
+ Airworthiness Limitations Section provided with each helicopter. The values of the retirement 
+ times and inspection intervals cannot be changed without FAA Engineering Approval."
+NOTE 4,"The cabin floor area between fuselage stations 120 and 410 is structurally satisfactory for a 
+ uniformly distributed loading of 150 p.s.f. when used for cargo purposes. Bulkhead No. 
+ 107S4314 is moveable and can be installed at fuselage stations 284.3, 347.9 and 407.3. 
+ When this bulkhead is installed at fuselage station 347.9 or 284.3, the maximum total load 
+ permitted aft of it, including the contents of the baggage bin (1500 lb. maximum) is 5000 lb. 
+ The cabin floor loading of 150 p.s.f. should not be exceeded under any loading conditions."
+NOTE 5,"If takeoff power is used in cumulative excess of five minutes during any one emergency, 
+ the engine must be inspected in accordance with General Electric Commercial Engine 
+ Service Memorandum CT58-110-1, Maintenance No. 19, April 17, 1962 or CT58-140 General 
+ Electric Commercial Engine Operating Instructions SEI 197, Chapter VI-Abnormal Operations."
+NOTE 6,Engine controls must be set for this rating for vertical operations (See engine limits).
+NOTE 7,"The Type Certificate holder has demonstrated compliance with FAR 133.43 for the 107- 
+ II helicopter for Class B (jettisonable cargo hook load) Rotorcraft - Load Combination at a 
+ maximum overall weight of 22,000 lb. and a maximum cargo hook load of 11,500 lb. 
+ when the helicopter is modified in accordance with Vertol Drawings 107S7350 and 
+ 107S7353. Rotor pitch housings P/N 107R2553-7, -8, -9, -10, -13, -14, -15 or -16 must be installed 
+ for operations in excess of 19,000 lb. the helicopter weight without cargo hook load is not to 
+ exceed certificated weight of 19,000 lb. For limitations, see pertinent FAA Approved 
+ Rotorcraft Flight Manual Supplement and Rotorcraft - Load Combination Flight Manual to 
+ be submitted by applicant for external load operator's certificate in accordance with FAR133."
+NOTE 8,"Serial Numbers 402, 404, 406 and 408 are identical to basic model 107-II as defined by Boeing 
+ Drawing 107X0040-1, except that this fuselage consists of the following components: 
+ 107S0012-1 Fuselage Structure Assembly-Cockpit-Helicopter, (Modified in accordance with 
+ 107X0024-2, Cockpit Mod Instl - CHI); 107S0013-1 Fuselage Structure Assembly-Cabin- 
+ Helicopter, (Modified in accordance with 107X0025-2 Cabin Fuselage Mod. Instl. - CHI); 
+ 107S0014-1 Fuselage Structure Assembly-Aft-Helicopter, (Modified in accordance with 
+ 107X0026-2 Aft Fuselage Mod Instl. - CHI); A02S1006-1 and -2 Stub Wing Structure, R.H. 
+ and L.H., (Modified in accordance with 107X0027-2 Alighting Gear Stub Assy. Mod. Instl - 
+ CHI); and has installed 107PK400-1 Kit Fuel System. This configuration is defined on Boeing 
+ Drawing 107X0040 as the -3 configuration."
+NOTE 9,"Serial Numbers 2002 and 2003 are identical to basic model 107-II as defined by Boeing 
+ Drawing 107X0040-1, except that these fuselages consist of the following components: 
+ A02S0003-1 Fuselage Structure Assy Cockpit - CH-46, (Modified in accordance with 
+ 107X0024-1, Cockpit Mod Instl - CHI); A02S0004-1 Fuselage Structure Assy Cabin 
+ CH-46, (Modified in accordance with 107X0025-1 Cabin Fuselage Mod. Instl - CHI); 
+ A02S0005-1 Fuselage Structure Assy Aft CH-46, (Modified in accordance with 107X0026-1 
+ Aft Fuselage Mod Instl. - CHI); A02S1006-1 and -2 Stub Wing Structure R.H. and L.H., 
+ (Modified in accordance with 107X0027-1 Alighting Gear Stub Assy. Mod. Instl - CHI); and 
+ has installed 107PK400-1 Kit-Fuel System. This configuration is defined on Boeing Drawing 
+ 107X0040 as the -2 configuration."
+NOTE 10,"For revenue passenger service, an approved interior must be installed."

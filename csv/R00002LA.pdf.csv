@@ -1,0 +1,373 @@
+Keyterm,Info
+"R00002LA 
+ Revision 5 
+ Blair Helicopter Services 
+ OH-58A+ 
+ OH-58A 
+ OH-58C 
+ May 27, 2020",
+Type Certificate Holder,"Blair Helicopter Services, Inc. 
+ 19101 Kent Avenue 
+ Lemoore, California 93245 
+ San Joaquin Helicopters 
+ Ownership Transfer to Blair 
+ Helicopter Services Inc. 
+ dated January 30, 2020, 
+ 1407 South Lexington Street 
+ Delano, CA 93215"
+"I - Model OH-58A+ (Restricted Category Military Surplus Rotorcraft) approved January 29, 1998",
+Engine,One Allison 250-C20C (T63-A-720) See Note 8
+Fuel,"ASTMD 1655 JET B. See TM-55-1520-228-10 Table 2.2 for other approved 
+ fuels."
+Engine Limits,"Torque 
+ Exhaust Gas 
+ Output 
+ Gas Gen. 
+ Pressure 
+ Temperature 
+ R.P.M. 
+ Speed 
+ Percent 
+ (C) 
+ Takeoff 
+ (5 Min.) 
+ 100% 
+ 100% 
+ 810 
+ 105 
+ Max. Cont. 
+ 85 
+ 100 
+ 738 
+ 105"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 390 RPM 
+ Maximum 354 RPM 
+ (Dual tach reading) 
+ (Dual tach 110) 
+ Rotor 100 
+ Minimum 347 RPM 
+ Minimum 330 RPM 
+ (Dual tach reading) 
+ (Dual tach 93) 
+ Rotor 98 
+ (See Rotorcraft Operators Manual for transient limits.)"
+age No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8"
+Rev No,"5 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2"
+CG Range,"Longitudinal C.G. Limits 
+ (+107.0 To + 111.4) at 3200 lbs. 
+ (+106.0 To + 112.2) at 3000 lbs. 
+ (+105.2 To + 114.2) at 2500 lbs. 
+ (+105.2 To + 114.2) at 1800 lbs. 
+ Straight line variation between points given. 
+ (See chart) 
+ 3,200 
+ GROSS WEIGHT 
+ 3,000 
+ (LBS) 
+ 2,500 
+ 1,800 
+ 105.2 106.0 107.0 
+ 111.4 112.2 114.2 
+ Station-Inches 
+ Lateral C.G. Limits 
+ 2.6 inches Right 
+ 2.4 inches Left"
+Empty Weight CG Range,Longitudinal Limits (+105.2) to (+114.2)
+Maximum Weight,3200 lbs.
+"II. - Model OH-58A (Restricted Category Military Surplus Rotorcraft) approved August 27, 1998",
+Engine,One Allison 250-C10D (T63-A700) See Note 8
+Fuel,"ASTMD 1655 JET B. See TM-55-1520-228-10 Table 2.2 for other approved 
+ fuels."
+Engine Limits,"Torque 
+ Exhaust Gas 
+ Output 
+ Gas Gen. 
+ Pressure 
+ Temperature 
+ R.P.M. 
+ Speed 
+ PSI 
+ (C) 
+ Takeoff 
+ (5 Min.) 
+ 92 
+ 103% 
+ 749 
+ 104 
+ Max. Cont. 
+ 79 
+ 103 
+ 693 
+ 104 
+ See Rotorcraft Operators Manual TM 55-1520-228-10 for transient limits 
+ Note: Powerplant cooling has been demonstrated to be adequate for the 
+ following ambient temperature schedule: 125F at sea level and decreases by 
+ 3.6F per 1000 feet to the operating maximum altitude of 10,000 feet."
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 390 RPM 
+ Maximum 354 RPM 
+ (Dual tach reading) 
+ (Dual tach 110) 
+ Rotor 100 
+ Minimum 347 RPM 
+ Minimum 330 RPM 
+ (Dual tach reading) 
+ (Dual tach 93) 
+ Rotor 98 
+ Avoid prolonged operation between 172 and 206 RPM (See Rotorcraft 
+ Operators Manual for transient limits)"
+CG Range,"Longitudinal C.G. Limits 
+ Station 
+ (+106.0 To + 112.2) at 3000 lbs. 
+ in ins. 
+ (+105.2 To + 114.2) at 2500 lbs. 
+ (+105.2 To + 114.2) at 1800 lbs. 
+ Straight line variation between points given. 
+ (See chart) 
+ GROSS WEIGHT 
+ 3,000 
+ (LBS) 
+ 2,500 
+ 1,800 
+ 105.2 106.0 107.0 
+ 111.4 112.2 114.2 
+ Station-Inches"
+Empty Weight CG Range,Longitudinal Limits (+105.2) to (+114.2)
+Maximum Weight,3000 lbs.
+"III.- Model OH-58C (Restricted Category Military Surplus Rotorcraft) approved August 27, 1998",
+Engine,One Allison 250-C20C (T63-A720) See Note 8
+Fuel,"ASTMD 1655 JET B. See TM-55-1520-228-10 Table 2.2 for other approved 
+ fuels."
+Engine Limits,"Torque 
+ Exhaust Gas 
+ Output 
+ Gas Gen. 
+ Pressure 
+ Temperature 
+ R.P.M. 
+ Speed 
+ Percent 
+ (C) 
+ Takeoff 
+ (5 Min.) 
+ 100% 
+ 100% 
+ 810 
+ 105 
+ Max. Cont. 
+ 85% 
+ 100 
+ 738 
+ 105 
+ See Rotorcraft Operators Manual TM 55-1520-228-10 for transient limits"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 390 RPM 
+ Maximum 354 RPM 
+ (Dual tach reading) 
+ (Dual tach 110) 
+ Rotor 100 
+ Minimum 347 RPM 
+ Minimum 330 RPM 
+ (Dual tach reading) 
+ (Dual tach 93) 
+ Rotor 98 
+ (See Flight Manual for transient limits)"
+CG Range,"Longitudinal C.G. Limits 
+ Station 
+ (+107.0 To + 111.4) at 3200 lbs. 
+ in ins. 
+ (+106.0 To + 112.2) at 3000 lbs. 
+ (+105.2 To + 114.2) at 2500 lbs. 
+ (+105.2 To + 114.2) at 1800 lbs. 
+ Straight line variation between points given. 
+ 3,200 
+ GROSS WEIGHT 
+ 3,000 
+ (LBS) 
+ 2,500 
+ 1,800 
+ 105.2 106.0 107.0 
+ 111.4 112.2 114.2 
+ Station-Inches 
+ Lateral C.G. Limits 
+ 2.6 inches Right 
+ 2.4 inches Left"
+Empty Weight CG Range,Longitudinal Limits (+105.2) to (+114.2)
+Maximum Weight,3200 lbs.
+Data Pertinent To All Models,
+Airspeed Limits,"Never exceed 138 MPH (120 Knots) CAS. Refer to TM 55-1520-228-10 Par. 
+ 5-19 for additional information (AIRSPEED LIMITS.) Decrease Vne 3 knots 
+ per 1,000 ft. above 3,000 ft. 100 kts. recommended maximum for autorotation"
+Datum,"Station 0 (datum is 1 inch forward of most forward point of fuselage cabin nose 
+ section or 55.16 inches forward of jack point center line)."
+Leveling Means,Leveling means is plumb line from ceiling left rear cabin to index plate on floor.
+Minimum Crew,1 at (+65.0)
+Number of Seats,See Note 15 (1 at +65.0 and 2 at +104.0)
+Maximum Cargo,"Total Maximum Cargo Weight of 950 pounds not exceeding 100 lbs. per sq. ft. 
+ between (+77) and (+114)"
+Fuel Capacity,"71.5 gallons (+116.0) 70.3 usable (See TM55-1520-228-10 Par. 5-12 for fuel 
+ operations limits).Oil Capacity 
+ 11.2 pints (+179.0)"
+Control Movements,"For rigging information refer to Chapter 11 of the Aviation Unit and 
+ Intermediate Maintenance Manual TM55-1520-228-23-2."
+Serial Nos Eligible,"Refer to San Joaquin Helicopters Serial Number Eligible Report Number SJH 
+ 97-011 dated 01/29/98 or later FAA Approved revision. A current copy is on 
+ file at the Los Angeles ACO."
+Certification Basis,"FAR 21.25 (a) (2) effective February 1, 1965, including Amendment 21-1 
+ through 21-42. Type Certificate No. R00002LA issued January 29, 1998, for 
+ the Special Purpose of: 
+ Agricultural Operations under FAR 21.25(b)(1). 
+ Note: In accordance with FAR 36.1(a)(4), compliance with the noise 
+ requirements was not shown. Therefore, aircraft certificated under this type 
+ certificate are only eligible for agricultural operations excepted by FAR 36.1 
+ (a)(4) and defined under FAR 137.3. 
+ Any alteration to the aircraft for Special Purposes not identified above requires further 
+ FAA approval and in addition may require noise and/or flight testing. 
+ General Note: Any subsequent modifications to the helicopters type certified under 
+ this Type Certificate are to have the certification basis for that modification established 
+ under 14 CFR 21.101 published June 7, 2000 which became effective June 10, 2003. 
+ Otherwise non-significant modifications are to meet the requirements of 14 CFR 27 
+ airworthiness standards, normal category, Amendment 4, effective October 27, 1968 
+ and 14 CFR 27.1529, Instructions for Continued Airworthiness, Amendment 18, 
+ effective September 11, 1980."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in or on each helicopter for certification."
+Date of Application,"August 28, 1996."
+Production Basis,"None. No helicopter may be produced under this approval. Prior to adding 
+ serial numbers to this Type Certificate, each candidate helicopter must undergo 
+ a conformity inspection. The conformity inspection will be conducted in 
+ accordance with a Type Inspection Authorization, Part 1, or request for 
+ conformity that will include as a minimum, the inspections contained in the 
+ FAA Rotorcraft Directorate Restricted Category conformity document dated 
+ September 25, 2001 or later FAA approved revisions."
+Note 1,"A current weight and balance report including a list of equipment included in 
+ the certificated empty weight, and loading instructions when necessary, must be 
+ provided for each aircraft at the time of original certification. Refer to Chapter 
+ 6 of Operators Manual, TM55-1520-228-10 or Aviation Unit and Intermediate 
+ Maintenance Manual, TM55-1520-228-23, Para. 1-44 for C.G. determination."
+Note 2,"The following placards must be prominently displayed in the cockpit in full 
+ view of the pilots: 
+ Placard No. 1 
+ “THIS ROTORCRAFT MUST BE OPERATED IN ACCORDANCE WITH 
+ THE RESTRICTED CATEGORY OPERATING LIMITATIONS OF FAR 
+ 91.313.” 
+ Placard No. 2 
+ “THIS HELICOPTER MUST BE OPERATED IN COMPLIANCE WITH THE 
+ OPERATING LIMITATIONS SPECIFIED IN THE APPROVED 
+ HELICOPTER OPERATORS MANUAL. REFER TO TM 55-1520-228-10, 
+ CHAPTER 5 FOR OPERATING LIMITS AND RESTRICTIONS.” 
+ Placard No. 3 
+ VFR OPERATIONS ONLY”"
+Note 3,"The helicopter(s) must be serviced, maintained and inspected in accordance with 
+ the documents specified in San Joaquin Helicopters Instructions for Continued 
+ Airworthiness Report SJH 97-001 dated 03/07/97, as revised or inspected in 
+ accordance with other FAA accepted inspection programs. The TC Holder’s 
+ Instructions for Continued Airworthiness Report is part of the TC Holder’s 
+ Instructions for Continued Airworthiness. An FAA approved/accepted copy 
+ must accompany each helicopter on delivery."
+Note 4,"Prior to obtaining an original Airworthiness Certificate: 
+ A. Each helicopter must pass a conformity inspection in accordance with San 
+ Joaquin Helicopters Configuration Report SJH 97-004 dated 09/18/97 or 
+ later FAA Approved revision. The configuration report also identifies the 
+ special purpose modification(s) accomplished on that particular helicopter. 
+ San Joaquin Helicopters report SJH 97-014 dated 5/23/97 identifies the 
+ Military MWO’s accomplished on the helicopter and the MWO’s which 
+ have been removed. In addition, each helicopter must pass an inspection for 
+ any possible hidden damage and the Military Records reviewed for 
+ acceptability of any repairs or alterations. 
+ B. The maintenance, overhaul, and modification records of each helicopter 
+ must be reviewed for military changes that may affect the airworthiness of 
+ the helicopter. 
+ C. After the required inspections, the aircraft must be found to be in a good 
+ state of preservation, repair, and in a condition for safe operation. 
+ D. A check, by the type certificate holder, of the flight characteristics in 
+ accordance with all applicable portions of Sections II and V of U.S. Army 
+ Technical Manual 55-1520-228-MTF Maintenance Test Flight Manual, 
+ dated November 1, 1988, as appropriate for each aircraft, or other FAA 
+ approved manual."
+Note 5,"This aircraft is prohibited from carrying cargo for compensation or hire. 
+ Carriage of cargo is limited to such cargo that is incidental to the aircraft 
+ owner/operator’s business, which is other than air transportation. (This note 
+ applies to aircraft that have the special purpose, “Carriage of cargo”)."
+Note 6,"Restricted Category aircraft may not be operated in a foreign country without 
+ the express written approval of that country."
+Note 7,"This aircraft has not been shown to meet the requirements of the applicable 
+ comprehensive and detailed airworthiness code as provided by Annex 8 to the 
+ Convention on International Civil Aviation."
+Note 8,"Engine changes are allowed provided the replacement engine is of the same 
+ make and model as identified in this TCDS. The replacement engine must have 
+ proper records and have the applicable FAA Airworthiness inspection 
+ accomplished."
+Note 9,"The Airworthiness directives for the helicopter and engine contained in San 
+ Joaquin Helicopters, Airworthiness Directives Report SJH 97-005 dated 
+ 04/04/97 or later FAA Approved revision, must be complied with prior to 
+ original airworthiness certification."
+Note 10,"An acceptable method of determining engine cycles from engine total operating 
+ time is contained in San Joaquin Helicopters Report Number SJH 97-007 dated 
+ 02/17/97 or later FAA Approved revision. This may be used when converting 
+ military operating hours to commercial equivalent cycles at the time of initial 
+ airworthiness conformity."
+Note 11,"When equipment identified in San Joaquin Helicopters, OH-58 Modification 
+ Work Orders Report Number SJH 97-014, Revision 1, dated 04/17/98, or later 
+ FAA Approved revision is removed, the helicopter center of gravity (CG) will 
+ be beyond AFT limits. The pilot shall refer to U.S. Army Model TM55-1520- 
+ 228-10, Operators Manual (OH-58 A/C Helicopter) to determine the amount of 
+ ballast to be installed at Sta. 22.2 in order to return the center of gravity to 
+ specified parameters."
+Note 12,"OH-58A+, OH-58A, and OH-58C helicopters shall have additional systems 
+ installed as follows: 
+ Description 
+ Report Number 
+ Lead Acid Battery Installation 
+ SJH 97-006 Dated 07/02/97 or later 
+ FAA Approved Revisions. 
+ Flight Hours Recording Meter 
+ SJH 97-009 Dated 06/30/97 or later 
+ Installation 
+ FAA Approved Revisions."
+Note 13,"Model OH-58A or OH-58C helicopters must be operated in accordance with the 
+ operating limitations in the following: 
+ 1) Operator’s Manual TM 55-1520-228-10, Army Model OH-58A/C 
+ Helicopter, dated January 17, 1989, Change 7. 
+ 2) San Joaquin Helicopters RFM Supplement No. 1, Revision 1, dated 
+ August 27, 1998, or later FAA approved revision. 
+ 3) San Joaquin Helicopters RFM Supplement No. 3, dated August 27, 1998, or 
+ later FAA approved revision with Teledyne Gill G-641 lead-acid battery 
+ installed. 
+ Model OH-58A+ helicopter having complied with MWO 1520-228-50-6 which 
+ installs the T63-A-720 engine must be operated in accordance with the 
+ operating limitations in the following: 
+ 1) Operator’s Manual TM 55-1520-228-10, Army Model OH-58A/C 
+ Helicopter, dated January 17, 1989, Change #7. 
+ 2) San Joaquin Helicopters RFM, Supplement No. 1, dated January 12, 1998, or 
+ later FAA approved revision. 
+ 3) San Joaquin Helicopters RFM Supplement No. 3, dated August 27, 1998, or 
+ later FAA approved revision with Teledyne Gill G-641 lead-acid battery 
+ installed."
+Note 14,"Any alteration to the type design of this aircraft may require Instructions for 
+ Continued Airworthiness. These instructions must be submitted and accepted 
+ by FTW-AEG, Aircraft Evaluation Group Office, prior to approval for return to 
+ service."
+Note 15,"No person may be carried in this helicopter during flight unless that person is 
+ essential to the purpose of the flight."
+Note 16,"Alternate or emergency fuels are listed in TM55-1520-228-10 Chapter 2, 
+ Section XIV, Table 2-2. Some limitations apply for the use of certain alternate 
+ and emergency fuels. These limitations are listed in this section."

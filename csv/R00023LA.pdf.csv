@@ -1,0 +1,171 @@
+Keyterm,Info
+"R00023LA 
+ Revision 1 
+ Unical Aviation, Inc. 
+ UH-60A 
+ August 13, 2021",
+TYPE CERTIFICATE HOLDER,"Unical Air Inc. 
+ 1240 Oakhaven Lane 
+ Arcadia, California 91006 
+ TYPE CERTIFICATE HOLDER RECORD: Unical Aviation, Inc .transferred to Unical Air Inc. on August 13, 2021"
+"I - MODEL: UH-60A (Restricted Category Military Surplus Rotorcraft) Approved Aug 28, 2018",
+ENGINES,"(2) General Electric T700-GE-700 Original 
+ (2) General Electric T700-GE-701C Alternate 
+ (2) General Electric T700-GE-701D Alternate"
+FUEL,"Aviation Kerosene JP-4, JP-5, JP-8, Jet A, Jet A-1 or Jet B. 
+ *See NOTE 9 for alternate and emergency fuels."
+ENGINE LIMITS T700GE700,"POWER TURBINE 
+ GAS GEN 
+ POWER TURBINE 
+ SHAFT HP 
+ RPM 
+ RPM 
+ INLET (TGT)"
+Military Power 30 min,"1,561 
+ 20,900 
+ 44,700 
+ 850° C 
+ 1,318 
+ 20,900 
+ 44,700 
+ 775° C"
+ENGINE LIMITS T700GE701DCC,"POWER TURBINE 
+ GAS GEN 
+ POWER TURBINE 
+ SHAFT HP 
+ RPM/% 
+ RPM/% 
+ INLET (TGT)"
+2 12 min OEI,"1,940 
+ 20,900/100 
+ 44,700/102 
+ 903° C"
+Maximum Rating 10 Min dual,"1,890 
+ 20,900/100 
+ 44,700/102 
+ 878° C"
+30 min dual,"1,800 
+ 20,900/100 
+ 44,700/102 
+ 851° C 
+ 1,662 
+ 20,900/100 
+ 44,700/102 
+ 810° C"
+TRANSMISSION LIMITS,"TORQUE: 
+ 110% Single Engine (No time limit) 
+ 100% Dual Engine (No time limit)"
+ROTOR LIMITS,"Power Off: 
+ Power On: 
+ Max. 265 RPM (110%) 
+ Max. 258 RPM (107%) 
+ Min. 217 RPM (90%) 
+ Min. 232 RPM (96%)"
+Page No,"1 
+ 2 
+ 3 
+ 4"
+Rev No,"1 
+ - 
+ - 
+ -"
+AIRSPEED LIMITS,"Vne Power on: 193 knots IAS, (221 MPH). See UAI 1-1520-237-10, Rotorcraft Flight Manual for 
+ Unical Aviation UH-60A, Revision A, dated April 18, 2018, or later FAA-approved revision for 
+ variations of Vne with gross weight, pressure altitude, and temperature and for additional limitation 
+ data."
+EMPTY WEIGHT CG RANGE,None
+DATUM,341.2 inches forward of the main rotor centroid.
+LEVELING MEANS,"Plumb bob in L/H cabin door frame to leveling plate on cabin floor. Ref. Work Package 1727 
+ contained in TM 1-1520-237-23."
+MAXIMUM WEIGHT,"22,000 lbs. *See NOTE 13 for configuration requirements."
+MINIMUM CREW,"2 (pilot, copilot) at Sta. 227.1"
+NO OF PASSENGERS,None. *See NOTE 10 for information on personnel carrying restrictions.
+NUMBER OF SEATS,"2 at Sta. 227.1; 1 at Sta. 262.0; 3 at Sta. 282.0; 3 at Sta. 320.7; 4 at Sta. 339.8; 4 at Sta. 387.2. 
+ Refer to UAI 1-1520-237-10, Rotorcraft Flight Manual for Unical Aviation UH-60A, 
+ Revision A, dated April 18, 2018, or later FAA-approved revision for approved seat 
+ configurations and loading information."
+OTHER LIMITS,"Refer to UAI 1-1520-237-10, Rotorcraft Flight Manual for Unical Aviation UH-60A, 
+ Revision A, dated April 18, 2018, or later FAA-approved revision. Flight hours are counted 
+ from takeoff to landing."
+FUEL CAPACITY,"361.5 gallons; 2 tanks (LH & RH interchangeable) 
+ 359.7 gallons; 2 tanks (LH &RH interchangeable) (with fuel boost pumps installed). at Sta. 
+ 420.75"
+OIL CAPACITY,7 quarts each engine at Sta. 375.0
+SERIAL NO APPROVED,"U.S. military surplus UH-60A helicopters as identified in Unical Aviation report no. UAI 
+ UH60A-SNL, Military Document Supplement, Revision -, dated April 05, 2018, or later 
+ FAA-approved revision."
+CERTIFICATION BASIS,"14 CFR Part 21 § 21.25(a)(2) for the special purposes listed in 14CFR Part 21.25 (b)(1)(2)(7) as 
+ defined below: 
+ (1) 
+ § 21.25(b)(1) Agriculture Operations 
+ (2) 
+ § 21.25(b)(2) Forest & Wildlife Conservation 
+ (3) 
+ § 21.25(b)(7) External Loads 
+ Note: In accordance with 14CFR Part 36.1(a)(4), compliance with the noise requirements 
+ was not shown. Therefore, aircraft certificated under this Type Certificate are only eligible 
+ for agricultural operations as defined in § 137.3, aerial dispensing of liquids and forest conservation 
+ material as defined in § 137.3, or external loads as defined in § 133.1(b). 
+ Any alterations to the aircraft for Special Purposes not identified above require further 
+ FAA approval and in addition, may require noise and/or flight testing. 
+ This aircraft approved for Day or Night VFR operations only. Flight into known icing conditions is 
+ prohibited. 
+ General Note: Any subsequent modifications to the helicopters type certified under this Type 
+ Certificate are to have the certification basis for that modification established under 
+ 14 CFR § 21.101. Non-significant modifications shall have a certification basis of 14 CFR 
+ § 29 dated February 1, 1965, including Amendments 29-1 through 29-17 (amendment effective 
+ as of 12/1/1978) and 29.1529, Instructions for Continued Airworthiness, Amendment 29-20, 
+ effective September 11, 1980."
+DATE OF APPLICATION,"July 25, 2017"
+PRODUCTION BASIS,"None. No helicopters may be produced under this approval. No helicopter serial number may be 
+ added to this type certificate unless approved by the cognizant Aircraft Certification Office."
+EQUIPMENT,"The basic required equipment necessary for the particular special purpose operation must be 
+ installed for certification. In addition, the following item of equipment must be on board the 
+ helicopter and available to the flight crew: UAI 1-1520-237-10, Rotorcraft Flight Manual 
+ for Unical Aviation UH-60A, Revision A, dated April 18, 2018, or later FAA-approved revision."
+NOTE 1,"A current weight and balance report, including a list of equipment included in the certificated 
+ empty weight, and loading instructions when necessary, must be provided for each helicopter 
+ at the time of original airworthiness certification."
+NOTE 2,"All placards required by either the FAA-approved Rotorcraft Flight Manual, the applicable 
+ operating rules, or the Type Certification Data, must be installed on the helicopter. Required 
+ placards are contained in Unical Aviation document UH60A-RPD, Revision -, dated April 06, 
+ 2018, or later FAA-approved revision, or any applied technical bulletins."
+NOTE 3,"The helicopter(s) must be serviced, maintained, inspected, repaired, and overhauled in accordance 
+ with the requirements specified in Unical Aviation document no. UA-UH60A-ICA-1, Instructions 
+ for Continued Airworthiness, Revision - , dated December 08, 2017, or later FAA-accepted 
+ revision, or in accordance with any other FAA-accepted maintenance program. The service life 
+ limited parts retirement intervals for these helicopters is specified in the FAA-approved 
+ airworthiness limitations sections of UA-UH60A-ICA-1. An FAA-approved/accepted copy 
+ must accompany each helicopter on delivery."
+NOTE 4,"This helicopter must be operated in accordance with the UAI 1-1520-237-10, Rotorcraft Flight 
+ Manual for Unical Aviation UH-60A, Revision A, dated April 18, 2018, or later FAA-approved 
+ revision."
+NOTE 5,"This aircraft is prohibited from carrying cargo for compensation or hire. Carriage of cargo is 
+ limited to such cargo that is incidental to the helicopter owner/operator’s business, which is other 
+ than air transportation."
+NOTE 6,"A restricted category helicopter may not be operated in a foreign country without the express 
+ written approval of that country."
+NOTE 7,"This helicopter has not been shown to meet the requirements of the applicable comprehensive and 
+ detailed airworthiness code as provided by Annex 8 to the Convention on International Civil 
+ Aviation."
+NOTE 8,"The US Army Safety Messages that must be complied with for the helicopter and engine prior to 
+ certification are contained in Unical Aviation, Configuration Report document no. UAI-UH60A- 
+ CR-1, Revision - , dated July 18, 2018, or later FAA-accepted revision."
+NOTE 9,"Alternative and emergency fuels are listed in UAI 1-1520-237-10, Rotorcraft Flight Manual for 
+ Unical Aviation UH-60A, Revision A, dated April 18, 2018, or later FAA-approved revision."
+NOTE 10,"No person may be carried onboard this aircraft unless that person is a flight crewmember; is a 
+ flight crewmember trainee; performs an essential function in connection with a special purpose 
+ operation for which the aircraft is certificated; or is necessary to accomplish the work activity 
+ directly associated with that special purpose. Reference 14 CFR §91.313(d)."
+NOTE 11,"Any alteration to the type design of this aircraft may require Instructions for Continued 
+ Airworthiness. Changes to the type design by means of a Supplemental Type Certificate requiring 
+ ICAs or changes to existing ICAs must be submitted and received by the Fort Worth Aircraft 
+ Evaluation Group (FTW-AEG). Type design changes by means of an FAA field approval that 
+ require ICAs must have those ICAs reviewed by the Flight Standards District Office managing the 
+ field approval or the FTW-AEG."
+NOTE 12,"No helicopter may obtain a Restricted Category Airworthiness Certificate under this type 
+ certificate unless it is included in the “Serial No. Approved” list above."
+NOTE 13,"All aircraft under this TC must be equipped with 14-lug wheels for ground operations in excess of 
+ 20,500 lbs."
+NOTE 14,"The builder’s data plate must be installed in accordance with Unical Aviation document UH60A- 
+ - END -"

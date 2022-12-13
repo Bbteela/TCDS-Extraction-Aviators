@@ -1,0 +1,875 @@
+Keyterm,Info
+"A13NM 
+ Revision 23 
+ De Havilland Aircraft of 
+ Canada Limited 
+ DHC-8-100 Series 
+ DHC-8-200 Series 
+ DHC-8-300 Series 
+ DHC-8-400 Series 
+ June 21, 2021",
+Type Certificate Holder,"De Havilland Aircraft of Canada Limited 
+ 123 Garratt Boulevard 
+ Downsview, Ontario 
+ Canada M3K 1Y5 
+ Type Certificate Holder Record Bombardier Inc. 
+ 123 Garratt Boulevard 
+ Downsview, Ontario 
+ Canada M3K 1Y5 
+ 1. DHC-8-100 Series (see Note 5)"
+"Model -101 - Approved Dec. 11, 1984, by the FAA and Sept. 28, 1984, by the Canadian Department of Transport 
+ Model -102 - Approved Aug. 7, 1986, by the FAA and June. 12, 1986, by the Canadian Department of Transport 
+ Model -103 - Approved Nov. 30, 1988, by the FAA and July. 20, 1987, by the Canadian Department of Transport 
+ Model -106 - Approved Dec. 10, 1993, by the FAA and Nov. 20, 1992, by the Canadian Department of Transport 
+ Data Pertinent to all Models Except as Indicated",
+Engines,"2-Pratt & Whitney Canada, Inc., PW120 or PW120A (-101) 
+ 2-Pratt & Whitney Canada, Inc., PW120A or PW121 (-102) 
+ 2-Pratt & Whitney Canada, Inc., PW121 (-103) 
+ 2-Pratt & Whitney Canada, Inc., PW121 (-106) 
+ (See Data Pertinent to All Models Except as Indicated)"
+Fuel,"ASTM D1655 Jet A, Jet A1, Jet B, MIL-DTL-5624 JP-4 & JP-5, and MIL-DTL-83133 
+ JP-8 conforming to Pratt and Whitney Canada, Inc. Specification No. CPW 204"
+Oil,"Oils conforming to Pratt and Whitney Canada, Inc. 
+ Specification No. PWA 521 Type II (MIL-L-23699)."
+Engine Limits,See AFM as listed under Approved Publications
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14"
+Rev No,"23 
+ 15 
+ 18 
+ 18 
+ 13 
+ 22 
+ 15 
+ 13 
+ 18 
+ 19 
+ 23 
+ 21 
+ 20 
+ 23"
+Propeller and Propeller Limits,"2-Hamilton Standard Model 14SF-7 
+ Blade SFA13( )-0A 
+ Diameter 3.96M (13 Ft) 
+ Pitch settings at 0.75 radius: 
+ Feather 
+ 77.5o 
+ Flight fine 
+ 10.5o 
+ Ground fine 
+ -5.5o 
+ Full reverse 
+ -18.5o 
+ Propeller (Np) - 
+ Takeoff 
+ 1212 r.p.m. 
+ Max Continuous 
+ 1212 r.p.m. 
+ (See Data Pertinent to All Models Except as Indicated) 
+ Knots 
+ m.p.h."
+Airspeed Limits,"VMO(Maximum operating) 
+ 0 to 14000 ft 
+ 242 
+ 279"
+IAS,"15000 ft 
+ 239 
+ 275 
+ 20000 ft 
+ 223 
+ 257 
+ 25000 ft 
+ 207 
+ 238 
+ VFE (Flaps extended) 
+ Flaps 5o 
+ 148 
+ 170 
+ Flaps 15o 
+ 148 
+ 170 
+ Flaps 35o 
+ 130 
+ 150 
+ VA (Maneuvering) (-101, -102, -103) 
+ 163 
+ 188 
+ VA (Maneuvering)(-106) 
+ 164 
+ 189 
+ VLO (Landing gear operation) 
+ 158 
+ 182 
+ VLE (Landing gear extended) 
+ 172 
+ 198 
+ VB (Rough Air) 
+ 180 
+ 207 
+ Landing Gear Doors Open Operative 
+ 140 
+ 161 
+ Speed (Max. speed for operation 
+ following an alternate landing gear 
+ extension) 
+ VMCA (Minimum control speed) Flaps 
+ 5o 
+ 79 
+ 91 
+ 15o 
+ 75 
+ 86"
+Maximum Weight,"DHC-8-101 
+ Take-off weight 14,970 kg (33,000 lb)"
+Mass,"DHC-8-102 
+ Take-off weight 15,649 kg (34,500 lb) 
+ DHC-8-103 
+ Take-off weight 15,649 kg (34,500 lb) 
+ 15,966 kg (35,200 lb) 
+ (With MODSUM 8Q420649 incorporated) 
+ DHC-8-106 
+ Take-off weight 16,466 kg (36,300 lb) 
+ (For other weights see AFM as listed under Approved Publications)"
+CG Limits,See AFM as listed under Approved Publications
+Maximum Baggage,"454 kg (1000 lb) (See Weight and Balance Manual for mixed passenger cargo 
+ configuration) 907 kg (2000 lb) with Mod 8/0063 or 8/0083"
+"Model -201 - Approved January 4, 1996, by the FAA and August_24, 1995, by the Canadian Department of Transport 
+ Model -202 - Approved April 19, 1995, by the FAA and March 9, 1995, by the Canadian Department of Transport",
+Engines,"2-Pratt & Whitney Canada, Inc., PW123C (201) 
+ 2-Pratt & Whitney Canada, Inc., PW123D (202) 
+ (See Data Pertinent to All Models Except as Indicated)"
+Fuel,"ASTM D1655 Jet A, Jet A1, Jet B, MIL-DTL-5624 JP-4 & JP-5, and 
+ MIL-DTL-83133 JP-8 conforming to Pratt and Whitney Canada, Inc. 
+ Specification No. CPW 204"
+Oil,"Oils conforming to Pratt and Whitney Canada, Inc. Specification No. PWA 521 
+ Type II (MIL-L-23699)."
+Engine Limits,See AFM as listed under Approved Publications
+Propeller and Propeller Limits,"2-Hamilton Standard Model 14SF-23 
+ Blade SFA13( )-0A 
+ Diameter 3.96M (13 Ft) 
+ Pitch settings at 0.75 radius: 
+ Feather 
+ 77.5o 
+ Flight fine 
+ 10.5o 
+ Ground fine 
+ -5.5o 
+ Full reverse 
+ -18.5o 
+ Propeller (Np) - 
+ Takeoff 
+ 1212 r.p.m. 
+ Max Continuous 
+ 1212 r.p.m. 
+ (See Data Pertinent to All Models Except as Indicated) 
+ Knots 
+ m.p.h."
+Airspeed Limits,"VMO(Maximum operating) 
+ 0 to 14000 ft 
+ 242 
+ 279"
+IAS,"15000 ft 
+ 239 
+ 275 
+ 20000 ft 
+ 223 
+ 257 
+ 25000 ft 
+ 207 
+ 238 
+ VFE (Flaps extended) 
+ Flaps 5o 
+ 148 
+ 170 
+ Flaps 
+ 15o 
+ 148 
+ 170 
+ Flaps 35o 
+ 130 
+ 150 
+ VA (Maneuvering) 
+ 164 
+ 188 
+ VLO (Landing gear operation) 
+ 158 
+ 182 
+ VLE (Landing gear extended) 
+ 172 
+ 198 
+ VB (Rough Air) 
+ 180 
+ 207 
+ Landing Gear Doors Open Operative 
+ 140 
+ 161 
+ Speed (Max. speed for operation 
+ following an alternate landing gear extension) 
+ VMCA (Minimum control speed) 
+ Flaps 
+ 5o 
+ 80 
+ 91 
+ 15o 
+ 74 
+ 86"
+Maximum Weight Mass,"All Models, Take-off weight 16,466 kg (36,300 lb) 
+ (For other weights see AFM as listed under Approved Publications)"
+CG Limits,See AFM as listed under Approved Publications
+Maximum Baggage,907 kg (2000 lb) (See Weight and Balance Manual for mixed passenger cargo configuration)
+3 DHC8300 Series,"Model -301- 
+ Approved June 8, 1989, by the FAA and Feb. 14, 1989, by the Canadian Department of 
+ Transport 
+ Model -311- 
+ Approved September 14, 1990, by the FAA and July 31, 1990, by the Canadian 
+ Department of Transport 
+ Model -315- 
+ Approved June 28, 1995, by the FAA and June 2, 1995, by the Canadian Department of 
+ Transport"
+Engines,"2-Pratt & Whitney Canada, Inc., PW123 (-301 and -311) 
+ 2-Pratt & Whitney Canada, Inc., PW123E (-315) 
+ (See Data Pertinent to All Models Except as Indicated)"
+Fuel,"ASTM D1655 Jet A, Jet A1, Jet B, MIL-DTL-5624 JP-4 & JP-5, and 
+ MIL-DTL-83133 JP-8 conforming to Pratt and Whitney Canada, Inc. 
+ Specification No. CPW 204"
+Oil,"Oils conforming to Pratt and Whitney Canada, Inc. Specification No. PWA 521 
+ Type II (MIL-L-23699)."
+Engine Limits,See AFM as listed under Approved Publications
+Propeller and,2-Hamilton Standard Model 14SF-15 or 14SF-23
+Propeller Limits,"Blade 
+ SFA13 ( )-0A 
+ Diameter 
+ 3.96M (13 Ft) 
+ Pitch settings at 0.75 radius: 
+ Feather 
+ 77.5o 
+ Flight fine 
+ 11.5o 
+ Ground fine 
+ -7.5o 
+ Full reverse 
+ -18.5o 
+ Propeller (Np) - 
+ Takeoff 
+ 1212 r.p.m. 
+ Max Continuous 
+ 1212 r.p.m. 
+ (See Data Pertinent to All Models Except as Indicated) 
+ Knots 
+ m.p.h."
+Airspeed Limits,"VMO (Maximum operating) 
+ 0 to 17000 ft 
+ 243 
+ 280"
+IAS,"20000 ft 
+ 232 
+ 267 
+ 25000 ft 
+ 214 
+ 246 
+ DHC-8-301 
+ VFE (Flaps extended) 
+ Flaps 5o 
+ 160 
+ 184 
+ Flaps 10o 
+ 149 
+ 171 
+ Flaps 15o 
+ 149 
+ 171 
+ Flaps 35o 
+ 127 
+ 155 
+ VA (Maneuvering) 
+ 176 
+ 203 
+ VLO (Landing gear operation) 
+ 158 
+ 182 
+ VLE (Landing gear extended) 
+ 173 
+ 199 
+ VB (Rough Air) 
+ 188 
+ 216 
+ Knots 
+ m.p.h. 
+ Landing Gear Doors Open Operative 
+ 140 
+ 161 
+ Speed (Max. speed for operation 
+ following an alternate landing gear extension) 
+ VMCA (Minimum control speed) 
+ Flaps 
+ 5o 
+ 83 
+ 96 
+ Flaps 
+ 15o 
+ 78 
+ 89 
+ DHC-8-311 and 315 
+ VFE (Flaps extended) 
+ Flaps 5o 
+ 163 
+ 187 
+ Flaps 10o 
+ 154 
+ 177 
+ Flaps 15o 
+ 150 
+ 173 
+ Flaps 35o 
+ 138 
+ 159 
+ VA (Maneuvering) 
+ 177 
+ 204 
+ VLO (Landing gear operation) 
+ 163 
+ 187 
+ VLE (Landing gear extended) 
+ 173 
+ 199 
+ VB (Rough Air) 
+ 190 
+ 219 
+ Landing Gear Doors Open Operative 
+ 140 
+ 161 
+ Speed (Max. speed for operation 
+ following an alternate landing gear 
+ extension) 
+ VMCA (Minimum control speed) 
+ Flaps 
+ 15o 
+ 78 
+ 90 
+ Flaps 
+ 10o 
+ 80 
+ 92 
+ Flaps 
+ 5o 
+ 83 
+ 95 
+ Flaps 
+ 0o 
+ 94 
+ 109"
+Maximum Weight,"DHC-8-301 
+ Take-off weight 18,643 kg (41,100 lb)"
+Mass,"DHC-8-311 and 315 
+ Take-off weight 18,643 kg (41,100 lb) 
+ 18,997 kg (41,880 lb) 
+ (with CR803SO00001 incorporated) 
+ 19,505 kg (43,000 lb) 
+ (with CR803SO00002 incorporated) 
+ (For other weights see AFM as listed under Approved Publications)"
+CG Limits,See AFM as listed under Approved Publications
+Maximum Baggage,"1,130 kg (2500 lb) for standard baggage compartment (See Weight and Balance 
+ Manual for other configurations)"
+CargoCombi,"All cargo, 20, 40 or 48 passenger configurations with a moveable passenger/"
+DHC8311,"cargo bulkhead located at station 197.0, 354.0, 515.0 or 579.0 respectively"
+4 DHC8400 Series,"Model 400 
+ Approved January 24, 2000 by the FAA and July 30, 1999 by the Canadian Department 
+ of Transport 
+ Model 401 
+ Approved January 25, 2000 by the FAA and August 3, 1999 by the Canadian Department 
+ of Transport 
+ Model 402 
+ Approved January 26, 2000 by the FAA and August 4, 1999 by the Canadian Department 
+ of Transport 
+ Engines 
+ 2 Pratt & Whitney Aircraft of Canada engines as follows: 
+ DHC-8-400, 401 and 402, PW150A 
+ Fuel 
+ Kerosene Type: 
+ ASTM D1655 JET A, ASTM D1655 JET A1 
+ MIL-DTL-5624 JP-5, MIL-T-83133 JP-8 
+ Wide Cut Type: 
+ ASTM D1655 JET B, MIL-DTL-5624 JP-4 
+ conforming to Pratt & Whitney Canada, Inc. Specification No. CPW 204 
+ Oil 
+ Oils conforming to specification MIL-L-23699 (See AFM as listed in Approved 
+ Publications.) 
+ Engine Limits 
+ See AFM as listed in Approved Publications. 
+ Propeller and 
+ Dowty Aerospace Model R408/6-123-F/17 
+ Propeller Limits 
+ Blade 
+ 4.11 M (13.5 ft.) nominal 
+ Diameter 
+ Pitch setting at 0.70 radius: 
+ Feather 
+ 84.5o 
+ Flight fine (Electronic) 
+ 16.5 o 
+ Flight fine (Hydraulic) 
+ 16.0 o 
+ Ground fine 
+ -3.5 o 
+ Full reverse 
+ -19.0o 
+ Propeller (NP) - Take-off 
+ 1020 rpm 
+ Max. continuous 
+ 1020 rpm"
+Airspeed Limits,"Knots 
+ m.p.h"
+IAS,"VMO 
+ (Maximum Operating) 0 to 
+ 8,000 ft 
+ 245 
+ 282 
+ 10,000 ft 
+ 282 
+ 325 
+ 18,000 ft 
+ 286 
+ 329 
+ 20,000 ft 
+ 275 
+ 316 
+ 25,000 ft 
+ 248 
+ 285 
+ VFE (Flaps extended) 
+ Flap 5o 
+ 200 
+ 230 
+ Flap 10 o 
+ 181 
+ 208 
+ Flap 15 o 
+ 172 
+ 198 
+ Flap 35 o 
+ 158 
+ 182 
+ VA (Maneuvering) 
+ 204 
+ 235 
+ VLO (Landing gear operation) 
+ 200 
+ 230 
+ VLE (Landing gear extended) 
+ 215 
+ 247 
+ VB (Rough Air) 
+ 210 
+ 242 
+ Landing Gear Door Open Operative Speed 
+ 185 
+ 213 
+ (Max. Speed for operation following an alternate 
+ landing gear extension) 
+ VMCA (Minimum control speed) 
+ Flap 15 o 
+ 91 
+ 105 
+ Flap 10 o 
+ 95 
+ 109 
+ Flap 5 o 
+ 98 
+ 113 
+ Flap 0 o 
+ 113 
+ 130 
+ (Refer to AFM for airspeed limits) 
+ Maximum Weight 
+ Take-off weight: 
+ Models 400, 401 and 402 
+ (With Modsum 4-201539 incorporated) 
+ 27,987 Kg 
+ (61,700 lb) 
+ (With Modsum 4-308807 incorporated) 
+ 28,998 Kg 
+ (63,930 lb) 
+ (With Modsum 4-308907 incorporated) 
+ 29,257 Kg 
+ (64,500 lb) 
+ (With Modsum 4-309238 incorporated) 
+ 29,574 Kg 
+ (65,200 lb) 
+ C.G. Limits 
+ See AFM as listed in Approved Publications. 
+ Maximum Baggage 
+ For standard baggage compartments 
+ Aft baggage compartment: 1669 Kg (3680 lb) 
+ Fwd baggage compartment: 413 Kg (910 lb) 
+ See Weight and Balance Manual for other configurations"
+DATA PERTINENT TO ALL MODELS EXCEPT AS INDICATED:,
+Series 100 200 and 300,"Propeller and Propeller Limits 
+ The following Hamilton Standard Propeller combinations are approved. 
+ Basic Aircraft 
+ Model 
+ Models 
+ Models 
+ Models 
+ 101 
+ 102, 103 & 106 
+ 201 & 202 
+ 301, 311, & 315 
+ 14SF-7 & -7 
+ 14SF-7 & -7 
+ 14SF-23 & -23 
+ 14SF-15 & 15 
+ 14SF-23 & -23 
+ Modification 8/2579 allows the following additional Hamilton Standard Propeller combinations."
+Models 102 103  106,"Models 201 & 202 
+ Models 301, 311, & 315"
+14SF15  14SF15,"14SF-15 & 14SF-15 
+ 14SF-15 & 14SF-23"
+14SF15  14SF7,14SF-15 & 14SF-23
+Engines,"The following Pratt & Whitney Aircraft of Canada engine combinations are approved. 
+ Any combination of original engines and/or optional engines within each aircraft model 
+ is permitted. For series 200 and 300 aircraft, optional engines must incorporate 
+ modification 8/2735 
+ Approved Engine Combinations 
+ Aircraft Model 
+ Original Engine 
+ Optional Engine 
+ 102 
+ PW120A 
+ PW121 
+ 201 
+ PW123C 
+ PW123 
+ PW123B 
+ PW123D 
+ PW123E 
+ 202 
+ PW123D 
+ PW123 
+ PW123B 
+ PW123E 
+ 301 and 311 
+ PW123 
+ PW123B 
+ PW123E 
+ The following P&WC Service Bulletin matrix lists the service bulletins which must be incorporated to change 
+ an optional engine to the rating of an original engine. The cancelling derate service bulletin is also shown. 
+ P&WC Service Bulletin Matrix 
+ Optional Engine 
+ Original Engine 
+ P&WC S.B. 
+ P&WC S.B. 
+ Rating 
+ Derate 
+ Cancel Derate 
+ PW123 
+ PW123C 
+ 21501 
+ 21502 
+ PW123D 
+ PW123 
+ PW123B 
+ PW123C 
+ 21499 
+ 21500 
+ PW123D 
+ PW123D 
+ PW123C 
+ 21503 
+ 21504 
+ PW123 
+ PW123E 
+ PW123C 
+ 21497 
+ 21498 
+ PW123D"
+Series 100 200 300,"Plate located on centerline at Station 423.0 in. (1074.4 cm) on underside of 
+ fuselage."
+Series 400,"Plate located on centerline at “Station 428.0 in” (1087.1 cm) on underside of 
+ fuselage."
+Leveling Means,Plum bob and target in RH emergency exit opening.
+Minimum Crew,2 (Pilot and Copilot)
+Maximum,Series 100 and 200
+Occupants,"Not to exceed 44, including 2 pilots, 1 attendants and 1 check pilot (40 
+ passengers when fitted with an approved interior) 
+ Series 300 
+ Not to exceed 61, including 2 pilots, 2 attendants and 1 check pilot 
+ (56 passengers when fitted with an approved interior) 
+ Series 400 
+ Model 400: 
+ Not to exceed 74, including 2 pilots, maximum 3 attendants, minimum 2 
+ attendants and 1 check pilot (68 passengers when fitted with an approved 
+ interior) 
+ Model 401: 
+ Not to exceed 76, including 2 pilots, maximum 3 attendants, minimum 2 
+ attendants and 1 check pilot (70 passengers when fitted with an approved 
+ interior) 
+ Model 402: 
+ Not to exceed 86, including 2 pilots, maximum 3 attendants, minimum 2 
+ attendants and 1 check pilot (80 passengers when fitted with an approved 
+ interior)"
+Flight Load,"Flaps Up 
+ +2.5g; 
+ -1.0g."
+Factors,"Flaps extended 
+ +2.0g; 
+ 0.0g."
+Fuel Capacity,"kg 
+ lb 
+ US Gal 
+ Imp Gal"
+Series 100 200 300,"Usable 
+ 2575 
+ 5678 
+ 835 
+ 695 
+ Unusable 
+ 40 
+ 87 
+ 13 
+ 11 
+ Total 
+ 2615 
+ 5765 
+ 848 
+ 706"
+Series 400,"Usable 
+ 5318 
+ 11724 
+ 1724 
+ 1436 
+ Unusable 
+ 73 
+ 160 
+ 24 
+ 20 
+ Total 
+ 5391 
+ 11884 
+ 1748 
+ 1456"
+Oil Capacity,"US Gal 
+ Imp Gal"
+Per Engine,"PW120/120A/121 
+ Usable 
+ 1.0 
+ 0.83 
+ Total 
+ 4.7 
+ 3.9 
+ PW123/123B/123E 
+ Usable 
+ 1.9 
+ 1.6 
+ Total 
+ 5.5 
+ 4.57"
+Series 400,"PW150A 
+ Usable 
+ 1.48 
+ 1.23 
+ Total 
+ 6.58 
+ 5.48"
+Maximum Operating Altitude,"Take-off and landing 
+ 10,000 feet 
+ Enroute 
+ 25,000 feet"
+Outside Air Temperature,"See AFM, as listed under Approved Publications"
+Control Surface,"See Maintenance Manual: 
+ Series 100 PSM 1-8-2 
+ Series 200 PSM 1-82-2 
+ Series 300 PSM 1-83-2 
+ Series 400 PSM 1-84-2"
+Import Eligibility,"A U.S Airworthiness certificate may be issued on the basis of the Canadian 
+ Department of Transport ""Certificate of Airworthiness for Export"" signed by the 
+ Minister of Transport. This form must contain the following statement: ""This 
+ certifies that the aircraft described above has been manufactured in conformity 
+ with the data forming the basis for the DOT Aircraft Type Approval No. A-142 
+ as modified in accordance with the requirements for U.S. registered airplanes 
+ FAA Type Certificate No. A13NM defined in AEROC 8.1.AC.1."""
+Certification Basis,"Series 100, 200 and 300: 
+ FAR Part 25 dated February 1, 1965 including Amendments 25-1 through 
+ 25-51; FAR 25.832, Amendment 25-56; FAR 36 dated December 1, 1969 
+ including Amendments 36-1 through 36-12; SFAR 27 dated December 12, 1973 
+ including Amendments 27-1 through 27-5. 
+ Application for Type Certificate: March 31, 1980 (Series 100) 
+ Series 200 Additional Requirements: 
+ FAR Part 25, Amendments 25-52 through 25-66; FAR 25.963(e), 
+ Amendment 25-69; FAR 25.361, Amendment 25-72; FAR 25.729(e), 
+ Amendment 25-75; FAR Part 34 dated September 10, 1990 (Replaces SFAR 
+ 27); FAR Part 36, Amendments 36-1 through 36-20 
+ With the following exceptions (See Note 6) 
+ FAR 25.365(e), Amendment 25-54; FAR 25.561, Amendment 25-64; 
+ FAR 25.562, Amendment 25-64; FAR 25.783, Amendment 25-54; 
+ FAR 25.785, Amendment 25-64; FAR 25.904, Amendment 25-62; 
+ FAR 25.1091(e), Amendment 25-57 
+ Series 300 Additional Requirements: 
+ All Models; 
+ FAR 25.812, Amendment 25-58 
+ DHC-8-301; 
+ FAR 25.853, Amendment 25-59 
+ DHC-8-311 and 315; 
+ FAR 25.853, Amendment 25-66 
+ DHC-8-315; 
+ FAR Part 34 dated September 10, 1990 (Replaces SFAR 27); FAR Part 36, 
+ Amendments 36-1 through 36-20 
+ Series 100, 200 and 300 
+ Items of Equivalent Safety 
+ 1. Pilot compartment view FAR 25.773(b)(2). 
+ 2. Ditching emergency exits FAR 25.807(d)(2) Amdt. 25-55. (DHC-8-311 
+ and 315 with CR803SO00001 or CR803SO00002 incorporated) 
+ 3. Cargo compartment classification FAR 25.857(b)&(d) Amdt. 25-60, for the 
+ 20, 40 & 48 passenger configurations. DHC-8-311 Flight Manual Suppl. 42, 
+ Iss. 3, Cargo Loading Manual PSM 1-83-8A, Suppl. 1, Iss. 3 and Weight & 
+ Balance Manual PSM 1-83-8C are required. (S/N 230 & 242) 
+ Special Conditions 
+ 1. Automatic take-off power control system (ATPCS) (ref. FAA Special 
+ Conditions No. 25.-ANM-3). 
+ 2. Special Condition No. 25-394-SC, Passenger seats with non-traditional, 
+ large, non-metallic panels. 
+ 3. Special Condition No. 25-660-SC, Non-Rechargeable Lithium Batteries, 
+ effective to design changes applied for after May 1, 2017. See the 
+ applicability section of this special condition for more information on which 
+ design changes must meet it. 
+ Exemptions 
+ 1. FAR 25.571(e)(2) Propeller Debris (ref. FAA exemption No. NM-102) 
+ 2. FAR 25.807(c)(1) 40 passenger configuration Series 100 and 200 (ref. 
+ FAA exemption No. 4723 dated October 24, 1986) 
+ Compliance with the following additional optional requirements has been 
+ established: 
+ Ice Protection - FAR 25.1419 
+ Compliance with FAR 25.801 has been established when the safety equipment 
+ requirements of FAR 25.1411 and the ditching equipment requirements of FAR 
+ 25.1415 are satisfied. 
+ Based on § 21.101(g) for changes to TCs, applicable provisions 
+ of Part 26 are included in the certification basis. For any future 
+ Part 26 amendments, the holder of this TC must demonstrate compliance 
+ with the applicable sections. 
+ Compliance has been found for the following regulations 14 CFR § 26.11, 26.43, 
+ 26.45 and 26.49. (Amdt.No.26-0, through 26-1)"
+Certification Basis,"Series 400: 
+ Federal Aviation Regulations (FAR) Part 25, Airworthiness Standards: Transport 
+ Category Airplanes, dated 01 February 1965, Amendments 25-1 through 25-83 
+ Federal Aviation Regulations (FAR) Part 34, Fuel Venting and Exhaust Emission 
+ Requirements for Turbine Engine Powered Airplanes, effective 10 September, 1990, 
+ including Amendment 34-3 effective February 3, 1999. 
+ US Code of Federal Aviation Regulation (CFR) Title 14 part 36, effective 1 
+ December, 1969, including Amendment 36-1 through 36-21, Stage 3. 
+ US Code of Federal Aviation Regulation (CFR) Title 14 part 36, effective 1 
+ December, 1969, including Amendment 36-1 through 36-28, Stage 4, when De 
+ Havilland Aircraft of Canada Limited AFM Revision 185, dated 24 September 2007 
+ is installed. 
+ US Code of Federal Aviation Regulation (CFR) Title 14 part 36, effective 1 
+ December, 1969, including Amendment 36-1 through 36-31, Stage 5, when De 
+ Havilland Aircraft of Canada Limited AFM Revision 401.1, dated 17 June 2021 is 
+ installed. 
+ Additional Requirements: 
+ Federal Aviation Regulations (FAR) Part 25, Airworthiness Standards: Transport 
+ Category Airplanes, dated 01 February 1965, Amendments 25-84 through 25-86, and 
+ 25-92. 
+ Items of Equivalent Safety: 
+ 1. FAA Issue Paper F-1. “Use of 1-g Stall Speed Criteria Instead of Minimum 
+ Speed in the Stall” 
+ 2. Equivalent Level of Safety has been made for the following regulation: 
+ 14 CFR § 25.815, Width of Aisle, documented in ELOS Memo # AT7055NY-T- 
+ CS-1. (See Note 8) 
+ Special Conditions: 
+ 1. 
+ Special Condition No. 25-ANM-121, High Intensity Radiated Fields (HIRF) 
+ 2. Special Condition No. 25-154-SC, Automatic take-off power control system 
+ (ATPCS) 
+ 3. Special Condition No. 25-394-SC, Passenger seats with non-traditional, large, 
+ non-metallic panels. 
+ 4. Special Condition No. 25-660-SC, Non-Rechargeable Lithium Batteries, 
+ effective to design changes applied for after May 1, 2017. See the applicability 
+ section of this special condition for more information on which design changes 
+ must meet it. 
+ Exemptions: 
+ 1. Exemption No. 6790 to FAR 25.571(e)(1) “Damage Tolerance (Discrete Source) 
+ Evaluation at Amendment 25-72” 
+ 2. Exemption No. 6833 to FAR 36 Appendix C, Section C36.3c. “Definition of 
+ noise Sideline Point [compliance will be shown with ICAO Annex 16, Vol. 1, 
+ Iss. 3, Amendment 5, Chapter 3, Section 3.3.1(a)(2)] 
+ 3. Exemption No. 6864 to FAR 25.1435(b)(1) “Hydraulic System – Test and 
+ Analysis, at Amendment 25-72” 
+ Based on § 21.101(g) for changes to TCs, applicable provisions 
+ of Part 26 are included in the certification basis. For any future 
+ Part 26 amendments, the holder of this TC must demonstrate compliance 
+ with the applicable sections. 
+ Compliance has been found for the following regulations 14 CFR § 26.11, 26.43, 
+ 26.45 and 26.49. (Amdt.No.26-0, through 26-1)"
+Optional Requirements,"1. Ice Protection: FAR 25.1419 
+ 2. Ditching: Compliance with FAR 25.801 has been established when the safety 
+ requirements of FAR 25.1411 and the ditching equipment requirements of FAR 
+ 25.1415 are satisfied"
+Serial Numbers Eligible,"Series 100 
+ Serial number 2 and subsequent 
+ Series 200 
+ Serial number 391 and subsequent 
+ Series 300 
+ Serial number 100 and subsequent 
+ Series 400 
+ Serial 4001 and subsequent"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ requirements (See Certification Basis) must be installed in the aircraft."
+Approved Publications,"Flight Manual 
+ Series 100: PSM 1-81-1A (Models 101, 102, 103 and 106) 
+ Series 200: PSM 1-82-1A (Model 201, 202) 
+ Series 300: PSM 1-83-1A (Models 301, 311 and 315) 
+ Series 400: PSM 1-84-1A (Models 400, 401 and 402) 
+ Airworthiness Limitations (Part 2) and MRB Report (Sections 2 and 3) of the 
+ Maintenance Program 
+ Series 100: PSM 1-8-7 
+ Series 200: PSM 1-82-7 
+ Series 300: PSM 1-83-7 
+ Maintenance Requirements Manual, MRM (Section 1, MRB report and Section 
+ 2, Airworthiness Limitation Items 
+ Series 400: PSM 1-84-7 
+ Definition Report AEROC 8.1.AC.1"
+Service Information,"Service Bulletins, structural repair manuals, and aircraft flight manuals which 
+ contain a statement that the document is Transport Canada approved or 
+ Transport Canada approved through the Manufacturers Design Approval 
+ Representative are accepted by the FAA and are considered FAA approved. 
+ These approvals pertain to the type design only."
+Life Limited Parts,"Components which are life limited are listed in the ""Airworthiness Limitations"" 
+ section of the Maintenance Program. (See Note 3)."
+Note 1,"A current weight and balance report including list of equipment included in certificated empty 
+ weight, and loading instructions must be in each aircraft at the time of original certification and 
+ at all times there after except in the case of operators having an approved weight control system. 
+ The aircraft total system fuel must be included in the empty weight. System fuel is the amount of 
+ fuel required to fill the system plumbing and tanks to the undrainable level plus unusable fuel in 
+ the tanks established under FAR 25.959. 
+ The aircraft must be loaded so that the C.G. is within specified limits at all times, considering fuel 
+ loading and usage, gear retraction, and movement of crew and passengers from their assigned 
+ positions."
+Note 2,The aircraft must be operated in accordance with the FAA Approved Airplane Flight Manual.
+Note 3,"Compliance with the frequencies for ""Threshold"" and ""Repeat"" inspection specified in the 
+ ""Airworthiness Limitations"", Volume 1, Part 2 of the Maintenance Program (PSM 1-8-7, PSM 1- 
+ 82-7 and PSM 1-83-7) and MRB report Volume 1, Part 1 of the same document, are required to 
+ ensure continuing compliance with the type certification basis. For Series 400, the “Threshold” 
+ and “Repeat” inspections are specified in Part 2 of the MRM (Airworthiness Limitations) and 
+ Part 1 of the MRM (MRB report)."
+Note 4,For mixed passenger/cargo configurations see weight and balance manual.
+Note 5,"Modifications required to convert a Model DHC-8-101 to a 102, a 102 to a 103, a 102/103 to a 
+ 106, and a 311 to a 315 are identified in Bombardier Definition Report AEROC 8.1.AC.1 listed in 
+ Approved Publications."
+Note 6,"The DHC-8 Series 200 was certificated as a derivative of the Series 100 aircraft. The applicable 
+ basis of certification is the same as the Series 100, but the manufacturer elected to demonstrate 
+ compliance with FAR Part 25, up to Amendment 25-66, less the exceptions shown under the Series 
+ 200 Certification Basis."
+Note 7,Deleted.
+Note 8,"The Equivalent Safety Finding is applicable to DHC-8 Series 400 incorporating a post 
+ certification design change that introduces a business class section (dual class configuration), 
+ whereby the left side overhead bin intrudes into the passenger aisle of the aircraft."

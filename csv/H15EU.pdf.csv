@@ -1,0 +1,276 @@
+Keyterm,Info
+"H15EU 
+ Revision 3 
+ PZL W-3A 
+ July 14, 2021",
+Type Certificate Holder,"PZL Swidnik S.A. 
+ 21-045 Swidnik 
+ Poland"
+"I. Model ""PZL W-3A"" (Transport Helicopter - Category A and Category B), approved May 31, 1993.",
+Engines,"Number of engines 
+ 2 
+ Engine type 
+ PZL - 10W 
+ Engine category 
+ Turboshaft 
+ Manufacturer 
+ PZL Rzeszow"
+Engine Operating Limits,"Normal Operation 
+ Engine 
+ Takeoff 
+ Maximum 
+ rating 
+ (5 minutes) 
+ Continuous 
+ Torque 
+ Max 
+ 109% 
+ 85% 
+ Power tur- 
+ Max 
+ 105% 
+ 105% 
+ bine speed 
+ Min 
+ 100% 
+ 105% 
+ Gas generator 
+ speed 
+ Max 
+ 97% 
+ 93% 
+ Gas temperature 
+ Max 
+ 725ºC 
+ 670ºC 
+ One Engine Inoperative 
+ Engine 
+ 2 1/2-minute 
+ 30-minute 
+ rating 
+ limit 
+ limit 
+ Torque 
+ Max 
+ 139% 
+ 121% 
+ Power tur- 
+ Max 
+ 105% 
+ 105% 
+ bine speed 
+ Min 
+ 95% 
+ 95% 
+ Gas generator 
+ speed 
+ Max 
+ 102% 
+ 98% 
+ Gas temperature 
+ Max 
+ 770ºC 
+ 735ºC 
+ Note: 
+ 100% power turbine speed corresponds to 22490 rpm 
+ 100% gas generator speed corresponds to 31486 rpm"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5"
+Rev No,"3 
+ 1 
+ 1 
+ 3 
+ 2"
+Rotor Speed Limitation,"Power-Off 
+ Power-On 
+ Max. transient 
+ 112% 
+ 112% (15 sec) 
+ Maximum 
+ 108% 
+ 105% 
+ Minimum 
+ 90% 
+ 100% (twin engine operation) 
+ 95% (single engine operation) 
+ Min. transient 
+ 85% 
+ 95% (twin engine operation) 
+ 85% (single engine operation) 
+ Note: 
+ 100% rotor speed corresponds to 255.7 rpm"
+CG Limitation,"C.G. location is determined in X-Y-Z coordinates having the origin in 
+ a piercing point of rotor axis on rotor plane of rotation. The X axis is 
+ sensed forward and is defined as an intersection of the rotor plane of 
+ rotation on the helicopter plane of symmetry. 
+ The Y axis is sensed upward and aligns with rotor axis. 
+ The Z axis is sensed to the right as viewed from rear."
+Longitudinal CG Limits,"7.3 in (185 mm) fore 
+ -1.97 in (-50 mm) aft. 
+ Straight line variation between points given - see figures: 
+ CENTER OF GRAVITY LIMITS 
+ 10 
+ 6.3 
+ 0.4 
+ 6400"
+1,"6100 
+ 6000 
+ 5000 
+ GROSS WEIGHT -kg 
+ 4600"
+GROSS WEIGHT  LB,"4000 
+ 3850 
+ 8 7 6 5 4 3 2 1 0 
+ 180 160 140 120 100 80 60 40 20 0 -20 -40 
+ -50 
+ 7.3 
+ -1.97 
+ 185 
+ LONGITUDINAL C.G. -mm 
+ LONGITUDINAL C.G. - IN."
+Lateral CG Limits,"(as measured from the rotorcraft centerline): 
+ ± 4.7 in (± 120 mm) for airspeeds up to 48 KIAS (90 km/h) 
+ ± 3.5 in (± 90 mm) for airspeed above 48 KIAS"
+Empty Weight CG Limits,(-3.35 ± 0.4 in) (-85 ± 10 mm)
+Leveling Means,A plumb line from the ceiling at No 12 frame.
+Airspeed Limits,"Power-on maximum airspeed is 140 KIAS. 
+ H 
+ (ft) 
+ 20000 
+ 16000 
+ 12000 
+ DENSITY ALTITUDE 
+ 8000 
+ 4000 
+ 80 
+ 90 
+ 100 
+ 110 
+ 120 
+ 130 
+ 140 
+ VNE 
+ Knots CAS 
+ Note: See VNE placards for variation of VNE with weight, 
+ temperature and altitude (installed in the cockpit)."
+Weight Limitations,"For Category A and B: 
+ - Maximum: 
+ 14,100 lb (6400 kgs) 
+ - Minimum: 
+ 8,488 lb (3850 kgs)"
+Altitude Limitations,"- Maximum operating pressure altitude: 
+ 19,700 ft (6000 m) 
+ - Maximum pressure altitude at takeoff 
+ 16,400 ft (5000 m) 
+ or landing site: 
+ - Engine restart ensured up to: 
+ 13,120 ft (4000 m)"
+Crew and Passenger Limitations,"Minimum Crew 
+ 1 pilot (see Note 3 for IFR operations) 
+ Maximum Passenger 
+ 12 
+ Luggage Compartment 
+ 396 lb (180 kg)"
+Flight Limits,Day and Night VFR (see Note 3 for IFR operations)
+Conditions,Flights in known icing conditions are prohibited.
+Fuel,"Type: 
+ T-1 conforming GOST 10227-86; 
+ T-2 conforming to GOST 10227-86 with PMAM or TK additives 
+ TS-1; RT conforming GOST 10227-86; 
+ PSM-2 conforming PN-86/C96026; 
+ JET A-1 acc. to DERD 2494 or ASTM D 1655-83 
+ Note: 
+ Anti-ice additives - See PZL W-3A Rotorcraft Flight Manual."
+Fuel Capacity,"(a) 1720 Litres - 454.4 U.S. Gallons 
+ (b) 8.1 Litres - 2.14 U.S. Gallons unusable"
+Oil,"Type: 
+ a) B-3W conforming to TU-38-101295-75 
+ b) CASTROL 599 conforming to DERD 2497. 
+ c) CASTROL 5000; CASTROL 5050; 
+ AEROSHELL TURBINE OIL 500; ELF TURBO JET II 
+ conf. to MILL-L-23699C"
+Certification Basis,"FAR 21.29, FAR 29 effective 1 February 1965, including Amendments 29-1 
+ through 29-26. 
+ FAR Part 36 Noise Standards Amended by Amendments 36-1 through the latest 
+ amendment in effect at the time of certification (Amdt. 36-15). 
+ The applicant has shown compliance to FAR Part 29.923 for 2 -1/2 minute OEI 
+ ratings. 
+ The Polish Glowny Inspektorat Lotnictwa Cywilnego (General 
+ Inspectorate of Civil Aviation) originally type certificated this rotorcraft 
+ under its type certificate number BC 188. The FAA validated this 
+ product under U.S. Type Certificate Number H15EU. Effective 
+ September 28, 2003, the European Aviation Safety Agency (EASA) 
+ began oversight of this product on behalf of the Polish Glowny 
+ Inspektorat Lotnictwa Cywilnego (General Inspectorate of Civil 
+ Aviation)."
+Import Requirements,"To be eligible for operation in the United States, each aircraft manufactured 
+ under this Type Certificate must be accompanied by a certificate of 
+ airworthiness for export or certifying statement endorsed by the exporting civil 
+ airworthiness authority which states (in the English language): ""This aircraft 
+ conforms to its U.S. type design (Type Certificate Number H15EU) and is in a 
+ condition for safe operation."" 
+ The U.S. airworthiness certification basis for aircraft type certificated under 
+ FAR Section 21.29 and exported by the country of manufacture is FAR Sections 
+ 21.183(c) or 21.185(c). 
+ Refer to the applicable bilateral agreement to verify eligibility for import into 
+ the United States of both new and used aircraft based on the scope of the 
+ agreement, to identify any required statements by the exporting authority on the 
+ export certificate of airworthiness (or equivalent document), and for procedures 
+ for coordinating exceptions to conformity statements on these documents. Refer 
+ to FAA Order 8130.2, Airworthiness Certification of Aircraft, for requirements 
+ for issuance of an airworthiness certificate for imported aircraft. 
+ The U.S. airworthiness certification basis for aircraft type certificated under 
+ FAR Section 21.29 exported from countries other than the country of 
+ manufacture (e.g. third party country) is FAR Sections 21.183(d) or 21.183(b). 
+ The FAA can issue a U.S. airworthiness certificate based on an National 
+ Aviation Authority (NAA) Export Certificate of Airworthiness (Export C of A) 
+ signed by a representative of the Polish Glowny Inspektorat Lotnictwa 
+ Cywilnego (General Inspectorate of Civil Aviation) on behalf of the European 
+ Community. 
+ The Export C of A should contain the following statement: “The aircraft 
+ covered by this certificate has been examined, tested, and found to comply with 
+ the type design approved under U.S. Type Certificate Number H15EU and to be 
+ in a condition for safe operation.”"
+Service Information,"Service Bulletins, structural repair manuals, helicopter flight manuals, and 
+ overhaul and maintenance manuals, which contain a statement that the 
+ document is GILC approved, are accepted by the FAA and are considered 
+ FAA approved. These approvals pertain to type design only. 
+ Each of the documents listed below must state that it is approved by the 
+ European Aviation Safety Agency (EASA) or – for approvals made before 
+ September 28, 2003 – by the Polish Glowny Inspektorat Lotnictwa Cywilnego 
+ (General Inspectorate of Civil Aviation). Any such documents are accepted by 
+ the FAA and are considered FAA approved. 
+  
+ Service Bulletin, 
+  
+ Structural repair manuals, 
+  
+ Vendor manuals, 
+  
+ Aircraft flight manuals, and 
+  
+ Overhaul and maintenance manuals. 
+ This applies only to the acceptance of the type design data"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (See Certification Basis) must be installed in the helicopter for 
+ certification. In addition, the following items of equipment are required with 
+ each helicopter as specified: 
+ FAA approved Rotorcraft Flight Manual, dated March 31, 1993 or later 
+ revisions."
+NOTE 1,"Current weight and balance report including list of equipment included in the certificated empty weight 
+ and loading instructions, when necessary, must be provided for each helicopter at the time of original 
+ certification. 
+ Weight empty - Total weight of structure, systems equipment and permanent fittings necessary to 
+ complete every helicopter version, the weight empty includes weight of fluids in hydraulic system, 
+ blade dampers and shock absorbers and extinguisher bottles as well as weight of engine and 
+ transmission oil filled up to MAX level and unusable fuel."
+NOTE 2,"The retirement times of certain parts are listed in Chapter 4 of the Model ""PZL W-3A Helicopter. 
+ Instructions for Continued Airworthiness Maintenance Manual."" Those values of retirement or service 
+ life cannot be increased without GILC Engineering Approval. In addition, information essential for 
+ proper maintenance of the helicopter is contained in the ""PZL W-3A Helicopter. Instructions for 
+ Continued Airworthiness Maintenance Manual."""
+NOTE 3,"Model PZL W-3A helicopter incorporating IFR equiipment per requirements of PZL W-3A RFM 
+ Section 1 is eligible for IFR operations. Minimum flight crew: 2 (pilot and co-pilot)."

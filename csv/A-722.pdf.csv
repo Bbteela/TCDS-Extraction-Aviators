@@ -1,0 +1,357 @@
+Keyterm,Info
+"A-722 
+ Revision 8 
+ CESSNA 
+ T-50 (Army AT-17) 
+ and UC-78 series 
+ and Navy JRC-1) 
+ March 10, 1954",
+Manufacturer,"Cessna Aircraft Company 
+ Wichita, Kansas"
+"I - Model T-50 (Army AT-17 and UC-78 series, Navy JRC-1), 5 PCLM, Approved March 24, 1940. 
+ See NOTE 2 for modifications required for conversion of military models.",
+Engines,2 Jacobs L-4MB. (See Items 226 and 228 for optional engines)
+Fuel,73 min. octane aviation gasoline
+Engine limits,"Maximum continuous, 2000 rpm (225 hp) 
+ Take-off (one minute), 2200 rpm (245 hp)"
+Airspeed limits,"For 5,100 lbs. maximum weight - 
+ Level flight or climb 
+ 175 mph (152 knots) True Ind. 
+ Glide or dive 
+ 200 mph (174 knots) True Ind. 
+ Flaps extended 
+ 108 mph ( 94 knots) True Ind. 
+ For 5,400 lb. and 5,700 lb. maximum weight - 
+ Level flight or climb 
+ 168 mph (146 knots) True Ind. 
+ Glide or dive 
+ 200 mph (174 knots) True Ind. 
+ Flaps extended 
+ 112 mph ( 97 knots) True Ind."
+Usable ceiling,(May be realized under conditions shown)
+Ceiling,"Weight 
+ RPM 
+ Manifold 
+ T.I.A.S. 
+ Idling 
+ Propeller"
+ft,"(lb.) 
+ Pressure 
+ (mph) 
+ (knots) 
+ Propeller 
+ Installed"
+4000,"5,100 
+ 2,000 
+ Full throttle 
+ 84 
+ 73 
+ High pitch 680 rpm 
+ Item 102"
+900,"5,100 
+ 1,930 
+ Full throttle 
+ 87 
+ 76 
+ 470 RPM 
+ Item 208"
+Operating conditions,"(1) 
+ Standard air 
+ (2) 
+ Either engine inoperative 
+ (3) 
+ Carburetor air intake on ""cold air"" 
+ (4) 
+ No de-icers 
+ Usable ceiling for 5,400 lb. and 5,700 lb. included in pertinent CAA Approved Operating Manual."
+CG range landing,(-4.8) to (+3.1) with unbalanced elevator (Item 601)
+gear extended,(-4.6) to (+3.5) with balanced elevator (Item 602)
+Maximum weight,"For Model T-50: 
+ With Item 603 installed - 5,100 lb. 
+ With Items 209 and 604 installed - 5,400 lb. (Passenger) 
+ With Items 209 and 604 installed - 5,700 lb. (Cargo only) 
+ With Items 209, 602, 604 and 605 installed - 5,700 lb. (Passenger or Cargo) 
+ For Army AT-17 and UC-78 and Navy JRC-1: 
+ With Item 603 installed - 5,100 lb. 
+ With Item 604 installed - 5,400 lb. (Passenger) 
+ With Item 604 installed - 5,700 lb. (Cargo only) 
+ With Items 602, 604 and 605 installed - 5,700 lb. (Passenger or Cargo)"
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6"
+8,"8 
+ 8 
+ 8 
+ 8 
+ 8"
+No seats,"5 (two front at -14, three rear at +36)"
+Maximum baggage,350 lbs. (300 lbs. aft of cabin at +65: 50 lbs. on cabin baggage shelf at +65)
+Fuel capacity,120 gals. (two 60 gal. wing tanks at +21.5). See Item 207 for auxiliary fuel tank.
+Oil capacity,"10 gal. (two nacelle tanks, 5 gal. each) (-34) ((-27) when Item 209 is installed)"
+Control surface movements,"Elevator 
+ 25° 
+ up 
+ 25° 
+ down 
+ Elevator tab 
+ 5° 
+ up 
+ 18° 
+ down 
+ Aileron 
+ 25° 
+ up 
+ 25° 
+ down 
+ Rudder 
+ 25° 
+ right 
+ 25° 
+ left 
+ Rudder tab 
+ 25° 
+ right 
+ 25° 
+ left 
+ Wing flaps 
+ 35° or 40° down (See Item 605 for 
+ ` 
+ increased travel)"
+Serial Nos eligible,"1000 to 1029, 1100 and up and all AAF and Navy numbers. Use manufacturer's 
+ number if available. See NOTE 2 for required modifications for conversion of military 
+ models."
+Required equipment,"Items 101; 102; 103; 104; 105; 106(a) or (b); 107(a) or (b); 108; 109; 110; 111; 112; 
+ 113; 114; 115(a) or (b); 117; 118; 119; 401 (when maximum weight exceeds 5,100 
+ lb.); 601 or 602, and 603 or 604."
+SPECIFICATIONS PERTINENT TO ALL MODELS,
+Datum,"Centerline of top of front spar. Datum is marked on fuselage front spar fitting, at 
+ bottom of spar"
+Leveling means,Lugs located on left side of baggage compartment
+Certification basis,Type Certificate No. 722 (CAR 4a)
+Production basis,"None. Prior to original certification a CAA representative must perform a detailed 
+ inspection for workmanship, materials, and conformity with the approved technical 
+ data, and a check of the flight characteristics."
+Export eligibility,"Eligible for export to all countries, subject to the provisions of ASR 312 (MOP 2-4 
+ contains the same information) except as follows: 
+ (a) 
+ Canada - Landplane - eligible 
+ - Skiplane - not eligible 
+ (b) 
+ Great Britain and Australia - Serial Nos. 1001 to 1029, 1100 and up"
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item indicates net weight change when that item 
+ is installed. Approval for the installation of all items of equipment listed herein has been obtained by the 
+ aircraft manufacturer except those preceded by an asterisk (*). The asterisk denotes that approval has 
+ been obtained by other than the aircraft manufacturer."
+103,"208 lb. (-75) 
+ blades 6135A-15 or 6135A-16. Dia. 7'9-1/8"" max., 7'6-7/8"" min."
+For interchangeable blade models see Propeller Specification,
+104,8 lb. (-43)
+121,"Two Montgomery Spinners for Hamilton Standard 2B20 Propeller 
+ 15 lb. (-75)"
+208,"Two propellers (incl. hub) - any fixed pitch wood which is eligible 
+ -132 lb. (-75) 
+ for the engine power and speed and which meets the following limits: 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 1950, not under 1810. No additional tolerance permitted. 
+ Diameter: Not over 97 in., not under 87 in. for T-50 
+ Diameter: not over 93 in., not under 87 in. for AT-17 and UC-78 
+ (Note S & S propeller 210E, 93 in. dia., 76 in. pitch, meets the above limits and is eligible.) 
+ Engines and Engine Accessories - Fuel and Oil System"
+101,"Two engine cowls (NACA type with baffles and inner cowl) 
+ 72 lb. (-55)"
+Two exhaust collector rings,22 lb. (-51)
+105,"Two starters (Eclipse E-80 or J-1) 
+ 39 lb. (-42)"
+Fuel pumps  enginedriven,"(a) (1) Two Pesco M400 (may be replaced by Items 120 or 223) 
+ 1.5 lb. ea. (-38) 
+ and (2) Either two Pesco R-400BLH or 2P-R400BLYA 
+ 2.5 lb. ea. (-45)"
+or,"(b) Four Pesco R-400BLH or 2P-R400BLYA 
+ 2.5 lb. ea. (-45)"
+Engine shielding both engines,20 lb. (-59)
+Two oil strainer Jacobs,2 lb. ea. (-41)
+Two carburetor air scoop assemblies,4 lb. ea. (-51)
+Two carburetor air heaters,6 lb. ea. (-51)
+120,"One AN-4009 wobble pump (replaces two Pesco M400 pumps in Item 115(a)) 
+ 3 lb. (-14)"
+205,"Vacuum pumps and optional oil separator: 
+ (a) Pesco 194-B or Romec RD4500 
+ 4 lb. (-45)"
+b Pesco B2A,4 lb. (-38)
+Muff on only one engine,5 lb. (-32)
+Muff on both engines,10 lb. (-32)
+39 gal,25 lb. (+34)
+30 gal,20 lb. (+34)
+209,"Revised engine mounts, nacelles and landing gears - 
+ 5 lb. (-20) 
+ (Dwgs. 51215, 51067 and 51102, and 51174 respectively)"
+Two oil dilution installations,2 lb. (-34)
+213,"Two oil heater muff system installations 
+ 5 lb. (-36)"
+214,"Lux twin engine fire extinguisher system 
+ 24 lb. (0)"
+Two oil hopper tank installations,4 lb. (-27)
+220,"Two oil radiator installations forward of firewall 
+ 19 lb. (-35)"
+Two air mazes Carburetor intake,5 lb. (-69)
+223,"Romec F4B fuel pump (Each Romec F4B pump may replace one 
+ No weight change"
+Indicator,2 lb. (-37)
+b,"Cells and tubing (Cambridge) - two required 
+ 5 lb. ea. (-30) 
+ *226. Engines - 2 Lycoming R-680-E3 
+ +12 lbs. (-54)"
+Limits 91 min octane fuel,"Take-off (one minute), 2300 rpm (300 hp) 
+ With Ham. STd. 2B20/6135A-9 to -15 propeller (diameter 98.75"" maximum, 
+ 91.0"" minimum) with constant speed governor (Item 104) 
+ Pitch settings at 42 in. sta: 
+ (with 6135A-9 blades) Low 8°, High 20° or Low 11°, High 26° 
+ (with 6135A-15 blades) Low 14°, High 26° 
+ Eligible only on aircraft incorporating the 5,700 lb. wings (Item 604). 
+ An approved engine mount must be used and the lower members of the 
+ rear nacelle truss just aft of the front spar and forward of the 
+ middle cluster joint must be adequately reinforced. 
+ Item 403 required in lieu of Item 401. 
+ The installation of this item has been approved for Serv-Aero Engineering, P.O. Box 478, 
+ Dos Palos, California. This company has CAA approval of a conversion kit consisting 
+ of structural drawings AE-LC100 and AE-LC200 describing the required modification to the 
+ engine mount and nacelle, installation instructions, and photographs identifying their 
+ exhaust collector rings, engine cowling and carburetor air heaters."
+"227. 
+ Two (2) Davis aircraft exhaust silencers Model D-450-78",
+Engines  2 Jacobs R755A2,No weight change
+Limits 80 minimum octane fuel,"Take-off (one minute), 2200 rpm (300 hp) 
+ With Hamilton Standard 2B20/6135A-15 propeller (diameter 93-1/8 in. max., 
+ 91-1/8 in. minimum) with constant speed governor (Item 104) 
+ Pitch settings at 42 in. sta:"
+Low 125° High 27°,"Eligible only on airplanes having 5,700 lb. wings (Item 604) 
+ and oil radiator installations (Item 220). 
+ Item 404 required in addition to Item 401."
+109,"7.50-10 wheels (Goodyear 10HBM) with 8.50-10, 6-ply, H.D. tires 
+ 80 lbs. (-19) 
+ and 7.50-10 tubes (wheels must be placarded for these tires)"
+110,10 lbs. (+279)
+111,"Two landing gear struts (Bendix R-107-2423-E; 65000 or 67650) 
+ 44 lbs. (+16)"
+Manual landing gear retracting mechanism,3 lbs. (-10)
+113,"Landing gear operating motor (Eclipse Y-150 or 455) 
+ 19 lbs. (-10)"
+85010 punctureproof tubes,+11 lbs. (-19)
+Copilots brakes,3 lbs. (-48)
+222,"7.50-10 wheels (Hayes 751A) with 8.50-10, 6-ply, H.D. tires 
+ +9 lbs. (-19) 
+ and 7.50-10 tubes (wheels must be placarded for these tires)"
+*229. Skis - Federal Model A-5800,
+a,"Eclipse LV-180 (15 amp., 12 volt) 
+ 16 lbs. (-45)"
+or b,"Leece-Neville L-3 (25 amp., 24 volt) 
+ 24 lbs. (-45)"
+107,"Battery - 75 lb. maximum (variable location (-16), (+6), (+10)) 
+ Use actual weight"
+a,12 volt system - min. 33 amp. hr. (5 hr. rate)
+b,24 volt system - min. 17 amp. hr. (5 hr. rate)
+Battery box,7 lbs.
+Two Grimes ST1220,14 lb. (-6) or (+9)
+b,"Two Grimes Type B-3 or G-300 
+ 114 lbs. (+9)"
+a,"Eclipse 309 (25 amp., 12 volt) (replacing Item 106(a)) 
+ +5 lbs. (-45)"
+a,"Four 1 1/2 minute with case 
+ 20 lbs. (+116)"
+b,"Three 1 1/2 minute with case 
+ 15 lbs. (+116)"
+One 3 minute with case,23 lbs. (+116)
+215,"Bucket seat with upholstering (replacing standard seat 15 lbs. at (-9)) 
+ -8 lbs. (-10)"
+401,"CAA Approved Operating Manual, latest revision of Cessna 
+ Report No. 260 (NOTE: This does not take the place of the Form ACA-309)"
+"*402. Cabin heater - Surface Combustion Heater Package, Model 15.",
+403,"CAA Approved Operating Manual (Servo-Aero Engineering). 
+ Required with Item 226 in lieu of Item 401."
+404,"CAA Approved Operating Manual Supplement (Jacobs Aircraft Engine Co.) 
+ dated April 10, 1952. This supplement may be obtained from Jacobs 
+ Aircraft Engine Co., Pottstown, Pa. (Required with Item 228.)"
+Flap motor Dumore Type KL,6 lbs. (+46)
+Turret top windows,+2 lbs. (-20)
+218,"Flap motor (Dumore EI-YD or E2-YD or E2Y2P)- 
+ 3 lbs. (+49)"
+Two flap motors Dumore EIYD,No weight change
+601,"Unbalanced elevator (no balance area at tip of elevator ahead of 
+ hinge line) with balance weight on elevator walking beam"
+602,"Balanced elevator with elevator bungee spring installed and horizontal stabilizer 
+ incidence set in accordance with Cessna Dwg. No. 10002-14"
+603,"5,100 lb. wing. See NOTE 3 for means of identifying wing."
+604,"5,700 lb. wing. See NOTE 3 for means of identifying wing."
+605,"New flap limit switch brackets and revised adjustment of flap limit switches, in 
+ accordance with Cessna Dwg. No. 10002-28 and Service Bulletin 
+ No. 99 providing increase in flap travel from 35° (old setting) to 40° (new setting) 
+ *606. Large cargo door and interior flooring. Install in accordance 
+ Use actual wt. change 
+ with Decatur Aviation Co. Dwgs. 1 through 12. 
+ *607. Large access door and cargo floor. Install in accordance with 
+ Use actual wt. change 
+ Rapidair, Inc., Springfield, Missouri installation instructions, 
+ photographs and Dwg. No. 100-1, Sheets one through eight, dated 
+ December 4, 1953, ""Easy Access Cargo and Ambulance Door - Cessna 
+ T-50"" and Dwg. No. 101-1, Sheets one through eleven, dated December 5, 1953,"
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight empty, and loading 
+ instructions when necessary, must be in each aircraft at the time of original certification and at all times thereafter 
+ The C.G. limits were determined with the landing gear extended. The airplane must be loaded so that its C.G. 
+ position with the landing gear extended is always between the limits shown."
+"NOTE 2. 
+ Army models AT-17 and UC-78 Series and Navy JRC-1 airplanes are eligible for certification under the conditions 
+ outlined below. These airplanes are similar to the model T-50 except for revised wing structure, power plant",
+"Prior to certification all Army models AT-17 and UC-78 Series, and Navy JRC-1 airplanes must be modified as",
+a,Replacement and rewiring of master switch. (Reference: Cessna Dwg. No. 10002-4).
+b,Removal of navigation light resistors. (Reference: Cessna Dwg. No. 10002-4).
+c,Replacement of navigation light switches. (Reference: Cessna Dwg. No. 10002-4).
+d,Add sealing plates for selector valve box. (Reference: Cessna Dwg. No. 10002-3).
+"(e) 
+ Replace present tail light with Grimes model C tail light.",
+f,"Install a placard reading: ""Intentional Spinning Prohibited."""
+g,Modify horizontal tail surfaces to comply with either Item 601 or Item 602.
+h,"Install the following placard on the instrument panel in full view of the pilot: ""This Airplane shall be operated in 
+ accordance with the CAA Approved Operating Manual (Part I). This Manual shall be carried in the pilot's 
+ compartment at all times."" (See Item 401 or 403)."
+i,"Upon completion of conversion to certificated status it should be ascertained that the manufacturer's serial number 
+ and original date of manufacture are shown on the original name plate or an additional name plate with this"
+j,Add etched datum plate on fuselage front spar fitting on bottom of spar.
+k,"If AN-3033-5 to -8 wing tip lights are installed the sand blasted area on the inside of the streamlined glass cover 
+ should be painted black. As an alternative the streamlined glass cover may be replaced by a glass globe and a 
+ streamlined metal cover which can be obtained from the light manufacturer."
+l,"Inspect the leading edges of all wings by removing the nacelle cowling forward of the front spar and the inspection 
+ plate from the rib on the first nose rib assembly outboard of the nacelle. If the rib spacing in the leading edge is 
+ approximately 4 inches the wing is satisfactory. If the rib spacing is approximately 8 inches the wing must be 
+ modified in accordance with Cessna Service Bulletins No. 40 dated February 24, 1943, and No. 48 dated 
+ August 20, 1943, revised May 1, 1944."
+a,"In order to determine whether the airplane is eligible for certification at a maximum weight in excess of 
+ 5,100 lbs., the wings can be identified by the following salient features: 
+ (1) 
+ 5,700 lb. wings have a laminated (8 to 10-ply) birch plywood reinforcement on the rear face of the rear 
+ spar (instead of a spruce block found on the 5,100 lb. wing) extending continuously through the center 
+ section from nacelle to nacelle. Ends of this plywood plate are scarfed out just inboard of each nacelle 
+ bearing block. 
+ (2) 
+ Continuous plywood flanges 1 to 1 1/2 x 1/16 inch are found on both sides of the lower cap strip of wing 
+ ribs between the front and rear spar on 5,700 lb. wings. 
+ (3) 
+ The diagonal in the nose ribs of the 5,700 lb. wing is 5/16 x 7/16 instead of 5/16 x 5/16 found in the 
+ 5,100 lb. wing."
+b,"Wings identified by the above specifications are wing assemblies No. 55700 and when installed, the airplane 
+ may be certificated at a maximum weight of 5,400 or 5,700 lbs. depending upon the items installed as 
+ specified under ""Maximum Weight"" on Page 1 of this specification."
+c,"Wings with the rear spar and reinforcing plate on the rear face made of spruce block only are wing assemblies 
+ No. T-50100 or 53600. These are not eligible for weights in excess of 5,100 lb."
+d,"When the airplane is certificated the 1/2 inch red letters immediately forward of the Army markings on the 
+ trailing edge of the wing which read ""Max. gross weight 5,200 lb."" or ""5,300 lb."" or ""5,700 lb."" should be 
+ removed from the wing."
+"NOTE 4. 
+ Model T-50 (also exported RCAF T-50) airplanes having wing leading edges modified in accordance with Cessna",
+NOTE 5,"Aircraft eligible for 5,700 lbs. maximum weight which were certificated in restricted category for dusting,"
+a,"Maximum take-off weight 6270 lbs. 
+ Maximum maneuvering speed 125 mph True Ind."
+b,"The following placard must be installed in full view of the pilot: 
+ ""Maximum maneuvering speed 125 mph."" 
+ All original certification in the restricted category after October 11, 1950, must be in accordance with CAR and"

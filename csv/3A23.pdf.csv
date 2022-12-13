@@ -1,0 +1,2815 @@
+Keyterm,Info
+"3A23 
+ Revision 33 
+ MAULE",
+"M-5-180C 
+ MXT-7-160 
+ M-4-180V",
+"M-5-200 
+ MX-7-180A 
+ M-9-235",
+"M-5-210C 
+ MXT-7-180A",
+"M-5-210TC 
+ MX-7-180B",
+"M-5-220C 
+ M-7-235B",
+"M-5-235C 
+ M-7-235A",
+"M-6-180 
+ M-7-235C",
+"M-6-235 
+ MX-7-180C",
+"M-7-235 
+ M-7-260",
+"MX-7-235 
+ MT-7-260",
+"MX-7-180 
+ M-7-260C",
+"MX-7-420 
+ M-7-420AC",
+"MXT-7-180 
+ MX-7-160C",
+"MT-7-235 
+ MX-7-180AC",
+"M-8-235 
+ M-7-420A",
+"MX-7-160 
+ MT-7-420 
+ February 19, 2019",
+Type Certificate Holder,"MAULE AEROSPACE TECHNOLOGY, INC. 
+ 2099 GEORGIA HIGHWAY 133 SOUTH 
+ MOULTRIE, GEORGIA 31768"
+Type Certificate Holder Record,"Maule Aircraft Corporation transferred type certificate 3A23 to Maule Aerospace Technology, 
+ Inc. on June 18, 1982."
+"I. 
+ Model Bee Dee M-4, 4 PCLM (Normal Category), Approved August 10, 1961 
+ Model M-4, 4 PCLM (Normal Category), Approved February 21, 1963 
+ Model M-4C, 4 PCLM (Normal Category), Approved October 7, 1965 
+ Model M-4S, 4 PCLM (Normal Category), Approved March 15, 1966 
+ Model M-4T, 2 PCLM (Normal Category), Approved March 15, 1966 
+ (M-4 same as Bee Dee M-4 except for minor changes) 
+ (M-4C same as Model M-4 except for modified right fuselage truss, larger rear doors to facilitate cargo loading, and other 
+ minor changes.) 
+ (M-4S same as Model M-4 except for minor changes.) 
+ (M-4T same as Model M-4C except no rear seats or rear door and other minor changes.)",
+Engine,Continental O-300-A or B
+Fuel,80/87 minimum grade aviation gasoline
+Engine limits,"For all operations, 2700 rpm (145 hp) (See NOTE 3 for climb)"
+Propeller and,McCauley 1A170-DM7460
+propeller limits,"Diameter: 
+ Not over 74 in., not under 73 in. 
+ No further reduction permitted. 
+ Static rpm at maximum permissible throttle setting: 
+ Not over 2200, not under 2100 
+ No additional tolerance permitted."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21"
+Rev No,"33 
+ 32 
+ 32 
+ 32 
+ 31 
+ 32 
+ 32 
+ 32 
+ 32 
+ 31 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32"
+Page No,"22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 32 
+ 33 
+ 34 
+ 35 
+ 36 
+ 37 
+ 38 
+ 39 
+ 40 
+ 41 
+ 42"
+Rev No,"32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 32 
+ 33 
+ 32 
+ 32 
+ 31 
+ 30 
+ 31"
+Page No,"43 
+ 44 
+ 45 
+ 46 
+ 47 
+ 48 
+ 49"
+Rev No,"31 
+ 31 
+ 31 
+ 32 
+ 31 
+ 32 
+ 31 
+ McCauley 1C172-MDM7647 to 7656 (Eligible on s/n 24, 46-94, 1C-11C, 1S-3S, 1T-3T ) 
+ (Eligible on s/n 3-23, 25-45 when modified per Maule Modification Kit No. 36) 
+ Diameter: 
+ Not over 76 in., not under 74.5 in. 
+ No further reduction permitted. 
+ Static rpm at maximum permissible throttle setting: 
+ Not over 2250, not under 2100 
+ No additional tolerance permitted."
+Airspeed limits CAS,"Landplane and Skiplane: 
+ (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ (+15.0) to (+23.0) at 2100 lbs. 
+ (+11.0) to (+23.0) at 1400 lbs. or less 
+ NOTE: With fuel in optional auxiliary tanks, aft C.G. restricted to (+18.0). 
+ See Service Bulletin No. 18, Airplane Flight Manual Supplement (AFMS) No. 4 is 
+ required. 
+ Skiplane: 
+ Models M-4, M-4C with Fli-Lite 3000 MK IIIA Skis 
+ (+13.0) to (+23.0) at 1850 lbs. 
+ (+10.6) to (+23.0) at 1550 lbs. or less 
+ Models M-4, M-4C with FluiDyne A2000A Skis 
+ (+15.0) to (+23.0) at 2100 lbs. 
+ (+11.0) to (+23.0) at 1400 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2100 lbs. 
+ Skiplane: 
+ Fli-Lite 3000 MK IIIA Skis: 1850 lbs. 
+ Federal A2000A Skis: 2100 lbs."
+Number of seats,"4 (2 at +18 to +21, 2 at +53) (Bee Dee M-4, M-4, M-4C, M-4S) 
+ 2 (+18 to +21) (M-4T)"
+Maximum baggage,"100 lbs. (+72) (Bee Dee M-4, M-4) 
+ 100 lbs. (+20), 175 lbs. (+42) (M-4C, M-4S, M-4T) 
+ 125 lbs. (+70) (M-4C, M-4S)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8 qt. (-37), 4 qt. Minimum (See NOTE 1 for data on system oil.)"
+Control surface,"Wing flaps 
+ Down 
+ 1st Notch 15º +3º"
+movements,"2nd Notch 35º +3º 
+ Aileron 
+ Up 20º + 1 
+ Down 20º +1º 
+ Elevator 
+ Up 25º + 2º 
+ Down 21º +1º 
+ Elevator tab 
+ Up 14º + 1º 
+ Down 25º +1º (Bee Dee M-4, s/n 3-14, M-4, s/n 15- 
+ 43, unless modified by Maule SL#9 dated 11/8/65) 
+ Up 8º + 2º/-1º 
+ Down 25º + 1º (M-4, s/n 44-94, unless modified by 
+ Maule SL#9 dated 11/8/65) 
+ Up 11º + 3º 
+ Down 25º +1º (All M-4C, S, and T and M-4, s/n 3-94 
+ modified by Maule SL#9 dated 11/8/65) 
+ Rudder 
+ Right 21º + 1º 
+ Left 21º +1º 
+ Rudder tab 
+ Right 48º + 4º 
+ Left 48º +4º"
+Serial numbers eligible,"Model Bee Dee M-4, 3-14 
+ Model M-4, 15-94 
+ Model M-4C, 1C-3C 
+ Model M-4S, 1S-3S 
+ Model M-4T, 1T-3T"
+Production basis,(No longer in production)
+"II. 
+ Model M-4-210, 4 PCLM (Normal Category), Approved September 24, 1964 
+ Model M-4-210C, 4 PCLM (Normal Category), Approved October 7, 1965 
+ Model M-4-210S, 4 PCLM (Normal Category), Approved March 15, 1966 
+ Model M-4-210T, 2 PCLM (Normal Category), Approved March 15, 1966",
+Engine,"Continental IO-360-A 
+ Continental IO-360-D for s/n 1086C and up"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"IO-360-A: 
+ Maximum continuous hp, rpm, in. Hg. alt. 
+ Critical altitude 
+ 195-2800-26.2-2250 ft. 
+ Sea level 
+ 195-2800-26.5 
+ Takeoff hp (5 min.) 210-2800 F.T. 
+ IO-360-D: 
+ F.T. all operations 210 hp - 2800 rpm"
+Propeller and,McCauley constant speed model D2A3467/76C-2 (used on A engine) or
+propeller limits,"D2A34C67N/S76C-2 (used on A or D engine) 
+ Diameter: 74 in., no further reduction permitted. 
+ Pitch settings at 30 in. sta.: low 12.5º high 23º 
+ Spinner: 
+ Cessna 0552016-1 
+ McCauley D-2771-1 assembly (used on A or D eng.) 
+ Governor (hydraulic): 
+ Woodward F210452 or B210680"
+Airspeed limits CAS,"Landplane, Floatplane, and Skiplane: (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ For s/n 1001-1045, 1001C-1074C, 1079C, 1080C: 
+ (+15.0) to (+23.0) at 2100 lbs. 
+ (+11.0) to (+23.0) at 1400 lbs. or less 
+ For s/n 1075C, 1081C-1117C: 
+ (+16.0) to (+19.6) at 2300 lbs. 
+ (+15.0) to (+23.0) at 2100 lbs. 
+ (+11.0) to (+23.0) at 1400 lbs. or less 
+ NOTE: S/n 1001-1035 when modified per Maule SL#7 and SL#15 and s/n 1036- 
+ 1045, 1001C-1074C, 1079C, 1080C when modified per Maule SL#15 dated 
+ 11/12/68 are eligible for the above C.G. range at 2300 lbs. GW. 
+ Skiplane: 
+ Models M-4-210, M-4-210C with Fli-Lite 3000 MK IIIA Skis: 
+ (+13.0) to (+23.0) at 2100 lbs. 
+ (+10.6) to (+23.0) at 1550 lbs. or less 
+ Models M-4-210, M-4-210C with Federal A2000A Skis: 
+ (+15.0) to (+23.0) at 2100 lbs. 
+ (+11.0) to (+23.0) at 1400 lbs. or less 
+ Models M-4-210, M-4-210C with Federal C2200H or C3000H Skis: 
+ (+12.6) to (+18.4) at 2100 lbs. 
+ (+9.6) to (+18.4) at 1620 lbs. or less 
+ Floatplane: 
+ EDO 248A2440, 248B2440 or Fleet 2500 Floats: 
+ (+15.5) to (+20.5) at 2300 lbs. 
+ (+11.0) to (+20.5) at 1600 lbs. or less 
+ CAP 62-2000 Floats: 
+ (+15.6) to (+20.5) at 2220 lbs. 
+ (+12.0) to (+20.5) at 1700 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2300 lbs. or 2100 lbs. (Reference C.G. Range-landplane) 
+ Skiplane: 
+ 2100 lbs. 
+ Floatplane: 
+ Fleet 2500, EDO 248A2440 or 248B2440 Floats: 2300 lbs. 
+ CAP 62-2000 Floats: 2220 lbs."
+Number of seats,"4 (2 at +18 to +21, 2 at +53)(M-4-210, M-4-210C)"
+Maximum baggage,"100 lbs. (+72)(M-4-210) 
+ 100 lbs. (+20), 175 lbs. (+42)(M-4-210C) 
+ 125 lbs. (+70)(M-4-210C)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks - 23 gal. (23 gal. usable; two 11.5 gal. tanks in outerwings at +22.2) 
+ (Fuel in the optional auxiliary tanks not approved in combination with skis or floats.) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"10 qt. (-37), 7 qt. Minimum (See NOTE 1 for data on system oil.)"
+Control surface,"Wing flaps 
+ Down 
+ 1st Notch 15º +3º"
+movement,"2nd Notch 35º +3º 
+ Aileron 
+ Up 20º + 1º 
+ Down 20º +1º 
+ Elevator 
+ Up 25º + 2º 
+ Down 21º +1º 
+ Elevator tab 
+ Up 11º + 3º 
+ Down 25º +1º (M-4-210, s/n 1051 and up; all M-4-210C, -210S and 
+ -210T; and M-4-210 s/n 1001-1050 modified per Maule SL#9 dated 
+ 11/8/65) 
+ Up 8º +2º /-1º 
+ Down 25º +1º (M-4-210, s/n 1001-1050 unless modified per Maule 
+ SL#9 dated 11/8/65) 
+ Rudder 
+ Right 21º + 1º 
+ Left 21º +1º 
+ Rudder tab 
+ Right 48º + 4º Left 48º +4º"
+Serial numbers,"Model M-4-210, 1001-1045"
+eligible,"Model M-4-210C, 1001C-1117C 
+ Model M-4-210S, 1001S and up (none built) 
+ Model M-4-210T, 1001T and up (none built)"
+Production basis,(No longer in production)
+"III. Model M-4-220, 4 PCLM (Normal Category), Approved October 18, 1966 
+ Model M-4-220C, 4 PCLM (Normal Category), Approved October 18, 1966 
+ Model M-4-220S, 4 PCLM (Normal Category), Approved October 18, 1966 
+ Model M-4-220T, 2 PCLM (Normal Category), Approved October 18, 1966 
+ (Same as M-4, M-4C, M-4S and M-4T except for the installation of a Franklin 6A-350-C1 engine.)",
+Engine,Franklin 6A-350-C1
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"Takeoff (5 min.) 2800 rpm, F.T. (220 hp). For all other operations, 2800 rpm at 26.5 in. hg. (194 hp) 
+ (See NOTE 8 if Service Letter 27 is installed)"
+Propeller and,McCauley constant speed model 2A31C21/84S-8 or -6
+propeller limits,"Diameter: 
+ Not over 78 in.; not under 74 in. 
+ Pitch settings at 30 in. sta.: low 12.8º high 23.1º 
+ Spinner: 
+ Cessna 0552016-1 
+ McCauley constant speed model 2A34C22-N/S84SF-6 or -8 
+ Diameter: 
+ Not over 78 in.; not under 74.5 in. 
+ Pitch settings at 30 in. sta.: low 11.5º high 22º 
+ Spinner: 
+ McCauley D4101 assembly 
+ NOTE: This installation also requires incorporation of Maule Drawings 5030F, rev. D, 5090B, rev. D, 
+ and 5043F, rev. G or later revisions. 
+ Governor: 
+ Woodward 210453 or 210660"
+Airspeed limits CAS,"Landplane, Floatplane, and Skiplane: (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ (+15.6) to (+19.0) at 2300 lbs. 
+ (+14.5) to (+20.5) at 2100 lbs. 
+ (+11.1) to (+20.5) at 1500 lbs. or less 
+ Model M-4-220S, s/n 2001S only: 
+ (+15.0) to (+20.5) at 2100 lbs. 
+ (+11.0) to (+20.5) at 1400 lbs. or less 
+ NOTE: With fuel in optional wing auxiliary tanks, aft C.G. restricted to +18.0. 
+ Skiplane: 
+ Federal C2200H Skis: 
+ (+12.6) to (+18.4) at 2100 lbs. 
+ (+9.6) to (+18.4) at 1620 lbs. or less 
+ Model M-4-220C only: 
+ Federal A2000A Skis 
+ (+14.5) to (+20.5) at 2100 lbs. 
+ (+11.1) to (+20.5) at 1500 lbs. or less 
+ Fli-Lite 3000 MK IIIA Skis 
+ (+14.5) to (+20.5) at 2300 lbs. 
+ (+11.1) to (+20.5) at 1500 lbs. or less 
+ Floatplane: 
+ EDO 248A2440, 248B2440 or Fleet 2500 Floats: 
+ (+15.5) to (+20.5) at 2300 lbs. 
+ (+11.0) to (+20.5) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2300 lbs. (M-4-220C) 
+ 2100 lbs. (s/n 2001S only) 
+ Skiplane: 
+ 2100 lbs. 
+ Floatplane: 
+ 2300 lbs."
+Number of seats,"4 (2 at +18 to +21, 2 at +53) (M-4-220C, M-4-220S)"
+Maximum baggage,"100 lbs. (+20), 175 lbs. (+42) (M-4-220C, M-4-220S) 
+ 125 lbs. (+70) (M-4-220C, M-4-220S)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 23 gal. (23 gal. usable; two 11.5 gal. tanks in wings at +22.2) 
+ (Fuel in the optional auxiliary tanks not approved in combination with skis or floats) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8.8 qt.(-37), 5.8 qt. Minimum (See NOTE 1 for data on system oil.)"
+Control surface,"Wing flaps 
+ Down 
+ 1st Notch 15º +3º"
+movements,"2nd Notch 35º +3º 
+ Aileron 
+ Up 20º +1º 
+ Down 20º +1º 
+ Elevator 
+ Up 25º +2º 
+ Down 21º +1º 
+ Elevator tab 
+ Up 11º +3º 
+ Down 25º +1º 
+ Rudder 
+ Right 21º +1º 
+ Left 21º +1º 
+ Rudder tab 
+ Right 48º +4 
+ Left 48º +4º"
+Serial numbers eligible,"Model M-4-220, 2001 and up (None built) 
+ Model M-4-220C, 2001C-2190C 
+ Model M-4-220S, 2001S and up (One built) 
+ Model M-4-220T, 2001T and up (None built)"
+Production basis,(No longer in production)
+"IV. Model M-4-180C, 4 PCLM (Normal Category), Approved October 20, 1970 
+ Model M-4-180S, 4 PCLM (Normal Category), Approved October 20, 1970 
+ Model M-4-180T, 2 PCLM (Normal Category), Approved October 20, 1970 
+ (Same as M-4C, M-4S and M-4T except for the installation of Franklin 6A-335-B1A engine.)",
+Engine,Franklin 6A-335-B1A
+Fuel,80/87 minimum grade aviation gasoline
+Engine limits,"For all operations, 2800 rpm (180 hp)"
+Propeller and,McCauley constant speed model 2A34C22-N/S84SF-6
+propeller limits,"Diameter: Not over 78 in.; not under 76.5 in. 
+ Pitch settings at 30 in. sta.: low 11.5º high 22º 
+ Spinner: 
+ McCauley D4180 with C4181 bulkhead assembly, 
+ B3243 front support, B3410-16 or -32 shim. 
+ Governor: 
+ Woodward 210453 or 210660"
+Airspeed limits CAS,"Landplane: 
+ (See NOTE 11 for airspeeds)"
+CG Range,"Landplane: 
+ (+15.6) to (+19.0) at 2300 lbs. 
+ (+14.5) to (+20.5) at 2100 lbs. 
+ (+11.1) to (+20.5) at 1500 lbs. or less 
+ Straight line variation between points given. 
+ NOTE: With fuel in optional wing auxiliary tanks, aft C.G. restricted to (+18.0). 
+ See Service Bulletin No. 18, AFMS No. 2 is required."
+CC Range,None
+Maximum weight,2300 lbs.
+Number of seats,"4 (2 at +18 to +21, 2 at +53) (M-4-180C)"
+Maximum baggage,"100 lbs. (+20), 175 lbs. (+42) (M-4-180C) 
+ 125 lbs. (+70) (M-4-180C)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8.8 qt. (-37), 5.8 qt. Minimum (See NOTE 1 for data on system oil.)"
+Control surface,"Wing flaps 
+ Down 
+ 1st Notch 15º +3º"
+movements,"2nd Notch 35º +3º 
+ Aileron 
+ Up 20º +1º 
+ Down 20º +1º 
+ Elevator 
+ Up 25º +2º 
+ Down 21º +1º 
+ Elevator tab 
+ Up 11º +3º 
+ Down 25º +1º 
+ Rudder 
+ Right 21º +1º 
+ Left 21º +1º 
+ Rudder tab 
+ Right 48º +4º 
+ Left 48º +4º"
+Serial numbers eligible,"Model M-4-180C, 3001C-3006C 
+ Model M-4-180S, 3001S and up (None built) 
+ Model M-4-180T, 3001T and up (None built)"
+Production basis,(No longer in production)
+"V. Model M-5-210C, 4 PCLM (Normal Category), Approved December 28, 1973 
+ (Same as M-4-210C except modified empennage, increased span flaps, smaller ailerons, modified C.G. range and other minor changes.)",
+Engine,Continental IO-360-D
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,210 hp at 2800 rpm all operations
+Propeller and,McCauley constant speed model D2A34C67N/S76C-2
+propeller limits,"Diameter: 74 in., no further reduction permitted. 
+ Pitch settings at 30 in. sta.: low 12.5º high 23º 
+ Spinner: McCauley spinner assembly D-2771-1 
+ Governor (hydraulic): Woodward B210680 or F210452"
+Airspeed limits CAS,"Landplane, Floatplane, and Skiplane: (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ (+16.0) to (+20.5) at 2300 lbs. 
+ (+15.0) to (+20.5) at 2100 lbs. 
+ (+12.0) to (+20.5) at 1600 lbs. or less 
+ All s/n modified per Maule SL#45 and SL#46: 
+ (+17.0) to (+20.5) at 2500 lbs. 
+ (+15.0) to (+20.5) at 2100 lbs. 
+ (+12.0) to (+20.5) at 1600 lbs. or less 
+ Floatplane: 
+ EDO 248A2440 or 248B2440 Floats: 
+ (+16.0) to (+18.0) at 2300 lbs. 
+ (+12.0) to (+18.0) at 1600 lbs. or less 
+ EDO 248B2400 Floats with modification per Maule Drawing 9173A: 
+ (+15.6) to (+19.0) at 2500 lbs. 
+ (+12.0) to (+19.0) at 1600 lbs. or less 
+ Pee Kay 2300 Floats: 
+ (+15.5) to (+20.0) at 2300 lbs. 
+ (+14.0) to (+20.0) at 1800 lbs. or less 
+ Note: M-5-210C s/n 6001C-6014C, 6039C, 6043C-6045C requires compliance to Maule 
+ SL#28 when equipped with EDO 248A2440/B2440 floats. 
+ Skiplane: 
+ Fluidyne C2200H Skis 
+ (+12.5) to (+20.0) at 2300 lbs. 
+ (+9.5) to (+20.0) at 1600 lbs. or less 
+ Fli-Lite 3000 MK IIIA Skis 
+ (+16.0) to (+20.0) at 2300 lbs. 
+ (+12.0) to (+20.0) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane, Skiplane and Floatplane: 
+ 2300 lbs. 
+ Landplane modified per SL#45 and SL#46: 2500 lbs. 
+ Floatplane modified per 9173A: 
+ 2500 lbs."
+Number of seats,"4 (2 at +20, 2 at +50)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +23.3) 
+ Optional wing auxiliary tanks 23 gal. (23 gal. usable; two 11.5 gal. tanks in wings at +22.2) 
+ See NOTE 16 if Modification Kit No. 15 is installed. 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,10 qt. (-37) 7 qt. Minimum (See NOTE 1 for data on system oil.)
+Control surface,"Wing flaps 
+ Down 
+ 1st Notch 15º +3º"
+movements,"2nd Notch 35º +3º 
+ Modified per 
+ Down 
+ 1st Notch 20º +3º 
+ Maule SL#46 
+ 2nd Notch 40º +3º 
+ Aileron 
+ Up 20º +1º 
+ Down 20º +1º 
+ Elevator 
+ Up 25º +2º 
+ Down 21º +1º 
+ Elevator tab 
+ Up 12º +4º 
+ Down 29º +2º 
+ Rudder 
+ Right 21º +1º 
+ Left 21º +1º 
+ Rudder tab 
+ Right 48º +4º 
+ Left 48º +4º"
+Serial numbers eligible,"Model M-5-210C, 6001C-6206C 
+ (See NOTE 13 for float installation requirements.)"
+Production basis,(No longer in production)
+"VI. Model M-5-220C, 4 PCLM (Normal Category), Approved December 28, 1973 
+ (Same as M-4-220C except modified empennage, increased span flaps, smaller ailerons, and other minor changes.)",
+Engine,Franklin 6A-350-C1
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"220 hp at 2800 rpm, all operations"
+Propeller and,McCauley constant speed model 2A34C22-N/S84SF-6 or -8
+propeller limits,"Diameter: Not over 78 in., not under 74.5 in. 
+ Pitch settings at 30 in. sta.: low 11.5º high 22º 
+ Spinner: 
+ McCauley D4180 with C4181 bulkhead assembly, 
+ B3243 front support, B3410-16 or -32 shim 
+ Governor: 
+ Woodward 210453 or 210660"
+Airspeed limits CAS,"Landplane, Floatplane, and Skiplane: (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ (+16.0) to (+20.5) at 2300 lbs. 
+ (+15.0) to (+20.5) at 2100 lbs. 
+ (+12.0) to (+20.5) at 1600 lbs. or less 
+ All s/n modified per Maule SL#48 and SL#51: 
+ (+17.0) to (+20.5) at 2500 lbs. 
+ (+15.0) to (+20.5) at 2100 lbs. 
+ (+12.0) to (+20.5) at 1600 lbs. or less 
+ Floatplane: 
+ EDO 248A2440 or 248B2440 Floats: 
+ (+16.0) to (+18.0) at 2300 lbs. 
+ (+12.0) to (+18.0) at 1600 lbs. or less 
+ EDO 248B2400 Floats with modification per Maule Drawing 9173A: 
+ (+15.6) to (+19.0) at 2500 lbs. 
+ (+12.0) to (+19.0) at 1600 lbs. or less 
+ Pee Kay 2300 Floats: 
+ (+15.5) to (+20.0) at 2300 lbs. 
+ (+14.0) to (+20.0) at 1800 lbs. or less 
+ NOTE: M-5-220C, s/n 5002C, 5019C, 5020C, 5022C-5024C requires compliance to 
+ Maule SL#28 when equipped with EDO 248A2440/B2440 floats. 
+ Skiplane: 
+ FluiDyne C2200H Skis 
+ (+12.5) to (+20.0) at 2300 lbs. 
+ ( +9.5) to (+20.0) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane, Skiplane and Floatplane: 
+ 2300 lbs. 
+ Landplane modified per SL#48 and SL#51: 2500 lbs. 
+ Floatplane modified per 9173A: 
+ 2500 lbs."
+Number of seats,"4 (2 at 15.1 to +18.1, 2 at 50)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +23.3) 
+ Optional wing auxiliary tanks 23 gal. (23 gal. usable; two 11.5 gal. tanks in wings at +22.2) 
+ See NOTE 16 if Modification Kit No. 15 is installed. 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,8.8 qt. (-37) 5.8 qt. minimum (See NOTE 1 for data on system oil.)
+Control surface,"Wing flaps 
+ Down 
+ 1st Notch 15º +3º"
+movements,"Modified per 
+ 2nd Notch 35º +3º 
+ Maule SL#48 
+ Down 
+ 1st Notch 20º +3º 
+ 2nd Notch 40º +3º 
+ Aileron 
+ Up 20º +1º 
+ Down 20º +1º 
+ Elevator 
+ Up 25º +2º 
+ Down 21º +1º 
+ Elevator tab 
+ Up 12º +4º 
+ Down 29º +2º 
+ Rudder 
+ Right 21º +1º 
+ Left 21º +1º 
+ Rudder tab 
+ Right 48º +4º 
+ Left 48º +4º"
+Serial numbers eligible,"Model M-5-220C, 5001C-5057C. (See NOTE 13 for float installation requirement.)"
+Production basis,(No longer in production)
+"VII. Model M-5-235C, 4 PCLM (Normal Category), Approved April 6, 1976 
+ (Same as M-5-220C except for nacelle, engine, propeller and electrical system.)",
+Engine,"Lycoming O-540-J1A5D, O-540-J3A5, IO-540-W1A5D, 
+ IO-540-W1A5, or O-540-B4B5"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"235 hp at 2400 rpm, all operations (O-540-J/IO-540-W) 
+ 235 hp at 2575 rpm, all operations (O-540-B)"
+propeller limits,(See NOTE 14 for propeller information)
+Airspeed limits CAS,"Landplane, Floatplane, and Skiplane: (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ S/n 7001C-7026C, 7028C, 7030C-7032C, 7037C 
+ (+16.0) to (+20.5) at 2300 lbs. 
+ (+12.0) to (+20.5) at 1600 lbs. or less 
+ or - S/n 7001C-7026C, 7028C, 7030C-7032C, 7037C with expanded C.G. limits per 
+ Maule SL#36 
+ (+12.5) to (+20.5) at 2300 lbs. 
+ (+10.5) to (+20.5) at 1700 lbs. or less 
+ or -S/n 7001C-7320C, 7322C-7346C, 7348C,7349C modified per Maule SL#43 
+ (+13.2) to (+20.5) at 2500 lbs. 
+ (+10.5) to (+20.5) at 1700 lbs. or less 
+ or -S/n 7001C-7320C, 7322C-7346C, 7348C, 7349Cmodified per Maule SL#44 
+ (+12.5) to (+20.5) at 2300 lbs. 
+ (+11.7) to (+20.5) at 1700 lbs. or less 
+ or -S/n 7001C-7320C, 7322C-7346C, 7348C, 7349C modified per Maule SL#43 and 
+ SL#44 and s/n 7321C, 7347C, 7351C, 7363C, 7369C and up 
+ (+13.2) to (+20.5) at 2500 lbs. 
+ (+11.7) to (+20.5) at 1700 lbs. or less 
+ Floatplane: 
+ EDO 248A2440, 248B2440 or Aqua 2400 Floats: 
+ (+14.3) to (+20.0) at 2530 lbs. 
+ (+13.3) to (+20.0) at 2100 lbs. or less 
+ Pee Kay 2300 Floats: 
+ (+14.3) to (+20.0) at 2500 lbs. 
+ (+13.3) to (+20.0) at 2100 lbs. or less 
+ EDO 248B2440, Aqua 2400, or EDO 797-2500 amphibious Floats (Floatplanes modified 
+ per Maule drawing 9143A (B2440's), 9166A (2400’s) or 9057A (amphibs)): 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+10.5) to (+19.0) at 1600 lbs. or less 
+ Skiplane: 
+ FluiDyne C2200H, C3000H, C3000M or Fli-Lite 3000 MK IIIA Skis: 
+ (+12.5) to (+20.0) at 2300 lbs. 
+ (+9.5) to (+20.0) at 1600 lbs. or less 
+ FluiDyne A2500A Skis: 
+ (+12.9) to (+20.5) at 2300 lbs. 
+ (+11.7) to (+20.5) at 1700 lbs. or less 
+ Fli-Lite MK IIIA Skis (Skiplanes modified per Maule drawing 9081A): 
+ (+13.2) to (+20.0) at 2500 lbs 
+ (+11.7) to (+20.0) at 1700 lbs. or less 
+ FluiDyne C3000M or C3000H Skis (Skiplanes modified per Maule drawing 9158A for 
+ C3000M or 9174A, Rev. C or later for C3000H): 
+ (+13.2) to (+20.0) at 2500 lbs. 
+ (+10.7) to (+20.0) at 1700 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2300 lbs. 
+ Floatplane: 
+ 2530 lbs. (EDO 2440 only), 2500 lbs. (PeeKay 2300) 
+ Skiplane: 
+ 2300 lbs. 
+ Landplanes modified per Maule SL#43 and s/n 7321C, 7347C, 7350C and up: 
+ 2500 lbs. 
+ Floatplanes modified per Maule drawing 9143A (EDO B2440), 
+ 9166A(Aqua 2400), or 9057A (EDO amphibs): 
+ 2750 lbs. 
+ Skiplanes modified per Maule drawing 9081A (Fli-Lites), 9158A 
+ (C3000M), or 9174A (C3000H): 
+ 2500 lbs."
+Number of seats,"4 (2 at +20, 2 at +50)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40. gal. usable; two 21.5 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 23 gal. (23 gal. usable; two 11.5 gal. tanks in wings at +24) 
+ See NOTE 16 if Modification Kit No. 15 is installed. 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"IO-540: 8 qt. (-34), 5 qt. minimum 
+ O-540: 12 qt. (-34), 9 qt. minimum 
+ (See NOTE 1 for data on system oil.)"
+Control surface,"Wing flaps 
+ (s/n 7001C-7320C, 7322C-7346C, 7348C-7350C, 7352C-7362C, 7364C-7368C):"
+movements,"Down 
+ 1st Notch 15º +3º 
+ 2nd Notch 35º +3º 
+ (s/n 7321C, 7347C, 7351C, 7363C, 7369C and up and airplanes modified per Maule SL#44): 
+ Down 
+ 1st Notch 20º +3º 
+ 2nd Notch 40º +3º 
+ Aileron 
+ Up 20º +1º 
+ Down 20º +1º 
+ Elevator 
+ Up 25º +2º 
+ Down 21º +1º 
+ Elevator tab 
+ Up 12º +4º 
+ Down 29º +2º 
+ Elevator tab 
+ w/piano hinge 
+ Up 12º +2º 
+ Down 38º +2º 
+ Rudder 
+ Right 21º +1º 
+ Left 21º +1º 
+ Rudder tab 
+ Right 48º +4º 
+ Left 48º +4º"
+Serial number eligible,"Model M-5-235C, 7001C and up 
+ (NOTE: Letter 'A' preceding serial number denotes installation of Lycoming IO-540-W1A5D fuel-injected 
+ engine and applies only to the following s/n A7354C, A7355C, A7358C, A7360C, A7361C, A7366C and 
+ A7367C.) ‘A’ was not used on later serial numbers with this engine."
+Production basis,(No longer in production)
+"VIII. Model M-5-180C, 4 PCLM (Normal Category), Approved April 19, 1979 
+ (Same as M-5-235C except for nacelle, engine and propeller.)",
+Engine,Lycoming O-360-C1F
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"180 hp at 2700 rpm, all operations"
+Propeller and,Hartzell constant speed model HC-C2YR-1BF/F7666A
+propeller limits,"Diameter: Not over 76 in; not under 72 in. 
+ Pitch settings at 30 in. sta.: low 12º high 27.8º to 29.8º 
+ Avoid continuous operation between 2000 and 2250 rpm. 
+ Spinner: 
+ Hartzell spinner assembly A2298-2 
+ Governor: 
+ Woodward H210681 
+ McCauley C290D3(X)/T29 or DC290D1(X)/T12"
+Airspeed limits CAS,Landplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+16.7) to (+20.5) at 2300 lbs. 
+ (+12.6) to (+20.5) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2300 lbs."
+Number of seats,"4 (2 at +20, 2 at +50)"
+Maximum baggage,"100 lbs. (+20), 175 lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 23 gal. (23 gal. usable; two 11.5 gal. tanks in wings at +24) 
+ See NOTE 16 if Modification Kit No. 15 is installed. 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8 qt. (-36.5), 2 qt. Minimum (See NOTE 1 for data on system oil.)"
+Control surface,"Wing flaps 
+ (s/n 8001C-8022C):"
+movements,"Down 
+ 1st Notch 15º +3º 
+ 2nd Notch 35º +3º 
+ (s/n 8023C and up and airplanes modified per Maule SL#49): 
+ Down 
+ 1st Notch 20º +3º 
+ 2nd Notch 40º +3º 
+ Aileron 
+ Up 20º +1º 
+ Down 20º +1º 
+ Elevator 
+ Up 25º +2º 
+ Down 21º +1º 
+ Elevator tab 
+ Up 12º +4º 
+ Down 29º +2º 
+ w/piano hinge 
+ Up 12º +2º 
+ Down 38º +2º 
+ Rudder 
+ Right 21º +1º 
+ Left 21º +1º 
+ Rudder tab 
+ Right 48º +4º 
+ Left 48º +4º"
+Serial numbers eligible,"Model M-5-180C, 8001C-8014C, 8016C-8019C, 8021C, 8023C-8042C, 8044C-8064C, 8068C-8094C"
+Production basis,(No longer in production)
+"IX. Model M-5-210TC, 4 PCLM (Normal Category), Approved February 4, 1980 
+ (Same as M-5-180C except for nacelle, engine and propeller.)",
+Engine,"Lycoming TO-360-F1A6D, Carburetor parts listing No. IO-5258"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"210 hp at 2575 rpm at 42.0 in. hg. MP, all operations"
+Propeller and,Hartzell constant speed model HC-E2YR-1BF/F8467-7R
+propeller limits,"Diameter: Not over 77 in.; not under 76.5 in. 
+ Pitch settings at 30 in. sta.: low 15º +0.1º high 30º to 33º 
+ Spinner: 
+ Hartzell spinner assembly A2298-2 
+ Governor: 
+ Woodward C210681"
+Airspeed limits CAS,"Landplane and Skiplane: 
+ (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ (+15.0) to (+20.5) at 2300 lbs. 
+ (+12.0) to (+20.5) at 1700 lbs. or less 
+ Skiplane 
+ Fli-Lite 3000 MK IIIA Skis: 
+ (+12.5) to (+20.0) at 2300 lbs. 
+ (+9.5) to (+20.0) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane and Skiplane: 
+ 2300 lbs."
+Number of seats,"4 (2 at +20, 2 at +50)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 23 gal. (23 gal. usable; two 11.5 gal. tanks in wings at +24) 
+ See NOTE 16 if Modification Kit No. 15 is installed. 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8 qt. (-36.5), 2 qt. Minimum (See NOTE 1 for data on system oil.)"
+altitude,"20,000 feet"
+Control surface,"Wing flaps 
+ (s/n 9001C-9010C):"
+movements,"Down 
+ 1st Notch 15º +3º 
+ 2nd Notch 35º +3º 
+ (s/n 9011C and up and airplanes modified per Maule SL#47): 
+ Down 
+ 1st Notch 20º +3º 
+ 2nd Notch 40º +3º 
+ Aileron 
+ Up 20º +1º 
+ Down 20º +1º 
+ Elevator 
+ Up 25º +2º 
+ Down 21º +1º 
+ Elevator tab 
+ Up 12º +4º 
+ Down 29º +2º 
+ Rudder 
+ Right 21º +1º 
+ Left 21º +1º 
+ Rudder tab 
+ Right 48º +4º 
+ Left 48º +4º"
+Serial numbers eligible,"Model M-5-210TC, 9001C-9010C"
+Production basis,(No longer in production)
+"X. Model M-6-235, 4/5*PCLM (Normal Category), Approved June 25, 1981",
+Engine,"Lycoming 
+ O-540-J1A5D, O-540-J3A5, IO-540-W1A5D, IO-540-W1A5 or O-540-B4B5"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"235 hp at 2400 rpm, all operations (O-540-J/O-540-W) 
+ 235 hp at 2575 rpm, all operations (O-540-B)"
+propeller limits,(See NOTE 14 for propeller information)
+Airspeed limits CAS,"Landplane, Floatplane, and Skiplane: (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ (+15.0) to (+20.5) at 2500 lbs. 
+ (+11.0) to (+20.5) at 1700 lbs. or less 
+ Floatplane: 
+ EDO 797-2500 amphibious* or 248B2440 Floats 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+10.5) to (+19.0) at 1600 lbs. or less 
+ Aqua 2400 Floats 
+ (+14.8) to (+19.0) at 2750 lbs. 
+ (+10.5) to (+19.0) at 1600 lbs. or less 
+ Wipline 3000 amphibious Floats 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+12.0) to (+19.0) at 2100 lbs. or less 
+ Wipline 2350 amphibious Floats*** 
+ (+14.1) to (+19.0) at 2500 lbs. 
+ (+12.6) to (+19.0) at 2090 lbs. or less 
+ Skiplane: 
+ FluiDyne A2500A Skis* 
+ (+14.3) to (+20.5) at 2300 lbs. 
+ (+11.0) to (+20.5) at 1700 lbs. or less 
+ Fli-Lite 3000 MK IIIA Skis* 
+ (+15.0) to (+20.5) at 2500 lbs. 
+ (+11.0) to (+20.5) at 1700 lbs. or less 
+ FluiDyne C2200H, C3000H/AH/M wheel Skis** 
+ (+15.0) to (+20.0) at 2500 lbs. 
+ (+10.0) to (+20.0) at 1700 lbs. or less 
+ *Not applicable s/n 7474C and up 
+ **Not applicable s/n 7466C, 7468C-7473C 
+ ***Not applicable s/n 7249C, 7356C-7465C 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2500 lbs. 
+ Floatplane: 
+ 2750 lbs. 
+ Skiplane: 
+ Fli-Lite 3000/C2200H/C3000H/AH/M: 
+ 2500 lbs. 
+ FluiDyne A2500A: 
+ 2300 lbs."
+Number of seats,"4 (2 at +20, 2 at +53) 
+ S/n 7474C and up: Optional: 5 (2 at +20.0, 2 at +53, 1 at +78)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ For S/n 7249C, 7356C-7472C w/ MK#27 and S/n 7473C and up: 
+ 47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 26 gal. (26 gal. usable; two 13 gal. tanks in wings at +24), 
+ S/n 7473C and up: 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24), or 
+ With Modification Kit 33 installed: 
+ Optional wing auxiliary tanks 42 gal. (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"IO-540: 8 qt. (-34), 5 qt. minimum 
+ O-540: 12 qt. (-34), 9 qt. Minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model M-6-235, s/n 7249C, 7356C, 7379C-7444C, 7446C-7450C, 7452C-7459C, 7461C-7466C, 7468C, 
+ 7469C, 7471C-7475C, 7488C-7514C, 7516C-7522C and subsequent"
+Production basis,Production Certificate No. 11SO
+"XI. Model M-6-180, 4 PCLM (Normal Category), Approved September 15, 1982 
+ (Same as M-6-235, s/n 7249C-7472C, except for nacelle, engine and propeller.)",
+Engine,Lycoming O-360-C1F
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"180 hp at 2700 rpm, all operations"
+Propeller and,Hartzell constant speed model HC-C2YR-1BF/F7666A
+propeller limits,"Diameter: Not over 76 in; not under 72 in. 
+ Pitch settings at 30 in. sta.: low 12º high 27.8º to 29.8º 
+ Avoid continuous operation between 2000 and 2250 rpm. 
+ Spinner: 
+ Hartzell spinner assembly A2298-2 
+ Governor: 
+ Woodward H210681 
+ McCauley DC290D1(X)T12 or C290D3(X)/T29"
+Airspeed limits CAS,"Landplane: 
+ (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ (+16.7) to (+20.5) at 2400 lbs. 
+ (+13.6) to (+20.5) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,Landplane: 2400 lbs.
+Number of seats,"4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 26 gal. (26 gal. usable; two 13 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8 qt. (-36.5), 2 qt. Minimum See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model M-6-180, s/n 8020C, 8065C-8067C"
+Production basis,(No longer in production.)
+"XII. Model M-5-200, 4 PCLM (Normal Category), Approved October 29, 1982 
+ (Same as M-5-235C except for nacelle, engine and propeller.)",
+Engine,Lycoming I0-360-J1A6D
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"200 hp at 2700 rpm, all operations"
+Propeller and,Hartzell constant speed model HC-E2YR-1BF/F8467-7R
+propeller limits,"Diameter: Not over 77 in.; not under 76.5 in. 
+ Pitch settings at 30 in. sta.: low 12º high 30º to 33º 
+ Do not exceed 24 in. manifold pressure below 2350 rpm. 
+ Spinner: 
+ Hartzell spinner assembly A2298-2P 
+ Governor: 
+ Woodward K210681"
+Airspeed limits CAS,"Landplane: 
+ (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ (+16.7) to (+20.5) at 2500 lbs. 
+ (+13.2) to (+20.5) at 1700 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,2500 lbs.
+Number of seats,"4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 23 gal. (23 gal. usable; two 11.5 gal. tanks in wings at +24) 
+ See NOTE 16 if Modification Kit No. 15 is installed. 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8 qt. (-36.5), 2 qt. Minimum (See NOTE 1 for data on system oil.)"
+Control surface,"Wing flaps 
+ Down 
+ 1st Notch 20º +3º"
+movements,"2nd Notch 40º +3º 
+ Aileron 
+ Up 20º +1º 
+ Down 20º +1º 
+ Elevator 
+ Up 25º +2º 
+ Down 21º +1º 
+ Elevator tab 
+ Up 8º to 16º 
+ Down 29º +2º 
+ Rudder 
+ Right 21º +1º 
+ Left 21º +1º 
+ Rudder tab 
+ Right 48º +4º 
+ Left 48º +4º"
+eligible,"Model M-5-200, s/n 8015C, 8022C"
+Production basis,(No longer in production.)
+"XIII. Model M-7-235, 5 PCLM (Normal Category) Approved November 9, 1983 
+ (Same as M-6-235 except for fuselage, wings, flaps, ailerons, and rudder.)",
+Engine,"Lycoming 
+ O-540-J1A5D, O-540-J3A5, IO-540-W1A5D, IO-540-W1A5 or O-540-B4B5"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"235 hp at 2400 rpm, all operations (O-540-J/IO-540-W) 
+ 235 hp at 2575 rpm, all operations (O-540-B)"
+propeller limits,(See NOTE 14 for propeller information)
+Airspeed limits CAS,"Landplane, Floatplane, and Skiplane: (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ (+15.0) to (+20.0) at 2500 lbs. 
+ (+12.5) to (+20.0) at 1700 lbs. or less 
+ Floatplane: 
+ EDO 797-2500 amphibious or 248B2440 Floats 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+10.5) to (+19.0) at 1600 lbs. or less 
+ Aqua 2400 Floats 
+ (+15.0) to (+20.0) at 2750 lbs. 
+ (+12.5) to (+20.0) at 1600 lbs. or less 
+ Wipline 3000 amphibious Floats 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+12.0) to (+19.0) at 2100 lbs. or less 
+ Skiplane: 
+ Fli-Lite 3000 MK IIIA Skis 
+ (+15.0) to (+20.0) at 2500 lbs. 
+ (+12.5) to (+20.0) at 1700 lbs. or less 
+ FluiDyne C3000H and C3000M Skis 
+ (+15.0) to (+20.0) at 2500 lbs. 
+ (+10.0) to (+20.0) at 1700 lbs. or less 
+ Straight line variation between points given."
+Maximum weight,"Landplane: 
+ 2500 lbs. 
+ Floatplane: 
+ 2750 lbs. 
+ Skiplane: 
+ 2500 lbs."
+Number of seats,"5(2 at +20, 2 at +53, 1 at +83)"
+CG range,None
+Maximum baggage,"100 lbs. (+20), 175 lbs. (+42), 125 lbs. (+72)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ or 47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ or 42 gal. (42 gal. usable;two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"IO-540: 8 qt. (-34), 5 qt. minimum 
+ O-540: 12 qt. (-34), 9 qt. Minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model M-7-235, s/n 4001C-4132C; 
+ With STC SA2661SO, s/n 12001C and 12002C (also known as Model M-7-420)"
+Production basis,(No longer in production.)
+"XIV. Model MX-7-235, 4/5 PCLM (Normal Category), Approved October 18, 1984 
+ (Same as M-6-235 except for wings, flaps, aileron and wing tip.)",
+Engine,"Lycoming 
+ O-540-J1A5D, O-540-J3A5, IO-540-W1A5D, IO-540-W1A5 or O-540-B4B5"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"235 hp at 2400 rpm, all operations (O-540-J/IO-540-W) 
+ 235 hp at 2575 rpm, all operations (O-540-B)"
+propeller limits,(See NOTE 14 for propeller information)
+Airspeed limits CAS,"Landplane, Floatplane, and Skiplane: (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ (+15.0) to (+20.5) at 2500 lbs. 
+ (+12.0) to (+20.5) at 1700 lbs. or less 
+ Floatplane: 
+ EDO 797-2500 amphibious or 248B2440: 
+ (+14.3) to (+19.0) at 2750 lbs. 
+ (+12.3) to (+19.0) at 2100 lbs. or less 
+ Wipline 2350 amphibious Floats 
+ (+14.1) to (+19.0) at 2500 lbs. 
+ (+12.6) to (+19.0) at 2090 lbs. or less 
+ Wipline 3000 amphibious Floats 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+12.0) to (+19.0) at 2100 lbs. or less 
+ Skiplane: 
+ FluiDyne C3000H: 
+ (+15.0) to (+19.0) at 2500 lbs. 
+ (+11.0) to (+19.0) at 1840 lbs. or less 
+ FliLite 3000 MK IIIA: 
+ (+15.0) to (+19.0) at 2500 lbs. 
+ (+11.0) to (+19.0) at 1700 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2500 lbs. 
+ Floatplane: 
+ 2750 lbs. 
+ Skiplane: 
+ 2500 lbs."
+Number of seats,"4 (2 at +20, 2 at +53) 
+ Optional: 5 (2 at +20, 2 at +53, 1 at +78)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ or 47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"IO-540: 8 qt. (-34), 5 qt. minimum 
+ O-540: 12 qt. (-34), 9 qt. Minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model MX-7-235, s/n 10001C-10122C"
+Production basis,(No longer in production.)
+"XV. Model MX-7-180, 4/5 PCLM (Normal Category), Approved December 18, 1984 
+ (Same as MX-7-235 except for nacelle, engine and propeller.)",
+Engine,Lycoming 0-360-C1F
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"180 hp at 2700 rpm, all operations"
+Propeller and,Hartzell constant speed model HC-C2YR-1BF/F7666A
+propeller limits,"Diameter: Not over 76 in., not under 72 in. 
+ Pitch settings at 30 in. sta.: low 12º high 27.8º to 29.8º 
+ Spinner: 
+ Hartzell spinner assembly A2298-2 
+ Governor: 
+ Woodward H210681 
+ McCauley C290D3(X)/T29 or DC290D1(X)/T12"
+Airspeed limits IAS,Landplane and Floatplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+16.7) to (+20.5) at 2500 lbs. 
+ (+13.6) to (+20.5) at 1600 lbs. or less 
+ Floatplane: 
+ Aqua 2200 Floats: 
+ (+13.9) to (+20.5) at 2500 lbs. 
+ (+10.5) to (+20.5) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,2500 lbs.
+Number of seats,"4 (2 at +20, 2 at +53) 
+ Optional: 5 (2 at +20, 2 at +53, 1 at +78)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ or 47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8 qt. (-36.5), 2 qt. Minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model MX-7-180, s/n 11001C-11097C"
+Production basis,(No longer in production.)
+"XVI. Model MX-7-420, 4/5 PCLM (Normal Category) Approved June 1, 1989 
+ (Same as MX-7-235 except for nacelle, engine, propeller and rudder.)",
+Engine,"Rolls-Royce Corp. (Allison) 
+ Gas Turbine 250-B17C"
+Fuel,"Primary: 
+ Mil-T-5624L, grade JP-4 and JP-5, Mil-T-83133A, grade JP-8, ASTM-D-1655, Jet A, A1 or B, JP-1 
+ Fuel conforming to ASTM-D-1655, Jet A, Artic Diesel Fuel DF-A (VV0F800B) conforming to 
+ ASTM-D-1655, Jet A or A1 Diesel #1 fuel conforming to ASTM-D-1655, Jet A 
+ Emergency: 
+ Mil-G-5572, all grades (aircraft boost pump on; maximum of 6 hours operation per 
+ overhaul period of turbine through an engine operating range of idle to 90% maximum SHP) 
+ Cold Weather: 
+ To assure consistent starts below 4ºC (40ºF), the following fuels may be necessary: 
+ MIL-T-5624, grade JP-4 ASTM-D-1655, Jet B AVGAS/Jet A, Jet A1 or Jet JP-5 mixture. 
+ (Refer to Cold Weather Fuels, para 2-48, for mixing/use of cold weather fuel in Allison Manual 11W2.)"
+Engine limits,"369 hp - 90 psi torque, at 2030 rpm continuous"
+Propeller and,"Hartzell, constant speed, full-feathering beta, model"
+propeller limits,"HC-B3TF-7A/T10173F-21R or HC-B3TF-7A/T10173-21R 
+ Diameter: 80.5 - 78 inches 
+ Pitch settings at 30"" sta.: 
+ Reverse pitch -15º +5º feather 81.1º +5º 
+ Spinner: Hartzell spinner assembly A3640P"
+altitude,"20,000 feet"
+Airspeed limits CAS,Landplane and Floatplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+15.0) to (+20.0) at 2500 lbs. 
+ (+12.0) to (+20.0) at 1700 lbs. or less 
+ Floatplane: 
+ Wipline 2350 Amphibious: 
+ (+14.1) to (+18.5) at 2500 lbs. 
+ (+12.6) to (+18.5) at 2090 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,2500 lbs.
+Number of seats,"4 (2 at +20, 2 at +53) 
+ Optional: 5 (2 at +20, 2 at +53, 1 at +78)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40.6 usable; two 21.5 gal. tanks in wings at +24-considered one tank) 
+ or 47.6 gal. (43 gal.usable, two 23.8 gal. tanks in wings at +24 - considered one tank) 
+ Optional wing auxiliary tanks, 30 gal. (30 usable; two 15 gal. tanks in wings at +24) 
+ (or 42 gal. 42 usable; two 21 gal. tanks in wings at + 24). 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"10 qt. (-22.5), 9 qts. Minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model MX-7-420, s/n 13001C-13003C"
+Production basis,(No longer in production.)
+"XVII. Model MXT-7-180, 4/5 PCLM (Normal Category), Approved November 9, 1990 
+ (Same as M-6-235, s/n 7474C and up, except for nacelle, engine, propeller, ailerons, flaps and landing gear 
+ (aluminum spring mains with nosewheel in lieu of tailwheel).)",
+Engine,"Lycoming 
+ Lycoming 0-360-C1F"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"180 hp at 2700 rpm, all operations"
+Propeller and,Hartzell constant speed model HC-C2YR-1BF/7666A
+propeller limits,"Diameter: Not over 76 in., not under 72 in. 
+ Pitch settings at 30 in. sta.: low 12º high 27.8º to 29.8º 
+ Avoid continuous operation between 2000 and 2250 rpm. 
+ McCauley constant speed 3-blade model B3D32C414-C/G-82NDA-8 
+ Diameter: 74 in. 
+ Pitch settings at 30"" sta: low 10.6º +0.2º high 27.5º +0.5º 
+ Avoid continuous operation below 10 inches HG between 1900 and 2300 rpm. 
+ Spinner: 
+ Hartzell spinner assembly A2298-2 (use with Hartzell propeller only) 
+ McCauley spinner assembly D-6240 (use with McCauley propeller only) 
+ Governor: 
+ Woodward H210681 
+ McCauley C290D3(X)/T29 or DC290D1(X)/T12"
+Airspeed limits IAS,Landplane and Floatplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+15.9) to (+20.5) at 2500 lbs. 
+ (+12.4) to (+20.5) at 1740 lbs. or less 
+ Floatplane: 
+ Aqua 2200 Floats: 
+ (+13.9) to (+20.5) at 2500 lbs. 
+ (+10.5) to (+20.5) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,2500 lbs.
+Number of seats,"4 (2 at +20, 2 at +53) 
+ Optional: 5 (2 at +20, 2 at +53, 1 at +78)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ or 47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ or 42 (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8 qt. (-36.5), 2 qt. Minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model MXT-7-180, s/n 14000C and up"
+Production basis,Production Certificate No. 11SO
+"XVIII. Model MT-7-235, 4/5 PCLM (Normal Category), Approved March 20, 1992 
+ (Same as MXT-7-180 except for nacelle, engine, propeller and M-7 fuselage.)",
+Engine,"Lycoming 
+ IO-540-W1A5D, IO-540-W1A5"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"235 hp at 2400 rpm, full throttle continuous"
+Propeller and,Hartzell constant speed model HC-C2YR-1BF/8468A-6R or -3R
+propeller limits,"Hartzell constant speed 3-blade model HC-C3YR-1RF/F7693(F)-(2) 
+ Diameter: 
+ -3R: Not over 81 in.; not under 77 in 
+ -6R: Not over 78 in.; not under 77 in. 
+ F7693: Not over 78 in.; not under 76 in. 
+ Pitch settings at 30"" sta.: -3R: low 16º +1º high 30º +1º 
+ -6R: low 16.7º +1º high 30º +1º 
+ F7693: low 14.2º +1º high 31º +1º 
+ -6R: Do not exceed 23 in. M.P. below 2050 rpm. 
+ McCauley constant speed model B3D32C414-C/G-82NDA-4 or -2 
+ McCauley constant speed model B2D37C-224-B/G-90RA-9 
+ Pitch settings at 30"" sta: 
+ -2 (80""): low 15.0º +0.2º high 30.0º +0.5º 
+ -4 (78""): low 15.7º +0.2º high 30.0º +0.5º 
+ -9 (81""): low 14.7º +0.2º high 24.6º +0.5º 
+ Spinner: 
+ Hartzell spinner assembly A2298-2 (use with Hartzell 2 blade propeller only) 
+ Hartzell spinner assembly C-3535-1P (use with Hartzell 3-blade prop only) 
+ McCauley spinner assembly D-6240 (use with McCauley 3 blade propeller only) 
+ McCauley spinner assembly D-6195 (use with McCauley 2 blade propeller only) 
+ Governor: 
+ Woodward F210681 or B210761 
+ McCauley C290D3(X)/T30 or DC290D1(X)/T14"
+Airspeed limits IAS,"Landplane and Floatplane: 
+ (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ (+15.0) to (+20.5) at 2500 lbs. 
+ (+12.0) to (+20.5) at 1800 lbs. or less 
+ Floatplane: 
+ Aqua 2400 Floats 
+ (+15.0) to (+20.0) at 2750 lbs. 
+ (+12.5) to (+20.0) at 1600 lbs. or less 
+ Wipline 3000 amphibious Floats 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+12.0) to (+19.0) at 2100 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 2500 lbs. 
+ Floatplane: 2750 lbs."
+Number of seats,"5 (2 at +20, 2 at +53, 1 at +83) 
+ Optional: 4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+72)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ or 47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ or 42 gal. (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8 qt. (-34), 5 qt. Minimum (See NOTE 1 for data on system oil"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model MT-7-235, s/n 18001C and up"
+Production basis,Production Certificate No. 11SO
+"XIX. Model M-8-235, 4/5 PCLM (Normal Category), Approved August 10, 1992 
+ (Same as M-6-235, s/n 7474C & up, except for flaps, ailerons and landing gear (aluminum spring mains.)",
+Engine,"Lycoming 
+ O-540-J1A5D, O-540-J3A5, IO-540-W1A5D, IO-540-W1A5 or O-540-B4B5"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"235 hp at 2400 rpm, all operations (O-540-J/IO-540-W) 
+ 235 hp at 2575 rpm, all operations (O-540-B)"
+propeller limits,(See NOTE 14 for propeller information)
+Airspeed limits CAS,Landplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+15.0) to (+20.5) at 2500 lbs. 
+ (+12.0) to (+20.5) at 1760 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,Landplane: 2500 lbs.
+Number of seats,"4 (2 at +20, 2 at +53) 
+ Optional: 5 (2 at +20, 2 at +53, 1 at +78)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ or 47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ or 42 gal. (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"IO-540: 8 qt. (-34), 5 qt. minimum 
+ O-540: 12 qt. (-34), 9 qt. Minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model M-8-235, s/n 15001C and up"
+Production basis,Production Certificate No. 11SO
+"XX. Model MX-7-160, 4 PCLM (Normal Category), Approved November 13, 1992 
+ (Same as MXT-7-180, except for engine, propeller, and has conventional tailwheel landing gear.)",
+Engine,"Lycoming 
+ Lycoming 0-320-B2D"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"160 hp at 2700 rpm, full throttle continuous"
+Propeller and,"Sensenich fixed pitch 74DM7S5-0-52 or -54 or -56 (74"" Dia.) or"
+propeller limits,"Sensenich fixed pitch 74DM7S8-0-52 or -54 or -56 (74"" Dia.) 
+ Diameter: 
+ Not over 74 in., not under 72 in., no further reduction permitted. 
+ Static rpm at full throttle: Not over 2500 rpm, not under 2400 rpm (-54 or -56) 
+ Not over 2620 rpm, not under 2520 rpm (-52) 
+ Spinner: Sensenich spinner assembly S74DM"
+Airspeed limits IAS,Landplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+15.4) to (+20.5) at 2200 lbs. 
+ (+12.5) to (+20.5) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,2200 lbs.
+Number of seats,"4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ or 47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ or 42 gal. (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8 qt. (-36.5), 2 qt. Minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model MX-7-160, s/n 19001C and up"
+Production basis,Production Certificate No. 11SO
+"XXI. Model MXT-7-160, 2/4 PCLM (Normal Category), Approved November 13, 1992 
+ (Same as MXT-7-180, except for engine and propeller.)",
+Engine,"Lycoming 
+ Lycoming 0-320-B2D"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"160 hp at 2700 rpm, full throttle continuous"
+Propeller and,"Sensenich fixed pitch 74DM7S5-0-52 or -54 or -56 (74"" Dia.) or"
+propeller limits,"Sensenich fixed pitch 74DM7S8-0-52 or -54 or -56 (74"" Dia.) 
+ Diameter: Not over 74 in., not under 72 in., no further reduction permitted. 
+ Static rpm at full throttle: 
+ Not over 2500 rpm, not under 2400 rpm (-54 or -56) 
+ Not over 2620 rpm, not under 2520 rpm (-52) 
+ Spinner: 
+ Sensenich spinner assembly S74DM"
+Airspeed limits IAS,Landplane and Floatplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+15.4) to (+20.5) at 2200 lbs. 
+ (+12.5) to (+20.5) at 1600 lbs. or less 
+ Floatplane: 
+ Aqua 2200 Floats: 
+ (+14.6) to (+20.5) at 2200 lbs. 
+ (+13.5) to (+20.5) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,2200 lbs.
+Number of seats,"4 (2 at +20, 2 at +53) 
+ Optional: 2 (2 at +20)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ or 47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ or 42 gal. (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8 qt. (-36.5), 2 qt. Minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model MXT-7-160, s/n 17001C and up"
+Production basis,Production Certificate No. 11SO
+"XXII. Model MX-7-180A, 4 PCLM (Normal Category), Approved June 3, 1993 
+ (Same as MXT-7-180, except for engine, propeller, and has conventional tailwheel landing gear.)",
+Engine,"Lycoming 
+ 0-360-C1F or 0-360-C4F"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"180 hp at 2700 rpm, full throttle continuous"
+Propeller and,"Sensenich fixed pitch 76EM8S5-0-56 (76"" Dia.) or 76EM8S8-0-56 (76"" Dia.)"
+propeller limits,"Diameter: Not over 76 in., not under 76 in., no further reduction permitted. 
+ Static rpm at full throttle: Not over 2500 rpm, not under 2400 rpm. 
+ Spinner: Sensenich spinner assembly S76EM"
+Airspeed limits IAS,Landplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+15.9) to (+20.5) at 2400 lbs. 
+ (+12.4) to (+20.5) at 1740 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,2400 lbs.
+Number of seats,"4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. at (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ or 47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wing at +24) 
+ or 42 gal. (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8 qt. (-36.5), 2 qt. Minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model MX-7-180A, s/n 20001C and up"
+Production basis,Production Certificate No. 11SO
+XXIII,"Model MXT-7-180A, 4 PCLM (Normal Category), Approved June 3, 1993 
+ (Same as MXT-7-180, except for engine and propeller.)"
+Engine,"Lycoming 
+ 0-360-C1F or 0-360-C4F"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"180 hp at 2700 rpm, full throttle continuous"
+Propeller and,"Sensenich fixed pitch 76EM8S5-0-56 (76"" Dia.) or 76EM8S8-0-56 (76"" Dia.)"
+propeller limits,"Diameter: Not over 76 in., not under 76 in., no further reduction permitted. 
+ Static rpm at full throttle: Not over 2500 rpm, not under 2400 rpm. 
+ Spinner: Sensenich spinner assembly S76EM"
+Airspeed limits IAS,Landplane and Floatplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+15.9) to (+20.5) at 2400 lbs. 
+ (+12.4) to (+20.5) at 1740 lbs. or less 
+ Floatplane: 
+ Aqua 2200 Floats: 
+ (+15.0) to (+20.5) at 2400 lbs. 
+ (+13.5) to (+20.5) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,2400 lbs.
+Number of seats,"4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. at (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ or 47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wing at +24) 
+ or 42 gal. (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8 qt. (-36.5), 2 qt. Minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model MXT-7-180A, s/n 21001C and up"
+Production basis,Production Certificate No. 11SO
+XXIV,"Model MX-7-180B, 4/5 PCLM (Normal Category), Approved July 12, 1993 
+ (Same as MXT-7-180 except for conventional tailwheel landing gear.)"
+Engine,"Lycoming 
+ Lycoming 0-360-C1F"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"180 hp at 2700 rpm, all operations"
+Propeller and,Hartzell constant speed model HC-C2YR-1BF/F7666A
+propeller limits,"Diameter: Not over 76 in., not under 72 in. no further reduction permitted. 
+ Pitch settings at 30 in. sta.: low 12º high 27.8º to 29.8º 
+ Avoid continuous operation between 2000 and 2250 rpm. 
+ Spinner: 
+ Hartzell spinner assembly A2298-2 
+ Governor: 
+ Woodward H210681 
+ McCauley C290D3(X)/T29 or DC290D1(X)/T12"
+Airspeed limits IAS,Landplane and Floatplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+15.9) to (+20.5) at 2500 lbs. 
+ (+12.4) to (+20.5) at 1740 lbs. or less 
+ Straight line variation between points given. 
+ Floatplane: 
+ See appropriate AFMS for C.G. range for different float installations."
+CG range,None
+Maximum weight,2500 lbs.
+Number of seats,"4 (2 at +20, 2 at +53) 
+ Optional: 5 (2 at +20, 2 at +53, 1 at +78)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ or 47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ or 42 (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8 qt. (-36.5), 2 qt. minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model MX-7-180B, s/n 22001C and up"
+Production basis,Production Certificate No. 11SO
+"XXV. Model MXT-7-420, 4/5 PCLM (Normal Category), Approved July 12, 1993, Model deleted from TC January 7, 2003 
+ Model MXT-7-420 removed from the type certificate per Maule Aerospace Technology’s request. One serial number airplane of this 
+ model was built and has now been dismantled. 
+ XXVI. Model M-7-235B, 4/5 PCLM (Normal Category), Approved October 14, 1993 
+ (Same as MT-7-235 except has conventional tailwheel landing gear.)",
+Engine,"Lycoming 
+ O-540-J1A5D, O-540-J3A5, IO-540-W1A5D, IO-540-W1A5 or O-540-B4B5"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"235 hp at 2400 rpm, all operations (O-540-J/IO-540-W) 
+ 235 hp at 2575 rpm, all operations (O-540-B)"
+propeller limits,(See NOTE 14 for propeller information)
+Airspeed limits CAS,"Landplane, Floatplane, and Skiplane: (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ (+15.0) to (+20.0) at 2500 lbs. 
+ (+12.5) to (+20.0) at 1700 lbs. or less 
+ Floatplane: 
+ EDO 797-2500 amphibious or 248B2440: 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+12.5) to (+19.0) at 2400 lbs. or less 
+ Aqua 2400 Floats 
+ (+15.0) to (+20.0) at 2750 lbs. 
+ (+12.5) to (+20.0) at 1600 lbs. or less 
+ Wipline 3000 amphibious Floats 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+12.0) to (+19.0) at 2100 lbs. or less 
+ Skiplane: 
+ FliLite 3000 MK IIIA: 
+ (+15.0) to (+20.0) at 2500 lbs. 
+ (+12.5) to (+20.0) at 1700 lbs. or less 
+ FluiDyne C3000H: 
+ (+15.0) to (+19.5) at 2500 lbs. 
+ (+11.5) to (+19.5) at 1700 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2500 lbs. 
+ Floatplane: 
+ 2750 lbs. 
+ Skiplane: 
+ 2500 lbs."
+Number of seats,"5 (2 at +20, 2 at +53, 1 at +83) 
+ Optional: 4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+72)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ or 47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ or 42 gal. (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"IO-540: 8 qt. (-34), 5 qt. minimum 
+ O-540: 12 qt. (-34), 9 qt. minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model M-7-235B, s/n 23001C and up"
+Production basis,Production Certificate No. 11SO
+"XXVII. Model M-7-235A, 4/5 PCLM (Normal Category) Approved March 10, 1994 
+ (Same as M-7-235 except for flaps and ailerons.)",
+Engine,"Lycoming 
+ O-540-J1A5D, O-540-J3A5, IO-540-W1A5D, IO-540-W1A5 or O-540-B4B5"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"235 hp at 2400 rpm, all operations (O-540-J/IO-540-W) 
+ 235 hp at 2575 rpm, all operations (O-540-B)"
+propeller limits,(See NOTE 14 for propeller information)
+Airspeed limits CAS,"Landplane, Floatplane, and Skiplane: (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ (+15.0) to (+20.0) at 2500 lbs. 
+ (+12.5) to (+20.0) at 1700 lbs. or less 
+ Floatplane: 
+ Aqua 2400 Floats 
+ (+15.0) to (+20.0) at 2750 lbs. 
+ (+12.5) to (+20.0) at 1600 lbs. or less 
+ Skiplane: 
+ FluiDyne C3000H: 
+ (+15.0) to (+19.5) at 2500 lbs. 
+ (+11.5) to (+19.5) at 1700 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2500 lbs. 
+ Floatplane: 
+ 2750 lbs. 
+ Skiplane: 
+ 2500 lbs."
+Number of seats,"5 (2 at +20, 2 at +53, 1 at +83) 
+ Optional: 4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+72)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ or 47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ or 42 gal. (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"IO-540: 8 qt. (-34), 5 qt. minimum 
+ O-540: 12 qt. (-34), 9 qt. minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model M-7-235A, s/n 24001C and up"
+Production basis,Production Certificate No. 11SO
+"XXVIII. Model M-7-235C, 4/5 PCLM (Normal Category) Approved October 10, 1995 
+ (Same as M-7-235B except spring aluminum main landing gear.)",
+Engine,"Lycoming 
+ O-540-J1A5D, O-540-J3A5, IO-540-W1A5D, IO-540-W1A5 or O-540-B4B5"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"235 hp at 2400 rpm, all operations (O-540-J/IO-540-W) 
+ 235 hp at 2575 rpm, all operations (O-540-B)"
+propeller limits,(See NOTE 14 for propeller information)
+Airspeed limits CAS,"Landplane and Floatplane: 
+ (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ (+15.0) to (+20.5) at 2500 lbs. 
+ (+12.0) to (+20.5) at 1760 lbs. or less 
+ Floatplane: 
+ EDO 797-2500 amphibious Floats 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+12.5) to (+19.0) at 2400 lbs. or less 
+ Aqua 2400 Floats 
+ (+15.0) to (+20.0) at 2750 lbs. 
+ (+12.5) to (+20.0) at 1600 lbs. or less 
+ Wipline 3000 amphibious Floats 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+12.0) to (+19.0) at 2100 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2500 lbs. 
+ Floatplane: 
+ 2750 lbs."
+Number of seats,"5 (2 at +20, 2 at +53, 1 at +83) 
+ Optional: 4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+72)"
+Fuel capacity,"43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ or 47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ or 42 gal. (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"IO-540: 8 qt. (-34), 5 qt. minimum 
+ O-540: 12 qt. (-34), 9 qt. minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model M-7-235C, s/n 25001C and up, except s/n 25112C is not eligible (no standard certificate of 
+ airworthiness was issued per customer’s request before aircraft was exported.)"
+Production basis,Production Certificate No. 11SO
+"XXIX. Model MX-7-180C, 4/5 PCLM (Normal Category) Approved August 27, 1996 
+ (Same as MX-7-180B except for landing gear (aluminum spring mains)",
+Engine,"Lycoming 
+ Lycoming 0-360-C1F"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"180 hp at 2700 rpm, all operations"
+Propeller and,Hartzell constant speed model HC-C2YR-1BF/F7666A
+propeller limits,"Diameter: Not over 76 in., not under 72 in. no further reduction permitted. 
+ Pitch settings at 30 in. sta.: low 12º high 27.8º to 29.8º 
+ Avoid continuous operation between 2000 and 2250 rpm. 
+ Spinner: 
+ Hartzell spinner assembly A2298-2 
+ Governor: 
+ Woodward H210681 
+ McCauley C290D3(X)/T29 or DC290D1(X)/T12"
+Airspeed limits IAS,Landplane and Floatplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+15.9) to (+20.5) at 2500 lbs. 
+ (+12.4) to (+20.5) at 1740 lbs. or less 
+ Floatplane: 
+ Aqua 2200 Floats 
+ (+13.9) to (+20.5) at 2500 lbs. 
+ (+10.5) to (+20.5) at 1600 lbs. or less 
+ Wipline 2350 amphibious Floats 
+ (+15.0) to (+19.0) at 2500 lbs. 
+ (+13.5) to (+19.0) at 2090 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,2500 lbs.
+Number of seats,"4 (2 at +20, 2 at +53) 
+ Optional: 5 (2 at +20, 2 at +53, 1 at +78)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ or 43 gal. (40 gal. usable; two 21.5 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ or 42 (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8 qt. (-36.5), 2 qt. minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model MX-7-180C, s/n 28001C and up"
+Production basis,Production Certificate No. 11SO
+"XXX. Model M-7-260, 4/5 PCLM (Normal Category) Approved April 17, 1998 
+ (Same as M-7-235B except engine and propeller.)",
+Engine,"Lycoming 
+ IO-540-V4A5"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"260 hp at 2700 rpm, full throttle continuous"
+propeller limits,(See NOTE 15 for propeller information)
+Airspeed limits IAS,"Landplane and Floatplane: 
+ (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ (+15.0) to (+20.0) at 2500 lbs. 
+ (+12.5) to (+20.0) at 1700 lbs. or less 
+ Floatplane: 
+ Wipline 3000 amphibious Floats 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+12.0) to (+19.0) at 2100 lbs. or less 
+ Aqua 2400 Floats 
+ (+15.0) to (+20.0) at 2750 lbs. 
+ (+12.5) to (+20.0) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2500 lbs. 
+ Floatplane: 
+ 2750 lbs."
+Number of seats,"5 (2 at +20, 2 at +53, 1 at +83) 
+ Optional: 4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+72)"
+Fuel capacity,"47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ or 42 gal. (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on fuel system.)"
+Oil capacity,"8 qt. (-34), 5 qt. minimum (See NOTE 1 for data on oil system.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model M-7-260, s/n 26001C and up"
+Production basis,Production Certificate No. 11SO
+"XXXI. Model MT-7-260, 4/5 PCLM (Normal Category) Approved April 17, 1998 
+ (Same as MT-7-235 except engine and propeller.)",
+Engine,"Lycoming 
+ IO-540-V4A5"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"260 hp at 2700 rpm, full throttle continuous"
+propeller limits,(See NOTE 15 for propeller information)
+Airspeed limits IAS,"Landplane and Floatplane: 
+ (See NOTE 11 for airspeeds)"
+CG range,"Landplane: 
+ (+15.0) to (+20.0) at 2500 lbs. 
+ (+12.5) to (+20.0) at 1700 lbs. or less 
+ Floatplane: 
+ Wipline 3000 amphibious Floats 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+12.0) to (+19.0) at 2100 lbs. or less 
+ Aqua 2400 Floats 
+ (+15.0) to (+20.0) at 2750 lbs. 
+ (+12.5) to (+20.0) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2500 lbs. 
+ Floatplane: 
+ 2750 lbs."
+Number of seats,"5 (2 at +20, 2 at +53, 1 at +83) 
+ Optional: 4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+72)"
+Fuel capacity,"47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ or 42 gal. (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on fuel system.)"
+Oil capacity,"8 qt. (-34), 5 qt. minimum (See NOTE 1 for data on oil system.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model MT-7-260, s/n 27001C and up"
+Production basis,Production Certificate No. 11SO
+"XXXII. Model M-7-260C, 4/5 PCLM (Normal Category) Approved October 19, 1998 
+ (Same as M-7-235C except engine and propeller.)",
+Engine,"Lycoming 
+ IO-540-V4A5"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"260 hp at 2700 rpm, full throttle continuous"
+propeller limits,(See NOTE 15 for propeller information)
+Airspeed limits IAS,Landplane and Floatplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+15.0) to (+20.0) at 2500 lbs. 
+ (+12.5) to (+20.0) at 1700 lbs. or less 
+ Floatplane: 
+ Wipline 3000 amphibious Floats 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+12.0) to (+19.0) at 2100 lbs. or less 
+ Aqua 2400 Floats 
+ (+15.0) to (+20.0) at 2750 lbs. 
+ (+12.5) to (+20.0) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2500 lbs. 
+ Floatplane: 
+ 2750 lbs."
+Number of seats,"5 (2 at +20, 2 at +53, 1 at +83) 
+ Optional: 4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+72)"
+Fuel capacity,"47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ or 42 gal. (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on fuel system.)"
+Oil capacity,"8 qt. (-34), 5 qt. minimum (See NOTE 1 for data on oil system.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model M-7-260C, s/n 30001C and up"
+Production basis,Production Certificate No. 11SO
+"XXXIII. Model M-7-420AC, 4/5 PCLM (Normal Category) Approved December 17, 1998 
+ (Same as M-7-235A except for main landing gear, flap ratchet, nacelle, engine, and propeller.)",
+Engine,"Rolls-Royce Corp. (Allison) 
+ Gas Turbine 250-B17C"
+Fuel,"Primary: 
+ Mil-T-5624L, grade JP-4 and JP-5, Mil-T-83133A, grade JP-8, 
+ ASTM-D-1655, Jet A, A1 or B, JP-1 Fuel conforming to ASTM-D-1655, 
+ Jet A, Artic Diesel Fuel DF-A (VV0F800B) conforming to ASTM-D-1655, 
+ Jet A or A1 Diesel #1 fuel conforming to ASTM-D-1655, Jet A 
+ Emergency: 
+ Mil-G-5572, all grades (aircraft boost pump on; maximum of 6 hours operation per 
+ overhaul period of turbine through an engine operating range of idle to 90% maximum SHP) 
+ Cold Weather: 
+ To assure consistent starts below 4ºC (40ºF), the following fuels may be necessary: 
+ MIL-T-5624, grade JP-4 ASTM-D-1655, Jet B AVGAS/Jet A, Jet A1 or Jet JP-5 mixture. 
+ (Refer to Cold Weather Fuels, para 2-48, for mixing/use of cold weather fuel in Allison Manual 11W2.)"
+Engine limits,"369 hp - 90 psi torque, at 2030 rpm continuous"
+Propeller and,"Hartzell, constant speed, full-feathering beta, model"
+propeller limits,"HC-B3TF-7A/T10173F-21R 
+ Diameter: 80.5 - 78 inches 
+ Pitch settings at 30"" sta.: 
+ Reverse pitch -15º +5º feather 81.1º +5º 
+ Spinner: Hartzell spinner assembly A3640P"
+altitude,"20,000 feet"
+Airspeed limits CAS,Landplane and Floatplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+15.0) to (+20.5) at 2500 lbs. 
+ (+13.1) to (+20.5) at 2090 lbs. or less 
+ Floatplane: 
+ Wipline 3000 Amphibious: 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+12.0) to (+19.0) at 2100 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2500 lbs. 
+ Floatplane: 
+ 2750 lbs."
+Number of seats,"5 (2 at +20, 2 at +53, 1 at +83) 
+ Optional: 4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+72)"
+Fuel capacity,"47.6 gal. (43 gal. usable, two 23.8 gal. tanks in wings at +24 - considered one tank) 
+ Optional wing auxiliary tanks, 42 gal. (42 usable; two 21 gal. tanks in wings at + 24). 
+ (See NOTE 1 for data on fuel system.)"
+Oil capacity,"10 qt. (-22.5), 9 qts. Minimum (See NOTE 1 for data on oil system.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model M-7-420AC, s/n 29001C and up"
+Production basis,Production Certificate No. 11SO
+"XXXIV. Model MX-7-160C, 4 PCLM (Normal Category), Approved March 12, 1999 
+ (Same as MX-7-160, except for spring aluminum main landing gear.)",
+Engine,"Lycoming 
+ Lycoming 0-320-B2D"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"160 hp at 2700 rpm, full throttle continuous"
+Propeller and,"Sensenich fixed pitch 74DM7S5-0-52 or -54 or -56 (74"" Dia.) or"
+propeller limits,"Sensenich fixed pitch 74DM7S8-0-52 or -54 or -56 (74"" Dia.) 
+ Diameter: 
+ Not over 74 in., not under 72 in., no further reduction permitted. 
+ Static rpm at full throttle: Not over 2500 rpm, not under 2400 rpm (-54 or -56) 
+ Not over 2620 rpm, not under 2520 rpm (-52) 
+ Spinner: Sensenich spinner assembly S74DM"
+Airspeed limits IAS,Landplane and Floatplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+15.4) to (+20.5) at 2200 lbs. 
+ (+12.5) to (+20.5) at 1600 lbs. or less 
+ Floatplane: 
+ Aqua 2200 Floats 
+ (+14.6) to (+20.5) at 2200 lbs. 
+ (+13.5) to (+20.5) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,2200 lbs.
+Number of seats,"4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wings at +24) 
+ or 42 gal. (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on fuel system.)"
+Oil capacity,"8 qt. (-36.5), 2 qt. minimum (See NOTE 1 for data on oil system.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model MX-7-160C, s/n 34001C and up"
+Production basis,Production Certificate No. 11SO
+"XXXV. Model MX-7-180AC, 4/5 PCLM (Normal Category), Approved May 4, 2000 
+ (Same as MX-7-180A, except for aluminum spring main landing gear.)",
+Engine,"Lycoming 
+ 0-360-C1F or 0-360-C4F"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"180 hp at 2700 rpm, full throttle continuous"
+Propeller and,"Sensenich fixed pitch 76EM8S5-0-56 (76"" Dia.) or 76EM8S8-0-56 (76"" Dia.)"
+propeller limits,"Diameter: Not over 76 in., not under 76 in., no further reduction permitted. 
+ Static rpm at full throttle: Not over 2500 rpm, not under 2400 rpm. 
+ Spinner: Sensenich spinner assembly S76EM"
+Airspeed limits IAS,Landplane and Floatplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+15.9) to (+20.5) at 2400 lbs. 
+ (+12.4) to (+20.5) at 1740 lbs. or less 
+ Floatplane: 
+ Aqua 2200 Floats 
+ (+15.0) to (+20.5) at 2400 lbs. 
+ (+13.5) to (+20.5) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,2400 lbs.
+Number of seats,"4 (2 at +20, 2 at +53) 
+ Optional: 5(2 at +20, 2 at +53, 1 at +78)"
+Maximum baggage,"100 lbs. at (+20), 175lbs. (+42), 125 lbs. (+70)"
+Fuel capacity,"47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks 30 gal. (30 gal. usable; two 15 gal. tanks in wing at +24) 
+ or 42 gal. (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on fuel system.)"
+Oil capacity,"8 qt. (-36.5), 2 qt. minimum (See NOTE 1 for data on oil system.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model MX-7-180AC, s/n 33001C and up"
+Production basis,Production Certificate No. 11SO
+"XXXVI. Model M-7-420A, 4/5 PCLM (Normal Category) Approved November 20, 2000 
+ (Same as M-7-420AC except conventional oleo main landing gear.)",
+Engine,"Rolls-Royce Corp. (Allison) 
+ Gas Turbine 250-B17C"
+Fuel,"Primary: 
+ Mil-T-5624L, grade JP-4 and JP-5, Mil-T-83133A, grade JP-8, ASTM-D-1655, Jet A, A1 or B, JP-1 
+ Fuel conforming to ASTM-D-1655, Jet A, Artic Diesel Fuel DF-A (VV0F800B) conforming to 
+ ASTM-D-1655, Jet A or A1 Diesel #1 fuel conforming to ASTM-D-1655, Jet A 
+ Emergency: 
+ Mil-G-5572, all grades (aircraft boost pump on; maximum of 6 hours operation per overhaul period of 
+ turbine through an engine operating range of idle to 90% maximum SHP) 
+ Cold Weather: 
+ To assure consistent starts below 4ºC (40ºF), the following fuels may be necessary: 
+ MIL-T-5624, grade JP-4 ASTM-D-1655, Jet B AVGAS/Jet A, Jet A1 or Jet JP-5 mixture. 
+ (Refer to Cold Weather Fuels, para 2-48, for mixing/use of cold weather fuel in Allison Manual 11W2.)"
+Engine limits,"369 hp - 90 psi torque, at 2030 rpm continuous"
+Propeller and,"Hartzell, constant speed, full-feathering beta, model HC-B3TF-7A/T10173F-21R"
+propeller limits,"Or HC-B3TF-7A/T10173-21R 
+ Diameter: 80.5 - 78 inches 
+ Pitch settings at 30"" sta.: 
+ Reverse pitch -15º +5º feather 81.1º +5º 
+ Spinner: Hartzell spinner assembly A3640P"
+altitude,"20,000 feet"
+Airspeed limits CAS,Landplane and Floatplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+15.0) to (+20.5) at 2500 lbs. 
+ (+13.1) to (+20.5) at 2090 lbs. or less 
+ Floatplane: 
+ Wipline 3000 Amphibious: 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+12.0) to (+19.0) at 2100 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2500 lbs. 
+ Floatplane: 
+ 2750 lbs."
+Number of seats,"5 (2 at +20, 2 at +53, 1 at +83) 
+ Optional: 4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+72)"
+Fuel capacity,"47.6 gal. (43 gal. usable, two 23.8 gal. tanks in wings at +24 - considered one tank) 
+ Optional wing auxiliary tanks, 42 gal. (42 usable; two 21 gal. tanks in wings at + 24). 
+ (See NOTE 1 for data on fuel system.)"
+Oil capacity,"10 qt. (-22.5), 9 qts. Minimum (See NOTE 1 for data on oil system.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model M-7-420A, s/n 35001C and up"
+Production basis,Production Certificate No. 11SO
+"XXXVII. Model MT-7-420, 4/5 PCLM (Normal Category) Approved January 6, 2003, Application date September 16, 2002 
+ (Same as MT-7-260 except for nacelle, engine, propeller.)",
+Engine,"Rolls-Royce Corp. (Allison) 
+ Gas Turbine 250-B17C"
+Fuel,"Primary: 
+ Mil-T-5624L, grade JP-4 and JP-5, Mil-T-83133A, grade JP-8, 
+ ASTM-D-1655, Jet A, A1 or B, JP-1 Fuel conforming to ASTM-D-1655, 
+ Jet A, Artic Diesel Fuel DF-A (VV0F800B) conforming to ASTM-D-1655, 
+ Jet A or A1 Diesel #1 fuel conforming to ASTM-D-1655, Jet A 
+ Emergency: 
+ Mil-G-5572, all grades (aircraft boost pump on; maximum of 6 hours operation per 
+ overhaul period of turbine through an engine operating range of idle to 90% maximum SHP) 
+ Cold Weather: 
+ To assure consistent starts below 4ºC (40ºF), the following fuels may be necessary: 
+ MIL-T-5624, grade JP-4 ASTM-D-1655, Jet B AVGAS/Jet A, Jet A1 or Jet JP-5 mixture. 
+ (Refer to Cold Weather Fuels, para 2-48, for mixing/use of cold weather fuel in Allison Manual 11W2.)"
+Engine limits,"369 hp - 90 psi torque, at 2030 rpm continuous"
+Propeller and,"Hartzell, constant speed, full-feathering beta, model HC-B3TF-7A/T10173F-21R"
+propeller limits,"or HC-B3TF-7A/T10173-21R 
+ Diameter: 80.5 - 78 inches 
+ Pitch settings at 30"" sta.: 
+ Reverse pitch -15º +5º feather 81.1º +5º 
+ Spinner: Hartzell spinner assembly A3640P"
+altitude,"20,000 feet"
+Airspeed limits CAS,Landplane and Floatplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+16.0) to (+20.5) at 2500 lbs. 
+ (+13.0) to (+20.5) at 1700 lbs. or less 
+ Floatplane: 
+ Wipline 3000 Amphibious: 
+ (+14.0) to (+19.0) at 2750 lbs. 
+ (+12.0) to (+19.0) at 2100 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2500 lbs. 
+ Floatplane: 
+ 2750 lbs."
+Number of seats,"5 (2 at +20, 2 at +53, 1 at +83) 
+ Optional: 4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. (+20), 175lbs. (+42), 125 lbs. (+72)"
+Fuel capacity,"47.6 gal. (43 gal. usable, two 23.8 gal. tanks in wings at +24 - considered one tank) 
+ Optional wing auxiliary tanks, 42 gal. (42 usable; two 21 gal. tanks in wings at + 24). 
+ (See NOTE 1 for data on fuel system.)"
+Oil capacity,"10 qt. (-22.5), 9 qts. Minimum (See NOTE 1 for data on oil system.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model MT-7-420, s/n 51001C and up"
+Production basis,Production Certificate No. 11SO
+"XXXVIII. Model M-4-180V, 2 PCLM (Normal Category) Approved September 6, 2005, Application date July 8, 2004 
+ (Same as MX-7-180 except for M-4 tail, M-4 maximum weight, seat capacity (2) and door quantity (2))",
+Engine,"Lycoming 
+ 0-360-C1F or 0-360-C4F"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"180 hp at 2700 rpm, full throttle continuous"
+Propeller and,Hartzell constant speed model HC-C2YR-1BF/F7666A (eligible on O-360-C1F only)
+propeller limits,"Diameter: Not over 76 in., not under 72 in. 
+ Pitch settings at 30 in. sta.: low 12º high 27.8º to 29.8º 
+ Avoid continuous operation between 2000 rpm and 2250 rpm 
+ Spinner: 
+ Hartzell spinner assembly A2298-2 
+ Governor: 
+ Woodward H210681 
+ McCauley C290D3(X)/T29 or DC290D1(X)/T12 
+ Sensenich fixed pitch 76EM8S5-0-56 or 76EM8S8-0-56 
+ Diameter: Not over 76 in., not under 76 in., no further reduction permitted. 
+ Static rpm at full throttle: Not over 2500 rpm, not under 2400 rpm. 
+ For O-360-C1F (modified) avoid continuous operation between 2150 rpm and 2350 rpm. 
+ Spinner: Sensenich spinner assembly S76EM"
+Airspeed limits IAS,Landplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+15.6) to (+19.0) at 2300 lbs. 
+ (+11.0) to (+19.0) at 1500 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,2300 lbs.
+Number of seats,2 at +20
+Maximum baggage,"100 lbs. at (+20), 200 lbs. (+43)"
+Fuel capacity,"47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Optional wing auxiliary tanks, 30 gal. (30 gal. usable; two 15 gal. tanks in wing at +24) 
+ (See NOTE 1 for data on fuel system.)"
+Oil capacity,"8 qt. (-36.5), 2 qt. minimum (See NOTE 1 for data on oil system.)"
+Control surface,"Wing flaps 
+ Handle full down 
+ -7º +1º"
+movements,"First Notch 
+ 0º +1º 
+ Second Notch 
+ 20º +3º 
+ Third Notch 
+ 35º +3º 
+ Aileron 
+ Up 20º +1º 
+ Down 
+ 20º +1º 
+ Elevator 
+ Up 25º +2º 
+ Down 
+ 21º +1º 
+ Elevator tab 
+ Up 11º +3º 
+ Down 
+ 25º +1º 
+ Rudder 
+ Right 21º +1º 
+ Left 
+ 21º +1º 
+ Rudder tab 
+ Right 48º +4º 
+ Left 
+ 48º +4º"
+Serial numbers eligible,"Model M-4-180V, s/n 47001C and up"
+Production basis,Production Certificate No. 11SO
+"XXVIX. Model M-9-235, 4/5 PCLM (Normal Category) Approved April 9, 2012, Final application date August 8, 2011 
+ (Same as M-7-235C except for structural reinforcements and minor changes to the fuselage, wings and main landing gear.)",
+Engine,"Lycoming 
+ IO-540-W1A5"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine limits,"235 hp at 2400 rpm, all operations"
+propeller limits,"McCauley constant speed 3-blade model B3D32C414-[ ]/[ ]-82NDA-2 
+ Diameter: -2: not over 80 in.; not under 76 in. 
+ Pitch settings at 30 in. sta.: low 11.3° + 0.2° high 30.0° + 0.5° 
+ Spinner: McCauley spinner assembly D-6240 
+ Governor: McCauley DC290D1(X)/T14"
+Airspeed limits CAS,Landplane and Floatplane: (See NOTE 11 for airspeeds)
+CG range,"Landplane: 
+ (+16.2) to (+20.5) at 2800 lbs. 
+ (+12.5) to (+20.5) at 1700 lbs. or less 
+ Floatplane: 
+ Aqua 2400 Floats 
+ (+15.0) to (+20.0) at 2750 lbs. 
+ (+12.5) to (+20.0) at 1600 lbs. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Landplane: 
+ 2800 lbs. 
+ Floatplane: 
+ 2750 lbs."
+Number of seats,"5(2 at +20, 2 at +53, 1 at +83) 
+ Optional: 4 (2 at +20, 2 at +53)"
+Maximum baggage,"100 lbs. (+20), 200 lbs. (+42), 125 lbs. (+72)"
+Fuel capacity,"47.6 gal. (43 gal. usable; two 23.8 gal. tanks in wings at +24) 
+ Wing auxiliary tanks 42 gal. (42 gal. usable; two 21 gal. tanks in wings at +24) 
+ (See NOTE 1 for data on system fuel.)"
+Oil capacity,"8 qt. (-34), 5 qt. minimum (See NOTE 1 for data on system oil.)"
+movements,(See NOTE 12 for control surface movement limits)
+Serial numbers eligible,"Model M-9-235, s/n 36001C and up"
+Production basis,Production Certificate No. 11SO
+DATA PERTINENT TO ALL MODELS,
+Datum,Wing leading edge
+Leveling means,Leveling lug and mark on bottom side of right wing root.
+Certification basis,"Part 3, Civil Air Regulations, effective May 15, 1956 as amended by 3-1 thru 3-5 and 3.705 as amended 
+ by 3-7; and 14 CFR Part 36 amended thru 36-4* and part 23.955 in lieu of CAR 3.435 for the models M- 
+ 5-235C, M-5-180C, M-5-210TC, M-6-235, M-5-200, M-6-180, M-7-235, MX-7-235, MX-7-180, MXT- 
+ 7-180, MT-7-235, M-8-235, MX-7-160, MXT-7-160, MX-7-180A, MXT-7-180A, MX-7-180B, M-7- 
+ 235A, M-7-235B, M-7-235C, MX-7-180C, M-7-260, MT-7-260, M-7-260C, MX-7-160C, MX-7-180AC, 
+ M-4-180V and M-9-235. 
+ * Part 36 amendment shown is for the model M-5-235C which was approved in 1976. For models 
+ approved between 1976 and 2002, per §36.2 (prior to Amendment 36-24) the Part 36 amendment in effect 
+ on the approval date of each model was used. After 2002, per §36.2 the Part 36 amendment in effect on 
+ the date of application was used. The applicable dates are located in the first line in each model’s section 
+ above. Note: Some of these derivative models were able to show no acoustical change from a previously 
+ approved model. 
+ Special Certification Rules for the Model M-5-210TC: 
+ Part 
+ 21.101(b) 
+ Amendment 
+ 21-42 
+ 23.141 
+ 23-7 
+ 23.909 
+ 23-7 
+ 23.1041 
+ 23-7 
+ 23.1043 
+ 23-7 
+ 23.1047 
+ 23-7 
+ 23.1093 
+ 23-17 
+ 23.1143 
+ 23-17 
+ 23.1183 
+ 23-15 
+ 23.1305(p) 
+ 23-15 
+ 23.1527 
+ 23-7 
+ 23.1583(k) 
+ 23-7 
+ Special Certification Rule for the Model MX-7-180: 
+ 14 CFR part 23.1545 Amendment 23-23, October 30, 1978 in lieu of CAR 3.757 (Amendment 3-5, 
+ September 1, 1959) 
+ Special Certification Rules for the Model MX-7-420, M-7-420AC, M-7-420A and MT-7-420: 
+ Part 3, Civil Air Regulations, affective May 15, 1956, as amended through 3-7; and 14 CFR Part 36 as 
+ amended through 36-14, SFAR 27 as amended through 27-2, and the following 
+ Part 23 requirements for turbine engine installations: 
+ 23.45 (-21) 
+ 23.939 (-18) 
+ 23.1143 (-17) 
+ 23.49 (-21) 
+ 23.943 (-18) 
+ 23.1145 (-18) 
+ 23.65 (-21) 
+ 23.951 (-15) 
+ 23.1155 (-7) 
+ 23.75 (-21) 
+ 23.955 (-7) 
+ 23.1165 (-17) 
+ 23.77 (-21) 
+ 23.977 (-17) 
+ 23.1183 
+ 23.173 (-14) 
+ 23.991 (-26) 
+ 23.1303 (-17) 
+ 23.175 (-17) 
+ 23.997 (-15) 
+ 23.1305 (-26) 
+ 23.251 (-0) 
+ 23.1013 (-15) 
+ 23.1323 (-20) 
+ 23.253 (-7) 
+ 23.1015 (-15) 
+ 23.1337 (-18) 
+ 23.335 (-16) 
+ 23.1019 (-15) 
+ 23.1353 (-20) 
+ 23.361 (-26) 
+ 23.1027 (-14) 
+ 23.1505 (-7) & 3.187 or 23.333 
+ 23.371 (-7) 
+ 23.1041 (-7) 
+ 23.1521 (-21) 
+ 23.629 (-31) 
+ 23.1043 (-21) 
+ 23.1527 (-7) 
+ (to include whirl mode) 
+ 23.1045 (-7) 
+ 23.1529 (-26) 
+ 23.863 (-23) 
+ 23.1091 (-7) 
+ 23.1545 (-23) 
+ 23.901 (-18) 
+ 23.1093 (-18) 
+ 23.1549 (-12) 
+ 23.903 (-26) 
+ 23.1103 (-7) 
+ 23.1557 (-23) 
+ 23.905 (-26) 
+ 23.1105 (0) 
+ 23.1583 (-23) 
+ 23.929 (-14) 
+ 23.1111 (-17) 
+ 23.1587 (-23) 
+ 23.933 (-17) 
+ 23.1121 (-18) 
+ 23.937 (-7) 
+ 23.1141 (-18) 
+ Type Certificate No. 3A23 issued August 10, 1961 
+ Application for Type Certificate dated November 1, 1957"
+Production Approval,"Production Certificate No. 11SO is held by Maule Air, Inc."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see certification 
+ basis) must be installed in the aircraft for certification. In addition, the following items of equipment are 
+ required: 
+ (A) Stall Warning Indicator, Maule drawing 6016F 
+ (B) The following FAA Approved Airplane Flight Manuals are required (Original AFM issued when 
+ model was first approved or any later FAA approved revision is acceptable): 
+ 1. 
+ Model M-4, AFM dated 3/15/66 with rev. 2 dated 5/1/84 is in effect for all M-4, M-4C, M-4S and 
+ M-4T. 
+ 2. 
+ Model M-4-210, s/n 1001-1005 modified per Maule SL#6, 1001-1035 modified per Maule SL#7 
+ (AD#65-28-04) and s/n 1036-1045, AFM dated 9/24/64 with rev. 1 dated 11/18/64 or AFM dated 
+ 3/15/66 with rev. 2 dated 3/15/66. When s/n 1001-1045 modified per Maule SL#15 for 2300# GW, 
+ AFM dated 3/15/66 with rev. 3 dated 10/15/68 must be incorporated. 
+ 3. 
+ Model M-4-210C, s/n 1001C-1074C, 1079C, 1080C, AFM dated 3/15/66 with rev. 2 dated 
+ 3/15/66; s/n 1001C-1074C, 1079C 1080C modified per Maule SL#15 for2300# GW and s/n 
+ 1075C-1078C, 1081C-1085C, AFM dated 3/15/66 with rev. 3 dated 10/15/68; s/n 1086C-1117C, 
+ AFM dated 3/15/66 with rev. 4 dated 6/20/73 Note: Models M-4-210S and T were never produced. 
+ 4. 
+ Model M-4-220/C, (includes M-4-220, M-4-220C), AFM dated 9/28/66 with rev. 5 dated 5/1/84 
+ Note: Model M-4-220T was never produced. 
+ 5. 
+ Model M-4-220S, s/n 2001S, AFM dated 9/28/66 (2100# GW) 
+ Note: Rev. 1 to this AFM does not apply to this s/n. 
+ 6. 
+ Model M-4-180C, AFM dated 10/20/70 with rev. A dated 5/1/84 
+ Note: Models M-4-180S and T were never produced. 
+ 7. 
+ Model M-5-220C, AFM dated 12/28/73 with rev. A dated 5/1/84 
+ 8. 
+ Model M-5-210C, AFM dated 12/28/73 with rev. B dated 5/1/84 
+ 9. 
+ Model M-5-235C, s/n 7001C-7026C, 7028C, 7030C-7032C, 7037C, AFM dated 4/6/76, with 
+ expanded C.G. limits per Maule SL#36, rev. B dated 11/6/80; s/n 7027C, 7029C, 7033C-7036C, 
+ 7038C-7248C, 7250C-7320C, 7322C-7346C, 7348C, 7349C, AFM dated 4/6/76 with rev. B dated 
+ 11/6/80; s/n 7350C, 7352C-7355C, 7357C-7362C, 7364C-7367C, AFM dated 4/6/76 with rev. C 
+ dated 4/22/81; s/n 7321C, 7347C, 7351C, 7363C, 7369C-7373C, 7375C, 7445C, 7451C, 7460C, 
+ 7467C, AFM dated 8/12/81 with rev. A dated 5/1/84. Note: AFMs dated 4/6/76 must have AFM 
+ Supplement #13 attached. AFM dated1/13/86 for s/n 7470C, 7478C-7480C, 7484C-7487C, 7515C. 
+ 10. 
+ Model M-5-180C, AFM dated 4/19/79 for s/n 8001C-8014C, 8016C-8019C, 8021C, 8023C- 
+ 8042C, 8044C-8064C, 8068C, 8069C with rev. D dated 4/12/84; AFM dated 6/12/85 for s/n 
+ 8070C-8094C. 
+ 11. 
+ Model M-5-200, AFM dated 10/29/82, rev. B dated 6/10/94 
+ 12. 
+ Model M-5-210TC, AFM dated 2/4/80, rev. B dated 5/1/84 
+ 13. 
+ Model M-6-235, AFM dated 6/25/81, rev. I dated 6/10/94 for s/n 7249C, 7356C, 7379C-7465C; 
+ AFM dated 5/23/85, rev. B dated 6/10/94 for s/n 7466C, 7468C-7473C; AFM dated 2/19/87, rev. C 
+ dated 3/3/95 for s/n 7474C and up. 
+ 14. 
+ Model M-6-180, AFM dated 9/15/82, rev. C dated 6/10/94 
+ 15. 
+ Model M-7-235, AFM dated 11/9/83, rev. F dated 10/17/94 
+ 16. 
+ Model MX-7-235, AFM dated 10/18/84, rev. F dated 10/28/94 
+ 17. 
+ Model MX-7-180, AFM dated 12/18/84, rev. E dated 10/28/94 
+ 18. 
+ Model MX-7-420, AFM dated 6/1/89, rev. E dated 10/26/98 
+ 19. 
+ Model MXT-7-180, AFM dated 11/9/90, rev. D dated 3/7/02 
+ 20. 
+ Model MT-7-235, AFM dated 3/20/92, rev. D dated 3/7/02 
+ 21. 
+ Model M-8-235, AFM dated 8/10/92, rev. F dated 10/20/08 
+ 22. 
+ Model MX-7-160, AFM dated 11/13/92, rev. G dated 5/24/02 
+ 23. 
+ Model MXT-7-160, AFM dated 11/13/92, rev. C dated 3/7/02 
+ 24. 
+ Model MX-7-180A, AFM dated 6/3/93, rev. E dated 1/26/07 
+ 25. 
+ Model MXT-7-180A, AFM dated 6/3/93, rev. E dated 3/7/02 
+ 26. 
+ Model MX-7-180B, AFM dated 7/12/93, rev. D dated 3/7/02 
+ 27. 
+ Model MXT-7-420 removed from TC January 7, 2003 
+ 28. 
+ Model M-7-235B, AFM dated 10/14/93, rev. E dated 5/24/02 
+ 29. 
+ Model M-7-235A, AFM dated 3/10/94, rev. C dated 3/7/02 
+ 30. 
+ Model M-7-235C, AFM dated 10/10/95, rev C dated 5/20/02 
+ 31. 
+ Model MX-7-180C, AFM dated 8/26/96, rev. D dated 5/24/02 
+ 32. 
+ Model M-7-260, AFM dated 4/17/98, rev. F dated 5/24/02 
+ 33. 
+ Model MT-7-260, AFM dated 4/17/98, rev. E dated 3/7/02 
+ 34. 
+ Model M-7-260C, AFM dated 10/15/98, rev. E dated 5/24/02 
+ 35. 
+ Model M-7-420AC, AFM dated 12/17/98, rev. D dated 10/24/06 
+ 36. 
+ Model MX-7-160C, AFM dated 3/12/99, rev. E dated 3/7/02 
+ 37. 
+ Model MX-7-180AC, AFM dated 5/4/2000, rev. A dated 3/7/02 
+ 38. 
+ Model M-7-420A, AFM dated 11/20/2000, rev. C dated 3/7/02 
+ 39. 
+ Model MT-7-420, AFM dated 1/7/2003, rev.A dated 3/5/04 
+ 40. 
+ Model M-4-180V, AFM dated 9/6/2005, rev.A dated 7/18/06 
+ 41. 
+ Model M-9-235, AFM dated 4/9/2012"
+Note 1,"Current weight and balance report including list of equipment included in certificated empty weight, and loading 
+ instructions when necessary, must be provided for each aircraft at the time of original certification. 
+ The certificated empty weight and corresponding center of gravity location must include unusable fuel and 
+ undrainable oil as follows: 
+ Fuel 18 lbs. (+24) 
+ M-4 series (except M-4-180V), M-4-210 series, M-4-220 series, M-4-180 series, M-5-210C, 
+ (20 gal. main) 
+ M-5-220C, M-5-210TC, M-5-235C, M-5-200, M-6-235, M-6-180, M-7-235, MX-7-235, 
+ MX-7-180, MXT-7-180, MT-7-235, M-8-235, MX-7-160, MXT-7-160, MX-7-180A, MXT- 
+ 7-180A, MX-7-180B, M-7-235B, M-7-235A, M-7-235C, MX-7-180C 
+ Fuel 27.6 lbs. (+24) 
+ M-7-235, MX-7-235, MX-7-180, MXT-7-180, MT-7-235, M-8-235, MX-7-160, MXT-7- 
+ (21.5 gal. main) 
+ 160, MX-7-180A, MXT-7-180A, MX-7-180B, M-7-235B, M-7-235A, M-7-235C, MX-7- 
+ 180C, M-7-260, MT-7-260, M-7-260C, MX-7-160C, M-6-235, MX-7-180AC, M-5-210C*, 
+ M-5-220C*, M-5-235C*, M-5-180C*, M-5-210TC*, M-5-200*, M-4-180V, M-9-235 
+ *with Modification Kit No. 15 installed. 
+ Fuel 16.2 lbs. (+24) 
+ (40.6 gal. main)* 
+ MX-7-420 (tank configuration A) 
+ Fuel 31 lbs. (+24) 
+ (43 gal. main)* 
+ MX-7-420 (tank configuation C), M-7-420AC, M-7-420A, MT-7-420 
+ * Two main tanks considered one tank 
+ Oil 8 lbs. (-37) 
+ M-4 series 
+ Oil 6 lbs. (-37) 
+ M-4-220 series, M-4-180 series, M-4-210 series, M-5-220C, M-5-210C 
+ Oil 6 lbs. (-36.5) 
+ M-5-180, M-5-210TC, M-5-200, M-6-180, MX-7-180, MXT-7-180, MX-7-160, MXT-7- 
+ 160, MX-7-180A, MXT-7-180A, MX-7-180B, MX-7-180C, MX-7-160C, MX-7-180AC, M- 
+ 4-180V 
+ Oil 6 lbs. (-34) 
+ M-5-235C, M-6-235, M-7-235, MX-7-235, MT-7-235, M-7-235B, M-7-235A, M-7-235C, 
+ M-7-260, MT-7-260, M-7-260C, M-9-235 
+ Oil 20 lbs. (-22.5) 
+ MX-7-420, M-7-420AC, M-7-420A, MT-7-420"
+Note 2,"The following placards shall be displayed: 
+ (A) In front of and in clear view of the pilot: 
+ 1. 
+ For all M-4 models (except M-4-180V): 
+ THIS AIRPLANE MUST BE OPERATED AS A NORMAL CATEGORY 
+ AIRPLANE IN COMPLIANCE WITH THE OPERATING LIMITATIONS 
+ STATED IN THE FORM OF PLACARDS, MARKINGS, AND MANUALS. 
+ For M-4-180V and M-5 and subsequent models: 
+ THIS AIRPLANE MUST BE OPERATED AS A NORMAL CATEGORY 
+ AIRPLANE IN COMPLIANCE WITH THE OPERATION LIMITATIONS 
+ STATED IN THE FLIGHT MANUAL AND IN THE FORM OF PLACARDS 
+ AND MARKINGS. 
+ 2. 
+ NO ACROBATIC MANEUVERS, INCLUDING SPINS, APPROVED. 
+ or 
+ AEROBATIC MANUVERS, INCLUDING SPINS, ARE NOT APPROVED. 
+ 3. 
+ For M-4 series (except M-4-180V), M-5 series, M-6 series, M-7-235, and MX-7-235: 
+ ROUGH AIR OR MANEUVERING SPEED 125 MPH. 
+ For M-4-180V and M-9-235: 
+ ROUGH AIR OR MANEUVERING SPEED 109K (125 MPH). 
+ For MX-7-180: 
+ ROUGH AIR OR MANEUVERING SPEED: 129 MPH (112K) 
+ For MX-7-420, M-7-420AC, M-7-420A, and MT-7-420: 
+ ROUGH AIR OR MANEUVERING SPEED IS 121 MPH (105K) 
+ For MXT-7-180, MT-7-235, M-8-235, MX-7-160, MXT-7-160, MX-7-180A, MXT-7-180A, MX-7-180B, M- 
+ 7-235B, M-7-235A, M-7-235C, MX-7-180C, M-7-260, MT-7-260, M-7-260C, MX-7-160C, MX-7-180AC: 
+ MANEUVERING SPEED: 125 MPH IAS (109K). 
+ (Knots and MPH may be interchanged) 
+ 4. 
+ One of the following placards must be installed in the M-4 and M-4-210: 
+ a. 
+ THIS AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY. 
+ b. 
+ THIS AIRCRAFT APPROVED FOR DAY OR NIGHT VFR FLIGHT. 
+ (If equipment and instruments conforming to 14 CFR part 91.33(c) are installed.) 
+ c. 
+ THIS AIRCRAFT APPROVED FOR DAY OR NIGHT VFR OR IFR FLIGHT. 
+ (If equipment and instruments conforming to §91.33(d) and §91.170 are installed.) 
+ The following placard must be installed on all models except the M-4 and M-4-210: 
+ THIS AIRCRAFT APPROVED FOR DAY OR NIGHT IFR NON-ICING FLIGHT 
+ WHEN EQUIPPED IN ACCORDANCE WITH FAR 91 OR FAR 135. 
+ 5. 
+ SEE LOADING INSTRUCTIONS IN WEIGHT AND BALANCE 
+ SECTION OF AIRPLANE FLIGHT MANUAL. 
+ 6. 
+ FUEL REMAINING IN TANK WHEN INDICATOR READS 
+ ZERO CANNOT BE USED SAFELY IN FLIGHT. 
+ 7. 
+ For M-4-180V, M-5 and subsequent models except -420 series: 
+ DO NOT TURN OFF ALTERNATOR IN FLIGHT EXCEPT IN CASE OF EMERGENCY. 
+ 8. 
+ For -420 series: 
+ COMPASS UNRELIABLE WHEN HEATED INLET IS ON. 
+ 9. 
+ For -235 series (when using -6R propeller): 
+ DO NOT EXCEED 23 INCHES M.P. BELOW 2050 RPM. 
+ For M-5-200: 
+ FOR CONTINUOUS OPERATION DO NOT EXCEED 24 
+ INCHES OF MANIFOLD PRESSURE BELOW 2350 RPM. 
+ For M-5-210TC: 
+ NOT MORE THAN 34"" OF MANIFOLD PRESSURE AT PROPELLER SPEEDS LESS THAN 2350 RPM. 
+ and 
+ NOT LESS THAN 20"" OF MANIFOLD PRESSURE AT PROPELLER SPEEDS BETWEEN 2250 AND 
+ 2450 RPM. 
+ For M-4-180V: 
+ With Hartzell HC-C2YR-1BF/F7666A: 
+ AVOID CONTINUOUS OPERATION 2000-2250 RPM 
+ With Sensenich fixed pitch propeller and O-360-C1F (modified): 
+ AVOID CONTINUOUS OPERATION 2150-2350 RPM 
+ 10. 
+ For MXT-7-180A: 
+ DEMONSTRATED CROSSWIND 15 MPH. 
+ For M-4-180V: 
+ DEMONSTRATED CROSSWIND 12K (14 MPH) 
+ and 
+ TAKEOFF WITH 20° FLAPS 
+ 11. 
+ In addition to the above placards, the following is required when Fli-Lite 3000 MK IIIA skis are installed: 
+ For M-4 series: 
+ SKIPLANE LIMITATIONS: MAXIMUM GROSS WEIGHT 1850 LBS. DO NOT EXCEED 160 
+ MPH. SKI OPERATION PROCEDURES: SET SELECTOR TO POSITION DESIRED THEN 
+ OPERATE PUMP UNTIL MAXIMUM PRESSURE IS DEVELOPED. 
+ For M-4-210C series: 
+ SKIPLANE LIMITATIONS: MAXIMUM GROSS WEIGHT 2100 LBS. DO NOT EXCEED 
+ 160 MPH. SKI OPERATION PROCEDURES: SET SELECTER TO POSITION DESIRED 
+ THEN OPERATE PUMP UNTIL MAXIMUM PRESSURE IS DELVELOPED. 
+ Additional placards listed in the applicable AFM Supplement for skiplane operation must be installed. 
+ 12. 
+ For M-4, s/n 3-91, M-4-210, s/n 1001-1043, M-4-210C, s/n 1001C-1010C, or if no ashtray installed per 
+ Maule drawing 6007B: 
+ At the top of the instrument panel, to the right of the radio group: 
+ NO SMOKING 
+ 13. 
+ On the instrument panel or wing root panel at the auxiliary fuel tank transfer switches, (if installed): 
+ FUEL TRANSFER PUMPS 
+ PUSH FOR 
+ PUSH FOR 
+ AUX. QUANT. 
+ AUX. QUANT. 
+ LEFT 
+ RIGHT 
+ FUEL CAPACITY: MAIN TANKS (*) GAL. USABLE EACH, 
+ AUX. TANKS (**) GAL. USABLE EACH TANK. 
+ * 20 gal. except M-7/MX-7/MXT-7/MT-7/M-8 series may have either 20 gal. or 21.5 gal.; 
+ M-4-180V and M-9-235 have 21.5 gal. 
+ ** For M-4 (except M-4-180V) and M-5 series: 
+ 11.5 gal. 
+ For M-6-180: 
+ 13.0 gal. 
+ For M-6-235, s/n 7249C-7473C: 
+ 13.0 gal. 
+ For M-6-235, s/n 7474C and up, M-4-180V: 
+ 15.0 gal. 
+ For M-7/MXT-7/MT-7/M-8 series 
+ and MX-7 series except those listed below: 
+ 15.0 or 21.0 gal. 
+ For MX-7-420/MX-7-180/MX-7-235: 
+ 15.0 gal. 
+ For M-9-235 
+ 21.0 gal. 
+ (B) Located on the flap handle: 
+ 1. 
+ For M-4 series (all except M-4-180V) and M-5-235C, s/n 7001C-7248C, 7250C- 7320C, 7322C-7346C, 
+ 7348C-7350C, 7352C-7362C, 7364C-7368C, M-5-180, s/n 8001C-8022C, M-5-210C (all), M-5-220C (all), 
+ M-5-210TC (all): 
+ FLAPS - PULL ON/ 15º TAKEOFF/ 35º LANDING 
+ or for M-5-235C, s/n 7321C, 7347C, 7351C, 7363C, 7369C and up, M-5-200, s/n 8015C and up, M-5-180C, 
+ s/n 8023C and up, and for M-5-235C, s/n 7001C-7248C, 7250C-7320C, 7322C-7346C, 7348C-7350C, 
+ 7352C-7362C, 7364C-7368C with Maule SL#44 c/w, M-5-180C, s/n 8001C-8022C with Maule SL#49 c/w, 
+ all M-5-210C with Maule SL#46 c/w, all M-5-220C with Maule SL#48 c/w, all M-5-210TC with Maule 
+ SL#47 c/w: 
+ FLAPS - PULL ON/ 20º TAKEOFF/ 40º LANDING 
+ 2. 
+ For M-6-180/-235, M-7-235/-235A/-235B*/-235C/-260/-260C, MX-7-180/-180A*/-180B*/-180C/-180AC/- 
+ 235/-160*/-160C, M-8-235*, M-9-235: 
+ FLAPS/PULL ON/ 2ND NOTCH/ TAKEOFF/ 4TH NOTCH/ LANDING 
+ * 4TH NOTCH"" is replaced by ""3RD NOTCH"" for M-7-235B S/N's 23001C thru 23003C, 23005C thru 
+ 23010C, and 23012C, MX-7-180A S/N's 20001C thru 20026C, 20028C, 20029C, and 20031C thru 20035C, 
+ MX-7-180B S/N's 22003C, 22006C, and 22007C, MX-7-160 S/N's 19001C thru 19034C and 19041C M-8- 
+ 235 S/N’s 15001C thru 15005C unless Mod Kit #11 is complied with. 
+ 3. 
+ For MX-7-420, MXT-7-180/-180A/-160/-420, MT-7-235/-260/-420, M-8-235, M-7-420AC, M-7-420A, M- 
+ 4-180V: 
+ FLAPS/PULL ON/2ND NOTCH/TAKEOFF/3RD NOTCH/LANDING 
+ (C) Located at the main fuel tank selector valve on left kick panel: 
+ 1. 
+ For M-4, s/n 23, 25-45: 
+ TAKE + LANDING 
+ LEFT ONLY 
+ 21 GAL. 
+ RIGHT 21 GAL. 
+ OFF 
+ 2. 
+ For M-4, s/n 24, 46-94, 1C-11C, 1S-3S, 1T-3T: 
+ TAKEOFF + LANDING 
+ BOTH TANKS 
+ LEFT 21 GAL. 
+ RIGHT 21 GAL. 
+ OFF 
+ 3. 
+ For M-4-220C, (s/n 2125C, 2127C, 2128C, 2137C, 2138C, 2140C and up), M-5-220C, M-5-200, M- 
+ 5-210TC, M-5-235C/-180C, M-6-235/-180, MX-7-235/-180, M-7-235/-235A/-235B, MXT-7-180, 
+ MT-7-235, M-8-235, MX-7-160, MXT-7-160, MX-7-180A, MXT-7-180A, MX-7-180B, M-7-235C, 
+ MX-7-180C: 
+ FUEL SELECTOR VALVE 
+ LEFT: 20* GAL. 
+ OFF 
+ BOTH 
+ RIGHT: 20* GAL. 
+ *or 21.5 gal. for later M-6-235, MX-7-160/-180/-180A/B/C/-235, M-4-180V, M-7-235/A/B/C, MXT-7- 
+ 160/-180/A, MT-7-235, M-8-235. 
+ For MX-7-160C/-180AC, M-7-260/C, MT-7-260, M-9-235: 
+ FUEL SELECTOR VALVE 
+ LEFT: 21.5 GAL. 
+ OFF 
+ BOTH 
+ RIGHT: 21.5 GAL. 
+ or for M-4-220C and early M-5-235C with SP2321-B3 Fuel Selector Valve: (Not applicable to M-5- 
+ 235C s/n 7321C, 7347C, 7351C, 7363C, 7369C and up.): 
+ LEFT 
+ 20 GAL. 
+ RIGHT 
+ 20 GAL. 
+ OFF 
+ 4. 
+ For M-4-210(C,S) and M-5-210C: 
+ LEFT 
+ LEFT 
+ 20 GAL. 
+ 20 GAL. 
+ RIGHT 
+ or 
+ BOTH 
+ (Use with 10049E-7 Valve) 
+ 20 GAL. 
+ RIGHT 
+ (Use with SP-2263-B3 or10049E-6 Valve) 
+ 20 GAL. 
+ 5. 
+ For -420 series: 
+ FUEL SELECTOR VALVE 
+ BOTH ON 
+ OFF 
+ (D) In rear cabin area: 
+ 1. 
+ For M-4 (except M-4-180V) and M-5 series: 
+ BAGGAGE 125 LBS. MAXIMUM. 
+ FOR LOADING INSTRUCTIONS SEE 
+ WEIGHT AND BALANCE INFORMATION. 
+ 2. 
+ For M-5 and subsequent models (except M-4-180V): 
+ CARGO OR BAGGAGE LIMITATIONS 
+ MAX. LOAD AREA ""A"" 100 LBS. 
+ MAX. LOAD AREA ""B"" 175 LBS.* 
+ MAX. LOAD AREA ""C"" 125 LBS. 
+ * MAX. LOAD AREA ""B"" 200 LBS. for M-9-235 or aircraft with Cargo Straps installed per 1244F. 
+ 3. 
+ For models with optional 5th seat installed and M-7/MT-7/M-9 series with 5th seat: 
+ CHECK WEIGHT AND BALANCE CAREFULLY WHEN 
+ USING 5TH SEAT OR LOADING 
+ REAR/CARGO/BAGGAGE. 
+ MAXIMUM REAR SEAT LOADING 170 LBS. 
+ 4. 
+ For M-7-235, s/n 4001C-4061C: (Unless Maule SK#15 is c/w) 
+ BALLAST IN AFT FUSELAGE SHOULD BE 
+ REMOVED 
+ FOR LARGE AFT CABIN LOADS. THIS BALLAST 
+ SHOULD BE IN PLACE IN THE AFT FUSELAGE 
+ STORAGE FOR LIGHT/FORWARD LOADING. 
+ 5. 
+ For M-4-180V: 
+ CHECK WEIGHT AND BALANCE CAREFULLY 
+ WHEN LOADING REAR/CARGO/BAGGAGE. 
+ CARGO OR BAGGAGE LIMITATION 
+ MAX. LOAD AREA “A” 100 LBS. 
+ MAX. LOAD AREA “B” 200 LBS. 
+ 6. 
+ When Tow Release Assembly is installed (M-9-235): 
+ GROSS WEIGHT LIMITED TO 2500 LBS. WHEN TOWING"
+Note 3,"The models Bee Dee M-4 and M-4, s/n 3-23, 25-45 fuel systems do not comply with CAR 3.433 and 3.434 for 
+ horsepower greater than 125 at the best angle of climb speed, which is the most critical flight attitude, unless 
+ optional Modification Kit No. 36 is installed."
+Note 4,"The following aircraft were manufactured at Jackson, Michigan: 
+ Models 
+ Serial numbers 
+ M-4 
+ 3-94 
+ M-4C 
+ 1C-11C 
+ M-4S 
+ 1S-3S 
+ M-4T 
+ 1T-3T 
+ M-4-210 
+ 1001-1045 
+ M-4-210C 
+ 1001C-1074C, 1079C, 1080C 
+ M-4-220C 
+ 2001C-2018C 
+ M-4-220S 
+ 2001S"
+Note 5,Optional wing tips (ref. Maule drawing 9041F) have been approved for all M-4 series models except Bee Dee M-4 s/n 3-14.
+Note 6,Equipment approved for all models is listed on the Required and Optional Equipment Lists.
+Note 7,"The following aircraft are eligible for manufacture under Production Certificate No. 11SO: 
+ Models 
+ Serial numbers 
+ M-4 Series 
+ (Spare parts) 
+ M-5-220C 
+ (Spare parts) 
+ M-5-210C 
+ (Spare parts) 
+ M-5-235C 
+ (Spare parts) 
+ M-5-180C 
+ (Spare parts) 
+ M-5-200 
+ (Spare parts) 
+ M-5-210TC 
+ (Spare parts) 
+ M-6-235 
+ 7249C, 7356C, 7379C-7444C, 7446C-7450C, 7452C-7459C, 7461C-7466C, 7468C, 
+ 7469C, 7471C-7475C, 7488C-7514C, 7516C-7522C and subsequent 
+ M-7-235 
+ (Spare parts) (with STC SA2661SO known as M-7-420) (Spare parts) 
+ M-6-180 
+ (Spare parts) 
+ MX-7-235 
+ (Spare parts) 
+ MX-7-180 
+ (Spare parts) 
+ MX-7-420 
+ (Spare parts) 
+ MXT-7-180 
+ 14000C and up 
+ MT-7-235 
+ 18001C and up 
+ M-8-235 
+ 15001C and up 
+ MX-7-180A 
+ 20001C and up 
+ MXT-7-180A 
+ 21001C and up 
+ MX-7-160 
+ 19001C and up 
+ MXT-7-160 
+ 17001C and up 
+ MX-7-180B 
+ 22001C and up 
+ M-7-235B 
+ 23001C and up 
+ M-7-235A 
+ 24001C and up 
+ M-7-235C 
+ 25001C and up 
+ MX-7-180C 
+ 28001C and up 
+ M-7-260 
+ 26001C and up 
+ MT-7-260 
+ 27001C and up 
+ M-7-260C 
+ 30001C and up 
+ M-7-420AC 
+ 29001C and up 
+ MX-7-160C 
+ 34001C and up 
+ MX-7-180AC 
+ 33001C and up 
+ M-7- 420A 
+ 35001C and up 
+ MT-7-420 
+ 51001C and up 
+ M-4-180V 
+ 47001T and up 
+ M-9-235 
+ 36001C and up"
+Note 8,"For M-4-220C, s/n 2178C and up, and all other M-4-220 airplanes which have complied with Maule SL#27, the maximum 
+ continuous throttle operation restriction may be removed and replaced by 220 hp - 2800 rpm all operations. Airplane Flight 
+ Manual Supplement No. 3 must be attached to the FAA approved Airplane Flight Manual for those airplanes incorporating 
+ Maule SL#27."
+Note 9,"All Maule float installations require installation of wing tip mounted anti-collision light system conforming to Maule drawing 
+ 7045F for night flight."
+"Note 10 For all aircraft except model Bee Dee M-4, s/n 3-14 and M-4 s/n 15-44, all placards required in the applicable approved",
+Note 11 Airspeed limits ,"(A) 
+ For models M-4/C/S/T, M-4-180C/-180S/-180T, M-4-210/-210C/-210S/-210T, M-4-220/-220C/-220S/-220T: 
+ Landplane: 
+ Never exceed 
+ 180 mph (156 knots) 
+ Max. structural cruising 
+ 145 mph (126 knots) 
+ Maneuvering 
+ 125 mph (109 knots) 
+ Flaps extended 
+ 90 mph (78 knots) 
+ (B) 
+ For models M-5-180C/-210C/-220C/-235C/-210TC/-200, M-6-235/-180, M-7-235/A, M-8-235, MX-7-235, and 
+ M-9-235: 
+ Landplane: 
+ Never exceed 
+ 180 mph (156 knots) 
+ Max. structural cruising 
+ 145 mph (126 knots) 
+ Maneuvering 
+ 125 mph (109 knots) 
+ Flaps extended 
+ 94 mph (82 knots) 
+ (C) 
+ For models MX-7-160/-160C, MXT-7-160: 
+ Landplane: 
+ Never exceed 
+ 180 mph (156 knots) 
+ Max. structural cruising 
+ 147 mph (128 knots) 
+ Maneuvering 
+ 125 mph (109 knots) 
+ Flaps extended 
+ 95 mph (82 knots) 
+ (D) 
+ For models M-7-235B/-235C, M-7-260/-260C, MXT-7-180, MT-7-235/-260, and M-4-180V: 
+ Landplane: 
+ Never exceed 
+ 182 mph (158 knots) 
+ Max. structural cruising 
+ 147 mph (128 knots) 
+ Maneuvering 
+ 125 mph (109 knots) 
+ Flaps extended 
+ 95 mph (83 knots) 
+ (E) 
+ For models MX-7-180A/-180B/-180C/-180AC and MXT-7-180A: 
+ Landplane: 
+ Never exceed 
+ 185 mph (161 knots) 
+ Max. structural cruising 
+ 149 mph (129 knots) 
+ Maneuvering 
+ 125 mph (109 knots) 
+ Flaps extended 
+ 98 mph (85 knots) 
+ (F) 
+ For models MX-7-180: 
+ Landplane: 
+ Never exceed 
+ 185 mph (161 knots) 
+ Max. structural cruising 
+ 149 mph (129 knots) 
+ Maneuvering 
+ 129 mph (112 knots) 
+ Flaps extended 
+ 98 mph (85 knots) 
+ (G) 
+ For all –420 models: 
+ Landplane, 
+ Never exceed 
+ 151 mph (131 knots) 
+ Floatplane, 
+ Max. structural cruising 
+ 151 mph (131 knots) 
+ and 
+ Maneuvering 
+ 121 mph (105 knots) 
+ Skiplane: 
+ Flaps extended 
+ 94 mph (82 knots) 
+ (H) 
+ All reciprocating engine models (except M-4-210/-210C with Federal A2000A Skis never exceed speed is 
+ unchanged from Landplane): 
+ Skiplane: 
+ Never exceed 
+ 160 mph (139 knots) 
+ Floatplane: 
+ Never exceed 
+ 164 mph (142 knots) 
+ Airplane Flight Manual Supplements required for Floatplanes and Skiplanes. 
+ Airspeed limits for Models M-4 series, M-5 series, M-6 series, M-7-235/-235A, M-8-235, MX-7-235 and MX-7-420 are 
+ Calibrated Airspeeds (CAS). All other models are Indicated Airspeeds (IAS). 
+ Wing flaps 
+ Handle full down 
+ -7º +1º 
+ First Notch 
+ 0º +1º 
+ Second Notch 
+ 24º +3º 
+ Third Notch 
+ 40º +3º 
+ Fourth Notch* 
+ 48º +2º 
+ Aileron 
+ Up 20º +1º 
+ Down 
+ 20º +1º 
+ Elevator 
+ Up 30º +1º 
+ Down 
+ 20º +1º 
+ Elevator tab 
+ Up 14º +2º 
+ Down 
+ 28º +2º 
+ Elevator tab 
+ w/piano hinge 
+ Up 12º +2º 
+ Down 
+ 38º +2º 
+ Rudder 
+ Right 21º +1º 
+ Left 
+ 21º +1º 
+ Rudder tab 
+ Right 48º +4º 
+ Left 
+ 48º +4º 
+ (Note: Rudder tab not installed on M-7-235 s/n 4001C- 4022C - M-7 Rudder w/tab may be installed per MK#4) 
+ *Fourth Notch applicable to those models listed in Note 2 (B) 2. 
+ Note 13 Airplanes that are eligible for float installations require structural modifications and other changes to the airplane as 
+ identified on Maule float installation drawings for each float model."
+"Note 14 Propeller and propeller limits - For models M-5-235C, M-6-235, M-7-235, MX-7-235, M-8-235, M-7-235A,",
+"Note 15 Propeller and propeller limits - For models M-7-260, M-7-260C and MT-7-260:",
+Note 16 For M-5 series models with optional wing assemblies 2110X-30 installed per Modification Kit No. 15:,

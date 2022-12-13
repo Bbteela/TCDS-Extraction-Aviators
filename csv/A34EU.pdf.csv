@@ -1,0 +1,384 @@
+Keyterm,Info
+"A34EU 
+ Revision8 
+ Gomolzig Flugzeug- und Maschinenbau GmbH 
+ [FFA] 
+ AS 202/15 ""BRAVO"" 
+ AS 202/18A ""BRAVO"" 
+ AS 202/18A4 ""BRAVO"" 
+ March 8, 2022",
+Type Certificate Holder,"Gomolzig Flugzeug- und Maschinenbau GmbH 
+ Eisenwerkstrasse 9 
+ 58332 Schwelm 
+ Germany"
+Type Certificate Ownership Record,Flug- und Fahrzeugwerke AG Altenrhein (FFA)
+from EASA type certificate,Flugplatz
+EASAA591,"CH-9423 Alternhein 
+ Switzerland, transferred TC A34EU to Flugzeugwerke Altenrhein AG (FWA) in 1981. 
+ Flugzeugwerke Altenrhein AG (FWA) 
+ Flugplatz 
+ CH-9423 Altenrhein 
+ Switzerland, transferred TC A34EU to FFA Flug- und Fahrzeugwerke AG in 1983. 
+ FFA Flug- und Fahrzeugwerke AG 
+ Flugplatz 
+ CH-9423 Altenrhein 
+ Switzerland, transferred TC A34EU to FFA Fahrzeugwerke Altenhein AG in 1987. 
+ FFA Fahrzeugwerke Altenhein AG 
+ Flugplatz 
+ CH-9423 Altenrhein 
+ Switzerland, held TC A34EU from 1987 to June 11, 2002. 
+ (From November 3, 2009 to April 2, 2012 the EASA type certificate was ineffective and 
+ listed under EASA.SAS.A.067 (aircraft specification).) 
+ FFA Aircraft Bravo AG 
+ Flughavenstrasse 11 
+ CH-9423 Altenrhein 
+ Switzerland, held TC A34EU from April 3, 2012, until the TC was transferred to 
+ Gomolzig Flugzeug- und Maschinenbau GmbH on May 8, 2015."
+"I. Model AS 202/15 ""BRAVO,"" 3 PCLM (Normal, Utility, and Acrobatic Categories), approved November 16, 1973.",
+Engine,Lycoming O-320-E2A
+Fuel,80/87 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2700 rpm (150 hp)"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8"
+Rev No,"8 
+ 3 
+ 4 
+ 6 
+ 8 
+ 7 
+ 6 
+ 5"
+Propeller and Propeller Limits,"McCauley 1C172 MGM 7458 
+ Static rpm at maximum permissible throttle setting: 
+ Not over 2400, not under 2300 
+ No additional tolerance permitted 
+ Diameter: Maximum 74.0 in., minimum for repairs 72.5 in. 
+ No further reduction permitted. 
+ Spinner: McCauley P/N D-4319"
+Airspeed Limits CAS,"All Categories 
+ Never exceed 
+ VNE 200 mph 173 kts 
+ Maximum structural cruising VNO 150 mph 130 kts 
+ Maneuvering 
+ VA 150 mph 130 kts 
+ Flaps extended 
+ VFE 110 mph 96 kts"
+CG Range,"Normal and Utility Category 
+ (+31.5) to (38.5) at 1540 lbs. or less 
+ (+31.9) to (38.5) at 1950 lbs. 
+ (+35.2) to (38.5) at 2200 lbs. 
+ Straight line variation between points given. 
+ Acrobatic Category 
+ (+31.5) to (+35.2) at 1540 lbs. or less 
+ (+31.9) to (+35.2) at 1950 lbs. 
+ Straight line variation between points given."
+Empty Weight C G Range,None
+Datum,Front face of firewall (Fus. Sta. 0.00)
+Leveling Means,"Upper edge cabin frame, 5.63 in. above fuselage reference line."
+Maximum Weight,"2,200 lbs. for Normal and Utility Categories 
+ 1,950 lbs. for Acrobatic Category"
+No of Seats,3 (2 at +35.4 to 43.3; plus 1 at +72.5)
+Maximum Baggage,220 lbs. at (+72.5)
+Fuel Capacity,"37.0 gal, total 34.4 usable; two 18.5 gal. wing tanks at +32.75"
+Oil Capacity,"8 qt. (-23.25) 
+ See NOTE 1 for unusable fuel and undrainable oil data."
+Control Surface Movements,"Ailerons 
+ Up 22° ± 1° 
+ Down 15° ± 1° See Note 4. 
+ Wing Flaps 
+ Up 
+ 0° ± 1° 
+ Down 41° ± 1° 
+ Elevator 
+ Up 30° ± 1° 
+ Down 20° ± 1° 
+ Elevator Tab 
+ Up 22° ± 1° 
+ Down 26° ± 1° 
+ Rudder 
+ Left 28° ± 1° 
+ Right 28° ± 1°"
+"II. 
+ Model AS202/18A ""BRAVO,"" 3 PCLM (Normal, Utility, and Acrobatic Categories) approved December 17, 1976.",
+Engine,Lycoming AEIO-360-B1F
+Fuel,91/96 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2700 rpm (180 hp)"
+Propeller,"Hartzell two-blade, constant speed, hydraulic 
+ Hub Model: HC-C2YK-1BF 
+ Blades: F 7666 A-2 
+ Weight: 55.3 lb. at (-46.42)"
+Propeller Limits,"Diameter: 
+ Not over 74.0 in., not under 72.0 in. 
+ Static RPM: 
+ Not over 2675, not under 2625 rpm 
+ With propeller governor inoperative at maximum 
+ permissible throttle setting 
+ Placard: 
+ Avoid continuous operation between 2000 and 2250 rpm. 
+ Avoid continuous operation above 2600 rpm in acrobatic 
+ maneuvers."
+Propeller Spinner,"Hartzell A-835-33 
+ Weight: 4.0 lb. at (-49.61)"
+Airspeed Limits CAS,"All Categories 
+ Never exceed 
+ VNE 175 kts 
+ Maximum structural cruising VNO 130 kts 
+ Maneuvering 
+ VA 130 kts 
+ Flaps extended 
+ VFE 95 kts"
+CG Range,"Normal and Utility Category 
+ (+29.27) to (36.86) at 1600 lbs. or less 
+ (+30.26) to (36.86) at 2095 lbs. 
+ (+33.56) to (36.86) at 2315 lbs. 
+ Straight line variation between points given. 
+ Acrobatic Category 
+ (+29.27) to (33.56) at 1600 lbs. or less 
+ (+30.26) to (33.56) at 2095 lbs. 
+ Straight line variation between points given."
+Empty Weight CG Range,None
+Datum,Front face of firewall (Fus. Sta. 0.00)
+Leveling Means,Upper face of top fuselage longerons along the sliding canopy rails
+Maximum Weight,"2315 lbs. for normal and utility categories 
+ 2095 lbs. for acrobatic category"
+No of Seats,3 (2 at (+35.4) to (43.3); plus 1 at (+72.5))
+Maximum Baggage,220 lbs. at (+72.5). See Flight Manual for Loading Instructions.
+Fuel Capacity,37.0 US gal. total (34.3 US gal. usable; two 18.5 US gal. wing tanks at (+32.75))
+Oil Capacity,"8.0 US qt. (-23.25) 
+ See NOTE 1 for unusable fuel and undrainable oil data."
+Control Surface Movements,"Ailerons 
+ Up 22.3° ± 1° 
+ Down 16° ± 1° 
+ Wing Flaps 
+ Up 
+ Down 41° ± 1° 
+ Elevator 
+ Up 30.0° ± 1° 
+ Down 30° ± 1° 
+ Elevator Tab 
+ Up 22.0° ± 1° 
+ Down 26° ± 1° 
+ Rudder 
+ Left 28.0° ± 1° 
+ Right 28° ± 1°"
+"III. Model AS 202/18A4 ""BRAVO,"" 3PCLM (Normal, Utility, and Acrobatic Categories), approved February 4, 1993",
+Engine,Lycoming AEIO-360-B1F
+Fuel,91/96 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2700 rpm (180hp)"
+Propeller,"Hartzell two-blade, constant speed, hydraulic 
+ Hub Model: HC-C2YK-1BF 
+ Blades: F7666 A-2 
+ Weight: 55.3 lbs. at (-46.42)"
+Propeller Limits,"Diameter: 
+ Not over 74.0 in., not under 72.0 in. 
+ Static RPM: 
+ Not over 2675, not under 2625 rpm 
+ With propeller governor inoperative at max. permissible 
+ throttle setting. 
+ Placard: 
+ Avoid continuous operation between 2000 and 2250 rpm 
+ Avoid continuous operation above 2600 rpm in 
+ acrobatic maneuvers."
+Propeller Spinner,"Hartzell A-835-33 
+ Weight: 4.0 lb. at (-49.61)"
+Airspeed Limits CAS,"All Categories 
+ Never exceed 
+ VNE 175 kts 
+ Maximum structural cruising VNO 130 kts 
+ Maneuvering 
+ VA 130 kts 
+ Flaps extended 
+ VFE 95 kts"
+CG Range,"Normal and Utility Category 
+ (+29.27) to (36.85) at 1600 lbs. or less 
+ (+30.51) to (38.85) at 2227 lbs. 
+ (+32.44) to (38.85) at 2381 lbs. 
+ Straight line variation between points given. 
+ Aerobatic Category 
+ (+29.27) to (33.54) at 1600 lbs. or less 
+ (+30.51) to (33.54) at 2227 lbs. 
+ Straight line variation between points given."
+Empty Weight CG Range,None
+Datum,Front face of firewall (Fus. Sta. 0.00)
+Leveling Means,Upper face of fuselage longerons along the sliding canopy rails
+Maximum Weight,"2381 lbs. for Normal and Utility Categories 
+ 2227 lbs. for Acrobatic Category"
+No of Seats,3 (2 at (+35.4) to (43.3); plus 1 at (+72.5))
+Maximum Baggage,220 lbs. at (+72.5). See Flight Manual for Loading Instructions.
+Fuel Capacity,"46.0 gal, total 42.3 gal. usable; two 23.0 gal. wing tanks at (+32.75))"
+Oil Capacity,"8.0 US qt. (-23.25) 
+ See NOTE 1 for unusable fuel and undrainable oil data."
+Control Surface Movements,"Ailerons 
+ Up 22.3° ± 1° 
+ Down 16° ± 1° 
+ Wing Flaps 
+ Up 
+ Down 41° ± 1° 
+ Elevator 
+ Up 30.0° ± 1° 
+ Down 30° ± 1° 
+ Elevator Tab 
+ Up 22.0° ± 2°, 0° 
+ Down 27° ± 3°, -0° 
+ Rudder 
+ Left 28.0° ± 1° 
+ Right 28° ± 1° 
+ Rudder Trim 
+ Left 20 mm ± 2 mm 
+ Right 
+ 7 mm ± 2 mm 
+ (Optional)"
+DATA PERTINENT TO ALL MODELS,
+Serial numbers eligible,"AS 202/15 
+ 2 through 20, 34 
+ AS 202/18A 
+ 23, 27, 28, 29 
+ AS 202/18A4 
+ 224 and up 
+ Prior to May 8, 2015: 
+ For those aircraft imported from the country of manufacture the Swiss Federal Office of 
+ Civil Aviation Certificate of Airworthiness for Export endorsed as noted below under 
+ ""Import Requirements"" must be submitted for each individual aircraft for which 
+ application for airworthiness certification is made."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on an NAA Export 
+ Certificate of Airworthiness (Export C of A) signed by a representative of the 
+ Luftfahrt Bundesamt on behalf of the European Community. The Export C of A should 
+ contain the following statement: “The aircraft covered by this certificate has been 
+ examined, tested, and found to comply with U.S. airworthiness regulations 14 CFR Part 
+ 23 approved under U.S. Type Certificate No. A34EU and to be in a condition for safe 
+ operation.” 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the 
+ United States of both new and used aircraft based on the scope of the agreement, to 
+ identify any required statements by the exporting authority on the export certificate of 
+ airworthiness (or equivalent document), and for procedures for coordinating exceptions 
+ to conformity statements on these documents. Refer to FAA Order 8130.2, 
+ Airworthiness Certification of Aircraft, for requirements for issuance of an 
+ airworthiness certificate for imported aircraft. 
+ Prior to May 8, 2015: 
+ A Standard Airworthiness Certificate may be issued on the basis of a Certificate 
+ of Airworthiness for Export signed by a representative of the Swiss Federal 
+ Office of Civil Aviation (FOCA) containing the following statement: ""The 
+ airplane covered by this certificate has been examined, tested, and found to 
+ conform to the type design approved under the FAA Type Certificate A34EU 
+ and is in a condition for safe operation."" 
+ Model AS 202/18A4 Aircraft imported in the USA must be equipped in 
+ accordance with modification kit no. 30 (containing AFM Report No. FV-877 
+ and the appropriate placards), and meet the identification and marking 
+ requirements of FAR 45. 
+ As of November 5, 2009, the requirements of EASA Airworthiness Directive (AD) 2009- 
+ 0233 dated October 28, 2009 must be accomplished before the airplane is eligible for its 
+ initial US airworthiness certificate. This will include the initial inspection and the 
+ incorporation of the repetitive inspection requirements of the EASA AD into the 
+ airplane’s airworthiness limitation section. (See NOTE 3)"
+Model AS 20215,"FAR 23 dated February 1, 1965, as amended through Amendment 23-13 
+ effective October 23, 1972. Type Certificate No. A34EU issued November 16, 1973."
+Model AS 20218A,"FAR 23 dated February 1, 1965, as amended through Amendment 23-14 
+ effective December 20, 1973. Type Certificate No. A34EU amended December 17, 
+ 1976."
+Model AS 20218A4,"FAR 23 dated February 1, 1965, as amended through Amendment 23-14 
+ effective December 20, 1973; FAR 23.2, 23.561(b)(2) as amended through 
+ Amendment 23-36 effective September 14, 1988; FAR 36 effective on date 
+ of amended type certificate issuance. Type Certificate No. A34EU amended 
+ February 4, 1993. 
+ The EASA type certificate for the AS 202 series models is EASA.A.591."
+Validation Basis,"Type Certificate A34EU was issued pursuant to FAR 21.29(a) in validation of 
+ a Swiss Federal Office of Civil Aviation (FOCA) certification of compliance with 
+ the afore-mentioned Certification Basis (see above)."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the airplane for 
+ standard airworthiness certification. 
+ In addition, the following items of equipment are required: 
+ 1. 
+ Aural Stall Warning System 
+ 2. 
+ Model AS 202/15 ""BRAVO"" - FOCA approved Airplane Flight Manual, 
+ Ref. FFA Report No. FV-862 dated December 1972 or later FOCA 
+ approved revision; Model AS 202/18A ""BRAVO"" - FOCA approved 
+ Airplane Flight Manual, Ref. FFA Report No. FV-866 dated October 1976 
+ or later FOCA-approved revision; Model AS 202/18A4 ""BRAVO"" - 
+ FOCA approved Airplane Flight Manual, Ref. FFA Report No. FV-877 
+ dated January 1993 or later FOCA approved revision."
+Service Information,"Each of the documents listed below must state that it is approved by the 
+ European Aviation Safety Agency (EASA) or - for approvals made before 
+ May 8, 2015 - by FOCA. 
+ • Service bulletins. 
+ • Structural repair manuals. 
+ • Vendor manuals. 
+ • Aircraft flight manuals, and 
+ • Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved unless one 
+ of the following conditions exists: 
+ • The documents change the limitations, performance, or procedures of the 
+ FAA approved manuals: or 
+ • The documents make an acoustical or emissions changes to this product's 
+ U.S. type certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. 
+ The FAA may delegate on case-by-case to EASA to approve on behalf of the 
+ FAA for the U.S. type certificate. If this is the case it will be noted on the 
+ document."
+Note 1,"Current weight and balance report including list of equipment in certificated empty weight, and loading 
+ instructions when necessary, must be provided for each airplane at the time of original airworthiness 
+ certification. The certificated empty weight and corresponding center of gravity must include 
+ undrainable oil of 0 lb. at (-23.25) and unusable fuel of 15.6 lb. at (+32.75) for Models AS 202/15 
+ and 18A, 21.8 lb. at (+32.95) for Model AS 202/18A4. All center of gravity (c.g.) positions are given 
+ in inches from datum."
+Note 2,"The following placard must be displayed in clear view of the pilot: 
+ ""This airplane must be operated as a Normal, Utility, or Acrobatic Category airplane in compliance with 
+ the operating limitations stated in the form of placards, markings, and manuals."" In addition, all 
+ placards required in the approved Airplane Flight Manual must be installed in the appropriate locations. 
+ Each individual airplane will be supplied with a placard that specifies the kinds of operation such as 
+ VCR, or IFR, DAY or NIGHT, to which the operation of the airplane is limited by the equipment installed."
+Note 2,Required Placards (Refer to Manufacturer's Specifications for contents):
+1,Operation Limits
+2,Engine Limits
+3,Baggage Compartment
+4,Cabin Heating
+5,Canopy Jettisoning Handle
+6,Outboard Power Supply
+7,Fuel Tank Selector
+8,Airspeed Limits
+9,Approved Acrobatic Maneuvers
+10,Spin Recovery
+1,Additional Canopy Stop
+2,Emergency Locator Transmitter (ELT)
+3,Anti-Collision Light Systems
+4,Autopilot
+1,Operation Limits
+2,Rear Seat Loading
+3,Cabin Air
+4,Mike/Phone
+5,Approved Maneuvers
+6,Spin Recovery
+7,Cabin Air
+8,Alternate Static Source
+9,Engine Controls
+10,Fire Extinguisher
+11,Fuel Tank Selection
+12,Parking Brake
+13,Circuit Breakers
+14,Canopy Jettisoning Handle
+15,Starter Warning Light
+16,Alternator Warning Light
+17,Strobe Light Warning
+18,Engine Limitations
+19,Canopy Stop
+20,External Power Supply
+21,Flaps Preselector
+22,Ignition Switch
+23,Fuel Quantity Limitation
+24,Kinds of Operation
+25,Alternate Air Control
+26,Pitot Heater Circuit Breaker
+27,Heating and Ventilation Controls
+28,ELT Transmitter
+29,Canopy Handle
+30,Anti-Collision Light Systems
+31,"Autopilot 
+ Note 3. EASA AD 2009-0233 dated October 28, 2009 requires initial and repetitive inspections of the fuel suction tube on"
+Models AS 202/15 and AS 202/18A airplanes – all serial numbers. Model AS 202/18A4 not affected by this EASA,

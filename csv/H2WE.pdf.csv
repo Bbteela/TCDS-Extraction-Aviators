@@ -1,0 +1,320 @@
+Keyterm,Info
+"H2WE 
+ Revision 11 
+ AIR SPACE DESIGN AND 
+ MANUFACTURING, LLC 
+ 1100(OH-5A) 
+ FH-1100 
+ August 19, 2015",
+Type Certificate Holder,"AIR SPACE DESIGN AND MANUFACTURING, LLC 
+ 9 East Lockerman Street, Suite 3A 
+ Dover, Delaware 19901"
+Type Certificate Ownership Record,"FH1100 Manufacturing Corporation transferred TC to Air Space Design 
+ and Manufacturing, LLC on June 7, 2008. 
+ Siam Hiller Holdings, Inc. transferred TC to FH1100 Manufacturing 
+ Corporation, 6080 Industrial Boulevard, Century, Florida 32535 
+ TC was transferred to Siam Hiller Holdings, Inc., 3200 Imjin Road, 
+ Marina, California 93933-5101 from unknown previous holder."
+"I - HILLER MODEL 1100 (U.S. ARMY OH-5A), (Normal Category Helicopter) Approved May 22, 1964 
+ (See Note 5 regarding modifications required for conversion of Military Models)",
+Engine,Allison 250-C10 (See Note 8 regarding engine model)
+Fuel,"MIL-J-5624 Grade JP-4 or JP-5, Commercial Kerosene 
+ Type A, or A1, or Allison Specification EMS 64, 
+ MIL-F-46005 Type 1 C.I.T.E. Fuel"
+Engine Ratings,"Take-off (5 Min.) 
+ Max. Continuous"
+Shaft HP,"250 
+ 212"
+Gas Producer rpm,"48950 
+ 47350"
+Output Shaft rpm,"6000 
+ 6000"
+Measured Gas Temp,"1240°F(671°C) 
+ 1165°F(630°C)"
+NOTE,"The above engine ratings are based on static sea level conditions. The maximum allowable torque 
+ as measured by the torque meter for below standard inlet air temperature and/or ram conditions is 
+ 240 ft. lb. (274 HP @ 100% N2) for take-off and 204 ft. lb. (233 HP @ 100% N2) for maximum 
+ continuous."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8"
+Rev No,"11 
+ 6 
+ 6 
+ 6 
+ 6 
+ 7 
+ 6 
+ 8"
+takeoff 5 min,"1280°F (693°C) 
+ Max. Transient (not to exceed 6 
+ 1550°F (843°C)"
+Oil Inlet Temperature,-65°F to +200°F
+Motor Limits  Engine,"Power Off (Rotor Tach) 
+ Power On 
+ Maximum 390 rpm (106% NR) 
+ Maximum 100% N2"
+Operating Speeds,"Minimum 295 rpm (80% NR) 
+ Minimum 96% N2"
+Airspeed Limits,"Configuration 
+ VNE (IAS) 
+ Skid Gear 
+ 127 mph (110 knots) 
+ The above airspeed applies from S.L. to 5000 ft. 
+ Decrease VNE 5.2 mph (4.5 knots) per 1000 ft. 
+ of altitude above 5000 ft. 
+ For limits with accessories installed, see the FAA Approved Rotorcraft 
+ Flight Manual."
+Altitude Limits,"Avoid operational areas as shown in FAA Approved 
+ Rotorcraft Flight Manual."
+CG range Longitudinal,Sta. (95.5) to (101.5)
+CG Range Lateral,"Left of helicopter centerline, 2.5 in. 
+ Right of helicopter centerline, 2.5 in."
+Maximum Weight,2530 lb.
+No of Seats,"2 (60.0), 2 (86.5)"
+Maximum Cargo,"860 lb. at 100 lb./sp. ft., Sta. (68.12) to (100.0). See loading instructions 
+ in FAA Approved Rotorcraft Flight Manual."
+Fuel Capacity,Main tank 69 gallon (100.6) See NOTE 1 for unusable fuel.
+Oil Capacity,"Engine oil - 2.75 qt. (116) 
+ Transmission oil - 2.75 qt. (106)"
+Main Rotor Blade Movements,(Measured with respect to the mast)
+Collective Travel,"Set down stop to obtain 100% NR at 2530 pounds gross weight and 
+ standard sea level with 11° travel."
+Cyclic Travel,"Lateral 
+ 6.2° + or - .25° Right and Left 
+ Longitudinal 
+ 12.0° + or - .25° Forward 
+ 8.0° + or - .25° Aft"
+Tail Rotor Pitch,"Right 
+ 3.9° + or - .25° 
+ Left 
+ +14.1° + or - .25°"
+Hydraulic System Pressure,900 psi nominal operating.
+Serial No Eligible,"1 and 4 through 8 when modifications specified in Hiller Report, ""Model 
+ 1100 (ARMY OH-5A) Helicopter Design Changes - TIA to Type 
+ Certification"", dated July 16, 1964, are incorporated, and forward engine 
+ mount assembly P/N 24-63113-1 and -3 is installed. (See NOTE 5 for 
+ eligibility of military models)"
+"II - Model FH-1100 (Normal Category Helicopter) Approved November 10, 1966",
+Engine,"Allison 250-C18, see NOTE 7 for alternate engine"
+Fuel,"MIL-J-5624 Grade JP-4 or JP-5, Commercial Kerosene Type A or A1, or 
+ Allison Specification EMS 64, MIL.F. 46005 Type 1 C.I.T.E. Fuel."
+Engine Ratings,"Take-off (5 Min.) 
+ Max. Continuous"
+Shaft HP,"274 
+ 233"
+Gas Producer rpm,"29940(97.6%) 
+ 48250(94.4%)"
+Output Shaft rpm,"6000(100%) 
+ 6000(100%)"
+Measured Gas Temp,"1290°F(699°C) 
+ 1206°F(652°C)"
+NOTE,"The above engine ratings are based on static sea level conditions. The maximum allowable 
+ installed torque as measured by the torque meter is 240 ft. lb. (274 H.P. @ 100% N2) for takeoff 
+ and 204 ft. lb. (233 H.P. @ 100% N2) for maximum continuous."
+Measured Gad Temperature,1380°F (749°C)
+takeoff 5 min,1280°F (693°C)
+Max Transient not to,1550°F (843°C)
+Max Starting Transient,1700°F (927°C)
+Oil Inlet temperature,-65°F to +225°F
+Rotor Limits  Engine,"Power Off (Rotor Tach) 
+ Power On"
+Operating Speeds,"Maximum 390 rpm (106% NR) 
+ Maximum 102% NR 
+ Minimum 295 rpm (80% NR) 
+ Minimum 98% N2"
+Airspeed Limits,"Configuration 
+ VNE (IAS) 
+ Skid Gear 
+ 127 mph (110 Knots)"
+Altitude Limits,"Avoid operational areas as shown in FAA Approved Rotorcraft Flight 
+ Manual."
+CG Range Longitudinal,Sta. (95.5) to (101.5)
+CG range Lateral,"Left of helicopter centerline, 2.5 in. 
+ Right of helicopter centerline, 2.5 in"
+Maximum Weight,2750 lb.
+No of Seats,"2 (55.2), 2 (89.0), 1 (86.0)"
+Maximum Cargo,"1100 lb. at 100 lb./sq. ft., Sta. (68.12) to (100.0). See loading instruction 
+ in FAA Approved Rotorcraft Flight Manual."
+Baggage Compartment,150 lb.
+Fuel Capacity,Main tank 68.5 gallon (100.6). (See NOTE 1 for unusable fuel)
+Oil Capacity,"Engine Oil - 2.76 qt. (116) 
+ Transmission Oil - 2.6 qt. (106) 
+ (Measured with respect to the mast)"
+Collective Travel,"Set down stop to obtain 102% NR at 2750 pounds gross weight and 
+ standard sea level with 12° travel."
+Cyclic Travel,"Lateral 
+ 7.4° + or - .5° Right and Left 
+ Longitudinal 
+ 12.0° + or - .5° Forward 
+ 8.0° + or - .5° Aft"
+Tail Rotor Pitch,"Right -1.5° + or - .5° 
+ Left +16.5° + or - .5°"
+Horizontal Stabilizer,-2° + or - .5°
+Hydraulic System Pressure,950 psi nominal operating.
+Serial No Eligible,9 and up.
+Data pertinent to All Models,
+Datum,100 in. Forward of Station 100 bulkhead (main rotor centerline).
+Leveling means,Top face of rear seat deck.
+Other Operating Limitations,FAA Approved Rotorcraft Flight Manual.
+Certification Basis,"CAR 6, dated December 20, 1956, including amendments 6-1 through 6-4 
+ and Special Conditions, ""Conditions Establishing Compensating Factors 
+ Providing an Equivalent Level of Safety under Civil Air Regulations, 
+ Section 6.10 for Light Turbine Powered Helicopters"", dated October 2, 
+ 1962, except condition 15a. Type Certificate H2WE issued May 22, 1964. 
+ Date of application for Type Certificate November 13, 1961. 
+ FAA Exemption No. 596 issued October 18, 1966, grants exemption from 
+ FAR 6.328 to the extent necessary to permit the Type Certification of The 
+ Fairchild Hiller Model FH-1100 without the necessity of considering the 
+ jamming of a control valve or the cracking of the actuator cylinder as 
+ possible failures."
+Production Basis,"None. Prior to original certification of each aircraft manufactured 
+ subsequent to April 20, 1994, an FAA representative must perform a 
+ detailed inspection for workmanship, materials, and conformity with the 
+ approved technical data and a check of the flight characteristics."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (See certification basis) must be installed in the helicopter for 
+ certification. Hiller Report 63-96, ""Master Equipment List, Model 1100"" 
+ and Hiller Report 66-19 ""Basic Weight Equipment List"", Model FH-1100, 
+ contain a list of all required equipment that must be installed as well as 
+ optional equipment installations approved by the FAA."
+NOTE 1,"Current weight and balance report, including list of equipment included in certificated empty 
+ weight, and loading instructions must be in each helicopter at the time of original certification and 
+ at all times thereafter (except in the case of operators having an approved weight control system). 
+ Ballast, when necessary, must be carried in accordance with Loading Instructions in the FAA 
+ Approved Rotorcraft Flight Manual. Fuel and Oil capacities as indicated are total tank capacities 
+ over and above ""Trapped Fuel and Oil"". The fuel tank capacity includes ""Unusable"" fuel of 2.5 
+ gallons, for Model 1100 and 1.6 gallons (10.8 lbs.) for Model FH-1100 which cannot be used 
+ safely in all normal expected flight attitudes and must be included in the empty weight."
+NOTE 2,"The following placard must be installed in clear view of the pilot: 
+ ""This Helicopter must be operated in compliance with the operating limitations specified in the 
+ FAA Approved Rotorcraft flight Manual"". 
+ For additional placards, see the FAA Approved Flight Manual."
+NOTE 3,"The retirement times of critical parts are listed in the following tables. These values of retirement 
+ of service life cannot be increased without FAA Engineering approval. 
+ SERVICE LIFE HOURS"
+COMPONENT,"PART NO. 
+ MODEL 1100 MODEL FH-1100"
+Blade Assy Main Rotor,"24-53000-01 & -03 
+ 6100 -- 
+ 24-53100-01 & -02 
+ 6100 5970 
+ 24-53100-11, -13, & -15 
+ -- 5970"
+Cuff Assy Main Rotor,"24-51402 
+ 18350 -- 
+ 24-51402-5 & -11 
+ -- 16350"
+Terminals Main Rotor Drag Link,"24-52002-7 & -9 
+ 29000 17900"
+Drag Link Assy Main Rotor,"24-52003 
+ 25000 13750"
+Bolts Main Rotor Drag Attachment,"NAS1306-16 or 
+ 5570 4100 
+ 24-51447-3 
+ 24-51447-5 
+ -- 4100"
+TensionTorsion Bar,"24-55106 
+ 4670 4670"
+Spar Tail Boom Fin Assy,"24-62030-7 
+ 11255 -- 
+ 24-62030-43 
+ -- 11255"
+Housing Assy Tail Rotor,"24-25002 
+ 14120 14120"
+Output Housing Tail Rotor,"24-25023 
+ 7385 --"
+Gear Box,"24-25023-3 & -5 
+ -- 7385"
+Output Shaft Assy,"24-25031 
+ 2800 2800"
+Strut Vertical,"24-28030-1 & -2 
+ 47835 47800"
+Transmission Mount,"24-28030-11 & -12 
+ -- 47800"
+Gimbel Ring Transmission,"24-28020 
+ -- 18050"
+Strut Left Rear,"24-28046-1 
+ 20350 20350"
+Fitting Assy Engine Bearer,"24-61032-1 & -2 
+ 7000 7000"
+Isolation Link Assy,"24-30233-1 
+ 1263 800 
+ . 
+ SERVICE LIFE HOURS"
+COMPONENT,"PART NO 
+ MODEL 1100 MODEL FH-100"
+Collective Arm Assy Upper,"24-31280-1 
+ 1722 1700"
+Incidence arm Main Rotor,"24-51406 
+ 1500 2700"
+Outer Ring Assy Swashplate,"24-34211 
+ 49250 49250"
+Ring Assy Swashplate,"24-34205 
+ 1411 750"
+Cyclic Input,"24-34221 
+ -- 2960"
+Isolation Bracket Assy,"24-30200 
+ 2850 2300 
+ 24-30200-5 
+ -- 2300"
+Link Assy Collective Arm,"24-31282-1 
+ 2850 2300"
+Sleeve Assy,"24-34200 
+ 22450 22450"
+Swashplate Support,"24-34200-11 
+ -- 22450"
+Yoke Assy,"24-34207 
+ 12800 2800"
+Link Assy,"24-34209 
+ 36950 4450"
+Bellcrank Assy Forward,"24-33304-1 
+ 4115 4100"
+Bellcrank Assy Forward,"24-33305-1 
+ 4115 4100"
+Bendix Coupling,19E49-3E
+Diaphragm and Flange,"2489046 
+ -- *1200"
+Diaphragm and Flange,"2489047 
+ -- *1200"
+Assy Transmission End,*One 600 hour extension allowed after compliance with Service Letter FH-1100-24-9.
+Lower Housing Assy,"24-23030-7 
+ -- 3600"
+NOTE 4a,"There is not a Rotorcraft Maintenance Manual for the Model 1100 helicopter. Prior to civil 
+ airworthiness certification of the Model 1100 the applicant must prepare a rotorcraft Maintenance 
+ Manual containing all information essential for proper maintenance. 
+ The Model FH-1100 helicopter(s) must be serviced, maintained in accordance with instructions"
+4b,"specified in the Model FH-1100: Service Manual, Inspection Guide, Structural repair Manual, and 
+ Overhaul Manual or Instructions for Continued Airworthiness for type design changes or other 
+ methods, techniques and practices acceptable to the Administrator."
+NOTE 5,"Prior to issuance of FAA Certificate of Airworthiness for Model 1100 (Military Model OH-5A) 
+ helicopters, conformance with the approved Type Design Data must be established, including 
+ modifications for the commercial approved equivalent in accordance with Hiller Aircraft Corp. 
+ Engineering Report 64-54, ""Deviation Report, Model 1100 Helicopter (Army OH-5A)""."
+NOTE 6,"These helicopters are approved for flight in non-icing conditions only. See FAA Approved 
+ Rotorcraft Flight Manual."
+NOTE 7,"Model FH 1100, Serial Nos. 15, 206, 500 and subsequent, when modified to Master Drawing List 
+ (Hiller Report No. 66-13) Rev. D plus later E.O. Revisions. Once converted to the Model 250- 
+ C20B from the Model 250-C18, reverting back is not approved."
+Engine,Allison Model 250-C20B
+Fuel,"ASTM Type Jet B (JP-4) and ASTM Type Jet A or A-1 (JP-5). See 
+ Rotorcraft Flight Manual for Fuel Mixture and Fuel Temperature 
+ Limitations."
+Engine Limits,"Torque Pressure 
+ Output Shaft Speed"
+Takeoff 5 min,"100% (274 SHP) 
+ 100% (6,000 rpm) 
+ 85% (233 SHP) 
+ 100% (6,000 rpm) 
+ Turbine Outlet Temp. 
+ Gas Gen. Speed N1"
+Takeoff 5 min,"104% (53,000 rpm) 
+ 749°C (1380°F) 
+ 104% (53,000 rpm) 
+ 693°C (1280°F)"
+NOTE 8 Allison Model 250-C10 (T63-A-5) engine is installed in Army Model OH-5A helicopters.,

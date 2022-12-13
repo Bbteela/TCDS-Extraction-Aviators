@@ -1,0 +1,652 @@
+Keyterm,Info
+"A59EU 
+ Revision 23 
+ PIAGGIO P-180 
+ July 22, 2021",
+Type Certificate Holder,"PIAGGIO AERO INDUSTRIES S.p.A 
+ Via Cibrario, 4 - Genova - Italy"
+"Model P-180 (Normal Category), Approved May 7,1990",
+Engine,"Right: 
+ Pratt & Whitney of Canada PT6A-66 
+ 3037000 BUILD SPEC 676 flat rated at 850 shp 
+ Left : 
+ Pratt & Whitney of Canada PT6A-66 
+ 3037000 BUILD SPEC 677 flat rated at 850 shp 
+ For airplanes incorporating the Mod. n. 80-0657 or SB 80-0231:"
+Engine,"Right: 
+ Pratt & Whitney of Canada PT6A-66B 
+ 3072196 BUILD SPEC 1223 flat rated at 850 shp when installed 
+ on the aircraft . 
+ Left : 
+ Pratt & Whitney of Canada PT6A-66B 
+ 3072196 BUILD SPEC 1224 flat rated at 850 shp when installed 
+ on the aircraft . 
+ For airplanes from S/N 3001 to subsequent, incorporating the Mod. n. 80-1117:"
+Engine,"Right: 
+ Pratt & Whitney of Canada PT6A-66B 
+ 3072196 BUILD SPEC 1243 flat rated at 850 shp when installed 
+ on the aircraft . 
+ Left : 
+ Pratt & Whitney of Canada PT6A-66B 
+ 3072196 BUILD SPEC 1244 flat rated at 850 shp when installed 
+ on the aircraft ."
+Fuel,"JP4, JP8, JET A, JET A-1, JET B and RP-3 (No.3 Jet Fuel) conforming to the 
+ latest revision of Pratt & Whitney Service Bulletin No. 14004. 
+ Fuel Anti-Ice Additive must be used, except for JP-4 and JP-8, in accordance 
+ with the latest revision of Pratt & Whitney Service Bulletin No. 14004."
+Oil,"Refer to Limitations Section of latest revision of Pilot’s Operating Handbook and 
+ Airplane Flight Manual."
+Engine Limits,"Maximum 
+ N1 Gas 
+ Prop. 
+ Permissible 
+ Generator 
+ Shaft 
+ Interstage 
+ Shaft 
+ Torque 
+ Speed 
+ Speed 
+ Temperature 
+ (hp) 
+ (lb*ft) 
+ (%) 
+ (rpm) 
+ (deg. C)"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10"
+Rev No,"23 
+ 22 
+ 13 
+ 13 
+ 21 
+ 16 
+ 23 
+ 21 
+ 21 
+ 22 
+ Takeoff 
+ Max. Cont. 
+ Max. Climb 
+ 850 
+ 2230 (2480) [*] 104.1 
+ 2000 (1800) [*] 
+ 830 
+ Max. Cruise 
+ Nor. Climb 
+ Nor. Cruise 
+ 850 
+ 2230 (2480) [*] 104.1 
+ 2000 (1800) [*] 
+ 820 
+ Starting (5 sec) 
+ --- 
+ ---- 
+ ---- 
+ ---- 
+ 1000 
+ Transient (20 sec) 
+ --- 
+ 2750 
+ 104.1 
+ 2205 
+ 870 
+ Oil Temperature: 
+ Minimum Starting 
+ -40o C 
+ Minimum Idle 
+ -40o C to 110o C 
+ Max. Continuous 
+ 0o C to 110o C"
+"Note: The above mentioned engine limits are applicable to both engine models: PT6A-66 and PT6A-66B 
+ Note [*]: For airplanes from S/N 3001 to subsequent, incorporating the Mod. n. 80-1117 
+ Propeller and 
+ Right: Hartzell HC-E5N-3L or 3AL hub with five Hartzell LE8218 blades. 
+ Propeller Limits 
+ Left : Hartzell HC-E5N-3 or 3A hub with five Hartzell HE8218 blades. 
+ Diameter: 85 in. (Nominal), 84.5 in. (minimum-no further reduction allowed) 
+ Nominal feather pitch angle 
+ (at 30 in. station) 
+ 89o 
+ Nominal reverse pitch angle 
+ (at 30 in. station) 
+ -13o 
+ Stabilized ground operation below 
+ 900 
+ rpm is prohibited, except when feathered 
+ operation at or below 600 rpm. 
+ Stabilized ground operation between 
+ 1300 and 1600 rpm is prohibited 
+ (from S/N 3001 to subsequent modified with Mod 80-1117 installed) 
+ Right: Hartzell HC-E5N-3L or 3AL hub with five Hartzell LE8492 blades. 
+ Left : Hartzell HC-E5N-3 or 3A hub with five Hartzell HE8492 blades. 
+ Diameter: 86.5 in. (Nominal), 86 in. (minimum-no further reduction allowed) 
+ Nominal feather pitch angle 
+ (at 30 in. station) 
+ 87.6o 
+ Nominal reverse pitch angle 
+ (at 30 in. station) 
+ -8o 
+ Stabilized ground operation below 
+ 900 
+ rpm is prohibited, except when feathered 
+ operation at or below 600 rpm. 
+ Stabilized ground operation between 
+ 1250 and 1550 rpm is prohibited 
+ Airspeed Limits 
+ KIAS 
+ KCAS 
+ (from S/N 1001 to S/N 1025) 
+ Vmo (maximum operating) 
+ 260 
+ 258 
+ Mmo (maximum operating Mach No.) 
+ .67 
+ .665 
+ Va (maneuvering at 10810 lbs.) 
+ 195 
+ 194 
+ Vfe (max. flap extended, t.o. conf.) 
+ 175 
+ 174 
+ Vfe (max. flap extended, lnd. conf.) 
+ 165 
+ 163 
+ Vfo (max. flap operating, t.o. conf.) 
+ 170 
+ 169 
+ Vfo (max. flap operating, lnd. conf.) 
+ 150 
+ 149 
+ Vlo (max. landing gear operating) 
+ 175 
+ 174 
+ Vle (max. landing gear extended) 
+ 185 
+ 184 
+ Vllo/Vlle (maximum landing light 
+ operating/extended) 
+ 160 
+ 159 
+ Vmc (min. control, prop. feathered) 
+ 100 
+ 99 
+ Vmc (min. control, prop. windmill) 
+ 128 
+ 127 
+ (from S/N 1026 to subsequent and from S/N 1004 to S/N 1025 modified 
+ with S.B. 80-0023) 
+ Vmo (maximum operating) 
+ 260 
+ 258 
+ Mmo (maximum operating Mach No.) 
+ .67 
+ .665 
+ Va (maneuvering at 11550 lbs.) 
+ 199 
+ 198 
+ Vfe (max. flap extended, t.o. conf.) 
+ 180 
+ 179 
+ Vfe (max. flap extended, lnd. conf.) 
+ 175 
+ 173 
+ Vfo (max. flap operating, t.o. conf.) 
+ 170 
+ 169 
+ Vfo (max. flap operating, lnd. conf.) 
+ 150 
+ 149 
+ Vlo (max. landing gear operating) 
+ 180 
+ 179 
+ Vle (max. landing gear extended) 
+ 185 
+ 184 
+ Vllo/Vlle (maximum landing light 
+ operating/extended) 
+ 160 
+ 159 
+ Vmc (min. control, prop. feathered) 
+ 100 
+ 99 
+ Vmc (min. control, prop. windmill) 
+ 128 
+ 127 
+ (from S/N 1004 to subsequent modified with S.B. 80-0215 or with Mod 80-0642 
+ installed) 
+ Vmo (maximum operating) 
+ 260 
+ 258 
+ Mmo (maximum operating Mach No.) 
+ .67 
+ .665 
+ Va (maneuvering at 12100 lbs) 
+ 202 
+ 201 
+ Vfe (max. flap extended, t.o. conf.) 
+ 183 
+ 182 
+ Vfe (max. flap extended,lnd conf.) 
+ 177 
+ 176 
+ Vfo (max. flap operating, t.o. conf.) 
+ 170 
+ 169 
+ Vfo (max. flap operating, lnd. conf.) 
+ 150 
+ 149 
+ Vlo (max. landing gear operating) 
+ 181 
+ 180 
+ Vle (max. landing gear extended) 
+ 185 
+ 184 
+ Vllo/Vlle (maximum landing light 
+ operating/extended) 
+ 160 
+ 159 
+ Vmc (min. control, prop. feathered) 
+ 100 
+ 99 
+ Vmc (min. control, prop. windmill) 
+ 128 
+ 127 
+ (*) From S/N 1063 to subsequent and from S/N 1034 to S/N 1062 modified 
+ with S.B. 80-0159 
+ Mmo (maximum operating Mach No) 
+ .70 
+ .694 
+ CG Range 
+ (from S/N 1001 to S/N 1025) 
+ Landing Gear Extended 
+ FS 204.3 to FS 214 
+ at 10,810 lbs 
+ FS 195.2 to FS 214 
+ at 8,745 lbs 
+ FS 194 to FS 213 
+ at 8,500 lbs 
+ FS 194 to FS 209.8 
+ at 7,700 lbs or less 
+ Straight line variation between points given. 
+ (from S/N 1026 to subsequent and from S/N 1004 to S/N 1025 modified 
+ with S.B. 80-0023) 
+ FS 207.6 to FS 214 
+ at 11,550 lbs 
+ FS 195.2 to FS 214 
+ at 8,745 lbs 
+ FS 194 to FS 213 
+ at 8,500 lbs 
+ FS 194 to FS 209.8 
+ at 7,700 lbs or less 
+ Straight line variation between points given. 
+ Airplanes modified with Mod. 80-0642 or SB-80-0215: 
+ FS 210.25 to FS 214 
+ at 12,100 lbs 
+ FS 195.2 to FS 214 
+ at 8,745 lbs 
+ FS 194 to FS 213 
+ at 8,500 lbs 
+ FS 194 to FS 209.8 
+ at 7,700 lbs or less 
+ Straight line variation between points given. 
+ Empty Weight CG Range 
+ None 
+ Datum 
+ 236.22 inches forward of the rear pressure bulkhead centerline (at the intersection 
+ between the forward pressure bulkhead and cockpit floor centerline). 
+ Leveling Means 
+ Three leveling marks are provided to level the airplane: one is located on the 
+ forward mast of cabin door, the other two are located each side to the fuselage, 
+ close to the rearmost baggage compartment frame. The airplane may be leveled 
+ either on jacks or on wheels using the communicating vessel system and 
+ deflecting the tires or the shock absorbers. 
+ Normally the airplane is leveled first laterally then longitudinally. 
+ Some aircraft may have longitudinal level marks on the external power receptacle 
+ housing, and lateral level marks on the external power receptacle housing and on 
+ the ground test refueling panel housing. 
+ Maximum Weight 
+ (S/N 1001 and 1002) 
+ Ramp 
+ 10,900 lbs 
+ Takeoff 
+ 10,810 lbs 
+ Landing 
+ 10,270 lbs 
+ Zero Fuel 
+ 9,000 lbs 
+ (from S/N 1004 to S/N 1025) 
+ Ramp 
+ 10,900 lbs 
+ Takeoff 
+ 10,810 lbs 
+ Landing 
+ 10,270 lbs 
+ Zero Fuel (at forward C.G. limit) 
+ 9,500 lbs 
+ (at aft C.G. limit) 
+ 9,300 lbs 
+ Straight line variation between limits given. 
+ (from S/N 1026 to subsequent and from S/N 1004 to S/N 1025 modified 
+ with S.B. 80-0023) 
+ Ramp 
+ 11,600 lbs 
+ Takeoff 
+ 11,550 lbs 
+ Landing 
+ 10,945 lbs 
+ Zero Fuel 
+ (from S/N 1004 to S/N 1015) 
+ (at forward C.G. limit) 
+ 9,500 lbs 
+ (at aft C.G. limit) 
+ 9,300 lbs 
+ (from S/N 1016 to subsequent) 
+ 9,800 lbs 
+ Straight line variation between limits given. 
+ (from S/N 1004 to subsequent modified with Mod. 80-642 or 
+ with SB-80-0215) 
+ Ramp 
+ 12,150 lbs 
+ Takeoff 
+ 12,100 lbs 
+ Landing 
+ 11,500 lbs 
+ Zero Fuel 
+ (from S/N 1004 to S/N 1015) 
+ (at forward C.G. limit) 
+ 9,500 lbs 
+ (at aft C.G. limit) 
+ 9,300 lbs 
+ (from S/N 1016 to subsequent) 
+ 9,800 lbs 
+ Straight line variation between limits given 
+ Minimum Crew 
+ 1 Pilot 
+ Number of Seats 
+ Maximum 11 including 2 pilot seats at FS 49.2. See loading instructions in 
+ AFM/W&BM for approved seating. 
+ Maximum Baggage 
+ Cabin Compartment: 
+ 50 lbs at FS 220 
+ 40 lbs on coat Rod at FS 220 
+ Rear Compartment: 
+ 290 lbs at FS 298 (S/N 1001-1002) 
+ Rear Compartment: 
+ 400 lbs at FS 298 (S/N 1004 and up) 
+ Fuel Capacity 
+ S/N 1001 and S/N 1002 
+ 377.8 U.S. Gals. at FS 248.2 in 
+ 374.6 U.S. Gals. usable 
+ S/N 1004 to S/N 1035 
+ 396.2 U.S. Gals. at FS 248.2 in 
+ 392.6 U.S. Gals. Usable 
+ S/N 1004 to S/N1035 with SB-80-0123 installed and from S/N 1036 
+ to subsequent: 
+ 421.9 U.S. Gals. at FS 248.2 in 
+ 418.2 U.S. Gals. usable 
+ S/N 1105 to subsequent with mod. 80-1091 or SB 80-0424 
+ 479.7 U.S. Gals. at FS 244.5 in 
+ 476.0 U.S. Gals. usable 
+ Oil Capacity 
+ 6.7 U.S. Gals. at FS 274.6 
+ (2.5 U.S. Gals. usable) 
+ Maximum Operating Altitude 
+ 41,000 ft 
+ Control Surface 
+ Outboard Wing Flaps 
+ 10o TED(**) 
+ Movements 
+ (t.o. position) 
+ Outboard Wing Flaps 
+ 30o TED 
+ (lnd. position) 
+ Inboard Wing Flaps 
+ 20o TED 
+ (t.o. position) 
+ Inboard Wing Flaps 
+ 45o TED 
+ (lnd. position) 
+ Aileron 
+ 19o TEU(***) - 15o30 TED 
+ Aileron Tab 
+ 20o TEU - 19o TED 
+ (only right aileron) 
+ Forward Wing Flaps 
+ 13o TED 
+ (t.o. position) 
+ Forward Wing Flaps 
+ 30o TED 
+ (lnd. position) 
+ Rudder 
+ 23o RIGHT - 23o LEFT 
+ Rudder Tab 
+ 30o RIGHT - 30o LEFT 
+ Stabilizer 
+ 8o TEU - 2o TED 
+ Elevator 
+ 14o TEU - 12o TED 
+ (*) Nominal Values 
+ See P.180 Maintenance Manual for rigging instructions, deflections and 
+ corresponding tolerances. 
+ (**) TED = Trailing Edge Down 
+ (***) TEU = Trailing Edge Up 
+ Serial Nos Eligible 
+ Each individual aircraft manufactured under this type certificate must be 
+ accompanied by an Export Certificate of Airworthiness as noted below under 
+ ""Import Requirements"" when an application for a U.S. airworthiness certificate is 
+ made. 
+ P.180: S/N 1002,1004 to subsequent. 
+ Certification Basis 
+ Date of application for type certificate December 29, 1983, revised 
+ FAR 2117 
+ November 12, 1986. 
+ SN 1001 up to 1104 
+ Federal Aviation Regulations - 14 CFR Part 23, effective February 1, 1965, 
+ including Amendments 23-1 through 23-33 and Section 23.2 Amendment 36. 
+ Special conditions; Piaggio Model P-180 airplanes, No. 23-ACE-29 and 
+ No. 23-ACE-52. 
+ Special Federal Aviation Regulations No. 27, effective February 1, 1974, 
+ including Amendments 27-1 through 27-5. 
+ SN 1001 and 1002 
+ Equivalent safety findings exist with respect to the following regulations: 
+ - 14 CFR Section 23.1305(g): Fuel Pressure Indicator 
+ - 14 CFR Section 23.1321(d): Arrangement of flight instruments 
+ - 14 CFR Section 23.1545(b)(5): Marking of airspeed indicator for Vyse 
+ S/N 1004 and up 
+ Equivalent safety findings exist with respect to the following regulations: 
+ - 14 CFR Section 23.1305(g): Fuel Pressure Indicator 
+ - 14 CFR Section 23.1545(b)(5): Marking of airspeed indicator for Vyse 
+ - 14 CFR Part 36, effective December 1, 1969, including Amendments 36-1 
+ through 36-16 
+ - 14 CFR Part 36, Appendix G, effective February 7,2004, including 
+ Amendments 36-25 for A/C’s with SB 80-0215. 
+  SN1105 to subsequent 
+ -14 CFR Part 23.1311 and 23.1309 at Amendment level 23-49 for Avionics 
+ and Electronic Display; 
+ Special condition FAA CRI SE-1. 
+ 14 CFR Part 36, Appendix G ,effective February 7,2004, including Amendments 
+ 36-25, when mod. 80-0642 or SB-80-0215 is installed. 
+ The Ente Nazionale per l’Aviazone Civile (ENAC) originally type ertificated 
+ this aircraft under its Type Certificate Number A390. Effective September 28, 
+ 2003, the European Aviation Safety Agency (EASA) began oversight of this 
+ product under their Type certificate Number A059 on behalf of Italy. 
+ Validation Basis 
+ Type Certificate A59EU was issued pursuant to FAR 21.29 in validation of EASA 
+ certification of compliance with the aforementioned certification basis, and in 
+ accordance with the standard airworthiness certificate provisions of FAR 
+ 21.183(c). 
+ Note: The airworthiness provisions of FAR 21.183(d) may be cited as the basis 
+ for issuance of standard airworthiness certificates for aircraft imported from a 
+ country other than the country of manufacture. 
+ Equipment 
+ The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the aircraft for 
+ airworthiness certification.In addition, the following item of equipment is 
+ required: 
+ 1. POH and AFM, Report No. 6591, approved July 7, 1992 (RAI Ltr 
+ 282.378/SCMA), or later approved revision (S/N 1004 through 1025 
+ incorporating SB 80-0023 or 1026 through 1104). 
+ 2. AFM, Report No. 180-MAN-0010-01100 (EASA approval date:October 21, 
+ 2005) and W&B M, Report No. 180-MAN-0020-01101 (EASA approval 
+ date: October 21, 2005) (S/N 1002 and 1105 to subsequent). 
+ Import requirements The FAA can issue a U.S. airworthiness certificate based on an NAA Export 
+ Certificate of Airworthiness (Export C of A) signed by a representative of the 
+ the Ente Nazionale per l’Aviazone Civile (ENAC) on behalf of the European 
+ Community. The Export C of A should contain the following statement “ The 
+ aircraft covered by this certificate has been examined, tested, and found to 
+ comply with EASAs TC No A059 approved under U.S. Type Certificate No. 
+ A 59EU and to be in a condition for safe operation”. 
+ Refer to the applicable bilateral agreement to verify eligibility for import into 
+ the United States of both new and used aircraft based on the scope of the 
+ agreement, to identify any required statements by the exporting authority on the 
+ export certificate of airworthiness (or equivalent document), and for procedures 
+ for coordinating exceptions to conformity statements on these documents. Refer 
+ to FAA Order 8130.2, Airworthiness Certification of Aircraft, for requirements 
+ for issuance of an airworthiness certificate for imported aircraft. 
+ Country other than Manufacturer (U.S. bilateral agreement and the original 
+ Export Certificate of Airworthiness issued by the country of manufacture must 
+ exist): A U.S. airworthiness certificate may be issued on the basis of a log book 
+ certifying statement endorsed by an authorized representative of the civil aviation 
+ authority of the exporting country. It is incumbent upon the exporting civil 
+ aviation authority to determine that the certifying statement includes evidence of 
+ acceptable service history and modification deviations and the following 
+ statement: ""The aircraft covered by this certificate has been examined, tested, 
+ inspected in accordance with the provisions of FAR 21.183)d) or its equivalent, 
+ and found to conform to the type design approved under Type Certificate A59EU 
+ and is in a condition for safe operation"". 
+ Service Information 
+ Each of the documents listed below must state that it is approved by the 
+ European Aviation Safety Agency (EASA) or – for approvals made before 
+ September 28, 2003- by the Ente Nazionale per l’Aviazone Civile (ENAC) 
+ · Service bulletins 
+ · Structural Repair Manuals 
+ · Vendor Manuals 
+ · Aircraft Flight Manuals, and 
+ · Overhaul and Maintenance Manuals 
+ The FAA accepts such documents and considers them FAA-approved 
+ unless one of the following condition exists: 
+ · The documents change the limitations, performance, or procedures 
+ of the FAA approved manuals; or 
+ · The documents make an acoustical or emissions changes to this 
+ product’s U.S.type certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these 
+ documents. The FAA may delegate on case-by-case to EASA to 
+ approve on behalf of the FAA for the U.S. type certificate. If this is the 
+ case it will be noted on the document. 
+ NOTES 
+ Note 1 
+ Current weight and balance data, loading information, and a list of equipment included in empty 
+ weight must be provided for each airplane at the time of original certification. 
+ (a) Basic empty weight includes unusable fuel of 24.8 lbs at (248.8 in) with 8.7 lbs being 
+ undrainable at (248.2 in). 
+ (b) For airplane with mod. 80-1091 or SB 80-0424, basic empty weight includes unusable fuel of 
+ 24.8 lbs at (248.8 in) with 15.4 lbs being undrainable at (236.7 in). 
+ (c) Basic empty weight includes engine oil of 55 lbs at (274.6 in). 
+ Note 2 
+ Placards (Refer to Manufacturer's Specifications for a complete listing): All required placards as 
+ listed in the approved Airplane Flight Manual must be installed in the appropriate locations. 
+ (1) The following placard must be displayed in clear view of the pilot: 
+ ""THE MARKINGS AND PLACARDS INSTALLED IN THIS AIRPLANE CONTAIN 
+ OPERATING LIMITATIONS WHICH MUST BE COMPLIED WITH WHEN 
+ OPERATING THIS AIRPLANE IN THE NORMAL CATEGORY. OTHER OPERATING 
+ LIMITATIONS WHICH MUST BE COMPLIED WITH WHEN OPERATING THIS 
+ AIRPLANE IN THIS CATEGORY ARE CONTAINED IN THE AIRPLANE FLIGHT 
+ MANUAL."" 
+ (2) Refer to the Airplane Flight Manual, Section 2, Limitations for a listing of other required 
+ placards. 
+ Note 3 
+ Instructions for Continued Airworthiness are contained in the applicable Maintenance Manual. 
+ Airworthiness Limitations are contained in the EASA approved Chapter 4 of the M M. 
+ Revisions to Airworthiness Limitations must be FAA approved. 
+ All manufacturer's service bulletins (and other manual material) which contain a statement that the 
+ document is approved by the exporting airworthiness authority (EASA) may be interpreted as FAA 
+ approved. These approvals pertain to the type design only. 
+ All service bulletins classified as Mandatory by the EASA are identified to that effect and are 
+ subject to an Airworthiness directive issued by the FAA. 
+ Note 4 
+ Changing the color and the thickness of the exterior paint (including registration numbers) for 
+ composite components is only permissible after prior approval of the manufacturer. 
+ Note 5 
+ An approved interior must be installed when transporting passengers. When an interior is 
+ installed with side facing seats contact the nearest Aircraft Certification Office for approval. 
+ Note 6 
+ S/N 1001 and 1002 
+ Four piece windshield PPG p/n NP-165241-1, p/n NP-165241-2 and Swedlow p/n 6600803-3, 
+ p/n 6600803-4 is installed 
+ S/N 1004 to 1022 
+ Two piece windshield PPG p/n NP-165231-01 and p/n NP-165231-02 is installed (3 plies). 
+ S/N 1023 and up 
+ Two piece windshield PPG p/n NP-165251-01 and p/n NP-165251-02 is installed (2 plies). 
+ Note 7 
+ Oxygen bottle 40 cu.ft. is installed on S/N 1004 and up, in accordance with FAR 91 
+ Requirements. 
+ Note 8 
+ Airplanes from S/N 1004 up to 1104, modified with the installation of either the RVSM Kit No. 
+ 80KA0075 during manufacturing or the service Bulletin No. 80-0162 per retrofit embodiment, meet 
+ the initial airworthiness requirements for operation in Reduced Vertical Seperation Minimum 
+ (RVSM) airspace. 
+ Airplanes from 1105 and up have basic capability to perform operation in RVSM airspace. 
+ Each operator must obtain final RVSM operating approval directly from their local FAA Flight 
+ Standards Office. 
+ Note 9 
+ S/N 1105 and up 
+ Piaggio Model P-180 airplane manufactured from Serial number 1105 and up will incorporate the 
+ Piaggio Modification No. DMT 80-0587 that includes an Electronic Flight Instrument System with 
+ an Integrated Avionics processor System – Rockwell Collins Pro Line 21. 
+ This modification must use the “P.180 AVANTI II Airplane Flight Manual”, 
+ Report No. 180-MAN-0010-01100 (EASA approval date: October 21, 2005), and 
+ the “P.180 AVANTI II Weight and Balance Manual”, Report No. 180-MAN-0020-01101 (EASA 
+ approval date: October 21, 2005). 
+ Note 10 
+ S/N 1116 and up: 
+ Approved major change on Piaggio P-180 is: 
+ Change No. 80-0574, “Wing Root Design” Level 2 
+ Note 11 
+ S/N 1105 and up 
+ Piaggio Model P-180 airplane manufactured from Serial number 1105 and up can incorporate an 
+ “In Flight Information System” according to the optional Piaggio Modification No. DMT 80-0596 
+ “PA-05 IFIS.” 
+ This modification must use the Supplement 16 to “P.180 AVANTI II Airplane Flight Manual,” 
+ Report No. 180-MAN-0010-01100 (EASA approval date June 13, 2006). 
+ Note 12 
+ Engine model PT6A-66B is installed with Piaggio Modification No. 80-0657 during manufacturing 
+ or Piaggio Service Bulletin No. 80-0231 per retrofit embodiment. 
+ Airplanes from S/N 1004 up to 1104, modified with Service Bulletin No. 80-0231, must use the 
+ Temporary Change No. 2 to the ""P.180 Avanti Pilot's Operating Handbook and Airplane Flight 
+ Manual"" Report No. 6591. 
+ Airplanes from S/N 1105 and up, modified with Mod. No. 80-0657 or Service Bulletin 80-0231, 
+ must use the Temporary Change No. 1 to the ""P.180 Avanti II Airplane Flight Manual"" Report No. 
+ 180-MAN-0010-01100. 
+ Note 13 
+ S/N 1105 and up 
+ Piaggio Model P-180 airplane manufactured from Serial number 1105 and up can incorporate a 
+ “CPDLC system” according to the optional Piaggio Modification No. DMT 80-1005 “CPDLC – 
+ Controller Pilot Data Link Communication System”, or relevant Service Bulletin 80-0416. 
+ This modification must use the Supplement 30 to “P.180 AVANTI II Airplane Flight Manual” 
+ Report No. 180-MAN-0010-01100 (EASA approval date: February 04, 2014). 
+ Note 14 
+ S/N 1105 and up 
+ Piaggio Model P-180 airplane manufactured from Serial number 1105 and up can incorporate an 
+ optional additional fuel tank according to the optional Piaggio Modification No. DMT 80- 
+ 1091“P.180 Extended range”, or relevant Service Bulletin 80-0424. 
+ This modification must use the temporary change 49 to “P.180 AVANTI II Airplane Flight Manual” 
+ Report No. 180-MAN-0010-01100 (EASA approval date: June 3, 2014) and the temporary change 
+ 15 to the “P.180 AVANTI II Weight and Balance Manual”, report no. 180-MAN-0020-01101 
+ (EASA approval date: June 3, 2014). 
+ Note 15 
+ S/N 3001 and up 
+ Piaggio Model P-180 airplane manufactured from Serial number 3001 and up incorporate the 
+ Piaggio Modifications No.: 
+ - DMT 80-1117“Community Noise Reduction” 
+ - DMT 80-1121 “Winglet”. 
+ These modifications must use the temporary change No. 62 to “P.180 AVANTI II Airplane Flight 
+ Manual” Report No. 180-MAN-0010-01100 Rev. A4 (EASA approval date: November 28, 2014).",

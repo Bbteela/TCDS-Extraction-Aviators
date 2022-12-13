@@ -1,0 +1,231 @@
+Keyterm,Info
+"A31CE 
+ Revision 11 
+ Textron Aviation 
+ F90 
+ November 27, 2017",
+Type Certificate Holder,"Textron Aviation Inc. 
+ One Cessna Boulevard 
+ Wichita, KS 67215"
+Type Certificate Holder Record,"Beech Aircraft Corporation transferred to 
+ Raytheon Aircraft Company on April 15, 1996 
+ Raytheon Aircraft Company transferred to 
+ Hawker Beechcraft Corporation on March 26, 2007 
+ Hawker Beechcraft Corporation transferred to 
+ Beechcraft Corporation on April 12, 2013 
+ Beechcraft Corporation transferred to 
+ Textron Aviation Inc. on October 12, 2016"
+"I. 
+ Model F90, King Air, 7-10 PCLM (Normal Category), approved May 18, 1979",
+Engine,"Two (2) Pratt & Whitney Aircraft of Canada, Ltd., PT6A-135 (LA-1 through LA-204, 
+ except LA-202), PT6A-135A (LA-202, LA-205 and on) (turboprop) per Beech 
+ Specification BS 23046 and BS 23549 respectively."
+Fuel,"JP-4, JP-5 (MIL-T-5624); JP-8 (MIL-T-83133); JET A, JET A-1, and JET B 
+ conforming to P&WC S.B. 1244 or ASTM Spec. D1655. 
+ See NOTE 6 for emergency fuels."
+Oil Engine  Gearbox,P&WC PT6 Engine Service Bulletin No. 1001 Lists approved brand oils
+Engine Limits,"Max. Permissible 
+ Shaft 
+ N1 Gas 
+ Prop 
+ Turbine Interstage 
+ Horsepower 
+ Generator Speed 
+ Shaft Speed 
+ Temp. (Deg. C.)"
+Takeoff 5 min,"750 
+ 101.5% 
+ 1900* 
+ 805"
+enroute emergency,"750 
+ 101.5% 
+ 1900* 
+ 805"
+Starting transient 2 sec,1000
+Max reverse 1 min,"720 
+ 88.0% 
+ 1815 
+ 805 
+ *See NOTE 4 
+ At low altitude and low ambient temperature, the engines may produce more power at 
+ takeoff than that for which the airplane has been certificated. Under these conditions the 
+ placarded torque meter limitations shall not be exceeded. 
+ Oil temperatures 
+ Minus 40° C. minimum starting 
+ Minus 40° C. to 99° C. low idle 
+ 10° C. to 99° C. max continuous"
+Page No,"1 
+ 2 
+ 3 
+ 4"
+Rev No,"11 
+ 3 
+ 6 
+ 3"
+Propeller and,Two (2) Hartzell HC-B4TN-3B hubs (effective LA-1 through LA-120 except LA-20 and
+Propeller Limits,"LA-97), HC-B4TN-3A or HC-B4TN-3B hubs (effective LA-20, LA-97, and LA-121 
+ through LA-130) with Hartzell T10173FB-10.5 or T10173FNB-10.5 aluminum alloy 
+ blades and Hartzell C-3425P, C-3425-1P, C3425-2P, or C-3425-3P spinner assembly. 
+ (For Aircraft S/N LA-131 and on) 
+ Two (2) Hartzell HC-B4TN-3A or HC-B4TN-3B hubs with Hartzell T10173FK-10.5 
+ or T10173FNK-10.5 aluminum alloy blades and Hartzell C-3425-2P or C-3425-3P 
+ spinner assembly. 
+ Diameter: 92.0 in. (maximum) 
+ No further reduction permitted. 
+ Pitch settings at: 
+ Flight idle stop 
+ (See NOTE 5(a)) 
+ Secondary flight idle stop 
+ (See NOTE 5(b)) 
+ Reverse 
+ 8.5° ± 0.4° 
+ Feathered 
+ 87.5° ± 0.5° 
+ Avoid continuous operation on ground below 1200 rpm."
+Airspeed Limits IAS,"LA-1 through LA-204 
+ LA-202, LA-205 
+ except LA-202 
+ and on 
+ Maximum operating speed 
+ 253 knots (291 mph) 
+ 253 knots (291 mph) 
+ up to 12,600 ft. 
+ Max operating Mach No. 
+ .48 
+ .48 
+ Maneuvering speed 
+ 171 knots (197 mph) 
+ 170 knots (196 mph) 
+ Maximum flap extension speed 
+ Approach position 32.5% 
+ 184 knots (212 mph) 
+ 183 knots (211 mph) 
+ up to 27,700 ft. 
+ 100% position 40° 
+ 144 knots (166 mph) 
+ 146 knots (168 mph) 
+ Landing gear extended 
+ 184 knots (212 mph) 
+ 183 knots (211 mph) 
+ Landing gear operation 
+ Extension 
+ 184 knots (212 mph) 
+ 183 knots (211 mph) 
+ Retraction 
+ 166 knots (191 mph) 
+ 165 knots (190 mph)"
+CG Range landing gear,"(+154.8) to (+164.0) at 10,950 lbs."
+extended,"(+150.0) to (+164.0) at 9,484 lbs. or less 
+ Straight line variation between points given. 
+ Moment change due to retracting landing gear (-5340 in.-lb.)"
+Empty Weight CG Range,None
+Maximum Weight,"Ramp 
+ 11,030 lbs. 
+ Takeoff 
+ 10,950 lbs. 
+ Landing 
+ 10,950 lbs. 
+ Zero fuel 
+ 9,600 lbs. 
+ (See NOTE 1)"
+Minimum Crew,One pilot
+No of seats,"Crew (+129), passenger variable, see loading instructions. 
+ Maximum passengers: 9"
+Maximum Baggage,403 lbs. (+276)
+Fuel Capacity,"Tank 
+ Cap. Gal. 
+ Usable Gal. 
+ Arm 
+ Auxiliary LH 
+ 41.5 
+ 41 
+ +173 
+ Auxiliary RH 
+ 41.5 
+ 41 
+ +173 
+ Main LH 
+ 195 
+ 194 
+ +154 
+ Main RH 
+ 195 
+ 194 
+ +154 
+ See NOTE 1(a) for data on unusable fuel."
+Oil Capacity,"29 qt. total at +92 (includes 12 qt. usable in two integral engine tanks 
+ See NOTE 1(b) for data on undrainable oil."
+Maximum Operating Altitude,"31,000 ft."
+Control Surface Movements,"Wing flap 
+ Maximum 40° 
+ Aileron tab 
+ Up 15° 
+ Down 15° 
+ Aileron 
+ Up 16° 
+ Down 22° 
+ Elevator tabs 
+ Up 0° 
+ Down 15° 
+ Elevator 
+ Up 20° 
+ Down 17° 
+ Rudder tab 
+ Right 15° 
+ Left 15° 
+ Rudder 
+ Right 25° 
+ Left 25°"
+Serial Nos eligible,LA-2 and on
+Datum,Located 160 in. forward of the wing main (forward) spar centerline.
+Leveling Means,Two external screws on left side of fuselage forward of entrance door.
+Certification Basis,"FAR Part 23 dated February 1, 1965, as amended through 23-16 except 
+ FAR 23.967(a)(5) is to be as amended through 23-18; FAR Part 36 dated 
+ December 1, 1969, as amended through 36-5; SFAR 27 dated February 1, 
+ 1974, as amended through 27-2; and Special Conditions 23-85-CE-11, as amended. 
+ Compliance with ice protection has been demonstrated in accordance with FAR 23.1419 
+ when ice protection equipment is installed in accordance with the airplane equipment list. 
+ Equivalent Safety Findings: 
+ FAR 23.621 (S/N LA-2 through LA-186), 23.1323, 23.1545, 23.1583(a), 23.1305(v) 
+ Application for Type Certificate dated January 12, 1977. 
+ Type Certificate No. A31CE issued May 18, 1979, obtained by the manufacturer under 
+ delegation option procedures."
+Production Basis,"Production Certificate No. 8. Delegation Option Manufacturer No. CE-2 authorized to 
+ issue airworthiness certificates under delegation option provisions of Part 21 of the 
+ Federal Aviation Regulations."
+Equipment,"The basic required equipment as prescribed in applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. 
+ In addition, the following items of equipment are required: 
+ 1. 
+ Stall warning lift transducer, P/N 101-380005-9, and lift computer, 
+ P/N 101-380005-17. 
+ 2. 
+ Maximum allowable airspeed indicator, P/N 109-384003-3, Pilot's and 
+ Copilot's sides. 
+ 3. 
+ Pilot's Operating Handbook, P/N 109-590010-3, S/N LA-2 through LA-204, 
+ except LA-202. 
+ 4. 
+ Pilot's Operating Handbook, P/N 109-590010-57, S/N LA-202, LA-205 and on."
+Data Pertinent to All Models,
+NOTE 1,"Current weight and balance data, loading information and a list of equipment included in basic empty weight must 
+ be provided for each airplane at the time of original certification. 
+ (a) Basic empty weight includes unusable fuel of 41 lbs. at (+157) in.) with 9 lbs. being undrainable. 
+ (b) Basic empty weight includes engine oil of 58 lbs. at (+92 in.)"
+NOTE 2,"All placards required in the FAA Approved Airplane Flight Manual (AFM) must be installed in the appropriate 
+ location."
+NOTE 3,"Mandatory retirement times for all structural components are contained in the Limitation Section, Chapter 4, of 
+ the FAA Approved Beechcraft F90 Maintenance Manual. These limitations may not be changed without FAA 
+ Approval."
+NOTE 4,"The maximum propeller shaft overspeed limit is 110 percent (2090 rpm). 100 percent propeller shaft speed is 
+ defined as 1900 rpm and is the normal steady state operating limit. Gas generator speeds up to 102.6 percent are 
+ permissible for 2 seconds and to 101.5 percent for unlimited periods subject to applicable temperature and other 
+ limits. 100 percent gas generator speed is defined as 37,500 rpm."
+NOTE 5,"(a) Flight idle propeller low pitch is set so that at 1800 rpm there shall be an indicated 600 ±40 ft.-lb. torque 
+ corrected to sea level standard day. 
+ (b) Secondary flight and ground low pitch stop is set so that at 1800 rpm there shall be an indicated torque 
+ of 350 ±40 ft.-lb. torque corrected to sea level standard day."
+NOTE 6,"Emergency use of MIL-G-5572: 
+ Grades 80/87, 91/98, 100/130 and 115/145 are permitted for a total time period not to exceed 150 hours’ time 
+ between engine overhaul periods. It is not necessary to purge the unused fuel from the system when switching 
+ fuel types."

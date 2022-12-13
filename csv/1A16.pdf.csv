@@ -1,0 +1,2281 @@
+Keyterm,Info
+"1A16 
+ Revision No. 24 
+ Allied Ag Cat Productions, Inc. 
+ G-164 
+ G-164A 
+ G-164B 
+ G-164B with 73” 
+ G-164B-15T 
+ G-164B-34T 
+ G-164B-20T 
+ G-164C 
+ G-164D 
+ G-164D with 73” wing gap 
+ February 22, 2001",
+Type Certificate Holder,"Allied Ag Cat Productions, Inc. 
+ 301 West Walnut Street 
+ P.O. Box 482 
+ Walnut Ridge, AR 72476"
+"I - Model G-164, 1 POLB or 1 PCLB (Restricted Agricultural Category) approved January 20, 1959.",
+Engine,"Continental W-670-6N 
+ (R-670-4) 
+ 479 lb. 
+ (+53.5) 
+ Continental W-670-16 
+ (R-670-11) 
+ 486 lb. 
+ (+53.5) 
+ Continental W-670-6A 
+ (R-670-5) 
+ 470 lb. 
+ (+53.5) 
+ Continental W-670-240 
+ (Gulf Coast) 
+ 516 lb. 
+ (+53.5) 
+ (See G-164 NOTE 3 for operating restrictions) 
+ Jacobs R-755-A2M1 
+ 503 lb. (+52.5) 
+ (See G-164 NOTE 6 for optional Jacobs engine installations) 
+ Pratt & Whitney R-985-AN-1, -AN-3, -25, -27, -39, -39A, -AN-14B; Wasp Jr. T1B2, T1B3 
+ (One 4 1/2 and one 9th order crankcase damper)"
+Fuel,"80/87 Minimum octane aviation gasoline 
+ (R-985 series) 
+ 80 Minimum octane aviation gasoline 
+ (W-670 Series, R-755 Series)"
+Engine,For all operations:
+Limits,"(W-670-6A, -6N or -16 engines) 
+ 2075 r.p.m. 
+ (220 hp.) 
+ (W-670-240 engine) 
+ 2075 r.p.m. 
+ (225 hp.) with item 1 propeller 
+ (W-670-240 engine) 
+ 2200 r.p.m. 
+ (240 hp.) with item 3 propeller 
+ (R-985 series engines) 
+ 2300 r.p.m. 
+ (450 hp.) with item 4 propeller 
+ (R-755-A2M1) 
+ 2200 r.p.m. 
+ (330 hp.) with item 3 propeller 
+ Manifold Pressure: (R-985-AN-14B): 
+ 36.5 in. Hg (sea level) 
+ 35.5 in. Hg (3500 ft.) 
+ Manifold Pressure: (R-985-AN-1, -AN-3, 
+ 37.5 in Hg (sea level) 
+ -25, -27, -39, -39A, T1B2, T1B3 
+ 37.0 in. Hg (1500 ft.) 
+ Manifold Pressure: (W-670 series): 
+ 28.0 in. Hg (sea level) 
+ 26.5 in. Hg (1500 ft.) 
+ Manifold Pressure (R-755): 
+ 28.0 in. Hg (sea Level) 
+ 26.5 in Hg (1500 ft.) 
+ Straight line variation between points"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20"
+Rev No,"24 
+ 15 
+ 20 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 22 
+ 17 
+ 17 
+ 17 
+ 17"
+Page No,"21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 32 
+ 33 
+ 34"
+Rev No,"17 
+ 17 
+ 17 
+ 17 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 22 
+ 22 
+ 22 
+ 22 
+ 22"
+"This revision incorporates the new type certificate holder and adds Model G-164B-20T. 
+ Propeller and Propeller 
+ 1. 
+ McCauley ground adjustable propeller (with Continental W-670 series and Gulf Coast 
+ Limits 
+ W-670-240 engines only) 
+ (a) Model 41D5926 with hub AAF 41D5926 and blades SS-135-6 
+ 79 lb. (+38.5) 
+ (b) Model D-1093 with hub D-1093 and blades SS-135-6M (See G-164 Note 2(a)(4) 
+ 82 lb. (+38.5) 
+ for operating restriction) 
+ Diameter: SS-135-6 blades: Max. 102 in. 
+ Min. 100 in. 
+ SS-135-6M blades: Max. 102-5/8 in. 
+ Min. 100 in. 
+ Pitch Settings at 42 in. sta. Static r.p.m. at Maximum Permissible 
+ W-670-6A, -6N, -16 Engines Throttle Setting 
+ (No additional tolerance permitted) 
+ 9.0o 
+ Not over 2055, not under 1905 
+ 9.5o 
+ Not over 1965, not under 1815 
+ 10.0o 
+ Not over 1905, not under 1755 
+ 10.5o 
+ Not over 1855, not under 1705 
+ 11.0o 
+ Not over 1815, not under 1665 
+ W-670-240 Engine 
+ 9.7o 
+ Not over 1975, not under 1825 
+ When installed on the above engines, the propeller must be indexed in the zero degree position 
+ (blades in line with crank throw) and the tachometer shall be placarded: ""Avoid continuous 
+ operation between 1500 and 1650 RPM."" A yellow arc marking must be included on the face 
+ of the tachometer between 1500 and 1650 RPM. 
+ Note: Blade angle adjustment must be within + or -1/2o allowable tolerance to result in 
+ 2075 r.p.m. in climb at 75 m.p.h. CAS. 
+ 2. 
+ Hartzell constant speed propeller (with Jacobs R-755-A2M1 engine only) 
+ (a) Model HC-B3Z with hub Model HC-B3Z20-1 and 
+ blades Model 10160-8 115 lb. (+34.5) 
+ Diameter 93 in. only 
+ Pitch Settings 
+ at 30 in. Sta. 
+ Low 12.5o 
+ High 28.3o 
+ (b) Governor - Hartzell G-1 4.5 lb. (+72) 
+ 3. 
+ Gulfstream ground adjustable (with Continental W-670 series, Gulf Coast W-670-240 and Jacobs 
+ R-755-A2M1 engines only). 
+ (a) Model J-5404, SR-5404, SR-5404R/MA-96K-0 86 lb. 
+ Continental W-670 series engines (+37.5) 
+ Jacobs R-755-A2M1 engine (+35.7) 
+ Diameter: 96 in. only (Continental W-670 series engines) 
+ Max. 96 in., Min. 94 in. (Jacobs R-755-A2M1 engine) 
+ Pitch Settings 
+ Static r.p.m. at Maximum 
+ at 36 in. Sta. 
+ Permissible Throttle Setting 
+ (No additional tolerance permitted) 
+ W-670-6A, -6N, -16 Engines 
+ Not over 2060, not under 1960 
+ 14.1o 
+ W-670-240 Engine 
+ Not over 2095, not under 1945 
+ 14.5o 
+ R-755-A2M1 Engine 
+ Not over 2090, not under 1990 
+ 15.0o 
+ When installed on the above engines, the propeller must be indexed in the zero degree position, 
+ (blades in line with crank throw). 
+ Note: Blade angle adjustment must be within + or - 1/2 degree allowable tolerance to result in never 
+ exceeding the maximum rated r.p.m. at rated power in a full throttle climb at 75 m.p.h. CAS. 
+ Model G164 
+ 4. 
+ Hamilton Standard: 2D30/6101A-12-13-14 with P&W R-985 Series engines 
+ Diameter: 108 in. max., 106 in. min. (No further reduction permitted) 
+ 2D30 Hub, Pacific Propeller AG-100-2 blades, diameter 106 in. (2% cutoff permitted) 
+ Pitch Setting: 11.75o low, 14o high (2 pos.): 
+ 10.0o low, 16.5o high at 42 in. Sta. (constant speed) 
+ Governor: 1A2-5, 1A2G-5, or 4A2-1 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2070, not under 1970 (2 position) 
+ Airspeed Limits CAS 
+ VNE (Never Exceed) 
+ 131 m.p.h. 
+ (114 knots) 
+ VA (Maneuvering) 
+ 104 m.p.h. 
+ (90 knots) 
+ CG Range 
+ (+122.0) to (+124.0) at 3750 lb. 
+ (+122.0) to (+125.3) at 2460 lb. 
+ Straight line variation between points 
+ Empty Weight 
+ None 
+ CG Range 
+ Datum 
+ +99.1 in. ahead of firewall bulkhead. 
+ Leveling Means 
+ Longitudinal: Leveling lugs welded on tubular fuselage frame 27 in. below upper longeron and 
+ forward lug at station 100, left hand side. 
+ Maximum Weight 
+ Configuration",
+No of Seats,1 (+180)
+Maximum Hopper Capacity,"1200 lb. (+122) S/N 1 through 300 
+ 2000 lb. (+122) S/N 301 and up"
+Fuel Capacity,46.3 gal. or 33 gal. (+112.5) (One tank in upper wing center section (See G-164 Note 7))
+Oil Capacity,"7 gal. 
+ (+94) 
+ (6.5 gal. usable) 
+ (R-985 series) 
+ 5 gal. 
+ (+94) 
+ (4.5 gal. usable) 
+ (W-670 series, R-755 series)"
+Serial No Eligible,S/N 1 through 400
+Certification Basis,"CAR 8.10 (a)(1) effective October 11, 1950, and CAM 8, Appendix B as amended March 
+ 19, 1957, except CAR 3.241 utilized for Ground Loads. Restricted Type Certificate No. 
+ 1A16 issued January 20, 1959. Date of application for Type Certificate June 21, 1957."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see 
+ certification basis and CAM 8, Appendix B, subparagraph .51) must be installed in aircraft 
+ for certification. In addition, the following items of equipment are required: 
+ (a) 
+ For aircraft with no electrical system: 
+ Pre-stall warning indicator, Safe Flight Instrument Corporation Kit No. 164-R, 6 
+ volt. (Dry batteries powering this unit must be dated and replaced every six months.) 
+ (b) 
+ For aircraft incorporating an electrical system: 
+ Pre-stall warning indicator, (Safe Flight Instrument Corporation 
+ 12V or 24V P/N C-35407 or P/N 164-3) Installation per Drawing No. A1011. 
+ (c) 
+ Winter front installation per Gulfstream Drawing A1605. For all 
+ aircraft with Continental W-670 series Gulf Coast W-670-240 engines 
+ if operated when the OAT is below 35oF. 
+ (d) 
+ Nose Ballast installation per Gulfstream Drawing A1073A on aircraft equipped with 
+ Continental W-670 series engines or Gulf Coast W-670-240 engines. Required only 
+ when aircraft C.G. would otherwise be outside the specific aft limits. 
+ (e) 
+ Tail Ballast installation per Gulfstream Drawing A1072B. Required only when 
+ aircraft C.G. would otherwise be outside the specified forward limit. Maximum 
+ permissible weight. (Use actual weight). 
+ (f) 
+ Cylinder head Temperature Gage and Manifold Pressure Gage required 
+ on aircraft equipped with R985 series powerplant."
+Agricultural Dispersal,The following Agricultural Dispersal Equipment may be installed:
+Equipment,"(a) 
+ Sprayer dispensing installation per Gulfstream Drawings A1011, S/N 1 and up, A1921, 
+ S/N 1 and up, A1960, S/N 1 through 300, A1480, S/N 301 through 400. 
+ (b) 
+ Dust dispensing installation per Gulfstream Drawing 
+ (1) A1970C Sheet 3 applicable S/N 1 through 100 
+ (2) A1970D Sheet 4 applicable S/N 101 through 300 
+ (3) A1970F Sheet 5 applicable S/N 301 through 400 
+ (R-755 series and R985 series)"
+"II - Model G-164A 1 PCLB (Restricted Agricultural Category) approved March 4, 1966. 
+ Engines See G164A 
+ Pratt and Whitney R-985-AN-1, -AN-3, -25, -27, -39, -39A 
+ NOTE 1 
+ -AN-14B, Wasp Jr. T1B2, T1B3 
+ (One 4 1/2 and one 9th order crankshaft damper) 
+ Pratt and Whitney R-1340-AN-1, S1H1, S3H1 (eligible S/N 526 and up only) (One 4 1/2 
+ and one 9th order crankshaft damper) 
+ Fuel 
+ 80/87 minimum octane aviation gasoline 
+ Engine Limits 
+ R-985 
+ 2300 r.p.m. (450 hp.) all operations 
+ Manifold Pressure: (R-985-AN-14B) 
+ 36.5 in. Hg (sea level) 
+ 35.5 in. Hg (3500 ft.) 
+ Manifold Pressure: (All others) 
+ 37.5 in. Hg (sea level) 
+ 37.0 in. Hg (1500 ft.) 
+ Straight line variation between points. 
+ R-1340 
+ 2250 r.p.m. (600 hp.) Takeoff (5 minutes) 
+ 2200 r.p.m. (550 hp.) Max Continuous 
+ Manifold Pressure: (R-1340-AN-1, S3H1) 
+ 600 hp. 2250 r.p.m. 36.0 in. Hg (Sea Level) 
+ 550 hp. 2200 r.p.m. 34.0 in. Hg (Sea Level) to 32.5 in. Hg (5000 ft.) 
+ Manifold Pressure: (R-1340-S1H1) 
+ 600 hp. 2250 r.p.m. 36.5 in. Hg (Sea Level) 
+ 550 hp. 2200 r.p.m. 35.0 in. Hg (Sea Level) to 33.0 in. Hg (8000 ft.) 
+ Straight line variation between points 
+ Propeller and Propeller Limits 
+ R-985: 
+ Hamilton Standard 2D30 hub, 6101A-12, -13, -14 blades 
+ Diameter: 108 in. max., 106 in. min: (No further reduction permitted) 
+ Pitch Setting: 11.75o low, 14o high (2 pos.) 
+ At 42 in. station: 10o low, 16.5o high (constant speed) 
+ Governor: 1A2G-5, 1A2-5 or 4A2-1 
+ Hamilton Standard 2D30 hub, Pacific Propeller AG-100-2 blades 
+ Diameter 106 in. (2% cutoff permitted) 
+ Pitch Setting: 11.75o low, 14o high (2 pos.) 
+ At 42 in. station: 10o low, 16.5o high (2 pos.) 
+ Governor: 1A2G-5, 1A2-5 or 4A2-1 
+ Static r.p.m. at maximum permissible throttle setting: 
+ not over 2070, not under 1970 (2 position) 
+ R-1340: 
+ Hamilton Standard 12D40 hub, 6101A-12 blades 
+ Diameter: 108 in. (2% cutoff permitted) 
+ Pitch Setting: 11o low, 20o high 
+ Governor: 1M12 
+ Hamilton Standard 12D40 hub, Pacific Propeller AG-100-2 blades 
+ Diameter: 106 in. (2% cutoff permitted) 
+ Pitch Setting: 11o low, 20o high 
+ Governor: 1M12 or EDO-AIRE 34-828-021 
+ Airspeed Limits 
+ Vne (Never exceed) 
+ 147 m.p.h. (128 knots) 
+ CAS 
+ Va (Maneuvering) 
+ 117 m.p.h. (102 knots) 
+ CG Range 
+ Aircraft S/N 1571, 1583, 1616 up (401 through 1570, 1572 through 1582 
+ R985 
+ and 1584 through 1615 retroactive) 
+ (+122.0) to (+125.4) at 4500 lb. 
+ CG Range 
+ Aircraft S/N 526 and Up 
+ R1340 
+ (+122.0) to (+124.0) at 4500 lb. 
+ (+120.3) to (+125.3) at 3525 lb. 
+ Empty Weight 
+ Aircraft S/N 401 and Up 
+ CG Range 
+ None 
+ R985 
+ Empty Weight 
+ Aircraft S/N 526 and Up 
+ CG Range 
+ None 
+ R1340 
+ Datum 
+ +99.1 in. ahead of firewall bulkhead. 
+ Leveling Means 
+ Longitudinal: Level lugs welded on tubular fuselage frame 27 in. below upper longeron 
+ and forward lug at station 100, left hand side. 
+ No of Seats 
+ 1 (+180) 
+ Maximum Hopper 
+ 2000 lb. (+126.2) 
+ Capacity 
+ Fuel Capacity 
+ 46.3 gal. (+112.5) (One Tank in wing center section) 
+ (See G-164A NOTE 3) 
+ Oil Capacity 
+ 7 gal. (+94.0) (6.5 gal. usable) (See G-164A NOTE 6) 
+ 8.7 gal. (+94.0) (8.2 gal. usable) (See G-164A NOTE 6) 
+ Serial No Eligible 
+ S/N 401 and Up 
+ Certification Basis 
+ CAR 8.10 (a)(1) effective October 11, 1950, and CAM 8, Appendix B, as amended 
+ March 19, 1957. Amended Restricted Type Certificate No. 1A16 issued March 1966. 
+ Date of Application for Type Certificate Amendment November 12, 1964. 
+ Equipment 
+ The basic required equipment as prescribed in the applicable airworthiness regulations (see 
+ certification basis and CAM 8, Appendix B, subparagraph .51) must be installed in 
+ aircraft for certification. In addition, the following items of equipment are required: 
+ (a) For aircraft with no electrical system: 
+ Pre-stall warning indicator, Safe Flight Instrument Corp. Kit No. 164-R, 6 volt. 
+ (Dry batteries powering this unit must be dated and replaced every six months) 
+ (b) 
+ For aircraft incorporating an electrical system: 
+ Pre-stall warning indicator, Safe Flight Instrument Corp. 12V or 24V P/N C-35407 or 
+ P/N 164-3. Installation per A1011, Sheet 2 
+ (c) 
+ Cylinder head temperature gage and manifold pressure gage required on aircraft equipped 
+ with R-985 and R1340 series powerplants. 
+ (d) 
+ Tail ballast per Gulfstream Drawing A1074 required on all R-1340 series engine 
+ installations only when aircraft C.G. would otherwise be outside the specified forward 
+ limit. 
+ Agricultural Dispersal 
+ The following Agricultural Dispersal Equipment may be installed: 
+ Equipment 
+ (a) 
+ Sprayer Dispensing Installation per Gulfstream Drawings 
+ (1) A1480 (Leading Edge Booms), through S/N 750 
+ (2) A2930 (Leading Edge Booms), S/N 751 through 1725 
+ (3) A2901 (Trailing Edge Booms), S/N 751 through 1726 and up 
+ (4) A5740 (Trailing Edge Booms), S/N 1726 and up 
+ (b) 
+ Dust dispensing installation per Gulfstream Drawing 
+ (1) A1970F Sheet 5, Dust System Installation 
+ (2) A1398, Spreader Installation (R-985 and R-1340 Only) (Alternate) 
+ (3) A1490, Spreader Installation (R-985 and R-1340 Only) 
+ III - Model G-164B 1 PCLB (Restricted Agricultural Category) approved November 18, 1975. 
+ Model G-164B (with 73"" wing gap) - 1 PCLB (Restricted Agricultural Category) approved November 18, 1982 
+ Model G-164B-15T and G-164B-34T 1 PCLB (Restricted Agricultural Category) approved December 23, 1985 
+ Model G-164B-20T, 1 PCLB (Restricted Agricultural Category) approved April 1991",
+Engine,"Pratt and Whitney R-985-AN-1, AN-3, -25, -27, -39, -39A, -AN-14B; T1B2, T1B3 
+ (One 4 1/2 and one 9th order crankshaft damper) 
+ Continental/Page R-975-46/A2 
+ Pratt & Whitney R-1340-AN-1, S1H1, S3H1 
+ (One 4 1/2 and one 9th order crankshaft damper) 
+ Pratt & Whitney of Canada Ltd. PT6A-15AG - G-164B-15T only. 
+ Pratt & Whitney of Canada Ltd. PT6A-34AG - G-164B-34T only. 
+ Pratt & Whitney of Canada LTD. PT6A-20B - G-164B-20T only."
+Fuel,"R-985 & R-1340 
+ 80/87 minimum octane aviation gasoline 
+ R-975 
+ 100 minimum octane aviation gasoline 
+ PT6A-15AG & PT6A-34AG, and PT6A-20B 
+ Jet A/Jet A-1/Jet B 
+ Automotive Diesel Fuel permitted for agricultural operations when free air temperature is above 
+ +5oC (+41oF) for grade DF-2 
+ -4oC (+25oF) for grade DF-1"
+Engine Limits,"R-985 2300 r.p.m. (450 hp.) all operations 
+ Manifold Pressure (R-985-AN-14B) 
+ 36.5 in. Hg (sea level) 
+ 35.5 in. Hg (3500 ft.) 
+ Manifold Pressure (all others) 
+ 37.5 in. Hg (sea level) 
+ 37.0 in. Hg (1500 ft.) 
+ Straight line variation between points. 
+ R-975-46/PA2 
+ 2300 r.p.m. (525 hp.) 
+ Takeoff (5 minutes) 
+ 2300 r.p.m. (500 hp.) 
+ Max. Continuous 
+ Manifold Pressure: 
+ 525 hp. 42.1 in. Hg (Sea Level) 
+ 500 hp. 40.7 in. Hg (Sea Level) 
+ R-1340 
+ 2250 r.p.m. (600 hp.) Takeoff (5 minutes) 
+ 2200 r.p.m. (550 hp.) Max. Continuous 
+ Manifold Pressure: (R-1340-AN-1, S3H1) 
+ 600 hp. 2250 r.p.m. 36.0 in. Hg (Sea Level) 
+ 550 hp. 2200 r.p.m. 34.0 in. Hg (Sea Level) to 32.5 in. Hg (5000 ft.) 
+ Straight line variation between points 
+ Manifold Pressure: Wasp S1H1 
+ 600 hp. 2250 r.p.m. 36.5 in. Hg (Sea Level) 
+ 550 hp. 2200 r.p.m. 35.0 in. Hg (Sea Level) to 33.0 in. Hg (8000 ft.) 
+ Straight line variation between points 
+ PT6A-15AG"
+Conditions,"OPERATING LIMITS 
+ OIL 
+ OIL 
+ TEMP 
+ PRESSURE 
+ TORQUE 
+ MAXIMUM 
+ Ng 
+ Np 
+ oC 
+ PSIG"
+POWER SETTING,"SHP 
+ PSI 
+ ITT oC 
+ RPM % 
+ RMP %"
+5 MINUTES,"680 
+ 53.3 
+ 725 
+ 38100 101.5 
+ 2200 100 
+ 80-100 
+ 10-99"
+CONTINUOUS,"600 
+ 47 
+ 695 
+ -- -- 
+ 2200 100 
+ 80-100 
+ 10-99"
+MAX CRUISE,"600 
+ 47 
+ 695 
+ -- -- 
+ -- -- 
+ 80-100 
+ 0-99"
+IDLE GROUND,"660 
+ 19000 52 
+ 40 (MIN) 
+ -40-99"
+IDLE FLIGHT,"-- 
+ -- 
+ 660 
+ 25500 68 
+ -- -- 
+ 40 (MIN) 
+ -40-99"
+STARTING,"-- 
+ -- 
+ 1090 
+ -- -- 
+ -- -- 
+ -- 
+ -40 (MIN)"
+ACCELERATION,"-- 
+ 68.8 
+ 825 
+ 38500 102.6 
+ 2420 110 
+ -- 
+ 0-99"
+MAX REVERSE,"600 
+ 49.2 
+ 725 
+ 38100 101.5 
+ 2100 95.5 
+ 80-100 
+ 0-99 
+ PT6A-34AG"
+Conditions,"OPERATING LIMITS 
+ OIL 
+ OIL 
+ TEMP 
+ PRESSURE 
+ TORQUE 
+ MAXIMUM 
+ Ng 
+ Np 
+ oC 
+ PSIG"
+POWER SETTING,"SHP 
+ PSI 
+ ITT oC 
+ RPM % 
+ RMP %"
+5 MINUTES,"750 
+ 58.7 
+ 790 
+ 38100 101.5 
+ 2200 100 
+ 85-105 
+ 10-99"
+CONTINUOUS,"600 
+ 47 
+ 740 
+ -- -- 
+ 2200 100 
+ 85-105 
+ 10-99"
+MAX CRUISE,"600 
+ 47 
+ 740 
+ -- -- 
+ -- -- 
+ 85-105 
+ 0-99"
+IDLE GROUND,"685 
+ 19000 52 
+ 40 (MIN) 
+ -40-99"
+IDLE FLIGHT,"-- 
+ -- 
+ 685 
+ 25500 68 
+ -- -- 
+ 40 (MIN) 
+ -40-99"
+STARTING,"-- 
+ -- 
+ 1090 
+ -- -- 
+ -- -- 
+ -- 
+ -40 (MIN)"
+ACCELERATION,"-- 
+ 68.4 
+ 850 
+ 38500 102.6 
+ 2420 110 
+ -- 
+ 0-99"
+MAX REVERSE,"600 
+ 49.2 
+ 780 
+ 38100 101.5 
+ 2100 95.5 
+ 85-105 
+ 0-99 
+ PT6A-20B"
+Operating Conditions,"OPERATING LIMITS 
+ TORQUE 
+ MAXIMUM 
+ Ng 
+ Np 
+ Oil Press 
+ Oil Temp 
+ oC"
+POWER SETTING,"SHP 
+ PSI 
+ ITT 
+ RPM % 
+ RMP % 
+ PSIG"
+Takeoff,"550 
+ 42.5 
+ 750 
+ 38100 101.5 
+ 2200 100 
+ 65-85 
+ 10-99"
+Max,"538 
+ 42.5 
+ 725 
+ 2200 100 
+ 65-85 
+ 0-99"
+Climb,"ISA 
+ -- --"
+Max,"495 
+ 42.5 
+ 705 
+ 2200 100 
+ 65-85 
+ 0-99"
+Cruise,"ISA 
+ -- --"
+Idle  Grnd,"685 
+ 19000 52 
+ 40 (MIN) 
+ -40-99"
+Idle  Flight,"-- 
+ -- 
+ 685 
+ 25500 68 
+ -- -- 
+ -40-99 
+ 40 (MIN)"
+Starting,"-- 
+ -- 
+ 1090 
+ -- -- 
+ -- -- 
+ -- 
+ -40 (MIN)"
+Acceleration,"-- 
+ 48.5 
+ 850 
+ 38500 102.6 
+ 2420 110 
+ -- 
+ 0-99"
+Max,"500 
+ 40.5 
+ 750 
+ 38100 101.5 
+ 2100 95.5 
+ 65-85 
+ 0-99"
+Propeller and Propeller,R-985:
+Limits,"Hamilton Standard 2D30 hub, 6101A-12, -13, -14 blades 
+ Diameter: 108 in. max., 106 in. min: (No further reduction permitted) 
+ Pitch Setting: 11.75o low, 14o high (2 pos.) 
+ At 42 in. station: 10o low, 16.5o high (constant speed) 
+ Governor: 1A2G-5, 1A2-5 or 4A2-1 
+ Hamilton Standard 2D30 Hub, Pacific Propeller AG-100-2 blades 
+ Diameter: 106 in. (2% cutoff permitted) 
+ Pitch Setting: 11.75o low, 14o high (2 pos.) 
+ At 42 in. station: 10o low, 16.5o high (constant speed) 
+ Governor: 1A2G-5, 1A2-5 or 4A2-1 
+ Static r.p.m. at maximum permissible throttle setting: 
+ not over 2070, not under 1970 (2 position) 
+ Hamilton Standard 2D30 hub, Pacific Propeller AG-100-48 blades 
+ Diameter: 104 in. max., 102 in. min. 
+ Pitch Settings at 42 in. station 9.5o low, 16.5o high (Constant Speed) 
+ R-975-46/PA2: 
+ Hamilton Standard 2D30 Hub, Pacific Propeller AG-100-48 blades 
+ Diameter: 104 in. max., 102 in. min. 
+ Pitch Settings at 42 in. station 9.5o low, 16.5o high (Constant Speed) 
+ Avoid continuous operation 1300-1450 r.p.m. 
+ Governor: 1A4-R-975 (Pacific Propeller) 
+ R-1340: 
+ Hamilton Standard 12D40 hub, 6101A-12 blades 
+ Diameter: 108 in. (2% cutoff permitted) 
+ Pitch Setting: 11o low, 20o high 
+ Governor: 1M12 
+ Hamilton Standard 2D40 Hub, Pacific Propeller AG-100-48 blades 
+ Diameter: 104 in. max., 102 in. min. 
+ Pitch Settings at 42 in. station 10.5o low, 20 high (Constant Speed) 
+ Governor: 1M12 
+ Hamilton Standard 2D40 Hub, Pacific Propeller AG-100-48 blades 
+ Diameter: 104 in. max., 102 in. min. 
+ Pitch Settings at 42 in. station 10.5o low, 20 high (Constant Speed) 
+ Governor: 1M12 
+ Hamilton Standard 22D40 Hub, Pacific Propeller AG-100-48 blades 549B & up 
+ Diameter: 104 in. (2% cutoff permitted) 
+ Pitch Settings 11.o low, 20o high 
+ Governor: 4G10-21 
+ PT6A-15AG, PT6A-34AG, and PT6A-20B 
+ Hartzell HC-B3TN-3D hub, T10282 + 4 blades 
+ Diameter: 106 in. max., 100 in. min. 
+ Pitch Setting: at 30 in. station low 18o, reverse 8o, feather 90o"
+Airspeed Limits,"Vne (Never exceed) 
+ 147 m.p.h. (128 knots) 
+ Through S/N 548B"
+CAS,"Va (Maneuvering) 
+ 117 m.p.h. (102 knots) 
+ S/N 549B and Up 
+ Vne (Never exceed) 
+ 145 m.p.h. I.A.S. (126 knots) 
+ Va (Maneuvering) 
+ 116 m.p.h. I.A.S. (101 knots) 
+ G-164B-15T, G-164B-34T, and G-164B-20T 
+ Vne (Never exceed) 
+ 157 m.p.h. I.A.S. (136 knots) 
+ Va (Maneuvering) 
+ 125 m.p.h. I.A.S. (109 knots)"
+CG Range,"G-164B (through S/N 708B) 
+ R-985 
+ (+122.0) to (+125.0) at 4500 lb. 
+ R-975-46/PA2 
+ (+122.0) to (+124.8) at 4500 lb. 
+ R-1340 
+ (+122.0) to (+124.0) at 4500 lb. 
+ G-164B with 73"" Wing Gap (S/N 709B and Up) 
+ R-1340 
+ (+122.0) to (+125.5) at 5200 lb. (S/N 709B and up) 
+ R-985 
+ (+122.0) to (+126.0) at 5200 lb. (S/N 752B and up) 
+ PT6A-15AG & 
+ (+122.0) to (+125.5) at 5200 lb. 
+ PT6A-34AG 
+ (+122.0) to (+125.5) at 5200 lb. 
+ PT6A-20B 
+ (+122.0) to (+125.5) at 5200 lb."
+Empty Weight,"G-164B (through S/N 708B) and G-164B with 73"" Wing Gap (S/N 709B and Up)"
+CG Range,None
+Datum,+99.1 in. ahead of firewall bulkhead.
+Leveling Means,"Longitudinal: 
+ Leveling lugs welded on tubular fuselage frame 27 in. below upper 
+ longeron and forward lug at station 100, left hand side."
+No of Seats,1 (+180)
+Maximum Hopper,2000 lb. (+126.2)
+Fuel Capacity,"46.3 gal. (+112.5) (One tank in wing center section) 
+ (See G-164B NOTE 3) 
+ 80 gal. (+112.5) (S/N 660B through 708B) 
+ 80 gal. (+112.6) (S/N 709B and up with 73"" in. wing gap) (see G-164B Note 6)."
+Oil Capacity,"8.7 gal. (+94.0) (8.2 gal. usable) 
+ 2.8 gal. (+72.0) (PT6A-15AG & PT6A-34AG), and PT6A-20B"
+Serial No Eligible,"Model G-164B 
+ 1B and up 
+ Model G-164B-15T, -34T, & -20T 709B & up"
+Certification Basis,"G-164B and G-164B with 73"" wing gap: 
+ CAR 8.10(a)(1) effective October 11, 1950, and CAM 8, Appendix B, as amended March 19, 
+ 1957. Amended Restricted Type Certificate No. 1A16 issued November 18, 1975. Date of 
+ application for Type Certificate Amendment March 11, 1975. 
+ G-164B-15T and G-164B-34T 
+ CAR 8.10(a)(1) effective October 11, 1950 and CAM 8, Appendix B, as amended March 19, 1957, 
+ and applicable FAR paragraphs. Amended Restricted Type Certificate No. 1A16 issued December 
+ 23, 1985. Date of application for Type Certificate Amendment, January 23, 1983. 
+ G-164B-20T 
+ CAR 8.10(a)(1) effective October 11, 1950 and CAM 8, Appendix B, as amended March 19, 1957, 
+ and applicable FAR paragraphs. Amended Restricted Type Certificate No. 1A16 issued April 23, 
+ 1991. Date of application for Type Certificate Amendment, March, 1991."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see 
+ certification basis and CAM 8, Appendix B, subparagraph .51) and applicable FAR 23 paragraphs 
+ for the models G-164B-15T, G-164B-34T, and G-164B-20T must be installed in aircraft for 
+ certification. In addition, the following items of equipment are required: 
+ (a) 
+ For aircraft with no electrical system: 
+ Pre-Stall warning indicator, Safe Flight Instrument Corporation 
+ Kit No. 164-R, 6 volt. (Dry batteries powering this unit must be dated and 
+ replaced every six months). 
+ (b) 
+ For aircraft incorporating an electrical system: 
+ Pre-stall warning indicator, (Safe Flight Instrument Corporation 12v or 24v 
+ P/N C-35407) or P/N 164-3 Installation per drawing A3011. 
+ (c) 
+ Cylinder head temperature gage and manifold pressure gage. 
+ (R975, R985, R1340 only). 
+ (d) 
+ Fixed Ballast Inst. STA 46.5 (G-164B-15T & G-164B-34T) or sta 45.8 (G- 
+ 164B-20T) per drawing A7534."
+Agricultural Dispersal,The following Agricultural Equipment may be installed: Equipment
+Equipment,"(a) 
+ Sprayer dispensing installation per Gulfstream Drawing: 
+ (1) A2901 (Trailing Edge Booms) through A/C 334B. 
+ (2) A3740 (Trailing Edge Booms) 335B through 659B 
+ (3) A3740 (Trailing Edge Booms) 660B and up. (R-1340 Eng.) 
+ (4) A3723 (Trailing Edge Booms) 752B and up. (R-985 Eng.) 
+ (b) 
+ Dust Dispensing Installation per Gulfstream Drawing: 
+ A1970A Sheet 6, Dust System Installation (S/N 1B through 659B). 
+ (1) A1398 Spreader Installation. 
+ (2) A1490 Spreader Installation. 
+ A3709 Dust Spreader Installation (660B and up). (R-1340 and PT6A Engine). 
+ A7740 Dust Spreader and Emergency Dump Installation - 
+ (R-985 Eng.) S/N 752B and up."
+"IV - Model G-164C 1 PCLB (Restricted Agricultural Category) approved November 23, 1977",
+Engine,"Pratt and Whitney R-1340-AN-1, S1H1, S3H1 
+ (One 4 1/2 and one 9th order crankshaft damper)"
+Fuel,80/87 minimum octane aviation gasoline
+Engine Limits,"R-1340 
+ 2250 r.p.m. (600 hp.) Take off (5 minutes) 
+ 2200 r.p.m. (550 hp.) Max. Continuous 
+ Manifold Pressure: (R-1340-AN-1, S3H1) 
+ 600 hp. 2250 r.p.m. 36.0 in. Hg (Sea Level) 
+ 550 hp. 2200 r.p.m. 34.0 in. Hg (Sea Level) to 32.5 in. Hg (5000 ft.) 
+ Manifold Pressure: (R-1340-S1H1) 
+ 600 hp. 2250 r.p.m. 36.5 in. Hg (Sea Level) 
+ 550 hp. 2200 r.p.m. 35.0 in. Hg (Sea Level) to 33.0 in. Hg (8000 ft.) 
+ Straight line variation between points"
+Propeller and Propeller,R-1340:
+Limits,"Hamilton Standard 12D40 hub, 6101A-12 blades 
+ Diameter: 108 in. (2% cutoff permitted) 
+ Pitch Setting: 11o low, 20o high 
+ Governor: 1M12"
+Propeller and Propeller,"Hamilton Standard 12D40 hub, Pacific Propeller AG-100-2 blades 
+ Diameter: 106 in. (2% cutoff permitted) 
+ Pitch Setting: 11o low, 20o high 
+ Governor: 1M12 or EDO-AIRE 34-828-021"
+CAS,"Through S/N 42C 
+ Vne (Never exceed) 
+ 147 m.p.h. (128 knots) 
+ Va (Maneuvering) 
+ 117 m.p.h. (102 knots) 
+ Aircraft S/N 43C and Up 
+ Vne (Never exceed) 
+ 139 m.p.h. I.A.S. (121 knots) 
+ Va (Maneuvering) 
+ 112 m.p.h. I.A.S. (97 knots)"
+CG Range,"(+121.0) to (+125.2) at 6300 lb. 
+ (+121.0) to (+125.2) at 4400 lb."
+Empty Weight,None
+Datum,+81.1 in. ahead of firewall bulkhead.
+Leveling Means,"Longitudinal: Level lugs welded on tubular fuselage frame 27 in. below upper longeron and forward 
+ lug at station 82.0, left hand side."
+No of Seats,1 (+206)
+Maximum Hopper,4000 lb. (See Weight and Balance Data)
+Fuel Capacity,80 gal. (+112.5)
+Oil Capacity,8.7 gal. (+94.0) (8.2 gal. usable)
+Serial No Eligible,S/N 1C and up
+Certification Basis,"CAR 8.10 (a)(1) effective October 11, 1950, and CAM 8, Appendix B, as amended March 19, 1957. 
+ Amended Restricted Type Certificate No. 1A16 issued November 23, 1977. Date of Application for 
+ Type Certificate Amendment July 21, 1976."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see 
+ certification basis and CAM 8, Appendix B, subparagraph .51) must be installed in aircraft for 
+ certification. In addition, the following equipment is required: 
+ (a) For aircraft with no electrical system: 
+ Pre-stall warning indicator, Safe Flight Instrument Corp. Kit No. 164-R, 6 volt. 
+ (Dry batteries powering this unit must be dated and replaced every six months) 
+ (b) 
+ For aircraft incorporating an electrical system: 
+ Prestall warning indicator, Safe Flight Instrument Corp. 12V or 24V P/N C-35407 or 
+ P/N 164-3) installation per drawing A3011"
+Agricultural Dispersal,The following Agricultural Dispersal Equipment may be installed:
+Equipment,"(a) 
+ Sprayer Dispensing Installation per Gulfstream Drawings A5740. 
+ (b) 
+ Dust dispensing installation per Gulfstream Drawing A5760."
+"V - Model G-164D 1 PCLB (Restricted Agricultural Category) Approved March 26, 1979. 
+ Model G-164D (with 73"" wing gap) - 1 PCLB (Restricted Agricultural Category) Approved June 15, 1981.",
+Engine,"Pratt and Whitney of Canada Ltd. PT6A-15AG 
+ Pratt & Whitney of Canada Ltd. PT6A-34AG"
+Fuel,"Jet A/Jet A-1/Jet B 
+ Automotive Diesel Fuel permitted for agricultural operations when free air temperature is above 
+ +5oC (+41oF) for grade DF-2 
+ -4oC (+25oF) for grade DF-1 
+ ENGINE LIMITS PT6A-15AG"
+Conditions,"OPERATING LIMITS 
+ OIL 
+ OIL 
+ TEMP 
+ PRESSURE 
+ TORQUE 
+ MAXIMUM 
+ Ng 
+ Np 
+ oC 
+ PSIG"
+POWER SETTING,"SHP 
+ PSI 
+ ITT oC 
+ RPM % 
+ RMP %"
+5 MINUTES,"680 
+ 53.3 
+ 725 
+ 38100 101.5 
+ 2200 100 
+ 80-100 
+ 10-99"
+CONTINUOUS,"600 
+ 47 
+ 695 
+ -- -- 
+ 2200 100 
+ 80-100 
+ 10-99"
+MAX CRUISE,"600 
+ 47 
+ 695 
+ -- -- 
+ -- -- 
+ 80-100 
+ 0-99"
+IDLE GROUND,"660 
+ 19000 52 
+ 40 (MIN) 
+ -40-99"
+IDLE FLIGHT,"-- 
+ -- 
+ 660 
+ 27400 73 
+ -- -- 
+ 40 (MIN) 
+ -40-99"
+STARTING,"-- 
+ -- 
+ 1090 
+ -- -- 
+ -- -- 
+ -- 
+ -40 (MIN)"
+ACCELERATION,"-- 
+ 68.8 
+ 825 
+ 38500 102.6 
+ 2420 110 
+ -- 
+ 0-99"
+MAX REVERSE,"600 
+ 49.2 
+ 725 
+ 38100 101.5 
+ 2100 95.5 
+ 80-100 
+ 0-99 
+ ENGINE LIMITS PT6A-34AG"
+Conditions,"OPERATING LIMITS 
+ OIL 
+ OIL 
+ TEMP 
+ PRESSURE 
+ TORQUE 
+ MAXIMUM 
+ Ng 
+ Np 
+ oC 
+ PSIG"
+POWER SETTING,"SHP 
+ PSI 
+ ITT oC 
+ RPM % 
+ RMP %"
+5 MINUTES,"750 
+ 58.7 
+ 790 
+ 38100 101.5 
+ 2200 100 
+ 85-105 
+ 10-99"
+CONTINUOUS,"600 
+ 47 
+ 740 
+ -- -- 
+ 2200 100 
+ 85-105 
+ 10-99"
+MAX CRUISE,"600 
+ 47 
+ 740 
+ -- -- 
+ 2200 100 
+ 85-105 
+ 0-99"
+IDLE GROUND,"-- 
+ -- 
+ 685 
+ 19000 52 
+ 40 (MIN) 
+ -40-99"
+IDLE FLIGHT,"-- 
+ -- 
+ 685 
+ 27400 73 
+ -- -- 
+ 40 (MIN) 
+ -40-99"
+STARTING,"-- 
+ -- 
+ 1090 
+ -- -- 
+ -- -- 
+ -- 
+ -40 (MIN)"
+ACCELERATION,"-- 
+ 68.4 
+ 850 
+ 38500 102.6 
+ 2420 110 
+ -- 
+ 0-99"
+MAX REVERSE,"600 
+ 49.2 
+ 780 
+ 38100 101.5 
+ 2100 95.5 
+ 85-105 
+ 0-99"
+Propeller and Propeller,"Hartzell HC-B3TN-3D hub, T10282 + 4 blades"
+Limits,"Diameter: Max. 106 in. 
+ Min. 100 in. 
+ Pitch Setting: 
+ Low 18o 
+ Reverse 8o 
+ Feather 90o 
+ at 30 in. Station"
+Airspeed Limits,"Vne (Never exceed) 
+ 164 m.p.h. I.A.S. (142 knots) 
+ VA (Maneuvering) 
+ 131 m.p.h. I.A.S. (114 knots)"
+CG Range,"G-164D 
+ (+120.5) to (+123.6) at 6300 lb. 
+ (+120.5) to (+125.0) at 4000 lb. 
+ Straight line variation between points 
+ G-164D (with 73"" GAP) 
+ (+120.8) to (+122.8) at 6300 lb. 
+ (+120.8) to (+123.6) at 4000 lb 
+ Straight line variation between points"
+CG Range,None.
+Datum,+81.1 in. ahead of firewall bulkhead.
+Leveling Means,"Longitudinal: 
+ Leveling lugs welded on tubular fuselage frame 27 in. below upper 
+ longeron and forward lug at station 82.0, left hand side."
+No of Seats,1 (+206)
+Maximum Hopper,4000 lb. (See Weight and Balance Data)
+Fuel Capacity,"80 gal. (+112.5) 
+ With 73"" Wing Gap 
+ 80 gal. (+112.7)"
+Oil Capacity,2.8 gal. (+36.0)
+Serial No Eligible,S/N 1D and up
+Certification Basis,"CAR 8.10(a)(1) effective October 11, 1950, and CAM 8, Appendix B, as amended March 19, 1957 
+ and applicable FAR 23 paragraphs. Amended Restricted Type Certificate No. 1A16 issued March 
+ 26, 1979. Date of application for Type Certificate Amendment May 23, 1977. Reissued to 
+ Schweizer Aircraft Corporation May 12, 1981."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see 
+ certification basis and CAM 8, Appendix B, subparagraph .51 and applicable FAR 23 paragraphs) 
+ must be installed in aircraft for certification. In addition, the following items of equipment are 
+ required: 
+ (a) 
+ Pre-stall warning indicator, (Safe Flight Instrument Corporation 24v P/N C-35407 or P/N 
+ 164-3) Installation per drawing A3011. 
+ (b) 
+ Fixed ballast installed at fuselage Sta 60.4 per drawing A5173 (Model G-164D with 73"" wing 
+ gap) 
+ DATA PERTINENT TO ALL MODELS"
+Control Surface,"G-164A, G-164B (through 708B), G-164C"
+See G164D Note 3,"Ailerons 
+ 27o (+3.5o -2o) Up 
+ 13 1/2o 
+ (+ or -2o) Down 
+ Elevator 
+ 25o (+ or -2o) Up 
+ 15o 
+ (+ or -2o) Down 
+ Rudder 
+ 33o (+ or -2o) Left 
+ 27o 
+ (+ or -2o) Right 
+ (Respect to Fin) 
+ Elevator Trim Tab 
+ 18o (+3o -2o) Up 
+ 13o 
+ (+ or - 2o) Down 
+ G-164B, (S/N 709B and up) 
+ Ailerons 
+ 27o (+3.5o -2o) Up 
+ 13 1/2o 
+ (+ or -2o) Down 
+ Elevator 
+ 25o (+ or -2o) Up 
+ 15o 
+ (+ or -2o) Down 
+ Rudder 
+ 30o (+ or -2o) Left 
+ 30o 
+ (+ or -2o) Right 
+ (Respect to Fin) 
+ Elevator Trim Tab 
+ 18o (+3o -2o) Up 
+ 13o 
+ (+ or - 2o) Down 
+ G-164B-15T, -34T, -20T 
+ Ailerons 
+ 27o (+3.5o -2o) Up 
+ 13 1/2o 
+ (+ or -2o) Down 
+ Elevator 
+ 25o (+ or -2o) Up 
+ 15o 
+ (+ or -2o) Down 
+ Rudder 
+ 18o (+0 or -1o) Left 
+ 30o 
+ (+ or -2o) Right 
+ (Respect to Fin) 
+ Elevator Trim Tab 
+ 18o (+3o -2o) Up 
+ 13o 
+ (+ or - 2o) Down 
+ G-164D 
+ Ailerons 
+ 27o (+3.5o -2o) Up 
+ 13 1/2o 
+ (+ or -2o) Down 
+ Elevator 
+ 25o (+ or -2o) Up 
+ 15o 
+ (+ or -2o) Down 
+ Rudder 
+ 14o (+0 or -1o) Left 
+ 27o 
+ (+ or -2o) Right 
+ (Respect to Fin) 
+ Elevator Trim Tab 
+ 18o (+3o -2o) Up 
+ 13o 
+ (+ or - 2o) Down"
+Production Basis,Production Basis - Production Certificate No. 101
+Notice,"Aircraft with the letter ""E"" prefix on the serial no., ie. E1B, were manufactured under license in 
+ Ethiopia. These aircraft are not eligible for certification in the United States."
+Notice,"Prior to Revision 15, dated August 21, 1978, there was a single set of NOTES for all models. 
+ From Revision 15 and up each model has a separate set of NOTES."
+Pilots Operating,G-164B - S/N 549B and subsequent.
+Handbook Required,"G-164B-15T, G-164B-34T, and G-164B-20T 
+ G-164C - S/N 43C and subsequent. 
+ G-164D - S/N 1D and subsequent. 
+ NOTES PERTINENT TO MODEL G-164"
+NOTE 1,"Current weight and balance report including lists of equipment included in the certificated empty weight, 
+ and loading instructions when necessary, must be provided for each aircraft at the time of original 
+ certification. 
+ The certificated empty weight and corresponding center of gravity locations must include unusable residual 
+ fluids of: 
+ R985: 
+ System Oil 
+ 14.5 lb. 
+ (+90.0) 
+ Unusable Fuel 
+ 1.8 lb. 
+ (+123.0) 
+ All other engines: 
+ System Oil 
+ 6.5 lb. 
+ (+80.0) 
+ Unusable Fuel 
+ 1.8 lb. 
+ (+123.0)"
+NOTE 2,The following placards must be displayed:
+for G164,"(a) 
+ In front of and in clear view of the pilot: 
+ (1) 
+ ""THIS AIRCRAFT CERTIFICATED UNDER CAR 8 AS A SPECIAL 
+ PURPOSE AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN 
+ COMPLIANCE WITH OPERATING LIMITATIONS STATED IN THE FORM 
+ OF PLACARDS AND MARKINGS. THIS AIRCRAFT APPROVED FOR 
+ DAY VFR FLIGHT ONLY."" 
+ (2) 
+ ""NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, 
+ APPROVED."" 
+ (3) 
+ ""WINTER FRONT MUST BE INSTALLED IF OAT IS BELOW 35oF. AND 
+ REMOVED IF OAT EXCEEDS 60oF."" (Continental W-670 and Gulf Coast 
+ W-670-240 engines only). ""WHEN WINTER FRONT IS INSTALLED 
+ AIRCRAFT MUST BE OPERATED IN ACCORDANCE WITH COLD 
+ WEATHER OPERATING INSTRUCTIONS FURNISHED AS PART OF THE 
+ WINTER FRONT INSTALLATION."" 
+ (4) 
+ When McCauley propeller Models 41D5926 and D1093 are installed the 
+ following placard must be displayed: 
+ ""AVOID CONTINUOUS OPERATION BETWEEN 1500 AND 1650 RPM."" 
+ (5) 
+ When Continental W-670-240 engine is installed the following placard must be 
+ displayed: 
+ ""THIS AIRCRAFT SHALL NOT BE OPERATED OVER CONGESTED 
+ AREAS AND IS NOT ELIGIBLE FOR A WAIVER TO CONDUCT SUCH 
+ OPERATIONS."" 
+ (6) 
+ ""FLIGHT LOAD FACTORS: 
+ MAX. POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G 
+ (7) 
+ With Item 1 or 2 propeller installed: 
+ ""WEIGHT AND C.G. RANGE: 
+ Maximum Weight 
+ (a) 
+ W-670-240 engine, 9.7o blade angle: 3,750 lb. for sprayer or duster 
+ (b) 
+ Jacobs R-755 engine, 3,750 lb. for sprayer or duster 
+ (c) 
+ All other engines: (except R-985) 
+ Configuration Prop Pitch Weight 
+ Sprayer 
+ 9 1/2o 
+ 3700 lb. 
+ Sprayer 
+ 9o, 10o, 10.5o or 11o 
+ 3350 lb. 
+ Duster 
+ 9 1/4o 
+ 2600 lb. 
+ Duster 
+ 9o, 10o, 10.5o or 11o 
+ 3450 lb. 
+ C. G. Range 
+ (+122.0) to (+124.0) at 3750 lb. 
+ (+122.0) to (+125.3) at 2460 lb. 
+ Straight line variation between points. 
+ (8) 
+ With Item 3 propeller (Ref. NOTE 6) installed: 
+ (9) 
+ With Item 4 propeller installed: 
+ ""Maximum Weight and C.G. Range 
+ (+122.0) to (+124.0) at 3750 lb. 
+ (+122.0) to +125.3) at 2460 lb."" 
+ Straight line variation between points. 
+ (10) When Jasco 12 volt alternator is installed the following placard must be displayed: 
+ ""THE ALTERNATOR IN THIS ELECTRICAL SYSTEM ONLY TESTED TO 
+ 45 AMPS MAXIMUM."""
+Note 2 for,(11) When Jasco 24 volt alternator is installed the following placard must be displayed:
+G164,"""THE ALTERNATOR IN THIS ELECTRICAL SYSTEM ONLY TESTED TO 35 AMPS 
+ MAXIMUM."" 
+ (12) ""SULPHUR DUSTING IS PROHIBITED UNLESS SPECIAL FIRE 
+ PREVENTION MEASURES HAVE BEEN INCORPORATED IN THE AIRCRAFT."" 
+ (13) Adjacent to fuel control valve: 
+ (1) 
+ Aircraft S/N 1 through 400 with R-985 series powerplant 
+ ""32.7 gal. usable capacity - 80/87 Minimum Octane"" 
+ (Standard Tank) 
+ ""46.0 gal. usable capacity - 80/87 Minimum Octane"" 
+ (Optional Tank) 
+ (2) 
+ Aircraft S/N 1 through 400 with all other powerplants 
+ ""32.7 gal. usable capacity - 80 Minimum Octane"" 
+ (Standard Tank) 
+ ""46.0 gal. usable capacity - 80 Minimum Octane"" 
+ (Optional Tank) 
+ (a) 
+ On hopper compartment near filler opening: 
+ ""MAXIMUM HOPPER CAPACITY 1200 LB."" (S/N 1 through 300) 
+ ""MAXIMUM HOPPER CAPACITY 2000 LB"" (S/N 301 and Up) 
+ (b) 
+ Adjacent to hopper emergency dump cable: 
+ ""EMERGENCY DUMP CABLE - PULL TO DUMP LOAD"" 
+ (c) 
+ Printed on safe-flight battery shield: 
+ ""DRY BATTERIES POWERING THIS UNIT MUST BE DATED 
+ AND REPLACED EVERY SIX MONTHS"""
+NOTE 3,"When the W-670-240 engine is installed, this airplane shall not be operated over congested areas and is not 
+ eligible for waiver to conduct special purpose operations over densely populated areas, and in congested 
+ airlanes, or in the vicinity of busy airports conducting passenger transport operations."
+NOTE 4,"Approved in Patrolling and/or Surveying configuration without normally exposed portions of the dust and 
+ spray equipment, but with the hopper remaining installed, at the same gross weights, center of gravity range 
+ and powerplant limitations as presently applied to the Agricultural Configuration aircraft."
+NOTE 5,"When the aircraft is operating with approved 7AA Flight Manual dated April 17, 1959, revised July 29, 1960, 
+ March 7, 1961, and September 6, 1961, placards in NOTE 2, Nos. (a)(6) and (a)(7) need not be displayed 
+ and placard Nos. (a)(1) and (a)(4) must be modified as follows: 
+ (a) (1) 
+ ""THIS AIRCRAFT CERTIFICATED UNDER CAR 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN ACCORDANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS, MARKINGS, AND 
+ FAA APPROVED MANUAL."" 
+ (a) (4) 
+ ""WINTER FRONT MUST BE INSTALLED IF OAT IS BELOW 35oF AND REMOVED IF 
+ OAT EXCEEDS 60oF."" 
+ (Continental W-670 series engines only)"
+NOTE 6,"(a) 
+ Jacobs R-755-A2M, R-755-A2M1, R-755-B2M, L-4M or L-4MB engine eligible for installation with 
+ short mount Gulfstream Drawing A1681, carburetor air filter box and funnel Gulfstream Drawing A1667 
+ and Gulfstream (Sensenich) Model J5404/MA96K propeller in accordance with ""LIST OF 
+ GULFSTREAM G-164 DRAWINGS. APPLICABLE TO JACOBS R-755 (SHORT MOUNT) P.P. 
+ KITS"" Revised 12-2-63."
+NOTE 6 for,"(b) 
+ Static r.p.m. at Maximum Permissible Throttle Setting :"
+G164,"(No additional tolerance permitted). Jacobs L-4M or L-4MB Not over 2010, not under 2010. 
+ Jacobs R-755-B2M 
+ Not over 2080, not under 2050 
+ Jacobs R-755-A2M and -A2M1 
+ Not over 2090, not under 1990 
+ (c) 
+ Jacobs L-4MB engines must be modified for dual magneto ignition. 
+ (d) 
+ Left exhaust in accordance with Gulfstream ECO's S164-1455,S164-1456 and S164-1457 all dated 
+ 4-13-64 is eligible as optional equipment. 
+ (e) 
+ Alternate right hand and/or left hand carburetor heat muffs per Gulfstream Drawing A1691 and ECO's 
+ S164-1526 dated 1-18-65."
+NOTE 7,"Optional 46.3 gallon fuel tank eligible for installation per Gulfstream Drawing A1775. 
+ NOTES PERTINENT TO MODEL G-164A"
+NOTE 1,"Current weight and balance report including lists of equipment included in the certificated empty 
+ weight, and loading instructions when necessary, must be provided for each aircraft at the time of 
+ original certification. 
+ The certificated empty weight and corresponding center of gravity locations must include unusable 
+ residual fluids of: 
+ R985 and R-1340 series: 
+ System Oil 
+ 14.5 lb. 
+ (+90.0) 
+ Unusable Fuel 
+ 1.8 lb. 
+ (+123.0) 
+ All other engines: 
+ System Oil 
+ 6.5 lb. 
+ (+80.0) 
+ Unusable Fuel 
+ 1.8 lb. 
+ (+123.0)"
+NOTE 2,"The following placards must be displayed: 
+ (a) 
+ In front of and in clear view of the pilot: 
+ (1) 
+ Aircraft S/N 401 through 1570, 1572 through 1582 and 1584 through 1615: 
+ ""THIS AIRCRAFT CERTIFICATED UNDER CAR 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN COMPLIANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS AND 
+ MARKINGS. THIS AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY."" 
+ (2) 
+ Aircraft S/N 401 through 1570, 1572 through 1582 and 1584 through 1615: 
+ MAXIMUM AIRSPEEDS S/N 401 and up with R-985 powerplant only 
+ and S/N 526 and up with R-985 or R-1340 powerplant only. 
+ NEVER EXCEED 
+ 147 MPH CAS (128 Knots) 
+ ABRUPT MANEUVERS 
+ 117 MPH CAS (102 Knots) 
+ MAXIMUM AIRSPEEDS S/N 401 and up with R-985 powerplant only 
+ and S/N 526 and up with R-985 or R-1340 powerplant only. 
+ NEVER EXCEED 
+ 131 MPH CAS (114 Knots) 
+ ABRUPT MANEUVERS 
+ 104 MPH CAS (90 Knots) 
+ (3) 
+ Aircraft S/N 401 through 1570, 1572 through 1582 and 1584 through 1615: 
+ ""NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, 
+ APPROVED."""
+NOTE 2 for,"(4) 
+ Aircraft S/N 401 through 1570, 1572 through 1582 and 1584 through 1615:"
+G164A,"""FLIGHT LOAD FACTORS: 
+ MAX. POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G"" 
+ (5) 
+ When Jasco 12 volt alternator is installed, the following placard must be displayed: 
+ ""THE ALTERNATOR IN THIS ELECTRICAL SYSTEM ONLY TESTED TO 45 AMPS 
+ MAXIMUM."" 
+ (6) 
+ When Jasco 24 volt alternator is installed, the following placard must be displayed: 
+ ""THE ALTERNATOR IN THIS ELECTRICAL SYSTEM ONLY TESTED TO 35 AMPS 
+ MAXIMUM."" 
+ (7) 
+ Aircraft S/N 526 through 1175: 
+ Adjacent to wobble pump handle when R-1340 series engines are installed. 
+ ""EMERGENCY HAND WOBBLE FUEL PUMP MAINTAIN 3 TO 6 PSI FUEL 
+ PRESSURE."" 
+ (8) 
+ Aircraft S/N 1571, 1583, and 1616 up (R-985 Only): 
+ ""THIS AIRCRAFT CERTIFICATED UNDER PART 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN COMPLIANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS AND 
+ MARKINGS."" 
+ THIS AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY. 
+ FLIGHT LOAD FACTORS: 
+ MAX POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G 
+ MAXIMUM AIRSPEEDS: 
+ NEVER EXCEED 
+ 147 MPH CAS (128 Knots) 
+ ABRUPT MANEUVERS 
+ 117 MPH CAS (102 Knots) 
+ NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, APPROVED. 
+ ALTITUDE LOSS IN STALL RECOVERY 
+ 200 FT. 
+ WITH HAMILTON STANDARD 2D30 PROPELLER HUB AND PACIFIC PROPELLER AG-100-2 
+ BLADES INSTALLED ON R-985 ENGINE. 
+ MAXIMUM WEIGHT AND C.G. RANGE (INCHES FROM DATUM) 
+ (+122.0) TO (+125.4) AT 4500 LBS. 
+ (+122.0) TO (+125.4) AT 2970 LBS. 
+ Straight line variation between points. 
+ SULPHUR DUSTING IS PROHIBITED UNLESS SPECIAL FIRE PREVENTION MEASURES HAVE 
+ BEEN INCORPORATED IN THE AIRCRAFT"" 
+ (P/N A2815-1) 
+ (9) 
+ Aircraft S/N 1571, 1583 and 1616 up (R-1340 only): 
+ ""THIS AIRCRAFT CERTIFICATED UNDER CAR 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN COMPLIANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS AND 
+ MARKINGS. 
+ THIS AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY. 
+ ""FLIGHT LOAD FACTORS: 
+ MAX. POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G"""
+NOTE 2 for,MAXIMUM AIRSPEEDS:
+G164A,"NEVER EXCEED 
+ 147 MPH CAS (128 Knots) 
+ ABRUPT MANEUVERS 
+ 117 MPH CAS (102 Knots) 
+ NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, APPROVED. 
+ WITH HAMILTON STANDARD 12D40 PROPELLER HUB AND PACIFIC 
+ PROPELLER AG-100-2 BLADES INSTALLED ON R-1340 ENGINE. 
+ MAXIMUM WEIGHT AND C.G. RANGE (INCHES FROM DATUM) 
+ (+122.0) TO (+124.0) AT 4500 LBS. 
+ (+120.3) TO (+125.3) AT 3300 LBS. THROUGH 3525 LBS. 
+ Straight line variation between points. 
+ SULPHUR DUSTING IS PROHIBITED UNLESS SPECIAL FIRE PREVENTION MEASURES 
+ HAVE BEEN INCORPORATED IN THE AIRCRAFT"" 
+ (P/N A2815-2) 
+ (b) 
+ Adjacent to fuel control valve: 
+ Aircraft S/N 401 and up with R-985 series powerplant and S/N 526 and up with R-1340 
+ series powerplant. 
+ ""46.0 gal. usable capacity - 
+ 80/87 minimum octane (Standard Tank) 
+ 64.0 gal. usable capacity - 
+ 80/87 minimum octane (Standard Tank plus 
+ two Optional wing tanks)"" 
+ 80.0 gal. usable capacity - 
+ 80/87 minimum octane (Standard Tank plus 
+ two Optional wing tanks)"" 
+ (c) 
+ On hopper compartment near filler opening: 
+ ""MAXIMUM HOPPER CAPACITY 2000 LB."" 
+ (d) 
+ Adjacent to hopper emergency dump cable: 
+ ""EMERGENCY DUMP CABLE - PULL TO DUMP LOAD"" 
+ (e) 
+ Printed on safe-flight battery shield: 
+ ""DRY BATTERIES POWERING THIS UNIT MUST BE DATED AND REPLACED EVERY 
+ SIX MONTHS"" 
+ (f) 
+ On tail ballast used with R-1340 powerplant installation: 
+ ""Ballast - 54 lb. - Do Not Remove"" 
+ (Aircraft S/N 526 through 1683) 
+ ""Ballast - 51 lb. - Do Not Remove"" 
+ (Aircraft S/N 1684 and Up) 
+ (g) 
+ Near entrance door: 
+ ""RESTRICTED AGRICULTURAL AIRCRAFT"" 
+ (h) 
+ On control stick lock A/C S/N 1686, 1695 and up 
+ ""CONTROL LOCK/PARKING BRAKE WITH FLIGHT CONTROLS LOCKED, DEPRESS 
+ PEDALS FOR PARKING BRAKE, PARKING BRAKES OFF WHEN CONTROL LOCK 
+ STOWED"" 
+ (i) 
+ Adjacent to oil heat control A/C S/N 1726 and up: 
+ ""OIL HEAT - SHALL BE OFF FOR TAKEOFF"" 
+ (j) 
+ When JASCO 24 volt alternator is installed the following placard must be displayed: 
+ ""THE ALTERNATOR IN THIS ELECTRICAL SYSTEM ONLY TESTED TO 35 AMPS 
+ MAXIMUM"""
+NOTE 2 for,"(k) 
+ Stenciled on the inside of the baggage compartment door S/N 1571, 1583 and 1616 and up:"
+G164A,"""BAGGAGE COMPARTMENT 25 LBS. - SECURED LIMIT"" 
+ (l) 
+ Located above the windshield: 
+ ""WARNING - 3 POINT READING OF FUEL GAUGE NOT ACCURATE. READ IN LEVEL 
+ FLIGHT ONLY"" 
+ (m) Located above the right hand window: 
+ ""DO NOT OPEN RH WINDOW IN FLIGHT"" 
+ (n) 
+ Located on the battery box cover (When 24V electrical system is installed) S/N 1701 and up: 
+ ""TWIN 12V BATTERIES IN SERIES - OUTPUT 24 VOLTS"" 
+ (o) 
+ Above the strobe light switch (When optional strobe lights are installed): 
+ WARNING: TURN OFF STROBE LIGHTS WHEN TAXIING IN VICINITY OF OTHER 
+ AIRCRAFT OR DURING FIGHT THROUGH CLOUDS, FOG OR HAZE"" 
+ (p) 
+ Located in the step hole on the left side of the fuselage below the cockpit. (When optional 
+ auxiliary power receptacle is installed): 
+ ""24 VOLT STARTER POWER (NEG. GRD)"" 
+ (q) 
+ Located on the right side of the cockpit. (When optional spray system is installed): 
+ ""FAN BRAKE - PULL TO LOCK."" 
+ (r) 
+ Located on the spray/spreader control handle adjustable limit stop rod. (When optional spray 
+ system is installed): 
+ ""SPRAY PUMP INTAKE VALVE - PULL TO CLOSE"" 
+ (s) 
+ Located on the fan brake lever mounting bracket. (When optional spray system is installed): 
+ ""SPRAY PUMP INTAKE VALVE - PULL TO OPEN"""
+NOTE 3,"Optional 18 gal. wing tanks eligible on S/N 401 and up when installed per Gulfstream Wing 
+ Modification Drawing A2003 and fuel Tank Installation Drawing A1730."
+NOTE 4,"All R-985 Series Engine Installations S/N 401 through 458 made per Gulfstream Short Mount 
+ Drawing A1692. S/N 401 through 458 eligible for Long Mount Installation."
+NOTE 5,"Gulfstream Exhaust System G88-42005-75 eligible for all R-1340 installations per Gulfstream 
+ Installation Drawing A1550."
+NOTE 6,"Optional 8.7 gallon oil tank with integral hopper is eligible for installation on Model G-164A using 
+ R-985 or R-1340 engines installed on long engine mounts per Gulfstream Drawing A1360. (Note 
+ eligible for installation with R-985 engine in short engine mount)."
+NOTE 7,"All engines listed for the model G-164 are eligible for installation on Model G-164A. The model G- 
+ 164 limits, placards, weights and other data apply (See G-164 data and NOTES). 
+ NOTES PERTINENT TO MODEL G-164B"
+NOTE 1,"Current weight and balance report including lists of equipment included in the certificated empty 
+ weight, and loading instructions when necessary, must be provided for each aircraft at the time of 
+ original certification. 
+ The certificated empty weight and corresponding center of gravity locations must include unusable 
+ residual fluids and fixed ballast: 
+ R-975, R985 and R-1340 series: 
+ System Oil 
+ 14.5 lb. 
+ (+90.0) 
+ Unusable Fuel 
+ 1.8 lb. 
+ (+123.0)"
+NOTE 1 for,"PT6A-15AG, PT6A-34AG, and PT6A-20B"
+G164B,"Unusuable Fuel 
+ 10.0 lb (+116.8) 
+ Fixed Ballast: 
+ PT6A-15AG, -34AG, & -20B 
+ xxx lb (+92.8) 
+ PT6A-15AG & -34AG 
+ xxx lb (+46.5) 
+ PT6A-20B 
+ xxx lb (+45.8) 
+ (use actual weight stamped on wts)"
+NOTE 2,"The following placards must be displayed: 
+ (a) 
+ In front of and in clear view of the pilot: 
+ (1) 
+ R-985 Engine through S/N 548B 
+ ""THIS AIRCRAFT CERTIFICATED UNDER PART 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN COMPLIANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS AND 
+ MARKINGS. 
+ THIS AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY."" 
+ FLIGHT LOAD FACTORS: 
+ MAX. POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G"" 
+ MAXIMUM AIRSPEEDS: 
+ NEVER EXCEED 
+ 147 MPH CAS (128 Knots) 
+ ABRUPT MANEUVERS 
+ 117 MPH CAS (102 Knots) 
+ NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, APPROVED. 
+ ALTITUDE LOSS IN STALL RECOVERY 
+ 200 FT. 
+ WITH HAMILTON STANDARD 2D30 PROPELLER HUB AND 
+ AG-100-2 BLADES INSTALLED ON R-985 ENGINE. 
+ MAXIMUM WEIGHT AND C.G. RANGE (INCHES FROM DATUM) 
+ (+122.0) TO (+125.0) AT 4500 lb. 
+ (+122.0) TO (+125.0) AT 3130 lb. 
+ Straight line variation between points. 
+ SULPHUR DUSTING IS PROHIBITED UNLESS SPECIAL FIRE PREVENTION MEASURES HAVE 
+ BEEN INCORPORATED IN THE AIRCRAFT"" 
+ (P/N A3615-1) 
+ (2) 
+ R-975-46/PA2 Engine through S/N 548B 
+ ""THIS AIRCRAFT CERTIFICATED UNDER PART 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN COMPLIANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS AND 
+ MARKINGS."" 
+ THIS AIRCRAFT SHALL NOT BE OPERATED OVER CONGESTED AREAS AND IS 
+ NOT ELIGIBLE FOR A WAIVER TO CONDUCT SUCH OPERATIONS. THIS 
+ AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY. 
+ FLIGHT LOAD FACTORS: 
+ MAX POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G 
+ MAXIMUM AIRSPEEDS: 
+ NEVER EXCEED 
+ 147 MPH CAS (128 Knots) 
+ ABRUPT MANEUVERS 
+ 117 MPH CAS (102 Knots) 
+ NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, APPROVED."
+NOTE 2 for,"ALTITUDE LOSS IN STALL RECOVERY 
+ 200 FT."
+G164B,"WITH HAMILTON STANDARD 2D30 PROPELLER HUB AND PACIFIC PROPELLER 
+ AG-100-2 BLADES INSTALLED ON R-975 ENGINE, AVOID CONTINUOUS OPERATION 
+ BETWEEN 1300 AND 1450 RPM. 
+ MAXIMUM WEIGHT AND C.G. RANGE (INCHES FROM DATUM) 
+ (+122.0) TO (+124.8) AT 4500 LBS. 
+ (+122.0) TO (+124.8) AT 3170 LBS. 
+ Straight line variation between points. 
+ SULPHUR DUSTING IS PROHIBITED UNLESS SPECIAL FIRE PREVENTION MEASURES HAVE 
+ BEEN INCORPORATED IN THE AIRCRAFT"" 
+ (P/N A3616-1) 
+ (3) 
+ R-1340 Engine through S/N 548B 
+ ""THIS AIRCRAFT CERTIFICATED UNDER CAR 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN COMPLIANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS AND MARKINGS. 
+ THIS AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY. 
+ ""FLIGHT LOAD FACTORS: 
+ MAX. POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G"" 
+ MAXIMUM AIRSPEEDS: 
+ NEVER EXCEED 
+ 147 MPH CAS (128 Knots) 
+ ABRUPT MANEUVERS 
+ 117 MPH CAS (102 Knots) 
+ NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, APPROVED. 
+ ALTITUDE LOSS IN STALL RECOVERY 
+ 200 FT. 
+ WITH HAMILTON STANDARD 12D40 PROPELLER HUB AND PACIFIC 
+ PROPELLER AG-100-2 BLADES INSTALLED ON R-1340 ENGINE. 
+ MAXIMUM WEIGHT AND C.G. RANGE (INCHES FROM DATUM) 
+ (+122.0) TO (+124.0) AT 4500 LBS. 
+ (+122.0) TO (+124.0) AT 3300 LBS. 
+ Straight line variation between points. 
+ SULPHUR DUSTING IS PROHIBITED UNLESS SPECIAL FIRE PREVENTION MEASURES 
+ HAVE BEEN INCORPORATED IN THE AIRCRAFT"" 
+ (P/N A3818-1) 
+ (4) 
+ R-985 Engine S/N 549B and Up 
+ ""THIS AIRCRAFT CERTIFICATED UNDER CAR 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN COMPLIANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS, MARKINGS 
+ AND PILOT'S OPERATING HANDBOOK. 
+ THIS AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY. 
+ ""FLIGHT LOAD FACTORS: 
+ MAX. POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G 
+ MAXIMUM AIRSPEEDS: 
+ NEVER EXCEED 
+ 145 MPH CAS (126 Knots) 
+ ABRUPT MANEUVERS 
+ 116 MPH CAS (101 Knots)"
+NOTE 2 for,"NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, APPROVED."
+G164B,"WITH HAMILTON STANDARD 2D30 PROPELLER HUB AND 6101A-12 BLADES OR 
+ PACIFIC PROPELLER AG-100-2/OR -45 BLADES INSTALLED ON R-985 ENGINE. 
+ MAXIMUM WEIGHT AND C.G. RANGE (INCHES FROM DATUM) 
+ (+122.0) TO (+125.0) AT 4500 LBS. 
+ (+122.0) TO (+125.0) AT 3170 LBS. 
+ Straight line variation between points. 
+ SULPHUR DUSTING IS PROHIBITED UNLESS SPECIAL FIRE PREVENTION 
+ MEASURES HAVE BEEN INCORPORATED IN THE AIRCRAFT"" 
+ (P/N A3615-3) 
+ (5) 
+ R-975 Engine S/N 549B and Up 
+ ""THIS AIRCRAFT CERTIFICATED UNDER CAR 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN COMPLIANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS, MARKINGS 
+ AND PILOT'S OPERATING HANDBOOK. 
+ THIS AIRCRAFT SHALL NOT BE OPERATED OVER CONGESTED AREAS. 
+ THIS AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY. 
+ FLIGHT LOAD FACTORS: 
+ MAX. POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G"" 
+ MAXIMUM AIRSPEEDS: 
+ NEVER EXCEED 
+ 145 MPH CAS (126 Knots) 
+ ABRUPT MANEUVERS 
+ 116 MPH CAS (101 Knots) 
+ NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, APPROVED. 
+ ALTITUDE LOSS IN STALL RECOVERY 
+ 200 FT. 
+ WITH HAMILTON STANDARD 2D30 PROPELLER HUB AND AG-100-4S BLADES 
+ INSTALLED ON R-975 ENGINE. AVOID CONTINUOUS OPERATION BETWEEN 1300 
+ AND 1450 RPM. 
+ MAXIMUM WEIGHT AND C.G. RANGE (INCHES FROM DATUM) 
+ (+122.0) TO (+124.8) AT 4500 LBS. 
+ (+122.0) TO (+124.8) AT 3170 LBS. 
+ Straight line variation between points. 
+ SULPHUR DUSTING IS PROHIBITED UNLESS SPECIAL FIRE PREVENTION MEASURES 
+ HAVE BEEN INCORPORATED IN THE AIRCRAFT"" 
+ (P/N A3615-3) 
+ (6) 
+ R-1340 Engine S/N 549B through 694B 
+ ""THIS AIRCRAFT CERTIFICATED UNDER CAR 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN COMPLIANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS, MARKINGS 
+ AND PILOT'S OPERATING HANDBOOK. 
+ THIS AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY. 
+ ""FLIGHT LOAD FACTORS: 
+ MAX. POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G"""
+NOTE 2 for,MAXIMUM AIRSPEEDS:
+G164B,"NEVER EXCEED 
+ 145 MPH CAS (126 Knots) 
+ ABRUPT MANEUVERS 
+ 116 MPH CAS (101 Knots) 
+ NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, APPROVED. 
+ ALTITUDE LOSS IN STALL RECOVERY 
+ 200 FT. 
+ WITH HAMILTON STANDARD 2D30 PROPELLER HUB AND 610A-12 BLADES OR 
+ PACIFIC PROPELLER AG-100-2/ OR4S BLADES OR HAMILTON STANDARD 22D40 
+ PROPELLER HUB AND PACIFIC PROPELLER AG-200-4S BLADES INSTALLED ON 
+ R-1340 ENGINE. 
+ MAXIMUM WEIGHT AND C.G. RANGE (INCHES FROM DATUM) 
+ (+122.0) TO (+125.4) AT 4500 LBS. 
+ (+122.0) TO (+125.4) AT 3625 LBS. 
+ Straight line variation between points. 
+ SULPHUR DUSTING IS PROHIBITED UNLESS SPECIAL FIRE PREVENTION MEASURES 
+ HAVE BEEN INCORPORATED IN THE AIRCRAFT"" 
+ (P/N A3618-3) 
+ (7) 
+ R-1340 Engine S/N 695 through 708B 
+ ""THIS AIRCRAFT CERTIFICATED UNDER CAR 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN COMPLIANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS, MARKINGS 
+ AND PILOT'S OPERATING HANDBOOK. 
+ THIS AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY. 
+ FLIGHT LOAD FACTORS: 
+ MAX. POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G"" 
+ MAXIMUM AIRSPEEDS: 
+ NEVER EXCEED 
+ 145 MPH CAS (126 Knots) 
+ ABRUPT MANEUVERS 
+ 116 MPH CAS (101 Knots) 
+ NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, APPROVED. 
+ ALTITUDE LOSS IN STALL RECOVERY 
+ 200 FT. 
+ WITH HAMILTON STANDARD 2D30 PROPELLER HUB AND 610A-12 BLADES OR 
+ PACIFIC PROPELLER AG-100-2/ OR4S BLADES OR HAMILTON STANDARD 22D40 
+ PROPELLER HUB AND PACIFIC PROPELLER AG-200-4S BLADES INSTALLED ON 
+ R-1340 ENGINE. 
+ MAXIMUM WEIGHT AND C.G. RANGE (INCHES FROM DATUM) 
+ (+122.0) TO (+124.0) AT 4500 LBS. 
+ (+122.0) TO (+124.0) AT 3300 LBS. 
+ Straight line variation between points. 
+ SULPHUR DUSTING IS PROHIBITED UNLESS SPECIAL FIRE PREVENTION MEASURES 
+ HAVE BEEN INCORPORATED IN THE AIRCRAFT"" 
+ (P/N A3618-5) 
+ (8) 
+ R-1340 Engine S/N 709B and Up 
+ ""THIS AIRCRAFT CERTIFICATED UNDER PART 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN COMPLIANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS, MARKINGS 
+ AND PILOT'S OPERATING HANDBOOK."
+NOTE 2 for,R-1340 Engine S/N 709B and Up (cont’d)
+G164B,"THIS AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY. 
+ FLIGHT LOAD FACTORS: 
+ MAX. POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G 
+ MAXIMUM AIRSPEEDS: 
+ NEVER EXCEED 145 MPH CAS (126 Knots) 
+ ABRUPT MANEUVERS 
+ 116 MPH CAS (101 Knots) 
+ NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, APPROVED. 
+ ALTITUDE LOSS IN STALL RECOVERY 200 FT. 
+ WITH HAMILTON STANDARD 2D30 PROPELLER HUB AND 610A-12 BLADES OR 
+ PACIFIC PROPELLER AG-100-2/ OR4S BLADES OR HAMILTON STANDARD 22D40 
+ PROPELLER HUB AND PACIFIC PROPELLER AG-200-4S BLADES INSTALLED ON 
+ R-1340 ENGINE. 
+ MAXIMUM WEIGHT AND C.G. RANGE (INCHES FROM DATUM) 
+ (+122.0) TO (+125.5) AT 5200 LBS. 
+ (+122.0) TO (+125.5) AT 3625 LBS. 
+ Straight line variation between points. 
+ SULPHUR DUSTING IS PROHIBITED UNLESS SPECIAL FIRE PREVENTION 
+ MEASURES HAVE BEEN INCORPORATED IN THE AIRCRAFT"" 
+ (P/N A3618-9) 
+ (9) 
+ R-985 Engine S/N 752B and Up 
+ THIS AIRCRAFT CERTIFICATED UNDER PART 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN COMPLIANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS, MARKINGS 
+ AND PILOT'S OPERATING HANDBOOK. 
+ THIS AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY. 
+ FLIGHT LOAD FACTORS: 
+ MAX. POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G 
+ MAXIMUM AIRSPEEDS: 
+ NEVER EXCEED 
+ 145 MPH CAS (126 Knots) 
+ ABRUPT MANEUVERS 
+ 116 MPH CAS (101 Knots) 
+ NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, APPROVED. 
+ ALTITUDE LOSS IN STALL RECOVERY 
+ 200 FT. 
+ WITH HAMILTON STANDARD 2D30 PROPELLER HUB AND 610A-12 BLADES OR 
+ PACIFIC PROPELLER AG-100-2/ OR 4S BLADES INSTALLED ON R-985 ENGINE. 
+ MAXIMUM WEIGHT AND C.G. RANGE (INCHES FROM DATUM) 
+ (+122.0) TO (+126.0) AT 5200 LBS. 
+ (+122.0) TO (+126.0) AT 3100 LBS. 
+ Straight line variation between points. 
+ SULPHUR DUSTING IS PROHIBITED UNLESS SPECIAL FIRE PREVENTION MEASURES 
+ HAVE BEEN INCORPORATED IN THE AIRCRAFT"" 
+ (P/N A3615-5)"
+NOTE 2 for,"(10) PT6A-15AG & PT6A-34AG, and PT6A-20B Engine"
+G164B,"THIS AIRCRAFT CERTIFICATED UNDER PART 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN COMPLIANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS AND 
+ MARKINGS. 
+ THIS AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY. 
+ FLIGHT LOAD FACTORS: 
+ MAX. POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G 
+ MAXIMUM AIRSPEEDS: 
+ NEVER EXCEED 
+ 157 MPH IAS 
+ ABRUPT MANEUVERS 
+ 125 MPH IAS 
+ MAXIMUM WEIGHT AND C.G. RANGE (INCHES FROM DATUM) 
+ (+122.0) TO (+125.7) AT 3500 LBS 
+ (+122.0) TO (+125.5) AT 5200 LBS. 
+ ALTITUDE LOSS IN STALL RECOVERY 
+ 200 FT. 
+ MAXIMUM OPERATING ALTITUDE 
+ 13,000 FT. 
+ NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, APPROVED. 
+ OPERATION IN VISIBLE MOISTURE CONDITIONS BELOW IAT OF 7oC OR IN 
+ PROXIMITY OF THUNDERSTORMS PROHIBITED. 
+ SULPHUR DUSTING IS PROHIBITED UNLESS SPECIAL FIRE PREVENTION MEASURES 
+ HAVE BEEN INCORPORATED IN THE AIRCRAFT"" 
+ (P/N A7618-3) 
+ (b) 
+ When Jasco 12 volt alternator is installed, the following placard must be displayed: 
+ ""THE ALTERNATOR IN THIS ELECTRICAL SYSTEM ONLY TESTED TO 45 AMPS 
+ MAXIMUM"" 
+ (c) 
+ When Jasco 24 volt alternator is installed, the following placard must be displayed: 
+ ""THE ALTERNATOR IN THIS ELECTRICAL SYSTEM ONLY TEST TO 35 AMPS 
+ MAXIMUM"" 
+ (d) 
+ Adjacent to fuel control valve: 
+ (1) 
+ R-985 and R-1340 
+ ""46.0 gal. usable capacity - 
+ 80/87 minimum octane (Standard Tank) 
+ 64.0 gal. usable capacity - 
+ 80/87 minimum octane (Standard Tank plus 
+ one Optional wing tank) 
+ 80.0 gal. usable capacity - 
+ 80/87 minimum octane (Standard Tank plus 
+ two Optional wing tanks)"" 
+ 120.0 Gal usable fuel capacity 
+ 80/87 octane 
+ (S/N 828B and up eligible 
+ (2) 
+ R-975-46/PA2 
+ ""46.0 gal. usable capacity - 
+ 100 minimum octane (Standard Tank) 
+ 64.0 gal. usable capacity - 
+ 100 minimum octane (Standard Tank plus one Optional wing tank) 
+ 80.0 gal. usable capacity - 
+ 100 minimum octane (Standard Tank plus two Optional wing 
+ tanks)"" 
+ (3) 
+ PT6A-15AG and -34AG, and PT6A-20B 
+ 80 gal. usable capacity - Jet A/Jet A-1/Jet B or Diesel grades DF1 or DF2. 
+ 120.0 Gal. usable fuel capacity - Jet A/JetA1/Jet B or Diesel Grades DF1 or DF2. (s/n 828B 
+ and up eligible)"
+G164B,"(e) 
+ On hopper compartment near filler opening: 
+ ""MAXIMUM HOPPER CAPACITY 2000 LB."" 
+ (f) 
+ Adjacent to hopper emergency dump cable: (through S/N 659B) 
+ (S/N 752B and up with R-985 Eng.) 
+ ""EMERGENCY DUMP CABLE - PULL TO DUMP LOAD"" 
+ (g) 
+ Printed on safe-flight battery shield: 
+ ""DRY BATTERIES POWERING THIS UNIT MUST BE DATED AND REPLACED EVERY 
+ SIX MONTHS"" 
+ (h) 
+ On side of fuselage: 
+ ""RESTRICTED AGRICULTURAL AIRCRAFT"" 
+ (i) 
+ On control lock stick A/C S/N 138B, 142B, 177B through S/N 510B: 
+ ""CONTROL LOCK/PARKING BRAKE WITH FLIGHT CONTROLS LOCKED DEPRESS 
+ PEDALS FOR PARKING BRAKE. PARKING BRAKE OFF WHEN CONTROL LOCK 
+ STOWED"" 
+ (j) 
+ Adjacent to parking brake control S/N 511B and up.: 
+ ""PARKING BRAKE: 
+ TO BE OFF PRIOR TO LANDING 
+ TO LOCK: 
+ PRESS PEDAL, PULL AND HOLD CONTROL 
+ TO UNLOCK: 
+ PRESS PEDAL, OR RELEASE CONTROL"" 
+ (k) 
+ Adjacent to oil heat control A/C S/N 335B through S/N 659B 
+ ""OIL HEAT - SHALL BE OFF FOR TAKEOFF"" 
+ (l) 
+ Stenciled on the inside of the baggage compartment door: 
+ ""BAGGAGE COMPARTMENT 25 LBS. - SECURED LIMIT"" 
+ (m) Located above the right hand window: 
+ ""DO NOT OPEN RH WINDOW IN FLIGHT"" 
+ (n) 
+ Located on the battery box cover. (When optional 24V electrical system is installed): 
+ ""TWIN 12V BATTERIES IN SERIES - OUTPUT 24 VOLTS"" 
+ (o) 
+ Above the strobe light switch (When optional strobe lights are installed): 
+ ""WARNING - TURN OFF STROBE LIGHTS WHEN TAXIING IN VICINITY OF 
+ OTHER AIRCRAFT OR DURING FLIGHT THROUGH CLOUDS, FOG OR HAZE"" 
+ (p) 
+ Located above the windshield: 
+ ""WARNING - 3 POINT READING OF FUEL GAUGE NOT ACCURATE. READ IN 
+ LEVEL FLIGHT ONLY"" 
+ (q) 
+ Located in the step hole on the left side of the fuselage below the cockpit. (When optional 
+ auxiliary power receptacle is installed): 
+ ""24 VOLT STARTER POWER (NEG. GRD.)"" 
+ (r) 
+ Located on the right side of the cockpit (When optional spray system is installed): 
+ ""FAN BRAKE - PULL TO LOCK"" 
+ (s) 
+ Located on the spray/spreader control handle adjustable limit stop rod. (When optional spray 
+ system is installed): 
+ ""SPRAY PUMP INTAKE VALVE - PULL TO CLOSE"" 
+ (t) 
+ Located on the fan brake lever mounting bracket. (When optional spray system is installed): 
+ ""SPRAY PUMP INTAKE VALVE - PULL TO OPEN"" 
+ (u) 
+ Located on magneto switch bracket when locking tail wheel is installed): 
+ ""TAIL WHEEL MUST BE LOCKED FOR TAKEOFF AND LANDING"""
+NOTE 2 for,"(v) 
+ Located on dust gate control stick (S/N 660B and up): (R-1340 ENG.)"
+G164B,"""EMERGENCY DUMP-PUSH TO DUMP LOAD"" 
+ (w) On optional fixed tail ballast used with 73"" wing gap: 
+ ""BALLAST ___________LBS. -DO NOT REMOVE"" 
+ (Aircraft S/N 709B and Up) 
+ (x) 
+ Located on left side panel adjacent to fuel valve control. 
+ (PT6A-15AG, PT6A-34AG, and PT6A-20B) 
+ CAUTION 
+ AUTOMOTIVE DIESEL FUEL APPROVED FOR AGRICULTURAL OPERATIONS 
+ WITH THE FOLLOWING RESTRICTIONS: 
+ AUTOMOTIVE DIESEL FUEL 
+ PERMITTED WHEN FREE AIR TEMPERATURE IS ABOVE: 
+ +5oC FOR GRADE DF-2 
+ -4oC FOR GRADE DF-1 
+ (y) 
+ Located on upper left hand side of instrument panel 
+ (PT6A-15AG, PT6A -34AG, and PT6A-20B Engine) 
+ WARNING 
+ DO NOT USE REVERSE POWER IN FLIGHT, USE REVERSE POWER ONLY ON 
+ LANDING ROLL OR TAXI WHEN TAIL WHEEL IS HELD FIRMLY ON THE 
+ GROUND. 
+ (z) 
+ Located on instrument panel adjacent to IAT Gauge 
+ (PT6A-15AG, PT6A-34AG, and PT6A-20B Engine) 
+ WARNING 
+ PX-PY HEAT SHALL BE TURNED ON FOR FLIGHT AND GROUND OPERATIONS 
+ WHEN IAT IS BELOW 6oC. 
+ (aa) Stenciled to the right of the fuel fill cap on the top of the center section fuel tank and near 
+ the fuel control valve: 
+ (PT6A-15AG, PT6A-34AG, and PT6A-20B Engine). 
+ 80 GAL. USABLE CAP. JETA/JET A-1/JET B OR DIESEL GRADES DF1 OR DF2. 
+ With optional 120 gal. fuel capacity: 
+ ""120 GAL USABLE CAPACITY JET A/JET A1/JET B OR DIESEL GRADES DF-1 OR 
+ DF-2"" 
+ (ab) On fixed ballast at STA 46.5 used with PT6A-15AG & -34AG engine and at Sta. 45.8 with 
+ PT6A-20B Engine 
+ (BALLAST WEIGHT ""DO NOT REMOVE"" 
+ ""WEIGHT___________LBS."" 
+ (ac) On fixed ballast at Sta 92.8 with PT6A-15AG, -34AG and -20B engine, ""BALLAST 
+ WEIGHT - DO NOT REMOVE. WEIGHT LBS."" 
+ (ad) Stenciled to the right of the fuel fill cap on top of centersection fuel tank and near fuel 
+ control valve: (with optional 120 gal. fuel capacity, R-985 & R-1340, S/N 828B & up) 
+ ""120 GAL. USABLE CAP. 80/87 OCTANE"" 
+ (ae) Stenciled to the right of the fuel fill cap on top of centersection fuel tank and near fuel 
+ control valve: 
+ ""46.0 gal usable capacity - 80/87 octane (standard tank) 
+ 64.0 gal usable capacity - 80/87 octane (standard tank plus one optional wing tank) 
+ 80.0 gal usable capacity - 80/87 octane (standard tank plus two optional wing tanks)"""
+NOTE 3,"Optional 18 gal. wing tanks eligible on S/N 1B through 659B when installed per Gulfstream Wing 
+ Modification Drawing A2003 and Fuel Tank Installation Drawing A1730."
+NOTE 4,"Gulfstream Exhaust System C88-42005-75 eligible for all R-1340 installations per Gulfstream 
+ Installation Drawing A1550."
+NOTE 5,"73"" Wing Gap eligible on S/N 1B through 708B with R1340 installations when reworked in 
+ accordance with Schweizer Retrofit Kits, Drawing Nos. A7175-1 or -3 (Wing) and 7175-5 (Vertical 
+ Tail)"
+NOTE 6,"Optional 120 gal. fuel system eligible on R-985, R-1340, PT6A-15AG, PT6A-34AG, and PT6A- 
+ 20B, S/N 828B & up. 
+ NOTES PERTINENT TO MODEL G-164C"
+NOTE 1,"Current weight and balance report including lists of equipment included in the certificated empty 
+ weight, and loading instructions when necessary, must be provided for each aircraft at the time of 
+ original certification. 
+ The certificated empty weight and corresponding center of gravity locations must include unusable 
+ residual fluids of: 
+ System Oil 
+ 14.5 lb. 
+ (+72.0) 
+ Unusable Fuel 1.8 lb. 
+ (+123.0)"
+NOTE 2,"The following placards must be displayed: 
+ (a) 
+ In front of and in clear view of the pilot: 
+ (1) 
+ Through S/N 42C 
+ ""THIS AIRCRAFT CERTIFICATED UNDER PART 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN COMPLIANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS AND 
+ MARKINGS."" 
+ THIS AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY. 
+ FLIGHT LOAD FACTORS: 
+ MAX. POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G 
+ MAXIMUM AIRSPEEDS: 
+ NEVER EXCEED 
+ 147 MPH CAS (128 KNOTS) 
+ ABRUPT MANEUVERS 
+ 117 MPH CAS (102 KNOTS) 
+ NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, APPROVED. 
+ ALTITUDE LOSS IN STALL RECOVERY 
+ 200 FT. 
+ WITH HAMILTON STANDARD 12D40 PROPELLER HUB AND AG-100-2 BLADES 
+ INSTALLED ON R-1340 ENGINE. 
+ MAXIMUM WEIGHT AND C.G. RANGE (INCHES FROM DATUM) 
+ (+121.0) TO (+123.5) AT 6300 LBS. 
+ (+121.0) TO (+125.2) AT 4400 LBS. 
+ Straight line variation between points. 
+ SULPHER DUSTING IS PROHIBITED UNLESS SPECIAL FIRE PREVENTION 
+ MEASURES HAVE BEEN INCORPORATED IN THE AIRCRAFT"" 
+ (P/N A5618-1)"
+NOTE 2 for,"(2) 
+ S/N 43C AND UP"
+G164C,"""THIS AIRCRAFT CERTIFICATED UNDER PART 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN COMPLIANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS, MARKINGS, 
+ AND PILOT'S OPERATING HANDBOOK. 
+ THIS AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY. 
+ FLIGHT LOAD FACTORS 
+ MAX. POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G 
+ MAXIMUM AIRSPEEDS: 
+ NEVER EXCEED 
+ 139 MPH IAS (121 KNOTS) 
+ ABRUPT MANEUVERS 
+ 112 MPH IAS (97 KNOTS) 
+ NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, APPROVED. 
+ ALTITUDE LOSS IN STALL RECOVERY 
+ 200 FT. 
+ WITH HAMILTON STANDARD 12D40 HUB AND 6101A-12 BLADES OR PACIFIC 
+ PROPELLER AG-100-2/4S BLADES INSTALLED ON R-1340 ENGINE. 
+ MAXIMUM WEIGHT AND C.G. RANGE (INCHES FROM DATUM) 
+ (+121.0) TO (+123.5) AT 6300 LBS. 
+ (+121.0) TO (+125.2) AT 4400 LBS. 
+ Straight line variation between points. 
+ SULPHUR DUSTING IS PROHIBITED UNLESS SPECIAL FIRE PREVENTION 
+ MEASURES HAVE BEEN INCORPORATED IN THE AIRCRAFT"" 
+ (P/N A5618-3) 
+ (b) 
+ When Jasco 24 volt alternator is installed, the following placard must be displayed: 
+ ""THE ALTERNATOR IN THIS ELECTRICAL SYSTEM ONLY TESTED TO 35 AMPS 
+ MAXIMUM"" 
+ (c) 
+ Adjacent to fuel control valve: 
+ 80.0 GAL. USABLE CAPACITY - 80/87 MINIMUM OCTANE 
+ (d) 
+ On hopper compartment near filler opening: 
+ ""MAXIMUM HOPPER CAPACITY 4000 LB."" 
+ (e) 
+ Adjacent to hopper emergency dump cable: 
+ ""EMERGENCY DUMP CABLE - PULL TO DUMP LOAD"" 
+ (f) 
+ Printed on safe-flight battery shield: 
+ ""DRY BATTERIES POWERING THIS UNIT MUST BE DATED AND REPLACED EVERY 
+ SIX MONTHS"" 
+ (g) 
+ Near entrance door: 
+ ""RESTRICTED AGRICULTURAL AIRCRAFT"" 
+ (h) 
+ Adjacent to parking brake control (A/C 1C through 37C) 
+ ""PARKING BRAKE TO BE OFF PRIOR TO LANDING 
+ TO LOCK: 
+ PRESS PEDAL, PULL AND HOLD CONTROL 
+ TO UNLOCK: 
+ PRESS PEDAL, OR RELEASE CONTROL"" 
+ (I) 
+ Adjacent to oil heat control A/C 1C through 37C) 
+ ""OIL HEAT - SHALL BE OFF FOR TAKEOFF"""
+NOTE 2 for,"(j) 
+ Stenciled on the inside of the baggage compartment door:"
+G164C,"""BAGGAGE COMPARTMENT 25 LBS. - SECURED LIMIT"" 
+ (k) 
+ Located above the windshield: 
+ ""WARNING - 3 POINT READING OF FUEL GAUGE NOT ACCURATE. READ IN 
+ LEVEL FLIGHT ONLY"" 
+ (l) 
+ Located on the top of the hopper aft fairing: 
+ ""HYDRAULIC BRAKE RESERVOIR FILL TO MARK ON STICK"" 
+ (m) Located above the right hand window: 
+ ""DO NOT OPEN RH WINDOW IN FLIGHT"" 
+ (n) 
+ Located on the battery box cover. (When optional 24V electrical system is installed): 
+ ""TWIN 12V BATTERIES IN SERIES - OUTPUT 24 VOLTS"" 
+ (o) 
+ Above the strobe light switch (When optional strobe lights are installed): 
+ ""WARNING - TURN OFF STROBE LIGHTS WHEN TAXIING IN VICINITY OF 
+ OTHER AIRCRAFT OR DURING FLIGHT THROUGH CLOUDS, FOG OR HAZE"" 
+ (p) 
+ Located in the step hole on the left side of the fuselage below the cockpit. (When optional 
+ auxiliary power receptacle is installed): 
+ ""24 VOLT STARTER POWER (NEG. GRD.)"" 
+ (q) 
+ Located on the right side of the cockpit (When optional spray system is installed): 
+ ""FAN BRAKE - PULL TO LOCK"" 
+ (r) 
+ Located on the spray/spreader control handle adjustable limit stop rod. (When optional spray 
+ system is installed): 
+ ""SPRAY PUMP INTAKE VALVE - PULL TO CLOSE"" 
+ (s) 
+ Located on the fan brake lever mounting bracket. (When optional spray system is installed): 
+ ""SPRAY PUMP INTAKE VALVE - PULL TO OPEN"""
+NOTE 3,"Gulfstream Exhaust System G88-42005-75 eligible for all R-1340 installations per Gulfstream 
+ Installation Drawing A5510. 
+ NOTES PERTINENT TO MODEL G-164D AND G-164D (WITH 73"" GAP)"
+NOTE 1,"Current weight and balance report including lists of equipment included in the certificated empty 
+ weight, and loading instructions when necessary, must be provided for each aircraft at the time of 
+ original certification. 
+ The certificated empty weight and corresponding center of gravity locations must include unusable 
+ residual fluids of: 
+ Unusable Fuel 
+ 2.0 lb. 
+ (+123.0)"
+NOTE 2,"The following placards must be displayed: 
+ (a) 
+ In front of and in clear view of the pilot: 
+ ""THIS AIRCRAFT CERTIFICATED UNDER PART 8 AS A SPECIAL PURPOSE 
+ AGRICULTURAL AIRCRAFT AND MUST BE OPERATED IN COMPLIANCE WITH 
+ OPERATING LIMITATIONS STATED IN THE FORM OF PLACARDS, MARKINGS, AND 
+ PILOTS OPERATING HANDBOOK."" 
+ THIS AIRCRAFT APPROVED FOR DAY VFR FLIGHT ONLY. 
+ FLIGHT LOAD FACTORS: 
+ MAX. POSITIVE LOAD FACTOR 
+ +4.2G 
+ MAX. NEGATIVE LOAD FACTOR 
+ -1.0G"
+for G164D,"MAXIMUM AIRSPEEDS: 
+ NEVER EXCEED 
+ 164 MPH IAS 
+ ABRUPT MANEUVERS 
+ 131 MPH IAS 
+ G-164D 
+ MAXIMUM WEIGHT AND C.G. RANGE (INCHES FROM DATUM) 
+ (+121.0) TO (+123.5) AT 6300 LBS. 
+ (+121.0) TO (+125.2) AT 4000 LBS. 
+ Straight line variation between points. 
+ G-164D (With 73"" GAP) 
+ MAXIMUM WEIGHT AND C.G. RANGE (INCHES FROM DATUM) 
+ (+120.8) TO (+122.8) AT 6300 LBS. 
+ (+120.6) TO (+123.6) AT 4000 LBS. 
+ Straight line variation between points. 
+ ALTITUDE LOSS IN STALL RECOVERY 
+ 200 FT. 
+ MAXIMUM OPERATING ALTITUDE 
+ 13,000 FT 
+ NO ACROBATIC OR INVERTED MANEUVERS, INCLUDING SPINS, APPROVED. 
+ OPERATION IN VISIBLE MOISTURE CONDITIONS BELOW IAT OF 7oC OR IN 
+ PROXIMITY OF THUNDERSTORMS PROHIBITED. 
+ SULPHER DUSTING IS PROHIBITED UNLESS SPECIAL FIRE PREVENTION 
+ MEASURES HAVE BEEN INCORPORATED IN THE AIRCRAFT"" 
+ (b) 
+ On lower RH instrument panel: 
+ ""CAUTION - AUTOMOTIVE DIESEL FUEL APPROVED FOR AGRICULTURAL 
+ OPERATION WITH THE FOLLOWING RESTRICTIONS: 
+ Automotive diesel fuel permitted when free air temperature is above 
+ +5oC FOR GRADE DF-2 
+ -4oC FOR GRADE DF-1 
+ (c) 
+ Secured to the upper right hand side of the instrument panel: 
+ ""WARNING - DO NOT REVERSE POWER IN FLIGHT, USE REVERSE POWER ONLY 
+ ON LANDING ROLL OR TAXI WHEN TAILWHEEL IS HELD FIRMLY ON THE 
+ GROUND. 
+ ""WARNING - Px-Py HEAT SHALL BE TURNED ON FOR FLIGHT AND GROUND 
+ OPERATIONS WHEN IAT IS BELOW 6oC"" 
+ (d) 
+ Secured to the lower left hand instrument panel: 
+ ""PARKING BRAKE to BE OFF PRIOR TO LANDING 
+ TO LOCK: 
+ PRESS PEDAL, PULL AND HOLD CONTROL 
+ TO UNLOCK: 
+ PRESS PEDAL, OR RELEASE CONTROL"" 
+ (e) 
+ Stenciled on the left hand side of the hopper: 
+ MAXIMUM HOPPER CAPACITY - 4000 LBS."" 
+ (f) 
+ Stenciled to the right of the fuel fill cap on the top of the center section fuel tank and near the 
+ fuel control valve: 
+ ""80 GAL. USABLE CAP. 
+ JET A/JET A-1/JET B OR 
+ DIESEL GRADES DF1 OR DF2"" 
+ (h) 
+ Stenciled on the inside of the baggage compartment door: 
+ ""BAGGAGE COMPARTMENT 25 LBS. - SECURED LIMIT"""
+NOTE 2 for,"(i) 
+ Adjacent to hopper emergency dump cable:"
+G164D,"""EMERGENCY DUMP CABLE - PULL TO DUMP LOAD"" 
+ (j) 
+ Near entrance door: 
+ ""RESTRICTED AGRICULTURAL AIRCRAFT"" 
+ (k) 
+ Located on the battery box cover. 
+ “TWIN 12V BATTERIES IN SERIES - OUTPUT 24 VOLTS"" 
+ (l) 
+ Above the strobe light switch (When optional strobe lights are installed): 
+ ""WARNING - TURN OFF STROBE LIGHTS WHEN TAXIING IN VICINITY OF 
+ OTHER AIRCRAFT OR DURING FLIGHT THROUGH CLOUDS, FOG OR HAZE"" 
+ (m) Located above the windshield. 
+ ""WARNING - 3 POINT READING OF FUEL GAGE NOT ACCURATE. READ IN 
+ LEVEL FLIGHT ONLY"" 
+ (n) 
+ Located on the top of the hopper aft fairing: 
+ ""HYD. BRAKE RESERVOIR 
+ FILL TO MARK ON STICK"" 
+ (o) 
+ Located above the right hand window: 
+ ""DO NOT OPEN RH WINDOW IN FLIGHT"" 
+ (p) 
+ Located in the step hole on the left side of the fuselage below the cockpit. (When optional 
+ auxiliary power receptacle is installed): 
+ ""24 VOLT STARTER POWER (NEG. GRD.)"" 
+ (q) 
+ Located on the right side of the cockpit (When optional spray system is installed): 
+ ""FAN BRAKE - PULL TO LOCK"" 
+ (r) 
+ Located on the spray/spreader control handle adjustable limit stop rod. (When optional spray 
+ system is installed): 
+ ""SPRAY PUMP INTAKE VALVE - PULL TO CLOSE"" 
+ (s) 
+ Located on the fan brake lever mounting bracket. (When optional spray system is installed): 
+ ""SPRAY PUMP INTAKE VALVE - PULL TO OPEN"" 
+ (t) 
+ G-164D (With 73"" Gap) 
+ ""BALLAST 68 LB. AT FUS. STA. 60.4 
+ DO NOT REMOVE"""
+NOTE 3,"Rudder motion (relative to neutral) - position must be 14o + or -2o left and 27o+ or 
+ -2o right. Neutral position is actually 3o right - Rudder measured from aircraft center line."

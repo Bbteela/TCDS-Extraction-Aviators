@@ -1,0 +1,792 @@
+Keyterm,Info
+"7A15 
+ Revision 15 
+ PILATUS 
+ PC-6, PC-6-H1, PC-6-H2 
+ PC-6/350, PC-6/350-H1, PC-6/350-H2 
+ PC-6/A, PC-6/A-H1, PC-6/A-H2 
+ PC-6/B-H2, PC-6/B1-H2, PC-6/B2-H2 
+ PC-6/B2-H4, PC-6/C-H2, PC-6/C1-H2 
+ July 07, 2021",
+Type Certificate Holder,"Pilatus Aircraft Ltd. 
+ Stans, Switzerland"
+"I. Model PC-6, 11 PCLM (Normal Category), Approved: November 9, 1961 
+ Model PC-6-H1, 11 PCLM (Normal Category), Approved: January 7, 1964 
+ Model PC-6-H2, 11 PCLSM (Normal Category), Approved: October 16, 1964.",
+Engine,Lycoming GSO-480-B1A6
+Fuel,100/130 Minimum grade aviation gasoline.
+Engine Limits,"(Straight line manifold pressure variation with altitude shown) 
+ HP R.P.M. M.P. Altitude 
+ Take-off 
+ 340 3400 48.0 S.L. 
+ Take-off 
+ 340 3400 44.5 7900' 
+ Max. Continuous 
+ 320 3200 45.5 S.L. 
+ Max. Continuous 
+ 320 3200 43.0 8000'"
+Propeller and,Hartzell constant speed propeller
+Propeller Limits,"Hub HC-83X20-1B or HC-A3X20-1D, blades 9333C-0 to -5 
+ Diameter maximum 93 in. minimum 88 in. 
+ (no further reduction permitted) 
+ Pitch setting at 30 in. station: low 15o, high 36o."
+Fuel Capacity,"Total capacity 105 US gal. or 127 US gal. 
+ (2 tanks of 52.5 or 63.5 US gal.) (+31.1) 
+ Usable capacity 104 US gal. or 126 US gal. 
+ (2 tanks of 52.0 or 63.0 US gal.) (+31.1)"
+Oil Capacity,3.5 US gal. (-43.9).
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11"
+Rev No,"15 
+ 6 
+ 14 
+ 14 
+ 6 
+ 14 
+ 7 
+ 15 
+ 14 
+ 14 
+ 12"
+"II. 
+ Model PC-6/350, 11 PCLM (Normal Category), Approved: September 12, 1962 
+ Model PC-6/350-H1, 11 PCLSM (Normal Category), Approved: January 7, 1964 
+ Model PC-6/350-H2, 11 PCLSM (Normal Category), Approved: October 16, 1964.",
+Engine,Lycoming IGO-540-A1A.
+Fuel,100/130 Minimum grade aviation gasoline.
+Engine Limits,"(Straight line manifold pressure variation with altitude shown) 
+ HP R.P.M. 
+ Take-off (Max. 5 min) 350 3400 full throttle at S.L. 
+ Max. Continuous 
+ 325 3000 full throttle at S.L."
+Propeller and,Hartzell constant speed feathering propeller
+Propeller Limits,"Hub HC-B3Z-30-2B, blades 9349 + 1/2 
+ Diameter maximum 93.5 in. minimum 93.5 in. 
+ (no reduction permitted) 
+ Pitch setting at 30 in. station: low 15o, high 87o."
+Fuel Capacity,"Total capacity 105 US gal. or 127 US gal. 
+ (2 tanks of 52.5 or 63.5 US gal.) (+31.1) 
+ Usable capacity 104 US gal. or 126 US gal. 
+ (2 tanks of 52.0 or 63.0 US gal.) (+31.1)."
+Oil Capacity,3.5 US gal. (-43.9)
+"III. 
+ Model PC-6/A, 11 PCLM (Normal Category), Approved: November 27, 1962 
+ Model PC-6/A-H1, 11 PCLM (Normal Category), Approved: January 7, 1964 
+ Model PC-6/A-H2, 11 PCLSM (Normal Category), Approved: October 16, 1964",
+Engine,Turbomeca Astazou II E or Astazou II G
+Fuel,"ASTM-D-1655 Spec. 
+ Jet A or Jet A1 (French Air 3405, TR.0) 
+ Jet B (French Air 3407, TR.4) 
+ MIL-T-5624 Spec. 
+ JP-4 
+ JP-5, Spec. gravity not over 0.8 (French Air 3404, TR.5) 
+ SHP RPM Alt. Power Max. EGT 
+ % (C) 
+ Take-off (max. 5 min) 
+ 523 43500 S.L. 100 525 
+ Max. Continuous 
+ 473 43500 S.L. 88 500 
+ Starting transient 
+ 30 sec. 
+ 550 
+ less than 3 sec. 
+ 630"
+Propeller and,"Ratier Figeac turbine propeller, electrically controllable"
+Propeller Limits,"feathering and reversing. 
+ Hub FH 76-1-07, blades FH 76.207. 
+ Diameter maximum 98.4 in. minimum 97.4 in. 
+ (no further reduction permitted) 
+ Pitch setting at 34.44 in. station: 
+ Reverse 
+ -14o (mechanical stop) 
+ Starting 
+ - 1.5o 
+ Flight minimum 
+ + 2.5o (electrical stop) 
+ Feathering 
+ + 87o (mechanical stop)"
+"III. 
+ Fuel Capacity 
+ Total capacity: 130 US gal. or 173 US gal. 
+ (2 tanks of 63.5 or 85 US gal.) (+31.1) plus 
+ 1 booster pump tank of 3 US gal. (+ 111.0) 
+ Usable capacity: 128 US gal. or 170 US gal. 
+ (2 tanks of 62.5 or 83.5 US gal.) (+31.1) plus 
+ 1 booster pump tank of 3 US gal. (+ 111.0) 
+ Oil Capacity 
+ 2.11 US gal. (-94.8) (engine integral) 
+ IV. 
+ Model PC-6/B-H2, 11 PCLSM (Normal Category), Approved: March 10, 1967",
+Engine,United Aircraft of Canada Ltd. PT6A-6A
+Fuel,"JP-1, JP-4 and JP-5 fuels conforming to UACL Specification No. 522 and later revisions."
+Engine Limits,"SHP Torque G.G. Prop. TIT 
+ (psi) RPM RPM (oC) 
+ Take-off (max. 5 min) 
+ 550 42.5 38.100 2.200 994 
+ (101.5%) (100%) 
+ Max. Continuous 
+ 500 38.5 38.100 2.200 952 
+ (101.5%) (100%) 
+ Starting (max. 2 sec) 
+ --- --- --- --- 1038 
+ Max. reverse 
+ 500 42.5 994"
+Propeller and,Hartzell feathering and reversing constant speed propeller
+Propeller Limits,"Hub: HC-B3TN-3C, blades T-10173C or T-10173CH 
+ Diameter: max. 101 in., min. 99 in. 
+ (no further reduction permitted) 
+ Pitch setting at 30 in. station: Reverse 
+ -11.5o 
+ Feathering 
+ +85.5o 
+ Minimum in flight 
+ 0o"
+Fuel Capacity,"Total capacity: 130 US gal. or 173 US gal. 
+ (2 tanks of 63.5 or 85 US gal.) (+31.1) plus 
+ 1 booster pump tank of 3 US gal. (+ 111.0) 
+ Usable capacity: 128 US gal. or 170 US gal. 
+ (2 tanks of 62.5 or 83.5 US gal.) (+31.1) plus 
+ 1 booster pump tank of 3 US gal. (+ 111.0)"
+Oil Capacity,"Total capacity: 2.3 US gal. (-80) (engine integral) 
+ Usable capacity: 1.5 US gal."
+"V. Model PC-6/B1-H2, 11 PCLSM (Normal Category), Approved: March 10, 1967",
+Engine,United Aircraft of Canada Ltd. PT6A-20
+Fuel,"JP-1, JP-4 and JP-5 fuels conforming to UACL Specification No. 522 and later revisions."
+Engine Limits,"SHP Torque G.G. Prop. ITT 
+ (psi) RPM RPM (oC) 
+ Take-off and maximum 
+ 550 42.5 38.100 2.200 750 
+ continuous up to 
+ (101.5%) (100%) 
+ 21o at S.L. 
+ Starting (max. 2 sec) 
+ --- --- --- --- 1090 
+ Max. reverse 
+ 500 42.5 750"
+Propeller and,Hartzell feathering and reversing constant speed propeller
+Propeller Limits,"Hub: HC-B3TN-3C or HC-B3TN-3D, blades; T-10173C or T-10173CH or T-10178C 
+ or T-10178CH. 
+ Diameter: max. 101 in., min. 99 in. 
+ (no further reduction permitted). 
+ Pitch setting at 30 in. station: 
+ Reverse 
+ -11.5o 
+ Feathering 
+ +85.5o 
+ Minimum in flight 
+ 0o"
+Fuel Capacity,"Total capacity: 130 US gal. or 173 US gal. 
+ (2 tanks of 63.5 or 85 US gal.) (+31.1) plus 
+ 1 booster pump tank of 3 US gal. (+ 111.0) 
+ Usable capacity: 128 US gal. or 170 US gal. 
+ (2 tanks of 62.5 or 83.5 US gal.) (+31.1) plus 
+ 1 booster pump tank of 3 US gal. (+ 111.0)"
+Oil Capacity,"Total capacity: 2.3 US gal. (-80) (engine integral) 
+ Usable capacity: 1.5 US gal."
+"VI. Model PC-6/B2-H2, 11 PCSLM (Normal Category), Approved: August 21, 1973.",
+Engine,United Aircraft of Canada Ltd. PT6A-27
+Fuel,"JP-1, JP-4 and JP-5 fuels conforming to UACL Specification No. 522 and later revisions."
+Engine Limits,"SHP Torque G.G. Prop. ITT 
+ (psi) RPM RPM (oC) 
+ Take-off 
+ 550 42.5 38.100 2.200 725 
+ (101.5%) (100%) 
+ Max. Continuous 
+ 550 42.5 38.100 2.200 725 
+ (101.5%) (100%) 
+ Starting (max. 2 sec) 
+ --- --- --- --- 1090 
+ Max. reverse 
+ 550 42.5 
+ 725"
+Propeller and,Hartzell feathering and reversing constant speed propeller
+Propeller Limits,"Hub: HC-B3TN-3C or HC-B3TN-3D, blades T-10178C or T-10178CH or T-10173C or 
+ T-10173CH. 
+ Diameter: max. 101 in., min. 99 in. 
+ (no further reduction permitted) 
+ Pitch setting at 30 in. station: 
+ Reverse 
+ -10.0o 
+ Feathering 
+ +85.5o 
+ Minimum in flight 
+ 0.5o"
+Fuel Capacity,"Total capacity: 130 US gal. or 173 US gal. 
+ (2 tanks of 63.5 or 85 US gal.) (+31.1) plus 
+ 1 booster pump tank of 3 US gal. (+ 111.0) 
+ Usable capacity: 128 US gal. or 170 US gal. 
+ (2 tanks of 62.5 or 83.5 US gal.) (+31.1) plus 
+ 1 booster pump tank of 3 US gal. (+ 111.0)"
+Oil Capacity,"Total capacity: 2.3 US gal. (-80) (engine integral) 
+ Usable capacity: 1.5 US gal."
+VII,"Model PC-6/C-H2, 11 PCLSM (Normal Category), Approved: March 10, 1967."
+Engine,Airesearch TPE 331-25D.
+Fuel,"JP-1, JP-4 and JP-5 fuels conforming to Airesearch Manufacturing Company of Arizona 
+ Report PE-5064 R."
+Engine Limits,"SHP Torque 
+ RPM 
+ EGT 
+ (psi) 
+ (0oC) 
+ Take-off 575 57.7 
+ 41.730 571 
+ (100%) 
+ Max. Continuous 
+ 500 51.7 
+ 41.730 535 
+ (100%) 
+ Absolute Maximum 
+ --- 
+ --- 
+ 43.820 
+ (max. 5 sec) 
+ (105%) 
+ Starting (max. 10 sec) 
+ --- --- --- 815"
+Propeller and,Hartzell feathering and reversing constant speed propeller
+Propeller Limits,"Hub: HC-B3TN-5C, blades T-10178C or T-10178CH 
+ Diameter: max. 101 in., min. 99 in. 
+ (no further reduction permitted) 
+ Pitch setting at 30 in. station: Reverse 
+ - 9.5o 
+ Feathering 
+ +87o 
+ Start 
+ + 2o 
+ Minimum in flight 
+ + 5o"
+Fuel Capacity,"Total capacity: 130 US gal. or 173 US gal. 
+ (2 tanks of 63.5 or 85 US gal.) (+31.1) plus 
+ 1 booster pump tank of 3 US gal. (+ 111.0) 
+ Usable capacity: 128 US gal. or 170 US gal. 
+ (2 tanks of 62.5 or 83.5 US gal.) (+31.1) plus 
+ 1 booster pump tank of 3 US gal. (+ 111.0)"
+Oil Capacity,2.9 US gal. (-103) (engine integral)
+VIII,"Model PC-6/C1-H2, 11 PCLSM (Normal Category), Approved: August 21, 1973."
+Engine,Airesearch TPE 331-1-100
+Fuel,"Fuels conforming to Airesearch Manufacturing Company of Arizona Report 
+ PE-5064R."
+Engine Limits,"SHP Torque RPM EGT 
+ (psi) (o) 
+ Take-off 
+ 576 53.2 41.730 561 
+ (100%) 
+ Max. Continuous 576 53.2 41.730 561 
+ (100%) 
+ Absolute Maximum --- --- 43.816 
+ (max. 5 sec) 
+ --- --- (105%) 
+ Starting (max. 1 sec) --- --- --- 815"
+Propeller and,Hartzell feathering and reversing constant speed propeller
+Propeller Limits,"Hub HC-B3TN-5C, blades T-10178C or T-10178CH 
+ Diameter: max. 101 in. minimum 99 in. 
+ (no further reduction permitted) 
+ Pitch setting at 30 in. station: Reverse 
+ - 9.5o 
+ Feathering 
+ +87o 
+ Start 
+ + 2o 
+ Minimum in flight + 5o"
+Fuel Capacity,"Total capacity: 130 US gal. or 173 US gal. 
+ (2 tanks of 63.5 or 85 US gal.) (+31.1) plus 
+ 1 booster pump tank of 3 US gal. (+ 111.0) 
+ Usable capacity: 128 US gal. or 170 US gal. 
+ (2 tanks of 62.5 or 83.5 US gal.) (+31.1) plus 
+ 1 booster pump tank of 3 US gal. (+ 111.0)"
+Oil Capacity,2.9 US gal. (-103) (engine integral).
+"IX. Model PC-6/B2-H4, 11 PCLSM (Normal Category), Approved July 31, 1992",
+Engine,United Aircraft of Canada Ltd. PT6A-27
+Fuel,"JP-1, JP-4 and JP-5 fuels conforming to UACL Specification No. 522 and later revisions."
+Engine Limits,"SHP Torque C.G. Prop. ITT 
+ (psi) RPM RPM (oC) 
+ Take-off 
+ 550 47.3 38.100 2000 725 
+ (101.5%) (100%) 
+ Max. Continuous 
+ 550 47.3 38.100 2000 725 
+ (101.5%) (100%) 
+ Starting (max. 2 sec) 
+ --- --- --- --- 1090 
+ Max. reverse 
+ 550 47.3 
+ 725"
+Propeller and,Hartzell feathering and reversing constant speed propeller
+Propeller Limits,"Hub: HC-B3TN-3C or HC-B3TN-3D, blades T-10178CNR, T-101778CNRK, 
+ T-10178CR, T-10178CRK or T-101778C, T-10178CK, T-10178CH modified according 
+ to Pilatus Service Bulletin No. SB 149. 
+ Diameter: max. 101 in., min. 99 in. (No further reduction permitted). 
+ Pitch setting at 30 in. station: Reverse 
+ -10.5o 
+ Feathering 
+ +85.5o 
+ Minimum in flight 
+ + 0.5o"
+Fuel Capacity,"Total capacity: 130 US gal. or 173 US gal. 
+ (2 tanks of 63.5 or 85 US gal. (+ 31.1) plus 
+ 1 booster pump tank of 2 US gal. (+ 111.0) 
+ Usable capacity: 128 US gal. or 170 US gal. 
+ (2 tanks of 62.5 or 83.5 US gal. (+ 31.1) plus 
+ 1 booster pump tank of 3 US gal (+ 111.0)"
+Oil Capacity,"Total capacity : 
+ 2.3 US gal. (-80) (engine integral) 
+ Usable capacity : 1.5 US gal."
+DATA PERTINENT TO ALL MODELS,
+Airspeed Limits IAS,"All models except B2-H4 
+ B2-H4 
+ Vne (Never exceed) 
+ 174 mph (151 kts) 
+ 174 mph (151 kts) 
+ Vno (Max. structural 
+ 137 mph (118 kts) 
+ 138 mph (119 kts) 
+ cruising) 
+ Vp (Maneuvering) 
+ 122 mph (106 kts) 
+ 138 mph (119 kts) 
+ Vfe (Flaps extended) 
+ 94 mph ( 82 kts) 
+ 109 mph ( 95 kts) 
+ Vsk (Ski system 
+ 84 mph ( 73 kts) 
+ ---- --- 
+ operation)"
+CG Range,"All Models except B2-H4 
+ Model B2-H4 
+ + 18.7” to + 25.4” at 4850 lb. 
+ + 23.9” to + 28.4” at 6173 lbs. 
+ + 8.2” to + 25.4” at 3200 lb. or less 
+ + 8.2” to 28.4” at 3200 lbs. 
+ Straight line variation between points given."
+Empty Weight CG Range,None.
+Datum,Leading edge of wing
+Leveling Means,Marks on each side of the fuselage. Also T-rails on cabin floor horizontal.
+Max weights takeoff,"PC-6, PC-6/350 and PC-6/A 
+ 4322 lb."
+and landing weights,"PC-6-H1, PC-6/350-H1, PC-6/A-H1 
+ 4444 lb. 
+ PC-6-H2, PC-6/350-H2, PC-6/A-H2 
+ 4850 lb. 
+ PC-6/B-H2, PC-6/B1-H2, PC-6/B2-H2 
+ PC-6/C-H2, PC-6/C1-H2. 
+ PC-6/B2-H4 
+ 6173 lb MTOW/5864 lb KLW 
+ NOTE: AFM Supplements as listed on page 8 show increased take-off weights."
+Number of Seats,"8 - 2 at (+ 4.5), 2 at (+34.4), 
+ 2 at (+63.0), 2 at (+91.3), or 
+ 11 - 2 single seats at (+ 4.5) and 3 triple 
+ seats at (+32.7, +60.3, and +85.8). 
+ NOTE: 6 seats can be stowed in compartment behind cabin, accessible through a door in 
+ fuselage RH side."
+Maximum Baggage,"Main cabin, after removal of seats. See approved loading instructions. Max. floor 
+ loading 100 lb. per sq. ft."
+Control Surface Movements,"Elevator: 
+ Up 30o ± 1o 
+ Down 25o ± 1o 
+ Flettner tab: 
+ Down 57o ± 2o 
+ Up 32o ± 2o 
+ Stabilizer: 
+ Nose 
+ Down 10o ± .5o 
+ Nose up 2o ± .5o 
+ (Serial No. 552 and all H2 models) 
+ Nose 
+ Down 8o ± .5o 
+ Nose up 2o ± .5o 
+ (Serial No. 524 and up except H2 models) 
+ Rudder: 
+ Right 30o ± 1.5o 
+ Left 30o ± 1.5o 
+ Rudder tab: 
+ Right 6o ± 1o 
+ Left 6o ± 1o 
+ Aileron: 
+ Up 20o ± 1o 
+ Down 13.5o ± 1o 
+ Flettner tab: 
+ Down 20o ± 1o 
+ Up 13.5o ± 1o 
+ Aileron tab (r.h.) 
+ Up 20o ± 2o 
+ Down 18o Neutral 2o Up 
+ Flaps: 
+ Up 0o 
+ Down 45o ± 2o 
+ (Ser. No. 522) 
+ Up 0o 
+ Down 38o ± 2o 
+ (Ser. No. 524 and up) 
+ NOTE: 
+ Flettner tabs on aileron and elevator are optional; if not 
+ installed, fixed tabs on elevator (up 36o) and aileron (neutral) are mandatory. Stabilizer 
+ in neutral position is 3o nose down. 
+ For B2-H4 on elevator one flettner tab (set to 0o) and two fixed trim tabs (set 10o up) are 
+ mandatory."
+Maximum Operating Altitude,25.000 ft.
+Certification Basis,"CAR 10. CAR 3 dated May 15, 1956 including amendments 3-1 through 3-5. Type 
+ Certificate No. 7A15, issued November 9, 1961. 
+ Date of Application for Type Certificate: October 11, 1960. 
+ The Swiss Federal Office of Civil Aviation (FOCA) originally type certificated this 
+ aircraft under its type certificate Number F-56-10. The FAA validated this product under 
+ U.S. Type Certificate Number 7A15. Effective December 1, 2006, the European Aviation 
+ Safety Agency (EASA) began oversight of this product on behalf of Switzerland. The 
+ EASA TCDS No. has not been issued at this time. 
+ The Swiss Federal Air Office ""Certificate of Airworthiness for Export"" endorsed as noted 
+ below under ""Import Requirements"" must be submitted for each individual aircraft for 
+ which application for certification is made. (See NOTE 4)."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on an NAA Export Certificate 
+ of Airworthiness (Export C of A) signed by a representative of the Swiss Federal Office 
+ of Civil Aviation (FOCA) on behalf of the European Community. The Export C of A 
+ should contain the following statement: ‘The aircraft covered by this certificate has been 
+ examined, tested, and found to comply with U.S. Civil Air Regulation Part 3 U.S. Type 
+ Certificate No. 7A15 and to be in a condition for safe operation.’ 
+ Model PC-6 and PC-6/350 series: ""The airplane covered by this certificate has been 
+ examined and found to comply with U.S. Civil Air Regulations 
+ Part 3, dated May 15, 1956 including Amendment 3-1 through 3-5 and conforms to T.C. 
+ 7A15"". 
+ Model PC-6/A series: ""The airplane covered by this certificate has been examined and 
+ found to comply with U.S. Civil Air Regulation Part 3, dated May 15, 1956 including 
+ Amendment 3-1 through 3-5 and Special Conditions notified by FAA, letter dated 
+ November 14, 1962 to the Swiss Federal Air Office, and conforms to T.C. 7A15"". 
+ Models PC-6/B, /B1, /B2, /C, and /C1 series: ""The airplane covered by this certificate 
+ has been examined and found to comply with U.S. Civil Air Regulation Part 3, dated 
+ May 15, 1956 including Amendments 3-1 through 3-5 and Special Conditions notified by 
+ FAA, letter dated January 4, 1967 and conforms to T.C. 7A15"". 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United 
+ States of both new and used aircraft based on the scope of the agreement, to identify any 
+ required statements by the exporting authority on the export certificate of airworthiness 
+ (or equivalent document), and for procedures for coordinating exceptions to conformity 
+ statements on these documents. Refer to FAA Order 8130.2, Airworthiness Certification 
+ of Aircraft, for requirements for issuance of an airworthiness certificate for imported 
+ aircraft."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. In addition, the 
+ following items of equipment are required: 
+ (a) Swiss Federal Air Office approved Airplane Flight Manual (as limited below) 
+ (b) Stall warning indicator, Safe Flight 1-02-0005, or 164 
+ (c) Ratier Figeac Spinner FH 76-400 (PC-6/A series only) 
+ (d) Clogged fuel filter warning light (PC-6/A, /B, /B1, /B2, /C, and /C1 series only). 
+ (e) Stabilizer dual motor trim actuator Electro Mech EM 483 
+ Mandatory for PC-6/B2-H4 only."
+Service Information,"Each of the documents listed below must state that it is approved by the European Aviation 
+ Safety Agency (EASA) or – for approvals made before December 1, 2006 – Swiss Federal 
+ Office of Civil Aviation (FOCA). 
+ • Service bulletins, 
+ • Structural repair manuals, 
+ • Vendor manuals, 
+ • Aircraft flight manuals, and 
+ • Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved for type design data 
+ only unless one of the following conditions exists: 
+ • The documents change the limitations, performance, or procedures of the FAA approved 
+ manuals; or 
+ •The documents make an acoustical or emissions changes to this product’s U.S. type 
+ certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. The FAA 
+ may delegate on case-by-case to EASA to approve on behalf of the FAA for the U.S. type 
+ certificate. If this is the case it will be noted on the document."
+Airplane Flight Manual,"(a) 
+ Swiss Federal Air Office approved Airplane Flight Manuals: 
+ Model 
+ PC-6 
+ PC-6-H1 
+ PC-6-H2 
+ Report No. 
+ 902 
+ 902-1 
+ 902-2 
+ Model 
+ PC-6/350 
+ PC-6/350-H1 
+ PC-6/350-H2 
+ Report No. 
+ 920 
+ 920-1 
+ 920-2 
+ Model 
+ PC-6A 
+ PC-6/A-H1 
+ PC-6/A-H2 
+ Report No. 
+ 921 
+ 921-1 
+ 921-2 
+ Model 
+ PC-6/B-H2 
+ PC-6/B1-H2 
+ PC-6/B2-H2 
+ Report No. 
+ 1072 
+ 1072-1 
+ 1072-2 
+ or 1791 
+ Model 
+ PC-6/C-H2 
+ PC-6/C1-H2 
+ Report No. 
+ 1161 
+ 1161-1 
+ Model 
+ PC-6/B2-H4 up to MSN 824 
+ Report No. 
+ 1072-20 
+ Model 
+ PC-6/B2-H4 from MSN 825 
+ Report No. 
+ 1820 
+ (b) 
+ List of Supplements (Swiss Federal Air Office approved). 
+ Report 
+ Applicable for 
+ Subject 
+ Operating 
+ No. 
+ PORTER Model 
+ Category 
+ 1029 
+ PC-6/350-H1 
+ Seaplane with floats 
+ Normal 
+ EDO 39-4000 
+ 1140 
+ PC-6-H2 
+ Seaplane with floats 
+ Normal 
+ PC-6/350-H2 
+ EDO 58-4580 
+ 1141 
+ PC-6/A-H2 
+ Seaplane with floats 
+ Normal 
+ 1141-1 
+ PC-6/B-H2 
+ EDO 58-4580 
+ PC-6/B1-H2 
+ EDO 58-4580 or EDO 679-4930 
+ PC-6/B2-H2` 
+ 1104 
+ PC-6/B1-H2 
+ Fuel ferry tank 
+ Restricted* 
+ PC-6/B2-H2 
+ installation 
+ 1143-1 
+ PC-6/C-H2 
+ 1143-B 
+ PC-6/C1-H2 
+ Agriculture version 
+ Restricted* 
+ 1143-C 
+ 1143-D 
+ 1186 
+ All models 
+ Cabin doors removed, 
+ Normal 
+ except B2-H4 
+ sliding door and/or hatch 
+ door open (parachuting) 
+ 1242 
+ All models “H2” 
+ Wing fuel tanks 
+ Normal 
+ 2 x 85 US-gal. 
+ 1320 
+ All models 
+ Ski operation 
+ Normal 
+ except B2-H4 
+ 1347-1 
+ All models “H2” 
+ External fuel 
+ Restricted* 
+ 1421 
+ All models 
+ Electrically operated 
+ Normal 
+ landing flaps 
+ 1422 
+ PC-6/B1-H2 
+ Engine Air Intake 
+ Normal 
+ PC-6/B2-H2 
+ Filter Mk. 38 
+ 1424 
+ All models 
+ Aileron Trim System 
+ Normal 
+ 1490 
+ All TURBO PORTER 
+ Fuel Ferry tank V-43593 
+ Restricted* 
+ model except B2-H4 
+ Report 
+ Applicable for 
+ Subject 
+ Operating 
+ No. 
+ PORTER Model 
+ Category 
+ 1504 
+ PC-6/B-H2 
+ Propeller de-icing 
+ Normal 
+ PC-6/B1-H2 
+ system 
+ PC-6/B2-H2 
+ PC-6/B2-H4 
+ up to MSN 824 
+ 1511 
+ All models 
+ Target sack winch 
+ Normal 
+ 1527 
+ PC-6/B1-H2 
+ Electrical Trim System 
+ Normal 
+ PC-6/B2-H2 
+ up to MSN 824 
+ 1527-1 
+ PC-6/B2-H2 
+ from S/N 825 
+ 1568 
+ All TURBO PORTER 
+ Operation in overweight 
+ Restricted* 
+ Models except H4 
+ condition 
+ 1824 
+ PC-6/B2-H4 
+ Cabin doors removed, sliding 
+ Normal 
+ door/hatch door open (para- 
+ chuting) 
+ 1826 
+ PC-6/B2-H4 
+ Underwing tanks 
+ Normal 
+ up to MSN 824 
+ 1826-1 
+ PC-6/B2-H4 
+ from MSN 825 
+ 1850 
+ PC-6/B2-H4 
+ Emergency battery system 
+ Normal 
+ 1887 
+ PC-6/B2-H4 
+ Quiet operation 
+ Normal 
+ 1904 
+ PC-6/B2-H4 
+ Air intake filter system 
+ Normal 
+ 1914 
+ PC-6/B2-H2 
+ Hot prop 
+ Normal 
+ PC-6/B2-H4 
+ from S/N 825 
+ * Aircraft must be certificated under FAR 21.185 or FAR 21.187 in Restricted Category. 
+ (c) 
+ FAA-approved Airplane Flight Manuals and also approved by Swiss Federal 
+ Air Office. 
+ Model 
+ Date of Issue 
+ Including Revision 
+ PC-6/B-H2 
+ March 12, 1965 
+ Rev 4, July 21, 1971 
+ PC-6/B1A-H2 
+ December 1, 1967 
+ Rev 4, July 21, 1971 
+ PC-6/B2-H2 
+ May 13, 1968 
+ Rev 2, July 21, 1971 
+ PC-6/C-H2 
+ April 20, 1966 
+ Rev 5, May 20, 1971 
+ (d) 
+ FAA-approved Airplane Flight Manual Supplement issued to 
+ Fairchild Industries and also approved by Swiss Federal Air Office. 
+ Applicable for Heli 
+ Date of Issue 
+ Supplement No. 
+ Porter Model 
+ PC-6/B-H2 
+ July 8, 1966 
+ 1 
+ PC-6/B-H2 
+ April 3, 1969 
+ 2 
+ PC-6/B-H2 
+ April 18, 1969 
+ 3 
+ September 3, 1966 
+ 1 
+ PC-6/B1-H2 
+ January 4, 1966 
+ 2 
+ February 13, 1967 
+ 3 
+ April 3, 1969 
+ 1 
+ PC-6/B1A-H2 
+ April 18, 1969 
+ 2 
+ July 8, 1965 
+ 3 
+ Applicable for Heli 
+ Date of Issue 
+ Supplement No. 
+ Porter Model 
+ PC-6/B2-H2 
+ April 18, 1969 
+ 1 
+ April 3, 1969 
+ 2 
+ July 8, 1966 
+ 1 
+ January 4, 1966 
+ 2 
+ PC-6/C-H2 
+ May 14, 1968 
+ 3 
+ April 3, 1969 
+ 4 
+ April 18, 1969 
+ 5 
+ PC-6/B1-H2 
+ April 18, 1969 
+ Associated with 
+ STC SA747EA 
+ PC-6/B1-H2 
+ April 3, 1969 
+ Associated with 
+ STC SA743EA 
+ PC-6/B1-H2 
+ July 10, 1969 
+ Associated with 
+ STC SA743EA"
+NOTE 1,"Current weight and balance report, including list of equipment included in certificated empty weight, and 
+ loading instructions when necessary, must be provided for each aircraft at the time of original certification."
+NOTE 2,Placards must be displayed as listed in the approved Airplane Flight Manual.
+NOTE 3,"Doors: 
+ Cabin door RH side, either double doors or sliding doors. 
+ Optional: double doors LH side additional. 
+ Optional: cockpit doors on both sides."
+NOTE 4,"Spare parts and aircraft manufactured by Fairchild Republic Company, Farmingdale, New York and 
+ Hagerstown, Maryland under a licensing agreement are produced under the Fairchild Republic Company 
+ production certificate No. 1, and are eligible for standard airworthiness certificates."
+NOTE 5,"Manufacturer Serial Numbers (MSN) 2001 thru 2092 were manufactured by Fairchild Republic Company 
+ (also identified as Fairchild Industries, Fairchild Heli Porter and Fairchild-Hiller Corporation) in the United 
+ States of America under a license agreement and are covered by this Type Certificate No. 7A15."

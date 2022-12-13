@@ -1,0 +1,881 @@
+Keyterm,Info
+"A19SO 
+ Revison 19 
+ Piper Aircraft, Inc 
+ PA-44-180 
+ PA-44-180T 
+ October 27, 2021",
+Type Certificate Holder,"Piper Aircraft, Inc. 
+ 2926 Piper Drive 
+ Vero Beach, Florida 32960"
+Type Certificate Holder Record,"The New Piper Aircraft, Inc transferred TC A19SO to Piper Aircraft, Inc on August 7, 
+ 2006."
+"IA. - Model PA-44-180, Seminole, 4 PCLM (Normal Category), Approved March 10, 1978.",
+Engine,"1 Lycoming O-360-E1A6D with carburetor setting 10-5092, 10-5219, or 
+ 10-6019 (Left Side) 
+ 1 Lycoming LO-360-E1A6D with carburetor setting 10-5092, 10-5219, or 
+ 10-6019 (Right Side)"
+Fuel,100 or 100LL aviation grade fuel
+Engine Limits,"For all operations, 2700 r.p.m. (180 hp)"
+Propeller and Propeller Limits,"Left Engine: 
+ 1 Hartzell, Hub Model HC-C2Y(K, R) -2CEUF, Blade Model FC7666A-2R 
+ or Hub Model HC-C3YR-2EUF, Blade Model FC7663-5R 
+ Right Engine: 
+ 1 Hartzell, Hub Model HC-C2Y(K, R) -2CLEUF, Blade Model FJC7666A-2R 
+ or Hub Model HC-C3YR-2LEUF, Blade Model FJC7663-5R 
+ Pitch Setting at 30"" Station: 
+ Two-Blade 
+ Three-Blade 
+ High 79° - 81°, Low 12.4° ± 0.2° 
+ High 81° - 83°, Low 10.6° ± .1° 
+ Diameter: Not over 74 inches 
+ Diameter: Not over 73 inches 
+ Not under 72 inches 
+ Not under 72 inches 
+ Spinner: 
+ Two-Blade 
+ Three-Blade 
+ Hartzell P/N C-2285-3 Spinner Assy 
+ Hartzell P/N C-4558 Spinner Assy 
+ (Left) 
+ (Left) 
+ Hartzell P/N C-2285-3L Spinner Assy 
+ Hartzell P/N C4-558 Spinner Assy 
+ (Right) 
+ (Right) 
+ See NOTE 4. 
+ See NOTE 4. 
+ Governor Assembly: 
+ 1 Hartzell Hydraulic Governor Model E-3-2 (Left) 
+ 1 Hartzell Hydraulic Governor Model E-3-2L (Right) 
+ or 
+ 1 Hartzell Hydraulic Governor Model E-8-2L (Right) with 
+ synchrophaser (Piper Drawing No. 36889 Synchrophaser 
+ Installation, S/N 44-7995278 and up) 
+ I I I I I I I I I I I I I"
+Page No 1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 11 12"
+Rev No 19,"9 
+ 18 10 17 
+ 6 
+ 17 17 17 18 19 17"
+Airspeed Limits,"VNE 
+ (Never Exceed) 
+ 202 KIAS 
+ VNO 
+ (Maximum Structural Cruise) 
+ 169 KIAS 
+ VA 
+ (Maneuvering 3800 lb.) 
+ 135 KIAS 
+ VA 
+ (Maneuvering 2700 lb.) 
+ 112 KIAS 
+ VFE 
+ (Maximum Flaps Extended) 
+ 111 KIAS 
+ VLO 
+ (Maximum Landing Gear Operation) 
+ Extension 
+ 140 KIAS 
+ Retraction 
+ 109 KIAS 
+ VLE 
+ (Maximum Landing Gear 
+ Extended) 
+ 140 KIAS 
+ VMC 
+ (Minimum Control Speed) 
+ 56 KIAS"
+CG Range,"(+89.0) 
+ to 
+ (+93.0) 
+ at 
+ 3800 lb. 
+ (+85.0) 
+ to 
+ (+93.0) 
+ at 
+ 3400 lb. 
+ (+84.0) 
+ to 
+ (+93.0) 
+ at 
+ 2800 lb. or less 
+ Straight line variation between points given. 
+ Moment change due to retracting landing gear (+819 in-lb.) 
+ LB 
+ LB 
+ 89.0 
+ 93.0 3800 
+ 85.0 
+ 3400 
+ 3400 
+ 84.0 
+ 2800 
+ 2800 
+ 1800 
+ 1800 
+ INCHES"
+Empty Weight CG Range,None
+Maximum Weight,"Ramp 
+ 3816 lb. 
+ Takeoff 
+ 3800 lb. 
+ Landing 
+ 3800 lb."
+Number of Seats,"4 (2 at +80.5, 2 at +118.1)"
+Maximum Baggage,200 lb. at +142.8
+Fuel Capacity,"110 gallons (2 nacelle tanks) at +95.0 (108 gallons usable) 
+ (See NOTE 1 for data on system fuel)"
+Oil Capacity,"6 quarts per engine (4 quarts per engine usable) 
+ (See NOTE 1 for data on system oil)"
+Control Surface Movements,"Ailerons 
+ Up 
+ 23° (±2°) 
+ Down 
+ 17° (±2°) 
+ Stabilator 
+ Up 
+ 15° (±1°) 
+ Down 
+ 3° (±1°) 
+ Rudder 
+ Left 
+ 37° (+1°, -0°) 
+ Right 
+ 37° (+1°, -0°) 
+ Stabilator Trim Tab Down 
+ 9° (±1°) 
+ Up 
+ 4° (±1°) 
+ (Stabilator neutral) 
+ Wing Flaps 
+ Up 
+ 0° (±1°) 
+ Down 
+ 10°, 25°, 40° (±2°) 
+ Rudder Trim Tab 
+ Left 
+ 26° (±2°) 
+ Right 
+ 26° (±2°) 
+ (Rudder neutral) 
+ Nose Wheel Travel 
+ Left 
+ 30° (±1°) 
+ Right 
+ 30° (±1°)"
+Manufacturers Serial Numbers,"44-7995001 through 44-8195026 (See NOTE 5 for airworthiness certification eligibility 
+ in the United States)"
+"IB. - Model PA-44-180, Seminole, 4 PCLM (Normal Category), Approved March 10, 1978. 
+ Engine See Note 6 
+ 1 
+ Lycoming O-360-A1H6 with carburetor setting 10-5219 or 10-6019 (Left Side) 
+ 1 
+ Lycoming LO-360-A1H6 with carburetor setting 10-5219 or 10-6019 (Right Side) 
+ OR 
+ 1 
+ Lycoming IO-360-B1G6 (Left Side) with fuel injector model RSA-5AD1, 
+ (Lycoming Part Number 61J28856) 
+ 1 
+ Lycoming LIO-360-B1G6 (Right Side) with fuel injector model RSA-5AD1 
+ (Lycoming Part Number 61J28856) 
+ Fuel 
+ 100 or 100LL aviation grade fuel 
+ Engine Limits 
+ For all operations, 2700 r.p.m. (180 hp) 
+ Propeller and Propeller Limits 
+ Left Engine: 
+ 1 Hartzell, Hub Model HC-C2Y(K, R) -2CEUF, Blade Model FC7666A-2R 
+ or 1 Hartzell Hub Model HC-C2YR-2CEUFP, Blade Model FC7497 
+ *Hubs and blades must be both of same model both left and right; no intermixing 
+ Right Engine: 
+ 1 Hartzell, Hub Model HC-C2Y(K, R) -2CLEUF, Blade Model FJC7666A-2R 
+ or 1 Hartzell Hub Model HC-C2YR-2CLEUFP, Blade Model FJC7497 
+ *Hubs and blades must be both of same model both left and right; no intermixing 
+ Pitch Setting at 30"" Station: 
+ Blade Model FC7666A-2R 
+ Blade Model F(J)C7497 
+ High 79° - 81°, Low 12.4° ± 0.2° 
+ High 79° - 81°, Low 12.8° ± 0.2° 
+ Diameter:Not over 74 inches 
+ Diameter:Not over 74 inches 
+ Not under 72 inches 
+ Not under 72.5 inches 
+ Spinner: Hartzell P/N C-2285-3 Spinner Assy (Left)* 
+ Hartzell P/N C-2285-3L Spinner Assy (Right)* 
+ *See Note 4 for carburated engines only 
+ (no intermixing permitted) 
+ or 
+ Hartzell P/N D-6974-1P (Left & Right) ** 
+ **no intermixing permitted with C-2285-3(L) 
+ Governor Assembly: 
+ 1 Hartzell Hydraulic Governor Model U-3-15 (Left) with 
+ unfeathering accumulator 
+ 1 Hartzell Hydraulic Governor Model U-3-15L (Right) with 
+ unfeathering accumulator 
+ Airspeed Limits 
+ VNE 
+ (Never Exceed) 
+ 202 KIAS 
+ VNO 
+ (Maximum Structural Cruise) 
+ 169 KIAS 
+ VA 
+ (Maneuvering - 3800 lb.) 
+ 135 KIAS 
+ VA 
+ (Maneuvering - 2700 lb.) 
+ 112 KIAS 
+ VFE 
+ (Maximum Flaps Extended) 
+ 111 KIAS 
+ VLO 
+ (Maximum Landing Gear Operation) 
+ Extension 
+ 140 KIAS 
+ Retraction 
+ 109 KIAS 
+ VLE 
+ (Maximum Landing Gear Extended) 
+ 140 KIAS 
+ VMC 
+ (Minimum Control Speed) 
+ 56 KIAS 
+ CG Range 
+ (+89.0) 
+ to 
+ (+93.0) 
+ at 
+ 3800 lb. 
+ (+85.0) 
+ to 
+ (+93.0) 
+ at 
+ 3400 lb. 
+ (+84.0) 
+ to 
+ (+93.0) 
+ at 
+ 2800 lb. or less 
+ Straight line variation between points given. 
+ Moment change due to retracting landing gear (+819 in-lb.) 
+ LB 
+ LB 
+ 89.0 
+ 93.0 3800 
+ 85.0 
+ 3400 
+ 3400 
+ 84.0 
+ 2800 
+ 2800 
+ 1800 
+ 1800 
+ INCHES 
+ Empty Weight CG Range 
+ None 
+ Maximum Weight 
+ Ramp 
+ 3816 lb. 
+ Takeoff 
+ 3800 lb. 
+ Landing 
+ 3800 lb. 
+ Number of Seats 
+ 4 (2 at +80.5, 2 at +118.1) 
+ Maximum Baggage 
+ 200 lb. at +142.8 
+ Fuel Capacity 
+ 110 gallons (2 nacelle tanks) at +95.0 (108 gallons usable) 
+ (See NOTE 1 for data on system fuel) 
+ Oil Capacity 
+ 8 quarts per engine (6 quarts per engine usable) 
+ (See NOTE 1 for data on system oil) 
+ Control Surface Movements 
+ Ailerons 
+ Up 
+ 23° (±2°) 
+ Down 
+ 17° (±2°) 
+ Stabilator 
+ Up 
+ 15° (±1°) 
+ Down 
+ 3° (±1°) 
+ Rudder 
+ Left 
+ 37° (+1°, -0°) Right 
+ 37° (+1°, -0°) 
+ Stabilator Trim Tab 
+ Down 
+ 9° (±1°) 
+ Up 
+ 4° (±1°) 
+ (Stabilator neutral) 
+ Wing Flaps 
+ Up 
+ 0° (±1°) 
+ Down 
+ 10°, 25°, 40° (±2°) 
+ Rudder Trim Tab 
+ Left 
+ 26° (±2°) 
+ Right 
+ 26° (±2°) 
+ (Rudder neutral) 
+ Nose Wheel Travel 
+ Left 
+ 30° (±1°) 
+ Right 
+ 30° (±1°) 
+ Manufacturers Serial Numbers 
+ 4495001 through 4495013, and 4496001 and up 
+ II. - Model PA-44-180T, Turbo Seminole, 4 PCLM (Normal Category), Approved November 29, 1979.",
+Engine,"1 Lycoming TO-360-E1A6D with carburetor setting 10-5256 
+ 1 Lycoming LTO-360-E1A6D with carburetor setting 10-5256"
+Fuel,100 or 100LL aviation grade fuel
+Engine Limits,"For all operations, 36.5 in. Hg at 2575 r.p.m. (180 hp)"
+Propeller and Propeller Limits,"Left Engine: 
+ 1 Hartzell, Hub Model HC-C2YR -2C ( )UF, Blade Model FC7666A-2R or 
+ FC7666AB-2R 
+ Right Engine: 
+ 1 Hartzell, Hub Model HC-C2YR-2CL ( ) UF, Blade Model FJC7666A-2R or 
+ FJC7666AB-2R 
+ Governor Assembly: 
+ 1 Hartzell Hydraulic Governor Model E-3-5 (Left) 
+ or 
+ 1 Hartzell Hydraulic Governor Model U-3-10 (Left) with unfeathering accumulator 
+ 1 Hartzell Hydraulic Governor Model E-3-5L (Right) 
+ or 
+ 1 Hartzell Hydraulic Governor Model U-3-10L (Right) with unfeathering 
+ accumulator 
+ or 
+ 1 Hartzell Hydraulic Governor Model E-8-5L (Right) with Synchrophaser 
+ Installation, Piper Dwg. 86818-2 
+ or 
+ 1 Hartzell Hydraulic Governor Model U-8-10L (Right) with unfeathering 
+ accumulator and Synchrophaser Installation, Piper Dwg. 86818-2"
+Propeller and Propeller Limits,"Pitch Setting at 30"" Station: 
+ High 79° - 81°, Low 13.1° ± 0.2° 
+ Diameter: 
+ Not over 74 inches 
+ Not under 72 inches 
+ Spinner: 
+ Hartzell P/N C-2285-3 Spinner Assy (Left) 
+ Hartzell P/N C-2285-3L Spinner Assy (Right) 
+ See NOTE 4. 
+ Left Engine: 
+ 1 Hartzell, Hub Model HC-C3YR -2 ( )UF, Blade Model FC7663-5R or FC7663B-5R 
+ Right Engine: 
+ 1 Hartzell, Hub Model HC-C3YR-2L ( ) UF, Blade Model FJC7663-5R or 
+ FJC7663B-5R 
+ Governor Assembly: 
+ 1 Hartzell Hydraulic Governor Model E-3-5 (Left) 
+ or 
+ 1 Hartzell Hydraulic Governor Model U-3-10 (Left) with unfeathering accumulator 
+ 1 Hartzell Hydraulic Governor Model E-3-5L (Right) 
+ or 
+ 1 Hartzell Hydraulic Governor Model U-3-10L (Right) with unfeathering 
+ accumulator 
+ or 
+ 1 Hartzell Hydraulic Governor Model E-8-5L (Right) with Synchrophaser 
+ Installation, Piper Dwg. 86818-2 
+ or 
+ 1 Hartzell Hydraulic Governor Model U-8-10L (Right) with unfeathering 
+ accumulator and Synchrophaser Installation, Piper Dwg. 86818-2 
+ Pitch Setting at 30"" Station: 
+ High 81° - 83°, Low 11.2° ± 0.1° 
+ Diameter: 
+ Not over 73 inches 
+ Not under 72 inches 
+ Spinner: 
+ Hartzell P/N C-4558 Spinner Assy (Left) 
+ Hartzell P/N C-4558 Spinner Assy (Right) 
+ See NOTE 4. 
+ ""Avoid continuous operation at manifold pressures below 15"" Hg above 12,000 feet 
+ altitude."""
+Airspeed Limits,"VNE 
+ (Never Exceed) 
+ 202 KIAS 
+ VNO 
+ (Maximum Structural Cruise) 
+ 170 KIAS 
+ VA 
+ (Maneuvering - 3925 lb.) 
+ 137 KIAS 
+ VA 
+ (Maneuvering - 2700 lb.) 
+ 112 KIAS 
+ VFE 
+ (Maximum Flaps Extended) 
+ 111 KIAS 
+ VLO 
+ (Maximum Landing Gear Operation) 
+ Extension 
+ 140 KIAS 
+ Retraction 
+ 109 KIAS 
+ VLE 
+ (Maximum Landing Gear Extended) 
+ 140 KIAS 
+ VMC 
+ (Minimum Control Speed) 
+ 57 KIAS"
+CG Range,"(+89.7) 
+ to 
+ (+93.0) 
+ at 
+ 3925 lb. 
+ (+87.3) 
+ to 
+ (+93.0) 
+ at 
+ 3800 lb. 
+ (+85.0) 
+ to 
+ (+93.0) 
+ at 
+ 3400 lb. 
+ (+83.0) 
+ to 
+ (+93.0) 
+ at 
+ 2700 lb. or less 
+ 89.7 
+ 93.0 
+ LB. 
+ 87.3 
+ 3925 
+ 3925 
+ 3800 
+ 85.0 
+ 3400 
+ 3400 
+ 83.0 
+ 2700 
+ 2700 
+ 2400 
+ 2400 
+ INCHES"
+Empty Weight CG Range,None
+Maximum Weight,"Ramp 
+ 3943 lb. 
+ Takeoff 
+ 3925 lb. 
+ Landing 
+ 3800 lb."
+Number of Seats,"4 (2 at +80.5, 2 at +118.1)"
+Maximum Baggage,200 lb. at +142.8
+Fuel Capacity,"110 gallons (2 nacelle tanks) at +95.0 (108 gallons usable) 
+ (See NOTE 1 for data on system fuel)"
+Oil Capacity,"6 quarts per engine (4 quarts per engine usable) 
+ (See NOTE 1 for data on system oil)"
+Maximum Operating Altitude,"20,000 feet"
+Control Surface Movements,"Ailerons 
+ (±2°) 
+ Up 
+ 23° 
+ Down 
+ 17° 
+ Stabilator 
+ (±1°) 
+ Up 
+ 15° 
+ Down 
+ 3° 
+ Rudder 
+ (+1°, -0°) 
+ Left 
+ 37° 
+ Right 
+ 37° 
+ Stabilator Trim Tab 
+ (±1°) 
+ Up 
+ 4° 
+ Down 
+ 9° 
+ (Stabilator neutral) 
+ Wing Flaps 
+ (±2°) 
+ Up 
+ 0° 
+ Down 
+ 40° 
+ Rudder Trim Tab 
+ (±2°) 
+ Left 
+ 26° 
+ Right 
+ 26° 
+ (Rudder neutral) 
+ Nose Wheel Travel 
+ (±1°) 
+ Left 
+ 30° 
+ Right 
+ 30°"
+Manufacturers Serial Numbers,44-8107001 through 44-8207020
+DATA PERTINENT TO ALL MODELS,
+Datum,"78.4"" forward of wing leading edge at wing station 106."
+Leveling Means,Two screws left side fuselage below window.
+Certification Basis,"Type Certificate No. A19SO issued March 10, 1978. 
+ Date of application for Type Certificate, January 17, 1976. 
+ PA-44-180: Federal Aviation Regulations (FAR) Part 23 effective February 1, 1965, 
+ through Amendment 23-16 effective February 14, 1975; FAR 23.1557(c)(1) as amended 
+ by Amendment 23-18 effective May 2, 1977; and FAR 36 effective December 1, 1969, 
+ through Amendment 36-4, effective February 3, 1975. 
+ Equivalent Safety Finding: FAR 23.1545(a). 
+ PA-44-180T: FAR 23 effective February 1, 1965, through Amendment 23-16 effective 
+ February 14, 1975; FAR 23.207 and 23.1091 as amended by Amendment 23-7 effective 
+ September 14, 1969; FAR 23.201 and 23.203 as amended by Amendment 23-14 
+ effective December 20, 1973; FAR 23.1093 and 23.1557(c)(1) as amended by 
+ Amendment 23-18 effective May 2, 1977; FAR 23.1581(b)(2) as amended by 
+ Amendment 23-21 effective March 1, 1978; FAR 23.1545(a) as amended by 
+ Amendment 23-23 effective December 1, 1978; and FAR 36 effective 
+ December 1, 1969, through Amendment 36-9 effective April 3, 1978. 
+ Compliance with FAR 23.1441 as amended by Amendment 23-9 effective June 17, 1970, 
+ shown with optional supplemental oxygen. 
+ For PA-44-180 aircraft equipped with Piper factory installed Avidyne Entegra Systems 
+ (see Piper Report VB-1940), the additional certification basis for installation specific 
+ items only is: FAR 23.1301, 23.1327, and 23.1335 as amended by Amendment 23-20 
+ effective September 1, 1977; FAR 23.1501 and 23.1541(a)(b) as amended by 
+ Amendment 23-21 effective March 1, 1978; FAR 23.603 and 23.605(a) as amended by 
+ Amendment 23-23 effective October 10, 1978; FAR 23.1529 as amended by Amendment 
+ 23-26 effective October 14, 1980; FAR 23.1523 as amended by Amendment 23-34 
+ effective February 17, 1987; FAR 23.1322, 23.1331 and 23.1357(a)(2)(b)(c)(d) as 
+ amended by Amendment 23-43 effective May 10, 1993; FAR 23.305, 23.613, 
+ 23.773(a)(1)(2), 23.1525 and 23.1549(a)(b)(c) as amended by Amendment 23-45 
+ effective September 7, 1993; FAR 23.301, 23.337(a)(1)(b)(1), 23.341(a), 23.473, 
+ 23.561(b)(3)(e), 23.607 and 23.611 as amended by Amendment 23-48 effective March 
+ 11, 1996; FAR 23.1303(a)(b)(f), 23.1307, 23.1309(a)(1)(3)(b)(c)(1)(2)(i)(iii)(3)(d)(e), 
+ 23.1311, 23.1321, 23.1323(a)(c), 23.1329(d)(e)(f)(g)(h), 
+ 23.1351(a)(1)(2)(i)(b)(1)(i)(2)(3)(d), 23.1353(d)(h), 23.1359(c), 23.1361(a)(b), 
+ 23.1365(a)(b)(d)(e)(f) and 23.1431(a)(b)(d)(e) as amended by Amendment 23-49 
+ effective March 11, 1996; FAR 23.1325(a)(b)(1)(2)(i)(3), 23.1543(b)(c), 23.1545(a)(b), 
+ 23.1553, 23.1555(a)(b), 23.1581(a)(b)(2)(3)(f), 23.1583(m) and 23.1585(j) as amended 
+ by Amendment 23-50 effective March 11, 1996; FAR 23.777(a)(b), 23.955(a)(3) and 
+ 23.1337(a)(b)(1)(4)(c) as amended by Amendment 23-51 effective March 11, 1996; 
+ 23.1305(a)(1)(2)(3)(b)(2)(3)(i)(4)(i)(5) as amended by Amendment 23-52 effective July 
+ 25, 1996; and Special Condition for HIRF (Docket No. CE238, Special Condition 23- 
+ 178-SC), January 13, 2006. Eligible Serial Numbers 4496174, 4496224 and up. 
+ For PA-44-180 aircraft equipped with Piper factory installed Garmin G500 (see Piper 
+ Report VB-2314), the additional certification basis for installation specific items only is: 
+ {Unless otherwise noted in the table below, all sections are Amendment 23-16} 
+ Section 
+ Amendment 
+ Section 
+ Amendment 
+ 23.301 (a),(b),(c) 
+ 23-48 
+ 23.611 
+ 23-48 
+ 23.303 
+ 23.771(a) 
+ 23.305(a) 
+ 23-45 
+ 23.773(a)(2) 
+ 23-45 
+ 23.307(a) 
+ 23.777(a),(b) 
+ 23-51 
+ 23.337 
+ 23-48 
+ 23.867(a),(b),(c) 
+ 23-49 
+ 23.561(a),(b)(3) 
+ 23-48 
+ 23.1301 
+ 23-20 
+ 23.603 
+ 23-23 
+ 23.1303(a),(b),(c),(f) 
+ 23-49 
+ 23.605(a) 
+ 23-23 
+ 23.1307 
+ 23-49 
+ 23.607(a) 
+ 23-48 
+ 23.1308(a),(b),(c) 
+ 23-57 
+ 23.609 
+ 23.1309(a)(1)(3),(b) 
+ 23-49 
+ (c),(d),(e) 
+ Additional certification basis for installation specific items only (continued): 
+ {Unless otherwise noted in the table below, all sections are Amendment 23-16} 
+ Section 
+ Amendment 
+ Section 
+ Amendment 
+ 23.1311(a)(1)(2)(3)(4) 
+ 23-49 
+ 23.1367 
+ (5)(6),(b),(c) 
+ 23.1321(a)(b)(c)(d) 
+ 23-49 
+ 23.1381(a),(b) 
+ (e)(f) 
+ 23.1322(a),(b),(c),(d) 
+ 23-43 
+ 23.1431(a),(b) 
+ 23-49 
+ (e) 
+ 23.1323(a),(c) 
+ 23-49 
+ 23.1501 
+ 23-21 
+ 23.1325(b)(1),(b)(2)(i),(e) 
+ 23-50 
+ 23.1523 
+ 23-34 
+ 23.1327(a) 
+ 23-20 
+ 23.1525 
+ 23-45 
+ 23.1329(h) 
+ 23-49 
+ 23.1529 
+ 23-26 
+ 23.1331(a),(b)(1) 
+ 23-43 
+ 23.1541(a),(b) 
+ 23-21 
+ 23.1335 
+ 23-20 
+ 23.1543(b),(c) 
+ 23-50 
+ 23.1351(a)(1),(a)(2)(i) 
+ 23-49 
+ 23.1545(a),(b) 
+ 23-50 
+ 23.1353(h) 
+ 23-49 
+ 23.1559(c) 
+ 23-50 
+ 23.1357(a),(b),(d) 
+ 23-43 
+ 23.1581(a),(b),(c),(f) 
+ 23-50 
+ 23.1359(c) 
+ 23-49 
+ 23.1583(h),(m) 
+ 23-50 
+ 23.1365(a),(b),(d),(e) 
+ 23-49 
+ 23.1585(j) 
+ 23-50 
+ Eligible Serial Numbers 4496325 and up. 
+ For PA-44-180 aircraft equipped with Piper factory installed Garmin G1000 Integrated 
+ Avionics System and 28 Volt Electrical System, the additional certification basis for 
+ installation specific items only is: 
+ 14 CFR Part 23 regulations: 23.21, 23.23(a), 23.25, 23.29, 23.207(a), 23.251, 
+ 23.301(a)(b)(c), 23.303, 23.305, 23.307, 23.337, 23.341(a)(c), 23.421(a), 23.473, 
+ 23.561(a)(b)(3)(e), 23.601, 23.603, 23.605(a), 23.607, 23.609, 23.611, 23.613, 23.625, 
+ 23.627, 23.729(e)(f), 23.771(a), 23.773(a)(1)(2), 23.777(a)(b), 23.867, 23.1041, 
+ 23.1043(a)(b)(c)(d), 23.1047, 23.1163(a)(b)(d), 23.1301, 
+ 23.1305(a)(1)(2)(3)(b)(2)(3)(i)(4)(i)(b)(5), 23.1306, 23.1307, 23.1308(a)(b)(c), 
+ 23.1309(a)(1)(3)(b)(c)(d)(e), 23.1311, 23.1321, 23.1322, 23.1323(a)(c), 
+ 23.1325(a)(b)(1)(2)(i), 23.1326, 23.1327(a), 23.1329(d)(g)(h), 23.1335, 
+ 23.1337(b)(1)(4), 23.1351(a)(1)(2)(i)(b)(1)(i)(3)(c)(4)(d), 23.1353, 23.1357, 23.1359(c), 
+ 23.1361(a)(c), 23.1365, 23.1367, 23.1381, 23.1431(a)(b)(e), 23.1501, 23.1507, 23.1523, 
+ 23.1525, 23.1529, 23.1541(a)(b), 23.1543(b)(c), 23.1545(a)(b), 23.1549(a)(b)(c), 
+ 23.1553, 23.1555(a)(b)(e)(1), 23.1563(a)(b), 23.1567(a), 23.1581(a)(c), 
+ 23.1583(g)(h)(m), 23.1585(j), 23.1589 as amended by Amdt. 23-61; 23.1303(a)(b)(c)(f) 
+ as amended by Amdt. 23-62. 
+ Eligible Serial Numbers: 4496331, 4496339 and up. 
+ For PA-44-180 aircraft equipped with Piper factory installed Garmin GFC700 Autopilot, 
+ the additional certification basis for installation specific items only is: 
+ 14 CFR Part 23 regulations: 23.21(b), 23.23(a)(b)(3), 23.25(a)(b), 23.29, 23.143(a)(b), 
+ 23.207(a)(b)(c)(d)(e), 23.301(a)(b)(c), 23.303, 23.305, 23.307, 23.337, 23.341(a)(c), 
+ 23.397, 23.399, 23.473, 23.561(a)(b)(3)(e), 23.601, 23.603, 23.605(a), 23.607, 23.609, 
+ 23.611, 23.613, 23.625, 23.627, 23.681, 23.683, 23.693, 23.771(a), 23.777(a)(b), 
+ 23.779(a)(2), 23.867, 23.1141(d), 23.1301(a)(b)(c)(d), 23.1306, 23.1308(a)(b)(c), 
+ 23.1309(a)(1)(3)(b)(1)(3)(c)(d)(e), 23.1321(c), 23.1322(a)(b)(c)(d)(e), 
+ 23.1329(a)(1)(b)(c)(d)(e)(f)(g)(h), 23.1335, 23.1351(a)(1)(2)(i), 23.1357(a)(b)(c)(d), 
+ 23.1359(c), 23.1365, 23.1367(a)(b)(c)(d), 23.1431(a)(b)(e), 23.1501, 23.1523, 23.1525, 
+ 23.1529, 23.1541(a)(b), 23.1555(a), 23.1581(a), 23.1583(g)(h)(m), 23.1585(a)(1)(j) as 
+ amended by Amdt. 23-61. 
+ Eligible Serial Numbers: 4496331, 4496367 and up. 
+ For PA-44-180 aircraft equipped with Piper factory installed Garmin G1000NXi Phase I 
+ as installed by Piper drawing number 107600-002, the additional certification basis for 
+ installation specific items only is: 
+ 14 CFR Part 23 regulations: 23.21, 23.23(a), 23.25(a)(b), 23.29, 23.251, 23.301(a)(b)(c), 
+ 23.303, 23.305, 23.307, 23.337, 23.341(a)(c), 23.421(a), 23.473, 23.561(a)(b)(3)(e), 
+ 23.601, 23.603, 23.605(a), 23.607, 23.609, 23.611, 23.613, 23.625, 23.627, 23.729(e)(f), 
+ 23.771(a), 23.773(a)(2), 23.777(a)(b), 23.867, 23.903(a), 23.1041, 23.1043(a)(b)(c), 
+ 23.1047, 23.1163(a)(b)(d), 23.1301(a)(b)(c)(d), 23.1305(a)(1)(2) (3)(b)(2)(3)(i)(4)(i)(5), 
+ 23.1306, 23.1307, 23.1308(a)(b)(c), 23.1309(a)(1)(3)(b)(c)(d)(e), 
+ 23.1311(a)(1)(2)(3)(4)(6)(7)(b)(c), 23.1321(a)(b)(c)(d)(5)(e), 23.1322(a)(b)(c)(d)(e), 
+ 23.1323(a)(c), 23.1325(a)(b)(1)(2)(i), 23.1326(a), 23.1327(a), 23.1329(h), 23.1335, 
+ 23.1337(b)(1)(4), 23.1351(a)(1)(2)(i) (b)(1)(i)(3)(c)(4)(d), 23.1353(h), 
+ 23.1357(a)(b)(c)(d), 23.1359(c), 23.1361(a), 23.1365, 23.1367(a)(b)(c)(d), 
+ 23.1381(a)(b)(c), 23.1383(a)(b)(c)(d), 23.1385(a)(b)(c)(d), 23.1387(a)(b)(c)(d)(e), 
+ 23.1389(a)(b)(c), 23.1391, 23.1393, 23.1395(a)(b), 23.1397(a)(b)(c), 
+ 23.1401(a)(b)(c)(d)(e)(f), 23.1431(a)(b), 23.1523, 23.1525, 23.1529, 23.1541(a)(b), 
+ 23.1543(b)(c), 23.1545(a)(b), 23.1549(a)(b)(c), 23.1553, 23.1555(a)(b)(e)(1), 
+ 23.1563(a)(b), 23.1567(a), 23.1581(a)(c), 23.1583(g)(h)(m), 23.1585(j), 23.1589 as 
+ amended by Amdt. 23-61. 
+ 14 CFR Part 23 Regulation 23.1303(a)(b)(c)(f) as amended by Amdt. 23-62 
+ Eligible Serial Numbers: 4496395, 4496397 and up. 
+ For PA-44-180 aircraft equipped with Piper Lycoming IO-360-B1G6 and LIO-360-B1G6 
+ Fuel Injected Engines as installed by Piper drawing number 107600-003 the additional 
+ certification basis for installation specific items only is: 
+ 14 CFR Part 23 Regulations 23.33(a)(d), 23.865, 23.901(a)(1)(2)(b)(1)(2), 
+ 23.903(a)(c)(1)(2)(d), ), 23.905(a)(b)(c), 23.907(a), 23.925(a)(c)(1)(2)(3), 
+ 23.951(a)(b)(1), 23.953(a), 23.954(a)(b)(c), 23.959, 23.961, 23.963, 23.965, 23.967, 
+ 23.969, 23.971, 23.973, 23.975(a), 23.977, 23.991(a)(1)(b), 23.993, 23.994, 23.995, 
+ 23.997, 23.999, 23.1011, 23.1017, 23.1019(b), 23.1021, 23.1023, 23.1027, 
+ 23.1091(a)(b)(1)(2)(3), 23.1103, 23.1121(a)(b)(c)(d)(e)(f), 23.1123, 23.1141(a)(b)(c)(d), 
+ 23.1143, 23.1145, 23.1147, 23.1149, 23.1153, 23.1182, 23.1183, 23.1189, 23.1191, 
+ 23.1193, 23.1521(a)(b)(1)(c)(1)(4)(d), as amended by Amdt. 23-16 
+ 14 CFR Part 23 Regulations 23.1101 as amended by Amdt. 23-43; 
+ 14 CFR Part 23 Regulations 23.955(a)(c)(1)(3)(e)(3), 23.1093(a)(5), 23.1107 as 
+ amended by Amdt. 23-51; 
+ 14 CFR Part 23 Regulations 23.21, 23.23, 23.25(a)(b), 23.29, 23.301, 23.303, 23.305, 
+ 23.307, 23.337, 23.341(a)(c), 23.473, 23.561(a)(b)(3)(e), 23.601, 23.603, 23.605(a), 
+ 23.607, 23.609, 23.611, 23.613, 23.625, 23.627, 23.777(a)(b), 23.779(b)(1), 23.1041, 
+ 23.1043, 23.1047, 23.1163, 23.1301(a)(b)(c)(d), 
+ 23.1305(a)(1)(2)(3)(4)(b)(2)(3)(i)(4)(i)(5), 23.1309(a)(1)(a)(3)(b)(f), 
+ 23.1337(a)(1)(2)(3)(b)(1)(4)(c)(d)(1), 23.1351(b)(1)(i), 23.1357(a)(b)(c), 23.1359(c), 
+ 23.1365(c), 23.1431(b), 23.1529, 23.1541(a)(b), 23.1549(a)(b)(c), 23.1553, 
+ 23.1555(a)(b)(c)(1)(3)(4)(d)(e)(1)(2), 23.1581(a), 23.1583(g)(h)(m), 23.1585(j), 23.1589 
+ as amended by Amdt. 23-61; 
+ Eligible Serial Numbers: 4496404, 4496417 and up. 
+ For PA-44-180 aircraft equipped with Piper factory installed Garmin G1000NXi Phase II 
+ as installed by Piper drawing number 107600-002 or 107600-003, the additional 
+ certification basis for installation specific items only is: 
+ 14 CFR Part 23 Regulation 23.903(d) as amended by Amdt. 23-16 
+ 14 CFR Part 23 Regulations 23.21, 23.23, 23.25(a)(b), 23.29, 23.251, 23.301(a)(b)(c), 
+ 23.303, 23.305(a)(b), 23.307(a), 23.337(a)(b), 23.341(a)(c), 23.473, 23.561(a)(b)(3)(e), 
+ 23.601, 23.603, 23.605(a), 23.607, 23.609, 23.611, 23.613, 23.625, 23.627, 23.729(e)(f), 
+ 23.771(a), 23.773(a)(1)(2), 23.777(a)(b), 23.867, 23.1301(a)(b)(c)(d), 
+ 23.1305(a)(1)(2)(3)(b)(2)(3)(i)(4)(i)(5), 23.1306, 23.1307, 23.1308(a)(b)(c), 
+ 23.1309(a)(1)(3)(b)(c)(d)(e), 23.1311(a)(1)(2)(3)(4)(6)(7)(b)(c), 
+ 23.1321(a)(b)(c)(d)(5)(e), 23.1322(a)(b)(c)(d)(e), 23.1323(a)(c), 23.1325(a)(b)(1)(2)(i), 
+ 23.1326(a)(b), 23.1327(a), 23.1329(d)(e)(g)(h), 23.1335, 23.1337(b)(1)(4), 
+ 23.1351(a)(1)(2)(i)(b)(1)(i)(ii)(iii)(3)(c)(4)(d), 23.1353(h), 23.1357(a)(b)(c)(d), 
+ 23.1359(c), 23.1361(a), 23.1365, 23.1367(c)(d), 23.1381(a)(b)(c), 23.1431(a)(b)(e), 
+ 23.1501, 23.1523, 23.1525, 23.1529, 23.1541(a)(b), 23.1543(b)(c), 23.1545(a)(b), 
+ 23.1549(a)(b)(c), 23.1553, 23.1555(a)(b)(e)(1), 23.1581(a)(c), 23.1583(g)(h)(m), 
+ 23.1585(j), 23.1589(a) as amended by Amdt. 23-61 
+ 14 CFR Part 23 Regulation 23.1303(a)(b)(c)(f) as amended by Amdt. 23-62 
+ Eligible Serial Numbers: 4496432, 4496447 and up. 
+ For PA-44-180 aircraft equipped with Piper factory installed Garmin G5 Standby 
+ Instrument as installed by Piper drawing number 107600-002 or 107600-003, the 
+ additional certification basis for installation specific items only is: 
+ 14 CFR Part 23.303, 23.307(a), 23.1381(a)(b) as amended by Amndt. 23-0 
+ 14 CFR Part 23.771(a) as amended by Amndt. 23-14 
+ 14 CFR Part 23.1541(a)(b) as amended by Amndt. 23-21 
+ 14 CFR Part 23.601, 23.603, 23.605(a) as amended by Amndt. 23-23 
+ 14 CFR Part 23.1529 as amended by Amndt. 23-26 
+ 14 CFR Part 23.1322(a)(e), 23.1357(a)(b)(c)(d) as amended by Amndt. 23-43 
+ 14 CFR Part 23.305, 23.613(a)(b), 23.773(a)(2) as amended by Amndt. 23-45 
+ 14 CFR Part 23.301(a), 23.337(a)(b), 23.607(b) as amended by Amndt. 23-48 
+ 14 CFR Part 23.1307, 23.1309(b)(1)(e), 23.1321(c)(e), 23.1351(a)(1)(2)(i), 23.1359, 
+ 23.1365(a)(b)(c)(d)(e) as amended by Amndt. 23-49 
+ 14 CFR Part 23.1325(a)(b), 23.1543(b), 23.1581(a)(b)(d)(f) as amended by Amndt. 23-50 
+ 14 CFR Part 23.25(a)(b), 23.29 as amended by Amndt. 23-61 
+ 14 CFR Part 23.251(a), 23.561(a)(b)(3)(c), 23.777(a)(b), 23.853(a), 23.1301(a)(b)(c), 
+ 23.1303(a)(b)(c)(f), 23.1309(a)(1)(2), 23.1311(a)(1)(2)(3)(6)(7)(b), 23.1323(a)(b)(c), 
+ 23.1331(a)(b)(1)(c), 23.1353(h), 23.1431(a)(b), 23.1545(a)(b)(c), 23.1555(a)(b), 23.1583(m), 
+ 23.1585(a) as amended by Amndt. 23-62 
+ 14 CFR Part 23.2515(a)(b), 23.2520(a)(b) as amended by Amndt. 23-64 
+ Eligible Serial Numbers: 4496471, 4496498, 4496502 and up. 
+ For PA-44-180 aircraft equipped with Piper factory installed Hartzell HC-C2YR- 
+ 2C(L)EUFP/F(J)C7497 propeller assemblies installed by 89360-010/89360-011 or 
+ 44P72A001-001/ 44P72A001-002 the additional certification basis for installation 
+ specific items only is: 
+ 14 CFR Part 23.33(a)(d), 23.251, 23.925(a)(c), 23.1521(a)(b)(1)(c)(1)(4) as amended by 
+ Amndt. 23-0 
+ 14 CFR Part 23.49, 23.65, 23.67, 23.75, 23.77, 23.149, 23.1041, 23.1043, 23.1047, 
+ 23.1501(a)(b)(c) as amended by Amndt. 23-7 
+ 14 CFR Part 23.1541(a)(b), 23.1559(a)(1)(b), 23.1581, 23.1583, 23.1585, 23.1587 as 
+ amended by Amndt. 23-13 
+ 14 CFR Part 23.201 as amended by Amndt. 23-14 
+ 14 CFR Part 23.51(b) as amended by Amndt. 23-16 
+ 14 CFR Part 23.1549 as amended by Amndt. 23-17 
+ 14 CFR Part 23.901 as amended by Amndt. 23-18 
+ 14 CFR Part 23.1529 as amended by Amndt. 23-26 
+ 14 CFR Part 23.905(a)(b)(c)(d), 23.907 as amended by Amndt. 23-59 
+ 14 CFR Part 23.25(a)(b), 23.301(a)(b)(c), 23.303, 23.305, 23.307, 23.337, 23.341(a)(c), 
+ 23.361(a)(c), 23.363, 23.473, 23.601,23.603, 23.605(a), 23.607, 23.609, 23.611, 23.627 as 
+ amended by Amndt. 23-61 
+ Eligible Serial Numbers: 4496471, 4496517 and up."
+Production Basis,"Production Certificate No. 206. Production Limitation Record issued and the 
+ manufacturer authorized to issue airworthiness certificate under the Delegation Option 
+ provisions of FAR 21."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. In addition, the 
+ following items of equipment are required: 
+ PA-44-180: POH and FAA Approved AFM, VB-860, approved March 23, 1978, for 
+ S/N 44-7995001 through 44-8195026. 
+ POH and FAA approved AFM, VB-1380, approved July 20, 1989, for S/N 4495001 
+ through 4495013. 
+ POH, VB-1616, approved July 12, 1995, for S/N 4496001 and up. 
+ POH, VB-1942, approved May 26, 2006, for S/N 4496174 and 4496224 and up when 
+ Avidyne Entegra System (See Piper Report VB-1940) is installed 
+ POH, VB-2307, approved June 5, 2013, for S/N 4496331, 4496339 and up, when the 
+ Garmin G1000 Integrated Avionics System is installed 
+ POH, VB-2307 Rev 02 or later, approved October 28, 2014, for S/N: 4496331, 4496367 
+ and up, when the Garmin G1000 and/or GFC700 autopilot installed 
+ POH, VB-2636 Rev 00 or later, approved November 3, 2016, for S/N: 4496395, 
+ 4496397 and up, when the Garmin G1000 is installed by Piper drawing number 
+ 107600-002 
+ POH, VB-2636 Rev 01 or later, approved December 15, 2017, for S/N: 4496404, 
+ 4496417 and up, when the Lycoming Fuel Injected Engines are installed. 
+ POH, VB-2636 Rev 03 or later, approved October 1, 2018, for S/N: 4496432, 4496447 
+ and up, when Garmin G1000NXi is installed by Piper Drawing Number 107600-002 or 
+ 107600-003. 
+ POH, VB-2636, Rev 05 or later, approved April 2, 2020 for SN4496471, 4496517 and 
+ up when optional Hartzell 2-Blade Scimitar Propeller Model HC-C2YR- 
+ 2C(L)EUFP/F(J)C7497 propeller assembly installed by Piper Drawing Number 89360- 
+ 010/89360-011 or 44P72A001-001/ 44P72A001-002. 
+ POH, VB-2636, Rev 05 or later, approved April 2, 2020 for SN4496471, 4496498, 
+ 4496502 and up, when Garmin G5 Standby instrument is installed by Piper Drawing 
+ Number 107600-002 or 107600-003. 
+ PA-44-180T: POH and FAA approved AFM, VB-1100, approved March 14, 1980, for 
+ S/N 44-8107001 through 44-8207020."
+NOTE 1,"Current Weight and Balance Report, including list of equipment included in certificated 
+ empty weight and loading instructions when necessary, must be provided for each aircraft 
+ at the time of original certification. 
+ The certificated empty weight and corresponding center-of-gravity locations must include 
+ undrainable system oil (not included in oil capacity) and unusable fuel as noted below: 
+ Fuel: 12.0 lb. at (+95.0) 
+ Oil: 3.6 lb. at (+68.8)"
+NOTE 2,"All placards required in the Pilot's Operating Handbook and FAA Approved Airplane 
+ Flight Manual must be installed in the appropriate locations."
+NOTE 3,"The below life limits are based on general aircraft usage for this aircraft class: 
+ a) 
+ PA-44-180 
+ For S/N 44-7995001 through 44-8195026 
+ The service life of the wing, wing carry through and their attaching structure 
+ has been established as 14663 hours maximum. 
+ For S/N 4495001 through 4495013, and 4496001 and up 
+ The service life of the wing, wing carry through and their attaching structure 
+ has been established as 14663 hours maximum. 
+ b) 
+ PA-44-180T 
+ For S/N 44-8107001 through 44-8207020 
+ The service life of the wing, wing carry through and their attaching structure 
+ has been established as 16462 hours maximum."
+NOTE 4,"The PA-44-180, S/N 44-7995001 through 44-8195026, may be operated without spinner 
+ domes or without spinner domes and rear bulkheads, except when equipped with three- 
+ bladed propellers and air conditioning, in which case only the spinner dome may be 
+ removed. 
+ The PA-44-180, S/N 4495001 through 4495013, and 4496001 and up, may be operated 
+ with only the spinner dome removed."
+NOTE 5,"The following serial numbers are not eligible for airworthiness certification in the United 
+ States: 44-7995235 and 44-7995298."
+NOTE 6,"Engines must be both carbureted or both fuel injected, mixing carbureted with fuel 
+ injected engines is prohibited as well as mixing spinners."

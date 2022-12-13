@@ -1,0 +1,160 @@
+Keyterm,Info
+"H3SW 
+ Revision 10 
+ BRANTLY 
+ 305 
+ October 17, 1990",
+Type Certificate Holder,"Brantly Helicopters Industries U.S.A. Co., Ltd. 
+ Wilbarger County Airport 
+ P.O. Box 113 
+ Vernon, Texas 76384"
+"I - Model 305, 5 PCLH (Normal Category), Approved July 29, 1965",
+Engine,Lycoming IVO-540-A1A
+Fuel,100/130 min. grade aviation gasoline
+Engine limits,"H.P. 
+ R.P.M. 
+ M.P. In. Hg 
+ Altitude (Ft.)"
+all operations,"305 
+ 3200 
+ 27 
+ Sea Level 
+ 305 
+ 3200 
+ 26.3(F.T.) 
+ 2200"
+Fuel injector and,Bendix Type RSA-10AD/with servo regulator parts list 2524255-1.
+Rotor limits and operational,"Power Off (Rotor Tach) 
+ Power On (Engine Tach)"
+engine speeds,"Max. 480 r.p.m. 
+ Max. 3200 r.p.m. 
+ Min. 400 r.p.m. (above 2400 lb. gr. wt.) 
+ Min. 3000 r.p.m. 
+ 380 r.p.m. (below 2400 lb. gr. wt.)"
+Airspeed limits,"Never exceed speed 120 m.p.h. (104 knots) CAS from sea level to 2000 ft. 
+ Above 2000 ft. decrease Vne 4.0 m.p.h. per 1000 ft."
+CG range,"(a) 
+ Longitudinal limits 
+ (+100.7) to (+107.2) at 2900 lb. 
+ (+100.0) 
+ at 2700 lb. 
+ (+109.1) 
+ at 2400 lb. 
+ Straight line variation between points given. 
+ 3000 
+ 2800 
+ 2600 
+ LB. 
+ 2400 
+ 2200 
+ 2000 
+ 1800 
+ 100 
+ 104 
+ 108 
+ 112 
+ Longitudinal CG. Station (In.)"
+Page No,"1 
+ 2 
+ 3"
+Rev No,"10 
+ 10 
+ 10 
+ (b) 
+ Lateral C.G. limits 
+ ± 1.00 in. from centerline of fuselage at longitudinal C.G. of (+100.00) and 
+ (+109.1) 
+ ± 2.5 in. from centerline of fuselage at longitudinal C.G. of (+103.0) to (+107.1) 
+ Straight line variation between points given."
+Empty wt CG range,None
+Datum,100 in. forward of forward firewall.
+Leveling means,"Cabin doors, lower sill."
+Maximum weight,2900 lb.
+No of seats,"2 (+56), 3 (+86)."
+Maximum baggage,200 lb. (+142)
+Fuel capacity,43.5 gal. (+114) includes 0.5 gal. unusable fuel.
+Oil capacity,9 qt. (+186) includes 4 qt unusable. (See NOTE 1 for undrainable oil).
+Rotor blade and,For rigging information refer to the pertinent model maintenance manual.
+Serial Nos eligible,1001 and up
+Certification basis,"Part 6 of the Civil Air regulations effective December 20, 1956, as amended by 6-1 thru 
+ 6-6 and .116 of 6-7. 
+ Type Certificate No. H3SW issued July 29, 1965. 
+ Application for Type Certificate dated September 11, 1963."
+Production basis,"None. Prior to original certification of each helicopter an FAA representative must 
+ perform a detailed inspection for workmanship, materials and conformity with approved 
+ technical data, and a check of flight characteristics."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification basis) must be installed in the helicopter for certification. Brantly 
+ Report No. 528 contains a list of all required as well as optional equipment approved by 
+ the FAA. In addition, the following item of equipment is required: 
+ FAA Approved Rotorcraft Flight Manual dated July 19, 1965."
+NOTE 1,"Current weight and balance report together with list of required equipment, list of equipment included in 
+ certificated empty weight, and loading instructions when necessary must be provided for each helicopter at 
+ the time of original certification. The certificated empty weight and corresponding center of gravity 
+ locations must include undrainable oil of 3.5 lb. at (+106.5) and unusable fuel of 3.0 lb. at (+101)."
+NOTE 2,"The following placard must be displayed in front of and in clear view of the pilot: 
+ ""This helicopter must be operated in compliance with the operating limitations specified in the FAA 
+ Approved Rotorcraft Flight Manual. Not eligible for instrument flight or acrobatic maneuvers. See Flight 
+ Manual for loading. Prior to each engine start turn rotor backward by hand through 30 degrees minimum to 
+ check clutch freedom. Do not apply rotor brake above 200 r.p.m. Avoid prolonged rearward or sideward 
+ flight."""
+NOTE 3,"The retirement times of critical parts are listed in the following table. These values cannot be increased 
+ without FAA engineering approval. 
+ Description 
+ Part Number 
+ Service Life Hours 
+ Outboard Main Rotor Components 
+ Main rotor blades 
+ J0112-1, -3 
+ 1370 
+ Inboard Main Rotor Components 
+ Torque tube 
+ J0878-1 
+ 2990 
+ Pitch arm 
+ C0762-1 
+ 2990 
+ Pitch arm assembly 
+ C0873-1 
+ 2990 
+ Torsion strap 
+ C0976-1 
+ Not eligible 
+ Pylon assembly 
+ C0790-1 
+ 8950 
+ Bearing 
+ 36NBC2048YZP 
+ Not eligible 
+ Tension clevis 
+ C0385-1 
+ 1187 
+ Torsion strap 
+ D2225-3 
+ 400 
+ Clevis bearings 
+ ESJ74837 
+ 100 
+ Fuselage components 
+ Main rotor transmission mount 
+ D0268-1 
+ 2500 
+ Tail cone and pylon 
+ D0121-1 
+ 764 
+ Tail cone and pylon 
+ J1835 
+ 5827 
+ Controls System 
+ Lateral controls 
+ All 
+ 12,000 
+ Collective controls 
+ All 
+ 7,462 
+ Drive System 
+ Over-running clutch 
+ CL-41044-1 
+ 300"
+NOTE 4,"The helicopter should be serviced and maintained in conformance with instructions given by Brantly 
+ Helicopter Corporation in the Model 305 Maintenance Manual."

@@ -1,0 +1,2544 @@
+Keyterm,Info
+"A49EU 
+ Revision 19 
+ BAE SYSTEMS (Operations) Limited 
+ BAe 146-Series -100* 
+ -200* 
+ -300* 
+ Avro 146-RJ Series 70* 
+ 85* 
+ 100* 
+ *See Note 19 
+ April 23, 2018",
+Type Certificate Holder,"BAE SYSTEMS (Operations) Limited 
+ Prestwick International Airport 
+ Ayrshire, Scotland KA9 2WR"
+"I. Model BAe 146-100A (Transport Category) Approved June 13, 1983",
+Engines,"4 Avco Lycoming Model ALF 502 R-3 Turbine engines 
+ or 
+ 4 Avco Lycoming Model ALF 502 R-3A Turbine engines (See NOTE 7) 
+ or 
+ 4 Avco Lycoming Model ALF 502 R-5 Turbine engines (See NOTE 7)"
+Fuel,See Airplane Flight Manual for approved fuels and additives.
+Engine Limits,Model ALF 502 R-3 engine
+Sea Level Conditions,"Rating 
+ Thrust 
+ Engine 
+ Engine 
+ Turbine Gas 
+ lbs. 
+ N1 
+ N2 
+ Temperature * 
+ _____ 
+ % (RPM) 
+ % (RPM) 
+ °C (°F) 
+ Takeoff 
+ 6700 
+ 96.0 (7300) 
+ 98.2 (19640) 
+ 882 (1620) 
+ (5 minutes) 
+ Max Continuous 
+ 6300 
+ 96.0 (7300) 
+ 96.9 (19380) 
+ 857 (1574) 
+ Model ALF 502 R-5 ALF 502 R-3A engines (See NOTE 9) 
+ Rating 
+ Thrust 
+ Engine 
+ Engine 
+ Turbine Gas 
+ lbs. 
+ N1 
+ N2 
+ Temperature* 
+ _____ 
+ % (RPM) 
+ % (RPM) °C (°F) 
+ Takeoff 
+ 6970 
+ 96.7 (7350) 
+ 98.2 (19640) 
+ 882 (1620) 
+ (5 minutes) 
+ Max. Continuous 6550 
+ 96.7 (7350) 
+ 96.9 (19380) 
+ 857 (1574) 
+ *See Airplane Flight Manual for additional N2 speed, start and relight limits."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13"
+Rev No,"18 
+ 18 
+ 18 
+ 18 
+ 18 
+ 18 
+ 18 
+ 18 
+ 18 
+ 19 
+ 19 
+ 18 
+ 18"
+Page No,"14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25"
+Rev No,"18 
+ 18 
+ 18 
+ 18 
+ 18 
+ 19 
+ 19 
+ 18 
+ 18 
+ 18 
+ 18 
+ 18"
+Airspeed Limits,"MMO (Maximum Operating) 0.70 
+ 0.73 with BAe 
+ kts. (IAS) 
+ Mod HCM40241C 
+ VMO (Maximum Operating to 8000 ft) 
+ 250 
+ (8,000 to 22,950 ft.) 
+ 300 
+ VA (Maneuvering): Flaps Retracted 
+ 205 
+ Flaps 18° 
+ 165 
+ VFE (Flap Speeds): 
+ Flaps Deflected 
+ Degrees 
+ Enroute/Hold 
+ 0 
+ VMO 
+ T.O./ Approach 
+ 18 
+ 200 
+ T.O./Approach 
+ 24 
+ 170 
+ T.O. 
+ 30 
+ 160 
+ Landing 
+ 33 
+ 140 
+ prior to embodiment of BAe 
+ Modifications HCM00020P and U. 
+ 145 post BAe Modifications 
+ HCM00020P and U. 
+ VLO (Landing Gear Operation) 
+ Operation 
+ 205 
+ Extended 
+ 205 
+ VLE (Landing Gear) 
+ Extended 
+ 205 
+ VMC (Minimum Control Speed) 
+ VMCA 
+ 95 
+ VMCG (up to 65,000 lbs takeoff weight) 
+ 87 
+ (above 65,000 lbs takeoff weight) 
+ 84 
+ C. G. Range (See Note 8) 
+ Landing Gear retraction moment - 8,916 lb. in. (Nose down) 
+ Maximum Taxi Weight 76500 lb. 
+ FORWARD 
+ AFT 
+ GROSS 
+ WEIGHT 
+ Takeoff and 
+ Takeoff and 
+ LBS 
+ Landing 
+ Enroute 
+ Landing 
+ Enroute 
+ 76000 
+ 43.5 SMC 
+ 44.5% SMC 
+ (Arm +0.78 ft.) 
+ (Arm +0.88 ft.) 
+ 76000 
+ Linear variation 
+ Linear variation 
+ to 
+ 28.1% SMC 
+ between 43.5% 
+ between 44.5% 
+ 70000 
+ All 
+ and 44% SMC 
+ and 45% SMC 
+ 70000 
+ (Arm -0.70 ft.) 
+ weights 
+ to 
+ 27% SMC 
+ 44% SMC 
+ 45% SMC 
+ 66000 
+ 66000 
+ (Arm 
+ (Arm 
+ to 
+ 28.0% SMC 
+ +0.83 ft.) 
+ +0.92 ft.) 
+ 47000 
+ (Arm 
+ 47000 
+ (Arm 
+ -0.81 ft.) 
+ Linear variation 
+ Linear variation 
+ to 
+ -0.71 ft.) 
+ between 44% 
+ between 45% 
+ 44000 
+ and 42.0% SMC 
+ and 43% 
+ Maximum taxi weight 82,750 lb. 
+ This is achieved by the fitment of one of the following: 
+ i) 
+ Modification HCM 60015Q. 
+ ii) 
+ Modifications HCM 30071A and HCM 40225B or E (Steel brakes). 
+ iii) Modifications HCM 30071A and HCM 40225G (carbon brakes). 
+ iv) Modifications HCM 40046L and HCM 40225D (low pressure tires, wheels 
+ and steel brakes). 
+ v) 
+ Modifications HCM 40046L and HCM 40225F (low pressure tires, wheels 
+ and carbon brakes). 
+ Maximum Taxi Weight with BAe Modifications HCM 30071A and HCM 40225B or 
+ HCM 40255G; HCM 40046L and HCM 40255D 
+ FORWARD 
+ AFT 
+ Gross 
+ Gross 
+ Weight 
+ Takeoff and 
+ Enroute 
+ Takeoff and 
+ Enroute 
+ Weight 
+ lbs. 
+ Landing 
+ Landing 
+ lbs. 
+ 82250 
+ 40.4% SMC 
+ 40.4% SMC 
+ 82250 
+ (Arm +0.48 ft.) 
+ (Arm +0.48 ft) 
+ 28.1% SMC 
+ Linear variation 
+ Linear variation 
+ 82250 
+ between 40.4% 
+ between 40.4% and 
+ to 
+ and 40.9% SMC 
+ 40.9% SMC 
+ 82000 
+ to 
+ (Arm 
+ All weights 
+ Linear variation 
+ Linear variation 
+ 82000 
+ -0.70 ft.) 
+ between 40.9% 
+ between 40.9% and 
+ to 
+ and 44% SMC 
+ 42% SMC 
+ 81350 
+ 66000 
+ 27% SMC 
+ Linear variation 
+ 81350 
+ between 42% and 
+ to 
+ 45% SMC 
+ 74000 
+ 66000 
+ 28.0% SMC 
+ (Arm 
+ 44% SMC 
+ 45% SMC 
+ 74000 
+ -0.81 ft.) 
+ (Arm +0.83 ft) 
+ (Arm +0.92 ft) 
+ to 
+ to 
+ 47000 
+ 44000 
+ (Arm 
+ Linear variation 
+ Linear variation 
+ 47000 
+ -0.71 ft.) 
+ between 44% and 
+ between 45% 
+ to 
+ 42.0% SMC 
+ and 43% SMC 
+ 44000 
+ Maximum taxi weight 84,500 lb with BAe Modification HCM 00020U 
+ Gross 
+ Gross 
+ Weight 
+ Takeoff and 
+ Enroute 
+ Takeoff and 
+ Enroute 
+ Weight 
+ lbs. 
+ Landing 
+ Landing 
+ lbs 
+ 84000 
+ 43.0% SMC 
+ 44.0% SMC 
+ 84000 
+ (Arm +0.73 ft.) 
+ (Arm +0.83 ft) 
+ All Weights 
+ All Weights 
+ Linear variation 
+ Linear variation 
+ 84000 
+ 28.0% SMC 
+ 27.0% SMC 
+ between 43.0% 
+ between 44.0% and 
+ to 
+ (Arm -0.71 ft.) 
+ (Arm -0.81 ft.) 
+ and 44.0% SMC 
+ 45.0% SMC 
+ 77500 
+ 44.0% SMC 
+ 45.0% SMC 
+ 77500 
+ (Arm +0.83 ft) 
+ (Arm +0.92 ft.) 
+ to 47000 
+ Linear variation 
+ Linear variation 
+ 47000 
+ between 44.0% 
+ between 45.0% and 
+ to 
+ and 42.0% SMC 
+ 43.0% SMC 
+ 44000"
+Maximum Weights,Maximum Taxi Weight 76500 lb
+See NOTE 8,"lbs 
+ kg 
+ Taxi 
+ 76,500 
+ 34,700 
+ Takeoff Weight 
+ 76,000 
+ 34,473 
+ Landing Weight 
+ 72,350 
+ 32,817 
+ Zero Fuel Weight 
+ 65,000 
+ 29,483 
+ Maximum Taxi Weight 82,750 lb 
+ lbs 
+ kg 
+ Taxi 
+ 82,750 
+ 37,535 
+ Takeoff Weight 
+ 82,250 
+ 37,308 
+ Landing Weight 
+ 72,350 
+ 32,817 
+ Zero Fuel Weight 
+ 66,000 
+ 29,937 
+ Maximum Taxi Weight 84,500 lb 
+ Taxi 
+ 84,500 
+ 38,328 
+ Takeoff Weight 
+ 84,000 
+ 38,101 
+ Landing Weight 
+ 77,500 
+ 35,153 
+ Zero Fuel Weight 
+ 68,500 
+ 31,070"
+Maximum Baggage,"Forward Hold 
+ 2580 lbs (Arm -12.7 ft.) 
+ Rear Hold 
+ 2420 lbs (Arm +11.78 ft.) 
+ The maximum floor loading in the baggage compartment is 75 lbs./sq. ft."
+Control Surface Movements,"The specific procedures for rigging each of the aircraft movable surfaces are defined in 
+ the documents listed below. Correct application of these procedures will ensure 
+ movement and travel of each surface is as required. 
+ HC271H0001 
+ Aileron Rigging 
+ HC272H0001 
+ Rudder Rigging 
+ HC273H0001 
+ Elevator Rigging 
+ HC275H0001 
+ Flap Rigging 
+ HC276H0001 
+ Airbrake and Lift Spoiler Rigging"
+Maximum Passengers,"94 maximum, in accordance with approved only setting configuration. 
+ BAe modification HCM 60014M provides a 76 seat layout that complies with the 
+ Type Certificate Standard. See drawing HC250H0154."
+Engine Oil Capacity,"Four oil tanks each 3.02 U.S. gallons capacity. Moment arm - 8.5 ft. 
+ See Airplane Flight Manual for Approved Oils."
+CG Datum,"Fuselage station AX 448.13 inches. This is 4 feet forward of the reference point which 
+ is indicated by two plates at the rear end of the landing wheel well."
+Other Operating Limitations,"Aircraft shall be operated in compliance with the operating limitations specified in the 
+ EASA Approved Flight Manual (AFM) Document No. BAE 5.1 dated August 15, 2007 
+ or later approved revisions. AFM BAE 5.1 supersedes CAA Approved Flight Manual 
+ Document No. BAe 3.3 dated June 13, 1983, or later approved revisions. 
+ When fitted with BAe modifications HCM 00209A, HCM 40046A, HCM 40046L, 
+ together with HCM 40046Z or HCM 40046B, HCM 40046D and HCM 40046M, and 
+ operated in accordance with the Approved Flight Manual, Document No. BAe 5. 1 
+ Appendix No. 29 the aircraft can be operated on unpaved runways up to a maximum 
+ takeoff of 76000 lbs. 
+ When fitted with BAe modifications HCM 60014G, HCM 60014H, HCM 60014J, 
+ HCM 60014Q, and HCM 60014R, the aircraft may be operated in a mixed passenger/ 
+ cargo layout. See BAe report number HTD.R.461-00.DC0097, Issue 3."
+"II. Model BAe 146 200A (Transport Category) Approved June 13, 1983 
+ (Same as 100A except increased gross weight and passenger seating.)",
+Engines,"4 Avco Lycoming Model ALF 502 R-3 Turbine Engines 
+ or 
+ 4 Avco Lycoming Model ALF 502 R-3A Turbine Engines (See NOTE 7) 
+ or 
+ 4 Avco Lycoming Model ALF 502 R-5 Turbine Engines (See NOTE 7)"
+Fuel,See Airplane Flight Manual for approved fuels and additives.
+Engine Limits,Model ALF 502 R-3 engine
+Standard Day,"Rating 
+ Thrust 
+ Engine 
+ Engine 
+ Turbine Gas 
+ lbs. 
+ N1 
+ N2* 
+ Temperature* 
+ % (RPM) 
+ %(RPM) 
+ °C (°F) 
+ Takeoff 
+ 6700 
+ 96.0 (7300) 
+ 98.2 (19640) 
+ 882 (1620) 
+ (5 minutes) 
+ Max. Continuous 6300 
+ 96.0 (7300) 
+ 96.1 (19380) 
+ 857 (1574) 
+ Model ALF 502 R-3A and ALF 502 R-5 engines (See NOTE 9) 
+ Rating 
+ Thrust 
+ Engine 
+ Engine 
+ Turbine Gas 
+ lbs. 
+ N1 
+ N2* 
+ Temperature* 
+ % (RPM) 
+ % (RPM) 
+ °C (°F) 
+ Takeoff 
+ 6970 
+ 96.7 (7350) 
+ 98.2 (19640) 
+ 882 (1620) 
+ (5 minutes) 
+ Max. Continuous 6550 
+ 96.7 (7350) 
+ 96.9 (19380) 
+ 857 (1574) 
+ *See Airplane Flight Manual for additional N2 speed, start and relight limits"
+Airspeed Limits,"MMO (Maximum Operating) 
+ 0.70 
+ 0.73 with BAe 
+ Mod HCM40241D 
+ kts. (IAS) 
+ VMO (Maximum Operating to 8000 ft) 
+ 250 
+ (8000 to 23,900 ft) 
+ 295 
+ VA (Maneuvering) 
+ Flaps Retracted 
+ 225 with BAe Mod. HCM00021B 
+ 230 with BAe Mod. HCM00021U 
+ Flaps 18° 
+ 175 
+ VFE (Flap Speeds) 
+ Flaps Deflected 
+ Degrees 
+ Enroute/Hold 
+ 0 
+ VMO 
+ T.O./Approach 
+ 18 
+ 205 prior to embodiment of BAe 
+ modifications HCM 00021M and U. 
+ 210 post BAe modifications 
+ HCM 00021M and U. 
+ T.O./Approach/Climb 
+ 24 
+ 180 
+ Approach 
+ 30 
+ 170 
+ Landing 
+ 33 
+ 145 
+ VLO (Landing Gear Operation) 
+ Operation 
+ 205 
+ Extended 
+ 205 
+ VLE (Landing Gear) 
+ Extended 
+ 205 
+ VMC (Minimum Control Speed) 
+ VMCA 
+ 95 
+ VMCG (up to 65,000 lbs takeoff weight) 86 
+ (above 65,000 lbs takeoff weight) 82"
+CG Range,"Landing gear retraction moment - 8,916 lb in (Nose down)"
+See NOTE 8,"Maximum Taxi Weight 90,000 lbs. 
+ FORWARD 
+ AFT 
+ Gross 
+ Weight 
+ Takeoff and 
+ Takeoff and 
+ lbs 
+ Landing 
+ Enroute 
+ Landing 
+ Enroute 
+ 89500 
+ 44.0% SMC 
+ 45.0% SMC 
+ (Arm +0.83 ft) 
+ (Arm +0.92 ft.) 
+ 89500 
+ Linear variation 
+ Linear variation 
+ to 
+ 28.1% SMC 
+ between 44% 
+ between 45% 
+ 85000 
+ and 46% SMC 
+ and 47% SMC 
+ 85000 
+ (Arm -0.70 ft.) 
+ to 
+ 71000 
+ All Weights 
+ 46% SMC 
+ 47% SMC 
+ 71000 
+ 27% SMC 
+ to 
+ (Arm +1.02 ft.) 
+ (Arm +1.12 ft.) 
+ 48500 
+ 28.0% SMC 
+ (Arm -0.81 ft.) 
+ 48500 
+ Linear variation 
+ Linear variation 
+ to 
+ (Arm -0.71 ft) 
+ between 46% 
+ between 47% 
+ 46000 
+ and 44% SMC 
+ and 45.2% 
+ SMC 
+ Maximum taxi weight 90,000 lbs. with Bae modifications HCM 00296A & HCM 45018A 
+ FORWARD 
+ AFT 
+ Gross Weight 
+ Takeoff and 
+ Enroute 
+ Takeoff and 
+ Enroute 
+ lb 
+ Landing 
+ Landing 
+ 89500 
+ 28.0% SMC 
+ 26.0% SMC 
+ 42.5% SMC 
+ 44.0% SMC 
+ (Arm -0.71 ft) 
+ (Arm -0.90 ft.) 
+ (Arm +0.70 ft.) 
+ (Arm +0.81 ft.) 
+ 89500 
+ Linear variation 
+ Linear variation 
+ to 
+ Linear 
+ Linear 
+ between 42.5% 
+ between 44.0% 
+ 78000 
+ variation 
+ variation 
+ and 47.0% SMC 
+ and 48.0% SMC 
+ 78000 
+ between 
+ between 
+ to 
+ 28.0% and 
+ 26.0% and 
+ 76250 
+ 27.0% SMC 
+ 25.0% SMC 
+ 76250 
+ to 
+ 47.0% SMC 
+ 48.0% SMC 
+ 72000 
+ 72000 
+ (Arm +1.12 ft.) 
+ (Arm +1.22 ft.) 
+ to 
+ 27.0% SMC 
+ 25.0% SMC 
+ 48500 
+ 48500 
+ (Arm -0.80 ft.) 
+ (Arm -1.00 ft.) 
+ Linear variation 
+ Linear variation 
+ to 
+ between 47.0% 
+ between 48.0% 
+ 46000 
+ and 45.5% SMC 
+ and 46.5% SMC 
+ Maximum taxi weight 93,500 lb with BAe Modification HCM00021U 
+ FORWARD 
+ AFT 
+ Gross 
+ Weight 
+ Takeoff and 
+ Takeoff and 
+ lbs 
+ Landing 
+ Enroute 
+ Landing 
+ Enroute 
+ 93000 
+ 28.0% SMC 
+ 26.0% SMC 
+ 42.0% SMC 
+ 42.0% SMC 
+ (Arm -0.71 ft.) 
+ (Arm -0.90 ft.) 
+ (Arm +0.46 ft.) 
+ (Arm +0.64 ft.) 
+ 93000 
+ Linear variation 
+ Linear variation 
+ to 
+ between 42.0% 
+ between 42.0% 
+ Linear variation 
+ Linear variation 
+ and 47.0% SMC 
+ and 48.0% SMC 
+ 86000 
+ between 28.0% 
+ between 26.0% 
+ and 27.0% SMC 
+ and 25.0% SMC 
+ 86000 
+ 47.0% SMC 
+ to 
+ (Arm -1.12 ft.) 
+ 84600 
+ _____________ 
+ 48.0% SMC 
+ 84600 
+ (Arm +1.22 ft.) 
+ to 
+ 73500 
+ 73500 
+ to 
+ 27.0% SMC 
+ 25.0% SMC 
+ _____________ 
+ _____________ 
+ 48500 
+ (Arm 0.80 ft.) 
+ (Arm -1.00 ft.) 
+ Linear variation 
+ Linear variation 
+ between 47.0% 
+ between 48.0% 
+ 48500 
+ and 45.5% SMC 
+ and 46.5% SMC 
+ to 
+ 46000"
+Maximum Weights,"Maximum Taxi Weight 90,000 lbs."
+See NOTE 8,"lbs. 
+ kg. 
+ Taxi 
+ 90,000 
+ 40,824 
+ Takeoff Weight 
+ 89,500 
+ 40,597 
+ Landing Weight 
+ 77,500 
+ 35,154 
+ Zero Fuel Weight 
+ 71,000 
+ 32,206 
+ Maximum Taxi Weight 93,500 lbs. 
+ Taxi 
+ 93,500 
+ 42,410 
+ Takeoff Weight 
+ 93,000 
+ 42,184 
+ Landing Weight 
+ 81,000 
+ 36,740 
+ Zero Fuel Weight 
+ 75,000 
+ 34,019"
+Maximum Baggage,"Forward Hold 
+ 3350 lbs. (Arm -14.76 ft.) 
+ Reverse Hold 
+ 3320 lbs. (Arm +13.68 ft.) 
+ The maximum floor loading in the baggage compartment is 75 lbs./sq. ft."
+Control Surface Movements,"The specific procedures for rigging each of the aircraft moveable surfaces are 
+ defined in the documents listed below. Correct application of these procedures 
+ will ensure moment and travel of each surface as required. 
+ HC271H0001 
+ Aileron Rigging 
+ HC272H0001 
+ Rudder Rigging 
+ HC273H0002 
+ Elevator Rigging 
+ HC274H0001 
+ Flap Rigging 
+ HC275H0001 
+ Airbrake and Lift Spoiler Rigging"
+Engine Oil Capacity,"Four oil tanks each 3.02 U.S. gallons capacity. Moment arm - 8.5 ft. 
+ See Airplane Flight Manual for Approved Oils."
+CG Datum,"Fuselage station AX491.81 inches. This is 4 feet forward of the reference point which 
+ is indicated by two plates at the rear end of the landing wheel well pressure floor."
+Maximum Passengers,"108 Maximum. Compliance with FAR 25.803 has been shown by demonstration and 
+ analysis with an aircraft having an interior configuration in accordance with British 
+ Aerospace document no. HAW.R.460.AW.0506 or any approved seating configuration."
+Other Operating Limitations,"Aircraft shall be operated in compliance with the operating limitations specified in the 
+ EASA Approved Flight Manual Document No. BAE 5.1.dated August 15, 2007 or later 
+ approved revisions. AFM BAE 5.1 Supersedes CAA approved Flight Manual"
+Document,"No. BAe 3.6 dated June 13, 1983 or later approved revisions."
+"III. Model BAe 146 300A (Transport Category) Approved October 28, 1988 
+ (Same as 100A except increased gross weight and passenger seating)",
+Engines,"4 Avco Lycoming Model ALF R-3A Turbine Engines (See NOTE 7) 
+ or 
+ 4 Avco Lycoming Model ALF 502 R-5 Turbine Engines (See NOTE 7)"
+Fuel,See Airplane Flight Manual for approved fuels and additives.
+Engine Limits,"MODEL ALF 502 R-3A and ALF 502 R-5 engines (See NOTE 9) 
+ Engine 
+ Engine 
+ Turbine Gas 
+ Thrust 
+ N1 
+ N2 
+ Temperature* 
+ Rating 
+ lbs. 
+ % (RPM) 
+ % (RPM) 
+ °C (°F) 
+ Takeoff 
+ 6970 
+ 96.7 (7350) 
+ 98.2 (19640) 
+ 882 (1620) 
+ (5 minutes) 
+ Max. Continuous 6550 
+ 96.7 (7350) 
+ 96.9 (19380) 
+ 857 (1574) 
+ * See Airplane Flight Manual for additional N2 speed, start and relight limits."
+Airspeed Limits,"MMO (Maximum Operating) 
+ 0.73 
+ Kts. (IAS) 
+ VMO (Maximum Operating to 8000 ft.) 
+ 250 
+ (8000 to 23,900 ft) 
+ 295 
+ 305 with BAe Mod. 
+ HCM36049A 
+ VA (Maneuvering) 
+ Flaps Retracted 
+ 235 
+ Flaps 18° 
+ 180 
+ VFE (Flap Speeds) 
+ Flaps Deflected Degrees 
+ Enroute/Hold 
+ 0 
+ VMO 
+ T.O./ Approach 
+ 18 
+ 210 
+ T.O./Approach/Climb 
+ 24 
+ 180 
+ Approach 
+ 30 
+ 170 
+ Landing 
+ 33 
+ 150 
+ VLO (Landing Gear Operation) 
+ Operation 
+ 205 
+ Extended 
+ 205 
+ VLE (Landing Gear) 
+ Extended 
+ 205 
+ VMC (Minimum Control Speed) 
+ VMCA 
+ 97 
+ VMCG 
+ 82"
+CG Range,"Landing Gear retraction moment - 8,916 lb. in. (Nose down)"
+See NOTE 8,"Maximum Taxi Weight 95,500 lbs. 
+ FORWARD 
+ AFT 
+ Gross Weight 
+ Takeoff and 
+ Takeoff and 
+ lbs 
+ Landing 
+ Enroute 
+ Landing 
+ Enroute 
+ 95000 
+ 24.5% SMC 
+ 22.5% SMC 
+ 44.0% SMC 
+ 45.6% SMC 
+ (Arm -1.05 ft) 
+ (Arm -1.23 ft.) 
+ (Arm 0.81 ft.) 
+ (Arm 0.99 ft.) 
+ 95000 
+ Linear 
+ Linear 
+ to 
+ variation 
+ variation 
+ 83000 
+ Linear 
+ Linear 
+ between 
+ between 
+ 83000 
+ variation 
+ variation 
+ 44.6% and 
+ 45.6% and 
+ to 
+ between 
+ between 
+ 48.5% SMC 
+ 50.0% SMC 
+ 77500 
+ 24.5% and 
+ 22.5% and 
+ 22.5% SMC 
+ 20.5% SMC 
+ 77500 
+ 48.5% SMC 
+ 50.0% SMC 
+ to 
+ (Arm +1.24 ft.) 
+ (Arm +1.41 ft.) 
+ 58000 
+ Linear 
+ variation 
+ 20.5% SMC 
+ 58000 
+ between 
+ (Arm -1.42 ft.) 
+ Linear 
+ Linear 
+ to 
+ 22.5% and 
+ variation 
+ variation 
+ 47000 
+ 23.0% SMC 
+ between 48.5% 
+ between 50.0% 
+ and 44.0% SMC 
+ and 45.4% 
+ SMC"
+Maximum Weights,"Maximum Taxi Weight 95500 lb 
+ lbs 
+ kg 
+ Taxi 
+ 95,500 
+ 43,318 
+ Takeoff Weight 
+ 95,000 
+ 43.091 
+ Landing Weight 
+ 83,000 
+ 37,648 
+ Zero Fuel Weight 
+ 77,500 
+ 35,153"
+Maximum Baggage,"Forward Hold 
+ 4215 lbs (Arm -16.93 ft.) 
+ Rear Hold 
+ 4033 lbs.(Arm +14.20 ft.) 
+ The maximum floor loading in the baggage compartment is 75 lbs/sq. ft."
+Control Surface Movements,"The specific procedures for rigging each of the aircraft moveable surfaces are defined in 
+ the documents listed below. Correct application of these procedures will ensure 
+ movement and travel of each surface is as required. 
+ HC271H0001 
+ Aileron Rigging 
+ HC272H0001 
+ Rudder Rigging 
+ HC273H0567 
+ Elevator Rigging 
+ HC274H0001 
+ Flap Rigging 
+ HC275H0002 
+ Airbrake and Lift Spoiler Rigging"
+Engine Oil Capacity,"Four oil tanks each 3.02 U.S. gallons capacity. Movement arm -8.5 ft. 
+ See Airplane Flight Manual for Approved Oils."
+CG Datum,"Fuselage station AX 544.81 inches. This is 4 feet forward of the reference point which 
+ is indicated by two plates at the rear end of the landing wheel well pressure floor."
+Maximum Passengers,"108 maximum. Compliance with FAR 25.803 has been shown by demonstration and 
+ analysis with an aircraft having an interior configuration in accordance with any 
+ British Aerospace approved seating configuration."
+Other Operating Limitations,"Aircraft shall be operated in compliance with the operating limitations specified in the 
+ EASA Approved Flight Manual Document No. BAE 5.1 dated August 15, 2007 or later 
+ approved revisions. AFM BAE 5.1 supersedes CAA approved Flight Manual Document 
+ No. BAe 3.11 dated June 1988 or later approved revisions."
+DATA PERTINENT TO ALL MODELS,
+Auxiliary Power Unit,"1 AiResearch GTCP 36-100 (M) or 1 AiResearch GTCP 36-150(M) or 1 Sundstrand 
+ APS1000 T-62T-46C"
+ Limits,"*GTCP 36-100(M) 
+ GTCP 36-150(M) 
+ APS1000 T-62T-46C"
+Day Sea Level conditions,"45 shp 
+ 50 shp 
+ 53.5 shp"
+Maximum at rated power,"100.5% (59034 RPM) 
+ 103% (60499 RPM) 
+ 108% (69286 RPM)"
+Maximum Exhaust Temperature,"732oC 
+ 746oC 
+ 718oC"
+Continuous Operation,"974oC 
+ 974oC 
+ -oC"
+Starting Up to 10 seconds,"870oC 
+ 870oC 
+ 1032oC"
+See Note 5,**See Airplane Flight Manual for additional limitations and Approved Oils.
+Minimum Crew,2 - Pilot and Co-Pilot
+Maximum Operating Altitude,"30,000 ft. (See NOTE 12)"
+Usable Fuel Capacity,"100A 
+ 200A 
+ 300A 
+ Wing Tanks 
+ 16,240 lbs 
+ (Arm +0.008 ft) 
+ (Right & Left) 
+ Center Tank 
+ 4,400 lbs 
+ (Arm -3.243 ft) 
+ Auxiliary Tanks 
+ 2,064 lbs 
+ (Arm +4.230 ft) 
+ (Right & Left) 
+ Fuel must be loaded symmetrically into the wing tanks. 
+ The maximum allowable wing tank fuel asymmetry is 1,500 lbs. 
+ See NOTE 1 for information on unusable and undrainable fuel."
+Standard Mean Chord SMC,"The Standard Mean Chord is 9.62 ft. The leading edge of the Standard Mean Chord 
+ is 3.405 ft. forward of the C.G. datum."
+Leveling Means,"Clinometer on cabin seat rails. 
+ Certification Basis for the 100A & 200A 
+ FAR 21.29, FAR 25, effective February 1, 1965, including Amendment 25-1 through 25-43. In addition the 
+ applicant voluntarily complied with the following later requirements."
+FAR Section,"Amdt. 
+ FAR Section 
+ Amdt. 
+ 25.305 (d) 
+ 54 
+ 25.809 (f) (iii, iv, v) 
+ 47 
+ 25.345 (d) 
+ 46 
+ 25.851 (a) (5) 
+ 54 
+ 25.351 (a) 
+ 46 
+ 25.853 (c), (d), (e) 
+ 51 
+ 25.365 (e)(1), (e)(2) 
+ 54 
+ 25.1103(a), (b)(2), (d), (e), (f) 
+ 46 
+ 25.571 
+ 45 
+ 25.1142 
+ 46 
+ 25.605 (a), (b) 
+ 46 
+ 25.1207(d) 
+ 46 
+ 25.629 (d)(1), (d)(4) (v & vi) 46 
+ 25.1305 (d) 
+ 54 
+ 25.697 (b) 
+ 46 
+ 25.1329 (h) 
+ 46 
+ 25.701 (a) 
+ 46 
+ 25.1522 
+ 46 
+ 25.733 (a), (b), (c) 
+ 49 
+ 25.1561 (c) 
+ 46 
+ 25.735 (b), (f)(2), (g) 
+ 48 
+ 25.773(b)(2)(ii) 
+ 72 
+ 25.793 
+ 51 
+ 25.775(e) 
+ 72 
+ 25.803 (c), (d) 
+ 46 
+ Compliance with FAR 25.803 and 25.1419 has been established. 
+ Compliance with FAR 25.801 has been established for the structure of the 
+ aircraft fitted with BAe modifications HCM 00100A or HCM 00166A, plus 
+ HCM 00100B for BAe 146-100A or HCM 00100C for BAe 146-200A. Full 
+ compliance will be achieved when survival equipment is installed in accordance with 
+ FAR’s 25.1411 through 25.1415 and the appropriate operating equipment. 
+ FAR 36, effective December 1, 1969, including Amendments 36-1 through 36-13. 
+ SFAR 27, 27-1 through 27-4 (see NOTE 4)."
+For the 300A,"In addition to the 100A and 200A certification requirements, the following later 
+ requirements apply to the 300A certification: 
+ FAR 25 Subpart C, Amendments 44 to 54 inclusive. 
+ FAR Section 
+ Amdt. 
+ FAR Section 
+ Amdt. 
+ 25.629 
+ 46 
+ 25.811 
+ 46 
+ 25.783 
+ 54 
+ 25.812 
+ 46 
+ 25.787 
+ 51 
+ 25.853 
+ 51 
+ 25.789 
+ 46 
+ 25.858 
+ 54 
+ 25.803 
+ 46 
+ 25.863 
+ 46 
+ FAR Part 36 effective December 1, 1969, including Amendments 36-1 through 36-15. 
+ Special Federal Aviation Regulation No. 27 effective February 1, 1974, including 
+ amendments 27-1 through 27-5."
+For All Bae 146,"Equivalent Safety 
+ FAR 25.613 (a) - Design Values 
+ FAR 25.615 (a) - Design Properties 
+ FAR 25.773 (b)(2) - Pilot’s Window(see note 18) 
+ FAR 25.1091 (e) - Foreign Object Ingestion 
+ Exemption No. 3639 regarding FAR 25.807(c)(1) 
+ Type Certificate No. A49EU, issued June 13, 1983. 
+ Effective Date of Application for Type Certificate August 4, 1978. 
+ The applicable later requirements for the installation of the LF507-1H engine are"
+defined,"within FAA issue paper G-1 dated January 26, 1993 detailing: 
+ FAR 25.903 (a) 
+ Amendment 57 
+ FAR 25.1091 (e) 
+ Amendment 57 
+ FAR 25.1093 (b) (2) 
+ Amendment 57 
+ FAR 25.1163 (a) (3) 
+ Amendment 57 
+ FAR 25.1305 (d) (1) 
+ Amendment 54"
+Historical Transition,"The United Kingdom Civil Aviation Authority originally type certificated this aircraft 
+ under its type certificate Number BA16. The FAA validated this product under U.S. 
+ Type Certificate Number A49EU. Effective September 28, 2003, the European 
+ Aviation Safety Agency (EASA) began oversight of this product on behalf of the United 
+ Kingdom."
+Serial Nos Eligible,"The United Kingdom Certificate of Airworthiness for Export endorsed as noted under 
+ “Import Requirements” must be submitted for each individual aircraft for which 
+ application of certification is made."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on an NAA Export Certificate 
+ of Airworthiness (Export C of A) signed by a representative of United Kingdom Civil 
+ Aviation Authority on behalf of the European Community. The Export C of A should 
+ contain the following statement: ‘The aircraft covered by this certificate has been 
+ examined, tested, and found to conform with Type Design approved under U.S. Type 
+ Certificate No. A49EU and to be in a condition for safe operation.’"
+Service Information,"Each of the documents listed below that contain a statement that it is approved by the 
+ European Aviation Safety Agency (EASA) - or for approvals made before September 28, 
+ 2003 - by the United Kingdom Civil Aviation Authority, are accepted by the FAA and 
+ are considered FAA approved. Additionally, approvals issued by BAE Systems 
+ (Operations) Limited under the authority of EASA approved Design Organization 
+ EASA.21J.047 - or for approvals made before September 28, 2003 under the authority 
+ of JAA Design Organization Approval No. CAA.JA.02034 or Manufacturers CAA 
+ Approval Ref. DAI/1011/55 - are considered FAA approved. These approvals pertain to 
+ the type design only. 
+ • BAE Systems (Operations) Limited service bulletins, except as noted below, 
+ • Structural repair manuals, 
+ • Vendor manuals referenced in BAE Systems (Operations) Limited service bulletins, 
+ • Aircraft flight manuals, 
+ • Repair Instructions. 
+ Note: Design changes that are contained in BAE Systems (Operations) Limited Service 
+ Bulletins and that are classified as Level 1 Major in accordance with either the 
+ US/United Kingdom or US/EASA Bilateral Aviation Safety Agreement Implementation 
+ Procedures for Airworthiness must be approved by the FAA."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (See Certification Basis) must be installed in the aircraft for certification. 
+ Approved equipment is included in the document: 
+ ADE-CES-D-460-00-0011"
+"IV. Model AVRO 146-RJ70A (Transport Category), Approved September 3, 1993",
+CG Range,"Maximum Taxi Weight 84,500 lbs 
+ Gross 
+ FORWARD 
+ AFT 
+ Weight 
+ Takeoff and 
+ Takeoff and 
+ lbs 
+ Landing 
+ Enroute 
+ Landing 
+ Enroute 
+ 84000 
+ 43.9% SMC 
+ 44.9% SMC 
+ (Arm +0.82 ft.) 
+ (Arm +0.91 ft.) 
+ 84000 
+ Linear variation 
+ Linear variation 
+ to 
+ between 43.9% 
+ between 44.9% 
+ 83500 
+ 28.1% SMC 
+ 27.0% SMC 
+ and 44.0% SMC 
+ and 45.0% SMC 
+ (Arm +0.83 ft.) 
+ (Arm +0.92 ft.) 
+ 83500 
+ 44.0% SMC 
+ 45.0% SMC 
+ to 
+ (Arm 
+ (Arm 
+ (Arm +0.83 ft.) 
+ (Arm +0.92 ft.) 
+ 47000 
+ - 0.70 ft.) 
+ - 0.81 ft.) 
+ 47000 
+ Linear to 42.0% 
+ Linear to 43.0% 
+ to 
+ SMC 
+ SMC 
+ 44000 
+ (Arm +0.64 ft.) 
+ (Arm +0.73 ft.) 
+ Maximum Taxi Weight 90,500 lbs with Bae modifications HCM00020Z or HCM40373C 
+ FORWARD 
+ AFT 
+ Gross 
+ Takeoff and 
+ Enroute 
+ Takeoff and 
+ Enroute 
+ Weight lbs 
+ Landing 
+ Landing 
+ 90000 
+ 43.0% SMC 
+ 44.0% SMC 
+ (Arm +0.73 ft) 
+ (Arm +0.83 ft) 
+ 90000 
+ Linear variation 
+ Linear variation 
+ to 
+ 28.0% SMC 
+ 27.0% SMC 
+ between 43.0% 
+ between 44.0% 
+ 83500 
+ (Arm -0.71ft) 
+ (Arm -0.81 ft.) 
+ and 44.0% 
+ and 45.0% SMC 
+ SMC 
+ (Arm +0.92 ft.) 
+ (Arm +0.83 ft) 
+ 83500 
+ 44.0% SMC 
+ 45.0% SMC 
+ to 
+ (Arm +0.83 ft.) 
+ (Arm +0.92 ft) 
+ 47000 
+ 47000 
+ Linear variation 
+ Linear variation 
+ to 
+ between 44.0% 
+ between 45.0% 
+ 44000 
+ and 42.0% 
+ and 43.0% SMC 
+ SMC 
+ (Arm +0.73 ft.) 
+ (Arm +0.64 ft.) 
+ Maximum Taxi Weight 95,500 lbs with BAe modification HCM40373A 
+ Gross 
+ FORWARD 
+ AFT 
+ Weight 
+ Takeoff & 
+ Takeoff & 
+ lbs 
+ Landing 
+ Enroute 
+ Landing 
+ Enroute 
+ 95000 
+ 40.2% SMC 
+ 41.2% SMC 
+ (Arm +0.45 ft) 
+ (Arm + 0.55 ft) 
+ 95000 
+ Linear variation Linear Variation 
+ to 
+ between 43.0% 
+ between 44.0% 
+ 90000 
+ and 44.0% SMC and 45.0% SMC 
+ (Arm +0.83 ft) 
+ (Arm +0.92 ft) 
+ 90000 
+ Linear variation 
+ Linear variation 
+ to 
+ 28.0% SMC 
+ 27.0% SMC 
+ between 43.0% 
+ between 44.0% 
+ 83500 
+ (Arm -0.71 ft) 
+ (Arm -0.81 ft) 
+ and 44.0% SMC and 45.0% SMC 
+ (Arm +0.83 ft) 
+ (Arm +0.92 ft) 
+ 83500 
+ 44.0% SMC 
+ 45.0% SMC 
+ to 
+ (Arm +0.83 ft) 
+ (Arm +0.92 ft) 
+ 47000 
+ 47000 
+ Linear variation 
+ Linear variation 
+ to 
+ between 44.0% 
+ between 45.0% 
+ 44000 
+ and 42.0% SMC and 43.0% SMC 
+ (Arm +0.64 ft) 
+ (Arm +0.73 ft)"
+Maximum Weights,"Maximum Taxi Weight 84,500 lbs 
+ lbs 
+ kgs 
+ Taxi Weight 
+ 84,500 
+ 38,328 
+ Takeoff Weight 
+ 84,000 
+ 38,101 
+ Landing Weight 
+ 83,500 
+ 37,874 
+ Zero Fuel Weight 
+ 71,500 
+ 32,431 
+ Zero Fuel Weight 
+ 74,500 
+ 33,792 (with Modification HCM00020X 
+ or HCM40373B 
+ Maximum Taxi Weight 90,500 lbs. with BAe modifications HCM00020X and 
+ HCM00020Z or HCM40373B and HCM40373C 
+ lbs 
+ kgs 
+ Taxi Weight 
+ 90,500 
+ 41,050 
+ Takeoff Weight 
+ 90,000 
+ 40,823 
+ Landing Weight 
+ 83,500 
+ 37,874 
+ Zero Fuel Weight 
+ 74,5000 
+ 33,792 
+ Maximum Taxi Weight 95,500 lbs. with BAe modification HCM40373A 
+ lbs 
+ kgs 
+ Taxi Weight 
+ 95,500 
+ 43,318 
+ Takeoff Weight 
+ 95,000 
+ 43,091 
+ Landing Weight 
+ 83,500 
+ 37,874 
+ Zero Fuel Weight 
+ 74,500 
+ 33,792"
+"V. Model AVRO 146-RJ85A (Transport Category) Approved December 1, 1993",
+CG Range,"Maximum Taxi Weight 93,500 lbs. 
+ Gross 
+ FORWARD 
+ AFT 
+ Weight 
+ Takeoff and 
+ Takeoff and 
+ lbs 
+ Landing 
+ Enroute 
+ Landing 
+ Enroute 
+ 93000 
+ 27.8% SMC 
+ 25.8% SMC 
+ 44.8% SMC 
+ 44.8% SMC 
+ (Arm -0.73 ft) 
+ (Arm -0.92 ft) 
+ (Arm +0.90 ft) 
+ (Arm +0.90 ft) 
+ 93000 
+ Linear variation 
+ Linear variation 
+ to 
+ between 44.8% 
+ between 44.8% 
+ 90000 
+ Linear variation 
+ and 47.0% SMC 
+ and 47.0% SMC 
+ Linear variation 
+ between 27.8% 
+ between 25.8% 
+ (Arm +1.12 ft) 
+ (Arm +1.12 ft) 
+ 90000 
+ and 27.0% SMC 
+ and 25.0% SMC 
+ Linear variation 
+ to 
+ (Arm -0.81 ft) 
+ (Arm -1.00 ft) 
+ between 47.0% 
+ 88600 
+ and 48.0% SMC 
+ Constant 
+ (Arm +1.21 ft.) 
+ 88600 
+ 47.0% SMC 
+ to 
+ (Arm +1.12 ft) 
+ 79000 
+ Constant 
+ 79000 
+ 48.0% SMC 
+ to 
+ (Arm +1.21 ft) 
+ 48500 
+ 27.0% SMC 
+ 27.0% SMC 
+ 48500 
+ (Arm -0.81 ft) 
+ (Arm -1.00 ft) 
+ Linear variation 
+ Linear variation 
+ to 
+ between 47.0% 
+ between 48.0% 
+ 46000 
+ and 45.5% SMC 
+ and 46.5% SMC 
+ (Arm +0.97 ft) 
+ (Arm +1.07 ft)"
+CG Range,"Maximum Taxi Weight 93,500 lbs. with BAe modification HCM20203B, E2208 only 
+ (See Note 15) 
+ Gross 
+ FORWARD 
+ AFT 
+ Weight 
+ Takeoff and 
+ Takeoff and 
+ lbs 
+ Landing 
+ Enroute 
+ Landing 
+ Enroute 
+ 93000 
+ 28.0% SMC 
+ 26.0% SMC 
+ 42.0% SMC 
+ 42.0% SMC 
+ (Arm -0.71 ft) 
+ (Arm -0.90 ft) 
+ (Arm +0.64 ft) 
+ (Arm +0.64 ft) 
+ 93000 
+ Linear variation 
+ Linear variation 
+ to 
+ between 42.0% 
+ between 42.0% 
+ and 47.0% SMC 
+ and 47.0% SMC 
+ Linear variation 
+ Linear variation 
+ 86000 
+ between 28.0% 
+ between 26.0% 
+ (Arm +1.12 ft) 
+ (Arm +1.12 ft) 
+ 86000 
+ and 27.0% SMC 
+ and 25.0% SMC 
+ Linear variation 
+ to 
+ (Arm -0.81 ft) 
+ (Arm -1.00 ft) 
+ between 47.0% 
+ and 48.0% SMC 
+ 84600 
+ Constant 
+ (Arm +1.21 ft.) 
+ 84600 
+ 47.0% SMC 
+ to 
+ (Arm +1.12 ft) 
+ 75000 
+ Constant 
+ 75000 
+ 48.0% SMC 
+ to 
+ Constant 
+ Constant 
+ (Arm +1.21 ft) 
+ 48500 
+ 27.0% SMC 
+ 27.0% SMC 
+ 48500 
+ (Arm -0.81 ft) 
+ (Arm -1.00 ft) 
+ Linear variation 
+ Linear variation 
+ to 
+ between 47.0% 
+ between 48.0% 
+ 46000 
+ and 45.5% SMC 
+ and 46.5% SMC 
+ (Arm +0.97 ft) 
+ (Arm +1.07 ft)"
+CG Range,"Maximum Taxi Weight 97,500 lbs with Modification HCM00021X 
+ Gross 
+ FORWARD 
+ AFT 
+ Weight 
+ Takeoff and 
+ Takeoff and 
+ lbs 
+ Landing 
+ Enroute 
+ Landing 
+ Enroute 
+ 97000 
+ 28.0% SMC 
+ 26.0% SMC 
+ 42.0% SMC 
+ 42.0% SMC 
+ (Arm -0.71 ft) 
+ (Arm -0.90 ft) 
+ (Arm +0.64 ft) 
+ (Arm +0.64 ft) 
+ 97000 
+ Linear variation 
+ Linear variation 
+ to 
+ between 42.0% 
+ between 42.0% 
+ 90000 
+ Linear variation 
+ and 47.0% SMC 
+ and 47.0% SMC 
+ Linear variation 
+ between 28.0% 
+ between 26.0% 
+ (Arm +1.12 ft) 
+ (Arm +1.12 ft) 
+ 90000 
+ and 27.0% SMC 
+ and 25.0% SMC 
+ Linear variation 
+ to 
+ (Arm -0.81 ft.) 
+ (Arm -1.00 ft) 
+ between 47.0% 
+ 88600 
+ and 48.0% SMC 
+ Constant 
+ (Arm +1.21 ft) 
+ 88600 
+ 47.0% SMC 
+ to 
+ (Arm +1.12 ft) 
+ Constant 
+ 79000 
+ 48.0% SMC 
+ 79000 
+ (Arm +1.21 ft) 
+ to 
+ 48500 
+ Constant 
+ Constant 
+ 48500 
+ 27.0% SMC 
+ 25.0% SMC 
+ Linear variation 
+ Linear variation 
+ to 
+ (Arm -0.81 ft) 
+ (Arm -1.00 ft) 
+ between 47.0% 
+ between 48.0% 
+ 46000 
+ and 45.5% SMC 
+ and 46.5% SMC 
+ (Arm +0.97 ft.) 
+ (Arm +1.07 ft)"
+Maximum Weights,"Maximum Taxi Weight 93,500 lbs 
+ lbs 
+ kgs 
+ Taxi Weight 
+ 93,500 
+ 42,410 
+ Takeoff Weight 
+ 93,000 
+ 42,184 
+ Landing Weight 
+ 85,000 
+ 38,555 
+ Zero Fuel Weight 
+ 79,000 
+ 35,833 
+ Maximum Taxi Weight 93,500 lbs with BAe Modification HCM20203B (see Note 15) 
+ Taxi Weight 
+ 93,500 
+ 42,410 
+ Takeoff Weight 
+ 93,000 
+ 42,184 
+ Landing Weight 
+ 81,000 
+ 36, 740 
+ Zero Fuel Weight 
+ 75,000 
+ 34,019 
+ Maximum Taxi Weight 97,500 lbs. with Bae Modification (HCM00021X) 
+ Taxi Weight 
+ 97,500 
+ 44,225 
+ Takeoff Weight 
+ 97,000 
+ 43,998 
+ Landing Weight 
+ 85,000 
+ 38,555 
+ Zero Fuel Weight 
+ 79,000 
+ 35,833"
+"VI. Model AVRO 146-RJ100A (Transport Category) Approved June 10, 1994",
+CG Range,"Maximum Taxi Weight 98,000 lbs. 
+ Gross 
+ FORWARD 
+ AFT 
+ Weight lbs 
+ Takeoff and 
+ Enroute 
+ Takeoff and 
+ Enroute 
+ Landing 
+ Landing 
+ 97500 
+ 23.9% SMC 
+ 21.9% SMC 
+ 46.2% SMC 
+ 47.4% SMC 
+ (Arm -1.11 ft) 
+ (Arm -1.30 ft) 
+ (Arm +1.04 ft) 
+ (Arm +1.15 ft) 
+ 97500 
+ Linear variation 
+ Linear variation 
+ to 
+ Linear variation 
+ between 46.2% 
+ between 47.4% and 
+ 90000 
+ between 
+ and 48.5% SMC 
+ 50.0% SMC 
+ Linear variation 
+ 23.9% and 
+ between 
+ (Arm +1.26 ft) 
+ (Arm +1.41 ft) 
+ 90000 
+ 22.5% SMC 
+ 21.9% and 
+ to 
+ (Arm -1.24 ft.) 
+ 20.5% SMC 
+ 82500 
+ (Arm -1.43 ft) 
+ Constant 
+ Constant 
+ 82500 
+ 48.5% SMC 
+ 50.0% SMC 
+ to 
+ Linear variation 
+ (Arm +1.26 ft) 
+ (Arm +1.41 ft) 
+ 58000 
+ between 
+ Constant 
+ 58000 
+ 22.5% and 23.0% 
+ 20.5% SMC 
+ Linear variation 
+ Linear variation 
+ to 
+ SMC 
+ (Arm -1.43 ft) 
+ between 48.5% 
+ between 50.0% and 
+ 47000 
+ and 44.0% SMC 
+ 45.5% SMC 
+ (Arm -1.19 ft) 
+ (Arm +0.83 ft) 
+ (Arm +0.97 ft) 
+ Maximum Taxi Weight 98,000 lbs with Bae Modification HCM60346N, E3221 Only (see Note 14) 
+ Gross 
+ FORWARD 
+ AFT 
+ Weight lbs 
+ Takeoff and 
+ Takeoff and 
+ Landing 
+ Enroute 
+ Landing 
+ Enroute 
+ 97,500 
+ 24.4% SMC 
+ 22.4% SMC 
+ 44.0% SMC 
+ 45.3% SMC 
+ (Arm -1.06 ft) 
+ (Arm -1.24 ft) 
+ (Arm +0.83 ft) 
+ (Arm +0.92 ft) 
+ 97,500 
+ Linear variation 
+ Linear variation 
+ to 
+ Linear variation 
+ Linear variation 
+ between 44.0% 
+ between 46.0% 
+ 86,500 
+ between 24.4% 
+ between 
+ and 48.5% SMC 
+ and 50.0% SMC 
+ and 22.5% SMC 
+ 22.4% and 
+ (Arm +1.26 ft) 
+ (Arm +1.41 ft) 
+ 86,500 
+ (Arm -1.24 ft) 
+ 20.5% SMC 
+ to 
+ (Arm -1.43 ft) 
+ 80,500 
+ Constant 
+ Constant 
+ 80,500 
+ 48.5% SMC 
+ 50.0% SMC 
+ to 
+ Linear variation 
+ Constant 
+ (Arm +1.26 ft) 
+ (Arm +1.41 ft) 
+ 58,000 
+ between 
+ 20.5% SMC 
+ 58,000 
+ 22.5% and 
+ (Arm -1.43 ft.) 
+ Linear variation 
+ Linear variation 
+ to 
+ 23.0% SMC 
+ between 48.5% 
+ between 50.0% 
+ 47,000 
+ and 44.0% SMC 
+ and 45.4% SMC 
+ ( Arm -1.19 ft) 
+ (Arm +0.83 ft.) 
+ (Arm +0.98 ft) 
+ Maximum Taxi Weight 102,000 lbs with BAe Modification HCM01000L 
+ FORWARD 
+ AFT 
+ Gross 
+ Takeoff and 
+ Takeoff and 
+ Weight lbs 
+ Landing 
+ Enroute 
+ Landing 
+ Enroute 
+ 101500 
+ 24.3% SMC 
+ 22.3% SMC 
+ 45.0% SMC 
+ 46.0% SMC 
+ (Arm -1.07 ft) 
+ (Arm -1.26 ft) 
+ (Arm +0.92 ft) 
+ (Arm +1.02 ft) 
+ 101500 
+ Linear variation 
+ Linear variation 
+ to 
+ Linear variation 
+ Linear variation 
+ between 45.0% 
+ between 46.0% 
+ 90000 
+ between 24.3% 
+ between 
+ and 48.5% SMC 
+ and 50.0% SMC 
+ and 
+ 22.3% and 
+ (Arm +1.26 ft) 
+ (Arm +1.41 ft) 
+ 90000 
+ 22.5% SMC 
+ 20.5% SMC 
+ to 
+ (Arm -1.24 ft) 
+ (Arm -1.43 ft) 
+ 82500 
+ Constant 
+ Constant 
+ 82500 
+ 48.5% SMC 
+ 50.0% SMC 
+ to 
+ Linear variation 
+ Constant 
+ (Arm +1.26 ft) 
+ (Arm +1.41 ft) 
+ 58000 
+ between 
+ 58000 
+ 22.5% and 
+ Linear variation 
+ Linear variation 
+ to 
+ 23.0% SMC 
+ between 48.5% 
+ between 50.0% 
+ 47000 
+ and 44.0% SMC 
+ and 45.5% SMC 
+ ( Arm -1.19 ft) 
+ (Arm +0.83 ft.) 
+ (Arm +0.97 ft)"
+Maximum Weight,"Maximum Taxi Weight 98,000 lbs 
+ lbs 
+ kgs 
+ Taxi Weight 
+ 98,000 
+ 44,452 
+ Takeoff Weight 
+ 97,500 
+ 44,225 
+ Landing Weight 
+ 88,500 
+ 40,142 
+ Zero Fuel Weight 
+ 82,500 
+ 37,421 
+ Maximum Taxi Weight 98,000 (with Bae Modification HCM60346N (see Note 14) 
+ lbs 
+ kgs 
+ Taxi Weight 
+ 98,000 
+ 44,452 
+ Takeoff Weight 
+ 97,500 
+ 44,225 
+ Landing Weight 
+ 86,500 
+ 39,235 
+ Zero Fuel Weight 
+ 80,500 
+ 36,514 
+ Maximum Taxi weight 102,000 lbs. with Bae Modification HCM01000L 
+ lbs 
+ kgs 
+ Taxi Weight 
+ 102,000 
+ 46,266 
+ Takeoff Weight 
+ 101,500 
+ 46,039 
+ Landing Weight 
+ 88,500 
+ 40,142 
+ Zero Fuel Weight 
+ 82,500 
+ 37,421"
+DATA PERTINENT TO ALL AVRO 146 MODELS,
+Engines,4 Avco Lycoming Model LF507-1F Turbine engines
+Fuel,See Airplane Flight Manual for approved fuels and additives.
+Engine Limits See NOTE 13,"Model LF507-1F Engine (Standard day Sea Level Conditions) 
+ Exhaust Gas 
+ Rating 
+ Thrust lbs 
+ Engine N1 
+ Engine N2* 
+ Temperature 
+ % (RPM) 
+ % (RPM) 
+ °C (°F) 
+ Takeoff (5 minutes) 
+ 7000 
+ 97.0 (7374) 
+ 98.8 (19760) 
+ 632 (1170) 
+ Max Continuous 
+ 6550 
+ 97.0 (7374) 
+ 96.9 (19380) 
+ 613 (1136) 
+ *See Airplane Flight Manual for additional N2 speed, start and relight limits"
+Auxiliary Power Unit,"1 AiResearch GTCP 36-150(M) or 1 Sundstrand APS1000 T-62T-46C 
+ ** Limits 
+ GTCP 36-150(M) 
+ APS1000 T-62T-46C 
+ Rated shp, maximum for Standard Day, 
+ 50 shp 
+ 53.5 shp. 
+ Sea level conditions 
+ Shaft Speed: 
+ Maximum (at rated power) 
+ 103% (60499 RPM) 
+ 108% (69286 RPM) 
+ Maximum Exhaust Temperature: 
+ Continuous Operation 
+ 746ºC 
+ 718ºC 
+ Starting: (Up to 10 seconds) 
+ 974ºC 
+ - 
+ (More than 10 seconds) 
+ 870ºC 
+ 1032ºC 
+ ** See Airplane Flight Manual for additional limitations and Approved Oils."
+Airspeed Limits,"Limit 
+ Aircraft type [speeds in Kts (IAS)] 
+ RJ70A 
+ RJ85A 
+ RJ100A 
+ MMO (Maximum Operating) [Indicated Mach No] 
+ 0.73 
+ 0.73 
+ 0.73 
+ VMO (up to 8000 ft) 
+ 250 
+ 250 
+ 250 
+ (8,000 to 22,950 ft) 
+ 300 
+ 300 
+ - 
+ (8,000 to TBA) 
+ - 
+ - 
+ 305 
+ VA (Maneuvering): Flaps Retracted 
+ 205 
+ 235 # 
+ 245 * 
+ Flaps 18° 
+ 165 
+ 175 
+ 175 
+ VFE (Flap speeds): 
+ Enroute/Hold Flaps 0° 
+ VMO 
+ VMO 
+ VMO 
+ Takeoff/Approach Flaps 18° 
+ 205 
+ 215 
+ 220 
+ Takeoff/Approach Flaps 24° 
+ 170 
+ 180 
+ 180 
+ Takeoff Flaps 30° 
+ 160 
+ 170 
+ 170 
+ Landing + Flaps 33° 
+ 150 
+ 150 
+ 155 
+ VLO (Landing Gear Operations): Operation 
+ 210 
+ 210 
+ 210 
+ Extended 
+ 210 
+ 210 
+ 210 
+ VLE (Landing Gear): Extended 
+ 210 
+ 210 
+ 210 
+ VMC (Minimum Control Speed): 
+ VMCA Flaps 0° 
+ 132 
+ 132 
+ 132 
+ Flaps 18° 
+ 97 
+ 97 
+ 97 
+ Flaps 24° 
+ 91 
+ 91 
+ 91 
+ Flaps 30° 
+ 89 
+ 89 
+ 89 
+ VMCG (up to 65,000 lbs) 
+ 85 
+ 84 
+ 81 
+ (at and above 65,000 lbs) 
+ 83 
+ 81 
+ 81 
+ * For construction number E3221 with Modification HCM60346N, Flaps Retracted VA is 240 Kts (IAS) 
+ - See Note 14. 
+ # For construction number E2208 with Modification HCM20203B, Flaps Retracted VA is 230 Kts (IAS) 
+ - See Note 15. 
+ + Flaps 33° is available as a Take-off setting for aircraft fitted with modification HCM30370A or HCM40391A."
+CG Range,"Landing Gear retraction moment - 8,916 lb. in. (Nose down)"
+Control Surface,The specific procedures for rigging each of the aircraft movable surfaces are defined in
+Movements,"the documents listed below. Correct application of these procedures will ensure 
+ movement and travel of each surface is as required. 
+ Rigging 
+ RJ70A 
+ RJ85A 
+ RJ100A 
+ Aileron 
+ HC271H0001 
+ HC271H0001 
+ HC271H0001 
+ Rudder 
+ HC272H0001 
+ HC272H0001 
+ HC272H0001 
+ Elevator 
+ HC273H0001 
+ HC273H0002 
+ HC273H0567 
+ Flap 
+ HC275H0001 
+ HC275H0001 
+ HC275H0001 
+ Airbrake & Lift Spoiler 
+ HC276H0001 
+ HC276H0001 
+ HC276H0001"
+Maximum Underfloor Baggage,"RJ70A 
+ RJ85A 
+ RJ100A 
+ Forward Hold 
+ 2580 lbs 
+ 3350 lbs 
+ 4125 lbs 
+ (Arm -12.73 ft) 
+ (Arm -14.76 ft) 
+ (Arm -16.93 ft) 
+ Rear Hold 
+ 2420 lbs 
+ 3320 lbs 
+ 4033 lbs 
+ (Arm +11.78 ft) 
+ (Arm +13.68 ft) 
+ (Arm +15.33 ft) 
+ Maximum Floor 
+ 75 lbs/sq.ft 
+ Loading"
+Maximum Passengers,"Model 
+ RJ70A 
+ RJ85A 
+ RJ100A 
+ Maximum Passengers 
+ 94 
+ 108 
+ 108"
+Engine Oil Capacity,"Four oil tanks each 3.02 U.S. gallons capacity. Moment arm - 8.5 ft. 
+ See Airplane Flight Manual for Approved Oils."
+Weight and Balance Datum,"Model 
+ RJ70A 
+ RJ85A 
+ RJ100A 
+ Fuselage Station 
+ 448.13 
+ 491.81 
+ 544.81 
+ AXO (inches) 
+ This is 4 feet forward of the reference point which is indicated by two plates at the 
+ rear end of the main landing gear bay."
+Aircraft Flight Manual,"Aircraft shall be operated in compliance with the operating limitations specified in the 
+ EASA Approved Flight Manual Document BAE 5.1 dated August 15, 2007 or later approved 
+ revisions. AFM BAE No. 5.1 supersedes CAA approved Flight Manual Document No. BAe No. 
+ 4.1, dated April 08, 1993 or later approved revisions."
+Minimum Crew,2 - (Pilot and Co-Pilot)
+Maximum Operating Altitude,"31,000 ft (See Notes 16 and 17.)"
+Usable Fuel Capacity,"RJ70A 
+ RJ85A 
+ RJ100A 
+ Wing Tanks 
+ 16,160 lbs 
+ (Right & Left) 
+ (Arm +0.008 ft) 
+ Center Tank 
+ 4,160 lbs 
+ (Arm -3.24 ft) 
+ Auxiliary Tanks 
+ 2,064 lbs 
+ (Right & Light) 
+ (Arm +4.230 ft) 
+ Fuel must be loaded symmetrically into the wing tanks. The maximum allowable wing 
+ tank fuel asymmetry is 1,500 lbs. See Note 1 for information on unusable and 
+ undrainable fuel."
+Standard Mean Chord,The Standard Mean Chord is 9.62 ft. The leading edge of the Standard Mean Chord is
+SMC,"3,405 ft forward of the C.G. datum."
+Leveling Means,Clinometer on cabin seat rails.
+Certification Basis AVRO RJ,"FAR 21.29 
+ FAR 25 effective 1 February 1965, including Amendments 25-1 through 25-43, 
+ FAR 25 Subpart C, Amendments 44 through 54 inclusive. 
+ In addition the following later requirements apply: 
+ FAR Section 
+ Amdt. 
+ 25.605(a),(b) 
+ 46 
+ 25.629 
+ 46 
+ 25.697(b) 
+ 46 
+ 25.701(b) 
+ 46 
+ 25.733(a), (b), (c) 
+ 49 
+ 25.735(b), (f)(2), (g) 
+ 48 
+ 25.783 
+ 54 
+ 25.787 
+ 51 
+ 25.789 
+ 46 
+ 25.793 
+ 51 
+ 25.803 
+ 46 
+ 25.809(f) (iii, iv, v) 
+ 47 
+ FAR Section 
+ Amdt. 
+ 25.811 
+ 46 
+ 25.812 
+ 46 
+ 25.851(a) (5) 
+ 54 
+ 25.853 
+ 51 
+ 25.858 
+ 54 
+ 25.863 
+ 46 
+ 25.1103(a), (b)(2), (d), (e), (f) 
+ 46 
+ 25.1142 
+ 46 
+ 25.1207(d) 
+ 46 
+ 25.1305(d) 
+ 54 
+ 25.1329(h) 
+ 46 
+ 25.1522 
+ 46 
+ 25.1561(c) 
+ 46 
+ 25.773(b)(2)(ii) 
+ 72 
+ 25.775(e) 
+ 72 
+ Equivalent Safety: 
+ FAR 25.613(a) 
+ - Design Values 
+ FAR 25.615(a) 
+ - Design Properties 
+ FAR 25.773(b)(2) - Pilot's Window(see note 18) 
+ FAR 25.1091(e) 
+ - Foreign Object Ingestion 
+ Exemption No. 3639 regarding FAR 25.807(c)(1). 
+ FAR Part 36 effective December 1, 1969, including Amendments 36-1through 36-20. 
+ Special Federal Aviation Regulation No. 27 effective February 1, 1974 including 
+ Amendments 27-1 through 27-5. 
+ FAA Advisory Circular AC120-28C (criteria for Approval of Category III Landing 
+ Weather Minima, dated March 1984). 
+ The applicable later requirements for the installation of the LF507-1H and -1F engines 
+ are: 
+ FAR 25.903(a) 
+ Amendment 57 
+ FAR 25.1091(e) 
+ Amendment 57 
+ FAR 25.1093(b)(2) 
+ Amendment 57 
+ FAR 25.1163(a)(3) 
+ Amendment 57 
+ FAR 25.1305(d)(1) 
+ Amendment 54 
+ The applicable later requirements for the installation of phase II avionics are, FAR Part 
+ 25 effective 1 February 1965 including Amendments 25-1 through 25-66 and Special 
+ Conditions as published in the Federal Register October 18, 1991 covering: 
+ 1) Lightning Protection 
+ 2) Protection from Unwanted Effects of High Intensity Radiated Field (HIRF)"
+Historical Transition,"The United Kingdom Civil Aviation Authority originally type certificated this aircraft 
+ under its type certificate Number BA16. The FAA validated this product under U.S. 
+ Type Certificate Number A49EU. Effective September 28, 2003, the European 
+ Aviation Safety Agency (EASA) began oversight of this product on behalf of the United 
+ Kingdom."
+Type Certificate,"Type Certificate No. A49EU, issued June 13, 1983. 
+ Effective Date of Application for Type Certificate August 4, 1978."
+Serial Nos Eligible,"The United Kingdom Certificate of Airworthiness for Export issued to aircraft 
+ manufactured at Woodford in the United Kingdom and endorsed as noted under ""Import 
+ Requirements"" must be submitted for each individual aircraft for which application of 
+ certification is made. 
+ AVRO 146 aircraft Models will be the following construction numbers: 
+ RJ70A: 
+ E1223 and subsequent. 
+ RJ85A: 
+ E2226 and subsequent, less E2227 and including E2208. 
+ RJ100A: 
+ E3221 and subsequent, less E3222. 
+ AVRO 146 aircraft minimum type design build standards for certification are defined 
+ by the following modifications: 
+ RJ70A: HCM60401Z 
+ Part Number HC000H1401-002 at Issue 1 and subsequent. 
+ RJ85A: HCM60402Z 
+ Part Number HC000H1402-002 at Issue 1 and subsequent. 
+ RJ100A: HCM60403Z 
+ Part Number HC000H1403-002 at Issue 1 and subsequent."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on an NAA Export Certificate 
+ of Airworthiness (Export C of A) signed by a representative of United Kingdom Civil 
+ Aviation Authority on behalf of the European Community. The Export C of A should 
+ contain the following statement: ‘The aircraft covered by this certificate has been 
+ examined, tested, and found to conform with Type Design approved under U.S. Type 
+ Certificate No. A49EU and to be in a condition for safe operation.’"
+Service Information,"Each of the documents listed below that contain a statement that it is approved by the 
+ European Aviation Safety Agency (EASA) - or for approvals made before September 28, 
+ 2003 - by the United Kingdom Civil Aviation Authority, are accepted by the FAA and 
+ are considered FAA approved. Additionally, approvals issued by BAE Systems 
+ (Operations) Limited under the authority of EASA approved Design Organization 
+ EASA.21J.047 - or for approvals made before September 28, 2003 under the authority 
+ of JAA Design Organization Approval No. CAA.JA.02034 or Manufacturers CAA 
+ Approval Ref. DAI/1011/55 - are considered FAA approved. These approvals pertain to 
+ the type design only. 
+ • BAE Systems (Operations) Limited service bulletins, except as noted below, 
+ • Structural repair manuals, 
+ • Vendor manuals referenced in BAE Systems (Operations) Limited service bulletins, 
+ • Aircraft flight manuals, 
+ • Repair Instructions. 
+ Note: Design changes that are contained in BAE Systems (Operations) Limited Service 
+ Bulletins and that are classified as Level 1 Major in accordance with either the 
+ US/United Kingdom or US/EASA Bilateral Aviation Safety Agreement Implementation 
+ Procedures for Airworthiness must be approved by the FAA."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (See Certification Basis) must be installed in the aircraft for certification. 
+ Approved equipment is included in the following document: 
+ ADE-CES-D-460-00-0011"
+NOTES: (Applicable to both BAe 146 and AVRO 146 Models unless indicated otherwise),
+NOTE 1,"Weight and Balance. 
+ (a) Current Weight and Balance Manual including list of equipment included in certificated 
+ empty weight and loading instructions must be provided for each aircraft at the time of original 
+ certification and at all times subsequently. ""Weight and Balance Manual"" No. WBM 146 
+ contains all the loading information required for each aircraft in its delivery configuration. 
+ (b) The airplane must be loaded so that the C.G. is within the specified limits at all times when 
+ all influences on C.G. position have been considered. 
+ (c) The Weight and Balance Manual defined in (a) above quotes the quantities of unusable fuel 
+ as determined by the critical conditions of FAR 25.959. Undrainable fuel, being that remaining 
+ in the aircraft when all fuel drain valves are opened on the ground, is also quoted in the Weight 
+ and Balance Manual."
+NOTE 2,"All placards required in the Approved Airplane Flight Manual must be installed in the 
+ appropriate location."
+NOTE 3,"(a) Airframe Component Life Limitations, required Certification Maintenance Requirements 
+ (CMR's) and required Structural Inspections are listed in the FAA Approved Airworthiness 
+ Limitations Section (Chapter 5) of the BAe 146/AVRO 146 Aircraft Maintenance Manual. 
+ (b) Engine life limited components are contained in Avro Lycoming Service Bulletin No. 
+ ALF 502-72-0002, Revision 6, dated January 10, 1983 or later, approved revision."
+NOTE 4,"Compliance with the fuel venting provisions of SFAR 27 is achieved by incorporation of the 
+ components listed in Document Number HTD-N-46071SC0071."
+NOTE 5 BAe 146 only,"Without Modifications HCM35040M and X the Auxiliary Power Unit has not been shown 
+ with GTCP 
+ to fully comply with FAR 25.1093(b)(1) and therefore cannot be considered essential for 
+ 36-100(M)) 
+ dispatch purposes when falling snow or freezing rain conditions exist. 
+ With Modification HCM35040M and X embodied the Auxiliary Power Unit can be operated as 
+ an essential power source for dispatch purposes in falling snow or freezing rain when the relevant 
+ information is incorporated in the approved Airplane Flight Manual, Document No. BAE 5.1."
+NOTE 7 BAe 146 only,"The Model ALF 502 R3A and ALF 502 R-5 engine are physically identical to the Model 
+ ALF 502 R-3 engine and is eligible without additional installation instructions. However, the following 
+ conditions must be observed: 
+ (a) Any combinations of ALF 502 R-3 and R-5 model engines may be fitted to the aircraft 
+ provided they are all operated at the model ALF 502 R-3 thrust settings and limitations. Any 
+ combination of ALF 502 R-3A and R-5 model engines may be fitted to the aircraft and may be 
+ operated at the model ALF 502 R-5 thrust setting and limitations. 
+ (b) When four ALF 502 R-5 engines are fitted, they may be operated at Model ALF 502 R-5 
+ thrust settings and limitations when BAE Systems modifications HCM0020B for BAe 146-100A, 
+ or HCM00021B for BAe 146-100A, or HCM0021B for BAe 146-200A, or HCM00083A, 
+ HCM00083C and HCM00083D for BAe 146-100A and 200A, are incorporated. 
+ (c) The appropriately revised approved Airplane Flight Manual, Document No. BAE 5.1 is 
+ required for operation when BAE Systems modifications HCM50033A, HCM50033B, 
+ HCM50033C; or HCM00101A, HCM00101B; or HCM00336A, HCM00336B, HCM00336C, 
+ HCM 00336D; or HCM50046A, HCM50046B, HCM50046C, HCM50046D are incorporated. 
+ (d) Deleted."
+NOTE 8 BAe 146 only,"Maximum Weight Increase 
+ (a) The maximum weights all BAe 146 Models may be increased as shown in the following 
+ tables when the BAE Systems modification listed against each weight increase is fitted and the 
+ aircraft is operated in accordance with the FAA Approved Flight manual, Document No. BAE 5.1, 
+ revised to reflect the associated modification standard. 
+ (b) 100A 
+ Maximum Weight 
+ BAe Modification No. 
+ Permitted 
+ Maximum Zero 
+ 66,000 lb 
+ No modification to 
+ fuel weight 
+ aircraft 
+ 67,000 lb 
+ HCM 00020G or 
+ HCM60015Q 
+ 67,500 lb 
+ HCM 00020H 
+ 68,500 lb 
+ HCM 00020J 
+ Maximum landing 
+ 73,350 lb 
+ HCM 00020N or 
+ weight 
+ HCM 60015Q 
+ 77,500 lb 
+ HCM 00020P 
+ Maximum take-off 
+ 82,250 lb 
+ i) HCM 60015Q or 
+ weight 
+ ii) HCM 30071A with 
+ HCM 40225B, E or G 
+ or 
+ iii) HCM 40046L with 
+ HCM 40225D or F 
+ 84,0000 lb. 
+ HCM 00020U 
+ (c) 200A. 
+ Maximum Weight 
+ BAe Modification No. 
+ Permitted 
+ Maximum zero 
+ 73,500 lb 
+ HCM 00021G 
+ fuel weight 
+ Maximum zero 
+ 75,000 lb 
+ HCM 00021J 
+ fuel weight 
+ Maximum Landing 
+ 78,900 lb 
+ HCM 40420B 
+ weight 
+ 81,000 lb 
+ HCM 00021N 
+ Maximum takeoff 
+ 91,200 lb 
+ HCM 40420A 
+ weight 
+ 93,000 lb 
+ HCM 00021U 
+ (d) 300A. 
+ Maximum Weight 
+ BAe Modification No. 
+ Permitted 
+ Maximum zero 
+ 78,500 lb 
+ HCM 01000B 
+ fuel weight 
+ * 79,000 lb 
+ HCM 01000G 
+ Maximum landing 
+ 84,500 lb 
+ HCM 01000B 
+ weight 
+ Maximum take-off 
+ 97,500 lb 
+ HCM 01000B 
+ weight 
+ *Applicable to freighter aircraft only. HCM 01000G can only be embodied on 
+ aircraft which incorporate HCM 01000B."
+NOTE 9 BAe 146 only,"The maximum take-off N2 rating is 98.0% (19760 rpm) for aircraft fitted with BAE 
+ Systems modification HCM35051B and operated in accordance with the Approved 
+ Flight Manual, Document No. BAE 5.1. 
+ The maximum take-off N2 rating is 98.8% (19760 rpm) with transient overshoots not to 
+ exceed 10 seconds or 100%, for aircraft fitted with BAE Systems modifications: 
+ (i) 
+ HCM35051D and HCM70080A 
+ or (ii) 
+ HCM01054B 
+ and operated in accordance with the Approved Flight Manual, Document No. BAE 5.1. 
+ For aircraft fitted with BAE Systems modification HCM 60020B, the maximum take-off 
+ N2 limits of 98.8% (19760 rpm) and the maximum take-off TGT limit of 904ºC are 
+ authorized, provided the aircraft is operated in accordance with the limitations and 
+ procedures given in the Approved Flight Manual, Document No. BAE 5.1."
+NOTE 10,"Category II & III Operation 
+ BAe 146 Models: (Category II Operation only) 
+ Automatic Pilot/Flight Director System including approach and landing to Category II 
+ Weather Minimum is authorized for the BAe 146 Models when the following BAE 
+ Systems modifications are embodied and operated in accordance with the appropriately 
+ revised approved Airplane Flight Manual, Document No. BAE 5.1. 
+ Model 
+ Modification 
+ 100A 
+ HCM40350B 
+ 200A 
+ HCM40350C 
+ 300A 
+ HCM40354A 
+ AVRO 146 Models: (Category III and II Operation) 
+ Automatic Pilot/Flight Director System including approach and landing to Category II 
+ Weather Minimum is authorized for the AVRO 146 Models by virtue of the fitment of 
+ the Category III Modifications as detailed below: 
+ Model 
+ Modification 
+ RJ70A 
+ HCM40356A 
+ RJ85A: 
+ HCM40355A 
+ RJ100A 
+ HCM40354A 
+ Operation for Category III and II is detailed within the appropriately revised approved 
+ Aircraft Flight Manual Document No. BAE 5.1."
+NOTE 11 BAe 146 only,"Aircraft for Freighter Conversion 
+ A BAe 146 200A/300A fitted with the BAe modification(s) noted below provides 
+ provision for converting the basic BAe 146 200A/300A into the freighter configuration. 
+ For 200A: 
+ HCM 50200A 
+ - Deletion of type certification basic features not 
+ required on conversion to a freighter aircraft. 
+ HCM 50200B 
+ - Basic airframe changes. 
+ HCM 50200C 
+ - Dedicated freighter features. 
+ For 300A: 
+ HCM 50213C 
+ - To prepare basic 300A airframe for 
+ conversion to freighter role. 
+ Freighter Aircraft 
+ The BAe 146 300A fitted with the BAe Modification noted below provides full 
+ conversion to an operational freighter aircraft. 
+ HCM 50214S 
+ - To introduce minimum standard for dedicated freighter 
+ aircraft. 
+ Modification HCM 50214S has associated content within approved Airplane Flight 
+ Manual Document No. BAE 5.1."
+NOTE 12 BAe 146 only,"Aircraft for operation to 31,000 ft: For aircraft fitted with BAe modification HCM 
+ 50043A and HCM 50043B, or E or F or for aircraft fitted with HCM 50043C, operation to a 
+ maximum altitude to 31,000 ft in accordance with the Approved Flight Manual is authorized."
+NOTE 13 AVRO 146RJ only,"On all AVRO 146-RJ Models, the engine is controlled by a fanspeed (N1) Schedule in 
+ the Digital Flight Guidance Computer or the Aircraft Flight Manual. When Modification 
+ HCM00020S is fitted to the RJ70A aircraft, the Schedule produces a thrust of 6,130 lbs at 
+ sea level (static) and ISA +17.5ºC, (compared to 7,000 lbs without the modification and 
+ HCM00020R fitted) which is the basis for the performance data in the Aircraft Flight 
+ Manual."
+NOTE 14 E3221 only,"Construction number E3221 is fitted with Modification HCM60346N which introduces 
+ reduced Max. Zero Fuel and Max. Landing Weights and a reduction in speed VA to 240 kts 
+ (IAS) with flaps retracted."
+NOTE 15 E2208 only,"Construction number E2208 is fitted with Modification HCM20203B which introduces 
+ reduced Max. Zero Fuel and Max. Landing Weights and a reduction in speed VA to 230 kts 
+ (IAS) with flaps retracted."
+NOTE 16 AVRO 146RJ only,"Aircraft for operation to 33,000 ft: For aircraft fitted with BAe modification HCM 50070F"
+and,"HCM 50258A, operation to a maximum altitude to 33,000 ft in accordance with the 
+ Approved Flight Manual is authorized."
+NOTE 17 AVRO 146RJ only,"Aircraft for operation to 35,000 ft For aircraft fitted with BAe modification 
+ HCM 50259A, operation to a maximum altitude to 35,000 ft in accordance with the 
+ Approved Flight Manuals is authorized."
+NOTE 18,"In the original certification basis an equivalent safety finding (ESF) to FAR 25.773(b)(2) 
+ amendment 25-23 was granted to allow for a non-openable first pilot window based on 
+ certain compensating design features. FAR 25.773 (b)(2) was later amended by amendment 
+ 25-72 to delete the need for an ESF for a non-openable first pilot window provided certain 
+ criteria are met (the criteria and BAe compliance with it are contained in FAA issue paper F- 
+ 1 dated July 8, 1998). Satisfying these criteria also establishes compliance with FAR 
+ 25.773(b)(2)(ii) and 25.775(e) as amended by amendment 25-72 and the certification basis 
+ for the BAe/Avro 146 has been amended accordingly."
+NOTE 19,"The certification differences between aircraft that meet the FAA certification basis (FAA 
+ TCDS A49EU) and those aircraft that meet the European Aviation Safety Agency (EASA) 
+ certification basis (EASA TCDS EASA.A.182) are limited to cabin pressure controllers, fuel 
+ contents indicators, a change of MMO, associated placards and gauges and constructors 
+ nameplates and flight manual. BAE Systems (Operations) Ltd Service Bulletins are 
+ available to facilitate conversion of an EASA standard aircraft to an FAA standard aircraft 
+ and vice versa. (SB01-07-20004A; SB01-37-20004B; SB01-35-20004C) Aircraft converted 
+ from the EASA standard to the FAA standard must have an “A” suffix, in the aircraft model 
+ designation, see table below and on the applicable placards and or nameplates to indicate 
+ that the converted aircraft meets the FAA certification basis 
+ BAE 146 Series 
+ Avro 146 RJ Series"
+,"FAA 
+ EASA 
+ FAA 
+ EASA 
+ 146-100A 
+ 146-100 
+ 146-RJ70A 
+ 146-RJ70 
+ 146-200A 
+ 146-200 
+ 146-RJ85A 
+ 146-RJ85 
+ 146-300A 
+ 146-300 
+ 146-RJ100A 
+ …END…"

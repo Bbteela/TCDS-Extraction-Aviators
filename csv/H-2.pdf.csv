@@ -1,0 +1,317 @@
+Keyterm,Info
+"H-2 
+ Sheet 1 
+ Revision 7 
+ SIKORSKY 
+ S-51 
+ (See NOTE 5 for 
+ Military versions) 
+ June 10, 1960",
+Manufacturer,"Sikorsky Aircraft, Division of United Aircraft Corporation 
+ Bridgeport 1, Connecticut"
+"I - Model S-51, 4 PCL-Am-H, Approved April 17, 1947",
+Engine,Pratt and Whitney Wasp Jr. B-4 or Military R-985-AN-5
+Fuel,91 minimum octane aviation gasoline
+Engine limits,"Maximum rpm 2300 
+ (450 hp at 37.0 hg. at S.L.) 
+ (450 hp at 36.5 hg. at 2300 ft.) 
+ Minimum idle rpm 1000"
+Rotor limits,"Power off (rotor tach.) 
+ Power on (engine tach.)"
+Operational engine,"Maximum 245 
+ Maximum 2300 
+ Minimum 168 
+ Minimum (S.L.) 2050 
+ Minimum (3800 ft.) 2200 
+ Minimum (15500 ft.) 2300 
+ Minimum (S.L. to ceiling) 
+ (With item 1(b) only) 2100"
+Airspeed limits,"Landplane: Never exceed 103 mph True Ind. 
+ Amphibian: Never exceed 85 mph True Ind."
+Altitude limits,Do not hover at zero airspeed between 10 and 400 ft. above ground surface.
+CG range,(139.0) to (142.8)
+Empty weight CG range,None
+Datum,"144 in. forward of center line of main rotor (108 in. forward of weighing jig point at Sta. 
+ 108)"
+Leveling means,Spirit levels on main transmission box.
+Maximum weight,"5300 lbs. (With item 1a) 
+ 5500 lbs. (With item 1b)"
+No of seats,4 (Pilot at (47) and three passengers at (90)).
+Maximum baggage,145 lbs. (213)
+Fuel capacity,"100 gal. (one 50 gal. tank (114), one 50 gal. tank (174))"
+Oil capacity,8 gals. (187)
+Rotor blade movements,"For rotor rigging information see Maintenance Manual and applicable Service 
+ Information circulars."
+Page No,"1 
+ 2 
+ 3 
+ 4"
+Rev No,"7 
+ 7 
+ 7 
+ 7"
+Serial Nos eligible,5101 and up.
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 6, the following 
+ items of equipment must be installed: 
+ Landplane: 
+ Items 1, 2, 101, 102, 103, 104, 201, 202, 205, 206, 301, 302, 305, 306, 
+ 407, 601 and 602. 
+ Amphibian: 
+ Items 1, 2, 101, 102,103,104, 209, 301, 302, 305, 306, 407, 601 and 602."
+Specifications Pertinent to All Models,
+Certification basis,Type Certificate No. 2 (CAR 6)
+Production basis,Production Certificate No. 105
+Export eligibility,Eligible for export to all countries subject to the provisions of MOP 2-4.
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item indicates net weight change 
+ when that item is installed."
+1,"(a) 
+ Main rotor blades (3) Dwg. VS-05-05-1596 
+ 372 lbs. 
+ (144) 
+ (b) 
+ Main rotor blades (3) Dwg. S-10-10-2065 
+ 372 lbs. 
+ (144)"
+2,"(a) 
+ Tail rotor blades (3) Dwg. S-515008 
+ 49 lbs. 
+ (490) 
+ (b) 
+ Tail rotor blades (2) Dwg. S-10-15-1000 
+ 42 lbs. 
+ (490) 
+ Engine and Engine Accessories - Fuel and Oil System"
+101,"Carburetor air heater 
+ 3 lbs. 
+ (132)"
+102,"Starter (Direct electric) AAF Type J-1 
+ 19 lbs. 
+ (139)"
+103,"Oil cooler and reg. valve-Air Research #17889 
+ 22 lbs. 
+ (127)"
+104,"Transmission-main gear box S-535400-U 
+ 233 lbs. 
+ (144)"
+105,"Carburetor air filter installation (S-10-05-1027 
+ 6 lbs. 
+ (112) 
+ (Air-Maze R-81A)"
+201,"Two Main Wheel-brake assemblies, 7.50-10, Type III - 
+ (a) 
+ Goodrich Model 752M 
+ 25 lbs. 
+ (180) 
+ Wheel Assembly #G-3-73-M-1. 
+ Brake Assembly #G-2-122. 
+ (b) 
+ Goodrich 
+ +3 lbs. 
+ (180) 
+ Wheel Assembly #G-3-654-M-1 
+ Brake Assembly #G-2-122"
+202,"Two main wheel 6 ply-rating tires, Type III, with tubes, 
+ (a) 
+ 7.50-10 
+ 31 lbs. 
+ (180) 
+ (b) 
+ 6.50-10 
+ -3 lbs. 
+ (180)"
+205,"(a) 
+ One Nose wheel, 6.00-6, Type III, Goodyear 
+ 4 lbs. 
+ (60) 
+ Model L6NBD, Assembly #511500-M-1"
+206,"(a) 
+ One Nose Wheel, 4-ply-rating tire, 6.00-6, 
+ 9 lbs. 
+ (60) 
+ Type III, with tube."
+209,"Two amphibious floats 
+ Sikorsky Dwgs. S-10-25-2540 
+ 603 lbs. 
+ (133) 
+ Horizontal stabilizer Dwg. S-10-05-2032 
+ 7 lbs. 
+ (490)"
+301,"Voltage regulator-AAF Spec. 94-32276 
+ 3 lbs. 
+ (183)"
+302,"Battery 24V, -17V, -17AH #AN 3151 
+ 48 lbs. 
+ (190)"
+303,"Cabin light, AAF Type A-2 
+ 1 lb. 
+ (97)"
+304,"Radio installation-Receiver Airadio Inc., #SU52C 
+ 3 lbs. 
+ (18) 
+ Transmitter Airadio Inc., #TRA-1C 
+ 8 lbs. 
+ (102)"
+305,"Generator drive-Bendix Eclipse #1461-1 
+ 23 lbs. 
+ (215)"
+306,"(a) 
+ Generator 28.5V, 50 amp.--AAF #M-3 
+ 20 lbs. 
+ (220) 
+ (b) 
+ Generator 28.5V, 100 amp.--AAF #0-4 
+ 27 lbs. 
+ (220)"
+403,"Heating system (includes Stewart Warner #977A heater) 
+ 30 lbs. 
+ (67)"
+404,"Upholstered passenger seat cushion 
+ 19 lbs. 
+ (89)"
+405,"Co-pilots seat (replacing passenger seat) 
+ -9 lbs. 
+ (90)"
+406,"Co-pilots controls 
+ 10 lbs. 
+ (70)"
+407,"CAA Approved Flight Manual, publication No. SA-4045-2 
+ dated July 11, 1949, revised April 25, 1950. 
+ (When Item 614(a) is installed, Los Angeles Airways 
+ revision dated March 15, 1950, is required.)"
+601,"Airspeed indicator (10 to 150) Kolls #586 BK-0153 
+ 1 lb. 
+ (20)"
+602,"Engine-rotor tachometer AAF Type E-17 
+ 2 lbs. 
+ (20)"
+603,"Hydraulic hoist equipment: 
+ Installation Dwg. S-10-50-2030 
+ 75 lbs. 
+ (96) 
+ Installation Dwg. S-10-50-2220 
+ 82 lbs. 
+ (96)"
+604,"Litter capsules: 
+ (a) 
+ Installation Dwg. S-10-50-2050, Rev. C. 
+ 117 lbs. 
+ (97) 
+ (b) 
+ Installation Dwg. S-10-50-2130-3, Rev. D. 
+ 207 lbs. 
+ (97) 
+ Item 615(a) mandatory with this installation"
+605,"Vertical exhaust silencer 
+ Installation Dwg. S-10-05-1037, Rev. C. 
+ 23 lbs. 
+ (144)"
+606,"Night flying equipment: 
+ (a) 
+ Sikorsky Dwg. S-10-01-1005 
+ Two landing lights (Grimes AN3095-4) 
+ 20 lbs. 
+ (180) 
+ (not approved with Item 209 installed) 
+ (b) 
+ Los Angeles Airways Dwg. A-1034, A-1035, 
+ A-1038, A-1036 
+ Two landing lights (Grimes AN3095-2) 
+ 18 lbs. 
+ (14) 
+ (c) 
+ Sikorsky Dwg. S-10-01-1040 
+ Two landing lights (Grimes AN3095-8) 
+ 13 lbs. 
+ (16)"
+607,"Insecticide spray equipment 
+ Installation Dwg. S-10-50-2066, Rev. E. 
+ Tanks, cradles and braces 
+ 102 lbs. 
+ (135) 
+ Pumps, lines 
+ 73 lbs. 
+ (139) 
+ Insecticide (max. quantity each tank) 
+ 400 lbs. 
+ (133)"
+608,"Automatic trim device 
+ Control stick installation Dwg. 
+ S-10-40-3160 
+ 2 lbs. 
+ (60) 
+ Bungee control actuator - Dwgs. 
+ S-10-40-3116 & 
+ S-10-40-3070 
+ Spring control actuator - Dwg. 
+ S-10-40-3177"
+609,"Horizontal exhaust silencer 
+ 29 lbs. 
+ (168) 
+ Installation Dwg. S-10-05-1031"
+610,"Rotor flapping restrainer 
+ 43 lbs. 
+ (144) 
+ Installation Dwg. S-10-05-1074"
+611,"Oil dilution system 
+ 2 lbs. 
+ (151) 
+ Installation Dwg. S-10-30-4000"
+612,"Fuselage litter blisters 
+ Installation Dwg. S-10-20-2644 
+ (Use actual weight)"
+613,"Hydraulic power control 
+ (Use actual weight) 
+ Installation Dwgs. S10-40-3271 
+ and S10-40-3279"
+614,"Instrument flying equipment 
+ (Use actual weight change) 
+ (a) 
+ Instrument modification per Los Angeles 
+ Airways Dwgs. Nos. A-1104, A-1105A and A-1106"
+615,"Stabilizer 
+ (a) 
+ Installation Dwg. S10-40-3350 Revision D 
+ (Use actual weight) 
+ (b) 
+ Installation Dwg. S10-40-3329 
+ (Use actual weight)"
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight empty, and 
+ loading instructions when necessary, must be in each helicopter at the time of original certification and at all 
+ times thereafter."
+NOTE 2,"The following placards must be displayed. 
+ (a) 
+ In front of and in full view of the pilot; 
+ ""This helicopter must be operated in compliance with sections I, II, III of the CAA Approved Flight 
+ Manual."" 
+ ""No acrobatic maneuvers approved."" 
+ ""Do not fly solo from rear seat."" 
+ ""Instrument flight prohibited."" (When Item 614 is installed, this placard should be amended to read; 
+ ""Instrument flight prohibited except as expressly approved by the Administrator. In all such cases Item 
+ 614 must be installed and the aircraft must be operated in compliance with a suitably revised CAA 
+ Approved Flight Manual."" 
+ ""Warning - Light on 20 minutes fuel reserve each tank."" 
+ ""Warning - Trans oil Press."" 
+ ""Weight and Balance Placard."" (Copy of placard as prepared for each helicopter and included in each 
+ Actual Weight and Balance Report must also be installed in aircraft.) 
+ ""Reduce speed (Vne), above 3800 feet 3 mph per 1000 feet."" 
+ ""Protracted rearward flight prohibited."" (Applicable only when Item 605 installed.) 
+ ""Rearward flight with litter occupied prohibited."" (Applicable only when Item 604 installed.) 
+ ""During operation of the rescue hoist do not exceed airspeed of 50 mph or 300 lbs. hoist cable 
+ capacity."" (Applicable only when Item 603 installed.) 
+ ""Do not operate cabin heater and landing lights at the same time."" (Applicable only when Items 606 
+ and 306(a) are installed.) 
+ ""Insecticides of a flash point lower than that of kerosene are prohibited."" (Applicable only when Item 
+ 607 installed.) 
+ (b) 
+ On Litter Capsule: 
+ ""Maximum capacity 200 lbs. per litter."" (For loading instruction see Flight Manual.) 
+ (c) 
+ On Baggage Compartment: 
+ ""Maximum capacity 145 lbs."" (For loading instructions see Flight Manual.)"
+NOTE 3,"These helicopters to be serviced and maintained in accordance with the instructions given in the Sikorsky 
+ Aircraft Corp. Maintenance Manual for Model S-51 Helicopter, Publication No. SA-4045-1, and all 
+ applicable Service Circulars."
+NOTE 4,"Information essential to the proper maintenance of the helicopter including retirement times of critical parts 
+ is included in the manufacturer's service instructions provided with each helicopter."
+NOTE 5,"All military versions of the Model S-51 series are eligible for civil certification. Information regarding the 
+ modifications to be accomplished prior to civil certification should be obtained from Sikorsky Aircraft."

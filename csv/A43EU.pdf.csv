@@ -1,0 +1,1255 @@
+Keyterm,Info
+"A43EU 
+ Revision 12 
+ Airbus Defense and 
+ Space S.A. 
+ Model: C-212-CB 
+ C-212-CC 
+ C-212-CD 
+ C-212-CE 
+ C-212-CF 
+ C-212-DF 
+ C-212-DE 
+ July 23, 2021",
+Type Certificate Holder,"Airbus Defense and Space S.A. 
+ (formerly known as Construcciones Aeronauticas, S.A.) 
+ Apartado 193 
+ Madrid, Spain"
+"I - Model C-212-CB (Transport Category Airplane) approved February 22, 1977",
+Engines,2- Garrett Turbine Engine Co. Model TPE331-5-251C Turboprop engines.
+Fuel,"Prop. Shaft/Eng. Rotor Ratio: 1/26.2287. 
+ See Airplane Flight Manual for approved fuels, alternate fuels and approved fuel 
+ additives."
+Oil,"Oils conforming to Garrett Turbine Engine Co. Specification EMS 53110 (Type I and 
+ Type II). See approved AFM for a list of approved engine lubricating oils."
+Engine Limits,"Conditions 
+ SHP 
+ ESHP 
+ RPM (%) 
+ ITT (°C) 
+ Takeoff (5 minutes) 
+ 750 
+ 808 
+ 100 
+ 923 
+ Max. Continuous 
+ 715 
+ 776 
+ 100 
+ 923 
+ Transient temperature (ITT) limit (1 sec.) 1149°C. 
+ Transient overspeed limits: 105.5% for 30 sec.; 106% for 5 sec. 
+ 100% RPM is defined as 41,730 engine rotor speed, 1591 propeller shaft speed. 
+ See INTA-approved Airplane Flight Manual, Document D.T. 76-2501, for additional 
+ information."
+Propeller and Propeller Limits,"2 Hartzell Model HC-B4TN-5CL, constant speed hydraulic full feathering reversible 
+ propellers. 
+ Blades: 
+ 4, Model LT 10282 HB + 4 
+ Diameter: 
+ 107.5 in. 
+ Hard and soft alloy blades of the same model designation may not be intermixed. 
+ For % R. P.M. at windmilling see INTA-approved Airplane Flight Manual 
+ Document D.T. 76-2501."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17"
+Rev No,"11 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 12 
+ 9 
+ 8 
+ Blade angle measured at 30-in. radius station: 
+ Feathered 
+ 89.0° ± 1.0° 
+ Flight Idle 
+ 13.5° ± 0.2° 
+ Start Locks 
+ 2.5° + 0° 
+ - 0.5° 
+ Full Reverse 
+ -6.5° ± 0.5° 
+ Speed Knots IAS"
+Airspeed Limits,"VMO (Max. Operating) 
+ (S.L. -25000 ft) 
+ 200 
+ VA (Maneuvering) 
+ 146 
+ VFE (Flaps Extended) 
+ Takeoff 25% 
+ 125 
+ Approach 50% 
+ 120 
+ Landing 100% 
+ 100 
+ VMC (Min. control speed) 
+ 78"
+CG Range,"Weight 
+ FWD 
+ AFT 
+ (lb) 
+ % MAC 
+ % MAC 
+ 14332 
+ 17.4 
+ 30.0 
+ 13781 
+ 16.9 
+ 30.0 
+ 12678 
+ 16.0 
+ 30.0 
+ Straight line variation between points given."
+Datum,"A jig point is located in forward fuselage Frame No. 3 and marked on the underside of 
+ the fuselage. The C.G. reference datum is situated 43.90 in. forward of the jig point."
+MAC,"Length is 86.22 in. 
+ The leading edge of M.A.C. is 215.04 in. aft of datum."
+Leveling Means,Plumb-bob provision on aft face of aft cockpit compartment bulkhead.
+Maximum Weights,"Takeoff: 
+ 14332 lb. 
+ Landing: 
+ 13781 lb. 
+ MZFW: 
+ 13230 lb."
+Minimum Crew,The minimum flight crew is two pilots.
+Maximum Passengers,19 - limited by Emergency Exit Requirements of FAR 25.807 (c)
+Maximum Baggage,"Aft baggage comp: 662 lb. total - maximum floor loading: 120 lb/sq. ft 
+ 470 lb/linear ft. 
+ Baggage and/or cargo load must comply with loading limitations of approved Airplane 
+ Flight Manual, and must be loaded in accordance with loading instructions of Weight 
+ and Balance Supplement to the INTA-approved Airplane Flight Manual."
+Fuel Capacity,"Total Capacity: 
+ 548.00 U.S. gal. in two wing tanks 
+ Usable fuel: 
+ 528.00 U.S. gal. 
+ Unusable fuel: 
+ 20.00 U.S. gal. 
+ (See NOTE I (b) and I (c) for data on system fuel and oil)"
+Oil Capacity,"Usable oil: 
+ 5.25 U.S. quarts in each engine tank 
+ Unusable oil: 
+ (NONE)"
+Altitude,"25,000 ft."
+Control Surface Movement,"Elevator 
+ 30° 
+ Up 
+ 20° 
+ Down 
+ Elevator trim tab 
+ 15.5° 
+ Up 
+ 21° 
+ Down 
+ Rudder 
+ 25° 
+ Right 
+ 25° 
+ Left 
+ Rudder trim tab 
+ 17.5° 
+ Right 
+ 19° 
+ Left 
+ Aileron 
+ 20° 
+ Up 
+ 20° 
+ Down 
+ Aileron trim tab 
+ 15° 
+ Up 
+ 15° 
+ Down 
+ Flaps, Inner and Outer 
+ 10° 
+ Down - takeoff 
+ 20° 
+ Down - approach 
+ 40° 
+ Down - landing 
+ All measurements taken at trailing edge from neutral position. For details of tolerance 
+ on control surface movement refer to document D.T. 77.2101."
+"II. Model C-212-CC (Transport Category Airplane) approved May 16, 1980 
+ The C-212-CC Model is similar to the C-212-CB Model except for powerplant installation, gross weight and seating capacity.",
+Engines,"2 - Garrett Turbine Engine Co. Model TPE331-10-501C or TPE331-10R-501C 
+ Turboprop engines, or 2 - Model TPE331-10-511c or TPE311-10R-511C Turboprop 
+ engine. 
+ Prop. Shaft/Eng. Rotor Ratio: 1/26.2287"
+Fuel,"See AFM for approved fuels, alternate fuels and approved fuel additives."
+Oil,"Oils conforming to Garrett Turbine Engine Co. Specification EMS 53110 (Type I and 
+ Type II). See approved AFM for a list of approved engine lubricating oils."
+Engine Limits,"Conditions 
+ SHP 
+ ESH 
+ % 
+ EGT 
+ P 
+ RPM 
+ (°C) 
+ Takeoff (initial) (5 minutes) 
+ 900 
+ 944 
+ 100 
+ 650 
+ Takeoff (APR on) (5 minutes) 
+ 900 
+ 944 
+ 100 
+ 650 
+ Max. Continuous 
+ 900 
+ 944 
+ 100 
+ 650 
+ Transient overspeed limits: 105.5% for 30 sec.; 106% for 5 sec. 
+ 100% RPM is defined as 41,730 rpm engine rotor speed, 1591 rpm propeller shaft speed. 
+ Transient temperature (EGT) limit (1 sec.): 770°C 
+ See INTA-approved Airplane Flight Manual, Document D.T. 78-2501, for additional 
+ information."
+Propeller and Propeller Limits,"2 Hartzell Model HC-B4MN-5AL, constant speed hydraulic full feathering, reversible 
+ propellers. 
+ Blades: 
+ 4, Model LM 10585 B + 4 
+ Diameter: 
+ 110 in. 
+ For %RPM as windmilling see INTA-approved Airplane Flight Manual, Document D.T. 
+ 78-2501. 
+ Blade angle measured at 42- in. radius station: 
+ Feathered 
+ 83.0° ± 1.0° 
+ Flight Idle 
+ 7.0° ± 0.3° 
+ Start Locks 
+ -1.5° ± 0.2° 
+ Full Reverse 
+ -10° ± 0.5° 
+ Speed Knots IAS"
+Airspeed Limits,"VMO (Max. Operating) 
+ (S.L. -25.000 ft) 
+ 200 
+ VA (Maneuvering) 
+ 146 
+ VFE (Flaps extended) 
+ Takeoff 25% 
+ 135 
+ Approach 37.5% 
+ 130 
+ Landing 100% 
+ 115 
+ VMC (Min. Control) 
+ 85"
+CG Range,"Weight 
+ FWD 
+ AFT 
+ (lb) 
+ % MAC 
+ % MAC 
+ 16,976 
+ 16.00 
+ 30.00 
+ 16,424 
+ 15.90 
+ 30.00 
+ 11,051 
+ 15.00 
+ 30.00 
+ 9,481 
+ 15.00 
+ 30.00 
+ Straight line variation between points given."
+Datum,"A jig point is located in forward fuselage Frame No. 3 and marked on the underside of 
+ the fuselage. The C.G. reference datum is situated 43.90 in. forward of the jig point."
+MAC,"Length is 86.22 in. 
+ The leading edge of M.A.C. is 215.04 in. aft of datum."
+Leveling Means,Plumb-bob provisions on aft fact of aft cockpit compartment bulkhead.
+Maximum Weights,"Ramp: 
+ 17,086 lb. 
+ Takeoff: 
+ 16,976 lb. 
+ Landing: 
+ 16,424 lb. 
+ MZFW: 
+ 15,653 lb."
+Minimum Crew,The minimum flight crew is two pilots
+Maximum Baggage,"Aft baggage comp.: 882 lb. Total - maximum floor loading: 120 lb/sq. ft. 
+ 470 lb/linear ft. 
+ Baggage and/or cargo load must comply with loading limitations of approved Airplane 
+ Flight Manual, and must be loaded in accordance with loading instructions of Weight 
+ and Balance Supplement to the INTA-approved Airplane Flight Manual."
+Fuel Capacity,"Total capacity: 
+ 548.00 U.S. gal. in two wing tanks 
+ Usable fuel: 
+ 528.00 U.S. gal. 
+ Unusable fuel: 
+ 20.00 U.S. gal. 
+ (See NOTES 1 (b) and 1 (c) for data on system fuel and oil)."
+Oil Capacity,"Usable oil: 
+ 5.25 U.S. quarts in each engine tank 
+ Unusable oil: 
+ (NONE)"
+Altitude,"25,000 ft."
+Control Surface Movements,"Elevator 
+ 30° 
+ Up 
+ 20° 
+ Down 
+ Elevator Trim Tab 
+ 15.5° Up 
+ 21° 
+ Down 
+ Rudder 
+ 27.5° Right 
+ 27.5° Left 
+ Ruddeer Trim Tab 
+ 12.5° Right 
+ 19° 
+ Left 
+ Aileron 
+ 20° Up 
+ 15° Down 
+ Aileron Trim Tab 
+ 15° 
+ Up 
+ 15° 
+ Down 
+ Flaps, Inner and Outer 
+ 10° 
+ Down - Takeoff 
+ 15° 
+ Down - Approach 
+ 40° 
+ Down - Landing 
+ All measurements taken at trailing edge from neutral position. For details of tolerances 
+ on control surface movement refer to document D.T. 77-2101."
+Maximum Passengers,28 - limited by space available for accommodation.
+"III. Model C-212-CD (Transport Category Airplane) approved September 6, 1985 
+ The C-212-CD model is similar to the C-212-CC Model except for powerplant installation.",
+Engines,2 - Garrett Turbine Engine Co. Model TPE331-10R-502C or TPE331-10R-512C
+See NOTES 5  6,"Turboprop engines. 
+ Prop. Shaft/Eng. Rotor Ratio: 1/26.2287"
+Fuel,"See AFM for approved fuels, alternate fuels and approved fuel additives."
+Oil,"Oils conforming to Garrett Turbine Engine Co. Specification EMS 53110 (Type I and 
+ Type II). See approved AFM for a list of approved engine lubricating oils."
+Engine Limits,"Conditions 
+ SHP 
+ ESHP 
+ % RPM 
+ EGT (°C) 
+ Takeoff (initial) (5 minutes) 
+ 900 
+ 944 
+ 100 
+ 650 
+ Takeoff (APR on) (5 
+ 900 
+ 944 
+ 100 
+ 650 
+ minutes) 
+ Max. Continuous 
+ 900 
+ 944 
+ 100 
+ 650 
+ Transient overspeed limits: 105.5% for 30 sec.; 106% for 5 sec. 
+ 100% RPM is defined as 41.730 rpm engine rotor speed, 1591 rpm propeller shaft speed. 
+ Transient temperature (EGT) limit (1 sec.): 770°C. 
+ See INTA-approved Airplane Flight Manual, Document D.T. 83-2501, for additional 
+ information."
+Propeller and Propeller Limits,"2 Dowty Rotol Model (c) R.334/4-82-F/13 hydraulic full feathering, constant speed 
+ reversible propellers. 
+ Blades: 
+ 4, serial number 660709314 
+ Diameter: 
+ 110 in. 
+ For % RPM at windmilling see INTA-approved Airplane Flight Manual, Document D.T. 
+ 83-2501. 
+ Blade angle measured at 35.333 in radius station: 
+ Feathered 
+ 82°30’ ± 20’ 
+ Flight Idle 
+ 9° ± 20’ 
+ Start Locks 
+ -1°45’ ± 0°30’ 
+ Full Reverse 
+ -13° ± 1° 
+ Speed Knots IAS"
+Airspeed Limits,"VMO (Max. Operating) 
+ (S.L. -25,000 ft.) 
+ 200 
+ VA (Maneuvering) 
+ 146 
+ VFE (Flaps Extended) 
+ Takeoff 25% 
+ 135 
+ Approach 37.5% 
+ 130 
+ Landing 100% 
+ 115 
+ VMC (Min. Control) 
+ 85"
+CG Range,"Weight 
+ FWD 
+ AFT 
+ (lb) 
+ % MAC 
+ % MAC 
+ 16,976 
+ 16.0 
+ 30.0 
+ 16,424 
+ 15.9 
+ 30.0 
+ 11,051 
+ 15.0 
+ 30.0 
+ 9,481 
+ 15.0 
+ 30.0 
+ Straight line variation between points given."
+Datum,"A jig point is located in forward fuselage Frame No. 3 and marked on the underside of 
+ the fuselage. The C.G. reference datum is situated 43.90 in. forward of the jig point."
+MAC,"Length is 86.22 in. 
+ The leading edge of M.A.C. is 215.04 in. aft of datum."
+Leveling Means,Plumb-bob provisions on aft face cockpit compartment bulkhead.
+Maximum Weights,"Ramp: 
+ 17,086 lb. 
+ Takeoff: 
+ 16,976 lb. 
+ Landing: 
+ 16,424 lb. 
+ MZFW: 
+ 15,653 lb."
+Minimum Crew,The minimum flight crew is two pilots.
+Maximum Baggage,"Aft baggage comp.: 882 lb. Total - maximum floor loading: 
+ 120 lb/sq. ft. 
+ 470 lb/linear ft. 
+ Baggage and/or cargo load must comply with loading limitations of approved Airplane 
+ Flight Manual, and must be loaded in accordance with loading instructions of Weight 
+ and Balance Supplement to the INTA-approved Airplane Flight Manual."
+Fuel Capacity,"Total capacity: 
+ 548.00 U.S. Gal. in two wing tanks 
+ Usable fuel: 
+ 528.00 U.S. Gal. 
+ Unusable fuel: 
+ 20.00 U.S. Gal. 
+ (See NOTES 1 (b) and 1 (c) for data on system fuel and oil)."
+Oil Capacity,"Usable Oil: 
+ 5.25 U.S. quarts in each engine tank 
+ Unusable Oil: 
+ None"
+Maximum Approved Movement,"25,000 ft."
+Control Surface Movement,"Elevator 
+ 30° 
+ Up 
+ 20° 
+ Down 
+ Elevator Trim Tab 
+ 15.5° Up 
+ 31° 
+ Down 
+ Rudder 
+ 27.5° Right 
+ 27.5° Left 
+ Rudder Trim Tab 
+ 12.5° Right 
+ 19° 
+ Left 
+ Aileron 
+ 20° 
+ Up 
+ 20° 
+ Down 
+ Aileron Trim Tab 
+ 15° 
+ Up 
+ 15° 
+ Down 
+ Flaps, Inner and Outer 
+ 10° 
+ Down - Takeoff 
+ 15° 
+ Down - Approach 
+ 40° 
+ Down - Landing 
+ All measurements taken at trailing edge from neutral position. For details of tolerances 
+ on control surface movement refer to document D.T. 77-2101."
+Maximum Passengers,28 - limited by space available for accommodation.
+"IV. Model C-212-CE (Transport Category Airplane) approved September 9, 1985 
+ The C-212-CE model is similar to the C-212-CD model except for incorporation of CASA Modification No. PP0956 or PP1012 
+ which enables engine operation at a higher Takeoff (APR on) rating.",
+Engines,2 - Garrett Turbine Engine Co. Model TPE331-10R-502C or TPE331-10R-512C
+See NOTES 5  6,"Turboprop engines. 
+ Prop. Shaft/Eng. Rotor Ratio: 1/26.2287"
+Fuel,"See AFM for approved fuels, alternate fuels and approved fuel additives"
+Oil,"Oils conforming to Garrett Turbine Engine Co. Specification EMS 53110 (Type I and 
+ Type II). See approved AFM for a list of approved engine lubricating oils."
+Engine Limits,"Conditions 
+ SHP 
+ ESHP 
+ % RPM 
+ EGT (°C) 
+ Takeoff (initial) (5 minutes) 
+ 900 
+ 944 
+ 100 
+ 650 
+ Takeoff (APR on) (5 
+ 925 
+ 970 
+ 100 
+ 650 
+ minutes) 
+ Max. Continuous 
+ 900 
+ 944 
+ 100 
+ 650 
+ Transient overspeed limits: 105.5% for 30 sec.; 106% for 5 sec. 
+ 100% is defined as 41,730 rpm engine rotor speed, 1591 rpm propeller shaft speed. 
+ Transient temperature (EGT) limit (1 sec.): 770°C. 
+ See INTA-approved Airplane Flight Manual, Document D.T. 84-2501, for additional 
+ information."
+Propeller and Propeller Limits,"2 Dowty Rotol Model (c) R.334/4-82-F/13 hydraulic full feathering, constant speed 
+ reversible propellers. 
+ Blades: 
+ 4, serial number 660709314 
+ Diameter: 
+ 110 in. 
+ For % RPM at windmilling see INTA-approved Airplane Flight Manual, Document D.T. 
+ 84-2501. 
+ Blade angle measured at 35.333 in radius station: 
+ Feathered 
+ 82°30’ ± 20’ 
+ Flight Idle 
+ 9° ± 20’ 
+ Start Locks 
+ -1°45’ to 0°30’ 
+ Full Reverse 
+ -13° ± 1° 
+ Speed Knots IAS"
+Airspeed Limits,"VMO (Max. Operating) 
+ (S.L. -25.000 ft) 
+ 200 
+ VA (Maneuvering) 
+ 146 
+ VFE (Flaps extended) 
+ Takeoff 25% 
+ 135 
+ Approach 37.5% 
+ 130 
+ Landing 100% 
+ 115 
+ VMC (Min. Control) 
+ 88"
+CG Range,"Weight 
+ FWD 
+ AFT 
+ (lb) 
+ % MAC 
+ % MAC 
+ 16,976 
+ 16.0 
+ 30.0 
+ 16,424 
+ 15.9 
+ 30.0 
+ 11,051 
+ 15.0 
+ 30.0 
+ 9,481 
+ 15.0 
+ 30.0 
+ Straight line variation between points given."
+Datum,"A jig point is located in forward fuselage Frame No. 3 and marked on the 
+ underside of the fuselage. The C.G. reference datum is situated 43.90 in. forward of the 
+ jig point."
+MAC,"Length is 86.22 in. 
+ The leading edge of M.A.C. is 215.04 in. aft of datum."
+Leveling Means,Plumb-bob provisions on aft fact of aft cockpit compartment bulkhead.
+Maximum Weights,"Ramp: 
+ 17,086 lb. 
+ Takeoff: 
+ 16,976 lb. 
+ Landing: 
+ 16,424 lb. 
+ MZFW: 
+ 15,653 lb."
+Minimum Crew,The minimum flight crew is two pilots.
+Maximum Baggage,"Aft baggage comp.: 882 lb. Total - Maximum floor loading: 
+ 120 lb/sq. ft. 
+ 470 lb/linear ft. 
+ Baggage and/or cargo load must comply with loading limitations of approved Airplane 
+ Flight Manual, and must be loaded in accordance with loading instructions of Weight 
+ and Balance Supplement to the INTA-approved Airplane Flight Manual."
+Fuel Capacity,"Total capacity: 
+ 548.00 U.S. Gal. in two wing tanks 
+ Usable fuel: 
+ 528.00 U.S. Gal. 
+ Unusable fuel: 
+ 20.00 U.S. Gal. 
+ (See NOTES 1 (b) and 1 (c) for data on system fuel and oil)."
+Oil Capacity,"Usable oil: 
+ 5.25 U.S. quarts in each engine tank 
+ Unusable oil: 
+ None"
+Altitude,"25,000 ft."
+Control Surface Movements,"Elevator 
+ 30° 
+ Up 
+ 20° 
+ Down 
+ Elevator Trim Tab 
+ 15.5° Up 
+ 31° 
+ Down 
+ Rudder 
+ 27.5° Right 
+ 27.5° Left 
+ Rudder Trim Tab 
+ 12.5° Right 
+ 19° 
+ Left 
+ Aileron 
+ 20° 
+ Up 
+ 20° 
+ Down 
+ Aileron Trim Tab 
+ 15° 
+ Up 
+ 15° 
+ Down 
+ Flaps, Inner and Outer 
+ 10° 
+ Down - Takeoff 
+ 15° 
+ Down - Approach 
+ 40° 
+ Down - Landing 
+ All measurements taken at trailing edge from nuetral position. For details of tolerance on 
+ control surface movement refer to document D.T. 77-2101."
+Maximum Passengers,28 - limited by space available for accommodation.
+"V. Model C-212-CF (Transport Category Airplane) approved December 6, 1985 
+ The C-212-CF model is similar to the C-212-CC model with the same engine except for incorporation of CASA Modification 
+ No. PP0956 or PP1012 which enables engine operation at a higher Takeoff (APR on) rating.",
+Engines,"2 - Garrett Turbine Engine Co. Model TPE331-10R-501C or TPE331-10R-511C 
+ Turboprop engines. 
+ Prop. Shaft/Eng. Rotor Ratio: 1/26.2287"
+Fuel,"See AFM for approved fuels, alternate fuels and approved fuel additives."
+Oil,"Oils conforming to Garrett Turbine Engine Co. Specification EMS 53110 (Type I and 
+ Type II). See approved AFM for a list of approved engine lubricating oils."
+Engine Limits,"Conditions 
+ SHP 
+ ESHP 
+ % RPM 
+ EGT (°C) 
+ Takeoff (initial) (5 minutes) 
+ 900 
+ 944 
+ 100 
+ 650 
+ Takeoff (ARP on) (5 
+ 925 
+ 970 
+ 100 
+ 650 
+ minutes) 
+ Max. Continuous 
+ 900 
+ 944 
+ 100 
+ 650 
+ Transient overspeed limits: 105.5% for 30 sec.; 106% for 5 sec. 
+ 100% is defined as 41,730 rpm engine rotor speed, 1591 rpm propeller shaft speed. 
+ Transient temperature (EGT) limit (1 sec.): 770°C. 
+ See INTA-approved Airplane Flight Manual, Document D.T. 84-2502, for additional 
+ information."
+Propeller and Propeller Limits,"2 - Hartzell Model HC-B4MN-5AL, constant speed, hydraulic, full feathering, reversible 
+ propellers. 
+ Blades: 
+ 4, Model LM10585B + 4 
+ Diameter: 
+ 110 in. 
+ For % RPM at windmilling see INTA-approved Airplane Flight Manual, Document D.T. 
+ 84-2502. 
+ Blade angle measured at 42 in. radius station: 
+ Feathered 
+ 83.0° ± 1.0° 
+ Flight Idle 
+ 7.0° ± 0.3° 
+ Start Locks 
+ -1.5° ± 0.2° 
+ Full Reverse 
+ -10° ± 0.5° 
+ Speed Knots IAS"
+Airspeed Limits,"VMO (Max. Operating) 
+ (S.L. -25,000 ft.) 
+ 200 
+ VA (Maneuvering) 
+ 146 
+ VFE (Flaps Extended) 
+ Takeoff 25% 
+ 135 
+ Approach 37.5% 
+ 130 
+ Landing 100% 
+ 115 
+ VMC (Min. Control Speed) 
+ 88"
+CG Range,"Weight 
+ FWD 
+ AFT 
+ (lb) 
+ % MAC 
+ % MAC 
+ 16,976 
+ 16.0 
+ 30.0 
+ 16,424 
+ 15.9 
+ 30.0 
+ 11,051 
+ 15.0 
+ 30.0 
+ 9,481 
+ 15.0 
+ 30.0 
+ Straight line variation between points given."
+Datum,"A jig point is located in forward fuselage Frame No. 3 and marked on the underside 
+ of the fuselage. The C.G. reference datum is situated 43.90 in. forward of the jig point."
+MAC,"Length is 86.22 in. 
+ The leading edge of M.A.C. is 215.04 in aft of datum."
+Leveling Means,"Plumb-bob provisions on aft face of act cockpit compartment bulkhead. 
+ Ramp: 
+ 17,086 lb. 
+ Takeoff: 
+ 16,976 lb. 
+ Landing: 
+ 16,424 lb. 
+ MZFW: 
+ 15,653 lb."
+Minimum Crew,The minimum flight crew is two pilots
+Maximum Baggage,"Aft baggage comp.: 882 lb. Total - Maximum floor loading: 
+ 120lb/sq. ft. 
+ 470 lb/linear ft. 
+ Baggage and/or cargo load must comply with loading limitations of approved Airplane 
+ Flight Manual, and must be loaded in accordance with loading instructions of Weight 
+ and Balance Supplement to the INTA-approved Airplane Flight Manual."
+Fuel Capacity,"Total capacity: 
+ 548.00 U.S. Gal in two wing tanks 
+ Usable fuel: 
+ 528.00 U.S. Gal. 
+ Unusable fuel: 
+ 20.00 U.S. Gal. 
+ (See NOTE 1 (b) and 1 (c) for data on system fuel oil)."
+Oil Capacity,"Usable oil: 
+ 5.25 U.S. quarts in each engine tank. 
+ Unusable oil: 
+ None"
+Altitude,"25,000 ft."
+Control Surface Movements,"Elevator 
+ 30° 
+ Up 
+ 20° 
+ Down 
+ Elevator Trim Tab 
+ 15.5° Up 
+ 31° 
+ Down 
+ Rudder 
+ 27.5° Right 
+ 27.5° Left 
+ Rudder Trim Tab 
+ 12.5° Right 
+ 19° 
+ Left 
+ Aileron 
+ 20° 
+ Up 
+ 20° 
+ Down 
+ Aileron Trim Tab 
+ 15° 
+ Up 
+ 15° 
+ Down 
+ Flaps, Inner and Outer 
+ 10° 
+ Down - Takeoff 
+ 15° 
+ Down - Approach 
+ 40° 
+ Down - Landing 
+ All measurements taken at trailing edge from neutral position. For details of tolerance on 
+ control surface movement refer to document D.T. 77-2101."
+Maximum Passengers,28 - limited by space available for accommodation.
+"VI. Model C-212-DF (Transport Category Airplane) approved March 30, 1989 
+ The C-212-DF model is similar to the C-212-CE except by the modification in the nose, wingtips and vertical tail.",
+Engines,2 - Garrett Turbine Engine Co. Model TPE331-10R-502C or TPE331-10R-512C or
+See NOTE 7  8,"TPE331-10R-513C. 
+ Prop. Shaft/Eng Rotor Ratio: 1/26.2287."
+Fuel,"See AFM for approved fuels, alternate fuels and approve fuel additives."
+Oil,"Oils conforming to Garrett Turbine Engine Co. Specification EMS 53110 (Type I and 
+ Type II). See approved AFM for a list of approved engine lubricating oils."
+Engine Limits,"Conditions 
+ SHP 
+ ESHP 
+ % RPM 
+ EGT (°C) 
+ Takeoff (initial)(5 minutes) 
+ 900 
+ 944 
+ 100 
+ 650 
+ Takeoff (APR on) (5 
+ 925 
+ 970 
+ 100 
+ 650 
+ minutes) 
+ Max. Continuous 
+ 900 
+ 944 
+ 100 
+ 650 
+ Transient overspeed limits: 105.5% for 30 sec.; 106% for 5 sec. 
+ 100% RPM is defined as 41,730 rpm engine rotor speed, 1591 rpm propeller shaft speed. 
+ Transient temperature (EGT) limit (1 sec.): 770°C. 
+ See DGAC-approved Airplane Flight Manual, Document D.T. 88-2509 for additional 
+ information."
+Propeller and Propeller Limits,"2 Dowty Rotol Ltd, Model (c) R.334/4-82-F/13, hydraulic full feathering, constant 
+ speed, reversible propellers. 
+ Blades: 
+ 4, serial number 660709314 
+ Diameter: 
+ 110 in. 
+ For % RPM at windmilling see DGAC-approved Airplane Flight Manual, Document 
+ D.T. 88-2509. 
+ Blade angle measured at 35.333-in. radius station: 
+ Feathered 
+ 82°32’ ± 20’ 
+ Flight Idle 
+ 9° ± 20’ 
+ Start Locks 
+ -1°45’ ± 0°30’ 
+ Full Reverse 
+ -13° ± 1° 
+ Speed Knots IAS"
+Airspeed Limits,"VMO (Max. Operating) 
+ (S.L. -25,000 ft.) 
+ 200 
+ VA 
+ (Maneuvering) 
+ 146 
+ VFE 
+ (Flaps Extended) 
+ Takeoff 25% 
+ 135 
+ Approach 25% 
+ 135 
+ Landing 100% 
+ 115 
+ VMC (Min. Control) 
+ 76"
+CG Range,"Weight 
+ FWD 
+ AFT 
+ (lb) 
+ % MAC 
+ % MAC 
+ 16,976 
+ 16.0 
+ 30.0 
+ 16,424 
+ 15.9 
+ 30.0 
+ 11,051 
+ 15.0 
+ 30.0 
+ 9,481 
+ 15.0 
+ 30.0 
+ Straight line variation between points given."
+Datum,"A jig point is located in forward fuselage Frame No. 3 and marked on the underside of 
+ the fuselage. The C.G. reference datum is situated 43.90 in. forward of the jig point."
+MAC,"Length is 86.22 in. 
+ The leading edge of M.A.C. is 215.04 in. aft of datum"
+Leveling Means,Plumb-bob provisions on aft face of aft cockpit compartment bulkhead.
+Maximum Weight,"Ramp: 
+ 17,086 lb. 
+ Takeoff: 
+ 16,976 lb. 
+ Landing: 
+ 16,424 lb. 
+ MZFW : 
+ 15,653 lb."
+Minimum Crew,The minimum crew is two pilots.
+Maximum Baggage,"Aft baggage comp.: 882 lb. Total - maximum floor loading: 
+ 120 lb/sq. ft. 
+ 470 lb/linear ft, 
+ Fwd baggage comp.: 309 lb. total 
+ Baggage and/or cargo load must comply with loading limitations of approved Airplane 
+ Flight Manual, and must be loaded in accordance with loading instructions of Weight 
+ and Balance Supplement to the DGAC-approved Airplane Flight Manual."
+Fuel Capacity,"Total Capacity: 
+ 548.00 U.S. Gal. in two wing tanks 
+ Usable Fuel: 
+ 528.00 U.S. Gal. 
+ Unusable Fuel: 
+ 20.00 U.S. Gal. 
+ (See NOTES 1 (b) and 1 (c) for data on system fuel and oil)."
+Oil Capacity,"Usable oil: 
+ 5.25 U.S. quarts in each engine tank 
+ Unusable oil: 
+ None"
+Altitude,"25,000 ft."
+Control Surface Movements,"Elevator 
+ 30° 
+ Up 
+ 20° 
+ Down 
+ Elevator Trim Tab 
+ 15.5° Up 
+ 31° 
+ Down 
+ Rudder 
+ 20° 
+ Right 
+ 24° 
+ Left 
+ Rudder Trim Tab 
+ 14° 
+ Right 
+ 14° 
+ Left 
+ Aileron 
+ 20° 
+ Up 
+ 20° 
+ Down 
+ Aileron Trim Tab 
+ 15° 
+ Up 
+ 15° 
+ Down 
+ Flaps, Inner and Outer 
+ 10° 
+ Down - Takeoff 
+ 10° 
+ Down - Approach 
+ 40° 
+ Down - Landing 
+ All measurements taken at trailing edge from neutral position. For details of tolerances 
+ on control surface movement refer to document D.T. 77-2101."
+Maximum Passengers,28 - Limited by space available for accommodation.
+"VII. Model C-212-DE (Transport Category Airplane) approved October 1, 1991",
+Engines,"2 - Pratt and Whitney Canada, Model PT6A-65B turboprop engines 
+ Propeller Shaft Gear Ratio: 0.0568:1"
+Fuel,"Refer to Engine Service Bulletin No. 3032845-72-44 (PWC SB 13044) for listing of 
+ approved fuels"
+Oil,"Refer to Engine Service Bulletin No. 3032845-72-1 (PWC SB 13001) for listing of 
+ approved oils."
+Engine Limits,"Conditions 
+ SHP 
+ ESHP 
+ PROP 
+ ITT 
+ % RPM 
+ (°C) 
+ Takeoff (initial) (5 minutes) 
+ 1000 
+ 1069 
+ 100 
+ 820 
+ Max. Continuous 
+ 1000 
+ 1069 
+ 100 
+ 810 
+ 100% NG is defined as 37,468 rpm. 
+ 100% NP is defined as 1,700 rpm (which means a Power Turbine Speed of 29,894 rpm 
+ (NF)). 
+ Transient temperature (ITT) limit: 1000°C for 5 seconds. 
+ See DGAC-approved Airplane Flight Manual, Document D.T. 88-2518, for additional 
+ information."
+Propeller and Propeller Limits,"2 McCauley Model 4HFR34C756/106LM, constant speed, hydraulic full feathering, 
+ reversible, propellers. 
+ Blades: 
+ 4, Model 106LM 
+ Diameter: 
+ 106 in. 
+ Blade angle measured at 30 in. radius station: 
+ Feathered 
+ 86.7° ± 0.5° 
+ Beta pick-up 
+ 19.5° ± 0.2° 
+ Flight Idle 
+ 15° ± 0.2° 
+ Start Locks 
+ 7° ± 0.5° 
+ Full Reverse 
+ -10° ± 0.5° 
+ Speed Knots IAS"
+Airspeed Limits,"VMO (Max. Operating) 
+ (S.L. -25,000 ft.) 
+ 200 
+ VA (Maneuvering) 
+ 146 
+ VFE (Flaps Extended) 
+ Takeoff 25% 
+ 135 
+ Approach 25% 
+ 130 
+ Landing 100% 
+ 115 
+ VMC (Min. Control) 
+ 76"
+CG Range,"Weight 
+ FWD 
+ AFT 
+ (lb) 
+ % MAC 
+ % MAC 
+ 16,976 
+ 16.0 
+ 30.0 
+ 16,424 
+ 15.9 
+ 30.0 
+ 11,051 
+ 15.0 
+ 30.0 
+ 9,481 
+ 15.0 
+ 30.0 
+ Straight line variation between point given."
+Datum,"A jig point is located in forward fuselage Frame. No. 3 and marked on the underside of 
+ the fuselage. The C.G. reference datum is situated 43.9 in. forward to the jig point."
+MAC,"Length is 86.22 in. 
+ The leading edge of M.A.C. is 215.04 in. aft of datum"
+Leveling Means,Plumb-bob provisions on aft face of aft cockpit compartment bulkhead.
+Maximum Weights,"Ramp: 
+ 17,086 lb. 
+ Takeoff: 
+ 16,976 lb. 
+ Landing: 
+ 16,424 lb. 
+ MZFW: 
+ 15,653 lb."
+Minimum Crew,The minimum flight crew is two pilots.
+Maximum Baggage,"Aft baggage compartment: 
+ 882 lb total 
+ Fwd baggage compartment: 
+ 309 lb. total 
+ Maximum floor loading: 
+ 120 lb/sq. ft. 
+ 470 lb/linear ft. 
+ Baggage and/or cargo load must comply with loading limitations of approved Airplane 
+ Flight Manual, and must be loaded in accordance with loading instructions of Weight 
+ and Balance Supplement to the approved Airplane Flight Manual."
+Fuel Capacity,"Total capacity: 
+ 548.00 U.S. Gal. in two wing tanks 
+ Usable fuel: 
+ 528.00 U.S. Gal. 
+ Unusable fuel: 
+ 20.00 U.S. Gal."
+Oil Capacity,"Usable oil: 
+ 1.5 U.S. gallons in each engine tank 
+ Unusable oil: 
+ 1 U.S. gallon 
+ (See NOTES 1 (b) and 1 (c) for data on system fuel and oil)."
+Altitude,"25,000 ft."
+Control Surface Movement,"Elevator 
+ 30° 
+ Up 
+ 20° 
+ Down 
+ Elevator Trim Tab 
+ 3° 
+ Up 
+ 8.6° Down 
+ Rudder 
+ 24.5° Right 
+ 21° 
+ Left 
+ Rudder Trim Tab 
+ 14° 
+ Right 
+ 14° 
+ Left 
+ Aileron 
+ 20° 
+ Up 
+ 20° 
+ Down 
+ Aileron Trim Tab 
+ 15° 
+ Up 
+ 15° 
+ Down 
+ Flaps, Inner and Outer 
+ 10° 
+ Down - Takeoff 
+ 10° 
+ Down - Approach 
+ 40° 
+ Down - Landing 
+ All measurements taken at trailing edge from neutral position. For details of tolerance on 
+ control surface movement refer to document D.T. 87-2104."
+Maximum Passengers,28 - Limited by space available for accommodation.
+DATA PERTINENT TO ALL MODELS,
+Serial Nos Eligible,"The Spanish Export Airworthiness Certificate endorsed as noted below under Import 
+ Requirements must be submitted for each individual aircraft for which application for 
+ FAA Airworthiness Certification is made except for S/N 64N and 73N. 
+ The Indonesian Export Airworthiness Certificate endorsed as noted below under Import 
+ Requirements must be submitted for Airplanes S/N 64N and 73N produced by IPTN in 
+ Indonesia and validated by the Spanish Direccion General de Aviacion Civil (DGAC) 
+ (by letter dated December 23, 1986) for which application for FAA Airworthiness 
+ Certification is made."
+Import Requirements,"The U.S. Airworthiness certification basis for aircraft type certificated under FAR 
+ Section 21.29 and exported by the country of manufacture is FAR Sections 21.183 (c) or 
+ 21.185 (c). 
+ The U. S. Airworthiness certification basis for aircraft type certificated under FAR 
+ Section 21.29 exported from countries other than the country of manufacture (e.g., 
+ third party country) is FAR Section 21.183 (d) or 21.183 (b). 
+ The FAA can issue a U.S. airworthiness certificate based on an Export Certificate of 
+ Airworthiness (Export C of A) signed by a representative of the Spanish DGAC on behalf 
+ of the European Community. The Export C of A should contain the following statement: 
+ ‘The aircraft covered by this certificate has been examined, tested, and found to conform 
+ with the Type Design approved under U.S. Type Certificate No. A43EU and to be in a 
+ condition for safe operation.’ 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the 
+ United States of both new and used aircraft based on the scope of the agreement, to 
+ identify any required statements by the exporting authority on the export certificate 
+ of airworthiness (or equivalent document), and for procedures for coordinating 
+ exceptions to conformity statements on these documents. Refer to FAA 
+ Order 8130.2, Airworthiness Certification of Aircraft, for requirements for issuance 
+ of an airworthiness certificate for imported aircraft."
+Certification Basis,"FAR Part 25 effective February 1, 1965, including Amendments 25-1 through 25-35. 
+ FAR Part 36 effective December 1, 1969, including Amendments 36-1 through 36-17. 
+ CASA has elected to comply with the requirements of FAR 25.855 and 25.857 as 
+ amended by Amendment 25-60 for the forward cargo compartment of the C-212-DF and 
+ C-212-DE Models. 
+ FAA Special Condition 25-100-NW-6, dated May 18, 1981, applicable to Models -CC, 
+ -CD, -CE, -CF and -DF. 
+ SFAR 27 effective February 1, 1974, including amendments 27-1 through 27-6 as it 
+ applies to the fuel venting emissions requirements. Compliance has been demonstrated 
+ for Model -DF with the installation of CASA modification 212.510251 and for Model 
+ -DE with the installation of CASA drawing 212-54515. 
+ Date of application for Type Certificate: September 7, 1974. 
+ Type Certificate No. A43EU, issued February 22, 1977. 
+ The Spanish DGAC originally type certificated these Construcciones Aeronauticas, S.A 
+ C-212 aircraft under its type certificate Number 01-82. The FAA validated these 
+ products under U.S. Type Certificate number A43EU. Effective September 28, 2003, the 
+ European Aviation Safety Agency (EASA) began oversight of this product on behalf of 
+ the Spanish DGAC ."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) and listed in document Equipment List Report D.T. 77-2301, 
+ (Models -CC through -CF), D.T. 87-2523 (Model -DF) and D.T. 88-2315 (Model -DE) 
+ must be installed in the aircraft for certification. 
+ In addition, the following is required: 
+ - 
+ INTA-approved Airplane Flight Manual, Document No. D.T. 76-2501, applicable to C-212-CB Model. 
+ - 
+ INTA-approved Airplane Flight Manual, Document No. D.T. 78-2501, applicable to C-212-CC Model, 
+ Revision 3 or later approved revisions. 
+ - 
+ INTA-approved Airplane Flight Manual, Document No. D.T. 83-2501, applicable to C-212-DC Model. 
+ - 
+ INTA-approved Airplane Flight Manual, Document No. D.T. 84-2501, applicable to C-212-CE Model. 
+ - 
+ INTA-approved Airplane Flight Manual, Document No. D.T. 84-2502, applicable to C-212-CF Model. 
+ - 
+ DGAC-approved Airplane Flight Manual, Document No. D.T. 88-2509, applicable to C-212-DF Model. 
+ - 
+ DGAC-approved Airplane Flight Manual, Document No. D.T. 88-2518, applicable to C-212-DE 
+ Model."
+Service Information,"Each of the documents listed below must state that it is approved by EASA – or for 
+ approvals made before September 28, 2003 – by the Spanish DGAC. Any such 
+ documents are accepted by the FAA and are considered FAA approved. Additionally, 
+ approvals issued by Construcciones Aeronauticas, S.A.under the authority of EASA 
+ approved Design Organization EASA.21J.032 - or for approvals made before 
+ September 28, 2003 - under the authority of Spanish DGAC Design 
+ Organization Approval No. 1 are considered FAA approved. These approvals 
+ pertain to the type design only. 
+  
+ TC holder Service Bulletins, except as noted below, 
+  
+ Structural repair manuals 
+  
+ Vendor manuals referenced in TC holder Service Bulletins 
+  
+ Airplane flight manuals 
+  
+ Repair instructions. 
+ Note: Design changes that are contained in TC holder Service Bulletins and that are 
+ classified as Level 1 Major in accordance with either the US/Spain or US/EASA Bilateral 
+ Aviation Safety Agreement – Implementation Procedures for Airworthiness, must be 
+ approved by the FAA."
+NOTE 1,"(a) Current weight and balance report, including list of equipment included in certificated empty weight, - 
+ and loading instructions must be in each aircraft at the time of original certification. 
+ (b) Unusable fuel and system oil and all hydraulic fluid must be included in the certified weight. 
+ Unusable fuel is that quantity of fuel remaining in the system and in the tanks when the fuel quantity 
+ indicators read zero. The approved unusable fuel of 20.0 U.S. gal. (130.0 lbs.) is comprised of 
+ system and tank fuel determined under FAR 25.959. 
+ (c) System oil is the amount of oil required to fill the oil system and tanks up to its normal level."
+NOTE 2,"All placards presented in the limitations section of the approved Airplane Flight Manual must be installed in 
+ the appropriate location on the aircraft."
+NOTE 3,"(a) The service life limits for aircraft structural parts which are fatigue critical are listed in the approved 
+ Airframe Maintenance Manual, Chapter 5. 
+ (b) Life limited parts for the Model TPE331-5-501C engine are listed in FAA-Approved Garrett Service 
+ Bulletin TPE331-72-0019 dated December 4, 1972, or later FAA-Approved revisions. 
+ (c) Life limited parts for the Model TPE331-10 and -10R series engines are listed in FAA-Approved 
+ Garrett Service Bulletins TPE331-72-0180, dated February 15, 1978, or later FAA-Approved 
+ revisions. 
+ (d) Life limited parts for the Model PT6A-65B engine are listed in DOT of Canada approved Service 
+ Bulletin 3032845-72-2 (PEC SB 13002) dated October 14, 1986, or later DOT-approved 
+ revisions."
+NOTE 4,"For the C-212-CC Model with the TPE331-10R-501C or -501C engines installed the INTA-approved 
+ Airplane Flight Manual, Document 78-25-1 Revision 7, dated January 8, 1982, or later approved 
+ revision is required."
+NOTE 5,"Engine Models TPE331-10-511C, TPE331-10R-511C and TPE331-10R-512C are the same as Models 
+ TPE331-10-501C, TPE331-10R-501C and TPE331-10R-502C with Garrett Service Bulletin No. 
+ TPE331-72-0395, effective April 1, 1983, Revision 1, dated November 10, 1983, or later revision 
+ incorporated and are eligible when CASA Service Bulletin 212-80-22 and 212-80-23 are incorporated 
+ upon installation of the later model engine."
+NOTE 6,"Operation of the C-212-CC and -CF Models with a TPE331-10-501C or TPE331-10R-501C engine on 
+ one side and a TPE331-10-511C or TPE331-10R-511C engine on the other side is authorized for a 
+ maximum of 300 hours after the later model engine is installed. Operation of the C-212-CD and -CE 
+ Models with a TPE331-10R-502C engine on one side and a TPE331-10R-512C engine on the other side 
+ is authorized for a maximum of 300 hours after the later model engine is installed. C-212-CC, -CD, -CE and 
+ -CE airplane performance is unaffected with mixed engine installed."
+NOTE 7,"Engine Model TPE-331-10R-513C is the same as Model TPE331-10R-512C with Garrett Service Bulletin 
+ TPE331-72-0509, dated August 21, 1985, or later approved revision incorporated."
+NOTE 8,"Operation of the C-212-DF Model with a TPE331-10R-512C engine on one side and TPE331-10R-513C 
+ engine on the other side is authorized for an unlimited time. Operation of the C-212-DF Model with a 
+ TPE331-10R-512C or TPE331-10R-513C engine on one side, and TPE331-10R-502C engine on the 
+ other side is authorized for a maximum of 300 hours after the later model engine is installed. C-212-DF 
+ airplane performance is unaffected with mixed engines installed."

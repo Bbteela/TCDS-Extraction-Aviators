@@ -1,0 +1,389 @@
+Keyterm,Info
+"A00018AT 
+ Revision 8 
+ Honda Aircraft 
+ Company LLC 
+ HA-420 
+ July 07, 2021",
+Type Certificate Holder,"Honda Aircraft Company LLC 
+ 6430 Ballinger Road 
+ Greensboro, North Carolina 27410"
+"I – Model HA-420 (6/7/8PCLM, Normal Category) Approved December 8, 2015",
+Engines,"Two (2) GE Honda Aero Engines HF120-H1A turbofan engines 
+ Type Certificate E00085EN"
+Fuel,"Jet A, Jet A-1, JP-8, PRC No. 3 Jet Fuel, Russian TS-1, and 
+ Ukrainian TS-1 
+ For approved and prohibited fuel additives, refer to the FAA 
+ Approved Airplane Flight Manual (see NOTE 7)"
+Oil,"For approved oils, refer to the FAA Approved Airplane Flight 
+ Manual (see NOTE 7) 
+ Page No. 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ Rev No. 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 7 
+ 6 
+ 8 
+ 8 
+ 8"
+Engine Limits,"Thrust Setting 
+ N1 Fan RPM 
+ ITT (1) 
+ N2 Turbine 
+ RPM 
+ Takeoff 
+ (19,055 RPM) 
+ 100.0% 
+ 860°C (2) 
+ 100.9% 
+ (49,200 RPM) 
+ Max Continuous 
+ (19,055 RPM) 
+ 100.0% 
+ 860°C (2) 
+ 100.9% 
+ (49,200 RPM) 
+ The HA-420 is approved for 10 Minutes OEI (see NOTE 5) 
+ (1) ITT values are displayed limits and not actual temperature 
+ values. 
+ (2) Maximum transient for 2 minutes is 885°C 
+ HF120-H1A power management de-rated minimum static thrust 
+ ratings at sea level and 77°F/25°C with no installation losses: 
+ Takeoff 
+ 2037 lbs thrust 
+ Max Continuous 
+ 1922 lbs thrust 
+ VMO……………………….…… 
+ 270 KIAS"
+Airspeed Limits,"MMO…………………………… 
+ 0.72 Mach 
+ VA………………………….…... 
+ 200 KIAS 
+ VMCA 
+ Flaps UP……………… 
+ 105 KIAS 
+ Flaps TO/APPR…... 
+ 100 KIAS 
+ VMCL 
+ Flaps LDG…………… 95 KIAS 
+ VFE/FO 
+ Flaps TO/APPR…… 200 KIAS 
+ Flaps LDG….………... 160 KIAS 
+ VLE/LO………………………… 200 KIAS 
+ VTIRE………………………….. 
+ 165 knots (Max Tire Ground Speed)"
+Configuration,"Max Ramp 
+ Max Takeoff 
+ Max Landing 
+ Max Zero Fuel"
+42000012 thru 42000125,"10,680 lbs 
+ 10,600 lbs 
+ 9,860 lbs 
+ 8,800 lbs"
+42000011 42000012 thru,"10,780 lbs 
+ 10,700 lbs 
+ 9,960 lbs 
+ 8,900 lbs"
+42000126 thru 42000206 with,"10,980 lbs 
+ 10,900 lbs 
+ 10,160 lbs 
+ 9,100 lbs"
+Configuration,"Fwd Compartment 
+ Aft Compartment 
+ Luggage Valet"
+42000012 thru 42000125,"100 lbs (F-Sta 54.5) 
+ 400 lbs (F-Sta 328.4) 
+ 50 lbs (F-Sta 162.6)"
+42000012 thru 42000125,"200 lbs (F-Sta 54.5) 
+ 400 lbs (F-Sta 328.4) 
+ 50 lbs (F-Sta 162.6)"
+42000011 42000012 thru,"200 lbs (F-Sta 54.5) 
+ 400 lbs (F-Sta 328.4) 
+ 50 lbs (F-Sta 162.6)"
+up,"For Aft Compartment loading distribution, refer to the latest FAA 
+ Approved Airplane Flight Manual Section 6 (see NOTE 7)."
+Datum,(F-Sta 0.00) 69.0 inches forward of the nose jacking position
+Mean Aerodynamic,59.72 inches (M.A.C. leading edge is 232.2 inches aft of datum)
+Leveling Means,Left hand floorboard inside main entry way
+Empty Weight CG,None
+CG Range,"For approved CG range, refer to the FAA Approved Airplane 
+ Flight Manual (see NOTE 7)"
+For 42000012,"430.7 US gal TOTAL 
+ (F-Sta 263.5)"
+thru 42000125,"423.9 US gal Usable 
+ 6.8 US gal Unusable"
+For 42000011,"446.73 US gal TOTAL 
+ (F-Sta 264.08)"
+42000126 and up,"439.37 US gal Usable 
+ 7.36 US gal Unusable"
+Oil Tank Capacity,"Each engine tank: 
+ MAX Oil Level (FULL line): 4.99 quarts 
+ (F-Sta 320.0) 
+ 2.64 quarts Usable, 2.35 quarts Unusable"
+Control Surface,Maximum Deflection
+Movements,"Control Surface 
+ Trailing Edge Up or Left 
+ Trailing Edge Down or Right 
+ Elevator 
+ 20.5° ± 0.5° 
+ 6.5° ± 0.5° 
+ Rudder 
+ 34.5° ± 0.5° 
+ 34.5° ± 0.5° 
+ Aileron 
+ 21.1° + 0.5°,-1.5° 
+ 19.9° + 0.5°,-1.5° 
+ Aileron Trim 
+ 15° ± 1.0° 
+ 15° ± 1.0° 
+ Rudder Trim 
+ 25° ± 1.0° 
+ 25° ± 1.0° 
+ Elevator Trim 
+ 10° ± 1.0° 
+ 15° ± 1.0° 
+ Flaps 
+ N/A 
+ UP: 0.0° ± 0.25° 
+ TO/APPR:15.7° ± 0.8° 
+ LDG: 35° ± 1.3°"
+Manufacturer Serial No,42000011 and up
+Minimum Crew,"One (1) pilot (left seat) -OR- 
+ Two (2) pilots"
+For SN 42000012,7 Max (Includes pilot(s) and passengers). Refer to the latest FAA
+thru 42000125,"Approved Airplane Flight Manual Section 6 (see NOTE 7) for seat 
+ configurations and moment arms."
+For SN 42000011,8 Max (Includes pilot(s) and passengers). Refer to the latest FAA
+42000126 and up,"Approved Airplane Flight Manual Section 6 (see NOTE 7) for seat 
+ configurations and moment arms."
+Maximum Operating,"43,000 ft MSL"
+Maximum Takeoff,"10,000 ft MSL"
+Temperature Operating,55°C
+Limitation,-40°C (Starting)
+Maneuver Limits,"Maneuvers are limited to any maneuver incident to normal flying, 
+ stalls (except whip stalls) and steep turns in which the angle of 
+ bank is not more than 60 degrees. Acrobatic maneuvers, including 
+ spins, are prohibited. 
+ Other Operating Limitations: The aircraft must be operated in accordance with the FAA 
+ approved Airplane Flight Manual (see NOTE 7). 
+ Type Certificate Application: October 11, 2006"
+Type Certificate Issuance,"Type Certificate A00018AT Issued December 8, 2015"
+Certification Basis,"14 CFR Part 23, Airworthiness Standards: Normal, Utility, 
+ Acrobatic, and Commuter Airplanes, effective February 1, 1965, as 
+ amended by Amendments 23-1, dated July 29, 1965, through 
+ Amendment 23-62, dated December 2, 2011 
+ 14 CFR Part 34, Fuel Venting and Exhaust Emission Requirements 
+ for Turbine Engine Powered Airplanes, effective September 10, 
+ 1990, as amended by Amendments 34-1, dated July 31, 1995 
+ through Amendment 34-5, dated December 31, 2012 
+ 14 CFR Part 36, Noise Standards: Aircraft Type and 
+ Airworthiness Certification 
+  Serial numbers 42000012 thru 42000125 are compliant 
+ with Stage 4 noise requirements, as amended by 
+ Amendments 36-1 through Amendment 36-29, dated 
+ March 11, 2013. 
+  Serial numbers 42000012 thru 42000125 with SB-420-55- 
+ 001 installed and 42000126 thru 42000206 are compliant 
+ with Stage 4 noise requirements, as amended by 
+ Amendments 36-1 through Amendment 36-30, dated 
+ March 4, 2014. 
+  Serial numbers 42000126 thru 42000206 with SB-420-42- 
+ 016 installed and 42000207 and up are compliant with 
+ Stage 4 noise requirements, as amended by Amendments 
+ 36-1 through Amendment 36-31, dated October 4, 2017. 
+ Optional Design Regulations: None 
+ Exemptions from 14 CFR Part 23 in accordance with 14 CFR Part 
+ 11: 
+ Exemption 11123 dated December 16, 2014, 23.181(b), Dynamic 
+ Stability Compliance with 23.181(b) during takeoff and landing. 
+ Equivalent Safety Findings (ELOS) according to the provisions of 
+ 14 CFR part 21.21(b)(1) for the following subjects: 
+ ELOS No., date and Subject 
+ Regulation modified by ELOS 
+ §1.1, §1.2, §23.49, §23.51, 
+ ACE-15-08, dated June 5, 2015: 
+ §23.65, §23.67, §23.69, 
+ Use of 1-g Stall Speeds in lieu of 
+ §23.73, §23.143, §23.145, 
+ Minimum Speed in the Stall as a 
+ §23.147, §23.149, §23.157, 
+ Basis for Determining 
+ §23.161, §23.175, §23.177, 
+ Compliance 
+ §23.201, §23.203, §23.207, 
+ §23.233, §23.729, §23.735, 
+ §23.1001, §23.1323, 
+ §23.1325, §23.1545, and 
+ §23.1587 
+ §23.1305, §23.1337, §23.1549, 
+ ACE-15-09, dated March 26, 
+ §23.1553 
+ 2015: Electronic Display of 
+ Engine Instruments N1, N2, ITT, 
+ Oil Pressure, Oil Temperature, 
+ Fuel Flow, and Fuel Quantity on a 
+ Garmin G3000 Integrated Flight 
+ Deck 
+ §23.1353(h) 
+ ACE-15-10, dated March 25, 
+ 2015: Storage Battery Design and 
+ Installation 
+ §23.1545(b)(4) 
+ ACE-15-11, dated September 14, 
+ 2015: Airspeed Indicator (ASI) 
+ Flap Markings 
+ §23.45, §23.51, §23.63, §23.67, 
+ ACE-15-15, dated September 1, 
+ §23.73, §23.77, §23.161, 
+ 2015: Amendment 23-62 
+ §23.181, §23.221, §23.251, 
+ Corrections 
+ §23.253, §23.571, §23.1195, 
+ §23.1197, §23.1199, §23.1201, 
+ §23.1545, §23.1583 
+ §23.45, §23.67, §23.75, §23.77, 
+ AT-15774AT-A-F-1, dated July 
+ 20, 2018: Steep Approach 
+ Operations 
+ The following Special Conditions (SC) in accordance with 14 CFR 
+ Part 11: 
+ Special Condition No., Date and 
+ Regulation modified by Special 
+ Subject 
+ Condition 
+ §23.562, §23.785 
+ Special Condition 
+ No. 23-263-SC, dated March 25, 
+ 2015, Dynamic Test Requirements 
+ for Single Place Side-Facing Seats 
+ §23.1309 
+ Special Condition 
+ No. 23-264-SC, dated March 25, 
+ 2015, Electronic Engine Control 
+ System 
+ §23.1195, §23.1197, §23.1199, 
+ Special Condition 23-265-SC, 
+ §23.1201 
+ dated June 9, 2015, Fire 
+ Extinguishing 
+ Note: This special condition 
+ supersedes the ELOS finding of 
+ ELOS Memo ACE-15-15. 
+ §23.1353 
+ Special Condition 
+ No. 23-269-SC, dated Sept 14, 
+ 2015, Lithium-Ion Battery 
+ Installation 
+ §23.831 
+ Special Condition 
+ No. 23-270-SC, dated August 3, 
+ 2015: High Altitude Operations 
+ §23.1329 
+ Special Condition Notice 
+ No. 23-271-SC, dated October 26, 
+ 2015, Cruise Speed Control 
+ §23.562, §23.785, §23.791, 
+ Special Condition 
+ §23.1581 
+ No. 23-287-SC, dated March 7, 
+ 2018, Type Certification of Side 
+ Facing Belted Lavatory Seat to 
+ meet the modified requirements of 
+ 14 CFR Parts 23.562, 23.785, 
+ 23.791, and 23.1581 for an area 
+ bounded by privacy pocket door 
+ and a bulkhead 
+ (Note: This special condition is 
+ applicable to S/N 42000011, 
+ 42000126 and up) 
+ Compliance has been shown for Day/Night VFR and Day/Night 
+ IFR operations. 
+ Compliance has been shown for applicable ditching provisions. 
+ S/N 42000049 and up, and S/N’s 42000011 through 42000048 
+ incorporating Honda Aircraft Service Bulletin SB-420-42-001, are 
+ eligible for flight into known or forecast icing. 
+ Per the type design, S/N 42000011 and up meet the Reduced 
+ Vertical Separation Minima (RVSM) technical requirements. Each 
+ operator must obtain operational approval for flight in RVSM 
+ airspace from their cognizant Flight Standards District Office 
+ (FSDO). 
+ Compliance has been shown for steep approach operations as an 
+ optional kit with appropriate manual supplements. 
+ Model HA-420 is defined by drawing, HJ1-10000-000, Rev G or 
+ later FAA approved revision. 
+ ADDITIONAL DESIGN REQUIREMENTS AND 
+ CONDITIONS: 
+ The following design details or information must be maintained to 
+ ensure that an unsafe design condition is not present: None"
+Production Basis,"Production Certificate No. 348CE, dated July 8, 2016"
+Equipment,"The basic required equipment as prescribed in the applicable 
+ airworthiness regulations (see Certification Basis) must be 
+ installed in the aircraft for certification. In addition, the following 
+ items of equipment are required: 
+ 1. FAA Approved Airplane Flight Manual (see NOTE 7) 
+ For single pilot operations, the following equipment must be 
+ operative/ available in addition to those items listed above: 
+ 1. Autopilot 
+ 2. FAA Approved Quick Reference Handbook (see NOTE 7)"
+NOTE 1,"Weight and Balance: 
+ A current weight and balance report, including a list of equipment included in the 
+ certificated empty weight, and loading instructions must be provided for each 
+ aircraft at the time of original certification."
+NOTE 2,"Placards 
+ Airplane operation must be in accordance with the FAA Approved Airplane 
+ Flight Manual (see NOTE 7). All placards required by the Flight Manual, the 
+ applicable operating rules, and the Certification Basis must be installed in the 
+ airplane."
+NOTE 3,"Service Life Limits and required Maintenance/Inspections 
+ Inspection time limits and maintenance checks are included in the Airworthiness 
+ Limitation and Inspection Manual (HJ1-29000-013). The retirement times of the 
+ life limited components in Section 05-60-00 cannot be altered without FAA 
+ Engineering approval."
+NOTE 4,"Interior Components 
+ Replacement Seats (crew and passenger) must be demonstrated to comply with 
+ installation requirements as established by the Certification Basis (including 14 
+ CFR §23.2, 23.561, 23.562 and 23.785) even if they are previously found to be 
+ compliant to TSO C127a (or later amended version). 
+ The cushion buildup of all seats (crew and passenger) may not be altered without 
+ appropriate qualification as established by the Certification Basis (including 14 
+ CFR §23.562). 
+ The cabinet that is installed forward of the RH side-facing seat is an integral part 
+ of the certified seat and restraint system (applicable for S/N 42000011 and up). 
+ The divider forward of the RH belted lavatory seat is an integral part of the 
+ certified seat and restraint system (applicable for S/N 42000011, 42000126 and 
+ up). These items may not be structurally altered unless the changes are shown to 
+ comply with the requirements of the Certification Basis (including 14 CFR 
+ §23.561, 23.562 and 23.785)."
+NOTE 5,"Engine Operation 
+ The Model HA-420 is approved for One Engine Inoperative 10 minutes thrust 
+ capability with the GE Honda Aero Engines HF120-H1A engine, per FAA Policy 
+ Memo Policy Statement on Approval for 10-Minute Rated Takeoff Thrust/Power 
+ during Takeoff with One-Engine Inoperative (OEI) under 14 CFR Part 23 and 14 
+ CFR Part 33 [PS-ANE33-ACE23-2006-1], dated August 30, 2006."
+NOTE 6,"Aircell CTR System 
+ The Aircell CTR System is intended to provide internet connection and email 
+ services using portable electronic devices (PEDs). Any other intended function of 
+ this equipment will require a reexamination of the certification basis."
+NOTE 7,Applicable Flight Manuals
+Configuration,"Airplane Flight Manual 
+ Quick Reference Handbook"
+42000012 thru 42000125,"HJ1-29000-003-001 
+ HJ1-29000-007-001 
+ 42000011, 42000012 thru 42000125 with SB-420-55- 
+ HJ1-29001-003-001 
+ HJ1-29001-007-001"
+42000126 thru 42000206 with SB42042016,"HJ1-29004-003-001 
+ HJ1-29004-007-001"

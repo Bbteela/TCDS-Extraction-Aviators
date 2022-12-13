@@ -1,0 +1,428 @@
+Keyterm,Info
+"A00072CE 
+ Revision 9 
+ Pilatus 
+ PC-24 
+ July 8, 2021",
+TC Holder,"Pilatus Aircraft Ltd 
+ Stans, Switzerland"
+Type Certificate Holder Record,"Pilatus Aircraft Ltd 
+ Stans, Switzerland"
+"I. Model PC-24 (Commuter Category), Approved: December 7, 2017",
+Engine,"Number of Engines: 2 
+ Engine Manufacturer: Williams International 
+ Engine Model Number: FJ44-4A-QPM"
+Fuel,"Jet A, Jet A1, JP-8 and TS-1."
+Engine Limits,"Oil 
+ Operating 
+ Thrust 
+ Oil Temp. 
+ N1% 
+ N2% 
+ ITT °C 
+ Pressure 
+ lbs. 
+ condition 
+ °C 
+ psi 
+ Normal Takeoff 
+ 3420 
+ 104.7 
+ 100.8 
+ 855 
+ 40 - 120 
+ 10 - 135 
+ Max Takeoff 
+ 3600 
+ 104.7 
+ 100.8 
+ 855 
+ 40 - 120 
+ 10 - 135 
+ (ATR) 
+ Maximum 
+ 104.7 
+ 100.8 
+ 835 
+ 40 - 120 
+ 10 - 135 
+ Cont/Climb 
+ Ground or Flight 
+ 30 Min 
+ -40 - 135 
+ Idle (cont) 
+ 120 Max 
+ QPM 
+ 45.4 
+ 30 - 120 
+ 10 - 135 
+ See 
+ Airplane 
+ Starting 
+ -40 - 135 
+ Flight 
+ Manual 
+ 105.7 
+ 101.5 
+ 855 
+ Transient High 
+ 130 
+ 149 
+ (2min) 
+ (2min) 
+ (0s) 
+ Transient Low 
+ 23"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8"
+Rev No,"9 
+ 4 
+ 4 
+ 9 
+ 8 
+ 1 
+ 4 
+ 5"
+Airspeed Limits,"Condition 
+ Limit 
+ Limit 
+ (design) 
+ (IAS) 
+ VMO (maximum operating speed) 
+ 290 KEAS 
+ 290 KIAS 
+ MMO (maximum operating Mach number) 
+ 0.74 Mach 
+ 0.74 Mach 
+ VD (maximum dive speed) 
+ 360 KEAS 
+ MD (maximum operating Mach number) 
+ 0.81 Mach 
+ VA (maneuvering speed) at MTOW 
+ 185 KEAS 
+ VC (design cruising speed) 
+ 290 KEAS 
+ VFE (max. flap extended speed): 
+ 200 KEAS 
+ 200 KIAS 
+ - 8° (Take-Off) Flap 
+ 200 KEAS 
+ 200 KIAS 
+ - 15° (Approach) Flap 
+ 175 KEAS 
+ 175 KIAS 
+ - 33° (Landing) Flap 
+ VLO (maximum landing gear operating speed) 
+ 250 KEAS 
+ 250 KIAS 
+ - Extension 
+ 200 KEAS 
+ 200 KIAS 
+ - Retraction 
+ VLE (maximum landing gear extended speed) 
+ 250 KEAS 
+ 250 KIAS 
+ VSO (Stall speed (ISA, sea level, max. landing weight, 
+ ≤ 82 KCAS 
+ landing configuration)) For aircraft 101-130 Pre SB 42- 
+ 002 
+ 81 KCAS 
+ For aircraft 101 - 130 Post SB 42-002, and 131 - Up"
+Center of Gravity CG Range,"For Aircraft 101 - 130 Post SB 42-002, and 131 – Up: (NOTE 6) 
+ For Aircraft 101 - 130 Pre SB 42-002:"
+Empty Weight CG Range,None.
+Datum,"The Datum is 146.1 in (3,711 mm) forward of forward jacking point."
+Leveling Means,Levelling datum which is the seat rail behind the cargo door
+Maximum Weights,"For aircraft 101 - 130 Post SB 42-002, and 131 – Up (NOTE 6): 
+ Parameter 
+ Metric 
+ Imperial 
+ Maximum Ramp Weight (MRW) 
+ 8,345 kg 
+ 18,400 lb. 
+ Maximum certified Take-Off Weight (MTOW) 
+ 8,300 kg 
+ 18,300 lb. 
+ Useable fuel[1] 
+ 2,705 kg 
+ 5,964 lb. 
+ Maximum Zero-Fuel Weight (MZFW) 
+ 6,450 kg 
+ 14,220 lb. 
+ Maximum Landing Weight (MLW) 
+ 7,665 kg 
+ 16,900 lb. 
+ Minimum Flying Weight (MFW) 
+ 4,988 kg 
+ 11,000 lb. 
+ For aircraft 101 - 130 Pre SB 42-002: 
+ Parameter 
+ Metric 
+ Imperial 
+ Maximum Ramp Weight (MRW) 
+ 8,050 kg 
+ 17,750 lb. 
+ Maximum certified Take-Off Weight (MTOW) 
+ 8,005 kg 
+ 17,650 lb. 
+ Useable fuel[1] 
+ 2,705 kg 
+ 5,964 lb. 
+ Maximum Zero-Fuel Weight (MZFW) 
+ 6,100 kg 
+ 13,450 lb. 
+ Maximum Landing Weight (MLW) 
+ 7,370 kg 
+ 16,250 lb. 
+ Minimum Flying Weight (MFW) 
+ 4,814 kg 
+ 10,613 lb."
+Minimum Crew,"One (1) pilot (left seat) -OR- 
+ Two (2) pilots"
+Number of Seats,"Executive Interiors Configuration: 8 seats excluding pilot seats. 
+ Commuter Interiors Configuration: 10 seats excluding pilot seats 
+ NOTE: Refer to the Airplane Flight Manual (02371) section 6 “Weight & Balance” for 
+ seat locations and moment arms."
+Maximum Compartment Weights,"1000 lb. (454 kg) 
+ The standard cabin compartment configuration includes only 1 compartment. The 
+ moment arms, depending on the restraint system (baggage net) used are. 
+ moment arm 
+ maximum capacity 
+ Small Net 
+ 413.8in (10510mm) 
+ 180kg 
+ Large Net 
+ 408in (10363mm) 
+ 240kg 
+ To reach the full baggage of 1000lb (454kg) a combination of the large net and tie down 
+ bars is required and the moment arm is 408in (10363mm)."
+Fuel Capacity,"Total capacity: 895 US gal (3389 Liters). 
+ (5999.8 lb or 2721kg) 
+ Usable quantity: 890 US gal (3369 Liters or 2705 kg) 
+ Usable quantity each tank: 445 US gal 
+ Moment arm for each usuable fuel tank: 317 in (8052mm) when full 
+ Unusable quantity: 5.3 US gal (20 Liters or 16 kg) 
+ Unusable quantity each tank: 2.65 US gal 
+ Moment arm for each unusable fuel tank: 318.5 in (8089mm) 
+ (see Note 1)"
+Oil Capacity,"Total capacity: 
+ 5.85 US qts. 
+ Usable quantity: 
+ 4.32 qts. 
+ Moment arm for oil: 480.3 in (12200mm) 
+ (see Note 1)"
+Hydraulic Capacity,"Total capacity: 
+ 1.14 US gal. 
+ Usable quantity: 
+ 1.14 US gal. 
+ Moment arm for hydraulic: 316.9 in (8048mm)"
+Maximum Operating Altitude,45000ft (13716m)
+Control Surface Movements,"Elevator: 
+ Up 25° +1°/-0° 
+ Down 15° +1°/-0° 
+ Aileron: 
+ Up 25° ± 0.5o 
+ Down 15o ±0.5o 
+ Rudder: 
+ Right 28° ± 0.5o 
+ Left -28 ± 0.5o 
+ Stabilizer: 
+ A/C Nose up direction 
+ -10o 
+ neutral 
+ 0o 
+ A/C Nose up direction 
+ +05o 
+ Flaps: 
+ Up 0o 
+ Down 33° ± 0.5o"
+Manufacturer’s Serial Numbers,MSN 101 and up
+Import Requirements,"A U.S. airworthiness certificate may be issued on the basis of the Swiss Certificate of 
+ Airworthiness for Export signed by a representative of the Swiss Federal Office of Civil 
+ Aviation (FOCA) on behalf of the European Community, containing the following 
+ statement: ‘The aircraft covered by this certificate has been examined, and found to 
+ comply with U.S. 14 CFR Part 23 covered under U.S. Type Certificate No. A00072CE 
+ and to be in a condition for safe operation.’ 
+ The U.S. airworthiness certification basis for this aircraft type certificated under FAR § 
+ 21.29 and exported by the country of manufacture is FAR § 21.183 (c). 
+ Per 21.50(b), Instructions for Continued Airworthiness (ICA) complying with FAR 
+ 23.1529, must be furnished before delivery of the first airplane or issuance of a US 
+ standard certificate of airworthiness, whichever occurs later. (NOTE 4) 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United 
+ States of both new and used aircraft based on the scope of the agreement, to identify any 
+ required statements by the exporting authority on the export certificate of airworthiness 
+ (or equivalent document), and for procedures for coordinating exceptions to conformity 
+ statements on these documents. Refer to FAA Order 8130.2, Airworthiness Certification 
+ of Aircraft, for requirements for issuance of an airworthiness certificate for imported 
+ aircraft"
+Certification Basis,"1) 14 CFR part 21.29, part 21.183(c) and 14 CFR Part 23, effective December 18, 1964, 
+ with amendments 1 through amendment 62 “Airworthiness Standards for Commuter 
+ Category Airplanes” 
+ Additional airplanes with main rechargeable Lithium Batteries (NOTE 7) comply with 
+ §23.2010 and §23.2525 at amendment 23-64. 
+ 2) 14 CFR Part 34, effective September 10, 1990 including Amendments 34-1 through 
+ Amendment 34-5A “Fuel Venting and Exhaust Emission Requirements For Turbine 
+ Engine Powered Airplanes” 
+ 3) 14 CFR Part 36, effective December 1, 1969 with Amendments 36-1 through 
+ Amendment 36-30, Stage 4, “Noise Standards: Aircraft Type and Airworthiness 
+ Certification” 
+ 4) 14 CFR Part 21.16 Special Conditions (SC) issued in accordance with 14 CFR Part 11: 
+ (a) SC 23-282-SC effective July 17, 2017 - Electronic Engine Control (EEC) 
+ (b) SC 23-283-SC effective July 17, 2017 - Autothrust System 
+ (c) SC 23-284-SC effective July 17, 2017 - Pressure Defuel System 
+ 5) Equivalent Safety Findings (ELOS) according to the provisions of 14 CFR part 
+ 21.21(b)(1) for the following subjects: 
+ ELOS No., date and Subject 
+ Regulation modified by ELOS 
+ (a) TC00607CE-A-G-9, dated Feb. 14, 
+ §§ 23.45, 23.51, 23.63, 23.67, 23.73, 
+ 2017: Amendment 23-62 Corrections 
+ 23.77, 23.161, 23.181, 23.221, 23.251; 
+ 23.253, 23.571, 23.785, 23.831, 
+ 23.1195, 23.1197, 23.1199, 23.1201; 
+ 23.1527, 23.1545, and 23.1583. 
+ (b) TC00607CE-A-F-3, dated April 18, 
+ §§ 1.1, 1.2, 23.49, 23.69, 23.143, 
+ 2017: 
+ 23.145, 23.147, 23.149, 23.157, 
+ 23.175, 23.177, 23.201, 23.203, 
+ Use of 1-g Stall Speed Criteria 
+ 23.207, 23.233, 23.729, 23.735, 
+ 23.1001, 23.1323, 23.1325, and 
+ 23.1587. 
+ ELOS Memo TC00607CE-A-G-9 
+ ES23.51, ES23.67, ES23.73, 
+ ES23.161, and ES23.1545. 
+ c) TC00607CE-A-E-14, dated Feb. 24, 
+ § 23.1353(h)(1)(ii) 
+ 2017: 
+ Storage Battery Design and Installation 
+ (d) TC00607CE-A-E-6, dated Mar. 21, 
+ § 23.1357(b) 
+ 2017: 
+ Integrated Modular Avionics (IMA) circuit 
+ protection 
+ (e) TC00607CE-A-S-8, dated June 29, 
+ §§ 23.1305(a)(2), (a)(3), (c)(2), and 
+ 2017: 
+ (c)(5); and 23.1549(a), (b), and (c) 
+ Digital Only Powerplant Indications 
+ (f) TC00607CE-A-S-9, dated Oct. 26, 2017: 
+ § 23.1545(b)(4) 
+ Airspeed Indicator - Flap Markings 
+ (g) TC00607CE-A-S-15, Oct. 26 2017: 
+ §§ 23.1303 (g)(3)(i), (ii), and (iv) 
+ Third Attitude Instrument Without 
+ Independent Power Source 
+ (h) TC00607CE-A-S-21, Nov. 6, 2017: 
+ §23.1438(b) 
+ Pressurization and Pneumatic Systems 
+ 6) No Exemptions. 
+ 7) The airplane is approved for flight into known or forecasted icing. Compliance has 
+ been demonstrated in accordance with 14 CFR § 23.1416 and 23.1419. 
+ 8). The airplane is approved for ditching. Compliance with the provisions for ditching 
+ equipment has been demonstrated in accordance with 14 CFR §§ 23.807 and 
+ 23.1415(a)(b). 
+ EASA issued EASA type certificate EASA.A.594 dated December 7, 2017. 
+ Date of Application for FAA Type Certificate: July 27, 2012. 
+ Type Certificate No. A00072CE, issued December 7, 2017. 
+ RVSM capability for PC-24 S/N P03, 101 and subsequent: 
+ All airplanes equipped with Honeywell APEX system are RVSM approved provided the 
+ operator follows the Airplane Flight Manual (AFM) Issue 003 Revision 01 dated 12 July 
+ 2018 (or later revisions), and the Aircraft Maintenance Manual (AMM) Issue 005 
+ Revision 00 dated 06 June 2018 (or later revisions). (NOTE 5)"
+Production Basis,"No FAA production certificate. 
+ PC-24 airplanes, all series and models, are produced under production approval 
+ CH.21G.0002, issued by the Swiss Federal Office of Civil Aviation (FOCA)."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. 
+ An FAA approved (M)MEL may be used to operate the aircraft with inoperative 
+ equipment."
+Service Information,"Each of the documents listed below must state that it is approved by the European 
+ Aviation Safety Agency (EASA): 
+ • Service bulletins, 
+ • Structural repair manuals, 
+ • Vendor manuals, 
+ • Aircraft flight manuals, and 
+ • Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved for type design 
+ data only unless one of the following conditions exists: 
+ • The documents change the limitations, performance, or procedures of the FAA 
+ approved manuals; or 
+ • The documents make an acoustical or emissions changes to this product’s U.S. 
+ type certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. The 
+ FAA may delegate on case-by-case to EASA to approve on behalf of the FAA for the 
+ U.S. type certificate. If this is the case it will be noted on the document. 
+ Available documents for the PILATUS PC-24 are: 
+ Airplane Flight Manual Suite: (NOTE 6) 
+ • 
+ Airplane Flight Manual (AFM) Report No. 02371, Issue 003 Revision 00 dated 24 
+ January 2018 or later EASA approved revisions. (See NOTE 2) 
+ • 
+ Flight Crew Operating Manual (FCOM) Report No. 02383, Issue 003 Revision 00 
+ dated 24 January 2018 or later EASA approved revisions. 
+ • 
+ Quick Reference Handbook (QRH) Report No. 02382, Issue 003 Revision 00 dated 
+ 24 January 2018 or later EASA approved revisions. 
+ Instructions for Continued Airworthiness (ICA): (NOTE 4) 
+ • 
+ Air Vehicle Maintenance (AM) / Aircraft Maintenance Manual (AMM) Report No. 
+ 02378, Issue 003 Revision 00 dated 24 January 2018 or later EASA approved 
+ revisions (Chapter 4 is FAA and EASA approved). (See Note 3) 
+ • 
+ Illustrated Parts Data (IPD) / Illustrated Parts Catalogue (IPC) Report No. 02377, 
+ Issue 003 Revision 00 dated 24 January 2018 or later revisions. 
+ • 
+ Air Vehicle Structural Repair (ASR) / Structural Repair Manual (SRM) Report No. 
+ 02379, Issue 003 Revision 00 dated 24 January 2018 or later revisions. 
+ • 
+ Illustrated Tools and Equipment (ITE) / Illustrated Tools and Equipment Manual 
+ (ITEM) Report No. 02380, Issue 003 Revision 00 dated 24 January 2018 or later 
+ revisions. 
+ • 
+ Wiring Data (WD) / Wiring Diagram Manual (WDM) Report No. 02381, Issue 003 
+ Revision 00 dated 24 January 2018 or later revisions."
+NOTE 1,"A current weight and balance report, including a list of equipment included in the 
+ certificated empty weight, and loading instructions when necessary, must be provided for 
+ each airplane at the time of original certification. The Manufacturers Empty Weight 
+ (MEW) is the weighed weight of the aircraft without any fuel or oil. Unusable fuel 
+ quantity and unusable oil quantity shall be added to the certified empty a/c weight."
+NOTE 2,"All required placards are contained in Chapter 2 of the Airplane Flight Manual (AFM) 
+ Report No. 02371, Issue 003 Revision 00 dated 24 January 2018 or later approved 
+ revisions and must be installed in the appropriate locations. Revisions to this report may 
+ be approved by EASA on behalf of the FAA, unless they are changes to the limitation 
+ section. These changes require FAA approval for the US version."
+NOTE 3,"Mandatory retirement lives, required inspections, and inspection intervals of components 
+ are listed in the Airworthiness Limitations Section, Chapter 4, of the Airplane 
+ Maintenance Manual, document 02378, Issue 003 Revision 00 dated 24 January 2018 or 
+ later approved revisions. The Airworthiness Limitations Section was approved by EASA 
+ and the FAA. Revisions to this section must be approved by EASA and the FAA. 
+ NOTE 4 On January 19, 2018, the complete set of ICAs have been FAA accepted per 21.50 (b). 
+ The revised ALS Chapter 4, of the Airplane Maintenance Manual, document 02378, 
+ Issue 003 Revision 00 dated 24 January 2018 is part of the complete ICAs that will be 
+ effective for the first airplane delivery MSN 101. History - The ALS section of the ICA, 
+ chapter 4, dated November 29, 2017 was FAA approved on December 4, 2017, which 
+ was before the TC was issued, but the rest of the ICAs at that time had not been accepted 
+ yet per allowance of 21.50 (b). 
+ The complete set of ICAs are identified above in section “Service Information”."
+NOTE 5,"Operational approval to fly in RVSM airspace must still be granted by the cognizant 
+ Flight Standards organization and each operator must obtain RVSM operating approval 
+ directly from the FAA."
+NOTE 6,"Pilatus has increased the Maximum Take-off Weight and Max Zero Fuel Weight for 
+ MSN 101-130 when SB 42-002 is accomplished and for MSN 131 and subsequent at the 
+ factory. For these higher weights, the following AFM Report No. 02371 Temporary 
+ Revisions (TR) dated Oct. 1, 2018 or later AFM revisions must be followed. TR-003-01- 
+ 03 - AFM section 2, TR-003-01-04 - AFM section 5, TR-003-01-05 - AFM section 6, 
+ TR-003-01-10 - AFM section 5, TR-003-01-11 - AFM section 2, TR-003-01-12 - AFM 
+ section 3A"
+NOTE 7,"Pilatus has incorporated optional type design for installation of main ship Rechargeable 
+ Lithium Battery. This requires AMM Issue 005 revision 23 or later EASA approved 
+ revisions and AFM TR 02371-021 “Changes for Li-Ion Batteries” or later EASA 
+ approved revisions."

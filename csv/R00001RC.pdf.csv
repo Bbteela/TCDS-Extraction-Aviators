@@ -1,0 +1,345 @@
+Keyterm,Info
+"R00001RC 
+ Revision 6 
+ Bell 
+ 427 
+ February 11, 2022",
+Type Certificate Holder,"Bell Textron Canada Limited 
+ 12800 rue de l’Avenir 
+ Mirabel, Quebec 
+ J7J 1R4 Canada"
+Type Certificate Holder Record,"Bell Helicopter Textron Canada Limited was the previous name of TC holder. 
+ The company name history is presented below."
+Type Certificate Holder,"Period 
+ Bell Helicopter Textron Canada Limited, Mirabel Quebec 
+ Prior to 16 December 2019 
+ Bell Textron Canada Limited, Mirabel Quebec 
+ 16 December 2019 to Present"
+"I. Model 427 (Normal Category), Approved January 24, 2000.",
+Engine,2 Pratt and Whitney Canada PW207D
+Fuel,"ASTM-D-1655, Type Jet B, Jet A and Jet A-1; MIL-T-5624 Grade JP-4; MIL-T-5624 Grade JP-5 
+ and MIL-T-83133 Grade JP-8. 
+ See Rotorcraft Flight Manual for fuel mixture and fuel temperature limitations. 
+ For all operations below 5 C (40F) ambient temperature, all fuel used must contain Phillips PFA- 
+ 55MB or MIL-L-27686 anti-icing additive in concentrations of not less than 0.06% or more than 
+ 0.15% by volume."
+Installed Engine Limits,"Torque 
+ Turbine Temperature 
+ Gas Generator Speed 
+ Lb-ft (%) 
+ oC (oF) 
+ % (RPM)"
+TakeOff 5 Min,"481 (68.6) 
+ 900 (1652) 
+ 99.8 (5790) 
+ 481 (68.6) 
+ 850 (1562) 
+ 97.2 (56400)"
+30 sec OEI,"569 (81.2) 
+ 990 (1814) 
+ 104.3 (60500)"
+2 min OEI,"569 (81.2) 
+ 950 (1742) 
+ 102.2 (59300)"
+30 min OEI,"481 (68.7) 
+ 925 (1697) 
+ 101.2 (58700)"
+Continuous OEI,"481 (68.7) 
+ 900 (1652) 
+ 99.8 (57900) 
+ See Rotorcraft Flight Manual for transient limits 
+ Output shaft speed limit is 104.5% (6271 RPM)"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 423 RPM 107% 
+ Maximum 411 RPM 104% 
+ Minimum 356 RPM 90% 
+ Minimum 391 RPM 99%"
+Transmission Torque,Torque Limits %
+Limits,"Both Engines Operation 
+ Take Off 
+ 100 
+ Maximum Continuous 
+ 100 
+ One Engine Inoperative OEI 
+ 30 Seconds OEI 
+ 81.2 
+ 2 Minute OEI 
+ 75.6 
+ Continuous OEI 
+ 57.5"
+Airspeed Limits,Basic VNE (never exceed) is 140 KAIS. Decrease VNE for ambient conditions in accordance with the
+CG Range,(See NOTE 8 and NOTE 10)
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ |"
+Rev No,"6 
+ 1 
+ 3 
+ 6 
+ 3 
+ 5 
+ a) 
+ Internal Loading 
+ Longitudinal C.G. limits cm (in.) 
+ Forward limit 
+ 561.3 cm (221.0in) at 1724 kg (3800 lb.) changing linearly to 548.6 cm (216.0 in) at 2087 
+ kg (4600 lb.), 548.6 cm (216.0 in) from 2087 kg (4600 lb.) up to 2495 kg (5500 lb.), 
+ changing linearly to 551.2 cm (217.0 in) at 2722 kg (6000 lb.). 
+ Aft Limit 
+ 576.6 cm (227.0 in) at 1724 kg (3800 lb.), up to 2495 kg (5500 lb.), changing linearly to 
+ 574.0 cm (226.0 in) at 2722 kg (6000 lb.) 
+ Lateral C.G Limits 
+ Left 2.8 cm (1.1 in) at 1724 kg (3800 lb.), changing linearly up to 5.3 cm (2.1 in) at 1814 
+ kg (4000 lb.), changing linearly to 3.6 cm (1.4in) at 2722 kg (6000 lb.) 
+ Right 4.6 cm (1.8 in) at 1724 kg (3800 lb.) changing linearly up to7.1 cm (2.8 in) at 1814 
+ kg (4000 lb.), changing linearly up to 4.8 cm (1.9 in) at 2722 kg (6000 lb.) 
+ b) 
+ External Loading 
+ Longitudinal C.G. Limits cm (in.) 
+ Forward Limit 
+ 561.3 cm (221.0 in.) at 1724 kg (3800 lb.) changing linearly to 548.6 cm (216.0 in) at 
+ 2087 kg (4600 lb.), 548.6 cm (216.0 in.) from 2087 kg (4600 lb.) up to 2495 kg (5500 lb.) 
+ changing linearly to 550.2 cm (216.6 in.) at 2948 kg (6500 lb.) 
+ Aft Limit 
+ 576.6 cm (227.0 in.) at 1724 kg (3800 lb.) up to 2495 kg (5500 lb.), changing linearly to 
+ 574.0 cm (226.0 in.) at 2948 kg (6500 lb.) 
+ Lateral C.G. Limits 
+ Left 2.8 cm (1.1 in.) at 1724 kg (3800 lb.) changing linearly up to 5.3 cm (2.1 in.) at 1814 
+ kg (4000 lb.), changing linearly to 3.6 cm (1.4 in.) at 2722 kg (6000 lb.), changing 
+ linearly to 3.3 cm (1.3 in.) at 2498 kg (6500 lb) 
+ Right 4.6 cm (1.8 in.) at 1724 kg (3800 lb.) changing linearly up to 7.1 cm (2.8 in.) at 
+ 1814 kg (4000 lb.), changing linearly 4.8 cm (1.9 in.) at 2722 kg (6000 lb.), changing 
+ linearly to 4.3 cm (1.7 in.) at 2948 kg (6500 lb.) 
+ 2) 
+ For approved MGW configuration of 2880 kg (6350 lb.) 
+ a) 
+ Internal Loading 
+ Longitudinal C.G. Limits cm (in.) 
+ Forward Limit 
+ 561.3 cm (221.0 in.) at 1724 kg (3800 lb.) changing linearly to 548.6 cm (216.0in.) at 
+ 2087 kg (4600 lb.), 548.6 cm (216.0 in0.) from 2087 kg (4600 lb.) up to 2495 kg 
+ (5500 lb.), changing linearly to 553.0 cm (217.7 in.) at 2880 kg (6350 lb.) 
+ Aft Limit 
+ 576.6 cm (227.0 in.) at 1724 kg (3800 lb.) to 2495 kg (5500 lb.) varying linearly to 574.4 
+ cm (226.15 in.) at 2880 kg (6350 lb.) 
+ Internal Loading (Cont’d) 
+ (See NOTE 8 and NOTE 10) 
+ Lateral C.G. Limits 
+ Left 2.8 cm (1.1 in.) at 1724 kg. (3800 lb.), changing linearly to 5.3 cm (2.1 in.) at 1814 
+ kg (4000 lb.), changing linearly to 3.4 cm (1.3 in.) at 2880 kg (6350 lb.) 
+ kg (4000 lb.), changing linearly to 4.5 cm (1.8 in.) at 2880 kg (6350 lb.) 
+ b) 
+ External Loading 
+ Longitudinal C.G. Limits cm (in.) 
+ Forward Limit 
+ 561.3 cm (221.0 in.) at 1724 kg (3800 lb.) changing linearly to 548.6 cm (216.0 in.) at 
+ 2087 kg (4600 lb.), 548.6 cm (216.0 in.) from 2087 kg (4600 lb.) up to 2495 kg (5500 lb.), 
+ changing linearly to 550.2 cm (216.6 in.) at 2948 kg (6500 lb.) 
+ Aft Limit 
+ 576.6 cm (227.0 in.) at 1724 kg (3800 lb.) up to 2495 kg (5500 lb.), changing linearly to 
+ 574.0 cm (226.0 in.) at 2948 kg (6500 lb.) 
+ Lateral C.G. Limits 
+ Left 2.8 cm (1.1 in.) at 1724 kg (3800 lb.), changing linearly to 5.3 cm (2.1 in.) at 1814 kg 
+ (4000 lb.), changing linearly to 3.3 cm (1.3 in.) at 2948 kg (6500 lb.) 
+ Right 4.6 cm (1.8 in) at 1724 kg (3800 lb.) changing linearly to 7.1 cm (2.8 in.) at 1814 kg 
+ (4000 lb.), changing linearly to 4.3 cm (1.7 in.) 2948 kg (6500 lb.) 
+ 3) 
+ For approved MGW configuration of 2971 kg (6550 lb.) 
+ a) 
+ Internal Loading 
+ Longitudinal C.G. Limits cm (in.) 
+ Forward Limit 
+ 561.3 cm (221.0 in.) at 1724 kg (3800 lb.) changing linearly to 548.6 cm (216.0 in.) at 
+ 2087 kg (4600 lb.), 548.6 cm (216.0 in.) from 2087 kg (4600 lb.) up to 2495 kg 
+ (5500 lb.), changing linearly to 554.0 cm (218.1 in.) at 2971 kg (6550 lb.) 
+ Aft Limit 
+ 576.6 cm (227.0 in.) at 1724 kg (3800 lb.) to 2495 kg (5500 lb.) changing linearly to 
+ 573.9 cm (225.95 in.) at 2971 kg (6550 lb.) 
+ Lateral C.G. Limits cm (in.) 
+ Left 2.8 cm (1.1 in.) at 1724 kg. (3800 lb.), changing linearly to 5.3 cm (2.1 in.) at 1814 
+ kg (4000 lb.), changing linearly to 3.3 cm (1.3 in.) at 2971 kg (6550 lb.) 
+ Right 4.6 cm (1.8 in.) at 1724 kg (3800 lb.) changing linearly up to 7.1 cm (2.8 in.) at 
+ 1814 kg (4000 lb.), changing linearly up to 4.3 cm (1.7in.) at 2971 kg (6550 lb.) 
+ b) 
+ External Loading 
+ Longitudinal C.G. Limits cm (in.) 
+ Forward Limit 
+ 561.3 cm (221.0 in.) at 1724 kg (3800 lb.) changing linearly to 548.6 cm (216.0 in.) at 
+ 2087 kg (4600 lb.), 548.6 cm (216.0 in.) from 2087 kg (4600 lb.) up to 2495 kg (5500 lb.), 
+ changing linearly to 550.2 cm (216.6 in.) at 2971 kg (6550 lb.) 
+ Aft Limit 
+ 576.6 cm (227.0 in.) at 1724 kg (3800 lb.) up to 2495 kg (5500 lb.), changing linearly to 
+ 573.9 cm (225.95 in.) at 2971 kg (6550 lb.) 
+ Lateral C.G. Limits 
+ Left 2.8 cm (1.1 in.) at 1724 kg (3800 lb.), changing linearly to 5.3 cm (2.1 in.) at 1814 kg 
+ (4000 lb.), changing linearly to 3.3 cm (1.3 in.) at 2971 kg (6550 lb.) 
+ Right 4.6 cm (1.8 in) at 1724 kg (3800 lb.) changing linearly up to 7.1 cm (2.8 in.) at 1814 
+ kg (4000 lb.), changing linearly to 4.3 cm (1.7 in.) at 2971 kg (6550 lb.)"
+Empty Weight CG Range,See Maintenance Manual
+Datum,Model 427 station 0 datum is 203.2 cm (80 in) forward of the nose of the helicopter.
+Leveling Means,"Plumb line from underside of the engine pan through the access panel in the baggage compartment 
+ roof to an index plate on the floor of the baggage compartment"
+Maximum Weight,2722 kg (6000 lb.) Internal Loading
+Mass,"2948 kg (6500 lb.) External Loading 
+ 2880 kg (6350 lb.) Internal Loading (see NOTE 8) 
+ 2948 kg (6500 lb.) External Loading 
+ 2971 kg (6550 lb.) Internal Loading (see NOTE 10) 
+ 2971 kg (6550 lb.) External loading"
+Altitude limits,Maximum altitude at 2722 kg (6000 lb.) or less is 9000-ft density altitude.
+and NOTE 10,"Maximum altitude for approved MGW configuration of 2880 kg (6,350 lb.) is 10,000-ft pressure 
+ altitude."
+OAT Limits,-20°C (-4°F) to 42.2°C (108°F) or
+See NOTE 11,-20°C (-4°F) to 51.7°C (125°F)
+Minimum crew,1 pilot (right seat)
+Maximum occupants,8 (includes crew)
+Maximum Baggage,"Maximum allowable baggage compartment weight is 250 pounds (113.4 kilograms) with a 
+ maximum deck and cargo loading of 86 pounds per square foot (4.2 kilograms per 100 square 
+ centimeters). Maximum allowable cabin deck loading for cargo is 75 pounds per square foot (3.7 
+ kilograms per 100 square centimeters)."
+Fuel capacity,"770.3 litres (203.5 US Gal.) usable, 
+ 12.5 litres (3.3 US Gal.) unusable."
+Oil capacity,"Each Engine 
+ 5.1 litres (4.5 Imp. Quarts) (5.4 US Quarts); 
+ Usable oil 1.1 litres (1 Imp. Quart) (1.16 US Quarts) included in capacity 
+ Undrainable oil 1.6 lbs. 
+ Transmission: 
+ 8.5 litres (7.5 Imp quarts) (8.98 US Quarts) 
+ Tail Rotor Gearbox: 0.31 litres (0.27 Imp Quarts) (0.33 US Quarts)"
+Rotor blade and,For rigging information refer to the 427 Maintenance Manual
+Serial numbers eligible,"56001 and subsequent. Serial numbers 58001 and subsequent are not eligible for FAA Certificate of 
+ Airworthiness."
+Import Requirements,"To be considered eligible for operation in the United States, each aircraft manufactured under this 
+ Type Certificate must have a U.S. Airworthiness Certificate that may be issued on the basis of the 
+ Canadian Department of Transport Certificate of Airworthiness for Export signed by the Minister of 
+ Transport containing the following statement: 
+ “The rotorcraft covered by this certificate has been examined, tested and found to comply with the 
+ type design approved under Type Certificate R00001RC and to be in condition for safe operation.” 
+ The approved type design for the model 427 consists of data listed on Bell top drawing 427-100-001, 
+ Revision CY, or later approved revision and the incorporation of Bell kit 427-706-018 (fuel shut off 
+ valve kit). For helicopter serial numbers 56001 through 56043, either ASB 427-01-05 must be 
+ incorporated or Bell kit 427-706-019 (FAA Type Certification Kit) must be installed. See NOTE 9. 
+ The U.S. airworthiness certification basis for aircraft certificated under FAR section 21.29 and 
+ exported by the country of manufacture is FAR Section 21.183(c) or 21.185(c). 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United States of both 
+ new and used aircraft based on the scope of the agreement, to identify any required statements by the 
+ exporting authority on the export certificate of airworthiness (or equivalent document), and for procedures 
+ for coordinating exceptions to conformity statements on these documents. Refer to FAA Order 8130.2, 
+ Airworthiness Certification of Aircraft, for requirements for issuance of an airworthiness certificate for 
+ imported aircraft. 
+ a) 
+ FAR part 27, dated October 2, 1964, amendment 27-1 through 27-31FAR part 36 Amendment 36-1 
+ through 36-20 
+ b) 
+ The following paragraphs for FAR part 29 at amendment 29-1 through 29-40 (except 29- 
+ 38) as identified in FAA AC 27-1A section 780 are used for engine isolation: 
+ 29.861(a) 
+ 29.901(c) 
+ 29.903(b)(c)&(e) 
+ 29.908(a) 
+ 29.917(b)&(c)(1) 
+ 29.927(c)(1) 
+ 29.953(a) 
+ 29.1027(a) 
+ 29.1045 
+ 29.1047(a) 
+ 29.1181(a) 
+ 29.1189(c) 
+ 29.1191(a)(1) 
+ 29.1193(e) 
+ 29.1195(a)&(d) 
+ 29.1197 
+ 29.1199 
+ 29.1201 
+ 29.1305(a)(6)&(b) 
+ 29.1309(b)(2)(i)&(d) 29.1331(b) 
+ Equivalent Safety Findings made in accordance with FAA part 21.21(b)(1) are as 
+ follows: 
+ 29.903(b), 29.1181(a), 29.1191(a)(1) – Firewalls and Designated Fire Zones 
+ c) 
+ Additional Equivalent Safety Findings made in accordance with FAA part 21.21(b)(1) are 
+ as follows: 
+ 27.307(b)(5), 27.723, 27.725, 27.727 – Skid Type Undercarriages 
+ 27.963(g) – Fuel Tanks 
+ 27.995 – Fuel Valves 
+ 27.1191 – Firewalls 
+ 27.175(c) - Static Longitudinal Stability in Autorotation 
+ e) 
+ Special Condition made in accordance with FAR part 21.16 is as follows: 
+ 27-00S-SC High Intensity Radiated Fields (HIRF), dated May 11, 1999 
+ 2. 
+ For approved MGW configuration of 2880 kg (6350 lb.) 
+ The basis of certification is the same as in 1. above and in addition the following sections 
+ of FAA Part 27: 
+ 27.561 at Amendment 27-32 
+ 27.1 and 27.2 at Amendment 27-37"
+Production Basis,None. See Import Requirements
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see 
+ certification basis) must be installed in the helicopter for certification. 
+ In addition, the following items of equipment are required: 
+ 1) For approved MGW configuration of 2722 kg (6000 lb.) Transport Canada approved Rotorcraft 
+ Flight Manual BHT-427-FM-1 dated November 19, 1999 or later approved revision. 
+ 2) For approved MGW configuration of 2880 kg (6350 lb.) Transport Canada approved Rotorcraft 
+ Flight Manual BHT-427-FM-2 dated April 27, 2000, or later approved revision. 
+ 3) For approved MGW configuration 2971 kg (6550 lb.) Transport Canada approved Rotorcraft 
+ Flight Manual BHT-427-FMS-7 dated May 10, 2002, or later approved revision."
+NOTE 1,"Current weight and balance report including list of required equipment and list of equipment 
+ included in certificated empty weight, and loading instructions when necessary must be provided for 
+ each helicopter at the time of original certification. The certificated empty weight and corresponding 
+ C.G. locations must include undrainable oil and unusable fuel for the appropriate model."
+NOTE 2,"The following placard must be displayed in front of and in clear view of the pilot: “THIS 
+ HELICOPTER MUST BE OPERATED IN COMPLIANCE WITH OPERATING LIMITATIONS 
+ SPECIFIED IN THE APPROVED FLIGHT MANUAL”. 
+ All placards listed in the approved flight manual must be installed in the specified locations."
+NOTE 3,"The service lives of components are listed in the BHT 427 Maintenance Manual Chapter 4. This 
+ aircraft shall be maintained in accordance with the BHT-427 Maintenance Manual."
+NOTE 4,"Modifications within the compartment, between the main transmission and the engine accessory 
+ section, may compromise the mitigating design features approved by an Equivalent Safety Finding 
+ to FAR part 27.1191.. The FAA Rotorcraft Directorate must approve all design changes in this area. 
+ other rotorcraft. EMI may be the result of radiated or conducted interference. For this reason, 
+ modifications that add or change systems that have the potential for EMI, must either be qualified to 
+ an FAA acceptable standard or tested at the time of installation for interference to the engine 
+ controls. This type of testing must employ the particular engine control’s diagnostic techniques and 
+ external diagnostic techniques. This testing must be accomplished in accordance with FAA 
+ approved Bell Helicopter report No. 427-099-053 Rev. D, or an equivalent FAA approved alternate 
+ test plan."
+NOTE 6,"Any changes to the type design of this helicopter by means of a amended type certificate (TC), 
+ supplemental type certificate (STC), or amended STC, requiring instructions for continued 
+ airworthiness (ICA's) must be submitted thru the project certification office for review and 
+ acceptance by the Fort Worth -Aircraft Evaluation Group (FTW-AEG) Flight Standards District 
+ Office (FSDO) prior to the aircraft delivery, or upon issuance of the first standard airworthiness 
+ certificate for the affected aircraft, whichever occurs later as prescribed by Title 14 CFR 21.50. Type 
+ design changes by means of a field approval that require ICA's must have those ICA's reviewed by 
+ the field approving FSDO."
+NOTE 7,"The model 427 incorporates an emergency OEI limit override function. When this feature is 
+ selected, damage to the engine and transmission is experienced and continued flight is not permitted. 
+ Use of this emergency power invalidates the airworthiness of the aircraft and maintenance in 
+ accordance with the model 427 Maintenance Manual is required to return the aircraft to an airworthy 
+ condition."
+NOTE 8,"1. Model 427 helicopters s/n 56001 to 56024, initially certificated at maximum gross weight 
+ (MGW) of 2722 kg (6000 lb), may be operated at MGW of 2880 kg (6350 lb) when Bell Helicopter 
+ kit number 427-704-002 (or later approved revision) is incorporated. Helicopters, once modified, 
+ must be operated in accordance with flight manual BHT-427-FM-2. 
+ 2. Model 427 helicopters s/n 56025 and subsequent (s/n 58001 and subsequent are not eligible for 
+ FAA Certificate of Airworthiness) are approved at MGW of 288 kg (6350 lb.) and will have the 
+ intent of the kit listed in 1. above incorporated during production."
+NOTE 9,"Model 427 helicopters s/n 56001 through 56043 may be operated without the installation of Bell kit 
+ 427-706-019 (FAA Type Certification Kit) when Bell ASB 427-01-05 is incorporated. Model 427 
+ helicopters 56044 and subsequent are modified on the production line."
+Note 10,"Model 427 helicopters s/n 56001 and subsequent (s/n 58001and subsequent are not eligible for FAA 
+ Certificate of Airworthiness) with kit 427-706-021 (IGW to 6550 lbs) installed may be operated at a 
+ MGW of 2971 kg (6550 lbs). These helicopters must be operated in accordance with Flight Manual 
+ Supplement BHT-427-FMS-7. Maintenance instructions and life limited parts are listed in 
+ Maintenance Manual BHT-427-MMS-7."
+Note 11,"Model 427 helicopters s/n 56001 through 56035 with kit 427-704-006 (IIDS Cooling Fans) and kit 
+ 427-704-010 (Oil Blower System Plenum Removal) and IIDS Data Acquisition Unit of part no. 427- 
+ 375-001-105 or higher may be operated at the higher OAT limit of 51.7°C (125°F) in accordance 
+ with BHT-427-FMS-22 including Temporary Revision TR-1. Helicopters of serial number 56036 
+ and subsequent (s/n 58001 and subsequent are not eligible for FAA Certificate of Airworthiness) 
+ have the intent of these kits incorporated during production."
+Note 12,"Effective December 16, 2019 the name Bell Helicopter Textron Canada Limited was revised to Bell 
+ Textron Canada Limited."

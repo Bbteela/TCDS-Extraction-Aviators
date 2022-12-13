@@ -1,0 +1,323 @@
+Keyterm,Info
+"A37EU 
+ Revision 2 
+ AEROSPATIALE 
+ Model SN-601 
+ ""Corvette"" 
+ March 27, 1980",
+"I - Model SN-601 ""Corvette"" (Transport Category Airplane), Approved September 24, 1974",
+Engine,"2 - Model JT15D-4 turbofan engines, manufactured by: 
+ United Aircraft of Canada Limited, or 
+ United Aircraft Corporation, Pratt and Whitney Division. 
+ Engines may be intermixed."
+Fuel,"JP1 
+ American: 
+ MIL J 5616 - ASTMD 1655 
+ French: 
+ TRO - AIR 3405 
+ British: 
+ DERD 2453 - DERD 2494 
+ Fuels conforming with PWA Specification No. 522. 
+ Anti-Icing Additive 
+ American: 
+ MIL J 27686 
+ French: 
+ Air 3652 
+ ) or equivalent to PHILIPS PFA 55 MB 
+ British: 
+ DERD 2451 
+ ) 
+ Anti-icing additive is permissible in quantities up to 0.15% by volume. 
+ Anti-Static Additive 
+ Shell ASA-3 anti-static additive, or equivalent, is permissible in 
+ quantities up to 0.0001% by volume (1 mg per liter)."
+Oil,"American: 
+ MIL L 23699 
+ French: 
+ No specification 
+ British: 
+ No specification 
+ Synthetic oils Type II conforming with PWA Specification No. 521. The 
+ authorized trade marks are given by UACL Service Bulletin No. 7001."
+Engine limits,"Thrust ratings (ISA) 
+ Maximum takeoff (5 min) 
+ 2500 lbs 
+ Maximum continuous 
+ 2375 lbs"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ Maximum engine rotor speeds 
+ Low pressure (N1) RPM: 
+ 16,540 (104%) 
+ High pressure (N2) RPM: 
+ 31,450 ( 96%) 
+ Maximum interturbine temperature (ITT) 
+ Takeoff (5 min) 
+ 700°C 
+ (1292°F) 
+ Maximum continuous (unlimited) 
+ 680°C 
+ (1256°F) 
+ Starting transient (2 seconds) 
+ 700°C 
+ (1292°F) 
+ Oil temperature 
+ Min 
+ Max 
+ Starting and idle 
+ -40°C (-40°F) 
+ 121°C (250°F) 
+ Takeoff 
+ +10°C (+50°F) 
+ 121°C (250°F) 
+ Maximum continuous 
+ 0°C (32°F) 
+ 121°C (250°F) 
+ Oil pressure 
+ Min 
+ Max 
+ N2 20,000 r.p.m. (61%) or higher 
+ 70 psig 
+ 85 psig 
+ N2 lower than 20,000 r.p.m. (61%) 
+ 35 psig 
+ 85 psig 
+ Fuel temperature for refueling 
+ -54°C (-65°F) 57°C (135°F) 
+ Fuel pressure - minimum for operation 
+ 6 psig 
+ Refueling system - maximum operating pressure 50 psig"
+Airspeed limits IAS,"Vmo/Mmo (Maximum Operating) 
+ With fuel in tip tanks 
+ 300 kts/0.70 M 
+ With tip tanks empty or not installed 
+ 340 kts/0.77 M 
+ Va (Design maneuvering) 
+ 192 kts (See NOTE 5) 
+ Vlo (Landing gear operation) 
+ 165 kts 
+ Vle (Landing gear extended) 
+ 165 kts 
+ Vfe (Flaps extended) 
+ Takeoff (15°) 
+ 240 kts 
+ Approach (20°) 
+ 210 kts 
+ Landing (35°) 
+ 165 kts 
+ Vmc (Minimum Control speed) - flaps T.O. 
+ 93 kts 
+ - flaps 0 degrees 110 kts (see NOTE 6) 
+ V (maximum for nose-gear steering) 
+ 70 kts 
+ V (Airbrakes) - Max speed for extension, 
+ retraction, or extended position: 
+ 340 kts/0.77 M 
+ V (Maximum tire ground speed) 
+ 165 kts (see NOTE 5)"
+CG range,For all weights
+Gear extended,"Forward limit: 22% Reference Chord ) See NOTE 5 
+ Aft limit: 
+ 34% Reference Chord ) See NOTE 5 
+ Landing gear retraction moment is 2350 in.lbs., moving c.g. forward by 
+ approximately 0.25% Reference Chord."
+Reference chord,"The Reference Chord length, parallel to the airplane axis, is 70.87 in. 
+ (1.800 meters). Its leading edge is located at a distance of 23.82 in. 
+ (0.605 m) aft of No. 7 LH or 7 RH leveling marks on the fuselage 
+ sides; i.e., at 267.72 in. (6.800 m) from the datum."
+Datum,"The datum (origin of moments) is located at a distance of 243.90 in. 
+ (6.195 m) forward of No. 7 LH or 7 RH leveling marks on the fuselage 
+ external sides at frame 16."
+Leveling means,"Leveling in longitudinal and lateral directions is facilitated by rivets marked 
+ on the fuselage sides as follows: 
+ Marks 6LH and 6RH at frame 10 
+ Marks 7LH and 7RH at frame 16 
+ Marks 8LH and 8RH at frame 20 
+ Marks 10LH and 10RH at frame 33"
+Weight limits,"Maximum weights 
+ Maximum ramp 
+ 14,660 lbs (6650 kg) (see NOTE 5) 
+ Maximum takeoff 
+ 14,550 lbs (6600 kg) (see NOTE 5) 
+ Maximum zero-fuel 12,350 lbs (5600 kg) 
+ Minimum weight 
+ 9,250 lbs. (4200 kg)"
+Minimum crew,2 - Pilot and copilot.
+Maximum passengers,"15 - Limited by approved seating arrangement 
+ 14 - With interior arrangement conforming with Aerospatiale 
+ Mod. No. 0040. 
+ 0 - In configuration for delivery conforming with Aerospatiale 
+ Note A/DEP/CRA No. 91/75."
+Maximum baggage,"Forward (RH) Compartment (per Aerospatiale Mod. No. 9012). 
+ Compartment length may be varied from 0 to maximum 63.2 in. 
+ (1.609 m) by moving aft wall. Distance from datum and permissible 
+ load vary linearly with compartment length between following extremes: 
+ Compartment 
+ Permissible 
+ Distance 
+ Length 
+ Load 
+ from Datum 
+ 0 
+ 0 
+ 161.2 in. (4.095 m) 
+ 63.2 in. (1.609 m) 
+ 317 lbs. (144 kg) 192.9 in. (4.900 m) 
+ Aft Compartment(s) (per Aerospatiale Mod. No. 0039) 
+ Configuration may be comprised of single compartment(s) on either or both 
+ sides of aisle, or one continuous compartment crossing aisle. Distance from 
+ datum for all compartments is 367 in. 
+ (9.330 m). Permissible load is 108 lbs (49 kg), for each single compartment, 
+ and 400 lbs (182 kg) for continuous compartment."
+Floor loading,"Maximum floor loading for cabin, aisle, and baggage compartments:"
+limits,82 p.s.f. (400 kg/m²).
+Fuel capacity,"2 Integral wing tanks. 
+ Total fuel 
+ : 446 U.S. gal. (1680 liters); 2965 lbs. (1344 kg) 
+ Total usable fuel 
+ : 440 U.S. gal. (1660 liters); 2920 lbs. (1325 kg) 
+ 2 wing tip tanks, per Aerospatiale Mod. No. 0038 
+ Total fuel 
+ : 185 U.S. gal. ( 700 liters); 1226 lbs. ( 556 kg) 
+ Total usable fuel 
+ : 180 U.S. gal. ( 680 liters); 1191 lbs. ( 540 kg) 
+ Density for fuel flowmeter adjustment: 0.795."
+Oil capacity,"2 Integral engine tanks 
+ Total oil in each 
+ : 2.33 U.S. gal. (8.70 liters) 
+ Usable oil in each 
+ : 1.50 U.S. gal. (5.67 liters)"
+Maximum altitude,"41,000 ft. 
+ Elevator 
+ Up 
+ 20°"
+surface movements,"Down 
+ 10° 
+ ( Leading edge up 
+ ( Mechanical stop 
+ 2°37' 
+ ( 
+ ( Electrical stop 
+ 2°07' 
+ ( 
+ Adjustable ( 
+ ( Electrical stop 
+ horizontal 
+ ( 
+ ( flaps up 
+ 4° 
+ stabilizer 
+ ( Leading edge down ( flaps down 
+ 6°37' 
+ ( 
+ ( 
+ ( 
+ ( Mechanical stop 
+ 7°07' 
+ Rudder 
+ Right 
+ 30° 
+ Left 
+ 30° 
+ Aileron 
+ Up 
+ 15° 
+ Down 
+ 11° 
+ Spoilers (Rotation for 15° up-deflection of corresponding 
+ aileron) 
+ 90° 
+ Airbrakes (Relative to wing surface) Upper 
+ 62° 
+ Lower 
+ 62° 
+ Flaps 
+ 35°"
+Serial numbers eligible,"A French ""Certificate de Navigabilite pour Exportation"" endorsed as noted under 
+ ""Import Requirements"", must be submitted for each individual aircraft for which 
+ application for U.S. Certification is made."
+Import requirements,"A U.S. Standard Airworthiness Certificate may be issued on the basis of a French 
+ ""Certificat de Navigabilite pour Exportation"" signed by a representative of the 
+ Secretariat General a l'Aviation Civile (S.G.A.C.) of France, containing the 
+ following statement: ""The aircraft covered by this Certificate has been examined, 
+ tested, and found to conform to the type design approved under Type Certificate No. 
+ A37EU, and to be in condition for safe operation""."
+Certification basis,"Type Certificate issued, in accordance with FAR 21.29, invalidation of S.G.A.C. 
+ certification that Model SN-601 type design complies with French airworthiness and 
+ noise requirements for which the corresponding U.S. equivalents are as follows: 
+ FAR Part 25 dated February 1, 1965, including Amendment 
+ Nos. 25-1 through 25-22. 
+ FAR Part 36, including Amendment 36-1, and amendments as follows: 
+ 1) 36-8 for airplanes per mod. order 1283 - 15,430 lbs takeoff 
+ weight 
+ FAA Special Conditions No. 25-57-EU-18, September 20, 1974. 
+ Type Certificate No. A37EU, issued September 24, 1974. 
+ Date of Application for Type Certification (as amended) : 
+ October 31, 1969. 
+ Equivalent safety found, in lieu of compliance, with respect to the 
+ following requirements: FAR 25.773(b) (2) - Pilot compartment view 
+ (DV window). 
+ Compliance has been established for following optional FAR 
+ Part 25 requirements: 
+ Ditching (25.801) (Structural and exit Provisions only)."
+Required equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the aircraft for certification. 
+ Aerospatiale Note DEP/YDA No. 60/74 lists equipment required for certification; 
+ Note DEP/CRA No. 900/74 lists all equipment approved for Model SN-601. 
+ In addition, the following are required: 
+ (1) 
+ SGAC-approved SN-601 ""Corvette"" Airplane Flight Manual 
+ (Aerospatiale Document No. 601-A-100-7A) approved September 24, 
+ 1974; including Revision No. 3 dated April 21, 1975, and 
+ Revision No. 4 dated October 15, 1975. 
+ (2) 
+ Stall-warning system, per Aerospatiale Mod. No. 1010); 
+ (3) 
+ Stall-prevention system, per Aerospatiale Mod. No. 1131; and, 
+ (4) 
+ For carriage of passengers, the wing spar structure in the cabin aisle 
+ must be padded with material of a color which contrasts conspicuously 
+ with the background color, and must be illuminated in accordance 
+ with the emergency lighting provisions of FAR 25.812(a)(1)."
+Service informationAll Model SN-601 Service Bulletins published by Aerospatiale will be D.G.A.C.,
+NOTE 1 Weight and Balance,"a. 
+ Current weight and balance report, including list of equipment included in certificated empty weight, and 
+ loading instructions must be provided for each aircraft at the time of original certification. 
+ b. 
+ The airplane must be loaded so that the CG is within the specified limits at all times with the effect of fuel 
+ use and movement of crew and passengers from their assigned position being considered."
+c,"The following must be included in the airplane empty weight: 
+ Unusable wing fuel of 41 lbs. at 277.5 in., plus total oil of 36 lbs. at 382 in., plus total hydraulic fluid of 24 
+ lbs. at 341.5 inches from datum. With wing tip tank provisions per Aerospatiale Mod. No. 0019, and wing 
+ tip tanks per Mod. No. 0038, unusable fuel is increased by 35 lbs."
+NOTE 2 Placards,All placards presented in the approved Airplane Flight Manual must be installed at the appropriate locations.
+NOTE 3 Service Life Limits,"Airplane components which are life limited are listed in the DGAC-approved portion of Chapter 5 of the 
+ SN-601 ""Corvette"" Maintenance Manual, and must be replaced as indicated therein. 
+ NOTE 4. Aircraft incorporating Aerospatiale Mod. Order 1355 may be operated at a maximum landing 
+ weight of 13,230 1-s (6000 kg) in accordance with rev. 11 to the DGAC approved Airplane"
+Flight manual Document 601A1007A,NOTE 5. Aircraft incorporating Aerospatiale Mod. Order 1382 may be operated at the following
+Maximum ramp weight,": 15,542 lbs (7.050 kg)"
+Maximum takeoff weight,": 15,432 lbs (7.000 kg) 
+ in accordance with Revision 12 to the DGAC approved Airplane Flight Manual Document 
+ 601-A-100-7A. The following airspeed and C.G. limits must be observed when operating at"
+Airspeed Limits IAS,"Va (Design Maneuvering) 
+ 196 kts. 
+ V (Maximum tire ground speed) 
+ (with Mod. M 1330) 
+ 156 kts."
+Forward CG Limits,"24% Reference chord at 15,430 lbs (7000 kg) with linear variation to 22% 
+ reference chord at 14,550 lbs (6600 kg) 
+ All other C.G. limits are unchanged. 
+ NOTE 6. Modification 1356 incorporated in DGAC approved Revision 12 to the Airplane Flight 
+ Manual, Document No. 601-A-100-7A provides DGAC approved takeoff and performance data 
+ for zero degree flap configuration takeoff operations."

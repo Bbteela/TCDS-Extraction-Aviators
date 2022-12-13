@@ -1,0 +1,187 @@
+Keyterm,Info
+"R00022LA 
+ SKYDANCE BLACKHAWK OPERATIONS, LLC 
+ UH-60A 
+ May 19, 2017",
+TYPE CERTIFICATE,"SKYDANCE BLACKHAWK OPERATIONS, LLC"
+HOLDER,"101 Wass Way 
+ Minden, Nevada 89423"
+"I - MODEL: UH-60A (Restricted Category Military Surplus Rotorcraft) Approved May 19, 2017.",
+ENGINES,"(2) General Electric T700-GE-700 Original 
+ (2) General Electric T700-GE-701D/CC (Alternate) 
+ * See NOTE 8 for alternate engine information."
+FUEL,"Aviation Kerosene JP-4, JP-5, JP-8, Jet A, Jet A-1 or Jet B. 
+ *See NOTE 8 for alternate and emergency fuels."
+ENGINE LIMITS T700GE700,"SHAFT 
+ POWER TURBINE 
+ GAS GEN 
+ POWER TURBINE 
+ HP 
+ RPM 
+ RPM 
+ INLET (TGT)"
+Military Power 30 min,"1,561 
+ 20,900 
+ 44,700 
+ 850º C 
+ 1,318 
+ 20,900 
+ 44,700 
+ 775º C"
+ENGINE LIMITS T700GE701DCC,"SHAFT 
+ POWER TURBINE 
+ GAS GEN 
+ POWER TURBINE 
+ HP 
+ RPM/% 
+ RPM/% 
+ INLET (TGT)"
+Contingency Rated Power CRP,"1,940 
+ 20,900/100 
+ 44,700/102 
+ 903º C"
+Maximum Rating 10 Min dual,"1,890 
+ 20,900/100 
+ 44,700/102 
+ 878º C"
+Intermediate Rated Power IRP 30,"1,800 
+ 20,900/100 
+ 44,700/102 
+ 851º C"
+min dual,"1,662 
+ 20,900/100 
+ 44,700/102 
+ 810º C"
+TRANSMISSION LIMITS,TORQUE:
+UH60A,"110% Single Engine (No time 
+ limit) 100% Dual Engine (No 
+ time limit)"
+ROTOR LIMITS,"Power Off 
+ Power Off 
+ Max. 265 RPM 
+ Max. 258 RPM 
+ Min. 217 RPM 
+ Min. 232 RPM"
+Page No,"1 
+ 2 
+ 3 
+ 4"
+Rev No,"- 
+ - 
+ - 
+ - 
+ Flight Manual for UH-60A Blackhawk Helicopter”, Revision IR, Dated August 1, 2016, or 
+ later FAA-approved revision for variations of Vne with gross weight, pressure altitude, and 
+ temperature and for additional data."
+EMPTY WEIGHT CG RANGE,None
+DATUM,341.2 inches forward of the main rotor centroid.
+LEVELING MEANS,"Plumb bob in L/H cabin door frame to leveling plate on cabin floor. Ref. Work Package 1727 
+ contained in TM 1-1570-237-23."
+MAXIMUM WEIGHT,"22,000 lbs. *See NOTE 14 for configuration requirements."
+MINIMUM CREW,"2 (pilot, copilot) at Sta. 227.1"
+NO OF PASSENGERS,None. *See NOTE 11 for information on personnel carrying restrictions.
+NUMBER OF SEATS,"2 at Sta. 227.1; 1 at Sta. 262.0; 3 at Sta. 282.0; 3 at Sta. 320.7; 4 at Sta. 339.8; 4 at Sta. 
+ 387.2. Refer to RFM-SKY-500 “Rotorcraft Flight Manual for UH-60A Blackhawk 
+ Helicopter”, Revision IR, Dated Auguest 1, 2016, or later FAA-approved revision for seat 
+ configuration and loading information."
+FUEL CAPACITY,"361.5 gallons; 2 tanks (LH & RH interchangeable). 
+ 359.7 gallons; 2 tanks (LH &RH interchangeable) (with fuel boost pumps installed). At Sta. 
+ 420.75"
+OIL CAPACITY,7 quarts each engine at Sta. 375.0.
+SERIAL NO APPROVED,"U.S. military surplus UH-60A Blackhawk helicopters as identified in Skydance Blackhawk 
+ Operations, LLC Serial Number Approved Report Number RPT-SKY-502, Rev. NC dated 
+ January 27, 2017, or later FAA-approved revision 
+ defined below. 
+ (1) § 21.25(b) (1) Agriculture Operations 
+ (2) § 21.25(b) (2) Forest & Wildlife Conservation 
+ (3) § 21.25(b) (7) External Loads 
+ Note: In accordance with § 36.1(a) (4), compliance with the noise requirements was not 
+ shown. Therefore, aircraft certificated under this type certificate are only eligible for 
+ agricultural operations as defined by § 137.3, aerial dispensing of liquids and forest 
+ conservation material defined under § 137.3, or external loads as defined in 133.1(b). 
+ Any alteration to the aircraft for Special Purposes not identified above require further 
+ FAA approval and in addition, may require noise and/or flight testing. 
+ This aircraft is approved for Day or Night VFR operations only. Flight into known icing 
+ conditions is prohibited. 
+ General Note: Any subsequent modifications to the helicopters type certified under this 
+ Type Certificate are to have the certification basis for that modification established under 
+ 14 CFR part 21 § 21.101. Non-significant modifications are to meet the requirements of 
+ 14 CFR § 29 dated February 1, 1965, including Amendments 29-1 through 29-17, 
+ (amendments effective as of 12/1/1978) and§ 29.1529, Instructions for Continued 
+ Airworthiness, Amendment 20, effective September 11, 1980."
+DATE OF APPLICATION,"July 25, 2016"
+PRODUCTION BASIS,"None. No helicopters may be produced under this approval. No helicopter serial number 
+ may be added to this type certificate unless approved by the cognizant Aircraft 
+ Certification Office."
+EQUIPMENT,"The basic required equipment necessary for the particular special purpose operation must 
+ be installed for certification. In addition, the following items of equipment must be on 
+ board the helicopter and available to the crew: “Rotorcraft Flight Manual for UH-60A 
+ Blackhawk Helicopter”, Document number RFM-SKY-500, Revision IR, Dated May 05, 
+ 2017, or later FAA-approved revision"
+NOTE 1,"A current weight and balance report, including a list of equipment included in the 
+ certified empty weight, and loading instructions when necessary, must be provided for 
+ each helicopter at the time of original airworthiness certification."
+NOTE 2,"All placards required by either the FAA-approved Rotorcraft Flight Manual. the 
+ applicable operating rules, or the Type Certification Data, must be installed on 
+ the helicopter. Required placards are contained in Skydance Blackhawk 
+ Operations, LLC Engineering Configuration Report number RPT-SKY-500, 
+ Revision NC dated January 24, 2017, or later FAA-approved revision, or any 
+ applied technical bulletins."
+NOTE 3,"The helicopter(s) must be serviced, maintained, inspected, repaired and overhauled in 
+ accordance with the requirements specified in Skydance Blackhawk Operations, LLC 
+ document no. ICA-SKY-500 “Instructions for Continued Airworthiness” Rev. A dated 
+ March 23, 2017, or later FAA accepted revision, or inspected in accordance with other 
+ FAA accepted inspection programs. The service life limited parts overhaul and 
+ retirement intervals for these helicopters is specified in the FAA-Approved 
+ airworthiness limitation sections of the ICA-SKY-500. An FAA approved/accepted copy 
+ must accompany each helicopter on delivery. 
+ General Electric (GE) Aviation Unit and T700 Intermediate Maintenance Manual SEI 
+ 671 Change 1, dated March 1, 2014 and General Electric (GE) T700 Depot Maintenance 
+ Manual SEI 676 Change 7 dated September 1, 2013 or later FAA-accepted revision, are 
+ an acceptable alternate method for servicing, maintaining, inspecting, repairing and 
+ overhauling General Electric GE T700-GE-700, T700-GE-701C and T700-GE-701D 
+ engines. Revisions to the above listed manuals must be submitted to the FAA Boston 
+ Aircraft Certification Office for review and concurrence before being submitted to the 
+ FAA Fort Worth Aircraft Evaluation Group for FAA-acceptance 
+ Flight Manual for UH-60A Blackhawk Helicopter”, Document number RFM-SKY-500, 
+ Revision IR, Dated May 05, 2017, or later FAA-approved revision."
+NOTE 5,"This aircraft is prohibited from carrying cargo for compensation or hire. Carriage of 
+ cargo is limited to such cargo that is incidental to the helicopter owner/operator's 
+ business, which is other than air transportation."
+NOTE 6,"A Restricted Category helicopter may not be operated in a foreign country without the 
+ express written approval of that country."
+NOTE 7,"This helicopter has not been shown to meet the requirements of the applicable 
+ comprehensive and detailed airworthiness code as provided by Annex 8 to the 
+ Convention on International Civil Aviation."
+NOTE 8,"Installation of T-700-GE-701D engines in accordance with Skydance Blackhawk 
+ Operations, LLC Technical Bulletins TB-SKY-500-1, ""T700-GE-701D/CC Engine 
+ Installation, Revision NC dated January 24, 2017, or later FAA-approved revision, and 
+ TB-SKY-500-2, ""T700-GE-701D/CC Auto Relight and Transient Droop Improvement 
+ Installation, Revision NC dated January 24, 2017, or later FAA-approved revision, is 
+ approved for the model UH-60A helicopters under this type certificate. Performance 
+ information and limitations with T700-GE-701D/CC engines are contained in Chapter 
+ 7A of RFM-SKY-500 “Rotorcraft Flight Manual for UH-60A Blackhawk Helicopter”, 
+ Revision IR, Dated May 05, 2017."
+NOTE 9,"The US Army Safety Messages that must be complied with for the helicopter and engine 
+ prior to certification are contained in Skydance Blackhawk Operations, LLC Engineering 
+ Configuration Report document RPT-SKY-500, Revision NC, dated January 24, 2017, or 
+ later F AA-approved revision."
+NOTE 10,"Alternative and emergency fuels are listed in document no. RFM-SKY-500 “Rotorcraft 
+ Flight Manual for UH-60A Blackhawk Helicopter”, Revision IR, Dated May 05, 2017. 
+ or later FAA-approved revisions"
+NOTE 11,"No person may be carried onboard this aircraft unless that person is a flight 
+ crewmember: is a flight crewmember trainee: performs an essential function in 
+ connection with a special purpose operation for which the aircraft is certificated: or is 
+ necessary to accomplish the work activity directly associated with that special purpose. 
+ Reference 14 CFR §91 .3I 3(d)."
+NOTE 12,"Any alteration to the type design of this aircraft may require Instructions for Continued 
+ Airworthiness. Changes to the type design by means of a Supplemental Type Certificate 
+ requiring ICAs or changes to existing ICAs must be submitted and received by the Fort 
+ Worth Aircraft Evaluation Group (FTW-AEG). Type design changes by means or an 
+ FAA field approval that require ICAs must have those ICAs reviewed by the Flight 
+ Standards District Office managing the field approval or the FTW-AEG."
+NOTE 13,"No helicopter may obtain a Restricted Category Airworthiness Certificate under this 
+ type certificate unless it is included in the ""Serial No. Approved"" list above."
+NOTE 14,"The builder's data plate must be installed in accordance with Skydance Blackhawk 
+ Operations, LLC RPT-SKY-500, Revision NC dated January 24, 2017, or later 
+ FAA -approved revision."

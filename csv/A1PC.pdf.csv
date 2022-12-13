@@ -1,0 +1,1615 @@
+Keyterm,Info
+"A1PC 
+ Revision 9 
+ MHI 
+ YS-11 
+ YS-11A-200 
+ YS-11A-300 
+ YS-11A-500 
+ YS-11A-600 
+ November 8, 1982",
+"I - Model YS-11 (Transport Category), Approved September 7, 1965 
+ Engines 2 
+ Rolls-Royce Dark Mk. 542-10 or Mk. 542-10J or Mk. 542-10K 
+ (Turboprop) Reduction gearing 0.0775 : 1 
+ Fuel 
+ (Fuel shall conform to the specifications listed or to subsequent 
+ revisions thereof.) 
+ Group A 
+ ASTM D. 1655-68 Jet A or Jet A-1 
+ British D Eng. R.D. 2453, 2482, 2494, or 2498 
+ Canadian 3-GP-23f or 3-GP-24e 
+ I.A.T.A. Kerosene Type Fuel 
+ MIL-T-5624G Grade JP-5 
+ Group B 
+ ASTM D. 1655-68 Jet B 
+ British D. Eng. R.D. 2454 or 2486 
+ Canadian 3-GP-22f 
+ I.A.T.A. wide cut type fuel (JP-4 type) 
+ *MIL-T-5624G Grade JP-4 
+ See NOTE 4 regarding fuel pump governor adjustments. 
+ *To be used in accordance with Rolls-Royce, Notice to Operator-Dart 
+ engine No. 1007. 
+ WaterMethanol 
+ Rolls-Royce AEP-1-W/M, latest issue. 
+ Oil 
+ Aero Shell Turbine Oil 750",
+Enco Turbo Oil 274 (Enco 274),
+Castrol 98 Gas Turbine Oil,
+Esso Turbo Oil 35 (E.T.O. 35),
+Castrol 98 U.K. Synthetic,
+Enco Turbo Oil 35,
+Aviation Oil (Castrol 98 U.K.),
+Texaco Synthetic Acft. Turbine,
+Esso Aviation Turbo Oil 35,
+Oil 35 (T.S.A.T.O. 35),
+(E.A.T.O. 35),
+Caltex Synthetic Turbo Oil 35,
+Esso Extra Turbo Oil 274,
+Regent Synthetic Turbo Oil 35,
+"(E.E.T.O. 274) 
+ Page No 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9",
+"10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21",
+"Rev No 
+ 9 
+ 8 
+ 7 
+ 9 
+ 8 
+ 7 
+ 8 
+ 9 
+ 9",
+"8 
+ 8 
+ 7 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 7 
+ 8 
+ 8 
+ 8",
+"Reformatted 1293 
+ Engine Limits 
+ Dart MK 542-10, MK 542-10J and MK 542-10K Engine 
+ Static Sea Level Rating (I.S.A.)",
+Total,
+Propeller Shaft,
+"Equivalent 
+ Engine 
+ Maximum",
+"Horsepower 
+ Speed 
+ Duration",
+(T.E.H.P.) (R.P.M.) (Minutes),
+"2,966 ** 
+ 15,000 
+ 5",
+"2,559 
+ 15,000 
+ 5",
+"2,559 
+ 15,000 
+ Unrestricted",
+"MK 542-10J and 
+ MK 542-10 
+ MK 542-10K",
+"930°C 
+ 930°C",
+"890°C 
+ 940°C",
+"865°C 
+ 865°C",
+"120°C 
+ 120°C",
+Propeller and,2 Dowty Rotol Type (c) R.209/4-40-4.5/2
+Propeller,"Hydraulic, constant speed and feathering"
+Limits,"Hub: 4 blade, No. 40 blade shank size to fit No. 4 1/2 S.B.A.C. shaft. 
+ Takeoff rating 2,680 shaft h.p. 
+ Blade: RA.25952 
+ Diameter: 
+ 14 ft. 6 in. (nominal) 
+ Minimum allowable for repairs 14 ft. 3 in. 
+ No further reductions are permitted 
+ Pitch setting at 0.7 radius 
+ Feathered: 
+ 84°15' 
+ Cruise Pitch Lock 
+ 27°30' 
+ Flight fine 
+ 14° 
+ Ground fine 
+ 0°"
+Airspeed,"Vmo (Maximum operating) SL-13,600 ft. 
+ 245 knots 
+ (282 m.p.h.)"
+Limits CAS,"Mmo (Maximum operating) above 13,600 ft. 
+ 0.475 
+ Va (Maneuvering) 
+ 151 knots (174 m.p.h.) 
+ Vfe (Flap extended 10° 
+ and below) 
+ 200 knots 
+ (230 m.p.h.) 
+ Vfe (Flap extended above 
+ 10° to 20°) 
+ 165 knots (190 m.p.h.) 
+ Vfe (Flap extended above 
+ 20° to 35°) 
+ 135 knots 
+ (155 m.p.h.) 
+ *Vlo (Landing gear operating-extension) 
+ 210 knots (242 m.p.h.) 
+ **Vlo (Landing gear operating-extension) 
+ 165 knots (190 m.p.h.) 
+ Vlo (Landing gear operating-retraction) 
+ 135 knots 
+ (155 m.p.h.) 
+ *Vle (Landing gear extended) 
+ 210 knots 
+ (242 m.p.h.) 
+ **Vle (Landing gear extended) 
+ 165 knots 
+ (190 m.p.h.) 
+ *Applicable to airplanes with P/N 01-18062-1, -2 M.L.G. door assembly. 
+ **Applicable to airplanes with P/N 01-18121-501, -502 M.L.G. door assembly."
+CG range,"Landing Gear extended flap up* 
+ Weight Forward Aft 
+ (lb.) %MAC STA.(in) %MAC STA.(in) 
+ 51,800 
+ 21.5 
+ -84.8 
+ 36.0 
+ -66.5 
+ 35,270 and below 
+ 15.0 
+ -93.0 
+ 36.0 
+ -66.5 
+ Straight line variation between points given. 
+ *The airplane is safe and operable with flaps and gear in any position provided the center of 
+ gravity falls within limits specified with flaps up and gear down. 
+ Landing gear retraction moment change is -99,800 in.lb. 
+ Flaps down (20 degrees) moment change is +5,990 in. lb. 
+ Flaps down (35 degrees) moment change is +10,420 in.lb. 
+ Maximum 
+ Takeoff 
+ 51,800 lb. 
+ Weights 
+ Landing 
+ 49,600 lb. 
+ Maximum Zero 
+ Fuel Wt. 
+ 45,640 lbs. 
+ Minimum Crew 
+ 2 (Pilot and Copilot) 
+ Maximum 
+ 59-Limited by emergency exit requirements (CAR 4b.362(c)). Additional 
+ Passengers 
+ 5 passengers are permitted if 2 inflatable slides are installed. 
+ Maximum 
+ Compartment 
+ Capacity 
+ Max. Load 
+ Arm 
+ Baggage 
+ (lb.) (lb./ft 2) (in.) 
+ Right forward 
+ * for 52 seats 38 in pitch type 
+ 1,500 
+ 100 
+ -350 
+ ** for 52 seats 34 in pitch type 
+ 2,500 
+ 100 
+ -324 
+ *** for 60 seats 34 in pitch type 
+ 1,200 
+ 100 
+ -358 
+ Left forward 
+ **** for 52 seats 34 in pitch type only 
+ 1,000 
+ 100 
+ -292 
+ Aft 
+ 2,000 
+ 100 
+ +291 
+ Belly 
+ 1,100 
+ 65 
+ -252 
+ * Location of right forward cargo compartment: F.STA-9,900+ to F.STA-7,900† 
+ ** Location of right forward cargo compartment: D.STA-9,900+ to F.STA-6,870† 
+ *** Location of right forward cargo compartment: F.STA-9,900+ to F.STA-8,280† 
+ **** Location of left forward cargo compartment: F.STA-8,280+ to F.STA-6,870† 
+ † F.STA. units are in millimeters. 
+ Fuel Capacity 
+ Total Refuel* 
+ Usable 
+ Arm 
+ lb. (US Gal.) ea. 
+ lb. (US Gal.)ea. 
+ (in.) 
+ When two scavenge pumps per aircraft are installed. 
+ 2 integral tanks (main) 
+ 4,333 (666) 
+ 4,235 (651) 
+ -63.6 
+ Bag tanks (optional) 
+ R.H. 2,339 (359) 
+ 2,327 (357) 
+ -70.1 
+ L.H. 1,496 (230) 
+ 1,484 (228) 
+ -70.1 
+ When four scavenge pumps per aircraft are installed. 
+ 2 integral tanks (main) 
+ 4,333 (666) 
+ 4,309 (663) 
+ -63.6 
+ Bag Tank (optional) 
+ R.H. 2,339 (359) 
+ 2,327 (357) 
+ -70.1 
+ L.H. 1,496 (230) 
+ 1,484 (228) 
+ -70.1 
+ **""Total Refuel"" capacity includes Unusable and Usable Fuel. 
+ Fuel weights are based on 6.5 lb./U.S. gal. 
+ See NOTE 1(c) for system fuel."
+WaterMethanol,1 bag tank in left-hand wing:
+Capacity,"870 lb. (111 U.S. gal.) 
+ -70.1 in. 
+ W/M weight is based on 7.85 lb./U.S. gal."
+Oil Capacity,"Engine oil 
+ Tank capacity 
+ 38.5 lb. (38.5 U.S. pint) ea. 
+ -200.4 in. 
+ (Applicable to the aircraft without R/R Mod. 1384) 
+ Tank capacity: 
+ 43 lb. (43 U.S. pint) ea. 
+ -200.4 in. 
+ (Applicable to the aircraft with R/R Mod. 1384) 
+ Gear box oil: 
+ 6 lb. (6 U.S. pint) ea. 
+ -134 in. 
+ See NOTE 1(C) for system oil."
+Altitude,"20,000 ft."
+Limitations,"See Japan Civil Aviation Bureau Approved Flight Manual, YS-FM-001."
+"II - Model YS-11A-200 Series (Transport Category), Approved April 3, 1968. 
+ (See NOTE 6 for conversion to YS-11A-500)",
+Engines,"2 Rolls-Royce Dart Mk. 542-10 or Mk. 542-10J or Mk. 542-10K (Turboprop) 
+ Reduction gearing 0.0775 : 1 
+ See NOTE 5 regarding intermixing of engines"
+Fuel,"(Fuel shall conform to the specifications listed or to subsequent revisions thereof.) 
+ Group A 
+ ASTM D. 1655-68 Jet A or Jet A-1 
+ British D Eng. R.D. 2453, 2482, 2494, or 2498 
+ Canadian 3-GP-23f or 3-GP24e 
+ I.A.T.A. Kerosene Type Fuel 
+ MIL-T-5624G Grade JP-5 
+ Group B 
+ ASTM D. 1655-68 Jet B 
+ British D. Eng. R.D. 2454 or 2486 
+ Canadian 3-GP-22f 
+ I.A.T.A. wide cut type fuel (JP-4 type) 
+ *MIL-T-5624G Grade JP-4 
+ See NOTE 4 regarding fuel pump governor adjustments. 
+ *To be used in accordance with Rolls-Royce, Notice to Operator-Dart engine No. 1007."
+WaterMethanol,"Rolls-Royce AEP-1-W/M, latest issue."
+Oil,"Aero Shell Turbine Oil 750 
+ Enco Turbo Oil 274 (Enco 274) 
+ Castrol 98 Gas Turbine Oil 
+ Esso Turbo Oil 35 (E.T.O. 35) 
+ Castrol 98 U.K. Synthetic 
+ Enco Turbo Oil 35 
+ Aviation Oil (Castrol 98 U.K.) 
+ Texaco Synthetic Acft. Turbine 
+ Esso Aviation Turbo Oil 35 
+ Oil 35 (T.S.A.T.O. 35) 
+ (E.A.T.O. 35) 
+ Caltex Synthetic Turbo Oil 35 
+ Esso Extra Turbo Oil 274 
+ Regent Synthetic Turbo Oil 35 
+ (E.E.T.O. 274)"
+Engine Limits,"Dart MK 542-10, MK 542-10J and MK 542-10K Engine 
+ Static Sea Level Rating (I.S.A.) 
+ Total 
+ Propeller Shaft 
+ Equivalent 
+ Engine 
+ Maximum 
+ Ratings 
+ Horsepower 
+ Horsepower 
+ Speed 
+ Duration 
+ (Min. Performance) 
+ (S.H.P.) 
+ (T.E.H.P.) 
+ (R.P.M.) 
+ (Minutes) 
+ Takeoff (Wet) 
+ 2,680 * 
+ 2,966 ** 
+ 15,000 
+ 5 
+ Takeoff (Dry) 
+ 2,305 
+ 2,559 
+ 15,000 
+ 5 
+ Max. Continuous 
+ 2,305 
+ 2,559 
+ 15,000 Unrestricted 
+ The above static ratings are based on engine operations with the aircraft service accessories unloaded and 
+ no bleed air extraction. 
+ *This power is constant despite changes in power extraction through the gear box. 
+ **The power permitted through the gear box is not included, which is 70 H.P. maximum. 
+ MK 542-10J and 
+ MK 542-10 
+ MK 542-10K 
+ Maximum turbine gas temperature 
+ Momentary maximum during starting 
+ 930°C 
+ 930°C 
+ Takeoff (5 min. limit) 
+ with water/methanol 
+ 890°C 
+ 940°C 
+ without water/methanol 
+ 865°C 
+ 865°C 
+ Maximum Continuous 
+ Maximum oil inlet temperature 
+ All operations 
+ 120°C 
+ 120°C"
+Propeller and,2 Dowty Rotol Type (c) R.209/4-40-4.5/2
+Propeller,"Hydraulic, constant speed and feathering"
+Limits,"Hub: 4 blade, No. 40 blade shank size to fit No. 4-1/2 S.B.A.C. shaft. 
+ Takeoff rating 2,680 shaft h.p. 
+ Blade: RA.25952 
+ Diameter: 
+ 14 ft. 6 in. (nominal) 
+ Minimum allowable for repairs 14 ft. 3 in. 
+ No further reductions are permitted. 
+ Pitch setting at 0.7 radius 
+ Feathered: 
+ 84°15' 
+ Cruise Pitch Lock 
+ 27°30' 
+ Flight fine 
+ 14° 
+ Ground fine 
+ 0°"
+Airspeed,"Vmo (Maximum operating) SL-13,600 ft. 
+ 245 knots 
+ (282 m.p.h.)"
+Limits CAS,"Mmo (Maximum operating) above 13,600 ft. 
+ 0.475 
+ Va (Maneuvering) 
+ 154 knots 
+ (177 m.p.h.) 
+ Vfe (Flap extended 10° 
+ and below) 
+ 200 knots 
+ (230 m.p.h.) 
+ Vfe (Flap extended above 
+ 10° to 20°) 
+ 165 knots 
+ (190 m.p.h.) 
+ Vfe (Flap extended above 
+ 20° to 35°) 
+ 135 knots 
+ (155 m.p.h.) 
+ *Vlo (Landing gear operating-extension) 
+ 210 knots 
+ (242 m.p.h.) 
+ **Vlo (Landing gear operating-extension) 
+ 165 knots 
+ (190 m.p.h.) 
+ Vlo (Landing gear operating-retraction) 
+ 135 knots 
+ (155 m.p.h.) 
+ *Vle (Landing gear extended) 
+ 210 knots 
+ (242 m.p.h.) 
+ **Vle (Landing gear extended) 
+ 165 knots 
+ (190 m.p.h.) 
+ *Applicable to airplanes with P/N 01-18062-1, -2 M.L.G. door assembly. 
+ **Applicable to airplanes with P/N 01-18121-501, -502 M.L.G. door assembly."
+CG range,"Landing Gear extended flap up* 
+ Weight Forward Aft 
+ (lb.) %MAC STA.(in) %MAC STA.(in) 
+ 54,010 
+ 22.4 
+ -83.7 
+ 36.0 
+ -66.5 
+ 35,270 and below 
+ 15.0 
+ -93.0 
+ 36.0 
+ -66.5 
+ Straight line variation between points given. 
+ *The airplane is safe and operable with flaps and gear in any position provided 
+ the center of gravity falls within limits specified with flaps up and gear down. 
+ Landing gear retraction moment change is -99,800 in.lb. 
+ Flaps down (20 degrees) moment change is +5,990 in. lb. 
+ Flaps down (35 degrees) moment change is +10,420 in.lb."
+Maximum,"Takeoff 
+ 54,010 lb."
+Weights,"Landing 
+ 52,910 lb."
+Fuel Wt,"48,500 lbs."
+Minimum Crew,2 (Pilot and Copilot)
+Maximum,59 limited by emergency exit requirements (CAR 4b.362(c)).
+Passengers,Additional 5 passengers are permitted if 2 inflatable slides are installed.
+Maximum,"Compartment 
+ Capacity Max. Load Arm"
+Baggage,"(lb.) (lb./ft 2) (in.) 
+ Right forward 
+ * for 52 seats 38 in pitch type 
+ 1,500 
+ 100 
+ -350 
+ ** for 52 seats 34 in pitch type 
+ 2,500 
+ 100 
+ -324 
+ *** for 60 seats 34 in pitch type 
+ 1,200 
+ 100 
+ -358 
+ Left forward 
+ **** for 52 seats 34 in pitch type only 
+ 1,000 
+ 100 
+ -292 
+ Aft 
+ 2,000 
+ 100 
+ +291 
+ Belly 
+ 1,100 
+ 65 
+ -252 
+ *Location of right forward cargo compartment: F.STA-9,900+ to F.STA-7,900+ 
+ **Location of right forward cargo compartment: F.STA-9,900+ to F.STA-6,870+ 
+ ***Location of right forward cargo compartment: F.STA-9,900+ to F.STA-8,280+ 
+ ****Location of left forward cargo compartment: F.STA-8,280+ to F.STA-6,870+ 
+ † F.STA. units are in millimeters. 
+ Fuel Capacity 
+ Total Refuel* 
+ Usable 
+ Arm 
+ lb. (US Gal.) ea. 
+ lb. (US Gal.)ea. 
+ (in.) 
+ When two scavenge pumps per aircraft are installed. 
+ 2 integral tanks (main) 
+ 4,333 (666) 
+ 4,235 (651) 
+ -63.6 
+ Bag tanks (optional) 
+ R.H. 2,339 (359) 
+ 2,327 (357) 
+ -70.1 
+ L.H. 1,496 (230) 
+ 1,484 (228) 
+ -70.1 
+ When four scavenge pumps per aircraft are installed. 
+ 2 integral tanks (main) 
+ 4,333 (666) 
+ 4,309 (663) 
+ -63.6 
+ Bag Tank (optional) 
+ R.H. 2,339 (359) 
+ 2,327 (357) 
+ -70.1 
+ L.H. 1,496 (230) 
+ 1,484 (228) 
+ -70.1 
+ **""Total Refuel"" capacity includes Unusable and Usable Fuel. 
+ Fuel weights are based on 6.5 lb./U.S. gal. 
+ See NOTE 1(c) for system fuel."
+WaterMethanol,"1 bag tank in left-hand wing: 
+ -70.1 in."
+Capacity,"870 lb. (111 U.S. gal.) 
+ W/M weight is based on 7.85 lb./U.S. gal."
+Oil Capacity,"Engine oil 
+ Tank capacity 
+ 38.5 lb. (38.5 U.S. pint) ea. 
+ -200.4 in. 
+ (Applicable to the aircraft without R/R Mod. 1384) 
+ Tank capacity: 
+ 43 lb. (43 U.S. pint) ea. 
+ -200.4 in. 
+ (Applicable to the aircraft with R/R Mod. 1384) 
+ Gear box oil: 
+ 6 lb. (6 U.S. pint) ea. 
+ -134 in. 
+ See NOTE 1(C) for system oil."
+Altitude,"20,000 ft."
+Limitations,"See Japan Civil Aviation Bureau Approved Flight Manual, YS-FM-002."
+"III - Model YS-11A-300 Series (Transport Category), Approved April 5, 1968. 
+ (See NOTE 6 for conversion to YS-11A-600)",
+Engines,"2 Rolls-Royce Dart Mk. 542-10 or Mk. 542-10J or Mk. 542-10K (Turboprop) 
+ Reduction gearing 0.0775 : 1 
+ See NOTE 5 regarding intermixing of engines"
+Fuel,"(Fuel shall conform to the specifications listed or to subsequent revisions thereof.) 
+ Group A 
+ ASTM D. 1655-68 Jet A or Jet A-1 
+ British D Eng. R.D. 2453, 2482, 2494, or 2498 
+ Canadian 3-GP-23f or 3-GP-24e 
+ I.A.T.A. Kerosene Type Fuel 
+ MIL-T-5624G Grade JP-5"
+Group B,"ASTM D. 1665-68 Jet B 
+ British D. Eng. R.D. 2454 or 2486 
+ Canadian 3-GP-22f 
+ I.A.T.A. wide cut type fuel (JP-4 type) 
+ *MIL-T-5624G Grade JP-4 
+ See NOTE 4 regarding fuel pump governor adjustments. 
+ *To be used in accordance with Rolls-Royce, Notice to Operator-Dart engine No. 1007."
+WaterMethanol,"Rolls-Royce AEP-1-W/M, latest issue."
+Oil,"Aero Shell Turbine Oil 750 
+ Enco Turbo Oil 274 (Enco 274) 
+ Castrol 98 Gas Turbine Oil 
+ Esso Turbo Oil 35 (E.T.O. 35) 
+ Castrol 98 U.K. Synthetic 
+ Enco Turbo Oil 35 
+ Aviation Oil (Castrol 98 U.K.) 
+ Texaco Synthetic Acft. Turbine 
+ Esso Aviation Turbo Oil 35 
+ Oil 35 (T.S.A.T.O. 35) 
+ (E.A.T.O. 35) 
+ Caltex Synthetic Turbo Oil 35 
+ Esso Extra Turbo Oil 274 
+ Regent Synthetic Turbo Oil 35 
+ (E.E.T.O. 274)"
+Engine Limits,"Dart MK 542-10, MK 542-10J and MK 542-10K Engine 
+ Static Sea Level Rating (I.S.A.) 
+ Total 
+ Propeller Shaft 
+ Equivalent 
+ Engine 
+ Maximum 
+ Ratings 
+ Horsepower 
+ Horsepower 
+ Speed 
+ Duration 
+ (Min. Performance) 
+ (S.H.P.) 
+ (T.E.H.P.) 
+ (R.P.M.) 
+ (Minutes) 
+ Takeoff (Wet) 
+ 2,680 * 
+ 2,966 ** 
+ 15,000 
+ 5 
+ Takeoff (Dry) 
+ 2,305 
+ 2,559 
+ 15,000 
+ 5 
+ Max. Continuous 
+ 2,305 
+ 2,559 15,000 Unrestricted 
+ The above static rating are based on engine operations with the aircraft 
+ service accessories unloaded and no bleed air extraction. 
+ *This power is constant despite changes in power extraction through the gear box. 
+ **The power permitted through the gear box is not included, which is 70 H.P. 
+ maximum. 
+ MK 542-10J and 
+ MK 542-10 
+ MK 542-10K 
+ Maximum turbine gas temperatures 
+ Momentary maximum during starting 
+ 930°C 
+ 930°C 
+ Takeoff (5 min. limit) 
+ with water/methanol 
+ 890°C 
+ 940°C 
+ without water/methanol 
+ 865°C 
+ 865°C 
+ Maximum Continuous 
+ 905°C 
+ 915°C 
+ Maximum oil inlet temperature 
+ All operations 
+ 120°C 
+ 120°C"
+Propeller and,2 Dowty Rotol Type (c) R.209/4-40-4.5/2
+Propeller,"Hydraulic, constant speed and feathering"
+Limits,"Hub: 4 blade, No. 40 blade shank size to fit No. 4-1/2 S.B.A.C. shaft. 
+ Takeoff rating 2,680 shaft h.p. 
+ Blade: RA.25952 
+ Diameter: 
+ 14 ft. 6 in. (nominal) 
+ Minimum allowable for repairs 14 ft. 3 in. 
+ No further reduction permitted. 
+ Pitch setting at 0.7 radius 
+ Feathered: 
+ 84°15' 
+ Cruise Pitch Lock 
+ 27°30' 
+ Flight fine 
+ 14° 
+ Ground fine 
+ 0°"
+Airspeed,"Vmo (Maximum operating) SL-13,600 ft. 
+ 245 knots 
+ (282 m.p.h.)"
+Limits CAS,"Mmo (Maximum operating) above 13,600 ft. 
+ 0.475 
+ Va (Maneuvering) 
+ 154 knots 
+ (177 m.p.h.) 
+ Vfe (Flap extended 10° 
+ and below) 
+ 200 knots 
+ (230 m.p.h.) 
+ Vfe (Flap extended above 
+ 10° to 20°) 
+ 165 knots 
+ (190 m.p.h.) 
+ Vfe (Flap extended above 
+ 20° to 35°) 
+ 135 knots 
+ (155 m.p.h.) 
+ *Vlo (Landing gear operating-extension) 
+ 210 knots 
+ (242 m.p.h.) 
+ **Vlo (Landing gear operating-extension) 
+ 165 knots 
+ (190 m.p.h.) 
+ Vlo (Landing gear operating-retraction) 
+ 135 knots 
+ (155 m.p.h.) 
+ *Vle (Landing gear extended) 
+ 210 knots 
+ (242 m.p.h.) 
+ **Vle (Landing gear extended) 
+ 165 knots 
+ (190 m.p.h.) 
+ *Applicable to airplanes with P/N 01-18062-1, -2 M.L.G. door assembly. 
+ **Applicable to airplanes with P/N 01-18121-501, -502 M.L.G. door assembly."
+CG range,"Landing Gear extended flap up* 
+ Weight 
+ Forward 
+ Aft 
+ (lb.) %MAC STA.(in) %MAC STA.(in) 
+ 54,010 
+ 22.4 
+ -83.7 
+ 36.0 
+ -66.5 
+ 35,270 and below 
+ 15.0 
+ -93.0 
+ 36.0 
+ -66.5 
+ Straight line variation between points given. 
+ *The airplane is safe and operable with flaps and gear in any position provided 
+ the center of gravity falls within limits specified with flaps up and gear down. 
+ Landing gear retraction moment change is -99,800 in.lb. 
+ Flaps down (20 degrees) moment change is +5,990 in. lb. 
+ Flaps down (35 degrees) moment change is +10,420 in.lb."
+Maximum,"Takeoff 
+ 54,010 lb."
+Weights,"Landing 
+ 52,910 lb."
+Fuel Wt,"48,500 lbs."
+Minimum Crew,2 (Pilot and Copilot)
+Maximum,59 limited by emergency exit requirement (CAR 4b.362(c)).
+Passengers,Additional 3 passengers are permitted if 2 inflatable slides are installed.
+Maximum,"Compartment 
+ Capacity Max. Load Arm 
+ (lb.) (lb./ft 2) (in.) 
+ Main Cargo 
+ * for 30 seats 34 in 
+ pitch type 
+ 150 
+ -222 
+ use tie down 
+ 8,400 
+ use no tie down 
+ 5,000 
+ ** for 38 seats 34 in 
+ pitch type 
+ 150 
+ -251 
+ use tie down 
+ 6,400 
+ use no tie down 
+ 3,700 
+ *** for 46 seats 34 in 
+ pitch type 
+ 150 
+ -283 
+ use tie down 
+ 4,100 
+ use no tie down 
+ 2,400 
+ **** All Cargo 
+ F.STA-9,180+- 
+ -116 
+ F.STA-2,560+ 
+ 150 
+ F.STA-2,560+ 
+ F.STA+3,240+ 
+ 75 
+ †F.STA units are in millimeters 
+ use tie down 
+ 15,400 
+ use no tie down 
+ 10,200 
+ Miscellaneous storage 
+ 150 
+ -376 
+ use tie down 
+ 500 
+ use no tie down 
+ 300 
+ Belly Cargo 
+ 1,100 
+ 65 
+ -252 
+ Carry-on Baggage 
+ 1,200 
+ -222 
+ floor 
+ 75 
+ shelves 
+ 20 
+ **** Forward Cargo 
+ 1,000 
+ 150 
+ -298 
+ * Location of right forward cargo compartment: 
+ F.STA-9,180+ to F.STA-2,560+ 
+ ** Location of right forward cargo compartment: 
+ F.STA-9,180+ to F.STA-4,050+ 
+ *** Location of right forward cargo compartment: 
+ F.STA-9,180+ to F.STA-5,800+ 
+ **** Location of left forward cargo compartment: 
+ F.STA-9,180+ to F.STA+3,240+ 
+ (For aircraft of which the full cabin space is utilized as a main cargo compartment.) 
+ ***** For aircraft with forward cargo compartment installed."
+Fuel Capacity,"Total Refuel* 
+ Usable 
+ Arm 
+ lb. (US Gal.) ea. 
+ lb. (US Gal.)ea. 
+ (in.) 
+ When two scavenge pumps per aircraft are installed. 
+ 2 integral tanks (main) 
+ 4,333 (666) 
+ 4,235 (651) 
+ -63.6 
+ Bag tanks (optional) 
+ R.H. 
+ 2,339 (359) 
+ 2,327 (357) 
+ -70.1 
+ L.H. 
+ 1,496 (230) 
+ 1,484 (228) 
+ -70.1 
+ When four scavenge pumps per aircraft are installed. 
+ 2 integral tanks (main) 
+ 4,333 (666) 
+ 4,309 (663) 
+ -63.6 
+ Bag Tank (optional) 
+ R.H. 
+ 2,339 (359) 
+ 2,327 (357) 
+ -70.1 
+ L.H. 
+ 1,496 (230) 
+ 1,484 (228) 
+ -70.1 
+ **""Total Refuel"" capacity includes Unusable and Usable Fuel. 
+ Fuel weights are based on 6.5 lb./U.S. gal. 
+ See NOTE 1(c) for system fuel."
+WaterMethanol,1 bag tank in left-hand wing:
+Capacity,"870 lb. (111 U.S. gal.) 
+ -70.1 in. 
+ W/M weight is based on 7.85 lb./U.S. gal."
+Oil Capacity,"Engine oil 
+ Tank capacity 
+ 38.5 lb. (38.5 U.S. pint) ea. 
+ -200.4 in. 
+ (Applicable to the aircraft without R/R Mod. 1384) 
+ Tank capacity: 
+ 43 lb. (43 U.S. pint) ea. 
+ -200.4 in. 
+ (Applicable to the aircraft with R/R Mod. 1384) 
+ Gear box oil: 
+ 6 lb. (6 U.S. pint) ea. 
+ -134 in. 
+ See NOTE 1(C) for system oil."
+Altitude,"20,000 ft."
+Limitations,"See Japan Civil Aviation Bureau Approved Flight Manual, YS-FM-002."
+"VI - Model YS-11A-500 Series (Transport Category), Approved May 8, 1970 
+ (See NOTE 6 for conversion to YS-11A-200)",
+Engines,"2 Rolls-Royce Dart Mk. 542-10 or Mk. 542-10J or Mk. 542-10K (Turboprop) Reduction 
+ gearing 0.0775 : 1 
+ See NOTE 5 regarding intermixing of engines"
+Fuel,(Fuel shall conform to the specifications listed or to subsequent revisions thereof.)
+Group A,"ASTM D. 1655-68 Jet A or Jet A-1 
+ British D Eng. R.D. 2453, 2482, 2494, or 2498 
+ Canadian 3-GP-23f or 3-GP-24e 
+ I.A.T.A. Kerosene Type Fuel 
+ MIL-T-5624G Grade JP-5"
+Group B,"ASTM D. 1665-68 Jet B 
+ British D. Eng. R.D. 2454 or 2486 
+ Canadian 3-GP-22f 
+ I.A.T.A. wide cut type fuel (JP-4 type) 
+ *MIL-T-5624G Grade JP-4 
+ See NOTE 4 regarding fuel pump governor adjustments. 
+ *To be used in accordance with Rolls-Royce, Notice to Operator-Dart engine No. 1007."
+WaterMethanol,"Rolls-Royce AEP-1-W/M, latest issue."
+Oil,"Aero Shell Turbine Oil 750 
+ Enco Turbo Oil 274 (Enco 274) 
+ Castrol 98 Gas Turbine Oil 
+ Esso Turbo Oil 35 (E.T.O. 35) 
+ Castrol 98 U.K. Synthetic 
+ Enco Turbo Oil 35 
+ Aviation Oil (Castrol 98 U.K.) 
+ Texaco Synthetic Acft. Turbine 
+ Esso Aviation Turbo Oil 35 
+ Oil 35 (T.S.A.T.O. 35) 
+ (E.A.T.O. 35) 
+ Caltex Synthetic Turbo Oil 35 
+ Esso Extra Turbo Oil 274 
+ Regent Synthetic Turbo Oil 35 
+ (E.E.T.O. 274)"
+Engine Limits,"Dart MK 542-10, MK 542-10J and MK 542-10K Engine 
+ Static Sea Level Rating (I.S.A.) 
+ Total 
+ Propeller Shaft 
+ Equivalent 
+ Engine 
+ Maximum 
+ Ratings 
+ Horsepower 
+ Horsepower 
+ Speed 
+ Duration 
+ (Min. Performance) (S.H.P.) 
+ (T.E.H.P.) 
+ (R.P.M.) 
+ (Minutes) 
+ Takeoff (Wet) 
+ 2,680* 
+ 2,966 ** 
+ 15,000 
+ 5 
+ Takeoff (Dry) 
+ 2,305 
+ 2,559 
+ 15,000 
+ 5 
+ Max. Continuous 
+ 2,305 
+ 2,559 15,000 Unrestricted 
+ The above static ratings are based on engine operations with the aircraft service accessories 
+ unloaded and no bleed air extraction. 
+ *This power is constant despite changes in power extraction through the gear box. 
+ **The power permitted through the gear box is not included, which is 70 H.P. maximum. 
+ MK 542-10J and 
+ MK 542-10 
+ MK 542-10K 
+ Maximum turbine gas temperatures 
+ Momentary maximum during starting 
+ 930°C 
+ 930°C 
+ Takeoff (5 min. limit) 
+ with water/methanol 
+ 890°C 
+ 940°C 
+ without water/methanol 
+ 865°C 
+ 865°C 
+ Maximum Continuous 
+ 905°C 
+ 915°C 
+ Maximum oil inlet temperature 
+ All operations 120°C 
+ 120°C"
+Propeller and,2 Dowty Rotol Type (c) R.209/4-40-4.5/2
+Propeller,"Hydraulic, constant speed and feathering"
+Limits,"Hub: 4 blade, No. 40 blade shank size to fit No. 4-1/2 S.B.A.C. shaft. 
+ Takeoff rating 2,680 shaft h.p. 
+ Blade: RA.25952 
+ Diameter: 14 ft. 6 in. (nominal) 
+ Minimum allowable for repairs 14 ft. 3 in. 
+ No further reduction permitted. 
+ Pitch setting at 0.7 radius 
+ Feathered: 
+ 84°15' 
+ Cruise Pitch Lock 
+ 27°30' 
+ Flight fine 
+ 14° 
+ Ground fine 
+ 0°"
+Airspeed,"Vmo (Maximum operating) SL-13,600 ft.245 knots 
+ (282 m.p.h.)"
+Limits CAS,"Mmo (Maximum operating) above 13,600 ft. 
+ 0.475 
+ Va (Maneuvering) 
+ 155 knots 
+ (178 m.p.h.) 
+ Vfe (Flap extended 10° 
+ and below) 
+ 200 knots 
+ (230 m.p.h.) 
+ Vfe (Flap extended above 
+ 10° to 20°) 
+ 165 knots 
+ (190 m.p.h.) 
+ Vfe (Flap extended above 
+ 20° to 35°) 
+ 135 knots 
+ (155 m.p.h.) 
+ *Vlo (Landing gear operating-extension) 
+ 210 knots 
+ (242 m.p.h.) 
+ **Vlo (Landing gear operating-extension) 
+ 165 knots 
+ (190 m.p.h.) 
+ Vlo (Landing gear operating-retraction) 135 knots 
+ (155 m.p.h.) 
+ *Vle (Landing gear extended) 
+ 210 knots 
+ (242 m.p.h.) 
+ **Vle (Landing gear extended) 
+ 165 knots 
+ (190 m.p.h.) 
+ *Applicable to airplanes with P/N 01-18062-1, -2 M.L.G. door assembly. 
+ **Applicable to airplanes with P/N 01-18121-501, -502 M.L.G. door assembly."
+CG range,"Landing Gear extended flap up* 
+ Weight 
+ Forward 
+ AFT** 
+ AFT*** 
+ (lb.) 
+ %MAC 
+ STA.(in) 
+ %MAC 
+ STA.(in) 
+ %MAC 
+ STA.(in) 
+ 55,110 
+ 23.7 
+ -82.0 
+ 36.0 
+ -66.5 
+ 32.2 
+ -71.3 
+ 54,340 
+ 36.0 
+ -66.5 
+ 52,910 
+ 21.9 
+ -84.3 
+ 35,270 and below 
+ 15.0 
+ -93.0 
+ 36.0 
+ -66.5 
+ 36.0 
+ -66.5 
+ Straight line variation between points given. 
+ *The airplane is safe and operable with flaps and gear in any position provided the center of gravity falls 
+ within limits specified with flaps up and gear down. 
+ Landing gear retraction moment change is -99,800 in.lb. 
+ Flaps down (20 degrees) moment change is +5,990 in. lb. 
+ Flaps down (35 degrees) moment change is +10,420 in.lb. 
+ **Rearward C.G. limitation for airplanes with 12.50-16 14 P.R. Type III main tires 
+ ***Rearward C.G. limitation on the ground for airplanes with 12.50- 16 12 P.R. Type III main tires. 
+ Rearward C.G. limitation in the air for airplanes with 12.50-16 12 P.R. Type III 
+ main tires is the same as that in column.**"
+Maximum,"Takeoff 
+ 55,110 lb."
+Weights,"Landing 
+ 54,010 lb."
+Fuel Wt,"49,600 lbs."
+Minimum Crew,2 (Pilot and Copilot)
+Maximum,59 limited by emergency exit requirement (CAR 4b.362(c)).
+Passengers,Additional 5 passengers are permitted if 2 inflatable slides are installed.
+Maximum,"Compartment 
+ Capacity Max. Load Arm"
+Baggage,"(lb.) (lb./ft 2) (in.) 
+ Right forward 
+ * for 52 seats 38 in pitch type 
+ 1,500 
+ 100 
+ -350 
+ ** for 52 seats 34 in pitch type 
+ 2,500 
+ 100 
+ -324 
+ *** for 60 seats 34 in pitch type 
+ 1,200 
+ 100 
+ -358 
+ Left forward 
+ **** for 52 seats 34 in pitch type only 
+ 1,000 
+ 100 
+ -292 
+ Aft 
+ 2,000 
+ 100 
+ +291 
+ Belly 
+ 1,100 
+ 65 
+ -252 
+ * Location of right forward cargo compartment: F.STA-9,900+ to F.STA-7,900† 
+ ** Location of right forward cargo compartment: F.STA-9,900+ to F.STA-6,870† 
+ *** Location of right forward cargo compartment: F.STA-9,900+ to F.STA-8,280† 
+ **** Location of left forward cargo compartment: F.STA-8,280+ to F.STA-6,870† 
+ † F.STA. units are in millimeters. 
+ Fuel Capacity 
+ Total Refuel* 
+ Usable 
+ Arm 
+ lb. (US Gal.) ea. 
+ lb. (US Gal.)ea. 
+ (in.) 
+ When two scavenge pumps per aircraft are installed. 
+ 2 integral tanks (main) 
+ 4,333 (666) 
+ 4,235 (651) 
+ -63.6 
+ Bag tanks (optional) 
+ R.H. 
+ 2,339 (359) 
+ 2,327 (357) 
+ -70.1 
+ L.H. 
+ 1,496 (230) 
+ 1,484 (228) 
+ -70.1 
+ When four scavenge pumps per aircraft are installed. 
+ 2 integral tanks (main) 
+ 4,333 (666) 
+ 4,309 (663) 
+ -63.6 
+ Bag Tank (optional) 
+ R.H. 
+ 2,339 (359) 
+ 2,327 (357) 
+ -70.1 
+ L.H. 
+ 1,496 (230) 
+ 1,484 (228) 
+ -70.1 
+ **""Total Refuel"" capacity includes Unusable and Usable Fuel. 
+ Fuel weights are based on 6.5 lb./U.S. gal. 
+ See NOTE 1(c) for system fuel."
+WaterMethanol,1 bag tank in left-hand wing:
+Capacity,"870 lb. (111 U.S. gal.) 
+ -70.1 in. 
+ W/M weight is based on 7.85 lb./U.S. gal."
+Oil Capacity,"Engine oil 
+ Tank capacity 
+ 38.5 lb. (38.5 U.S. pint) ea. 
+ -200.4 in. 
+ (Applicable to the aircraft without R/R Mod. 1384) 
+ Tank capacity: 
+ 43 lb. (43 U.S. pint) ea. 
+ -200.4 in. 
+ (Applicable to the aircraft with R/R Mod. 1384) 
+ Gear box oil: 
+ 6 lb. (6 U.S. pint) ea. 
+ -134 in. 
+ See NOTE 1(C) for system oil."
+Altitude,"20,000 ft."
+Limitations,"See Japan Civil Aviation Bureau Approved Flight Manual, YS-FM-005."
+"V - Model YS-11A-600 Series (Transport Category), Approved May 8, 1970 
+ (See NOTE 6 for conversion to YS-11A-300)",
+Engines,"2 Rolls-Royce Dart Mk. 542-10 or Mk. 542-10J or Mk. 542-10K (Turboprop) Reduction 
+ gearing 0.0775 : 1 
+ See NOTE 5 regarding intermixing of engines"
+Fuel,"(Fuel shall conform to the specifications listed or to subsequent revisions thereof.) 
+ Group A 
+ ASTM D. 1655-68 Jet A or Jet A-1 
+ British D Eng. R.D. 2453, 2482, 2494, or 2498 
+ Canadian 3-GP-23f or 3-GP-24e 
+ I.A.T.A. Kerosene Type Fuel 
+ MIL-T-5624G Grade JP-5 
+ Group B 
+ ASTM D. 1665-68 Jet B 
+ British D. Eng. R.D. 2454 or 2486 
+ Canadian 3-GP-22f 
+ I.A.T.A. wide cut type fuel (JP-4 type) 
+ *MIL-T-5624G Grade JP-4 
+ See NOTE 4 regarding fuel pump governor adjustments. 
+ *To be used in accordance with Rolls-Royce, Notice to Operator-Dart engine No. 1007."
+WaterMethanol,"Rolls-Royce AEP-1-W/M, latest issue."
+Oil,"Aero Shell Turbine Oil 750 
+ Enco Turbo Oil 274 (Enco 274) 
+ Castrol 98 Gas Turbine Oil 
+ Esso Turbo Oil 35 (E.T.O. 35) 
+ Castrol 98 U.K. Synthetic 
+ Enco Turbo Oil 35 
+ Aviation Oil (Castrol 98 U.K.) 
+ Texaco Synthetic Acft. Turbine 
+ Esso Aviation Turbo Oil 35 
+ Oil 35 (T.S.A.T.O. 35) 
+ (E.A.T.O. 35) 
+ Caltex Synthetic Turbo Oil 35 
+ Esso Extra Turbo Oil 274 
+ Regent Synthetic Turbo Oil 35 
+ (E.E.T.O. 274)"
+Engine Limits,"Dart MK 542-10, MK 542-10J and MK 542-10K Engine 
+ Static Sea Level Rating (I.S.A.) 
+ Total 
+ Propeller Shaft 
+ Equivalent 
+ Engine 
+ Maximum 
+ Ratings 
+ Horsepower 
+ Horsepower 
+ Speed 
+ Duration 
+ (Min. Performance) (S.H.P.) (T.E.H.P.) (R.P.M.) (Minutes) 
+ Takeoff (Wet) 
+ 2,680 * 
+ 2,966 ** 
+ 15,000 
+ 5 
+ Takeoff (Dry) 
+ 2,305 
+ 2,559 
+ 15,000 
+ 5 
+ Max. Continuous 
+ 2,305 
+ 2,559 15,000 Unrestricted 
+ The above static rating are based on engine operations with the aircraft 
+ service accessories unloaded and no bleed air extraction. 
+ *This power is constant despite changes in power extraction through the gear box. 
+ **The power permitted through the gear box is not included, which is 
+ 70 H.P. maximum. 
+ MK 542-10J and 
+ MK 542-10 
+ MK 542-10K 
+ Maximum turbine gas temperature 
+ Momentary maximum during starting 
+ 930°C 
+ 930°C 
+ Takeoff (5 min. limit) 
+ with water/methanol 
+ 890°C 
+ 940°C 
+ without water/methanol 
+ 865°C 
+ 865°C 
+ Maximum Continuous 
+ 905°C 
+ 915°C 
+ Maximum oil inlet temperature 
+ All operations 
+ 120°C 
+ 120°C"
+Propeller and,2 Dowty Rotol Type (c) R.209/4-40-4.5/2
+Propeller,"Hydraulic, constant speed and feathering"
+Limits,"Hub: 4 blade, No. 40 blade shank size to fit No. 4-1/2 S.B.A.C. shaft. 
+ Takeoff rating 2,680 shaft h.p. 
+ Blade: RA.25952 
+ Diameter: 14 ft. 6 in. (nominal) 
+ Minimum allowable for repairs 14 ft. 3 in. 
+ No further reduction permitted. 
+ Pitch setting at 0.7 radius 
+ Feathered: 
+ 84°15' 
+ Cruise Pitch Lock 
+ 27°30' 
+ Flight fine 
+ 14° 
+ Ground fine 
+ 0°"
+Airspeed,"Vmo (Maximum operating) SL-13,600 ft 
+ 245 knots 
+ (282 m.p.h.)"
+Limits CAS,"Mmo (Maximum operating) above 13,600 ft. 
+ 0.475 
+ Va (Maneuvering) 
+ 155 knots 
+ (178 m.p.h.) 
+ Vfe (Flap extended 10° 
+ and below) 
+ 200 knots 
+ (230 m.p.h.) 
+ Vfe (Flap extended above 
+ 10° to 20°) 
+ 165 knots 
+ (190 m.p.h.) 
+ Vfe (Flap extended above 
+ 20° to 35°) 
+ 135 knots 
+ (155 m.p.h.) 
+ *Vlo (Landing gear operating-extension) 
+ 210 knots 
+ (242 m.p.h.) 
+ **Vlo (Landing gear operating-extension) 
+ 165 knots 
+ (190 m.p.h.) 
+ Vlo (Landing gear operating-retraction) 
+ 135 knots 
+ (155 m.p.h.) 
+ *Vle (Landing gear extended) 
+ 210 knots 
+ (242 m.p.h.) 
+ **Vle (Landing gear extended) 
+ 165 knots 
+ (190 m.p.h.) 
+ *Applicable to airplanes with P/N 01-18062-1, -2 M.L.G. door assembly. 
+ **Applicable to airplanes with P/N 01-18121-501, 502 M.L.G. door assembly."
+CG range,"Landing Gear extended flaps up* 
+ Weight 
+ Forward 
+ AFT** 
+ AFT*** 
+ (lb.) 
+ %MAC 
+ STA.(in) 
+ %MAC 
+ STA.(in) 
+ %MAC 
+ STA.(in) 
+ 55,110 
+ 23.7 
+ -82.0 
+ 36.0 
+ -66.5 
+ 32.2 
+ 71.3 
+ 54,340 
+ 36.0 
+ -66.5 
+ 52,910 
+ 21.9 
+ -84.3 
+ 35,270 and below 
+ 15.0 
+ -93.0 
+ 36.0 
+ -66.5 
+ 36.0 
+ -66.5 
+ Straight line variation between points given. 
+ *The airplane is safe and operable with flaps and gear in any position provided 
+ the center of gravity falls within limits specified with flaps up and gear down. 
+ Landing gear retraction moment change is -99,800 in.lb. 
+ Flaps down (20 degrees) moment change is +5,990 in. lb. 
+ Flaps down (35 degrees) moment change is +10,420 in.lb. 
+ **Rearward C.G. limitation for airplanes with 12.50-16 14 P.R. Type III main tires 
+ ***Rearward C.G. limitation on the ground for airplanes with 12.50- 16 12 
+ P.R. Type III main tires. Rearward C.G. limitation in the air for 
+ airplanes with 12.50-16 12 P.R. Type III main tires is the same as that in column.**"
+Maximum,"Takeoff 
+ 55,110 lb."
+Weights,"Landing 
+ 54,010 lb."
+Fuel Wt,"49,600 lbs."
+Minimum Crew,2 (Pilot and Copilot)
+Maximum,59 limited by emergency exit requirement (CAR 4b.362(c)).
+Passengers,Additional 3 passengers are permitted if 2 inflatable slides are installed.
+Maximum,"Compartment 
+ Capacity Max. Load Arm"
+Baggage,"(lb.) (lb./ft 2) (in.) 
+ ` 
+ Main Cargo 
+ * for 30 seats 34 in pitch type 
+ 150 
+ -222 
+ use tie down 
+ 8,400 
+ use no tie down 
+ 5,000 
+ ** for 38 seats 34 in pitch type 
+ 150 
+ -251 
+ use tie down 
+ 6,400 
+ use no tie down 
+ 3,700 
+ *** for 46 seats 34 in pitch type 
+ 150 
+ -283 
+ use tie down 
+ 4,100 
+ use no tie down 
+ 2,400 
+ **** All Cargo 
+ F.STA-9,180†- 
+ -116 
+ F.STA-2,560† 
+ 150 
+ F.STA-2,560+ 
+ F.STA+3,240+ 
+ 75 
+ †F.STA units are in millimeters 
+ use tie down 
+ 15,400 
+ use no tie down 
+ 10,200 
+ Miscellaneous storage 
+ 150 
+ -376 
+ use tie down 
+ 500 
+ use no tie down 
+ 300 
+ Belly Cargo 
+ 1,100 
+ 65 
+ -252 
+ Carry-on Baggage 
+ 1,200 
+ -222 
+ floor 
+ 75 
+ shelves 
+ 20 
+ **** Forward Cargo 
+ 1,000 
+ 150 
+ -298 
+ *Location of right forward cargo compartment: F.STA-9,180+ to F.STA-2,560† 
+ **Location of right forward cargo compartment: F.STA-9,180+ to F.STA-4,050† 
+ ***Location of right forward cargo compartment: F.STA-9,180+ to F.STA-5,800† 
+ ****Location of left forward cargo compartment: F.STA-9,180+ to F.STA-3,240† 
+ (For aircraft of which the full cabin space is utilized as a main cargo compartment.) 
+ ***** For aircraft with forward cargo compartment installed. 
+ †F.STA. units are in millimeters."
+Fuel Capacity,"Total Refuel* 
+ Usable 
+ Arm 
+ lb. (US Gal.) ea. 
+ lb. (US Gal.)ea. 
+ (in.) 
+ When two scavenge pumps per aircraft are installed. 
+ 2 integral tanks (main) 
+ 4,333 (666) 
+ 4,235 (651) 
+ -63.6 
+ Bag tanks (optional) 
+ R.H. 
+ 2,339 (359) 
+ 2,327 (357) 
+ -70.1 
+ L.H. 
+ 1,496 (230) 
+ 1,484 (228) 
+ -70.1 
+ When four scavenge pumps per aircraft are installed. 
+ 2 integral tanks (main) 
+ 4,333 (666) 
+ 4,309 (663) 
+ -63.6 
+ Bag Tank (optional) 
+ R.H. 
+ 2,339 (359) 
+ 2,327 (357) 
+ -70.1 
+ L.H. 
+ 1,496 (230) 
+ 1,484 (228) 
+ -70.1 
+ **""Total Refuel"" capacity includes Unusable and Usable Fuel. 
+ Fuel weights are based on 6.5 lb./U.S. gal. 
+ See NOTE 1(c) for system fuel."
+WaterMethanol,1 bag tank in left-hand wing:
+Capacity,"870 lb. (111 U.S. gal.) 
+ -70.1 in. 
+ W/M weight is based on 7.85 lb./U.S. gal."
+Oil Capacity,"Engine oil 
+ Tank capacity 
+ 38.5 lb. (38.5 U.S. pint) ea. 
+ -200.4 in. 
+ (Applicable to the aircraft without R/R Mod. 1384) 
+ Tank capacity: 
+ 43 lb. (43 U.S. pint) ea. 
+ -200.4 in. 
+ (Applicable to the aircraft with R/R Mod. 1384) 
+ Gear box oil: 
+ 6 lb. (6 U.S. pint) ea. 
+ -134 in. 
+ See NOTE 1(C) for system oil."
+Altitude,"20,000 ft."
+Limitations,"See Japan Civil Aviation Bureau Approved Flight Manual, YS-FM-006."
+Data Pertinent to All Models,
+Datum,Station 0 is 42.5 in. aft of wing reference line (55% chord line).
+MAC,126.1 in. (L.E. of MAC-111.9 in.)
+Leveling Means,Leveling clips installed in the nosewheel well.
+Control,"Elevator 
+ Up 
+ 27° 
+ Down 
+ 13°"
+Surfaces,"Elevator balance tab 
+ Up 
+ 6° 
+ Down 
+ 12°"
+Movements,"Elevator trim tab (L.H.) 
+ Up 
+ 10° 
+ Down 
+ 15° 
+ Rudder spring-trim tab 
+ Spring tab 
+ Right 
+ 21° 
+ Left 
+ 21° 
+ Trim tab 
+ Right 
+ 12.5° 
+ Left 
+ 12.5° 
+ Aileron 
+ Up 
+ 24° 
+ Down 
+ 15° 
+ Aileron spring tab 
+ Up 
+ 18° 
+ Down 
+ 10° 
+ Aileron trim tab (L.H.) 
+ Up 
+ 21° 
+ Down 
+ 21° 
+ Flaps 
+ Down 
+ 35°"
+Serial Numbers,"The Government of Japan Certificate of Airworthiness for Export endorsed as noted under 
+ Eligible""Import Requirements"" must be submitted for each individual aircraft for which 
+ application for certification is made."
+Certification,"CAR 10 dated March 28, 1955. (Applicable Regulations are CAR 4b dated December 31,"
+Basis,"1953. Amendments 4b-1 through 4b-12 and SR- 422B.) 
+ Application for type certificate dated June 15, 1962. 
+ Compliance with the following optional requirements has been established. 
+ Ditching Provisions 
+ 4b.361 (overwater operation can be approved when the 
+ aircraft has been equipped and installation has been 
+ approved according to CAR 4b.361). 
+ Ice Protection 
+ 4b.640 (When the aircraft has been equipped with 
+ Provisions 
+ rubber boots ice protection system)."
+Required,The basic required equipment as prescribed in the applicable airworthiness regulations (see
+Equipment,"certification basis) must be installed in the aircraft for type certification. NAMC Report 
+ YSE- 0547-2 ""YS-11 and YS-11A Master Equipment List"" contains a list of all required 
+ equipment that must be installed as well as optional equipment installations approved by 
+ the Japan Civil Aviation Bureau (JCAB)."
+Import,"A U.S. Certification of Airworthiness may be issued on the basis of 
+ a Japanese"
+Requirements,"Certificate of Airworthiness for Export signed by a representative of the JCAB containing 
+ the following notation: 
+ ""The aircraft covered by this certificate has been found to conform to Type Certificate 
+ Number A1PC and is in a condition for safe operation."""
+NOTE 1 a,"Current weight and balance report, including list of equipment included in the certificated 
+ empty weight, and loading instructions when necessary must be provided for each aircraft at 
+ the time of original certification. 
+ (b) 
+ The airplane must be loaded so that the C.G. is within the specified limits at all times, with the 
+ effects of fuel use, and crew and passenger movement being considered. 
+ (c) 
+ The weight of system fuel and oil as defined below, and hydraulic fluid, must be included in the 
+ airplane empty weight. 
+ System Fuel 
+ The weight of all fuel required to fill all lines and tanks up to the zero fuel point on 
+ the fuel gauge in the most critical flight attitude. 
+ System fuel includes the unusable tank fuel as defined by CAR 4b.416. 
+ When two scavenge pumps per aircraft are installed. 
+ Lbs. (U.S. Gal.) 
+ Unusable (2 integral tanks) 
+ 196 (30) 
+ 98 (15) ea. 
+ Unusable (2 bag tanks) 
+ 24 ( 4) 
+ 12 ( 2) ea. 
+ Between emergency shutoff valve 
+ and engine 
+ 8 (1.2) 
+ Crossfeed line 
+ 9 (1.4) 
+ Between emergency shutoff valve 
+ and booster pump 
+ 4 (0.6) 
+ Transfer line (R.H.) 
+ 8 (1.2) 
+ Transfer line (L.H.) 
+ 7 (1.1) 
+ System fuel total 
+ 256 (40) 
+ When four scavenge pumps per aircraft are installed. 
+ Lbs. (U.S. Gal.) 
+ Unusable (2 integral tanks) 
+ 48 ( 7) 
+ 24 ( 4) ea. 
+ Unusable (2 bag tanks) 
+ 24 ( 4) 
+ 12 ( 2) ea. 
+ Between emergency shutoff valve 
+ and engine 
+ 8 (1.2) 
+ Crossfeed line 
+ 9 (1.4) 
+ Between emergency shutoff valve 
+ and booster pump 
+ 4 (0.6) 
+ Transfer line (R.H.) 
+ 8 (1.2) 
+ Transfer line (L.H.) 
+ 7 (1.1) 
+ System fuel total 
+ 108 (17)"
+System Oil,"System oil which must be included in empty weight is the amount of oil normally trapped 
+ in the propellers, plus the amount normally trapped in the engines after oil drainage. The 
+ total amount of ""System Oil"" is as follows: 
+ Lbs. (U.S. Gal.) 
+ Propeller hub 
+ 22 (22) 
+ 11 (11) ea. 
+ Engine lubrication system 
+ 20 ( 2) 
+ 10 (10) ea. 
+ System oil total 
+ 42 (42)"
+d,"The ""Unusable"" fuel is the amount of fuel in the tank which is unavailable to the engines under 
+ critical flight conditions as defined by CAR 4b.416 and may be obtained by taking the difference 
+ between ""Total Refuel"" and ""Usable"" tank capacities shown under ""Fuel Capacity."" This ""Unusable"" 
+ fuel is included in System fuel as indicated in 1(c) above. 
+ NOTE 2. This aircraft must be operated in accordance with the Japan Civil Aviation Bureau Approved Airplane"
+Flight Manual,"NOTE 3. Service life limits on structural components are established for all existing versions of the YS-11 and 
+ YS-11A in the JCAB Approved Manual YS-MR-101 ""YS-11 and YS-11A Service Life Limits."" 
+ NOTE 4. The engine fuel pump governor must be adjusted when changing from wide-cut fuel to kerosene. 
+ NOTE 5. When intermixing engines, aircraft performance shall be decided with the limitation of the lower powered"
+modified to add the new model designation and the date of conversion.,

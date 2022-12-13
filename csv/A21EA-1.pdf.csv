@@ -1,0 +1,2454 @@
+Keyterm,Info
+"A21EA-1 
+ Revision No. 3 
+ MHI RJ Aviation ULC 
+ CL-600-2B19 (Regional Jet Series 100 & 440) 
+ CL-600-2C10 (Regional Jet Series 700, 701 & 702) 
+ CL-600-2C11 (Regional Jet Series 550) 
+ CL-600-2D15 (Regional Jet Series 705) 
+ CL-600-2D24 (Regional Jet Series 900) 
+ CL-600-2E25 (Regional Jet Series 1000) 
+ April 8, 2021",
+Type Certificate Holder,"MHI RJ Aviation ULC 
+ 12655 Boul. Henri-Fabre O 
+ Mirabel, Québec, Canada 
+ J7N 1E1 
+ Type Certificate Holder Record: Bombardier Inc. 
+ 800 boul. René Lévesque West 
+ Montreal, Quebec, Canada 
+ H3B1Y8"
+"I - Model CL-600-2B19 (Regional Jet Series 100) (Transport Category), Approved January 21, 1993, by the FAA and July 31, 
+ 1992, by Transport Canada. (See Note 8) 
+ Model CL-600-2B19 (Regional Jet Series 440) (Transport Category), Approved November 30, 2001, by the FAA and October 4, 
+ 2001 by Transport Canada",
+Engines,"Two General Electric CF-34-3A1 or 
+ Two General Electric CF-34-3B1 
+ Engines may be intermixed in accordance with AFM as listed in Approved Publications."
+Fuel,"Type 
+ Specifications 
+ Canada 
+ U.S.A. 
+ U.K. 
+ China 
+ CIS/Ukraine 
+ NATO 
+ Jet A 
+ CGSB-3.23 
+ ASTM 
+ - 
+ - 
+ - 
+ - 
+ D1655 
+ Jet A-1 
+ CGSB-3.23 
+ ASTM 
+ DEF STAN 
+ GB6537-2006 
+ TS-1* or RT 
+ F-35 
+ D1655 
+ 91-91 
+ No. 3 Jet 
+ Grade JP-5 
+ CGSB-3.24 
+ MIL-DTL- 
+ DEF STAN 
+ - 
+ - 
+ F-44 
+ 5624 
+ 91-86 
+ Grade JP-8 
+ CGSB-3.24 
+ MIL-DTL- 
+ DEF STAN 
+ - 
+ - 
+ F-34 
+ 83133 
+ 91-87 
+ Jet B 
+ CAN2-3.22 
+ ASTM 
+ D. Eng. 
+ - 
+ - 
+ - 
+ D6615 
+ RD2486 
+ Grade JP-4 
+ CAN2-3.22 
+ MIL-DTL- 
+ D. Eng. 
+ - 
+ - 
+ - 
+ 5624 
+ RD2454 
+ *Refer to appropriate AFM listed in Approved Publication section when using TS-1."
+Oil,"Engine, APU and IDG: 
+ MIL-L-7808 (Type I) or MIL-L-23699 (Type II) or CASTROL 4000. * 
+ * Mixing of different types of oils is prohibited."
+Engine Limits,"Fan RPM 
+ Core RPM 
+ ITT 
+ Time Limit"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20"
+Rev No,"3 
+ IR 
+ IR 
+ IR 
+ IR 
+ IR 
+ IR 
+ IR 
+ IR 
+ IR 
+ IR 
+ 2 
+ IR 
+ IR 
+ IR 
+ IR 
+ IR 
+ IR 
+ IR 
+ IR"
+Page No,"21 
+ 22 
+ 23 
+ 24 
+ 25"
+Rev No,"IR 
+ IR 
+ 3 
+ 2 
+ 2"
+Rev No,"%N1 
+ %N2 
+ °C 
+ °F 
+ (Min) 
+ Max. takeoff (APR operating) 
+ 98.6 
+ 99.4 
+ 900 
+ 1650 
+ 5*** 
+ 928 
+ 1702 
+ 2* 
+ Normal takeoff 
+ 96.2 
+ 98.2 
+ 884 
+ 1623 
+ 5*** 
+ - 
+ 900 
+ 1650 
+ 2* 
+ Max. Continuous 
+ 98.6 
+ 99.2 
+ 860/874 
+ 1580/1605 
+ - 
+ (3A1/3B1) 
+ (3A1/3B1) 
+ Idle Range 
+ - 
+ 56.5 to 68.0** 
+ - 
+ - 
+ - 
+ Acceleration 
+ - 
+ - 
+ 900 
+ 1652 
+ - 
+ Starting 
+ - 
+ 20.0 
+ 900 
+ 1652 
+ - 
+ * 2 minutes out of 5 total transient. 
+ ** Refer to Idle Speed Limit Chart in the AFM 
+ If N2 idle RPM is more than 2% lower, do not advance thrust lever above 70% N2 until N2 idle RPM has 
+ stabilized to within normal limits. 
+ *** Transient limits. 
+ NOTE: Above 40000 feet, one air conditioning unit or cowl anti-ice must be selected on for each engine"
+Oil Temperature,"°C 
+ °F 
+ Maximum Permissible (15 minutes Maximum) 
+ +163 
+ 325 
+ Maximum Continuous 
+ +155 
+ 311 
+ Minimum for Starting 
+ -40 
+ -40"
+Oil Pressure,"Maximum Transient (after cold start) 
+ 156 psi (130 psi at idle, 10 minutes maximum)* 
+ Maximum Continuous 
+ 115 psi maximum 
+ Take-off Power 
+ 45 psi minimum 
+ Steady State Idle 
+ 25 psi minimum 
+ * Engine must remain at idle until oil pressure returns to normal range."
+APU,GARRETT GTCP-36-150RJ
+APU Limits,"Maximum RPM 
+ 107% 
+ Maximum EGT: 
+ °C 
+ °F 
+ Starting 
+ 974 
+ 1785* 
+ Running 
+ 743 
+ 1369 
+ * Not to be exceeded under any operating condition."
+Airspeed Limits CAS,"Vmo and Mmo (maximum operating) 
+ m.p.h. 
+ Knots 
+ Mach 
+ Sea Level to 8000 ft. 
+ 380 
+ 330 
+ - 
+ 8000 ft. to 25400 ft. 
+ 386 
+ 335 
+ - 
+ 25400 ft. to 28300 ft. 
+ - 
+ - 
+ 0.80 
+ 28300 ft. to 31400 ft. 
+ 362 
+ 315 
+ - 
+ 31400 ft. to 41000 ft. 
+ - 
+ - 
+ 0.85 
+ Vfe (Flaps extended) 
+ 8° 
+ 265 
+ 230 
+ - 
+ 20° 
+ 265 
+ 230 
+ - 
+ 30° 
+ 226 
+ 196 
+ - 
+ 45° 
+ 220 
+ 191 
+ - 
+ Va (maneuvering) 
+ (See AFM for variation of Va with altitude and aircraft weight). 
+ V1o (Landing Gear Operation) 
+ Extending 
+ 288 
+ 250 
+ - 
+ Retracting 
+ 230 
+ 200 
+ - 
+ V1e (Landing Gear Extended) 
+ 288 
+ 250 
+ -"
+CG Range,Refer to AFM (CSP A-012) for detail CG limits.
+Datum,"Fuselage station 0, located 375 inches forward of weighing datum jig point."
+Mean Aerodynamic Chord,99.43 inches (MAC leading edge at fuselage sta. 494.793)
+Leveling Means,"Target plate and plumb bob bracket within rear fuselage, at fuselage station 718.75. 
+ Type Spec. 
+ Option 
+ Option 
+ Option 
+ Option 
+ Option"
+Maximum Weights,"lb. 
+ lb. 
+ lb. 
+ lb. 
+ lb. 
+ lb. 
+ Ramp 
+ 47700 
+ 51250 
+ 51250 
+ 53250 
+ 53250 
+ 53250 
+ Takeoff 
+ 47450 
+ 51000 
+ 51000 
+ 53000 
+ 53000 
+ 53000 
+ Landing 
+ 44700 
+ 46750 
+ 47000 
+ 46750 
+ 47000 
+ 47000 
+ Zero Fuel 
+ 42200 
+ 44000 
+ 44000 
+ 44000 
+ 44000 
+ 39500 
+ Minimum flight weight 
+ 30000 
+ 30000 
+ 30000 
+ 30000 
+ 30000 
+ 30000 
+ NOTE: The maximum take-off weight and/or maximum landing weight may be further limited due to 
+ performance considerations (refer to Airplane Flight Manual)."
+Minimum Crew,Two (Pilot and Co-pilot)
+Maximum Occupants,"Series 100 - Fifty-five (55) (including 50 passengers, 4 crew, and 1 flight observer) 
+ Series 440 - Forty-Nine (49) (including 44 passengers, 4 crew, and 1 flight observer) 
+ CL-600-2B19 Green Aircraft Configuration 
+ Refer to NOTE 4 & 5."
+Fuel Capacity usable,"Load* 
+ Weight* 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 main tanks (each) 
+ 700.0 
+ 582.8 
+ 2159 
+ 4760 
+ Center tank 
+ 735.0 
+ 612.0 
+ 2267 
+ 4998 
+ Total 
+ 2135.0 
+ 1669.6 
+ 6585 
+ 14518 
+ * Pressure refueling (based on 0.8028 kg/L)"
+Oil Capacity,"Load 
+ Weight 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 Engines (each) 
+ 1.70 
+ 1.42 
+ 5.94 
+ 13.09 
+ Total 
+ 3.40 
+ 2.84 
+ 11.88 
+ 26.18 
+ Usable 
+ 2 Engines (each) 
+ 1.38 
+ 1.14 
+ 4.80 
+ 10.59 
+ Total 
+ 2.76 
+ 2.29 
+ 9.60 
+ 21.18"
+Maximum Operating,"Takeoff and landing: 
+ 10000 ft."
+Altitude,"En route: 
+ 41000 ft."
+Control Surface,"Rudder 
+ 33º Left* 
+ 33º Right"
+Movements,"Elevator 
+ 23.6º Up 
+ 18.4º Down 
+ Horizontal Stabilizer 
+ 2º LE Up 
+ -13º LE Down 
+ Aileron 
+ 25º Up 
+ 21.3º Down 
+ Flap 
+ – Inboard 
+ 45.09º Down 
+ – Outboard 
+ 41.58º Down 
+ Flight Spoiler 
+ 50º Up 
+ Ground Spoiler 
+ 45º Up 
+ Spoileron 
+ 50º Up 
+ *Rudder deflections of 33º left and 33º right apply when CF-34-3A1 engines are installed. 
+ *Rudder deflections of 25º left and 25º right apply when optional CF-34-3B1 engines are installed."
+Serial Numbers Eligible,7001 and subsequent
+Service Information,"Service Bulletins, structural repair manuals, and aircraft flight manuals which contain a statement that the 
+ document is Transport Canada approved or Transport Canada approved through the Manufacturers Design 
+ Approval Representative are accepted by the FAA and are considered FAA approved. These approvals 
+ pertain to the type design only. For all weather flight capability, refer to Note 7."
+"II - Model CL-600-2C10 (Regional Jet Series 700, 701, & 702) (Transport Category), Approved February 16, 2001, by the FAA 
+ and December 22, 2000 by Transport Canada.",
+Engines,"Two General Electric CF-34-8C1, or 
+ Two General Electric CF-34-8C5B1 
+ Engines may be intermixed in accordance with AFM as listed in Approved publications"
+Fuel,"Type 
+ Specifications 
+ Canada 
+ U.S.A. 
+ U.K. 
+ China 
+ CIS/Ukraine 
+ NATO 
+ Jet A 
+ CGSB-3.23 
+ ASTM 
+ - 
+ - 
+ - 
+ - 
+ D1655 
+ Jet A-1 
+ CGSB-3.23 
+ ASTM 
+ DEF STAN 
+ GB6537-2006 
+ TS-1* or RT 
+ F-35 
+ D1655 
+ 91-91 
+ No. 3 Jet 
+ Grade JP-5 
+ CGSB-3.24 
+ MIL-DTL- 
+ DEF STAN 
+ - 
+ - 
+ F-44 
+ 5624 
+ 91-86 
+ Grade JP-8 
+ CGSB-3.24 
+ MIL-DTL- 
+ DEF STAN 
+ - 
+ - 
+ F-34 
+ 83133 
+ 91-87 
+ *Refer to appropriate AFM listed in Approved Publication section when using TS-1."
+Oil,"Engine, APU and IDG: 
+ MIL-L-7808 (Type I) or MIL-L-23699 (Type II) or CASTROL 4000. * 
+ * Mixing of different types of oils is prohibited."
+Engine Limits,Refer to Limits Table in the AFM (CSP B-012)
+Oil Temperature,"°C 
+ °F 
+ Maximum Permissible (15 minutes Maximum) 
+ +163 
+ 325 
+ Maximum Continuous 
+ +155 
+ 311 
+ Minimum for Starting 
+ -40 
+ -40"
+Oil Pressure,"Maximum Transient (after cold start) 
+ 156 psi (130 psi at idle, 10 minutes maximum)* 
+ Maximum Continuous 
+ 45-116 psi 
+ Take-off Power 
+ 45-116 psi 
+ Steady State Idle 
+ 25 psi minimum 
+ * Engine must remain at idle until oil pressure returns to normal operating range."
+APU,ALLIED SIGNAL RE220 (RJ)
+APU Limits,"Maximum RPM 
+ 106% 
+ Maximum EGT: 
+ °C 
+ °F 
+ Starting 
+ 692-1038 1274-1900* 
+ Running - Ground 
+ 789 
+ 1452 
+ Running - Flight 
+ 806 
+ 1482 
+ * Dependent upon altitude and temperature. Refer to AFM (CSP B-012) 
+ ** Not to be exceeded under any operating condition. 
+ *** Refer to AFM for detail limitations"
+Airspeed Limits CAS,"Vmo and Mmo (maximum operating) 
+ m.p.h. 
+ Knots 
+ Mach 
+ Sea Level to 8000 ft. 
+ 380 
+ 330 
+ - 
+ 8000 ft. to 25400 ft. 
+ 386 
+ 335 
+ - 
+ 25400 ft. to 28300 ft. 
+ - 
+ - 
+ 0.80 
+ 28300 ft. to 31400 ft. 
+ 362 
+ 315 
+ - 
+ 31400 ft. to 41000 ft. 
+ - 
+ - 
+ 0.85 
+ Vfe (Flaps extended) 
+ 1° 
+ 265 
+ 230 
+ - 
+ 8° 
+ 265 
+ 230 
+ - 
+ 20° 
+ 265 
+ 230 
+ - 
+ 30° 
+ 213 
+ 185 
+ - 
+ 45° 
+ 196 
+ 170 
+ - 
+ Va (maneuvering) 
+ (See AFM for variation of Va with altitude and aircraft weight). 
+ V1o (Landing Gear Operation) 
+ Extending 
+ 253 
+ 220 
+ - 
+ Retracting 
+ 230 
+ 200 
+ - 
+ V1e (Landing Gear Extended) 
+ 253 
+ 220 
+ -"
+CG Range,Refer to AFM (CSP B-012) for detail CG limits.
+Datum,"Fuselage station 0, located 144.0 inches forward of aircraft nose."
+Mean Aerodynamic Chord,133.185 inches (MAC leading edge at fuselage sta. 743.1)
+Leveling Means,"Target plate and plumb bob bracket within rear fuselage, at fuselage station 1145.75"
+Maximum Weights,"Type Spec. 
+ Option 
+ lb. 
+ lb. 
+ Ramp 
+ 73000 
+ 75250 
+ Takeoff 
+ 72750 
+ 75000 
+ Landing 
+ 67000 
+ 67000 
+ Zero Fuel 
+ 62300 
+ 62300 
+ Minimum flight weight 
+ 42000 
+ 42000 
+ NOTE: The maximum take-off weight and/or maximum landing weight may be further limited due to 
+ performance considerations. Refer to Airplane Flight Manual for aircraft eligibility."
+Minimum Crew,Two (Pilot and Co-pilot)
+Maximum Occupants,"Series 700 – 68 or less passengers 
+ Series 701 – 70 passengers 
+ Series 702 – 78 passengers 
+ Plus 5 crew-members (Pilot, Copilot, Observer forward and Aft Flight attendants) 
+ ** For any CL-600-2C10, the maximum passenger capacity may be further limited by the Equivalent Safety 
+ Finding against FAR 25.801 and 25.813 (see Note 13)."
+Fuel Capacity usable,"Load* 
+ Weight* 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 main tanks (each) 
+ 1110 
+ 924.1 
+ 3399 
+ 7493 
+ Center tank 
+ 683 
+ 568.6 
+ 2091 
+ 4610 
+ Total 
+ 2903 
+ 2416.7 
+ 8889 
+ 19596 
+ See Note 1(b) for system fuel 
+ * Pressure refueling (based on 0.809 kg/L) (6.75 lb./U.S. Gal.)"
+Oil Capacity,"With option TS670-79-201 – Engine Oil – No Remote Replenishment System 
+ Load 
+ Weight 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 Engines (each) 
+ 2.6 
+ 2.2 
+ 9.65 
+ 21.2 
+ Total 
+ 5.2 
+ 4.36 
+ 19.30 
+ 42.4 
+ See Note 1(c) for system oil 
+ With option CR670-79-201 – Engine Oil – Remote Replenishment System 
+ Load 
+ Weight 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 Engines (each) 
+ 2.6 
+ 2.2 
+ 9.65 
+ 21.2 
+ Replenishment Tank 
+ 1.6 
+ 1.3 
+ 5.9 
+ 13.0 
+ Total 
+ 6.8 
+ 5.7 
+ 25.2 
+ 55.4 
+ See Note 1(c) for system oil"
+Maximum Operating,"Takeoff and landing: 
+ 8000ft (without Modsum 670T82357)"
+Altitude,"9600ft (with Modsum 670T82357) 
+ En route: 
+ 41000 ft."
+Control Surface,"Rudder 
+ 33º Left* 
+ 33º Right"
+Movements,"Elevator 
+ 23.6º Up 
+ 18.4º Down 
+ Horizontal Stabilizer 
+ 2.0º LE Up 
+ 13.0º LE Down 
+ Aileron 
+ 25.1º Up 
+ 21.3º Down 
+ Flap 
+ – Inboard 
+ 45.0º Down 
+ – Outboard 
+ 41.6º Down 
+ Multi-Function Spoiler 
+ 48.0º Up 
+ Ground Spoiler 
+ 44.9º Up 
+ Slat 
+ 25.0º Down"
+Serial Numbers Eligible,10002 and subsequent
+Service Information,"Service Bulletins, structural repair manuals, and aircraft flight manuals which contain a statement that the 
+ document is Transport Canada approved or Transport Canada approved through the Manufacturers Design 
+ Approval Representative are accepted by the FAA and are considered FAA approved. These approvals 
+ pertain to the type design only."
+"III - Model CL-600-2C11 (Regional Jet Series 550) (Transport Category), Approved September 18, 2019, by the FAA and July 
+ 5, 2019 byTransport Canada. (See NOTE 16)",
+Engines,"Two General Electric CF-34-8C1, or 
+ Two General Electric CF-34-8C5B1 
+ Engines may be intermixed in accordance with AFM as listed in Approved publications"
+Fuel,"Type 
+ Specifications 
+ Canada 
+ U.S.A. 
+ U.K. 
+ China 
+ CIS/Ukraine 
+ NATO 
+ Jet A 
+ CGSB-3.23 
+ ASTM 
+ - 
+ - 
+ - 
+ - 
+ D1655 
+ Jet A-1 
+ CGSB-3.23 
+ ASTM 
+ DEF STAN 
+ GB6537-2006 
+ TS-1* or RT 
+ F-35 
+ D1655 
+ 91-91 
+ No. 3 Jet 
+ Grade JP-5 
+ CGSB-3.24 
+ MIL-DTL- 
+ DEF STAN 
+ - 
+ - 
+ F-44 
+ 5624 
+ 91-86 
+ Grade JP-8 
+ CGSB-3.24 
+ MIL-DTL- 
+ DEF STAN 
+ - 
+ - 
+ F-34 
+ 83133 
+ 91-87 
+ *Refer to appropriate AFM listed in Approved Publication section when using TS-1."
+Oil,"Engine, APU and IDG: 
+ MIL-L-7808 (Type I) or MIL-L-23699 (Type II) or CASTROL 4000. * 
+ * Mixing of different types of oils is prohibited."
+Engine Limits,Refer to Limits Table in the AFM (CSP B-012)
+Oil Temperature,"°C 
+ °F 
+ Maximum Permissible (15 minutes Maximum) 
+ +163 
+ 325 
+ Maximum Continuous 
+ +155 
+ 311 
+ Minimum for Starting 
+ -40 
+ -40"
+Oil Pressure,"Maximum Transient (after cold start) 
+ 156 psi (130 psi at idle, 10 minutes maximum)* 
+ Maximum Continuous 
+ 45-116 psi 
+ Take-off Power 
+ 45-116 psi 
+ Steady State Idle 
+ 25 psi minimum 
+ * Engine must remain at idle until oil pressure returns to normal operating range."
+APU,ALLIED SIGNAL RE220 (RJ)
+APU Limits,"Maximum RPM 
+ 106% 
+ Maximum EGT: 
+ °C 
+ °F 
+ Starting 
+ 692-1038 1274-1900* 
+ Running - Ground 
+ 789 
+ 1452 
+ Running - Flight 
+ 806 
+ 1482 
+ * Dependent upon altitude and temperature. Refer to AFM (CSP B-012) 
+ ** Not to be exceeded under any operating condition. 
+ *** Refer to AFM for detail limitations"
+Airspeed Limits CAS,"Vmo and Mmo (maximum operating) 
+ m.p.h. 
+ Knots 
+ Mach 
+ Sea Level to 8000 ft. 
+ 380 
+ 330 
+ - 
+ 8000 ft. to 25400 ft. 
+ 386 
+ 335 
+ - 
+ 25400 ft. to 28300 ft. 
+ - 
+ - 
+ 0.80 
+ 28300 ft. to 31400 ft. 
+ 362 
+ 315 
+ - 
+ 31400 ft. to 41000 ft. 
+ - 
+ - 
+ 0.85 
+ Vfe (Flaps extended) 
+ 1° 
+ 265 
+ 230 
+ - 
+ 8° 
+ 265 
+ 230 
+ - 
+ 20° 
+ 265 
+ 230 
+ - 
+ 30° 
+ 213 
+ 185 
+ - 
+ 45° 
+ 196 
+ 170 
+ - 
+ Va (maneuvering) 
+ (See AFM for variation of Va with altitude and aircraft weight). 
+ V1o (Landing Gear Operation) 
+ Extending 
+ 253 
+ 220 
+ - 
+ Retracting 
+ 230 
+ 200 
+ - 
+ V1e (Landing Gear Extended) 
+ 253 
+ 220 
+ -"
+CG Range,Refer to AFM (CSP B-012) for detail CG limits.
+Datum,"Fuselage station 0, located 144.0 inches forward of aircraft nose."
+Mean Aerodynamic Chord,133.185 inches (MAC leading edge at fuselage sta. 743.1)
+Leveling Means,"Target plate and plumb bob bracket within rear fuselage, at fuselage station 1145.75"
+Maximum Weights,"Type Spec. 
+ lb. 
+ Ramp 
+ 66000 
+ Takeoff 
+ 65000 
+ Landing 
+ 61000 
+ Zero Fuel 
+ 59000 
+ Minimum flight weight 
+ 42000 
+ NOTE: The maximum take-off weight and/or maximum landing weight may be further limited due to 
+ performance considerations. Refer to Airplane Flight Manual for aircraft eligibility."
+Minimum Crew,Two (Pilot and Co-pilot)
+Maximum Occupants,"50 or less passengers, when fitted with an approved interior 
+ Plus 5 crew-members (Pilot, Copilot, Observer, Forward and Aft Flight attendants)"
+Fuel Capacity usable,"Load* 
+ Weight* 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 main tanks (each) 
+ 1110 
+ 924.1 
+ 3399 
+ 7493 
+ Center tank 
+ 683 
+ 568.6 
+ 2091 
+ 4610 
+ Total 
+ 2903 
+ 2416.7 
+ 8889 
+ 19596 
+ See Note 1(b) for system fuel 
+ * Pressure refueling (based on 0.809 kg/L) (6.75 lb./U.S. Gal.)"
+Oil Capacity,"With option TS670-79-201 – Engine Oil – No Remote Replenishment System 
+ Load 
+ Weight 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 Engines (each) 
+ 2.6 
+ 2.2 
+ 9.65 
+ 21.2 
+ Total 
+ 5.2 
+ 4.36 
+ 19.30 
+ 42.4 
+ See Note 1(c) for system oil 
+ With option CR670-79-201 – Engine Oil – Remote Replenishment System 
+ Load 
+ Weight 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 Engines (each) 
+ 2.6 
+ 2.2 
+ 9.65 
+ 21.2 
+ Replenishment Tank 
+ 1.6 
+ 1.3 
+ 5.9 
+ 13.0 
+ Total 
+ 6.8 
+ 5.7 
+ 25.2 
+ 55.4 
+ See Note 1(c) for system oil"
+Maximum Operating,"Takeoff and landing: 
+ 8000ft (without Modsum 670T82357)"
+Altitude,"9600ft (with Modsum 670T82357) 
+ En route: 
+ 41000 ft."
+Control Surface,"Rudder 
+ 33º Left* 
+ 33º Right"
+Movements,"Elevator 
+ 23.6º Up 
+ 18.4º Down 
+ Horizontal Stabilizer 
+ 2.0º LE Up 
+ 13.0º LE Down 
+ Aileron 
+ 25.1º Up 
+ 21.3º Down 
+ Flap 
+ – Inboard 
+ 45.0º Down 
+ – Outboard 
+ 41.6º Down 
+ Multi-Function Spoiler 
+ 48.0º Up 
+ Ground Spoiler 
+ 44.9º Up 
+ Slat 
+ 25.0º Down"
+Serial Numbers Eligible,10002 and subsequent
+Service Information,"Service Bulletins, structural repair manuals, and aircraft flight manuals which contain a statement that the 
+ document is Transport Canada approved or Transport Canada approved through the Manufacturers Design 
+ Approval Representative are accepted by the FAA and are considered FAA approved. These approvals 
+ pertain to the type design only."
+"IV – Model CL-600-2D15 (Regional Jet Series 705) (Transport Category), Approved May 4, 2005, by the FAA and May 3, 2005 
+ by Transport Canada",
+Engines,"Two General Electric CF34-8C5 or 
+ optional CF34-8C5A1 
+ TC No. E00063EN"
+Fuel,"Type 
+ Specifications 
+ Canada 
+ U.S.A. 
+ U.K. 
+ China 
+ CIS/Ukraine 
+ NATO 
+ Jet A 
+ CGSB-3.23 
+ ASTM 
+ - 
+ - 
+ - 
+ - 
+ D1655 
+ Jet A-1 
+ CGSB-3.23 
+ ASTM 
+ DEF STAN 
+ GB6537-2006 
+ TS-1* or RT 
+ F-35 
+ D1655 
+ 91-91 
+ No. 3 Jet 
+ Grade JP-5 
+ CGSB-3.24 
+ MIL-DTL- 
+ DEF STAN 
+ - 
+ - 
+ F-44 
+ 5624 
+ 91-86 
+ Grade JP-8 
+ CGSB-3.24 
+ MIL-DTL- 
+ DEF STAN 
+ - 
+ - 
+ F-34 
+ 83133 
+ 91-87 
+ *Refer to appropriate AFM listed in Approved Publication section when using TS-1."
+Oil,"Engine, APU and IDG: 
+ MIL-L-7808 (Type I) or MIL-L-23699 (Type II) or CASTROL 4000. * 
+ * Mixing of different types of oils is prohibited."
+Engine Limits,Refer to Limits Table in the AFM (CSP C-012)
+Oil Temperature,"°C 
+ °F 
+ Maximum Permissible (15 minutes Maximum) 
+ +163 
+ 325 
+ Maximum Continuous 
+ +155 
+ 311 
+ Minimum for Starting 
+ -40 
+ -40"
+Oil Pressure,"Maximum Transient (after cold start) 
+ 182 psi (95 psi after 10 minutes) 
+ Maximum Continuous 
+ 45-95 psi 
+ Take-off Power 
+ 45-95 psi 
+ Steady State Idle 
+ 25 psi minimum 
+ * Engine must remain at idle until oil pressure returns to normal operating range."
+APU,ALLIED SIGNAL RE220 (RJ)
+APU Limits,"Maximum RPM 
+ 106% 
+ Maximum EGT: 
+ °C 
+ °F 
+ Starting 
+ 692-1038 1274-1900* 
+ Running - Ground 
+ 789 
+ 1452 
+ Running - Flight 
+ 806 
+ 1482 
+ * Dependent upon altitude and temperature. Refer to AFM (CSP C-012) 
+ ** Not to be exceeded under any operating condition. 
+ *** Refer to AFM for detail limitations"
+Airspeed Limits CAS,"Vmo and Mmo (maximum operating) 
+ m.p.h. 
+ Knots 
+ Mach 
+ Sea Level to 8000 ft. 
+ 380 
+ 330 
+ - 
+ 8000 ft. to 25400 ft. 
+ 386 
+ 335 
+ - 
+ 25400 ft. to 28300 ft. 
+ - 
+ - 
+ 0.80 
+ 28300 ft. to 31400 ft. 
+ 362 
+ 315 
+ - 
+ 31400 ft. to 34000 ft. 
+ - 
+ - 
+ 0.85 
+ 34000 ft. to 41000 ft. 
+ - 
+ - 
+ 0.84 
+ Vfe (Flaps extended) 
+ 1° 
+ 265 
+ 230 
+ - 
+ 8° 
+ 265 
+ 230 
+ - 
+ 20° 
+ 253 
+ 220 
+ - 
+ 30° 
+ 213 
+ 185 
+ - 
+ 45° 
+ 196 
+ 170 
+ - 
+ Va (maneuvering) 
+ (See AFM for variation of Va with altitude and aircraft weight). 
+ V1o (Landing Gear Operation) 
+ Extending 
+ 253 
+ 220 
+ - 
+ Retracting 
+ 230 
+ 200 
+ - 
+ V1e (Landing Gear Extended) 
+ 253 
+ 220 
+ -"
+CG Range,Refer to AFM (CSP C-012) for detail CG limits.
+Datum,"Fuselage station 0, located 144.0 inches forward of aircraft nose."
+Mean Aerodynamic Chord,133.185 inches (MAC leading edge at fuselage sta. 833.1 inches)
+Leveling Means,"Target plate and plumb bob bracket within rear fuselage, at fuselage station 1146.75"
+Maximum Weights,"Type Spec. 
+ Option 
+ Option 
+ lb. 
+ lb. 
+ lb. 
+ Ramp 
+ 80750 
+ 82750 
+ 85000 
+ Takeoff 
+ 80500 
+ 82500 
+ 84500 
+ Landing 
+ 73500 
+ 73500 
+ 75100 
+ Zero Fuel 
+ 70000 
+ 70000 
+ 70750 
+ Minimum flight weight 
+ 45000 
+ 45000 
+ 45000 
+ NOTE: The maximum take-off weight and/or maximum landing weight may be further limited due to 
+ performance considerations. Refer to Airplane Flight Manual for aircraft eligibility."
+Minimum Crew,Two (Pilot and Co-pilot)
+Maximum Occupants,"75 or less passengers 
+ Plus 5 crew-members (Pilot, Copilot, Observer, Forward and Aft Flight attendants)"
+Fuel Capacity usable,"Load* 
+ Weight* 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 main tanks (each) 
+ 1110 
+ 924.1 
+ 3398 
+ 7492 
+ Center tank 
+ 683 
+ 568.6 
+ 2091 
+ 4610 
+ Total 
+ 2903 
+ 2416.7 
+ 8888 
+ 19595 
+ See Note 1(b) for system fuel 
+ * Pressure refueling (based on 0.809 kg/L) (6.75 lb./U.S. Gal.)"
+Oil Capacity,"With option TS670-79-201 – Engine Oil – No Remote Replenishment System 
+ Load 
+ Weight 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 Engines (each) 
+ 2.6 
+ 2.2 
+ 9.65 
+ 21.2 
+ Total 
+ 5.2 
+ 4.36 
+ 19.3 
+ 42.4 
+ See Note 1(c) for system oil 
+ With option CR670-79-201 – Engine Oil – Remote Replenishment System 
+ Load 
+ Weight 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 Engines (each) 
+ 2.6 
+ 2.2 
+ 9.65 
+ 21.2 
+ Replenishment Tank 
+ 1.6 
+ 1.3 
+ 5.9 
+ 13.0 
+ Total 
+ 6.8 
+ 5.7 
+ 25.2 
+ 55.4 
+ See Note 1(c) for system oil"
+Maximum Operating,"Takeoff and landing: 
+ 8000ft (without Modsum 670T82357)"
+Altitude,"9600ft (with Modsum 670T82357) 
+ En route: 
+ 41000 ft."
+Control Surface,"Rudder 
+ 33º Left 
+ 33º Right"
+Movements,"Elevator 
+ 23.6º Up 
+ 18.4º Down 
+ Horizontal Stabilizer 
+ 2.0º LE Up 
+ 13º LE Down 
+ Aileron 
+ 25.1º Up 
+ 21.3º Down 
+ Flap 
+ – Inboard 
+ 45.0 º Down 
+ – Outboard 
+ 41.6º Down 
+ Multi-Function Spoiler 
+ 48.0º Up 
+ Ground Spoiler 
+ 44.9º Up 
+ Slat 
+ 25.0º Down"
+Serial Numbers Eligible,15001 and subsequent
+Service Information,"Service Bulletins, structural repair manuals, and aircraft flight manuals which contain a statement that the 
+ document is Transport Canada approved or Transport Canada approved through the Manufacturers Design 
+ Approval Representative are accepted by the FAA and are considered FAA approved. These approvals 
+ pertain to the type design only."
+"V – Model CL-600-2D24 (Regional Jet Series 900) (Transport Category), Approved October 25,-2002, by the FAA and September 
+ 9 2002 by Transport Canada",
+Engines,"Two General Electric CF34-8C5 or 
+ optional CF34-8C5A1 
+ TC No. E00063EN"
+Fuel,"Type 
+ Specifications 
+ Canada 
+ U.S.A. 
+ U.K. 
+ China 
+ CIS/Ukraine 
+ NATO 
+ Jet A 
+ CGSB-3.23 
+ ASTM 
+ - 
+ - 
+ - 
+ - 
+ D1655 
+ Jet A-1 
+ CGSB-3.23 
+ ASTM 
+ DEF STAN 
+ GB6537-2006 
+ TS-1* or RT 
+ F-35 
+ D1655 
+ 91-91 
+ No. 3 Jet 
+ Grade JP-5 
+ CGSB-3.24 
+ MIL-DTL- 
+ DEF STAN 
+ - 
+ - 
+ F-44 
+ 5624 
+ 91-86 
+ Grade JP-8 
+ CGSB-3.24 
+ MIL-DTL- 
+ DEF STAN 
+ - 
+ - 
+ F-34 
+ 83133 
+ 91-87 
+ *Refer to appropriate AFM listed in Approved Publication section when using TS-1."
+Oil,"Engine, APU and IDG: 
+ MIL-L-7808 (Type I) or MIL-L-23699 (Type II) or CASTROL 4000. * 
+ * Mixing of different types of oils is prohibited."
+Engine Limits,Refer to Limits Table in the AFM (CSP C-012)
+Oil Temperature,"°C 
+ °F 
+ Maximum Permissible (15 minutes Maximum) 
+ +163 
+ 325 
+ Maximum Continuous 
+ +155 
+ 311 
+ Minimum for Starting 
+ -40 
+ -40"
+Oil Pressure,"Maximum Transient (after cold start) 
+ 182 psi (95 psi after 10 minutes) 
+ Maximum Continuous 
+ 45-95 psi 
+ Take-off Power 
+ 45-95 psi 
+ Steady State Idle 
+ 25 psi minimum 
+ * Engine must remain at idle until oil pressure returns to normal operating range."
+APU,ALLIED SIGNAL RE220 (RJ)
+APU Limits,"Maximum RPM 
+ 106% 
+ Maximum EGT: 
+ °C 
+ °F 
+ Starting 
+ 692-1038 1274-1900 
+ Running – Ground* 
+ 789 
+ 1452 
+ Running – Flight* 
+ 806 
+ 1482 
+ * Dependent upon altitude and temperature. Refer to AFM (CSP C-012) 
+ ** Not to be exceeded under any operating condition. 
+ *** Refer to AFM for detail limitations"
+Airspeed Limits CAS,"Vmo and Mmo (maximum operating) 
+ m.p.h. 
+ Knots 
+ Mach 
+ Sea Level to 8000 ft. 
+ 380 
+ 330 
+ - 
+ 8000 ft. to 25400 ft. 
+ 386 
+ 335 
+ - 
+ 25400 ft. to 28300 ft. 
+ - 
+ - 
+ 0.80 
+ 28300 ft. to 31400 ft. 
+ 362 
+ 315 
+ - 
+ 31400 ft. to 34000 ft. 
+ - 
+ - 
+ 0.85 
+ 34000 ft. to 41000 ft. 
+ - 
+ - 
+ 0.85 
+ 34000 ft. to 41000 ft. 
+ - 
+ - 
+ 0.84* 
+ Vfe (Flaps extended) 
+ 1° 
+ 265 
+ 230 
+ - 
+ 8° 
+ 265 
+ 230 
+ - 
+ 20° 
+ 253 
+ 220 
+ - 
+ 30° 
+ 213 
+ 185 
+ - 
+ 45° 
+ 196 
+ 170 
+ - 
+ Va (maneuvering) 
+ (See AFM for variation of Va with altitude and aircraft weight). 
+ *with the incorporation of M/S 690T002727 – Introduction of new winglet 
+ V1o (Landing Gear Operation) 
+ Extending 
+ 253 
+ 220 
+ - 
+ Retracting 
+ 230 
+ 200 
+ - 
+ V1e (Landing Gear Extended) 
+ 253 
+ 220 
+ -"
+CG Range,Refer to AFM (CSP C-012) for detail CG limits.
+Datum,"Fuselage station 0, located 144.0 inches forward of aircraft nose."
+Mean Aerodynamic Chord,133.185 inches (MAC leading edge at fuselage sta. 833.1 inches)
+Leveling Means,"Target plate and plumb bob bracket within rear fuselage, at fuselage station 1146.75"
+Maximum Weights,"Type Spec. 
+ Option 
+ Option 
+ lb. 
+ lb. 
+ lb. 
+ Ramp 
+ 80750 
+ 82750 
+ 85000 
+ Takeoff 
+ 80500 
+ 82500 
+ 84500 
+ Landing 
+ 73500 
+ 73500 
+ 75100 
+ Zero Fuel 
+ 70000 
+ 70000 
+ 70750 
+ Minimum flight weight 
+ 45000 
+ 45000 
+ 45000 
+ NOTE: The maximum take-off weight and/or maximum landing weight may be further limited due to 
+ performance considerations. Refer to Airplane Flight Manual for aircraft eligibility."
+Minimum Crew,Two (Pilot and Co-pilot)
+Maximum Occupants,"90 or less passengers 
+ Plus 5 crew-members (Pilot, Copilot, Observer, Forward and Aft Flight attendants) 
+ **For any CL-600-2D24, the maximum passenger capacity may be further limited (see Note 19)."
+Fuel Capacity usable,"Load* 
+ Weight* 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 main tanks (each) 
+ 1110 
+ 924.1 
+ 3398 
+ 7492 
+ Center tank 
+ 683 
+ 568.6 
+ 2091 
+ 4610 
+ Total 
+ 2903 
+ 2416.7 
+ 8888 
+ 19595 
+ See Note 1(b) for system fuel 
+ * Pressure refueling (based on 0.809 kg/L) (6.75 lb./U.S. Gal.)"
+Oil Capacity,"With option TS670-79-201 – Engine Oil – No Remote Replenishment System 
+ Load 
+ Weight 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 Engines (each) 
+ 2.6 
+ 2.2 
+ 9.65 
+ 21.2 
+ Total 
+ 5.2 
+ 4.36 
+ 19.3 
+ 42.4 
+ See Note 1(c) for system oil 
+ With option CR670-79-201 – Engine Oil – Remote Replenishment System 
+ Load 
+ Weight 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 Engines (each) 
+ 2.6 
+ 2.2 
+ 9.65 
+ 21.2 
+ Replenishment Tank 
+ 1.6 
+ 1.3 
+ 5.9 
+ 13.0 
+ Total 
+ 6.8 
+ 5.7 
+ 25.2 
+ 55.4 
+ See Note 1(c) for system oil"
+Maximum Operating,"Takeoff and landing: 
+ 8000ft (without Modsum 670T82357)"
+Altitude,"9600ft (with Modsum 670T82357) 
+ En route: 
+ 41000 ft."
+Control Surface,"Rudder 
+ 33º Left 
+ 33º Right"
+Movements,"Elevator 
+ 23.6º Up 
+ 18.4º Down 
+ Horizontal Stabilizer 
+ 2.0º LE Up 
+ 13º LE Down 
+ Aileron 
+ 25.1º Up 
+ 21.3º Down 
+ Flap 
+ – Inboard 
+ 45.0 º Down 
+ – Outboard 
+ 41.6º Down 
+ Multi-Function Spoiler 
+ 48.0º Up 
+ Ground Spoiler 
+ 44.9º Up 
+ Slat 
+ 25.0º Down"
+Serial Numbers Eligible,15001 and subsequent
+Service Information,"Service Bulletins, structural repair manuals, and aircraft flight manuals which contain a statement that the 
+ document is Transport Canada approved or Transport Canada approved through the Manufacturers Design 
+ Approval Representative are accepted by the FAA and are considered FAA approved. These approvals 
+ pertain to the type design only."
+"VII – Model CL-600-2E25 (Regional Jet Series 1000) (Transport Category), Approved December 17, 2010 by the FAA and 
+ November 1, 2010 by Transport Canada.",
+Engines,"Two General Electric CF34-8C5 or 
+ optional CF34-8C5A1 
+ optional CF34-8C5A2 
+ TC No. E00063EN"
+Fuel,"Type 
+ Specifications 
+ Canada 
+ U.S.A. 
+ U.K. 
+ China 
+ CIS/Ukraine 
+ NATO 
+ Jet A 
+ CGSB-3.23 
+ ASTM 
+ - 
+ - 
+ - 
+ - 
+ D1655 
+ Jet A-1 
+ CGSB-3.23 
+ ASTM 
+ DEF STAN 
+ GB6537-94 
+ TS-1* or RT 
+ F-35 
+ D1655 
+ 91-91 
+ No. 3 Jet 
+ Grade JP-5 
+ CGSB-3.24 
+ MIL-DTL- 
+ DEF STAN 
+ - 
+ - 
+ F-44 
+ 5624 
+ 91-86 
+ Grade JP-8 
+ CGSB-3.24 
+ MIL-DTL- 
+ DEF STAN 
+ - 
+ - 
+ F-34 
+ 83133 
+ 91-87 
+ *Refer to appropriate AFM listed in Approved Publication section when using TS-1."
+Oil,"Engine, APU and IDG: 
+ MIL-L-7808 (Type I) or MIL-L-23699 (Type II) or CASTROL 4000. * 
+ * Mixing of different types of oils is prohibited."
+Engine Limits,Refer to Limits Table in the AFM (CSP D-012)
+Oil Temperature,"°C 
+ °F 
+ Maximum Permissible (15 minutes Maximum) 
+ +163 
+ 325 
+ Maximum Continuous 
+ +155 
+ 311 
+ Minimum for Starting 
+ -40 
+ -40"
+Oil Pressure,"Maximum Transient (after cold start) 
+ 182 psi (95 psi after 10 minutes) 
+ Maximum Continuous 
+ 45-95 psi 
+ Take-off Power 
+ 45-95 psi 
+ Steady State Idle 
+ 25 psi minimum 
+ * Engine must remain at idle until oil pressure returns to normal operating range."
+APU,ALLIED SIGNAL RE220 (RJ)
+APU Limits,"Maximum RPM 
+ 106% 
+ Maximum EGT: 
+ °C 
+ °F 
+ Starting 
+ 692-1038 1274-1900 
+ Running – Ground* 
+ 789 
+ 1452 
+ Running – Flight* 
+ 806 
+ 1482 
+ * Dependent upon altitude and temperature. Refer to AFM (CSP D-012) 
+ ** Not to be exceeded under any operating condition. 
+ *** Refer to AFM for detail limitations"
+Airspeed Limits CAS,"Vmo and Mmo (maximum operating) 
+ m.p.h. 
+ Knots 
+ Mach 
+ Sea Level to 8000 ft. 
+ 380 
+ 330 
+ - 
+ 8000 ft. to 25400 ft. 
+ 386 
+ 335 
+ - 
+ 25400 ft. to 28300 ft. 
+ - 
+ - 
+ 0.80 
+ 28300 ft. to 31400 ft. 
+ 362 
+ 315 
+ - 
+ 31400 ft. to 41000 ft. 
+ - 
+ - 
+ 0.84 
+ Vfe (Flaps extended) 
+ 1° 
+ 265 
+ 230 
+ - 
+ 8° 
+ 265 
+ 230 
+ - 
+ 20° 
+ 253 
+ 220 
+ - 
+ 30° 
+ 213 
+ 185 
+ - 
+ 45° 
+ 196 
+ 170 
+ - 
+ Va (maneuvering) 
+ (See AFM for variation of Va with altitude and aircraft weight). 
+ V1o (Landing Gear Operation) 
+ Extending 
+ 253 
+ 220 
+ - 
+ Retracting 
+ 230 
+ 200 
+ - 
+ V1e (Landing Gear Extended) 
+ 253 
+ 220 
+ -"
+CG Range,Refer to AFM (CSP D-012) for detail CG limits.
+Datum,"Xarm 0, located 144.0 inches forward of aircraft nose"
+Mean Aerodynamic Chord,137.020 inches (MAC leading edge at Xarm 900.257 inches)
+Leveling Means,"Target plate and plumb bob bracket within rear fuselage, at fuselage station 1146.75"
+Maximum Weights,"Type Spec. 
+ Option 
+ Option 
+ Option 
+ Option 
+ lb. 
+ lb. 
+ lb. 
+ lb. 
+ lb. 
+ Ramp 
+ 90500 
+ 92300 
+ 88673 
+ 90878 
+ 86469 
+ Takeoff 
+ 90000 
+ 91800 
+ 88173 
+ 90378 
+ 85969 
+ Landing 
+ 81500 
+ Zero Fuel 
+ 77500 
+ Minimum flight weight 
+ 51000 
+ NOTE: The maximum take-off weight and/or maximum landing weight may be further limited due to 
+ performance considerations. Refer to Airplane Flight Manual for aircraft eligibility."
+Minimum Crew,Two (Pilot and Co-pilot)
+Maximum Occupants,"110, including 6 crew members (1 Pilot, 1 Co-pilot, 1 observer and 3 Flight Attendants) (104 passengers 
+ when fitted with an approved interior)"
+Fuel Capacity usable,"Load* 
+ Weight* 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 main tanks (each) 
+ 1113 
+ 926.8 
+ 3407 
+ 7513 
+ Center tank 
+ 710 
+ 591.2 
+ 2174 
+ 4793 
+ Total 
+ 2936 
+ 2444.7 
+ 8989 
+ 19818 
+ See Note 1(b) for system fuel 
+ * Pressure refueling (based on 0.809 kg/L) (6.75 lb./U.S. Gal.)"
+Oil Capacity,"With option TS670-79-201 – Engine Oil – No Remote Replenishment System 
+ Load 
+ Weight 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 Engines (each) 
+ 2.6 
+ 2.2 
+ 9.65 
+ 21.2 
+ Total 
+ 5.2 
+ 4.36 
+ 19.3 
+ 42.4 
+ See Note 1(c) for system oil 
+ With option CR670-79-201 – Engine Oil – Remote Replenishment System 
+ Load 
+ Weight 
+ U.S. Gal 
+ Imp. Gal. 
+ Kg. 
+ lb. 
+ 2 Engines (each) 
+ 2.6 
+ 2.2 
+ 9.65 
+ 21.2 
+ Replenishment Tank 
+ 1.6 
+ 1.3 
+ 5.9 
+ 13.0 
+ Total 
+ 6.8 
+ 5.7 
+ 25.2 
+ 55.4 
+ See Note 1(c) for system oil"
+Maximum Operating,"Takeoff and landing: 
+ 10000 ft."
+Altitude,"En route: 
+ 41000 ft."
+Control Surface,"Rudder 
+ 33º Left 
+ 33º Right"
+Movements,"Elevator 
+ 23.6º Up 
+ 18.4º Down 
+ Horizontal Stabilizer 
+ 2.0º LE Up 
+ 13.0º LE Down 
+ Aileron 
+ 24.1º Up 
+ 20.3º Down 
+ Flap 
+ – Inboard 
+ 45.0 º Down 
+ – Outboard 
+ 34.0º Down 
+ Multi-Function Spoiler 
+ 48.0º Up 
+ Ground Spoiler 
+ 44.0º Up 
+ Slat 
+ 25.0º Down"
+Serial Numbers Eligible,19013 and subsequent (see NOTE 11)
+Service Information,"Service Bulletins, structural repair manuals, and aircraft flight manuals which contain a statement that the 
+ document is Transport Canada approved or Transport Canada approved through the Manufacturers Design 
+ Approval Representative are accepted by the FAA and are considered FAA approved. These approvals 
+ pertain to the type design only. 
+ Data Pertinent to all Models"
+Approved Publications,"Model CL-600-2B19 
+ (a) 
+ Airplane Flight Manual, Canadair Publication CSP A-012 for the appropriate weight 
+ configuration and approved revisions. 
+ (b) 
+ Maintenance Review Board (MRB) Report and subsequent revisions as contained in the 
+ Maintenance Requirements Manual (MRM), Canadair Publication CSP A-053, Part 2 and 
+ subsequent approved revisions. 
+ (c) 
+ Structural Repair Manual (SRM), Canadair Publication CSP A-008 and subsequent approved 
+ issues. 
+ (d) 
+ Certification Maintenance Tasks, Canadair Regional Jet, Model CL-600-2B19 Engineering 
+ Report No. RBR-601R-167, as contained in Part 2 to the Maintenance Requirements Manual 
+ (MRM), Canadair Publication CSP A-053, and subsequent approved revisions. 
+ Model CL-600-2C10 
+ (a) 
+ Airplane Flight Manual, Canadair Publication CSP B-012 for the appropriate weight 
+ configuration and approved revisions. 
+ (b) 
+ Maintenance Review Board (MRB) Report and subsequent revisions as contained in the 
+ Maintenance Requirements Manual (MRM), Canadair Publication CSP B-053, Part I and 
+ subsequent approved revisions. 
+ (c) 
+ Structural Repair Manual (SRM), Canadair Publication CSP B-008 and subsequent approved 
+ issues. 
+ (d) 
+ Airworthiness Limitations and Certification Maintenance Tasks, as contained in the 
+ Maintenance Requirements Manual (MRM), Canadair Publication CSP B-053, Part II and 
+ subsequent approved revisions. 
+ Model CL-600-2C11 
+ (a) 
+ Airplane Flight Manual, Canadair Publication CSP B-012, revision 28 dated September 18, 
+ 2019 or later approved revisions for the appropriate weight configuration and approved 
+ revisions. 
+ (b) 
+ Maintenance Review Board (MRB) Report and subsequent revisions as contained in the 
+ Maintenance Requirements Manual (MRM), Canadair Publication CSP B-053, Part I, revision 
+ 21 dated July 25, 2019 and subsequent approved revisions. 
+ (c) 
+ Structural Repair Manual (SRM), Canadair Publication CSP B-008, revision 37 dated August 
+ 15, 2019 and subsequent approved revisions. 
+ (d) 
+ Airworthiness Limitations and Certification Maintenance Tasks, as contained in the 
+ Maintenance Requirements Manual (MRM), Canadair Publication CSP B-053, Part II, revision 
+ 21 dated July 25, 2019 and subsequent approved revisions. 
+ Model CL-600-2D15/CL-600-2D24 
+ (a) 
+ Airplane Flight Manual, Canadair Publication CSP C-012 for the appropriate weight 
+ configuration and approved revisions. 
+ (b) 
+ Maintenance Review Board (MRB) Report and subsequent revisions as contained in the 
+ Maintenance Requirements Manual (MRM), Canadair Publication CSP B-053, Part I and 
+ subsequent approved revisions. 
+ (c) 
+ Structural Repair Manual (SRM), Canadair Publication CSP B-008 and subsequent approved 
+ issues. 
+ (d) 
+ Airworthiness Limitations and Certification Maintenance Tasks, as contained in the 
+ Maintenance Requirements Manual (MRM), Canadair Publication CSP B-053, Part II and 
+ subsequent approved revisions. 
+ Model CL-600-2E25 
+ (a) 
+ Airplane Flight Manual, Canadair Publication CSP D-012 for the appropriate weight 
+ configuration and approved revisions. 
+ (b) 
+ Maintenance Review Board (MRB) Report and subsequent revisions as contained in the 
+ Maintenance Requirements Manual (MRM), Canadair Publication CSP B-053, Part I and 
+ subsequent approved revisions. 
+ (c) 
+ Structural Repair Manual (SRM), Canadair Publication CSP D-008 and subsequent approved 
+ issues. 
+ (d) 
+ Airworthiness Limitations and Certification Maintenance Tasks, as contained in the 
+ Maintenance Requirements Manual (MRM), Canadair Publication CSP B-053, Part II and 
+ subsequent approved revisions."
+Import Eligibility,"A U.S. Airworthiness Certificate may be issued on the basis of the Canadian Department of Transport 
+ ""Certificate of Airworthiness for Export"" signed by the Minister of Transport. This form must contain 
+ the following statement: 
+ (a) 
+ Model CL-600-2B19 
+ ""This certifies that the aircraft described below has been manufactured in conformity with data 
+ forming the basis for the Transport Canada Type Approval No. A-276 and includes the 
+ minimum type design defined in document RAZ-601R-111 as being required to comply with 
+ the basis for the FAA Type Certificate No. A21EA-1"". 
+ The approved type design appropriate to the ""as delivered"" configuration of a particular CL- 
+ 600-2B19 airplane is defined in the document RAL-601R-XXXX. (XXXX represents the 
+ Serial Number for the airplane concerned). 
+ Model CL-600-2B19 Green Configuration 
+ For CL-600-2B19 Green Configuration and associated modifications refer to NOTE 4. 
+ (b) 
+ Model CL-600-2C10/CL-600-2C11 
+ ""This certifies that the aircraft described below has been manufactured in conformity with data 
+ forming the basis for the Transport Canada Type Approval No. A-276 and includes the 
+ minimum type design defined in document RAL-670-0001 and RAL-670-0002 as being 
+ required to comply with the basis for the FAA Type Certificate No. A21EA-1"" 
+ The approved type design appropriate to the ""as delivered"" configuration of a particular CL- 
+ 600-2C10/CL-600-2C11 airplane is defined in the document RAL-670-XXXX for S/N 10002 
+ to 10132 and RAL-BA670-XXXX for S/N 10133 and subsequent. (XXXX represents the Serial 
+ Number for the airplane concerned). 
+ (c) 
+ Model CL-600-2D15/CL-600-2D24 
+ ""This certifies that the aircraft described below has been manufactured in conformity with data 
+ forming the basis for the Transport Canada Type Approval No. A-276 and includes the 
+ minimum type design defined in document RAZ-BA690-129 as being required to comply with 
+ the basis for the FAA Type Certificate No. A21EA-1"". 
+ The approved type design appropriate to the ""as delivered"" configuration of a particular CL- 
+ 600-2D15/CL-600-2D24 airplane is defined in the document RAL-690-XXXX for S/N 15001 
+ to 15013 and RAL-BA690-XXXX for S/N 15014 and subsequent. (XXXX represents the Serial 
+ Number for the airplane concerned). 
+ (d) 
+ Model CL-600-2E25 
+ ""This certifies that the aircraft described below has been manufactured in conformity with data 
+ forming the basis for the Transport Canada Type Approval No. A-276 and includes the 
+ minimum type design defined in document RAZ-BA698-009 as being required to comply with 
+ the basis for the FAA Type Certificate No. A21EA-1"". 
+ The approved type design appropriate to the ""as delivered"" configuration of a particular CL- 
+ 600-2E25 airplane is defined in the document RAL-BA698-19XXX. (19XXX represents the 
+ Serial Number for the airplane concerned)."
+Certification Basis,"Model CL-600-2B19 
+ 14 CFR Part 25 dated February 1, 1965, including Amendments 25-1 through 25-62 with the 
+ following exceptions; 
+ 14 CFR 25.109 at Amendment 25-41, 
+ 14 CFR 25.832 not included, 
+ 14 CFR 25.1401 at Amendment 25-40, 
+ 14 CFR 25.1438 not included and 
+ 14 CFR 25.783(f) at Amendment 25-23 for the cargo compartment door, the main avionics 
+ compartment door and the service/emergency door. 
+ 14 CFR 25.773(b)(2) and 25.785(h) at Amendment 25-72. 
+ Model CL-600-2C10/CL-600-2C11 
+ 14 CFR Part 25 dated February 1, 1965, including Amendments 25-1 through 25-86 with the 
+ following exceptions; 
+ 14 CFR 25.783(f) at Amendment 25-23 for the cargo compartment door, the main avionics 
+ compartment door and the service/emergency door. 
+ 14 CFR 25.571 at Amendment 25-96 
+ 14 CFR 25.493 at Amendment 25-97 
+ Model CL-600-2D15/CL-600-2D24 
+ 14 CFR Part 25, including Amendments 25-1 through 25-86, Amendments 25-88 through 
+ Amendments 25-90, and Amendments 25-92 through 25-98 with the following exceptions: 
+ (a) 14 CFR 25.783(f) at Amendment 25-23 shall replace 14 CFR 25.783(f) at Amendment 25-88 for 
+ the Aft Cargo Compartment and Main Avionics Bay Doors only (common doors with CL- 600-2C10 
+ (CRJ700); 
+ (b) 14 CFR 25.807(d)(6) at Amendment 25-72 shall replace 14 CFR 25.807(h) at Amendment 25- 
+ 94; 
+ (c) 14 CFR 25.365, 14 CFR 25.831(a) and 14 CFR 25.1447(c) at Amendment 25-87. 
+ 14 CFR 25 Amendment 25-91 is not included in Type Certification Basis. 
+ Model CL-600-2E25 
+ 14 CFR Part 25 including amendments 25-1 through 25-119 with the following exceptions: 
+ 14 CFR Part 25.415 (rudder system only) at Amdt. 25-72; 
+ 14 CFR Parts 25.772(c) (not applicable);, 
+ 14 CFR Part 25.783(f) at Amdt. 25-23; 
+ 14 CFR Part 25.809 at Amdt. 25-72; 
+ 14 CFR Part 25.831(g) at Amdt. 25-41; 
+ 14 CFR Part 25.841(a) at Amdt. 25-38; 
+ 14 CFR Part 25.1329 at Amdt 25-46; 
+ 14 CFR Part 25.1335 at Amdt 25-41; 
+ and 14 CFR Part 26.33 in lieu of 14 CFR Part 25.981(c) at Amdt 25-102; 
+ Plus the following requirements: 14 CFR Part 25, Appendix J at Amdt. 25-117; 14 CFR Part 25.1317 
+ at Amdt. 25-122 for the Rudder Control System; 14 CFR Part 25.812(h) at Amdt. 25-128; 
+ Additional FAA Requirements 
+ (a) 
+ Model CL-600-2B19 
+ (1) 
+ FAR Part 36 dated December 1, 1969, as amended through Amendments 36-18 
+ inclusive. 
+ Individual airplanes with FAA Approved Aircraft Flight Manual RS-564 installed are 
+ recertified to 14 CFR Part 36 dated December 1, 1969, including Amendments 36-0 thru 
+ 36-31 at Stage 4. 
+ (2) 
+ Applicable portions of 14 CFR 34 (previously codified as SFAR 27). 
+ (3) 
+ Special Conditions: 
+ - High Intensity Radiated Fields (HIRF), No. 25-ANM-61 dated July 22, 1992 
+ - Passenger seats with non-traditional, large, non-metallic panels No. 25-384-SC 
+ dated August 12, 2009 
+ - No. 25-666-SC, Non-Rechargeable Lithium Batteries, effective to design 
+ changes applied for after May 9, 2017. See the applicability section of this 
+ special condition for more information on which design change must meet it. 
+ Date of application for amendment to Type Certificate May 26, 1988. 
+ Type Certificate A21EA amended January 21, 1993. 
+ (b) 
+ Model CL-600-2C10/CL-600-2C11 
+ (1a) FAR Part 36 dated December 1, 1969, as amended through Amendments 36-22 
+ inclusive (CL-600-2C10 Only). 
+ (1b) For both models CL-600-2C10 and CL-600-2C11, individual airplanes with FAA 
+ Approved Aircraft Flight Manual RS-347 installed are recertified to 14 CFR Part 36 
+ dated December 1, 1969, including Amendments 36-0 thru 36-31 at Stage 4. 
+ (2) 
+ Applicable portions of 14 CFR 34 
+ (3) 
+ Special Conditions: 
+ - High Intensity Radiated Fields, No. 25-ANM-109 dated October 31, 1995 
+ - Go-around performance credit for use of automatic power reserve (APR) 
+ No. 25-167-SC dated October 24, 2000. 
+ - Passenger seats with non-traditional, large, non-metallic panels No. 25-384-SC 
+ dated August 12, 2009 
+ - No. 25-666-SC, Non-Rechargeable Lithium Batteries, effective to design 
+ changes applied for after May 9, 2017. See the applicability section of this 
+ special condition for more information on which design change must meet it. 
+ (4) 
+ 14 CFR 25.975 at Amendment 25-143 (See NOTE 15) 
+ CL-600-2C10: 
+ Date of application for amendment to Type Certificate May 6, 1996. 
+ Type Certificate A21EA amended February 16, 2001. 
+ CL-600-2C11: 
+ Date of application for amendment to Type Certificate March 1, 2019. 
+ Type Certificate A21EA amended September 18, 2019. 
+ (c) 
+ Model CL-600-2D15/CL-600-2D24 
+ (1a) 14 CFR Part 36, effective September 10, 1990, and including all amendments effective 
+ on the date of Type Certification. 
+ (1b) 14 CFR Part 36, effective August 7, 2002 (Amendment 36-24) for CL-600-2D24 
+ incorporating conical nozzle with CF-34-8C5 and CF-34-8C5A1 engines. 
+ (1c) For both models CL-600-2D15 and CL-600-2D24, individual airplanes with FAA 
+ Approved Aircraft Flight Manual RS-344 installed are recertified to 14 CFR Part 36 
+ dated December 1, 1969, including Amendments 36-0 thru 36-31 at Stage 4. 
+ (2) 
+ 14 CFR Part 34, effective September 10, 1990, and including all amendments effective 
+ on the date of Type Certification. 
+ (3) Special Conditions: 
+ - High Intensity Radiated Fields, No. 25-ANM-109 dated October 31, 1995 
+ - Go-around performance credit for use of automatic power reserve (APR) 
+ No. 25-167-SC dated October 24, 2000 (same as CL-600-2C10) 
+ - Sudden Engine Stoppage, No. 25-217-SC dated October 04, 2002 
+ - Passenger seats with non-traditional, large, non-metallic panels No. 25-384-SC 
+ dated August 12, 2009 
+ - No. 25-666-SC, Non-Rechargeable Lithium Batteries, effective to design 
+ changes applied for after May 9, 2017. See the applicability section of this 
+ special condition for more information on which design change must meet it. 
+ (4) 
+ Exemption: 
+ Exemption No. 7447 Hydraulic Systems Testing for 14 CFR 25.1435(b)(1) 
+ (5) 
+ 14 CFR 25.975 at Amendment 25-143 (See NOTE 15) 
+ Date of application for amendment to Type Certificate November 1, 1999. 
+ Type Certificate A21EA amended October 31, 2002. 
+ (d) 
+ Model CL-600-2E25 
+ (1) 
+ 14 CFR Part 36 effective September 10, 1990, and including all amendments effective 
+ on the date of Type Certification. 
+ Individual airplanes with FAA Approved Aircraft Flight Manual RS-164 installed are 
+ recertified to 14 CFR Part 36 dated December 1, 1969, including Amendments 36-0 
+ thru 36-31 at Stage 4. 
+ (2) 
+ 14 CFR Part 34, effective September 10, 1990, and including all amendments effective 
+ on the date of Type Certification. 
+ (3) 
+ Special Conditions: 
+ - Interaction of Systems and Structures (for CBW Rudder System), 25-412-SC, 
+ dated November 5, 2010 
+ - Operation Without Normal Electrical Power, 25-413-SC, dated November 5, 
+ 2010 
+ - Limit Torque Loads for Sudden Engine Stoppage, 25-217-SC, dated October 4, 
+ 2002 
+ - Go-around performance credit for use of automatic power reserve (APR) 
+ 25-167-SC, dated October 24, 2000 (same as CL-600-2C10 & CL-600-2D24) 
+ - Passenger seats with non-traditional, large, non-metallic panels, 25-409-SC 
+ dated July 27, 2010 
+ - High Intensity Radiated Fields, 25-ANM-109, dated October 31, 1995, for 
+ changes other than the rudder control system and the unchanged areas. 
+ - No. 25-666-SC, Non-Rechargeable Lithium Batteries, effective to design 
+ changes applied for after May 9, 2017. See the applicability section of this 
+ special condition for more information on which design change must meet it. 
+ (4) 
+ Exemption: 
+ Exemption No 10175, 14 CFR Part 25.981(a)(3) for Structural Lightning Protection 
+ Features. See NOTE 11 
+ Date of application for amendment to Type Certificate Feb 23, 2007. 
+ Type Certificate A21EA amended December 17, 2010. 
+ Equivalent safety has been established for the following requirements: 
+ (a) 
+ CL-600-2B19 
+ (1) 
+ 14 CFR 25.811(d)(2) Emergency Exit Marking Sign 
+ (2) 
+ 14 CFR 25.813(c)(1) Access to Type III exit-seat cushion intrusion 
+ (3) 
+ Several 14 CFR’s for the use of 1-g Stall Speed (nonstructural items) 
+ (4) 
+ 14 CFR 25.621 (c)(2) Overwing Emergency Exit Door Critical Castings, P/N 
+ 601R38685-1, (documented in Transport Airplane Directorate ELOS Memo 
+ TD3995NY-T-A-1) 
+ (5) 
+ 14 CFR 25.1441(c) – Oxygen Quantity Indication of Passenger Lavatory Oxygen 
+ Dispensing Units, documented in Transport Airplane Directorate ELOS Memo 
+ AT07852NY-T-S-1 dated October 14, 2014. 
+ (6) 
+ 14 CFR 25.1443(c) – Minimum Mass Flow of Supplemental Oxygen - Passenger 
+ Lavatory Oxygen Dispensing Units, documented in Transport Airplane Directorate 
+ ELOS Memo AT07852NY-T-S-2 dated October 14, 2014. 
+ (b) 
+ CL-600-2C10/CL-600-2C11 
+ (1) 
+ 14 CFR 25.103 and others Reduced Minimum Operating Speed Factors 
+ (2) 
+ 14 CFR 25.107(e)(1)(iv) Vlof and Vmu 
+ (3) 
+ 14 CFR 25.109 Rejected Takeoff and Landing Performance Criteria 
+ (4) 
+ 14 CFR 25.811(d)(2) Main Door Exit Marking Sign 
+ (5) 
+ 14 CFR 25.813(c)(2)(i) Emergency Exit Access documented in Transport Airplane 
+ Directorate ELOS Memo AT07658NY-T-C-1 dated April 3, 2014. 
+ (6) 
+ 14 CFR 25.904 Performance Credit for Use of APR During Reduced Thrust Takeoff 
+ (7) 
+ 14 CFR 25.933(a)(1)(ii) Thrust Reverser System 
+ (8) 
+ 14 CFR 25 App. I 25.5(b)(4) Lack of On/Off Switch for Automatic Takeoff Thrust 
+ Control System (ATTCS) 
+ (9) 
+ 14 CFR 25.841(b)(6) – High Altitude Takeoff and Landing Operations documented in 
+ Transport Airplane Directorate ELOS Memo AT2587NY-T-S-5. 
+ (10) 14 CFR 25.841 (a) and (b)(6) – High Elevation Airport Operations documented in 
+ Transport Airplane Directorate ELOS Memo TD6802NY-T-S-1. 
+ (11) 14 CFR 25.1441(c) – Oxygen Quantity Indication of Passenger Lavatory Oxygen 
+ Dispensing Units documented in Transport Airplane Directorate ELOS Memo 
+ AT07660NY-T-S-1. 
+ (12) 14 CFR 25.1443(c) – Minimum Mass Flow of Supplemental Oxygen – Passenger 
+ Lavatory Oxygen Dispensing Units documented in Transport Airplane Directorate ELOS 
+ Memo AT07660NY-T-S-2. 
+ (13) 14 CFR 25.807 and 25.813 – Passenger Seating Configuration with Additional 2 
+ Passengers Aft of Overwing Exits, documented in Transport Airplane Directorate ELOS 
+ Memo AT08045NY-T-C-1 (See Note 13). 
+ (c) 
+ CL-600-2D15/CL-600-2D24 
+ (1) 
+ 14 CFR 25.103 and others Reduced Minimum Operating Speed Factors documented in 
+ Transport Airplane Directorate ELOS Memo AT2587NY-T-F-1 dated July 9, 2010. 
+ (2) 
+ 14 CFR 25.811(d)(2) Main Door Exit Marking Sign documented in Transport Airplane 
+ Directorate ELOS Memo AT2587NY-T-SE-1 dated March 25, 2010. 
+ (3) 
+ 14 CFR 25.813(c)(2)(i) Emergency Exit Access documented in Transport Airplane 
+ Directorate ELOS Memo AT07658NY-T-C-2 dated April 3, 2014. 
+ (4) 
+ 14 CFR 25.904 Performance Credit for Use of APR During Reduced Thrust Takeoff 
+ documented in Transport Aiplane Directorate ELOS Memo AT2587NY-T-P-1 dated July 
+ 6, 2010. 
+ (5) 
+ 14 CFR 25.933(a)(1)(ii) Thrust Reverser System documented in Transport Airplane 
+ Directorate ELOS Memo AT2587NY-T-P-2 dated July 6, 2010. 
+ (6) 
+ 14 CFR 25 App. I 25.5(b)(4) Lack of On/Off Switch for Automatic Takeoff Thrust 
+ Control System (ATTCS) documented in Transport Airplane Directorate ELOS Memo 
+ AT2587NY- T-P-5 dated July 6, 2010 
+ (7) 
+ 14 CFR 25.841(b)(6) – High Altitude Takeoff and Landing Operations documented in 
+ Transport Airplane Directorate ELOS Memo AT2587NY-T dated January 31, 2007. 
+ (8) 
+ 14 CFR 25.841 (a) and (b)(6) – High Elevation Airport Operations documented in 
+ Transport Airplane Directorate ELOS Memo TD6802NY-T-S-1 dated July 31, 2013. 
+ (9) 
+ 14 CFR 25.1441(c) – Oxygen Quantity Indication of Passenger Lavatory Oxygen 
+ Dispensing Units documented in Transport Airplane Directorate ELOS Memo 
+ AT07660NY-T-S-1 dated February 10, 2014. 
+ (10) 14 CFR 25.1443(c) – Minimum Mass Flow of Supplemental Oxygen - Passenger 
+ Lavatory Oxygen Dispensing Units documented in Transport Airplane Directorate ELOS 
+ Memo AT07660NY-T-S-2 dated March 6, 2014. 
+ (11) 14 CFR 25.811(g) and 25.812(b)(1) – Symbolic Exit Signs documented in Transport 
+ Standards Branch ELOS Memo AT08649NY-T-CS-1 dated July 5, 2018. (Applicable 
+ to CL-600-2D24 only). 
+ (d) 
+ CL-600-2E25 
+ (1) 
+ 14 CFR 25.107(e)(1) Take-off Speeds documented in Transport Airplane Directorate 
+ ELOS Memo AT5627NY-T-F-2 dated December 24, 2009. 
+ (2) 
+ 14 CFR 25.811(d)(1)&(2) Emergency Exit Marking Sign and Locator documented in 
+ Transport Airplane Directorate ELOS Memo AT5627NY-T-C-4-1 dated September 18, 
+ 2009. 
+ (3) 
+ 14 CFR 25.813(c)(2) Type III Emergency Exit Access documented in Transport Airplane 
+ Directorate ELOS Memo AT5627NY-T-C-4-2 dated September 18, 2009. 
+ (4) 
+ 14 CFR 25.841(b)(6) – Cabin Pressurization – High Altitude Airfield Operations 
+ documented in Transport Airplane Directorate ELOS Memo AT5627NY-T-S-4 dated 
+ December 16, 2010. 
+ (5) 
+ 14 CFR 25.933(a) Thrust Reverser System documented in Transport Airplane Directorate 
+ ELOS Memo AT5627NY-T-P-1 dated November 03, 2010. 
+ (6) 
+ 14 CFR 25.5(b)(4) App. I Lack of On/Off Switch for Automatic Takeoff Thrust Control 
+ System (ATTCS) documented in Transport Airplane Directorate ELOS Memo 
+ AT2587NY- T-P-5 dated July 6, 2010. 
+ (7) 
+ 14 CFR 25.904 App. I Performance credit for use of APR documented in Transport 
+ Airplane Directorate ELOS Memo AT2587NY-T-P-1 dated July 6, 2010 
+ (8) 
+ 14 CFR 25.1441(c) – Oxygen Quantity Indication of Passenger Lavatory Oxygen 
+ Dispensing Units documented in Transport Airplane Directorate ELOS Memo 
+ AT07660NY-T-S-1 dated February 10, 2014. 
+ (9) 
+ 14 CFR 25.1443(c) – Minimum Mass Flow of Supplemental Oxygen - Passenger 
+ Lavatory Oxygen Dispensing Units documented in Transport Airplane Directorate ELOS 
+ Memo AT07660NY-T-S-2 dated March 6, 2014. 
+ Compliance with the following optional requirements has been established for the CL- 600-2B19, CL- 
+ 600-2C10, CL-600-2C11, CL-600-2D15/CL-600-2D24 and CL-600-2E25: 
+ (1) 
+ Ice Protection of 14 CFR 25.1419 
+ (2) 
+ Ditching provisions of 14 CFR 25.801 when the safety equipment requirements of 
+ 14CFR 25.1411 and the ditching equipment requirements of 14 CFR 25.1415 are 
+ satisfied."
+Equipment,"The basic equipment as prescribed in the applicable airworthiness requirements (See 
+ Certification Basis) must be installed in the aircraft for certification. 
+ Model CL-600-2B19"
+Airworthiness and Safety,"Based on 14 CFR § 21.101(g) for changes to TCs, applicable provisions of Part 26 are included in the"
+Improvements for Transport,"certification basis. For any future 14 CFR Part 26 amendments, the holder of this TC must demonstrate"
+Category Airplanes,"compliance with the applicable sections. 
+ Compliance has been found for the following regulations 14 CFR §§ 26.11, 26.33, 26.43, 26.45 and 
+ 26.49. (Amdt.No.26-0, through 26-1) 
+ Model CL-600-2C10/CL-600-2C11 
+ Based on 14 CFR § 21.101(g) for changes to TCs, applicable provisions of Part 26 are included in the 
+ certification basis. For any future 14 CFR Part 26 amendments, the holder of this TC must demonstrate 
+ compliance with the applicable sections. 
+ Compliance has been found for the following regulations 14 CFR §§ 26.11, 26.33, 26.43, 26.45 and 
+ 26.49. (Amdt.No.26-0, through 26-1) 
+ Model CL-600-2D15/CL-600-2D24 
+ Based on 14 CFR § 21.101(g) for changes to TCs, applicable provisions of Part 26 are included in the 
+ certification basis. For any future 14 CFR Part 26 amendments, the holder of this TC must demonstrate 
+ compliance with the applicable sections. 
+ Compliance has been found for the following regulations 14 CFR §§ 26.11, 26.21, 26.33, 26.43, 26.45 
+ and 26.49. (Amdt.No.26-0, through 26-1). 
+ Model CL-600-2E25 
+ Based on 14 CFR § 21.101(g) for changes to TCs, applicable provisions of Part 26 are included in the 
+ certification basis. For any future 14 CFR Part 26 amendments, the holder of this TC must demonstrate 
+ compliance with the applicable sections. 
+ Compliance has been found for the following regulations 14 CFR §§ 26.11, 26.21, 26.33, 26.43, 26.45. 
+ (Amdt.No.26-0, through 26-3)"
+Additional Design Requirements,The following design details or information must be maintained to ensure that an unsafe design
+and Conditions,"condition is not present: 
+ The engines of the CL-600-2C10, CL-600-2C11, CL-600-2D15, CL-600-2D24, and CL-600-2E25 are 
+ able to be restored to a sufficient power/thrust level following an all engines out case, in order to enable 
+ the aircraft to achieve level flight without excessive loss of altitude."
+NOTE 1,"This Aircraft Type Certificate Data Sheet defines a configuration which does not include passenger 
+ provision for the CL-600-2B19 model green configuration, and the CL-600-2C11 model. Carriage of 
+ persons in the cabin is permitted when an approved seating arrangement and related required passenger 
+ provisions are incorporated. For the CL-600-2B19 Green Configuration and associated modifications 
+ refer to NOTE 4 & 5. 
+ (a) 
+ Current weight and balance report including the list of equipment included in the certificated 
+ empty weight, and loading instructions when necessary, must be provided for each aircraft at the 
+ time of original certification. 
+ (b) 
+ Model CL-600-2B19 
+ System fuel, which must be included in the empty weight, is the amount of fuel required to fill 
+ the system plumbing and tank to the undrainable level plus unusable fuel in the fuel tanks. The 
+ total amount of ""system fuel"" is 14.5 U.S. Gal., 97 lb. (arm +494.3). 
+ Model CL-600-2C10/CL-600-2C11 
+ System fuel, which must be included in the empty weight, is the amount of fuel required to fill 
+ the system plumbing and tank to the undrainable level plus unusable fuel in the fuel tanks. The 
+ total amount of ""system fuel"" is 33.8 U.S. Gal., 228.2 lb. (arm +819.7 in). 
+ Model CL-600-2D15/CL-600-2D24 
+ System fuel, which must be included in the empty weight, is the amount of fuel required to fill 
+ the system plumbing and tank to the undrainable level plus unusable fuel in the fuel tanks. The 
+ total amount of ""system fuel"" is 33.8 U.S. Gal., 228.2 lb. (arm+929.3 in). 
+ Model CL-600-2E25 
+ System fuel, which must be included in the empty weight, is the amount of fuel required to fill 
+ the system plumbing and tank to the undrainable level plus unusable fuel in the fuel tanks. The 
+ total amount of ""system fuel"" is 37.5 U.S. Gal., 252.8 lb. (arm +997.6 in). 
+ (c) 
+ Model CL-600-2B19 
+ System oil, which must be included in the empty weight, is the amount of oil necessary for engine 
+ lubrication. The total amount of ""system oil"" is as follows: 
+ 5.83 U.S. gal. (total), 47 lb., (arm +785.67) 
+ Model CL-600-2C10/CL-600-2C11 
+ System oil, which must be included in the empty weight, is the amount of oil required to fill 
+ the system plumbing and tanks. The total amount of ""system oil"" is as follows: 
+ With option TS670-79-201 – Engine Oil – No Remote Replenishment System, 
+ 6.1 U.S. Gal., 49.9 lb. (arm +1077.7 in) 
+ With option CR670-79-201 – Engine Oil – Remote Replenishment System, 
+ 7.8 U.S. Gal., 62.9 lb. (arm +1091.2 in) 
+ Model CL-600-2D15/CL-600-2D24 
+ System oil, which must be included in the empty weight, is the amount of oil required to fill 
+ the system plumbing and tanks. The total amount of ""system oil"" is as follows: 
+ With option TS670-79-201 – Engine Oil – No Remote Replenishment System, 
+ 6.1 U.S. Gal., 49.9 lb. (arm +1229.7 in) 
+ With option CR670-79-201 – Engine Oil – Remote Replenishment System, 
+ 7.8 U.S. Gal., 62.9 lb. (arm +1243.2 in) 
+ Model CL-600-2E25 
+ System oil, which must be included in the empty weight, is the amount of oil required to fill the 
+ system plumbing and tanks. The total amount of ""system oil"" is as follows: 
+ With option TS670-79-201 – Engine Oil – No Remote Replenishment System, 
+ 5.2 U.S. Gal., 42.4 lb. (arm +1345.6 in) 
+ With option CR670-79-201 – Engine Oil – Remote Replenishment System, 
+ 6.8 U.S. Gal., 55.4 lb. (arm +1356.8 in)"
+NOTE 2,"Model CL-600-2B19 
+ All placards must be installed in accordance with Canadair Limited Drawings: 601R47600, 
+ 601R47602, 601R47700. 
+ Note: Customized markings and placards drawings are not included. 
+ Model CL-600-2C10/CL-600-2C11 
+ All placards must be installed in accordance with Canadair Limited Drawings: BA670-47501, 
+ BA670-47506, BA670-47800. Self-illuminated Signs and Electrical Signs must be installed in 
+ accordance with BA670-47802 and BA670-47803. 
+ Note: Customized markings and placards drawings are not included. Drawings noted above are for 
+ basic type certification only. For as-delivered aircraft configurations, refer to customer options listed 
+ in RAL-670-300. 
+ Model CL-600-2D15/CL-600-2D24 
+ All placards must be installed in accordance with the Bombardier Aerospace Drawings: BA690-47500, 
+ BA690-47506, BA690-47804. Self-illuminated Signs and Electrical Signs must be installed in 
+ accordance with BA690-47805 and BA690-47806. 
+ Drawings noted above are for basic type certification only. For as- delivered aircraft configurations, 
+ refer to RAL-690-XXXX for S/N 15001 to 15013, and RAL-BA690-XXXX for S/N 15014 and 
+ subsequent. (XXXX denotes the serial number for the aircraft concerned). 
+ Model CL-600-2E25 
+ All placards must be installed in accordance with the Bombardier Aerospace Drawings: BA670-47850, 
+ BA670-47869, BA690-47504, BA690-47518, BA690-47525, BA690-47526, BA690-47528, BA690- 
+ 47529, BA690-47530, BA698-47203, BA698-47502, BA698-47519, BA698-47800, BA698-47805 
+ and CC698-47251. Self-illuminated Signs and Electrical Signs must be installed in accordance with 
+ BA690-47805 and BA698-47801. 
+ Drawings noted above are for basic type certification only. For as- delivered aircraft configurations, 
+ refer to RAL-BA698-19XXX for S/N 19001 and subsequent. (19XXX denotes the serial number for 
+ the aircraft concerned)."
+NOTE 3,"Model CL-600-2B19 
+ The airplane life limits and repetitive inspections for components and equipment and information 
+ essential for proper maintenance, are listed in Bombardier Document CSP A-053, Part 2. These 
+ limitations may not be changed without FAA Engineering approval. 
+ Model CL-600-2C10/CL-600-2C11 
+ The airplane life limits and repetitive inspections for components and equipment and information 
+ essential for proper maintenance, are listed in Bombardier Document CSP B-053, Part 2. These 
+ limitations may not be changed without FAA Engineering approval. 
+ Model CL-600-2D15/CL-600-2D24 
+ The airplane life limits and repetitive inspections for components and equipment and information 
+ essential for proper maintenance, are listed in Bombardier Document CSP B-053, Part 2. These 
+ limitations may not be changed without FAA Engineering approval. 
+ Model CL-600-2E25 
+ The airplane life limits and repetitive inspections for components and equipment and information 
+ essential for proper maintenance, are listed in Bombardier Document CSP B-053, Part 2. These 
+ limitations may not be changed without FAA Engineering approval."
+NOTE 4,"Model CL-600-2B19 
+ Major modifications which define the aircraft as the “Green Configuration” are recorded in document 
+ RAZ-601R-110 (Definition of Type Design for Transport Canada approval), as Appendix 2 to that 
+ document."
+NOTE 5,"Model CL-600-2B19 
+ The green aircraft type design does not include passenger provisions. Carriage of persons in the cabin is 
+ permitted when an approved seating arrangement and related required passenger provisions are 
+ incorporated in accordance with the Type Approval Basis. 
+ Aircraft delivered in the “Green Configuration” and incorporating Mod. Summary TC60255 (Blocking 
+ of Emergency Exits) are limited to carrying a maximum of twenty-two (22) occupants including the crew 
+ and no more than 19 passengers in accordance with FAR 25 requirements."
+NOTE 6,"Model CL-600-2B19 
+ For all weather flight capability the Regional Jet aircraft is certified to operate in CAT II conditions, 
+ except when the aircraft is installed with the HGS system (TC 601R60262), in which case the aircraft 
+ is certified to operate in CAT IIIa conditions."
+NOTE 7,RESERVED
+NOTE 8,"The CRJ200 is a marketing designation for the CL-600-2B19 (Regional Jet Series 100) aircraft with the 
+ General Electric CF-34-3B1 engines installed. All Airworthiness Directives issued against any CL-600- 
+ 2B19 aircraft are similarly applicable to the CRJ200. 
+ Special Edition (SE) and Challenger 850 are marketing designations used for a CL-600-2B19 delivered 
+ in a green configuration (See NOTES 4 & 5) and subsequently finished with an approved interior via 
+ Supplemental Type Certificates."
+NOTE 9,RESERVED
+NOTE 10,RESERVED
+NOTE 11,Exemption No. 10175B-C amends Exemption No. 10175 for Structural Lightning Protection Features.
+NOTE 12,"Model CL-600-2E25 aircraft Serial Number (S/N) 19001 to 19012 have not been shown to comply 
+ with 14 CFR Part 25.856(b) at time of delivery. 
+ Serial Numbers 19001 through 19012 are not eligible for a US Certificate of Airworthiness unless 
+ modified to comply with 14 CFR Part 25.856(b)."
+NOTE 13,"For Model CL-600-2C10 – Series 702 aircraft fitted with an approved interior including the Equivalent 
+ Safety Finding against 14 CFR 25.801 and 25.813, the maximum passenger capacity is limited to 71 
+ passengers with a maximum of 28 passenger seats aft of the Type III overwing exit. 
+ For Model CL-600-2C10 – Series 700 and Series 701 aircraft fitted with an approved interior including 
+ the Equivalent Safety Finding against 14 CFR 25.801 and 25.813, the maximum passenger capacity 
+ remains the same (68 and 70 passengers respectively) with a maximum of 28 passenger seats aft of the 
+ Type III overwing exit."
+NOTE 14,RESERVED
+NOTE 15,"Model CL-600-2C10 – CRJ Series 700, 701, & 702 aircraft; Model CL-600-2C11 – CRJ Series 550 
+ aircraft; Model CL-600-2D15 – CRJ Series 705 aircraft; and Model CL-600-2D24 – CRJ Series 900 
+ aircraft, which received an original Certificate of Airworthiness on or after 23 August, 2018 and which 
+ have had Bombardier Modification Summary (ModSum) number 670T72560 (Introduction of Flame 
+ Arrestors) installed in production, comply with 14 CFR Part 25.975(a)(7) at amendment 143."
+NOTE 16,"The CRJ550 is a marketing designation for the CL-600-2C11 (Regional Jet Series 550) aircraft. All 
+ Airworthiness Directives issued against any CL-600-2C10 (Regional Jet Series 700, 701, & 702) 
+ aircraft are similarly applicable to the CL-600-2C11 (Regional Jet Series 550) aircraft."
+NOTE 17,"The following models were previously recorded on Revision No. 49 of TCDS A21EA and have been 
+ administratively transferred to this TCDS A21EA-1 Revision No. IR on November 26, 2019 pursuant to 
+ 14CFR § 21.47: 
+ • CL-600-2B19 (Regional Jet Series 100 & 440) 
+ • CL-600-2C10 (Regional Jet Series 700, 701 & 702) 
+ • CL-600-2C11 (Regional Jet Series 550) 
+ • CL-600-2D15 (Regional Jet Series 705) 
+ • CL-600-2D24 (Regional Jet Series 900) 
+ • CL-600-2E25 (Regional Jet Series 1000) 
+ Existing manufactured Regional Jet Series aircraft have identification data plates which still refer to FAA 
+ Type Certificate A21EA since the approved type design was recorded on FAA Type Certificate A21EA 
+ at the time of manufacture. Since both FAA Type Certificates A21EA and A21EA-1 cross-reference each 
+ other via a record on the first page of both FAA Type Certificate Data Sheets, these aircraft will not 
+ require Supplemental aircraft identification data plates to comply with 14CFR §§ 21.182, 45.11, & 45.13. 
+ FAA Airworthiness Directives (ADs) and any associated Alternate Means of Compliance (AMOCs) that 
+ refer to FAA Type Certificate A21EA and apply to any of the approved Regional Jet Series aircraft models 
+ listed above, continue to remain applicable following this administrative change. 
+ Existing FAA Supplemental Type Certificates (STCs), Part Manufacturing Approvals (PMAs), 
+ Airworthiness Directives (ADs) or Alternate Means of Compliance (AMOCs) that refer to FAA Type 
+ Certificate A21EA and apply to any of the approved Regional Jet Series aircraft models listed above, are 
+ not required to be revised following this administrative change. When revising FAA STCs or PMAs for 
+ any other reason in the future, the STCs or PMAs may directly refer to both Type Certificates. 
+ New production Regional Jet Series aircraft identification data plates will refer to the Transport Canada 
+ Type Certificate A-276 and this FAA Type Certificate A21EA-1."
+NOTE 18,"The following Serial Numbers are manufactured by Bombardier Inc. under its manufacturing permits 
+ (12-58), under licensing agreement with MHI RJ Aviation ULC.: 
+ •CL-600-2D24: Serial Number: 15485 to 15499, which were manufactured on or after June 1, 2020."
+NOTE 19,"Model CL-600-2D24 aircraft fitted with an approved interior where the aft pair of overwing emergency 
+ exit doors are blocked, are limited to carrying a maximum of fifty-six (56) occupants including 6 crew- 
+ members (1 Pilot, 1 Copilot, 1 Observer, and 3 Flight Attendants) and no more than 50 passengers in 
+ accordance with FAR 25 requirements."

@@ -1,0 +1,596 @@
+Keyterm,Info
+"4A27 
+ Revision 11 
+ AeroXin Industries, Inc. 
+ 22 
+ 22M 
+ June 13, 2012",
+Type Certificate Holder,"AeroXin Industries, Inc. 
+ 5840 West Craig Road, #120-262 
+ Las Vegas, Nevada 89130"
+Type Certificate Ownership Record,"D & R Nevada, LLC 
+ 5840 West Craig Road, #120-262 
+ Las Vegas, Nevada 89130 
+ Lost Bird Aviation Historical Society & Museum 
+ 3172 North Rainbow Blvd. 
+ Las Vegas, Nevada 89108 
+ Tracor Flight Systems, Inc. 
+ 1326 Fight Line, Hanger 75 
+ Mojave, California 93501-1665 
+ General Dynamics Corporation 
+ P.O. Box 1950 
+ San Diego, California 92112"
+"I - Model 22 (Transport Aircraft), approved May 1, 1960 (See NOTE 4 for explanation of model identification)",
+Engines,"4 General Electric Turbojet CJ805-3 or CJ805-3A (See NOTE 6 for explanation of -3A 
+ installation requirements). The fuel and engine limit data are applicable to both the 
+ -3 and -3A engines except as noted below. Intermixing of the -3 and -3A engines on 
+ the same aircraft is not permitted."
+Fuel,"Kerosene, JP-4 and JP-5 type fuels conforming to G.E. Specification D50TF2-S2. See 
+ NOTE 7 regarding use of Phillips anti-icing additive PFA 55MB."
+Engine limits,"Static thrust, S.L., standard day: 
+ Takeoff (5 min.) 
+ 11,200 lb. 
+ Maximum Continuous 
+ 9,800 lb. 
+ Maximum permissible engine rotor operation speed: 
+ CJ805-3 and -3A 
+ 7684 r.p.m. (103%) 
+ Maximum permissible temperatures 
+ (1) Turbine exhaust gas temperatures: 
+ Takeoff (5 min.) 
+ 632°C. 1170°F. 
+ Maximum Continuous 
+ 560°C. 1040°F. 
+ Maximum Transient 
+ Takeoff 
+ Refer to Section 8, Figure 2, of G.E. 
+ Operating Instructions GEI 67826 for the 
+ -3 engine and GEI 67891 for the -3A engine."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9"
+Rev No,"11 
+ - 
+ 8 
+ - 
+ 8 
+ - 
+ - 
+ - 
+ - 
+ Starting 
+ Refer to Section 8, Figure 1, of G.E. 
+ Operating Instructions GEI 67826 for the 
+ -3 engine and GEI 67891 for the -3A engine. 
+ (2) Oil temperature, scavenge 149°C. 300°F. 
+ Maximum permissible compressor air bleed, percentage of total engine airflow: 
+ Idle to 6340 r.p.m. (85%) 
+ 10% 
+ 6714 r.p.m. (90%) to maximum speed 
+ 5% 
+ (Linear variation between 6340 and 6714 r.p.m.)"
+Airspeed limits IAS,"Vmo (Maximum Operating) 
+ 373K @ S.L. 
+ (Mi) 
+ 393K @ 23,000 ft. 
+ Mmo (Maximum Operating above 23,000 ft.) 
+ M = .884 
+ Vne (Never Exceed) 
+ 398K 
+ Mne (Never Exceed) 
+ M = .884 
+ Va (Maneuvering) 
+ (For maneuvering speeds and buffet envelope refer to FAA 
+ Approved Airplane Flight Manual Certificate Limitation 1-30) 
+ Vfe (Flaps Down 0 to 20°) 
+ 244K M = .60 
+ (Flaps Down 20 to 30°) 
+ 234K M = .56 
+ (Flaps Down 30 to 40°) 
+ 268K M = .70 
+ (Flaps Down 40 to 50°) 
+ 194K M = .400 
+ Vlo (Landing Gear Operation) 
+ (Main Landing Gear as a Speedbrake) 
+ 373K M = .884 
+ (Nose Landing Gear Extension) 
+ 318K M = .825 
+ (Landing Gear Retraction Speed) 
+ 268K M = .70 
+ Vle (Landing Gear Extension) 
+ 318K M = .825 
+ V 
+ (Landing Gear Door Operation Limitation) If the landing gear door 
+ unlocked warning light illuminates during gear retracted flight operations. 
+ Airspeed must be reduced to: 
+ 320K M = .83 
+ V 
+ (Landing Light Extension) 
+ 289K 
+ V 
+ (Fuel Jettison Speed) 
+ Vmo Mmo 
+ V 
+ (Inboard Spoilers when used for 
+ Longitudinal Control) 
+ 244K M = .60 
+ Vmca (minimum Control Speed) (One engine 
+ inoperative), sea level, standard day, 
+ 127,000 lb. gross weight 
+ 127K 
+ Vmca2 (Minimum Control Speed, two engines 
+ inoperative), standard day, sea level 
+ 161K 
+ V 
+ (Maximum Speed for Autopilot Operation) Vmo Mmo"
+CG range,"Landing Gear Extended or Retracted (3). 
+ Maximum takeoff 
+ gross weight 
+ 184,500 lbs. 
+ 19000 
+ Maximum landing 
+ 18000 
+ gross weight 
+ INFLIGHT 
+ TAKEOFF 
+ 155,000 lbs. 
+ After 
+ 17000 
+ incorporation of 
+ LANDING 
+ 16000 
+ Service Bulletins 
+ 32-24 and 71-1 of 71-5A. 
+ 15000 
+ GROSS 
+ Maximum landing 
+ 14000 
+ WEIGHT 
+ gross weight 
+ (POUNDS) 
+ 137,000 lbs. prior 
+ 13000 
+ to incorporation of 
+ Service Bulletin 32-24, 
+ 12000 
+ 71-1 or 71-5. 
+ 11000 
+ Maximum zero 
+ fuel weight 
+ 10000 
+ 117,000 lbs. 
+ 9000 
+ 8000 
+ 16 
+ 18 
+ 20 
+ 22 
+ 24 
+ 26 
+ 28 
+ 30 
+ 32 
+ 34 
+ 36 
+ CG - % MAC 
+ (1) Takeoff prohibited within shaded area 
+ (2) The aft C.G. limitations shown in the above chart for the gross weight range 
+ from 80,000 to 130,000 pounds applies to takeoff only. For airborne or landing 
+ conditions the aft C.G. limitation is 32% MAC FS849.1. 
+ (3) Nose gear retraction moment is -33,122 in.-lb."
+Maximum weights,"Ramp weight 
+ 185,000 lbs. (1) 
+ Takeoff weight 
+ 184,500 lbs. (1) 
+ Landing weight 
+ 137,000 lbs. (2) 
+ (Fuel dump valves required for operation 
+ in excess of maximum landing weight.) 
+ (See NOTE 1(f)) 
+ Zero fuel weight 
+ 117,000 lbs. 
+ Three engine ferry 
+ 145,000 lbs. 
+ (1) All weight in excess of 117,000 lbs. must consist of fuel. All weight in excess of 
+ 137,000 lbs. must consist of jettisonable fuel. 
+ (2) Airplanes modified in accordance with General Dynamics Service Bulletin 
+ No. 32-24 and No. 71-1 or 71-5A are approved for 155,000 lbs. maximum 
+ landing weight. All weight in excess of 155,000 lbs. must consist of jettisonable 
+ fuel."
+Maximum passengers,110
+Fuel capacity,"Airplane Serial Nos. 00-1 through 00-20: 
+ Total 
+ Refuel (1) 
+ Usable 
+ Arm 
+ *2 outboard main tanks 
+ 16695 lb. ea. 
+ 16534 lb. ea. 
+ FS-924.4 
+ (#1 & #4) 
+ 2 inboard main tanks 
+ 20671 lb. ea. 
+ 20510 lb. ea. 
+ FS-770.5 
+ (#1 & #3) 
+ Airplane Serial Nos. 00-21 and up or airplanes incorporating Convair Service Bulletin 
+ 28-3A: 
+ Total 
+ Refuel (1) 
+ Usable 
+ Arm 
+ *2 outboard main tanks 
+ 16695 lb. ea. 
+ 16534 lb. ea. 
+ FS-924.4 
+ (#1 & #4) 
+ 2 inboard main tanks 
+ 21021 lb. ea. 
+ 20860 lb. ea. 
+ FS-770.5 
+ (#2 & #3) 
+ (1) ""Total Refuel Capacity"" consists of Unusable (drainable and undrainable quantities) 
+ and Usable Fuel. See NOTE 1 for the disposition of these fuel weights. 
+ * Includes replenish tank fuel as each tank system consists of one main and one replenish 
+ tank. 
+ Fuel weights are based on 7.0 lb. per U.S. Gallon. 
+ Maximum allowable fuel weight when refueling with high density type fuels is 
+ 75,432 lb. See NOTE 1(e) for loading limitations."
+Serial Nos eligible 00,"1 through 15, 17 through 36, 38 through 42, 50, 51, 52, 62 through 65"
+"II - Model 22M (Transport Aircraft), approved July 24, 1961",
+Engines,4 General Electric Turbojet CJ805-3B
+Fuel,"Kerosene, JP-4 and JP-5 type fuels conforming to G.E. Specification D50TF2-S2. See 
+ NOTE 7 regarding use of Phillips Anti-icing Additive PFA 55MB."
+Engine limits,"Static thrust, S.L., standard day: 
+ Takeoff (5 min.) 
+ 11,650 lb. 
+ Maximum Continuous 
+ 9,800 lb. 
+ Maximum permissible engine rotor operating speeds: 
+ Normal Operation 
+ 7,684 r.p.m. (103%) 
+ Maximum permissible temperatures: 
+ (1) Turbine exhaust gas temperatures: 
+ Takeoff (5 min.) 
+ 632°C. 
+ 1170°F. 
+ Maximum Continuous 582°C. 
+ 1080°F. 
+ Maximum Transient 
+ Starting 
+ Refer to FAA Approved G.E. Operating 
+ Instructions GEI 67849,Section 8, Figure 1. 
+ Takeoff 
+ Refer to FAA Approved G.E. Operating 
+ Instructions GEI 67849, Section 8, Figure 2 
+ (2) Oil temperature, scavenge 
+ 149°C. 300°F. 
+ Maximum permissible compressor air bleed, percentage of total engine airflow: 
+ Idle to 6340 r.p.m. (85%) 
+ 10% 
+ 6714 r.p.m. (90%) to maximum speed 
+ 5% 
+ (Linear variation between 6340 and 6714 r.p.m.)"
+Airspeed limits IAS,"Vmo (Normal Operating) 
+ 374K at S.L. 
+ (Mi) 
+ 394K at 23,000 ft. 
+ Mmo (Above 23,000 ft.) 
+ M = .884 
+ Vne (Never Exceed) 
+ 399K 
+ Mne (Never Exceed) 
+ M = .884 
+ Va (Maneuvering) 
+ (For maneuvering speeds and buffet envelope refer to FAA 
+ Approved Airplane Flight Manual Certificate Limitation 1-33) 
+ Vfe (Flaps extended 22°) 244K M = 0.60 
+ (Flaps extended 33°) 234K M = 0.56 
+ (Flaps extended 44°) 214K M = 0.48 
+ (Flaps extended 55°) 194K M = 0.40 
+ NOTE: 
+ Design speed for 22° deflection is also design speed for 
+ leading edge slats at all extensions. 
+ Vlo (Main L.G. as a Speedbrake) 
+ 374K M = 0.884 
+ (Nose L. G. Extension) 
+ 319K M = 0.827 
+ (L. G. Retraction Speed) 
+ 269K M = 0.70 
+ Vle (Landing Gear Extension) 
+ 319K M = 0.827 
+ V 
+ (L. G. Door Operation Limitation) If the L.G. 
+ door unlocked warning lights illuminate during 
+ gear retracted flight operations. 
+ Airspeed must be reduced to: 
+ 319K M = 0.827 
+ V 
+ (Landing Light Extension) 
+ 289K 
+ V 
+ (Fuel Jettison Speed) 
+ Vmo Mmo 
+ V 
+ (Inboard Spoilers when used for 
+ Longitudinal Control) 
+ 244K M = .60 
+ Vmca (Minimum Control Speed, one engine 
+ inoperative, sea level, standard day, 
+ gross weight 130,000 lb.) 
+ 115K 
+ Vmca2 (Minimum Control Speed, two engines 
+ inoperative, standard day, sea level 
+ 143K 
+ V 
+ (Maximum Speed for Autopilot Operation) Vmo Mmo 
+ Sperry AP at max. servo torque 
+ 250K 
+ (low airspeed torque)"
+CG range,"Maximum takeoff 
+ gross weight 
+ 193,000 lbs. 
+ 190,000 
+ 180,000 
+ TAKEOFF 
+ 170,000 
+ Maximum 
+ 160,000 
+ I N F L I G H T 
+ gross weight 
+ 155,000 pounds 
+ 150,000 
+ GROSS 
+ 140,000 
+ WEIGHT 
+ (POUNDS) 
+ 130,000 
+ Maximum zero 
+ fuel weight 
+ 120,000 
+ 121,500 lbs. 
+ 110,000 
+ 100,000 
+ 90,000 
+ 80,000 
+ 14 
+ 16 
+ 18 
+ 20 
+ 22 
+ 24 
+ 26 
+ 28 
+ 30 
+ 32 
+ 34 
+ 36 
+ CG - % MAC 
+ (1) Takeoff prohibited within shaded area 
+ (2) The aft C.G. limitations shown in the above chart for the gross weight range from 
+ 80,000 to 130,000 pounds applies to takeoff only. For airborne or landing 
+ conditions the aft C.G. limitation is 32% MAC. 
+ (3) Retraction of the landing gear moves the C.G. forward approximately 0.08% of the 
+ MAC."
+Maximum weights,"Ramp weight 
+ 193,500 lb. 
+ Takeoff weight 
+ 193,000 lb. 
+ Landing weight 
+ 155,000 lb. 
+ (Fuel dump valves required for operation 
+ in excess of maximum landing weight) 
+ Zero fuel weight 
+ 121,500 lb. 
+ (All weight in excess of 121,500 lb. must consist of fuel. All 
+ weight in excess of 155,000 lb. must consist of jettisonable fuel.) 
+ Three engine ferry 
+ 155,000 lbs."
+Maximum passengers,124
+Fuel capacity,"Total 
+ Refuel (1) 
+ Usable 
+ Arm 
+ *2 outboard main tanks 
+ 16695 lb. ea. 
+ 16534 lb. ea. 
+ FS-924.4 
+ (#1 & #4) 
+ 2 inboard main tanks 
+ 21021 lb. ea. 
+ 20860 lb. ea. 
+ FS-770.5 
+ (#2 & #3) 
+ Center section tank 
+ 13118 lb. 
+ 12978 lb. 
+ FS-770.5 
+ NOTE: 
+ The Model 22M aircraft may incorporate either a complete 
+ auxiliary fuel system consisting of three inter-connected 
+ fuel tight bladder type cells and related plumbing installed 
+ in the aircraft wing center section or incorporate provisions 
+ only for installing the system. 
+ (1) ""Total Refuel"" capacity consists of Unusable (drainable and 
+ undrainable quantities) and Usable Fuel. See NOTE 1 for the 
+ disposition of these fuel weights. 
+ *Includes replenish tank fuel as each tank system consists of one 
+ main and one replenish tank. 
+ Fuel weights are based on 7.0 lb. per U.S. gal. 
+ Structural limits permit use of fuel with densities ranging up to 
+ 7.0 lb./gal. (See NOTE 1(e) for loading limitations.)"
+Serial Nos eligible 00,"37, 43 through 49, 53 through 61"
+Data Pertinent to All Models,
+Datum,100 in. fwd. of nose (Nose is Fuselage Station 100)
+MAC,227.3 in. (L.E. of MAC +776.4 in.)
+Leveling means,"Provisions for lateral and longitudinal leveling are installed in the left main wheel well. 
+ The lateral leveling lugs are installed on the fwd. bulkhead stiffener along Water Line 
+ 10.0. The longitudinal leveling lugs are located on the stiffeners of the center line web 
+ along Water Line 20.0."
+Minimum crew,"For all flights: Pilot, Copilot and Flight Engineer. (See NOTE 3.)"
+Maximum baggage,"Capacity 
+ Maximum Loading (1) 
+ C.G. 
+ Compartment 
+ Station 
+ (lb.) 
+ lb./ft2 
+ lb. /in. 
+ (in.) 
+ Fwd. belly 
+ 375- 603 
+ 8960 
+ 100 
+ 39.3 
+ +489 
+ Aft. belly 
+ 1002-1230 
+ 8300 
+ 100 
+ 39.3 
+ +1111 
+ (1) Rear compartment limited to densities of 20 lb./ft.3 or less. Higher density items 
+ must be loaded in compartment where tie-down rights are provided."
+Oil capacity,"Engine Oil 
+ Arm 
+ Inboard 
+ Outboard 
+ Total Capacity 
+ 42.4 lb. ea. 
+ FS678.0 
+ FS864.0 
+ Usable Oil 
+ 23.5 lb. ea. 
+ Tank System Including 
+ Unusable Oil 
+ 8.9 lb. ea. 
+ Engine System Oil 
+ 10.0 lb. ea. 
+ NOTE: 
+ The total oil tank capacity is equal to the sum of the ""usable"" and ""tank system 
+ including unusable oil"" (4.20 gal. at 7.7 lb./gal. each tank). 
+ Constant Speed Drive and Thrust Reverser (Common Supply) 
+ Arm 
+ Inboard 
+ Outboard 
+ Total Capacity 
+ 22.3 lb. ea. 
+ Usable Oil 
+ 8.0 lb. ea. 
+ FS667.0 
+ FS853.0 
+ Reverser Reserve 
+ 3.3 lb. ea. 
+ Tank System Oil 
+ 1.9 lb. ea. 
+ CSD System Oil 
+ 4.5 lb. ea. 
+ Reverser System Oil 
+ 4.6 lb. ea. 
+ NOTE: 
+ The total oil tank capacity is equal to the sum of the usable, and tank 
+ system and reverser reserve oil (1.72 gal. at 7.7 lb./gal., ea. tank)."
+Maximum operating altitude,"41,000 ft."
+Other operating limitations,See FAA Approved Airplane Flight Manual.
+Control surface movements,"The airplane must be rigged in accordance with the following FAA Approved Data: 
+ Drawings 22- refer to Model 22, Drawings 30- refer to Model 22M 
+ (a) Convair Dwg. 22-40052 ""Operational Data - Rudder,"" 30-40052 
+ ""Operational Data - Rudder"" 
+ (b) Convair Dwg. 22-40056 ""Operational Data - Rudder Trim,"" 
+ 30-40056 ""Operational Data - Rudder Trim"" 
+ (c) Convair Dwg. 22-40053, ""Operational Data - Elevator"" 
+ (d) Convair Dwg. 22-40066, ""Operational Data - Horizontal Stabilizer"" 
+ (e) Convair Dwg. 22-40054, ""Operational Data - Aileron and Spoilers"" 
+ (f) Convair Dwg. 22-40067, ""Operational Data - Aileron Trim Tab"" 
+ (g) Convair Dwg. 22-40055, ""Operational Data - Flaps"" 
+ (h) Convair Dwg. 22-40057, ""Operational Data - Power Plant"" 
+ (i) 
+ Convair Dwg. 22-40060, ""Operational Data - Landing Gear"" 
+ (j) 
+ Convair Dwg. 22-40061, ""Operational Data - Nose Wheel Steering"" 
+ (k) Convair Dwg. 22-40062, ""Operational Data - Brakes"" 
+ (l) 
+ Convair Dwg. 22-40063, ""Operational Data - Emergency Landing Gear"" 
+ (m) Convair Dwg. 22-40051, ""Operational Data - Leading Edge Flaps and Slats"""
+Certification basis,"CAR 4b dated December 31, 1953; Amendments 4b-1, 4b-2, 4b-3, 4b-4, 4b-5, 4b-6, 
+ 4b-7, 4b-9, 4b-10 thereto, SR-422B and the special condition contained in 
+ Attachment ""A"" of FAA letter to Convair dated November 19, 1957. 
+ Type Certificate No. 4A27 issued May 1, 1960. 
+ Application for Type Certificate dated March 15, 1956 
+ Compliance with the following optional requirements has been established: 
+ Ditching Provisions only 4b.361 
+ Ice Protection Provisions 4b.640"
+Production basis,Production Certificate No. 605
+Required equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. Convair Report 
+ ZM-22- 062, ""Master Equipment List, Model 22,"" contains a list of all required 
+ equipment that must be installed as well as optional equipment installations approved by 
+ FAA."
+Service information,"Convair Report CS-59-022, ""Convair 880 Structural Repair Manual"" and CS 61-041, 
+ ""Convair Structural Repair Manual for the Model 22M"" is FAA Approved. Service 
+ Bulletins and other service information, when FAA approved, will carry a statement to 
+ that effect."
+NOTE 1,"(a) Current weight and balance report, including list of equipment included in certificated empty weight, 
+ and loading instructions must be in each aircraft at the time of original certification and at all times 
+ thereafter except in the case of operators having an approved weight control system. Convair Report 
+ ZW-22-021- and ZW-22-029-, ""Convair Weight and Balance Report,"" are applicable to Models 22 and 
+ 22M, respectively. 
+ (b) The airplane must be loaded so that the C.G. is within the specified limits at all times, with the effects of 
+ fuel use, gear retraction and crew and passenger movement being considered. See ""C.G. Range"" for 
+ restrictions on center of gravity limits for takeoff at gross weights below 130,000 lb. 
+ (c) The weight of system fuel and oil as defined below and hydraulic fluid, all of which must be included in 
+ the airplane empty weight, is listed in Convair Report ZM-22-062, ""Master Equipment List, Model 22. 
+ System Fuel: The weight of all fuel required to fill all lines and tanks up to the zero fuel point on the 
+ fuel gages in the most critical flight altitude. This includes the unusable tank fuel as defined by 
+ CAR 4b.416. 
+ System Oil Including Usable: The weight of oil remaining in the engine, constant speed drive, thrust 
+ reverser, tanks and lines after subtracting the usable and reverser reserve oil from the total capacity. 
+ These values are noted under ""Oil Capacity"" and must be added to the empty weight of the airplane. 
+ (d) The ""Unusable"" fuel is the amount of fuel in the tanks which is unavailable to the engines under critical 
+ flight conditions as defined by CAR 4b.416 and may be obtained by taking the difference between 
+ ""total refuel"" and ""usable"" tank capacities shown under ""Fuel Capacity."" This ""unusable"" fuel is 
+ included in System Fuel as indicated in 1(c) above. 
+ (e) Fuel loading and usable procedures are dictated by structural design and to maintain airplane C.G. 
+ within approved limits. Refer to Convair Report ZW-22-021- or ZW-22- 029-, the specific airplane 
+ weight and balance reports, for loading, takeoff and landing fuel distribution limitations. 
+ (f) Fuel Jettison: Fuel jettisoning must be available for operation of the airplane in excess of the maximum 
+ landing weight. Refer to FAA Approved Airplane Flight manual for limitations to be observed during 
+ fuel jettison operation. The unjettisonable fuel must be included in the airplane landing weight, and the 
+ amount of usable fuel remaining in the tanks after complete jettisoning is as follows: 
+ All Airplanes: 
+ Outboard tanks (1 & 4) 3125 lb. ea. 
+ Inboard tanks (2 & 3) 2825 lb. ea. 
+ Weights are based on 7.0 lb. per U.S. Gallon."
+NOTE 2,Reserved.
+NOTE 3,"All replacement seats (crew, passenger and lounge), although they may comply with TSO-C39, must also be 
+ demonstrated to comply with CAR 4b.358(c). Other installations, such as berths, buffets, compartments or 
+ items of mass which could create a hazard to the safety of passengers and crew must also be demonstrated to 
+ meet the same requirements."
+NOTE 4,"The 22-1 and 22-2 are versions of the basic Model 22, the certification basis for which is Type Certificate 
+ No. 4A27. These dash numbers were selected by Convair primarily for contractual and clerical purposes and 
+ should not be considered to define different models of airplanes. One version may be converted to another 
+ by incorporating pertinent required equipment and complete conformity with corresponding approved 
+ drawings. 
+ It should be noted that the identification plate in the cockpit identifies the specific airplane version and that 
+ different Airplane Flight Manuals, primarily the result of different autopilot installations, air conditioning 
+ system, and electrical system, are applicable. Accordingly, when converting from one version to another, the 
+ identification plate must be suitably revised. The Flight Manual pertinent to the new version must also be 
+ installed."
+NOTE 5,"Air Turbine Starter Ground Carts. Limitations on the use of ground bleed air sources used for starting the 
+ CJ805-3 engines have been established and are noted under the recommendation section on Page 13 of 
+ Convair Report ZK-22004. ""Failure Analysis of the Model 22 Engine Starting System."
+NOTE 6,"(a) The G.E. CJ805-3A engine is a modified -3 engine and is eligible in Model 22-1 and -2 versions when 
+ Convair Service Bulletin 71-5 dated September 12, 1961, is satisfactorily accomplished. Supplement C 
+ to the FAA Approved Airplane Flight Manuals CS 59-019 and CS 59-061 for the Model 22-1 and 22-2 
+ versions, respectively, is required as part of this installation. 
+ (b) The G.E. CJ805-3A engine may be operated at derated takeoff power in the Model 22 airplane in 
+ accordance with the Certificate Limitations and Airplane Performance contained in Supplement D to 
+ General Dynamics/Convair Report CS 59-061 or an FAA approved equivalent."
+NOTE 7,"Phillips anti-icing fuel additive PFA 55MB may be used at a maximum concentration of 0.15% by volume. 
+ No fuel system anti-icing credit is allowed."

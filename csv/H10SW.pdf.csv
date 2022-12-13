@@ -1,0 +1,139 @@
+Keyterm,Info
+"H10SW 
+ Revision 11 
+ Erickson 
+ 214ST 
+ July 7, 2021",
+Type Certificate Holder,"Erickson 214 Holdings, LLC 
+ 3100 Willow Springs Road 
+ Central Point, Oregon 97502-0010"
+Type Certificate Holder Record,"Bell Textron Inc. transferred TC H10SW to Erickson 214 Holdings, LLC on 
+ September 8, 2020 
+ Renamed from “Bell Helicopter Textron Inc.” to “Bell Textron Inc.” 
+ on July 1, 2019."
+"Model 214ST (Transport Helicopter - Category B), Approved February 16, 1982 (Transport Category A Approved 
+ November 8 1984",
+Engine,"Two General Electric CT 7-2A or T700/T2C (Type Certificate Data Sheet No. 
+ E8NE)"
+Fuel,"MIL-T-5624, Grade I, (JP-4), or MIL-T-5624 Grade II (JP-5) (See Note 6) (See 
+ Flight Manual for approved vendors)"
+Normal Operation,"Output Shaft 
+ Power Turbine 
+ Exhaust Gas 
+ Gas Gen. Speed 
+ Torque Percent 
+ Speed %, RPM 
+ Temp 
+ %, RPM"
+Takeoff5 minutes,"100% (2350 SHP) 
+ 100% (21,000) 
+ 878C 
+ 101.7% (45,430)"
+Continuous,"83% (1950 SHP) 
+ 100% (21,000) 
+ 775C 
+ 98.3% (43,900)"
+2 12 Min Power,"73.4% (1725 SHP) 
+ 100% (21,000 RPM) 
+ 915C 
+ 103% (46,070 RPM)"
+30 Min Power,"69.1% (1625 SHP) 
+ 100% (21,000 RPM) 
+ 878C 
+ 101.7% (45,430 RPM)"
+Continuous,"69.1% (1625 SHP) 
+ 100% (21,000 RPM) 
+ 840C 
+ 101.2% (45,240 RPM)"
+Rotor limits,"Power Off 
+ Power On 
+ Maximum 301 rpm 
+ Maximum 287 rpm 
+ (Tach reading 105%) 
+ (Tach reading 100%) 
+ Minimum 258 rpm 
+ Minimum 284 rpm 
+ (Tach reading 90%) 
+ (Tach reading 99%)"
+Airspeed limits,"See indicator P/N 214-175-271 
+ (Vne (IAS) varies with pressure altitude and temperature)"
+CG range,"(a) Longitudinal C.G. limits 
+ (+232.0) at 16,300 lbs. 
+ (+234.5) to (+237) at 17,500 lbs. 
+ (+244.8) at 14,700 lbs. 
+ (+246.0) at 12,500 lbs. 
+ (+246.0) to (241.0) at 9,600 lbs. 
+ (+232.0) at 10,800 lbs. 
+ Straight line variation between points given. See figure: 
+ (b) Lateral C.G. limits 
+  2.5 inches for 13,500 lbs. and below 
+  1.0 inches at 16,500 lbs. gross weight 
+  1.0 inches at 17,500 lbs. gross weight 
+ Straight line variation between points given."
+CG range,"See Chapter 8, Model 214ST series Maintenance Manual"
+Maximum weight,"17,500 lbs."
+Minimum crew,"IFR – Two helicopter pilots. 
+ NOTE Refer to section 6 for minimum crew station weight 
+ VFR – One helicopter pilot who shall operate the helicopter from the 
+ right crew seat. The left crew seat may be used for an additional pilot. 
+ NOTE Single pilot operations are based on the standard helicopter 
+ instrument panel and systems."
+Maximum passengers,18 (Not limited by emergency exit requirements)
+Maximum baggage,1650 lbs. at F.S. 297
+Fuel capacity,440 gal. (+243) capacity. See Note 1 for data on unusable fuel.
+Oil capacity,"1.9 gals. (+285.5) 1.06 gal. usable (included in cap). See Note 1 for undrainable 
+ oil. 
+ For rigging information refer to the Model 214ST series Maintenance Manual."
+Serial Nos eligible,28101 and up
+Datum,"Station 0 (datum) is located 133.5 inches forward of the forward jack fittings of 
+ the fuselage."
+Leveling means,Plumb line from top of left main door frame.
+Certification basis,"FAR Part 29 dated February 1, 1965 Amendments 29-1 through 29-16 and IFR 
+ standards dated December 15, 1978. 
+ Exemption No. 3342, against FAR 29.1323(c)"
+Production basis,Production Certificate No. 100
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (See Certification basis) must be installed in the helicopter for 
+ certification. In addition, the following items of equipment are required with 
+ each helicopter as specified: 
+ FAA approved Helicopter Flight Manual dated February 12, 1982 
+ FAA approved Helicopter Flight Manual Supplement 8 for Category A. See 
+ Note 9."
+NOTE 1,"Current weight and balance report, including list of equipment included in the certificated empty 
+ weight, and loading instructions, when necessary, must be provided for each helicopter at the time of 
+ original certification. 
+ The certificated empty weight and corresponding C.G. locations must include 32 lbs. of engine oil at 
+ +285.1 and unusable fuel of 5 gal. (34 lbs.) at +224.2."
+NOTE 2,"The following placard must be displayed in front of and in clear view of the pilot: “This Helicopter 
+ must be operated in compliance with the operating limitations specified in the FAA Approved 
+ Rotorcraft Flight Manual. The Airworthiness Limitations Section of the Rotorcraft Maintenance 
+ Manual must be complied with.” 
+ All placards required in the Approved Helicopter Flight Manual must be installed in the appropriate 
+ locations. Chapter II of the Maintenance Manual includes information about other placards and their 
+ locations."
+NOTE 3,"The retirement times of certain parts and inspection requirements are listed in Airworthiness 
+ Limitations, Chapter 4, of the Model 214ST series Maintenance Manual. These limitations may not be 
+ changed without FAA engineering approval. In addition, information essential for proper maintenance 
+ of the helicopter is contained in the Bell Helicopter Company Model 214ST Maintenance Manual and 
+ in the 214ST series Component Repair and Overhaul Manual."
+NOTE 4,"A partition must not be installed between the passenger and crew compartments that will obstruct the 
+ pilot’s view of the passenger large sliding doors and hinged panels. Interior linings must not be 
+ installed that obstruct the view of the crew/passenger front doors latch engagement with the fuselage."
+NOTE 5,"Composite (fiberglass) main rotor blades (215-015-300) must conductive paint (a minimum resistance 
+ required) for lightning protection."
+NOTE 6,"For all operations below 40F ambient temperature, all fuel used in Model 214ST helicopters must 
+ contain Phillips PFA-55MB anti-icing additive in concentration of not less than 0.035% nor more than 
+ 0.15% by volume. Blending this additive into the fuel and checking its concentration must be 
+ conducted in the manner prescribed by the Rotorcraft Flight Manual."
+NOTE 7,This emergency rating can be used for demonstration/training purposes.
+NOTE 8,Equivalent Safety Finding was determined for Critical Decision Point Definition - FAR 29.53(b).
+NOTE 9,"Model 214ST helicopters are eligible for Category A when operating in accordance with the 
+ procedures and limitations of FAA Approved Model 214ST RFM Supplement 8."
+NOTE 10,"Any changes to the type design of this helicopter by means of amended type certificate (TC), 
+ supplemental type certificate (STC), or amended STC, requiring instructions for continued 
+ airworthiness (ICA’s) must be submitted thru the project aircraft certification office (ACO) for review 
+ and acceptance by the Fort Worth-Aircraft Evaluation Group (FTW-AEG) Flight Standards district 
+ Office (FSDO) prior to the aircraft delivery, or upon issuance of the first standard airworthiness 
+ certificate for the affected aircraft, whichever occurs later as prescribed by Title 14 CFR 21.50. Type 
+ design changes by means of a FAA Form 337 (field approval) that require ICA’s must have those 
+ ICA’s reviewed by the field approving FSDO."

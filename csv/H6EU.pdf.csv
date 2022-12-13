@@ -1,0 +1,419 @@
+Keyterm,Info
+"H6EU 
+ Revision6 
+ Airbus Helicopters 
+ Gazelle 
+ SA341G 
+ SA342J 
+ January 10, 2014",
+Type Certificate Holder,"Airbus Helicopters 
+ Aeroport International Marseille Provence 
+ 13725 - Marignane - Cedex 
+ France"
+TC Holder Record,"Eurocopter France changed name to Airbus Helicopters on January 1, 2014."
+"I - Model SA341G ""Gazelle"" (Normal Category), approved September 18, 1972",
+Engine,1 Turbomeca Astazou IIIA
+Oil,"Engine 
+ SPECIFICATION (Latest Amendment) 
+ REMARKS 
+ Oil 
+ FRENCH 
+ NATO 
+ USA 
+ UK 
+ Normal 
+ AIR 3513 
+ 0.148 
+ MIL-L-7808 
+ Synthetic 
+ Oil 
+ AIR 3514 
+ 0.150 
+ Oil 
+ 0.156 
+ MIL-L-23699 
+ Synthetic 
+ Oil 
+ Aeroshell Turbine 
+ Oil 3 
+ Alternate 
+ Esso Aviation 
+ D. Eng. 
+ Mineral 
+ Oils 
+ AIR 3515 
+ 0.135 
+ Utility Oil F 
+ RD. 2490 
+ Oil 
+ Caltex Jet Engine 
+ Oil Medium Heavy 
+ 0.149 
+ D. Eng. 
+ Synthetic 
+ RD. 2487 
+ Oil 
+ CAUTION: 
+ With the exception of AIR 3513 and AIR 3514 oils which may be mixed 
+ without restriction, do not mix different oils. Flush the system when changing from one 
+ system to another."
+Engine Limits,"Maximum speed: 43,500 r.p.m., held constant by governor within -0 
+ r.p.m. 
+ +400 
+ (Transient variations of + 1,500 r.p.m. are permissible). 
+ Rating maximum continuous ) 
+ ) At sea level standard day 
+ Rating takeoff (5 min.) 
+ ) 592 hp. 43,500 r.p.m.) conditions (59°F - 29.92 in. 
+ ) Hg.) 
+ Maximum continuous exhaust gas temperature (T4) 
+ ) 
+ Maximum takeoff (5 min.) exhaust gas temperature (T4) 
+ ) 550°C"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"6 
+ 3 
+ 3 
+ 3 
+ 5 
+ 6"
+Rotor Speed,"In autorotation: 
+ Maximum: 430 r.p.m. 
+ 415 r.p.m. if OAT is below - 15°C and pressure altitude below 3,000m (9,900 ft.); 
+ 400 r.p.m. if OAT is below -30°C and pressure altitude below 3,000m (9,900 ft.) 
+ Minimum 310 r.p.m. up to 1,000m (3,300 ft.) density altitude; thereafter increasing 10 
+ r.p.m. per 1,000 m (3,300 ft.) increase in density altitude. 
+ In power-on flight: 
+ 378 + 12 r.p.m."
+Maximum Weight,"3,970 lb."
+"II. Model SA342J ""Gazelle"" (Normal Category), approved June 14, 1977",
+Engine,1 Turbomeca Astazou XIVH
+Oil,"Engine 
+ SPECIFICATION (Latest Amendment) 
+ REMARKS 
+ Oil 
+ FRENCH 
+ NATO 
+ USA 
+ UK 
+ Normal 
+ AIR 3513 
+ 0.148 
+ MIL-L-7808 
+ Synthetic Oil 
+ Oil 
+ AIR 3514 
+ 0.150 
+ 0.156 
+ MIL-L-23699 
+ Synthetic Oil 
+ Aeroshell Turbine 
+ Oil 3 
+ Alternate 
+ AIR 3515 
+ 0.135 
+ Esso Aviation 
+ D.Eng. 
+ Mineral Oil 
+ Oils 
+ Utility Oil F 
+ RD.2490 
+ Caltex Jet Engine 
+ Oil Medium Heavy 
+ Caution: With the exception of AIR 3513 and AIR 3514 oils which may be mixed 
+ without restriction, do not mix different oils. Flush the system when changing 
+ from one system to another."
+Engine Limits,"Maximum speed: 43,500 r.p.m., held constant by governor within +200 r.p.m. 
+ (Transient variations of + 1,500 r.p.m. are permissible). 
+ Rating maximum continuous ) 
+ ) At sea level standard day 
+ Rating takeoff (5 min.)) 592 hp. 43,500 r.p.m.) conditions (59°F - 29.92 in. 
+ ) 
+ Hg.) 
+ Maximum continuous exhaust gas temperature (T4) 
+ : 500°C 
+ Maximum takeoff (5 min.) exhaust gas temperature (T4) 
+ : 550°C 
+ Engine gearbox limitations: 
+ Maximum Continuous 
+ ) 
+ Takeoff 
+ ) 592 hp."
+Transmission,"Maximum takeoff power 
+ : 570 hp. ) (Torque: 100%)"
+Limits,Maximum continuous power : 570 hp. )
+Helicopter,"Maximum takeoff power 
+ : 570 hp."
+Limits,Maximum continuous power : 570 hp.
+Rotor Speed,"In autorotation: 
+ Maximum: 430 r.p.m. if OAT is below - 15°C and pressure altitude below 3,000m 
+ (9,900 ft.); 
+ 400 r.p.m. if OAT is below -30°C and pressure altitude below 3,000m (9,900 ft.) 
+ Minimum 310 r.p.m. up to 1,000m (3,300 ft.) density altitude; thereafter increasing 10 
+ r.p.m. per 1,000 m (3,300 ft.) increase in density altitude. 
+ In power-on flight: 
+ 387 + 12 r.p.m."
+Maximum Weight,"4,190 lb."
+DATA PERTINENT TO ALL MODELS,
+Fuel,"Authorized without restrictions 
+ Type of Fuel 
+ NATO 
+ SPECIFICATION 
+ Anti-Icing 
+ Symbol 
+ (To be used at the latest 
+ amendment and dash- number) 
+ USA 
+ UK 
+ France 
+ Kerosene 50 
+ F34 
+ D.Eng.RD 
+ AIR 3405 
+ Incorporated 
+ JP1 
+ 2453 
+ (AVTUR FS.11 
+ F35 
+ ASTM JET A 
+ D.Eng.RD 
+ Not 
+ 2494 
+ Incorporated 
+ Kerosene 
+ ASTM JET A 
+ Not 
+ Incorporated 
+ Aviation Fuel 
+ F40 
+ D.Eng.RD 
+ JP4(AVTAG FS11) 
+ 2454 
+ AIR 3407 
+ Incorporated 
+ Aviation Fuel 
+ F45 
+ MIL T 5624 
+ D.Eng.RD 
+ Not 
+ JP4 (AVTAG) 
+ (JP4) 
+ 2486 
+ Incorporated 
+ Aviation Fuel 
+ ASTM JET B 
+ Not 
+ Incorporated 
+ High Flash 
+ F42 
+ AIR 3404 
+ AIR 3404 
+ Point 
+ Incorporated 
+ JP5 
+ F42 
+ (AVCAT) 
+ Not 
+ Incorporated 
+ F44 
+ MIL T 5642 
+ D.Eng.RD 
+ Not 
+ JP5 
+ 2498 
+ Incorporated 
+ Authorized with restrictions 
+ Type of Fuel 
+ NATO 
+ SPECIFICATIONS 
+ Restrictions 
+ Symbol 
+ (To be used at the latest 
+ amendment and dash-number) 
+ USA 
+ UK 
+ France 
+ Operating limitations: 
+ Aviation 
+ F12 
+ MIL G 5572 
+ AIR 3401 
+ +30°C and 2000 m(6,500 ft). 
+ Gasoline 
+ Grade 80/87 
+ 80/87 
+ Maximum operation time 
+ (AVGAS) 
+ F18 
+ MIL G 5572 
+ D.Eng.RD 
+ AIR 3401 
+ on gasoline during any 
+ Grade 100/130 
+ 2485 
+ 100/130 
+ period between overhaul 
+ F22 
+ MIL G 5572 
+ AIR 3401 
+ 25 hours. 
+ Grade 115/145 
+ 115/145 
+ Add 1 to 2% of lubrica- 
+ Automotive 
+ F46 
+ MIL G 3056 
+ DEF.2401 
+ DCEA/ 
+ ting oil by volume 
+ Gasoline 
+ 2DMT80 
+ (mineral if possible) 
+ Automotive 
+ F54 
+ VVF 800 
+ TS 10.003 
+ DCEA/ 
+ Not to be used at 
+ Diesel Oil 
+ DF2 
+ 21 C 
+ OAT below -5°C 
+ VVF 800 
+ Not to be used at 
+ DF1 
+ OAT below -15°C 
+ Artic 
+ F56 
+ VVF 800 
+ Not to be used at 
+ Diesel Oil 
+ DFA 
+ OAT below -20°C 
+ Fuel Oil 
+ F75 
+ MIL F 16884 
+ DEF 2402 
+ 7120 STM 
+ Not to be used at 
+ ""O"" 
+ 47/0 DIESO 
+ OAT below -5°C 
+ Fuel Oil 
+ F76 
+ DEF 2402 
+ 7120 STM 
+ Not to be used at 
+ ""20"" 
+ 47/20 
+ OAT below O°C 
+ DIESO 
+ Parafin 
+ F58 
+ VVK 211 
+ DEF 2403 
+ DCEA/11C 
+ Not to be used at 
+ (Illumin- 
+ OAT below -15°C 
+ ating Oil) 
+ NOTE 1: Refer to current issues and amendments. 
+ NOTE 2: The use of an approved anti-icing additive is mandatory, if none is contained 
+ in the fuel, at OAT below +5°C. 
+ NOTE 3: For starting, when using the various diesel oils prescribed in the above chart, 
+ an approved auxiliary priming unit containing one of the fuels marked thus * 
+ is: 
+ - recommended in all cases 
+ - necessary if temperature is below +20°C 
+ The following additives are approved for use: 
+ - Phillips PFA/55MB, MIL-I-27686 (as revised), French AIR 3652 (as revised), or 
+ D.Eng.RD 2451 anti-icing additive in quantity up to 0.15 percent in volume (with or 
+ without glycerine) 
+ - Shell ASA.3 antistatic additive in quantity up to 0.0001 percent in volume."
+Rotor LowSpeed,Visual and aural at 360 r.p.m.
+Airspeed Limits,"Never-exceed-speed 168 knots IAS at sea level, decreasing with altitude 4 knots per 
+ 1,000 ft. pressure altitude."
+CG Range,"Longitudinal : +110.2 in. to + 123.6 in. 
+ Lateral 
+ : right 5.3 in. 
+ : left 6.0 in."
+Empty Weight CG Range,None
+Datum,118.1 in. forward of main rotor hub center.
+Leveling Means,Three plates on the left side of transmission support platform.
+Minimum Crew,1 pilot at 56.7 in.
+Maximum Passengers,"4 (1 at 56.7 in. 
+ (3 at 90.2 in."
+Maximum Baggage,125 lb/ft2
+Fuel Capacity,"1 . US gallons (120.7) - Usable 1 . US gallons. 
+ 23.7 additional usable US gallons (120.7) with Auxiliary Fuel Tank Installation 341A- 
+ 82-1720.01 and -1721.1 
+ (See NOTE 1 for data on unusable fuel)."
+Oil Capacity,"Engine max. 2.4 US gallons at 154 
+ (See NOTE 1 for data on undrainable oil) 
+ MGB max. 0.9 US gallon at 121 
+ TGB max. 0.1 US gallon at 348"
+Control Movements,"For rigging information, refer to the Gazelle-Maintenance Manual."
+Serial Nos Eligible,"The French Government ""Certificat de Navigabilite pour Exportation"" endorsed as noted 
+ below under ""Import Requirements"" must be submitted for each individual aircraft for 
+ which application for FAA certification is made."
+Certification basis,"FAR 21.29 and FAR 27 effective 1 February 1965 plus Amendments 27-1 through 27-4 
+ plus Conditions Speciales Techniques Complementaires notified to FAA by SGAC in 
+ letter 4987/DTA.M dated 2 September 1971, plus FAA Special Conditions No. 27-45- 
+ EU-13 dated 14 September 1972. 
+ Type Certificate No. H6EU issued 18 September 1972. 
+ Date of application for type certificate: 28 January 1971. 
+ The French Direction Generale de l’Aviation Civile (DGAC) originally type 
+ certificated this rotorcraft under its type certificate TC 66. The FAA validated this 
+ product under U.S. Type Certificate Number H6EU. Effective September 28, 
+ 2003, the European Aviation Safety Agency (EASA) began oversight of this 
+ product on behalf of the DGAC."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on a National Aviation 
+ Authority (NAA) Export Certificate of Airworthiness (Export C of A) signed by a 
+ representative of the French Generale de l’Aviation Civile (DGAC) on behalf of 
+ the European Community. 
+ The Export C of A should contain the following statement: “The aircraft covered 
+ by this certificate has been examined, tested, and found to comply with the type 
+ design approved under U.S. Type Certificate Number H6EU and to be in a 
+ condition for safe operation.”"
+Service Information,"Each of the documents listed below must state that it is approved by the European 
+ Aviation Safety Agency (EASA) or – for approvals made before September 28, 
+ 2003 – by the French Generale de l’Aviation Civile (DGAC). Any such 
+ documents are accepted by the FAA and are considered FAA approved. 
+  
+ Service Bulletin, 
+  
+ Structural repair manuals, 
+  
+ Vendor manuals, 
+  
+ Aircraft flight manuals, and 
+  
+ Overhaul and maintenance manuals. 
+ This applies only to the acceptance of the type design data."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the helicopter for certification. 
+ In addition, the following item of equipment is required: 
+ DGAC-approved Rotorcraft Flight Manual (Code B), approved 
+ December 1974 for Model SA341G and April 1976 for Model SA342J."
+NOTE 1,"Current weight and balance report including loading instructions and list of equipment included in the 
+ certificated empty weight, must be provided for each helicopter at the time of original certification. The 
+ certification empty weight and corresponding center of gravity location must include undrainable oil of 3.3 
+ lb. at 154, and unusable fuel of 3.5 lb., at (+138 in.) with and without auxiliary fuel tank. 
+ In order to obtain the most consistent weight and balance results, all helicopters should be weighed on 
+ jackpoints rather than on wheels and floats. When changes are made to the helicopter which affect the 
+ weight and balance, refer to the Flight Manual for instructions."
+NOTE 2,"The following placard must be displayed in clear view of the pilot: 
+ ""THIS HELICOPTER MUST BE OPERATED IN COMPLIANCE WITH THE OPERATING 
+ LIMITATIONS SPECIFIED IN THE APPROVED ROTORCRAFT FLIGHT MANUAL."" 
+ ""THE AIRWORTHINESS LIMITATIONS SECTION OF THE ROTORCRAFT MAINTENANCE 
+ MANUAL MUST BE COMPLIED WITH"". 
+ The other placards as indicated in the Rotorcraft Flight Manual must be installed in the appropriate location."
+NOTE 3,"Information essential to the proper maintenance of the helicopter is contained in the Manufacturer's Gazelle 
+ Maintenance Manual provided with each helicopter, which specifies that service life limited parts be retired 
+ in accordance with Chapter 5 approved by DGAC."
+Note 4,"Effective January 1, 2014, Eurocopter France name was changed to Airbus Helicopters."

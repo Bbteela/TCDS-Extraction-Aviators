@@ -1,0 +1,143 @@
+Keyterm,Info
+"R0001RD 
+ Revision 5 
+ Airbus Helicopters 
+ EC120B 
+ February 8, 2022",
+Type Certificate Holder,"Airbus Helicopters 
+ Aeroport International Marseille Provence 
+ 13725-Marignane Cedex 
+ France"
+TC Holder Record,"Eurocopter France changed name to Airbus Helicopters on January 1, 2014."
+"I. Model EC120B (Normal Category) Helicopter, Approved January 28, 1998",
+Engine,1 Turbomeca Arrius 2F
+Fuel,See Rotorcraft Flight Manual
+Installed Engine Limits,"Gas Generator 
+ Exhaust Gas 
+ Speed Ng 
+ Temperature T4 
+ % (RPM) 
+ oC (oF) 
+ Takeoff Rating (5 min.) 
+ 101 (54658) 
+ 870 (1598) 
+ Maximum Continuous 
+ 99.5 (53847) 
+ 830 (1526) 
+ Maximum Transient (5 sec.) 103.6 (56065) 
+ 900 (1652) 
+ See Rotorcraft Flight Manual for other limitations including speed and temperature transients"
+Transmission Torque Limits,"Maximum Takeoff 
+ 100% 
+ Maximum Continuous 
+ 97% 
+ Maximum Transient 
+ 110% 
+ 100% = 300 Kw (402 SHP) at 406 RPM"
+Rotor Limits,"390 RPM 
+ Low NR aural warning: 370 RPM 
+ 415 RPM 
+ High NR aural warning: 420 RPM"
+Minimum power off,340 RPM
+Maximum power off,447 RPM
+Airspeed Limits IAS,"Max. VNE (power on) = 150 kts. at Hp= 0 ft. 
+ Max. VNE (power off) = 120 kts. at Hp= 0 ft. 
+ See Rotorcraft Flight Manual for airspeed limit decrease with altitude. 
+ I I I I"
+Page No,"1 
+ 2 
+ 3"
+Rev No,"5 
+ 3 
+ 5"
+CG Range,"Longitudinal C.G. Limits 
+ max. forward range: 
+ at 1680 kg (3700 lb): 3870mm (152.2 in.) 
+ at 1400 kg (3086 lb): 3830mm (150.8 in.) 
+ at 1300 kg (2866 lb): 3830mm (150.8 in.) 
+ at 970 kg (2138 lb): 3890mm (153.1 in.) 
+ max. rearward range: 
+ at 1680 kg (3700 lb): 4100mm (161.4 in.) 
+ at 1300 kg (2866 lb): 4150mm (163.4 in.) 
+ at 970 kg (2138 lb): 4170mm (164.2 in.) 
+ Straight line variation between points given. 
+ Lateral C.G. Limits 
+ max. left CG: 
+ 80mm (3.15 in.) 
+ max. right CG: 
+ 80mm (3.15 in.) 
+ lateral CG varies with longitudinal CG position. Refer the Rotorcraft Flight Manual."
+Empty Weight CG Range,None
+Max Weight,1680kg (3700 lb)
+Min Crew,1 Pilot
+Passengers,4
+MaxBaggageCargo Loads,"Baggage floor: 
+ 300kg/m2 (61.4 lb/ft2 ) 
+ Cockpit floor: 
+ 300kg/m2 (61.4 lb/ft2 )"
+Fuel Capacity,"total: 416 liter (109.9 US gal.) 
+ usable: 411.5 liter (108.7 US gal.)"
+Oil Capacity,Maximum engine oil capacity: 4.61 liter (1.22 US gal.)
+Max Operating Altitude,"6096m (20000ft) pressure altitude 
+ For rigging information refer to the EC120 Maintenance Manual."
+Datum,"Longitudinal: 4m (157.5 in.) forward of main rotor head center line 
+ Lateral: Symetrical plane of the rotorcraft"
+Leveling Means,Mechanical floor
+Serial Nos Eligible,"1001 and subsequent. A French (DGAC) Certificate of Airworthiness endorsed as noted 
+ below under “Import Requirements” must be submitted for each individual rotorcraft for 
+ which application for FAA certification is made."
+Serial Nos Ineligible,"The FAA has revoked the standard airworthiness certificate of serial number 1137 on an 
+ emergency basis, based on a determination of un-airworthiness sufficient to render the 
+ certificate ineffective. This serial number aircraft is not currently eligible for a Standard 
+ Certificate of Airworthiness. Inquiries regarding this aircraft should be directed to the FAA 
+ Rotorcraft Directorate Staff, Fort Worth, TX."
+Certification Basis,"- FAR 21.29 
+ - FAR 27, through Amendment 27-33 
+ - FAR 36 Appendix J through Amendment 36-21 
+ - Equivalent Level of Safety findings 
+ FAR 27.1027(b)(2) 
+ FAR 27.1549(b) 
+ The French Direction Generale de l’Aviation Civile (DGAC) originally type 
+ certificated this rotorcraft under its type certificate TC 189. The FAA validated 
+ this product under U.S. Type Certificate Number R0001RD. Effective September 
+ 28, 2003, the European Aviation Safety Agency (EASA) began oversight of this 
+ product on behalf of the DGAC."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on a National Aviation 
+ Authority (NAA) Export Certificate of Airworthiness (Export C of A) signed by a 
+ representative of the French Generale de l’Aviation Civile (DGAC) on behalf of 
+ the European Community. 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the 
+ United States of both new and used aircraft based on the scope of the agreement, to 
+ identify any required statements by the exporting authority on the export certificate 
+ of airworthiness (or equivalent document), and for procedures for coordinating 
+ exceptions to conformity statements on these documents. Refer to FAA 
+ Order 8130.2, Airworthiness Certification of Aircraft, for requirements for issuance 
+ of an airworthiness certificate for imported aircraft. 
+ The Export C of A should contain the following statement: “The aircraft covered 
+ by this certificate has been examined, tested, and found to comply with the type 
+ design approved under U.S. Type Certificate Number R0001RD and to be in a 
+ condition for safe operation.”"
+Equipment,"The minimum required equipment as prescribed in the applicable 
+ airworthiness regulations (see Certification Basis) must be installed in the 
+ respective helicopter for certification. 
+ DGAC-approved EC120B Rotorcraft Flight Manual, dated 
+ June 19, 1997, Revision 2, or later approved revision, as required."
+Service Information,"Each of the documents listed below must state that it is approved by the European 
+ Aviation Safety Agency (EASA) or – for approvals made before September 28, 
+ 2003 – by the French Generale de l’Aviation Civile (DGAC). Any such 
+ documents are accepted by the FAA and are considered FAA approved. 
+  
+ Service Bulletin, 
+  
+ Structural repair manuals, 
+  
+ Vendor manuals, 
+  
+ Aircraft flight manuals, and 
+  
+ Overhaul and maintenance manuals. 
+ This applies only to the acceptance of the type design data."
+NOTE 1,"Any alteration to the type design of this aircraft may require instructions for Continued 
+ Airworthiness. These instructions must be submitted and accepted by the Fort Worth 
+ Aircraft Evaluation Group Office prior to approval for return to service."
+NOTE 2,"Effective January 1, 2014, Eurocopter France name was changed to Airbus Helicopters."

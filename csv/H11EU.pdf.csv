@@ -1,0 +1,1116 @@
+Keyterm,Info
+"H11EU 
+ Revision 12 
+ Airbus Helicopters 
+ AS355E 
+ AS355F 
+ AS355F1 
+ AS355F2 
+ AS355N 
+ AS355NP 
+ February 8, 2022",
+Type Certificate Holder,"Airbus Helicopters 
+ Aeroport International Marseille Provence 
+ 13725 - Marignane - Cedex 
+ France"
+TC Holder Record,"Eurocopter France changed name to Airbus Helicopters on January 1, 2014."
+"I. 
+ Model AS355E ""TWINSTAR"" (Normal Category), November 20, 1981.",
+Engine,2 ALLISON Model 250-C20F
+Installed Engine Limits,"Gas 
+ Exhaust 
+ Output 
+ Torque 
+ Generator 
+ Gas 
+ Shaft 
+ Speed 
+ Temp. 
+ Speed"
+Takeoff 5 min,"380 mN (73%) 
+ 53519 rpm 
+ 810ºC 
+ 6196 rpm"
+two engines operative,"380 mN (73%) 
+ "" 
+ 738ºC 
+ "" 
+ 521 mN (100%) 
+ "" 
+ 810ºC 
+ """
+one engine inoperative,"Engine gearbox Torque limit = 384 ft - lb (521 mN) = 100% 
+ Refer to Flight Manual AS355E for transients."
+Fuel,Refer to Flight Manual AS355E for approved fuels and additive specifications.
+Helicopter Limits,"Maximum (one engine inoperative): 
+ 100% (521 mN) 
+ Maximum (two engines operative): 
+ 73% (380 mN)"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16"
+1fll,I
+Rev No,"12 
+ 6 
+ 3 
+ 6 
+ 4 
+ 10 
+ 6 
+ 10 
+ 6 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 12 
+ 11"
+CG Range,"Longitudinal 
+ 3.17 
+ 3.26 
+ ◄ CENTRAGE (m) ► 3.47 
+ 3.5<1 
+ 3.20 
+ 3.30 
+ 3.40 
+ 3.50 
+ ,_ 
+ 1 -- 
+ . . 
+ I - 
+ I • 
+ 500 
+ 2400 
+ • 
+ I 
+ I i I 
+ I -, 
+ 5000 
+ t 
+ I 
+ I~ 
+ I' 
+ t 
+ t 
+ ♦ 
+ t 
+ tr 
+ 2200 
+ S .·J 
+ '·• 
+ ! 
+ : • 
+ . I I 
+ I- 
+ ◄ 
+ t t. 
+ +-i-++-lr-+-iti'+~,~+-1-!',~;i""f'+-t-!1~~-t-lt-~ •,-,..~ 
+ ,!-t--!,""""'""~ ,-+-!:-:!'-~ 
+ :,-+-+-T""1'""'""'ri- ~ 
+ 2100 
+ <1500 
+ 1 
+ LIMITE AVANT 
+ !.., Llt,.1ITE ARRIERE 
+ ;:: 
+ 2000 
+ I 
+ FORWARD LIMIT h REARWARD LIMIT ._ 
+ == 
+ 1900 
+ -t-,II--IIJ'-I-M-+-+-11--PI --II,..+-+ 
+ ll_t-.11--11,..-1--111,...._.1_+-+11_+-+ll_+-+1 ... 1.._+-+ 
+ 1_+-+11 ... 1.._.-! 
+ 11_+-+'-+-HI-+_, -oillJ 
+ 1850 
+ I 
+ I 
+ I I 
+ I I 
+ I I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I I 
+ I 
+ I 
+ I I 
+ I I I 
+ I I l 
+ <1ooo 
+ 1800 
+ 135 
+ 125 
+ 130 
+ 139.3 
+ 124.8 
+ ◄ CG (in) 
+ ►"
+Datum,"Longitudinal = 133.8 in. forward of main rotor hub center 
+ Lateral 
+ = Vertical plane passing longitudinally through main rotor hub center"
+Maximum Weight,4628 lb (2100 kg)
+Rotor Speed,"Power-off 
+ maximum = 425 rpm 
+ minimum = 330 rpm 
+ Power-on 
+ = 390 
+ rpm with both engine operating 
+ = 375 to 394 
+ rpm with one engine inoperative"
+Rotor Speed Warning,Aural at 360 rpm
+Airspeed Limits,"Never exceed speed VNE Power-on: 
+ 0 - 73% torque. 150 kts at zero pressure altitude. 
+ Doors removed, 70 kts at zero pressure altitude. 
+ 73% - 78% torque. 
+ 55 kts at all altitudes. 
+ Never exceed speed VNE Power-off: 
+ 120 kt at zero pressure-altitude 
+ See Rotorcraft Flight Manual for decrease of these values with altitude and temperature."
+Minimum Crew,1 pilot at 60.62 in. - Starboard seat
+Maximum Passenger 5,"4 at 98.42 in. 
+ 1 at 60.62 in."
+Maximum Baggage,"Right baggage compartment = 220 lb at 125.98 in 
+ Left baggage compartment = 264 lb at 125.908 in 
+ Rear baggage compartment = 176 lb at 181.10 in 
+ Main cabin (on rear 
+ = 682 lb at 88.58 in 
+ (on LH forward = 330 lb at 61.02 in"
+Fuel Capacity,"Front Tank 
+ Rear Tank 
+ Total 
+ 88.1 U.S. gallons 
+ 106.5 U.S. gallons 
+ Usable 
+ 87.2 U.S. gallons 
+ 105.7 U.S. gallons 
+ C.G. Range 
+ 127.55 in 
+ 151.55 in 
+ See NOTE 1 for data on unusable fuel."
+Empty Weight CG Range,None
+Leveling Means,Transmission support platform.
+Oil Capacity,"Engine 
+ = 2 x 1.5 U.S. gallons at 140.5 in 
+ MGB 
+ = 2.9 U.S. gallons at 145.2 in 
+ TGB 
+ = 0.08 U.S. gallons at 379.5 in 
+ For rigging information, refer to the AS 355 Maintenance Manual."
+"II. Model AS 355-F ""TWINSTAR"" (Normal Category), November 20, 1981. 
+ (Same as model AS355E except for maximum weight and dual hydraulic systems).",
+Engine,2 ALLISON Model 250-C20F.
+Installed Engine Limits,"Gas 
+ Exhaust 
+ Output 
+ Torque 
+ Generator 
+ Gas 
+ Shaft 
+ Speed 
+ Temp. 
+ Speed 
+ 380 mN (73%) 
+ 810ºC 
+ Take-off 
+ (5 min) 
+ 53519 rpm 
+ 6196 rpm 
+ (two engines operative) 
+ 380 mN (73%) 
+ "" 
+ 738ºC 
+ """
+Continuous one engine operative,""" 
+ "" 
+ 521 mN (100%) 
+ 810ºC 
+ Engine gearbox torque limit = 384 ft=lb (521 mN) = 100% 
+ Refer to Flight Manual AS355F for transients."
+Fuel,Refer to Flight Manual AS355F for approved fuels and additive specification.
+Helicopter Limits,"Maximum (one engine inoperative): 
+ 100% (521 mN) 
+ Maximum (two engines operative): 
+ 73% (380 mN)"
+CG Range,"Longitudinal 
+ ◄ CENTRAGE [m] 
+ ► 0 
+ 3.5 4 
+ 3.30 
+ 3.40 
+ T., 
+ 3.50 
+ 2600 
+ 2500 
+ 2400 
+ t : 
+ ~ ~ 
+ ·l ·:kl:: 
+ I I 
+ I 
+ I 
+ I 
+ 1 
+ LIMITE AVANT 
+ ~ 
+ 2200 
+ ., 
+ FORWARD LIMIT 
+ ~ ~ 
+ I 
+ I °' :: 
+ I I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ 1 
+ LIMITE ARRIERE 
+ 2000 
+ REARWARD LIMIT 
+ I 
+ 1900 
+ ' 
+ l ·Y 
+ I 
+ I 
+ I I 
+ I 
+ I I I I 
+ I I I I 
+ I 
+ ~ 
+ ~ 
+ I I I I 
+ I I I I I I I I I 
+ I 
+ . .-, I I 
+ I 
+ 4000 
+ 1800 
+ do 
+ ► 
+ ◄ 
+ CG (in) 
+ Lateral - Right = 3.54 in 
+ Left = 6.30 in"
+Datum,"Longitudinal = 133.8 in. forward of main rotor hub center 
+ Lateral 
+ = Vertical plane passing longitudinally through main rotor hub center"
+Maximum Weight,5070 lb (2300 kg)
+Rotor Speed,"Power-off 
+ maximum = 425 rpm 
+ minimum = 330 rpm 
+ Power-on 
+ = 390 
+ rpm with both engines operating 
+ = 375 to 394 
+ rpm with one engine inoperative"
+Rotor Speed Warning,Aural at 360 rpm
+Airspeed Limits,"Never exceed speed VNE Power-on: 
+ 150 kt at zero pressure altitude. Doors removed; 70 knots at zero pressure altitude. 
+ Never exceed speed VNE Power-off 
+ 120 kt at zero pressure-altitude 
+ See Rotorcraft Flight Manual for decrease of these values with altitude and temperature."
+Minimum Crew,1 pilot at 60.62 in. - Starboard seat
+Maximum Passengers 5,"4 at 98.42 in. 
+ 1 at 60.62 in."
+Maximum Baggage,"Right baggage compartment = 220 lb at 125.98 in 
+ Left baggage compartment 
+ = 264 lb at 125.908 in 
+ Rear baggage compartment = 176 lb at 181.10 in 
+ Main cabin (on rear 
+ = 682 lb at 88.58 in 
+ (on LH forward = 330 lb at 61.02 in)"
+Fuel Capacity,"Front Tank 
+ Rear Tank 
+ Total 
+ 88.1 U.S. gallons 
+ 106.5 U.S. gallons 
+ Usable 
+ 87.2 U.S. gallons 
+ 105.7 U.S. gallons 
+ C.G. Range 
+ 127.55 in 
+ 151.55 in 
+ See NOTE 1 for data on unusable fuel."
+Empty Weight CG Range,None
+Leveling Means,Transmission support platform.
+Oil Capacity,"Engine 
+ = 2 x 1.5 U.S. gallons at 140.5 in 
+ MGB 
+ = 2.9 U.S. gallons at 145.2 in 
+ TGB 
+ = 0.08 U.S. gallons at 379.5 in 
+ For rigging information, refer to the AS 355 Maintenance Manual."
+"III. Model AS 355-F1 ""TWINSTAR"" (Normal Category), April 11, 1984.",
+Engine,2 ALLISON Model 250-C20F
+Installed Engine Limits,"Gas 
+ Exhaust 
+ Output 
+ Torque 
+ Generator 
+ Gas 
+ Shaft 
+ Speed 
+ Temp. 
+ Speed 
+ Take-off 
+ (5 min) 
+ 406 mN (78%) 
+ 53,519 rpm 
+ 810ºC 
+ 6,196 rpm 
+ (two engines operative) 
+ 380 mN (73%) 
+ "" 
+ 738ºC 
+ "" 
+ 521 mN (100%) 
+ "" 
+ 810ºC 
+ "" 
+ (one engine operative) 
+ Engine gearbox Torque limit = 384 ft=lb (521 mN) = 100% 
+ Refer to Flight Manual AS355F1 for transients."
+Fuel,Refer to Flight Manual AS355F1 for approved fuels and additive specifications.
+Helicopter Limits,"Maximum (one engine inoperative): 
+ 100% (521 mN) 
+ Maximum (two engines operative): 
+ 78% (406 mN)"
+CG Range,"Longitudinal 
+ ◄ CENTRAGE [m] 
+ ► 
+ .... ~ 
+ :::: ::: ; :· ~ -- :t: ♦ : 
+ · ::·.t:::J-: 
+ ::. -:-1-. -:. :.:: ··.1::'.I·> :::+·:-1:::: .. :::::, ,::::::f ::,:.;: ::: :i<;:;+<. ::: ::: ::::t::-t:i-:-1:-: 
+ SSIO 
+ :;-1·· ; . ·_: ::.J::-:•·:·;.:- :- t .<t•::r::t :: -::t:::l:'.:1:::: ':, :-:~ +:: ::-1:: :::+:::(:•:•: t:: 
+ :::: -. ,: ·::t:: ►·. -:.i::T .' 
+ .... ~ 
+ f·.·I, .·. -::! ;:+.;.I ' :-:-:t;:;:t;::t,;:;; 
+ :::t'.•:J_:;f.;:: 
+ :,.•:-'.·'-· <·\'.:'. ::::•:;:;t: ·:: •:::;: 
+ [ffi!] ::: =:=•:+•=:r·· .·,;-:·:-. 'J ·,, ,.., 
+ ::: ::.t.:-::-::f•: :-:♦- -f~ 
+ I I • 
+ 1 I I 
+ I I 
+ ··1.:: ;.;+:::t:;.j:::~:: 
+ suo 
+ '.E 
+ 0 
+ 2:300 
+ 2200 
+ ~ 
+ I I 
+ I 
+ mill 
+ LIMITE AVANT 
+ 1 1 1 
+ t'"" [!fil] 
+ ~ 
+ FORWARD LIMIT 1--1,-1-1-+-+---1-.-1 .. 
+ I I I 
+ 1""""!-..+l-, """"1 ....... .,_. 
+ •soo 
+ ~ 
+ mm 
+ [iii] :'T: 7 I 
+ , I I 
+ I 
+ I I 
+ I I 
+ I 
+ I I I 
+ 11 
+ I 
+ l I 
+ l I I I 
+ I I 
+ I 
+ U DO 
+ ·.-! ; 
+ I I 
+ d . 
+ I I 
+ I I 
+ I 
+ I I 
+ I I 
+ I 
+ I I 
+ I 
+ I I 
+ Ii 
+ I 
+ I I ' 
+ I 
+ I I I 
+ •no 
+ ~ ◄ 
+ CG [in] 
+ ► 
+ .Js.e 
+ 1JJ 
+ Lateral 
+ - Right = 3.54 in 
+ - Left = 6.30 in"
+Datum,"Longitudinal 
+ = 133.8 in. forward of main rotor hub center 
+ Lateral 
+ = Vertical plane passing longitudinally through main rotor hub 
+ center."
+Maximum Weight,5291 lb (2400 kg)
+Rotor Speed,"Power-off 
+ maximum = 425 rpm 
+ minimum = 330 rpm 
+ Power-on 
+ = 390 
+ rpm with both engines operating 
+ = 375 to 394 
+ rpm with one engine inoperative"
+Rotor Speed Warning,Aural at 360 rpm and 410 rpm.
+Airspeed Limits,"Never exceed speed VNE Power-on: 
+ 150 kt at zero pressure altitude. Doors removed; 70 knots at zero pressure altitude. 
+ Never exceed speed VNE Power-off 
+ 120 kt at zero pressure-altitude 
+ See Rotorcraft Flight Manual for decrease of these values with altitude 
+ and temperature."
+Minimum Crew,1 pilot at 60.62 in. - Starboard seat
+Maximum Passengers Standard5,"4 at 98.42 in. 
+ 1 at 60.62 in. 
+ Maximum passengers of 6 is available when the aircraft is equipped with the optional 
+ two-place seat at 60.62 in. This optional item is to be used in accordance with the 
+ associated Flight Manual supplement."
+Maximum Baggage,"Right baggage compartment = 220 lb at 125.98 in 
+ Left baggage compartment = 264 lb at 125.908 in 
+ Rear baggage compartment = 176 lb at 181.10 in 
+ Main cabin (on rear 
+ = 682 lb at 88.58 in 
+ (on LH forward = 330 lb at 61.02 in"
+Fuel Capacity,"Front Tank 
+ Rear Tank 
+ Total 
+ 88.1 U.S. gallons 
+ 106.5 U.S. gallons 
+ Usable 
+ 87.2 U.S. gallons 
+ 105.7 U.S. gallons 
+ C.G. Range 
+ 127.55 in 
+ 151.55 in 
+ See NOTE for data on unusable fuel."
+Empty Weight CG Range,None
+Leveling Means,Transmission support platform
+Oil Capacity,"Engine 
+ = 2 x 1.5 U.S. gallons at 140.5 in 
+ MGB 
+ = 2.9 U.S. gallons at 145.2 in 
+ TGB 
+ = 0.08 U.S. gallons at 379.5 in 
+ For rigging information, refer to the AS 355 Maintenance Manual."
+"IV. Model AS355F2 ""TWINSTAR"" (Normal Category), February 13, 1987. 
+ (Same as AS355F1 except for maximum weight, external load maximum weight, yaw compensation system, etc.)",
+Engine,2 ALLISON Model 250-C20F
+Installed Engine Limits,"Gas 
+ Exhaust 
+ Output 
+ Torque 
+ Generator 
+ Gas 
+ Shaft 
+ Speed 
+ Temp. 
+ Speed"
+Takeoff,"(5 min) 
+ 406 mN (78%) 
+ 53,519 rpm 
+ 810ºC 
+ 6,196 rpm 
+ (two engines operative) 
+ 380 mN (73%) 
+ "" 
+ 738ºC 
+ "" 
+ 521 mN (100%) 
+ "" 
+ 810ºC 
+ "" 
+ (one engine operative) 
+ Engine gearbox Torque limit = 384 ft=lb (521 mN) = 100% 
+ Refer to Flight Manual AS355F2 for transients."
+Fuel,Refer to Flight Manual AS355F2 approved fuels and additive specification.
+Helicopter Limits,"Maximum (one engine inoperative): 
+ 100% (521 mN) 
+ Maximum (two engines operative): 
+ 78% (406 mN)"
+CG Range,"Longitudinal 
+ J. 17 
+ CENTRAGE [m) 
+ ► J.(5 
+ l.U 
+ .rs;, 
+ 2501 
+ mm 
+ ).· ·,··""'.•·•:• ···-""·• .·.,·.- .·. 
+ I I 
+ I 
+ I 
+ : •J.·:r · ·:• ·-•p.·. 
+ \.:i :f ::F ::J ::· d :::f:: 
+ """" 
+ I I 
+ _j :_.fJ::J.:· :::: .) ::: :• 
+ I 
+ I I 
+ 2•oe 
+ I 
+ I 
+ ~xv :::i::: ::: 
+ I I r""l· :::f:': :;,:::::: 
+ LIMITE ARRIERE 
+ -""'' 
+ :;s 
+ ZlOI 
+ REARWARD LIMIT 
+ ~ 22H 
+ I 
+ I\ :::1:::i,:: 
+ C 
+ !2 
+ I I 
+ ~ ~ 
+ @!I g 
+ LIMITE AVANT 
+ I 
+ I I 
+ .s 
+ """" 
+ ~ 
+ ~ 
+ I 
+ FORWARD LIMIT 
+ I 
+ 11!!] 
+ I 
+ I 
+ : 
+ I 
+ 190I 
+ I 
+ I! 
+ I I 
+ I I 
+ 400I 
+ 1191 
+ I•~ 
+ ""' 
+ ~ 
+ I 
+ ~ 
+ '"" 
+ CG [in) 
+ ► 
+ 115.B 
+ ◄ 
+ Lateral 
+ - Right 
+ = 3.54 in 
+ - Left 
+ = 6.30 in"
+Datum,"Longitudinal 
+ = 133.8 in. forward of main rotor hub center 
+ Lateral 
+ = Vertical plane passing longitudinally through main rotor hub center"
+Maximum Weight,5600 lb (2540 Kg)
+Rotor Speed,"Power-off 
+ maximum = 425 rpm 
+ minimum = 330 rpm 
+ Power-on 
+ = 390 
+ rpm with both engines operating 
+ = 375 to 394 
+ rpm with one engine inoperative"
+Rotor Speed Warning,Aural at 360 rpm and 410 rpm.
+Airspeed Limits,"Never exceed speed VNE Power-on: 
+ 150 kt zero pressure altitude. Doors open or removed: 70 knots at zero pressure altitude. 
+ Never exceed speed VNE Power-off 
+ 120 kt at zero pressure-altitude 
+ See Rotorcraft Flight Manual for decrease of these values with altitude and temperature."
+Minimum Crew,1 pilot at 60.62 in. - Starboard seat
+Maximum Passengers Standard 5,"4 at 98.42 in. 
+ 1 at 60.62 in. 
+ Maximum passengers of 6 is available when the aircraft is equipped with the optional 
+ two-place seat at 60.62 in. This optional item is to be used in accordance with the 
+ associated Flight Manual supplement."
+Maximum Baggage,"Right baggage compartment = 220 lb at 125.98 in 
+ Left baggage compartment = 264 lb at 125.908 in 
+ Rear baggage compartment = 176 lb at 181.10 in 
+ Main cabin (on rear 
+ = 682 lb at 88.58 in 
+ (on LH forward = 330 lb at 61.02 in"
+Fuel Capacity,"Front Tank 
+ Rear Tank 
+ Total 
+ 88.1 U.S. gallons 
+ 106.5 U.S. gallons 
+ Usable 
+ 87.2 U.S. gallons 
+ 105.7 U.S. gallons 
+ C.G. Range 
+ 127.55 in 
+ 151.55 in 
+ See NOTE for data on unusable fuel."
+Empty Weight CG Range,None
+Leveling Means,Transmission support platform
+Oil Capacity,"Engine 
+ = 2 x 1.5 U.S. gallons at 140.5 in 
+ MGB 
+ = 2.9 U.S. gallons at 145.2 in 
+ TGB 
+ = 0.08 U.S. gallons at 379.5 in 
+ For rigging information, refer to the AS355 Maintenance Manual."
+"V. 
+ Model AS355N ""Twinstar"" (Normal Category), October 15, 1992. 
+ The major difference between the AS355N and AS355F series is the replacement of the Allison C250 engines with 
+ Turbomeca Arrius 1 A engines",
+Engine,2 Turbomeca model Arrius 1 A controlled by a digital electronic control units.
+Installed Engine Limits,"Gas 
+ Exhaust 
+ Output 
+ Torque 
+ Generator 
+ Gas 
+ Shaft 
+ Speed 
+ Temp. 
+ Speed 
+ Take-off 
+ (5 min) 
+ 406 mN (78%)* 
+ 54,685 rpm 
+ 800ºC 
+ 6,256 rpm 
+ 380 mN (73%)* 
+ 53,285 rpm 
+ 765ºC 
+ 6,256 rpm"
+one engine operative,"521 mN (100%)* 
+ 53,285 rpm 
+ 765ºC 
+ 6,256 rpm"
+30 mn one engine inoperative,"599 mN (115%) * 
+ 55,300 rpm 
+ 800ºC 
+ 6,256 rpm 
+ 2 mn. 30s one engine inoperative 
+ 683 mN (131%) 
+ 56,140 rpm 
+ 870ºC 
+ 6,256 rpm 
+ * Torque limits of helicopter main gearbox 
+ Engine gearbox torque limit = 521 mN (100% torque) 
+ refer to Flight Manual AS355N for transients."
+Fuel,Refer to Flight Manual AS355N for approved fuels and additive specifications.
+Helicopter Limits,"One engine inoperative: 
+ Maximum continuous torque: 100% (521 mN) 
+ 30 mn. torque: 
+ 115% (599mN). 
+ 2mn 30s. torque: 
+ 131% (683 mN). 
+ Two engines operative: 
+ IAS < 55 Kts.: 
+ 78% (406 mN). 
+ IAS > 55 Kts.: 
+ 73% (380 mN)."
+CG Range,"Longitudinal 
+ (m) 
+ CENTERING 
+ l.11 
+ l.25 
+ 3.45 
+ 3.§4 
+ 121 
+ 3.30 
+ HO 
+ l.50 
+ mm 
+ 2600 
+ Gill 
+ "" 
+ 5500 
+ / 
+ '- 
+ 2508 
+ / 
+ '\.. 
+ :a 
+ I 
+ ""' 
+ 2400 
+ 0 
+ REARWARD LIMIT 
+ ➔ ' 
+ I 
+ 5000 
+ ~ 
+ oil 
+ g 
+ 2180 
+ J 
+ ""' 
+ I.I 
+ ' ""' 
+ 1§ 8 
+ '"" 
+ 2208 
+ mm f 
+ 'I 
+ I f- 
+ FORWARD LIMIT 
+ 4500 
+ 7 
+ ~ ~ 
+ (Eill 
+ I 
+ .... 
+ 1'111 
+ 1l5 
+ 1800 
+ 125 
+ J]O 
+ T2U 
+ IZ7.9 
+ CG (in) 
+ 135.8 
+ IU.3 
+ Lateral - Right 
+ = 0.09 m (3.54 in) 
+ - Left 
+ = 0.16 m (6.30 in)"
+Datum,"Longitudinal = 3.40 m (133.8 in. forward of main rotor hub center) 
+ Lateral 
+ = Vertical plane passing longitudinally through main rotor hub center."
+Maximum Weight,5732 lb (2600 kg)
+Rotor Speed Limitations,"Power-on flight 
+ - two engines in operation: 390 (+ 4, -5) rpm 
+ For IAS below 55 kt: 390 (+ 10, -5) rpm 
+ - OEI : 375 to 394 rpm 
+ Power-off flight 
+ - max. 425 rpm (aural warning at 410 rpm) 
+ - min. 330 rpm (aural warning at 360 rpm)"
+Airspeed Limits,"Never exceed speed VNE Power-on: 
+ 150 kt zero pressure altitude. 
+ Doors removed: see the flight manual (section 2.1, § 5.2.) 
+ Never exceed speed VNE Power-off: 
+ 120 kt at zero pressure-altitude. 
+ See Rotorcraft Flight Manual for decrease of these values with altitude 
+ and temperature."
+Minimum Crew,1 pilot at 60.62 in. - Starboard seat.
+Maximum Passenger Standard 5,"4 at 98.42 in. 
+ 1 at 60.62 in. 
+ Maximum passengers of 6 is available when the aircraft is equipped with the optional 
+ two-place seat at 60.62 in. This optional item is to be used in accordance with the 
+ associated Flight Manual supplement."
+Maximum Baggage,"Right baggage compartment = 220 lb at 125.98 in 
+ Left baggage compartment 
+ = 264 lb at 125.908 in 
+ Rear baggage compartment = 176 lb at 181.10 in 
+ Main cabin (on rear 
+ = 682 lb at 88.58 in 
+ (on LH forward = 330 lb at 61.02 in"
+Fuel Capacity,"Front Tank 
+ Rear Tank 
+ Total 
+ 88.1 U.S. gallons 
+ 106.5 U.S. gallons 
+ Usable 
+ 87.2 U.S. gallons 
+ 105.7 U.S. gallons 
+ C.G. Range 
+ 127.55 in 
+ 151.55 in 
+ See NOTE 1 for data on unusable fuel."
+Empty Weight CG Range,None
+Leveling Means,Transmission support platform.
+Oil Capacity,"Engine 
+ = 2 x 1.5 U.S. gallons at 140.5 in 
+ MGB 
+ = 2.9 U.S. gallons at 145.2 in 
+ TGN 
+ = 0.08 U.S. gallons at 379.5 in 
+ For rigging information, refer to the AS 355 Maintenance Manual."
+"VI. Model AS355NP ""Twinstar"" (Normal Category), January 9, 2008. 
+ The major difference between the AS355NP and AS355N is the replacement of the Turbomeca Arrius 1A engines with 
+ Turbomeca Arrius 1A1 engines, addition of New engine monitoring system: VEMD (Vehicule and Engine Multifunction 
+ Display), electric oil cooling fan and upgraded main gear box.",
+Engine,2 Turbomeca model Arrius 1A1 controlled by a digital electronic control units.
+Installed Engine Limits,"Gas 
+ Exhaust 
+ Output 
+ Torque 
+ Generator 
+ Gas 
+ Shaft 
+ Speed 
+ Temp. 
+ Speed 
+ Take-off 
+ (5 min) 
+ 450 mN (86.4%)* 
+ 54,375 rpm 
+ 773ºC 
+ 6,016 rpm 
+ two engines operative 
+ 374 mN (71.8%)* 
+ 53,285 rpm 
+ 749ºC 
+ 6,016 rpm 
+ one engine operative 
+ 599 mN (115%)* 
+ 55,452 rpm 
+ 812ºC 
+ 6,016 rpm 
+ 2 mn. 30s one engine inoperative 
+ 683 mN (131%) 
+ 56,347 rpm 
+ 885ºC 
+ 6,016 rpm 
+ * Torque limits of helicopter main gearbox 
+ Engine gearbox torque limit = 521 mN (100% torque) 
+ refer to Flight Manual AS355NP for transients."
+Fuel,Refer to Flight Manual AS355NP for approved fuels and additive specifications.
+Helicopter Limits,"One engine inoperative: 
+ Maximum continuous torque: 
+ 115% (599 mN) 
+ 2mn 30s. torque: 
+ 131% (683 mN). 
+ Two engines operative: 
+ IAS < 55 Kts.: 
+ 86.4% (450 mN). 
+ IAS > 55 Kts.: 
+ 71.8% (374 mN)."
+CG Range,"Longitudinal 
+ 57321 
+ 18 0 0 ::;'t::D;;:::::=:=:::::::;:=::~;:::::;::::::~:::::::::;::::::;;:::=:::;::::::;:::::::::;:::;::::;:::::::=::::::;::::::::::;::;: - 410 0 0 
+ I 
+ I 
+ I 
+ ~ 
+ 8 
+ 130 
+ 1~35-~ 
+ [g!]] 
+ 1128.3 ◄ 
+ CG ( in ) ► 
+ 135.4 
+ 139.31 
+ Lateral - Right 
+ = 0.09 m (3.54 in) 
+ - Left 
+ = 0.09 m (3.54 in) 
+ - Left 
+ = 0.16 m (6.30 in) (hoisting operation)"
+Datum,"Longitudinal = 3.40 m (133.8 in. forward of main rotor hub center) 
+ Lateral 
+ = Vertical plane passing longitudinally through main rotor hub center."
+Maximum Weight,5732 lb (2600 kg)
+Rotor Speed Limitations,"Power-on flight 
+ - two engines in operation 375-394 rpm 
+ For IAS below 55 kt: 390 (+ 10, -5) rpm 
+ - OEI : 375 to 394 rpm 
+ Power-off flight 
+ - max. 425 rpm (aural warning at 410 rpm) 
+ - min. 330 rpm (aural warning at 360 rpm) 
+ Maximum Rotor Brake Application: 170 rpm"
+Airspeed Limits,"Never exceed speed VNE Power-on: 
+ 150 kt zero pressure altitude. 
+ Doors removed: see the flight manual (section 2, § 2.3) 
+ Never exceed speed VNE Power-off: 
+ 120 kt at zero pressure-altitude. 
+ See Rotorcraft Flight Manual for decrease of these values with altitude 
+ and temperature."
+Minimum Crew,1 pilot at 60.62 in. - Starboard seat.
+Maximum Passenger Standard5,"4 at 98.42 in. 
+ 1 at 60.62 in. 
+ Maximum passengers of 6 is available when the aircraft is equipped with the optional 
+ two-place seat at 60.62 in. This optional item is to be used in accordance with the 
+ associated Flight Manual supplement."
+Maximum Baggage,"Right baggage compartment = 220 lb at 125.98 in 
+ Left baggage compartment 
+ = 264 lb at 125.908 in 
+ Rear baggage compartment = 176 lb at 181.10 in 
+ Main cabin (on rear 
+ = 682 lb at 88.58 in 
+ (on LH forward = 330 lb at 61.02 in"
+Fuel Capacity,"Front Tank 
+ Rear Tank 
+ Total 
+ 88.1 U.S. gallons 
+ 106.5 U.S. gallons 
+ Usable 
+ 87.2 U.S. gallons 
+ 105.7 U.S. gallons 
+ C.G. Range 
+ 127.55 in 
+ 151.55 in 
+ See NOTE 1 for data on unusable fuel."
+Empty Weight CG Range,None
+Leveling Means,Transmission support platform.
+Oil Capacity,"Engine 
+ = 2 x 1.5 U.S. gallons at 140.5 in 
+ MGB 
+ = 2.9 U.S. gallons at 145.2 in 
+ TGN 
+ = 0.08 U.S. gallons at 379.5 in 
+ For rigging information, refer to the AS 355 Maintenance Manual."
+Certification Basis,"AS355E 
+ AS355F, AS355F1, AS355F2 
+ FAR 21.29 and FAR 27 effective February 1, 1965 plus Amendments 27-1 through 
+ 27-16. 
+ Type Certificate No. H11EU, issued January 19, 1981. Amended 
+ November 20, 1981 to add Model AS355F. Amended April 11, 1984 
+ to add Model AS355F1. Amended February 13, 1987 to add Model 
+ AS355F2. Date of Application for Type Certificate: January 4, 1979. 
+ AS 355 N version: 
+ - The basic certification basis consists of FAR 21.29 and FAR 27 
+ effective February 1, 1965, including amendments 27.1 through 27.20, plus 
+ - The following sections of amendment 27.21: 
+ 27.21, 27.45, 27.71, 27.79, 27.143, 27.151, 27.161, 27.173, 27.175, 
+ 27.177, 27.672, 27.673, 27.729, 27.735, 27.779, 27.807, 27.1329, 
+ 27.1413, 27.1519, 27.1525, 27.1555, 27.1585 and 27.1587. 
+ DGAC special conditions notified in letter DGAC No. 54408 dated October 21, 1988 
+ are: 
+ A - Limit Pilot Forces 
+ B - Engine air intake protection against birds (2 lbs) and hail ingestion 
+ C - Engine governing system 
+ The FADEC has been HIRF tested on the Arrius 1A engine with success at 200V/m 
+ according to Cat Y DO160. 
+ In this certification basis, the following sections remain at the Amendment preceding the 
+ Amendment 27.21: 27.141, 27.610, 27.785, 27.1309, 27.1505 and 27.1559. 
+ The French Direction Generale de l’Aviation Civile (DGAC) originally type certificated 
+ this rotorcraft under its type certificate TC 168. The FAA validated this product under 
+ U.S. Type Certificate Number H11EU. Effective September 28, 2003, the European 
+ Aviation Safety Agency (EASA) began oversight of this product on behalf of the DGAC. 
+ AS 355 NP version: 
+ - The basic certification basis consists of FAR 21.29 and FAR 27 
+ effective February 1, 1965, including amendments 27.1 through 27.20, plus 
+ - The following sections of amendment 27.21: 
+ 27.21, 27.45, 27.71, 27.79, 27.143, 27.151, 27.161, 27.173, 27.175, 
+ 27.177, 27.672, 27.673, 27.729, 27.735, 27.779, 27.807, 27.1329, 
+ 27.1413, 27.1519, 27.1525, 27.1555, 27.1585 and 27.1587. 
+ - The following section of amendment 27.23: 27.923 
+ DGAC special conditions notified in letter DGAC No. 54408 dated October 21, 1988 
+ are: 
+ A - Limit Pilot Forces 
+ B - Engine air intake protection against birds (2 lbs) and hail ingestion 
+ C - Engine governing system 
+ The FADEC HIRF approval for the Arrius 1A1 was accomplished by similarity to the 
+ testing accomplished on the Arrius 1A engine installed on the AS355N helicopter. 
+ The AS355NP also complies with the following FAR 29 paragraphs: §45(a) and (b)(2) 
+ Amdnt 24; §49(a) Amdnt 39; §51 Amdnt 39; §53 Amdnt 39; §55 Amdnt 39; 
+ §59 Amdnt 44; §60 Amdnt 39; §61 Amdnt 39; §62 Amdnt 44; §64 Amdnt 39; 
+ §65(a) Amdnt 39; §67(a) Amdnt 44; §75 Amdnt 39; §77 Amdnt 44; §79 Amdnt 
+ 39; §81 Amdnt 44; §85 Amdnt 44; §87(a) Amdnt 39; §861(a) Amdnt 30; 
+ §901(c) Amdnt 26; §903(b) (c) and (e) Amdnt 36; §908(a) Amdnt 26; §917( 
+ (c)(1) Rotor drive system: Design. Amdnt 40; §953(a) Amdnt 0; §1027(a) 
+ Amdnt 26; §1045(a)(1), (b), (c), (d), and (f) Amdnt 26; §1047(a) Amdnt 26; 
+ §1181(a) Amdnt 26; §1187(e) Amdnt 0; §1189(c) Amdnt 26; §1191(a)(1) 
+ Amdnt 3; §1193(e) Amdnt 26; §1195(a) and (d) Amdnt 17; §1197 Amdnt 13; 
+ §1199 Amdnt 13; §1201 Amdnt 0; §1305 (b) Amdnt 40; §1309(b) Amdnt 14; 
+ §1323(c)(1) Amdnt 44; §1331(b) Amdnt 24; §1587(a) Amdnt 44. 
+ FAR Part 36 Noise Standards amended by Amendments 36-1 through 36-21."
+DATA PERTINENT TO ALL MODELS,
+Serial Numbers Eligible,"The French Government ""Certificat de Navigabilite pour Exportation"" 
+ endorsed as noted below under ""Import Requirements"" must be submitted for each 
+ individual aircraft for which application for FAA certification is made."
+Type Certificate,"Type Certificate No. H11EU, issued January 19, 1981. 
+ Amended November 20, 1981 to add Model AS355F. 
+ Amended April 11, 1984 to add Model AS355F1. 
+ Amended February 13, 1987 to add Model AS355F2. 
+ Amended October 15, 1992 to add Model AS355N. Date of application for 
+ amended type certificate: 
+ February 12, 1991. 
+ Amended January 9, 2008 to add Model AS355NP. Date of application for ameded type 
+ certificate: April 6, 2007. 
+ The FAA can issue a U.S. airworthiness certificate based on a National AviationAuthority (NAA) Export Certificate of 
+ Airworthiness (Export C of A) signed by 
+ a representative of the French Generale de l’Aviation Civile (DGAC) on behalf 
+ of the European Community. 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the 
+ United States of both new and used aircraft based on the scope of the agreement, 
+ to identify any required statements by the exporting authority on the export 
+ certificate of airworthiness (or equivalent document), and for procedures for 
+ coordinating exceptions to conformity statements on these documents. Refer to 
+ FAA Order 8130.2, Airworthiness Certification of Aircraft, for requirements for 
+ issuance of an airworthiness certificate for imported aircraft. 
+ The Export C of A should contain the following statement: “The aircraft 
+ covered by this certificate has been examined, tested, and found to comply with 
+ the type design approved under U.S. Type Certificate Number H11EU and to be 
+ in a condition for safe operation.”"
+Service Information,"Each of the documents listed below must state that it is approved by the European Aviation Safety Agency (EASA) 
+ or – for approvals made before September 28, 2003 – by the French Generale de l’Aviation Civile (DGAC).Any 
+ such documents are accepted by the FAA and are considered FAA approved."
+Overhaul and maintenance manuals,This applies only to the acceptance of the type design data.”
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (See Certification Basis) must be installed in the helicopter for 
+ certification. Eurocopter Report No. 355A043462 lists required and 
+ optional equipment for the helicopter. 
+ In addition, the following item of equipment is required. 
+ EASA approved Rotorcraft Flight Manual, identified as Code B: 
+ 1. 
+ For AS355E, Issue 1, Amendment 0, approved January 16, 1981 or later approved 
+ revision. 
+ 2. 
+ For AS355F, Revision 0 approved April 14, 1981. 
+ Coded 81.16 or later approved revision. 
+ 3. 
+ For AS355F1, Revision 0 approved March 15, 1984. 
+ Coded 84.11 or later approved revision. 
+ 4. 
+ For AS355F2, Revision 0 approved February 13, 1987 plus Rush 
+ Revision 1B and specific pages marked B or later approved revision. 
+ 5. 
+ For AS355N, Revision 2 approved October 2, 1992 and specific 
+ pages marked B or later approved revision. 
+ 6. 
+ For AS355NP, Revision 0 approved January 9, 2008, with FAA unique pages 
+ marked B, or later approved revision."
+NOTE 1,"Current weight and balance report including loading instructions and list of equipment included 
+ in the certificated empty weight, must be provided for each helicopter at the time of original 
+ certification. The certificated empty weight and corresponding center of gravity location must 
+ include unusable fuel of 6.1 lb at 127.55 in for Front tank and 5.6 lb at 151.55 in for Rear tank. 
+ In order to obtain the most consistent weight and balance results, all helicopters should be weighed 
+ on jackpoints rather than on wheels and floats. When changes are made to the helicopter which 
+ affect the weight and balance, refer to the Flight Manual Weight and Balance Appendix for 
+ instructions."
+NOTE 2,All placards indicated in the Rotorcraft Flight Manual must be installed in the appropriate location.
+NOTE 3,"Information essential to the proper maintenance of the helicopter is contained in the manufacturer's 
+ AS355 Maintenance Manual provided with each helicopter. Life-limited components and associated 
+ retirement times are presented in Chapter 5, Section CD 5.99, and must be replaced in accordance therewith."
+NOTE 4,Service Bulletin No. 01.02 to be used to convert 355E version of 355F version (VFR).
+NOTE 5,Service Bulletin No. 01.09 to be used to convert 355F version to 355F1 version.
+NOTE 6,"Model AS355F2 must be equipped with an approved autorelight system to be eligible for IFR certification 
+ below + 5º C. OAT."
+NOTE 7,"Effective January 1, 2014, Eurocopter France name was changed to Airbus Helicopters."

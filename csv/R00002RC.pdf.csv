@@ -1,0 +1,333 @@
+Keyterm,Info
+"R00002RC 
+ Initial Issue 
+ Global Helicopter 
+ Technology, Inc. 
+ U.S. Army UH-1H 
+ September 20, 2001",
+Type Certificate Holder,"Global Helicopter Technology, Inc. 
+ 5070 South Collins, Suite 206 
+ Arlington, Texas 76018"
+"1- Model UH-1H, (Utility Helicopter, Restricted Category), Approved: September 20, 2001 
+ (See note 16 regarding aircraft, engines and appliances and note 18 regarding definition of type design 
+ configuration)",
+Engine,Lycoming T53-L-13B (See note 15 for alternate engines)
+Fuel,"MIL-T-5624, Grade JP-5 (Jet A) 
+ (See note 13 for alternate and emergency fuels)"
+Engine Limits T53L13B,"(See note 15 for alternate engines) 
+ Torque 
+ Output 
+ Output 
+ Exhaust Gas 
+ Gas generator 
+ Press (PSI) 
+ Horsepower 
+ RPM 
+ Temp (C 
+ Speed N1 (%) 
+ (HP) 
+ degrees) 
+ Maximum Cont. 
+ 50.0 
+ 1100 
+ 6600 
+ 610 
+ 101.5 
+ Take-Off (30 minutes) 
+ 50.0 
+ 1100 
+ 6600 
+ 610 to 625 
+ 101.5 
+ Start and Accel (10 sec) 
+ 50.0 
+ 1100 
+ 6600 
+ 625-675 
+ 101.5 
+ Start and Accel (5 sec) 
+ 50.0 
+ 1100 
+ 6600 
+ 675-760 
+ 101.5 
+ Maximum 
+ 50.0 
+ 1100 
+ 6600 
+ 760 
+ 101.5 
+ See notes 11 & 12. Refer to Operation’s Manual TM55-1520-210-10 for additional limitation data."
+Rotor Speed Limits,"Power Off 
+ Power On 
+ Maximum rpm 
+ 339 
+ 324 
+ Minimum rpm 
+ 294 
+ 294 
+ Continuous operation: 294-324 RPM / Maximum for auto-rotation is 339 RPM"
+Torque Limits,Fifty (50.0) calibrated PSIG (See note 11)
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+Rev No,"- 
+ - 
+ - 
+ - 
+ - 
+ - 
+ -"
+Airspeed Limits,"Roof-Mounted pitot static: 
+ Never exceed 124 knots (143 mph) up to 7500 lbs. Gross Weight, sea level to 
+ 2000 feet. Never exceed 113 knots (132 mph) up to 9500 lbs. Gross Weight, sea 
+ level to 2000 feet. See Note 2 and refer to TM55-1520-210-10, Chapter 5, 
+ Section X, for specific operating airspeed limitations. 
+ Nose mounted pitot static: 
+ Never exceed 112 knots (128 mph) up to 7500 lbs. Gross Weight, sea level to 
+ 2000 feet. Never exceed 103 knots (118 mph) up to 9500 lbs. Gross weight, sea 
+ level to 2000 feet. See Note 2 and refer to TM55-1520-210-10, Chapter 5, 
+ Section X, for specific operating airspeed limitations."
+CG Range,"Longitudinal CG Limits (+130.0) to (+144.0) 
+ Lateral CG Limits: Plus or minus 5 inches 
+ Refer to U. S. Army TM55-1520-210-10, Chapter 6, Section VII, for specific 
+ CG ranges and limits."
+Datum,"Station 0, datum is 7.6 inches, aft of the most forward point of the fuselage nose 
+ section (See U.S. Army TM55-1520-210-10, chapter 6)."
+Leveling Means,"Plumb line from top of cabin doorframe to index plate on cabin floor. 
+ See Note 1."
+CG Range,"Refer to specific Aircraft Maintenance log for empty weight CG determined as 
+ prescribed per U.S. Army Aviation Maintenance Engineering Manual Weight 
+ and Balance TM55-1500-342-23."
+Maximum Weight,9500 lbs.
+Minimum Crew,1 (Pilot)
+No of Seats,"Crew only as required to perform restricted category mission in accordance with 
+ FAR 133.1(b), with appropriate seats and restraints (See U.S. Army TM-55- 
+ 1520-210-10). Passengers cannot be transported during restricted category 
+ flight operations (see FAR 91.313)"
+Maximum Baggage,"100 lbs. Per sq. Ft. on cabin floor as required to perform restricted category 
+ mission in accordance with FAR 133.1(b). (See U.S. Army TM55-1520-210-10)"
+Fuel Capacity,"Crashworthy system: 208.5 U.S. gals. (+151.6) Unusable-2 U.S. gals. 
+ Non-Crashworthy system: 220 U. S. gals. (+151.6) Unusable 2 U.S. gals."
+Oil Capacity,"Engine: 3.25 gals. (+173.0) 
+ Transmission: 11.0 U.S. quarts 
+ Hydraulic: 10.0 U.S. pints"
+Altitude,"Refer to U.S. Army TM-55-1520-210-10 Chapter 7, Performance Data Charts"
+Control Movement,"For rigging information, refer to U.S. Army TM55-1520-210-23 Chapter 11 
+ (Maintenance Manual):"
+Eligible Serial No,"Global Helicopter Technology, Inc. FAA approved Serial Number Eligibility 
+ List Report number GHT-01-412-SN dated July 23, 2001 or later FAA approved 
+ revision"
+Certification Basis,"FAR 21.25(a)(2), effective February 1, 1965, for the special purpose of External 
+ Load Operations under FAR 21.25(b)(7) (See note 17). Repetitive high torque 
+ cycle events beyond the following are not approved: 
+ (a) Two (2) Ground-Air-Ground (GAG) Cycles per Flight hour from rotors 
+ stopped to Flight Conditions to rotors stopped. 
+ (b) our (4) GAG Cycles per flight hour from rotors turning at ground idle (at 
+ 0% rpm) to flight conditions to rotors turning at ground idle (at 100% rpm). 
+ GAG cycles in (a) and (b) above shall be applied independently 
+ In accordance with FAR 36.1(a)(4), compliance with the noise requirements was 
+ not shown. Therefore, aircraft certificated under this type certificate are only 
+ eligible for external load operations excepted by FAR 36.1(a)(4) and defined 
+ under FAR 133.1(b). Any alteration to the aircraft for Special Purposes not 
+ identified above require further FAA approval and in addition, may require 
+ noise and / or flight testing. 
+ The aircraft certified under this type certification is accepted under the concept 
+ of limited exposure associated with escape from inadvertent ice encounters and 
+ is prohibited against flight into known icing. This Aircraft must be reevaluated 
+ if certification to the General Ice Protection Airworthiness Regulations is 
+ requested. 
+ Any Subsequent modifications are to meet FAR 29 Airworthiness standards, 
+ transport category Rotorcraft, as of Amendment Number 1, effective August 12, 
+ 1965 and FAR 29.1529, instructions for Continued Airworthiness, Amendment 
+ number 20, effective September 11, 1980."
+Date of Application,"November 29, 2000"
+Production Basis,None. No helicopters may be produced under this approval. (See Note 4)
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be in each helicopter for certification. 
+ The following equipment and documents must be available in each helicopter 
+ for certification: 
+ (a) U.S. Army TM55-1520-210-10, Operator’s Manual, UH-1H. 
+ (b) Standard U. S. Army cargo suspension system installation, part numbers 
+ 204-070-900-5, 204-070-900-19, IAW TM55-1520-210-23P (Parts 
+ Manual), installed and maintained IAW TM55-1520-210-23 (Maintenance 
+ Manual), and operated IAW TM55-1520-210-10 (Operators Manual) for all 
+ external cargo operations. 
+ Notes"
+Note 1,"A current weight and balance report including a list of equipment included in the certificated 
+ empty weight, and loading instuctions, when necessary, must be provided for each aircraft at the 
+ time of original certification. Refer to Operation’s Manual, TM55-1520-210-10, Chapter 6, and 
+ Maintenance Manual, TM55-1520-210-23-1 Para. 1-38, for leveling means and weight and 
+ balance determination."
+Note 2,"The following placards must be prominently displayed in the cabin in clear view of the pilot: 
+ Placard No. 1 
+ “THIS HELICOPTER MUST BE OPERATED IN ACCORDANCE WITH THE RESTRICTED 
+ CATEGORY OPERATING LIMITATIONS OF FAR 91.313.” 
+ Placard No. 2 
+ “THIS HELICOPTER MUST BE OPERATED IN COMPLIANCE WITH THE OPERATING 
+ LIMITATIONS SPECIFIED IN THE APPROVED HELICOPTER OPERATION’S MANUAL. REFER TO 
+ TM55-1520-210-10, CHAPTER 5 OPERATING LIMITS AND RESTRICTIONS.” 
+ Placard No. 3 
+ CALIBRATED AIRSPEED-KNOTS 
+ With Roof-mounted pitot static"
+LIMITS ACFT WTKIAS,"GROSS WEIGHT 
+ DENSITY 
+ ALT(FT) 
+ To 7500(lbs) 
+ 8500(lbs) 
+ 9500(lbs) 
+ SL TO 2000 
+ 124 
+ 118 
+ 113 
+ 3000 
+ 121 
+ 115 
+ 110 
+ 6000 
+ 112 
+ 106 
+ 101 
+ 9000 
+ 103 
+ 97 
+ 92 
+ 12000 
+ 94 
+ 88 
+ 83 
+ 15000 
+ 82 
+ --- 
+ --- 
+ 18000 
+ 70 
+ --- 
+ --- 
+ • 
+ • 
+ UNDER 7500 LBS USE 6000 TO 6600 RPM RANGE 
+ • 
+ OVER 7500 LBS GW USE 6400 TO 6600 RPM RANGE 
+ • 
+ POWER OFF 294 TO 339 ROTOR RPM 
+ •••• 
+ REDUCE SPEED WHEN VIBRATION IS EXCESSIVE 
+ CALIBRATED AIRSPEED-KNOTS 
+ With Nose-mounted pitot static"
+LIMITS ACFT WTKIAS,"GROSS WEIGHT 
+ DENSITY 
+ ALT(FT) 
+ To 7500(lbs) 
+ 8500(lbs) 
+ 9500(lbs) 
+ SL TO 2000 
+ 112 
+ 107 
+ 103 
+ 3000 
+ 109 
+ 104 
+ 100 
+ 6000 
+ 100 
+ 95 
+ 91 
+ 9000 
+ 91 
+ 86 
+ 82 
+ 12000 
+ 82 
+ 77 
+ 73 
+ 15000 
+ 70 
+ 65 
+ --- 
+ 18000 
+ 58 
+ --- 
+ --- 
+ • 
+ • 
+ UNDER 7500 LBS USE 6000 TO 6600 RPM RANGE 
+ • 
+ OVER 7500 LBS GW USE 6400 TO 6600 RPM RANGE 
+ • 
+ POWER OFF 294 TO 339 ROTOR RPM 
+ •••• 
+ REDUCE SPEED WHEN VIBRATION IS EXCESSIVE 
+ Placard No. 4 
+ “EXTERNAL LOAD OPERATIONS: Vne WILL BE DETERMINED FOR EACH PROPOSED"
+Note 3,"The helicopter(s) must be serviced, maintained, inspected and overhauled in accordance 
+ with the documents specified in Instructions for Continued Airworthiness Report GHT- 
+ 01-412-201, dated July 23, 2001 (or later FAA accepted revision) or other FAA accepted 
+ inspection programs. The TC holders instructions for Continued Airworthiness Report is 
+ part of the TC holders Instructions for Continued Airworthiness."
+Note 4,"Prior to obtaining an original Airworthiness Certificate: 
+ (a) 
+ Each helicopter must pass a conformity inspection in accordance with Global 
+ Helicopter Technology, Inc. Configuration Report (Report Number) dated 
+ (Report Date). The Configuration Report must contain a complete description 
+ of each helicopter, any Military Maintenance Work Orders accomplished on that 
+ particular helicopter. In addition, each helicopter must pass an inspection for 
+ any possible hidden damage and the military records reviewed for acceptability 
+ for any repairs or alterations. 
+ (b) 
+ The maintenance, overhaul, and modification records of each helicopter must be 
+ reviewed for military changes that may effect the airworthiness of the helicopter. 
+ (c) 
+ After the required inspections, the aircraft must be found to be in a good state of 
+ preservation, adequate repair, and in a condition for safe operation."
+Note 5,"This aircraft is prohibited from carrying cargo for compensation or hire. 
+ Carriage of cargo is limited to such cargo that is incidental to the aircraft 
+ owners/operator’s business which is other than air transportation."
+Note 6,"Restricted category aircraft may not be operated in a foreign country without the express 
+ written approval of the country."
+Note 7,"This aircraft has not been shown to meet the requirements of the applicable 
+ comprehensive and detailed Airworthiness Code as provided by Annex 8, to the 
+ Convention on International Civil Aviation."
+Note 8,"Engine changes are allowed provided the replacement engine is of the same make and 
+ model as identified in this TCDS. The replacement engine must have proper military 
+ records and have the applicable FAA Airworthiness inspections and Airworthiness 
+ Directives (AD) accomplished."
+Note 9,"The Airworthiness Directives for the helicopter and engine contained in GHT-01-412- 
+ 202, Airworthiness Directive Report, dated February 6, 2001, (or later FAA approved 
+ revision), must be complied with prior to original certification."
+Note 10,"The cargo suspension assembly (cargo external load hook and release system) shall be 
+ installed, tested and maintained in accordance with TM 55-1520-210-23-2, Chapter 14, 
+ paragraph 14-260."
+Note 11,"Torque pressure output by the engine torque sensing system varies with individual 
+ engines. A calibration of this value is required on each engine and the value 
+ corresponding to take-off power is stamped on the engine data plate."
+Note 12,"Maximum permissible exhaust gas temperature varies with ambient temperature as 
+ described in the Operator’s Manual. Check engine EGT by use of Health Indicator Test 
+ (HIT) prior to takeoff (see U.S. Army TM55-1520-210-10 and HIT EGT Log for the 
+ aircraft)."
+Note 13,"Alternate and emergency fuels are listed in U.S. Army TM55-1520-210-10, Chapter 2, 
+ Paragraph 2-89 and Table 2-1. Some limitations apply for the use of certain alternate and 
+ emergency fuels. These limitations are listed in the above U.S. Army TM paragraph."
+Note 14,"Bell Helicopter Textron, Inc. is not involved with this Type Certificate. Global 
+ Helicopter Technology, Inc. is the original holder of this TC Number."
+Note 15,"Alternate engines: 
+ Lycoming T53-L-13BA 
+ Alternate engines must be installed and operated in accordance with U.S. Army TM55- 
+ 1520-210-10 Operator’s Manual."
+Note 16,"Aircraft, aircraft engines and appliances that cannot provide documentation with 
+ satisfactory service history showing they were surplused from an Armed Force of the 
+ United States are not eligible under this type certificate."
+Note 17,"For External Load Operations under FAR 21.25 (b)(7), the rotorcraft must have external 
+ cargo hook assembly P/N 204-072-024-1 installed on model UH-1H as part of the 
+ military configuration. Continued airworthiness of the cargo hook and release 
+ installation shall be in accordance with TM55-1520-210-23-2, Chapter 14, Paragraph 14- 
+ 260."
+Note 18,"This type certificated design is the US Army configuration at the time of the issuance of 
+ this type certificate as defined by the US Army documents listed in the Instructions for 
+ Continued Airworthiness (ICA) Report GHT-01-412-201, dated July 23, 2001(or later 
+ FAA accepted revision). All U.S. Army manuals listed in this type certificate data sheet 
+ are defined as of those revisions and dates listed in the above FAA accepted ICA."

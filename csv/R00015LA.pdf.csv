@@ -1,0 +1,248 @@
+Keyterm,Info
+"R00015LA 
+ Revision 3 
+ Robinson 
+ R66 
+ August 17, 2018",
+Type Certificate Holder,"Robinson Helicopter Company 
+ 2901 Airport Drive 
+ Torrance, California 90505"
+"I. Model R66 (Normal Category Rotorcraft), Approved October 25, 2010",
+Engine,"One Rolls-Royce 250-C300/A1, Type Certificate number E4CE"
+Fuel,"Jet A or Jet A-1 conforming to ASTM D 1655 
+ Jet B conforming to ASTM D 6615 
+ JP-4 or JP-5 conforming to MIL-DTL-5624 
+ JP-8 conforming to MIL-DTL-83133"
+Engine Limits,"Power Ratings at N2 speed of 6016 rpm (100% rpm): 
+ Maximum continuous: 
+ 224 hp (83% Torque) 
+ Takeoff (5 minute): 
+ 270 hp (100% Torque) 
+ Maximum speeds: 
+ Output shaft (N2): 
+ 101% (6076 rpm) 
+ Gas producer shaft (N1): 
+ 105% (53519 rpm) 
+ Maximum Measured gas temperature: 
+ During start: 
+ 927° C (10 second limit above 782°C) 
+ 5 minute during operation: 
+ 782° C 
+ Continuous during operation: 706° C"
+Rotor Speed,"Limits 
+ Minimum 
+ Maximum 
+ Condition 
+ ( rpm* ) 
+ ( % ) 
+ ( rpm* ) 
+ ( % ) 
+ Power On 
+ 404 
+ 99 
+ 412 
+ 101 
+ Power Off 
+ 359 
+ 88 
+ 432 
+ 106 
+ * Main Rotor"
+Transmission Torque,"Limits 
+ Rating 
+ Max Torque at 100% N2 
+ ( ft-lb ) 
+ ( % ) 
+ Takeoff (5 min) 
+ 236 
+ 100 
+ Max Continuous 
+ 196 
+ 83"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5"
+Rev No,"3 
+ 3 
+ 3 
+ 3 
+ 3"
+Airspeed Limits,"Takeoff 
+ Power On VNE 
+ Power Off VNE 
+ Gross Weight or 
+ ( KIAS ) 
+ ( KIAS ) 
+ Configuration 
+ Less than 2200 lb 
+ 140 
+ 100 
+ 2200 lb to 2700 lb 
+ Or Police Version 
+ (any Gross Weight) 
+ Or with Pop-out 
+ 130 
+ 100 
+ Floats (Floats 
+ Stowed, any Gross 
+ Weight) 
+ Electronic News 
+ Gathering Version 
+ 120 
+ 100 
+ (any Gross Weight) 
+ Sea level VNE values shown above. For reduction of VNE with altitude and 
+ temperature, see R66 Pilot’s Operating Handbook and FAA Approved Rotorcraft 
+ Flight Manual (RTR 661). 
+ Airspeed limit is 65 KIAS for power settings above 83% torque. 
+ Airspeed limit is 100 KIAS for any combination of doors off. 
+ See R66 Pilot’s Operating Handbook and FAA Approved Rotorcraft Flight 
+ Manual (RTR 661) for additional airspeed limitations associated with optional 
+ equipment installations."
+Center of Gravity CG Range,"Longitudinal C.G. 
+ Gross 
+ Forward 
+ Weight 
+ Limit 
+ Aft Limit 
+ ( lb ) 
+ ( in ) 
+ ( in ) 
+ 1400 
+ 91.0 
+ 102.5 
+ 2300 
+ 102.5 
+ 2500 
+ 91.0 
+ 2700 
+ 92.0 
+ 98.0 
+ Lateral C.G. 
+ Longitudinal 
+ C.G. 
+ Left Limit 
+ Right 
+ Limit 
+ ( in ) 
+ ( in ) 
+ ( in ) 
+ 91.0 
+ -3.5 
+ +3.5 
+ 100.0 
+ -3.5 
+ +3.5 
+ 102.5 
+ -2.5 
+ +2.5 
+ Notes: 
+ 1. Straight line variation between points shown 
+ 2. Lateral C.G. limits valid for all gross weights 
+ 3. See R66 Pilot’s Operating Handbook and FAA Approved Rotorcraft 
+ Flight Manual (RTR 661) for expanded limits with external load."
+Empty Weight CG Range,"None. The aircraft’s empty weight and empty weight C.G. must be determined 
+ by the procedures in Chapter 8 of the R66 Maintenance Manual, RTR 660."
+Datum,100 inches forward of main rotor centerline.
+Leveling Means,"For weight and balance: Level placed laterally and longitudinally on aft tunnel 
+ cover immediately forward of aft middle seat. If cover is not straight, use keel 
+ panel upper flanges, accessed by removing aft tunnel cover. 
+ For rigging: Level placed on top of main rotor hub parallel with teeter bolt. Main 
+ rotor blades are aligned fore-aft for lateral levelling, and teeter bolt is aligned fore- 
+ aft for longitudinal levelling."
+Maximum Weight,"No External Load: 2700 lb 
+ With External Load: 2900 lb (See Note 8 for external load limitations)"
+Minimum Crew,"1 pilot in forward right seat. See R66 Pilot’s Operating Handbook and FAA 
+ Approved Rotorcraft Flight Manual (RTR 661) for configurations that allow 1 
+ pilot in forward left seat."
+Number of Seats,5 (4 for Police and Electronic News Gathering versions)
+Seat Locations,"Pilot and forward occupant at STA 49.0 in 
+ Aft outboard occupants at STA 80.0 in 
+ Aft center occupant at STA 78.0 in"
+Maximum Compartment,Main baggage compartment
+Weights,"Maximum weight is 300 lb at STA 107.0 in 
+ Maximum weight is 250 lb at STA 103.0 in for Police and Electronic News 
+ Gathering versions 
+ Maximim weight is 100 lb at STA 117.0 in with auxiliary fuel tank installed 
+ Maximum loading density is 50 lb/ft2 
+ Underseat baggage compartments 
+ Forward seats – Maximum weight is 50 lb at STA 42.0 in 
+ Rear seats – Maximum weight is 50 lb at STA 82.0 in 
+ Note: For any seat location, the maximum combined weight of the load on the 
+ seat (e.g., occupant) plus the weight of stowed items and any installed 
+ equipment in the underseat baggage compartment is 300 lb."
+Fuel Capacity,"Fuel tank capacity is 74.6 U.S. gallons 
+ Usable fuel quantity is 73.6 U.S. gallons at STA 102.5 in 
+ Note: Aircraft empty weight includes 1.0 U.S. gallon of unusable fuel."
+Oil Capacities,"Component 
+ Capacity (qt) 
+ STA ( in ) 
+ Engine 
+ 6 
+ 126.0 
+ Main Rotor Transmission 
+ 2 
+ 100.0 
+ Tail Rotor Transmission 
+ 0.11 
+ 327.0 
+ Hydraulic Reservoir 
+ 0.65 
+ 110.8"
+Maximum Operating Altitude,"14,000 feet Density Altitude. 
+ Maximum altitude above ground level is 9,000 ft. 
+ For rigging information refer to the Robinson R66 Maintenance Manual and"
+Movements,Instructions for Continued Airworthiness (RTR 660).
+Manufacturer’s Serial Numbers,0002 and subsequent.
+Certification Basis,"14 CFR part 27, dated February 1, 1965, as amended by Amendment 27-1 through 
+ Amendment 27-44. 
+ Equivalent Safety Finding: 
+ Number AT14992LA-R-S-1 
+ 14 CFR part 27.695(a)(1), Power boost and power-operated control system. 
+ (see Note 7) 
+ Special Condition: 
+ No. 27-035-SC Robinson Model R66 Helicopter, Sec. 27.1309, Installation of 
+ HeliSAS Autopilot and Stabilization Augmentation System (AP/SAS). 
+ 14 CFR Part 36, dated December 1, 1969, as amended by Amendment 36-1 
+ through Amendment 36-28. 
+ Compliance with the ditching requirements of § 27.801 was not demonstrated. 
+ Compliance with the ice protection requirements of § 27.1419 was not 
+ demonstrated. 
+ The R66 is approved for day and night VFR operations only. 
+ TC Application Date: September 06, 2006. 
+ TC Issue Date: October 25, 2010."
+Production Basis,"Production Certificate No. 424WE dated October 25, 2010."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the aircraft for 
+ certification. In addition, the following FAA-approved Rotorcraft Flight Manual 
+ is required: 
+ R66 Pilot’s Operating Handbook and FAA Approved Rotorcraft Flight Manual 
+ (RTR 661), dated October 25, 2010, or later approved revision."
+NOTE 1,"A current weight and balance report, including a list of equipment included in the certificated empty 
+ weight, and loading instructions when necessary, must be provided for each aircraft at the time of 
+ original airworthiness certification and at all times thereafter, except in the case of operators having 
+ an approved weight control system."
+NOTE 2,"The following placard must be installed in clear view of the pilot: 
+ “THIS ROTORCRAFT APPROVED FOR DAY AND NIGHT VFR OPERATIONS” 
+ For additional placards, see the Rotorcraft Flight Manual. All placards required in the Rotorcraft 
+ Flight Manual must be installed in the appropriate locations."
+NOTE 3,"Information essential to the proper maintenance of the helicopter, including retirement time of 
+ critical components, is contained in the Robinson R66 Maintenance Manual and Instructions for 
+ Continued Airworthiness (RTR 660). Retirement times are listed in the “AIRWORTHINESS 
+ LIMITATIONS” section."
+NOTE 4,"Deleted as of March 10, 2015."
+NOTE 5,"Any cockpit instruments installed by a 3rd party must be marked with limit markings and range 
+ markings in accordance with Robinson’s marking scheme."
+NOTE 6,"Deleted as of March 10, 2015."
+NOTE 7,"Exemption No. 9589, dated January 28, 2008, has been removed since Robinson Helicopter 
+ Company was granted an Equivalent Level of Safety (ELOS) finding to CFR §27.695(a)(1), Number 
+ AT14992LA-R-S-1, dated February 20, 2013. The exemption allowed a powered flight control 
+ system without considering the jamming of a control valve as a possible single failure. There is no 
+ impact to R66 helicopters that have been delivered or are in service."
+NOTE 8,"R66 helicopters equipped with the G132 Cargo Hook installation may be operated at up to 2900 
+ pounds gross weight when the portion above 2700 pounds is jettisonable load on the cargo hook and 
+ the helicopter is operating at or below 7000 feet density altitude. See Cargo Hook Supplement to 
+ R66 Pilot’s Operating Handbook and FAA Approved Rotorcraft Flight Manual (RTR 661) for 
+ additional operating limitations."

@@ -1,0 +1,2652 @@
+Keyterm,Info
+"A17SW 
+ Revision 15 
+ Air Tractor 
+ AT-401 
+ AT-401A 
+ AT-401B 
+ AT-402 
+ AT-402A 
+ AT-402B 
+ AT-501 
+ AT-502 
+ AT-502A 
+ AT-502B 
+ AT-503 
+ AT-503A 
+ AT-504 
+ May 19, 2020",
+Type Certificate Holder,"Air Tractor, Inc. 
+ Olney, Texas 76374"
+"I - Model AT-503 2 PCLM (Restricted Category), Approved October 2, 1986",
+Engine,Pratt & Whitney PT6A-45R.
+Fuel,"Per Specifications CPW 46, PWA 522, GB 6537-94 (Peoples’ Republic of China RP-3 
+ kerosene). 
+ For recommended use of anti-icing additives and emergency use of aviation 
+ gasoline per MIL-G-5572, refer to the FAA Approved Airplane Flight Manual."
+Oil,Per Specifications CPW 202 or PWA 521.
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITT 
+ ITTC 
+ C 
+ % 
+ % 
+ PSIG"
+Takeoff,"1100 
+ 3398 
+ 800 
+ 39000 
+ 1700 
+ 90 to 135 
+ 10 to 99 
+ ISA+ 
+ 104.0 
+ 100.0 
+ 0C"
+MAX,"1020 
+ 3398 
+ 880 
+ 39000 
+ 1700 
+ 90 to 135 
+ 0 to 99"
+Continuous,"ISA+ 
+ 104.0 
+ 100.0 
+ 18.3C"
+MAX Climb,"992 
+ 3398 
+ 740 
+ 765 
+ 39000 
+ 1425 
+ 90 to 135 
+ 0 to 99"
+MAX Cruise,"ISA 
+ 104.0 
+ 83.8 
+ +0C"
+MIN Idle,"700 
+ 21000 
+ 60 (MIN) 
+ -40 to 99 
+ (6) 
+ 56.0 
+ (MIN)"
+Starting,"800 
+ 1000 (4) 
+ 0 to 200 
+ -40 (MIN)"
+Transient,"5100 
+ 850 
+ 39000 
+ 1870 
+ 60 (MIN) 
+ 0 to 110 
+ 20 SEC 
+ 104.0 
+ 110.0 
+ (MAX)"
+MAX,"900 
+ 800 
+ 1650 
+ 90 to 135 
+ 0 to 99"
+Reverse,"@ ISA 
+ 97.0"
+Propeller ,Hartzell HC-B5MP-3C/M10876AS
+Limits,"Maximum dia. 111.2 inch, minimum dia. 110.7 inch 
+ Pitch settings, high 79.0, low 16.5, reverse -11.0 at 42-inch station."
+Airspeed,"VNE (Never Exceed) 
+ 180 mph (156 knots)"
+Limits,"VA (Maneuvering) 
+ 148 mph (128 knots)"
+CAS,"VNO (Max. structural cruise) 
+ 148 mph (128 knots) 
+ VFE (Flap extended) 
+ 130 mph (113 knots)"
+CG Range,"(+14.5) to (+20.0) at 8,000 lbs. 
+ (+14.5) to (+25.0) at 7,180 lbs. and below 
+ Straight-line variation between points."
+Max Weight,"8,000 lbs."
+No of Seats,"2 (+74.0), (+113.0)"
+Load,"4,100 lbs. (+12.0)"
+Fuel Capacity,"260 gallons (+33.0) 
+ (254 gal. usable capacity, one 106-gal. tank and one 24 gal. tank in each wing)"
+Oil Capacity,"10.0 quarts, 6.0 quarts usable"
+Control,"Elevator 
+ Up 30 ± 1 
+ Down 18 ± 1"
+Surface,"Elevator tab 
+ Up 8 ± 1.5 
+ Down 8 ± 1.5"
+Movements,"Rudder 
+ Left 21 ± 1 
+ Right 21 ± 1 
+ Aileron 
+ Up 23 ± 1 
+ Down 15 ± 1 
+ Flaps 
+ --- 
+ Down 26 ± 1.5 
+ Aileron droop with full flap 10 ± 1"
+Eligible,503-0001 and subsequent.
+Equipment,"The basic required equipment as prescribed in applicable airworthiness 
+ regulations must be installed in the aircraft for certification. In addition, 
+ the following equipment is required: 
+ a. Operative pre-stall warning system (Dwg. 50130) 
+ b. 24 volt electrical system 
+ c. Slip indicator 
+ d. Light package of Strobe, Instrument, Dome, Flap Lights, Landing Lights."
+Agricultural,The following agricultural dispersal equipment may be installed:
+Dispersal,"None, or any of the following:"
+Equipment,"a. Dust spreader (Dwg. 80020) 
+ b. Standard spray system (Dwg. 80299) 
+ c. Micronair spray system (Dwg. 80039)"
+Optional,Fire bomber gate and vent installation (Dwg. 80343)
+Datum,Wing leading edge.
+Means,Screw heads on engine inlet airscoop.
+Baggage,One baggage compartment at (+98). Max capacity 60 lb.
+Basis,PC2SW
+Export,Aircraft will be eligible for issuance of an Export Certificate of
+Eligibility,Airworthiness subject to compliance with FAR Part 21.
+NOTE 1,"FAA approved Airplane Flight Manual dated September 8, 1986, or later FAA 
+ approved revision is required. Current weight and balance report including list 
+ of equipment included in certificated empty weight, and loading instructions, 
+ when necessary, must be provided for each aircraft at the time of original 
+ certification. The empty weight and corresponding center of gravity location 
+ must include the following unusable fuel: 40 lbs. at (+33.0)."
+NOTE 2,"All placards required by either the FAA Approved Airplane Flight Manual, the 
+ applicable operating rules, or the certification basis must be installed as 
+ specified."
+NOTE 3,"Safe-life of Air Tractor Model AT-503, wing carry-through structure, and 
+ attaching structure is limited to 1,650 hours' time in service. 
+ For all serial numbers through 503-0701, owners may continue to operate their 
+ AT-502 aircraft beyond the safe-life listed above by following the requirements 
+ in Appendix 2—Alternative Method of Compliance (AMOC) to AD 2006-24-10."
+"II - Model AT-401 1 PCLM (Restricted Category) Approved April 24, 1987",
+Engine,"Pratt & Whitney Wasp R1340 AN1 (S3H1 Commercial designation) with carburetor 
+ parts list setting 395118-3, A-18639-7 or A-18639-8. 
+ or Pratt & Whitney Wasp R1340 S1H1 with carburetor parts list setting 395118-3, A- 
+ 18639-7, or A-18639-8."
+Fuel,80/87 minimum grade aviation gasoline.
+Engine Limits,"HP 
+ RPM 
+ M.P. 
+ ALT. 
+ Takeoff (5 minutes) 
+ 600 
+ 2250 
+ 36.0 
+ S.L. 
+ Max. Continuous 
+ 550 
+ 2200 
+ 34.0 
+ S.L. 
+ Max. Continuous 
+ 550 
+ 2200 
+ 32.5 
+ 5000"
+Propeller ,"Hamilton Standard 22D40 hub, 6533A-12 blades, constant speed, hydromatic."
+Propeller,Diameter 109 inch maximum 107-inch minimum.
+Limits,"Pitch settings 12.0 degrees low and 35 degrees high at 42-inch sta. 
+ or Hamilton Standard 22D40 hub, EAC AG200-2 blades, constant speed, hydromatic. 
+ Diameter 106 inch maximum 104-inch minimum. 
+ Pitch settings 12.0 degrees low and 35 degrees high at 42 inch station. 
+ or Hamilton Standard 12D40 hub, 6101A-12 blades, constant speed. 
+ Diameter 109 inch maximum 107-inch minimum. 
+ Pitch settings 12.0 degrees low and 26 degrees high at 42 inch station. 
+ or Hamilton Standard 23D40 hub, 6533A-18 blades, constant speed, hydromatic, 
+ 3-blade. 
+ Diameter 103 inch maximum 101-inch minimum. 
+ Pitch settings 10.0 degrees low and 35 degrees high at 42 inch station. 
+ or Hamilton Standard 12D40 hub, EAC AG100-2 blades, constant speed. 
+ Diameter 106 inch maximum 104-inch minimum. 
+ Pitch settings 11.0 degrees low and 26 degrees high at 42 inch station."
+Airspeed,"VNE (Never Exceed) 
+ 176 mph (153 knots)"
+Limits,"VA (Maneuvering) 
+ 140 mph (122 knots)"
+CAS,"VNO (Max. structural cruise) 
+ 140 mph (122 knots) 
+ VFE (Flap extended) 
+ 115 mph (100 knots)"
+CG Range,"(+16.0) to (+24.0) at 6,000 pounds 
+ (+16.0) to (+24.5) at 5,937 pounds and below 
+ Straight-line variation between points."
+Max Weight,"6,000 pounds"
+No of Seats,1 (+74.0)
+Load,"3,250 lbs. (+12.0)"
+Fuel Capacity,"126 gallons (+33.0) 
+ (120 gal. usable, one 63 gal. tank in each wing) 
+ 170 gallons optional (+33.0) (164 gal. usable, one 85 gal. tank in each wing) 
+ 216 gallons optional (+33.0) (210 gal. usable, one 108 gal. tank in each wing)"
+Oil Capacity,9.5 gal. total 71 lb. at (-23.0) (8 gal. usable)
+Control,"Elevator 
+ Up 28 ± 1 
+ Down 18 ± 1"
+Surface,"Elevator tab 
+ Up 11 ± 1.5 
+ Down 10 ± 1.5"
+Movements,"Rudder 
+ Left 21 ± 1 
+ Right 21 ± 1 
+ Aileron 
+ Up 20 ± 1 
+ Down 14 ± 1 
+ Flaps 
+ --- 
+ Down 26 ± 1.5 
+ Aileron droop with full flap 10 ± 1"
+Serial Nos,401-0662 and subsequent.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations must be installed in the aircraft for certification. In addition, 
+ the following equipment is required: 
+ a. Operative pre-stall warning system (Dwg. 50130) 
+ b. 24 volt electrical system. 
+ c. Slip indicator."
+Agricultural,The following agricultural dispersal equipment may be installed:
+Dispersal,"None, or any of the following:"
+Equipment,"a. Dust spreader (Dwg. 80020) 
+ b. Standard spray system (Dwg. 80038) 
+ c. Micronair spray system (Dwg. 80039) 
+ d. Hopper rinse tank (Dwg. 80939)"
+Optional,The following items of optional equipment may be installed.
+Equipment,"Other items of optional equipment may be approved but not listed here. 
+ Fire bomber gate and vent installation (Dwg 80343). 
+ 3-Piece Windshield (Dwg. 11464) 
+ Windshield washer (Dwg. 80216) 
+ Windshield wiper (Dwg. 60177) 
+ Avionics (Dwg. 60616) 
+ Night working lights (Dwg. 60038) 
+ Automatic Flagman (Dwg. 80038) 
+ Smoker (Dwg. 80610) 
+ Loader Seat (Dwg. 11524) 
+ Attitude Gyro (Dwg. 50899) 
+ Turn Coordinator (Dwg. 50899)"
+Datum,Wing leading edge.
+Leveling,Top of left-hand main landing gear leg at intersection of fuselage side skin.
+Baggage,One baggage compartment at (+94). Max capacity 60 lbs.
+Basis,PC2SW
+Export,Aircraft will be eligible for issuance of an Export Certificate of
+Eligibility,Airworthiness subject to compliance with FAR Part 21.
+NOTE 1,"FAA approved Airplane Flight Manual dated April 6, 1987, or later FAA approved 
+ revision is required. Current weight and balance report including list of 
+ equipment included in certificated empty weight, and loading instructions, when 
+ necessary, must be provided for each aircraft at the time of original 
+ certification. The empty weight and corresponding center of gravity location 
+ must include the following unusable fuel: 36 lbs. at (33.0)."
+NOTE 2,"All placards required by either the FAA Approved Airplane Flight Manual, the 
+ applicable operating rules, or the certification basis must be installed as 
+ specified."
+NOTE 3,"Safe-life of Air Tractor Model AT-401, serial numbers 401-0662 through 401-0951, 
+ wing carry-through structure, and attaching structure is limited to 10,757 hours 
+ time in service."
+"III - Model AT-501 1 PCLM (Restricted Category) Approved June 23, 1987 _",
+Engine,"Pratt & Whitney Wasp R1340 S3H1-G (Military designation R1340-59) 
+ or Pratt & Whitney Wasp R1340 S1H1-G (Military designation R1340-61)"
+Fuel,80/87 minimum grade aviation gasoline.
+Engine Limits,"HP 
+ RPM 
+ M.P. 
+ ALT. 
+ Takeoff (5 minutes) 
+ 600 
+ 2250 
+ 36.0 
+ S.L. 
+ Max. Continuous 
+ 550 
+ 2200 
+ 34.0 
+ S.L. 
+ Max. Continuous 
+ 550 
+ 2200 
+ 32.5 
+ 5000"
+Propeller ,"Hamilton Standard 23D40 hub, 7035A-9 blades, constant speed, hydromatic."
+Propeller,Diameter 129 inch maximum 127-inch minimum.
+Limits,"Pitch settings 19.0 low and 34.0 high at 42 inch station. 
+ or Hamilton Standard 23D40 hub, 6529A-9 blades, constant speed, hydromatic. 
+ Diameter 129 inch maximum 127-inch minimum. 
+ Pitch settings 19.0 low and 34 high at 42 inch station."
+Airspeed,"VNE (Never Exceed) 
+ 176 mph (153 knots)"
+Limits,"VA (Maneuvering) 
+ 140 mph (122 knots)"
+CAS,"VNO (Max. structural cruise) 
+ 140 mph (122 knots) 
+ VFE (Flap extended) 
+ 115 mph (100 knots)"
+CG Range,"(+15.0) to (+24.0) at 6,500 pounds."
+Max Weight,"6,500 pounds."
+No of Seats,1 (+74.0)
+Max Hopper,"4,100 lbs. (+12.0)"
+Fuel Capacity,"126 gal. (+33.0) 
+ (120 gal. usable capacity, one 63.0 gal. tank in each wing)"
+Oil Capacity,9.5 gal. total 71 lbs. at (-23.0) (8 gal. usable).
+Control,"Elevator 
+ Up 28 ± 1 
+ Down 16 ± 1"
+Surface,"Elevator tab 
+ Up 9 ± 1.5 
+ Down 9 ± 1.5"
+Movements,"Rudder 
+ Left 21 ± 1 
+ Right 21 ± 1 
+ Aileron 
+ Up 20 ± 1 
+ Down 14 ± 1 
+ Flaps 
+ --- 
+ Down 26 ± 1.5 
+ Aileron droop with full flap 10 ± 1"
+Eligible,501-0002 and subsequent.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations must be installed in the aircraft for certification. In addition, 
+ the following equipment is required. 
+ a. Operative pre-stall warning system (Dwg. 50130) 
+ b. 24 volt electrical system. 
+ c. Slip indicator."
+Agricultural,The following agricultural dispersal equipment may be installed:
+Dispersal,"None, or any of the following:"
+Equipment,"a. Dust spreader (Dwg. 80020) 
+ b. Standard spray system (Dwg. 80038) 
+ c. Micronair spray system (Dwg. 80039) 
+ d. Hopper rinse tank (Dwg. 80707, Sh. 1)"
+Optional,The following items of optional equipment may be installed.
+Equipment,"Other items of optional equipment may be approved but not listed here. 
+ Fire bomber gate and vent system (Dwg. 80343). 
+ Windshield washer (Dwg. 80216) 
+ Windshield wiper (Dwg. 60177) 
+ Avionics (Dwg. 60616) 
+ Night working lights (Dwg. 60038) 
+ Automatic Flagman (Dwg. 80038) 
+ Smoker (Dwg. 80610)"
+Datum,Wing leading edge.
+Means,Underside of propeller dome.
+Baggage,One baggage compartment at (+98.0). Max capacity 60 lbs.
+Basis,PC2SW
+Export,Aircraft will be eligible for issuance of an Export Certificate of
+Eligibility,Airworthiness subject to compliance with FAR Part 21.
+NOTE 1,"FAA approved Airplane Flight Manual dated June 23, 1987, or later FAA approved 
+ revision is required. Current weight and balance report including list of 
+ equipment included in certificated empty weight, and loading instructions, when 
+ necessary, must be provided for each aircraft at the time of original 
+ certification. The empty weight and corresponding center of gravity location 
+ must include the following unusable fuel: 36 lbs. at (+33.0)."
+NOTE 2,"All placards required by either the FAA Approved Airplane Flight Manual, the 
+ applicable operating rules, or the certification basis must be installed as 
+ specified."
+NOTE 3,"Safe-life of Air Tractor Model AT-501 serial numbers 501-0002 thru 501-0061 wing 
+ lower spar caps and attaching structure is limited to 4,531 hours time in 
+ service. 
+ Safe-life of Air Tractor Model AT-501, all serial numbers beginning with 501- 
+ 0062, wing lower spar caps and attaching structure is limited to 7,693 hours 
+ time in service."
+NOTE 4,"Air Tractor Model AT-501 airplane is eligible for conversion to Model AT-502 
+ configuration in accordance with Air Tractor Service Letter No. 80A dated 
+ April 14, 1989."
+"IV - Model AT-502 1 PCLM (Restricted Category), Approved June 23, 1987 _",
+Engine,"Pratt & Whitney PT6A-15AG, PT6A-27, PT6A-34, PT6-34AG, PT6A-36, or PT6A-34B."
+Fuel,"Per specifications CPW 46, PWA 522, GB 6537-94 (Peoples’ Republic of China RP-3 
+ kerosene), or automotive diesel fuels. 
+ For recommended use of anti-icing additives, limitations of using automotive 
+ diesel fuels, and emergency use of aviation gasoline per MIL-G-5572, refer to 
+ the FAA Approved Airplane Flight Manual."
+Oil,Per specifications CPW 202 or PWA 521.
+Power,"SHP 
+ Torque 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pres 
+ Temp 
+ ITTC 
+ C 
+ % 
+ % 
+ PSIG"
+All,"680 
+ 1628 
+ 725 
+ 38,100 
+ 2200 
+ 80 to 100 
+ 10 to 99"
+Operations,"ISA 
+ 101.5 
+ 100.0 
+ +6.7C"
+Lo Idle,"660 
+ 40 (MIN) 
+ -40 to 99"
+Starting,"1090 
+ -40(MIN) 
+ 2 seconds"
+Transient,"2100 
+ 825 
+ 38,500 
+ 2420 
+ 0 to 99 
+ 2 seconds 
+ 102.6 
+ 110.0"
+Max,"620 
+ 1554 
+ 725 
+ 35,812 
+ 2100 
+ 80 to 100 
+ 0 to 99"
+Reverse,"95.5 
+ 95.5 
+ Engine Limits PT6A-34, PT6A-34AG, PT6A-36, or PT6A-34B"
+Power,"SHP 
+ Torque 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pres 
+ Temp 
+ % 
+ % 
+ PSIG 
+ ITTC 
+ C"
+All,"750 
+ 1795 
+ 790 
+ 38,100 
+ 2200 
+ 85 to 105 
+ 10 to 99"
+Operations,"ISA 
+ 101.5 
+ 100.0 
+ +15.6C"
+Lo Idle,"685 
+ 40 (MIN) 
+ -40 to 99"
+Starting,"1090 
+ -40(MIN) 
+ 2 seconds"
+Transient,"2100 
+ 850 
+ 38,500 
+ 2420 
+ 0 to 99 
+ 2 seconds 
+ 102.6 
+ 110.0"
+Max,"750 
+ 1795 
+ 790 
+ 35,812 
+ 2100 
+ 85 - 105 
+ 0 to 99"
+Reverse,"95.5 
+ 95.5"
+Propeller ,Hartzell HC-B3TN-3D/T10282 +4 or HC-B3TN-3D/T10282N + 4 or HC-B3TN-3D/T10282NS
+Propeller,+ 4
+Limits,"Maximum dia. 106 inch, minimum. dia. 102 inch. 
+ Pitch settings, high 86 - 88, low 18, reverse -8.0 at 30-inch station."
+Airspeed,"VNE (Never Exceed) 
+ 155 mph (135 knots)"
+Limits,"VA (Maneuvering) 
+ 140 mph (122 knots)"
+CAS,"VNO (Max. structural cruise) 
+ 140 mph (122 knots) 
+ VFE (Flap extended) 
+ 115 mph (100 knots) 
+ See NOTE 6 regarding VNE speed"
+CG Range,"(+16.0) to (+26.0) at 6,500 lbs (S/N 502-0003 thru 502-0038) 
+ (+16.0) to (+28.0) at 6,500 lbs (S/N 502-0039 thru 502-0061) 
+ (+16.0) to (+24.0) at 8,000 lbs (S/N 502-0062 and subs.) 
+ (+16.0) to (+28.0) at 6,980 lbs and below 
+ Straight-line variation between points 
+ See NOTE 4 regarding C.G. range."
+Max Weight,"6,500 lbs. (S/N 502-0003 thru 502-0061) 
+ 8,000 lbs. (S/N 502-0062 and subs.) 
+ See NOTE 5 regarding gross weight"
+No of Seats,"1 (+74.0), 2(+74.0) with optional buddy seat installed per Dwg. 11360"
+Load,"4,100 lbs. (+12.0)"
+Fuel Capacity,"126 gallons (+33.0) 
+ (120 gal. usable, one 63 gal. tank in each wing) 
+ 170 gallons optional (+33.0) (164 gal. usable, one 85 gal. tank in each wing) 
+ 216 gallons optional (+33.0) (210 gal. usable, one 108 gal. tank in each wing) 
+ 234 gallons optional (+33.0) (228 gal. usable, one 117 gal. tank in each wing)"
+Oil Capacity,"9.2 quarts, 6.0 quarts usable"
+Control,"Elevator 
+ Up 28 ± 1 
+ Down 16 ± 1"
+Surface,"Elevator tab 
+ Up 9 ± 1.5 
+ Down 7 ± 1.5"
+Movements,"Rudder 
+ Left 21 ± 1 
+ Right 21 ± 1 
+ Aileron 
+ Up 20 ± 1 
+ Down 14 ± 1 
+ Flaps 
+ --- 
+ Down 26 ± 1.5 
+ Aileron droop with full flap 10 ± 1"
+Eligible,502-0003 and subsequent.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations must be installed in the aircraft for certification. In addition, 
+ the following equipment is required: 
+ a. Operative pre-stall warning system (Dwg. 50130) 
+ b. 24 volt electrical system. 
+ c. Slip indicator."
+Agricultural,The following agricultural dispersal equipment may be installed:
+Dispersal,"None, or any of the following:"
+Equipment,"a. Dust spreader (Dwg. 80020) 
+ b. Standard spray system (Dwg. 80038) 
+ c. Micronair spray system (Dwg. 80039) 
+ d. Hopper rinse tank (Dwg. 80707, Sh. 1) 
+ e. Hopper rinse tank (Dwg. 80707, Sh. 3)"
+Optional,The following items of optional equipment may be installed.
+Equipment,"Other items of optional equipment may be approved but not listed here. 
+ Fire bomber gate and vent installation (Dwg. 80343) 
+ Air conditioning system (Dwg. 60586) 
+ COM radio or NAV/COM radio (Dwg. 60616) 
+ Attitude Gyro (Dwg. 51619) 
+ Fuel flowmeter (Dwg. 60585) 
+ Cockpit heater (Dwg. 51026) 
+ Air conditioning system (Dwg. 60740) 
+ ADF (Dwg. 51619) 
+ Turn coordinator (Dwg 51619) 
+ Transponder (Dwg. 60434) 
+ Directional Gyro (Dwg. 51619) 
+ Vertical Speed Indicator (Dwg. 51619) 
+ Light package (Dwg. 60038)"
+Datum,Wing leading edge.
+Means,Top of left-hand main landing gear leg 5° tail down
+Baggage,One baggage compartment at (+98.0). Max capacity 60 lbs.
+Production Basis,PC2SW
+Export,Aircraft will be eligible for issuance of an Export Certificate of
+Eligibility,Airworthiness subject to compliance with FAR Part 21.
+NOTE 1,"FAA approved Airplane Flight Manual dated June 23, 1987, or later FAA approved 
+ revision is required. Current weight and balance report including list of 
+ equipment included in certificated empty weight, and loading instructions, when 
+ necessary, must be provided for each aircraft at the time of original 
+ certification. The empty weight and corresponding center of gravity location 
+ must include the following unusable fuel: 40 lbs. at (+33.0)."
+NOTE 2,"All placards required by either the FAA Approved Airplane Flight Manual, the 
+ applicable operating rules, or the certification basis must be installed as 
+ specified."
+NOTE 3,"Safe-life of Air Tractor Model AT-502 wing lower spar caps and attaching 
+ structure, all serial numbers beginning with 502-0003, is limited to 1,650 hours 
+ time in service. 
+ Owners may continue to operate their AT-502 aircraft beyond the safe-life listed 
+ above by following the requirements in Appendix 2—Alternative Method of 
+ Compliance (AMOC) to AD 2006-24-10. 
+ Safe-life of Air Tractor Model AT-502 wings, any serial number beginning with 
+ 502-0003, that have been retrofitted with p/n 21058-1 and 21058-2 wing lower 
+ spar caps and p/n 21059-1/-2 spar blocks is 9,800 hours time in service from 
+ time of retrofit."
+NOTE 4,"C.G. range on serials 502-0003 through 502-0038 may be changed to (+16.0) to 
+ (+28.0) at 6,500 lbs. by removing existing elevator down spring attach strap and 
+ installing p/n 70466-3 strap per Dwg. 70465."
+NOTE 5,"Gross weight on serial 502-0002 through 502-0061 may be increased to 8,000 lbs. 
+ by incorporating main spar modifications in accordance with Air Tractor Service 
+ Letter No. 80J dated March 6, 1993 (or later FAA Approved version)."
+NOTE 6,"VNE (Never Exceed) may be increased to 176 mph (153 knots) when Hartzell 
+ HC-B3TN-3D/T10282NS + 4 propeller is installed."
+"V - Model AT-402 1 PCLM (Restricted Category), Approved December 2, 1988",
+Engine,"Pratt & Whitney PT6A-15AG, PT6A-27, PT6A-34, or PT6-34AG"
+Fuel,"Per Specification CPW 46, PWA 522, GB 6537-94 (Peoples’ Republic of China RP-3 
+ kerosene), or automotive diesel fuels. 
+ For recommended use of anti-icing additives, limitations of using automotive 
+ diesel fuels, and emergency use of aviation gasoline per MIL-G-5572, refer to 
+ the FAA Approved Airplane Flight Manual."
+Oil,Per Specification CPW 202 or PWA 521.
+Power,"SHP 
+ Torque 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pres 
+ Temp 
+ ITTC 
+ C 
+ % 
+ % 
+ PSIG"
+All,"680 
+ 1628 
+ 725 
+ 38,100 
+ 2200 
+ 80 to 100 
+ 10 to 99"
+Operations,"ISA 
+ 101.5 
+ 100.0 
+ +6.7C"
+Lo Idle,"660 
+ 40 (MIN) 
+ -40 to 99"
+Starting,"1090 
+ -40(MIN) 
+ 2 seconds"
+Transient,"2100 
+ 825 
+ 38,500 
+ 2420 
+ 0 to 99 
+ 2 seconds 
+ 102.6 
+ 110.0"
+Max,"620 
+ 1554 
+ 725 
+ 35,812 
+ 2100 
+ 80 to 100 
+ 0 to 99"
+Reverse,"95.5 
+ 95.5"
+Power,"SHP 
+ Torque 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pres 
+ Temp 
+ ITTC 
+ C 
+ % 
+ % 
+ PSIG"
+All,"680 
+ 1628 
+ 790 
+ 38,100 
+ 2200 
+ 85 to 105 
+ 10 to 99"
+Operations,"ISA 
+ 101.5 
+ 100.0 
+ +15.6"
+Lo Idle,"685 
+ 40 (MIN) 
+ -40 to 99"
+Starting,"1090 
+ -40(MIN) 
+ 2 seconds"
+Transient,"2100 
+ 850 
+ 38,500 
+ 2420 
+ 0 to 99 
+ 2 seconds 
+ 102.6 
+ 110.0"
+Max,"620 
+ 1554 
+ 750 
+ 35,812 
+ 2100 
+ 85 to 100 
+ 0 to 99"
+Reverse,"95.5 
+ 95.5"
+Propeller ,Hartzell HC-B3TN-3D/T10282 +4 or HC-B3TN-3D/T10282N + 4 or
+Propeller,HC-B3TN-3D/T10282NS + 4
+Limits,"Max dia. 106 inch Min dia. 102 inch 
+ Pitch settings feather 86 - 88, low 18, reverse -8.0 at 30-inch station."
+Airspeed,"VNE (Never Exceed) 
+ 140 mph (122 knots)"
+Limits,"VA (Maneuvering) 
+ 140 mph (122 knots)"
+CAS,"VNO (Max. structural cruise) 
+ 140 mph (122 knots) 
+ VFE (Flap extended) 
+ 115 mph (100 knots) 
+ See NOTE 4 regarding VNE speed."
+CG Range,"(+16.0) to (+24.0) at 6,000 pounds. 
+ (+16.0) to (+27.5) at 5,562 pounds and below. 
+ Straight-line variation between points."
+Max Weight,6000 pounds.
+No of Seats,"1 (+74.0) 
+ 1 Crew (+110.0) when optional loader seat is installed in accordance with 
+ Dwg 11524"
+Max Hopper,"3,250 lbs. (+12.0)"
+Fuel Capacity,"126 gallons (+33.0) 
+ (120 gal. usable, one 63 gal. tank in each wing) 
+ 170 gallons optional (+33.0) (164 gal. usable, one 85 gal. tank in each wing) 
+ 216 gallons optional (+33.0) (210 gal. usable, one 108 gal. tank in each wing) 
+ 234 gallons optional (+33.0) (228 gal. usable, one 117 gal. tank in each wing)"
+Oil Capacity,"9.2 quarts, 6.0 quarts usable"
+Control,"Elevator 
+ Up 28 ± 1 
+ Down 18 ± 1"
+Surface,"Elevator tab 
+ Up 11 ± 1.5 
+ Down 10 ± 1.5"
+Movements,"Rudder 
+ Left 21 ± 1 
+ Right 21 ± 1 
+ Aileron 
+ Up 20 ± 1 
+ Down 14 ± 1 
+ Flaps 
+ --- 
+ Down 20 ± 1.5 
+ Aileron droop with full flap 8 ± 1"
+Eligible,402-0694 and subsequent.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations must be installed in the aircraft for certification. In addition, 
+ the following equipment is required: 
+ a. Operative pre-stall warning system (Dwg. 50130) 
+ b. 24 volt electrical system. 
+ c. Slip indicator."
+Agricultural,The following agricultural dispersal equipment may be installed:
+Dispersal,"None, or any of the following:"
+Equipment,"a. Dust spreader (Dwg. 80020) 
+ b. Standard spray system (Dwg. 80038) 
+ c. Micronair spray system (Dwg. 80039) 
+ d. Hopper rinse tank (Dwg. 80939)"
+Optional,The following items of optional equipment may be installed.
+Equipment,"Other items of optional equipment may be approved but not listed here. 
+ Fire bomber gate and vent installation (Dwg. 80343) 
+ Cockpit heater (Dwg. 51026) 
+ Engine driven air conditioner (Dwg. 60906) 
+ 3-Piece Windshield (Dwg. 11464) 
+ Windshield washer (Dwg. 80216) 
+ Windshield wiper (Dwg. 60177) 
+ Avionics (Dwg. 60616) 
+ Night working lights (Dwg. 60038) 
+ Automatic Flagman (Dwg. 80038) 
+ Smoker (Dwg. 80610) 
+ Attitude Gyro (Dwg. 50950) 
+ Turn Coordinator (Dwg. 50950) 
+ Fuel Flowmeter (Dwg. 60585) 
+ Transponder (Dwg. 60434) 
+ Crophawk Flowmeter (Dwg. 80038) 
+ Loader Seat (Dwg. 11524) 
+ ADF (Dwg. 60616) 
+ NAV/COM Radio (Or COM only) (Dwg. 60616)"
+Datum,Wing leading edge.
+Leveling Means,Top of left-hand main landing gear leg at intersection fuselage side skin.
+Baggage,One baggage compartment at (+94.0). Max capacity 60 lbs.
+Production Basis,PC2SW
+Export,Aircraft will be eligible for issuance of an Export Certificate of
+Eligibility,Airworthiness subject to compliance with FAR Part 21.
+NOTE 1,"FAA approved Airplane Flight Manual dated November 23, 1988, or later FAA approved 
+ revision is required. Current weight and balance report including list of 
+ equipment included in certificated empty weight, and loading instructions, when 
+ necessary, must be provided for each aircraft at the time of original 
+ certification. The empty weight and corresponding center of gravity location must 
+ include the following unusable fuel: 40 lbs. at (+33.0)."
+NOTE 2,"All placards required by either the FAA Approved Airplane Flight Manual, the 
+ applicable operating rules, or the certification basis must be installed as 
+ specified."
+NOTE 3,"Safe-life of Air Tractor Model AT-402, all serial numbers, wing carry-through 
+ structure, and attaching structure is limited to 7,440 hours' time in service."
+NOTE 4,"VNE (Never Exceed) may be increased to 176 mph (153 knots) when Hartzell 
+ HC-B3TN-3D/T10282NS + 4 Propeller is installed."
+"VI - Model AT-402A 1 PCLM (Restricted Category), Approved November 15, 1989",
+Engine,"Pratt & Whitney PT6A-11AG, PT6A-11, PT6A-20, PT6A-20A, PT6A-20B, PT6A-21, or 
+ PT6A-11AG BS 943."
+Fuel,"Per Specifications CPW 46, PWA 522, GB 6537-94 (Peoples’ Republic of China RP-3 
+ kerosene), or automotive diesel fuels. 
+ For recommended use of anti-icing additives, limitations of using automotive 
+ diesel fuels, and emergency use of aviation gasoline per MIL-G-5572, refer to 
+ the FAA Approved Airplane Flight Manual."
+Oil,Per Specifications CPW 202 or PWA 521.
+Power,"SHP 
+ Torque 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pres 
+ Temp 
+ % 
+ % 
+ PSIG 
+ ITTC 
+ C"
+All,"500 
+ 1194 
+ 700 
+ 38,100 
+ 2200 
+ 80 to 100 
+ 10 to 99"
+Operations,"ISA 
+ 101.5 
+ 100.0 
+ +6.7C"
+Lo Idle,"660 
+ 40 (MIN) 
+ -40 to 99"
+Starting,"1090(3) 
+ -40(MIN) 
+ 2 seconds"
+Transient,"1500 
+ 825(3) 
+ 38,500 
+ 2420 
+ 0 to 99 
+ 2 seconds 
+ 102.6 
+ 110.0"
+Max,"475 
+ 1194 
+ 700 
+ 38,100 
+ 2112 
+ 80 to 100 
+ 0 to 99"
+Reverse,"101.5 
+ 96.0 
+ Engine Limits PT6A-20 or PT6A-20A or PT6A-20B"
+Power,"SHP 
+ Torque 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pres 
+ Temp 
+ ITTC 
+ C 
+ % 
+ % 
+ PSIG"
+All,"500 
+ 1194 
+ 700 
+ 38,100 
+ 2200 
+ 65 to 105 
+ 10 to 99"
+Operations,"ISA 
+ 101.5 
+ 100.0 
+ +6.7C"
+Lo Idle,"660 
+ 40 (MIN) 
+ -40 to 99"
+Starting,"1090(3) 
+ -40(MIN) 
+ 2 seconds"
+Transient,"1500 
+ 850(3) 
+ 38,500 
+ 2420 
+ 0 to 99 
+ 2 seconds 
+ 102.6 
+ 110.0"
+Max,"500 
+ 1315 
+ 750 
+ 38,100 
+ 2090 
+ 65 to 85 
+ 0 to 99"
+Reverse,"101.5 
+ 95.0"
+Operating,"SHP 
+ Torque 
+ Maximum 
+ 37500=100% 
+ Prop 
+ Note (7) 
+ Note(8) 
+ ITTC"
+Condition,"Ft-Lb 
+ Gas Gen (Ng) 
+ RPM 
+ Oil Press 
+ Oil Temp 
+ RPM 
+ (Np) 
+ PSI 
+ (C) 
+ %"
+Takeoff,"550 
+ 1315 
+ 695 
+ 38,100 
+ 2,200 
+ 80 to 100 
+ 10 to 99 
+ 101.5 
+ 550 
+ 1315 
+ 695 
+ 38,100 
+ 2,200 
+ 80 to 100 
+ 10 to 99"
+1,101.5
+Hi Idle,"25,875 
+ 80 to 100 
+ 0 to 99 
+ 68-70"
+Lo Idle,"660(3) 
+ 19,500 
+ 40 min. 
+ -40 to 99"
+RUN2,51-53
+Starting,"1090(4) 
+ -40 min."
+Acceleration,"1500 
+ 825 
+ 38,500 
+ 2,420 
+ 0 to 99"
+5,102.6
+Max Reverse,"500 
+ 1315 
+ 695 
+ 38,100 
+ 2,112 
+ 80 to 110 
+ 0 to 99"
+6,101.5
+Engine Limits PT6A11AG BS943,"37500=100% 
+ Note (7) 
+ Maximum 
+ Gas Gen (Ng) 
+ Prop 
+ Oil 
+ Note (8)"
+Operating,"Torque 
+ RPM 
+ % 
+ RPM 
+ Press 
+ Oil Temp 
+ (C)"
+Condition,"SHP 
+ Ft-Lb 
+ ITTC 
+ (Np) 
+ PSI"
+Takeoff,"550 
+ 1315 
+ 700 
+ 38,100 
+ 101.5 
+ 2,200 
+ 80 - 100 
+ 10 - 99 
+ 550 
+ 1315 
+ 700 
+ 38,100 
+ 101.5 
+ 2,200 
+ 80 - 100 
+ 10 - 99"
+Hi Idle,"25,875 
+ 68-70 
+ 80 - 100 
+ 0 - 99"
+Lo Idle RUN2,"660(3) 
+ 19,500 
+ 51-53 
+ 40 min. 
+ -40 - 99"
+Starting,"1090(4) 
+ -40 min."
+Acceleration 5,"1500 
+ 825 
+ 38,500 
+ 102.6 
+ 2,420 
+ 80 - 100 
+ 0 - 99"
+Max Reverse 6,"500 
+ 1315 
+ 700 
+ 38,100 
+ 101.5 
+ 2,112 
+ 80 - 110 
+ 0 - 99"
+Propeller ,Hartzell HC-B3TN-3D/T10282 + 4 or HC-B3TN-3D/T10282N + 4 or
+Propeller,HC-B3TN-3D/T10282NS + 4
+Limits,"Max dia. 106 inch Min dia. 102 inch 
+ Pitch settings feather 86 - 88, low 18, reverse -8.0 at 30-inch station."
+Airspeed,"VNE (Never Exceed) 
+ 140 mph (122 knots)"
+Limits,"VA (Maneuvering) 
+ 140 mph (122 knots)"
+CAS,"VNO (Max. structural cruise) 
+ 140 mph (122 knots) 
+ VFE (Flap extended) 
+ 115 mph (100 knots) 
+ See NOTE 4 regarding VNE speed."
+CG Range,"FOR AIRCRAFT WITH 6000 POUND MAX. WEIGHT: 
+ (+16.0) to (+24.0) at 6,000 pounds. 
+ (+16.0) to (+27.5) at 5,562 pounds and below. 
+ Straight-line variation between points. 
+ FOR AIRCRAFT WITH 7000 POUND MAX. WEIGHT: 
+ (+17.5) to (+24.0) at 7,000 pounds 
+ (+17.5) to (+28.0) at 6,400 pounds and below 
+ Straight-line variation between points."
+Max Weight,"6000 pounds. 
+ 7000 pounds (For S/N 402A-1015, 402A-1021 and subsequent and with: 
+ P/N 40059-21 or 40059-34 Main Landing Gear Installation, 
+ and PT6A-11AG BS 943 or PT6A-21 engine installed)"
+No of Seats,"1 (+74.0) 
+ 1 crew (+110.0) when optional loader seat is installed in accordance with 
+ Dwg. 11524."
+Load,"3,250 lbs."
+Fuel Capacity,"126 gallons (+33.0) 
+ (120 gal. usable, one 63 gal. tank in each wing) 
+ 170 gallons optional (+33.0) (164 gal. usable, one 85 gal. tank in each wing) 
+ 216 gallons optional (+33.0) (210 gal. usable, one 108 gal. tank in each wing) 
+ 234 gallons optional (+33.0) (228 gal. usable, one 117 gal. tank in each wing)"
+Oil Capacity,"9.2 quarts, 6.0 quarts usable"
+Control,"Elevator 
+ Up 28 ± 1 
+ Down 18 ± 1"
+Surface,"Elevator tab 
+ Up 11 ± 1.5 
+ Down 10 ± 1.5"
+Movements,"Rudder 
+ Left 21 ± 1 
+ Right 21 ± 1 
+ Aileron 
+ Up 20 ± 1 
+ Down 14 ± 1 
+ Flaps 
+ --- 
+ Down 20 ± 1.5 
+ Aileron droop with full flap 10 ± 1"
+Serial Nos,402A-0738 and subsequent.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations must be installed in the aircraft for certification. In addition, 
+ the following equipment is required: 
+ a. Operative pre-stall warning system (Dwg. 50130) 
+ b. 24 volt electrical system. 
+ c. Slip indicator."
+Agricultural,The following agricultural dispersal equipment may be installed:
+Dispersal,"None, or any of the following:"
+Equipment,"a. Dust spreader (Dwg. 80020) 
+ b. Standard spray system (Dwg. 80038) 
+ c. Micronair spray system (Dwg. 80039) 
+ d. Hopper rinse tank (Dwg. 80939)"
+Optional,The following items of optional equipment may be installed.
+Equipment,"Other items of optional equipment may be approved but not listed here. 
+ Fire bomber gate and vent installation (Dwg. 80343) 
+ Cockpit heater (Dwg. 51026) 
+ Engine driven air conditioner(Dwg. 60906) 
+ 3-Piece Windshield (Dwg. 11464) 
+ Windshield washer (Dwg. 80216) 
+ Windshield wiper (Dwg. 60177) 
+ Avionics (Dwg. 60616) 
+ Night working lights (Dwg. 60038) 
+ Automatic Flagman (Dwg. 80038) 
+ Smoker (Dwg. 80610) 
+ Attitude Gyro (Dwg. 50950) 
+ Turn Coordinator (Dwg. 50950) 
+ COM radio or NAV/COM radio (Dwg. 60616) 
+ Fuel Flowmeter (Dwg. 60585) 
+ Loader Seat (Dwg. 11524) 
+ Transponder (Dwg. 60434 or 61157) 
+ Crophawk Flowmeter (Dwg. 80038) 
+ ADF (Dwg. 60616 
+ FCU Override System (Dwg. 70640) 
+ Garmin/Apollo SL40 COM radio (Dwg. 61339) 
+ Optional Hopper Gauge System (Dwg. 82060) 
+ Amsafe Inflatable Restraints (Dwg. 10094) 
+ Electronics International MVP-50T Engine Monitor Installation (Dwg. 53157) 
+ Ram Air Engine Inlet (Dwg. 50463) 
+ Optional Engine Power Quadrant (Dwg. 70585)"
+Datum,Wing leading edge.
+Leveling,Top of left-hand main landing gear leg at intersection fuselage side skin.
+Baggage,One baggage compartment at (+94.0). Max capacity 60 lbs.
+Basis,PC2SW.
+Export,Aircraft will be eligible for issuance of an Export Certificate of
+Eligibility,Airworthiness subject to compliance with FAR Part 21.
+NOTE 1,"FAA approved Airplane Flight Manual dated November 15, 1989, or later FAA 
+ approved revision is required. Current weight and balance report including list 
+ of equipment included in certificated empty weight, and loading instructions, 
+ when necessary, must be provided for each aircraft at the time of original 
+ certification. The empty weight and corresponding center of gravity location 
+ must include the following unusable fuel: 40 lbs. at (+33.0)."
+NOTE 2,"All placards required by either the FAA Approved Airplane Flight Manual, the 
+ applicable operating rules, or the certification basis must be installed as 
+ specified."
+NOTE 3,"Safe-life of Air Tractor Model AT-402A, serial numbers 402A-0738 thru 402A-0951, 
+ wing lower spar caps and attaching structure is limited to 7,440 hours time in 
+ service. 
+ Safe-life of Air Tractor Model AT-402A, serial numbers 402A-0952 thru 402A-1020 
+ except 1015, wing lower spar caps and attaching structure is limited to 2,000 
+ hours time in service. 
+ Safe-life of Air Tractor Model AT-402A, serial numbers 402A-1015 and 402A-1021 
+ thru 402A-1182, wing lower spar caps and attaching structure is limited to 2,300 
+ hours time in service. 
+ Owners may continue to operate their AT-402A aircraft beyond the safe-life 
+ listed above by following the requirements in Appendix 2 – Alternative Method of 
+ Compliance (AMOC) to AD 2006-08-08. 
+ Safe-life of Air Tractor model AT-402A, any serial number, wings that have been 
+ retrofitted with p/n 21058-1 and 21058-2 wing lower spar caps and p/n 21059-1/-2 
+ splice blocks is 9,800 hours time in service from time of retrofit. 
+ Safe-life of Air Tractor Model AT-402A, all serial numbers beginning with 402A- 
+ 1183, wing lower spar caps and attaching structure is limited to 9,800 hours 
+ time in service."
+NOTE 4,"VNE (Never Exceed) may be increased to 176 mph (153 Knots) when Hartzell HC- 
+ B3TN-3D/T10282NS+4 Propeller is installed."
+"VII - Model AT-503A 2 PCLM (Restricted Category), Approved November 26, 1990",
+Engine,Pratt & Whitney PT6A-34 or PT6A-34AG
+Fuel,"Per Specifications CPW 46, PWA 522, GB 6537-94 (Peoples’ Republic of China RP-3 
+ kerosene), or automotive diesel fuels. 
+ For recommended use of anti-icing additives, limitations of using automotive 
+ diesel fuels, and emergency use of aviation gasoline per MIL-G-5572, refer to 
+ the FAA Approved Airplane Flight Manual."
+Oil,Per Specifications CPW 202 or PWA 521.
+Power,"SHP 
+ Torque 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pres 
+ Temp 
+ ITTC 
+ C 
+ % 
+ % 
+ PSIG"
+All,"750 
+ 1795 
+ 790 
+ 38,100 
+ 2200 
+ 85 to 105 
+ 20 to 99"
+Operations,"ISA 
+ 101.5 
+ 100.0 
+ +15.6C"
+Lo Idle,"685 
+ 19,500 
+ 40 (MIN) 
+ -40 to 99"
+Starting,"1090 
+ -40(MIN) 
+ 2 seconds"
+Transient,"2100 
+ 850 
+ 38,500 
+ 2420 
+ 85 to 105 
+ 0 to 99 
+ 2 seconds 
+ 102.6 
+ 110.0"
+Max,"750 
+ 1795 
+ 790 
+ 33,100 
+ 2100 
+ 85 to 105 
+ 0 to 99"
+Reverse,"95.5 
+ 95.5"
+Propeller ,Hartzell HC-B3TN-3D/T10282 +4 or HC-B3TN-3D/T10282N+4 or
+Propeller,HC-B3TN-3D/T10282NS+4.
+Limits,"Max dia. 106 inch Min dia. 102 inch 
+ Pitch settings feather 86 - 88, low 18, reverse -8.0 at 30-inch station."
+Airspeed,"VNE (Never Exceed) 
+ 155 mph (135 knots)"
+Limits,"VA (Maneuvering) 
+ 140 mph (122 knots)"
+CAS,"VNO (Max. structural cruise) 
+ 140 mph (122 knots) 
+ VFE (Flap extended) 
+ 115 mph (100 knots) 
+ See NOTE 4 regarding VNE Speed."
+CG Range,"(+18.0) to (+24.0) at 8,000 pounds. 
+ (+18.0) to (+28.0) at 6,980 pounds and below. 
+ Straight-line variation between points."
+Max Weight,8000 pounds.
+No of Seats,"1 (+74.0), 2(+74.0) with optional buddy seat installed per Dwg. 11360 
+ 1 crew (+110) when optional loader seat is installed in accordance with Dwg. 
+ 11524."
+Max Hopper,"4,100 lbs."
+Fuel Capacity,"126 gallons (+33.0) 
+ (120 gal. usable, one 63 gal. tank in each wing) 
+ 170 gallons optional (+33.0) (164 gal. usable, one 85 gal. tank in each wing) 
+ 216 gallons optional (+33.0) (210 gal. usable, one 108 gal. tank in each wing)"
+Oil Capacity,"9.2 quarts, 6.0 quarts usable"
+Control,"Elevator 
+ Up 28 ± 1 
+ Down 18 ± 1"
+Surface,"Elevator tab 
+ Up 9 ± 1.5 
+ Down 7 ± 1.5"
+Movements,"Rudder 
+ Left 21 ± 1 
+ Right 21 ± 1 
+ Aileron 
+ Up 20 ± 1 
+ Down 14 ± 1 
+ Flaps 
+ --- 
+ Down 26 ± 1.5 
+ Aileron droop with full flap 10 ± 1"
+Eligible,503A-0067 and subsequent.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations must be installed in the aircraft for certification. In addition, 
+ the following equipment is required: 
+ a. Operative pre-stall warning system (Dwg. 50130) 
+ b. 24 volt electrical system. 
+ c. Slip indicator."
+Agricultural,The following agricultural dispersal equipment may be installed:
+Dispersal,"None, or any of the following:"
+Equipment,"a. Dust spreader (Dwg. 80020) 
+ b. Standard spray system (Dwg. 80038) 
+ c. Micronair spray system (Dwg. 80039) 
+ d. Hopper rinse tank (Dwg. 80707, Sh. 3)"
+Optional,The following items of optional equipment may be installed.
+Equipment,"Other items of optional equipment may be approved but not listed here. 
+ Fire bomber gate and vent installation (Dwg. 80343) 
+ Air Conditioning system (Dwg. 60586) 
+ COM radio or NAV/COM radio (Dwg. 60516) 
+ Attitude Gyro (Dwg. 50913) 
+ Fuel Flowmeter (Dwg. 60585) 
+ Cockpit Heater (Dwg. 51026) 
+ ADF (Dwg. 51619) 
+ Turn Coordinator (Dwg. 51619) 
+ Transponder (Dwg. 60434 or 61157) 
+ Directional Gyro (Dwg. 51619) 
+ Vertical Speed Indicator (Dwg. 51619) 
+ Light Package (Dwg. 60038)"
+Datum,Wing leading edge.
+Leveling Means,Screw heads on engine inlet air scoop
+Baggage,One baggage compartment at (+98.0). Max capacity 60 lbs.
+Production Basis,PC2SW.
+Export,Aircraft will be eligible for issuance of an Export Certificate of
+Eligibility,Airworthiness subject to compliance with FAR Part 21.
+NOTE 1,"FAA approved Airplane Flight Manual dated November 26, 1990, or later FAA 
+ approved revision is required. Current weight and balance report including list 
+ of equipment included in certificated empty weight, and loading instructions, 
+ when necessary, must be provided for each aircraft at the time of original 
+ certification. The empty weight and corresponding center of gravity location 
+ must include the following unusable fuel: 40 lbs. at (+33.0)."
+NOTE 2,"All placards required by either the FAA Approved Airplane Flight Manual, the 
+ applicable operating rules, or the certification basis must be installed as 
+ specified."
+NOTE 3,"Safe-life of Air Tractor Model AT-503A, all serial numbers beginning with 503A- 
+ 0067, wing lower spar caps and attaching structure is limited to 1,650 hours 
+ time in service. 
+ Owners may continue to operate their AT-503A aircraft beyond the safe-life 
+ listed above by following the requirements in Appendix 2—Alternative Method of 
+ Compliance (AMOC) to AD 2006-24-10. 
+ Safe-life of Air Tractor Model AT-503A, any serial number, wings that have been 
+ retrofitted with p/n 21058-1 and 21058-2 wing lower spar caps and p/n 21059-1/02 
+ splice blocks is 9,800 hours time in service from time of retrofit."
+NOTE 4,"VNE may be increased to 176 mph (153 knots) when Hartzell HC-B3TN-3D/T10282NS+4 
+ propeller is installed."
+"VIII - Model AT-401A 1 PCLM (Restricted Category) Approved December 1, 1991",
+Engine,"Wsk - ""Pezetel"" PZL-3S 2nd Series (Note 4)"
+Fuel,91 Minimum grade aviation gasoline
+Engine Limits,"Condition 
+ HP 
+ RPM 
+ M.P 
+ ALT. 
+ Takeoff (1 min.) 
+ 592 
+ 2200 
+ 37.0 
+ S.L. 
+ Max. Continuous 
+ 542 
+ 2100 
+ 35.8 
+ S.L. 
+ Max. Continuous 
+ 473 
+ 2100 
+ 32.0 
+ 5000"
+Propeller ,"Wsk Model US-132000/A constant speed, hydromatic, 4- blade."
+Propeller,"Diameter 103.7 inch maximum, 102-inch minimum."
+Limits,Pitch settings 12.0 low and 32.0 ± 1.0 high.
+Airspeed,"VNE (Never Exceed) 
+ 176 mph (153 knots)"
+Limits,"VA (Maneuvering) 
+ 140 mph (122 knots)"
+CAS,"VNO (Max. structural cruise) 
+ 140 mph (122 knots) 
+ VFE (Flap extended) 
+ 115 mph (100 knots)"
+CG Range,"(+16.0) to (+24.0) at 6,000 pounds 
+ (+16.0) to (+24.5) at 5,937 pounds 
+ Straight-line variation between points."
+Max Weight,"6,000 pounds"
+No of Seats,1 (+74.0)
+Load,"3,250 lbs. (+12.0)"
+Fuel Capacity,"126 gal. (+33.0) 
+ (120 gal. usable capacity, one 63.0 gal. tank in each wing)"
+Oil Capacity,9.5 gal. total 71 lbs. at (-23.0) (8 gal. usable)
+Control,"Elevator 
+ Up 28 ± 1 
+ Down 18 ± 1"
+Surface,"Elevator tab 
+ Up 11 ± 1.5 
+ Down 10 ± 1.5"
+Movements,"Rudder 
+ Left 21 ± 1 
+ Right 21 ± 1 
+ Aileron 
+ Up 20 ± 1 
+ Down 14 ± 1 
+ Flaps 
+ --- 
+ Down 26 ± 1.5 
+ Aileron droop with full flap 10 ± 1"
+Eligible,401-0662 and subsequent.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations must be installed in the aircraft for certification. In addition, 
+ the following equipment is required: 
+ a. Operative pre-stall warning system (Dwg. 50130) 
+ b. 24 volt electrical system. 
+ c. Slip indicator."
+Agricultural,The following agricultural dispersal equipment may be installed:
+Dispersal,"None, or any of the following:"
+Equipment,"a. Dust spreader (Dwg. 80020) 
+ b. Standard spray system (Dwg. 80038) 
+ c. Micronair spray system (Dwg. 80039)"
+Optional,The following items of optional equipment may be installed.
+Equipment,"Other items of optional equipment may be approved but not listed here. 
+ Fire bomber gate and vent installation (Dwg 80343)."
+Datum,Wing leading edge.
+Leveling Means,Top of left-hand main landing gear leg at intersection of fuselage side skin.
+Baggage,One baggage compartment at (+94.0). Max capacity 60 lbs.
+Production Basis,PC2SW
+Export,Aircraft will be eligible for issuance of an Export Certificate of
+Eligibility,Airworthiness subject to compliance with FAR Part 21.
+NOTE 1,"FAA approved Airplane Flight Manual dated November 1, 1991, or later FAA 
+ approved revision is required. Current weight and balance report including list 
+ of equipment included in certificated empty weight, and loading instructions, 
+ when necessary, must be provided for each aircraft at the time of original 
+ certification. The empty weight and corresponding center of gravity location 
+ must include the following unusable fuel: 36 lbs. at (+33.0)."
+NOTE 2,"All placards required by either the FAA Approved Airplane Flight Manual, the 
+ applicable operating rules, or the certification basis must be installed as 
+ specified."
+NOTE 3,"Safe-life of Air Tractor Model AT-401A, any serial number, wing carry-through 
+ structure, and attaching structure is limited to 10,757 hours time in service."
+NOTE 4,"Cylinders having larger cooling fins PZL P/N 20.33.0280 are to be installed per 
+ PZL S/B Number 86/PZL-3S/90. Engine placard (data plate) is to be modified per 
+ Drawing 51135."
+"IX - Model AT-502A 1 PCLM (Restricted Category), Approved April 10, 1992",
+Engine,"Pratt & Whitney PT6A-45R, PT6A-45A, PT6A-45B, PT6A-60AG, PT6A-65B, PT6A-65AG, 
+ or PT6A-140AG"
+Fuel,"Per Specifications CPW 46, PWA 522, GB 6537-94 (Peoples’ Republic of China RP-3 
+ kerosene). 
+ For recommended use of anti-icing additives and emergency use of aviation 
+ gasoline per MIL-G-5572, refer to the FAA Approved Airplane Flight Manual."
+Oil,"Per Specifications CPW 202 or PWA 521. 
+ Engine Limits PT6A-45R or PT6A-45A or PT6A-45B"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil 
+ ITT"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ % 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1100 
+ 3398 
+ 800 
+ 39,000 
+ 1700 
+ 90 to 135 
+ 10 to 99 
+ ISA+ 
+ 104.0 
+ 100.0 
+ NOTE 5 
+ 0C"
+MAX,"1020 
+ 3398 
+ 800 
+ 39,000 
+ 1700 
+ 90 to 135 
+ 0 to 99"
+Continuous,"ISA+ 
+ 104.0 
+ 100.0 
+ 18.3C"
+MAX Climb,"922 
+ 3398 
+ 740 
+ 765 
+ 39,000 
+ 1425 
+ 90 to 135 
+ 0 to 99"
+MAX Cruise,"ISA 
+ 104.0 
+ 83.8 
+ +0C"
+MIN Idle,"700 
+ 2100 
+ 60 (MIN) 
+ -40 to 99 
+ (6) 
+ 56.0 
+ (MIN)"
+Starting,"800 
+ 1000 (4) 
+ 0 to 200 
+ -40 (MIN)"
+Transient,"5100 
+ 850 
+ 39,000 
+ 1870 
+ 60 (MIN) 
+ 0 to 110 
+ 20 SEC 
+ 104.0 
+ 110.0 
+ (MAX)"
+Max,"900 
+ 800 
+ 1650 
+ 90 to 135 
+ 0 to 99"
+Reverse,"@ ISA 
+ 97.0"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITT 
+ ITTC 
+ C 
+ % 
+ % 
+ PSIG"
+Takeoff,"1050 
+ 3245 
+ 820 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+MAX,"1020 
+ 3150 
+ 775 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+MIN Idle,"750 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"800 
+ 1000 (5) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 850 (20) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110"
+Max,"900 
+ 760 
+ 1650 
+ 90 to 135 
+ 10 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil 
+ ITT"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ % 
+ % 
+ PSIG 
+ ITTC 
+ C"
+Takeoff,"1100 
+ 3398 
+ 820 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+MAX,"1020 
+ 3398 
+ 810 
+ 104.0 
+ 1700 
+ 90 to 135 
+ 10 to 99"
+MIN Idle,"700 
+ 58.0 
+ 60 Min. 
+ -40 to 99"
+Starting,"700 
+ 1000 (5) 
+ 0 to 200 
+ -40 to 99"
+Transient,"5100 
+ 870 (20) 
+ 104.0 
+ 1870 
+ 40 to 200 
+ 0 to 110"
+Max,"900 
+ 760 
+ 1650 
+ 90 to 135 
+ 0 to 99"
+Power,"SHP 
+ Torque 
+ Nominal 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil 
+ ITT"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ C 
+ % 
+ % 
+ PSIG"
+Takeoff,"867 
+ 2397 
+ 870 
+ 103.7 
+ 1900 
+ 85 to 120 
+ 10 to 99"
+MAX,"810 
+ 2239 
+ 825 
+ 103.7 
+ 1900 
+ 85 to 120 
+ 10 to 99"
+Continuous,"2363 
+ 1800"
+MAX Climb,"867 
+ 2397 
+ 785 
+ 825 
+ 103.7 
+ 1900 
+ 85 to 120 
+ 0 to 99"
+MAX Cruise,"810 
+ 2239 
+ 785 
+ 805 
+ 103.7 
+ 1900 
+ 85 to 120 
+ 0 to 99"
+NOTE 4,"2363 
+ 1800"
+MIN Idle,"700 
+ 55.0 
+ 40 MIN 
+ -40 to 99 
+ MIN"
+Starting,"1090 (2) 
+ 0 to 200 
+ -40 to 99"
+Transient,"2800 
+ 905 (20) 
+ 106.8 
+ 2090 
+ 0 to 104 
+ (20) 
+ (10 min)"
+Max,"867 
+ 850 
+ 1825 
+ 85 to 120 
+ 0 to 99"
+Propeller ,"For PT6A-45R, -45A, -45B, -60AG, -65B, or -65AG Engines:"
+Propeller,Hartzell HC-B5MP-3C/M10876AS or HC-B5MP-3C/M10876ANS
+Limits,"Maximum dia. 111.2 inch, minimum dia. 110.7 inch 
+ Pitch settings, high 79.0, low 16.5, reverse -11.0 at 42 inch station. 
+ Stabilized ground operation is prohibited between 400 and 900 RPM and 
+ between 1170 and 1400 RPM. 
+ or Hartzell HC-B5MP-3A/M10282A+6 
+ Maximum dia. 111.2 inch, minimum dia. 110.7 inch 
+ Pitch settings, high 79.0, low 16.5, reverse -11.0 at 42 inch station. 
+ Stabilized ground operation is prohibited between 400 and 900 RPM and 
+ between 1170 and 1400 RPM. 
+ For PT6A-140AG Engine: 
+ Hartzell HC-B4TN-3C/T10702NS 
+ Maximum dia. 108.0 inch, minimum dia. 107.0 inch 
+ Pitch settings, high 80.7°, low 8.2°, reverse -15.0° at 42 inch station. 
+ Stabilized ground operation is prohibited between 400 and 1100 RPM."
+Airspeed,"VNE (Never Exceed) 
+ 176 mph (153 knots)"
+Limits,"VA (Maneuvering) 
+ 140 mph (122 knots)"
+CAS,"VNO (Max. structural cruise) 
+ 140 mph (122 knots) 
+ VFE (Flap extended) 
+ 115 mph (100 knots)"
+CG Range,"For PT6A-45R, -45A, -45B, -60AG, -65B, or -65AG Engines: 
+ (+16.0) to (+23.0) at 8,000 pounds 
+ (+16.0) to (+28.0) at 6,980 pounds and below 
+ Straight-line variation between points 
+ For PT6A-140AG Engine: 
+ (+18.0) to (+23.0) at 8,000 pounds 
+ (+18.0) to (+28.0) at 6,980 pounds and below 
+ Straight-line variation between points"
+Max Weight,"8,000 pounds"
+No of Seats,"1 (+74.0), 2(+74.0) with optional buddy seat installed per Dwg. 11360 
+ 1 crew (+110) when optional loader seat is installed in accordance with Dwg. 
+ 11524."
+Max Hopper Load,"4,100 pounds (+12.0)"
+Fuel capacity,"170 gallons (+33.0) 
+ (164 gal. usable capacity, one 85 gal. tank in each wing) 
+ 216 gallons optional (+33.0) 
+ (210 gal. usable capacity, one 108 gal. tank in each wing) 
+ 234 gallons optional (+33.0) 
+ (228 gal. usable capacity, one 117 gal. tank in each wing)"
+Oil capacity,"For PT6A-45R, -45A, -45B, -60AG, -65B, or -65AG Engines: 
+ 10.0 quarts, 6.0 quarts usable 
+ For PT6A-140AG Engine: 
+ 12.0 quarts, 6.0 quarts usable"
+Control,"Elevator 
+ Up 28 ± 1 
+ Down 16 ± 1"
+Surface,"Elevator tab 
+ Up 9 ± 1.5 
+ Down 7 ± 1.5"
+Movements,"Rudder 
+ Left 21 ± 1 
+ Right 21 ± 1 
+ Aileron 
+ Up 20 ± 1 
+ Down 14 ± 1 
+ Flaps 
+ --- 
+ Down 26 ± 1.5 
+ Aileron droop with full flap 10 ± 1"
+Serial Nos,502A-0158 and subsequent.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations must be installed in the aircraft for certification. In addition, 
+ the following equipment is required: 
+ a. Operative pre-stall warning system (Dwg. 50130) 
+ b. 24 volt electrical system. 
+ c. Slip indicator."
+Agricultural,The following agricultural dispersal equipment may be installed:
+Dispersal,"None, or any of the following:"
+Equipment,"a. Dust spreader (Dwg. 80020) 
+ b. Standard spray system (Dwg. 80038) 
+ c. Micronair spray system (Dwg. 80039) 
+ d. Hopper rinse tank (Dwg. 80707, Sh. 1) 
+ e. Hopper rinse tank (Dwg. 80707, Sh. 3)"
+Optional,The following items of optional equipment may be installed.
+Equipment,"Other items of optional equipment may be approved but not listed here. 
+ Fire bomber gate and vent installation (Dwg. 80343) 
+ Air Conditioning system (Dwg. 60586) 
+ COM radio or NAV/COM radio (Dwg. 60616) 
+ Attitude Gyro (Dwg. 51619) 
+ Cockpit Heater (Dwg. 51377) 
+ Air conditioning system (Dwg. 60740) 
+ Turn Coordinator (Dwg. 51619) 
+ ADF (Dwg. 51619) 
+ Transponder (Dwg. 60434 or 61157) 
+ Directional Gyro (Dwg. 51619) 
+ Vertical Speed Indicator (Dwg. 51619) 
+ Light Package (Dwg. 60038) 
+ Buddy Seat (Dwg. 11360) 
+ Loader Seat (Dwg. 11524) 
+ FCU Override System (Dwg. 70640) 
+ Garmin Apollo SL40 COM Radio (Dwg. 61339) 
+ Optional Hopper Gauge System (Dwg. 82060) 
+ Amsafe Inflatable Restraints (Dwg. 10094) 
+ Electronics International MVP-50T Engine Monitor Installation (Dwg. 53159 for 
+ PT6A-45R/-45A/-45B/-60AG/-65B/-65AG Engines OR Dwg. 53158 for PT6A-140AG 
+ Engine) 
+ Ram Air Engine Inlet (Dwg. 50825 for PT6A-45R/-45A/-45B/-60AG/-65B/-65AG Engines 
+ OR Dwg. 50463 for PT6A-140AG Engine) 
+ Optional Engine Power Quadrant (Dwg. 70622)"
+Datum,Wing leading edge.
+Leveling Means,Top of left-hand main landing gear leg 5° tail down.
+Baggage,One baggage compartment at (+98.0). Max capacity 60 lbs.
+Basis,PC2SW
+Export,Aircraft will be eligible for issuance of an Export Certificate of
+Eligibility,Airworthiness subject to compliance with FAR Part 21.
+NOTE 1,"For PT6A-45R, -45A, -45B, -60AG, -65B, or -65AG Engines: 
+ FAA approved Airplane Flight Manual (p/n 01-0037) dated April 9, 1992, or 
+ later FAA approved revision is required. 
+ For PT6A-140AG Engine: 
+ FAA approved Airplane Flight Manual (p/n 01-0153) dated February 4, 2016 or 
+ later FAA approved revision is required. 
+ For all engines: 
+ Current weight and balance report including list of equipment included in 
+ certificated empty weight, and loading instructions, when necessary, must be 
+ provided for each aircraft at the time of original certification. The empty 
+ weight and corresponding center of gravity location must include the 
+ following unusable fuel: 40 lbs. at (+33.0)."
+NOTE 2,"All placards required by either the FAA Approved Airplane Flight Manual, the 
+ applicable operating rules, or the certification basis must be installed as 
+ specified."
+NOTE 3,"Safe-life of Air Tractor Model AT-502A, serial 502A-0158 thru 502A-0654 except 
+ 502A-0643, wing lower spar caps and attaching structure is limited to 1,650 
+ hours time in service. 
+ Owners may continue to operate their AT-502A aircraft beyond the safe-life 
+ listed above by following the requirements in Appendix 2—Alternative Method of 
+ Compliance (AMOC) to AD 2006-24-10. 
+ Safe-life of Air Tractor Model AT-502A wings that have been retrofitted with p/n 
+ 21058-1 and 21058-2 wing lower spar caps and p/n 21059-1/-2 splice blocks is 
+ 9.800 hours time in service from time of retrofit. 
+ Safe-life of Air Tractor Model AT-502A, serial 502A-0643 and 502A-0655 thru 
+ 502A-0692, wing lower spar caps and attaching structure are limited to 9,000 
+ hours time in service. In accordance with AD 2006-24-10, cold work the left- 
+ hand and the right-hand two outboard wing center splice block bolt holes (4 
+ total) in the lower spar caps before accumulating 2,000 hours TIS following Snow 
+ Engineering Co. Service Letter #244, dated April 25, 2005. 
+ Safe-life of Air Tractor Model AT-502A, serial 502A-0693 thru 502A-0701, wing 
+ lower spar caps and attaching structure is limited to 9,500 hours time in 
+ service. 
+ Safe-life of Air Tractor Model AT-502A, all serial numbers beginning with 502A- 
+ 0702, wing lower spar caps and attaching structure is limited to 9,800 hours 
+ time in service."
+NOTE 4,"For PT6A-140AG engine: If the external dispersal equipment is removed (for ferry 
+ flight or other operations), Max Continuous and Max Cruise Power must be reduced 
+ to 660 SHP by reducing torque as follows: 
+ At 1900 RPM, use maximum of 1824 Ft-Lb of torque. 
+ At 1800 RPM, use maximum of 1926 Ft-Lb of torque. 
+ At 1700 RPM, use maximum of 2039 Ft-Lb of torque."
+NOTE 5,Oil Pressure Range for PT6A-45A and PT6A-45B is 100 to 135 psig.
+"X - Model AT-502B 1 PCLM (Restricted Category), Approved December 8, 1992",
+Engine,"Pratt & Whitney PT6A-15AG, PT6A-27, PT6A-34, PT6A-34AG, PT6A-36, or PT6A-34B."
+Fuel,"Per Specifications CPW 46, PWA 522, GB 6537-94 (Peoples’ Republic of China RP-3 
+ kerosene), or automotive diesel fuels. 
+ For recommended use of anti-icing additives, limitations of using automotive 
+ diesel fuels, and emergency use of aviation gasoline per MIL-G-5572, refer to 
+ the FAA Approved Airplane Flight Manual."
+Oil,Per Specifications CPW 202 or PWA 521.
+Power,"SHP 
+ Torque 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ C 
+ % 
+ % 
+ PSIG"
+All,"680 
+ 1628 
+ 725 
+ 38,100 
+ 2200 
+ 80 to 100 
+ 10 to 99"
+Operations,"ISA 
+ 101.5 
+ 100.0 
+ +6.7C"
+Lo Idle,"660 
+ 40 (MIN) 
+ -40 to 99"
+Starting,"1090 
+ -40(MIN) 
+ 2 seconds"
+Transient,"2100 
+ 825 
+ 38,500 
+ 2420 
+ 0 to 99 
+ 2 seconds 
+ 102.6 
+ 110.0"
+Max,"620 
+ 1554 
+ 725 
+ 35,812 
+ 2100 
+ 80 to 100 
+ 0 to 99"
+Reverse,"95.5 
+ 95.5 
+ Engine Limits PT6A-34, PT6A-34AG, PT6A-36, or PT6A-34B."
+Power,"SHP 
+ Torque 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ % 
+ % 
+ PSIG 
+ ITTC 
+ C"
+All,"750 
+ 1795 
+ 790 
+ 38,100 
+ 2200 
+ 85 to 105 
+ 10 to 99"
+Operations,"ISA 
+ 101.5 
+ 100.0 
+ +15.6C"
+Lo Idle,"685 
+ 40 (MIN) 
+ -40 to 99"
+Starting,"1090 
+ -40(MIN) 
+ 2 seconds"
+Transient,"2100 
+ 850 
+ 38,500 
+ 2420 
+ 0 to 99 
+ 2 seconds 
+ 102.6 
+ 110.0"
+Max,"750 
+ 1795 
+ 790 
+ 35,812 
+ 2100 
+ 85 to 105 
+ 0 to 99"
+Reverse,"95.5 
+ 95.5"
+Propeller ,Hartzell HC-B3TN-3D/T10282 +4 or HC-B3TN-3D/T10282N+4 or
+Propeller,HC-B3TN-3D/T10282NS +4.
+Limits,"Max dia. 106 inch Min dia. 102 inch 
+ Pitch settings, high 86 - 88, low 18, reverse -8.0 at 30-inch station."
+Airspeed,"VNE (Never Exceed) 
+ 155 mph (135 knots)"
+Limits,"VA (Maneuvering) 
+ 140 mph (122 knots)"
+CAS,"VNO (Max. structural cruise) 
+ 140 mph (122 knots) 
+ VFE (Flap extended) 
+ 115 mph (100 knots) 
+ See NOTE 4 regarding VNE speed."
+CG Range,"(+18.0 in.) to (+24.0 in.) at 8,000 pounds. 
+ (+18.0 in.) to (+28.0 in.) at 6,980 pounds and below. 
+ Straight-line variation between points."
+Max Weight,"8,000 pounds."
+No of Seats,"1 (+74.0), 2 (+74.0) with optional buddy seat installed per Dwg. 11360 
+ 1 crew (+110.0) when optional loader seat is installed in accordance with Dwg. 
+ 11524."
+Load,"4,100 lbs. (+12.0)"
+Fuel Capacity,"126 gallons (+33.0) 
+ (120 gal. usable, one 63 gal. tank in each wing) 
+ 170 gallons optional (+33.0) (164 gal. usable, one 85 gal. tank in each wing) 
+ 216 gallons optional (+33.0) (210 gal. usable, one 108 gal. tank in each wing) 
+ 234 gallons optional (+33.0) (228 gal. usable, one 117 gal. tank in each wing)"
+Oil Capacity,"9.2 quarts, 6.0 quarts usable"
+Control,"Elevator 
+ Up 29 ± 1 
+ Down 16 ± 1"
+Surface,"Elevator tab 
+ Up 9 ± 1.5 
+ Down 7 ± 1.5"
+Movements,"Rudder 
+ Left 21 ± 1 
+ Right 21 ± 1 
+ Aileron 
+ Up 20 ± 1 
+ Down 14 ± 1 
+ Flaps 
+ --- 
+ Down 26 ± 1.5 
+ Aileron droop with full flap 10 ± 1"
+Serial Nos,502B-0187 and subsequent.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations must be installed in the aircraft for certification. In addition, 
+ the following equipment is required: 
+ a. Operative pre-stall warning system (Dwg. 50130) 
+ b. 24 volt electrical system. 
+ c. Slip indicator."
+Agricultural,The following agricultural dispersal equipment may be installed:
+Dispersal,"None, or any of the following:"
+Equipment,"a. Dust spreader (Dwg. 80020) 
+ b. Standard spray system (Dwg. 80038) 
+ c. Micronair spray system (Dwg. 80039) 
+ d. Hopper rinse system (Dwg. 80707, Sh. 1) 
+ e. Hopper rinse system (Dwg. 80707, Sh. 3)"
+Optional,The following items of optional equipment may be installed.
+Equipment,"Other items of optional equipment may be approved but not listed here. 
+ Fire bomber gate and vent installation (Dwg. 80343) 
+ Air conditioning system (Dwg. 60586) 
+ COM radio or NAV/COM radio (Dwg. 60616) 
+ Attitude Gyro (Dwg. 51619) 
+ Fuel Flowmeter (Dwg. 60585) 
+ Cockpit Heater (Dwg. 51026) 
+ Air conditioning system (Dwg. 60740) 
+ Turn coordinator (Dwg. 51619) 
+ ADF (Dwg. 51619) 
+ Transponder (Dwg. 60434 or 61157) 
+ Directional Gyro (Dwg. 51619) 
+ Vertical Speed Indicator (Dwg. 51619) 
+ Light Package (Dwg. 60038) 
+ Buddy Seat (Dwg. 11360) 
+ Loader Seat (Dwg. 11524) 
+ FCU Override System (Dwg. 70640) 
+ Garmin/Apollo SL40 Com Radio (Dwg. 61339) 
+ Optional Hopper Gauge System (Dwg. 82060) 
+ Amsafe Inflatable Restraints (Dwg. 10094) 
+ Electronics International MVP-50T Engine Monitor Installation (Dwg. 53158) 
+ Ram Air Engine Inlet (Dwg. 50463) 
+ Optional Engine Power Quadrant (Dwg. 70622) 
+ Fuel Control Override System (Dwg. 70640)"
+Datum,Wing leading edge.
+Leveling Means,Top of left-hand main landing gear leg 5° tail down.
+Baggage,One baggage compartment at (+98.0). Max capacity 60 lbs.
+Basis,PC2SW.
+Export,Aircraft will be eligible for issuance of an Export Certificate of
+Eligibility,Airworthiness subject to compliance with FAR Part 21.
+NOTE 1,"FAA approved Airplane Flight Manual dated December 8, 1992, or later FAA 
+ approved revision is required. Current weight and balance report including list 
+ of equipment included in certificated empty weight, and loading instructions, 
+ when necessary, must be provided for each aircraft at the time of original 
+ certification. The empty weight and corresponding center of gravity location 
+ must include the following unusable fuel: 40 lbs. at (+33.0)."
+NOTE 2,"All placards required by either the FAA Approved Airplane Flight Manual, the 
+ applicable operating rules, or the certification basis must be installed as 
+ specified."
+NOTE 3,"Safe-life of Air Tractor Model AT-502B, serial 502B-0187 thru 502B-0654 except 
+ 502B-0643, wing lower spar caps and attaching structure is limited to 1,650 
+ hours time in service. 
+ Owners may continue to operate their AT-502B aircraft beyond the safe-life 
+ listed above by following the requirements in Appendix 2—Alternative Method of 
+ Compliance (AMOC) to AD 2006-24-10. 
+ Safe-life of Air Tractor Model AT-502B, any serial number, wings that have been 
+ retrofitted with p/n 21058-1 and 21058-2 wing lower spar caps and p/n 21059-1/-2 
+ splice blocks is 9,800 hours time in service from time of retrofit. 
+ Safe-life of Air Tractor Model AT-502B, serial 502B-0643 and 502B-0655 thru 
+ 502B-0692, wing lower spar caps and attaching structure is limited to 9,000 
+ hours time in service. In accordance with AD 2006-24-10, Cold work the left- 
+ hand and the right-hand two outboard wing center splice block bolt holes (4 
+ total) in the lower spar caps before accumulating 2,000 hours TIS following Snow 
+ Engineering Co. Service Letter #244, dated April 25, 2005. 
+ Safe-life of Air Tractor Model AT-502B, serial 502B-0693 thru 502B-0701, wing 
+ lower spar caps and attaching structure is limited to 9,500 hours time in 
+ service. 
+ Safe-life of Air Tractor Model AT-502B, all serial numbers beginning with 502B- 
+ 0702, wing lower spar caps and attaching structure is limited to 9,800 hours 
+ time in service."
+NOTE 4,"VNE (Never Exceed) may be increased to 176 mph (153 knots) when Hartzell 
+ HC-B3TN-3D/T10282NS+4 propeller is installed."
+"XI - Model AT-401B 1 PCLM (Restricted Category) Approved July 22, 1994",
+Engine,"Pratt & Whitney Wasp R1340 AN1 (S3H1 Commercial designation) with carburetor 
+ parts list setting 395118-3, A-18639-7 or A-18639-8. 
+ or Pratt & Whitney Wasp R1340 S1H1 with carburetor parts list setting 395118-3, 
+ A-18639-7, or A-18639-8."
+Fuel,80/87 minimum grade aviation gasoline.
+Engine Limits,"HP 
+ RPM 
+ M.P. 
+ ALT. 
+ Takeoff (5 minutes) 
+ 600 
+ 2250 
+ 36.0 
+ S.L. 
+ Max. Continuous 
+ 550 
+ 2200 
+ 34.0 
+ S.L. 
+ Max. Continuous 
+ 550 
+ 2200 
+ 32.5 
+ 5000"
+Propeller ,"Hamilton Standard 22D40 hub, 6533A-12 blades, constant speed, hydromatic."
+Propeller,Diameter 109 inch maximum 107-inch minimum.
+Limits,"Pitch settings 12.0 degrees low and 35 degrees high at 42-inch sta. 
+ or Hamilton Standard 22D40 hub, EAC AG200-2 blades, constant speed, hydromatic. 
+ Diameter 106 inch maximum 104-inch minimum. 
+ Pitch settings 12.0 degrees low and 35 degrees high at 42 inch station. 
+ or Hamilton Standard 12D40 hub, 6101A-12 blades, constant speed. 
+ Diameter 109 inch maximum 107-inch minimum. 
+ Pitch settings 12.0 degrees low and 26 degrees high at 42 inch station. 
+ or Hamilton Standard 23D40 hub, 6533A-18 blades, constant speed, hydromatic, 3-blade. 
+ Diameter 103 inch maximum 101-inch minimum. 
+ Pitch settings 10.0 degrees low and 35 degrees high at 42 inch station. 
+ or Hamilton Standard 12D40 hub, EAC AG100-2 blades, constant speed. 
+ Diameter 106 inch maximum 104-inch minimum. 
+ Pitch settings 11.0 degrees low and 26 degrees high at 42 inch station."
+Airspeed,"VNE (Never Exceed) 
+ 176 mph (153 knots)"
+Limits,"VA (Maneuvering) 
+ 140 mph (122 knots)"
+CAS,"VNO (Max. structural cruise) 
+ 140 mph (122 knots) 
+ VFE (Flap extended) 
+ 115 mph (100 knots)"
+CG Range,"FOR AIRCRAFT WITH 6000 POUND MAX. WEIGHT: 
+ (+16.0) to (+24.0) at 6,000 pounds 
+ (+16.0) to (+24.5) at 5,937 pounds and below 
+ Straight-line variation between points. 
+ FOR AIRCRAFT WITH 7000 POUND MAX. WEIGHT: 
+ (+18.0) to (+24.0) at 7,000 pounds 
+ (+18.0) to (+27.5) at 6,475 pounds"
+Max Weight,"6,000 pounds 
+ 7,000 pounds (For S/N 402B-1015, 402B-1021 and subsequent with P/N 40059-21 or 
+ 40059-34 Main Landing Gear installed)"
+No of Seats,"1 (+74.0) 
+ 1 crew (+110.0) when optional loader seat is installed in accordance with 
+ Dwg. 11524"
+Load,"3,250 lbs. (+12.0)"
+Fuel Capacity,"126 gallons (+33.0) 
+ (120 gal. usable, one 63 gal. tank in each wing) 
+ 170 gallons optional (+33.0) (164 gal. usable, one 85 gal. tank in each wing) 
+ 216 gallons optional (+33.0) (210 gal. usable, one 108 gal. tank in each wing)"
+Oil Capacity,9.5 gal. total 71 lb. at (-23.0) (8 gal. usable)
+Control,"Elevator 
+ Up 28 ± 1 
+ Down 18 ± 1"
+Surface,"Elevator tab 
+ Up 11 ± 1.5 
+ Down 10 ± 1.5"
+Movements,"Rudder 
+ Left 21 ± 1 
+ Right 21 ± 1 
+ Aileron 
+ Up 20 ± 1 
+ Down 14 ± 1 
+ Flaps 
+ --- 
+ Down 26 ± 1.5 
+ Aileron droop with full flap 10 ± 1"
+Serial Nos,401B-0952 and subsequent.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations must be installed in the aircraft for certification. In addition, 
+ the following equipment is required: 
+ a. Operative pre-stall warning system (Dwg. 50130) 
+ b. 24 volt electrical system. 
+ c. Slip indicator."
+Agricultural,The following agricultural dispersal equipment may be installed:
+Dispersal,"None, or any of the following:"
+Equipment,"a. Dust spreader (Dwg. 80020) 
+ b. Standard spray system (Dwg. 80038) 
+ c. Micronair spray system (Dwg. 80039) 
+ d. Hopper rinse tank (Dwg. 80939)"
+Optional,The following items of optional equipment may be installed.
+Equipment,"Other items of optional equipment may be approved but not listed here. 
+ Fire bomber gate and vent installation (Dwg 80343). 
+ 3-Piece Windshield (Dwg. 11464) 
+ Windshield washer (Dwg. 80216) 
+ Windshield wiper (Dwg. 60177) 
+ Avionics (Dwg. 60195) 
+ Night working lights (Dwg. 60038) 
+ Automatic Flagman (Dwg. 80038) 
+ Smoker (Dwg. 80610) 
+ Loader Seat (Dwg. 11524) 
+ Attitude Gyro (Dwg. 50899) 
+ Turn Coordinator (Dwg. 50899) 
+ Garmin/Apollo SL40 Com Radio (Dwg. 61339)"
+Datum,Wing leading edge.
+Leveling Means,Top of left-hand main landing gear leg at intersection of fuselage side skin.
+Baggage,One baggage compartment at (+94). Max capacity 60 lbs.
+Production Basis,PC2SW
+Export,Aircraft will be eligible for issuance of an Export Certificate of
+Eligibility,Airworthiness subject to compliance with FAR Part 21.
+NOTE 1,"FAA approved Airplane Flight Manual dated June 13, 1994, or later FAA approved 
+ revision is required. Current weight and balance report including list of 
+ equipment included in certificated empty weight, and loading instructions, when 
+ necessary, must be provided for each aircraft at the time of original 
+ certification. The empty weight and corresponding center of gravity location 
+ must include the following unusable fuel: 36 lbs. at (33.0)."
+NOTE 2,"All placards required by either the FAA Approved Airplane Flight Manual, the 
+ applicable operating rules, or the certification basis must be installed as 
+ specified."
+NOTE 3,"Safe-life of Air Tractor Model AT-401B, serial numbers 401B-0952 thru 401B-1020, 
+ except 1015, wing lower spar caps and attaching structure is limited to 6,948 
+ hours time in service. 
+ Safe-life of Air Tractor Model AT-401B, serial numbers 401B-1015 and 401B-1021 
+ thru 401B-1182, wing lower spar caps and attaching structure is limited to 7,777 
+ hours time in service. 
+ Safe-life of Air Tractor Model AT-401B, all serial numbers beginning with 401B- 
+ 1183 wing lower spar caps and attaching structure is limited to 9,800 hours time 
+ in service. 
+ Safe-life of Air Tractor Model AT-401B, any serial number, wings that have been 
+ retrofitted with p/n 21058-1 and 21058-2 wing lower spar caps and p/n 21059-1/-2 
+ splice blocks is 9,800 hours time in service from time of retrofit."
+"XII - Model AT-402B 1 PCLM (Restricted Category), Approved October 25, 1994",
+Engine,"Pratt & Whitney PT6A-15AG, PT6A-27, PT6A-34, or PT6-34AG"
+Fuel,"Per Specification CPW 46, PWA 522, GB 6537-94 (Peoples’ Republic of China RP-3 
+ kerosene), or automotive diesel fuels. 
+ For recommended use of anti-icing additives, limitations of using automotive 
+ diesel fuels, and emergency use of aviation gasoline per MIL-G-5572, refer to 
+ the FAA Approved Airplane Flight Manual."
+Oil,Per Specification CPW 202 or PWA 521.
+Power,"SHP 
+ Torque 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pres 
+ Temp 
+ ITTC 
+ C 
+ % 
+ % 
+ PSIG"
+All,"680 
+ 1628 
+ 725 
+ 38,100 
+ 2200 
+ 80 to 100 
+ 10 to 99"
+Operations,"ISA 
+ 101.5 
+ 100.0 
+ +6.7C"
+Lo Idle,"660 
+ 40 (MIN) 
+ -40 to 99"
+Starting,"1090 
+ -40(MIN) 
+ 2 seconds"
+Transient,"2100 
+ 825 
+ 38,500 
+ 2420 
+ 0 to 99 
+ 2 seconds 
+ 102.6 
+ 110.0"
+Max,"620 
+ 1554 
+ 725 
+ 35,812 
+ 2100 
+ 80 to 100 
+ 0 to 99"
+Reverse,"95.5 
+ 95.5"
+Power,"SHP 
+ Torque 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pres 
+ Temp 
+ ITTC 
+ C 
+ % 
+ % 
+ PSIG"
+All,"680 
+ 1628 
+ 790 
+ 38,100 
+ 2200 
+ 85 to 105 
+ 10 to 99"
+Operations,"ISA 
+ 101.5 
+ 100.0 
+ +15.6"
+Lo Idle,"685 
+ 40 (MIN) 
+ -40 to 99"
+Starting,"1090 
+ -40(MIN) 
+ 2 seconds"
+Transient,"2100 
+ 850 
+ 38,500 
+ 2420 
+ 0 to 99 
+ 2 seconds 
+ 102.6 
+ 110.0"
+Max,"620 
+ 1554 
+ 750 
+ 35,812 
+ 2100 
+ 85 to 105 
+ 0 to 99"
+Reverse,"95.5 
+ 95.5"
+Propeller ,Hartzell HC-B3TN-3D/T10282 +4 or HC-B3TN-3D/T10282N+4 or
+Propeller,HC-B3TN-3D/T10282NS +4
+Limits,"Max dia. 106 inch Min dia. 102 inch 
+ Pitch settings feather 86 - 88, low 18, reverse -8.0 at 30-inch station."
+Airspeed,"VNE (Never Exceed) 
+ 140 mph (122 knots)"
+Limits,"VA (Maneuvering) 
+ 140 mph (122 knots)"
+CAS,"VNO (Max. structural cruise) 
+ 140 mph (122 knots) 
+ VFE (Flap extended) 
+ 115 mph (100 knots) 
+ See NOTE 4 regarding VNE speed."
+CG Range,"FOR AIRCRAFT WITH 6000 POUND MAX. WEIGHT: 
+ (+16.0) to (+24.0) at 6,000 pounds. 
+ (+16.0) to (+27.5) at 5,562 pounds and below. 
+ Straight-line variation between points. 
+ FOR AIRCRAFT WITH 7000 POUND MAX. WEIGHT: 
+ (+17.5) to (+24.0) at 7,000 pounds. 
+ (+17.5) to (+28.0) at 6,400 pounds 
+ and below. Straight-line variation between points."
+Max Weight,"6000 pounds. 
+ 7000 pounds (For S/N 402B-1015, 402B 1021 and subsequent and with P/N 40059-21 
+ or 40059-34 Main Landing Gear installed)"
+No of Seats,"1 (+74.0) 
+ 1 crew (+110.0) when optional loader seat is installed in accordance with 
+ Dwg. 11524."
+Max Hopper Load,"3,250 lbs. (+12.0)"
+Fuel Capacity,"126 gallons (+33.0) 
+ (120 gal. usable, one 63 gal. tank in each wing) 
+ 170 gallons optional (+33.0) (164 gal. usable, one 85 gal. tank in each wing) 
+ 216 gallons optional (+33.0) (210 gal. usable, one 108 gal. tank in each wing) 
+ 234 gallons optional (+33.0) (228 gal. usable, one 117 gal. tank in each wing)"
+Oil Capacity,"9.2 quarts, 6.0 quarts usable"
+Control,"Elevator 
+ Up 28 ± 1 
+ Down 18 ± 1"
+Surface,"Elevator tab 
+ Up 11 ± 1.5 
+ Down 10 ± 1.5"
+Movements,"Rudder 
+ Left 21 ± 1 
+ Right 21 ± 1 
+ Aileron 
+ Up 20 ± 1 
+ Down 14 ± 1 
+ Flaps 
+ --- 
+ Down 20 ± 1.5 
+ Aileron droop with full flap 8 ± 1"
+Eligible,402B-0966 and subsequent.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations must be installed in the aircraft for certification. In addition, 
+ the following equipment is required: 
+ a. Operative pre-stall warning system (Dwg. 50130) 
+ b. 24 volt electrical system. 
+ c. Slip indicator."
+Agricultural,The following agricultural dispersal equipment may be installed:
+Dispersal,"None, or any of the following:"
+Equipment,"a. Dust spreader (Dwg. 80020) 
+ b. Standard spray system (Dwg. 80038) 
+ c. Micronair spray system (Dwg. 80039) 
+ d. Hopper rinse tank (Dwg. 80939)"
+Optional,The following items of optional equipment may be installed.
+Equipment,"Other items of optional equipment may be approved but not listed here. 
+ Fire bomber gate and vent installation (Dwg. 80343) 
+ Cockpit heater (Dwg. 51026) 
+ Engine driven air conditioner (Dwg. 60906) 
+ 3-Piece Windshield (Dwg. 11464) 
+ Windshield washer (Dwg. 80216) 
+ Windshield wiper (Dwg. 60177) 
+ Avionics (Dwg. 60616) 
+ Night working lights (Dwg. 60038) 
+ Automatic Flagman (Dwg. 80038) 
+ Smoker (Dwg. 80610) 
+ Attitude Gyro (Dwg. 50950) 
+ Turn Coordinator (Dwg. 50950) 
+ Fuel Flowmeter (Dwg. 60585) 
+ Transponder (Dwg. 60434 or 61157) 
+ Loader Seat (Dwg. 11524) 
+ Crophawk Flowmeter (Dwg. 80038) 
+ ADF (Dwg. 11524) 
+ NAV/COM Radio (Or Com Only) (Dwg. 60616) 
+ FCU Override System (Dwg. 70640) 
+ Garmin/Apollo SL40 Com Radio (Dwg. 61339) 
+ Optional Hopper Gauge System (Dwg. 82060) 
+ Amsafe Inflatable Restraints (Dwg. 10094) 
+ Electronics International MVP-50T Engine Monitor Installation (Dwg. 53157) 
+ Ram Air Engine Inlet (Dwg. 50463) 
+ Optional Engine Power Quadrant (Dwg. 70585) 
+ Fuel Control Override System (Dwg. 70640)"
+Datum,Wing leading edge.
+Leveling,Top of left-hand main landing gear leg at intersection fuselage side skin.
+Baggage,One baggage compartment at (+94.0). Max capacity 60 lbs.
+Production,PC2SW
+Export,Aircraft will be eligible for issuance of an Export Certificate of
+Eligibility,Airworthiness subject to compliance with FAR Part 21.
+NOTE 1,"FAA approved Airplane Flight Manual dated November 23, 1988, or later FAA 
+ approved revision is required. Current weight and balance report including 
+ list of equipment included in certificated empty weight, and loading 
+ instructions, when necessary, must be provided for each aircraft at the time 
+ of original certification. The empty weight and corresponding center of 
+ gravity location must include the following unusable fuel: 40 lbs. at 
+ (+33.0)."
+NOTE 2,"All placards required by either the FAA Approved Airplane Flight Manual, the 
+ applicable operating rules, or the certification basis must be installed as 
+ specified."
+NOTE 3,"Safe-life of Air Tractor Model AT-402B, serial numbers 402B-0966 thru 402B-1020 
+ except 1015, wing lower spar caps and attaching structure is limited to 2,000 
+ hours time in service. 
+ Safe-life of Air Tractor Model AT-402B, serial numbers 402B-1015 and 402B-1021 
+ thru 402B-1182, wing lower spar caps and attaching structure is limited to 2,300 
+ hours time in service. 
+ Owners may continue to operate their AT-402B aircraft beyond the safe-life 
+ listed above by following the requirements in Appendix 2- Alternative Method of 
+ Compliance (AMOC) to AD 2006-08-08. 
+ Safe-life of Air Tractor Model AT-402B, any serial number, wings that have been 
+ retrofitted with p/n 21058-1 and 21058-2 wing lower spar caps and p/n 21059-1/-2 
+ splice blocks is 9,800 hours time in service from time of retrofit. 
+ Safe-life of Air Tractor Model AT-402B, all serial numbers beginning with 402B- 
+ 1183, wing lower spar caps and attaching structure is limited to 9,800 hours 
+ time in service."
+NOTE 4,"VNE (Never Exceed) may be increased to 176 mph (151 knots) when Hartzell HC- 
+ B3TN-3D/T10282NS+4 propeller is installed."
+"XIII - Model AT-504 2 PCLM (Restricted Category), Approved February 11, 2009",
+Engine,Pratt & Whitney PT6A-34AG.
+Fuel,"Per Specifications CPW 46, PWA 522, GB 6537-94 (Peoples’ Republic of China RP-3 
+ kerosene), or automotive diesel fuels. 
+ For recommended use of anti-icing additives, limitations of using automotive 
+ diesel fuels, and emergency use of aviation gasoline per MIL-G-5572, refer to 
+ the FAA Approved Airplane Flight Manual."
+Oil,Per Specifications CPW 202 or PWA 521.
+Power,"SHP 
+ Torque 
+ Maximum 
+ Ng 
+ Np 
+ Oil 
+ Oil"
+Setting,"Ft-Lb 
+ Observed 
+ RPM 
+ RPM 
+ Pressure 
+ Temp 
+ ITTC 
+ C 
+ % 
+ % 
+ PSIG"
+All,"750 
+ 1795 
+ 790 
+ 38,100 
+ 2200 
+ 85 to 105 
+ 10 to 99"
+Operations,"ISA 
+ 101.5 
+ 100.0 
+ +15.6C"
+Lo Idle,"685 
+ 40 (MIN) 
+ -40 to 99"
+Starting,"1090 
+ -40(MIN) 
+ 2 seconds"
+Transient,"2100 
+ 850 
+ 38,500 
+ 2420 
+ 0 to 99 
+ 2 seconds 
+ 102.6 
+ 110.0"
+Max,"750 
+ 1795 
+ 790 
+ 35,812 
+ 2100 
+ 85 to 105 
+ 0 to 99"
+Reverse,"95.5 
+ 95.5"
+Propeller ,Hartzell HC-B3TN-3D/T10282 +4 or HC-B3TN-3D/T10282N+4 or
+Propeller,HC-B3TN-3D/T10282NS+4.
+Limits,"Max dia. 106 inch Min dia. 102 inch 
+ Pitch settings, high 86 - 88, low 18, reverse -8.0 at 30-inch station."
+Airspeed,"VNE (Never Exceed) 
+ 155 mph (135 knots)"
+Limits,"VA (Maneuvering) 
+ 140 mph (122 knots)"
+CAS,"VNO (Max. structural cruise) 
+ 140 mph (122 knots) 
+ VFE (Flap extended) 
+ 115 mph (100 knots) 
+ See NOTE 4 regarding VNE speed."
+CG Range,"(+18.0 in.) to (+26.5 in.) at 8,000 pounds. 
+ (+18.0 in.) to (+29.0 in.) at 7,619 pounds and below. 
+ Straight-line variation between points."
+Max Weight,"8,000 pounds."
+No of Seats,"1 (+74.0) 
+ 1 crew (+74.0)"
+Load,"4,100 lbs. (+5.5)"
+Fuel Capacity,"126 gallons (+33.0) 
+ (120 gal. usable, one 63 gal. tank in each wing) 
+ 170 gallons optional (+33.0) (164 gal. usable, one 85 gal. tank in each wing) 
+ 216 gallons optional (+33.0) (210 gal. usable, one 108 gal. tank in each wing) 
+ 234 gallons optional (+33.0) (228 gal. usable, one 117 gal. tank in each wing)"
+Oil Capacity,"9.2 quarts, 6.0 quarts usable"
+Control,"Elevator 
+ Up 29 ± 1 
+ Down 16 ± 1"
+Surface,"Elevator tab 
+ Up 9 ± 1.5 
+ Down 7 ± 1.5"
+Movements,"Rudder 
+ Left 21 ± 1 
+ Right 21 ± 1 
+ Aileron 
+ Up 20 ± 1 
+ Down 14 ± 1 
+ Flaps 
+ --- 
+ Down 26 ± 1.5 
+ Aileron droop with full flap 10 ± 1"
+Serial Nos,504-4001 and subsequent.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations must be installed in the aircraft for certification. In addition, 
+ the following equipment is required: 
+ a. Operative pre-stall warning system (Dwg. 50130) 
+ b. 24 volt electrical system. 
+ c. Slip indicator."
+Agricultural,The following agricultural dispersal equipment may be installed:
+Dispersal,"None, or any of the following:"
+Equipment,"a. Dust spreader (Dwg. 80020) 
+ b. Standard spray system (Dwg. 80038) 
+ c. Micronair spray system (Dwg. 80039) 
+ d. Hopper rinse system (Dwg. 80707, Sh. 7) 
+ e. Automatic flagger (Dwg. 80612) 
+ f. Drift finder smoker (Dwg. 80610) 
+ g. Crop Hawk, Micronair, Accuflo flowmeter (Dwg. 80990) 
+ h. 48 extra nozzles (Dwg. 80037) 
+ i. Night working lights (Dwg. 60956)"
+Optional,The following items of optional equipment may be installed.
+Equipment,"Other items of optional equipment may be approved but not listed here. 
+ Fire bomber gate and vent installation (Dwg. 80343) 
+ Air conditioning system (Dwg. 60740-11) 
+ COM radio or NAV/COM radio (Dwg. 60616) 
+ Attitude Gyro (Dwg. 51619 Sh. 8) 
+ Fuel Flowmeter (Dwg. 60585) 
+ Cockpit Heater (Dwg. 51026) 
+ Turn coordinator (Dwg. 51619 Sh. 8) 
+ ADF (Dwg. 51619 Sh. 8) 
+ Transponder (Dwg. 60434 or 61157) 
+ Directional Gyro (Dwg. 51619 Sh. 8) 
+ Vertical Speed Indicator (Dwg. 51619 Sh. 8) 
+ Light Package (Dwg. 60038) 
+ Garmin/Apollo SL40 Com Radio (Dwg. 61339) 
+ Optional Hopper Gauge System (Dwg. 82060) 
+ Amsafe Inflatable Restraints (Dwg. 13721) 
+ Electronics International MVP-50T Engine Monitor Installation (Dwg. 53158) 
+ Ram Air Engine Inlet (Dwg. 50463) 
+ Optional Engine Power Quadrant (Dwg. 70585)"
+Datum,Wing leading edge.
+Leveling Means,Top of left-hand main landing gear leg 5° tail down.
+Baggage,One baggage compartment at (+98.0). Max capacity 60 lbs.
+Basis,PC2SW.
+Export,Aircraft will be eligible for issuance of an Export Certificate of
+Eligibility,Airworthiness subject to compliance with FAR Part 21.
+NOTE 1,"FAA approved Airplane Flight Manual dated February 2, 2009, or later FAA 
+ approved revision is required. Current weight and balance report including list 
+ of equipment included in certificated empty weight, and loading instructions, 
+ when necessary, must be provided for each aircraft at the time of original 
+ certification. The empty weight and corresponding center of gravity location 
+ must include the following unusable fuel: 40 lbs. at (+33.0)."
+NOTE 2,"All placards required by either the FAA Approved Airplane Flight Manual, the 
+ applicable operating rules, or the certification basis must be installed as 
+ specified."
+NOTE 3,"Safe-life of Air Tractor Model AT-504, all serial numbers beginning with 504- 
+ 4001 wing lower spar caps and attaching structure is limited to 9,800 hours time 
+ in service."
+NOTE 4,"VNE (Never Exceed) may be increased to 176 mph (153 knots) when Hartzell 
+ HC-B3TN-3D/T10282NS+4 propeller is installed."
+DATA PERTINENT TO ALL MODELS,
+"(a) Model AT-401 at 7860 lbs., 1,300-ft. altitude, outside air temperature 90F, stall speed",
+"(b) Model AT-401A at 7860 lbs., 1,300-ft. altitude, outside air temperature 90F, stall speed",
+"(c) Model AT-401B at 7,860 lbs., 1,300-ft. altitude, outside air temperature 90, stall speed",
+"(d) Model AT-402 at 7860 lbs., 1,300-ft. altitude, outside air temperature 90F, stall speed",
+"(e) Model AT-402A at 7860 lbs., 1,300-ft. altitude, outside air temperature 90F, stall speed",
+"(f) Model AT-402B at 7860 lbs., 1,300-ft. altitude, outside air temperature 90F, stall speed",
+"(g) Model AT-501 at 8500 lbs., 1,300-ft. altitude, outside air temperature 90F, stall speed",
+"(h) Model AT-502 S/N 502-0001 through 502-0061, at 8500 lbs., 1,300 ft. altitude, outside air",
+"(i) Model AT-502, S/N 502-0062 and subs., at 9,200 lbs., 1,300-ft. altitude, outside air",
+"(j) Model AT-502A at 10,480 lbs., 1,300-ft. altitude, outside air temperature 90F, stall speed",
+"(k) Model AT-502B, at 9,400 lbs., 1,300-ft. altitude, outside air temperature 90F, stall speed",
+"(l) Model AT-503 at 10,480 lbs., 1,300-ft. altitude, outside air temperature 90F, stall speed",
+"(m) Model AT-503A at 9,200 lbs., 1,300-ft. altitude, outside air temperature 90F, stall speed",
+"(m) Model AT-504 at 9,600 lbs., 1,300-ft altitude, outside air temperature 85F, stall speed 91",
+"Certification Basis for Models AT-401, AT-401A, AT-401B and AT-501: FAR 21.25(a)(1). Aircraft met",
+"Certification Basis for Models AT-502, AT-502A, AT-502B, AT-402, AT-402A, AT-402B, AT-503, and AT-",
+"Certification Basis for Model AT-504: FAR 21.25(a)(1), (b)(1), (b)(2). Aircraft met structural",

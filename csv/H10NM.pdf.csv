@@ -1,0 +1,185 @@
+Keyterm,Info
+"H10NM 
+ Revision 7 
+ BLR Aerospace, LLC 
+ 209/AH-1G 
+ 209/TAH-1P 
+ March 1, 2019",
+Type Certificate Holder,"BLR Aerospace, LLC 
+ 11002 29th Street West 
+ Everett, WA 98204"
+Type Certificate Holder Record,"Rotorcraft Development Corporation transferred TC H10NM to BLR Aerospace, LLC 
+ on December 3, 2014. 
+ Garlick Helicopter, Inc. transferred TC H10NM to Garlick Helicopter Corporation on 
+ June 29, 2007."
+"I – Model 209/AH-1G 2 PL (Utility Helicopter Restricted Category) approved September 10, 1990",
+Engine,Lycoming T-53-L13B series
+Fuel,"Mil-T-5624, Grade JP-4; alternate fuel 
+ Mil-T-5624, Grade JP-5; See TM 55-1520-221-10 for substitute and emergency fuels"
+Engine Limits,"Torque Pressure 
+ Output 
+ Exhaust Gas 
+ (PSI) 
+ RPM 
+ Temperature (°C) 
+ 50.0 (1100 HP Max.) 
+ 6600 – Max. 
+ 675 - 5 seconds 
+ See Chapter 7 
+ 6400-6600 continuous 
+ 625 continuous 
+ Max. Torque Charts"
+Rotor Limits Power Off,"Power On 
+ Maximum 339 RPM 
+ Maximum 324 RPM 
+ Minimum 294 RPM 
+ Minimum 294 RPM 
+ Continuous operations 294-324 RPM"
+Airspeed Limits,"Never Exceed 190 knots up to and including 9500 lbs. G.W. sea level to 4000 feet. 
+ (See airspeed operating limits chart for mission configuration limits.)"
+CG Range Longitudinal CG Limits,"(+192.0) to (+200.0) to 9500 lbs. and above 
+ (+191.0) to (+201.0) to 8300 lbs. 
+ (+190.0) to (+201.0) to 7000 lbs. or less 
+ For further calculations, see Chapter 6."
+Maximum Weight,9500 lbs.
+Minimum Crew,1 (pilot)
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5"
+Rev No,"7 
+ 7 
+ 7 
+ 7 
+ 7"
+Maximum Baggage,"Ammo bay may be used for baggage or equipment. 
+ Refer to loading data, Chapter 6."
+Fuel Capacity Useable,"260 U.S. gals if Crashworthy Fuel System is installed. 
+ 270 U.S. gals if Crashworthy Fuel System is not installed."
+Oil Capacity,2.9 gals.
+Control Movements,"For rigging information, refer to Technical Manual: TM 55-1520-221-34."
+Serial No Eligible,67-15737.
+Datum Leveling Means,See Weight and Balance Pertinent to All Models.
+Certification Basis,"FAR 21.25(a) (2) effective February 1, 1965. 
+ Type Certificate No. H10NM issued for the purpose of: 
+ (1) External Load Operations. Carrying of External Loads as defined in FAR 
+ 133.1(b), effective December 20, 1976. 
+ (2) Agricultural aircraft operations as defined in FAR 137.3, effective January 1, 
+ 1966, and for dispensing of Fire Fighting Materials. 
+ Equipment The basic required equipment as prescribed in the applicable 
+ airworthiness regulations (see certificate basis) must be installed in each helicopter 
+ for certification. In addition, the following are required: 
+ U.S. Army TM 55-1520-221-10 Operations Manual AH-1G/TH-1G. 
+ All external equipment and its attachments installed on this aircraft, other than 
+ outlined in TM 55-1520-221-10 must be FAA approved Equipment listed in Garlick 
+ Helicopters, Inc., Drawing List GH-DL-1; FAA approved September 10, 1990, or 
+ later approved revision."
+"II. - Model TAH-1P (Restricted Category) approved August 18, 2017",
+Engine,Lycoming T53-L-703
+Fuel,"MIL-T-5624, Grade JP-4; alternate fuel MIL-T-5624, Grade JP-5. See TM 1-1520- 
+ 236-10 for substitute and emergency fuels."
+Engine Limits,"Torque Pressure 
+ Output Shaft 
+ Turbine Gas 
+ (%) Speed (%RPM) 
+ Temperature (°C) 
+ Continuous Operation 0% - 88% 
+ 97% - 100% 
+ 400o - 820o 
+ Transient 
+ 88% - 100% (30 min) 
+ 101.5% - 104.5% (10 sec) 
+ 820o - 880o (30 min) 
+ 880o - 950o (5 sec)"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 105% 
+ Maximum 100% 
+ Minimum 91% 
+ Minimum 91% 
+ Continuous Operation 91% - 100%"
+Airspeed Limits,"Never Exceed 190 knots up to and including 10000 lbs. G.W. sea level to 4000 feet. 
+ (See airspeed operating limits chart for mission configuration limits.)"
+CG Range,"Longitudinal C.G. Limits: 
+ (+192.4) to (+199.6) at 10,000 lbs. 
+ (+191.0) to (+201.0) at 8,300 lbs. 
+ (+190.0) to (+201.0) at 7,000 lbs. or less 
+ Straight line variation between points given above. 
+ Lateral C.G. Limits: 
+ ± 2.0 inches from centerline"
+Maximum Weight,10000 lbs.
+Minimum Crew,1 (pilot)
+Maximum Passengers,1 (one)
+Fuel Capacity,"262 U.S. gal. , usable"
+Oil Capacity,2.9 gal.
+Control Movements,For rigging information refer to Technical Manual (TM) 55-1520-236-23.
+Serial Numbers Eligible,76-22605
+Datum,200 inches forward of main rotor centroid
+Leveling Means,Leveling lugs from left side of storage bay compartment (laterally and Fore/Aft)
+Certification Basis,"FAR 21.25(a) (2) effective February 1, 1965. 
+ Type Certificate No. H10NM issued for the purpose of: 
+ (1) External Load Operations. Carrying of External Loads as defined in FAR 
+ 133.1(b), effective December 20, 1976. 
+ Note: In accordance with FAR 36.1(a) (4), compliance with the noise requirements 
+ was not shown. Therefore, aircraft certificated under this type certificate are only 
+ eligible for external load operations excepted by FAR 
+ 36.1(a) (4) and defined under FAR 133.1(b). 
+ Any alterations to the aircraft for Special Purposes not identified above require 
+ further FAA approval and in addition may require flight testing. 
+ Prior to original airworthiness certification of each rotorcraft, FAA personnel must 
+ perform a conformity inspection to the requirements of this type 
+ certificate data sheet and an airworthiness inspection to determine condition for safe 
+ operation and determine the applicant has conducted a satisfactory flight test."
+Production Basis,None. No helicopters may be produced under this approval.
+Equipment,"The basic required equipment as prescribed in the following documents must be in 
+ each helicopter for certification: 
+ (1) US Army Rotorcraft Flight Manual TM 1-1520-236-10, dated 26 Jan 
+ 2001 or later FAA approved revision. 
+ (2) Equipment as listed in BLR Aerospace LLC Report BLR-AH1-005, Rev IR dated 
+ 06/09/2017 or later FAA approved revision. 
+ (3) Equipment as listed in BLR Aerospace LLC Report BLR-AH1-006, Rev B dated 
+ 12/16/2018 or later FAA approved revision."
+NOTE 1,"Current weight and balance report including list of equipment included in certificated empty weight 
+ and loading instructions must be in each helicopter at time of original airworthiness certification 
+ and at all times thereafter. Refer Operations Manual (TM 55-1520-221-10 or TM 1-1520-236-10) 
+ or Appendix D of Maintenance Manual (TM 55-1520-221-23 or TM 55-1520-236-23) for CG 
+ determination and use of ballast if required."
+NOTE 2,"EXTERNAL LOAD OPERATION 
+ In accordance with Federal Aviation Administration approved BLR Aerospace, LLC Model 
+ AH-1 Rotorcraft Flight Manual Supplement."
+NOTE 3,"(a) FAA Airworthiness Directives for all Lycoming engines T53-L-13 (T53-L-13) or T53-L-703 
+ series must be reviewed for applicability and complied with accordingly. 
+ (b) This type certificate may not be used by any other person or entity without written permission 
+ from the type certificate holder."
+NOTE 4,"These model helicopters must be serviced, repaired and maintained in compliance with TM 55-1520- 
+ 221-10, TM 1-1520-234-10, or TM 1-1520-236-10 and TM 55-1520-221-23, TM 55-1520-234-23, or 
+ TM 55-1520-236-23, or BLR Instructions for Continued Airworthiness BLR-AH1-950. Component 
+ overhaul intervals and replacement time shall be in accordance with the TBO/Replacement Schedule 
+ found in TM 55-1520- 221-23, TM 55-1520-234-23, TM 55-1520-236-23, or BLR-AH1-950 unless 
+ superseded by appropriate Airworthiness Directive."
+NOTE 5,"Special Inspection Requirements: 
+ Refer to Garlick Helicopters, Inc., Drawing No. GH-005 for instructions on 50-hour visual inspection 
+ of the Lift Beam Assy. P/N 209-030-141."
+NOTE 6,"Torque pressure output by the engine torque sensing system varies with individual engines. A 
+ calibration of this value is required on each engine and the value corresponding to take-off power is 
+ stamped on the engine data plate."
+NOTE 7,"Gas producer speeds as shown under “Engine Limits” are maximum permissible speeds. The gas 
+ producer speed for rated power outputs varies with individual engines and must be determined 
+ during engine calibration and stamped on the engine data plate. The rated gas producer speed 
+ shown on the temperature limit placard installed on the instrument panel must correspond to the 
+ data plate."
+NOTE 8,"Maximum permissible exhaust gas temperature varies with ambient temperature as described in the 
+ Operators Manual. Check engine EGT by use of Health Indicator Test (HIT) prior to take-off (see TM 
+ 55-1520-221-10, TM 1-1520-234-10 or TM 1-1520-236-10 and HIT Log for the aircraft)."
+NOTE 9,"All FAA Airworthiness Directives affecting this Type Certificate must be complied with; applicable 
+ Airworthiness Directives are listed in BLR-AH1-007."
+NOTE 10,"In the furtherance of safety and continued airworthiness, Military M.W.O.'s (Military Service 
+ Bulletins) and model type improvements will be reviewed for applicability by the Type Certificate 
+ holder and may be incorporated by the FAA Form 337."
+NOTE 11,"Any Alteration to the type design of this aircraft may require Instructions for Continued 
+ Airworthiness (ICA’s). Changes to the Type Design by means of a Supplemental Type Certificate 
+ (STC) requiring ICA’s or changes to existing ICA’s must be submitted and reviewed by the Fort 
+ Worth Aircraft Evaluation Group (FTW-AEG). Type Design Changes by means of a Field 
+ Approval that require ICA’s must have those ICA’s reviewed by the Flight Standards District Office 
+ (FSDO) managing the Field Approval or the FTW-AEG."

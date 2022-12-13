@@ -1,0 +1,879 @@
+Keyterm,Info
+"A78EU 
+ Revision 35 
+ PILATUS 
+ PC-12 
+ PC-12/45 
+ PC-12/47 
+ PC-12/47E 
+ July 07, 2021",
+Type Certificate Holder,"PILATUS AIRCRAFT LTD. 
+ Ennetbürgerstrasse 101 
+ CH-6370 STANS 
+ SWITZERLAND"
+"I. Model PC-12, Normal Category, approved July 15, 1994.",
+Engine,Pratt & Whitney PT6A-67B
+Fuel,Approved fuels in accordance with AFM 01973-001 or AFM 02211 as applicable.
+Engine Limits,"Maximum 
+ Observed 
+ N1 Gas 
+ Prop 
+ Inter 
+ Shaft 
+ Generator 
+ Shaft 
+ Turbine 
+ Power 
+ Torque 
+ Speed 
+ Speed 
+ Temp. 
+ shp 
+ PSI 
+ % 
+ RPM 
+ ºC 
+ Take-off 
+ 1200 
+ 44.34 
+ 104 
+ 1700 
+ 800 
+ Max. climb/Max. cruise 
+ 1000 
+ 36.95 
+ 104 
+ 1700 
+ 760 
+ Starting (5 seconds) 
+ --- 
+ --- 
+ --- 
+ --- 
+ 1000 
+ Transient (20 seconds) 
+ --- 
+ 61.00 
+ 104 
+ 1870 
+ 870 
+ Note: 100% Gas Generator Speed = 37,468 RPM"
+Propeller and Propeller,Hartzell HC-E4A-3D hub with Hartzell E10477K aluminum blades;
+Limits,"four blade constant speed type. (SEE NOTE 12) 
+ Spinner: Hartzell D5500-1 (Aluminum) 
+ Diameter: 104 in (2.642 m) to 105 in (2.667 m) 
+ cropping of blade tips not permitted. 
+ Pitch settings (measured at 42 in. station) 
+ Fine pitch 19.0º 
+ Min. pitch in flight 6.0º 
+ Max. reverse pitch -17.5º 
+ Feathered 79.6º 
+ Stabilized ground operation is prohibited between 350 and 950 RPM."
+Page No 1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12"
+Rev No,"35 
+ 4 
+ 35 
+ 34 
+ 15 
+ 34 
+ 34 
+ 33 
+ 28 30 
+ 31 
+ 34"
+Airspeed Limits EAS,"Max. operating speed 
+ VMO 240 kts 
+ Max. operating Mach No. 
+ MMO 0.48 
+ Max. diving speed 
+ VD 280 kts 
+ MD 0.60 
+ Max. maneuvering design speed 
+ VA 170 kts 
+ Max. maneuvering operating speed VO 154 kts at 4100 kg (9039 lbs) 
+ VO 136 kts at 3200 kg (7060 lbs) 
+ VO 123 kts at 2600 kg (5730 lbs)"
+Center of Gravity Limits,"At 4100 kg (9039 lbs) 27% MAC to 44% MAC 
+ Forward cg limit varies linearly between: (landing gear extended) 
+ 4100 kg (9039 lbs) 
+ 27% MAC 
+ 3700 kg (8157 lbs) 
+ 17.8% MAC 
+ 2700 kg (5952 lbs) and less 
+ 13% MAC 
+ Rear cg limit varies linearly between: (landing gear retracted) 
+ 4100 kg (9039 lbs) 
+ 44% MAC 
+ 3600 kg (7937 lbs) 
+ 46% MAC 
+ 3000 kg (6614 lbs) 
+ 46% MAC 
+ 2550 kg (5622 lbs) and less 
+ 20% MAC"
+Datum,3000 mm (118 in.) forward of firewall (frame no. 10).
+Leveling Means,"Cabin Seat Rails 
+ (see Section 8 of the Airplane Maintenance Manual)."
+Maximum Weight,"Ramp weight 4120 kg (9083 lbs) 
+ Take-off weight 4100 kg (9039 lbs) 
+ Landing weight 4100 kg (9039 lbs) 
+ Max. zero fuel weight 3700 kg (8159 lbs)"
+Minimum Crew,One pilot.
+Number of Seats,"9 PAX and 2 pilot seats 
+ (for seat locations see Airplane Flight Manual, Section 6, W & B)."
+Maximum Baggage,"180 kg (400 lbs) 
+ (baggage compartment at rear of cabin). 
+ Maximum Loading. (Combi version) 1000 kg/m2 (205 lb/ft2) on seat rails 
+ 600 kg/m2 (125 lb/ft2) on cabin floor 
+ (for loading limitations/instructions see Section 6 of the Airplane Flight Manual)."
+Fuel Capacity,"Total 
+ Usable 
+ Arm"
+Specific gravity 0806 kgltr,"1540 ltr (1241 kg) 1516 ltr (1222 kg) 5.91 m (233 in) aft of datum 
+ (406 US gal) 
+ (400 US gal) 
+ 1522 ltr (1226 kg) (see NOTE 1) 
+ (402 US gal)"
+Oil Capacity,"Total 
+ Arm 
+ 13,6 ltr 
+ 2.41 m (95 in) aft of datum 
+ (3.6 US gal)"
+Control Surfaces,"Wing flap 
+ 15º + 0º /-1.5° Take-off 
+ 39.5º +/- 0.5º Landing 
+ (left/right asymmetry 1°) 
+ Ailerons 
+ 30º +/- 1º Up 
+ 10º +/- 1º down 
+ Elevator 
+ 28º +/- 1º Up 
+ 15º +/- 1º down 
+ Stabilizer (trim) 
+ 2.5º + 0.7º /- 0.2ºup 
+ 7.5º + 0.7º / - 0.2º down 
+ (with respect to stabilizer leading edge) 
+ Rudder 
+ 35º +/- 1º right 
+ 25º +/- 1º left 
+ (from centerline and measured horizontally) 
+ Rudder tab 
+ 7.5º + 1º /- 1.5º right 
+ 13º + 1º/- 1.5º left 
+ (trim) 
+ Aileron tab 
+ 16.5º + /-1º up 
+ 16.5º +/- 1º down 
+ (trim)"
+Stick Pusher System,"Stick shaker/stick pusher system, signaled by AOA vanes on left and right 
+ wing leading edges."
+Serial Numbers Eligible,"SN 101 and up (See NOTE 5, NOTE 10 and NOTE 11)."
+Import Requirements All Models,
+Certification Basis,"1) 14 CFR Sections 21.29, 21.183(c) and 14 CFR 23, Normal Category, 
+ effective February 4, 1991, including Amendments 23-1 through 23-42 and 
+ Section 23.1305c)3) of Amendment 23-43 and Section 23.1507 of Amendment 
+ 23-45 and Section 23.1311 of Amendment 23-49 and 
+ 2) 14 CFR Section 36, effective November 18, 1969, including Amendments 36-1 
+ through amendment in effect at the time of U.S. Type Certification, and 
+ 3) 14 CFR Section 34, effective September 10, 1990, and 
+ 4) Equivalent Level of Safety, 
+ a) ACE-94-8 of June 21, 1994, Spin demonstration, FAR 23.221 a)2) 
+ b) Cabin pressure indicator, FAR 23.841b) 6). See NOTE 8. 
+ 5) Section 611(b) of the FAA Act of 1958 
+ 6) Certification Maintenance Requirement (CMR), manual pitch trim system 
+ annunciation 
+ 7) Special Conditions: High Energy Radiated Electromagnetic Fields, (HERF), 
+ Number 23-ACE-46, effective date May 29, 1990 
+ 8) Approved for Flight Into Known Icing. See NOTE 4. 
+ The Swiss Federal Office of Civil Aviation (FOCA) originally type certificated this 
+ aircraft under its type certificate Number F-56-30. The FAA validated this product 
+ under U.S. Type Certificate Number A78EU. Effective June 23, 2006, the European 
+ Aviation Safety Agency (EASA) began oversight of this product on behalf of 
+ Switzerland. The EASA TCDS No. EASA.A.089."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the airplane for 
+ certification. 
+ In addition the following is required: 
+ Airplane Flight Manual 
+ (including Equipment list and applicable supplements) 
+ -S/N 101-400: (except S/N 321) 
+ Report No. 01973-001 
+ -S/N 321 and 401 and subsequent Report No. 02211"
+Service Information,"Each of the documents listed below must state that it is approved by the European Aviation 
+ Safety Agency (EASA) or – for approvals made before June 23, 2006 – Swiss Federal Office of Civil Aviation (FOCA). 
+ • Service bulletins, 
+ • Structural repair manuals, 
+ • Vendor manuals, 
+ • Aircraft flight manuals, and 
+ • Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved for type 
+ design data only unless one of the following conditions exists: 
+ • The documents change the limitations, performance, or procedures of the FAA 
+ approved manuals; or 
+ •The documents make an acoustical or emissions changes to this product’s U.S. 
+ type certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. 
+ The FAA may delegate on case-by-case to EASA to approve on behalf of the FAA 
+ for the U.S. type certificate. If this is the case it will be noted on the document. 
+ Available Documents for the PILATUS PC-12 are: 
+ Airplane Flight Manual 
+ For S/N 101 – 400 except 321: 
+ Doc. No. 01973-001 
+ Revision 2, dated February 14, 1995 
+ or later FOCA approved revisions. 
+ For S/N 321 and 401 and subsequent: 
+ Doc No. 02211 (PC-12 data is contained in 
+ AFMS No. 25; Doc. No. 02211/9-25) 
+ Aircraft Maintenance Manual 
+ Doc. No. 02049. 
+ (Chapter 4 FOCA approved) 
+ Structural Repair Manual 
+ Doc. No. 02050. 
+ Illustrated Parts Catalogue 
+ Doc. No. 02051."
+"II. Model PC-12/45 (Normal Category), approved July 31, 1996.",
+Airspeed Limits EAS,"Max. diving speed 
+ VD 290 kts 
+ MD 0.62 (S/N 101 – 683) 
+ MD 0.58 (S/N 684 onwards) 
+ Max. maneuvering operating speed VO 
+ 161 kts at 4500 kg) 
+ Stall speed (at TOW) 
+ Flaps up 
+ 93 kts (CAS) 
+ (engine running flight idle) Flaps down 
+ 65 kts (CAS)"
+Center of Gravity Limits,"At 4500 kg 30% MAC to 43% MAC 
+ Forward cg limit varies linearly between: (landing gear extended) 
+ 4500 kg (9921 lbs) 
+ 30% MAC 
+ 3700 kg (8157 lbs) 
+ 18% MAC 
+ 2600 kg (5732 lbs) and less 
+ 13% MAC 
+ Rear cg limit varies linearly between: (landing gear retracted) 
+ 4500 kg (9921 lbs) 
+ 43% MAC 
+ 3600 kg (7937 lbs) 
+ 46% MAC 
+ 3000 kg (6614 lbs) 
+ 46% MAC 
+ 2600 kg (5732 lbs) and less 
+ 20% MAC"
+Maximum Weights,"Ramp weight 
+ 4520 kg (9965 lbs) 
+ Take-off weight 
+ 4500 kg (9921 lbs) 
+ Landing weight 
+ 4500 kg (9921 lbs) 
+ Max. zero fuel weight 
+ 4100 kg (9039 lbs)"
+Control Surfaces,"Wing flaps 15° +0°/-1.5° Normal Take-off 
+ 30° +0°/-1.5° Short Take-off 
+ 39.5° +/-0.5° Landing 
+ (left/right asymmetry 1°) 
+ S/N 684 Onwards: 
+ Ailerons 
+ 26.5º +/- 0.5º Up 
+ 13º +/- 0.5º down 
+ Aileron tab 
+ 13.9º + /-1.0º up 
+ 14.5º +/- 1.0º down 
+ (trim function only – left hand tab) 
+ Aileron tab 
+ 15.5º + /-1.0º up 
+ 15.8º +/- 1.0º down 
+ (balance function only – both tabs) 
+ Aileron tab 
+ 29.3º + /-1.0º up 
+ 28.4º +/- 1.0º down 
+ (combined trim and balance function – left hand tab) 
+ When the ailerons are in the neutral position, both tabs are deflected 5º+/- 0.5º up."
+Certification Basis,"1) 14 CFR Sections 21.29, 21.183(c) and 14 CFR 23, Normal Category, 
+ effective February 4, 1991, including Amendments 23-1 through 23-42 and 
+ Section 23.1305c)3) of Amendment 23-43 and 
+ Section 23.49c) and 23.562d) of Amendment 23-44 
+ Section 23.479b) & c) and Section 23.1507 of Amendment 23-45 and 
+ Section 23.1311 of Amendment 23-49 
+ 2) 14 CFR Section 36, effective November 18, 1969, including 
+ Amendments 36-1 through amendment in effect at the time of U.S. Type 
+ Certification, and 
+ 3) 14 CFR Section 34, effective September 10, 1990, and 
+ 4) Equivalent level of Safety, 
+ a) ACE-94-8 of June 21, 1994, Spin demonstration, FAR 23.221 a)2) 
+ b) Cabin pressure indicator, FAR 23.841b) 6). See NOTE 8. 
+ 5) Section 611(b) of the FAA Act of 1958 
+ 6) Certification Maintenance Requirement (CMR), manual pitch trim 
+ system annunciation 
+ 7) Special Conditions: High Energy Radiated Electromagnetic Fields, (HERF), 
+ Number 23-ACE-46, effective date May 29, 1990 
+ 8) Approved for Flight Into Known Icing. See NOTE 4. 
+ The Swiss Federal Office of Civil Aviation (FOCA) originally type certificated this 
+ aircraft under its type certificate Number F-56-30. The FAA validated this product 
+ under U.S. Type Certificate Number A78EU. Effective June 23, 2006, the European 
+ Aviation Safety Agency (EASA) began oversight of this product on behalf of 
+ Switzerland. The EASA TCDS No. EASA.A.089."
+Service Information,"Each of the documents listed below must state that it is approved by the European 
+ Aviation Safety Agency (EASA) or – for approvals made before June 23, 2006 – 
+ Swiss Federal Office of Civil Aviation (FOCA). 
+ • Service bulletins, 
+ • Structural repair manuals, 
+ • Vendor manuals, 
+ • Aircraft flight manuals, and 
+ • Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved for type 
+ design data only unless one of the following conditions exists: 
+ • The documents change the limitations, performance, or procedures of the FAA 
+ approved manuals; or 
+ •The documents make an acoustical or emissions changes to this product’s U.S. 
+ type certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. 
+ The FAA may delegate on case-by-case to EASA to approve on behalf of the FAA 
+ for the U.S. type certificate. If this is the case it will be noted on the document. 
+ Available Documents for the PILATUS PC-12/45 are: 
+ For S/N 101 – 400, except 321: Airplane Flight Manual Supplement No. 8 
+ (Doc. No. 01973-001 / 9-08) Initial issue, or later FOCA approved revisions. 
+ For S/N 321 and S/N 401and subsequent: Airplane Flight Manual Report No. 02211 
+ Initial issue or later FOCA approved revisions."
+"III. Model PC-12/47 (Normal Category), approved December 23, 2005. 
+ The data given for model PC-12 is valid except where mentioned below:",
+Airspeed Limits EAS,"Max. diving speed 
+ VD 290 kts 
+ MD 0.58 
+ Max. maneuvering operating speed VO 
+ 163 kts at 4740 kg (10450 lbs) 
+ Stall speed (at TOW) 
+ Flaps up 
+ 95 kts (CAS) 
+ (engine running flight idle) Flaps down 
+ 67 kts (CAS)"
+Center of Gravity Limits,"At 4740 kg 30% MAC to 42.2% MAC 
+ Forward cg limit varies linearly between: (landing gear extended) 
+ 4740 kg (10450 lbs) 
+ 30% MAC 
+ 4500 kg (9921 lbs) 
+ 30% MAC 
+ 3700 kg (8157 lbs) 
+ 18% MAC 
+ 2600 kg (5732 lbs) and less 
+ 13% MAC 
+ Rear cg limit varies linearly between: (landing gear retracted) 
+ 4740 kg (10450 lbs) 
+ 42.2% MAC 
+ 4500 kg (9921 lbs) 
+ 43% MAC 
+ 3600 kg (7937 lbs) 
+ 46% MAC 
+ 3000 kg (6614 lbs) 
+ 46% MAC 
+ 2600 kg (5732 lbs) and less 
+ 20% MAC"
+Maximum Weights,"Ramp weight 
+ 4760 kg (10495 lbs) 
+ Take-off weight 
+ 4740 kg (10450 lbs) 
+ Landing weight 
+ 4500 kg (9921 lbs) 
+ Max. zero fuel weight 
+ 4100 kg (9039 lbs)"
+Control Surfaces,"Wing flaps 
+ 15° +0°/-1.5° Normal Take-off 
+ 30° +0°/-1.5° Short Take-off 
+ 39.5° +/-0.5° Landing 
+ (left/right asymmetry 1°) 
+ Ailerons 
+ 26.5º +/- 0.5º Up 
+ 13º +/- 0.5º down 
+ Aileron tab 
+ 13.9º + /-1.0º up 
+ 14.5º +/- 1.0º down 
+ (trim function only – left hand tab) 
+ Aileron tab 
+ 15.5º + /-1.0º up 
+ 15.8º +/- 1.0º down 
+ (balance function only – both tabs) 
+ Aileron tab 
+ 29.3º + /-1.0º up 
+ 28.4º +/- 1.0º down 
+ (combined trim and balance function – left hand tab) 
+ When the ailerons are in the neutral position, both tabs are deflected 5º+/- 0.5º up."
+Certification Basis,"1) 14 CFR Sections 21.29, 21.183(c) and 14 CFR 23, Normal Category, 
+ effective February 4, 1991, including Amendments 23-1 through 23-42 and 
+ Section 23.1305c)3) of Amendment 23-43 and 
+ Section 23.49c) and 23.562d) of Amendment 23-44 
+ Section 23.479b) & c) and Section 23.1507 of Amendment 23-45 and 
+ Section 23.1311 of Amendment 23-49 
+ 2) 14 CFR Section 36, effective November 18, 1969, including 
+ Amendments 36-1 through amendment 36-27, effective September 6, 2005, 
+ 3) 14 CFR Section 34, effective September 10, 1990, including amendments 
+ 34-1 as amended through Amendment 34-3 effective February 3, 1999; 
+ 4) Equivalent level of Safety findings per provision of 14 CFR 21.21(b)(1): 
+ a) ACE-94-8 of June 21, 1994, Spin demonstration, FAR 23.221 a)2) as 
+ extended by FAA memorandum dated November 29, 2005. 
+ b) ACE-05-18 of November 29, 2005, Cabin pressure indicator, 
+ FAR 23.841b) 6) 
+ 5) Special Conditions: High Energy Radiated Electromagnetic Fields, (HERF), 
+ Number 23-ACE-46, effective date May 29, 1990 
+ 6) Approved for Flight Into Known Icing. See NOTE 4. 
+ 7) Section 611(b) of the FAA Act of 1958 
+ 8) Certification Maintenance Requirement (CMR), manual pitch trim 
+ system annunciation 
+ Date of Application for U.S. Amended Type Certificate for PC-12/47 model 
+ December 1, 2004. 
+ The Swiss Federal Office of Civil Aviation (FOCA) originally type certificated this 
+ aircraft under its type certificate Number F-56-30. The FAA validated this product 
+ under U.S. Type Certificate Number A78EU. Effective June 23, 2006, the European 
+ Aviation Safety Agency (EASA) began oversight of this product on behalf of 
+ Switzerland. The EASA TCDS No. EASA.A.089."
+Service Information,"Each of the documents listed below must state that it is approved by the European 
+ Aviation Safety Agency (EASA) or – for approvals made before June 23, 2006 – 
+ Swiss Federal Office of Civil Aviation (FOCA). 
+ • Service bulletins, 
+ • Structural repair manuals, 
+ • Vendor manuals, 
+ • Aircraft flight manuals, and 
+ • Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved for type 
+ design data only unless one of the following conditions exists: 
+ • The documents change the limitations, performance, or procedures of the FAA 
+ approved manuals; or 
+ •The documents make an acoustical or emissions changes to this product’s U.S. 
+ type certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. 
+ The FAA may delegate on case-by-case to EASA to approve on behalf of the FAA 
+ for the U.S. type certificate. If this is the case it will be noted on the document. 
+ Available Documents for the PILATUS PC-12/47 are: 
+ Airplane Flight Manual Report No. 02211, 
+ Initial issue or later FOCA approved revisions. 
+ (specific PC-12/47 data is contained in AFM Supplement No. 33) 
+ Aircraft Maintenance Manual Doc. No. 02049 Revision 17, dated 31 Jan 2006 or 
+ higher. (Chapter 4 FAA and FOCA approved)"
+"IV. Model PC-12/47E (Normal Category), approved March 28, 2008. 
+ The data given for model PC-12 is valid except where mentioned below:",
+Engine,Pratt & Whitney PT6A-67P
+Fuel,Approved fuels in accordance with AFM 02277
+Engine Limits,"Maximum 
+ Observed 
+ N1 Gas 
+ Prop 
+ Inter 
+ Shaft 
+ Generator 
+ Shaft 
+ Turbine 
+ Power 
+ Torque 
+ Speed 
+ Speed 
+ Temp. 
+ shp 
+ PSI 
+ % 
+ RPM 
+ ºC 
+ Take-off 
+ 1200 
+ 44.34 
+ 104 
+ 1700 
+ 850 
+ Max. climb 
+ 1200 
+ 44.34 
+ 104 
+ 1700 
+ 820 
+ Max. cruise 
+ 1000 
+ 36.95 
+ 104 
+ 1700 
+ 820 
+ Starting (5 seconds) 
+ --- 
+ --- 
+ --- 
+ --- 
+ 1000 
+ Transient (20 seconds) 
+ --- 
+ 61.00 
+ 104 
+ 1870 
+ 870"
+Engine,Pratt & Whitney PT6E-67XP (NOTE 16)
+Fuel,"Approved fuels in accordance with AFM 02406 
+ Maximum 
+ Observed 
+ N1 Gas 
+ Prop 
+ Inter 
+ Shaft 
+ Generator 
+ Shaft 
+ Turbine 
+ Power 
+ Torque 
+ Speed 
+ Speed 
+ Temp. 
+ shp 
+ PSI 
+ % 
+ RPM 
+ ºC 
+ Take-off 
+ 1200 
+ 44.84 
+ 104 
+ 1700 
+ 850 
+ Max. climb 
+ 1200 
+ 44.84 
+ 104 
+ 1700 
+ 825 
+ Max. cruise 
+ 1100 
+ 40.63 
+ 104 
+ 1700 
+ 820 
+ Starting (5 seconds) 
+ --- 
+ --- 
+ --- 
+ --- 
+ 1000 
+ Transient (20 seconds) 
+ --- 
+ 61.00 
+ 104 
+ 1870 
+ 900"
+Propeller and Propeller,Hartzell HC-E4A-3D hub with Hartzell E10477SK Shot Peened aluminum blades;
+Limits,"four blade constant speed type. (See NOTE 12) 
+ Hartzell HC-E5A-3A hub with NC10245B, 5 Carbon composite blades (See NOTE 
+ 15) 
+ Hartzell HC-E5A-31A hub with NC10245B, 5 Carbon composite blades (See NOTE 
+ NOTE 16) 
+ Spinner: Hartzell D5500-1 (Aluminum) applicable to HC-E4A-3D hub. 
+ Spinner: Hartzell 105820 (Aluminum), applicable to HC-E5A-3A and 
+ HC-E5A-31A hubs. 
+ Diameter: 104 in (2.642 m) to 105 in (2.667 m) 
+ cropping of blade tips not permitted. 
+ Pitch settings (measured at 42 in. station) 
+ 4-Blade propeller 
+ 5-Blade propeller 
+ Fine pitch 
+ 19.0º 
+ 14.7º 
+ Min. pitch in flight 
+ 6.0º 
+ 6.0º 
+ Max. reverse pitch 
+ -17.5º 
+ -17.5º 
+ Feathered 
+ 79.6º 
+ 80.0º 
+ Stabilized ground operation is prohibited between 350 and 950 RPM. 
+ Stabilized ground operation is prohibited between 350 and 900 RPM (See NOTE 
+ 16)."
+Airspeed Limits EAS,"Max. diving speed 
+ VD 290 kts 
+ MD 0.58 
+ Max. maneuvering operating speed VO 
+ 163 kts at 4740 kg (10450 lbs) 
+ VO (See Note 16) 
+ 166 kts at 4740 kg (10450 lbs) 
+ Stall speed (at TOW) 
+ Flaps up 
+ 95 kts (CAS) 
+ (engine running flight idle) Flaps down 
+ 67 kts (CAS)"
+Center of Gravity Limits,"At 4740 kg 30% MAC to 42.2% MAC 
+ Forward cg limit varies linearly between: (landing gear extended) 
+ 4740 kg (10450 lbs) 
+ 30% MAC 
+ 4500 kg (9921 lbs) 
+ 30% MAC 
+ 3700 kg (8157 lbs) 
+ 18% MAC 
+ 2600 kg (5732 lbs) and less 
+ 13% MAC 
+ Rear cg limit varies linearly between: (landing gear retracted) 
+ 4740 kg (10450 lbs) 
+ 42.2% MAC 
+ 4500 kg (9921 lbs) 
+ 43% MAC 
+ 3600 kg (7937 lbs) 
+ 46% MAC 
+ 3000 kg (6614 lbs) 
+ 46% MAC 
+ 2600 kg (5732 lbs) and less 
+ 20% MAC"
+Maximum Weights,"Ramp weight 
+ 4760 kg (10495 lbs) 
+ Take-off weight 
+ 4740 kg (10450 lbs) 
+ Landing weight 
+ 4500 kg (9921 lbs) 
+ Max. zero fuel weight 
+ 4100 kg (9039 lbs)"
+Control Surfaces,"Wing flaps 
+ 15° +0°/-1.5° Normal Take-off 
+ 30° +0°/-1.5° Short Take-off 
+ 39.5° +/-0.5° Landing 
+ (left/right asymmetry 1°) 
+ Ailerons 
+ 26.5º +/- 0.5º Up 
+ 13º +/- 0.5º down 
+ Aileron tab 
+ 13.9º + /-1.0º up 
+ 14.5º +/- 1.0º down 
+ (trim function only – left hand tab) 
+ Aileron tab 
+ 15.5º + /-1.0º up 
+ 15.8º +/- 1.0º down 
+ (balance function only – both tabs) 
+ Aileron tab 
+ 29.3º + /-1.0º up 
+ 28.4º +/- 1.0º down 
+ (combined trim and balance function – left hand tab) 
+ When the ailerons are in the neutral position, both tabs are deflected 5º+/- 0.5º up."
+Certification Basis,"1) 14 CFR Sections 21.29, 21.183(c) and 14 CFR 23, Normal Category, 
+ effective February 4, 1991, including Amendments 23-1 through 23-42 and:"
+FAR 23 Paragraph Amdt level,"23.49c (23-44) 
+ 23.143 c (23-50) 
+ 23.301 (23-48) 
+ 23.305 a (23-45) 
+ 23.335 a,b,c,d (23-48) 
+ 23.361 a,b2 (23-45) 
+ 23.371 a (23-48) 
+ 23.479 b,c (23-45) 
+ 23.561 b2-3,c3 (23-48) 
+ 23.562 d (23-44) 
+ 23.562 d1 (23-50) 
+ 23.571 a (23-45) 
+ 23.572 a1,b1 (23-45) 
+ 23.607 c (23-48) 
+ 23.613 (23-45) 
+ 23.629 a,b,c,d,e,f2 (23-48) 
+ 23.773 a1-2 (23-45) 
+ 23.1303 a,b,c,d,e,f (23-49) 
+ 23.1305 c3 (23-43) 
+ 23.1307 (23-49) 
+ 23.1311 (23-49) 
+ 23.1322 e (23-43) 
+ 23.1323 c (23-49) 
+ 23.1326 a,b (23-49) 
+ 23.1329 (23-49) 
+ 23.1331 a,b1-2, c (23-43) 
+ 23.1351 b2-3,c,c1-5,g (23-49) 
+ 23.1353 h (23-49) 
+ 23.1357 a,e (23-43) 
+ 23.1359 (23-49) 
+ 23.1361 a,b,c (23-49) 
+ 23.1365 b,c,c1,d,e,f (23-49) 
+ 23.1431 a,b,c,d,e (23-49) 
+ 23.1507 (23-45) 
+ 23.1525 (23-45) 
+ 23.1543 c (23-50) 
+ 23.1555 e2 (23-50) 
+ Additionally airplanes where the Magnetic Standby Compass is not installed (Note 15) comply with 23.1303 (c) at 23-62 
+ 2) 14 CFR Section 36, effective November 18, 1969, including 
+ Amendments 36-1 through amendment 36-28, effective January 4, 2006, 
+ 3) 14 CFR Section 34, effective September 10, 1990, including amendments 
+ 34-1 as amended through Amendment 34-3 effective February 3, 1999; 
+ 4) Equivalent level of Safety findings per provision of 14 CFR 21.21(b)(1): 
+ a) ACE-94-8 of June 21, 1994, Spin demonstration, FAR 23.221 a)2) as 
+ extended by FAA memorandum dated November 7, 2007. 
+ b) ACE-05-18 of November 29, 2005, Cabin pressure indicator, 
+ FAR 23.841b) 6) as extended by FAA memorandum dated November 7, 
+ 2007. 
+ c) ACE-07-14 of January 7, 2008, Probes OFF Caution, FAR 23.1326(b)(1) 
+ d) ACE-07-15 of January 8, 2008, ASI Flap Markings, FAR 23.1545(b)(4) 
+ e) ACE-08-02 of February 26, 2008, Circuit Protective Devices, FAR 23.1357(b) 
+ 5) Special Conditions: 
+ a)Protection of Systems for HIRF, Number 23-216-SC, effective date November 
+ 30, 2007 
+ 6) Approved for Flight Into Known Icing. See NOTE 4. 
+ 7) Section 611(b) of the FAA Act of 1958 
+ 8) Certification Maintenance Requirement (CMR), manual pitch trim 
+ system annunciation 
+ Date of Application for U.S. Amended Type Certificate for PC-12/47E model 
+ December 6, 2004. 
+ The Swiss Federal Office of Civil Aviation (FOCA) originally type certificated this 
+ aircraft under its type certificate Number F-56-30. The FAA validated this product 
+ under U.S. Type Certificate Number A78EU. Effective June 23, 2006, the European 
+ Aviation Safety Agency (EASA) began oversight of this product on behalf of 
+ Switzerland. The EASA TCDS No. EASA.A.089."
+Certification Basis NOTE 16,"[FAR 23 Paragraph (Amdt level)] Below are the areas of change that are at a higher amendment than the PC- 12/47E 
+ and are the new certification basis for airplanes with the Pratt and Whitney PT6E-67XP engine. 
+ 23.63 (23-62) 
+ 23.69 (23-50) 
+ 23.147 (23-50) 
+ 23.175 (23-50) 
+ 23.177 (23-62) 
+ 23.181 (23-62) 
+ 23.337 (23-48) 
+ 23.341 (23-48) 
+ 23.347 (23-48) 
+ 23.361 (23-45) 
+ 23.443 (23-48) 
+ 23.572 (23-48) 
+ 23.629 (23-48) 
+ 23.672 (23-45) 
+ 23.677 (23-49) 
+ 23.905 (23-59) 
+ 23.907(c) (23-59) 
+ 23.1306 (23-61) 
+ 23.1308 (23-57) 
+ 23.1309 (23-62) 
+ 23.1310 (23-62) 
+ 23.1321 (23-49) 
+ 23.1365 (23-49) 
+ 23.1589 (23-50) 
+ 2) 14 CFR Section 34, effective September 10, 1990, including amendments 34-1 
+ as amended through Amendment 34-5A effective October 23, 2013; 
+ 3) 14 CFR Part 21.16 Special Conditions (SC) issued in accordance with 14 CFR 
+ Part 11: 
+ (a) SC 23-294-SC effective August 15, 2019 - Autothrust System –signed 
+ 8/1/2019; 
+ (b) SC 23-295-SC effective August 15, 2019 - Electronic Engine Control 
+ (EEC) – 8/8/2019 
+ 4) Equivalent Safety Findings (ELOS) per 21.21(b)(1) for the following subjects: 
+ (a) ELOS AT00923CE-A-P-3 dated August 16, 2019, Digital Only Display - 
+ Powerplant Indications, 14 CFR 23.1305(e) amendment 23-34; 23.1549(a), 
+ (b), and (c), amendment 23-28; 
+ (b) ELOS AT00923CE-A-P-4 dated August 16, 2019, Use of Interconnected 
+ Fuel Tanks without Tank Airspaces, 14 CFR 23.975(a)(4), amendment 23- 
+ 29; 
+ (c) ELOS AT00923CE-A-S-4 dated August 16, 2019, AutoThrottle (AT) 
+ Engage When Not Installed, 14 CFR 23.1301(b), amendment 23-20; 
+ 23.1555(a), amendment 23-21;"
+Service Information,"Each of the documents listed below must state that it is approved by the European Aviation 
+ Safety Agency (EASA) or – for approvals made before June 23, 2006 – Swiss Federal 
+ Office of Civil Aviation (FOCA). 
+ • Service bulletins, 
+ • Structural repair manuals, 
+ • Vendor manuals, 
+ • Aircraft flight manuals, and 
+ • Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved for type 
+ design data only unless one of the following conditions exists: 
+ • The documents change the limitations, performance, or procedures of the FAA 
+ approved manuals; or 
+ •The documents make an acoustical or emissions changes to this product’s U.S. 
+ type certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. 
+ The FAA may delegate on case-by-case to EASA to approve on behalf of the FAA 
+ for the U.S. type certificate. If this is the case it will be noted on the document. 
+ Available Documents for the PILATUS PC-12/47E are: 
+ Airplane Flight Manual Report No. 02277, Revision 6, dated March 26, 2008 or later 
+ EASA approved revisions. (See Note 13 and Note 15) 
+ Aircraft Maintenance Manual Doc. No. 02300, 12-B-AM-00-00-00-1, dated April 11, 
+ 2008, or later EASA approved revisions. (Chapter 4 is FAA and EASA approved) 
+ (See Note 13 and Note 15) 
+ MSN 1720, 2001 and subsequent (Note 16) and (Note 17) 
+ Airplane Flight Manual Report No. 02406, Issue 002 Revision 00, dated October 14, 
+ 2019 or later EASA approved revisions. 
+ Airplane Flight Manual Temporary Revision Report No. AFM TR 02406 01 dated 26 
+ November 2019 or later EASA approved revisions. 
+ Aircraft Maintenance Manual Doc. No. AMM 02436, Issue 01, Revision 00, dated 
+ Nov. 22, 2019 or later EASA approved revisions. (Chapter 4 is FAA and EASA 
+ approved)"
+NOTE 1,"Current weight and balance data together with a list of equipment included in the certificated 
+ empty weight, and loading instructions, when necessary, must be provided for each airplane at the 
+ time of original certification. The certificated empty weight and corresponding center of gravity 
+ locations must include the following: 
+ a) unusable fuel of 19.6 kg (43.2 lbs) at 5.73 m (225.6 in) on S/N 101 up to and including S/N 140. 
+ unusable fuel of 14.9 kg (32.9 lbs) at 5.73 m (225.6 in) from S/N 141 on onwards. 
+ b) engine oil of 9.2 kg (20.3 lbs) at 2.41 m (95.27 in.)"
+NOTE 2,"Airplane operation must be in accordance with the EASA/FOCA-approved Airplane Flight Manual 
+ listed above. All placards listed in Section 2 of the AFM must be displayed in the appropriate location."
+NOTE 3,"Airworthiness Limitations are contained in the FOCA/EASA approved Chapter 4 of the PC-12, PC- 
+ 12/45, PC-12/47 & PC-12/47E Aircraft Maintenance Manual. These Limitations may not be changed 
+ without EASA and FAA approval."
+NOTE 4,"The models PC-12 and PC-12/45 up to S/N 683 may be operated in known icing conditions when 
+ equipped in accordance with Pilatus Modification PIL 12/00/001, Rev. 1, or later FOCA/EASA 
+ approved revision. The models PC-12/45, PC-12/47, and PC-12/47E from S/N 684 onwards are 
+ approved for operation in known icing conditions. S/N 545 is also approved for operation in known 
+ icing conditions."
+NOTE 5,"The basic version PC-12 (S/N 101 - 683) may be converted to a version PC-12/45 by executing 
+ PILATUS Service Bulletin No. 04-001."
+NOTE 6,"Only interior configurations described in the official Pilatus AFM/POH are approved for installation 
+ in the PC-12, PC-12/45, PC-12/47 and PC-12/47E aircraft. These configurations have been shown to 
+ meet the dynamic and HIC test requirements of FAR 23.562. Any alterations to these approved interior 
+ layouts must be shown to meet FAR 23.562."
+NOTE 7,"All PC-12 models are eligible for import (with FOCA export certificate of airworthiness) into the USA in 
+ the no cabin interior configuration option installation per Pilatus Document 500.20.12.399 for ferry flight 
+ delivery to the USA, but carriage of passengers (other than those essential to the mission) in this 
+ configuration is prohibited."
+NOTE 8,"An ELOS memorandum was inadvertently missed on the original PC-12 model and PC-12/45 model, 
+ but was evaluated during the validation of the PC-12/47. See FAA memorandum dated December 9, 
+ 2005 for details."
+NOTE 9,"The PC-12/45 model incorporated an aerodynamic improvement modification (AIM) type design 
+ change that was approved at the same time the PC-12/47 model was approved. This modification is 
+ for production aircraft only and includes: modified wingtips, modified dorsal and ventral fins and 
+ modified ailerons (reduction of roll control forces)."
+NOTE 10,"Starting with Manufacture Serial Number (MSN) 684, and up to MSN 999, can be either a PC-12/45 
+ with the AIM type design change or a PC-12/47 model."
+NOTE 11,"Starting with Manufacture Serial Number (MSN) 1001 and subsequent will only be a PC-12/47E 
+ model. MSN 545 is also a PC-12/47E model."
+NOTE 12,"Only the Hartzell E10477SK Shot Peened aluminum blades with the Hartzell HC-E4A-3D hub is 
+ allowed on the PC-12/47E model. This Shot Peen Hartzell E10477SK propeller can be used on the 
+ PC-12, PC-12/45 and PC-12/47 airplane, but the Hartzell E10477K “non-shot peened” cannot be used 
+ on the PC- 12/47E airplane. See the appropriate Pilatus Airworthiness limitation sections."
+NOTE 13,"PC-12/47E MSN 545 and MSN 1001 up to 1944: All airplanes equipped with Honeywell APEX 
+ system are RVSM capable provide the operator incorporates and follows airplane flight manual 
+ supplement (AFMS) No. 4 Revision 1 dated May 28, 2009 or later version and Airplane Maintenance 
+ Manual document number 02300 Revision 2, dated June 3, 2009 or later AMM version."
+NOTE 14,"PC-12/47E MSN 1300, MSN 1451 up to 1944: These airplanes are fitted with the Electromechanical 
+ Landing Gear (eLDG) and must be operated and maintained in accordance with the Airplane Flight 
+ Manual, document no. 02277, Supplement 11, issue dated March 2, 2012 or later revisions and 
+ Airplane Maintenance Manual, document number 02300, Airworthiness Limitations 
+ 12-B-04-00-00-00A-000A-A, dated November 26, 2013 or later EASA and FAA approved revisions."
+NOTE 15,"The PC-12/47E aircraft is Transmitting-PED tolerant. 
+ PC-12/47E MSN 1576 and subsequent as well as aircraft which have SB 34-042 (Introduction of the 
+ L3 ESIS) embodied, can have the standby magnetic compass removed (23.1303(c) at 23-62). 
+ PC-12/47E MSN 1576 up to 1944: These airplanes are eligible to be fitted with the Hartzell 5-Blade 
+ Composite Propeller. The aircraft must be operated in accordance with the Airplane Flight Manual, 
+ document no. 02277 revision 15, dated November 6, 2015 or later versions and airplane Maintenance 
+ Manual, document number 02300 Revision 14, dated November 6, 2015 or later EASA and FAA 
+ approved revisions."
+NOTE 16,"The PC-12/47E MSN 1720, MSN 2001 and subsequent: These airplanes are fitted with: 
+ - Pratt and Whitney PT6E-67XP engine with Electronic Engine Control (EEC); 
+ - APEX Build 12 or later versions, providing functions such as Autothrust (Optional), Tactile 
+ Feedback and Emergency Descent Mode and Low Propeller Speed (Optional); 
+ - New Executive Seats and Larger cabin windows; 
+ - Revised Fuel System enabling the use of fuel without anti-icing additives within the certified outside 
+ temperature limits of the airplane with the fuel system basic architecture and means of operation are 
+ maintained; 
+ - Electromechanical Landing Gear (eLDG). 
+ - The airplanes are RVSM capable. 
+ - These airplanes are also Transmitting-PED tolerant. 
+ This MSN range of airplanes must be operated and maintained in accordance with the Airplane Flight 
+ Manual, document no. 02406 issue 02, revision 00 issue date October 14, 2019 or later revisions. 
+ Aircraft with the optional Low Propeller Speed in accordance with the AFM Supplement 02439 issue 
+ 01, revision 00 issue date October 14, 2019 or later revisions. This MSN range of airplanes must use 
+ Airplane Maintenance Manual, document no. 02436, Airworthiness Limitations 12-C-04-00-00-00A- 
+ 000A-A, dated August 28, 2019 or later EASA and FAA approved revisions. 
+ NOTE 17. On November 21, 2019, the FAA accepted the complete set of ICAs for MSN 1720, MSN 2001 and 
+ subsequent. The ALS section of the ICA, chapter 4, dated August 28, 2019 was FAA approved on 
+ September 04, 2019 which was before the FAA approval for these type design changes and allowed 
+ per 14 CFR part 21.50(b). 
+ NOTE 18. Revision 34 of this TCDS was issued to correct a typographical error and correctly identify the PC-12 
+ models in the title block of this TCDS and corresponding individual model sections by not including 
+ “PILATUS” before each model number to correctly match the actual FAA type certificate."

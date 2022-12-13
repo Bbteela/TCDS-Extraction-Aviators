@@ -1,0 +1,430 @@
+Keyterm,Info
+"H11NM 
+ Revision 10 
+ Robinson 
+ R44 
+ R44 II 
+ October 6, 2020",
+Type Certificate Holder,"Robinson Helicopter Company 
+ 2901 Airport Drive 
+ Torrance, California 90505"
+"I. Model R44 (Normal Category Rotorcraft), Approved December 10, 1992 
+ Model R44 helicopters with serial numbers below 10000 are configured with four seats. Model R44 helicopters with serial 
+ number 30001 and subsequent are configured with two seats. Some limitations are configuration-specific as indicated below. 
+ The Rotorcraft Flight Manual is also configuration-specific and has manufacturer’s document number RTR 461 for the four seat 
+ configuration and RTR 463 for the two seat configuration.",
+Engine,"One Lycoming O-540-F1B5, Type Certificate number E-295"
+Fuel,See Rotorcraft Flight Manual (RFM)
+Engine Limits,"S/Ns below 10000: 
+ Maximum continuous: 
+ 205 hp at 2718 rpm (102%) 
+ Takeoff (5 minute): 
+ 225 hp at 2718 rpm (102%) 
+ S/N 30001 and subsequent: 
+ Maximum continuous: 
+ 185 hp at 2718 rpm (102%) 
+ Takeoff (5 minute): 
+ 210 hp at 2718 rpm (102%) 
+ For all S/Ns: 
+ See appropriate Rotorcraft Flight Manual for manifold pressure settings corresponding to 
+ horsepower limits."
+Rotor Speed Limits all SNs,"Power Off (Rotor Tach) 
+ Power On (Rotor Tach) 
+ Maximum: 432 rpm (108%) 
+ Maximum: 408 rpm (102%) 
+ Minimum: 360 rpm (90%) 
+ Minimum: 404 rpm (101%) * 
+ * Earlier R44s with tachometers showing an engine green arc range of 99% to 102% have 
+ a minimum power-on rotor speed of 396 rpm."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+Rev No,"10 
+ 8 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10"
+Airspeed Limits,"S/Ns below 10000: 
+ VNE (never exceed speed) at sea level is 130 KIAS (120 KIAS with fixed floats) for 
+ takeoff gross weights of 2200 lbs. or less. VNE at sea level is 120 KIAS (110 KIAS with 
+ fixed floats) for takeoff gross weights over 2200 lbs. 
+ S/N 30001 and subsequent: 
+ VNE (never exceed speed) at sea level is 120 KIAS for all takeoff weights with or without 
+ fixed floats. 
+ For all S/Ns: 
+ Power Off (Autorotation) VNE at sea level is 100 KIAS. 
+ For reduction of VNE with altitude and temperature, see appropriate Rotorcraft Flight 
+ Manual. 
+ Airspeed limit at power settings above Maximum Continuous Power is 100 KIAS. 
+ Airspeed limit with inflated pop-out floats is 80 KIAS. 
+ Airspeed limit for any combination of Doors Off is 100 KIAS."
+Center of Gravity CG Range,"S/Ns below 10000: 
+ Longitudinal C.G. Range 
+ Lateral C.G. Range 
+ Gross 
+ Long. 
+ Weight 
+ Forward 
+ Aft 
+ C. G. 
+ Left 
+ Right 
+ (lbs.) 
+ (in.) 
+ (in.) 
+ (in.) 
+ (in.) 
+ (in.) 
+ 1550 
+ 92.0 
+ 102.5 
+ 92.0 
+ -3.0 
+ +3.0 
+ 2000 
+ 92.0 
+ 102.5 
+ 100.0 
+ -3.0 
+ +3.0 
+ 2200 
+ 92.0 
+ 100.25 
+ 102.5 
+ -1.5 
+ +1.5 
+ 2400 
+ 93.0 
+ 98.0 
+ Note: Straight line variation between points shown 
+ S/N 30001 and subsequent: 
+ Longitudinal C.G. Range 
+ Lateral C.G. Range 
+ Gross 
+ Long. 
+ Weight 
+ Forward 
+ Aft 
+ C. G. 
+ Left 
+ Right 
+ (lbs.) 
+ (in.) 
+ (in.) 
+ (in.) 
+ (in.) 
+ (in.) 
+ 1550 
+ 92.0 
+ 102.5 
+ 92.0 
+ -3.0 
+ +3.0 
+ 2000 
+ 92.0 
+ 102.5 
+ 100.0 
+ -3.0 
+ +3.0 
+ 2200 
+ 93.0 
+ 100.25 
+ 102.5 
+ -1.5 
+ +1.5 
+ Note: Straight line variation between points shown"
+Empty Weight CG Limit,"For all S/Ns, Empty weight C.G. must be such that calculated C.G. with 150 lb. pilot and 
+ full fuel is at STA 102.5 or forward."
+Maximum Weight,"S/Ns below 10000: 
+ 2400 lb. 
+ S/N 30001 and subsequent: 
+ 2200 lb."
+Minimum Crew,1 pilot at right side control station
+Number of Seats,"S/Ns below 10000: 
+ 4 (3 for Police and ENG Version) 
+ Seat Locations: 
+ Pilot and Forward Passenger at STA 49.5 
+ Aft Passengers at STA 79.5 
+ S/N 30001 and subsequent: 
+ 2 
+ Seat Locations: 
+ STA 49.5"
+Maximum Baggage,"50 pounds of baggage and installed equipment in any baggage compartment. For any 
+ seat location, the maximum combined weight of the seat load, baggage, and installed 
+ equipment is 300 lbs. 
+ For S/N 30001 and subsequent, maximum load on aft deck is 50 lbs each side, and 
+ maximum load in each compartment under aft deck is 50 lb."
+Fuel Capacity,"Tanks Without Bladders 
+ Tanks With Bladders 
+ Location 
+ Tank 
+ Usable 
+ Capacity 
+ Usable 
+ Capacity 
+ (STA) 
+ (gal.) 
+ (gal.) 
+ (gal.) 
+ (gal.) 
+ Main 
+ 31.6 
+ 30.6 
+ 30.5 
+ 29.5 
+ 106.0 
+ Auxiliary 
+ 18.5 
+ 18.3 
+ 17.2 
+ 17.0 
+ 102.0"
+Oil Capacity,"Component 
+ Capacity 
+ Location 
+ (qt.) 
+ (STA) 
+ Engine 
+ 9 
+ 110.0 
+ Main Rotor Transmission 
+ 2 
+ 100.0 
+ Tail Rotor Transmission 
+ 0.11 
+ 327.0 
+ Hydraulic Reservoir (if installed) 
+ 0.65 
+ 117.0"
+Maximum Operating Altitude,"Density Altitude Limit 14,000 ft. 
+ Maximum altitude above ground level is 9000 ft. to allow landing within 5 minutes in 
+ case of fire."
+Manufacturer’s Serial Numbers,"0002, 0004 thru 9999 except 1140, 30001 and subsequent."
+Certification Basis,"14 CFR Part 27, dated February 1, 1965, including Amendments 27-1 through 27-24, 
+ Exemption No. 5473 dated July 2, 1992, to §27.955(a)(7) and 27.1305(q). 
+ For S/N 2611 thru 9999, 30061, 30066 and subsequent: 
+ 14 CFR §§ 27.952(a), 27.952(c), 27.952(f), 27.952(g), 27.963(g) (except with a minimum 
+ puncture force of 250 pounds), and 27.975(b) as amended by Amendment 27-30 (see Note 
+ 11). 
+ 14 CFR Part 36 Amendment 36-20. 
+ Equivalent Safety Findings: 
+ Number TD10352LA-R/S-1 
+ 14 CFR Part 27.1401(d), Anticollision Light System 
+ Number AT16516LA-R-S-1 
+ 14 CFR Part 27.695(a)(1), Power boost and power-operated control system. 
+ (see Note 10) 
+ For S/N 2611 thru 9999, 30061, 30066 and subsequent: 
+ Number AT17187LA-R/P-1 
+ 14 CFR part 27.952(c)(1)(i) Breakaway coupling separation load (see Note 11) 
+ Special Condition: 
+ No. 27-033-SC Robinson Model R44 and R44 II Helicopters, Installation of HeliSAS 
+ Autopilot and Stabilization Augmentation System (AP/SAS)."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the aircraft for certification. 
+ In addition, the following FAA-approved Rotorcraft Flight Manual is required: 
+ S/Ns below 10000: 
+ R44 Rotorcraft Flight Manual (RTR 461) dated December 10, 1992, or later revision 
+ (See NOTES 4, 5, & 6). 
+ S/N 30001 and above: 
+ R44 Cadet Rotorcraft Flight Manual (RTR 463) dated April 29, 2016, or later revision."
+"II. Model R44 II (Normal Category Rotorcraft), Approved October 3, 2002 
+ The R44 II helicopter includes a fuel injected engine with a 245 hp takeoff rating and a maxium weight of 2500 lb. The 
+ Rotorcraft Flight Manual has manufacturer’s document number RTR 462.",
+Engine,"One Lycoming IO-540-AE1A5, Type Certificate number 1E4"
+Fuel,See Rotorcraft Flight Manual (RFM)
+Engine Limits,"Maximum continuous: 
+ 205 hp at 2718 rpm (102%) 
+ Takeoff (5 minute): 
+ 245 hp at 2718 rpm (102%) 
+ See Rotorcraft Flight Manual for manifold pressure settings corresponding to horsepower 
+ limits."
+Rotor Speed Limits,"Power Off (Rotor Tach) 
+ Power On (Rotor Tach) 
+ Maximum: 432 rpm (108%) 
+ Maximum: 408 rpm (102%) 
+ Minimum: 360 rpm (90%) 
+ Minimum: 404 rpm (101%)"
+Airspeed Limits,"VNE (never exceed speed) at sea level is 130 KIAS (120 KIAS with fixed floats) for 
+ takeoff gross weights of 2200 lbs. or less. VNE at sea level is 120 KIAS (110 KIAS with 
+ fixed floats) for takeoff gross weights over 2200 lbs. 
+ Power Off (Autorotation) VNE at sea level is 100 KIAS. 
+ For reduction of VNE with altitude and temperature, see Rotorcraft Flight Manual. 
+ Airspeed limit at power settings above Maximum Continuous Power is 100 KIAS. 
+ Airspeed limit with inflated pop-out floats is 80 KIAS. 
+ Airspeed limit for any combination of Doors Off is 100 KIAS."
+Center of Gravity CG Range,"Longitudinal C.G. Range 
+ Lateral C.G. Range 
+ Gross 
+ Long. 
+ Weight 
+ Forward 
+ Aft 
+ C. G. 
+ Left 
+ Right 
+ (lbs.) 
+ (in.) 
+ (in.) 
+ (in.) 
+ (in.) 
+ (in.) 
+ 1600 
+ 92.0 
+ 102.5 
+ 92.0 
+ -3.0 
+ +3.0 
+ 2100 
+ 92.0 
+ 102.5 
+ 100.0 
+ -3.0 
+ +3.0 
+ 2300 
+ 92.0 
+ 100.25 
+ 102.5 
+ -1.5 
+ +1.5 
+ 2500 
+ 93.0 
+ 98.0 
+ Note: Straight line variation between points shown"
+Empty Weight CG Limit,"Empty weight C.G. must be such that calculated C.G. with 150 lb. pilot and full fuel is at 
+ STA 102.5 or forward."
+Maximum Weight,"2500 lb. 
+ 2400 lb. for intentional water landings with fixed or pop-out floats."
+Minimum Crew,1 pilot in forward right seat.
+Number of Seats,"4 (3 for Police and ENG Versions) 
+ Seat Locations: 
+ Pilot and Forward Passenger at STA 49.5 
+ Aft Passengers at STA 79.5"
+Maximum Baggage,"50 pounds of baggage and installed equipment in any baggage compartment. For any 
+ seat location, the maximum combined weight of the seat load, baggage, and installed 
+ equipment is 300 lbs."
+Fuel Capacity,"Tanks Without Bladders 
+ Tanks With Bladders 
+ Location 
+ Tank 
+ Capacity 
+ (STA) 
+ Usable 
+ Capacity 
+ Usable 
+ (gal.) 
+ (gal.) 
+ (gal.) 
+ (gal.) 
+ Main 
+ 31.6 
+ 30.6 
+ 30.5 
+ 29.5 
+ 106.0 
+ Auxiliary 
+ 18.5 
+ 18.3 
+ 17.2 
+ 17.0 
+ 102.0"
+Oil Capacity,"Capacity 
+ Location 
+ Component 
+ (qt.) 
+ (STA) 
+ Engine 
+ 9 
+ 110.0 
+ Main Rotor Transmission 
+ 2 
+ 100.0 
+ Tail Rotor Transmission 
+ 0.11 
+ 327.0 
+ Hydraulic Reservoir 
+ 0.65 
+ 117.0"
+Maximum Operating Altitude,"Density Altitude Limit - 14,000 ft. 
+ Maximum altitude above ground level is 9000 ft. to allow landing within 5 minutes in 
+ case of fire."
+Manufacturer’s Serial Numbers,"1140, 10001 thru 29999"
+Certification Basis,"14 CFR Part 27, dated February 1, 1965, including Amendments 27-1 through 27-24. 
+ For S/N 14364, 14385, 14387 thru 29999: 
+ 14 CFR §§ 27.952(a), 27.952(c), 27.952(f), 27.952(g), 27.963(g) (except with a minimum 
+ puncture force of 250 pounds), and 27.975(b) as amended by Amendment 27-30 (see Note 
+ 11). 
+ 14 CFR Part 36 Amendment 36-24. 
+ Equivalent Safety Findings: 
+ Number TD10352LA-R/S-1 
+ 14 CFR Part 27.1401(d), Anticollision Light System 
+ Number AT16516LA-R-S-1 
+ 14 CFR Part 27.695(a)(1), Power boost and power-operated control system (see Note 10) 
+ For S/N 14364, 14385, 14387 thru 29999: 
+ Number AT17187LA-R/P-1 
+ 14 CFR Part 27.952(c)(1)(i) Breakaway coupling separation load (see Note 11) 
+ Special Condition: 
+ No. 27-033-SC Robinson Model R44 and R44 II Helicopters, Installation of HeliSAS 
+ Autopilot and Stabilization Augmentation System (AP/SAS)."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. In addition, 
+ the following FAA-approved Rotorcraft Flight Manual is required: 
+ R44 II Rotorcraft Flight Manual (RTR 462) dated October 3, 2002, or later revision."
+Datum,100 in. forward of main rotor centerline.
+Leveling Means,"Refer to the R44 Maintenance Manual and Instructions for Continued Airworthiness 
+ (RTR 460). 
+ Main Rotor blade angles at 75% radius:"
+Movements,"Collective Pitch: 12.5° ±1.0° total travel 
+ Note: Collective low pitch to be established in accordance with the Maintenance 
+ Manual and Instructions for Continued Airworthiness (RTR 460) procedures to obtain 
+ proper autorotation RPM. 
+ Cyclic Pitch: 
+ Forward 
+ 13.50° to 14.25° 
+ Aft 
+ 13.50° to 14.25° 
+ Left 
+ 7.5° to 8.5° 
+ Right 
+ 6.0° to 7.0° 
+ Tail Rotor blade angles at 75% radius: 
+ Collective Pitch: 
+ Full right pedal 
+ 15.5° to 16.5° 
+ Full left pedal 
+ 18.5° to 19.0°"
+Production Basis,"Production Certificate No. 424WE dated February 11, 1993."
+NOTE 1,"A current weight and balance report, including a list of equipment included in the certificated empty weight, 
+ and loading instructions when necessary, must be provided for each aircraft at the time of original 
+ airworthiness certification and at all times thereafter, except in the case of operators having an approved 
+ weight control system."
+NOTE 2,"The following placard must be installed in clear view of the pilot: 
+ ""THIS ROTORCRAFT APPROVED FOR DAY AND NIGHT VFR OPERATIONS"" 
+ For additional placards, see the Rotorcraft Flight Manual. All placards required in the Rotorcraft Flight 
+ Manual must be installed in the appropriate locations."
+NOTE 3,"Information essential to the proper maintenance of the helicopter, including retirement time of critical 
+ components, is contained in the Robinson R44 Maintenance Manual and Instructions for Continued 
+ Airworthiness (RTR 460). Retirement times are listed in the ""AIRWORTHINESS LIMITATIONS"" section."
+NOTE 4,"R44 Rotorcraft Flight Manual Supplement 5 dated July 17, 1996, or later revision is required when float 
+ landing gear is installed."
+NOTE 5,"R44 Rotorcraft Flight Manual Supplement 10 dated June 10, 1999, or later revision is required when 
+ emergency (pop-out) floats are installed."
+NOTE 6,"R44 Rotorcraft Flight Manual with revisions through November 5, 1999, or later revision is required when 
+ hydraulically-boosted main rotor flight controls are installed."
+NOTE 7,Deleted as of April 29 2016.
+NOTE 8,"Deleted as of April 29, 2016."
+NOTE 9,"Deleted as of February 13, 2015."
+NOTE 10,"Robinson Helicopter Company was granted AT16516LA-R-S-1 Equivalent Level of Safety (ELOS) finding 
+ to CFR §27.695(a)(1), dated July 17, 2017. The FAA concluded that the control valve design provided 
+ equivalent level of safety to the requirement intended by the regulation. Exemption No. 6692, dated October 
+ 17, 1997, has been removed. This exemption allowed RHC to obtain certification of the design change 
+ without considering the jamming of a control valve in the powered flight control system as a possible single 
+ failure. There is no impact to R44 helicopters in service."
+NOTE 11,"To operate in U.S. airspace, the following helicopter serial numbers meet the crash resistant fuel system 
+ certification basis requirements per section 44737 of Title 49 U.S.C.: Model R44, S/N 2611 thru 9999, 
+ 30061, 30066 and subsequent; Model R44 II, S/N 14364, 14385, 14387 thru 29999."

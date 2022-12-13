@@ -1,0 +1,1522 @@
+Keyterm,Info
+"4A21 
+ Revision 8 
+ BOEING 
+ 707-100 Long Body 
+ 707-200 
+ 707-100B Long Body 
+ 707-100B Short Body 
+ May 1, 1973",
+Type Certificate Holder,"THE BOEING COMPANY 
+ P. O. Box 3707 
+ Seattle, Washington 98124"
+"I - Model 707-100 Long Body (Transport Aircraft), approved September 18, 1958 
+ The Model 707-100 Long Body has several different versions due to different installations of fuel tankage, 
+ baggage compartment, equipment, interiors, airplane flight manuals, etc. These versions are as follows: 
+ Version 
+ Serial Nos. Eligible 
+ 707124 
+ 17609 thru 17612 and 18012 
+ 707131 
+ 17658 thru 17672",
+Engines,4 Pratt and Whitney Turbo Wasp JT3C-6 Turbojet
+Fuel,"See NOTE 12 
+ Certification Limits 
+ 707-100 Long Body"
+Engine limits,"Takeoff static net thrust (standard day), 
+ lb., at sea level 
+ Dry (5 minutes) 
+ 11,200 
+ Water injection (2-1/2 minutes) 
+ *13,000 
+ * See NOTE 7(c) for optional engine rating 
+ Maximum continuous static thrust, 
+ (standard day), lb., at sea level) 
+ 10,000 
+ Maximum permissible engine rotors operating speeds: 
+ Low pressure compressor (N1), r.p.m. 
+ 7,000 (113%) 
+ High pressure compressor (N2), r.p.m.9,950 (99.7%) 
+ Maximum E.P.R. values shown in the Airplane 
+ Flight Manual shall not be exceeded 
+ Maximum permissible turbine outlet gas temperatures: 
+ Takeoff (5 minutes dry; 2-1/2 minutes wet) 
+ (630°C) 1166°F 
+ Maximum continuous 
+ (560°C) 1040°F 
+ Maximum for acceleration (2 minutes) 
+ (650°C) 1202°F 
+ Starting maximum gas temperature (Ground) 
+ (450°C) 842°F"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18"
+Rev No,"8 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ -"
+Reformatted 1293,"Maximum permissible air bleed extractions of total engine air flow: 
+ High pressure compressor 
+ From idle to maximum continuous 
+ 5.5% 
+ At takeoff 
+ 2.0% 
+ Low pressure compressor 
+ From idle to maximum continuous 
+ 1.0% 
+ At takeoff 
+ 2.2%"
+Airspeed limits IAS,"Case I is applicable to the 707-131 version. 
+ Case II and Case III are applicable to the 707-124 version. 
+ Case I covers normal operations up to a gross weight of 248,000 lb. 
+ Case II covers normal operations up to a gross weight of 258,000 lb. 
+ with a restriction in forward C.G. limit of 17% up to 250,000 lb. 
+ and a linear increase to 18% at 258,000 lb. 
+ Case III covers operations up to a gross weight of 258,000 lb. 
+ with restriction in airspeeds with the C.G. forward of the 
+ Case II limits. 
+ Speed limitations for Case I and II are identical. 
+ Case I and II Operations 
+ Vmo (maximum Operating) 
+ 390 m.p.h. at sea level 
+ (339 kt.) 
+ 398 m.p.h. at 5,000 ft. 
+ (345 kt.) 
+ 406 m.p.h. at 10,000 ft. 
+ (352 kt.) 
+ 415 m.p.h. at 15,000 ft. 
+ (360 kt.) 
+ 425 m.p.h. at 20,000 ft. 
+ (369 kt.) 
+ 434 m.p.h. at 24,900 ft. 
+ (377 kt.) 
+ Mmo = .884 at 24,900 ft. and above 
+ Va (Maneuvering) 
+ 286 m.p.h. at sea level 
+ (249 kt.) 
+ 292 m.p.h. at 20,000 ft. 
+ (254 kt.) 
+ 314 m.p.h. at 39,500 ft. 
+ (273 kt.) 
+ Ma = .884 at 39,500 ft. and above 
+ Vfe (Flap Speeds) (flaps not to be extended above 20,000 feet) 
+ Max. Flap 
+ Deflection (MPH) (KT.) 
+ 20° 
+ 251 
+ 218 
+ 30° 
+ 239 
+ 208 
+ 50° 
+ 211 
+ 183 
+ Vlo (Landing Gear Operation) 
+ 310 m.p.h. at sea level to 30,000 ft. 
+ (269 kt.) 
+ 324 m.p.h. at 30,000 ft. to 35,000 ft. 
+ (281 kt.) 
+ Mlo = .825 Mach at 35,000 ft. and above 
+ Vle (Landing Gear Extended) 
+ 367 m.p.h. to 29,300 ft. 
+ (319 kt.) 
+ Mle = .825 Mach at 29,300 ft and above 
+ Landing Light Extended 
+ 439 m.p.h. at sea level to 24,200 ft. 
+ (381 kt.) 
+ M = .884 at 24,200 ft. and above 
+ Maximum Dump Chute Extended and Extending Speed 
+ Extending speed 275 m.p.h. to 41,700 ft. 
+ (239 kt.) 
+ M = .825 above 41,700 ft. 
+ Extended speed 315 m.p.h. to 36,200 ft. 
+ (274 kt.) 
+ M - .825 at 36,200 ft. and above 
+ Vmc (Minimum Control Speed) - One engine inoperative 
+ For wet takeoff thrust 
+ 140 m.p.h. (122 kt.) sea level and standard day 
+ For dry takeoff thrust 
+ 128 m.p.h. (111 kt.) sea level and standard day 
+ Case III Operation 
+ Vmo (Maximum Operating) 
+ 390 m.p.h. at sea level to 30,000 ft. 
+ (339 kt.) 
+ to Mmo = .884 at 30,000 ft. and above 
+ Other airspeed limitations are the same as Case I and II."
+CG range and Datum,"The nose gear retraction moment is 18,600 in.-lb. and moves C.G. forward. 
+ The main gear retracts parallel to the Wing Reference Axis; hence, 
+ has no effect on airplane C.G. 
+ All stations noted in the Data Sheet are Body Stations unless 
+ identified specifically as moment arms. Dwg. 69-10819 defines Body Stations and 
+ moment arms. Datum is 50 in. forward of nose (moment arm = 0) for weight and 
+ balance purposes. Horizontal distance of datum to average wing jack point is 
+ 810.5 in. 
+ The weight and C.G. locations for Case I, II, and III operation are indicated in chart 
+ below: 
+ Case I 
+ Gross Weight 
+ Forward Limit 
+ Aft Limit 
+ 248,000 lb. 
+ 15.0% MAC (Sta. 822.5) 
+ 32.0% MAC (Sta. 863.6) 
+ 238,000 lb. 
+ 14.0% MAC (Sta. 820.1) 
+ 35.0% MAC (Sta. 870.9) 
+ 220,000 lb. 
+ 14.0% MAC (Sta. 820.1) 
+ 35.0% MAC (Sta. 870.9) 
+ 190,000 lb. 
+ 14.0% MAC (Sta. 820.1) 
+ 33.3% MAC (Sta. 866.8) 
+ 185,000 lb. 
+ 16.0% MAC (Sta. 824.9) 
+ 33.1% MAC (Sta. 866.3) 
+ 130,000 lb. 
+ 16.0% MAC (Sta. 824.9) 
+ 30.0% MAC (Sta. 858.8) 
+ Case II 
+ 258,000 lb. 
+ 18.0% MAC (Sta. 829.7) 
+ 25.0% MAC (Sta. 846.7) 
+ 250,000 lb. 
+ 17.0% MAC (Sta. 827.3) 
+ 30.6% MAC (Sta. 860.2) 
+ 248,000 lb. 
+ 17.0% MAC (Sta. 827.3) 
+ 32.0% MAC (Sta. 863.6) 
+ 238,000 lb. 
+ 17.0% MAC (Sta. 827.3) 
+ 35.0% MAC (Sta. 870.9) 
+ 220,000 lb. 
+ 17.0% MAC (Sta. 827.3) 
+ 35.0% MAC (Sta. 870.9) 
+ 130,000 lb. 
+ 17.0% MAC (Sta. 827.3) 
+ 30.0% MAC (Sta. 858.9) 
+ Case III 
+ 258,000 lb. 
+ 16.0% MAC (Sta. 824.9) 
+ 25.0% MAC (Sta. 846.7) 
+ 250,000 lb. 
+ 15.0% MAC (Sta. 822.5) 
+ 30.6% MAC (Sta. 860.2) 
+ 248,000 lb. 
+ 15.0% MAC (Sta. 822.5) 
+ 32.0% MAC (Sta. 863.6) 
+ 238,000 lb. 
+ 15.0% MAC (Sta. 822.5) 
+ 35.0% MAC (Sta. 870.9) 
+ 220,000 lb. 
+ 15.0% MAC (Sta. 822.5) 
+ 35.0% MAC (Sta. 870.9) 
+ 190,000 lb. 
+ 15.0% MAC (Sta. 822.5) 
+ 33.3% MAC (Sta. 866.8) 
+ 185,000 lb. 
+ 17.0% MAC (Sta. 827.3) 
+ 33.1% MAC (Sta. 866.3) 
+ 130,000 lb. 
+ 17.0% MAC (Sta. 827.3) 
+ 30.0% MAC (Sta. 858.8) 
+ (1) 
+ Straight line variation between values. 
+ (2) 
+ The aft C.G. limitation shown in the above table for gross weights below 
+ 220,000 lb. applies to takeoff conditions only. For airborne or landing conditions 
+ below 220,000 lb., the aft C.G. limitation is 35.0% MAC (BS 870.9)."
+Maximum weights,"707-131 
+ 707-124 
+ (See NOTE 14) 
+ (See NOTE 8) 
+ (lb.) 
+ (lb.) 
+ Maximum ramp weight 
+ 248,000 
+ 258,000 
+ Maximum flight weight, flaps 30° 
+ 246,000 
+ 256,000 
+ Maximum flight weight, flaps up 
+ 243,000 
+ 253,000 
+ Maximum flight weight at which 
+ the outboard auxiliary fuel 
+ tanks can be empty 
+ 233,000 
+ 233,000 
+ Maximum landing weight 
+ 190,000 
+ 190,000 
+ Maximum zero fuel weight 
+ 170,000 
+ 170,000"
+Maximum baggage,"707-124, -131 
+ Maximum 
+ Maximum 
+ Body 
+ Load 
+ Concentration 
+ Capacity 
+ Moment 
+ Compt. Station (lb./sq.ft.) (lb./sq.ft.) (lb.) Arm 
+ Fwd. Belly 
+ 400-600H+6 
+ 47 
+ 150 
+ 9000 
+ + 453 
+ Aft Belly 
+ 960-1060 
+ 50 
+ 150 
+ 7000* 
+ +1030 
+ Aft Belly 
+ 1060-1200 
+ 35 
+ 150 
+ 4900* 
+ +1170 
+ Aft Belly 1200-1300 20 150 2000* +1290 
+ *Total aft compartment capacity should not exceed the following: 
+ Version 
+ Capacity, lb. 
+ 707-124 
+ 13,900 
+ 707-131 
+ 10,800"
+Fuel capacity,"See NOTE 1(c) for information relative to unusable fuel; NOTE 1(d) for required fuel usage 
+ procedure; NOTE 1(e) for undumpable fuel. 
+ The following data are given for full fuel tanks. See Boeing Documents indicted below for 
+ other fuel and water C.G. locations with partially filled tanks: 
+ Version 
+ Document 
+ 707-124 
+ D6-1854 
+ 707-131 
+ D6-1853 
+ Nominal Capacity 
+ Max. Capacity 
+ (Usable fuel in tank) 
+ (lb. per 
+ Moment 
+ Tanks (U.S. Gal. per Tank) Tank) Arm 
+ 707-124 (Serial Nos. 17609 thru 17612 only) 
+ No. 1 & No. 4 Reserve 
+ 434 
+ 2,995 
+ 1082.6 
+ No. 1 & No. 4 Main 
+ 2,333 
+ 16,098 
+ 916.2 
+ No. 2 & No. 3 Main 
+ 2,283 
+ 15,753 
+ 791.6 
+ Center 
+ 3,386 
+ 23,363 
+ 740.0 
+ Total 13,486 93,055 
+ 707-131 
+ No. 1 & No. 4 Reserve 
+ 434 
+ 2,995 
+ 1082.6 
+ No. 1 & No. 4 Main 
+ 2,333 
+ 16,098 
+ 916.6 
+ No. 2 & No. 3 Main 
+ 2,283 
+ 15,753 
+ 791.2 
+ Center 
+ 5,356 
+ 36,956 
+ 744.6 
+ Total 15,456 106,648 
+ 707-124 (Serial No. 18012 only) 
+ No. 1 & No. 4 Reserve 
+ 434 
+ 2,995 
+ 1082.6 
+ No. 1 & No. 4 Main 
+ 2,333 
+ 16,098 
+ 916.6 
+ No. 2 & No. 3 Main 
+ 2,283 
+ 15,753 
+ 791.2 
+ Center 
+ 7,306 
+ 50,411 
+ 734.7 
+ Total 17,406 120,103"
+Oil tank capacity,"Engine Oil 
+ Volume 
+ Moment 
+ Tank No. Location Capacity Arm 
+ 1 
+ Outboard 
+ 6.5 gal. 
+ 869 
+ Port 
+ 2 
+ Inboard 
+ 6.5 gal. 
+ 686 
+ Port 
+ 3 
+ Inboard 
+ 6.1 gal. 
+ 686 
+ Starboard 
+ 4 
+ Outboard 
+ 6.1 gal. 
+ 869 
+ Starboard 
+ The system oil capacities are given in Weight and Balance Control 
+ Manuals as noted 
+ under ""Fuel Capacity""."
+Water Capacity,"Total Usable Moment Arm 
+ (709 gal.) (5913 lb.) 
+ *(709 gal.) (5913 lb.) 
+ 925.7 
+ * 22.8 gal. is unusable but drainable; therefore, it will not be included in the 
+ airplane empty weight."
+"II - Model 707-200 (Transport Aircraft), approved November 5, 1959 
+ (Same as Model 707-100 Long Body except for engines and associated changes and limitations) 
+ Version 
+ Serial Nos. Eligible 
+ 707227 
+ 17691 thru 17695",
+Engines,"4 Pratt and Whitney Turbo Wasp JT4A-3/5 or JT4A-9/10 Turbojet 
+ (See NOTE 5 for interchangeability of engines) 
+ (Operation of the Pratt and Whitney JT4A-9/-10 Engines must be at JT4A-3/-5 Engine 
+ Thrust Settings and Ratings, with the exception stated in NOTE 13.) 
+ JT4A-3/5 
+ JT4A-9/10"
+Engine limits,"Takeoff static net thrust 
+ 15,800 
+ 16,800 
+ (standard day), lb., at sea level, 
+ Dry (5 minutes) 
+ Maximum continuous static thrust, 
+ (standard day), lb., at sea level) 
+ 12,500 
+ 13,500 
+ Maximum permissible engine rotors 
+ operating speeds: 
+ Low pressure compressor (N1), r.p.m. 
+ 6,950 
+ 7,060 
+ High pressure compressor (N2), r.p.m. 
+ 9,050 
+ 9,135 
+ Maximum E.P.R. values shown in the Airplane 
+ Flight Manual shall not be exceeded 
+ Maximum permissible turbine outlet 
+ gas temperatures: 
+ Takeoff (5 min.) 
+ (607°C) 1125°F 
+ (635°C) 1175°F 
+ Maximum continuous 
+ (500°C) 932°F 
+ (516°C) 960°F 
+ Maximum for acceleration (2 min.) 
+ (607°C) 1125°F 
+ (635°C) 1175°F 
+ Starting maximum gas temperature 
+ Ground 
+ (450°C) 842°F 
+ (450°C) 842°F 
+ In flight 
+ (475°C) 887°F 
+ (475°C) 887°F 
+ Maximum permissible air bleed extractions of total 
+ engine air flow: 
+ High pressure compressor 
+ At takeoff 
+ 1.5% 
+ 1.5% 
+ All other running 
+ 5.5% 
+ 5.5% 
+ Low pressure compressor 
+ At takeoff 
+ 1.6% 
+ 1.65% 
+ All other running 
+ 2.0% 
+ 2.0% 
+ For 3-engine takeoff, N1 bleed 1.9%, N2 bleed 2.2%"
+Airspeed limits IAS,"Vmo (Maximum Operating Speed) 
+ 390 m.p.h. at sea level 
+ (339 kt.) 
+ 398 m.p.h. at 5,000 ft. 
+ (345 kt.) 
+ 406 m.p.h. at 10,000 ft. 
+ (352 kt.) 
+ 415 m.p.h. at 15,000 ft. 
+ (360 kt.) 
+ 425 m.p.h. at 20,000 ft. 
+ (369 kt.) 
+ 434 m.p.h. at 24,900 ft. 
+ (377 kt.) 
+ Mmo = .884 at 24,900 ft. and above 
+ Va (Maneuvering) 
+ 286 m.p.h. at sea level 
+ (249 kt.) 
+ 292 m.p.h. at 20,000 ft. 
+ (254 kt.) 
+ 314 m.p.h. at 39,500 ft. 
+ (273 kt.) 
+ Ma = .884 at 39,500 ft. and above 
+ Vfe (Flap Speeds) (flaps not to be extended above 20,000 feet) 
+ Max. Flap 
+ Deflection (MPH) (KT.) 
+ 20° 
+ 251 
+ 218 
+ 30° 
+ 240 
+ 208 
+ 50° 
+ 211 
+ 183 
+ Vlo (Landing Gear Operation) 
+ 310 m.p.h. at sea level to 30,000 ft. 
+ (269 kt.) 
+ 324 m.p.h. at 30,000 ft. to 35,000 ft. 
+ (281 kt.) 
+ Mlo = .825 Mach at 35,000 ft. and above 
+ Vle (Landing Gear Extended) 
+ 367 m.p.h. to 29,300 ft. 
+ (319 kt.) 
+ Mle = .825 Mach at 29,300 ft. and above 
+ Landing Light Extended 
+ 439 m.p.h. at sea level to 24,200 ft. 
+ (381 kt.) 
+ M = .884 at 24,200 ft. and above 
+ Maximum Dump Chute Extended and Extending Speed 
+ Extending speed 275 m.p.h. to 41,700 ft. 
+ (239 kt.) 
+ M = .825 above 41,700 ft. 
+ Extended speed 315 m.p.h. to 36,200 ft. 
+ (274 kt.) 
+ M - .825 at 36,200 ft. and above 
+ Vmc (Minimum Control Speed) - One engine inoperative 
+ For takeoff thrust 
+ 126 m.p.h. (109 kt.) sea level and standard day"
+CG range and Datum,"The nose gear retraction moment is 18,600 in.-lb. and moves C.G. forward. 
+ The main gear retracts parallel to the Wing Reference Axis; hence, 
+ has no effect on airplane C.G. 
+ All stations noted in the Data Sheet are Body Stations unless identified 
+ specifically as moment arms. Dwg. 69-10819 defines Body Stations and 
+ moment arms. Datum is 50 in. forward of nose (moment arm = 0) for weight 
+ and balance purposes. Horizontal distance of datum to average wing jack 
+ point is 810.5 in. 
+ The weight and C.G. locations are indicated in chart below:"
+Gross Weight,"Forward Limit 
+ Aft Limit"
+258000 lb,"16.0% MAC (Sta. 824.9) 
+ 18.0% MAC (Sta. 829.7) 
+ 25.0% MAC (Sta. 847.7)"
+250000 lb,"15.0% MAC (Sta. 822.5) 
+ 17.0% MAC (Sta. 827.3) 
+ 32.0% MAC (Sta. 863.6)"
+248000 lb,"15.0% MAC (Sta. 822.5) 
+ 17.0% MAC (Sta. 827.3) 
+ 35.0% MAC (Sta. 870.9)"
+235000 lb,"15.0% MAC (Sta. 822.5) 
+ 17.0% MAC (Sta. 827.3) 
+ 35.0% MAC (Sta. 870.9)"
+195000 lb,"15.0% MAC (Sta. 822.5) 
+ 17.0% MAC (Sta. 827.3) 
+ 32.7% MAC (Sta. 865.3)"
+190000 lb,"17.0% MAC (Sta. 827.3) 
+ 17.0% MAC (Sta. 827.3) 
+ 32.4% MAC (Sta. 864.7)"
+130000 lb,"17.0% MAC (Sta. 827.3) 
+ 17.0% MAC (Sta. 827.3) 
+ 29.0% MAC (Sta. 857.6) 
+ (1) 
+ Straight line variation between values. 
+ (2) 
+ The aft C.G. limitation shown in the above table for gross weights 
+ below 235,000 lb. applies to takeoff conditions only. For airborne 
+ or landing conditions below 235,000 lb., the aft C.G. limitation is 
+ 35.0% MAC (BS 870.9). 
+ (3) 
+ A restricted speed zone exists between the forward limits listed above. 
+ Aircraft loaded to initial gross weights greater than 248,000 pounds must 
+ observe reduced Vmo of 339 knots IAS when operating in this zone."
+Maximum weights,"707-227 
+ Maximum ramp weight 
+ 258,000 lb. (See NOTE 8) 
+ Maximum flight weight, flaps 30° 
+ 257,000 lb. 
+ Maximum flight weight, flaps up 
+ 256,500 lb. 
+ Maximum flight weight at which 
+ the outboard auxiliary fuel 
+ tanks can be empty 
+ 233,000 
+ Maximum landing weight 
+ 190,000 
+ Maximum zero fuel weight 
+ 170,000"
+Maximum baggage,"707-227, 
+ Maximum 
+ Maximum 
+ Body 
+ Load 
+ Concentration 
+ Capacity 
+ Moment 
+ Compt. Station (lb./in.) (lb./sq.ft.) (lb.) Arm 
+ Fwd. Belly 400-600H+6 
+ 47 
+ 150 
+ 9000 
+ + 453 
+ Aft Belly 
+ 960-1060 
+ 50 
+ 150 
+ 7000 
+ +1030 
+ Aft Belly 
+ 1060-1200 
+ 35 
+ 150 
+ 4900 
+ +1170 
+ Aft Belly 1200-1300 20 150 2000 +1290"
+Fuel capacity,"See NOTE 1(c) for information relative to unusable fuel; NOTE 1(d) for required fuel 
+ usage procedure; NOTE 1(e) for undumpable fuel. 
+ The following data are given for full fuel tanks. See Boeing Documents D6-3352 for 
+ other fuel and water C.G. locations with partially filled tanks: 
+ Nominal Capacity 
+ Max. Capacity 
+ (Usable fuel in tank) 
+ (lb. per 
+ Moment 
+ Tanks (U.S. Gal. per Tank) Tank) Arm 
+ No. 1 & No. 4 Reserve 
+ 434 
+ 2,995 
+ 1082.6 
+ No. 1 & No. 4 Main 
+ 2,333 
+ 16,098 
+ 916.6 
+ No. 2 & No. 3 Main 
+ 2,283 
+ 15,753 
+ 791.2 
+ Center 
+ 7,306 
+ 50,411 
+ 744.6 
+ Total 17,406 120,103"
+Oil tank capacity,"The system oil capacities are given in Weight and Balance Control 
+ Manual D6-3352. 
+ Engine Oil 
+ Volume 
+ Moment 
+ Tank No. 
+ Location 
+ Capacity 
+ Arm 
+ 1 
+ Outboard 
+ 8.33 gal. 
+ 868.5 
+ Port 
+ 2 
+ Inboard 
+ 8.33 gal. 
+ 685.8 
+ Port 
+ 3 
+ Starboard 
+ 8.34 gal. 
+ 685.8 
+ Port 
+ 4 
+ Outboard 
+ 8.34 gal. 
+ 868.5 
+ Port"
+"III - Model 707-100B Long Body (Transport Aircraft), approved March 1, 1961 
+ (Same as Model 707-100 Long Body except for engines, wing changes and other associated changes and limitations) 
+ Version 
+ Serial Nos. Eligible 
+ 707121B 
+ 17586; 17587; and 17589 thru 17591 
+ 707123B 
+ 17628; 17630 thru 17640; 17642 thru 17652; and 19185 thru 19188; 
+ 18882 thru 18885; 18054; 19323 thru 19341. 
+ 707131B 
+ 18385 thru 18397; 18400 thru 18404; 18758 thru 18762; 18986 thru 
+ 18989; 19215 thru 19223; 19436, 19568 and 19569. 
+ 707139B 
+ 17903 
+ 707153B 
+ 17925 thru 17927",
+Engines,"4 Pratt and Whitney Turbo Wasp JT3D-1, JT3D-1MC6, JT3D-3, JT3D-3B, 
+ or JT3D-1MC7, Turbofan (See also NOTE 10)"
+Fuel,"See NOTE 12 
+ Certification Limits 
+ 707-121B, -131B,"
+Engine limits,"707-123B 
+ -139B, & -153B 
+ Takeoff static net thrust (standard day), 
+ lb., at sea level Dry (5 minutes) 
+ 17,000 
+ 18,000 
+ Maximum continuous static thrust 
+ (standard day), lb., at sea level 
+ 14,500 
+ 16,400 
+ Maximum permissible engine rotors operating speeds: 
+ Low pressure compressor (N1), r.p.m. 
+ 6,800 
+ 6,800 
+ High pressure compressor (N2), r.p.m. 
+ 10,200 
+ 10,250 
+ Maximum E.P.R. values shown in the Airplane 
+ Flight Manual shall not be exceeded 
+ Maximum permissible turbine outlet gas temps: 
+ Takeoff (5 minutes) 
+ (530°C) 985°F 
+ (555°C) 1031°F) 
+ Maximum continuous 
+ (460°C) 860°F 
+ (490°C) 914°F) 
+ Maximum for acceleration (2 minutes) 
+ (530°C) 985°F 
+ (555°C) 1031°F) 
+ Starting 
+ (450°C) 842°F 
+ (450°C) 842°F) 
+ Maximum permissible air bleed extractions of total 
+ engine air flow: 
+ High pressure compressor 
+ From idle to maximum continuous 
+ 5.5% 
+ 5.5% 
+ At takeoff 
+ 2.0% 
+ 2.0% 
+ Low pressure compressor 
+ From idle to maximum continuous 
+ 2.0% 
+ 2.0% 
+ At takeoff 
+ 2.2% 
+ 2.2%"
+Airspeed limits IAS,"Vmo (maximum Operating) 
+ 436 m.p.h. at sea level 
+ (379 kt.) 
+ (379 kt.) 
+ 441 m.p.h. at 10,000 ft. 
+ (384 kt.) 
+ 454 m.p.h. at 20,000 ft. 
+ (395 kt.) 
+ 459 m.p.h. at 23,000 ft. 
+ (399 kt.) 
+ Mmo = .90 at 23,000 ft. and above 
+ Va (Maneuvering) 
+ 290 m.p.h. at sea level 
+ (252 kt.) 
+ 290 m.p.h. at 5,000 ft 
+ (252 kt.) 
+ 292 m.p.h. at 10,000 ft. 
+ (253 kt.) 
+ 294 m.p.h. at 15,000 ft. 
+ (255 kt.) 
+ 296 m.p.h. at 20,000 ft. 
+ (257 kt.) 
+ 300 m.p.h. at 25,000 ft. 
+ (261 kt.) 
+ 307 m.p.h. at 30,000 ft. 
+ (267 kt.) 
+ 314 m.p.h. at 35,000 ft. 
+ (273 kt.) 
+ 321 m.p.h. at 39,600 ft. 
+ (279 kt.) 
+ Ma = .90 at 39,600 ft. and above 
+ Vfe (Flaps speeds) 
+ Max. Flap 
+ Deflection (MPH) (KT.) 
+ 20° 
+ 253 
+ 220 
+ 30° 
+ 242 
+ 210 
+ 50° 
+ 213 
+ 185 
+ Vlo (Landing Gear Operation) 
+ Sea Level to 30,000 ft. 
+ (311 m.p.h.) 
+ (270 kt.) 
+ 30,000 ft. to 35,800 ft. 
+ (322 m.p.h.) 
+ (280 kt.) 
+ Mlo = .83 Mach at 35,800 ft. and above 
+ Vle (Landing Gear Extended) 
+ Sea Level to 30,000 ft. 
+ (320 kt.) 
+ Mle = .83 at 30,000 ft. and above 
+ Dump Chute Operation 
+ 276 m.p.h. at Sea Level to 42,000 ft. 
+ (240 kt.) 
+ Dump Chute Extended 
+ 317 m.p.h. at Sea Level to 36,700 ft. 
+ (275 kt.) 
+ M = .83 at 36,700 ft. and above 
+ Vmc (Minimum Control Speed) 
+ Minimum control speed (Air) Vmca 
+ 125.3 m.p.h. 
+ (109 kt.) 
+ Maximum takeoff thrust 
+ Minimum control speed (Ground) Vmcg 
+ 119 m.p.h. 
+ (103.5 kt.)"
+CG range and Datum,"The nose gear retraction moment is 18,600 in.-lb. and moves C.G. forward. 
+ The main gear retracts parallel to the Wing Reference Axis; hence, 
+ has no effect on airplane C.G. 
+ All stations noted in the Data Sheet are Body Stations unless identified 
+ specifically as moment arms. For weight and balance purposes, datum is 50 in. 
+ forward of nose (moment arm - 0) Horizontal distance of datum to average 
+ wing jack point is 810.5 in. 
+ TAKEOFF 
+ Gross Weight 
+ Forward Limit 
+ Aft Limit 
+ 258,000 lb. 
+ 15.0% MAC (Sta. 822.3) 
+ 25.0% MAC (Sta. 846.7) 
+ 249,400 lb. 
+ 14.1% MAC (Sta. 820.3) 
+ 31.0% MAC (Sta. 861.2) 
+ 238,000 lb. 
+ 13.0% MAC (Sta. 817.6) 
+ 31.0% MAC (Sta. 861.2) 
+ 195,000 lb. 
+ 13.0% MAC (Sta. 817.6) 
+ 31.0% MAC (Sta. 861.2) 
+ 190,000 lb. 
+ 14.0% MAC (Sta. 820.1) 
+ 31.0% MAC (Sta. 861.2) 
+ 179,000 lb. 
+ 14.0% MAC (Sta. 820.1) 
+ 31.0% MAC (Sta. 861.2) 
+ 175,000 lb. 
+ 14.0% MAC (Sta. 820.1) 
+ 30.7% MAC (Sta. 860.5) 
+ 135,000 lb. 
+ 14.0% MAC (Sta. 820.1) 
+ 28.0% MAC (Sta. 853.9) 
+ FLIGHT 
+ 258,000 lb. 
+ 15.0% MAC (Sta. 822.3) 
+ 25.0% MAC (Sta. 846.7) 
+ 249,000 lb. 
+ 13.7% MAC (Sta. 819.3) 
+ 31.0% MAC (Sta. 861.2) 
+ 238,000 lb. 
+ 12.0% MAC (Sta. 815.2) 
+ 31.0% MAC (Sta. 861.2) 
+ 200,000 lb. 
+ 12.0% MAC (Sta. 815.2) 
+ 31.0% MAC (Sta. 861.2) 
+ 190,000 lb. 
+ 14.0% MAC (Sta. 820.1) 
+ 31.0% MAC (Sta. 861.2) 
+ 175,000 lb. 
+ 14.0% MAC (Sta. 820.1) 
+ 31.0% MAC (Sta. 861.2) 
+ LANDING 
+ 190,000 lb. 
+ 16.0% MAC (Sta. 824.5) 
+ 35.0% MAC (Sta. 870.9) 
+ 185,000 lb. 
+ 15.0% MAC (Sta. 822.3) 
+ 35.0% MAC (Sta. 870.9) 
+ 175,000 lb. 
+ 14.0% MAC (Sta. 820.1) 
+ 35.0% MAC (Sta. 870.9) 
+ Straight line variation between values."
+Maximum weights,"(See NOTE 8) 
+ Maximum ramp weight 
+ 258,000 lb. 
+ Maximum flight weight 
+ 258,000 lb. 
+ Maximum flight weight at start of 
+ outboard reserve fuel transfer 
+ 248,000 lb. 
+ Maximum flight weight at which 
+ the outboard reserve tanks 
+ can be empty 
+ 243,000 lb. 
+ Maximum landing weight 
+ 190,000 lb. 
+ Maximum zero fuel weight 
+ 170,000 lb. 
+ Maximum effective structural design 
+ zero fuel weight 
+ 185,000 lb."
+Maximum baggage,"Maximum 
+ Maximum 
+ Body 
+ Load 
+ Concentration 
+ Capacity 
+ Moment 
+ Compt. Station (lb./in.) (lb./sq.ft.) (lb.) Arm 
+ Fwd. Belly 
+ 400-600H+6 
+ 47 
+ 150 
+ 9000* 
+ 453 
+ Aft Belly 
+ 960-1060 
+ 50 
+ 150 
+ 7000 
+ 1030 
+ Aft Belly 
+ 1060-1200 
+ 35 
+ 150 
+ 4900 
+ 1170 
+ Aft Belly 1200-1300 20 150 2000 1290 
+ *Fwd. cargo compartment weight limitation is 5000 lb. when ballast is installed 
+ on Bulkhead Station 178. (See NOTE 11)"
+Fuel capacity,"(See NOTE 1(c) for information relative to unusable fuel; NOTE 1(d) for required 
+ fuel usage procedure; NOTE 1(e) for undumpable fuel.) 
+ Maximum fuel capacity in pounds listed below must not be exceeded. See 
+ Boeing Documents below for other fuel and C.G. locations with partially filled tanks. 
+ 707-121B 
+ D6-2884 
+ 707-131B 
+ D6-1853 
+ 707-153B 
+ D6-3022 
+ 707-123B 
+ D6-1840 
+ 707-139B 
+ D6-5345 
+ Nominal Capacity 
+ Max. Capacity 
+ (Usable fuel in tank) 
+ (lb. per 
+ Moment 
+ Tanks (U.S. Gal. per Tank) Tank) Arm 
+ Overwing 
+ Underwing 
+ Fueling 
+ Fueling 
+ No. 1 & No. 4 Reserve 
+ 434 
+ 434 
+ 3,081 
+ 1082.6 
+ No. 1 & No. 4 Main 
+ 2,326 
+ 2,326 
+ 16,592 
+ 914.3 
+ No. 2 & No. 3 Main 
+ 2,228 
+ 2,228 
+ 16,152 
+ 791.6 
+ Center 
+ 5,432 
+ 5,451 
+ 51,874 
+ 744.2 
+ Total 15,408 15,427 123,524"
+Oil tank capacity,"The system oil capacities are given in Weight and Balance Control Manual D6-1840. 
+ Engine Oil 
+ Volume 
+ Moment 
+ Tank No. Location Capacity Arm 
+ 1 
+ Outboard 
+ 6.0 gal. 
+ 866.9 
+ Port 
+ 2 
+ Inboard 
+ 6.0 gal. 
+ 684.1 
+ Port 
+ 3 
+ Inboard 
+ 6.1 gal. 
+ 684.1 
+ Starboard 
+ 4 
+ Outboard 
+ 6.1 gal. 
+ 866.9 
+ Starboard"
+"IV - Model 707-100B Short Body (Transport Aircraft), approved July 24, 1961 
+ (Same as Model 707-100 Short Body except for engines, wing changes and other associated 
+ changes and limitations 
+ Version 
+ Serial Nos. Eligible 
+ 707138B 
+ 17696 thru 17702, 18067 thru 18069, 18334, 18739, and 18740",
+Engines,"4 Pratt and Whitney Turbo Wasp JT3D-1, JT3D-1MC6, or JT3D-1MC7, 
+ Turbofan (See also NOTE 10)"
+Fuel,See NOTE 12
+Engine limits,"Same as noted in Section III, Model 707-100B Long Body, except that 
+ 707-100B Short Body is approved for water augmentation; hence, the following 
+ static net thrust is valid: 
+ Certification Limits 
+ 707-138B 
+ Takeoff static net thrust (standard day), 
+ lb., at sea level wet (2 1/2 minutes) 
+ 17,000"
+Airspeed limits IAS,"Vmo (maximum Operating) (Basic) 
+ 434 m.p.h. at sea level 
+ (378 kt.) 
+ 443 m.p.h. at 10,000 ft. 
+ (384 kt.) 
+ 454 m.p.h. at 20,000 ft. 
+ (395 kt.) 
+ 459 m.p.h. at 25,300 ft. 
+ (399 kt.) 
+ Mmo = .91 at 23,500 ft. and above 
+ Va (Maneuvering) 
+ 290 m.p.h. at sea level 
+ (252 kt.) 
+ 292 m.p.h. at 5,000 ft 
+ (253 kt.) 
+ 293 m.p.h. at 10,000 ft. 
+ (255 kt.) 
+ 295 m.p.h. at 15,000 ft. 
+ (256 kt.) 
+ 296 m.p.h. at 20,000 ft. 
+ (256 kt.) 
+ 302 m.p.h. at 25,000 ft. 
+ (263 kt.) 
+ 308 m.p.h. at 30,000 ft. 
+ (268 kt.) 
+ 314 m.p.h. at 35,000 ft. 
+ (273 kt.) 
+ 320 m.p.h. at 39,600 ft. 
+ (278 kt.) 
+ Ma = .91 at 39,600 ft. and above 
+ Vfe (Flaps Speeds) 
+ Max. Flap 
+ Deflection (MPH) (KT.) 
+ 20° 
+ 253 
+ 220 
+ 30° 
+ 242 
+ 210 
+ 50° 
+ 213 
+ 185 
+ Vlo (Landing Gear Operation) 
+ 311 m.p.h. at sea level to 30,000 ft. 
+ (270 kt.) 
+ 322 m.p.h. at 30,000 ft. to 35,800 ft. 
+ (280 kt.) 
+ Mlo = .83 Mach at 35,800 ft. and above 
+ Vle (Landing Gear Extended) 
+ 368 m.p.h. at sea level to 29,000 ft. 
+ (320 kt.) 
+ Mle = .83 at 29,000 ft. and above 
+ Dump Chute Operation 
+ 276 m.p.h. at Sea Level to 42,000 ft. 
+ (240 kt.) 
+ Dump Chute Extended 
+ 317 m.p.h. at Sea Level to 36,700 ft. 
+ (275 kt.) 
+ M = .83 at 36,700 ft. and above 
+ Vmc (Minimum Control Speed) 
+ Minimum control speed (Air) Vmca 135 m.p.h. 
+ (117 kt.) 
+ Maximum takeoff thrust 
+ Minimum control speed (Ground) Vmcg 129 m.p.h. 
+ (112 kt.)"
+CG range and Datum,"The nose gear retraction moment is 18,600 in.-lb. and moves C.G. forward. 
+ The main gear retracts parallel to the wing reference axis; hence, has no 
+ effect on airplane C.G. 
+ All stations noted in the Data Sheet are Body Stations unless identified 
+ specifically as moment arms. For weight and balance purposes, datum is 
+ 110 in. forward of nose (moment arm = 0) Horizontal distance of datum to 
+ average wing jack point is 810.5 in. 
+ Gross Weight 
+ Forward Limit 
+ Aft Limit 
+ TAKEOFF 
+ 258,000 lb. 
+ 15.5% MAC (Sta. 823.7) 
+ 25.0% MAC (Sta. 846.7) 
+ 248,400 lb. 
+ 14.4% MAC (Sta. 821.1) 
+ 32.0% MAC (Sta. 863.7) 
+ 244,650 lb. 
+ 14.0% MAC (Sta. 820.1) 
+ 33.0% MAC (Sta. 866.0) 
+ 235,850 lb. 
+ 13.0% MAC (Sta. 817.6) 
+ 33.0% MAC (Sta. 866.0) 
+ 214,000 lb. 
+ 13.0% MAC (Sta. 817.6) 
+ 33.0% MAC (Sta. 866.0) 
+ 210,000 lb. 
+ 13.0% MAC (Sta. 817.6) 
+ 32.8% MAC (Sta. 865.6) 
+ Gross Weight 
+ Forward Limit 
+ Aft Limit 
+ TAKEOFF 
+ 205,000 lb. 
+ 13.0% MAC (Sta. 817.6) 
+ 32.6% MAC (Sta. 865.1) 
+ 200,000 lb. 
+ 13.0% MAC (Sta. 817.6) 
+ 32.4% MAC (Sta. 864.6) 
+ 195,000 lb. 
+ 13.0% MAC (Sta. 817.6) 
+ 32.2% MAC (Sta. 864.1) 
+ 190,000 lb. 
+ 13.0% MAC (Sta. 817.6) 
+ 32.0% MAC (Sta. 863.7) 
+ 185,000 lb. 
+ 13.0% MAC (Sta. 817.6) 
+ 31.8% MAC (Sta. 863.1) 
+ 176,000 lb. 
+ 13.0% MAC (Sta. 817.6) 
+ 31.4% MAC (Sta. 862.1) 
+ 170,000 lb. 
+ 15.0% MAC (Sta. 822.5) 
+ 31.1% MAC (Sta. 861.4) 
+ 155,000 lb. 
+ 15.0% MAC (Sta. 822.5) 
+ 30.2% MAC (Sta. 859.2) 
+ 135,000 lb. 
+ 15.0% MAC (Sta. 822.5) 
+ 28.8% MAC (Sta. 855.9) 
+ FLIGHT 
+ 258,000 lb. 
+ 15.5% MAC (Sta. 823.7) 
+ 25.0% MAC (Sta. 846.7) 
+ 248,000 lb. 
+ 14.4% MAC (Sta. 821.1) 
+ 32.0% MAC (Sta. 863.7) 
+ 244,650 lb. 
+ 14.0% MAC (Sta. 820.1) 
+ 33.0% MAC (Sta. 866.0) 
+ 227,000 lb. 
+ 12.0% MAC (Sta. 815.2) 
+ 33.0% MAC (Sta. 866.0) 
+ 179,000 lb. 
+ 12.0% MAC (Sta. 815.2) 
+ 33.0% MAC (Sta. 866.0) 
+ 170,000 lb. 
+ 15.0% MAC (Sta. 822.5) 
+ 33.0% MAC (Sta. 866.0) 
+ 155,000 lb. 
+ 15.0% MAC (Sta. 822.5) 
+ 33.0% MAC (Sta. 866.0) 
+ LANDING 
+ 190,000 lb. 
+ 18.3% MAC (Sta. 830.5) 
+ 33.0% MAC (Sta. 866.0) 
+ 185,000 lb. 
+ 17.5% MAC (Sta. 828.5) 
+ 33.0% MAC (Sta. 866.0) 
+ 170,000 lb. 
+ 15.0% MAC (Sta. 822.5) 
+ 33.0% MAC (Sta. 866.0) 
+ Straight line variation between values shown."
+Maximum weights,"(See NOTE 8) 
+ 707-138B 
+ Maximum ramp weight 
+ 258,000 lb. 
+ Maximum flight weight 
+ 258,000 lb. 
+ Maximum flight weight at start of 
+ outboard reserve fuel transfer 
+ 248,000 lb. 
+ Maximum flight weight at which 
+ the outboard reserve tanks 
+ can be empty 
+ 243,000 lb. 
+ Maximum landing weight 
+ 190,000 lb. 
+ Maximum zero fuel weight 
+ 170,000 lb. 
+ Maximum effective structural design 
+ zero fuel weight 
+ 185,000 lb."
+Maximum baggage,"Maximum 
+ Maximum 
+ Body 
+ Load 
+ Concentration 
+ Capacity 
+ Moment 
+ Compt. Station (lb./in.) (lb./sq.ft.) (lb.) Arm 
+ Fwd. Belly 
+ 400-600H+6 
+ 47 
+ 150 
+ 9650 
+ 483 
+ Aft Belly 
+ 960-1060 
+ 50 
+ 150 
+ 3000 
+ 990 
+ Aft Belly 
+ 1060-1200 
+ 35 
+ 150 
+ 4900 
+ 1110 
+ Aft Belly 1200-1300 20 150 2000 1230"
+Fuel capacity,"(See NOTE 1(c) for information relative to unusable fuel; NOTE 1(d) for required 
+ fuel usage procedure; NOTE 1(e) for undumpable fuel.) 
+ The maximum fuel capacity in pounds listed below must not be exceeded. For other fuel 
+ C.G. locations with partially filled tanks, see Boeing Manual D6-3021. 
+ Nominal Capacity 
+ Max. Capacity 
+ (Usable fuel in tank) 
+ (lb. per 
+ Moment 
+ Tanks (U.S. Gal. per Tank) Tank) Arm 
+ Overwing 
+ Underwing 
+ Fueling 
+ Fueling 
+ No. 1 & No. 4 Reserve 
+ 437 
+ 437 
+ 3,081 
+ 1082.6 
+ No. 1 & No. 4 Main 
+ 2320 
+ 2320 
+ 16,592 
+ 913.2 
+ No. 2 & No. 3 Main 
+ 2242 
+ 2242 
+ 16,152 
+ 791.6 
+ Center (Six Cell) 
+ 7370 
+ 7342 
+ 51,874 
+ 734.4 
+ Total 17,362 17,334 123,524"
+Oil tank capacity,"The system oil capacities are given in Weight and Balance Control Manual D6-3021. 
+ Engine Oil 
+ Volume 
+ Moment 
+ Tank No. Location Capacity Arm 
+ 1 
+ Outboard 
+ 6.0 gal. 
+ 866.9 
+ Port 
+ 2 
+ Inboard 
+ 6.0 gal. 
+ 684.1 
+ Port 
+ 3 
+ Inboard 
+ 6.1 gal. 
+ 684.1 
+ Starboard 
+ 4 
+ Outboard 
+ 6.1 gal. 
+ 866.9 
+ Starboard"
+Data Pertinent to All Models,
+MAC,241.9 in. (L.E. of MAC is Body Station 786.2)
+Leveling means,A plumb-bob attachment and leveling provision scale are provided in left wheel well.
+Minimum crew,"3 persons for all flights: Pilot, Copilot, Flight Engineer"
+Maximum passengers,"179 limited by emergency exit requirements. Approved for 189 when 
+ equipped with four (4) inflatable escape chutes installed in accordance with FAA 
+ approved type design data."
+Maximum operating altitude,"The maximum operating altitude for all models is 42,000 feet."
+Other operating,See FAA Approved Airplane Manuals and Supplements.
+Control surface movements,"To insure proper operation of the airplane, the movement of the various control 
+ surfaces must be carefully controlled by proper rigging of the flight control systems. 
+ The airplane must, therefore, be rigged in accordance with the following FAA 
+ approved data: 
+ Surfaces Installation Dwg. 
+ Aileron and Spoiler 
+ 50-8701 
+ Aileron Trim 
+ 50-8705 
+ Inboard Aileron Balance Panel Tolerances 
+ 50-73133 
+ Outboard Aileron Balance Panel Tolerances 
+ 50-73134 
+ Speed Brakes (Spoilers) 
+ 50-8716 
+ Elevator 
+ 50-8702 
+ Elevator Balance Panel Tolerances 
+ 65-8424 
+ Stabilizer Trim 
+ 50-8704 
+ Rudder 
+ 50-8703 
+ Rudder Trim 
+ 50-8706 
+ Rudder Balance Panel Tolerances 
+ 65-14035 
+ Wing Flap 
+ 50-8707"
+Service information,"Boeing Document D6-1649, Structural Repair Manual, is FAA approved. Service 
+ Bulletins, D6-1647, and other service information, when FAA approved, 
+ will carry a statement to that effect."
+Certification basis,"CAR 4b dated December 1953, Amendments 4b-1, 4b-2 and 4b-3 thereto; the 
+ Special Conditions and the provisions of Amendments listed in Attachment A 
+ of CAA letter to Boeing dated October 30, 1957; and the provisions of Item 2 of 
+ Special Civil Air Regulation No. SR- 422. 707-100B Long Body and 707-100B 
+ Short Body comply with all of the above except that Boeing chose to comply with 
+ Item 2 of Special Civil Air Regulation No. SR-422B in lieu of SR-422. 
+ Type Certificate No. 4A21 issued September 18, 1958. 
+ Date of Application for Type Certificate July 19, 1955; amended 
+ March 12, 1959, for Model 707-100B Long Body and 707-100B Short Body. 
+ Compliance with the following optional requirements has been established: 
+ Ditching Provisions of 4b.361 
+ Ice Protection Provisions of 4b.640"
+Production basis,Production Certificate No. 700
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. Boeing 
+ Airplane Company Document D6-5694 contains lists of all required equipment for 
+ Model 707-100 Long Body, and 707-200. The required equipment that must be 
+ installed as well as optional equipment approved for 707-100B Long Body and 
+ 707-100B Short Body are listed in Boeing Documents D6-1840 and D6-3021 respectively. 
+ The Weight and Balance Manual Documents indicated for each model under ""Fuel 
+ Capacity"" contain lists of equipment as well as optional installations approved by the FAA."
+NOTE 1,"(a) 
+ Current weight and balance report including list of equipment included in certificated empty weight, and loading 
+ instructions must be in each aircraft at the time of original certification and at all times thereafter except in the 
+ case of the operators having an approved weight control system. 
+ (b) 
+ The airplane must be loaded so the C.G. is within the specified limits at all times, with the effects of fuel and 
+ water use, the movement of crew and passengers from their assigned positions being considered. 
+ (c) 
+ The ""drainable unusable fuel"" is that amount of fuel in the tanks which is unavailable to the engines under 
+ critical flight conditions as defined in CAR 4b.416. This drainable unusable fuel does not include the ""tank 
+ trapped fuel"" or ""line unusable fuel"", which is the unusable fuel retrained in the fuel feed and fuel dump lines. 
+ The ""total unusable fuel"", which includes the drainable unusable fuel, tank trapped fuel and line unusable fuel, 
+ must be included in the airplane empty weight or be suitably accounted for in the airplane weight and balance 
+ report. The total amount of fuel is as follows: 
+ For Model 707-100 Long Body except for the 707-124 version: 
+ Tank Trapped fuel 
+ 10.71 gal 
+ Drainable unusable fuel 
+ 37.90 gal. 
+ Line unusable fuel 
+ 7.85 gal. 
+ Total unusable fuel 
+ 56.46 gal. 
+ For the 707-124 only: 
+ Tank trapped fuel 
+ 8.04 gal. 
+ Drainable unusable fuel 
+ 29.17 gal. 
+ Line unusable fuel 
+ 7.85 gal. 
+ Total unusable fuel 
+ 45.06 gal. 
+ For Model 707-200 only: 
+ Tank Trapped fuel 
+ 10.71 gal 
+ Drainable unusable fuel 
+ 109.82 gal. 
+ Line unusable fuel 
+ 7.85 gal. 
+ Total unusable fuel 
+ 128.38 gal. 
+ For Model 707-100B Long Body and 707-100B Short Body: 
+ Tank Trapped fuel 
+ 10.71 gal 
+ Drainable unusable fuel 
+ 109.82 gal. 
+ Line unusable fuel 
+ 7.85 gal. 
+ Total unusable fuel 
+ 128.38 gal. 
+ (d) 
+ I. Model 707-100 Long Body and Model 707-200 
+ Fuel capacity and usage procedure are dictated by structural design. To preserve favorable wing 
+ bending moments, the following limitations shall apply: 
+ All center section fuel in excess of any included in the zero fuel weight must be used before the transfer 
+ of outboard reserve fuel. 
+ The airplane gross weight must not exceed 233,000 lb. if the reserve tanks are empty."
+A,"Fuel Loading Limitations 
+ 1. 
+ Load main tanks 1, 2, 3, and 4 equally. 
+ 2. 
+ If main tanks are full, load reserve tanks. 
+ 3. 
+ If all main and reserve tanks are full and additional fuel is required, load center tank to required fuel quantity. 
+ NOTE: 
+ Center tank fuel may be substituted for payload in any quantity up to the maximum allowable payload* or to 
+ the center wing tank capacity, whichever is lower, provided the difference in effect on balance is also 
+ accounted for. 
+ NOTE: 
+ Tanks selected for fuel may be loaded simultaneously. 
+ *Maximum Zero Fuel Weight less airplane basic operating weight."
+B Fuel Usage Limitations,"Use tank to engine combination during all takeoffs and landings, except as noted under Minimum Fuel Go-Around."
+See Airplane Flight Manual,"Center tank fuel in excess of any included in the Zero Fuel Weight must be used after a minimum of 5,000 lb. up to 
+ a maximum of 10,000 lb. (total) of main tank fuel has been expended for takeoff and climb to altitude. 
+ Do not initiate the transfer of reserve tank fuel until the fuel quantity in each outboard main tank is less than 12,000 lb."
+II. Model 707-100B Long Body and 707-100B Short Body:,
+the transfer of outboard fuel,"The airplane gross weight must not exceed 243,000 lb. if the reserve tanks are empty."
+1,"(Applicable to 707-100B Short Body; 707-131B; 707-121B; and 707-139B) Load center tank fuel to 10,000 lb. 
+ This limitation is applicable only when the total fuel load is less than 80,000 lb. and the reserve tanks are loaded 
+ and the zero fuel weight C.G. is aft of 27% MAC."
+2,"Load Main tanks 1, 2, 3, and 4 equally."
+3,"If main tanks are full, load reserve tanks."
+4,"If all main and reserve tanks are full and additional fuel is required, load center tank to required fuel quantity. 
+ NOTE: 
+ Center tank may be substituted for payload in any quantity up to the maximum allowable payload* 
+ and 10,000 lb. or to the center wing tank capacity, whichever is lower, provided the difference 
+ in effect on balance is also accounted for. When the takeoff C.G. is expected to be in the aft 
+ takeoff restricted zone, load up to 15,000 lbs. of center tank fuel before loading main tanks to achieve 
+ a more forward C.G. 
+ NOTE: 
+ Tanks selected for fuel may be loaded simultaneously. 
+ *Maximum Zero Fuel Weight less airplane basic operating weight."
+B Fuel Usage Limitations,"Use tank to engine combination during all takeoffs and landings, except as noted under Minimum Fuel Go-Around."
+See Airplane Flight Manual,"Center tank fuel in excess of any included in the effective structural design zero fuel weight must be used after a minimum 
+ of 5,000 lb. up to a maximum of 10,000 lb. (total) of main tank fuel has been expended for takeoff and climb to altitude. 
+ Do not initiate the transfer of reserve tank fuel until the fuel quantity in each outboard main tank is less than 12,000 lb. 
+ Fuel reserves must be retained in main tanks only."
+e,"Fuel Dumping 
+ Undumpable Fuel 
+ For Model 707-100 Long Body and Short Body: 
+ 2 outboard main tanks 
+ 907 gal. 
+ 2 inboard main tanks 
+ 640 gal. 
+ Center wing tank 
+ 160 gal. 
+ TOTAL 
+ 1707 gal. 
+ For Model 707-200 & 707-100B Short Body: 
+ 2 outboard main tanks 
+ 845 gal. 
+ 2 inboard main tanks 
+ 986 gal. 
+ Center wing tank 
+ 141 gal. 
+ TOTAL 
+ 1972 gal. 
+ For Model 707-100B Long Body: 
+ 2 outboard main tanks 
+ 903 gal. 
+ 2 inboard main tanks 
+ 1012 gal. 
+ Center wing tank 
+ 141 gal. 
+ TOTAL 
+ 2056 gal."
+NOTE 2,Reserved
+NOTE 3,"Replacement Brake Lining must meet Boeing Specification D10-3072, ""Specification for Wheel and Brake 
+ Assembly""."
+NOTE 4,"Aft of Fuselage Station 850, the airplane design vertical load factors exceed TSO C-39 specifications; 
+ therefore, replacement passenger seats aft of Fuselage Station 850 must be evaluated for compliance with 4b.358(c)."
+NOTE 5,"For Model 707-200 only: It is permissible to interchange the JT4A-3, -5, -9, and -10 engines in any combination, 
+ see appropriate FAA Approved Airplane Flight Manual for limitations."
+NOTE 6,"Whenever fuel is loaded into the center section fuel tanks, drain the sump of water prior to flight."
+NOTE 7,"(a) and (b) below apply to Model 707-200 only; (c) applies to Model 707-100 Long Body: 
+ (a) 
+ The oil tank capacity (8.3 gal.) as required per CAR 4b.440(b), is based on a maximum engine oil 
+ consumption of 0.4 gal. per hour. Any increase in engine oil consumption above this rate will 
+ reduce the operating range of the airplane. 
+ (b) 
+ Using the Bullseye or Sight Gage as a level for servicing the oil tank will result in a lesser oil quantity 
+ and will reduce the operating range of the airplane. 
+ (c) 
+ The takeoff thrust rating for this engine may be increased to 13,500 lb. when Boeing Service Bulletin 
+ No. 538 has been complied with and the appropriate Airplane Flight Manual information is provided."
+NOTE 8,"The Model 707-100 Long Body, 707-100B Long Body and 707-200 airplanes must use 24-ply main landing gear 
+ tires when operated at weights of 255,000 lb. and above."
+NOTE 9,"Special fatigue or retirement considerations applicable to the Model 707-100B Long Body and 707-100B Short 
+ Body aircraft: 
+ (a) 
+ The turbo compressor duct must be inspected, maintained and/or retired in accordance with Boeing 
+ Service Bulletin No. 1221 dated February 23, 1961, or later FAA approved revisions."
+NOTE 10,"The Models 707-100B Long Body and 707-100B Short Body may intermix the following engines in combinations 
+ and with the appropriate limitations noted in the FAA Approved Airplane Flight Manual: 
+ JT3D-1, JT3D-1MC6, JT3D-1MC7, JT3D-3, and JT3D-3B"
+NOTE 11,"Provisions have been made for installation of ballast on the version 707-123B (not to exceed 1460 lb.) per 
+ Boeing Dwg. 65-19695."
+NOTE 12,"JP-1, JP-4 and JP-5 fuels conforming to P&WA Specification No. 522 and later revisions may be used separately 
+ or mixed in any proportions without adversely affecting the engine operation or power output. No fuel 
+ control adjustment is required when switching fuel types. 
+ Phillips anti-icing fuel additive PFA-55MB (MIL-I-27686 USAF) may be used if concentration delivered to airplane 
+ does not exceed 0.1% by volume. No fuel system anti-icing credit is allowed. 
+ Anti-static fuel additive (Shell ASA-3) may be mixed with the fuel (recommended quantity 0.5 to 1.0 ppm) 
+ provided the effective conductivity of the mixture does not exceed 300 picomhos per meter."
+NOTE 13,"Model 707-227 airplane has been approved for operation with P & W JT4A-9/-10 engines at JT4A-9/-10 engine 
+ thrust settings and ratings, Appendix I (La Paz, Bolivia) and Supplement IV to the FAA Approved Airplane 
+ Flight Manual, D6-1567."
+NOTE 14,"Model 707-131 may operate at the weights shown for the 707-124 providing NOTE 8 (24 ply tires) and Boeing 
+ Service Bulletin 538 (JF3C-6 engine thrust increase) have been incorporated as stipulated in the 707-131 
+ Flight Manual Supplement."

@@ -1,0 +1,1548 @@
+Keyterm,Info
+"1 of 26 
+ H4EU, Rev 19",
+"H4EU 
+ Revision 19 
+ SA330F 
+ (Cancelled) 
+ SA330G 
+ (Cancelled) 
+ SA330J 
+ AS332C 
+ AS332C1 
+ AS332L 
+ AS332L1 
+ AS332L2 
+ EC225LP 
+ October 8, 2015",
+Type Certificate Holder,"Airbus Helicopters 
+ Aeroport International Marseille Provence 
+ 13725 - Marignane - Cedex 
+ France"
+TC Holder Record,"Eurocopter France changed name to Airbus Helicopters on January 1, 2014."
+"I. 
+ Model SA330F (Transport Helicopter, Categories A and B), approved 23 June 1971. Cancelled 18 November 2014.",
+Engine,2 Turbomeca TURMO IV A
+Engine Limits,"Sea level static - standard day conditions (59°F 29.92 in. hg.) 
+ Shaft 
+ Max. 
+ Gas 
+ Power 
+ HP 
+ Duration 
+ Generator 
+ Turbine Inlet 
+ minutes 
+ RPM 
+ Temperature °C 
+ Takeoff 
+ 1274 
+ 5 
+ 33,300 
+ 780 
+ One engine inoperative 
+ 1415 
+ 2 1/2 
+ 33,950 
+ 790 
+ (2 1/2 mn power rating) 
+ One engine inoperative 
+ 1274 
+ 30 
+ 33,300 
+ 780 
+ (30 mn power rating) 
+ Maximum Continuous 
+ 1170 
+ No Limit 
+ 32,800 
+ 750 
+ Maximum Transient 
+ 1/2 
+ 34,100 
+ 800 
+ Starting (During 
+ 1/2 
+ 750 
+ (Before 
+ 1/2 
+ 150 (max.) 
+ 100% = 33,500 r.p.m. 
+ Nominal Free Turbine Speed is: 22,840 r.p.m."
+Maximum Weight,"14,800 lb. (Category A and Category B)"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20"
+Rev No,"18 
+ 18 
+ 18 
+ 4 
+ 7 
+ 8 
+ 8 
+ 19 
+ 18 
+ 18 
+ 18 
+ 14 
+ 14 
+ 13 
+ 15 
+ 13 
+ 16 
+ 13 
+ 13 
+ 18"
+Page No,"21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26"
+Rev No,"18 
+ 18 
+ 18 
+ 18 
+ 18 
+ 19"
+"II. Model SA330G (Transport Helicopter, Categories A and B), approved 15 May 1974. Cancelled 18 November 2014. 
+ (Same as Model SA 330F except for more powerful engines and increase in weight).",
+Engines,2 Turbomeca TURMO IV C
+Engine Limits,"Sea level static - standard day conditions (59°F 29.92 in. hg.) 
+ Shaft 
+ Max. 
+ Gas 
+ Power 
+ HP 
+ Duration 
+ Generator 
+ Turbine Inlet 
+ minutes 
+ RPM 
+ Temperature °C 
+ Takeoff 
+ 1495 
+ 5 
+ 33,450 
+ 780 
+ One engine inoperative 
+ 1555 
+ 2 1/2 
+ 33,800 
+ 790 
+ (2 1/2 mn power rating) 
+ One engine inoperative 
+ 1380 
+ 30 
+ 32,900 
+ 740 
+ (30 mn power rating) 
+ Maximum Continuous 
+ 1260 
+ No Limit 
+ 32,400 
+ 705 
+ Maximum Transient 
+ 1/2 
+ 34,100 
+ 790 
+ Starting (During 
+ 1/2 
+ 750 
+ (Before 
+ 150 (max.) 
+ 100% = 33,500 r.p.m. 
+ Nominal Free Turbine Speed is: 22,840 r.p.m."
+Maximum Weights,"15,400 lb. (Category A and Category B)"
+"III. Model SA330J (Transport Helicopter, Categories A and B), approved 9 June, 1976.",
+Engines,2 Turbomeca TURMO IV C
+Engine Limits,"Sea level static - standard day conditions (59°F 29.92 in. hg.) 
+ Shaft 
+ Max. 
+ Gas 
+ Power 
+ HP 
+ Duration 
+ Generator 
+ Turbine Inlet 
+ minutes 
+ RPM 
+ Temperature °C 
+ Takeoff 
+ 1495 
+ 5 
+ 33,450 
+ 780 
+ One engine inoperative 
+ 1555 
+ 2 1/2 
+ 33,800 
+ 790 
+ (2 1/2 mn power rating) 
+ One engine inoperative 
+ 1380 
+ 30 
+ 32,900 
+ 740 
+ (30 mn power rating) 
+ Maximum Continuous 
+ 1260 
+ No Limit 
+ 32,400 
+ 705 
+ Maximum Transient 
+ 1/2 
+ 34,100 
+ 790 
+ Starting (During 
+ 1/2 
+ 750 
+ (Before 
+ 150 (max.) 
+ 100% = 33,500 r.p.m. 
+ Nominal Free Turbine Speed is: 22,840 r.p.m."
+Maximum Weight,"16,300 lb. (Category A and B)"
+MGB Limits,"Nominal Free Turbine Speed: 22,840 r.p.m. 
+ Maximum Torque (Takeoff) 
+ 2 x 108,5 mdaN (2427 hp.) 
+ Maximum Continuous Torque 
+ 2 x 78 
+ mdaN (1742 hp.) 
+ Maximum Torque (One Engine Inoperative) 
+ 156 
+ mdaN (1742 hp.) 
+ (Torques based on torquemeter shaft r.p.m. of 7960)"
+Rotor Limits,"Maximum: 
+ 310 r.p.m. 
+ Minimum: 
+ 220 r.p.m. when IAS is below 108 knots. 
+ 240 r.p.m. when IAS is above 108 knots. 
+ See Rotorcraft Flight Manual for other limits."
+Airspeed Limits,"Never exceed 167 knots CAS at minimum weight. Variation of VNE with weight and 
+ altitude is in the Rotorcraft Flight Manual."
+CG Range,"Longitudinal: 
+ + 177 inches to + 194.7 inches 
+ Lateral: 
+ Right 3.55 inches 
+ Left 3.15 
+ See Rotorcraft Flight Manual for external load C.G. range."
+Datum,185 inches forward of center reference on the cabin floor (main rotor centroid).
+Leveling Means,Leveling plates on each side of fuselage.
+Minimum Crew,"The minimum crew required for IFR operation consists of 2 pilots. 
+ For Category A consists of 2 pilots. (For VFR operation). 
+ For Category B consists of 1 pilot. (For VFR operation)."
+Maximum Passengers,19 (Limited by emergency exits available).
+Total Fuel Capacity,"414 U.S. Gallons 
+ LH Group = 240 U.S. Gal. at 217.3 inches 
+ RH Group = 174 U.S. Gal. at 155.1 inches 
+ (See NOTE 1 for data on system fuel and oil)."
+Fuel,"SPECIFICATION (Latest Amendment) 
+ FRENCH 
+ NATO 
+ U.S.A. 
+ U.K. 
+ F.34 
+ D. eng. RD 2453 
+ AVTUR/FS.11 
+ AIR 3405 
+ ASTM Jet A 
+ TRO 
+ F.35 
+ ASTM Jet A-1 
+ D. eng. RD 2494 
+ AVTUR 
+ F.40 
+ MIL-T.5624 
+ D. eng. RD2454 
+ AIR 3407 
+ (JP.4) 
+ AVTAG FS II 
+ TR4 
+ F.45 
+ ASTM Jet B 
+ D. eng. RD 2486 
+ AVTAG 
+ AIR 3404 
+ F.42 
+ TR5 
+ F.44 
+ MIL-T-5624 
+ D. eng. RD 2498 
+ AVCAT 
+ Anti-icing additive must be used in accordance with the DGAC-approved Rotorcraft 
+ Flight Manual. (See NOTE 4). 
+ The following fuel additives are approved for use: 
+ - Phillips PFA/55 MB, MIL-I-27686 (as revised), or French AIR 3652 (as revised), 
+ anti-icing additive in quantity up to 0.15 percent in volume (with or without glycerin). 
+ - Shell ASA-3 antistatic additive in quantity up to 0.0001 percent in volume."
+Oil Engine,"ENGINE 
+ SPECIFICATION (Latest Amendment) 
+ OIL 
+ FRENCH 
+ NATO 
+ U.S.A. 
+ U.K. 
+ Obs. 
+ S 
+ Normal 
+ AIR 3513 
+ 0.148 
+ MIL-L-7808 
+ Y 
+ N 
+ AIR 3514 
+ 0.150 
+ T 
+ H 
+ 0.156 
+ MIL-L-23699 
+ E 
+ T 
+ 0.149 
+ D. eng. 
+ I 
+ RD. 2487 
+ C 
+ AIR 3517 
+ 0.159 
+ OILS 
+ AERO SHELL 
+ M 
+ TURBINE OIL 3 
+ I 
+ ALTER- 
+ ESSO AVIATION 
+ D. eng. 
+ N 
+ NATE 
+ Utility Oil F 
+ RD. 2490 
+ E 
+ OILS 
+ R 
+ AIR 3515 
+ 0.135 
+ CALTEX JET 
+ A 
+ Engine Oil 
+ L 
+ Medium Heavy 
+ OILS 
+ CAUTION: All AIR 3513 and AIR 3514 oils may be mixed together. Oils other 
+ than AIR 3513 and AIR 3514 must not be mixed. If a change in the type of 
+ oil used is made, the system must be flushed and the filter element cleaned. 
+ The type of oil used must be indicated on the tank near the filler port."
+Oil Capacity,"Engines 2 x 3.17 U.S. Gal. at 108.5 inches. 
+ MGB 
+ 5.8 U.S. Gal. at 219.7 inches. 
+ IGB 
+ 0.2 U.S. Gal. at 492.4 inches. 
+ TGB 
+ 0.37 U.S. Gal. at 543.7 inches."
+Maximum Altitude,"16,500 feet - see Rotorcraft Flight Manual for added limitations."
+Import Requirements,"U.S. Airworthiness Certificate may be issued on the basis of a French Certificate 
+ of Airworthiness for Export signed by a representative of the Direction Generale 
+ de l'Aviation Civile (DGAC) containing the following statement: 
+ ""The rotorcraft covered by this certificate has been examined and found to 
+ comply with U.S. FAR Part 29, including: 
+ - for Models F and G, amendments 29-1 through 29-5. 
+ - for Models J, amendments 29-1 through 29-9 plus para. 29.951(c), 29.1183 
+ and 29.1305(a)(16) of amendment 29-10. 
+ Plus Special Conditions No. 29-29-EU-5 dated 19 August 1970 and criteria for 
+ compliance with FAR 29.141 for IFR operation in FAA letter to SGAC dated 
+ 15 February 1971 and conforms to Type Certificate No. H4EU. 
+ This helicopter is eligible for import only when the Overhaul Manual is available 
+ per FAR 29.1529 and 21.29(a)(3) as amended by Amendment FAR 21.25."
+Equipment,"The basic required equipment (see List Number 330A.04.1155, 17 September 1970 
+ as revised) as prescribed in the applicable airworthiness regulations (see Certification 
+ Basis) must be installed in the helicopter for certification. 
+ In addition, the following items of equipment are required: 
+ - DGAC(formerly SGAC) approved Rotorcraft Flight Manual. 
+ - One clock for each pilot with sweep second pointer. 
+ - One gyroscope bank and pitch indicator for each required pilot, 
+ non-tumbling for IFR (original approval with SFENA 4286.V3, four inches 
+ diameter). 
+ - One gyroscopic direction indicator for each required pilot (original approval 
+ with SFIM CG121PN 54794.1 for co-pilot: COLLINS PN 101 Type 
+ 331A3G PN 522-2638-009 for pilot, three inches diameter). 
+ - One rate of climb indicator for each required pilot (original approval with 
+ Badin 29.336.1 Type 740-1)."
+"IV. Model AS332C (Transport Helicopter, Category A & B), approved October 14, 1981. 
+ (Same as SA330J except for Maximum Weight; Engines; Landing gear and drive system improvements; Main and Tail 
+ Rotor Blades",
+Engines,2 Turbomeca MAKILA 1A.
+Engine Limits,"Sea level static-standard day conditions (59°F 29.92 in. hg.). 
+ Power shaft 
+ Gas generator 
+ Exhaust Gas Temp. 
+ HP 
+ RPM 
+ °C 
+ Takeoff 
+ 1662 
+ 33,200 
+ 775 
+ 785 
+ (with MOD. 22305) 
+ One Engine Inoperative 
+ 1756 
+ 34,000 
+ 810 
+ (2 1/2 mn power rating) 
+ One Engine Inoperative 
+ 1662 
+ 33,200 
+ 775 
+ (30 mn power rating) 
+ Maximum Continuous 
+ 1515 
+ 32,500 
+ 735 
+ Refer to Flight Manual for transients."
+MGB Limits,"Two Engines operative 
+ Maximum Continuous: 
+ 81% (1820 kw) 
+ Maximum: 
+ 100% (2235 kw) 
+ One Engine Inoperative 
+ Maximum 30 minutes: 
+ 66% (1470 kw) 
+ Maximum: 
+ 69% (1550 kw) 
+ Over torque (transient): 
+ 74% (1650 kw)"
+Rotor Limits,"Power-on flight = rated 265 r.p.m. (NR between 245 and 275 r.p.m.) 
+ Power-off flight: 
+ maximum: stabilized: 290 r.p.m. 
+ transient: 
+ 310 r.p.m. 
+ minimum: 220 r.p.m. if IAS is equal to or less than 100 kt 
+ 245 r.p.m. if IAS is above 100 kt"
+Airspeed Limits,"Never exceed speed VNE Power-on: 
+ 167 kt at zero pressure-altitude. 
+ Never exceed speed VNE Power-off: 
+ 150 kt at zero pressure-altitude. 
+ See Rotorcraft Flight Manual for decrease of these values with altitude and weight."
+Maximum Weight,18960 lb. (Category A and Category B) (See Notes 7 and 8)
+CG Range,"Longitudinal = 181.10 in. to 196.85 in. 
+ Lateral 
+ = R.H.: 3.55 in. 
+ = L.H.: 3.15 in."
+Datum,183.36 in. forward of main rotor centreline.
+Leveling Means,"Level support plate on R.H. side of fuselage. 
+ Graduated plate for plumb line on L.H. side."
+Minimum Crew,"VFR conditions: 2 pilots 
+ IFR conditions: 2 pilots"
+Maximum Passengers,19 (Limited by emergency exits available)
+Total Fuel Capacity,"411.6 U.S. Gallons 
+ Longitudinal tank, R.H. = 
+ 62. U.S. Gallons at 180.1 in. 
+ L.H. = 
+ 65. U.S. Gallons at 180.1 in. 
+ Tansverse tank, 
+ FWD = 107. U.S. Gallons at 139.8 in. 
+ AFT = 
+ 112. U.S. Gallons at 220.5 in. 
+ 5th tank 
+ Rear = 
+ 65. U.S. Gallons at 249.6 in. 
+ See NOTE 1 for data on unusable fuel."
+Fuel,Refer to Flight Manual for approved fuels and additive specification.
+Oil,"See Rotorcraft Flight Manual for approved engine and gearbox oils. Also see 
+ appropriate Engine Maintenance Manual for applicable procedure if engine oil 
+ specification or brand is changed."
+Oil Capacity,"Engines 
+ 2 x 2 U.S. Gallons at 108.5 in. 
+ MGB 
+ 5.17 U.S. Gallons at 219.7 in. 
+ IGB 
+ 0.16 U.S. Gallons at 492.4 in. 
+ TGB 
+ 0.38 U.S. Gallons at 543.7 in."
+Maximum Altitude,"20,000 feet"
+"V. Model AS332C1 (Transport Helicopter, Category A & B), approved November 18, 2014 
+ The AS332C1 is the same as AS332C except 2 Turbomeca MAKILA 1A1 engines and Advanced Helicopter Cockpit 
+ Avionics System (AHCAS). AHCAS requires the installation of the following Airbus Helicopters MODS: 0726640, 
+ 0726641, 0726642, 0726643, 0726644, 0726645, 0726646, 0726647, 0726648, 0726649 and 0726650.",
+Engines,2 Turbomeca MAKILA 1A1.
+Engine Limits,"Sea level static-standard day conditions (59°F 29.92 in. hg.). 
+ Power shaft 
+ Gas generator 
+ Exhaust Gas 
+ HP 
+ RFM 
+ Temp. °C 
+ Takeoff 
+ 1819 
+ 33,350 
+ 795 
+ One Engine Inoperative 
+ 1877 
+ 34,000 
+ 830 
+ (2 1/2 mn power rating) 
+ One Engine Inoperative 
+ 1783 
+ 33,200 
+ 785 
+ (30 mn power rating) 
+ Maximum Continuous 
+ 1588 
+ 32,300 
+ 735 
+ Refer to Flight Manual for transients."
+MGB Limits,"Two Engines operative 
+ Maximum Continuous: 
+ 81% (1820 kw) 
+ Maximum: 
+ 100% (2235 kw) 
+ One Engine Inoperative 
+ Maximum 30 minutes: 
+ 66% (1470 kw) 
+ Maximum: 
+ 69% (1550 kw) 
+ Over torque (transient): 
+ 74% (1650 kw)"
+Rotor Limits,"Power-on flight = rated 265 r.p.m. (NR between 245 and 275 r.p.m.) 
+ Power-off flight: 
+ maximum: stabilized: 290 r.p.m. 
+ transient: 
+ 310 r.p.m. 
+ minimum: 220 r.p.m. if IAS is equal to or less than 100 kt 
+ 245 r.p.m. if IAS is above 100 kt"
+Airspeed Limits,"Never exceed speed VNE Power-on: 
+ 167 kt at zero pressure-altitude. 
+ Never exceed speed VNE Power-off: 
+ 150 kt at zero pressure-altitude. 
+ See Rotorcraft Flight Manual for decrease of these values with altitude and weight.."
+Maximum Weight,18960 lb. (Category A and Category B) (See Notes 7 and 8)
+CG Range,"Longitudinal = 181.10 in. to 196.85 in. 
+ Lateral 
+ = R.H.: 3.55 in. 
+ = L.H.: 3.15 in."
+Datum,183.36 in. forward of main rotor centreline.
+Leveling Means,"Level support plate on R.H. side of fuselage. 
+ Graduated plate for plumb line on L.H. side."
+Minimum Crew,"VFR conditions: -below 20.000ft, 1 pilot + 1 qualified crew member (*) 
+ - above 20.000ft, 2 pilots 
+ - 1 pilot for AS332 C1(e) equipped with AHCAS (commercial 
+ reference AS332 C1(e) 
+ (*) crew member is not required if one lane of each AP channel, at least, is in operation 
+ IFR conditions: 
+ - 2 pilots 
+ - 2 type-rated pilots for AS332 C1(e) equipped with AHCAS 
+ (commercial reference AS332 C1(e))"
+Maximum Passengers,19 (Limited by emergency exits available)
+Total Fuel Capacity,"411.6 U.S. Gallons 
+ Longitudinal tank, R.H. = 
+ 62. U.S. Gallons at 180.1 in. 
+ L.H. = 
+ 65. U.S. Gallons at 180.1 in. 
+ Tansverse tank, 
+ FWD = 107. U.S. Gallons at 139.8 in. 
+ AFT = 
+ 112. U.S. Gallons at 220.5 in. 
+ 5th tank 
+ Rear = 
+ 65. U.S. Gallons at 249.6 in. 
+ See NOTE 1 for data on unusable fuel."
+Fuel,Refer to Flight Manual for approved fuels and additive specification.
+Oil,"See Rotorcraft Flight Manual for approved engine and gearbox oils. Also see 
+ appropriate Engine Maintenance Manual for applicable procedure if engine oil 
+ specification or brand is changed."
+Oil Capacity,"Engines 
+ 2 x 2 U.S. Gallons at 108.5 in. 
+ MGB 
+ 5.17 U.S. Gallons at 219.7 in. 
+ IGB 
+ 0.16 U.S. Gallons at 492.4 in. 
+ TGB 
+ 0.38 U.S. Gallons at 543.7 in."
+Maximum Altitude,"25,000 feet"
+"VI. Model AS332L (Transport Helicopter, Category A & B), approved February 18, 1982. 
+ (Same as AS 332C except 30 inch fuselage extension: increased passenger seats; and increased maximum altitude).",
+Engines,2 Turbomeca MAKILA 1A.
+Engine Limits,"Sea level static-standard day conditions (50°F 29.92 in. hg.) 
+ Power shaft 
+ Gas generator 
+ Exhaust Gas Temp. 
+ HP 
+ RPM 
+ °C 
+ Takeoff 
+ 1662 
+ 33,200 
+ 775 
+ 785 
+ (with Mod. 22305) 
+ One Engine Inoperative 
+ 1756 
+ 34,000 
+ 810 
+ (2 1/2 mn power rating) 
+ One Engine Inoperative 
+ 1662 
+ 33,200 
+ 775 
+ (30 mn power rating) 
+ Maximum Continuous 
+ 1515 
+ 32,500 
+ 735 
+ Refer to Flight Manual for transients."
+MGB Limits,"Two engines operative: 
+ Maximum continuous: 
+ 81% (1820 kw) 
+ Maximum: 
+ 100% (2235 kw) 
+ One Engine inoperative: 
+ Maximum 30 minutes: 
+ 66% (1470 kw) 
+ Maximum: 
+ 69% (1550 kw) 
+ Over torque transient: 
+ 74% (1650 kw)"
+Rotor Limits,"Power-on flight: 
+ rated 265 r.p.m. (NR between 245 and 275 r.p.m.) 
+ Power-off flight: 
+ Maximum: stabilized: 290 r.p.m. 
+ transient: 
+ 310 r.p.m. 
+ minimum: 220 r.p.m. if IAS is equal to or less than 100 kt 
+ 245 r.p.m. if IAS is above 100 kt"
+Minimum Crew,"VFR conditions: 2 pilots 
+ IFR conditions: 2 pilots"
+Airspeed Limits,"Never exceed speed VNE Power-on: 
+ 167 kt at zero pressure-altitude. 
+ Never exceed speed VNE Power-off: 
+ 150 kt at zero pressure-altitude. 
+ See Rotorcraft Flight Manual for decrease of these values with altitude and weight."
+Maximum Altitude,"20,000 feet"
+"VII. Model AS 332L1 (Transport Helicopter, Category A & B), approved November 25, 1987. 
+ (Same as AS 332L except 2 Turbomeca MAKILA 1A1 engines).",
+Engines,2 Turbomeca MAKILA 1A1.
+Engine Limits,"Sea level static-standard day conditions (50°F 29.92 in. hg.) 
+ Power shaft 
+ Gas generator 
+ Exhaust Gas 
+ HP 
+ RFM 
+ Temp. °C 
+ Takeoff 
+ 1819 
+ 33,350 
+ 795 
+ One Engine Inoperative 
+ 1877 
+ 34,000 
+ 830 
+ (2 1/2 mn power rating) 
+ One Engine Inoperative 
+ 1783 
+ 33,200 
+ 785 
+ (30 mn power rating) 
+ Maximum Continuous 
+ 1588 
+ 32,300 
+ 735 
+ Refer to Flight Manual for transients."
+MGB Limits,"Two engines operative: 
+ Maximum Continuous: 
+ 81% (1820 kw) 
+ Maximum: 
+ 100% (2235 kw) 
+ One Engine inoperative: 
+ Maximum 30 minutes: 
+ 66% (1470 kw) 
+ Maximum: 
+ 69% (1550 kw) 
+ Over torque transient: 
+ 74% (1650 kw)"
+Rotor Limits,"Power-on flight: 
+ rated 265 r.p.m. (NR between 245 and 275 r.p.m.) 
+ Power-off flight: 
+ maximum: stabilized: 290 r.p.m. 
+ transient: 
+ 310 r.p.m. 
+ minimum: 220 r.p.m. if IAS is equal to or less than 100 kt 
+ 245 r.p.m. if IAS is above 100 kt"
+Airspeed Limits,"Never exceed speed VNE Power-on: 167 kt at zero pressure-altitude. 
+ Never exceed speed VNE Power-off: 145 kt at zero pressure-altitude. 
+ See Rotorcraft Flight Manual for decrease of these values with altitude and weight."
+Minimum Crew,"VFR conditions: -below 20.000ft, 1 pilot + 1 qualified crew member (*) 
+ - above 20.000ft, 2 pilots 
+ - 1 pilot for AS332 L1 equipped with AHCAS (commercial reference 
+ AS332 L1e) 
+ (*) crew member is not required if one lane of each AP channel, at least, is in operation 
+ IFR conditions: 
+ - 2 pilots 
+ - 2 type-rated pilots for AS332 L1 equipped with AHCAS 
+ (commercial reference AS332 L1e)"
+Maximum Altitude,"25,000 feet."
+"INFORMATION PERTINENT TO AS 332L & AS 332L1 MODELS ONLY 
+ Maximum Weight 
+ 18,960 lb. (Category A and Category B) (See Note 8 for AS332L) 
+ CG Range 
+ Forward: 173.2 in. for weight equal to or less than 15,430 lbs. 
+ 177.9 in. for weight equal to 18,960 lbs. 
+ Aft: 
+ 192.9 in for weight equal to or less than 15,430 lb. 
+ 190.9 in for weight equal to 18,960 lb. 
+ Lateral: R.H.: 3.55 in. 
+ L.H.: 3.15 in. 
+ Datum 
+ 183.8 in. forward of main rotor centreline. 
+ Leveling Means 
+ Level support plate on R.H. side of fuselage. 
+ Graduated plate for plumb line on L.H. side. 
+ Maximum Passengers 
+ 24 
+ Total Fuel Capacity 
+ 550. U.S. Gallons. 
+ Longitudinal tank, R.H. = 
+ 62 U.S. Gallons at 180.1 in. 
+ L.H. = 
+ 65 U.S. Gallons at 180.1 in. 
+ Tansverse tank, 
+ FWD = 107 U.S. Gallons at 139.8 in. 
+ AFT = 
+ 112 U.S. Gallons at 220.3 in. 
+ 5th tank 
+ Rear = 
+ 65 U.S. Gallons at 249.6 in. 
+ 7th tank 
+ 139 U.S. Gallons at 112.20 in. 
+ See NOTE 1 for data on unusable fuel. 
+ Fuel 
+ Refer to Flight Manual for approved fuels and additive specification. 
+ Oil 
+ See Rotorcraft Flight Manual for approved engine and gearbox oils. Also see 
+ appropriate Engine Maintenance Manual for applicable procedure if engine oil 
+ specification or brand is changed. 
+ Oil Capacity",
+"VIII. Model AS 332L2 (Transport Helicopter, Category A&B), approved May 28, 1993. 
+ The Model AS 332L2 is derived from the AS 332L1 with the following major modifications: 
+ * Modified main rotor gear box with new oil cooling system; 
+ * Incorporated new design spheriflex main rotor hub and modified main rotor blades; 
+ * Modified intermediate and tail rotor gear boxes; 
+ capacity 
+ * Upgraded Makila IA2 engines with FADEC, increased performance, and unique 30-sec/2-min emergency power 
+ ratings",
+Engines,2 Turbomeca MAKILA 1A2
+Engine Limits,"Sea level static-standard day conditions (59oF 29.92 in.hg.). 
+ Power shaft 
+ Gas generator 
+ Exhaust Gas 
+ HP 
+ Δ rpm % 
+ Temp. °C 
+ Takeoff 
+ 1844 
+ 0 
+ 825 
+ Maximum Continuous 
+ 1656 
+ -2.7 
+ 770 
+ One Engine Inoperative 
+ 2108 
+ +4.5 
+ N/A 
+ (30 sec power rating) 
+ One Engine Inoperative 
+ 1966 
+ + 2 
+ 870 
+ (2 min power rating) 
+ One Engine Inoperative 
+ 1903 
+ + 1 
+ 840 
+ (continuous power rating) 
+ Refer to Flight Manual for transients. 
+ Note: The gas generator speed limits are specified as percentage deviations from 
+ the takeoff rating (takeoff rating = 33220 rpm)"
+MGB Limits,"Two Engines operative 
+ Maximum Continuous 
+ 77% 
+ Maximum 5 minutes 
+ 100% 
+ Overtorque (transient) 
+ 110% 
+ One Engine Inoperative 
+ Maximum Continuous 
+ 68.4% 
+ Maximum 2 minutes 
+ 70.6% 
+ Maximum 30 seconds 
+ 74.8%"
+Rotor Limits,"Power-on flight 
+ Rated 
+ 265 r.p.m. 
+ Maximum 
+ 275 r.p.m. 
+ Minimum 
+ 245 r.p.m. 
+ Minimum transient 
+ 220 r.p.m. 
+ Power-off flight 
+ Maximum 
+ 290 r.p.m. 
+ Maximum transient 
+ 310 r.p.m. 
+ Minimum 
+ 220 r.p.m. if IAS is equal to or less than 100 kt 
+ 245 r.p.m. if IAS is above 100 kt"
+Airspeed Limits,"Never exceed speed VNE 
+ Power-on: 
+ 170 kt 
+ Power-off: 
+ 150 kt"
+"VIII. 
+ See Rotorcraft Flight Manual for decrease of these values with altitude and 
+ temperature. 
+ Maximum Weight 
+ 9300 kg. (Category A and Category B) 
+ CG Range 
+ Longitudinal: 
+ Forward: 
+ 173.2 in. 
+ Aft 
+ 195. in. 
+ R.H. 
+ 2. in. 
+ L.H. 
+ 2. in. 
+ See Rotorcraft Flight Manual for decrease of forward C.G. limit with weight 
+ Datum 
+ Longitudinal: 
+ 183.8 in. forward of main rotor centerline 
+ Lateral: 
+ aircraft symmetry plane 
+ Leveling Means 
+ Level support plate on R.H. side of fuselage. 
+ Graduated plate for plumb line on L.H. side. 
+ Minimum Crew 
+ VFR conditions: 1 pilot 
+ IFR conditions: 2 pilots 
+ Maximum Passengers 
+ 25 
+ Total Fuel Capacity 
+ 540 U.S. Gallons at 172.6 in. 
+ R.H. tank group: 
+ 298 U.S. Gallons. 
+ - Longitudinal tank: 62 U.S. Gallons at 180.1 in. 
+ - Transverse tank: 
+ 107 U.S. Gallons at 139.8 in. 
+ - 7th tank: 
+ 129 U.S. Gallons at 112.2 in. 
+ L.H. tank group: 
+ 242 U.S. Gallons. 
+ - Longitudinal tank: 65 U.S. Gallons at 180.1 in. 
+ - Transverse tank: 
+ 112 U.S. Gallons at 220.5 in. 
+ - 5th tank: 
+ 65 U.S. Gallons at 249.6 in. 
+ See NOTE 1 for data on unusable fuel. 
+ VIII. 
+ Fuel 
+ Normal Fuels 
+ SPECIFICATION (Latest issue or amendment) 
+ ANTI-ICING 
+ FUEL TYPE 
+ NATO 
+ ADDITIVE 
+ CODE 
+ US 
+ UK 
+ FRENCH 
+ CHINA 
+ INCLUDED 
+ Kerosene-50 
+ D.ENG.RD 
+ AVTUR FSII 
+ F-34 
+ MIL-T-83 133 
+ 2453 
+ AIR 3405 F-34 
+ - 
+ YES 
+ JP-8 
+ JP-8 
+ Kerosene-50 
+ D.ENG.RD 
+ (AVTUR) 
+ F-35 
+ ASTM-D-1655 
+ 2494 
+ AIR 3405 F-35 
+ - 
+ NO (*) 
+ JET-A1 
+ JET-A1 
+ Kerosene 
+ JET-A 
+ - 
+ ASTM-D-1655 
+ JET-A 
+ - 
+ - 
+ - 
+ NO (*) 
+ High Flash Point 
+ (AVCAT) 
+ F-43 
+ - 
+ D.ENG.RD 
+ 2498 
+ AIR 3404 F-43 
+ - 
+ NO (*) 
+ JP-5 
+ High Flash Point 
+ D.ENG.RD 
+ AVCAT FS II 
+ F-44 
+ MIL-T-5624 
+ 2452 
+ AIR 3404 F-44 
+ - 
+ YES 
+ JP-5 
+ JP-5 
+ PRC3 
+ Standard PRC 
+ - 
+ - 
+ - 
+ - 
+ GB 6537-94 
+ NO (*) 
+ N°3 
+ Jet Fuel) 
+ (*) Anti-icing additive must be used in accordance with the DGAC-approved Rotorcraft 
+ Flight Manual. 
+ The following fuel additives are approved for use: 
+ - Anti-icing additive: 
+ NATO symbol S748, AIR 3652, MIL-I-27686, DERD 2451 (AL-31), SH0369 (T1301). 
+ Use the latest index number in force. 
+ Maximum concentration: 0.15 percent in volume. 
+ - Anti-static additive: 
+ SHELL ASA-3 at a maximum concentration of 0.0001 percent in volume. 
+ DUPONT STADIS 450 at a maximum concentration of 0.0003 percent in volume. 
+ Oil 
+ See Rotorcraft Flight Manual for approved engine and gearbox oils. 
+ Also see appropriate Engine Maintenance Manual for applicable procedure if 
+ engine oil specification or brand is changed. 
+ Oil Capacity 
+ Engines 2 x 1.3 U.S. Gallons at 108.3 in. 
+ MGB 6.3 U.S. Gallons at 216.8 in. 
+ IGB 0.2 U.S. Gallons at 492.5 in. 
+ TGB 0.4 U.S. Gallons at 543.7 in. 
+ Maximum Altitude 
+ 20,000 feet. 
+ IX. Model EC 225LP (Transport Helicopter, Category A&B), approved January 30, 2008.",
+ENGINES,"2 Turboméca Makila 2A or 
+ 2 Turboméca Makila 2A1"
+Normal Fuels,"SPECIFICATION (Latest issue or amendment) 
+ ANTI-ICING 
+ FUEL TYPE 
+ NATO 
+ ADDITIVE 
+ CODE 
+ US 
+ UK 
+ FRENCH 
+ CHINA 
+ INCLUDED 
+ Kerosene-50 
+ D.ENG.RD"
+AVTUR FSII,"F-34 
+ MIL-T-83 133 
+ 2453 
+ AIR 3405 F-34 
+ - 
+ YES 
+ JP-8 
+ JP-8 
+ Kerosene-50 
+ D.ENG.RD 
+ (AVTUR) 
+ F-35 
+ ASTM-D-1655 
+ 2494 
+ AIR 3405 F-35 
+ - 
+ NO (*) 
+ JET-A1 
+ JET-A1 
+ Kerosene 
+ JET-A 
+ - 
+ ASTM-D-1655 
+ JET-A 
+ - 
+ - 
+ - 
+ NO (*)"
+High Flash Point,"(AVCAT) 
+ F-43 
+ - 
+ D.ENG.RD 
+ 2498 
+ AIR 3404 F-43 
+ - 
+ NO (*) 
+ JP-5"
+High Flash Point,D.ENG.RD
+AVCAT FS II,"F-44 
+ MIL-T-5624 
+ 2452 
+ AIR 3404 F-44 
+ - 
+ YES 
+ JP-5 
+ JP-5 
+ PRC3"
+Standard PRC,"N°3 
+ Jet Fuel) 
+ - 
+ - 
+ - 
+ - 
+ GB 6537-94 
+ NO (*)"
+APU operation if,Fitted))
+Replacement Fuels,"SPECIFICATION (Latest issue or amendment) 
+ ANTI-ICING 
+ FUEL TYPE 
+ NATO 
+ ADDITIVE 
+ CODE 
+ US 
+ UK 
+ FRENCH 
+ CHINA 
+ INCLUDED 
+ Wide cut"
+AVTAG FS II,"D.ENG.RD 
+ F-40 
+ MIL-T-5624 
+ 2454 
+ AIR 3407 F-40 
+ - 
+ YES 
+ JP-4 
+ JP-4 
+ OAT < +40°C 
+ Wide cut 
+ JET-B 
+ - 
+ ASTM-D-1655 
+ JET-B 
+ - 
+ - 
+ - 
+ NO (*) 
+ OAT < +40°C 
+ (*) Anti-icing additive must be used in accordance with the EASA-approved Rotorcraft 
+ Flight Manual. 
+ The following fuel additives are approved for use: 
+ - Anti-icing additive: 
+ EGME type: NATO symbol S748, AIR 3652, MIL-I-27686, DERD 2451 (AL-31), SH0369 (T1301). 
+ Di-EGME type: NATO symbol S-1745, AIR 3652, MIL-I-85470, DERD 2451 (AL-41). 
+ Use the latest index number in force. 
+ Maximum concentration: 0.15 percent in volume. 
+ Minimum concentration: 0.10 percent in volume. 
+ - Anti-static additive: 
+ SHELL ASA-3 at a maximum concentration of 0.0001 percent in volume. 
+ DUPONT STADIS 450 at a maximum concentration of 0.0003 percent in volume. 
+ -Fungicide additive (BIOBOR J.F and DATHON) according to conditions specified in the Maintenance 
+ Manual."
+ENGINE AND TRANSMISSIONS APPROVED OILS,See Rotorcraft Flight Manual for list of approved oils.
+HYDRAULIC FLUIDS,"MIL-H-83282/A or H-537 (recommended) 
+ AIR 3520 or MIL-H-5606 or H-515"
+ENGINE LIMITS,"Sea level static-standard day conditions (59oF 29.92 in.hg.). 
+ Power shaft 
+ Gas generator 
+ Exhaust Gas 
+ HP 
+ Δ rpm % 
+ Temp. °C 
+ TakeOff Power(TOP) 
+ 1746 
+ 0 
+ 796 
+ 801* 
+ Maximum Continuous 
+ 1746 
+ -2.92 
+ 749 
+ Power (MCP) 
+ 754* 
+ One Engine Inoperative 
+ 2356 
+ +3.54 
+ N/A 
+ (30 sec power rating) 
+ 2382* 
+ N/A* 
+ (OEI HI) 
+ One Engine Inoperative 
+ 2225 
+ +1.56 
+ N/A 
+ (2 min power rating) 
+ 2237* 
+ 847* 
+ (OEI LO) 
+ One Engine Inoperative 
+ 2108 
+ +0.80 
+ 799 
+ (continuous power rating) 
+ 2156* 
+ 814* 
+ (OEI CT) 
+ *Values for Makila 2A1 
+ Refer to Flight Manual for transients. 
+ Note: The gas generator speed limits are specified as percentage deviations from 
+ the takeoff rating (takeoff rating = 33200 rpm)"
+TRANSMISSION TORQUE LIMITS,"100% torque corresponds to 2610 kw at a rotor speed of 100 % NR (265 rpm). 
+ All Engines Operative: 
+ AEO rating 
+ MGB Torque (%) 
+ Max Transient 
+ 110 
+ TakeOff Power 
+ (TOP) (5 min) (IAS < 45 kt) 
+ 100 
+ Max Continuous Power in hover 
+ (MCP) (IAS < 40 kt) 
+ 85.4 
+ Max Continuous Power 
+ (MCP) (IAS > 60 kt) 
+ 82.7 
+ Between 40 and 60 kt: linear decrease of the MCP limit according to speed. 
+ One Engine inoperative: 
+ OEI rating 
+ MGB Torque (%) 
+ OEI HI (30 sec) 
+ 78.4 
+ OEI LO (2 min) 
+ 71.9 
+ OEI CT (unlimited) 
+ 63.4"
+ROTOR SPEED LIMITS,"Power on: 
+ Maximum 
+ 275 rpm 
+ Minimum 
+ 246 rpm 
+ Min transient 
+ 220 rpm 
+ Power off: 
+ Max transient 
+ 310 rpm (20 sec) 
+ Maximum 
+ 290 rpm 
+ Minimum 
+ 246 rpm (IAS > 100Kt) 
+ 220 rpm (IAS < 100Kt)"
+AIRSPEED LIMITS,"Never exceed speed VNE: 
+ Power-on 
+ 175 kt 
+ Power-off 
+ 150 kt 
+ See Rotorcraft Flight Manual for decrease of these values with altitude and temperature. 
+ See Rotorcraft Flight Manual for other approved airspeed limits."
+CENTER OF GRAVITY LIMITS,"Longitudinal: 
+ Forward 
+ 173.2 in. 
+ Aft 
+ 194.8 in. 
+ Lateral: 
+ R.H. 
+ 2.3 in. 
+ L.H. 
+ 2.3 in. 
+ See Rotorcraft Flight Manual for decrease of C.G. limits with weight."
+EMPTY WEIGHT CG RANGE,None
+DATUM,"Longitudinal: 
+ 183.8 in. forward of main rotor centerline 
+ Lateral: 
+ aircraft symmetry plane"
+LEVELING MEANS,"Level support plate on R.H. side of fuselage. 
+ Graduated plate for plumb line on L.H. side."
+MAXIMUM WEIGHT,"11000 kg 
+ 11200 kg with external load"
+ALTITUDE LIMITS,"EC 225 LP - Standard 
+ EC 225 LP – MPAI* equipped 
+ OAT from -30 ۫◌°C to -12 ۫◌°C: 
+ OAT from -30 ۫◌°C to -12 ۫◌°C: 
+ -6000 ft density altitude 
+ -6000 ft density altitude 
+ +7400 ft density altitude 
+ +11,000 ft density altitude 
+ Take-off and landing 
+ OAT from -12 ۫◌°C to ISA + 40 ۫◌°C 
+ OAT from -12 ۫◌°C to ISA + 40 ۫◌°C 
+ (without exceeding +50 ۫◌°C): 
+ (without exceeding +50 ۫◌°C): 
+ – 2000 ft pressure altitude 
+ – 2000 ft pressure altitude 
+ + 7400 ft density altitude 
+ + 11,000 ft density altitude 
+ OAT from -30 ۫◌°C to -12 ۫◌°C: 
+ OAT from -30 ۫◌°C to -12 ۫◌°C: 
+ - 6000 ft density altitude 
+ - 6000 ft density altitude 
+ + 20,000 ft pressure altitude 
+ + 20,000 ft pressure altitude 
+ En route 
+ OAT from -12 ۫◌°C to ISA + 40 ۫◌°C 
+ OAT from -12 ۫◌°C to ISA + 40 ۫◌°C 
+ (without exceeding +50 ۫◌°C): 
+ (without exceeding +50 ۫◌°C): 
+ – 2000 ft pressure altitude 
+ – 2000 ft pressure altitude 
+ + 20,000 ft pressure altitude 
+ + 20,000 ft pressure altitude"
+AMBIENT TEMPERATURE LIMITS,"EC 225 LP - Standard 
+ EC 225 LP – MPAI* equipped 
+ -30°C to ISA +40°C limited to + 50°C 
+ -30°C to ISA +40°C limited to +50°C 
+ MPAI*: Multi-Purpose Air Intakes"
+MINIMUM FLIGHT CREW,2 pilots
+NUMBER OF SEATS,"2 Crew 
+ 19 Passengers"
+FUEL CAPACITY,"766 U.S. Gallons at 193.5 in. 
+ R.H. tank group: 
+ 453 U.S. Gallons 
+ - Internal tanks without optional 6th centre tank 
+ 290 U.S. Gallons at 135.7 in. 
+ - Longitudinal tank: 
+ 57 U.S. Gallons at 180.1 in. 
+ - Transverse tank: 
+ 106 U.S. Gallons at 139.8 in. 
+ - 7th tank (transverse front): 
+ 127 U.S. Gallons at 112.2 in. 
+ - Internal tanks with optional 6th centre tank 
+ 374 U.S. Gallons at 145.7 in. 
+ - R.H. sponson tank 
+ 79 U.S. Gallons at 269.9 in. 
+ L.H. tank group: 
+ 313 U.S. Gallons 
+ - Internal tanks 
+ 234 U.S. Gallons at 218.1 in. 
+ - Longitudinal tank: 
+ 60 U.S. Gallons at 180.1 in. 
+ - Transverse tank: 
+ 110 U.S. Gallons at 220.5 in. 
+ - 5th tank (transverse rear): 64 U.S. Gallons at 249.6 in. 
+ - L.H. sponson tank 
+ 79 U.S. Gallons at 269.9 in. 
+ See Flight Manual for other approved fuel tanks configurations. 
+ See NOTE 1 for data on unusable fuel."
+OIL CAPACITY,"Engines 
+ 2 x 1.3 U.S. Gallons at 108.3 in. 
+ MGB 
+ 7.1 U.S. Gallons at 216.8 in. 
+ IGB 
+ 0.16 U.S. Gallons at 492.5 in. 
+ TGB 
+ 0.4 U.S. Gallons at 543.7 in."
+MANUFACTURER’S SERIAL NUMBERS,2600 and subsequent of EC225LP version.
+INFORMATION PERTINENT TO ALL MODELS,
+Certification Basis,"For Models SA330F, SA330G, SA330J. 
+ FAR 21.29, FAR 29 effective 1 February, 1965 including: 
+ - for Models F and G, amendments 29-1 through 29-5. 
+ - for Model J, amendments 29-1 through 29-9 plus para. 29.951(c), 29.1183 and 
+ 29.1305(a)(16) of amendment 29.10. 
+ Plus FAA Special Conditions No. 29-29-EU-5 dated 19 August 1970 and criteria for 
+ compliance with FAR 29.141 for IFR operation transmitted to SGAC by FAA letter 
+ dated 15 February 1971. 
+ For Models AS332C, AS332C1(e), AS332L, and AS332L1 
+ FAR 21.29. FAR 29 effective 1 February 1965 including amendments 29-1 to 
+ 29-9, plus paragraph 29.951(c), 29.1183 and 29.1304(a)(16) of amendment 29-10. 
+ Applicant has elected to comply with FAR 29 amendments 29-10 through 29-16, 
+ except FAR 29.397 at amendment 29-12 as concerns rotor brake; and the 
+ Airworthiness Criteria for Helicopter Instrument Flight dated December 15, 1978. 
+ Date of Application for Type Certificate: 15 December 1969. 
+ For Models AS332C1 and AS332L1 equipped with AHCAS (commercial reference 
+ AS332 C1e and L1e) 
+ For Affected Area: 
+ Plus paragraphs 29.771, 29.1303, 29.1321, 29.1333 through Amendment 29-25 
+ Plus paragraphs 29.1305, 29.1309, 29.1329, 29.1549, B29.I, B29.II, B29.III, B29.IV, 
+ B29.V, B29.VI, B29.VII, B29.VIII, B29.IX through Amendment 29-47 
+ Plus paragraph 29.1317 at Amendment 49. 
+ Equivalent Safety Findings: 
+ - FAR 29 Appendix B VIII(b)(5)(iii) Automatic reversion of display in the event of a 
+ PFD failure 
+ - FAR29.1303(j) VNE aural warning 
+ - FAR29.1545(b)(4) Airspeed indicator markings 
+ - FAR29.1549(b) Powerplant instrument markings 
+ - FAR29.173, 175 Static Longitudinal Stability 
+ - FAR29 Apdx B §IV IFR Static Longitudinal Stability – Airspeed stability 
+ For Affected Area or Secondary changes elected to comply with: 
+ Plus paragraphs 29.161, 29.671, 29.672, 29.1525 through Amendment 29-25 
+ For Model AS332L2 
+ FAR 21.29. 
+ FAR 29 effective February 1, 1965, including Amendments 29-1 to 29-9, plus 
+ paragraph 29.305, 29.307, 29.571, 29.603, 29.605, 29.609, 29.610, 29.629, 
+ 29.691(c), 29.1183, 29.1305(a)(16) and 29.1529 through Amendment 29-10. 
+ The applicant has elected to comply with FAR 29 Amendments 29-10 through 
+ 29-16, except paragraph 29.397 at Amendment 29-12 as concerns the rotor 
+ brake; and the Airworthiness Criteria for Helicopter Instrument Flight dated 
+ December 15, 1978. 
+ FAR Part 36 Noise Standards amended by Amendments 36-1 through 36-18. 
+ Special Conditions No. 29-ASW-1, Docket No. 90-ASW-4, effective January 23, 
+ 1991, containing provisions for the protection of electrical/electronic systems 
+ for high intensity radiated fields. 
+ Special Condition No. 29-ASW-2, Docket No. 92-ASW-5, effective October 27, 
+ 1992, containing additional safety standards for 30-Second Contingency Rating 
+ certification. 
+ Type Certificate No. H4EU issued June 23, 1971; amended May 15, 1974, to 
+ add Model SA330G; amended June 9, 1976, to add Model SA330J; amended 
+ October 14, 1981, to add Model AS332C; amended February 18, 1982, to add 
+ Model AS332L; amended November 25, 1987, to add Model AS332L1. 
+ Amended May 28, 1993, to add Model AS332L2. 
+ Date of application for AS332L2 Type Certificate: June 6, 1989. 
+ The French Direction Generale de l’Aviation Civile (DGAC) originally type 
+ certificated this rotorcraft under its type certificate TC 56. The FAA validated 
+ this product under U.S. Type Certificate Number H4EU. Effective September 
+ 28, 2003, the European Aviation Safety Agency (EASA) began oversight of this 
+ product on behalf of the DGAC. 
+ For Model EC225LP 
+ 14 CFR Part 21 paragraph 21.29 
+ 14 CFR Part 29 Amendments 29-1 to 29-25, 
+ Plus paragraph 29.785 through Amendment 29-28 
+ Plus paragraphs 29.963, 29.967, 29.973, 29.975 through Amendment 29-34 
+ Plus paragraphs 29.25, 29.865 through Amendment 29-42 
+ Plus paragraphs 29.1, 29.2, 29.49, 29.51, 29.53, 29.55, 29.59, 29.60, 29.61, 
+ 29.62, 29.64, 29.65, 29.67, 29.73, 29.75, 29.77, 29.79, 29.81, 29.83, 29.85, 
+ 29.87, 29.307, 29.337, 29.351, 29.361, 29.391, 29.395, 29.397, 29.401, 29.403, 
+ 29.413, 29.427, 29.501, 29.519, 29.547, 29.549, 29.561(c), 29.561(d), 29.563, 
+ 29.602, 29.610, 29.613, 29.621, 29.625, 29.629, 29.631, 29.663, 29.674, 29.727, 
+ 29.755, 29.775, 29.783, 29.787, 29.803, 29.805, 29.807, 29.809, 29.811, 29.855, 
+ 29.861, 29.901, 29.903, 29.908, 29.917, 29.923, 29.927, 29.954, 29.961, 29.965, 
+ 29.969, 29.971, 29.991, 29.997, 29.999, 29.1001, 29.1011, 29.1019, 29.1027, 
+ 29.1041, 29.1043, 29.1045, 29.1047, 29.1093, 29.1125, 29.1141, 29.1143, 
+ 29.1163, 29.1181, 29.1189, 29.1193, 29.1305, 29.1309, 29.1323, 29.1329, 
+ 29.1337, 29.1351, 29.1359, 29.1415, 29.1521, 29.1549, 29.1557, 29.1587, A29, 
+ B29, C29, D29 through Amendment 29-47 
+ Protection from the effects of High Intensity Radiated Field has been 
+ accomplished in accordance with EASA Special Condition as defined in JAR- 
+ 27/29 Interim Policy No. INT/POL/27,29/1, dated June 1, 1997. 
+ Special Condition No. 29-022A-SC for Search and Rescue Automatic Flight 
+ Control System 
+ 14 CFR Part 36 Amendment 21 (ICAO Annex 16, Volume 1, Chapter 8) 
+ Equivalent Safety Findings: 
+ - TC2899RD-R-F-01; FAR 29.1303(j) Vne aural warning 
+ - TC2899RD-R-F-02; FAR 29.1545(b)(4) Airspeed indicators markings 
+ - TC2899RD-R-F-03; FAR 29.1549(b) Powerplant instruments markings 
+ - TC2899RD-R-F-05; FAR 29.173, 175 Static Longitudinal Stability 
+ - TC2899RD-R-F-06; FAR 29 Apdx B §IV IFR Static Longitudinal Stability – 
+ Airspeed stability 
+ - TC2899RD-R-A-01; FAR 29.807(d)(2) Ditching emergency exits for 
+ passengers 
+ - TC2899RD-R-P-01; FAR 29.923(a)(2) Rotor drive system and control 
+ mechanism tests"
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on a National Aviation 
+ Authority (NAA) Export Certificate of Airworthiness (Export C of A) signed by 
+ a representative of the French Direction Générale de l’Aviation Civile (DGAC) 
+ on behalf of the European Community. 
+ The Export C of A should contain the following statement: “The aircraft covered 
+ by this certificate has been examined, tested, and found to comply with the type 
+ design approved under U.S. Type Certificate Number H4EU and to be in a 
+ condition for safe operation.”"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the helicopter for certification. 
+ Aerospatiale Report No. 332A.04.3254 lists required and regional equipment for 
+ the helicopter. 
+ In addition the following item of equipment is required: 
+ DGAC-approved AS332C Rotorcraft Flight Manual normal Revision 1 dated 
+ 25-09-81 with B pages (dated coded 81-38) or later approved revision. 
+ EASA approved AS332 C1(e) with AHCAS Rotorcraft Flight Manual normal Revision 1 
+ dated May 27, 2014 with Appendix specific to FAA RN 0 (date coded 14-38), 
+ Note: AS332 C1(e) Rotorcraft Flight Manual will be created at the time of a/c delivery. 
+ DGAC-approved AS332L Rotorcraft Flight Manual normal, Revision 3, dated 
+ February 17, 1982, with B pages (date coded 82-07) or later approved 
+ revision. 
+ DGAC-approved AS332L1 Rotorcraft Flight Manual normal, Revision 1, 
+ dated September 22, 1986, with B pages (date coded 86-22) or later 
+ approved revision. 
+ Note: AS332L1 with AHCAS Rotorcraft Flight Manuals will be created at the time of a/c 
+ delivery. 
+ DGAC-approved AS332L2 Rotorcraft Flight Manual normal Revision 1, 
+ or later approved revision. 
+ For Model EC225LP Standard: 
+ EASA-approved EC225LP Rotorcraft Flight Manual, Normal Revision 9 dated January 
+ 30, 2008 or later approved revision. 
+ For Model EC225LP MPAI variant: 
+ EASA-approved EC225LP MPAI (Multi Purpose Air Intakes) equipped Rotorcraft Flight 
+ Manual, Normal Revision 16 dated January 30, 2008, or later approved revision."
+Empty WeightCG Range,None
+Maximum Baggage,"a. 
+ The cabin floor area between station + 97.6 inches and +300.4 inches 
+ (except Models AS332L2 and EC225LP) or 304.3 inches (Models AS332L2 
+ and EC225LP) is structurally satisfactory for a uniformly distributed loading 
+ of 164 lb/sq.ft. 
+ b. 
+ When the rear baggage compartment is installed per Eurocopter drawing 
+ 332A.82.0703 the maximum load is placarded on the floor and shelves. 
+ c. 
+ When the rear baggage compartment is installed per Eurocopter drawing 
+ 332A.82.0310 (Models AS 332L2 and EC225LP) the maximum load is 
+ placarded on the bulkhead and upholsterings. 
+ For rigging information, refer to the Maintenance Manual appropriate to the"
+and Movement,model.
+Serial Numbers Eligible,See Import Requirements for specific model.
+Service Information,"Each of the documents listed below must state that it is approved by the 
+ European Aviation Safety Agency (EASA) or – for approvals made before 
+ September 28, 2003 – by the French Direction Générale de l’Aviation Civile 
+ (DGAC). Any such documents are accepted by the FAA and are considered 
+ FAA approved. 
+ • 
+ Service Bulletin, 
+ • 
+ Structural repair manuals, 
+ • 
+ Vendor manuals, 
+ • 
+ Aircraft flight manuals, and 
+ • 
+ Overhaul and maintenance manuals. 
+ This applies only to the acceptance of the type design data."
+NOTE 1,"(a) Current weight and balance report including list of required equipment and list of equipment included in 
+ certificated empty weight and loading instructions when necessary, must be provided for each helicopter 
+ at the time of original certification. 
+ (b) Unusable fuel, undrainable oil and all hydraulic fluid must be included in the certificated empty weight. 
+ UNUSABLE FUEL @ 6.6 lbs./gal. 
+ LEFT HAND GROUP 
+ RIGHT HAND GROUP 
+ Quantity 
+ Weight 
+ Quantity 
+ Weight 
+ Model 
+ U.S. Gal. 
+ Lbs. 
+ U.S. Gal. 
+ Lbs. 
+ 330 
+ 4.2 
+ 27.7 
+ 1.3 
+ 8.6 
+ 332 
+ 4.2 
+ 27.7 
+ 0.8 
+ 5.3 
+ 332L 
+ 4.2 
+ 27.7 
+ 1.9 
+ 12.6 
+ 332L1 
+ 332L2 
+ 225LP 
+ 1.65 
+ 10.9 
+ 2.18 
+ 14.4"
+NOTE 2,"The following placards must be displayed in front and in clear view of the pilot. 
+ ""THIS HELICOPTER MUST BE OPERATED IN COMPLIANCE WITH THE OPERATING 
+ LIMITATIONS SPECIFIED IN THE DGAC-APPROVED ROTORCRAFT FLIGHT MANUAL"". 
+ ""THE 'AIRWORTHINESS LIMITATIONS' SECTION OF THE ROTORCRAFT MAINTENANCE 
+ MANUAL MUST BE COMPLIED WITH"". 
+ For Model AS332L2: 
+ ""THIS HELICOPTER IS APPROVED FOR DAY-TIME AND NIGHT-TIME 
+ VFR AND IFR OPERATIONS. "" 
+ ""IT MUST BE OPERATED IN COMPLIANCE WITH THE OPERATING 
+ LIMITATIONS SPECIFIED IN THE DGAC-APPROVED ROTORCRAFT FLIGHT MANUAL"". 
+ ""THE AIRWORTHINESS LIMITATIONS SPECIFIED IN THE ROTORCRAFT MAINTENANCE 
+ MANUAL MUST BE COMPLIED WITH"". 
+ For Model EC225LP: 
+ ""THIS HELICOPTER IS APPROVED FOR DAY-TIME AND NIGHT-TIME 
+ VFR AND IFR OPERATION. "" 
+ ""IT MUST BE OPERATED IN COMPLIANCE WITH THE OPERATING 
+ LIMITATIONS SPECIFIED IN THE EASA-APPROVED ROTORCRAFT FLIGHT MANUAL"". 
+ ""THE AIRWORTHINESS LIMITATIONS SPECIFIED IN THE ROTORCRAFT MAINTENANCE 
+ MANUAL MUST BE COMPLIED WITH"". 
+ The other placards as indicated in the Rotorcraft Flight Manual must be installed in the appropriate location."
+NOTE 3,"Information essential to the proper maintenance of the helicopter is contained in the Manufacturer's 
+ Maintenance Manual provided with each helicopter, which specifies that service life limited parts be retired 
+ in accordance with Chapter 5 approved by the European Aviation Safety Agency (EASA) or – for 
+ approvals made before September 28, 2003 – by the French Direction Générale de l’Aviation 
+ Civile (DGAC). 
+ For the Model AS 332C, AS332 C1(e), AS 332L, AS 332L1, AS 332L2 and EC225LP life limited 
+ components and 
+ their associated retirement times are contained in Section 4 or Section 5.99 titled 
+ ""Airworthiness Limitations"" of the 
+ Master Servicing Recommendations appropriate to the model."
+NOTE 4,"To prevent icing of fuel system components all fuel in the tanks before takeoff must contain anti-icing 
+ additives in accordance with the Rotorcraft Flight Manual."
+NOTE 5,"Model 330 J Helicopters equipped with the external cargo suspension installation in accordance with 
+ Aerospatiale drawing 330A.87.3004 meet the structural and design requirements of the certification basis 
+ when operated at 16,500 pounds total weight in accordance with the limits of the DGAC Approved 
+ Rotorcraft Flight Manual Code B Supplement No. 2 issue 2, dated June 13, 1979 or an approved later 
+ revision."
+NOTE 6,"Composite main rotor blades P/N 330A.11.0020, 330A.11.0022, or 330A.11.0030 having the following 
+ serial numbers may be installed: Serial numbers less than 750 and greater than 1500 and 20,750 through 
+ 21,500. Refer to SA330 ""Puma"" Service Bulletin No. 01.31 amended February 11, 1981."
+NOTE 7,"The Model AS 332C may be operated at a maximum gross weight of 18,400 lbs. when the following 
+ Aerospatiale modifications (AS 332 service bulletin No.) have been incorporated: 
+ 1. 
+ AMS 07.52.164 (See Maintenance Manual for service life limits). 
+ 2. 
+ AMS 332A07.21.516 (S/B 63.01) 
+ 3. 
+ AMS 332A07.52.169 (S/B 63.01) 
+ 4. 
+ AMS 332A07.52.183 (S/B 63.01) 
+ 5. 
+ AMS 332A07.21.497 (S/B 77.01) 
+ 6. 
+ AMS 332A07.21.551 (S/B 22.01) 
+ 7. 
+ AMS 332A07.21.541 (S/B 67.01) and 
+ 8. 
+ Rotorcraft flight Manual AS 332C, Normal Revision 3, Code B (date code 87-07), DGAC - approved 
+ February 16, 1982 or later revision is required."
+NOTE 8,"Models AS332C and AS332L may be operated at a maximum gross weight of 18,960 lb. when 
+ modifications listed in service bulletin No. S/B 01.03 have been incorporated. Rotorcraft Flight Manual 
+ AS332C and AS332L, normal revision 5, Code B (date code 84.32), DGAC approved May 13, 1985 or later 
+ revision is required."
+NOTE 9,"Effective January 1, 2014, Eurocopter France name was changed to Airbus Helicopters."
+NOTE 10,"This TCDS in not valid for the SA330G or SA330F models. According to Airbus Helicopters none of the 
+ aircraft are in existence and have requested they be removed from the TCDS. EASA, the state of design, has 
+ also removed these models from their TCDS."
+NOTE 11,"Model AS332C1 without Advanced Helicopter Cockpit Avionics System (AHCAS) installed are not eligible 
+ for import to the United States. AHCAS requires the installation of the following Airbus Helicopters MODS: 
+ 0726640, 0726641, 0726642, 0726643, 0726644, 0726645, 0726646, 0726647, 0726648, 0726649 and 
+ 0726650. The Model AS332C1 with these MODs are equivalent to the Airbus Helicopters commercial 
+ designation AS332C1(e)."
+NOTE 12,"All training, checking and currency requirements for pilots and crewmembers for commercial 
+ designation AS332C1(e) and AS332L1(e) aircraft will be accomplished in accordance with the 
+ Flight Standardization Board (FSB) report “Airbus Helicopters AS332L1e, AS332C1e” report, as 
+ revised. For further information regarding this training requirement please contact the Fort Worth 
+ Aircraft Evaluation Group."

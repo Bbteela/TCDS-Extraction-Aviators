@@ -1,0 +1,111 @@
+Keyterm,Info
+"A65EU 
+ Revision 3 
+ SME Aero, Inc 
+ MD3-160 
+ March 27, 1996",
+Type Certificate Holder,"SME Aero, Inc. 
+ 3226 Capital Circle 
+ Tallahassee, Florida"
+"I - Model Swiss Trainer MD3-160, Utility and aerobatic aircraft certified by the Swiss Federal Office for Civil Aviation on 
+ 22nd January 1961",
+Engine,Avco Lycoming 0-320-D2A
+Fuel,"AVGAS, 100 & 100 LL Octanes"
+Engine Limits,"Normal rated power 
+ 160 HP 117.7 KW 
+ Full throttle RPM 
+ 2700"
+Propeller and,McCauley 1-C172 AGM 7462
+Propeller Limits,"Weight 14.9kg 32.8lb 
+ Diameter 1.88m 74.0 in 
+ Static RPM at permissible throttle setting, not over 2400, not under 2250 
+ Sensenich 74 DM6S8-0-62 
+ Weight 14.7kg 32.4lb 
+ Diameter 1.88m 74.0 in"
+Propeller Spinner,Mt-Propeller P/N 3.03.15.13.31
+Airspeed Limits,"VD = Maximum design dive speed 
+ VNE = Never exceed speed 
+ VC = Crusing speed 
+ VA = Maneuvering speed 
+ VFE = Maximum flap extended speed"
+Page No,"1 
+ 2 
+ 3"
+Rev No,"3 
+ 2 
+ 3 
+ Acrobatic Category (IAS) 
+ Utility Category (IAS) 
+ MPH/kts 
+ MPH/Kts 
+ 226/196 
+ 201/175 
+ VD 
+ VNE 
+ 201/175 
+ 182/158 
+ VC 
+ 159/138 
+ 142/123 
+ VA 
+ 139/121 
+ 127/110 
+ VFE 
+ 104/90 
+ 104/90 
+ Acrobatic Category 
+ Utility Category"
+Limits,"+6g 
+ +4.4g 
+ Max Positive 
+ -3g 
+ -2.2 
+ Max Negative"
+C G Range,"Most forward C.G 
+ 11.81 in (300 mm) aft datum at 1790 lb (812 kg) 
+ 13.82 in (351 mm) aft of datum at 2028 lb (920 kg) 
+ Between the given values linear variation. 
+ Most rearward C.G. 
+ 14.76 in (375mm) afta of datum."
+Empty Weight CG Range,"See Flight Manual, Section 6: Weight & Balance"
+Datum,Wing Leading Edge.
+Leveling Means,Canopy rails.
+Maximum Weight,Utility Category Aerobatic Category
+Maximum TakeOff,2028 lb (920 kg) 1852 lb (40 kg)
+Maximum Landing,1964 lb (891 kg) 1852 lb (840 kg)
+Minimum Crew,1 pilot
+Number of Seats,2 (side by side) 7.6 in (193.4 mm) aft of datum.
+Maximum Luggage,110 lb (50kg) 38.6 in (980 mm)aft of datum
+Fuel Quantity,"Total Usable Arm 
+ 39.1 US Gal 38.0 US Gal 30.9 in aft of datum 
+ (148 lt) (144 lt) (785 mm)"
+Oil Quantity,"Total Arm 
+ 8 Quarts 39.8 in forward of datum 
+ (7.6 lt) (1011 mm)"
+Control Surface,Flaps Take-Off 15o +/2o Landing 48o+/-2o
+Deflection,Ailerons Up 30o +/-2o down 20o +/-2o
+measured from,Elevator Up 24o +/-2o down 18o +/-2o
+neutral,Rudder left 32o +/-2o right 32o +/2o
+Trim Tabs,"Aileron left up 18o +/-2o down 18o +/-2o 
+ Elevator up 18o +/-2o down 18o +/-2o 
+ Rudder left 7o +/-1o"
+Balance Tabs,"Aileron right left at 0o trim, up 27o down 27o, +/-2o 
+ right at 0o trim, up 27o down 27o, +/-2o 
+ Rudder left at 0o trim right 54o+/-2o 
+ right at 0o trim left 40o +/-2o"
+Nose Wheel Steering,Left 30o right 44o
+Serial Nos Eligible,S/N 003 to 005.
+Certification Basic,"14 CFR Part 21.29, dated June 30th, 1988, utility and aerobatic category. (14 CFR 
+ Part 23, dated June 30th, 1988, utility and aerobatic category including amendments 
+ 23-1 to 23-35)"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. 
+ Exhaust system installation of Either: 
+ a) Long exhaust system (MM 78-00-00) 
+ b) Short exhaust system (MM 78-00-00) in combination with the ventral fin 
+ P/N 0.03.12.59.52 on underside of rear fuselage."
+Note 1,"Current weight and balance data together with a list of equipment included in the 
+ certificated empty weight and loading instructions, when necessary, must be 
+ provided for each aircraft at the time of original certification."
+Note 2,"The placards listed in Section 2 of the Swiss FOCA - approved Airplane Flight 
+ Manual MD3-160 must be displayed."

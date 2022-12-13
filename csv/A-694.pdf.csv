@@ -1,0 +1,802 @@
+Keyterm,Info
+"A-694 
+ Revision 27 
+ LUSCOMBE 
+ 8 8D 
+ 8A 8E 
+ 8B 8F 
+ 8C T-8F 
+ June 23, 2021",
+Type Certificate Holder,"Luscombe Aircraft Corporation 
+ 3301 Turner Road 
+ Jamestown, New York 14701"
+Type Certificate Record Holder,"Luscombe Aircraft Corporation 
+ 842 Forest Glen Rd., #932 
+ Twin Peaks, California 92391 
+ Good Earthkeeping Organization, Inc. 
+ 1612 Jenks Drive 
+ Corona, California 92880 
+ Team Luscombe, LLC 
+ 241 South Washington Street 
+ Chandler, Arizona 85225 
+ (Transferred ownership of A-694 to Good Earthkeeping Organization, Inc. on October 21, 2011) 
+ The Don Luscombe Aviation History Foundation, Inc. 
+ P.O. Box 63581 
+ Phoenix, Arizona 85082 
+ Larsen Luscombe Corporation 
+ Alaska International Corporation 
+ Surety Credit Corporation 
+ Silvaire Aircraft Company 
+ Temco Aircraft Corporation"
+"I - Model 8, 2 PCLM (Normal Category), Approved August 11, 1938",
+Engine,"Continental A-50-1 (see item 126A for optional engines). 
+ Not eligible for original certification with single ignition engine"
+Fuel,73 minimum octane aviation gasoline
+Engine limits,"For all operations, 1900 r.p.m. (50 hp.)"
+Propeller limits,"Maximum permissible diameter, 79in."
+Airspeed limits,"Level flight or climb 115 m.p.h. (100 knots) True Ind. 
+ Glide or dive 145 m.p.h. (126 knots) True Ind."
+CG range,(+13.6) to (+18.4)
+Empty weight CG range,"Forward limits 
+ (+13.8) with item 105. 
+ (+13.4) with items 105 and 106. 
+ (+12.3) with items 101 and 105. 
+ (+15.9) with items 102. 
+ (+14.8) with items 101 and 102. 
+ When empty weight C.G. falls within pertinent range, computation of critical fore and aft C.G. positions in 
+ unnecessary. Ranges are not valid for non-standard arrangements except as noted."
+Maximum weight,1200 lb.
+No of seats,2 (+20)
+Maximum baggage,55 lb. (+40)
+Fuel capacity,"14 gal. (+40). See items 101, 102 and 106 for optional tanks."
+Oil capacity,4 qt. (-24)
+Control surface movements,"Elevators Up 29° Down 27° 
+ Rudder Right 32° Left 32° 
+ Ailerons (not available)"
+Serial Nos eligible,833 and up (see NOTE 3 for S/N 801 thru 833)
+Required equipment,"Items 6, 104, 201 and 203. 
+ Page No. 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ Rev No. 
+ 27 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ -"
+"II – Model 8A, 2 OCL-SM (Normal Category), Approved March 27, 1939 
+ Same as model 8 except engine installation. Also eligible with all metal wings, with either .016 or .020 aluminum alloy 
+ skin covering and .016 skin covering for ailerons per Luscombe dwg. 082201. For .016 skin, no weight increase is 
+ necessary. For .020 skin the weight is increased 15 lb. at (+20).",
+Engine,"Continental A-65-1 (see item 126.B for optional engines.) 
+ Not eligible for original certification with single ignition engine."
+Fuel,"73 minimum octane aviation gasoline 
+ 80 minimum octane required for seaplane (with item 212 installed)"
+Engine limits,"For all operations, 2350 r.p.m. (65 hp)"
+Propeller limits,"Maximum permissible diameter: 
+ (Landplane) 
+ 79 in. 
+ (Seaplane with item 204) 
+ 85 in. 
+ (Seaplane with item 212, see propeller item 2 (f)."
+Airspeed limits,"(Landplane) Level flight or climb 
+ 115 m.p.h. (100 knots) True Ind. 
+ Glide or dive 
+ 145 m.p.h. (126 knots) True Ind. 
+ (Seaplane) Level flight or climb 
+ 109 m.p.h. (95 knots) True Ind. 
+ Glide or dive 
+ 145 m.p.h. (126 knots) True Ind."
+CG range,"(Landplane) (+13.6) to (+19.0). When bungee is replaced by elevator trim tab 
+ (dwg. 48589) following range must be used: (+13.6) to (+18.8) 
+ (Seaplane) (+15.4) to (+18.3)"
+Empty wt CG range,"Landplane 
+ Seaplane 
+ Seaplane 
+ Fuel Tank 
+ ____________ 
+ (With item 204) 
+ (With item 212) 
+ Installation 
+ Forward limits 
+ (+11.6) 
+ (+14.0) 
+ (+14.0) 
+ Item 105, or 101 and 
+ 105 or 105 and 106. 
+ (+12.3) 
+ (+14.7) 
+ (+14.7) 
+ Item 102 or 112. 
+ (+12.2) 
+ (+14.4) 
+ (+14.4) 
+ Item 115. 
+ Rear limits 
+ (+14.8) 
+ (+15.1) 
+ (+14.4) 
+ Item 105. 
+ (+13.7) 
+ (+14.2) 
+ (+14.4) 
+ Item 101 and 105. 
+ (+14.5) 
+ (+14.9) 
+ (+14.0) 
+ Item 105 and 106. 
+ (+17.0) 
+ (+17.0) 
+ (+17.5) 
+ Item 102. 
+ (+17.3) 
+ (+16.7) 
+ Item 112. 
+ (+16.9) 
+ (+16.7) 
+ (+15.7) 
+ Item 115. 
+ When empty weight C.G. falls within the pertinent range, computation of critical fore 
+ and aft C.G. position is unnecessary. Ranges are not valid for non-standard 
+ arrangements except as noted."
+Maximum weight,"(Landplane) 1200 lb. See NOTE 6 for 1260lb. 
+ (Seaplane with item 204) 1260lb. 
+ (Seaplane with item 212) 1350lb."
+No of seats,2 (+20)
+Maximum baggage,75 lb. (+40)
+Fuel capacity,"14 gal. (+40). Placard required: “Full carburetor air heat required for takeoff and landing.” The reason 
+ for this placard is that during takeoff acceleration and initial high-angle-of-attack climb, the fuel flow 
+ may not be adequate for proper operation. Application of full carburetor heat in this case helps 
+ overcome the possible deficiency of fuel flow during takeoff. Carburetor ice is not a basic consideration 
+ in requiring this placard. (See also items 101, 102, 106, 111, 112, and 115 for optional tanks.)."
+Oil capacity,4 qt. (-24)
+Control surface movements,"Elevators Up 29° Down 27° 
+ Rudder Right 32° Left 32° 
+ Aileron Up 25° Down 25° 
+ Elevator tab (required for Up 14° Down 28° 
+ seaplane with item 212)"
+Serial Nos eligible,833 and up (see NOTE 3 for S/N 801 thru 833)
+Required equipment,"(Landplane) Items 6, 104, 124, 201, 203 
+ (Seaplane with item 204) Items: 6, 104, 122, 124, 204, 605, 606 
+ (Seaplane with item 212) Items: 2(f), 104, 122, 124, 204, 605, 606"
+"III – Model 8B, 2 PCLM (Normal Category), Approved March 18, 1940 
+ Same as model 8 except engine installation",
+Engine,"Lycoming O-145-B1 (see item 126.C. for optional engines) 
+ Not eligible for original certification with single ignition engine."
+Fuel,73 minimum octane aviation gasoline
+Engine limits,"For all operations, 2550 r.p.m. (65 hp.)"
+Propeller limits,"Static r.p.m. at maximum permissible throttle settings: not over 2500, not under 2060. 
+ No additional tolerance permitted. 
+ Diameter: Not over 79 in, not under 68 in."
+Airspeed limits,"Level flight or climb 115 m.p.h. (100 knots) True Ind. 
+ Glide or dive 145 m.p.h. (126 knots) True Ind."
+CG range,"(+13.6) to (+19.0). When bungee is replaced with elevator trim tab (dwg. 48589) 
+ following range must be used: (+13.6) to (+18.8)"
+Empty wt CG range,"Forward limits 
+ (+11.6) with item 105, or 101 and 105. 
+ (+12.2) with item 102, or 101 and 102."
+Empty wt CG range,"Rear limits 
+ (+14.8) with item 105. 
+ (+13.7) with items 101 and 105. 
+ (+17.0) with item 102. 
+ (+15.9) with items 101 and 102. 
+ When empty weight C.G. falls within pertinent range, computation of critical fore and aft C.G. 
+ positions is unnecessary. Ranges are not valid for non-standard arrangements except as noted."
+Maximum weight,1200 lb.
+No of seats,2 (+20)
+Maximum baggage,55 lb. (+40)
+Fuel capacity,14 gal. (+40). (see items 101 and 102 for optional tanks).
+Oil capacity,5 qt. (-24)
+Control surface movements,"Elevators Up 29° Down 27° 
+ Rudder Right 32° Left 32° 
+ Aileron (not available)"
+Serial Nos eligible,833 and up (see NOTE 3 for S/N 801 thru 832)
+Required equipment,"Items 6, 104, 201, 203."
+"IV – Model 8C, 2PCL-SM (Normal Category), Approved June 17, 1940 
+ Same as model 8 except engine installation.",
+Engine,Continental A-7508J (see item 126. for optional engines).
+Fuel,73 minimum octane aviation gasoline
+Engine limits,"For all operations, 2600 r.p.m. (75 hp.)"
+Propeller limits,"Static r.p.m. at maximum permissible throttle settings 
+ (no additional tolerance permitted): 
+ (Landplane) not over 2450, not under 1950. 
+ (Seaplane) not over 2450, not under 2060. 
+ Diameter: 
+ (Landplane) not over 79 in., not under 68in. 
+ (Seaplane) not over 85 in., not under 68 in."
+Airspeed limits,"(Landplane) Level flight or climb 
+ 115 m.p.h. (100 knots) True Ind. 
+ Glide or dive 
+ 145 m.p.h. (126 knots) True Ind. 
+ (Seaplane) Level flight or climb 
+ 109 m.p.h. (95 knots) True Ind. 
+ Glide or dive 
+ 145 m.p.h. (126 knots) True Ind."
+CG range,"(Landplane) (+13.6) to (+19.0). When bungee is replaced by elevator trim tab 
+ (dwg. 48589) following range must be used: (+13.6) to (+18.8) 
+ (Seaplane) (+15.4) to (+18.3)"
+Empty wt CG range,"Landplane 
+ Seaplane 
+ Fuel Tank Installation 
+ Forward limits 
+ (+11.6) 
+ (+14.0) 
+ Item 105, or 101 and 105 or 105 and 106. 
+ Item 102 or 101 and 102 
+ (+12.3) 
+ (+14.7) 
+ Rear limits 
+ Item 105. 
+ (+14.8) 
+ (+14.0) 
+ Item 101 and 105. 
+ (+13.7) 
+ ( * ) 
+ Item 105 and 106. 
+ (+14.5) 
+ ( * ) 
+ Item 102. 
+ (+17.0) 
+ (+16.1) 
+ Item 101 and 102 
+ (+15.9) 
+ ( * ) 
+ (*each case must be checked when item 101 or 106 is installed) When empty weight C.G. falls 
+ within pertinent range, computation of critical fore and aft C.G. positions unnecessary. Ranges are 
+ not valid for non-standard arrangements excepted as noted."
+Maximum weight,"(Landplane) 1200 lb. See NOTE 4 regarding higher weights). 
+ (Seaplane) 1260 lb."
+No of seats,2 (+20)
+Maximum baggage,55 lb. (+40)
+Fuel capacity,"14 gal. (+40). See items 101, 102 and 106 for optional tanks."
+Oil capacity,4 qt. (-24)
+Control surface movements,"Elevator 
+ Up 29° 
+ Down 27° 
+ Rudder 
+ Right 32° 
+ Left 32° 
+ Ailerons (not available)"
+Serial Nos eligible,833 and up (see NOTE 3 for S/N 801 thru 832)
+Required equipment,"(Landplane) Items: 6, 104, 201 and 203 
+ (Seaplane) Items: 6, 104, 122, 204, 605 and 606"
+"V – Model 8D, 2 PCL-SM (Normal Category), Approved October 24, 1941 
+ Same as Model 8C except for increased maximum weight, wing covering with intermediate or “Grade A fabric, revised fuel system 
+ and addition of elevator trim tab replacing bungee. The seaplane model has special engine cooling baffles.",
+Engines,Continental A-75-8J (see item 126.E. for optional engines)
+Fuel,73 minimum octane aviation gasoline
+Engine limits,"For all operations, 2600 r.p.m. (75 hp)"
+Propeller limits,"Static r.p.m. at maximum permissible throttle setting (no additional tolerance permitted). 
+ (Landplane) not over 2450, not under 2060. 
+ (Seaplane) not over 2325, not under 2225. 
+ Diameter: (landplane and seaplane) maximum 72 in., minimum 70 in."
+Airspeed limits,"(Landplane) 
+ Level flight or climb 
+ 115 m.p.h. (100 knots) True Ind. 
+ Glide or dive 
+ 145 m.p.h. (126 knots) True Ind. 
+ (Seaplane) 
+ Level flight or climb 
+ 109 m.p.h. (95 knots) True Ind.. 
+ Glide or dive 
+ 145 m.p.h. (126 knots) True Ind."
+CG range,"(Landplane) (+13.6) to (+19.0). 
+ (Seaplane) (+14.5) to (+17.6)"
+Empty wt CG range,"Landplane 
+ Seaplane 
+ Fuel Tank Installation 
+ Forward limits 
+ (+12.3) 
+ (+13.5) 
+ Item 102, or 101 and 102 
+ (+11.3) 
+ (+12.6) 
+ Item 105, or 101 and 105 
+ Rear limits 
+ (+17.2) 
+ (+15.1) 
+ Item 102 
+ (+16.3) 
+ (+14.2) 
+ Item 101 and 102 
+ (+14.5) 
+ (+12.6) 
+ Item 105 
+ (+13.5) 
+ ( * ) 
+ Item 101 and 105 
+ (*each case must be checked separately when items 101 and 105 are installed in the 
+ seaplane). When the empty weight C.G. falls within the pertinent range, computation of the critical 
+ fore and aft C.G. positions is unnecessary. Ranges are not valid for non-standard arrangements 
+ except as noted."
+Maximum weight,"(Landplane) 1310 lb. 
+ (Seaplane) 1375 lb."
+No of seats,2 (+20)
+Maximum baggage,55 lb. (+40)
+Fuel capacity,"23 gal. (two 11-1/2 gal. tanks in weight at +20). (see items 101 and 105 for optional) 
+ tanks)."
+Oil capacity,4 qt. (-24)
+Control surface movements,"Elevators 
+ Up 29° 
+ Down 27° 
+ Rudder 
+ Right 32° 
+ Left 32° 
+ Ailerons (not available)"
+Serial Nos eligible,"(Landplane) 1807 and up 
+ (Seaplane) 1885 and up"
+Required equipment,"(Landplane) Items 6, 104, 201 and 203 
+ (Seaplane) Items 6, 104, 122, 204, 605 and 606"
+"VI – Model 8E, 2PCLM (Normal Category), Approved December 11, 1946; 2 PCSM (Normal Category), 
+ Approved May13 1948 
+ Similar to model 8D except for increased maximum weight, increased horsepower and minor structural changes. Model 8E was 
+ formerly designated as Model 8E Optional. It will not be necessary to revise the aircraft operation record to indicate this change in 
+ model",
+Engine,Continental C-85-12 (see item 126.F. for optional engines)
+Fuel,"73 minimum octane aviation gasoline, except 
+ 80 minimum octane required for seaplane with item 204 or 212"
+Engine limits,"For all operations, 2575 r.p.m. (85 hp.)"
+Propeller limits,"(Landplane) Static r.p.m. at maximum permissible throttle settings, not over 2255, not under 
+ 1970. No additional tolerance permitted. 
+ (Seaplane) See item 2(e) under “ Propeller and Propeller Accessories”"
+Airspeed limits,"(Landplane) Level flight or climb 
+ 115 m.p.h. (100 knots) True Ind. 
+ Glide or dive 
+ 145 m.p.h. (126 knots) True Ind. 
+ (Seaplane) Level flight or climb 
+ 109 m.p.h. ( 95 knots) True Ind. 
+ Glide or dive 
+ 145 m.p.h. (126 knots) True Ind."
+CG range,"(Landplane) (+13.6) to (+16.8) 
+ (Seaplane) (+14.6) to (+16.7) (with item 204 or 212)"
+Empty wt CG range,"Landplane 
+ Seaplane 
+ Fuel Tank Installation 
+ Forward limits 
+ (+12.3) 
+ (+13.3) 
+ Item 102, or 109, or 111 or 115 
+ Rear limits 
+ (+13.7) 
+ (+13.3) 
+ Items 102, or 109, or 111 
+ (+13.1) 
+ (+13.3) 
+ Item 115 
+ When empty weight C.G. falls within the pertinent range, computation of critical fore and aft C.G. 
+ positions is necessary. Ranges are not valid for non-standard arrangements excepted as noted."
+Maximum weight,"(Landplane) 1400 lb. 
+ (Seaplane) with item 204) 1375 lb. 
+ (Seaplane with 212) 1470 lb."
+No of seats,2 (+20)
+Maximum baggage,75 lb. (+40)
+Fuel capacity,"25 gal. (two 12-1/2 gal. tanks in wings at +20) (see also items 102, 111, 112, and 115 for optional 
+ tanks)."
+Oil capacity,5 qt. (-24)
+Control surface movements,"Elevators 
+ Up 28° 
+ Down 29.5° 
+ Rudder 
+ Right 28° 
+ Left 28° 
+ Ailerons 
+ Up 25° 
+ Down 25° 
+ Elevator tab (landplane) 
+ Up 14° 
+ Down 25° 
+ Optional 
+ Up 10° 
+ Down 33° 
+ Elevator tab (seaplane) 
+ Up 7° 
+ Down 41°"
+Serial Nos eligible,"833 and up when converted in accordance with pertinent provisions of Luscombe Service 
+ Department Letter of August 4, 1947."
+Required equipment,"(Landplane) 
+ Items 6, 104, 205 and 206 
+ (Seaplane with item 204) 
+ Items 2(e), 104, 113, 204, 605 and 606 
+ (Seaplane with item 212) 
+ Item 2(e), 104, 113, 212 and 605"
+"VII – Model 8F, 2 PCLM (Normal Category), Approved May 25, 1948; 2 PCSM (Normal Category), 
+ Approved July 26 1948 
+ Same as model 8E except engine installation. For conversion of model 8E to 8F airplanes in addition to changes noted below, 
+ cowling modification per Luscombe E.O. No. 2167 against dwg. 086085 is required.",
+Engine,Continental C-90-12F (see item 126.G. for optional engines)
+Fuel,80 minimum octane aviation gasoline
+Engine limits,"For all operations, 2475 r.p.m. (90 h.p.)"
+Propeller limits,"(Landplane) See items 4(a) and 5. 
+ (Seaplane) See item 4(b)."
+Airspeed limits,"(Landplane) Level flight or climb 
+ 115 m.p.h. (100 knots) True Ind. 
+ Glide or dive 
+ 145 m.p.h. (126 knots) True Ind. 
+ (Seaplane) Level flight or climb 
+ 109 m.p.h. ( 95 knots) True Ind. 
+ Glide or dive 
+ 145 m.p.h. (126 knots) True Ind."
+CG range,"(Landplane) (+13.6) to (+16.8) 
+ (Seaplane with item 204 or 212) (+14.6) to (+16.7)"
+Empty wt CG range,"Landplane 
+ Seaplane 
+ Fuel Tank Installation 
+ Forward limits 
+ (+12.2) 
+ (+13.8) 
+ Item 109 or 102 
+ (+12.3) 
+ (+13.9) 
+ Item 111 or 112 
+ Rear limits 
+ (+13.2) 
+ (+15.5) 
+ Item 102 or 109 
+ (+13.4) 
+ (+15.8) 
+ Item 111 
+ (+13.3) 
+ (+15.8) 
+ Item 112 
+ When empty weight C.G. falls within the pertinent range, computation of critical fore and aft C.G. 
+ positions is necessary. Ranges are not valid for non-standard arrangements except as noted."
+Maximum weight,"(Landplane) 1400 lb. 
+ (Seaplane with item 204) 1375 lb. 
+ (Seaplane with item 212) 1470 lb."
+No of seats,2 (+20)
+Maximum baggage,75 lb. (+40)
+Fuel capacity,"25 gal. (see also item 102, 111 and 112 for optional tanks)"
+Oil capacity,5 qt. (-24)
+Control surface movements,"Elevators 
+ Up 28° 
+ Down 29.5° 
+ Rudder 
+ Right 28° 
+ Left 28° 
+ Aileron 
+ Up 25° 
+ Down 25° 
+ Elevator tab (landplane) 
+ Up 10° 
+ Down 33° 
+ Elevator tab (seaplane) 
+ Up 7° 
+ Down 41°"
+Serial Nos eligible,"1925 thru 6800, S-1 and up"
+Required equipment,"(Landplane) Items 4(a), 114, 205, and 206 (size 6.00-6 only) 
+ (Seaplane with item 204) Items 4(b), 113, 114, 204, 605 and 606 
+ (Seaplane with item 212) Items 4(b), 113, 114, 212 and 605"
+"VIII – Model T-8F, 2 PCLM (Restricted and Standard Categories), Approved June 14, 1948 
+ forward, minor changes in electrical system and fuel system, battery relocated, hydraulic brakes, dorsal fin.",
+Engines,Continental C-90-12F (see item 126 for optional engines)
+Fuel,80 minimum octane aviation gasoline
+Engine limits,"For all operations, 2475 r.p.m. (90 h.p.)"
+Propeller limits,See item 4(a) or (b)
+Airspeed limits,"Level flight or climb 115 m.p.h. True Ind. 
+ Glide or dive 145 m.p.h. True Ind."
+CG range,(+12.1) to (+18.1)
+Empty weight CG range,"When empty weight C.G. falls within this range, computation of critical fore and aft C.G. 
+ Positions in unnecessary. Range is not valid for non-standard arrangements except as indicated. 
+ Installation of fixed ballast per Luscombe dwg. 481364 not to exceed 30 lb. is approved at (+63) 
+ and is placarded: “Removal requires weight and balance check.”"
+Maximum weight,"1400 lb. (for crop sprayer, see NOTE 8)"
+No of seats,"1 (1 +15, 1 +47). Placard required: “Solo from front seat only.”"
+Maximum baggage,None
+Fuel capacity,30 gal. (see items 109 and 111 for optional tanks)
+Oil capacity,5qt. min. (-24)
+Control surface movement,"Elevators 
+ Up 24° 
+ Down 23° 
+ Elevator control tab 
+ Up 10° 
+ Down 41° 
+ Rudder 
+ Right 18° 
+ Left 18° 
+ Aileron 
+ Up 13° 
+ Down 14°"
+Serial Nos eligible,"6058 thru 6800, ST-1 and up"
+Required equipment,"Items 4(a) or (b), 114, 205, 206(g) and 213"
+Specifications Pertinent to All Models,
+Datum,Wings leading edge
+Leveling means,Top of horizontal splice plate on side of fuselage
+Certification basis,"Part 4a of the Civil Air Regulations 
+ Type Certificate No. 694 issued August 11, 1938"
+Production basis,"None. Prior to original certification of any aircraft manufactured after January 2, 1951, an FAA 
+ representative must perform a detailed inspection for workmanship, materials conformity with the 
+ approved technical data, and a check of flight characteristics."
+Export eligibility,"Eligible to all countries subject to the provisions of Advisory Circular 21-2 effective 
+ July 16, 1965, except as follows: 
+ (a) Canada – Landplane, seaplane and skiplane eligible. 
+ Equipment: A Plus(+) or minus(-) sign preceding the weight of an item indicates net weight change when that item is installed. 
+ Special Note: So that all equipment items must be in their proper categories, the following items were renumbered as follows: 
+ 1/ 
+ Item 6 was formerly item 101. 
+ 2/ 
+ Item 101 was formerly item 201. 
+ 3/ 
+ Item 102 was formerly item 203. 
+ 4/ 
+ Item 103 was formerly item 204. 
+ 5/ 
+ Item 125 was formerly item 208. 
+ 6/ 
+ Item 126 was formerly item 302. 
+ 7/ 
+ Item 127 was formerly item 307. 
+ 8/ 
+ Item 128 was formerly item 312. 
+ 9/ 
+ Item 129 was formerly item 313. 
+ 10/ 
+ Item 201 was formerly item 102. 
+ 11/ 
+ Item 203 was formerly item 103. 
+ 12/ 
+ Item 204 was formerly item 151. 
+ 13/ 
+ Item 205 was formerly item 301. 
+ 14/ 
+ Item 206 was formerly item 303. 
+ 15/ 
+ Item 207 was formerly item 308. 
+ 16/ 
+ Item 208 was formerly item 310. 
+ 17/ 
+ Item 209 was formerly item 311. 
+ 18/ 
+ Item 210 was formerly item 315. 
+ 19/ 
+ Item 301 was formerly item 205. 
+ 20/ 
+ Item 303 was formerly item 206. 
+ 21/ 
+ Item 402 was formerly item 209. 
+ 22/ 
+ Item 403 was formerly item 304. 
+ 23/ 
+ Item 607 was formerly item 210."
+a Hub R002101 or R003100,"+12 lb. (-48) 
+ Blades R002-205-72 or R003-235-72 (Model 8C) 
+ Blades R003-201-72T or R003-231-72T (Models 8A and 8D) 
+ Diameter: not over 71 in., not under 70.5 in. 
+ Pitch settings at 27 in. sta.: 
+ high 19°, low 13° (Model 8A) 
+ high 19.5°, low 13.5° (Model 8C) 
+ high 18.5°, low 12.0° (Model 8D) 
+ 1 lb. (-24)"
+(a) For Model 8C (landplane and seaplane) with A-75-8J engine with following limits:,
+(b) For Model 8A (landplane and seaplane with item 204 floats) with,
+"(c) For Model 8A with A-65-8, -8F, -3, -7, -9 and -9F engines with the following limits:",
+(d) For Model 8D with the following limits (landplane only),
+(e) For Model 8A seaplane with item 212 floats – 1A90-CF-7144 or any other,
+(f) For Model 8A seaplane with item 212 floats. Any 1A90-CF propeller which meets the,
+(g) For Model 8E landplane – 1A90-CF-7144 or any other 1A90-CF propeller which,
+Hub Model – HA-12UO or HA-12UF,
+Eligible at diameter and station r.p.m. limits shown for fixed pitch wood models,
+(a) For models 8F and T-8F landplanes – 1B90-CM-7154 or any other 1B90-CM,
+(b) For models 8F seaplane and T-8F landplane – 1B90-CM-7347 or any other,
+(c) For model T-8F landplane with C-90-12FJ engine – 1B90-CM-7345 or any other,
+5. For model 8F landplane – Lewis propeller model L77CK-47 or any other fixed pitch wood,
+"(Models 8A, 8b, 8C, 8D, 8E and 8F)",
+4103 Exhaust mufflers,"(a) Twin mufflers E.D.L. type A4 (models 8A, 8C, 8D only) 
+ 9 lb. (-22) 
+ (b) Aero muffler type A3A (model 8B only) 
+ 5 lb. (-22) 
+ (c) Kay muffler – heater exhaust system per Luscombe dwg. 086142 (models 8E, 8F, T-8F). 
+ a 5 qt. oil tank only can be used with this item due to clearance considerations. 
+ (d) Hanlon-Wilson model 207 muffler-heater exhaust system per Luscombe dwg. 086149 
+ (models 8A, 8E, 8F, T-8F) 
+ (e) Davis Silencer Co. model D-85-90-L for Luscombe 8E, 8F, T-8F, installed per Davis 
+ 3 lb. (-20) 
+ Silencer Co. dwg. D-65-90L. 
+ (f) Davis Silencer Co. model D-65-75 for Luscombe 8, 8A, 8C, 8D, installed per Davis Silencer Co. 
+ 2 lb. (-20) 
+ dwg. D-65-90L."
+105. 14 gal. fuselage fuel tank system (model 8D with this change requires installation of injector,
+"108. Starter, Delco-Remy EX-30012 (model 8E only)",
+"109. Two 12.5 gal. wing tank replacing 11.5 gal. wing tanks (models 8A, 8E, 8F, T-8F)",
+"110. Starter, Righter engine ring model A-1 (Righter instln. dwg. 10600)",
+"111. Two 15 gal. bladder type wing fuel cells (models with all metal wings – 8A, 8E, 8F, T-8F)",
+"115. One 12.5 gal. metal wing tank (models with all metal wings, 8A, 8E)",
+"117. Starter, Delco-Remy 1109656 (models 8E, 8F, T-8F)",
+"118. Fram oil filter, Fram instln. sheet No. 61517 (models 8A, 8E)",
+121. Injector fuel system instln. (model T-8F only),
+124. Pressure vent fuel cap (Luscombe dwg. 486021) required for fuselage tank. Model 8A,
+5125 Engines shielding,"2 lb. (-34) 
+ 6/126. Engines (not eligible for original certification with single ignition engines) 
+ A. Model 8 (Continental, per Engine Spec. No. 190) 
+ (-32) 
+ (1) A-50-2 
+ +6 lb. 
+ (2) A-50-3 or A-50-8 
+ +10lb. 
+ (3) A-50-4 
+ +3 lb. (-32) 
+ (4) A-50-5 or A50-9 
+ +13 lb. 
+ (5) A-50-6 
+ +16 lb. 
+ (6) A-50-7 
+ No weight change 
+ B. Model 8A (Continental, per Engine Spec. No. 205) 
+ (-32) 
+ (1) A-65-1J – engine limits same as for A-65-1 
+ (2) A-65-3 or A-65-3J (engine limits for all operations, 2300 r.p.m. 65 hp.) 
+ +10 lb. 
+ (3) A-65-6 or A-65-7J (engine limits same as (2) 
+ +13 lb. 
+ (4) A-65-7 or A-75-7J (engine limits same as (2) 
+ No weight change 
+ (5) A-65-8, or A-65-8F or A-65-8FJ (injector engines equipped with high model A injector) 
+ +10 lb. 
+ Engine limits same as (2) 
+ (6) A-65-9, A-65-9F, A-65-9J or A-65-9FJ (injector engines equipped with high model 
+ +13 lb. 
+ A injector) 
+ C. Model 8B (Lycoming, per Engine Spec. No. 210) 
+ (-33) 
+ (1) O-145-B2 
+ +11 
+ (2) O-145-B3 
+ +14 lb. 
+ D. Model 8C (Continental per Engine Spec. No. 213) 
+ (-32) 
+ (1) A-75-9J 
+ +3 lb. 
+ (2) A-75-9 (with item 102 or 107 only) 
+ +3 lb. 
+ (3) A-75-8 (with item 102 or 107 only) 
+ No weight change 
+ (4) A-75-6 (with item 102 or 107 only) 
+ +3 lb. 
+ E. Model 8D (Continental per Engine Spec. No. 213) 
+ (-32) 
+ (1) A-75-8 
+ No weight change 
+ (2) A-75-9 or A-75-9J 
+ +3 lb. 
+ F. Model 8E (Continental per Engine Spec. No. 233) 
+ (1) C-85-12F 
+ No weight change 
+ (2) C-85-8F 
+ -2 lb. (-32) 
+ G. Model 8F (Continental per Engine Spec. No. 252) 
+ (1) C-90-8F 
+ -4 lb. (-32) 
+ H. Model T-8F (Continental per Engine Spec. No. 252) 
+ (1) C-90-8F 
+ (2) C-90-12FJ (item 4)c), 119, 120, 121, required) 
+ No weight change 
+ When this engine and two tanks are installed, placard panel: 
+ “1. Use left tank for takeoff and until at least three-fourths fuel is expended. 
+ 2. Use right tank until expended. 
+ 3. Use left tank thereafter.” 
+ 7/127. Engine mount per dwg. 48147 (for engines not incorporating integral rubber shocks) 
+ No weight change"
+"8/128. Hummer starter, model X (models 8A, 8B, 8C, 8D only)",
+"9/129. Starter, Eclipse type 635 model 3",
+10/130. Model 8E and 8F. Lycoming O-320 or O-320-A1A engine; McCauley 1C172/MGM 7462,
+Landing Gear and Floats,"11/201. 3-in. wheel (Goodyear 3LNBM) with 16 X 7-3 tires 
+ 21 lb. (+3)"
+12203 Tail Skid,"13/204. Float installation – Edo 60-1320, 170 lb. 
+ +109 lb. (+25) 
+ (Including water rudder and auxiliary fin). 
+ Installation in accordance with Luscombe dwg. 08732C for 8A, 8E, 8F, 
+ and dwg. 58725 for 8C, 8D. Following is applicable to this installation: 
+ (a) Rear strut float attachment fittings station 4 must conform to Luscombe dwg. 58730C 
+ (b) Placard required: 
+ (1) On fuselage skin over hosting lugs: 
+ “Spreader-bar must be used during hoisting.”"
+14205 Tail wheel assemblies,"(a) Luscombe, 3 in 
+ +2 lb. (+179) 
+ (b) Universal Alloy G-4 or GLD-4 or GLD-19 
+ +4 lb. (+181) 
+ (c) Luscombe, 6 in. (dwg. 48338) 
+ (d) Health G1A, 6 in., steerable 
+ +4 lb. (+181) 
+ (e) Scott 3-24-B, 6 X 2.00, steerable 
+ 6 lb. (+183) 
+ (f) Maule SFS-1-4 or SAFS-14 
+ 6 lb. (+183) 
+ (g) Decker D-501, steerable. Installation requires modified rudder in accordance 
+ 6 lb. (+183) 
+ with either (1) or (2) or NOTE 7. 
+ (h) Maule SFS-1-4-P8 
+ 7 lb. (+183) 
+ 15/206. Wheels (Silflex cantilever landing gear instln. moves the location of the main wheels 2 in. 
+ (+3) 
+ forward resulting in a location from datum of + 1. See item 213 for Silflex landing gear). 
+ (a) 3 in. with brakes (Goodyear 3LMBM) and 
+ Use act. wt. change 
+ (1) 16 X 7-3 tires (4-ply) 
+ (2) 18 X 8-3 tires (4-ply) 
+ (b) 6.00-6 with brakes (Shinn 6C5B) and 4-ply tires 
+ Use act. wt. change 
+ (c) 6.00-6 (Cleveland model 6.00 CMB) with 6.00-6 4-ply rating tire casing and regular tube. 
+ Use act. wt. change 
+ Wheel assembly No. D48500 
+ Brake assembly No. C7000 
+ (d) 6.00-6 (Goodyear model L6MBD) with 6.00-6 4-ply rating tire casing and regular tube. 
+ Use act. wt. change 
+ Wheel assembly No. 511413M 
+ Brake assembly No. 511254A 
+ (e) 6.00-6 (Goodrich, formerly Hayes model 600M) with 
+ Use act. wt. change 
+ 6.00-6 4-ply rating tire casing and regular tube. 
+ Wheel assembly No. D-3-47MD 
+ Brake assembly No. D-2-129 
+ (f) 6.00-6 (Goodrich, formerly Hayes model 609M) with 
+ Use act. wt. change 
+ 6.00-4 4-ply rating tire casing and regular tube 
+ Wheel assembly No. D-2-129 
+ (g) 6.00-6 (Goodrich, model 610M) with 6.00-6 4-ply rating tire casing and regular tube 
+ Use act. wt. change 
+ Wheel assembly No. D-2-129 
+ Brake assembly No. D-2-129 
+ (h) 6.00-6 (Goodyear model C16HBM) castering, with 
+ +34 lb. (+1) 
+ 6.00-6 4-ply rating tire casing and regular tube 
+ Wheel and brake assembly No. 266Ax36-15 & -16. Instln. must conform to 
+ Luscombe dwg. SK4206 and Goodyear dwg. 280Ax20."
+17208 Wheel streamlines old gear,"10 lb. (+3) 
+ (with Siflex dear location) 
+ 10 lb. (+1)"
+18/209. Skis (eligible on any airplane of these models provided the propeller installation meets the,
+20301 Landing lights,"(a) One Grimes ST-750 (item 303(b) or (c) with item 305(b) required ) 
+ 5 lb. (+12) 
+ (b) Two G.E. lamps No. 4509 (on all metal wing only) (item 314 with 305(b), (c) or (d) required) 
+ 4 lb. (+4)"
+21303 Generator winddriven,"(a) 6 v. Air-Lite 
+ 8 lb. (+3) 
+ (b) 12 v. Air-Lite 
+ 11 lb. (+3) 
+ (c) 12 v. Air Associates 
+ 8 lb. (+3)"
+305 Battery installation,"(a) 6 v. 10 a. hr. (Exide 3-AC-7-1) 
+ 14 lb. (-15) 
+ or 11 lb. (+55) 
+ (b) 12 v. 10 a. hr. (Exide 6-AC-7-1) 
+ 19 lb. (+55) 
+ (c) 12 v. 24 a. hr. (5 hour rate) 
+ 24 lb. (+55) 
+ (d) 12 v. 14 a. hr. (5 hour rate) 
+ 17 lb. (+52) 
+ (e) 12 v. 25 a. hr. (Willard AW 12-25) 
+ 21 lb. (-20) 
+ 309. Lear two-way radio instln. per dwg. 48167 and 28157 
+ 20 lb."
+314 Generator enginedrive,"(a) Delco-Remy model 1101876, P/N 40435 (models 8E, 8F, T-8F) 
+ 10 lb. (-22)"
+401. Luscombe FAA Approved Airplane flight Manual relative to the model T-8F crop sprayer,
+22402 Soundproofing,8 lb. (+27)
+23403 Cabin heater,2 lb. (-22)
+"601. Weight shifter device, model CGS-2B, manufactured by Aircraft Devices Co., Wings Field,",
+"603. Flap, Luscombe dwg. 082300, Change A (model T-8F, metal wing only)",
+"NOTE 3. Serial Nos. 801 thru 832, model 8, 8B or 8C, eligible as above except as follows:",
+"NOTE 4. Model 8C, S/N 1804 and up, eligible for increased maximum weight with following limitations:",
+"NOTE 5. Elevator trim tab, dwg. 48589, may replace bungee with the following C.G. range for models 8A",
+"NOTE 7. The following rudders are also approved for models 8 thru 8E, landplane or seaplane:",
+NOTE 8. Model T-8F aircraft approved for a maximum weight of 1470 lb. In the restricted category prior to,

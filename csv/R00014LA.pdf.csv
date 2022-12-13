@@ -1,0 +1,367 @@
+Keyterm,Info
+"R00014LA 
+ Carson Helicopters, Inc. 
+ SH-3H 
+ August 6, 2009",
+Type Certificate Holder,"Carson Helicopters, Inc. 
+ 952 Blooming Glen Road 
+ Perkasie, PA 18944"
+"I - Model SH-3H (Restricted Category Rotorcraft) Approved August 6, 2009.",
+Engines,(2) General Electric T58-GE-402
+Fuel,"ASTM-D1655 (Jet A, Jet A-1, Jet B); JP4 or JP5 (General Electric Co. Spec. No. 
+ D50T1011 or subsequent revisions thereto). (See Note 13)"
+Engine Limits,"Engine Limits For T58-GE-402 (see Note 14 for horsepower) 
+ Gas 
+ Turbine 
+ Power 
+ Generator 
+ Inlet 
+ Turbine 
+ Speed 
+ Temp. 
+ Rating 
+ Torque 
+ Speed 
+ (%Nf) 
+ (%Ng) 
+ (T5 ºC) 
+ (%Q) 
+ Take-Off (10 Min.) 
+ 103% 
+ --- 
+ <103.7% 
+ 750º 
+ One Engine Inoperative 
+ 30 Min. 
+ 103% 
+ --- 
+ <103.7% 
+ 727º 
+ Maximum Continuous (See 
+ 86% 
+ --- 
+ 101.8% 
+ 691º 
+ Note 15) 
+ Overspeed (Any Time 
+ 106% 
+ --- 
+ 108% 
+ --- 
+ Period. (See Note 16) 
+ Oscillations (See Note 17) 
+ --- 
+ --- 
+ 1% 
+ --- 
+ Starting 
+ Normal 
+ 21% 
+ 950º 
+ (Momentary*) 
+ Min. For Normal Start 
+ 19% 
+ For Battery Start 
+ 14% 
+ Acceleration or Compressor 
+ --- 
+ --- 
+ --- 
+ 950º 
+ Stall (Momentary*) 
+ Stabilized or Slow Transient 
+ --- 
+ --- 
+ --- 
+ 780º 
+ (20 Sec.) 
+ Ground Idle 
+ --- 
+ --- 
+ 56 ±3 % 
+ 575º"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"- 
+ - 
+ - 
+ - 
+ - 
+ -"
+Engine Limits,"* A transient high-temperature condition is one of brief duration in which the 
+ peaks and falls off, either automatically or through the corrective action of the pilot. 
+ The torque may exceed 103% Q on one engine to a maximum of 123% provided that the 
+ power of the other is reduced so that total torque for both engines is not over 206% Q for 
+ 30 minutes or 172% continuously, and that the single-engine Ng, T5, and Q limits are not 
+ exceeded. The governing parameter is the limit that occurs first. 
+ Any time Ng exceeds 106%, the event and its duration must be recorded. 
+ Maximum oil consumption rated during operation is 12 ounces per hour. 
+ Refer to Carson Helicopters, Inc., CAR-110, “SH-3H Rotorcraft Flight Manual”, dated 
+ August 4, 2009"
+Rotor Limits,"Normal 
+ 91% to 112.5% 
+ Maximum 
+ 117%"
+Transmission Torque,See Engine Limits and Notes 14 and 15
+Airspeed Limits,Vne (Never exceed) speed 120 knots IAS.
+Other Limits,None
+Center of Gravity,"Most Forward C.G. 
+ (+258.0) to (+259.6) at 19,100 to 21,000 lbs."
+CG Range,"Most Aft C.G. 
+ (+276.0) to (+275.2) at 19,100 to 21,000 lbs. 
+ (+254.0) to (+280.0) at 16,000 lbs. or less 
+ Straight Line Variation Between Points Given. (See Chart) 
+ 21,000-"
+Lbs,"19,100- 
+ 16,000- 
+ ________________________________________ 
+ 254 258 
+ 276 280 
+ Inches From Datum 
+ Refer to Carson Helicopters, Inc. CAR-110 “SH-3H Rotorcraft Flight Manual”,dated 
+ August 4, 2009. Proper loading shall be determined by use of NAVAIR 01-1B-50, 
+ Technical Manual USN Aircraft Weight and Balance Control. (See Note 1)"
+Empty Weight CG,None
+Datum,267.4 inches forward of main rotor centroid.
+Leveling Means,"Leveling plates on sill and upper frame of cargo door. Leveling procedures contained in 
+ Dept. of Navy NAVAIR 01-230HLH-2-3.1, Technical Manual, Organizational 
+ Maintenance, General Maintenance, Ground Handling, and Servicing Navy Model SH- 
+ 3H/UH-3H and NAVAIR 01-1B-40, Technical Manual Weight and Balance Data."
+Maximum Weight,"21,000 lbs."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"- 
+ - 
+ - 
+ - 
+ - 
+ -"
+Minimum Crew,2 - Pilot and Copilot.
+Number of Seats,"11 – (2) at Sta. +147.0 Pilot and Copilot; (3) at Sta. +283.0 Left Side, (3) at Sta. +283.0 
+ Right Side, (3) at Sta. +353.0 Left Side Aft (Fold Down Crew Member Seats)."
+Number of Passengers,None
+Maximum Cargo,"Refer to Carson Helicopters, Inc. CAR-110 “SH-3H Rotorcraft Flight Manual”, Note 7."
+Fuel Capacity,"848 Gal. Total (347 Gal. at Sta. 215.3, 148 Gal. at Sta. 263.7, 353 Gal. at Sta. 317.3). 
+ (Trapped/Unusable 6.1 Gal.)"
+Oil Capacity,"5.4 Gal. (2 tanks 2.7 Gal. each at Sta. 181.0). (Trapped/unusable 0.67 Gal. Ref. 
+ NAVAIR 01-1B-40 Chart A) 
+ For rigging information, See Note 4."
+Serial No Eligible,"Refer to Carson Helicopters, Inc. Report No. CAR-104, Serial Numbers Approved, N.C, 
+ dated March 31, 2009, or later FAA approved revision. A current copy is on file at the 
+ Los Angeles ACO."
+Certification Basis,"14 CFR 21.25(a)(2) effective February 1, 1965, with Amendments 21-1 through 21-42. 
+ Type Certificate No. R00014LA issued on August 6, 2009 for the Special Purpose(s) of: 
+ (1) Agricultural Operations under 14 CFR 21.25(b)(1). 
+ Note: In accordance with 14 CFR 36.1(a)(4), compliance with the noise requirements 
+ was not shown. Therefore, aircraft certificated under this type certificate are only 
+ eligible for agricultural operations excepted by 14 CFR 36.1(a)(4) and defined under 14 
+ CFR 137.3 
+ (2) Forest and Wildlife Conservation Operations under 14 CFR 21.25(b)(2). 
+ Note: In accordance with 14 CFR 36.1(a)(4), compliance with the noise requirements 
+ was not shown. Therefore, aircraft certificated under this type certificate are only 
+ eligible for aerial dispensing of liquids excepted by 14 CFR 36.1(a)(4) and defined under 
+ 14 CFR 137.3 
+ (3) External Load Operations under 14 CFR 21.25(b)(7). 
+ Note: In accordance with 14 CFR 36.1(a)(4), compliance with the noise requirements 
+ was not shown. Therefore, aircraft certificated under this type certificate are only 
+ eligible for external load operations excepted by 14 CFR 36.1(a)(4) and defined under 14 
+ CFR 133.1(b). 
+ General Note: Any alteration to the aircraft for Special Purposes not identified above 
+ requires further FAA approval and in addition may require noise and /or flight testing."
+Production Basis,"None. No helicopters may be produced under this approval. Prior to adding serial 
+ numbers to this Type Certificate, each candidate helicopter must pass a conformity"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"- 
+ - 
+ - 
+ - 
+ - 
+ - 
+ inspection. The conformity inspection will be conducted in accordance with a Type 
+ Inspection Authorization, Part 1, or Request for Conformity that will include as a 
+ minimum, the inspections contained in the FAA Order 8110.56, Restricted Category 
+ Type Certification, N.C., dated February 27, 2009, or later FAA approved revisions. 
+ Also, a check by the type certificate holder of the flight characteristics in accordance 
+ with all applicable portions of NATOPS Functional Check Flight Checklist NAVAIR 01- 
+ 230HLH-1F as appropriate for each aircraft, or other FAA approved manual."
+Equipment,"The basic required equipment necessary for the particular special purpose operation must 
+ be installed for certification. Each helicopter is required to incorporate modifications as 
+ specified in: 
+ 1. Carson Helicopters, Inc. Engineering Configuration Report No. CAR-101, Rev. 1, 
+ dated May 22, 2009, or later FAA approved revisions. 
+ 2. U.S. Navy External Cargo Hook P/N S6152-62100-1 as part of the military 
+ configuration."
+NOTE 1,"A current weight and balance report including a list of equipment included in the 
+ certificated empty weight, and loading instructions when necessary, must be provided for 
+ each aircraft at the time of original airworthiness certification and at all times thereafter. 
+ 1. Refer to Carson Helicopters, Inc. CAR-110, SH-3H Rotorcraft Flight Manual, dated 
+ August 4, 2009. 
+ 2. Refer to Dept. of Navy NAVAIR 01-1B-50 Technical Manual USN Aircraft Weight 
+ and Balance Control, Initial Release, dated October 1, 1990. 
+ 3. Carson Helicopters, Inc. Weight and Balance Report No. CAR-106, N.C., dated 
+ March 31, 2009, or later FAA approved revisions."
+NOTE 2,"The following placards, Carson Helicopters, Inc. Drawing No. CAR-1001, N.C., dated 
+ January 9, 2009, or later FAA approved revisions, must be prominently displayed in the 
+ cockpit in full view of the pilots. 
+ Placard No. 1 
+ ""THIS ROTORCRAFT MUST BE OPERATED IN ACCORDANCE WITH THE 
+ RESTRICTED CATEGORY OPERATING LIMITATIONS OF 14 CFR part 91 § 
+ 91.313."" 
+ Placard No. 2 
+ “THIS HELICOPTER MUST BE OPERATED IN COMPLIANCE WITH THE 
+ OPERATING LIMITATIONS SPECIFIED IN THE APPROVED HELICOPTER 
+ OPERATORS MANUAL. REFER TO CARSON HELICOPTERS, INC. CAR-110, SH- 
+ 3H ROTORCRAFT FLIGHT MANUAL FOR OPERATING LIMITS AND 
+ RESTRICTIONS.” 
+ Placard No. 3 
+ “EXTERNAL LOADS OPERATIONS: Vne WILL BE DETERMINED FOR EACH 
+ PROPOSED EXTERNAL LOAD APPLICATION.” 
+ Placard No. 4 
+ ""VFR OPERATIONS ONLY."""
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"- 
+ - 
+ - 
+ - 
+ - 
+ -"
+NOTE 3,"The builder’s data plate required by 14 CFR part 45 § 45.13 must be installed in 
+ accordance with Carson Helicopters, Inc. Drawing No. CAR-1002, N.C., dated January 
+ 9, 2009, or later FAA approved revisions."
+NOTE 4,"The helicopter(s) must be serviced, maintained, inspected, repaired, and overhauled in 
+ accordance with the requirements and documents specified in Carson Helicopters, Inc. 
+ Instructions for Continued Airworthiness Report No. CAR-102, Rev. 1, dated May 21, 
+ 2009, or later FAA accepted revisions, or inspected in accordance with other FAA 
+ accepted inspection programs. The service life limited parts overhaul and retirements 
+ intervals for these helicopters is specified in Carson Helicopters, Inc. Instructions for 
+ Continued Airworthiness Report No. CAR-102, Rev. 1, dated May 21, 2009, or later 
+ FAA approved revision. A FAA approved copy must accompany each helicopter on 
+ delivery. The TC Holder’s Instructions for Continued Airworthiness Report is part of the 
+ TC Holder’s Instructions for Continued Airworthiness."
+NOTE 5,"The helicopter must be operated in accordance with Carson Helicopters, Inc. CAR-110, 
+ SH-3H Rotorcraft Flight Manual, dated August 4, 2009."
+NOTE 6,"Prior to civil airworthiness certification, Carson Helicopters, Inc. Report No. CAR-101 
+ Engineering Configuration Report, Rev. 1, dated May 22, 2009, or later FAA approved 
+ revisions, must be incorporated."
+NOTE 7,"This aircraft is prohibited from carrying cargo for compensation or hire. Carriage of 
+ cargo is limited to such cargo that is incidental to the aircraft owner/operator’s business 
+ which is other than air transportation."
+NOTE 8,"Restricted Category aircraft may not be operated in a foreign country without the express 
+ written approval of that country."
+NOTE 9,"This aircraft has not been shown to meet the requirements of the applicable 
+ comprehensive and detailed airworthiness code as provided by Annex 8 to the 
+ Convention on International Civil Aviation."
+NOTE 10,"Military to Civil or Military to Military engine changes are allowed provided the 
+ replacement engine is of the same make and model as identified in this TCDS. The 
+ military or civil replacement engine must have proper military or civil records and have 
+ the applicable FAA Airworthiness Inspection accomplished and be in an airworthy 
+ condition."
+NOTE 11,"The Airworthiness Directives and Department of Navy Safety of Flight (SOF) messages 
+ for the helicopter and engines contained in Carson Helicopters, Inc. Report No. CAR- 
+ 105, Airworthiness Directives Compliance, N.C., dated December 4, 2008, or later FAA 
+ approved revisions, must be complied with prior to original airworthiness certification."
+NOTE 12,"No person may be carried in this helicopter during flight unless that person is essential to 
+ the purpose of the flight. For additional mission configurations see Carson Helicopters, 
+ Inc. CAR-101 Engineering Configuration Report, Rev. 1, dated May 22, 2009 or later 
+ FAA approved revisions."
+NOTE 13,"Alternative and emergency fuels are listed in Carson Helicopters, Inc. CAR-110, SH-3H 
+ Rotorcraft Flight Manual, dated August 4, 2009."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"- 
+ - 
+ - 
+ - 
+ - 
+ -"
+NOTE 14,"Total power for two engine operation is limited to 2,500 hp (103% torque). For takeoff, 
+ maximum continuous total power for two engine operation is limited to 2,100 hp (86% 
+ torque). These engine power limitations are due to the main gearbox rating."
+NOTE 15,The 86% Engine Torque limit is due to the maximum continuous main gearbox rating.
+NOTE 16,"Over-speed limits for the T58-GE-402 engine: 
+ 108% Ng not to exceed 15 seconds. 
+ If less than 15 seconds corrective action is required to bring RPM within limits. 
+ If more than 15 seconds, over-speed inspection is required."
+NOTE 17,"For the T58-GE-402 engine: Maximum allowable at all power levels (± 1%); oscillations 
+ may be higher in access drive mode. Limits do not apply during auto-rotations."
+NOTE 18,"In addition to the standard helicopter requirements, the following additional data and/or 
+ helicopter configuration requirements must be met for each individual Carson 
+ Helicopters, Inc. model SH-3H helicopter upon application for an original Special 
+ Airworthiness Certificate: 
+ 1. A completed Application for Airworthiness Certificate, FAA Form 8130-6 that 
+ correctly identifies the type certificate holder’s helicopter and its intended special 
+ purpose(s). 
+ 2. Written confirmation from the certifying office that the affected serial number has 
+ been added to this Type Certificate. 
+ 3. The application for airworthiness certification and the helicopter’s registration 
+ certificate must match the information of the Carson Data Plate. 
+ 4. The documents specified in Section III of the FAA accepted Carson Helicopters, Inc. 
+ Instructions for Continued Airworthiness Report CAR-102, Rev. 1, dated May 21, 
+ 2009, or later FAA accepted revision, are with the helicopter. 
+ 5. The conditions and limitations specified in this Type Certificate Data Sheet are met."
+NOTE 19,"Helicopters that do not have documentation showing they were surplused from an Armed 
+ Force of the United States are not eligible for certification under this type certificate. 
+ Helicopter(s), engine(s), and appliances that have records indicating time-in-service by a 
+ foreign military or a foreign government will be presumed to be ineligible for 
+ certification or installation under this type certificate. This presumption may be 
+ overcome by the applicant substantiating, to the satisfaction of the FAA, through 
+ documents, tests, 
+ computations, evaluations, analyses, or other means or methods that the helicopter, 
+ engine, or appliance, during its time-in-service by the foreign military or foreign 
+ government, was maintained by an extent and in a manner equal to that of an Armed 
+ Force of the United States."
+NOTE 20,"Carson Helicopters Inc. did not necessarily comply with standard category airworthiness 
+ design and airworthiness standards, under restricted category certification."
+NOTE 21,"Any changes to the type design of this helicopter by means of an amended type 
+ certificate (TC), supplemental type certificate (STC), or amended STC, requiring 
+ instructions for continued airworthiness (ICA’s) must be submitted through the project 
+ certification office for review and acceptance by the Fort Worth – Aircraft Evaluation 
+ Group (FTW-AEG) prior to the aircraft delivery, or upon issuance of the first 
+ airworthiness certificate for the affected aircraft, whichever occurs later as prescribed by 
+ Title 14 CFR 21.50."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"- 
+ - 
+ - 
+ - 
+ - 
+ -"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"- 
+ - 
+ - 
+ - 
+ - 
+ -"

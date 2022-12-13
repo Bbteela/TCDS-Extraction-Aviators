@@ -1,0 +1,609 @@
+Keyterm,Info
+"A76EU 
+ Revision 8 
+ ZLIN AIRCRAFT a.s. 
+ Z-242L 
+ Z-143L 
+ June 2, 2021",
+Type Certificate Holder,"ZLIN AIRCRAFT a.s. 
+ Letiště 1887 
+ 765 02 Otrokovice 
+ Czech Republic"
+Type Certificate Holder record,"MORAVAN a.s. transferred TC A76EU to ZLIN AIRCRAFT a.s. on January 28, 2011."
+"I. Model Z-242L (Acrobatic, Utility, and Normal Category) approved April 8, 1994. 
+ Differences 
+ This model is not convertible to other listed models.",
+Engine,"1 TEXTRON Lycoming AEIO-360-A1B6 with fuel injection 
+ Rotating as viewed from the rear - CW (TCDS No. 1E10)"
+Fuel,"Aviation gasoline octane grade minimum 100/130 (green) or 115/145 
+ (violet) .100 L . 100 LL."
+Engine Limits,Maximum takeoff and continuous 2700 RPM and full Manifold Pressure (200 HP).
+Propeller and Propeller Limits,"1. 
+ MTV-9-B-C/C188-18a (TCDS No. P-24NE) with Woodward D-210 982 
+ Governor or Avia P-880-28 Governor. 
+ Three blade, hydromatic, constant speed. 
+ Pitch setting: 
+ Low 
+ 10° ± 0.2° 
+ (26.2 in. station) 
+ High 
+ 27° ± 1° 
+ Diameter: 
+ 74.02 in. (no reduction permitted) 
+ 2. 
+ Optional: 
+ Hartzell HC-C3YR-4BF/FC 6890 (TCDS No. P25EA) with Woodward 
+ D-210 982 governor or Hartzell F-6-56 Governor 
+ Three blade hydromatic, constant speed. 
+ Pitch setting: 
+ Low 
+ 10.5° 
+ (30 in. station) 
+ High 
+ 30.0° 
+ Diameter: 
+ 70.0 in (no reduction permitted)"
+Airspeed Limits,"VNE 
+ 170 knots (CAS) 
+ VNO 
+ 135 knots (CAS) 
+ VA 
+ 141 knots (CAS) for Acrobatic 
+ 132 knots (CAS) for Utility 
+ 119 knots (CAS) for Normal 
+ VFE 
+ 100 knots (CAS)"
+Center of Gravity CG Range,"19% - 26% MAC 
+ A 
+ U 
+ N 
+ wt-lbs 
+ c.g.-in. 
+ wt-lbs 
+ c.g-in. 
+ wt-lbs 
+ c.g.-in. 
+ 1810 
+ 25.7 
+ 1810 
+ 25.7 
+ 1810 
+ 25.7 
+ 1984 
+ 25.7 
+ 1984 
+ 25.7 
+ 1984 
+ 25.7 
+ 2140 
+ 26.4 
+ 2250 
+ 26.9 
+ 2400 
+ 27.5"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+Rev No,"7 
+ 5 
+ 6 
+ 2 
+ 8 
+ 7 
+ 7 
+ 29.0 
+ 2250 
+ 29.0 
+ 2400 
+ 29.9 
+ 1810 
+ 27.5 
+ 2140 
+ 29.0 
+ 2205 
+ 29.9 
+ 1810 
+ 27.5 
+ 1810 
+ 28.1 
+ Straight line variation between points."
+Empty Weight CG Range,None
+Maximum Weights,"Max. landing 
+ Max. 
+ take-off 
+ Category 
+ kg 
+ lb 
+ kg 
+ lb 
+ Acrobatic (A) 
+ 970 
+ 2140 
+ 970 
+ 2140 
+ Utility (U) 
+ 1020 
+ 2250 
+ 1020 
+ 2250 
+ Normal (N) 
+ 1090 
+ 2400 
+ 1050 
+ 2315"
+Minimum Crew,One (1) Pilot (Left Seat).
+Number of Seats,2 (includes crew) at 33.7 in. to 37.64 in.
+Maximum Baggage,45 lb (20 kg) at 69.5 in.
+Fuel Capacity,"Acrobatic 
+ Utility 
+ Normal 
+ Units 
+ litres 
+ 2 x 60 
+ 2 x 60 
+ Main tanks 
+ U.S. gallons 
+ 2 x 16 
+ 2 x 16 
+ Left and Right 
+ lbs 
+ 2 x 96.1 
+ 2 x 96.1 
+ litres 
+ - 
+ 2 x 55 
+ Auxiliary tanks 
+ U.S. gallons 
+ - 
+ 2 x 14.5 
+ Left and Right 
+ lbs 
+ - 
+ 2 x 87.1 
+ litres 
+ 120 
+ 230 
+ Total fuel 
+ U.S. gallons 
+ 32 
+ 61 
+ quantity 
+ lbs 
+ 192.3 
+ 366.5 
+ litres 
+ 3 
+ 5 
+ Unusable fuel 
+ U.S. gallons 
+ 0.8 
+ 1.3 
+ quantity 
+ lbs. 
+ 4.8 
+ 7.8 
+ litres 
+ 117 
+ 225 
+ Usable fuel 
+ U.S. gallons 
+ 31.2 
+ 59.7 
+ quantity 
+ lbs. 
+ 187.5 
+ 358.7 
+ Unusable Fuel quantity, weight, and C.G. position (arm from the datum) 
+ - acrobatic/utility - . 8 U.S. gals (4.8 lb, arm 31.1 in) 
+ - normal 
+ - 1.3 U.S. gals (7.8 lb, arm 34.3 in) 
+ (See NOTE 1 for data on weight and balance)."
+Oil Capacity,"Quarts 
+ Litres 
+ Lbs 
+ c.g. Arm in. 
+ Normal and Utility Category 
+ Max. quantity 
+ 7.6 
+ 15.0 
+ -17.0 
+ 8 
+ Min. quantity 
+ 4 
+ 3.8 
+ 7.5 
+ -17.0 
+ Acrobatic Category 
+ Max. quantity (recommended) 
+ 5.7 
+ 11.2 
+ -17.0 
+ 6 
+ Min. quantity 
+ 5 
+ 4.7 
+ 9.35 
+ -17.0 
+ (See NOTE 1 for data on weight and balance)."
+Control Surface Movements,"(Measured from hinge/swivel point) 
+ 21° ± 1° 
+ Ailerons 
+ Up 
+ Down 
+ 17° ± 1° 
+ 34° + 0°, -1° 
+ Elevator 
+ Up 
+ Down 
+ 31° + 1° -0° 
+ 15° ± 1° 
+ Elev. Trim Tab 
+ Up 
+ Down 
+ 35° ± 2° 
+ 22° ± 2° 
+ Elev. Balance Tab 
+ Up 
+ Down 
+ 23° ± 2° 
+ 30° ± 2° 
+ Rudder 
+ Left 
+ Right 
+ 30° ± 2° 
+ 0° 
+ Retracted 
+ 14° ± 1° 
+ Take-off 
+ Flaps 
+ Landing 
+ 37° ± 1° 
+ 15° 
+ Nose Wheel Travel 
+ Left 
+ 15° 
+ Right"
+"II. Model Z-143L (Utility, Normal Category), approved September 20, 1996. 
+ Differences 
+ This model is not convertible to other listed models.",
+Engine,"1 TEXTRON Lycoming 0-540-J3A5 with carburetor. Rotating as viewed from the 
+ rear - CW. (TCDS No. E-295)."
+Fuel,"Aviation gasoline oct. grade min. 100/130. 
+ 100, 100LL."
+Engine Limits,Maximum takeoff and continuous 2400 RPM and full Manifold Pressure (235 HP).
+Propeller and Propeller Limits,"MTV-9B/195-45a (TCDS No. P-24NE) with Woodward B 210 761 governor or 
+ Avia P-860-9 Governor. 
+ Three blade, hydromatic, constant speed. 
+ Pitch setting: 
+ Low 
+ 14° ± .5° 
+ (26.2 in. station) 
+ High 
+ 30° ± 1° 
+ Diameter: 
+ 76.8 in. (no reduction permitted)"
+Airspeed Limits,"VNE 
+ 170 knots (CAS) 
+ VNO 
+ 143 knots (CAS) 
+ VA 
+ 124 knots (CAS) for Utility 
+ 130 knots (CAS) for Normal 
+ VFE 
+ 105 knots (CAS)"
+Center of Gravity CG Range,"21% - 34% MAC. 
+ U 
+ N 
+ wt-lbs 
+ c.g.-in 
+ wt-lbs 
+ c.g.-in 
+ 1962 
+ 27.3 
+ 1962 
+ 27.3 
+ 2250 
+ 27.3 
+ 2250 
+ 27.3 
+ 2380 
+ 27.9 
+ 2380 
+ 27.9 
+ 2380 
+ 29.0 
+ 2600 
+ 29.0 
+ 2293 
+ 29.0 
+ 2976 
+ 33.7 
+ 1962 
+ 27.5 
+ 2976 
+ 34.9 
+ 2293 
+ 34.9 
+ 2205 
+ 33.7 
+ 1962 
+ 29.9 
+ Straight line variation between points."
+Empty Weight CG Range,None.
+Maximum Weights,"Landing 
+ Take-off 
+ Category 
+ kg 
+ lb 
+ kg 
+ lb 
+ 1080 
+ 2380 
+ 1080 
+ 2380 
+ Utility (U) 
+ Normal (N) 
+ 1350 
+ 2976 
+ 1280 
+ 2822"
+Minimum Crew,One (1) Pilot (Left seat).
+Number of Seats,"4 (includes crew) 
+ 2 at 36.1 in. to 39.65 in. 
+ 2 at 70.2 in."
+Maximum Baggage,132 lb (60 kg) at 89.2 in.
+Fuel Capacity,"Units 
+ Utility 
+ Normal 
+ Main Tanks 
+ litres 
+ 61/61 
+ 61/61 
+ 16.1/16.1 
+ 16.1/16.1 
+ Left/Right 
+ U.S. gal 
+ lbs 
+ 96.7/96.7 
+ 96.7/96.7 
+ Auxiliary Tanks 
+ litres 
+ - 
+ 51/51 
+ - 
+ 13.4/13.4 
+ Left/Right 
+ U.S. gal 
+ lbs 
+ - 
+ 80.5/80.5 
+ Total fuel 
+ litres 
+ 122 
+ 224 
+ 32.2 
+ 59 
+ quantity 
+ U.S. gal 
+ lbs 
+ 193.5 
+ 354.5 
+ Unusable fuel 
+ litres 
+ 6 
+ 8 
+ 1.6 
+ 2 
+ quantity 
+ U.S. gal 
+ lbs 
+ 9.6 
+ 12.0 
+ Usable fuel 
+ litres 
+ 116 
+ 216 
+ 30.6 
+ 57 
+ quantity 
+ U.S. gal 
+ lbs 
+ 183.8 
+ 342.5 
+ Unusable fuel quantity, weight, and C.G. position (arm from datum): 
+ - utility - 1.6 U.S. gals (9.6 lb, arm 31.1 in) 
+ - normal - 2 U.S. gals. (12.0 lb, arm 34.3 in) 
+ (See NOTE 1 for data on weight and balance)"
+Oil Capacity,"Quarts 
+ Litres 
+ Lbs 
+ c.g. Arm in. 
+ Normal Category 
+ Maximum quantity 
+ 12 
+ 11.4 
+ 22.4 
+ -18.35 
+ Minimum quantity 
+ 5 
+ 4.7 
+ 9.35 
+ -18.35 
+ Utility Category 
+ Maximum quantity 
+ 7.6 
+ 15.0 
+ -18.35 
+ 8 
+ Minimum quantity 
+ 6 
+ 5.7 
+ 11.2 
+ -18.35 
+ (See NOTE 1 for data on weight and balance)."
+Control Surface Movements,"(measured from hinge/swivel point). 
+ Ailerons 
+ Up 
+ 21° ± 1° 
+ Down 
+ 17° ± 1° 
+ Elevator 
+ Up 
+ 30° ± 1° 
+ Down 
+ 27° ± 1° 
+ Rudder 
+ Left 
+ 30° ± 2° 
+ Right 
+ 30° ± 2° 
+ Flaps 
+ Retracted 
+ 0° 
+ Take-off 
+ 14° ± 1° 
+ Landing 
+ 37° ± 1° 
+ Nose Wheel 
+ Left 
+ 15° 
+ Travel 
+ Right 
+ 15°"
+DATA PERTINENT TO ALL MODELS,
+Datum,The aft Plane of Firewall.
+Leveling Means,"Jacking instructions, nominal distances of leveling points from datum, distance of 
+ leveling points and rudder and elevator deflection are stated in Z 242 L Aircraft Leveling 
+ and Rigging Report-MP-L 242.012: of the Maintenance Manual Vol. II, or in Z 143L 
+ Report MP-L143.012: of the Maintenance Manual Vol. II."
+Serial Numbers Eligible,"Each individual aircraft manufactured under this type certificate must be accompanied by 
+ an Export Certificate of Airworthiness as noted below under ""Import Requirements"" 
+ when an application for a U.S. airworthiness certificate is made. 
+ Model Z 242 L: 
+ 0671 and up, 0651 to 0670 on condition that Mandatory Bulletins 
+ No. Z 242L/7a REV.1 and No. Z 242L/10a are accomplished. 
+ Model Z 143L: 
+ 0004, 0007, 0008, 0010, 0011, 0012, 0014 on condition that 
+ Mandatory Bulletin No. Z 143L/9a is accomplished. 
+ 0015 and up."
+Import Requirements,"A U.S. airworthiness certificate may be issued on the basis of the Czech Republic Certificate 
+ of Airworthiness for Export signed by a representative of the Civil Aviation Authority of the 
+ Czech Republic (CAA-CZ) on behalf of the European Community, containing the following 
+ statement: “The aircraft covered by this certificate has been examined and found to comply 
+ with U.S. 14 CFR Part 23 covered under U.S. Type Certificate No. A76EU and to be in a 
+ condition for safe operation.” 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United 
+ States of both new and used aircraft based on the scope of the agreement, to identify any 
+ required statements by the exporting authority on the export certificate of airworthiness (or 
+ equivalent document), and for procedures for coordinating exceptions to conformity 
+ statements on these documents. Refer to FAA Order 8130.2J, Airworthiness Certification of 
+ Aircraft, for requirements for issuance of an airworthiness certificate for imported aircraft."
+Certification Basis,"I. Model Z-242 L: (TC Application Date: September 4, 1991) 
+ 14 CFR part 21.29, part 21.183(c ) and 14 CFR Part 23, effective December 18, 1964, as 
+ amended through Amendment 23-36; 14 CFR part 36 effective December 1, 1969, as 
+ amended through Amendment 36-20 effective September 16, 1992. 
+ For AFM reissue per project AT01150CE-A (NOTE 4) and addition of IFR capability per 
+ project AT01067CE-A the certification basis was increased to include the following later 14 
+ CFR part 23 regulations: 
+ §23.1581, §23.1585, §23.1587, §23.1589 at amendment 23-41; 
+ §23.1323 at amendment 23-42; 
+ §23.1525, §23.1583 at amendment 23-45. 
+ II. Model Z-143L: (TC Application Date: September 4, 1991) 
+ 14 CFR part 21.29, part 21.183(c ) and 14 CFR Part 23, effective December 18, 1964, as 
+ amended through Amendment 23-41 effective November 26, 1990; 14 CFR Part 36 effective 
+ December 1, 1969, as amended through Amendment 36-20 effective September 16, 1992. 
+ TC A76EU issued April 8, 1994 Revision 1: March 6, 1996; Revision 2: September 30, 1996"
+Validation Basis,"The Civil Aviation Authority of the Czech Republic (CAA-CZ) originally type 
+ certificated these aircraft models under its type certificate Numbers CZ 92-03 (Z242L) 
+ and CZ 94-08 (Z143L). The FAA validated this product under U.S. Type Certificate 
+ Number A76EU. Effective February 1, 2005 the European Aviation Safety Agency 
+ (EASA) began oversight of this product on behalf of the Czech Republic. The EASA 
+ TCDS numbers are EASA.A.027 (Z242L) and EASA.A.028 (Z143L).Type Certificate 
+ A76EU was issued pursuant to FAR 21.29 in validation of the Civil Aviation Authority 
+ (CAA) certification of compliance with aforementioned certification basis, and in 
+ accordance with the standard airworthiness certificate provisions of FAR 21.183(c)."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for airworthiness certification. 
+ In addition, the following items of equipment are required. 
+ Model Z 242 L: (NOTE 2) (NOTE 4) 
+ 1. 
+ FAA approved Airplane Flight Manual, 
+ Document No. 003.012.1-US dated November 11, 2020, or later approved revisions. 
+ Model Z 143L: (NOTE 2) 
+ 1. 
+ CAA approved Airplane Flight Manual, 
+ Document No. 005.012.US dated September 6, 1996, or later approved revisions."
+Service Information,"Each of the documents listed below must state that it is approved by the European 
+ Aviation Safety Agency (EASA) or – for approvals made before February 1, 2005 – by 
+ the Civil Aviation Authority of the Czech Republic (CAA-CZ). 
+ • Service bulletins, 
+ • Structural repair manuals, 
+ • Vendor manuals, 
+ • Aircraft flight manuals, and 
+ • Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved for type design 
+ data only unless one of the following conditions exists: 
+ • The documents change the limitations, performance, or procedures of the FAA 
+ approved manuals; or 
+ •The documents make an acoustical or emissions changes to this product’s U.S. type 
+ certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. The 
+ FAA may delegate on case-by-case to EASA to approve on behalf of the FAA for the 
+ U.S. type certificate. If this is the case it will be noted on the document."
+NOTE 1,"A current weight and balance report including list of equipment included in the certificated empty weight, 
+ and loading instructions when necessary, must be provided for each aircraft at the time of original 
+ airworthiness certification, and at all times thereafter. 
+ Model Z 242 L: 
+ The certificated empty weight and the corresponding center of gravity location must include full oil (15 lbs. 
+ at -17 inches) for (N) and (11.2 lbs at -17 inches) for (A), and unusable fuel (4.8 lbs. at 31.1 inches) for (A) 
+ and (U), (7.8 lbs at 34.3 inches) for (N). 
+ Model Z 143L: 
+ The certificated empty weight and the corresponding center of gravity location must include full oil (22.4 
+ lbs. at -18.35 inches) for (N), and (15 lbs. at -18.35 inches) for (U), and unusable fuel (9.6 lbs. at 31.1 
+ inches) for (U) and (12 lbs. at 34.3 inches) for (N)."
+NOTE 2,"Placards (Refer to Manufacturer's Specifications for a complete listing): All required placards as listed in 
+ the approved Airplane Flight Manual must be installed in the appropriate locations. 
+ Model Z 242 L: 
+ (1) 
+ The following placard must be displayed in clear view of the pilot: ""THE MARKINGS AND 
+ PLACARDS INSTALLED IN THIS AIRPLANE CONTAIN OPERATING LIMITATIONS WHICH 
+ MUST BE COMPLIED WITH WHEN OPERATING THIS AIRPLANE IN THE ACROBATIC 
+ CATEGORY. OTHER OPERATING LIMITATIONS WHICH MUST BE COMPLIED WITH WHEN 
+ OPERATING THIS AIRPLANE IN THIS CATEGORY OR IN THE UTILITY AND NORMAL 
+ CATEGORY ARE CONTAINED IN THE AIRPLANE FLIGHT MANUAL."" 
+ Model Z 143L: 
+ The following placard must be displayed in clear view of the pilot: ""THE MARKINGS AND PLACARDS 
+ INSTALLED IN THIS AIRPLANE CONTAIN OPERATING LIMITATIONS WHICH MUST BE 
+ COMPLIED WITH WHEN OPERATING THIS AIRPLANE IN THE UTILITY CATEGORY. OTHER 
+ OPERATING LIMITATIONS WHICH MUST BE COMPLIED WITH WHEN OPERATING THIS 
+ AIRPLANE IN THIS CATEGORY OR IN THE NORMAL CATEGORY ARE CONTAINED IN THE 
+ AIRPLANE FLIGHT MANUAL."" 
+ (2) 
+ Refer to the Airplane Flight Manual, Section 2, Limitations for a listing of other required placards. 
+ (3) 
+ Revisions to the Limitation section of the US AFM must be approved by EASA and the FAA"
+NOTE 3,"Model Z 242 L: 
+ Instructions for Continued Airworthiness and Service Life Limits of components include the Maintenance Manual 
+ Volume I, and are contained in Chapter 9, Document Number 003.022.1 in latest revision, dated Mar 1, 1996. 
+ Revisions to Airworthiness Limitations must be approved by EASA and the FAA. 
+ Model Z 143L: 
+ Instructions for Continued Airworthiness and Service Life Limits of components include the Maintenance 
+ Manual, and are contained in Chapter 04, Document Number 005.022.2 in latest revision, dated February 
+ 02, 2011. Revisions to Airworthiness Limitations must be approved by EASA and the FAA. 
+ All service bulletins classified as Mandatory by the Civil Aviation Authority are identified to that effect and 
+ are subject to an Airworthiness Directive issued by the FAA."
+NOTE 4,"The Reissued US version of the AFM was accepted by the FAA during validation project AT01150CE-A. This 
+ version of the AFM replaces the previous AFM documents: CAI approved Airplane Flight Manual, Revision 1 
+ Moravan Document No. 003.012 dated April 6, 1994 and CAI approved Airplane Flight Manual, Supplement No. 
+ 3, Document No. 003.012 dated February 12, 1996, when optional Hartzell HC-C3YR-4BF/FC 6890 propeller 
+ installed. The FAA issued Global AMOC dated 4/15/2021 to allow the use of AFM Document No. 003.012.1- 
+ US dated November 11, 2020 for compliance to FAA AD 2017-10-03 paragraphs (f)(2)(i) and (f)(3). See ZLIN 
+ Service Bulletin Z242L/40b. Future revisions of the AFM may need additional FAA AMOCs to AD 2017- 
+ 10-03."
+NOTE 5,"The EASA major change approval No. 10049740 – Installation of Garmin G500 and G500 TXi Avionics is not 
+ eligible for the US type certificate for the Z-242L due to the FAA has not validated this design change at this 
+ time."

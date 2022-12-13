@@ -1,0 +1,510 @@
+Keyterm,Info
+"3A1 
+ Revision 16 
+ MICCO AIRCRAFT CO., INC. 
+ (Meyers, LanShe) 
+ MAC-145 
+ MAC-125C 
+ MAC-145A 
+ MAC-145B 
+ September 1, 2006",
+Type Certificate Holder,"MICCO Aircraft Company, Inc. 
+ 407 NW Wiley Post Road 
+ Frank Phillips Field, Hangar #7 
+ Bartlesville, Oklahoma 74003"
+Type Certificate Holder Record,"Meyers Aircraft Company transferred 3A1 to Interceptor Corporation on 
+ January 8, 1969 
+ Interceptor Corporation transferred 3A1 to Interceptor Company on 
+ December 31, 1974 
+ Interceptor Company transferred 3A1 to Prop-Jets Incorporated on July 1, 1977 
+ Prop-Jets Incorporated transferred 3A1 to Nydia Meyers Trust on 
+ March 2, 1981 
+ Nydia Meyers Trust transferred 3A1 to Ralph Haven May 8, 1981 
+ Ralph Haven transferred 3A1 to The New Meyers Airplane Company on 
+ March 21, 1994 
+ The New Meyers Airplane Company transferred 3A1 to Estumkeda, Ltd. (d.b.a. 
+ Micco Aircraft Co.) on January 18, 1995 
+ Estumkeda, Ltd. transferred 3A1 to LanShe Aerospace, LLC on 
+ February 22, 2003 
+ LanShe Aerospace, LLC transferred 3A1 to Aero Acquisitions, LLC on 
+ September 12, 2005 
+ Aero Acquisitions, LLC transferred 3A1 to Micco Aircraft Company, Inc. on 
+ September 1, 2006"
+"I - Model MAC-145, 2 PCLM, Approved November 2, 1948",
+Engine,Continental C145-2
+Fuel,80 Min. octane aviation gasoline
+Engine limits,"For all operations, 
+ 2700 rpm (145 hp)"
+Propeller limits,Static rpm at maximum permissible throttle setting:
+with Equipment Item 1,"Not over 2380, not under 2210. 
+ No additional tolerance permitted. 
+ Diameter: Not over 76 in., not under 71.5 in."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10"
+RevNo,"16 
+ 11 
+ 11 
+ 11 
+ 13 
+ 13 
+ 15 
+ 11 
+ 13 
+ 13"
+Airspeed limits,"Glide or dive 
+ 200 mph True Ind. 
+ Level flight or climb 
+ 155 mph True Ind. 
+ Flaps extended 
+ 95 mph True Ind. 
+ Gear extended 
+ 110 mph True Ind."
+CG range,"(+16.7) to (+19.0) at 1910 lbs. (See NOTE 4 for required modification) 
+ (+15.0) to (+19.0) at 1735 lbs. 
+ (+13.7) to (+19.0) at 1600 lbs. or less. 
+ Straight line variation between points given. 
+ LBS. 
+ 2000 
+ 1900 
+ 1800 
+ 1700 
+ (For unmodified 
+ airplanes) 
+ 1600 
+ FWD 
+ REAR 
+ 1500 
+ LIMIT 
+ LIMIT 
+ 1400 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ INCHES"
+Empty weight CG range,"(+10.5) to (+14.3). When empty weight C.G. falls within this range, 
+ computation of critical force and aft C.G. positions is unnecessary. Range is 
+ not valid for non-standard configurations."
+Datum,12 inches aft of forward face of firewall at centerline of airplane
+Leveling means,Lower door sill
+Maximum weight,1735 lbs. (1910 lbs. when modified in accordance with provisions of NOTE 4)
+No of seats,2 (+26)
+Maximum baggage,"100 lbs. (+54) (Main) 
+ 20 lbs. (+61) (Map shelf per Meyers Dwg. No. 43G027)"
+Fuel capacity,32 gals. Main (+33). (See Equipment Item 107 for auxiliary fuel system)
+Oil capacity,2 gals. (-40)
+Control surface movements,"Elevator - 
+ Restricted 
+ Up 
+ 9° 
+ Down 
+ 20° 
+ Unrestricted 
+ Up 
+ 22° 
+ Down 
+ 20° 
+ Elevator trim tab 
+ Up 
+ 14° 
+ Down 
+ 50° 
+ Ailerons 
+ Up 
+ 22° 
+ Down 
+ 9.5° 
+ Rudder - 
+ Restricted 
+ Right 
+ 9.5° 
+ Left 
+ 9.5° 
+ Unrestricted 
+ Right 
+ 21° 
+ Left 
+ 16° 
+ Flaps 
+ Up 
+ 0° 
+ Down 
+ 45°"
+Serial Nos eligible,203 and up
+Export eligibility,"Eligible for export to all countries subject to the provisions of MOP 2-4 except 
+ as follows: 
+ (a) Canada - Landplane – eligible, Skiplane - not eligible"
+Required equipment,"Equipment Items 1 (or 2 or 3 or 5 or 6), 101, 102, 104, 105, 106, 201, 202, 
+ 204, 301, 302, 303."
+"II - Model MAC-125C, 2 PCLM 
+ (Same as Model MAC-145 except for engine and propeller installation).",
+Engine,Continental C125-2
+Fuel,80 min. octane aviation gasoline
+Engine limits,"For all operations, 
+ 2550 rpm (125 hp)"
+Airspeed limits,"Glide or dive 
+ 200 mph True Ind. 
+ Level flight or climb 
+ 155 mph True Ind. 
+ Flaps extended 
+ 95 mph True Ind. 
+ Gear extended 
+ 110 mph True Ind."
+Propeller limits,See Equipment Item 4
+CG range,"(+16.7) to (+19.0) at 1735 lbs. 
+ (+13.7) to (+19.0) at 1600 lbs. 
+ Straight line variation between points given. 
+ LBS. 
+ 1735 
+ 1600 
+ REAR 
+ LIMIT 
+ 1500 
+ FWD 
+ LIMIT 
+ 1400 
+ 1300 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ INCHES"
+Empty weight CG range,"(+10.6) to (+14.3). When empty weight C.G. falls within this range, 
+ computation of critical fore and aft C.G. positions is unnecessary. Range is 
+ not valid for non-standard arrangements."
+Datum,12 inches aft of forward face of firewall at centerline of airplane
+Leveling means,Lower door sill
+Maximum weight,1735 lbs.
+No of seats,2 (+26)
+Maximum baggage,50 lbs. (+41)
+Fuel capacity,32 gals. Main (+33). (See Equipment Item 107 for auxiliary fuel system)
+Oil capacity,2 gals. (-40)
+Control surface movements,"Elevator - 
+ Restricted 
+ Up 
+ 9° 
+ Down 
+ 20° 
+ Unrestricted 
+ Up 
+ 22° 
+ Down 
+ 20° 
+ Elevator trim tab 
+ Up 
+ 14° 
+ Down 
+ 50° 
+ Ailerons 
+ Up 
+ 22° 
+ Down 
+ 9.5° 
+ Rudder - 
+ Restricted 
+ Right 
+ 9.5° 
+ Left 
+ 9.5° 
+ Unrestricted 
+ Right 
+ 21° 
+ Left 
+ 16° 
+ Flaps 
+ Up 
+ 0° 
+ Down 
+ 45°"
+Serial Nos eligible,203 and up
+Export eligibility,"Eligible for export to all countries subject to the provisions of MOP 2-4 except 
+ as follows: 
+ (a) Canada - Landplane - eligible 
+ Skiplane - not eligible"
+Required equipment,"Equipment Items 4, 101, 102, 104, 105, 106, 201, 202, 204, 301, 302, 303."
+"III - Model MAC-145A, 2 PCLM (Utility Category), Approved January 5, 2000",
+Engine,Textron Lycoming IO-360-C1E6
+Fuel,100/100LL minimum grade aviation gasoline
+Engine Limits,"For all operations 
+ 2700 rpm (200 hp)"
+Propeller and Propeller Limits,"McCauley B3D36C424-E/74SA-0 
+ Avoid continuous operation below 15 inHG manifold pressure setting 
+ between 1650 and 2250 rpm when above 85 KIAS"
+Airspeed Limits IAS,"VNE (Never Exceed) 
+ 180 knots 
+ VC (Maximum Structural Cruising) 
+ 138 knots 
+ VA (Design Maneuvering) 
+ 120 knots 
+ VFE (Flaps Extended) 
+ 110 knots 
+ VLO (Maximum Gear Retraction/Extension) 
+ 118 knots 
+ VLE (Maximum Gear Extended) 
+ 128 knots"
+CG Range Utility,"(+103.5) to (+105.5) at 2600 lbs. 
+ (+101.5) to (+105.5) at 2000 lbs. or less 
+ LBS. 
+ 2600 
+ 2400 
+ REAR 
+ LIMIT 
+ 2200 
+ FWD 
+ LIMIT 
+ 2000 
+ 1800 
+ 100 
+ 101 
+ 102 
+ 103 
+ 104 
+ 105 
+ 106 
+ INCHES AFT OF DATUM"
+Empty Weight CG Range,None
+Datum,70.0 inches forward of front cabin bulkhead
+Leveling Means,"2 screws at Station 72.7 and 83.2 at W.L. 101.3, located on left side of 
+ cabin area"
+Maximum Weight Utility,"2600 lbs. Takeoff 
+ 2492 lbs. Landing"
+No of Seats,"2 (+114.0 Fwd. seat position, +117.8 Aft seat position)"
+Maximum Baggage,100 lbs. at (+137.5)
+Fuel Capacity,"68 gallons usable at (+117.9), 4 gallons unusable fuel at (+116.0) 
+ See NOTE 1"
+Oil Capacity,2 gallons (+30.0)
+Control Surface Movements,"Elevator 
+ Up 
+ 28° 
+ Down 
+ 20° 
+ Elevator Trim 
+ Up 
+ 9° 
+ Down 
+ 20° 
+ Elevator Trim* 
+ Up 
+ 4° 
+ Down 
+ 24° 
+ Ailerons 
+ Up 
+ 22° 
+ Down 
+ 12° 
+ Rudder 
+ Right 
+ 22° 
+ Left 
+ 22° 
+ Flaps 
+ Up 
+ 0° 
+ Down 
+ 30° 
+ (Tolerance ± 2°) 
+ * Elevator Trim travel for airplanes equipped with aileron servo tabs"
+Maximum Operating Altitude,"12,000 feet MSL"
+Serial Numbers Eligible,304 and subsequent
+"IV - Model MAC-145B, 2 PCLM (Utility Category and Acrobatic Category*), Approved October 19, 2000 
+ *Acrobatic Category approved March 4, 2002. See NOTE 5 for Acrobatic modifications.",
+Engine,Textron Lycoming IO-540-T4B5
+Fuel,100/100LL minimum grade aviation gasoline
+Engine Limits,"For all operations 
+ 2700 rpm (260 hp)"
+Propeller and Propeller Limits,"Hartzell HC-C3YR-1RF/F7693F 
+ See NOTE 3 for Acrobatic limitation."
+Airspeed Limits IAS,"VNE (Never Exceed) 
+ 195 knots 
+ VC (Maximum Structural Cruising) 
+ 166 knots 
+ VA (Design Maneuvering) 
+ 121 knots 
+ VFE (Flaps Extended) 
+ 111 knots 
+ VLO (Maximum Gear Retraction/Extension) 
+ 118 knots 
+ VLE (Maximum Gear Extended) 
+ 128 knots"
+CG Range,"Utility Category 
+ (+103.5) to (+105.5) at 2850 lbs. 
+ (+102.5) to (+105.5) at 2500 lbs. or less 
+ Acrobatic Category 
+ (+103.5) to (+104.5) at 2650 lbs. 
+ (+102.5) to (+104.5) at 2500 lbs. or less 
+ L B S. 
+ 2 9 0 0 
+ U T IL IT Y 
+ C A T E G O R Y 
+ 2 8 0 0 
+ REAR 
+ A C R O B A T IC 
+ LIMIT 
+ C A T E G O R Y 
+ 2 7 0 0 
+ 2 6 0 0 
+ FWD 
+ LIMIT 
+ 250 0 
+ 1 01 
+ 102 
+ 103 
+ 104 
+ 105 
+ 106 
+ IN C H E S A F T O F D A T U M"
+Empty Weight CG Range,None
+Datum,70.0 inches forward of firewall
+Leveling Means,"2 screws at Station 72.7 and 83.2 at W.L. 101.3, located on left side of 
+ cabin area"
+Maximum Weight,"Utility Category 
+ Acrobatic Category 
+ Takeoff 
+ 2850 lbs. 
+ 2650 lbs. 
+ Landing 
+ 2742 lbs. 
+ 2650 lbs."
+No of Seats,"2 (+114.0 Fwd. seat position, +117.8 Aft seat position)"
+Maximum Baggage,"Utility Category - 100 lbs. at (+137.5) 
+ Acrobatic Category - None"
+Fuel Capacity,Utility Category
+See NOTE 1,"68 gallons usable at (+117.9), 4 gallons unusable fuel at (+116.0) 
+ Acrobatic Category 
+ 28 gallons usable at (+119.93), 4 gallons unusable fuel at (+119.3) 
+ (CAUTION: Utility fuel tanks must be empty for acrobatic flight.)"
+Oil Capacity,2 gallons (+39.6)
+Control Surface Movements,"Elevator 
+ Up 
+ 28° 
+ Down* 20° 
+ Elevator Trim 
+ Up 
+ 4° 
+ Down 
+ 24° 
+ Ailerons 
+ Up 
+ 22° 
+ Down 
+ 12° 
+ Rudder 
+ Right 
+ 22° 
+ Left 
+ 22° 
+ Flaps 
+ Up 
+ 0° 
+ Down 
+ 30° 
+ (Tolerance ± 2°) 
+ *For airplanes with acrobatic modification installed, Elevator Down 
+ travel is 27°."
+Maximum Operating Altitude,"14,000 feet MSL"
+Serial Numbers Eligible,260001 and subsequent (see NOTE 5)
+DATA PERTINENT TO ALL MODELS,
+Certification basis,"Type Certificate No. 3A1 issued November 2, 1948 
+ Models MAC 125C and MAC-145 - CAR 4a 
+ Models MAC-145A and MAC-145B - 14 CFR Part 23 as amended by 23-1 through 
+ 23-46 effective June 16, 1994; with the following rules at these listed amendment levels: 
+ 23.179, 23.301, 23.305, 23.321, 23.351, 23.479, 23.485, 23.603, 23.605, 23.607, 23.611, 
+ 23.613, 23.619, 23.621, 23.655, 23.675, 23.677, 23.679, 23.721, 23.723, 23.731, 
+ 23.1331, 23.1351, 23.1353, 23.1357, 23.1365, 23.1385, 23.1387, 23.1389, 23.1391, 
+ 23.1393, 23.1395, 23.1397, 23.1411, 23.1413, 23.1431 and 23.1507 effective February 
+ 1, 1965; 23.75, 23.77, 23.333, 23.337, 23.341, 23.345, 23.349, 23.361, 23.415, 23.455, 
+ 23.473, 23.572, 23.629, 23.733 and 23.1501 as amended by 23-7; 23.1587 as amended 
+ by 23-13; 23.173 as amended by 23-14; 23.335 as amended by 23-16; 23.145 and 
+ 23.1309 as amended by 23-17; 23.45, 23.175, 23.177 and 23.181 as amended by 23-21; 
+ 23.853 as amended by 23-23; 23.397, 23.561 and 23.785 as amended by 23-34; 
+ 23.371(for acrobatic only), 23.421, 23.423, 23.425, 23.427, 23.441 and 23.443 as 
+ amended by 23-48 (Part 23, Appendix A); and 23.71 and 23.73 as amended by 23-50 
+ with Equivalent Safety Finding to 23.1143(g) throttle and mixture control cable 
+ attachment and CAR 04a.702 in lieu of 23.65. 
+ MAC-145A - 14 CFR Part 36 as amended by 36-20. 
+ MAC-145B - 14 CFR Part 36 as amended by 36-22."
+Production basis,"None. Prior to original certification of each aircraft an FAA representative must perform 
+ a detailed inspection for workmanship, material, and conformity with the approved 
+ technical data and a check of the flight characteristics."
+Equipment,"The following equipment is for Models MAC-125C and MAC-145: 
+ (A plus (+) or minus (-) sign preceding the weight of an optional item indicates the net weight change when that"
+MAC125CMAC145 Propellers and Propeller Accessories,"1. Propeller - Lewis L-6FK-3-54, L-6FK-3-52, L-6FK-48 or any other fixed pitch wood 
+ 15 lbs. (-59) 
+ propeller which is eligible for the engine power and speed and which meets the diameter"
+"and static rpm limits given under ""Propeller Limits"" for Model MAC-145.",
+2. Propeller - McCauley 1A170-DM7657 or any other Model 1A170-DM propeller that,
+Eligible on Model MAC145 only,"McCauley propeller spinner, Meyers Dwg. #47R032 optional. 
+ 3. Propeller - Hartzell ground adjustable HA12UF/8032-6 Blade pitch setting 15° at 3/4 
+ 22 lbs. (-59) 
+ of propeller radius or set to obtain following limits: Static rpm at maximum permissible 
+ throttle setting: Not over 2210, not under 2110. No additional tolerance permitted. 
+ Diameter: Not over 74 in., not under 72.5 in. 
+ denoted by suffix letter ""D"" after engine serial number. 
+ 4. Propeller - Koppers Aeromatic F200/0074E Parts List assembly No. 4920, dated 
+ 33 lbs. (-60) 
+ October 13, 1948. Installation and operation must be accomplished in accordance with 
+ Koppers ""Installation Procedures and Operating Limitations No. 24,"" dated October 12, 
+ 1948. Low pitch setting 13° at 24 in. sta. Static rpm at maximum permissible throttle setting: 
+ Not over 2550, not under 2450. No additional tolerance permitted. 
+ Diameter: Not over 74 in., not under 72.5 in."
+Eligible on Model MAC125C only,"5. Propeller - Koppers Aeromatic F200H/00-74E Parts list assembly No. 4356H-1 
+ 34 lbs. (-61) 
+ 6 lbs. (-46) 
+ Adjustment and operation must be accomplished in accordance with 
+ Koppers ""Adjustment Instructions and Operating Limitations No. 45"" 
+ Low pitch setting 13° at 24 in. sta. 
+ Static rpm at maximum permissible throttle setting: Not over 2675, not under 2575."
+No additional tolerance permitted,"Diameter: Not over 74 in., not under 72.5 in. 
+ denoted by suffix letter ""D"" after engine serial number)."
+"Hampton propeller spinner Model 1-B optional. 
+ 6. Propeller - Sensenich M74DR, fixed pitch metal (Model MAC-145 only)",
+No additional tolerance permitted,"Diameter: Not over 74 in., not under 72 in. 
+ MAC-125C/MAC-145 Engines and Engine Accessories - Fuel and Oil System 
+ 101. Carburetor air heater and mufflers (Meyers Dwg. No. 47R003) 
+ 14 lbs. (-35) 
+ 4 lbs. (-42) 
+ 16 lbs. (-25) 
+ 2 lbs. (-52) 
+ 2 lbs. (-14) 
+ 2 lbs. (-15) 
+ 107. Auxiliary fuel system installation per Meyers Dwg. 47R004, 
+ 13 lbs. (+29) 
+ R.H. and L.H. wing tanks, capacity 8½ gals. each 
+ Fuel arm of auxiliary tanks (+29)"
+"108. Electric fuel pump, Bendix Model No. 476818, replacing",
+MAC125CMAC145 Landing Gear,"201. Two main wheel-brake assemblies, 6.00-6, Type III 
+ 13 lbs. (+8)"
+(a) Goodrich (formerly Hayes) Model 600MD,
+b Goodrich Model 601MD,"14 lbs. (+8) 
+ Wheel Assembly No. D-3-512-MD 
+ Brake Assembly No. D-2-505 
+ 202. Two main wheel 4-ply rating tires, 6.00-6, Type III (with regular tubes) 
+ 18 lbs. (+8)"
+a Meyers Dwg No 44B039,12 lbs. (+166)
+301 Battery  12 volt,"31 lbs. (-15) 
+ 10 lbs. (-25) 
+ 2 lbs. (-14)"
+MAC125CMAC145 Interior Equipment,"10 lbs. (+20) 
+ 7 lbs. (-20)"
+For Models MAC-145A and MAC-145B - The basic required equipment as prescribed in the applicable,
+"NOTE 2 For Models MAC-125C and MAC-145, the following placards must be displayed in front of and in clear",
+NOTE 4 Model MAC-145 aircraft are eligible at 1910 lbs. maximum weight when following is accomplished:,
+"NOTE 5. Model MAC-145B aircraft, S/N 260001 and subsequent, are eligible for multiple airworthiness",

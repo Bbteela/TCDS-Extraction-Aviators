@@ -1,0 +1,148 @@
+Keyterm,Info
+"H1EU 
+ Revision 2 
+ SUD-AVIATION 
+ SA 321 F 
+ February 15, 2007",
+Type Certificate Holder,"EUROCOPTER FRANCE 
+ Aeroport International Marseille Provence 
+ 13725 - Marignane - Cedex 
+ France"
+"I - Model SA 321 F (Transport Helicopter - Category A), Approved August 29, 1968",
+Engines,3 Turbomeca TURMO III C5
+Fuel,"Aviation Kerosene - JP4 or JP5 
+ Approved fuels and anti-icing additives limitations are specified in the Rotorcraft Flight 
+ Manual (See NOTE 5)."
+Engine Limits,"Sea level static - standard day conditions. 
+ Shaft 
+ Power 
+ Gas 
+ Power 
+ HP 
+ Turbine 
+ Generator 
+ Turbine 
+ RPM 
+ RPM 
+ Inlet temp °C 
+ Takeoff (5 min) 
+ 1350 
+ 5915 
+ 33.150 
+ 745 
+ One engine inoperative ( 30 min) 
+ 1350 
+ 5915 
+ 33.150 
+ 745 
+ One engine inoperative (2 1/2 min) 
+ 1450 
+ 5915 
+ 33.550 
+ 775 
+ (See NOTE 3) 
+ Maximum continuous 
+ 1230 
+ 5915 
+ 32.500 
+ 720 
+ Maximum transient (30 seconds) 
+ - 
+ - 
+ - 
+ 800 
+ Starting (30 seconds) 
+ - 
+ - 
+ - 
+ 750 
+ Allowable maximum overspeed 
+ - 
+ 6344 
+ 33.700 
+ - 
+ Takeoff and maximum continuous horsepower ratings are normally obtained at a power 
+ turbine speed of 5915 rpm. 
+ Total power for three engine operation is limited to 3750 HP for takeoff and 3380 HP 
+ maximum continuous."
+Rotor Limits,"Maximum 232 rpm. 
+ Minimum 180 rpm."
+Airspeed limits,"Never exceed 130 knots CAS at max. weight. 
+ Variation of Vne with weight and altitude is in the Rotorcraft Flight Manual."
+CG Range,(+244.09) to (+259.84)
+Empty Weight CG Range,None
+Page No,"1 
+ 2 
+ 3"
+Rev No,"1 
+ 2 
+ 2"
+Datum,255.905 inches forward of main rotor centroid.
+Leveling Means,Leveling plates on left side of front fuselage.
+Maximum weight,"27,560 lb."
+Minimum Crew,Two (2)
+Maximum Passengers,39 limited by emergency exit requirements.
+Maximum Baggage,"2320 lb (1160 lb in each external side sponsons). 
+ The cabin floor area between station +95.67 and +464.96 is structurally satisfactory for 
+ an uniformly distributed loading of 143.5 p.s.f. when used for cargo purposes."
+Fuel capacity,"618 gallons. 
+ 206 gal. at (+ 190.31) 
+ 206 gal. at (+ 224.53) 
+ 206 gal. at (+ 302.79) 
+ Unusable fuel 28 gal. (9.4 gal. for each tank)"
+Oil capacity,"9.51 gallons (2 tanks 3.17 gal. each at (+ 145.00) 
+ (1 tank 3.17 gal. 
+ at (+ 361.06)"
+Rotor Blade,"For rigging information, refer to Maintenance Manual."
+Serial Nos Eligible,"The French Government Certificate of Airworthiness for Export endorsed as noted below 
+ under ""Import Requirements"" must be submitted for each individual aircraft for which 
+ application for FAA certification is made."
+Certification Basis,"FAR 21.29 - FAR 29 effective February 1, 1965, including Amendments 29-1 and 
+ 29.1323 of Amendment 29-3, plus Special Conditions notified by the U.S. Government 
+ to the Government of France in FAA letters of January 29, 1968 and June 4, 1968. 
+ Type Certificate No. H1EU issued August 29, 1968. 
+ Date of Application for Type Certificate: September 28, 1966. 
+ The French Direction Generale de l’Aviation Civile (DGAC) originally type certificated 
+ this rotorcraft under its type certificate TC 46. The FAA validated this product under 
+ U.S. Type Certificate Number H1EU. Effective September 28, 2003, the European 
+ Aviation Safety Agency (EASA) began oversight of this product on behalf of the DGAC."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on a National Aviation 
+ Authority (NAA) Export Certificate of Airworthiness (Export C of A) signed by a 
+ representative of the French Generale de l’Aviation Civile (DGAC) on behalf of the 
+ European Community. 
+ The Export C of A should contain the following statement: “The aircraft covered by this 
+ certificate has been examined, tested, and found to comply with the type design approved 
+ under U.S. Type Certificate Number H1EU and to be in a condition for safe operation.”"
+Service Information,"Each of the documents listed below must state that it is approved by the European 
+ Aviation Safety Agency (EASA) or – for approvals made before September 28, 2003 – 
+ by the French Generale de l’Aviation Civile (DGAC). Any such documents are accepted 
+ by the FAA and are considered FAA approved. 
+ • 
+ Service Bulletin, 
+ • 
+ Structural repair manuals, 
+ • 
+ Vendor manuals, 
+ • 
+ Aircraft flight manuals, and 
+ • 
+ Overhaul and maintenance manuals. 
+ This applies only to the acceptance of the type design data."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (See Certification Basis) must be installed in the helicopter for certification. In addition 
+ the following items of equipment are required: 
+ (a) S.G.A.C. approved Rotorcraft Flight Manual. 
+ (b) Dual body control system hydraulic servos S.A.M.M. Co. P/N 7112."
+NOTE 1,"(a) Current weight and balance report including list of required equipment included in certificated empty 
+ weight, and loading instructions when necessary, must be provided for each helicopter at the time of 
+ original certification. 
+ (b) Unusable fuel, oil and all hudraulic fluid must be included in the certificated empty weight."
+NOTE 2,"The following placard must be displayed in front and in clear view of the pilot. 
+ ""THIS HELICOPTER MUST BE OPERATED IN COMPLIANCE WITH THE OPERATING 
+ LIMITATIONS SPECIFIED IN THE APPROVED ROTORCRAFT FLIGHT MANUAL""."
+NOTE 3,Engine controls must be set for these ratings for vertical operation.
+NOTE 4,"Information essential to the proper maintneance of the helicopter is contained in the Manufacturer's 
+ Maintenance Manual provided with each helicopter, which specifies that service life limited parts be retired 
+ in accordance with its S.G.A.C. approved Chapter 5."
+NOTE 5,"To prevent icing of fuel system components, all fuel in the tanks before takeoff must contain anti-icing 
+ additives in accordance with Flight Manual, when route forecast air temperatures are less than 5°C."

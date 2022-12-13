@@ -1,0 +1,435 @@
+Keyterm,Info
+"A53NM 
+ Revision 8 
+ Gulfstream Aerospace LP 
+ GALAXY 
+ GULFSTREAM 200 
+ July 12, 2005",
+Type Certificate Holder,"Gulfstream Aerospace LP 
+ C/o Israel Aircraft Industries, LTD., Department 4199 
+ Ben Gurion International Airport 
+ 70100, Israel"
+Type Certificate Holder Record,"Israel Aircraft Industries, LTD. transferred ownership of Type Certificate A53NM to 
+ Gulfstream Aerospace LP on March 26, 2002"
+"I. Model GALAXY (Transport Category), Approved December 16, 1998. 
+ Manufacturers Serial 
+ Model Galaxy 
+ Numbers 
+ S/N 004 through 056. For S/N 003 See NOTE 5. 
+ II. Model GULFSTREAM 200 (Transport Category), Approved January 16, 2002. 
+ The Model GULFSTREAM 200 is identical to the IAI Model GALAXY except for the model designation. The only difference 
+ is the model designation (name) used on the data plate and associated manuals. 
+ Manufacturers Serial 
+ Model GULFSTEAM 200 
+ Numbers 
+ S/N 057 and Subsequent. 
+ DATA PERTINENT TO ALL MODELS",
+Engines,"2 Pratt & Whitney Canada PW306A (Turbofan) Engines per FAA Type Certificate Data 
+ Sheet E35NE."
+Fuel,"Conforming to Pratt & Whitney Company Specifications CPW 204 as per 
+ LIMITATIONS SECTION of the approved Airplane Flight Manual."
+Oil,"Conforming to Pratt & Whitney Company Specification PWA 521. 
+ Two Hamilton Standard fuel computers"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ Engine Limits: 
+ Static thrust at sea level, LBS 
+ - Maximum continuous 
+ 6,040 
+ - Take-off (with and without APR) 
+ 6,040 
+ Maximum continuous permissible engine operating speeds for the engine rotors, % RPM 
+ (RPM) 
+ - Low Pressure Rotor (N1) 
+ 105% (11138) 
+ - High Pressure Rotor (N2) 
+ 105% (28277) 
+ Maximum Interstage Turbine Temperature (ITT), ºC 
+ - Maximum Continuous 
+ 920 
+ - Take-Off 
+ 920 
+ - During Starting 
+ 950 
+ Oil Temperature, ºC 
+ - Maximum Continuous 
+ 16 to 135 
+ - Take-off 
+ 16 to 135 
+ - During starting ( minimum ) 
+ - 40 
+ Oil Pressure, PSIG 
+ - Maximum Continuous 
+ 36 to 107 
+ - Take-off 
+ 36 to 107 
+ - During starting ( maximum ) 
+ 217"
+Normal Operating Weight,"Vmo/Mmo (Maximum Operating Speed) 
+ Normal Operation autopilot engaged or Mach trim operative: 
+ - Vmo Sea Level to 15,000 ft 
+ 310 KIAS 
+ - Vmo between 15,000 & 24,500 ft 
+ 360 KIAS 
+ - Mmo Above 24,500 ft 
+ 0.85 M 
+ With Autopilot disengaged AND Mach trim inoperative: 
+ - Vmo Sea Level to 15,000 ft 
+ 310 KIAS 
+ - Vmo above 15,000 ft 
+ 360 KIAS 
+ - Mmo above 22,100 ft 
+ 0.81 M 
+ Va (Maneuvering) 
+ - Below 20,000 ft 
+ 254 KIAS 
+ - between 20,000 ft & 40,000 ft 
+ 260 KIAS 
+ - Above 40,000 ft 
+ 0.85 M"
+Increased Operating Weight,"Vmo/Mmo (Maximum Operating Speed) 
+ MOD 7166 and MOD 10082) Normal Operation autopilot engaged or Mach trim operative: 
+ - Vmo Sea Level to 10,000 ft 
+ 310 KIAS 
+ - Vmo 10,000 to 20,000 ft (linear variation) 
+ 310-330 KIAS 
+ - Vmo/Mmo Above 20,000 ft 
+ 360 KIAS/0.85 M 
+ With Autopilot disengaged AND Mach trim inoperative: 
+ - Vmo Sea Level to 10,000 ft 
+ 310 KIAS 
+ - Vmo 10,000 to 20,000 ft (linear variation) 
+ 310-330 KIAS 
+ - Vmo/Mmo above 20,000 ft 
+ 360KIAS/0.81 M 
+ Va (Maneuvering) 
+ - Below 10,000 ft. 
+ 275 KIAS 
+ - 10,000 ft to 30,000 ft (linear variation) 
+ 275-300 KIAS 
+ - Above 30,000 ft 
+ 300 KIAS/ 0.85 M"
+Operating Weight MOD 7166,"- Vfe Kruger / Slats 
+ 250 KIAS 
+ - Vfe (Flaps 12°) 
+ 250 KIAS 
+ - Vfe (Flaps 20°) 
+ 225 KIAS 
+ - Vfe (Flaps 40°) 
+ 195 KIAS 
+ - Vsb (Airbrakes Operation) 
+ Vmo/Mmo 
+ - Vle and Vlo (L/G Extension & Operating Speed) 
+ 195 KIAS 
+ - Vmca (Flaps 0°) 
+ 122 KIAS 
+ - Vmca (Flaps 12° and 20°) 
+ 118 KIAS 
+ - Vmcg (Flaps 0° , 12° and 20°) 
+ 108 KIAS 
+ - Tire Limit Ground Speed: (MPH) 
+ 182 KTS (210)"
+Normal Operating Weight,"Gross Weight: 
+ Forward Limit (MAC) 
+ Aft limit (MAC) 
+ 16950 LBS 
+ 35.00% 
+ 40.00 % 
+ 20000 LBS 
+ 22.00% 
+ 40.00 % 
+ 32000 LBS 
+ 22.00% 
+ 40.00 % 
+ 35000 LBS 
+ 24.00% 
+ 40.00 % 
+ Linear variation between points 
+ Gear extension and retraction moment is negligible"
+Increased Operating Weight MOD 7166,"Gross Weight: 
+ Forward Limit (MAC) 
+ Aft limit (MAC) 
+ 16950 LBS 
+ 35.00% 
+ 40.00 % 
+ 20000 LBS 
+ 22.00% 
+ 40.00 % 
+ 32000 LBS 
+ 22.00% 
+ 40.00 % 
+ 35600 LBS 
+ 24.40% 
+ 40.00 %"
+Increased Operating Weight MOD 10082,"Gross Weight: 
+ Forward Limit (MAC) 
+ Aft limit (MAC) 
+ 16950 LBS 
+ 35.00% 
+ 40.00 % 
+ 20000 LBS 
+ 22.00% 
+ 40.00 % 
+ 32000 LBS 
+ 22.00% 
+ 40.00 % 
+ 35800 LBS 
+ 24.53% 
+ 40.00 % 
+ Linear variation between points 
+ Gear extension and retraction moment is negligible"
+Datum,"Fuselage Station 0, is located 221.77 inches (5.633 meters) forward of AFT frame of 
+ main entrance."
+Mean Aerodynamic Chord,96.34 inches (2.447 meters) with leading edge at Fuselage Station 10100.
+Leveling Means,"Longitudinally: 
+ Place level on either seat rail at fuselage station 8302 
+ parallel to aircraft centerline. 
+ Laterally: 
+ Place level on seat rails at fuselage station 8302 at 90° to 
+ aircraft centerline."
+Normal Operating Weight,"- Ramp Gross Weight 
+ 35000 LBS 
+ - Max Take-off Weight 
+ 34850 LBS 
+ - Max Landing Weight 
+ 28000 LBS 
+ - Max Zero Fuel Weight 
+ 24000 LBS"
+Increased Operating Weight MOD 7166,"- Ramp Gross Weight 
+ 35600 LBS 
+ - Max Take-off Weight 
+ 35450 LBS 
+ - Max Landing Weight 
+ 30000 LBS 
+ - Max Zero Fuel Weight 
+ 24000 LBS"
+Increased Operating Weight MOD 10082,"- Ramp Gross Weight 
+ 35800 LBS 
+ - Max Take-off Weight 
+ 35650 LBS 
+ - Max Landing Weight 
+ 30000 LBS 
+ - Max Zero Fuel Weight 
+ 24000 LBS"
+Minimum Crew,Two (Pilot and Copilot)
+Maximum Passengers,19 (See Note 4)
+Maximum Baggage,"Floor load 126 Lb/ft2 LBS 
+ ARM, (Meters) 
+ 1980 
+ 547.24 inches (13.90)"
+Fuel Capacity,"Total Usable Fuel All Tanks (LBS): 15010 
+ Density: 6.7 LBS/U.S. Gallon 
+ LH WING 
+ LH FEED 
+ CENTER 
+ FUSELAGE 
+ FWD 
+ RH FEED 
+ RH WING 
+ TANK 
+ TANK 
+ TANK 
+ TANK 
+ TANK 
+ TANK 
+ TANK"
+Tank Capacity LBS,"2362 
+ 180 
+ 2711 
+ 5515 
+ 1792 
+ 180 
+ 2362"
+Tank Usable Fuel LBS,"2355 
+ 165 
+ 2666 
+ 5515 
+ 1789 
+ 165 
+ 2355"
+Arm inches Meters,"427.95 
+ 436.61 
+ 398.03 
+ 501.57 
+ 327.95 
+ 436.61 
+ 427.95 
+ (10.87) 
+ (11.09) 
+ (10.11) 
+ (12.74) 
+ (8.33) 
+ (11.09) 
+ (10.87)"
+Unusable Fuel LBS,"7.1 
+ 15.0 
+ 45.0 
+ 0.0 
+ 3.0 
+ 15.0 
+ 7.1"
+Arm inches Meters,"413.39 
+ 436.61 
+ 404.72 
+ 501.57 
+ 337.40 
+ 436.61 
+ 411.02 
+ (10.50) 
+ (11.09) 
+ (10.28) 
+ (12.74) 
+ (8.57) 
+ (11.09) 
+ (10.44) 
+ See Note 1 for data on Fuel System."
+Oil Capacity,"*TOTAL (LBS) 
+ *USABLE (LBS) 
+ ARM (Meters) 
+ 34.6 
+ 21.7 
+ 581.89 inches (14.78) 
+ *For Both Engines Combined 
+ Density: 8.2 LBS/U.S. Gallon 
+ See Note 1 for data on Oil System"
+Maximum Operating Altitude,"45,000 ft."
+Other Operating Limitations,"Aircraft shall be operated according to operating limitations and procedures specified in 
+ CAAI approved Airplane Flight Manual marked Galaxy-1001-1 or G200-1001-1 for 
+ GULFSTREAM Model GALAXY airplanes, or marked G200-1001-1 for 
+ GULFSTREAM 200 airplanes."
+Control Surface Movements,"Surface 
+ Travel (at trailing edge) 
+ Tolerance 
+ Aileron 
+ Up 15º 
+ ± 0.25º 
+ Down 15º 
+ ± 0.25º 
+ Aileron Trim 
+ Up 5º 
+ +0º,-1º 
+ Down 5º 
+ +0º,-1º 
+ Rudder 
+ Left 20º 
+ ± .0.25º 
+ Right 20º 
+ ± .0.25º 
+ Rudder Trim Tab 
+ Left 10º 
+ + 1.5º-0.75º 
+ Right 10º 
+ + 1.5º-0.75º 
+ Elevator 
+ Up 27.5º 
+ ± 0.25º 
+ Down 20º 
+ ± 0.25º 
+ Stabilizer Trim 
+ Up 2.5º 
+ ± 0.33º 
+ (Leading Edge) 
+ Down 9.5º 
+ ± 0.33º 
+ Airbrakes 
+ Up 45º 
+ ± 1º 
+ Slats 
+ Down 25º 
+ ± 1º 
+ Flaps 
+ Max Down 40º 
+ +1º,-1.5º 
+ Kruger Flaps 
+ Down 110º 
+ ± 3º"
+Import Requirements,"A U.S. Airworthiness Certificate may be issued on the basis of an Israeli Certificate of 
+ Airworthiness for Export signed by a representative of the Civil Aviation Administration 
+ of Israel (CAAI) containing the following statement: ""The airplane covered by this 
+ certificate has been examined, tested and found to conform to the type design approved 
+ under FAA Type Certificate No. A53NM, and to be in condition for safe operation""."
+Certification Basis,"- 14 CFR Part 25, effective February 1, 1965, including Amendments 25-1 through 
+ 25-82. 
+ - 14 CFR Part 36, effective December 1, 1969, including Amendments 36-1 through 
+ 36-21. 
+ - 14 CFR Part 34, effective September 10, 1990, including Amendment 34-1 through 34- 
+ 2. 
+ - FAA Special Conditions: 
+ No. 25-ANM-106 for High Altitude Operations 
+ No. 25-ANM-112 for High Intensity Radiated Fields (HIRF) 
+ - FAA equivalent safety findings: 
+ * Section 25.1203(a) for Turbine Engine Tailpipe Fire Detection 
+ * Section 25.1305 and 25.1501(b) for Auxiliary Power Unit (APU) Instrumentation 
+ and Monitoring Requirements 
+ * Section 25.901, 25.1305, 25.1309, 25.1321, and 25.1549 for Digital Only Display of 
+ Turbine Engine high/intermediate Pressure Rotor Speed (N2) 
+ * All Part 25 sections, except structural, dealing with stall speeds/related factors for 
+ use of 1-g Stall Speed instead of Minimum Speed in Stall 
+ * Sections 1.1, 1.2, 25.101, 25.105, 25.109, 25.113, 25.115, 25.735, and 25.1587 
+ for Rejected Takeoff and Landing Performance Criteria 
+ * Section 25.933(a)(1)(ii) for Flight Critical Thrust Reverser 
+ - Compliance with the following optional requirements has been established: 
+ Section 25.801 for ditching 
+ Section 25.1419 for icing"
+Production Basis,None
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulation 
+ (see certification basis) must be installed in the aircraft for certification. 
+ Refer to Master Equipment List Report No. 4AS034/980439."
+Service Information,"Service bulletins, structural repair manuals, vendor manuals, aircraft flight manuals, and 
+ overhaul and maintenance manuals, which contain a statement that the document is Civil 
+ Aviation Administration of Israel (CAAI) approved, are accepted by the FAA and are 
+ considered FAA approved. These approvals pertain to the type design only."
+NOTE 1,"(a) Current weight and balance report including list of equipment included in 
+ certificated empty weight and loading instructions must be provided for 
+ each aircraft at the time of original certification. 
+ (b) The airplane must be loaded so that the C.G. is within the specified 
+ limits at all times. 
+ (c) The weight of fuel and oil systems fluid as defined below must be 
+ included in the empty weight of the airplane. 
+ FUEL SYSTEM 
+ LBS 
+ ARM (Meters) 
+ Unusable: 
+ - drainable from tanks drain and lines 
+ 70.8 
+ 414.96 inches (10.54) 
+ - undrainable (trapped in tanks and lines) 
+ 21.4 
+ 409.45 inches (10.40) 
+ OIL SYSTEM 
+ LBS 
+ ARM (Meters) 
+ - Unusable Drainable (systems) - Total 
+ 12.0 
+ 581.89 inches (14.78)"
+NOTE 2,"All required placards listed in the Limitations Section of the Airplane Flight Manual must be installed in the 
+ appropriate locations in the airplane."
+NOTE 3,"Information essential to the proper servicing and maintenance of the aircraft is contained in the Maintenance 
+ Manual Section of the Instructions for Continued Airworthiness Manual marked Galaxy-1001-6 or G200- 
+ 1001-6 for GULFSTREAM Model Galaxy airplanes, and marked G200-1001-6 for Gulfstream 200 airplanes. 
+ Mandatory replacement times, structural inspection intervals and related structural inspection procedures, 
+ and Certification Maintenance Requirements are presented in the approved Airworthiness Limitations 
+ Section of the Instructions for Continued Airworthiness Manual marked Galaxy-1001-9 or G200-1001-9 for 
+ GULFSTREAM Model Galaxy airplanes, and marked G200-1001-9 for Gulfstream 200 airplanes."
+NOTE 4,"This Aircraft Type Certificate defines a configuration which does not include exterior painting of the aircraft 
+ and its cabin interior furnishing and passenger provisions. The Aircraft is eligible for carriage of up to 19 
+ passengers provided approved seating arrangement and related required passenger provisions are 
+ incorporated in accordance with the Basis of Certification."
+NOTE 5,Airplane S/N 003 eligibility pending demonstration of conformity with the approved Type Design.
+NOTE 6,DELETED.
+NOTE 7,"Modification MOD7231 introduces the “GULFSTREAM 200” Model designation and makes the requisite 
+ changes to identification plates and manuals. The “GULFSTREAM 200” is only a name change from former 
+ “GALAXY”."
+NOTE 8,"Israel Aircraft Industries LTD. (IAI) located at Ben Gurion International Airport 70100, Israel, is licensed by 
+ Gulfstream Aerospace LP to manufacture and obtain Airworthiness Certificates for the Model aircraft listed 
+ in this Type Certificate Data Sheet for serial number 063 and subsequent."

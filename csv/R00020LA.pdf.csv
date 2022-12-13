@@ -1,0 +1,227 @@
+Keyterm,Info
+"R00020LA 
+ PJ Helicopters Inc. 
+ UH-60A 
+ July 17, 2015",
+TYPE CERTIFICATE TC,PJ Helicopters Inc.
+HOLDER,"903 Langley Way 
+ Red Bluff, CA 96080"
+"I-Model UH-60A (Restricted Category Military Surplus Helicopter) Approved July 17, 2015",
+ENGINES,"(2) General Electric T700-GE-700 Original 
+ (2) General Electric T700-GE-701C Alternate 
+ (2) General Electric T700-GE-701D Alternate"
+FUEL,"Aviation Kerosene JP-4, JP-5, JP-8, Jet A, Jet A-1 or Jet B."
+ENGINE LIMITS T700GE700,"SHAFT 
+ POWER TURBINE 
+ GAS GEN 
+ POWER TURBINE 
+ HP 
+ RPM 
+ RPM 
+ INLET (TGT)"
+Military Power 30 min,"1,561 
+ 20,900 
+ 44,700 
+ 850º C 
+ 1,318 
+ 20,900 
+ 44,700 
+ 775º C"
+ENGINE LIMITS T700GE701C,"SHAFT 
+ POWER TURBINE 
+ GAS GEN 
+ POWER TURBINE 
+ HP 
+ RPM/% 
+ RPM/% 
+ INLET (TGT)"
+Contingency Rated Power CRP,"1,940 
+ 20,900/100 
+ 44,700/102 
+ 903º C"
+Maximum Rating 10 Min dual,"1,890 
+ 20,900/100 
+ 44,700/102 
+ 878º C"
+Intermediate Rated Power IRP 30,"1,800 
+ 20,900/100 
+ 44,700/102 
+ 851º C"
+min dual,"1,662 
+ 20,900/100 
+ 44,700/102 
+ 810º C"
+ENGINE LIMITS T700GE701D,"SHAFT 
+ POWER TURBINE 
+ GAS GEN 
+ POWER TURBINE 
+ HP 
+ RPM/% 
+ RPM/% 
+ INLET (TGT)"
+Contingency Rated Power CRP 2,"1,940 
+ 20,900/100 
+ 44,700/102 
+ 903º C"
+Maximum Rating 10 Min dual,"1,890 
+ 20,900/100 
+ 44,700/102 
+ 878º C"
+Intermediate Rated Power IRP 30,"1,800 
+ 20,900/100 
+ 44,700/102 
+ 851º C"
+min dual,"1,662 
+ 20,900/100 
+ 44,700/102 
+ 810º C"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5"
+Rev No,"- 
+ - 
+ - 
+ - 
+ -"
+TRANSMISSION LIMITS,TORQUE:
+UH60A,"110% Single Engine (No time limit) 
+ 100% Dual Engine (No time limit)"
+ROTOR LIMITS,"Power Off 
+ Power On 
+ Max 265 RPM (110%) 
+ Max. 258 RPM (107 %) 
+ Min 217 RPM (90%) 
+ Min. 232 RPM (96%)"
+AIRSPEED LIMITS,"Vne Power on: 193 knots IAS, (221 MPH). See PJ Helicopters Inc. document 
+ RFM-PJ-001, “Rotorcraft Flight Manual for UH-60A Blackhawk Helicopters” for 
+ variations of Vne with gross weight, pressure altitude, and temperature. 
+ Refer to document no. RFM-PJ-001, “Rotorcraft Flight Manual for UH-60A Blackhawk 
+ Helicopters”, Rev. IR, dated July 13, 2015 or later FAA approved revisions for additional 
+ limitation data."
+EMPTY WEIGHT CG,Maintain aft C.G. limits when adding fuel.
+DATUM,341.2 inches forward of the main rotor centroid.
+MAXIMUM WEIGHT,"22,000 lbs."
+MINIMUM CREW,"2 (pilot, copilot)"
+MAXIMUM COMPARTMENT CARGO,"Compartment C 
+ Compartment D 
+ Compartment E 
+ Sta 247 to Sta 288 
+ Sta 288 to Sta 343 
+ Sta 343 to Sta 398 
+ 6460 lbs. 
+ 8370 lbs. 
+ 8370 lbs."
+NUMBER OF SEATS,2 at Sta. 227.1;2 at Sta. 282.0; 3 at Sta. 320.7; 4 at Sta. 339.8; 4 at Sta. 387.2.
+FUEL CAPACITY,"361.5 gallons; 2 tanks (LH & RH interchangeable). 
+ 359.7 gallons; 2 tanks (LH &RH interchangeable) (with fuel boost pumps installed)."
+OIL CAPACITY,7 quarts each engine.
+SERIAL NO APPROVED,"U.S. military surplus UH-60A helicopters as identified in PJ Helicopters Inc. report 
+ Serial Number Approved Report Number RPT-PJ-001-1, Rev. IR dated July 14, 2015 or 
+ later FAA approved revision."
+CERTIFICATION BASIS,"Part 21 § 21.25(a)(2) effective February 1, 1965, including Amendments 21-1 
+ through 21-92 for the special purposes listed below: 
+ § 21.25(b) (1) Agriculture Operations 
+ § 21.25(b) (2) Forest & Wildlife Conservation 
+ § 21.25(b) (7) External Loads 
+ Note: In accordance with § 36.1(a) (4), compliance with the noise requirements was not 
+ shown. Therefore, aircraft certificated under this type certificate are only eligible for 
+ agriculture operations and forest and wildlife conservation (aerial dispensing of fire 
+ fighting materials) as defined in § 137.3 and external loads as defined in § 133.1(b). 
+ Any alteration to the aircraft for Special Purposes not identified above require further 
+ FAA approval and in addition, may require noise and/or flight testing. 
+ Aircraft are certified for Day-Night Visual Flight Rules operations only. 
+ General Note: Any subsequent modifications to the helicopters type certified under this 
+ Type Certificate are to have the certification basis for that modification established under 
+ 14 CFR part 21 § 21.101 published June 7, 2000 which became effective June 10, 2003. 
+ Otherwise non-significant modifications are to meet the requirements of 14 CFR § 29 
+ dated February 1, 1965, including Amendments 29-1 through 29-18, effective March 6, 
+ 1980 and 14 CFR § 29.1529, Instructions for Continued Airworthiness, Amendment 20, 
+ effective September 11, 1980."
+DATE OF APPLICATION,"February 3, 2015"
+PRODUCTION BASIS,"None. No helicopters may be produced under this approval. Each helicopter must pass 
+ a conformity inspection in accordance with this TCDS, plus any additional special 
+ instructions attached to the Request for conformity, FAA 8120-10. In addition, a flight 
+ check must be accomplished by the Type Certificate holder or its agent of the flight 
+ characteristics in accordance with PJ Helicopters Inc. document no. FTP-PJ-001, 
+ “Flight Test Plan”, Rev. IR, dated May 13, 2015, or later FAA Approved revision."
+EQUIPMENT,"The basic required equipment necessary for the particular special purpose operation must 
+ be installed for certification."
+NOTE 1,"A current weight and balance report including a list of equipment included in the 
+ certified empty weight, and loading instructions when necessary, must be provided for 
+ each helicopter at the time of original airworthiness certification."
+NOTE 2,"The following placards must be prominently displayed in the cockpit in full view of the 
+ pilots: 
+ Placard No. 1 
+ THIS HELICOPTER MUST BE OPERATED IN COMPLIANCE WITH THE 
+ OPERATING LIMITATIONS SPECIFIED IN THE APPROVED HELICOPTER 
+ OPERATIONS MANUAL. 
+ Placard No. 2 
+ THIS ROTORCRAFT MUST BE OPERATED IN ACCORDANCE WITH THE 
+ RESTRICTED CATEGORY OPERATING LIMITATIONS OF 14 CFR PART 91.313. 
+ Placard No. 3 
+ EXTERNAL LOADS OPERATIONS: Vne WILL BE DETERMINED FOR EACH 
+ PROPOSED EXTERNAL LOAD APPLICATION."
+NOTE 3,"The builder’s data plate required by part 45 § 45.13 must be installed in accordance with 
+ PJ Helicopters Inc. Drawing PJ-001-1, Rev. NC dated June 3, 2015, or later FAA 
+ approved revisions."
+NOTE 4,"The helicopter(s) must be serviced, maintained, inspected, repaired and overhauled in 
+ accordance with the requirements specified PJ Helicopters Inc. document no. 
+ ICA-PJ-001 “Instructions for Continued Airworthiness”, Revision A dated July 16, 
+ 2015 or later FAA accepted revision, or maintained in accordance with any other 
+ FAA accepted maintenance programs. The service life limited parts retirement 
+ intervals for these helicopters is specified in the FAA approved airworthiness 
+ limitations section of PJ Helicopters Inc. document no. ICA-PJ-001, “Instructions for 
+ Continued Airworthiness” Revision A dated July 16, 2015. A FAA 
+ approved/accepted copy must accompany each helicopter on delivery."
+NOTE 5,"This helicopter must be operated in accordance with the Operator Manual comprised of 
+ the following: 
+ (1) PJ Helicopters Inc. approved document no. RFM-PJ-001 “Rotorcraft Flight Manual 
+ for UH-60A Blackhawk Helicopters”, Revision IR, dated July 13, 2015 or later FAA 
+ approved revisions."
+NOTE 6,"Prior to obtaining an original Airworthiness Certificate: 
+ A. Each helicopter must pass a conformity inspection in accordance with PJ 
+ Helicopters Inc. document no. RPT-PJ-001-2 “Engineering Configuration”, 
+ Revision IR dated June 3, 2015 or later FAA approved revision. The Engineering 
+ Configuration Report identifies the U.S. Army airframe changes, and special 
+ purpose modifications accomplished on that particular helicopter. 
+ B. 
+ Each helicopter must pass an inspection for any possible hidden damage and the 
+ Military records reviewed for acceptability of any repairs or alterations. 
+ C. 
+ The maintenance, overhaul, and modification records of each helicopter must be 
+ reviewed for military changes that may affect the airworthiness of the helicopter. 
+ Modifications and changes of equipment that affect the safety or performance of the 
+ helicopter must be approved by the Federal Aviation administration. 
+ D. After the required inspections, the aircraft must be found to be in a good state of 
+ preservation, repair, and in a condition for safe operation."
+NOTE 7,"A restricted category helicopter may not be operated in a foreign country without the 
+ express written approval of that country."
+NOTE 8,"This helicopter has not been shown to meet the requirements of the applicable 
+ comprehensive and detailed airworthiness code as provided by Annex 8 to the 
+ Convention on International Civil Aviation."
+NOTE 9,"A replacement engine may be installed provided it is of the same make and model as the 
+ engine that was removed or is a make and model listed as an alternate engine in the 
+ Instructions for Continued Airworthiness. The replacement engine must have its data 
+ plate or equivalent markings installed and its complete historical records available."
+NOTE 10,"Alternative and emergency fuels are listed in PJ Helicopters Inc. document no. 
+ RFM-PJ-001, “Rotorcraft Flight Manual for UH-60A Blackhawk Helicopters”, Revision 
+ IR, dated July 13, 2015 or later FAA approved revision."
+NOTE 11,"Any alteration to the type design of this aircraft may require Instructions for Continued 
+ Airworthiness. Changes to the type design by means of a Supplemental Type Certificate 
+ requiring ICA’s or changes to existing ICA’s must be submitted and received by the Fort 
+ Worth Evaluation Group (FTW-AEG). Type design changes by means of an FAA Field 
+ Approval that require ICA’s must have those ICA’s reviewed by the Flight Standards 
+ District Office managing the Field Approval or the FTW-AEG."
+NOTE 12,"The certification life limits for the helicopter, its engine and appliances were based on 
+ satisfactory service history as operated and maintained by the military. Therefore, to 
+ operate and maintain the aircraft to the original acceptance criteria, and maintain it’s safe 
+ for intended use requirement, cycle counting and operational time tracking is required on 
+ certain critical components. Reference PJ Helicopters Inc. document no. ICA-PJ-001. 
+ “Instructions for Continued Airworthiness” Rev. A, dated July 16, 2015, or later FAA 
+ approved revisions."
+NOTE 13,"No person may be carried in this helicopter during flight unless the person is essential to 
+ the purpose of the flight."
+NOTE 14,"This aircraft is prohibited from carrying cargo for compensation or hire unless it is 
+ incidental to the approved special purpose."

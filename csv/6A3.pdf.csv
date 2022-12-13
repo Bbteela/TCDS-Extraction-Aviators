@@ -1,0 +1,1834 @@
+Keyterm,Info
+"6A3 
+ Revision 28 
+ BOEING 
+ DC-6A 
+ Navy R6D-1 
+ USAF C-118A 
+ September 27, 2010",
+Type Certificate Holder,"The Boeing Company 
+ 4000 Lakewood Boulevard 
+ Long Beach, California 80808"
+Type Certificate Ownership Records,"McDonnell Douglas Corporation, Long Beach, California merged with The Boeing 
+ Company effective January 1, 2010. Transferred Type Certificate to The Boeing 
+ Company on September 27, 2010. 
+ Douglas Aircraft Company, Inc. 
+ Long Beach, California"
+"I - Model DC-6A, Approved April 17, 1951",
+Engines,"4 P&W Double Wasps CB-16 or CB-3, CB-17 or CB-4 (.45:1 propeller"
+Item 101,"reduction gearing); 
+ 4 P&W R-2800-52W, -83AM5 or -83AM7 (20:9 propeller reduction gearing)"
+Fuel,"Aviation gasoline (CB-16 or CB-3, R-2800-52W or -83AM5) Grade 100/130. 
+ (CB-17 or CB-4, R-2800-52W or -83AM7) Grade 108/135."
+Engine limits,"(Straight line manifold pressure variation with altitudes shown.) 
+ HP 
+ RPM MP IN.HG. 
+ ALT. 
+ P&W Double Wasps CB-16 or CB-3, 
+ R-2800-52W or -83AM5 
+ Low impeller gear ratio 7.29:1 
+ Take-off (two minutes) (dry) 
+ 2050 
+ 2700* 
+ 55.0 
+ S.L. 
+ Take-off (two minutes) (dry) 
+ 2050 
+ 2700* 
+ 53.0 
+ 6900' 
+ *(See NOTE 3 for propeller governor re-setting prior to ""dry"" take-off) 
+ Take-off (two minutes) (dry) 
+ 1950 
+ 2800 
+ 53.0 
+ S.L. 
+ Take-off (two minutes) (dry) 
+ 1950 
+ 2800 
+ 51.0 
+ 9800' 
+ Take-off (two minutes) (wet) 
+ 2400 
+ 2800 
+ 59.5 
+ S.L. 
+ Take-off (two minutes) (wet) 
+ 2400 
+ 2800 
+ 59.0 
+ 5000' 
+ (See Item 104 for water-alcohol injection installation and Engine 
+ Specification E-264 for ADI fluid composition) 
+ Maximum continuous 
+ 1800 
+ 2600 
+ 48.5 
+ S.L. 
+ Maximum continuous 
+ 1800 
+ 2600 
+ 46.5 
+ 9200' 
+ High impeller gear ratio 8.58:1 
+ Maximum continuous 
+ 1700 
+ 2600 
+ 48.5 
+ 10000' 
+ Maximum continuous 
+ 1700 
+ 2600 
+ 47.5 
+ 16800' 
+ Note: High impeller gear ratio not applicable to CB-3 engines. 
+ P&W Double Wasps CB-4, CB-17, 
+ R-2800-52W or -83AM7 
+ Low impeller gear ratio 7.29:1 
+ Take-off (two minutes) (dry) 
+ 2200 
+ 2800 
+ 60.0 
+ S.L. 
+ Take-off (two minutes) (dry) 
+ 2200 
+ 2800 
+ 59.0 
+ 5200' 
+ (critical altitude) 
+ Take-off (two minutes) (wet) 
+ 2500 
+ 2800 
+ 62.0 
+ S.L."
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19"
+28,"- 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ -"
+No,"(See Item 104 for water-alcohol injection installation and Engine 
+ Specification E-264 for ADI fluid composition) 
+ Maximum continuous 
+ 1900 
+ 2600 
+ 51.5 
+ S.L. 
+ Maximum continuous 
+ 1900 
+ 2600 
+ 50.0 
+ 7100' 
+ Take-off (two minutes) (wet) 
+ 1900 
+ 2600 
+ 50.5 
+ 10000' 
+ Take-off (two minutes) (wet) 
+ 1900 
+ 2600 
+ 49.0 
+ 15700' 
+ Maximum continuous 
+ 1750 
+ 2600 
+ 51.5 
+ 10000' 
+ Maximum continuous 
+ 1750 
+ 2600 
+ 49.5 
+ 15000' 
+ NOTE: High impeller gear ratio not applicable to CB-3 engines."
+Airspeed limits,"Maximum Zero Fuel, Oil and ADI 
+ Fluid Gross Weight 
+ 83200# 
+ Vno (Normal Operating) 
+ 289 mph (251 knots) 
+ S.L. to 17000' (1) 
+ Mach No. = .52 
+ Vne (Never Exceed) 
+ 346 mph (301 knots) 
+ S.L. to 12000' (1) 
+ Mach No. = .585 
+ Va 
+ (Maneuvering) 
+ 213 mph (185 knots) 
+ Vfe (Flaps Down 0° to 30°) 
+ 200 mph (174 knots) 
+ Vfe (Flaps Down 30° to 50°) 
+ 175 mph (152 knots) 
+ Vlo (Landing Gear Operation) 
+ 200 mph (174 knots) 
+ Vle 
+ (Landing Gear Extension) 
+ 200 mph (174 Knots) 
+ (1) Above altitudes shown, reduce speed 6 mph (5 knots) per 1000 feet."
+C G range,"Applies to 83,200 lbs. zero fuel, oil and ADI fluid gross weight aircraft. 
+ Landing gear retraction moment -220,000 in.lbs. (Moves the C.G. forward) 
+ Landing Gear Extended (1) 
+ Landing Gear Retracted (2) 
+ Forward (3) 
+ Aft 
+ Forward (3) 
+ Aft 
+ GROSS WEIGHT 
+ %MAC 
+ Sta. 
+ %MAC 
+ Sta. 
+ %MAC 
+ Sta. 
+ %MAC 
+ Sta."
+Up to and including,"83,200 lbs. 
+ - - - - 
+ - - - - 
+ - - - 
+ - - - - 
+ 9.0 
+ 409.9 
+ 33.0 
+ 449.2 
+ 85,600 lbs. 
+ 11.0 
+ 413.2 
+ 33.0 
+ 449.2 
+ - - - 
+ - - - 
+ - - - 
+ - - -"
+102200 lbs,"14.1 
+ 418.3 
+ 33.0 
+ 449.2 
+ - - - 
+ - - - 
+ - - - 
+ - - -"
+107000 lbs,"16.9 
+ 422.9 
+ 33.0 
+ 449.2 
+ 13.8 
+ 417.7 
+ 33.0 
+ 449.2 
+ (1) Applies for Take-off and Landing"
+2 Applies for Enroute Operation,(3) Straight line variation in forward C.G. between weights shown
+Maximum weights,"Landing: 88,200 lbs. (See NOTE 6 for details)."
+See NOTE 9,"Zero fuel, oil and ADI fluid gross weight: 83,200 lbs. 
+ (See NOTE 6 and Airspeed limits for details) (All weight in the 
+ airplane above this value must be in fuel, oil and ADI fluid). 
+ Takeoff: See table below and NOTE 6. Dump valves are required in 
+ accordance with NOTE 1(e) 
+ For 3-engine ferrying see NOTE 4 
+ TAKE-OFF WEIGHT 
+ Engine 
+ Zero Fuel, Oil & ADI 
+ Propeller Installation 
+ Installation 
+ fluid gross weight 
+ Ham. Std. 
+ 43E60/6895 
+ CB-3, CB-16 
+ 83,200 lbs. 
+ 103,800 lbs. (1) (3) 
+ R-2800-52W or 
+ 100,000 lbs. (1) 
+ R-2800-83AM5 
+ 92,200 lbs. (2) 
+ CB-17, CB-4 
+ 83,200 lbs. 
+ 107,000 lbs. (1) (3) 
+ R-2800-52W or 
+ 103,000 lbs. (1) 
+ R-2800-83AM7 
+ 95,500 lbs. (2) 
+ (1) With anti-detonant injection (See Engine Specification for ADI 
+ fluid composition) and 20° take-off flap setting."
+Minimum crew,"For all revenue flights (passenger and/or cargo) 
+ 3 (Pilot and copilot (+48.0) and flight engineer (+69.0)) 
+ For all other flights (including test, ferry and training flights) 
+ 2 (Pilot and copilot (+48.0)) 
+ Additions to the above minimums may be specified by the FAA Air Carrier Safety 
+ Division for long range flights and/or other special conditions."
+Maximum passengers,See NOTE 1(g) for cargo configuration and NOTE 7 for passenger configuration.
+Compartment,"Station 
+ Capacity (lbs.) 
+ Maximum Floor 
+ Arm 
+ Arrangement No. 1 and 2 
+ Loading #/FT2"
+A belly,"89-221 
+ 1960 
+ 75 
+ 155.0"
+B main cabin,"122-221 
+ 5940 less Comp't A load 
+ 200 
+ 171.5"
+C belly,"221-281 
+ 890* 
+ 75 
+ 251.0"
+D main cabin,"221-341 
+ 8710 less Comp't C load 
+ 200 
+ 281.0"
+E main cabin,"341-421 
+ 6400 
+ 200 
+ 381.0"
+F main cabin,"421-520 
+ 7920 
+ 200 
+ 470.5"
+G main cabin,"520-600 
+ 6400 
+ 200 
+ 560.0"
+H belly,"600-668 
+ 1810 
+ 75 
+ 634.0"
+J main cabin,"600-688 
+ 5440 less Comp't H load 
+ 200 
+ 634.0"
+K belly,"668-792 
+ 3030 
+ 75 
+ 730.0"
+L main cabin,"668-792 
+ 7440 less Comp't K load 
+ 200 
+ 730.0"
+M belly,"792-866 
+ 1350 
+ 30 
+ 829.0"
+N main cabin,"792-866 
+ 2960 less Comp't M load 
+ 200 
+ 829.0"
+O belly,"866-938 
+ 1310 
+ 30 
+ 902.0"
+P main cabin,"866-955 
+ 3360 less Comp't O load 
+ 200 
+ 910.0 
+ *When auxiliary power plant (Item 310) is not installed, Compartment C (221-341) capacity may be increased to 1780 lbs. 
+ and Compartment D capacity increased to 9660 lbs. less Compartment C load. 
+ Arrangement No. 3 (AAL Version)"
+1 main cabin,"123-221 
+ 5880 less Comp't 8 load 
+ 200 
+ 172.0"
+2 main cabin,"221-311 
+ 9600 less Comp't 9 load 
+ 200 
+ 281.0"
+3 main cabin,"311-460 
+ 9520 
+ 200 
+ 400.5"
+4 main cabin,"460-560 
+ 8000 
+ 200 
+ 510.0"
+5 main cabin,"560-660 
+ 8000 less Comp't 10 load 
+ 200 
+ 610.0"
+6 main cabin,"660-800 
+ 8400 less Comp't 11 load 
+ 200 
+ 730.0"
+7 main cabin,"800-955 
+ 6000 less Comp't 12 load 
+ 200 
+ 875.0"
+8 belly,"89-221 
+ 1960 
+ 75 
+ 155.0"
+9 belly,"221-311 
+ 1780 
+ 75 
+ 281.0"
+10 belly,"600-660 
+ 880 
+ 75 
+ 630.0"
+11 belly,"660-800 
+ 1720 
+ *** 
+ 730.0"
+12 belly,"800-938 
+ 700 
+ 30 
+ 869.0 
+ *** Sta. 660-760: 75#/Ft2, Sta. 760-800: 30#/Ft2"
+Fuel capacity,"(See NOTE 1(b), (c) and (d) for data on ""System"" fuel and ""unusable"" fuel; 
+ NOTE 1(d) for required distribution of fuel load, NOTE 1(e) for ""Undumpable"" fuel. 
+ Total 
+ Usable 
+ Eight Wing Tank Airplane - 1322 Gallon System: 
+ 2 outer wing tanks (#1 and #4 main) 
+ 695 gal. ea. 
+ 695 gal. ea. (+460.0) 
+ 2 inboard inner wing tanks (#2 and #3 main) 
+ 508 gal. ea. 
+ 502 gal. ea. (+441.0) 
+ 2 outboard inner wing tanks (#1 and #4 alt.) 
+ 431 gal. ea. 
+ 428 gal. ea. (+444.0) 
+ 2 inner wing fuel tanks (#2 and #3 alt.) 
+ 527 gal. ea. 
+ 524 gal. ea. (+449.0) 
+ Eight Wing Tank Airplane - 4934 Gallon System: 
+ 2 outer wing tanks (#1 and #4 main) 
+ 695 gal. ea. 
+ 695 gal. ea. (+460.0) 
+ 2 inboard inner wing tanks (#2 and #3 main) 
+ 719 gal. ea. 
+ 713 gal. ea. (+451.0) 
+ 2 outboard inner wing tanks (#1 and #4 alt.) 
+ 526 gal. ea. 
+ 523 gal. ea. (+449.0) 
+ 2 inner wing fuel cells (#2 and #3 alt.) 
+ 527 gal. ea. 
+ 524 gal. ea. (+449.0) 
+ 2 inboard inner wing tanks (#2 and #3 main) 
+ 719 gal. ea. 
+ 713 gal. ea. (+451.0) 
+ 2 outboard inner wing tanks (#1 and #4 alt.) 
+ 580 gal. ea. 
+ 576 gal. ea. (+452.0) 
+ 2 inner wing fuel cells (#2 and #3 alt.) 
+ 527 gal. ea. 
+ 524 gal. ea. (+449.0) 
+ Eight Wing Tank Airplane - 5404 Gallon System: 
+ 2 outer wing tanks (#1 and #4 main) 
+ 695 gal. ea. 
+ 695 gal. ea. (+460.0) 
+ 2 inboard inner wing tanks (#2 and #3 main 
+ 719 gal. ea. 
+ 713 gal. ea. (+451.0) 
+ 2 outboard inner wing tanks (#1 and #4 alt.) 
+ 526 gal. ea. 
+ 523 gal. ea. (+449.0) 
+ 2 inner wing fuel cells (#2 and #3 alt.) 
+ 762 gal. ea. 
+ 762 gal. ea. (+468.0) 
+ Eight Wing Tank Airplane - 5512 Gallon System: 
+ 2 outer wing tanks (#1 and #4 main) 
+ 695 gal. ea. 
+ 695 gal. ea. (+460.0) 
+ 2 inboard inner wing tanks (#2 and #3 main) 
+ 719 gal. ea. 
+ 713 gal. ea. (+451.0) 
+ 2 outboard inner wing tanks (#1 and #4 alt.) 
+ 580 gal. ea. 
+ 576 gal. ea. (+452.0) 
+ inner wing fuel cells (#2 and #3 alt.) 
+ 762 gal. ea. 
+ 762 gal. ea. (+468.0) 
+ Ten Wing Tank Airplane - 4722 Gallon or 4736 Gallon System: 
+ 2 outer wing tanks (#1 and #4 main) 
+ 360 gal. ea. 
+ 360 gal. ea. (+448.0) 
+ 2 inboard inner wing tanks (#2 and #3 main) 
+ 508 gal. ea. 
+ 502 gal. ea. (+441.0) 
+ 2 outboard inner wing tanks (#1 and #4 alt.) 
+ 519 gal. ea. 
+ 516 gal. ea. (+449.0) 
+ or 
+ 526 gal. ea. 
+ 523 gal. ea. 
+ 2 inner wing fuel cells (#2 and #3 alt.) 
+ 527 gal. ea. 
+ 524 gal. ea. (+449.0) 
+ 2 auxiliary fuel cells (L.H. and R.H.) 
+ 447 gal. ea. 
+ 444 gal. ea. (+500.0) 
+ Ten Wing Tank Airplane - 5406 Gallon System: 
+ 2 outer wing tanks (#1 and #4 main) 
+ 695 gal. ea. 
+ 695 gal. ea. (+460.0) 
+ 2 inboard inner wing tanks (#2 and #3 main) 
+ 508 gal. ea. 
+ 502 gal. ea. (+441.0) 
+ 2 outboard inner wing tanks (#1 and #4 alt.) 
+ 526 gal. ea. 
+ 523 gal. ea. (+449.0) 
+ 2 inner wing fuel cells (#2 and #3 alt.) 
+ 527 gal. ea. 
+ 524 gal. ea. (+449.0) 
+ 2 auxiliary fuel cells (L.H. and R.H.) 
+ 447 gal. ea. 
+ 444 ga. ea. (+500.0)"
+Oil capacity,"(See NOTE 1(b) and (f) regarding ""System"" oil and wing fillet oil tank installation.) 
+ Hamilton Standard Propeller Installation: 
+ 35 gal. in each nacelle (Douglas Dwg. #5342754) 
+ (+349.0) & (+379.0) 
+ 26 gal. in wing fillet 
+ (+565.0) 
+ (Required on all aircraft having a fuel system capacity greater than 4322 gallons except 
+ when a specific authorization for a fuel:oil ratio greater than 30:1 is approved by the 
+ Administrator.)"
+Serial Nos eligible,See Item 401 and NOTE 6 for complete list.
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 4b, the following 
+ items of equipment must be installed: 
+ 1(a), 2(a) or (b), 4(a) and 101(a), (b), (c), (d), (e) or (f); 103(a), (b) and (c), or 103(b), 
+ (c) and (d), or 103(b), (c) and (e), or 102(b) and (f), or 103(b), (c) and (g), 103(b), (c), 
+ and (h) or 103(b), (c) and (i); 105(a); 107(a), (b), (c), (d) or (e); 201(a), (b), (c), (d), 
+ (e), (f), (g), (h), (i), (j) or (k); 202(a), (b) or (c); 203; 204(a), (b), (c) or (d); 205(a), 
+ (b) or (c); 206; 207(a), (b), (c), (d), (e), (f), (g), (h), (i), (j) or (k); 208(a), (b), (c), (d), 
+ (e), (f), (g), (h), (i), (j), (k) or (l); 301(a), (b), (c) or (d); 302(a); 401 (as applicable); 
+ 402(a), (b) or (c); 404(a) or (b); 405(a); 408(a), (b), (c), (d), (e), (f), (g), (h), (i), (j), 
+ (k), (l), (m), (n), (o), (p), (q), (r), or (s); 605(a) or (b)."
+"II - Models Navy R6D-1 and U.S. Air Force C-118A (DC-6A), Approved December 19, 1951 and August 21, 1952, 
+ respectively 
+ (Navy Model R6D-1 and U.S. Air Force Model C-118A basically same as DC-6A airplane except for equipment items and cargo 
+ arrangement. See NOTE 5 for differences between Navy Model R6D-1, U.S. Air Force Model C-118A and Basic Model DC- 
+ 6A",
+Engines,"4 P&W Double Wasps CB-16, CB-17 or R-2800-52W (.45:1 propeller 
+ reduction gearing) (Item 101(a), (b) or (c).)"
+Fuel,Aviation gasoline (CB-16 or R-2800-52W) Grade 100/130.
+Engine limits,"P&W Double Wasp CB-16 or R-2800-52W 
+ MP 
+ Low impeller gear ratio 7.29:1 
+ HP 
+ RPM 
+ IN.HG. ALT. 
+ Take-off (two minutes) (dry) 
+ 2050 
+ 2700* 
+ 55.0 
+ S.L. 
+ Take-off (two minutes) (dry) 
+ 2050 
+ 2700* 
+ 53.0 
+ 6900' 
+ *(See NOTE 3 for propeller governor 
+ re-setting prior to ""dry"" take-off) 
+ Take-off (two minutes) (dry) 
+ 1950 
+ 2800 
+ 53.0 
+ S.L. 
+ Take-off (two minutes) (dry) 
+ 1950 
+ 2800 
+ 51.0 
+ 9800' 
+ Take-off (two minutes) (wet) 
+ 2400 
+ 2800 
+ 59.5 
+ S.L. 
+ Take-off (two minutes) (wet) 
+ 2400 
+ 2800 
+ 59.0 
+ 5000' 
+ (See Item 104 for water-alcohol 
+ injection installation and Engine 
+ Specification E-264 for ADI fluid 
+ composition) 
+ Maximum continuous 
+ 1800 
+ 2600 
+ 48.5 
+ S.L. 
+ Maximum continuous 
+ 1800 
+ 2600 
+ 46.5 
+ 9200' 
+ High impeller gear ratio 8.58:1 
+ Maximum continuous 
+ 1700 
+ 2600 
+ 48.5 
+ 10000' 
+ Maximum continuous 
+ 1700 
+ 2600 
+ 47.5 
+ 16800' 
+ P&W Double Wasps CB-17 or R-2800-52W 
+ Low impeller gear ratio 7.29:1 
+ Take-off (two minutes) (dry) 
+ 2200 
+ 2800 
+ 60.0 
+ S.L. 
+ Take-off (two minutes) (dry) 
+ 2200 
+ 2800 
+ 59.0 
+ 5200' 
+ (critical altitude) 
+ Take-off (two minutes) (wet) 
+ 2500 
+ 2800 
+ 62.0 
+ S.L. 
+ Take-off (two minutes) (wet) 
+ 2500 
+ 2800 
+ 61.5 
+ 3700' 
+ (critical altitude) 
+ (See Item 104 for water-alcohol injection 
+ installation and Engine Specification E-264 
+ for ADI fluid composition) 
+ Maximum continuous 
+ 1900 
+ 2600 
+ 51.5 
+ S.L. 
+ Maximum continuous 
+ 1900 
+ 2600 
+ 50.0 
+ 7100' 
+ High impeller gear ratio 8.58:1 
+ Take-off (two minutes) (wet) 
+ 1900 
+ 2600 
+ 50.5 
+ 10000' 
+ Take-off (two minutes) (wet) 
+ 1900 
+ 2600 
+ 49.0 
+ 15700' 
+ Maximum continuous 
+ 1750 
+ 2600 
+ 51.5 
+ 10000' 
+ Maximum continuous 
+ 1750 
+ 2600 
+ 49.5 
+ 15000'"
+Airspeed limits,"Vno (Normal Operating) 
+ 289 mph (251 knots) True Ind. 
+ S.L. to 17000' (1) Mach No. = .52 
+ Vne (Never Exceed) 
+ 346 mph (301 knots) True Ind. 
+ S.L. to 12000' (1) Mach No. = .585 
+ Va (Maneuvering) 
+ 211 mph (183 knots) True Ind. 
+ Vfe (Flaps Down 0° to 30°) 
+ 200 mph (174 knots) True Ind. 
+ Vfe (Flaps Down 30° to 50°) 175 mph (153 knots) True Ind. 
+ Vlo (Landing Gear Operation) 
+ 200 mph (174 knots) True Ind. 
+ Vle (Landing Gear Extended) 200 mph (174 Knots) True Ind. 
+ (1) Above altitudes shown, reduce speed 6 mph (5 knots) per 1000 feet."
+C G range,"Landing gear retraction moment -220,000 in.lbs. (moves the C.G. forward) 
+ Landing Gear Extended (1) 
+ Landing Gear Retracted (2) 
+ Forward (3) 
+ Aft 
+ Forward (3) 
+ Aft 
+ GROSS WEIGHT 
+ %MAC 
+ Sta. 
+ %MAC 
+ Sta. 
+ %MAC 
+ Sta. 
+ %MAC 
+ Sta."
+Up to and including,"83,200 lbs. 
+ - - - - 
+ - - - - 
+ - - - 
+ - - - - 
+ 9.0 
+ 409.9 
+ 33.0 
+ 449.2 
+ 85,600 lbs. 
+ 11.0 
+ 413.2 
+ 33.0 
+ 449.2 
+ - - - 
+ - - - 
+ - - - 
+ - - -"
+102200 lbs,"14.1 
+ 418.2 
+ 33.0 
+ 449.2 
+ - - - 
+ - - - 
+ - - - 
+ - - -"
+103000 lbs,"14.6 
+ 419.0 
+ 33.0 
+ 449.2 
+ 13.0 
+ 416.4 
+ 33.0 
+ 449.2 
+ (1) Applies for Take-off and Landing 
+ (2) Applies for Enroute Operation 
+ (3) Straight line variation in forward C.G. between weights shown 
+ (See NOTE 6 details) (All weight in the airplane above this value must be in fuel, 
+ oil and ADI fluid). 
+ Take-off: See table below and NOTE 6. Dump valves are required in accordance 
+ with NOTE 1(e) 
+ For 3-engine ferrying see NOTE 4 
+ TAKE-OFF WEIGHT 
+ Engine 
+ Zero Fuel, Oil & ADI 
+ Propeller Installation 
+ Installation 
+ fluid gross weight 
+ Ham. Std. 
+ CB-16 or 
+ 83,200 lbs. 
+ 100,000 lbs. (1) 
+ R-2800-52W 
+ 92,200 lbs. (2) 
+ CB-17, or 
+ 83,200 lbs. 
+ 103,000 lbs. (1) 
+ R-2800-52W 
+ 95,500 lbs. (2) 
+ (1) With anti-detonant injection (See Engine Specification for ADI 
+ fluid composition) and 20° take-off flap setting. 
+ (2) With dry power and 20° take-off setting."
+Minimum crew,"For all revenue flights (passenger and/or cargo) 
+ 3 (Pilot and copilot (+48.0) and flight engineer (+69.0)) 
+ For all other flights (including test, ferry and training flights) 
+ 2 (Pilot and copilot (+48.0)) 
+ Additions to the above minimums may be specified by the FAA Air Carrier Safety 
+ Division for long range flights and/or other special conditions."
+Maximum passengers,"None. See NOTE 1(g) for approved interior arrangement for Model 
+ DC-6A and NOTE 5(f) for Model R6D-1 and Model C-118A."
+Compartment,"Station 
+ Capacity (lbs.) 
+ Maximum Floor 
+ Arm 
+ Loading #/Ft2"
+BB belly,"89-221 
+ 1960 
+ 75 
+ 155.0"
+B main cabin,"(122-221) 
+ 5940 less Comp't B-B 
+ 200 
+ 189.0"
+CC belly,"221-281 
+ ** 890 
+ 75 
+ 251.0"
+C main cabin,"221-281 
+ 4800 less Comp't C-C 
+ 200 
+ 251.0"
+D main cabin,"281-341 
+ 4800 
+ 200 
+ 311.0"
+E main cabin,"341-405 
+ 5120 
+ 200 
+ 373.0"
+F main cabin,"405-470 
+ 5200 
+ 200 
+ 437.5"
+G main cabin,"470-535 
+ 5200 
+ 200 
+ 502.5"
+H main cabin,"535-600 
+ 5200 
+ 200 
+ 567.5"
+JJ belly,"600-688 
+ 1000 
+ 75 
+ 634.0"
+J main cabin,"600-668 
+ 5445 less Comp't J-J 
+ 200 
+ 634.0"
+KK belly,"668-730 
+ 770 
+ 75 
+ 699.0"
+K main cabin,"668-730 
+ 3720 less Comp't K-K 
+ 200 
+ 699.0"
+LL belly,"730-792 
+ 770 
+ * 
+ 761.0"
+L main cabin,"730-792 
+ 3720 less Comp't L-L 
+ 200 
+ 761.0"
+MM belly,"792-866 
+ 390 
+ 30 
+ 829.0"
+M main cabin,"792-866 
+ 2960 less Comp't M-M 
+ 200 
+ 829.0"
+NN belly,"866-938 
+ 370 
+ 30 
+ 902.0"
+N main cabin,"866-955 
+ 3360 less Comp't N-N 
+ 200 
+ 910.0 
+ All cargo loading must be secured with the tie-downs provided since there are no retaining net or crash bulkhead"
+provisions,"*Sta. 730 to 760 = 75#/FT2 
+ Sta. 760 to 792 - 30#/Ft2 
+ **When auxiliary power plant (Item 310) is not installed, Compartment C-C (Belly) (221-341) capacity may be 
+ increased to 1780 lbs. All weight in compartment C-C will be subtracted from compartment C and D (main"
+cabin,"Total 
+ Usable 
+ Ten Wing Tank Airplane - 5406 Gallon System: 
+ 2 outer wing tanks (#1 and #4 main) 
+ 695 gal. ea. 
+ 695 gal. ea. (+460.0) 
+ 2 inboard inner wing tanks (#2 and #3 main) 
+ 508 gal. ea. 
+ 502 gal. ea. (+441.0) 
+ 2 outboard inner wing tanks (#1 and #4 alt.) 
+ 526 gal. ea. 
+ 523 gal. ea. (+444.0) 
+ 2 inner wing fuel tanks (#2 and #3 alt.) 
+ 527 gal. ea. 
+ 524 gal. ea. (+449.0) 
+ 2 auxiliary fuel cells (L.H. and R.H.) 
+ 447 gal. ea. 
+ 444 gal. ea. (+500.0) 
+ Eight Wing Tank Airplane - 5404 Gallon System: 
+ 2 outer wing tanks (#1 and #4 main) 
+ 695 gal. ea. 
+ 695 gal. ea. (+460.0) 
+ 2 inboard inner wing tanks (#2 and #3 main) 
+ 719 gal. ea. 
+ 700 gal. ea. (+451.0) 
+ or (Serial No. 43819 and up) 
+ 719 gal. ea. 
+ 713 gal. ea. (+451.0) 
+ 2 outboard inner wing tanks (#1 and #4 alt.) 
+ 526 gal. ea. 
+ 523 gal. ea. (+449.0) 
+ 2 inner wing fuel cells (#2 and #3 alt.) 
+ 762 gal. ea. 
+ 762 gal. ea. (+468.0)"
+Oil capacity,"(See NOTE 1(b) and (f) regarding ""System"" oil and wing fillet oil tank installation.) 
+ Hamilton Standard Propeller Installation: 
+ 35 gal. in each nacelle (Douglas Dwg. #5342754) (+349.0) & (+379.0) 
+ 26 gal. in wing fillet 
+ (+565.0) 
+ (Required on 5406 gallon ten wing tank airplanes, and 5404 gallon eight wing tank 
+ airplanes)"
+Serial Nos eligible,"43206 and up (For R6D-1) 
+ 43565 and up (For C-118A)"
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 4b, the following 
+ items of equipment must be installed: 
+ 1(a), 2(a) or (b), 3(a), and 101(b) or (c); 103(b), (c) and (d) or 103(b), (c) and (e); 
+ 105(a); 107(a), (b), (c) or (d); 201(c), (d), (e) or (f); 202(a); 203; 204(a); 205(a); 206; 
+ 207(c), (d), (e), (f), (g) or (h); 208(a), (b), (c) or (d); 301(a), (b) or (c); 302(a); 402(b); 
+ 404(a) or (b); 405(a); 408(c); 605(a) or (b)."
+"Specifications Pertinent to All Models 
+ Datum 
+ 63 in. aft of nose (Station 0) 
+ MAC 
+ 163.6 in. L.E. of MAC (+395.2) 
+ Leveling means 
+ Bracket at Sta. 387.4 (below floor) and Sta. 4 and 22 (nose wheel well) 
+ Control surface movements 
+ (May be either arrangement ""A"" or arrangement ""B"") 
+ Arrangement ""A"" (Serial No. 12901 only) 
+ Aileron 
+ (Drooped 1° w/r to wing T.E., wheel neutral. 
+ (19° up, 17° down from neutral drooped position. 
+ Aileron tab 
+ (Faired w/r to aileron T.E., controls neutral 
+ (+ 21 1/2° + 1/2° from neutral position. 
+ Rudder* 
+ + 15 1/2 + 1/2° from neutral faired position. 
+ Rudder tab 
+ + 19 1/2° + 1/2° from neutral faired position. 
+ (T.E. faired with tail cone, control column neutral. 
+ (Down 15° + 1/2° from neutral, control column full 
+ forward 22° 41' from vertical. 
+ Elevator 
+ (Up 22° + 1/2° from neutral when elevator trim tab 
+ (setting is 5° nose down to 4° nose up. 
+ (Up 25° + 1/2° from neutral when elevator trim tab 
+ (setting is 7° nose up to 15° nose up. 
+ (Up 2 1/2° + 1/2° control neutral - springs each 
+ (will produce 3 1/2# preload at T.E. 
+ Elevator spring 
+ (Down 19° + 1/2° from faired position, control full aft. 
+ tab 
+ (Up 9° + 1/2° from faired position control full forward. 
+ Elevator trim 
+ (Down 15° + 1/2° from neutral faired position. 
+ tab** 
+ (Up 5° + 1/2° from neutral faired position. 
+ (19° up, 17° down from neutral drooped position. 
+ Aileron tab 
+ (Faired w/r to aileron T.E., controls neutral 
+ (+ 21 1/2° + 1/2° from neutral position. 
+ Rudder* 
+ + 20° + 1/2° from neutral faired position. 
+ Rudder tab 
+ + 19 1/2° + 1/2° from neutral faired position. 
+ (T.E. faired with tail cone, control column neutral. 
+ (Down 15° + 1/2° from neutral, control column full 
+ 24° 30' from vertical. 
+ Elevator 
+ (Up 22° + 1/2° from neutral when elevator trim tab 
+ ( is 6° nose down to 4° nose up. 
+ (Up 25° + 1/2° from neutral when elevator trim tab 
+ ( is 4° nose up to 9° nose up. 
+ (Up 25° + 1/2° from neutral when elevator trim tab 
+ ( is 4° nose up to 9° nose. up. 
+ Elevator spring 
+ (Up 2 1/2° + 1/2° controls neutral - springs each 
+ tab 
+ will produce (3 1/2# preload at T.E. 
+ (Down 22 1/2° + 1/2° from faired position control full aft. 
+ (Up 7 1/2° + 1/2° from faired position, control full forward. 
+ Elevator trim 
+ (When indicator zeroed T.E. down 2° from faired position. 
+ tab** 
+ (Down 11° + 1/2° from neutral faired position. 
+ (Up 4° + 1/2° from neutral faired position. 
+ *Airplanes having 15 1/2° rudder travel may change to + 20° travel 
+ Arrangement ""B"" (See Douglas Service Letter A-214-191/ERH II-G-7, 
+ DC6-SC#959. Douglas Dwg. 4394980, E.O. #5328376-AZ) 
+ **To provide elevator trim tab limits 11° down and 1° up, accomplish 
+ rework per Douglas Service Bulletin DC-6 No. 497. Certification basis Type 
+ Certificate No. 6A3. (Transport Category, CAR 4b, as amended to October 1, 1949.) 
+ The forward and aft lower belly cargo compartments are Class ""D"" compartments. 
+ Smoke detectors, per amendment 4b-2 effective August 25, 1955, or extinguishing 
+ provisions are not required. 
+ Compliance with ditching provisions of 4b.292 has been demonstrated. 
+ Maximum approved operational altitude 25,000 ft. 
+ Production basis 
+ Production Certificate No. 27 
+ Export eligibility 
+ Eligible for export to all countries subject to the provisions of MOP 2-4 except as 
+ follows: 
+ (a) Canada - Landplane only eligible 
+ Equipment 
+ Approval for the installation of all items of equipment listed herein has been obtained by 
+ the aircraft manufacturer except those items preceded by an asterisk (*). The asterisk 
+ denotes that approval has been obtained by someone other than the aircraft 
+ manufacturer. An item marked with an asterisk may not have been manufactured under 
+ a FAA monitored or approved quality control system, and therefore conformity must be 
+ determined if the item is not identified by a Form ACA-186, PMA or other evidence of 
+ FAA production approval. 
+ Propellers and Propeller Accessories (Except De-Icing Equipment) 
+ Note 
+ When reversible pitch propellers are installed, the minimum permissible force at the throttle knobs required to move 
+ each throttle from positive to negative thrust position shall be eight pounds in addition to the throttle system friction. 
+ 1. (a) 4 Ham. Std. propellers, hubs 43E60, blades 6895-8 
+ 2240 lbs. (+272.0) 
+ Diameter: Max. 13'5-5/16"", min. allowable for repairs 13' 1-9/16"". 
+ No further tolerance permitted. 
+ Pitch settings at 42"" sta.: Reverse -8°, Min. low +30° 
+ Feathered +96° (approx.) 
+ 2. Propeller governors (See NOTE 3 for governor settings for CB-16 engines.) 
+ a 4 Ham Std 5U181 
+ 52 lbs. (+292.0) 
+ (b) 4 Ham. Std. 5U18-11, -24, -61, -114 or -118. 
+ 54 lbs. (+293.0) 
+ 3 Propeller feathering pumps 
+ (a) 4 Pesco IE-777-KL-1 (Douglas Dwg. #3342196) 
+ 64 lbs. (+367.0) 
+ Engines and Engine Accessories - Fuel and Oil Systems 
+ 101. (a) 4 P&W Double Wasp CB-16 
+ 9600 lbs. (+294.0) & (+324.0) 
+ (b) 4 P&W Double Wasps CB-17 
+ 9600 lbs. (+294.0) & (+324.0) 
+ c 4 PW R280052W 
+ 9600 lbs. (+294.0) & (+324.0) 
+ d 4 PW R280083AM7 
+ 9600 lbs. (+294.0) & (+324.0) 
+ e 4 PW R280083AM5 
+ 9600 lbs. (+294.0) & (+324.0) 
+ (f) 4 P&W Double Wasps CB-3 
+ 9468 lbs. (+294.0) & (+324.0) 
+ (g) 4 P&W Double Wasps CB-4 
+ 9468 lbs. (+294.0) & (+324.0) 
+ 102 Fuel dump valve system 
+ (a) Ten wing tank system (Douglas Dwg. #5248375-5500) 
+ 149 lbs. (+429.0) 
+ (b) Ten wing tank system (Douglas Dwg. #5393033-5501 or 5393033-501) 
+ 149 lbs. (+429.0) 
+ (c) Eight wing tank system (Douglas Dwg. #5393033) 
+ 139 lbs. (+427.5) 
+ (d) Eight wing tank system (Douglas Dwg. #5393033) 
+ 145 lbs. (+427.0) 
+ 103 System fuel and oil 
+ (a) System fuel, 4722 gal. or 4736 gal. capacity ten wing fuel 
+ 411 lbs. (+458.5) 
+ tanks (68.5 gals.) 
+ (b) System oil, 35 gal. oil tank installation (55.0 gals.) Ham. 
+ 413 lbs. (+326.0) 
+ Std propeller installation 
+ (c) System oil, wing fillet 26 gal. tank (50% oil - 50% gasoline. 
+ 21 lbs. (+472.0) 
+ 31 gals 677gal 
+ (d) System fuel, 5406 gal. capacity ten wing fuel tanks (66.7 gals.) 
+ 400 lbs. (+460.0) 
+ (e) System fuel, 5404 gal. capacity eight wing fuel tanks (56.2 gals.) 
+ 337 lbs. (+466.0) 
+ (f) System fuel, 4322 gal. capacity eight wing fuel tanks (41.5 gals.) 
+ 249 lbs. (+459.0) 
+ (g) System fuel, 5512 gal. capacity eight wing fuel tanks (51.7 gals.) 
+ 310 lbs. (+467.5) 
+ (h) System fuel, 4934 gal. capacity eight wing fuel tanks (53.5 gals.) 
+ 321 lbs. (+453.0) 
+ (i) System fuel, 5042 gal. capacity eight wing fuel tanks (49.0 gals.) 
+ 294 lbs. (+453.5) 
+ 104. (a) Water-alcohol Injection (Douglas Dwgs. #7352910, #7371946, 
+ 244 lbs. (+388.0) 
+ #5350629, and #5371664) with Water-alcohol Regulator, P&W No. 106400E 
+ (b) Water-alcohol Injection Fluid, 39 gal. 
+ 291 lbs. (+453.5) 
+ 105. (a) 4 Oil Coolers, AiResearch 86764 or 87295 
+ 162 lbs. (+351.0) 
+ 107 Starters 
+ a 4 Eclipse 141618 
+ 110 lbs. (+350.5) 
+ b 4 Eclipse 36E004 
+ 113 lbs. (+350.5) 
+ (c) 4 Jack & Heintz JH-6ER12, JH-6ESR12 or JH-6BESR12 
+ 106 lbs. (+350.5) 
+ d 4 AN4116R6 
+ 112 lbs. (+350.0) 
+ (e) 4 Jack & Heintz JH-6CE 
+ 108 lbs. (+351.0) 
+ Landing Gear 
+ 201. 4 Main wheel-brake assemblies, 17.00-20, Type III 
+ a Goodyear Model LF20HBM 
+ 768 lbs. (+474.0) 
+ Wheel Assembly No. 9540484 
+ Brake Assembly No 9540505 (Max. T.O. Wt. 100,000 lbs., 
+ Landing 85,000 lbs.) 
+ b Goodyear Model LF20HBM 
+ 768 lbs. (+474.0) 
+ Wheel Assembly No. 9540484 
+ Brake Assembly No 9540504 (Skydrol) (Max. T.O. Wt. 100,000 lbs., 
+ Landing 85,000 lbs.) 
+ c Goodyear Model LF20HBM 
+ 747 lbs. (+474.0) 
+ Wheel Assembly No. 9540484 
+ Brake Assembly No. 9560164 
+ Brake Assembly No. 9560166 (Skydrol) 
+ (e) B.F. Goodrich Co., Model 1753M 
+ 737 lbs. (+474.0) 
+ Wheel Assembly No. H-3-743 
+ Brake Assembly No. H-2-603 
+ (f) B.F. Goodrich Co., Model 1753M 
+ 737 lbs. (+474.0) 
+ Wheel Assembly No. H-3-743 
+ Brake Assembly No. H-2-602 (Skydrol) 
+ (g) B.F. Goodrich Co., Model 1753M 
+ 731 lbs. (+474.0) 
+ Wheel Assembly No. H-3-743 
+ Brake Assembly No. H-2-630 
+ (h) B.F. Goodrich Co., Model 1753M 
+ 731 lbs. (+474.0) 
+ Wheel Assembly No. H-3-743 
+ Brake Assembly No. H-2-629 (Skydrol) 
+ i 
+ Goodyear Model LF20HBM 
+ 808 lbs. (+474.0) 
+ Wheel Assembly No. 9540906 
+ Brake Assembly No. 9560166 (Skydrol) 
+ j 
+ B.F. Goodrich Co., Model 1753M 
+ 731 lbs. (+474.0) 
+ Wheel Assembly No. H-3-743 
+ Brake Assembly No. H-2-648 
+ k Goodyear Model LF20HBM 
+ 808 lbs. (+474.0) 
+ Wheel Assembly No. 9540906 
+ Brake Assembly No. 9560164 
+ 202. 4 Main wheel tires (NOTE: Satisfactory tire inflation pressures are given in the Airplane 
+ Maintenance Manual 
+ (a) 20-ply rating, 15:50x20, Type III, Nylon 
+ 645 lbs. (+474.0) 
+ (b) 16-ply rating, 15:50x20, Type III, Nylon 
+ 640 lbs. (+474.0) 
+ (Maximum take-off weight 100,000 lbs.) 
+ (c) 20-ply rating, 15:50x20, Type III Nylon (Tubeless) 
+ 676 lbs. (+474.0) 
+ 203. 4 Main wheel tubes, 15:50x20, Type III, Regular 
+ 86 lbs. (+474.0) 
+ 204 Nose wheel 44 
+ (a) Goodyear Model 44NBM, Type I 
+ 72 lbs. (+39.0) 
+ Wheel assembly No. 9540375 
+ (b) Goodyear Wheel Assembly No. 9540758, Type I 
+ 72 lbs. (+39.0) 
+ (c) Goodrich Wheel Assembly No. H-3-866, 16:00-16, Type III 
+ 54 lbs. (+39.0) 
+ (d) Goodyear Wheel Assembly No. 9540876, Type I 
+ 72 lbs. (+39.0) 
+ 205. (a) Nose wheel tire, 12-ply rating, 44"", Type I, Nylon 
+ 105 lbs. (+39.0) 
+ (Inflation pressure 70 psi) 
+ (b) Nose wheel tire, 14-ply rating, 15:00-16, Type III, Nylon, 
+ 99 lbs. (+39.0) 
+ Tubeless (Inflation pressure 70 psi) 
+ (c) Nose wheel tire, 12-ply rating, 44"" Type I, Nylon, Tubeless 
+ 105 lbs. (+39.0) 
+ (Inflation pressure 70 psi) 
+ 206. Nose wheel tube, 44"", Regular 16 lbs. (+39.0) 
+ 207. Main gear shock strut assembly 
+ Maximum Take-off Weight - 100,000 lbs. 
+ (a) 2 Cleveland 8065H (Douglas Dwg. 5344246-502) 
+ 1112 lbs. (+475.0) 
+ (b) 2 Cleveland 8065HA (Douglas Dwg. 5342446-5502) (Skydrol) 
+ 1114 lbs. (+475.0) 
+ Maximum Take-off Weight - 107,000 lbs. 
+ (c) 2 Cleveland 8065J (Douglas Dwg. 5342446-504) 
+ 1065 lbs. (+475.0) 
+ (d) 2 Cleveland 8065JA (Douglas Dwg. 5342446-5504) (Skydrol) 
+ 1074 lbs. (+475.0) 
+ (e) 2 Cleveland 8065K (Douglas Dwg. 5342446-506) 
+ 1023 lbs. (+475.0) 
+ (f) 2 Cleveland 8065KA (Douglas Dwg. 5342446-5506) (Skydrol) 
+ 1032 lbs. (+475.0) 
+ (g) 2 Cleveland 8065LA (Douglas Dwg. 5342446-5508) (Skydrol) 
+ 1037 lbs. (+475.0) 
+ (h) 2 Cleveland 8065L (Douglas Dwg. 5342446-508) 
+ 1028 lbs. (+475.0) 
+ i 
+ 2 Cleveland 8065N (Douglas Dwg. 5342446-512) 
+ 1033 lbs. (+475.0) 
+ j 
+ 2 Cleveland 8065NA (Douglas Dwg. 5342446-5512) (Skydrol) 
+ 1037 lbs. (+475.0) 
+ (k) 2 Cleveland 8065M (Douglas Dwg. 5342446-510) 
+ 1028 lbs. (+475.0) 
+ (b) Cleveland 8488BA (Douglas Dwg. 5240509-5000) (Skydrol) 
+ 303 lbs. (+50.0) 
+ (c) Cleveland 8488CA (Douglas Dwg. 5240509-5500) (Skydrol) 
+ 298 lbs. (+50.0) 
+ (d) Cleveland 8488C (Douglas Dwg. 5240509-500) 
+ 296 lbs. (+50.0) 
+ (e) Cleveland 8488D (Douglas Dwg. 5240509-502) 
+ 294 lbs. (+50.0) 
+ (f) Cleveland 8488DA (Douglas Dwg. 5240509-5502) (Skydrol) 
+ 298 lbs. (+50.0) 
+ (g) Cleveland 8488E (Douglas Dwg. 5240509-504) 
+ 284 lbs. (+50.0) 
+ (h) Cleveland 8488EA (Douglas Dwg. 5240509-5504) (Skydrol) 
+ 286 lbs. (+50.0) 
+ i 
+ Cleveland 8488HA (Douglas Dwg. 5240509-5510) (Skydrol) 
+ 306 lbs. (+50.0) 
+ j 
+ Cleveland 8488H (Douglas Dwg. 5240509-510) 
+ 304 lbs. (+50.0) 
+ (k) Cleveland 8488JA (Douglas Dwg. 5240509-5512) (Skydrol) 
+ 306 lbs. (+50.0) 
+ l 
+ Cleveland 8488J (Douglas Dwg. 5240509-512) 
+ 304 lbs. (+50.0) 
+ Electrical Equipment 
+ 301 Generators 
+ a 4 Eclipse 30E025A 
+ 250 lbs. (+355.0) 
+ b 4 Eclipse 30E025C 
+ 244 lbs. (+355.0) 
+ c 4 General Electric 2CM75D1 
+ 244 lbs. (+355.0) 
+ d 4 General Electric 2CM82D1 
+ 240 lbs. (+355.0) 
+ 302 Batteries 
+ a 2 Exide 6FJ13 
+ 164 lbs. (+ 81.0) 
+ 310 Auxiliary electrical generating system 
+ 283 lbs. (+303.0) 
+ (Engine-Generator AAF type D-2) (Douglas Dwg. #4363384) 
+ Interior Equipment 
+ 401. FAA Approved Airplane Flight Manual (not required for Models R6D-1 and C-118A in military operation). (A 
+ operated under the provisions of Parts 40, 41 or 42 of the Civil Air Regulations). The following table identifies the 
+ Airplane Flight Manuals and the revisions thereof currently approved for each airplane: 
+ Date 
+ Douglas 
+ Latest Approved 
+ Latest 
+ Airplane Serial Number 
+ Report No. 
+ Rev. No. 
+ Ap. Rev. 
+ a Deleted September 10 1953 
+ (b) 43297, 43817, 44075, 44677, 44889, 45058, 
+ SM-14157(Slick, 
+ 21 
+ 12-31-64 
+ 45110, 45457, 45458, 45518-45520 (Se NOTE 
+ FTL, JAL) 
+ 7(f) for passenger configuration) 
+ c 4383943841 4491544917 4537345375 
+ SM-14788(AAL) 
+ 10 
+ 11-7-63 
+ d 44076 44257 
+ SM-14361(KLM) 
+ 13 
+ 10-16-57 
+ e Deleted October 11 1955 
+ (f) 44069, 44070, 43296 (See NOTE 7(c) or (e) 
+ SM-14848(JAL) 
+ 7 
+ 2-17-59 
+ for passenger configuration) 
+ g 4425844260 
+ SM-14319(PAA) 
+ 25 
+ 10-12-61 
+ h 44420 44421 
+ SM-14670(SAB) 
+ 2 
+ 1-25-55 
+ i 
+ 43707 (R6D-1) 
+ SM-14157XX(Slick) 
+ Supp. 
+ 8-4-55 
+ Rev. #3 
+ j 
+ 44064 
+ SM-14796(NWA) 
+ 16 
+ 2-20-64 
+ 44071-44074 
+ NWA Supp. Rev. #5 
+ 5-22-59 
+ 44890, 45499 
+ (See NOTE 7(d), (g) or (h) for passenger configuration) 
+ k 43404 R6D1 
+ SM-14157FTL(FTL) 
+ Supp. 
+ 12-1-56 
+ Rev. #3 
+ l 
+ 43818, 43819, 44063 (See NOTE 7(b) for 
+ SM-19239(AAZ-UAT) 4 
+ 9-20-63 
+ passenger configuration) 
+ m 4490544909 45521 45522 
+ SM-19501(UAL) 
+ 5 
+ 12-26-63 
+ Airplane Serial Number 
+ Report No. 
+ Rev. No. 
+ Ap. Rev. 
+ (n) Models R6D-1 and C-118A (applies to 
+ SM-22594 
+ --- 
+ --- 
+ aircraft as delivered by the manufacturer. 
+ Any subsequent modifications and changes 
+ made to a particular aircraft by the military 
+ or an operator that affect the Airplane Flight 
+ Manual will require appropriate Manual revisions, 
+ which must be submitted to the FAA, Aircraft 
+ Engineering Division for approval). 
+ o 45372 
+ SM-22916(Riddle) 
+ --- 
+ --- 
+ p 45226 45227 45368 45369 
+ SM-22947(TC, Air 
+ 1 
+ 2-24-58 
+ Liban) 
+ q 45517 
+ SM-23027(ALK) 
+ 1 
+ 8-24-61 
+ r 4547445476 
+ SM-23074(ONA) 
+ 1 
+ 8-29-58 
+ s 45480 45481 
+ SM-23152(LAS) 
+ 1 
+ 12-11-58 
+ t 
+ 45503, 45504, 45527-45532 
+ SM-23161(NAT, ICA, 3 
+ 1-28-59 
+ HCA) Great Lakes 
+ Airlines Supp. Rev. #1 dated 7-10-58 
+ required on 45503 and 45504 
+ u 45551 
+ SM-14522 (SWA) 
+ 3 
+ 2-25-55 
+ v 4549745498 
+ SM-14827 (CPA) 
+ 8 
+ 10-19-61 
+ 45500 
+ 402. Emergency ladders (NOTE: Suitable evacuation slides may be installed in lieu of ladders) 
+ a Douglas Dwg 5363735 
+ 19 lbs. (+171.5) 
+ b Douglas Dwg 5402816 
+ 20 lbs. (+178.0) 
+ c Douglas Dwg 3352240 
+ 18 lbs. (+ 69.0) 
+ 403. Automatic pilot: (Weight and C.G. shown do not include radio 
+ rack items of following installations which are listed under Electrical 
+ Equipment of Douglas Master Equipment List). 
+ (a) Pioneer PB-10 (3 sevos model 15601-1-A) 
+ 137 lbs. (+339.0) 
+ (1) Servo stall torques measured at the servo sectors are as 
+ follows and are satisfactory for Flight Path Control: 
+ Elevator: 88 to 158 in.lbs. (11-20 lbs. @ pilot's control) 
+ Aileron: 
+ 340 to 494 in.lbs. (14-20 lbs. @ pilot's control) 
+ Rudder: 
+ 324 to 432 in.lbs. (57-76 lbs.f @ pilot's control) 
+ (2) Maximum speed for operation with autopilot is 330 mph TIAS. 
+ Minimum terrain clearance for autopilot cruise configurations 
+ is 1000 ft.: for approach is 200 ft., pilot's seat belt 
+ fastened and hand on control wheel (These clearances do not 
+ override any higher minimum operational altitudes). 
+ (b) Sperry A-12 (3 servos Douglas Dwg. No. 2403860 or Sperry 
+ 150 lbs. (+287.0) 
+ Nos. 678919-261 plus 664575; 1 servo No. 65822-11, 658648-11 
+ plus 658774 or 658648-41 plus 658774). 
+ (1) Servo stall forces measured at pilot's controls: 
+ Elevator: Max. 26 lbs., min. 20 lbs. 
+ Aileron: 
+ Max. 20 lbs., min. 12 lbs. 
+ Rudder: 
+ Max. 68 lbs., min. 51 lbs. 
+ (Stall forces shown are satisfactory for Automatic Approach) 
+ (2) Maximum speed for operation with autopilot is 250 mph TIAS. 
+ Minimum terrain clearance for autopilot cruise configurations 
+ is 1000 ft.: for approach is 200 ft., pilot's seat belt 
+ fastened and hand on control wheel (Minimum altitude for 
+ each case does not override any higher operational altitudes). 
+ (3) When the automatic pilot installation is modified in 
+ accordance with DACo Service Letter DC-6 No. 160 dated 9-2-53 
+ and Supp. No. 1 dated 4-21-54 and elevator trim servo 658648-41 
+ is installed, the following elevator servo stall forces and 
+ airplane operating speeds for automatic pilot operation apply: 
+ Max. 26 lbs., min. 13 lbs. Max. speed: 250 mph TIAS 
+ Max. 22 lbs., min. 13 lbs. Max. speed: 330 mph TIAS 
+ 658648-41 plus 658774) 
+ (1) Servo stall forces measured at pilot's controls: 
+ Elevator: Max. 26 lbs., min. 20 lbs. 
+ Aileron: 
+ Max. 20 lbs., min. 12 lbs. 
+ Rudder: 
+ Max. 68 lbs., min. 51 lbs. 
+ (Stall forces shown are satisfactory for Automatic Approach) 
+ (2) Maximum speed for operation with autopilot is 250 mph TIAS. 
+ Minimum terrain clearance for autopilot cruise configurations 
+ is 1000 ft.: for approach is 200 ft., pilot's seat belt fastened and hand on 
+ control wheel. (Minimum altitude for each case does not override any higher 
+ minimum operational altitudes). 
+ (3) When the automatic pilot installation is modified in 
+ accordance with DACo Service Letter DC-6 No. 160 dated 9-2-53 
+ and Supp. No. 1 dated 4-21-54 and elevator trim servo 658648-41 
+ is installed, the following elevator servo stall forces and 
+ airplane operating speeds for automatic pilot operation apply: 
+ Max. 26 lbs., min. 13 lbs. Max. speed: 250 mph TIAS 
+ Max. 22 lbs., min. 13 lbs. Max. speed: 330 mph TIAS 
+ (d) Sperry A-12 (1 servo PAA No. 44.051.0001-100 or 102; 2 servos 
+ 157 lbs. (+277.0) 
+ PAA No. 44.051.0001-101 or -103; 1 servo 658522-11 or 664237-11 
+ or 658648-11 plus 658774 or 658648-41 plus 658774. 
+ (1) Servo stall forces measured at pilot's controls: 
+ Elevator: Max. 22 lbs., min. 16 lbs. 
+ Aileron: 
+ Max. 20 lbs., min. 12 lbs. 
+ Rudder: 
+ Max. 68 lbs., min. 51 lbs. 
+ (Stall forces shown are satisfactory for Automatic Approach) 
+ (2) Maximum speed for operation with autopilot is 250 mph TIAS. 
+ Minimum terrain clearance for autopilot cruise configurations 
+ is 1000 ft.: for approach is 200 ft., pilot's seat belt 
+ fastened and hand on control wheel. (Minimum altitudes for 
+ each case does not override any higher minimum operational altitudes). 
+ (3) When the automatic pilot installation is modified in 
+ accordance with DACo Service Letter DC-6 No. 160 dated 9-2-53 
+ and Supp. No. 1 dated 4-21-54 and elevator trim servo 658648-41 
+ is installed, the following elevator servo stall forces and 
+ airplane operating speeds for automatic pilot operation apply: 
+ Max. 26 lbs., min. 13 lbs. Max. speed: 250 mph TIAS 
+ Max. 22 lbs., min. 13 lbs. Max. speed: 330 mph TIAS 
+ (e) Pioneer PB-10 (3 servos model 15601-1-A, 1 servo model 15620-2A) 
+ 148 lbs. (+326.0) 
+ (1) Servo stall torques measured at the servo sectors are as 
+ follows and are satisfactory for Flight Patch Control: 
+ Elevator: 88 to 158 in.lbs. (11-20 lbs. @ pilot's control) 
+ Aileron: 
+ 340 to 494 in.lbs. (14-20 lbs. @ pilot's control) 
+ Rudder: 
+ 324 to 432 in.lbs. (57-76 lbs. @ pilot's control) 
+ (2) Maximum speed for operation with autopilot is 330 mph TIAS. 
+ Minimum terrain clearance for autopilot cruise configurations 
+ is 1000 ft.: for approach is 200 ft., pilot's seat belt 
+ fastened and hand on control wheel (These clearances do not 
+ override any higher minimum operational altitudes). 
+ * (f) Lear L-5 servos model 118P, 1 servo model 220-1A) installed 
+ 170 lbs. (298.5) 
+ in accordance with Lear Dwg. No. 95790. (Weight and arm 
+ shown are for complete installation) 
+ (1) Servo stall torques at capstan slip clutch are as 
+ follows and are satisfactory for automatic approach. 
+ Elevator: 85 + 5 in. lbs. 
+ Aileron: 
+ 75 + 5 in. lbs. 
+ Rudder: 
+ 85 + 5 in. lbs. 
+ is 1000 ft.: for approach is 200 ft., pilot's seat belt 
+ fastened and hand on control wheel (These clearances do not 
+ override any higher minimum operational altitudes). 
+ (3) With this autopilot installation one of the following is required: 
+ (a) Slick Airways, Inc. supplementary Airplane Flight 
+ Manual Revision to Douglas Report No. 11.57 dated 2-5-52 or 
+ (b) An Airplane Flight Manual Revision incorporating air limitations specified in item (2) above. 
+ (g) Sperry A-12 (3 servos Sperry 679803-161 plus 664575. 
+ 140 lbs. (+282.0) 
+ 1 servo 658618-11 plus 658774 or 658648-4; plus 658771) 
+ (1) Servo stall forces measured at pilot's controls: 
+ Elevator: Max. 25 lbs., min. 20 lbs. 
+ Aileron: 
+ Max. 20 lbs., min. 12 lbs. 
+ Rudder: 
+ Max. 68 lbs., min. 51 lbs. 
+ (Stall forces shown are satisfactory for automatic approach) 
+ (2) Maximum speed for operation with automatic pilot is 250 mph TIAS. 
+ Minimum terrain clearance for automatic pilot cruise configuration 
+ is 1000 ft., for approach 200 ft., pilot's seat belt 
+ fastened and hand on control wheel. (Minimum altitudes 
+ for each case does not override operational altitudes). 
+ (3) When the automatic pilot installation is modified in 
+ accordance with DACo Service Letter No. 160 dated 9-2-53 and 
+ Supp. No. 1 dated 4-21-54 and elevator trim servo 658648-41 
+ is installed, the following elevator servo stall forces and 
+ airplane operating speeds for automatic pilot operation apply: 
+ Max. 26 lbs., min. 13 lbs. Max. speed: 250 mph TIAS 
+ Max. 22 lbs., min. 13 lbs. Max. speed: 330 mph TIAS 
+ (h) Sperry A-12 (3 servos Sperry 679803-167 plus 664575; 
+ 140 lbs. (+282.0) 
+ 1 servo 658648-41 plus 658774) 
+ (1) Servo stall forces measured at pilot's controls are as 
+ follows, and are satisfactory for automatic approach: 
+ Elevator: Max. 26 lbs., min. 13 lbs. 
+ Aileron: 
+ Max. 20 lbs., min. 12 lbs. 
+ Rudder: 
+ Max. 68 lbs., min. 51 lbs. 
+ (2) Maximum speed for operation with autopilot is 250 mph TIAS; 
+ if maximum elevator servo stall force is limited to 22 lbs., 
+ the maximum speed is 330 mph TIAS. See FAA Approved Airplane 
+ Flight Manual for altitude loss during automatic pilot malfunction. 
+ 404 Windshield wipers 
+ (a) Kearfott or Alco (Douglas #5332419) (Skydrol) 
+ 10 lbs. (+ 14.0) 
+ (b) Kearfott or Alco (Douglas Dwg. #5332419-5000) (Skydrol) 
+ 10 lbs. (+ 14.0) 
+ 405. Instruments - in accordance with the following Dwgs. on file 
+ with the FAA Regional Office in Los Angeles, California: 
+ a Douglas Dwg 7398245 
+ 408. Oxygen system (Full face, or equivalent, demand oxygen mask and 
+ regulator required for each crew member on flight deck duty). 
+ (a) Oxygen system, less bottle (Douglas Dwg. #5329204-532) 
+ 7 lbs. (+ 65.0) 
+ Oxygen bottle, Kidde 923757 
+ 27 lbs. (+ 73.5) 
+ (b) Oxygen system, less bottle (Douglas Dwg. #5390822-501) 
+ 13 lbs. (+ 61.5) 
+ Oxygen bottle, Kidde 923748 
+ 21 lbs. (+ 73.0) 
+ (c) Oxygen system, less bottles (Douglas Dwgs. #5397930, 5398732, 
+ 34 lbs. (+160.5) 
+ 5397988) (Models R6D-1 and C-118A only - See NOTE 5(g)). 
+ Oxygen bottles, G-1, D-2, AAF 44D22201 (3) 
+ 39 lbs. (+343.5) 
+ (d) Oxygen system, less bottles (Douglas Dwg. #5490000-501) 
+ 36 lbs. (+ 67.0) 
+ Oxygen bottle, Kidde 923748 
+ 21 lbs. (+ 74.0) 
+ Oxygen bottle, Portable, Scott 5600B-3B-2 
+ 8 lbs. (+ 69.0) 
+ (e) Oxygen system, less bottle (Douglas Dwg. #5329204-540) 
+ 35 lbs. (+ 74.0) 
+ Oxygen bottle, Kidde 924051 
+ 34 lbs. (+ 65.0) 
+ Oxygen bottle, Scott 5600B-3B-2 
+ 8 lbs. (+ 65.0) 
+ Oxygen bottle, Scott 5600B-3B-2 
+ 8 lbs. (+ 65.0) 
+ (g) Oxygen system, less bottle (Douglas Dwg. #5329204-544) 
+ 35 lbs. (+ 73.0) 
+ Oxygen bottle, Kidde 924051 
+ 34 lbs. (+ 65.0) 
+ Oxygen bottle, Scott 5600-B3-B-2 
+ 8 lbs. (+ 65.0) 
+ (h) Oxygen system, less bottle (Douglas Dwg. #5390986-543) 
+ 35 lbs. (+ 83.0) 
+ Oxygen bottle, Kidde 924051 
+ 34 lbs. (+ 65.0) 
+ Oxygen bottle, Scott 5600-B3-B-2 
+ 8 lbs. (+ 65.0) 
+ (j) Oxygen system, less bottle (Douglas Dwg. #5329204-546) 
+ 35 lbs. (+ 73.0) 
+ Oxygen bottle, Kidde 924051 
+ 34 lbs. (+ 65.0) 
+ Oxygen bottle, Scott 5600-B3-B-2 
+ 8 lbs. (+ 65.0) 
+ (k) Oxygen system, less bottle (Douglas Dwg. #5348744-502) 
+ 28 lbs. (+ 90.0) 
+ Oxygen bottle, Kidde 923757 
+ 27 lbs. (+ 73.5) 
+ Portable oxygen bottle, (UAL Dwg. 9F708) 
+ 12 lbs. (+121.0) 
+ (l) Oxygen system, less bottle (Douglas Dwg. #5390986-569) 
+ 45 lbs. (+ 86.0) 
+ Oxygen bottle, Kidde 924051 
+ 34 lbs. (+ 65.0) 
+ Oxygen bottle, Scott 5600-B-3B-2 
+ 8 lbs. (+ 65.0) 
+ (m) Oxygen system, less bottle (Douglas Dwg. #5390986-571) 
+ 24 lbs. (+ 70.0) 
+ Oxygen bottle, Kidde 923748 
+ 21 lbs. (+ 73.0) 
+ Oxygen bottle, Scott 5600-B-3B-2 
+ 8 lbs. (+ 65.0) 
+ (n) Oxygen system, less bottle (Douglas Dwg. #5290986-575) 
+ 45 lbs. (+ 86.0) 
+ Oxygen bottle, Kidde 924051 
+ 34 lbs. (+ 65.0) 
+ Oxygen bottle, Scott 5600-B-3B-2 
+ 8 lbs. (+ 65.0) 
+ (o) Oxygen system, less bottle (Douglas Dwg. #5390986-579) 
+ 26 lbs. (+ 91.5) 
+ Oxygen bottle, Kidde 924051 
+ 34 lbs. (+ 65.0) 
+ Oxygen bottle, Scott 5600-B-3B-2 
+ 8 lbs. (+ 65.0) 
+ (p) Oxygen system, less bottle (Douglas Dwg. #5390986-529) 
+ 35 lbs. (+ 63.0) 
+ Oxygen bottle, Kidde 924051 
+ 34 lbs. (+ 65.0) 
+ Oxygen bottle, Scott 5600-B-3B-2 
+ 8 lbs. (+ 65.0) 
+ (q) Oxygen system, less bottle (Douglas Dwg. #5390986-560) 
+ 32 lbs. (+ 81.0) 
+ Oxygen bottle, Kidde 923748 
+ 21 lbs. (+ 65.0) 
+ Oxygen bottle, Scott 5600-B-3B-2 
+ 8 lbs. (+ 65.0) 
+ (r) Oxygen system, less bottle (Douglas Dwg. #5390986-567) 
+ 27 lbs. (+ 69.0) 
+ Oxygen bottle, Kidde 923748 
+ 21 lbs. (+ 65.0) 
+ Oxygen bottle, Scott 5600-B-3B2 
+ 8 lbs. (+ 65.0) 
+ (s) Oxygen system, less bottle (Douglas Dwg. #5390986-585) 
+ 43 lbs. (+ 81.0) 
+ Oxygen bottle, Kidde 924051 
+ 34 lbs. (+ 65.0) 
+ Oxygen bottle, Scott 5600-B-3B2 
+ 8 lbs. (+ 65.0) 
+ Deicing Equipment 
+ 501. (a) 2 Wing heaters, Surface Combination Corp. 
+ 138 lbs. (+117.0) 
+ B88A92 (Douglas Dwg. #5359829-10), (88A92) (Douglas Dwg. 
+ #5359829-12), J88A92 (Douglas Dwg. #5406945-9), L88A92 
+ (Douglas Dwg. #5406945-11), M88A92 (Douglas Dwg. #5406945-17), 
+ N88A92 (Douglas Dwg. #5406945-19) 
+ (b) 2 Wing accessory case (Douglas Dwg. #5359913) 
+ 44 lbs. (+397.0) 
+ (c) 2 Wing ground blowers, English & Lauer CM-025-4CC 
+ 11 lbs. (+408.5) 
+ (Douglas Dwg. #7333181) 
+ (d) Empennage heater, Surface Combustion Corp. B88A92 
+ 69 lbs. (+1003.0) 
+ (Douglas Dwg. #5359829-10), C88A92 (Douglas Dwg. #5359829-12), 
+ J88A92 (Douglas Dwg. #5406945-9), L88A92 (Douglas Dwg. 
+ #5406945-11), (Douglas Dwg. #5406945-17), N88A92 (Douglas 
+ Dwg. #5406945-19) 
+ (e) Empennage accessory case (Douglas Dwg. #5359913) 
+ 22 lbs. (+975.0) 
+ (f) Empennage ground blower, English & Lauer CM-050-5CC 
+ 9 lbs. (+1016.5) 
+ (Doug. Dwg. 7333180) 
+ (g) 2 wing accessory case #26C98 
+ 32 lbs. (+397.0) 
+ h Empennage accessory case 26C98 
+ 16 lbs. (+975.0) 
+ (c) Carburetor anti-icing system complete, less alcohol 
+ 5 lbs. (+413.0) 
+ 503. (a) Propeller electrical anti-icing equipment, less equipment 
+ 123 lbs. (+313.0) 
+ on Ham. Std. Propellers (Douglas Dwgs. #5344301, #5338222, 
+ #5338223, #5362737, #2372408) 
+ 504. (a) Propeller electrical anti-icing equipment on Ham. Std. 
+ 24 lbs. (+272.0) 
+ 6895-8 blades 
+ Miscellaneous 
+ 605. Hydraulic fluid in system and reservoir (15.3 gals.) 
+ a Skydrol 
+ 138 lbs. (+340.5) 
+ b Mineral oil 
+ 111 lbs. (+340.5) 
+ NOTE 1. (a) Current weight and balance report including list of equipment included in certificated weight empty, and 
+ loading instructions, must be in each aircraft at the time of original certification and at all times thereafter 
+ (except in the case of air carrier operators having an approved weight control system). Manufacturer's Master 
+ Equipment List contains list of approved equipment in addition to equipment listed in this specification. 
+ (b) ""System Fuel and Oil"" (Item 103), which must be included in the empty weight, is that amount required to fill 
+ both systems and the tanks up to the tank outlets to the engines, when the airplane is in the level attitude. The 
+ propeller feathering oil in aircraft incorporating Hamilton Standard propellers is not considered usable oil and is 
+ included in the ""System Oil"". The nacelle oil tank capacities shown in this specification include only the usable 
+ oil for which the tanks are to be placarded. All hydraulic system fluid (Item 605) must also be included in the 
+ empty weight of the airplane. 
+ (c) The ""unusable fuel"" is that amount of fuel in the tanks which is unavailable to the engines under critical flight 
+ conditions as defined in CAR 4b.416 and may be obtained by taking the difference between the ""total"" and 
+ ""usable"" tank capacities shown under ""Fuel Capacity."" The ""unusable fuel"" must either be 
+ included in the airplane empty weight or be suitably accounted for in the airplane weight and balance report. 
+ (d) Structural Limitations on Fuel Loading and Usage. All fuel must be distributed equally on both sides of the 
+ airplane. All main tanks must be filled equally first, then alternates, then auxiliaries (ten wing tank airplanes). 
+ Fuel must be used in the reverse order from fuel loading except for take-off, climb and landing, at which time 
+ the main tanks must be used. Satisfactory alternate fuel loading and usage procedures have been approved and 
+ placed in the Approved Airplane Flight Manual. These alternate procedures may be used in lieu of the above. 
+ (e) Fuel dumping. Fuel dump valves (Item 102 must be installed for operation of the airplane at weights in excess 
+ maximum landing weight. Refer to FAA Approved Airplane Flight Manual for limitations and cautionary 
+ cedures to be observed during the dumping of fuel. When dump system (Item 102) is installed, the amount of 
+ ble fuel remaining in the fuel tanks after dumping is as follows: 
+ (1) Ten Wing Airplane - 4722 Gal. or 4736 Gal. System 
+ Outer inner wing (#1 and #4 main) 
+ 112 gal. ea. 
+ Inboard inner wing (#2 and #3 main) 
+ 102 gal. ea. 
+ Outboard inner wing (#1 and #4 alt.) 
+ 50 gal. ea. 
+ Inboard wing fuel cells (#2 and #3 alt.) 
+ 120 gal. ea. 
+ Auxiliary fuel cells (L.H. and R.H. aux.) 
+ 168 gal. ea. 
+ (2) Ten Wing Tank Airplane - 5406 Gal. Gal. System 
+ Outer inner wing (#1 and #4 main) 
+ 116 gal. ea. 
+ Inboard inner wing (#2 and #3 main) 
+ 102 gal. ea. 
+ Outboard inner wing (#1 and #4 alt.) 
+ 00 gal. ea. 
+ Inboard wing fuel cells (#2 and #3 alt.) 
+ 36 gal. ea. 
+ Auxiliary fuel cells (L.H. and R.H. aux.) 
+ 168 gal. ea. 
+ (3) Eight Wing Tank Airplane - 5404 Gal. & 5512 Gal. System 
+ Outer inner wing (#1 and #4 main) 
+ 116 gal. ea. 
+ Inboard inner wing (#2 and #3 main) 
+ 108 gal. ea. 
+ Outboard inner wing (#1 and #4 alt.) 
+ 00 gal. ea. 
+ Inboard wing fuel cells (#2 and #3 alt.) 
+ 54 gal. ea. 
+ (4) Eight Wing Tank Airplane - 1322, 1931 and 5042 Gal. System 
+ Outer inner wing (#1 and #4 main) 
+ 116 gal. ea. 
+ Inboard inner wing (#2 and #3 main) 
+ 108 gal. ea. 
+ Outboard inner wing (#1 and #4 alt.) 
+ 00 gal. ea. 
+ Inboard wing fuel cells (#2 and #3 alt.) 
+ 39 gal. ea. 
+ ADI Fluid"" gross weight and the maximum landing weight. When such is the case, the ""Zero Fuel, Oil and 
+ ADI Fluid"" gross weight used in loading the airplane must be reduced by an amount sufficient to insure that the 
+ maximum landing weight will not be exceeded after the fuel is dumped. 
+ (f) When the oil transfer tank is installed in the wing fillet, the weight of oil carried in that tank plus the system oil 
+ (Item 103(c)) must be included in the Zero Fuel, Oil and ADI Fluid gross weight. 
+ (g) For the interior arrangement of a particular airplane, see approved Douglas Report SM-13977, ""Loading Chart 
+ and Actual Weight and Balance."" That report shows the location of all crew member seats, the location and 
+ capacity of all cargo compartments, and the load restrictions on the floor and wall cargo tie down fittings. 
+ Cargo compartment must be placarded for the capacities specified in the above report. The airplane must 
+ always be loaded within the C.G. limits shown in this specification, accounting for crew movement and use of 
+ fuel, oil, and ADI fluid. 
+ NOTE 2. The following placard shall be placed on the instrument panel in full view of the pilot: 
+ (a) ""This airplane shall be operated in compliance with the operating limitations specified in the FAA Approved 
+ Airplane Flight Manual."" 
+ NOTE 3. When water-alcohol injection is not used for take-off on aircraft equipped with Item 101(a), P&W Double Wasp 
+ CB-16 engines, Item 101(c), P&W LR-2800-52W engines. Item 101(e), P&W R-2800-83AM5 engines or Item 
+ 101(g) P&W Double Wasps CB-3 engines, the prop governors must be reset prior to take-off in order to limit the dry 
+ takeoff engine rpm to 2700 
+ NOTE 4. Ferry permits may be issued to all Model DC-6A airplanes on which one engine is inoperative, with its propeller",
+c CG range,"Fwd. C.G. 11.0% MAC (Sta. 413.2) 
+ Aft C.G. 28.0% MAC (Sta. 441.0)"
+"NOTE 5. The Navy Model R6D-1 and the USAF Model C-118A are similar to the Model DC-6A except for engines, brakes",
+i,"A FAA approved ""Loading Chart and Actual Weight and Balance Report"" must be provided prior to 
+ certification as a civil aircraft. 
+ which affect the safety or performance of the aircraft must be approved by the FAA. 
+ (k) A FAA Approved Airplane Flight Manual must be provided for each airplane prior to certification as a civil 
+ aircraft. Due to difference in equipment installed on the military and civil aircraft, the information contained in 
+ a FAA Approved Airplane Flight Manual for the Model DC-6A may not be applicable to the Navy R67D-1 or 
+ the USAF C-118A."
+l,"All military aircraft returned to civil operations must comply with all applicable Airworthiness Directives. 
+ prior to certification of a particular aircraft, it is suggested that the Aircraft Engineering Division, Western 
+ Region, L. A., California, be contacted for a complete list of all the modifications necessary. A Statement of 
+ Conformity for each individual aircraft, listing all non-conformities at the time of delivery to the military 
+ services is on file in that office. The non-conformities vary from time to time, therefore, the above items may 
+ not be a true indication of all the changes that may be required. 
+ NOTE 6: The following table lists the maximum zero fuel, oil and ADI fluid, landing and take-off weights of the various 8 and 
+ 10 wing fuel tank aircraft as they are limited by structural strength. Although an aircraft may be eligible, from a 
+ structural standpoint, for certain take-off weights, the take-off weight may be limited from a performance standpoint 
+ due to the propeller and engine combination that is installed, the flap setting used and whether water-alcohol injection 
+ is used to increase the take-off power. Therefore, the table of take-off weights under maximum weights should also 
+ be adhered to in determining the maximum permissible take-off weight of various aircraft. 
+ MAXIMUM STRUCTURAL LIMITS"
+Airplane Serial Numbers,"Zero Fuel, Oil, 
+ Landing 
+ Take-off Weight"
+8 Tank,"10 Tank 
+ and ADI Fluid 
+ Weight 
+ 8 Tank 
+ 10 Tank 
+ DC-6A (1)"
+4381743819,"43296, 43297 
+ 83,2005 
+ 88,2002 
+ 107,0002, 3, 4 
+ 107,0002, 3, 4"
+45551,C-118A
+43565  up,"83,2005 
+ 88,2002 
+ 107,0002,3,4 
+ R6D-1 
+ 43206-43210 
+ 83,2005 
+ 88,2002 
+ 106,0002,3,4 
+ 43401-43403 
+ 107,0002,3,4,6"
+43670  up,"43404 & up 
+ 83,2005 
+ 88,2002 
+ 107,0002,3,4,6 
+ 107,0002,3,4 
+ (1) See Douglas Service Bulletin #455, ""Interchanging of DC-6 
+ Empennage Components and Restrictions Covering Such Interchanges."" 
+ (2) Item 201(c), (d), (e), (f), (g), (h), (i), (j) or (k) 
+ (3) 
+ Item 202(a) and 207(c), (d), (e), (f), (g), (h), (i), (j) or (k) 
+ (4) 695 gal. capacity outer wing fuel tank required for take-off weights above 100,000 lbs. 
+ (5) Placard speeds in accordance with Airspeed Limits Table. 
+ (6) When center wing is reworked in accordance with Douglas Dwg. No. 5329195 ""AG"". (Ref. Douglas Service Letter"
+A214SRF1269JBL dated 29 September 1952,"attendants and 6 flight crew per Slick Interior Configuration Dwg. No. 60145, Amend. 1, dated June 2, 1953) 
+ as modified in accordance with Slick Airways data on file in FAA Western Regional Office (Los Angeles, 
+ California). Operation as passenger airplane covered in Airplane Flight Manual SM-19239 (AAZ-UAT) (See 
+ Item 401(1)). 
+ (c) Serial No. 43296 is eligible for carrying 47 airplane occupants (40 passengers including 2 cabin attendants and 7 
+ flight crew members per Slick Interior Configuration Dwg. No. 0295S dated Sept. 1, 1953) as modified in 
+ accordance with Slick Airways data on file in FAA Western Regional Office (Los Angeles, California). 
+ Operation as passenger airplane covered in Airplane Flight Manual SM-14848 (JAL). (See Item 401(f).) 
+ (d) Serial Nos. 44071, 44072, 44073 and 44074 are eligible for carrying 82 airplane occupants (77 passengers 
+ including one cabin attendant, and 5 flight crew members per Northwest Airlines Dwg. No. 6D16-27107, Rev. 
+ A, ""General Arrangement - 76 Passenger DC-6A aircraft"") as modified in accordance with Grand Central 
+ Aircraft Company data on file in FAA Western Regional Office (Los Angeles, California). Operation as 
+ passenger airplane covered in Airplane Flight Manual SM-14796 (NWA) (See Item 401(j)). 
+ (e) Serial Nos. 44069 and 44070 are eligible for carrying 47 airplane occupants (40 passengers including 2 cabin 
+ attendants, and 7 flight crew members per Slick Interior Configuration Dwg. No. 0295S dated Sept. 1, 1953 or 
+ Flying Tigers Interior Configuration Dwg. No. PS630A dated Nov. 5, 1953) as modified in accordance with 
+ Slick Airways and Flying Tiger Line data on file in FAA Western Regional Office (Los Angeles, California). 
+ Flying Tiger Line Supplementary Revision to Airplane Flight Manual (page 35a of Douglas Report No. 14848 
+ dated Oct. 8, 1953) is required. 
+ (f) Serial No. 44075, 44678 and 44889 are eligible for carrying 107 or 111 airplane occupants (101 passengers 
+ including cabin attendants and 6 flight crew members or, 105 passengers including cabin attendants and 6 flight 
+ crew members per Flying Tigers-Slick Interior Configuration Dwg. No. E.O. 60184 ""C"" dated April 12, 1954) 
+ as modified in accordance with Flying Tiger-Slick Airline data on file in FAA Western Regional Office (Los 
+ Angeles, California). Flying Tiger Line Supplementary Revision to Airplane Flight Manual (pages 37 and 40C 
+ of Douglas Report No. SM-41457 dated November 30, 1955 for Serial Nos. 44075 and 44678, and page 40C 
+ dated Jan. 31, 1956 for Serial No. 44889) is required. 
+ (g) Serial No. 44064 is eligible for carrying 84 airplane occupants (80 passengers including cabin attendant and 4 
+ flight crew members per Northwest Airlines Dwg. SK- 29777-1, Rev., ""Interior Arrangement - CPAL DC-6A"") 
+ as modified in accordance with Grand Central Aircraft Company data on file in FAA Western Regional Office 
+ (Los Angeles, California). Operation as passenger airplane covered in Airplane Flight Manual SM-14796 
+ (NWA) (See Item 401(j)). 
+ (h) Serial No. 44890 is eligible for carrying 70 to 82 airplane occupants (including 2 cain attendants and 4 flight 
+ crew members) when modified in accordance with PAC Supplemental Type Certificate dated April 27, 1956. 
+ (See Item 401(j) or Approved Airplane Flight Manual). 
+ NOTE 8. In accordance with the agreement between the Department of Defense and the Civil Aeronautics Board, all air carrier 
+ operators utilizing aircraft which have been modified under the Civil Reserve Air Fleet Program, Part I, Phase II, 
+ may deduct the added weight of the military modification up to a maximum of 50 lbs. for each aircraft so modified. 
+ NOTE 9. In accordance with FAR 121.198 and FAR 129.23, aircraft operated by ""Air Carriers"" for cargo operation only, are 
+ permitted to increase the zero fuel and landing weights by 5% of the zero fuel weight. For aircraft covered by this 
+ specification the maximum zero fuel, oil and ADI fluid weight may be increased to 87,360 lbs. and the maximum 
+ landing weight may be increased to 92,360 lbs. In addition to the operator's normal inspection program, aircraft 
+ operated in accordance with FAR 121.198 or FAR 129.23 must be inspected in accordance with ""Special Inspection 
+ Procedure for Cargo Operation,"" ""Ref. Douglas Report LB-30673,"" as revised and approved by the FAA. Before 
+ returning the airplane to passenger service after being operated at the increased weights in cargo service, the aircraft 
+ must be inspected per the above Douglas report. Requests for changes in the inspection procedure must be forwarded 
+ to the manufacturer for his recommendations and submitted to the FAA for approval. 
+ FAA approved Airplane Flight Manual revision including performance information for operation at the increased 
+ weights should be obtained from the manufacturer."

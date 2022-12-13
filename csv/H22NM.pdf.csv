@@ -1,0 +1,384 @@
+Keyterm,Info
+"H22NM 
+ Revision 7 
+ Arrow Falcon Exporters Inc. 
+ OH-58A+ 
+ OH-58A 
+ OH-58C 
+ August 26, 2009",
+Type Certificate Holder,"Arrow Falcon Exporters, Inc. 
+ 2081 South Wildcat Way 
+ Porterville, Ca. 93257"
+"I. Model OH-58A+ (Restricted Category Military Surplus Rotorcraft) approved September 25, 1996",
+Engine,Allison 250-C20C (T63-A720) See Note 8
+Fuel,ASTMD1655 JETB. See AF55-1520-228-10 for other approved fuels.
+Engine Limits,"Torque 
+ Gas Gen 
+ Pressure 
+ Output 
+ Exhaust Gas 
+ Speed 
+ r.p.m 
+ Temperature (oC) 
+ (Percent) 
+ Takeoff 
+ 100% 
+ 100% 
+ 810 
+ 105% 
+ (5 Min.) 
+ Max. Cont 
+ 85% 
+ 100% 
+ 738 
+ 105% 
+ See Flight Manual AF55-1520-228-10 for transient limits."
+Rotor Limits,"Power off 
+ Power on 
+ Maximum 390 RPM 
+ Maximum 354 RPM 
+ (Dual tach 110%) 
+ (Dual tach reading) 
+ Rotor 100% 
+ Minimum 330 RPM 
+ Minimum 347 RPM 
+ (Dual tach 93%) 
+ (Dual tach reading) 
+ Rotor 98% 
+ (See Flight Manual for transient limits.)"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8"
+Rev No,"7 
+ 5 
+ 5 
+ 5 
+ 7 
+ 5 
+ 5 
+ 7 
+ Revision 7"
+C G Range,"A) Longitudinal C.G. Limits 
+ (+107.0 To +111.4) at 3200 lbs. 
+ (+ 106.0 To +112.2) at 3000 lbs. 
+ (+105.2 To +114.2) at 2500 lbs. 
+ (+105.2 To +114.2) at 1800 lbs. 
+ Straight line variation between points given. 
+ (See Chart) 
+ 3200 
+ 3000 
+ Gross Weight 
+ (Lbs) 
+ 2500 
+ 1800 
+ 105.2 
+ 106.0 
+ 107.0 
+ 111.4 
+ 112.2 
+ 114.2 
+ STA (INS) 
+ B) Lateral C.G. Limits 
+ 2.6 inches Right 
+ 2.4 inches Left"
+Empty Weight CG Range,Longitudinal Limits (+105.2) to (+114.2)
+Maximum Weight,3200 lbs.
+"II. Model OH-58A (Restricted Category Military Surplus Rotorcraft) Approved June 26, 1997",
+Engine,Allison 250-ClOD (T63-A700) See Note 8
+Fuel,ASTMDl655 JETB. See AF55-1520-228-1O for other approved fuels.
+Engine Limits,"Torque 
+ Gas Gen 
+ Output 
+ Exhaust Gas 
+ Pressure 
+ Speed 
+ (psi) 
+ r.p.m 
+ Temperature (oC) 
+ Takeoff 
+ 92 
+ 103% 
+ 749 
+ 104% 
+ (5 Min.) 
+ Max. Cont 
+ 79 
+ 103% 
+ 693 
+ 104% 
+ See Flight Manual AF55-1520-228-10 for transient limits. 
+ Note: Powerplant cooling has been demonstrated to be adequate for the 
+ following ambient temperature schedule: 125°F at sea level and decreases 
+ by 3.6°F per 1000 feet to the operating maximum altitude of 10,000 feet."
+Rotor Limits,"Power off 
+ Power on 
+ Maximum 390 RPM 
+ Maximum 354 RPM 
+ Minimum 330 RPM 
+ Minimum 347 RPM 
+ A void prolonged operation between 172 and 206 RPM 
+ (See Flight Manual for transient limits.) 
+ Revision 7"
+C G Range,"A) Longitudinal C.G. Limits 
+ (+ 106.0 To +112.2) at 3000 lbs. 
+ (+105.2 To + 114.2) at 2500 lbs. 
+ (+105.2 To +114.2) at 1800 lbs. 
+ Straight line variation between points given. 
+ (See Chart) 
+ 3000 
+ Gross Weight 
+ (Lbs) 
+ 2500 
+ 1800 
+ 105.2 
+ 106.0 
+ 107.0 
+ 111.4 
+ 112.2 
+ 114.2 
+ STA (INS)"
+Empty Weight CG Range,Longitudinal Limits (+105.2) to (+ 114.2)
+Maximum Weight,3000 lbs.
+"III. Model OH-58C (Restricted Category Military Surplus Rotorcraft) Approved June 26, 1997",
+Engine,Allison 250-C20C (T63-A720) See Note 8
+Fuel,ASTMD1655 JETB. See AF55-1520-228-10 for other approved fuels.
+Engine Limits,"Torque 
+ Gas Gen 
+ Pressure 
+ Output 
+ Exhaust Gas 
+ Speed 
+ r.p.m. 
+ Temperature (oC) 
+ (Percent) 
+ Takeoff 
+ 100% 
+ 100% 
+ 810 
+ 105% 
+ (5 Min.) 
+ Max. Cont 
+ 85% 
+ 100% 
+ 738 
+ 105% 
+ See Flight Manual AF55-1520-228-10 for transient limits."
+Rotor Limits,"Power off 
+ Power on 
+ Maximum 390 RPM 
+ Maximum 354 RPM 
+ (Dual tach 110%) 
+ (Dual tach reading) 
+ Rotor 100% 
+ Minimum 330 RPM 
+ Minimum 347 RPM 
+ (Dual tach 93%) 
+ (Dual tach reading) 
+ Rotor 98% 
+ (See Flight Manual for transient limits.)"
+C G Range,"A) Longitudinal C.G. Limits 
+ (+ 107.0 To +111.4) at 3200 lbs. 
+ (+ 106.0 To + 112.2) at 3000 lbs. 
+ (+ 105.2 To + 114.2) at 2500 lbs. 
+ (+105.2 To +114.2) at 1800 lbs. 
+ Straight line variation between points given. 
+ Revision 7 
+ 3200 
+ 3000 
+ Gross Weight 
+ (Lbs) 
+ 2500 
+ 1800 
+ 105.2 
+ 106.0 
+ 107.0 
+ 111.4 
+ 112.2 
+ 114.2 
+ STA (INS) 
+ B) Lateral C.G. Limits 
+ 2.6 inches Right 
+ 2.4 inches Left"
+Empty Weight CG Range,Longitudinal Limits (+105.2) to (+ 114.2)
+Maximum Weight,3200 lbs.
+Data Pertinent To All Models,
+Airspeed Limits,"Never exceed 138 MPH (120 Knots) CAS, Refer to AF55-1520-228-10 for 
+ additional information (AIRSPEED LIMITS). 
+ Decrease Vne 3 knots per 1,000 ft. above 3,000 ft. 
+ 100 kts recommended maximum for autorotation."
+Datum,"Station 0 (datum is 1 inch forward of most forward point of fuselage cabin 
+ nose section or 55.16 inches forward of jack point center line)."
+Leveling Means,"Leveling means is plumb line from ceiling left rear cabin to index plate on 
+ floor."
+Minimum Crew,1 at (+65.0)
+Number of seats,See Note 15 (1 at +65.0 and 2 at +104.0.)
+Maximum Cargo,"Total Maximum Cargo Weight of 950 pounds not exceeding 100 lbs. per sq. 
+ ft. between (+77) and (+114)."
+Fuel Capacity,"71.5 gallons (+116.0) 70.3 useable (See AF55-1520-228-10 for fuel 
+ operations limits)."
+Oil Capacity,11.2 pints (+179.0)
+Control Movements,"For rigging information, refer to chapter 11 of the Aviation Unit and 
+ Intermediate Maintenance Manual TM55-1520-228-23-2."
+Serial Nos Approved,"Refer to Arrow Falcon Serial Numbers Eligible Report Number AF5145 
+ dated July 10, 1996, or later FAA approved revision. A current copy is on 
+ file at the Los Angeles ACO."
+Certification Basis,"14 CFR 21.25 (a) (2) effective February 1, 1965, including Amendments 
+ 21-1 through 21-42. Type Certificate No. H22NM for the Special 
+ Purpose(s) of: 
+ Revision 7 
+ I) Agricultural Operations under 14 CFR 21.25(b)(1). 
+ Note: In accordance with 14 CFR 36.1 (a)( 4), compliance with the noise 
+ requirements was not shown. Therefore, aircraft certificated under this type 
+ certificate are only eligible for agricultural operations excepted by 14 CFR 
+ 36.1 (a)(4) and defined under 14 CFR 137.3. 
+ 2) Forest and Wildlife Conservation Operations under 14 CFR 21.25(b)(2) 
+ Note: In accordance with 14 CFR 36.1 (a)(4), compliance with the noise 
+ requirements was not shown. Therefore, aircraft certificated under this type 
+ certificate are only eligible for dispensing fire fighting materials excepted 
+ by 14 CFR 36.1 (a)(4) and defined under 14 CFR 137.3. 
+ 3) External Load Operation under 14 CFR 21.25(b)(7). 
+ Note: In accordance with 14 CFR 36.1(a)(4), compliance with the noise 
+ requirements was not shown. Therefore, aircraft certificated under this type 
+ certificate are only eligible for external loads operations excepted by 14 
+ CFR 36.1 (a)(4) and defined under 14 CFR 133.1(b). 
+ 4) Aerial Survey Operation under 14 CFR 21.25(b)(3) 
+ Note: In accordance with 14 CFR 36.1(a)(4), compliance with the noise 
+ requirements was not shown. Therefore, aircraft certificated under this type 
+ certificate are only eligible for aerial survey operations excepted by 14 CFR 
+ 36.1 (a)(4). See note 17. 
+ 5) Patrolling Operations under 14 CFR 21.25(4) 
+ Note: In accordance with 14 CFR 36.1(a)(4), compliance with the noise 
+ requirements was not shown. Therefore, aircraft certificated under this type 
+ certificate are only eligible for patrolling operations excepted by 14 CFR 
+ 36.1(a)(4). See note 17. 
+ Any alteration to the aircraft for Special Purposes not identified above require 
+ further FAA approval and in addition may require noise and/or flight testing. 
+ General Note: Any subsequent modifications to the helicopters type certified 
+ under this Type Certificate are to have the certification basis for that 
+ modification established under 14 CFR 21.101 published June 7, 2000, which 
+ became effective June 10 ,2003. Otherwise non-significant modifications are to 
+ meet the requirements of 14 CFR 27 airworthiness standards, normal category, 
+ Amendment 4, effective October 27, 1968, and 14 CFR 27.1529, Instructions for 
+ Continued Airworthiness, Amendment 18, effective September 11, 1980."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in or on each 
+ helicopter for certification."
+Date of Application,"November 6,1995"
+Production Basis,"None. No helicopter may be produced under this approval. Prior to adding 
+ serial numbers to this Type Certificate, each candidate helicopter must 
+ undergo a conformity inspection. The conformity inspection will be 
+ Revision 7 
+ conducted in accordance with a Type Inspection Authorization, Part 1, or 
+ request for conformity that will include as a minimum, the inspections 
+ contained in the FAA Rotorcraft Directorate Restricted Category 
+ conformity document dated September 25, 2001, or later FAA approved 
+ revisions."
+Note 1,"A current weight and balance report including list of equipment included in 
+ the certificated empty weight, and loading instructions when necessary, 
+ must be provided for each aircraft at the time of original certification. Refer 
+ to Flight Manual AF55-l520-228-10 or Aviation Unit and Intermediate 
+ Maintenance Manual, TM55-1520-228-23-2 for C.G. determination."
+Note 2,"The following placards must be prominently displayed in the cockpit in full 
+ view of the pilots: 
+ Placard No. 1 
+ ""THIS ROTORCRAFT MUST BE OPERATED IN ACCORDANCE 
+ WITH THE RESTRICTED CATEGORY OPERATING LIMITATIONS 
+ OF 14 CFR 91.313."" 
+ Placard No. 2 
+ ""THIS HELICOPTER MUST BE OPERATED IN COMPLIANCE WITH 
+ THE OPERATING LIMITATIONS SPECIFIED IN THE APPROVED 
+ ROTORCRAFT FLIGHT MANUAL. REFER TO AF 55-1520-228-10 
+ FOR OPERATING LIMITS AND RESTRICTIONS."" 
+ Placard No. 3 
+ 'VFR OPERATIONS ONLY'"
+Note 3,"The helicopter(s) must be serviced, maintained, inspected, repaired, and 
+ overhauled in accordance with the documents specified in Arrow Falcon 
+ Exporters, Inc. Instructions for Continued Airworthiness Report, AF5132, 
+ dated July 5, 1996, as revised or inspected in accordance with other FAA 
+ accepted inspection programs. The TC Holder's Instructions for Continued 
+ Airworthiness Report is part of the TC Holder's Instructions for Continued 
+ Airworthiness. An FAA approved/accepted copy must accompany each 
+ helicopter on delivery."
+Note 4,"Prior to obtaining an original Airworthiness Certificate: 
+ A Each helicopter must pass a conformity inspection in accordance with 
+ Arrow Falcon Exporters, Inc. Configuration Report, AF5146, dated 
+ July 10, 1996 or later revision. The Configuration Report must contain 
+ a complete description of each helicopter, any military Maintenance 
+ Work Orders accomplished on that particular helicopter, and a 
+ description of the Special Purpose modification(s) accomplished on 
+ that particular helicopter. In addition, each helicopter must pass an 
+ inspection for any possible hidden damage and the military records 
+ reviewed for acceptability of any repairs or alterations. 
+ Revision 7 
+ B. The maintenance, overhaul, and modification records of each helicopter 
+ must be reviewed for military changes that may affect the airworthiness 
+ of the helicopter. 
+ C. After the required inspections, the aircraft must be found to be in a 
+ good state of preservation, repair, and in a condition for safe operation. 
+ D. A check by the Type Certificate Holder, of the flight characteristics in 
+ accordance with all applicable portions of Sections II and V of the U.S. 
+ Army Technical Manual 55-1520-228-MTF Maintenance Test Flight 
+ Manual, dated November 1, 1988, as appropriate for each aircraft, or 
+ other FAA approved manual."
+Note 5,"This aircraft is prohibited from carrying cargo for compensation or hire. 
+ Carriage of cargo is limited to such cargo that is incidental to the aircraft's 
+ owner/operator's business, which is other than air transportation. (This note 
+ applies to aircraft that have the special purpose, ""Carriage of cargo."")"
+Note 6,"Restricted Category aircraft may not be operated in a foreign country 
+ without the express written approval of that country."
+Note 7,"This aircraft has not been shown to meet the requirements of the applicable 
+ comprehensive and detailed airworthiness code as provided by Annex 8 to 
+ the Convention on International Civil Aviation."
+Note 8,"Engine changes are allowed provided the replacement engine is of the same 
+ make and model as identified in this TCDS. The replacement engine must 
+ have proper military records and have the applicable FAA Airworthiness 
+ inspection accomplished."
+Note 9,"The Airworthiness directives for the helicopter and engine contained in 
+ Arrow Falcon Exporters, Inc. Airworthiness Directives Report, AF5121 
+ (OH-58A+, OH-58A, and OH-58C) and AF5123 (Engine), dated June 10, 
+ 1996, or later FAA Approved revision, must be complied with prior to 
+ original airworthiness certification."
+Note 10,"An acceptable method of determining engine cycles from engine total 
+ operating time is contained in ARROW FALCON Report No. AF5] 30 
+ dated July 24, 1996, or later FAA Approved revision. This may be used 
+ when converting military operating hours to commercial equivalent cycles 
+ at the time of initial airworthiness conformity."
+Note 11,"When equipment identified in Arrow Falcon Exporters Inc. Removed 
+ Equipment Report Number AF5144 dated July 29, 1996, or later FAA 
+ Approved revision, is removed, the helicopter center gravity (CG) will be 
+ beyond aft limitations. The pilot shall refer to Arrow Falcon AF55-1520- 
+ 228-10, Flight Manual, to determine the amount of ballast to be installed at 
+ Sta. 22.2 in order to return the Center of Gravity to specified parameters."
+Note 12,"OH-58A+, OH-58A, and OH-58C helicopters shall have additional systems 
+ installed as follows: 
+ Description 
+ Report No. 
+ Battery Temperature Monitor 
+ AF5138 
+ Flight Hour Recording Meter Installation 
+ AF5133 
+ Revision 7 
+ Ballast Weight Installation 
+ AF5134"
+Note 13,"Flight Manual - Model OH-58A+ helicopters having complied with MWO 
+ 1520-228-50-6, which installs the T63-A720 engine, must be operated in 
+ accordance with the operating limitations in the Flight Manual AF55-1520- 
+ 228-10 dated January 7, 1997, or later FAA Approved revisions."
+Note 14,"Any alteration to the type design of this aircraft may require Instructions for 
+ Continued Airworthiness. These instructions must be submitted and 
+ accepted by the FTW-AEG, Aircraft Evaluation Group Office, prior to 
+ approval for return to service."
+Note 15,"No person may be carried in this helicopter during flight unless that person 
+ is essential to the purpose of the flight."
+Note 16,"Alternate or emergency fuels are listed in TM55-1520-228-10 Chapter 2, 
+ Section XIV, Table 2-2. Some limitations apply for the use of certain 
+ alternate and emergency fuels. These limitations are listed in this section."
+Note 17,"In order to conduct operation under Aerial Survey 14 CFR 21.25(b)(3) or 
+ Patrolling Operations under 14 CFR 21.25 wedge style windows at the 
+ observer or pilot station must be installed in accordance with Supplemental 
+ Type Certificate SA00483SE."

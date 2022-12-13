@@ -1,0 +1,3780 @@
+Keyterm,Info
+"A-759 
+ Revision 73 
+ American Champion 
+ (Bellanca) 
+ (Champion) 
+ 7AC 
+ (Aeronca) 
+ 7ACA 
+ 7EC 
+ 7GCB 
+ S7AC 
+ S7EC 
+ 7GCBA 
+ (L-16A) 7BCM 
+ 7ECA 
+ 7GCBC 
+ (L-16B) 7CCM 
+ 7FC 
+ 7HC 
+ S7CCM 
+ 7GC 
+ 7JC 
+ 7DC 
+ 7GCA 
+ 7KC 
+ S7DC 7GCAA 
+ 7KCAB 
+ February 9, 2011",
+Type Certificate Holder,"American Champion Aircraft Corp. 
+ P. O. Box 37 
+ Rochester, WI 53167 
+ Type Certificate Holder Record: Aeronca Aircraft Corporation transferred TC A-759 to 
+ Champion Aircraft Corporation on July 19, 1954 
+ Champion Aircraft Corporation transferred TC A-759 to 
+ Bellanca Aircraft Corporation on March 15, 1971 
+ Bellanca Aircraft Corporation transferred TC A-759 to 
+ Champion Aircraft Company, Inc. on November 1, 1982 
+ Champion Aircraft Company, Inc. transferred TC A-759 to 
+ Tetelestai, Inc. on October 11, 1988 
+ Tetelestai transferred TC A-759 to 
+ FRA Enterprises, Inc. on December 27, 1988 
+ FRA Enterprises, Inc. transferred TC A-759 to 
+ American Champion Aircraft Corp.on May 30, 1989"
+"I - Model 7AC, 2 PCLM (Normal Category), Approved October 18, 1945 
+ (See NOTE 4 for optional engines and conversions to other models)",
+Engine,Continental A-65-8 (see item 115 for Lycoming O-235-C)
+Fuel,73 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2300 r.p.m. (65 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 95 m.p.h. (83 knots) True Ind. 
+ Glide or dive 
+ 129 m.p.h. (112 knots) True Ind."
+Propeller Limits,Static rpm at maximum permissible throttle setting:
+For fixed pitch,"Not over 2250, not under 1960. No additional tolerance permitted."
+wood propeller,"Diameter: not over 72 in., not under 70 in."
+CG Range,(+10.9) to (+21.5)
+CG Range,"(+14.1) to (+17.9) standard arrangement 
+ (+14.1) to (+15.0) when item 106(a) installed. When empty weight C.G. falls 
+ within the range given, it is not necessary to compute critical fore and aft C.G. 
+ positions. This range valid for standard arrangement only."
+Maximum Weight,1220 lb.
+No of Seats,"2 (1 at +11.5, 1 at +42)"
+Maximum Baggage,40 lbs. at +64. See NOTE 2 for baggage placard.
+Fuel Capacity,13 gal. at -15.
+Oil Capacity,4 qt. at -33.
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20"
+Rev No,"70 
+ 65 
+ 65 
+ 65 
+ 65 
+ 65 
+ 65 
+ 65 
+ 65 
+ 65 
+ 71 
+ 68 
+ 70 
+ 67 
+ 73 
+ 73 
+ 66 
+ 71 
+ 73 
+ 70"
+Page No,"21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 32 
+ 33 
+ 34"
+Rev No,"73 
+ 69 
+ 66 
+ 69 
+ 73 
+ 69 
+ 66 
+ 66 
+ 66 
+ 66 
+ 66 
+ 67 
+ 73 
+ 70"
+Movements,"Elevator 
+ Up 
+ 25o 
+ Down 
+ 15.5o 
+ Elevator Trim Tab Up 
+ 20o 
+ Down 
+ 34.5o 
+ Ailerons 
+ Up 
+ 28.5o 
+ Down 
+ 18o 
+ Rudder 
+ Right 24o 
+ Left 
+ 25o"
+Serial Nos Eligible,7AC-1 and up.
+Required Equipment,"Items 1, 101, 102, 201, 202."
+"II - Model S7AC, 2 PCSM (Normal Category), Approved February 27, 1947 
+ (Same as 7AC except for float installation)",
+Engine,Continental A-65-8
+Fuel,80 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2300 r.p.m. (65 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 90 m.p.h. (78 knots) True Ind. 
+ Glide or dive 
+ 121 m.p.h. (105 knots) True Ind."
+Propeller Limits,Static rpm at maximum permissible throttle setting:
+For fixed pitch,"Not over 2200, not under 1960. No additional tolerance permitted."
+propeller,"Diameter: not over 76 in., not under 70 in."
+CG Range,(+10.9) to (+19.5)
+CG Range,"(+13.6) to (+15.7) not valid when item 106(a) installed. When empty weight 
+ C.G. falls within this range, it is not necessary to compute critical fore and aft 
+ C.G. positions. This range valid for standard arrangement only."
+Maximum Weight,1320 lb.
+No of Seats,"2 (1 at +11.5, 1 at +42)"
+Maximum Baggage,40 lbs. at +64. See NOTE 2 for baggage placard.
+Fuel Capacity,13 gal. at -15.
+Oil Capacity,4 qt. at -33.
+Movements,"Elevator 
+ Up 
+ 25o 
+ Down 
+ 15.5o 
+ Elevator Trim Tab Up 
+ 20o 
+ Down 
+ 34.5o 
+ Ailerons 
+ Up 
+ 28.5o 
+ Down 
+ 18o 
+ Rudder 
+ Right 24o 
+ Left 
+ 25o"
+Serial Nos Eligible,7AC-1 and up.
+Required Equipment,"Items 1, 101, 102, 204(a) or (b), 205(a), 205(c)"
+"III - Model 7BCM (Army L-16A), 2 PCLM (Normal Category), Approved September 16, 1947 
+ Same as 7AC except for powerplant installation. See NOTE 4 for conversion from Model 7AC.",
+Engine,"Continental C-85-8, -8F, -8J or -8FJ"
+Fuel,80 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2575 r.p.m. (85 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 95 m.p.h. (83 knots) True Ind. 
+ Glide or dive 
+ 129 m.p.h. (112 knots) True Ind."
+Propeller Limits,Static rpm at maximum permissible throttle setting:
+For fixed pitch,"Not over 2450, not under 2200. No additional tolerance permitted."
+wood propeller,"Diameter: not over 72 in., not under 70 in."
+CG Range,(+10.4) to (+19.7)
+CG Range,"(+13.2) to (+15.5) valid only for standard arrangement. When empty weight 
+ C.G. falls within this range, it is not necessary to compute critical fore and aft 
+ C.G. positions."
+Maximum Weight,1220 lb.
+No of Seats,"2 (1 at +11.5, 1 at +42). Placard: ""Solo from front seat only."""
+Maximum Baggage,50 lbs. at +64.
+Fuel Capacity,13 gal. at -15.
+Oil Capacity,4 qt. at -33.
+Movements,"Elevator 
+ Up 
+ 27o 
+ Down 
+ 21.5o 
+ Elevator Trim Tab Up 
+ 20o 
+ Down 
+ 34.5o 
+ Ailerons 
+ Up 
+ 28.5o 
+ Down 
+ 18o 
+ Rudder 
+ Right 24o 
+ Left 
+ 25o"
+Serial Nos Eligible,"7BCM-1 and up. Also, see NOTE 5 for military S/N's eligible."
+Required Equipment,"Carburetor engine: 1, 102, 105, 201, 202."
+Items,"Injector engine: 
+ 1, 110, 201, 202."
+"IV - Model 7CCM (Army L-16B), 2 PCLM (Normal Category), Approved July 12, 1948 
+ Same as 7BCM except for powerplant installation, increased fin area, auxiliary fuel wing tank and 
+ fuselage member changed. See NOTE 4 for conversion from Model 7AC.",
+Engine,Continental C90-8F or C90-8FJ
+Fuel,80 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2475 r.p.m. (90 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 100 m.p.h. ( 87 knots) True Ind. 
+ Glide or dive 
+ 135 m.p.h. (117 knots) True Ind."
+Propeller Limits,Static rpm at maximum permissible throttle setting:
+For fixed pitch,"Not over 2410, not under 2170. No additional tolerance permitted."
+wood propeller,"Diameter: not over 72 in., not under 70 in."
+CG Range,"(+16.8) to (+20.0) at 1300 lb. 
+ (+10.0) to (+20.0) at 1087 lb. or less 
+ Straight line variation between points given."
+CG Range,None
+Maximum Weight,"1300 lb. May be increased to 1350 lb. when ""Long Stroke Oleo Landing Gear"", 
+ Aeronca P/N 3-665, installed and placard, ""Intentional spinning prohibited when 
+ baggage carried"", Aeronca P/N 1-2929, installed on instrument panel. 
+ C.G. range at 1350 lb. is as follows: 
+ (+16.8) to (+20.4) at 1350 lb. 
+ (+10.0) to (+20.4) at 1087 lb. or less 
+ Straight line variation between points given."
+No of Seats,"2 (1 at +11.5, 1 at +42). Placard: ""Solo from front seat only."""
+Maximum Baggage,50 lbs. at +64.
+Fuel Capacity,"18.5 gal. (13 gal. at -15, 5.5 gal. at +24)."
+Oil Capacity,5 qt. at -33.
+Movements,"Elevator 
+ Up 
+ 24o 
+ Down 
+ 24o 
+ Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 37.5o 
+ Ailerons 
+ Up 
+ 28.5o 
+ Down 
+ 18o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,"7CCM-1 and up. Also, see NOTE 5 for military S/N's eligible."
+Required Equipment,"With Continental C90-8F engine: 
+ 1, 102, 105, 106, 109, 201, 202."
+Items,"With Continental C90-8FJ engine: 1, 106, 110, 201, 202."
+"V - Model 7DC, 2 PCLM (Normal Category), Approved July 12, 1948 
+ Same as 7CCM except for powerplant installation. See NOTE 4 for conversion from Model 7AC.",
+Engine,"Continental C-85-8, -8F, -8J, or -8FJ"
+Fuel,80 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2575 r.p.m. (85 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 100 m.p.h. ( 87 knots) True Ind. 
+ Glide or dive 
+ 135 m.p.h. (117 knots) True Ind."
+Propeller Limits,Static rpm at maximum permissible throttle setting:
+For fixed pitch,"Not over 2465, not under 2300. No additional tolerance permitted."
+wood propeller,"Diameter: not over 72 in., not under 70 in."
+CG Range,"(+16.8) to (+20.0) at 1300 lb. 
+ (+10.0) to (+20.0) at 1087 lb. or less 
+ Straight line variation between points given."
+CG Range,None
+Maximum Weight,"1300 lb. May be increased to 1350 lb. when ""Long Stroke Oleo Landing Gear"", 
+ Aeronca P/N 3-665, installed and placard, ""Intentional spinning prohibited when 
+ baggage carried"", Aeronca P/N 1-2929, installed on instrument panel. 
+ C.G. range at 1350 lb. is as follows: 
+ (+16.8) to (+20.4) at 1350 lb. 
+ (+10.0) to (+20.4) at 1087 lb. or less 
+ Straight line variation between points given."
+No of Seats,"2 (1 at +11.5, 1 at +42). Placard: ""Solo from front seat only."""
+Maximum Baggage,50 lbs. at +64.
+Fuel Capacity,"18.5 gal. (13 gal. at -15, 5.5 gal. at +24)."
+Oil Capacity,5 qt. at -33.
+Movements,"Elevator 
+ Up 
+ 24o 
+ Down 
+ 24o 
+ Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 37.5o 
+ Ailerons 
+ Up 
+ 28.5o 
+ Down 
+ 18o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,7DC-1 and up.
+Required Equipment,"With carburetor engine: 1, 102, 105, 201, 202."
+Items,"With injector engine: 
+ 1, 110, 201, 202."
+"VI - Model S7DC, 2 PCSM (Normal Category), Approved September 22, 1948 
+ Same as 7DC except for increase in maximum weight, float and auxiliary ventral fin installation.",
+Engine,Continental C-85-8F
+Fuel,80 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2575 r.p.m. (85 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 95 m.p.h. ( 83 knots) True Ind. 
+ Glide or dive 
+ 129 m.p.h. (112 knots) True Ind."
+Propeller Limits,Static rpm at maximum permissible throttle setting:
+For fixed pitch,"Not over 2440, not under 2290. No additional tolerance permitted."
+wood propeller,"Diameter: not over 72 in., not under 70 in."
+CG Range,"(+16.8) to (+20.3) at 1400 lb. 
+ (+10.4) to (+20.3) at 1189 lb. or less 
+ Straight line variation between points given."
+CG Range,None
+Maximum Weight,1400 lb.
+No of Seats,"2 (1 at +11.5, 1 at +43). Placard: ""Solo from front seat only."""
+Maximum Baggage,50 lbs. at +64.
+Fuel Capacity,"18.5 gal. (13 gal. at -15, 5.5 gal. at +24)."
+Oil Capacity,5 qt. at -33.
+Movements,"Elevator 
+ Up 
+ 27o 
+ Down 
+ 21.5o 
+ Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 37.5o 
+ Ailerons 
+ Up 
+ 28.5o 
+ Down 
+ 18o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,7DC-1 and up.
+Required Equipment,"Items 1, 102, 105, 204(b), 205(a), 205(c)."
+"VII - Model S7CCM, 2 PCSM (Normal Category), Approved March 15, 1949 
+ Same as 7CCM except for increase in maximum weight, float and auxiliary ventral fin linstallation.",
+Engine,Continental C90-8F or C90-8FJ
+Fuel,80 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2475 r.p.m. (90 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 95 m.p.h. ( 83 knots) True Ind. 
+ Glide or dive 
+ 129 m.p.h. (112 knots) True Ind."
+Propeller Limits,Static rpm at maximum permissible throttle setting:
+For fixed pitch,"Not over 2410, not under 2170. No additional tolerance permitted."
+wood propeller,"Diameter: not over 72 in., not under 70 in."
+CG Range,"(+16.8) to (+20.3) at 1400 lb. 
+ (+10.4) to (+20.3) at 1189 lb. or less 
+ Straight line variation between points given."
+CG Range,None
+Maximum Weight,1400 lb.
+No of Seats,"2 (1 at +11.5, 1 at +42). Placard: ""Solo from front seat only."""
+Maximum Baggage,50 lbs. at +64.
+Fuel Capacity,"18.5 gal. (13 gal. at -15, 5.5 gal. at +24)."
+Oil Capacity,5 qt. at -33.
+Movements,"Elevator 
+ Up 
+ 24o 
+ Down 
+ 24o 
+ Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 37.5o 
+ Ailerons 
+ Up 
+ 28.5o 
+ Down 
+ 18o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,"7CCM-1 and up. Also, see NOTE 5 for military S/N's eligible."
+Required Equipment,"With Continental C90-8F engine: 
+ 1, 102, 105, 106, 109, 204(b), 205(a), 205(c)."
+Items,"With Continental C90-8FJ engine: 1, 106, 110, 204(b), 205(a), 205(c)."
+"VIII - Model 7EC, 2 PCLM (Normal Category), Approved November 30, 1949 
+ See Note 8 for conversion from Model 7JC. 
+ See Note 16 for alternate engine and weight configuration.",
+Engine,Continental C90-12F or C90-12FJ
+Fuel,80 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2475 r.p.m. (90 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 100 m.p.h. ( 87 knots) True Ind. 
+ Glide or dive 
+ 135 m.p.h. (117 knots) True Ind."
+Propeller Limits,Static rpm at maximum permissible throttle setting:
+For fixed pitch,"Not over 2350, not under 2125. No additional tolerance permitted."
+wood propeller,"Diameter: not over 72 in., not under 70 in."
+CG Range,"(+15.0) to (+19.2) at 1450 lb. 
+ (+10.2) to (+19.2) at 1190 lb. or less 
+ Straight line variation between points given. 
+ Placard: ""Intentional spinning prohibited when carrying baggage."""
+CG Range,None
+Maximum Weight,"1450 lb. 
+ 1300 lb. (If lower end landing gear oleo strut aaembly, Aeronca dwg. 3-433, is installed). 
+ C.G. range at 1300 lb. is as follows: 
+ (+16.8) to (+19.2) at 1300 lb. 
+ (+10.2) to (+19.2) at 1100 lb. or less 
+ Straight line variation between points given. 
+ 1500 lb. (S/N's 7EC-705 and up eligible) 
+ C.G. range at 1500 lb. is as follows: 
+ (+15.0) to (+19.2) at 1500 lb. 
+ (+10.2) to (+19.2) at 1190 lb. or less 
+ Straight line variation between points given."
+No of Seats,"2 (1 at +11.5, 1 at +42). Placard: ""Solo from front seat only."""
+Maximum Baggage,50 lbs. at +64.
+Fuel Capacity,"18.5 gal. (13 gal. at -15, 5.5 gal. at +24). See item 116 for optional fuel 
+ systems."
+Oil Capacity,5 qt. at -33.
+Movements,"Elevator 
+ Up 
+ 24o 
+ Down 
+ 24o 
+ Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 37.5o 
+ Ailerons 
+ Up 
+ 28.5o 
+ Down 
+ 18o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,1 and up.
+Required Equipment,"With Continental C90-12F engine: 
+ 1, 102, 105, 109, 201, 202."
+Items,"With Continental C90-12FJ engine: 1, 106, 110, 201, 202."
+"IX - Model S7EC, 2 PCSM (Normal Category), Approved May 12, 1950 
+ Same as 7EC except for increase in maximum weight, float and auxiliary ventral fin linstallation.",
+Engine,Continental C90-12F or C90-12FJ
+Fuel,80 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2475 r.p.m. (90 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 95 m.p.h. ( 83 knots) True Ind. 
+ Glide or dive 
+ 129 m.p.h. (112 knots) True Ind."
+CG Range,"(+15.0) to (+18.6) at 1474 lb. 
+ (+10.4) to (+18.6) at 1258 lb. or less 
+ Straight line variation between points given. 
+ Placard: ""Intentional spinning prohibited when carrying baggage."""
+CG Range,None
+Maximum Weight,1474 lb.
+No of Seats,"2 (1 at +11.5, 1 at +42). Placard: ""Solo from front seat only."""
+Maximum Baggage,50 lbs. at +64.
+Fuel Capacity,"18.5 gal. (13 gal. at -15, 5.5 gal. at +24). See item 116 for optional fuel 
+ systems."
+Oil Capacity,5 qt. at -33.
+Movements,"Elevator 
+ Up 
+ 24o 
+ Down 
+ 24o 
+ Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 37.5o 
+ Ailerons 
+ Up 
+ 28.5o 
+ Down 
+ 18o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,1 and up.
+Required Equipment,"With Continental C90-12F engine: 
+ 6, 102, 105, 106, 109, 112, 204(b), 205(a)."
+Items,"With Continental C90-12FJ engine: 6, 106, 110, 112, 204(b), 205(a)."
+"X - Model 7FC, 2 PCLM (Normal Category), Approved March 27, 1957 
+ See Note 7 for conversion to Wide Track Main Gear",
+Engine,Continental C90-12F or C90-12FJ
+Fuel,80 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2475 r.p.m. (90 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 100 m.p.h. ( 87 knots) True Ind. 
+ Glide or dive 
+ 135 m.p.h. (117 knots) True Ind."
+Propeller Limits,Static rpm at maximum permissible throttle setting:
+For fixed pitch,"Not over 2350, not under 2125. No additional tolerance permitted."
+wood propeller,"Diameter: not over 72 in., not under 70 in."
+CG Range,"(+15.0) to (+17.2) at 1450 lb. 
+ (+10.2) to (+17.2) at 1190 lb. or less 
+ Straight line variation between points given. 
+ Placard: ""Intentional spinning prohibited when carrying baggage."""
+CG Range,None
+Maximum Weight,"1450 lb. (S/N's 7FC-2 thru 7FC-405) 
+ 1500 lb. (S/N's 7FC-406 and up when Champion 7-1159 Wide Track Main Gear 
+ installed. S/N's 7FC-347 thru 7FC-405 eligible for 1500 lb. maximum weight 
+ when modified in accordance with Champion Service Letters Nos. 45 and 46) 
+ C.G. range at 1500 lb. is as follows: 
+ (+15.0) to (+18.5) at 1500 lb. 
+ (+10.2) to (+18.5) at 1190 lb. or less 
+ Straight line variation between points given."
+No of Seats,"2 (1 at +11.5, 1 at +42). Placard: ""Solo from front seat only."""
+Maximum Baggage,50 lbs. at +64.
+Fuel Capacity,26 gal. (two 13 gal. wing tanks +24)
+Oil Capacity,5 qt. at -35.
+Movements,"Elevator 
+ Up 
+ 24o 
+ Down 
+ 24o 
+ Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 37.5o 
+ (1500 lb. max. wt. only) Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 44o 
+ Ailerons 
+ Up 
+ 28.5o 
+ Down 
+ 18o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,2 and up.
+Required Equipment,"With Continental C90-12F engine: 
+ 1, 102, 103, 105, 116, 201(b) or (d)."
+Items,"(201(e) and 210(b) also required for 1500 lb. maximum weight). 
+ With Continental C90-12FJ engine: 1, 110, 116, 201(b) or (d). (201(e) and 
+ 210(b) also required for 1500 lb. maximum weight)."
+"XI - Model 7GC, 2 PCL-SM (Normal Category), Approved October 3, 1958 
+ Model 7GC is generally similar to 7EC except for modified fuselage structure as required for increase 
+ in gross weight and installation of Lycoming O-290-D2B engine and revised fuel system.",
+Engine,Lycoming O-290-D2B
+Fuel,80 minimum grade aviation gasoline
+Engine Limits,"Takeoff (one minute) 
+ 2800 r.p.m. (140 hp.) 
+ Maximum continuous 
+ 2600 r.p.m. (135 hp.)"
+Airspeed Limits,"Landplane: Level flight or climb 
+ 120 m.p.h. (104 knots) True Ind. 
+ Glide or dive 
+ 162 m.p.h. (141 knots) True Ind. 
+ Seaplane with item 204(c) installed: 
+ Level flight or climb 
+ 120 m.p.h. (104 knots) True Ind. 
+ Glide or dive 
+ 137 m.p.h. (119 knots) True Ind."
+CG Range,"Landplane: (+14.2) to (+17.7) at 1650 lb. 
+ (+10.2) to (+17.7) at 1230 lb. or less 
+ Seaplane: 
+ (+14.45) to (+17.7) at 1732 lb. 
+ (+11.9) to (+17.7) at 1450 lb. or less 
+ Straight line variation between points given."
+CG Range,None
+Maximum Weight,"Landplane: 
+ 1650 lb. 
+ Seaplane: 
+ 1732 lb."
+No of Seats,"2 (1 at +12, 1 at +42)."
+Maximum Baggage,50 lbs. at +64.5
+Fuel Capacity,39 gal. at +24.5
+Oil Capacity,8 qt. at -36
+Movements,"Elevator 
+ Up 
+ 24o 
+ Down 
+ 24o 
+ Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 37.5o 
+ Ailerons 
+ Up 
+ 27.5o 
+ Down 
+ 19o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,2 and up.
+Required Equipment,"Landplane: 11(a), 102(c) or (d), 118(a) or (b), 119, 120(a) or (b), 201(b), 202(f)."
+Items,"Seaplane: 
+ 11(a), 102(c) or (d), 118(a) or (b), 119, 120(a) or (b), 204(c), 205(a), 
+ 205(c)"
+"XII - Model 7HC, 3 PCL-SM (Normal Category), Approved August 6, 1959 
+ Model 7HC is generally similar to the 7GC except for modified fuselage structure as required for 
+ See NOTE 9 for conversion to Wide Track Main Gear.",
+Engine,Lycoming O-290-D2B
+Fuel,80 minimum grade aviation gasoline
+Engine Limits,"Takeoff (one minute) 2800 r.p.m. (140 hp.) 
+ Maximum continuous 2600 r.p.m. (135 hp.)"
+Airspeed Limits,"Landplane: Level flight or climb 
+ 120 m.p.h. (104 knots) True Ind. 
+ Glide or dive 
+ 162 m.p.h. (141 knots) True Ind. 
+ Seaplane with item 204(c) installed: 
+ Level flight or climb 
+ 120 m.p.h. (104 knots) True Ind. 
+ Glide or dive 
+ 137 m.p.h. (119 knots) True Ind."
+CG Range,"Landplane: (+14.2) to (+17.7) at 1650 lb. 
+ (+10.4) to (+17.7) at 1250 lb. or less 
+ Seaplane: 
+ (+14.45) to (+17.7) at 1732 lb. 
+ (+11.9) to (+17.7) at 1450 lb. or less 
+ Straight line variation between points given."
+CG Range,None
+Maximum Weight,"Landplane: 
+ 1650 lb. 
+ Seaplane: 
+ 1732 lb."
+No of Seats,"3 (front adjustable from +13.5 to +14.5, rear adjustable from +44 to +51)."
+Maximum Baggage,50 lbs. at +64.5
+Fuel Capacity,39 gal. at +24.5
+Oil Capacity,8 qt. at -36
+Movements,"Elevator 
+ Up 
+ 24o 
+ Down 
+ 24o 
+ Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 37.5o 
+ Ailerons 
+ Up 
+ 27.5o 
+ Down 
+ 19o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,2 and up.
+Required Equipment,"Landplane: (S/N's 7HC-1 thru 7HC-32), 11(a), 102(c) or (d), 118(a) or (b), 119,"
+Items,"120(a) or (b), 201(b), 209 (see NOTE 9). 
+ (S/N's 7HC-33 and up), 11(a), 102(c) or (d), 118(a) or (b), 119, 
+ 120(a), 201(e), 209, 210(b) 
+ Seaplane: 
+ 11(a), 102(c) or (d), 118(a) or (b), 119, 120(a) or (b), 204(c), 
+ 205(a), 205(c)."
+"XIII - Model 7GCA, 2 PCLM (Normal Category), Approved November 17, 1959 
+ Model 7GCA is generally similar to the 7GC except for modifications as required for installation of 
+ Lycoming O320A2B engine",
+Engine,Lycoming O-320-A2B
+Fuel,80/87 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2700 r.p.m. (150 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 120 m.p.h. (104 knots) True Ind. 
+ Glide or dive 
+ 162 m.p.h. (141 knots) True Ind."
+CG Range,"(+14.2) to (+17.7) at 1650 lb. 
+ (+10.2) to (+17.7) at 1230 lb. or less 
+ Straight line variation between points given."
+CG Range,None
+Maximum Weight,1650 lb.
+No of Seats,"2 (front adjustable from +13.5 to +14.5, rear at +44)"
+Maximum Baggage,50 lbs. at +64.5
+Fuel Capacity,39 gal. at +24.5
+Oil Capacity,8 qt. at -36
+Movements,"Elevator 
+ Up 
+ 24o 
+ Down 
+ 24o 
+ Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 37.5o 
+ Ailerons 
+ Up 
+ 27.5o 
+ Down 
+ 19o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,120 and up.
+Required Equipment,"Items 11(b), 102(c) or (d), 118(a) or (b), 119, 120(a) or (b), 201(a) or (b), 202(f)"
+"XIV - Model 7JC, 2 PCLM (Normal Category), Approved February 24, 1960 
+ Model 7JC is generally similar to the 7EC except for modified fuselage structure as required for 
+ installation of tricycle gear with single gear aft. See Note 8 for conversion to Model 7EC.",
+Engine,Continental C90-12F
+Fuel,80/87 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2475 r.p.m. (90 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 100 m.p.h. ( 87 knots) True Ind. 
+ Glide or dive 
+ 135 m.p.h. (117 knots) True Ind."
+Propeller Limits,Static rpm at maximum permissible throttle setting:
+For fixed pitch,"Not over 2350, not under 2125. No additional tolerance permitted."
+wood propeller,"Diameter: not over 72 in., not under 70 in."
+CG Range,"(+15.5) to (+19.2) at 1450 lb. 
+ (+11.3) to (+19.2) at 1200 lb. or less 
+ Straight line variation between points given."
+CG Range,None
+Maximum Weight,1450 lb.
+No of Seats,"2 (front adjustable from +11.3 to +13.3, rear at +39.7)"
+Maximum Baggage,50 lbs. at +64.
+Fuel Capacity,26 gal. (two 13 gal. wing tanks at +24)
+Oil Capacity,5 qt. at -35.
+Movements,"Elevator 
+ Up 
+ 24o 
+ Down 
+ 24o 
+ Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 37.5o 
+ Ailerons 
+ Up 
+ 28.5o 
+ Down 
+ 18o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,1 and up.
+Required Equipment,"Items 1, 102(b), 103(b), 105, 116, 201(b), 211"
+"XV - Model 7GCB, 2 PCL-SM (Normal Category), Approved April 28, 1960 
+ For operation in the acrobatic category, see NOTES 2(b)(12) and 10. Model 7GCB is generally similar 
+ to the 7GCA except for modified wing and fuselage structure as required for addition of wing flaps, 
+ increased wing area and increased rear seat weight limit.",
+Engine,Lycoming O-320-A2B
+Fuel,80/87 minimum grade aviation gasoline
+Engine Limits,For all operations 2700 r.p.m. (150 hp.)
+Airspeed Limits,"Landplane: Level flight or climb 120 m.p.h. (104 knots) True Ind. 
+ Glide or dive 
+ 162 m.p.h. (141 knots) True Ind. 
+ Flaps extended 
+ 90 m.p.h. ( 78 knots) True Ind. 
+ Seaplane with item 204(c) installed: 
+ Level flight or climb 120 m.p.h. (104 knots) True Ind. 
+ Glide or dive 
+ 137 m.p.h. (119 knots) True Ind. 
+ Flaps extended 
+ 90 m.p.h. ( 78 knots) True Ind."
+CG Range,"Landplane: (+15.0) to (+19.2) at 1650 lb. 
+ (+12.26) to (+19.2) at 1325 lb. or less 
+ Seaplane: 
+ (+16.2) to (+19.2) at 1732 lb. 
+ (+13.0) to (+19.2) at 1500 lb. or less 
+ When performing acrobatic maneuvers, the C.G. range shall be limited to: 
+ (+15.0) to (+17.1) at 1650 lb. 
+ (+12.26) to (+17.1) at 1325 lb. or less 
+ With increased flap travel (Champion Installation dwg. No. 7-1131) and 
+ installation of horizontal tail surface per Champion dwg. No. 4-1410, 4-1411 and 
+ 4-1412: 
+ Landplane: (+14.2) to (+19.2) at 1732 lb. 
+ (+10.5) to (+19.2) at 1325 lb. or less 
+ When performing acrobatic maneuvers, the C.G. range shall be limited to: 
+ (+14.2) to (+17.1) at 1650 lb. 
+ (+10.5) to (+17.1) at 1325 lb. or less 
+ Straight line variation between points given."
+CG Range,None
+Maximum Weight,"Landplane: 
+ 1650 lb. 
+ Seaplane: 
+ 1732 lb."
+No of Seats,"2 (front adjustable from +13.5 to +14.5, rear fixed seat at +42.5, or rear 
+ adjustable from +44 to +51). (This rear seat limit is 250 lb.)"
+Maximum Baggage,50 lbs. at +64.5
+Fuel Capacity,39 gal. at +24.5
+Oil Capacity,8 qt. at -36
+Movements,"Elevator 
+ Up 
+ 28o 
+ Down 
+ 24o 
+ Elevator Trim Tab 
+ Up 
+ 17.5o Down 
+ 44o 
+ Ailerons 
+ Up 
+ 27.5o Down 
+ 19o 
+ Flaps 
+ Up 
+ 0o 
+ Down 
+ 21o 
+ (with flap control 
+ system installed per 
+ Champion dwg. 7-1131 
+ and horizontal tail 
+ surfaces per Champion 
+ dwg. 
+ 4-1410, 4-1411, 4-1412) Up 
+ 0o 
+ Down 
+ 35o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,1 and up.
+Required Equipment,"Landplane: 11(b), 102(d), 118(b), 119, 120(b), 201(a) or (b), 202"
+Items,"Seaplane: 
+ 11(b), 102(d), 118(b), 119, 120(b), 204(c), 205(a) and (c) or (c) and (d)"
+"XVI - Model 7KC, 2 PCLM (Normal Category), Approved January 10, 1961 
+ Model 7KC is generally similar to the 7GCA except for modifications as required for reduced wing",
+Engine,Lycoming O-320-A2B
+Fuel,80/87 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2700 r.p.m. (150 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 120 m.p.h. (104 knots) True Ind. 
+ Glide or dive 
+ 162 m.p.h. (141 knots) True Ind."
+CG Range,"(+14.2) to (+18.6) at 1650 lb. 
+ (+11.9) to (+18.6) at 1406 lb. or less 
+ Straight line variation between points given."
+CG Range,None
+Maximum Weight,1650 lb.
+No of Seats,"2 (front adjustable from +12.6 to +13.8, rear adjustable from +41.8 to +43)"
+Maximum Baggage,50 lbs. at +64.5
+Fuel Capacity,39 gal. at +24.5
+Oil Capacity,8 qt. at -36
+Movements,"Elevator 
+ Up 
+ 28o 
+ Down 
+ 24o 
+ Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 44o 
+ Ailerons 
+ Up 
+ 27.5o 
+ Down 
+ 19o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,1 and up.
+Required Equipment,"Items 11(b), 102(d), 118(b), 119, 120(b), 201(a) or (b), 202"
+"XVII - Model 7GCBA, 2 PCLM (Restricted Agricultural Category Only), Approved February 2, 1962",
+Engine,Lycoming O-320-A2B
+Fuel,80/87 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2700 r.p.m. (150 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 115 m.p.h. (100 knots) True Ind. 
+ Glide or dive 
+ 121 m.p.h. (105 knots) True Ind. 
+ Flaps extended 
+ 90 m.p.h. ( 78 knots) True Ind."
+CG Range,"(+15.0) to (+22.5) at 2400 lb. 
+ (+10.5) to (+22.5) at 1325 lb. or less 
+ Straight line variation between points given."
+CG Range,None
+Maximum Weight,"2400 lb. Any increase in maximum weight to be determined in accordance with 
+ CAM 8.10-3(e)"
+No of Seats,1 at +12
+Maximum Baggage,None
+Hopper Load,Maximum structural compliance with CAM 8 is 900 lb. (see NOTE 2(e)).
+Fuel Capacity,39 gal. at +24.5
+Oil Capacity,8 qt. at -36
+Movements,"Elevator 
+ Up 
+ 28o 
+ Down 
+ 24o 
+ Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 44o 
+ Ailerons 
+ Up 
+ 27.5o 
+ Down 
+ 19o 
+ Flaps 
+ Up 
+ 0o 
+ Down 
+ 21o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,1 and up.
+Required Equipment,"Items 11(b), 102(d), 118(b), 119, 120(b), 201(b), 202 and 620(a), (b), (c) or (d)"
+"XVIII - Model 7ECA, 2 PCL-SM (Normal or Acrobatic Category), Approved August 5, 1964 
+ For operation in the Acrobatic Category, see NOTES 2(b)(13) and 10. Model 7ECA is generally 
+ similar to the 7GC except for modifications required for installation of the approved engines and 
+ Item 621 
+ for applicable horizontal tail surfaces. See NOTE 15 concerning optional C.G. range and maximum 
+ weight",
+Engine,"Continental O-200-A (see Item 122, 124 and 125 for optional engines)"
+Fuel,80/87 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2750 r.p.m. (100 hp.)"
+Airspeed Limits,"Landplane: Level flight or climb 
+ 120 m.p.h. (104 knots) True Ind. 
+ Glide or dive 
+ 162 m.p.h. (141 knots) True Ind. 
+ Seaplane with Item 204(c) installed: 
+ Level flight or climb 
+ 114 m.p.h. ( 99 knots) True Ind. 
+ Glide or dive 
+ 137 m.p.h. (119 knots) True Ind."
+CG Range,"Landplane: (+14.2) to (+19.2) at 1650 lb. 
+ (+10.2) to (+19.2) at 1325 lb. or less 
+ When performing acrobatic maneuvers, the C.G. range shall be limited to: 
+ (+14.2) to (+17.3) at 1650 lb. 
+ (+10.5) to (+17.3) at 1325 lb. or less 
+ Seaplane: 
+ (+14.2) to (+19.2) at 1732 lb. 
+ (+10.5) to (+19.2) at 1407 lb. or less 
+ Straight line variation between points given. 
+ (See NOTE 15 for optional CG Range)"
+CG Range,None
+Maximum Weight,"Landplane: 
+ 1650 lb. (See NOTE 15 for optional weight) 
+ Seaplane: 
+ 1732 lb."
+No of Seats,"2 (1 at +12, 1 at +42) 
+ 2 (1 at +11 to +14 with Item 404(n), 1 at +43 with Item 404(o) or (p))"
+Maximum Baggage,100 lbs. at +69
+Fuel Capacity,"39 gal. at +24.5 (Item 119) 
+ 36 gal. at +24.5 (Item 123(a)) 
+ (see NOTE 1 for Weight of Unusable fuel)"
+Oil Capacity,6 qt. at -44
+Movements,"Elevator 
+ Up 
+ 24o 
+ Down 
+ 24o 
+ Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 37.5o 
+ Ailerons 
+ Up 
+ 27.5o 
+ Down 
+ 19o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,"1 thru 722, 725, 723-70, 724-70, 726-70 thru 785-70, 786-71 thru 792-71, 
+ 794-71 thru 812-71, 793-72, 813-72 thru 888-72, 889-73 thru 984-73, 985-74 
+ thru 
+ 1059-74, 1060-75 thru 1125-75, 1126-76 thru 1180-76, 1181-77 thru 1223-77, 
+ 1224-78 thru 1278-78, 1279-79 thru 1328-79, 1329-80 thru 1352-80, 1353-84, 
+ 1355-95 and up."
+Required Equipment,"Landplane: 15(a), 102(e), 103(e) or (i), 117(d), 116 or 119 or 123(a), 201(d) or"
+Items,"(h) or (i) or (l), 202 
+ Seaplane: 
+ 15(a), 102(e), 103(e) or (i), 117(d), 116 or 119 or 123(a), 204(c), 205(a) 
+ or 205(d)."
+"XIX - Model 7GCAA, 2 PCLM (Normal or Acrobatic Category), Approved July 30, 1965 
+ For operation in the Acrobatic Category, see NOTES 2(b)(13) and 10. Model 7GCAA is generally 
+ similar to the 7ECA except for the installation of the Model 7GCB engine mount and engine, revised 
+ cowling and minor equipment and trim changes. See NOTE 15 concerning optional C.G. range and 
+ maximum weight",
+Engine,"Lycoming O-320-A2B or O-320-C2B or O-320-A2D 
+ (see Item 125 and 126 for optional engines)"
+Fuel,80/87 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2700 r.p.m. (150 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 120 m.p.h. (104 knots) True Ind. 
+ Glide or dive 
+ 162 m.p.h. (141 knots) True Ind."
+CG Range,"(+14.2) to (+18.2) at 1650 lb. 
+ (+10.5) to (+18.2) at 1325 lb. or less 
+ When performing acrobatic maneuvers, the C.G. range shall be limited to: 
+ (+14.2) to (+16.0) at 1650 lb. 
+ (+10.5) to (+16.0) at 1325 lb. or less 
+ Straight line variation between points given. 
+ (See NOTE 15 for optional CG Range)"
+CG Range,None
+Maximum Weight,1650 lb. (See NOTE 15 for optional weight)
+No of Seats,"2 (1 at +12, 1 at +42) 
+ 2 (1 at +11 to +14 with Item 404(n), 1 at +43 with Item 404(o) or (p))"
+Maximum Baggage,100 lbs. at +69
+Fuel Capacity,"39 gal. at +24.5 (Item 119) 
+ 36 gal. at +24.5 (Item 123(a)) 
+ (see NOTE 1 for Weight of Unusable fuel)"
+Oil Capacity,8 qt. at -36
+Movements,"Elevator 
+ Up 
+ 28o 
+ Down 
+ 24o 
+ (with Items 404(d) 
+ (e) installed) 
+ Up 
+ 24o 
+ Down 
+ 24o 
+ Elevator Trim Tab 
+ Up 
+ 17.5o Down 
+ 44o 
+ Ailerons 
+ Up 
+ 27.5o Down 
+ 19o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,"1 thru 198, 200 thru 204, 276, 205-70 thru 229-70, 199-71, 203-71, 231-72 thru 
+ 242-72, 244-72 thru 251-72, 243-73, 252-73 thru 275-73, 277-73 thru 279-73, 
+ 280-74 thru 304-74, 305-75 thru 323-75, 324-76 thru 334-76, 335-77 thru 
+ 348-77, 349-78 thru 370-78, 371-79 thru 389-79, 390-80 thru 396-80, 400-97 
+ and up."
+Required Equipment,"Items 16(a) or 20(a), 102(i) or (j), 103(f), (h) or (i), 117(e), 118(c), 119 or 
+ 123(a), 201(d) or (h) or (i) or (l), 202"
+"XX - Model 7GCBC, 2 PCL-SM (Normal or Acrobatic Category), Approved December 3, 1965 
+ Model 7GCBC is generally similar to the 7GCAA except for the installation of the Model 7GCB wings, 
+ wingstruts, and flap system. See Item 621 for applicable horizontal tail surfaces 
+ See NOTE 10 for Acrobatic Operation. 
+ See NOTE 13 for optional C. G. ranges and maximum weights.",
+Engine,"Lycoming O-320-A2B or O-320-C2B or O-320-A2D 
+ (see Items 122, 125, 126, and 127 for optional engines)"
+Fuel,80/87 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2700 r.p.m. (150 hp.) 
+ (See NOTE 11 for additional limitations)"
+Airspeed Limits,"Landplane: Level flight or climb 
+ 120 m.p.h. (104 knots) True Ind. 
+ Glide or dive 
+ 162 m.p.h. (141 knots) True Ind. 
+ Flaps extended 
+ 90 m.p.h. ( 78 knots) True Ind. 
+ Seaplane with Item 204(c) installed: 
+ Level flight or climb 
+ 114 m.p.h. ( 99 knots) CAS 
+ Glide or dive 
+ 137 m.p.h. (119 knots) CAS 
+ Flaps extended 
+ 90 m.p.h. ( 78 knots) CAS 
+ Seaplane with Item 204(d) installed: 
+ Level flight or climb 
+ 110 m.p.h. ( 92 knots) CAS 
+ Glide or dive 
+ 148 m.p.h. (128 knots) CAS 
+ Flaps extended 
+ 90 m.p.h. ( 78 knots) CAS"
+CG Range,"Landplane: (+14.2) to (+19.2) at 1650 lb. 
+ (+10.5) to (+19.2) at 1325 lb. or less 
+ When performing acrobatic maneuvers, the C.G. range shall be limited to: 
+ (+14.2) to (+16.3) at 1650 lb. 
+ (+10.5) to (+16.3) at 1350 lb. or less 
+ Seaplane with Item 204(c) installed:: 
+ (+14.8) to (+19.2) at 1732 lb. 
+ (+11.5) to (+19.2) at 1500 lb. or less 
+ Seaplane with Item 204(d) installed:: 
+ (+13.8) to (+18.4) at 1800 lb. 
+ (+11.5) to (+18.4) at 1590 lb. or less 
+ Skiplane with Item 203(k) installed:: 
+ (+14.2) to (+16.8) at 1650 lb. 
+ (+10.5) to (+16.8) at 1325 lb. or less 
+ Skiplane with Item 203(l) installed:: 
+ (+14.2) to (+19.2) at 1650 lb. 
+ (+10.5) to (+19.2) at 1325 lb. or less 
+ Straight line variation between points given. 
+ (See NOTE 13 for optional CG Range)"
+CG Range,None
+Maximum Weight,"Landplane - Skiplane: 
+ 1650 lb. (See NOTE 13 for optional weight) 
+ Seaplane with Item 204(c): 1732 lb. 
+ Seaplane with Item 204(d): 1800 lb."
+No of Seats,"2 (1 at +12, 1 at +42) 
+ 2 (1 at +11 to +14 with Item 404(n), 1 at +43 with Item 404(o) or (p))"
+Maximum Baggage,100 lbs. at +69
+Fuel Capacity,"39 gal. at +24.5 (Item 119) 
+ 36 gal. at +24.5 (Item 123(a)) 
+ (see NOTE 1 for Weight of Unusable fuel)"
+Oil Capacity,8 qt. at -36
+Control Surface,"Elevator 
+ Up 
+ 28o 
+ Down 
+ 24o"
+Movements,"with Item 404(d) and (e) 
+ Up 
+ 24o 
+ Down 
+ 24o 
+ Elevator Trim Tab 
+ Up 
+ 17.5o 
+ Down 
+ 44o 
+ Seaplane with Item 204(c) Up 
+ 12o 
+ Down 
+ 44o 
+ Ailerons 
+ Up 
+ 27.5o 
+ Down 
+ 19o 
+ Flaps 
+ Up 
+ 0o 
+ Down 
+ 35o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,"1 thru 201, 205, 207, 202-70, 203-70, 204-70, 206-70, 208-70 thru 294-70, 
+ 295-71 thru 318-71, 319-72 thru 330-72, 332-72 thru 416-72, 331-73, 417-73 
+ thru 603-73, 604-74 thru 773-74, 774-75 thru 886-75, 887-76 thru 956-76, 
+ 957-77 thru 1005-77, 1006-78 thru 1065-78, 1066-79 thru 1177-79, 1178-80 thru 
+ 1214-80, 1200-94 and up."
+Required Equipment,"Landplane: 16(a) or 20(a), 102(f) or (j), 103(f), (h) or (i), 117(e), 118(c), 119 or"
+Items,"123(a), 201(d) or (h) or (i) or (l), 202 
+ Seaplane: 
+ 16(a) or 18(a) or 19(a), 102(f) or (j), 103(f), (h) or (i), 117(e), 
+ 118(c), 119 or 123(a), 204(c) or (d), 205(d). 
+ Skiplane: 
+ 16(a) or 20(a), 102(f) or (j), 103(f), (h) or (i), 117(e), 118(c), 119 or 
+ 123(a), 203(k) or (l)."
+"XXI - Model 7KCAB, 2 PCLM (Normal or Acrobatic Category), Approved December 21, 1966 
+ For operation in the Acrobatic Category, see NOTES 2(b)(15) and 10. Model 7KCAB is generally 
+ similar to the 7GCAA except for the installation of fuel injected engine, revised fuel system and 
+ modified oil system for limited inverted operation. See Item 621 for applicable horizontal tail 
+ surfaces 
+ See NOTE 15 concerning optional C.G. range and maximum weight.",
+Engine,"Lycoming IO-320-E2A or IO-320-E2B or AEIO-320-E2B 
+ (IO-320-E2A and -E2B must be modified per STC SE7CE)"
+Fuel,80/87 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2700 r.p.m. (150 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 120 m.p.h. (104 knots) True Ind. 
+ Glide or dive 
+ 162 m.p.h. (141 knots) True Ind."
+CG Range,"(+14.2) to (+18.2) at 1650 lb. 
+ (+10.5) to (+18.2) at 1325 lb. or less 
+ When performing acrobatic maneuvers, the C.G. range shall be limited to: 
+ (+14.2) to (+16.0) at 1650 lb. 
+ (+10.5) to (+16.0) at 1325 lb. or less 
+ Straight line variation between points given. 
+ (See NOTE 15 for optional CG Range)"
+CG Range,None
+Maximum Weight,1650 lb. (See NOTE 15 for optional weight)
+No of Seats,"2 (1 at +12, 1 at +42) 
+ 2 (1 at +11 to +14 with Item 404(n), 1 at +43 with Item 404(o) or (p))"
+Maximum Baggage,100 lbs. at +69
+Fuel Capacity,"39 gal. at +24.5 (Item 119) 
+ 36 gal. at +24.5 (Item 123(a)) (see NOTE 1 for Weight of Unusable fuel)"
+Oil Capacity,8 qt. at -36
+Control Surface,"Elevator 
+ Up 
+ 28o 
+ Down 
+ 24o"
+Movements,"Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 44o 
+ Ailerons 
+ Up 
+ 27.5o 
+ Down 
+ 19o 
+ Rudder 
+ Right 25o 
+ Left 
+ 25o"
+Serial Nos Eligible,"1 thru 208, 210 thru 226, 270, 271, 209-70, 227-70 thru 257-70, 266-70 thru 
+ 269-70, 272-70 thru 287-72, 258-71 thru 265-71, 288-71 thru 290-71, 291-72 
+ thru 335-72, 336-73 thru 404-73, 405-74 thru 486-74, 487-75 thru 550-75, 
+ 551-76 thru 597-76, 598-77 thru 617-77."
+Required Equipment,"Items 16(a) or 20(a), 102(h) or (k), 103(f), (h) or (i), 117(g), 118(d), 119 or 
+ 123(a), 201(d) or (h) or (i) or (l), 202"
+"XXII - Model 7ACA, 2 PCLM (Normal Category), Approved April 30, 1971",
+Engine,Franklin 2A-120A or 2A-120B
+Fuel,100/120 minimum grade aviation gasoline
+Engine Limits,"For all operations, 3200 r.p.m. (60 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 95 m.p.h. (83 knots) True Ind. 
+ Glide or dive 
+ 129 m.p.h. (112 knots) True Ind."
+Propeller Limits,See Item 21 - Propeller and Propeller Accessories
+wood propeller,"Diameter: not over 60 in., not under 58.5 in."
+CG Range,(+10.9) to (+21.5)
+CG Range,None
+Maximum Weight,1220 lb.
+No of Seats,"2 (1 at +11.5, 1 at +42)"
+Maximum Baggage,40 lbs. at +64. See NOTE 2(a)(4) for baggage placard.
+Fuel Capacity,13 gal. at -15.
+Oil Capacity,2.5 qt. at -46.
+Control Surface,"Elevator 
+ Up 
+ 25o 
+ Down 
+ 15.5o"
+Movements,"Elevator Trim Tab 
+ Up 
+ 20o 
+ Down 
+ 34.5o 
+ Ailerons 
+ Up 
+ 28.5o 
+ Down 
+ 18o 
+ Rudder 
+ Right 24o 
+ Left 
+ 25o"
+Serial Nos Eligible,"1-71 thru 23-71, 25-71 thru 28-71, 24-72, 29-72 thru 69-72, 70-73 and up."
+Required Equipment,"Items 21(a) or (b), 201(j), (k) or (m), 202(b) or (c), 102(i), 103(g)"
+"Specifications Pertinent to All Models 
+ Datum 
+ Wing leading edge. 
+ Leveling Means 
+ Any portion of the cabin floor to level laterally and longitudinally. (Also see NOTE 
+ 6) 
+ Certification Basis 
+ 1) Part 4(a) of the Civil Air Regulations effective as amended to April 7, 1950, 
+ except paragraph 4a.532(m) (for all models except 7GCBA). 
+ 2) Paragraphs 23.25 and 23.959 of the Federal Aviation Regulations dated 
+ February 1, 1965 for Models 7ECA, 7GCAA, 7GCBC, and 7KCAB. 
+ 3) Part 8.10(b) of the Civil Air Regulations effective October 11, 1950 (Model 
+ 7GCBA); and FAR 36, appendix G for the Models 7ECA (with Lycoming O-235-K2C 
+ engine), 7GCAA, 7GCBC (S/N 1198-80 and up), and 7KCAB. 
+ 4) In addition to the Part 4a certification basis contained in first paragraph above, 
+ the model 7EC certification basis for serial numbers 1000-2006 & up includes the 
+ additional regulations below: 
+ FAR 23.961; 23.971; 23.1351 as amended by Amendment 23-6. FAR 23.21; 23.23; 
+ 23.25; 23.29; 23.45; 23.49; 23.51; 23.53; 23.63; 23.65; 23.69; 23.71; 23.73; 
+ 23.75; 23.77; 23.141; 23.143; 23.145; 23.147; 23.153; 23.155; 23.157; 23.161; 
+ 23.171; 23.173, 23.175; 23.177; 23.179; 23.181; 23.201; 23.203; 23.207; 23.221; 
+ 23.231; 23.233; 23.235; 23.251; 23.477; 23.479; 23.481; 23.483; 23.485; 23.493; 
+ 23.497; 23.901; 23.903; 23.905; 23.907; 23.925; 23.943; 23.951; 23.955; 23.957; 
+ 23.959; 23.963; 23.965; 23.967; 23.969; 23.973; 23.975; 23.977; 23.993; 23.995, 
+ 23.997; 23.999; 23.1041; 23.1043; 23.1047; 23.1123; 23.1301; 23.1303; 23.1305; 
+ 23.1321; 23.1323; 23.1325; 23.1327; 23.1337; 23.1353; 23.1357; 23.1359; 
+ 23.1361; 23.1365; 23.1367; 23.1381; 23.1385; 23.1387; 23.1389; 23.1391; 
+ 23.1393; 23.1395; 23.1397; 23.1401; 23.1431; 23.1529; 23.1581; 23.1583; 
+ 23.1585; 23.1587; 23.1589 as amended by Amendment 23-55. FAR 36 dated 
+ December 1, 1969, as amended by amendments 36-1 through 36-28. (for model 
+ 7EC S/N 1000-2006 & up) 
+ 5) In addition to the Part 4a certification basis contained in the first paragraph 
+ above and the Part 23 / Part 36 certification basis contained in the fourth 
+ papragraph above; the model 7EC certification basis for those airplanes equipped 
+ with Teledyne Continental Motors model O-200-D engines; serial numbers 1029- 
+ 2009 & up includes the additional regulations below: 
+ FAR 23.1501; 23.1521; 23.1541; 23.1549; 23.1583 as amended by Amendment 23- 
+ 59. (For model 7EC equipped with TCM model O-200-D engine S/N 1029-2009 & 
+ up) 
+ 6) The certification basis for model 7GCBC, for acrobatic maneuvers, effective 
+ with serial number 1360 and up, and with engine option item 126; includes the 
+ certification basis contained in first two paragraphs above. In addition, the 
+ certification basis includes the regulations below: 
+ FAR 23.321, 23.331; 23.335, 23.369, 23.391, 23.395, 23.397, 23.399, 23.405, 
+ 23.407, 23.409, 23.415, 23.421, 23.423, 23.425, 23.427, 23.411, 23.443, 23.445, 
+ 23.457, 23.471, 23.473, 23.477, 23.479, 23.481, 23.483, 23.485, 23.493, 23.497 
+ as amended by Amendment 23-6. FAR 23.21; 23.23; 23.25; 23.29; 23.45; 23.49; 
+ 23.51; 23.53; 23.63; 23.65; 23.69; 23.71; 23.73; 23.75; 23.77; 23.141; 23.143; 
+ 23.145; 23.147; 23.153; 23.155; 23.157; 23.161; 23.171; 23.173, 23.175; 23.177; 
+ 23.179; 23.181; 23.201; 23.203; 23.207; 23.221; 23.231; 23.233; 23.235; 23.251; 
+ 23.925; 23.1041; 23.1043; 23.1047; 23.1529; 23.1581; 23.1583; 23.1585; 23.1587; 
+ 23.1589 as amended by Amendment 23-55. FAR 36 dated December 1, 1969, as 
+ amended by amendments 36-1 through 36-28. 
+ 7) The certification basis for model 7GCBC, in the Normal category, effective with 
+ serial number 1360 and up, and with engine options item 126 and 127; includes 
+ the certification basis in the paragraph above with the exception of regulations 
+ 4a.75, 4a.76, and 4a.79 through 4a.93. In addition, the certification basis 
+ includes regulations: FAR 23.333, 23.337, 23.341, 23.345, 23.347, 23.349, 23.351 
+ as amended by amendment 23-6. 
+ Approved Type Certificate No. 759 issued October 18, 1945. 
+ Production Basis 
+ American Champion Aircraft Production Limitation Record 333CE, 
+ dated July 21, 1997. Production authorized Aug. 30, 1994 (7GCBC), 
+ Dec. 26, 1995 (7ECA), July 21, 1997 (7GCAA), and March 26, 2007 (7EC S/N 
+ 1000-2006 & up) 
+ Equipment 
+ A plus (+) or minus (-) sign preceding the weight of an optional item indicates the 
+ net weight change when that item is installed. Approval for the installation of all 
+ items of equipment listed herein has been obtained by the aircraft manufacturer 
+ except those items preceded by an asterisk (*). This symbol denotes that 
+ approval has been obtained by someone other than the aircraft manufacturer. An 
+ item so marked may not have been manufactured under an FAA monitored or 
+ approved quality control system; and, therefore, conformity must be determined if 
+ the item is not identified by a Form FAA-186, PMA, or other evidence of FAA 
+ production approval. 
+ Propeller and Propeller Accessories 
+ 1 
+ Wood Propellers  fixed pitch 
+ 10 lb. 
+ Models 7AC 7BCM 7CCM 7DC 
+ (-52) 
+ Models 7EC7FC 7JC 
+ (-54) 
+ a 
+ Sensenich 72C-44 (Models 7AC and S7AC) 
+ Sensenich 72CK (Model 7BCM) 
+ Sensenich 72CK-44, -45, -46 (Models 7DC, S7DC) 
+ Sensenich 72GK-48, -49, -50 (Models 7CCM, 7EC, S7CCM, 7FC, 7JC) 
+ b 
+ Flottorp 72A50, 52 (Models 7CCM, S7CCM, 7EC, 7FC, 7JC) 
+ c 
+ Any other approved fixed pitch wood propeller which is eligible for the engine 
+ power and speed and which meets the diameter and static r.p.m. limits 
+ specified under ""Propeller Limits"" for the pertinent model. 
+ 2 
+ McCauley 1A90 with following limits 
+ 26 lb. 
+ (-52) 
+ a 
+ (7AC and S7AC) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2250 (for 7AC), 2200 (for S7AC), not under 2100 (for 7AC or S7AC). 
+ No additional tolerance permitted. 
+ Diameter: not over 71 in., not under 69.5 in. 
+ b 
+ (7BCM only) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2450, not under 2350. No additional tolerance permitted. 
+ Diameter: not over 71 in., not under 69.5 in. 
+ c 
+ (7DC only) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2465, not under 2300. No additional tolerance permitted. 
+ Diameter: not over 71 in., not under 69.5 in. 
+ d 
+ (S7DC only) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2440, not under 2290. No additional tolerance permitted. 
+ Diameter: not over 74 in., not under 69.5 in. 
+ 3 
+ Omitted 
+ 4 
+ Spinner 
+ a 
+ (Aeronca dwg. 4-710 and 4-711) Models 7EC and 7FC 
+ 1 lb. 
+ (-61) 
+ 7AC, 7BCM, 7CCM, 7DC 
+ 1 lb. 
+ (-49) 
+ b 
+ (Champion dwg. 4-10012) 7EC and 7FC 
+ 1 lb. 
+ (-61) 
+ c 
+ (Champion dwg. 4-1028) 7EC, 7FC, 7JC 
+ 2 lb. 
+ (-57) 
+ 7GC, 7HC, 7GCA, 7GCB, 7KC 
+ 2 lb. 
+ (-59) 
+ d 
+ (Champion dwg. 7-1252) 7ECA (with CMC O-200-A engine) 
+ 4 lb. 
+ (-61) 
+ e 
+ (Champion dwg. 3-1397) 7GCAA, 7GCBC, 7KCAB 
+ 4 lb. 
+ (-61) 
+ f 
+ (Champion dwg. 3-1408) 7ECA, 7GCBC (with Lycoming O-235-C1 engine) 
+ 4 lb. 
+ (-61) 
+ g 
+ (Champion dwg. 3-1618) 7ECA (with Lycoming O-235-K2C engine) 
+ 4 lb. 
+ (-61) 
+ 5. 
+ Hartzell ground adjustable propeller Hb Model HA-12U 
+ 18 lb. 
+ (-52) 
+ Blades 7414 to 6814 or 7214M to 6814M. Eligible at diameter and static r.p.m. 
+ limits shown for fixed pitch wood. 
+ 6 
+ McCauley 1B90CM with following limitations 
+ 21 lb. 
+ Models 7AC 7BCM 7CCM 7DC 
+ (-52) 
+ Models 7EC7FC 7JC 
+ (-54) 
+ a 
+ (Models 7CCM, S7CCM) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2410, not under 2150. No additional tolerance permitted. 
+ Diameter: not over 73 in., not under 71.5 in. 
+ b 
+ (Models 7EC, 7FC, 7JC) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2350, not under 2150. No additional tolerance permitted. 
+ Diameter: not over 73 in., not under 71.5 in. 
+ c 
+ (Model S7EC) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2400, not under 2300. No additional tolerance permitted. 
+ Diameter: not over 73 in., not under 71.5 in. 
+ d 
+ (Model 7AC) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2250, not under 2100. 
+ Diameter: not over 74 in., not under 72.5 in. 
+ e 
+ (Models 7BCM, 7DC) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2450, not under 2200. 
+ Diameter: not over 71 in., not under 69.5 in. 
+ 31 lb. 
+ (-52) 
+ 7 
+ Koppers Aeromatic F2000072D 
+ Parts List Assembly No. 4324 revised February 21, 1949 (eligible on Models 7AC, 
+ S7AC with A-65 engine only). Low pitch setting at 24 in. sta.: 13.5o 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2300, not under 2200. No additional tolerance permitted. 
+ Diameter: not over 72 in., not under 70.5 in. 
+ When this propeller is installed, installation and operation must be accomplished in 
+ accordance with Kopper's ""Installation and Operating Limitations No. 22A."" 
+ 8 
+ Sensenich M76AK-2 metal propeller with following limitations: 
+ 23 lb. 
+ Models 7AC 7BCM 7CCM 7DC 
+ (-52) 
+ Models 7EC7FC 7JC 
+ (-54) 
+ a 
+ (Models 7CCM, S7CCM) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2410, not under 2150. No additional tolerance permitted. 
+ Diameter: not over 74 in., not under 72.5 in. 
+ b 
+ (Models 7EC, 7FC, 7JC) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2350, not under 2150. No additional tolerance permitted. 
+ Diameter: not over 74 in., not under 72.5 in. 
+ c 
+ (Model S7EC) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2400, not under 2300. No additional tolerance permitted. 
+ Diameter: not over 74 in., not under 72.5 in. 
+ d 
+ (Models 7AC, 7BCM, 7DC) 
+ Static r.p.m. and diameter limits same as for fixed pitch wood propeller under 
+ applicable. 
+ 29 lb. 
+ (-52) 
+ 9 
+ (Model 7AC only). Pitch at 28.5 in. sta.: low 12.5o, high 19.0o 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2250, not under 2150. No additional tolerance permitted. 
+ Diameter: not over 72 in., not under 70.5 in. 
+ 10 
+ Senenich fixed pitch metal 
+ 21 lb. 
+ (-52) 
+ a 
+ M74CK (Models 7AC, S7AC) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2250, not under 1960. 
+ Diameter: not over 74 in., not under 72 in. 
+ b 
+ M74CK-2 (Model 7BCM) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2450, not under 2200. 
+ Diameter: not over 72 in., not under 70 in. 
+ 11 
+ Sensenich M74DM 
+ 30 lb. 
+ (-57) 
+ a 
+ Models 7GC, 7HC 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2500, not under 2300. No additional tolerance permitted. 
+ Diameter: not over 74 in., not under 72.5 in. 
+ b 
+ Models 7GCA, 7GCB, 7GCBA, 7KC 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2610, not under 2300. No additional tolerance permitted. 
+ Diameter: not over 74 in., not under 72.5 in. 
+ (8.00-6 tires required when using this propeller on 7GCBA) 
+ 12 
+ McCauley 1A170GM74 
+ 33 lb. 
+ (-57) 
+ a 
+ Models 7GC, 7HC, 7GCA, 7GCB, 7GCBA, 7KC 
+ Static r.p.m. at maximum permissible throttle setting: 
+ (No additional tolerance permitted). 
+ (Models 7GC, 7HC) not over 2500, not under 2300 
+ (Models 7GCA, 7GCB, 7GCBA) not over 2610, not under 2300 
+ (Model 7KC) not over 2600, not under 2125 
+ Diameter: not over 74 in., not under 72.5 in. 
+ (8.00-6 tires required when using this propeller on 7GCBA) 
+ 13 
+ McCauley 1A170GM76 
+ 34 lb. 
+ (-57) 
+ a 
+ Models 7GC, 7HC, 7GCA 
+ Static r.p.m. at maximum permissible throttle setting: 
+ (No additional tolerance permitted). 
+ (Models 7GC, 7HC) not over 2500, not under 2300 
+ (Model 7GCA) not over 2610, not under 2300 
+ Diameter: not over 76 in., not under 74.5 in. 
+ (7.00-6 tires required when using this propeller on 7GC and 7GCA) 
+ 14 
+ McCauley 1C172MCM74 
+ 33 lb. 
+ (-57) 
+ a 
+ Models 7GCB, 7GCBA, 7KC 
+ Static r.p.m. at maximum permissible throttle setting: 
+ (No additional tolerance permitted). 
+ (Models 7GCB, 7GCBA) not over 2610, not under 2300 
+ (Model 7KC) not over 2600, not under 2125 
+ Diameter: not over 74 in., not under 72.5 in. 
+ (8.00-6 tires required when using this propeller on 7GCBA) 
+ 15 
+ McCauley 1A100ACM69 
+ 24 lb. 
+ (-58) 
+ a 
+ Models 7ECA with Continental O-200-A engine 
+ Static r.p.m. at maximum permissible throttle setting: 
+ (No additional tolerance permitted). 
+ Not over 2600, not under 2400 
+ Diameter: not over 69 in., not under 67.5 in. 
+ 16 
+ McCauley 1C172AGM72 
+ 35 lb. 
+ (-58) 
+ a 
+ Models 7GCAA, 7GCBC, 7KCAB, S7GCBC 
+ Static r.p.m. at maximum permissible throttle setting: 
+ (No additional tolerance permitted). 
+ (Models 7GCAA, 7GCBC) not over 2640, not under 2300 
+ (Model 7KCAB) not over 2540, not under 2300 
+ (Model S7GCBC ith Item 204(d) installed) not over 2550, not under 2450 
+ (Model 7KCAB with Bendix fuel injector flow setting #2524723-1) not over 
+ 2500, not under 2300 
+ Diameter: not over 72 in., not under 70.5 in. 
+ 17 
+ McCauley 1C90ALM72 or McCauley 1C90CLM72 
+ 28 lb. 
+ (-58) 
+ a 
+ Models 7ECA and 7GCBC with Lycoming O-235-C1 engine 
+ Static r.p.m. at maximum permissible throttle setting: 
+ (No additional tolerance permitted). 
+ Not over 2425, not under 2225 
+ Diameter: not over 72 in., not under 70.5 in. 
+ 18 
+ McCauley 1A175GMA80 
+ 33 lb. 
+ (-58) 
+ a 
+ Model S7GCBC with Item 204(d) installed and O-320 Lycoming engine 
+ Static r.p.m. at maximum permissible throttle setting: 
+ (No additional tolerance permitted). 
+ Not over 2560, not under 2460 
+ Diameter: not over 80 in., not under 78.5 in. 
+ 19 
+ McCauley 1A172AGM76 
+ 35 lb. 
+ (-58) 
+ a 
+ Model S7GCBC with Item 204(d) installed and O-320 Lycoming engine 
+ Static r.p.m. at maximum permissible throttle setting: 
+ (No additional tolerance permitted). 
+ Not over 2550, not under 2450 
+ Diameter: not over 76 in., not under 74.5 in. 
+ 20 
+ Sensenich 74DM6S81 
+ 37 lb. 
+ (-58) 
+ a 
+ Models 7ECA, 7GCAA, 7GCBC, 7KCAB 
+ Static r.p.m. at maximum permissible throttle setting: 
+ (No additional tolerance permitted). 
+ (Model 7GCBC with Item 204(d) installed and with O-320 Lycoming engine) not 
+ over 2550, not under 2450 
+ Diameter: not over 74 in., not under 72 in. 
+ (Models 7ECA, 7GCAA, 7GCBC, 7KCAB) eligible for use only on aircraft 
+ equipped with narrow lower end section steel spring gear P/N 7-1404, 
+ extended steel gear P/N 4-2038, or aluminum gear P/N 4-2035. 
+ (Model 7ECA) eligible only for aircraft equipped with Item 125 
+ (Models 7ECA, 7GCAA, 7GCBC) not over 2640, not under 2300 
+ (Model 7KCAB) not over 2540, not under 2300 
+ (Model 7KCAB with Bendix fuel injector flow setting #2524723-1) not over 
+ 2500, not under 2300 
+ Diameter: not over 73 in., not under 72 in. 
+ 21 
+ Sensenich W60GM Wood Propeller 
+ 10 lb. 
+ (-58) 
+ a 
+ Model 7ACA with Franklin 2A-120B engine 
+ Static r.p.m. at maximum permissible throttle setting: 
+ (No additional tolerance permitted). 
+ Not over 3050, not under 2750 
+ Diameter: not over 60 in., not under 58.5 in. 
+ b 
+ Model 7ACA with Franklin 2A-120A engine 
+ Static r.p.m. at maximum permissible throttle setting: 
+ (No additional tolerance permitted). 
+ Not over 3050, not under 2850 
+ Diameter: not over 60 in., not under 58.5 in. 
+ 22 
+ Sensenich 72CKS80 
+ 28 lb. 
+ (-58) 
+ a 
+ Models 7ECA with Lycoming O-235-K2C engine 
+ Static r.p.m. at maximum permissible throttle setting: 
+ (No additional tolerance permitted). 
+ Not over 2530, not under 2215 
+ Diameter: not over 72 in., not under 70.0 in. 
+ 23 
+ Sensenich 76EM8S80 
+ 41 lb. 
+ (-58) 
+ a 
+ Model 7GCBC with Superior O-360-A3A2 or Lycoming O-360-C4P engine 
+ Static r.p.m. at maximum permissible throttle setting: 
+ (No additional tolerance permitted). 
+ Not over 2550, not under 2350 
+ Diameter: not over 76.25 in., not under 76 in. 
+ 24 
+ MT 188 R 1354G 
+ 18 lb. 
+ (-58) 
+ a 
+ Model 7GCAA with O-360 Superior engine 
+ Static r.p.m. at maximum permissible throttle setting: 
+ (No additional tolerance permitted). 
+ Not over 2500, not under 2300 
+ Diameter: not over 74 in., ±.2 in. 
+ 25 
+ Sensenich W69EK48 
+ 10 lb. 
+ (-54) 
+ a 
+ Model 7EC with O-200-A or O-200-D Continental engine 
+ Static r.p.m. at maximum permissible throttle setting: 
+ (No additional tolerance permitted). 
+ Not over 2500, not under 2300 
+ Diameter: not over 69 in., ±.1 in. 
+ Engine and Engine Accessories - Fuel and Oil Systems 
+ 101 
+ Carburetor air heater (7AC, S7AC, 7DC and S7DC) 
+ 2 lb. 
+ (-42) 
+ 102 
+ Carburetor or injector air scoop 
+ a 
+ Models 7AC, 7BCM, 7CCM, 7DC (Aeronca dwg. 4-601) 
+ 2 lb. 
+ (-47) 
+ b 
+ Models 7EC, 7FC, 7JC (Champion dwg. 4-877-3 with Marvel - Schebler 
+ carburetor, Champion dwg. 4-877-4) 
+ c 
+ Models 7GC, 7GCA, and 7HC (Champion dwg. 4-1031) 
+ 3 lb. 
+ (-37) 
+ d 
+ Models 7GC, 7GCA, 7GCB, 7GCBA, 7HC, 7KC (Champion dwg. 4-1099) 
+ 4 lb. 
+ (-44) 
+ e 
+ Model 7ECA with Continental O-200-A engine (Champion dwg. 4-1377) 
+ 1 lb. 
+ (-45) 
+ f 
+ Models 7GCAA, 7GCBC (Champion dwg. 4-1637) 
+ 1 lb. 
+ (-33) 
+ g 
+ Models 7ECA and 7GCBC with Lycoming O-235-C1 engine (Champion dwg. 
+ 1 lb. 
+ (-33) 
+ 4-1435) 
+ h 
+ Model 7KCAB (Champion dwg. 4-1454) 
+ 1 lb. 
+ (-33) 
+ i 
+ Model 7ACA (Champion dwg. 4-1563) 
+ 1 lb. 
+ (-48) 
+ j 
+ Models 7ECA, 7GCAA, 7GCBC (Champion dwg. 4-1637 box and 3-1535 cover) 
+ 1 lb. 
+ (-33) 
+ k 
+ Model 7KCAB (Champion dwg. 4-1637 box and 3-1544 cover) 
+ 1 lb. 
+ (-33) 
+ l 
+ Models 7GCAA, 7GCBC (Champion dwg. 4-1637-1 box and 3-1562 cover) 
+ 1 lb. 
+ (-33) 
+ 103 
+ Carburetor or Injector Air Filter 
+ a 
+ Models 7AC, 7BCM, 7CCM, 7DC (Aeronca Dwg. 2-849) 
+ 1 lb. 
+ (-47) 
+ b 
+ Models 7EC, 7FC, 7JC (Aeronca Dwg. 2-849) 
+ 1 lb. 
+ (-49) 
+ c 
+ Models 7GC, 7GCA, and 7HC (P/N 120086 Air Maze) 
+ 1 lb. 
+ (-46) 
+ d 
+ Models 7GC, 7GCA, 7GCB, 7GCBA, 7HC, 7KC (Fram P/N CA161PL) 
+ 2 lb. 
+ (-45) 
+ e 
+ Model 7ECA with Continental O-200-A engine (Air Maze P/N 13203) 
+ 1 lb. 
+ (-53) 
+ f 
+ Models 7ECA, 7GCBC, 7GCAA, 7KCAB (Fram P/N CA121PL or AC P/N 
+ 1 lb. 
+ (-37) 
+ 6486786 or 5648075) 
+ g 
+ Model 7ACA (Air Maze P/N 13203) 
+ 1 lb. 
+ (-52) 
+ h 
+ Models 7ECA, 7GCAA, 7GCBC, 7KCAB (Donaldson P/N P10-4145) 
+ 1 lb. 
+ (-45) 
+ i 
+ Models 7ECA, 7GCAA, 7GCBC, 7KCAB (Brackett P/N BA-8110) 
+ 1 lb. 
+ (-45) 
+ 104 
+ McDowell starter Aeronca dwg S7 
+ 9 lb. 
+ (-50) 
+ 105 
+ Hanlon and Wilson mufflers and heaters 
+ a 
+ Models 7AC, 7BCM, 7CCM, and 7DC (dwg. 7-557) 
+ 13 lb. 
+ (-40) 
+ Note: Weight of exhaust stack removed to permit this installation, 4 lb., Model 
+ 7AC only. 
+ b 
+ Models 7EC, 7FC, 7JC (dwg. 7-1056) 
+ 13 lb. 
+ (-42) 
+ 106 
+ Auxiliary fuel tank (5.5 gal. capacity) 
+ a 
+ Models 7AC, S7AC (Aeronca dwg. 7-565A) 
+ 11 lb. 
+ (+58) 
+ b 
+ Models 7AC, S7AC, 7BCM, 7CCM, S7CCM, 7DC, S7DC, 7EC, S7EC (dwg. 
+ 7-1001, 7-796) 
+ 8 lb. 
+ (+19) 
+ (weight per tank) 
+ Note: Left and right tanks eligible. When two tanks are installed, placard 
+ (dwg. 1-3510) is required. 
+ 107 
+ Exhaust muffler, Ryan Aeronautical Co. Dwg. 54209 (7AC, S7AC) 
+ 2 lb. 
+ (-40) 
+ 108 
+ Oil filter - Fram PB-5, Kit No. 510, Fram Installation Dwg. 61522 or 62399. Weight 
+ 4 lb. 
+ (-26) 
+ includes 1 qt. of oil. (Eligible on all 7 series aircraft.) 
+ 109 
+ Carburetor restricted air filter assembly, Champion dwg. 2-957 
+ 1 lb. 
+ (-47) 
+ a 
+ Models 7CCM, 7DC 
+ (-49) 
+ Model 7EC 
+ Note: 2-957 restricted filter assembly required on Model 7EC with auxiliary 
+ wing tank fuel system installed. 
+ b 
+ Unrestricted air filter assembly ( Champion dwg. 2-849) (Used with 7-10002 
+ 1 lb. 
+ (-49) 
+ fuel system. See item 116) Models 7EC, 7FC, 7JC 
+ 110 
+ Injector airscoop and filter assembly for injector type engine 
+ 4 lb. 
+ (-47) 
+ 111 
+ Starters 
+ a 
+ Delco-Remy No. 1109656, 12V, Models 7EC, 7FC, 7JC 
+ 16 lb. 
+ (-28) 
+ 18 lb. 
+ (-46) 
+ b 
+ Delco-Remy No. 1109657 starter and No. DR1464 starter solenoid. Models 
+ 7ECA (with Lycoming O-235-C1 engine), 7GC, 7GCA, 7GCAA, 7GCB, 7GCBA, 
+ 7GCBC, 7HC, 7KC, 7KCAB 
+ c 
+ Deleted September 12, 1961 (included in Items 111(b) and 308(d)). 
+ d 
+ Delco-Remy No. 1109656, 12V, Model 7ECA with Continental O-200-A engine. 
+ 16 lb. 
+ (-32) 
+ e 
+ Prestolite P/N MZ-4204, Models 7ECA (with Lycoming O-235-C1 or O-235-K2C 
+ 18 lb. 
+ (-46) 
+ engine), 7GCAA, 7GCBC, 7KCAB 
+ f 
+ Prestolite P/N MZ-4203, Model 7ACA (with Franklin 2A-120A engine), 
+ 15 lb. 
+ (-38) 
+ g 
+ Sky-Tec P/N 149-12LS, Models 7GCAA, 7GCBC, 7KCAB 
+ 10 lb. 
+ (-46) 
+ h 
+ Sky-Tec P/N 122-12PM, Models 7ECA (with Lycoming O-235 engine) 
+ 10 lb. 
+ (-46) 
+ i 
+ Teledyne Continental P/N 655551, Model 7EC 
+ 11 lb. 
+ (-31) 
+ (with Continental O-200-A or O-200D) 
+ 112. 
+ Oil capaity calibration plate installed on firewall for Model S7EC (Aeronca dwg. 
+ No wt. change 
+ 13517 
+ *113. 
+ Davis exhaust silencer Model D-65-2 installed per Davis Silencer Co. dwg. 650 
+ 3 lb. 
+ (-39) 
+ (7AC, S7AC when Items 105 or 107 are not installed). 
+ 114 
+ Wright winter shutters, installed per Wright Instln, Instructions No. 1 dated 
+ 2 lb. 
+ (-26) 
+ 12-24-49, issued by Wright Flying Service, Williston, ND 
+ 115 
+ Lycoming O-235-C and -C1 engines eligible when installed per STC SA3-372. 
+ Engine and propeller combinations and limits as specified on STC and addendum 
+ pages, as amended 27 November 1970 or later amendments. 
+ 116. 
+ 26 Gallon Fuel System. Champion Instln. dwg. 7-1102 and 7-10002, Models 7FC, 
+ 30 lb. 
+ (+20) 
+ 7JC and 7ECA. (Models eligible when installed per Champion Kit 192: 7A, 7B, 7C, 
+ 7D, 7E) Placard (Champion dwg. 1-8825) required on Model 7A. 
+ 117 
+ a 
+ Models 7EC, 7FC, 7JC (Champion dwg. 4-1013) 
+ 1 lb. 
+ (-5) 
+ b 
+ Models 7GC, 7HC, (Champion dwg. 7-1088) 
+ 1 lb. 
+ (-10) 
+ c 
+ Models 7GCA, 7GCB, 7GCBA, 7KC (Champion dwg. 7-1114) 
+ 1 lb. 
+ (-10) 
+ d 
+ Model 7ECA with CMC O-200-A engine (Champion dwg. 7-1252) 
+ 1 lb. 
+ (-22) 
+ e 
+ Models 7GCBC (with Lycoming O-320 engine), 7GCAA (Champion dwg. 7-1289) 
+ 1 lb. 
+ (-10) 
+ f 
+ Models 7GCBC (with Lycoming O-235-C1 engine), 7ECA (Champion dwg. 
+ 1 lb. 
+ (-10) 
+ 7-1300) 
+ g 
+ Model 7KCAB (Champion instln. dwg. 7-1302) 
+ 1 lb. 
+ (-10) 
+ h 
+ Model 7ACA (Champion instln. dwg. 7-1445) 
+ 1 lb. 
+ (-15) 
+ i 
+ Models 7ECA (with Lycoming O-235-K2C engine), (Champion Installation dwg. 
+ 1 lb. 
+ (-10) 
+ 7-1530) 
+ j 
+ Modesl 7GCAA, 7GCBC (with Superior O-360-A3A2 engine), (Champion 
+ 1 lb. 
+ (-10) 
+ Installation dwg. 7-1581) 
+ 118 
+ Oil Cooler 
+ a 
+ Models 7GC, 7GCA, 7HC (Champion P/N 3-1086-1) 
+ 8 lb. 
+ (-26) 
+ b 
+ Models 7GC, 7GCA, 7GCB, 7GCBA, 7HC, 7KC (Champion P/N 3-1114-1) 
+ 4 lb. 
+ (-28) 
+ c 
+ Models 7GCAA, 7GCBC (with Lycoming O-320 engine) (Champion Instln. dwg. 
+ 3 lb. 
+ (-29) 
+ 7-1289) 
+ d 
+ Models 7KCAB (Champion Instln. dwg. 7-1302) 
+ 3 lb. 
+ (-29) 
+ e 
+ Models 7ECA (with Lycoming O-235-K2C engine) (Champion Instalation dwg. 
+ 3 lb. 
+ (-29) 
+ 7-1530) 
+ f 
+ Model 7EC (with TCM O-200-D) (Champion Installation dwg. 7-1612) 
+ 3 lb. 
+ (-33) 
+ 119 
+ 39 Gallon Fuel System 
+ (+20) 
+ 32 lb. 
+ Models 7ECA, 7GC, 7GCA, 7GCAA, 7GCB, 7GCBA, 7GCBC, 7HC, 7KC 
+ Champion instln dwg 71099 71102 
+ (+20) 
+ 42 lb. 
+ Model 7KCAB (Champion instln. dwg. 7-1099, 7-1314) 
+ (+19) 
+ 40 lb. 
+ Models 7ECA, 7GCAA, 7GCBC, 7KCAB (Champion instln. dwg. 7-1328) 
+ 120 
+ Exhaust mufflers and heaters 
+ a 
+ For use with Item 102(c) carburetor air scoop (Champion instln. dwg. 7-1086) 
+ 15 lb. 
+ (-36) 
+ Models 7GC, 7GCA, 7HC 
+ b 
+ For use with Item 102(d) carburetor air scoop (Champion instln. dwg. 7-1133) 
+ 15 lb. 
+ (-36) 
+ Models 7GC, 7GCA, 7GCB, 7GCBA, 7HC, 7KC 
+ 15 lb. 
+ (-36) 
+ c 
+ For use with Item 102(f) carburetor air scoop (Champion instln. dwg. 7-1289) 
+ Models 7GCAA, 7GCBC 
+ d 
+ For use with Item 102(g) carburetor air scoop (Champion instln. dwg. 7-1300) 
+ 14 lb. 
+ (-36) 
+ Model 7ECA (with Lycoming O-235-C1 engine) 
+ e 
+ For use with Item 102(h) carburetor air scoop (Champion instln. dwg. 7-1302) 
+ 14 lb. 
+ (-36) 
+ Model 7KCAB 
+ 15 lb. 
+ (-42) 
+ f 
+ For use with Item 102(j) carburetor air scoop (Champion P/N 7-1466-2 or 
+ 7-1483-2 and Inst. Dwg. 7-1300 
+ Model 7ECA with Lycoming O-235-C1 engine 
+ 15 lb. 
+ (-42) 
+ g 
+ For use with Item 102(j) carburetor air scoop (Champion P/N 7-1466-1 or 
+ 7-1483-1 and Inst. Dwg. 7-1289) 
+ Models 7GCAA, 7GCBC 
+ 15 lb. 
+ (-42) 
+ h 
+ For use with Item 102(k) Injector air scoop (Champion P/N 7-1466-1 or 
+ 7-1483-1 and Inst. Dwg. 7-1314 
+ Model 7KCAB 
+ 15 lb. 
+ (-42) 
+ i 
+ For use with Item 102(j) carburetor air scoop (Champion P/N 7-1483-2 and 
+ Inst. Dwg. 7-1530 
+ Model 7ECA with Lycoming O-235-K2C engine 
+ 121 
+ Vacuum pump 
+ 3 lb. 
+ (-28) 
+ a 
+ Airborne Mechanisms dry vacuum pump, Model 10-113-A1 (Champion instln. 
+ dwg. 7-1104) 
+ Models 7GC, 7GCA, 7GCB, 7GCBA, 7HC, 7KC 
+ 5 lb. 
+ (-43) 
+ b 
+ Airborne Mechanisms dry vacuum pump, Model 113A5 (Champion instln. dwg. 
+ 7-1275) 
+ Model 7ECA with Continental O-200-A engine 
+ 5 lb. 
+ (-28) 
+ c 
+ Airborne Mechanisms dry vacuum pump, Model 113A5 or 200CC (Champion 
+ instln. dwg. 7-1125) 
+ Models 7ECA, (with Lycoming O-235-C1 or O-235-K2C engine), 7GC, 7GCA, 
+ 7GCAA, 7GCB, 7GCBA, 7GCBC, 7HC, 7KC, 7KCAB 
+ 122. 
+ Lycoming O-235-C1 or O-235-C2C (Models 7ECA, 7GCBC) installed per Champion 
+ instln dwg 71300 
+ Fuel 
+ 80 minimum grade aviation gasoline 
+ Engine limits for all operations 
+ 2800 r.p.m. (115 h.p.) 
+ Oil capacity 
+ 6 qt. at -36 
+ Control surface Elevator trim tab 
+ Up 10o Down 44o 
+ (Model 7GCBC only) 
+ Required equip Landplane 
+ 17(a), 102(g) or (j), 103(f) or (h), 117(f), 116 or 119 
+ or 123(a), 201(d) or (h) or (i) or (l), 202. 
+ Seaplane: 
+ 17(a), 102(g) or (j), 103(f) or (h), 117(f), 116 or 119 
+ or 123(a), 204(c), 205(a) or 205(d) 
+ 123 
+ Fuel System 
+ a 
+ 36 Gallon Fuel System 
+ Champion instln. dwg. 7-1456, 7-1476 Models 7ECA, 7GCAA, 7GCBC 
+ 39 lb. 
+ (+20) 
+ Champion instln. dwg. 7-1456, 7-1314 Models 7KCAB 
+ 41 lb. 
+ (+19) 
+ 124 
+ Lycoming O235K2C engine Model 7ECA 
+ Installed per Champion Dwg. 7-1530 
+ Fuel 100 minimum grade aviation gasoline 
+ Engine limits Take-Off 2800 r.p.m. (118 h.p.) 
+ Maximum Continuous 2700 r.p.m. (115 h.p.) 
+ Oil capacity 6 qt. at -36 
+ Required equip. Landplane: 22(a), 102(j), 103(h)(i), 117(i), 123(a), 201(i)(l), 
+ 202g 
+ 125. 
+ Lycoming O-320-B2B engine (Models 7ECA, 7GCAA, 7GCBC) 
+ Installed per Champion Dwg. 7-1289. Requires aircraft to be outfitted per 
+ Note 13 (7GCBC) or Note 15 (7ECA, 7GCAA) 
+ Fuel 
+ 100 minimum grade aviation gasoline 
+ Engine limits 
+ Maximum Continuous 2700 r.p.m. (160 h.p.) 
+ Oil capacity 
+ 8 qt. at –36 
+ Required equip. Landplane: 20(a), 102(f), 103(i), 117(e), 123(a), 201(i)(l), 202(g). 
+ Modifications per Champion dwg. 11-1029 (7ECA only). 
+ Original Equipment Serial Numbers 
+ 400-97 and up (7GCAA) 
+ 1200-94 and up (7GCBC) 
+ 126. 
+ Superior O-360-A3A2 engine (Model 7GCBC, 7GCAA) 
+ Installed per Champion Dwg. 7-1581. Requires aircraft to be outfitted per 
+ Note 13 (7GCBC) or Note 15 (7GCAA). 
+ Fuel 
+ 91 octane minimum gasoline (no alcohol content) 
+ Engine limits 
+ Maximum Continuous 2700 r.p.m. (180 h.p.) 
+ Oil capacity 
+ 8 qt. at -36 
+ Required equip.7GCBC Landplane:23(a), 102(l), 103(i), 117(j), 123(a), 201(n), 202(g) 
+ Required equip.7GCAA Landplane:23(a), 102(l), 103(i), 117(j), 123(a), 201(i), 202(g) 
+ Original Equipment Eligible Serial Numbers 
+ 1360-2004 and up 
+ (7GCBC) 
+ 497-2005 and up 
+ (7GCAA) 
+ 127 
+ Lycoming O360C4P engine Model 7GCBC 
+ Installed per Champion Dwg. 7-1581. Requires aircraft to be outfitted per 
+ Note 13 (7GCBC). 
+ Fuel 
+ 91 octane minimum gasoline (no alcohol content) 
+ Engine limits 
+ Maximum Continuous 2700 r.p.m. (180 h.p.) 
+ Oil capacity 
+ 8 qt. at -36 
+ Required equip.7GCBC Landplane:23(a), 102(l), 103(i), 117(j), 123(a), 201(n), 202(g) 
+ Original Equipment Eligible Serial Numbers 
+ 1459-2011 and up 
+ (7GCBC) 
+ Landing Gear and Floats 
+ 201 
+ Main landing gear wheels 
+ a 
+ 6.00-6 wheels with brakes (Goodyear model L6MBD, wheel assembly 511413M, 
+ Brake assembly 511254-A) with: 
+ (0) 
+ 35 lb. 
+ 6.00-6, 2 or 4-ply tires (Model 7AC only) 
+ (0) 
+ 35 lb. 
+ 6.00-6, 4-ply tires or 7.00-6, 4-ply tires (all models except 7FC, 7GCBA, 7HC) 
+ b 
+ 6.00-6 wheels with brakes (Cleveland Model 6.00DMB-3, wheel assembly 
+ C-38500-HM with mechanical brake assembly C-7000, or wheel assembly 
+ C-38500-H with hydraulic brake assembly C-2000-H with: 
+ 32 lb. 
+ 6.00-6, 2 or 4-ply tires (Model 7AC only) 
+ 32 lb. 
+ 6.00-6, 4-ply tires 
+ 39 lb. 
+ 7.00-6, 4-ply tires 
+ 42 lb. 
+ 8.00-6, 4-ply tires 
+ (0) 
+ Models 7AC thru 7EC, 7GC, 7GCA, 7GCB, 7JC, 7KC 
+ (0) 
+ Model 7GCBA, 8.00-6, 4-ply tire only 
+ (+26) 
+ Models 7FC, 7HC 
+ 52 lb. 
+ c 
+ 6.00-6 Goodyear Model CL6HBM (cross-wind) wheel and brake assembly 
+ 266AX36 or wheel assembly 9530526RH and 9530525LH, brake assembly 
+ 9530368RH and 9530369LH with: 
+ 6.00-6, 2 or 4-ply tires (Model 7AC only) 
+ (0) 
+ 6.00-6, 4-ply tires or 7.00-6, 4-ply tires 
+ (Installation Aeronca dwg. 7-1000) (Models 7AC thru 7EC only) 
+ d 
+ Cleveland hydraulic wheel and brake assembly 20-16 (Champion installation 
+ dwg. 7-1159 - Oleo type gear) with: 
+ (+26) 
+ 32 lb. 
+ 6.00-6, 4-ply tires (Model 7FC) 
+ (+26) 
+ 35 lb. 
+ 7.00-6, 4-ply tires (Model 7FC) 
+ (0) 
+ 35 lb. 
+ 7.00-6, 4-ply tires (Model 7ECA with CMC O-200-A engine) 
+ (0) 
+ 32 lb. 
+ 6.00-6, 4-ply tires (Model 7ECA with CMC O-200-A engine) 
+ Eligible when P/N 2-1655 Oleo Taxi Spring installed. 
+ (0) 
+ 37 lb. 
+ 7.00-6, 6-ply tires (Model 7ECA with Lycoming O-235-C1 engine, 7GCAA, 
+ 7GCBC and 7KCAB), with Oleo Taxi Springs (P/N 2-1655 ) installed. 
+ e 
+ 4-1139 axle assembly (Champion instln. dwg. 7-1159) 
+ 13 lb. 
+ (+26) 
+ Model 7FC (see NOTE 7) 
+ Model 7HC (see NOTE 9) 
+ f 
+ Goodrich wheel and brake instln. (P/N 3-1086 and 2-883) 
+ Wide trake main gear (Champion dwg. 7-1176) with 
+ 38 lb. 
+ 6.00-6, 4-ply tires 
+ 45 lb. 
+ 7.00-6, 4-ply tires 
+ 48 lb. 
+ 8.00-6, 4-ply tires 
+ (+26) 
+ (Models 7FC and 7HC) 
+ g 
+ Goodrich wheel and brake instln. (P/N 3-1086 and 2-883) (Champion dwg. 
+ 7-1177) with 
+ 38 lb. 
+ 6.00-6, 4-ply tires 
+ 45 lb. 
+ 7.00-6, 4-ply tires 
+ 48 lb. 
+ 8.00-6, 4-ply tires 
+ (0) 
+ (Models 7EC, 7GC, 7GCA, 7GCB, 7JC, 7KC) 
+ (0) 
+ (Model 7GCBA, 8.00-6, 4-ply tires only) 
+ h 
+ Cleveland wheel and brake assemblies (20-16) Champion Instln dwg. 7-1307, 
+ 7-1291 Spring Steel Gear 
+ (0) 
+ 32 lb. 
+ 7.00-6, 6-ply tires 
+ (0) 
+ 35 lb. 
+ 8.00-6, 4-ply tires 
+ (Models 7ECA, 7GCAA, 7GCBC, 7KCAB) 
+ i 
+ Cleveland wheel and brake assemblies (20-16) Champion Instln dwg. 7-1307, 
+ 7-1404 or 4-2038 Spring Steel Gear 
+ 4-2035 Spring Aluminum Gear (Installation dwg 7-1559) 
+ 29 lb. 
+ (0) 
+ 6.00-6, 4-ply or 6-ply tires 
+ 32 lb. 
+ (0) 
+ 7.00-6, 4-ply or 6-ply tires 
+ 35 lb. 
+ (0) 
+ 8.00-6, 4-ply tires 
+ (Models 7ECA, 7GCAA, 7GCBC, 7KCAB) 
+ j 
+ Cleveland wheel and brake assemblies (40-78B) Champion Instln dwg. 7-1440, 
+ 7-1441 Spring Steel Gear 
+ (0) 
+ 23 lb. 
+ 5.00-5, 4-ply tires 
+ (0) 
+ 25 lb. 
+ 5.00-5, 6-ply tires 
+ (Model 7ACA) 
+ k 
+ Cleveland wheel and brake assemblies (20-16) Champion Instln dwg. 7-1440, 
+ 7-1441-1 Spring Steel Gear 
+ 29 lb. 
+ (0) 
+ 6.00-6, 4 or 6-ply tires 
+ (Model 7ACA) 
+ l 
+ McCauley wheel and brake assemblies (D-30039-1) Champion Instln dwg. 
+ 7-1307, 7-1404 Spring Steel Gear 
+ (0) 
+ 29 lb. 
+ 6.00-6, 4-ply or 6-ply tires 
+ (0) 
+ 32 lb. 
+ 7.00-6, 4-ply or 6-ply tires 
+ (0) 
+ 35 lb. 
+ 8.00-6, 4-ply tires 
+ (Models 7ECA, 7GCAA, 7GCBC, 7KCAB) 
+ m 
+ McCauley wheel and brake assemblies (D-30039-1) Champion Instln dwg. 
+ 7-1440, 7-1441 Spring Steel Gear 
+ 6.00-6, 4-ply or 6-ply tires (Models 7ACA) 
+ 29 lb. 
+ (0) 
+ n 
+ Cleveland wheel and brake assemblies (20-16) Champion Instln dwg. 7-1559, 
+ 4-2035 Spring Aluminum Gear 
+ 8.00-6, 4-ply tires (Model 7GCBC with Superior O-360-A3A2 Engine) 
+ 35 lb. 
+ (0) 
+ o 
+ Cleveland wheel and brake assemblies (20-16) Champion Instln dwg. 7-1589, 
+ 4-2045 Spring Aluminum Gear 
+ 6.00-6, 4-ply tires (Model 7EC with Continental O-200-A Engine) 
+ 29 lb. 
+ (0) 
+ 202. 
+ Tail wheel assemblies (Models 7AC, 7BC, 7CCM, 7DC, 7EC, 7ECA, 7GC, 7GCA, 
+ 7GCAA, 7GCB, 7GCBA, 7GCBC, 7KC, 7KCAB, 7ACA, except as noted) 
+ a 
+ 6 x 200 steerable Scott Aviation Model 3000 
+ 7 lb. 
+ (+186) 
+ b 
+ Maule Models SFS-12, SS-12 or SAFS-12 
+ 6 lb. 
+ (+186) 
+ c 
+ Steerable, Scott Model 3-24B 
+ 7 lb. 
+ (+186) 
+ d 
+ Imperial Model B-100 
+ 6 lb. 
+ (+186) 
+ e 
+ Lang (formerly Decker) steerable Model D-501A 
+ 7 lb. 
+ (+186) 
+ f 
+ Maule SFS-1-2 (Champion instln. dwg. 4-1042) (Model 7GC only) 
+ 6 lb. 
+ (+197) 
+ g 
+ Scott (Avox) 3200 or ABI-3200 (Champion instln. dwg. 4-1080) 
+ 8 lb. 
+ (+190.5) 
+ h 
+ Maule pneumatic SFS-1-2P8 (Champion instln. dwg. 3-486) 
+ 8 lb. 
+ (+190.5) 
+ i 
+ Maule pneumatic SFS-1-2P8 (Champion instln. dwg. 4-1423) 
+ 8 lb. 
+ (+191) 
+ 203. 
+ Skis (Models 7AC, 7BCM, 7CCM, 7DC, 7EC, 7GC, except as noted) 
+ a 
+ Federal A-1500 (Federal instln. dwg. 11R241) 
+ 37 lb. 
+ (0) 
+ b 
+ Federal CA1850-6 (Federal instln. dwg. 11R241) 
+ 48 lb. 
+ (0) 
+ c 
+ Federal A-2000-A (Federal instln. dwg. 11R241) 
+ 49 lb. 
+ (0) 
+ d 
+ Federal A-2000 (Federal instln. dwg. 11R241) 
+ 41 lb. 
+ (0) 
+ e 
+ Federal A-1850 (Federal instln. dwg. 11R241) 
+ 38 lb. 
+ (0) 
+ f 
+ Federal A-1500-A (Federal instln. dwg. 11R241) 
+ 39 lb. 
+ (0) 
+ 75 lb. 
+ g 
+ Federal Model AWB-1500 wheel skis when installed in accordance with 
+ Retracted 
+ Federal Instal. Dwg. 11R471. Placard required on ski position selector box: 
+ Extended 
+ ""SKI CONTROL"" 
+ (-3.5) 
+ (-6) 
+ ""UP-NEUTRAL-DOWN"" 
+ 84 lb. 
+ h 
+ Federal Model AWB-1500A wheel skis when installed in accordance with 
+ Retracted 
+ Federal Instal. Dwg. 11R471. Placard required on ski position selector box: 
+ Extended 
+ ""SKI CONTROL"" 
+ (-3.5) 
+ (-6) 
+ ""UP-NEUTRAL-DOWN"" 
+ 106 lb. 
+ i 
+ Federal Model C-2200 wheel-ski combination (Champion instln. dwg. 
+ Retracted 
+ 7-1076) (Models 7EC, 7GC only) 
+ Extended 
+ Main skis and hydraulic components with LDR bottoms 
+ (-5) 
+ (-13) 
+ Main skis and hydraulic components with aluminum bottoms 
+ 96 lb. 
+ Extended 
+ Retracted 
+ (-5) 
+ (-14) 
+ j 
+ Federal Model AWT-2500 tail ski (Champion instln. dwg. 3-1101) (Models 7EC, 
+ 7 lb. 
+ (+186) 
+ 7GC only) 
+ k 
+ FluiDyne Model A-2000-A (Champion instln. dwg. 7-1281) (Models 7ECA, 
+ 38 lb. 
+ (-6) 
+ 7GCAA, 7GCBC) Main skis only. 
+ l 
+ FluiDyne Model A-2000A (Champion instln. dwg. 7-1321) Model 7GCBC with 
+ 44 lb. 
+ (-5) 
+ Lycoming O-320 engine and spring steel gear installed. Main skis only. 
+ (Models 7GCAA, 7KCAB, 7ECA) 
+ 204 
+ Floats  Seaplane 
+ a 
+ Edo 60-1320 including water rudder (Model S7AC only) 
+ 168 lb. 
+ (+16) 
+ b 
+ Edo 92-1400 including water rudder (Models S7AC thru S7EC) 
+ 169 lb. 
+ (+16) 
+ c 
+ Pee-Kay 1800 (Champion dwg. 7-1118) (Models 7GC, 7GCB, 7GCBC with 
+ 198 lb. 
+ (+19) 
+ Lycoming O-320 engine, 7ECA, 7HC). Model 7HC eligible only on aircraft with 
+ Champion dwg. 3-1135 fuselage fittings installed at Champion factory). 
+ d 
+ Edo 89A2000 floats including double water rudders 
+ 270 lb. 
+ (+16) 
+ Model 7GCBC with Lycoming O-320 engine and fitted for steel spring gear. 
+ 205 
+ Auxiliary fins  Seaplane 
+ (+170) 
+ 3 lb. 
+ a 
+ Auxiliary Dorsal Fins (Champion P/N 4-634, Installation Dwg. 3-1067). 
+ Two required for EDO 60-1320, Model S7AC, EDO 92-1400 Floats on Models 
+ S7AC, S7CCM, S7DC, S7EC and for Pee-Kay 1800 Floats on Models 7ECA, 
+ 7GCA and 7HC 
+ (+170) 
+ 6 lb. 
+ Four required for Pee-Kay 1800 Floats on Models 7GCB 
+ b 
+ Deleted 
+ c 
+ Ventral Fin (Champion P/N4-6587) (Champion Installation Dwg. 4-909) Required 
+ 4 lb. 
+ (+171) 
+ for Models S7AC, S7CCM and S7DC on EDO 92-1400 Floats and Models 7GC, 
+ 7GCB and 7HC on Pee-Kay 1800 Floats 
+ d 
+ Auxiliary Dorsal Fins (Champion P/N 4-1458, instln. dwg. 3-1418) (used with 
+ stabilizer, Champion P/N 4-1413) 
+ (+170) 
+ 3 lb. 
+ Two required for Pee-Kay 1800 Floats on Model 7ECA 
+ (+170) 
+ 6 lb. 
+ Four required for Pee-Kay 1800 Floats on Models 7GCB and 7GCBC 
+ (+170) 
+ 6 lb. 
+ Four required for Edo 89A2000 floats on Model 7GCBC with Lycoming O-320",
+a,"Models 7AC, 7BCM, 7CCM, 7DC (dwg. 7-606) 
+ 6 lb. 
+ (0)"
+b,"Model 7EC (dwg. 7-1060) 
+ 6 lb. 
+ (0)"
+c,"Models 7FC, 7HC (dwg. 7-10006) 
+ 6 lb. 
+ (+26)"
+d,"Models 7EC, 7GC, 7GCA, 7GCB, 7JC (dwg. 7-10006) 
+ 6 lb. 
+ (0)"
+e,"Model 7FC (nose wheel only, dwg. 4-1006) 
+ 6 lb. 
+ (-31)"
+f,"Model 7HC (nose wheel only, dwg. 7-1112) 
+ 3 lb. 
+ (-31)"
+g,"Model 7JC (aft gear only, dwg. 7-1128) 
+ 3 lb. 
+ (+80)"
+h,"Model 7FC (main wheels, dwg. 7-1141) 
+ 14 lb. 
+ (+26)"
+i,"Model 7FC (nose wheel, dwg. 7-1154) 
+ 2 lb. 
+ (-29)"
+j,"Models 7ECA, 7GCAA, 7GCB, 7GCBA, 7GCBC,, 7KC, 7KCAB (dwg. 7-1141) 
+ 14 lb. 
+ (0)"
+k,"Models 7ECA, 7GCAA, 7GCBC,, 7KCAB (Champion instln. dwg. 4-1474) 
+ 14 lb. 
+ (0)"
+a,"Models 7AC, 7BCM, 7DC, 7EC, 7FC, 7GC, 7GCA, 7GCB, 7HC, 7JC (Champion 
+ 2 lb. 
+ (-10) 
+ dwg. 7-443)"
+b,"Models 7EC, 7FC, 7GC, 7GCA, (Champion dwg. 4-1023) 
+ 1 lb. 
+ (-8)"
+c,"Models 7EC, 7FC, 7GC, 7GCA, 7HC, 7JC (Champion dwg. 4-1023) 
+ 1 lb. 
+ (-7)"
+d,"Models 7ECA, 7GCAA, 7GCBC, 7KCAB (Champion dwg. 4-1370) 
+ 2 lb. 
+ (-16)"
+e,"Models 7ECA, 7GCAA, 7GCBC, 7KCAB, 7ACA (Champion dwg. 4-1557) 
+ 1 lb. 
+ (-14)"
+f,"Models 7ECA, 7GCAA, 7GCBC, 7KCAB, 7ACA (Champion dwg. 4-1624) 
+ 1 lb. 
+ (-14)"
+"*208. 
+ Wheel fenders - Consolidair Model 17 (Consolidair dwg. 0036) Models 7AC thru 
+ 10 lb. 
+ (0) 
+ 7EC only 
+ 209. 
+ Nose landing gear installation (Champion dwg. 7-1073) Models 7FC and 7HC 
+ a 
+ 5.00-5 Cleveland wheel and 5.00-5, Type III, 4-ply rating tires 
+ 9 lb. 
+ (-31) 
+ 210 
+ Hydraulic brake installation 
+ a 
+ Champion dwg. 7-1078 (Model 7EC only) (wt. increase over mechanical) 
+ 2 lb. 
+ (+10) 
+ b 
+ Scott hydraulic brake installation (Champion dwg. 4-1091) 
+ 3 lb. 
+ (+10) 
+ Models 7EC, 7FC, 7GC, 7GCA, 7GCB, 7JC, 7KC 
+ c 
+ Scott hydraulic brake instln. (Champion dwg. 4-1122) Model 7KC 
+ 3 lb. 
+ (-18) 
+ d 
+ Cleveland hydraulic brake instln. (Champion dwg. 4-1370) Models 7ECA, 
+ 3 lb. 
+ (-6) 
+ 7GCAA, 7GCBC, 7KCAB 
+ e 
+ Hydraulic brake instln. - Heel - (Champion dwg. 4-1557, 7-1307) 
+ 2 lb. 
+ (-10) 
+ Models 7ECA, 7GCAA, 7GCBC, 7KCAB, 7ACA 
+ f 
+ Hydraulic brake instln. - Toe - (Champion dwg. 4-1624, 7-1307) 
+ 2 lb. 
+ (-10) 
+ Models 7ECA, 7GCAA, 7GCBC, 7KCAB, 7ACA 
+ 211. 
+ Aft landing gear (Champion instln. dwg. 7-1126) Model 7JC 
+ a 
+ 5.00-5 Cleveland wheel and 5.00-5, Type III, 4-ply rating tires 
+ 9 lb. 
+ (+80) 
+ Electrical Equipment 
+ 304 a 
+ Battery, 6V, Reading (Models 7AC thru S7EC only) 
+ 12 lb. 
+ (+57) 
+ b 
+ Battery box (Models 7AC thru S7EC only) 
+ 2 lb. 
+ (+57) 
+ 305 
+ Position lights 
+ a 
+ Models 7AC, 7BCM, 7CCM, 7DC (dwg. 7-545) 
+ 2 lb. 
+ (+24) 
+ b 
+ Models 7EC, 7FC (dwg. 7-1065) 
+ 3 lb. 
+ (+20) 
+ c 
+ Models 7GC, 7GCA, 7GCB, 7GCBC, 7HC (dwg. 7-1101) 
+ 1 lb. 
+ (+90) 
+ d 
+ Models 7EC, 7FC, 7JC (dwg. 7-1085) 
+ 1 lb. 
+ (+90) 
+ e 
+ Model 7KC (dwg. 7-1149) 
+ 1 lb. 
+ (+90) 
+ f 
+ Model 7GCBA (dwg. 7-1163) 
+ 1 lb. 
+ (+90) 
+ g 
+ Models 7ECA, 7GCAA, 7KCAB (dwg. 7-1320, 7-1051) 
+ 1 lb. 
+ (+90) 
+ h 
+ Model 7ACA (dwg. 7-439, 7-1051) 
+ 3 lb. 
+ (+20) 
+ 306 
+ Generator wingdriven Champion 8 amp 
+ 8 lb. 
+ ( +9) 
+ 307 
+ Battery 
+ a 
+ Willard AW-12-25 (Model 7EC only) 
+ 24 lb. 
+ (+54) 
+ b 
+ Bowers BA-25, 12V 
+ (+54) 
+ 24 lb. 
+ Model 7EC only 
+ (-27) 
+ 24 lb. 
+ Models 7FC, 7JC 
+ (+79.5) 
+ 28 lb. 
+ Models 7GC, 7GCA (with cables), 7HC 
+ 27 lb. 
+ (+79) 
+ c 
+ Exide AC-60, 33 a. hr.; AC-66, 33 a. hr.; AC-78, 35 a. hr. 
+ 12V manifold vented 
+ Models 7GC, 7GCA, 7GCB, 7HC (Champion instln. dwg. 4-1066) 
+ Model 7KC (Champion dwg. 7-1149) 
+ d 
+ Exide AC-54 manifold vented, 12V 24 a. hr. (Champion instln. dwg. 4-1108) 
+ (-27) 
+ 22 lb. 
+ Models 7EC, 7FC, 7JC 
+ (-27) 
+ 22 lb. 
+ Model 7ECA with CMC O-200-A engine (instln. dwg. 7-1252) 
+ (-26) 
+ 23 lb. 
+ Model 7ECA and 7GCBC with Lycoming O-235-C1 engine (instln. dwg. 7-1300) 
+ e 
+ Exide AC-54 manifold vented, 12V 24 a. hr. (Champion instln. dwg. 3-1191) 
+ 22 lb. 
+ (+54) 
+ (Model 7EC) 
+ f 
+ Exide AC-54 manifold vented, 12V 24 a. hr. (Champion instln. dwg. 4-1167) 
+ 22 lb. 
+ (-27) 
+ (Model 7GCBA) 
+ g 
+ Exide AC-66 manifold vented, 12V 33 a. hr. (Champion instln. dwg. 7-1293) 
+ 33 lb. 
+ (+82) 
+ Models 7GCAA, 7GCBC, 7KCAB 
+ h 
+ Rebat S25, 12V 25 a. hr. (Champion instln. dwg. 7-1300) Models 7ECA, 7GCBC 
+ 23 lb. 
+ (-26) 
+ (with Lycoming engine O-235-C1) 
+ i 
+ Rebat R35, 12V 35 a. hr. (Champion instln. dwg. 4-1469) Models 7GCAA, 
+ 33 lb. 
+ (+82) 
+ 7GCBC, 7KCAB 
+ j 
+ Gill 6GCAB-11, 12V 35 a. hr. (Champion instln. dwg. 4-1509) Models 7GCAA, 
+ 33 lb. 
+ (+82) 
+ 7GCBC, 7KCAB 
+ k 
+ Gill 6-GCAB-9, 12V 25 a. hr. (Champion instln. dwg. 7-1300) Models 7ECA, 
+ 23 lb. 
+ (-26) 
+ 7GCBC with Lycoming O-235-C1 engine 
+ l 
+ Exide AC-78, 12V 35 a. hr. (Champion instln. dwg. 4-1545) Models 7GCAA, 
+ 33 lb. 
+ (+82) 
+ 7GCBC, 7KCAB 
+ m 
+ Sonotone CA-24A, 12V 25 a. hr. (Champion instln. dwg. 4-1578) Models 
+ 30 lb. 
+ (+82) 
+ 7GCAA, 7GCBC, 7KCAB 
+ n 
+ Rebat S25M, 12V 25 a. hr. (Champion instln. dwg. 4-1588) Model 7ACA 
+ 21 lb. 
+ (+55) 
+ o 
+ Rebat R35, 12V 35 a. hr. with battery box (Champion instln. dwg. 4-1599) 
+ 35 lb. 
+ (+82) 
+ Models 7GCAA, 7GCBC, 7KCAB 
+ p 
+ Gill PS6-11, 12V 35 a. hr. with battery box (Champion instln. dwg. 4-1599) 
+ 35 lb. 
+ (+82) 
+ Models 7GCAA, 7GCBC, 7KCAB 
+ q 
+ Gill PS6-9, 12V 25 a. hr. (Champion instln. dwg. 7-1300) Models 7ECA, 7GCBC 
+ 23 lb. 
+ (-26) 
+ (with Lycoming O-235-C1 engine) 
+ r 
+ Rebat S25, 12V 25 a. hr. (Champion instln. dwg. 7-1530) Model 7ECA (with 
+ 23 lb. 
+ (-26) 
+ Lycoming O-235-K2C engine) 
+ s 
+ Gill PS6-9, 12V 25 a. hr. (Champion instln. dwg. 7-1530) Model 7ECA (with 
+ 23 lb. 
+ (-26) 
+ Lycoming O-235-K2C engine) 
+ t 
+ American Champion 11-0817, 12V 31a. hr. with battery box (Champion instln 
+ 23 lb. 
+ (+82) 
+ dwg 4-1599) Models 7GCAA, 7GCBC, and 7KCAB 
+ u 
+ Concorde RG25, 12V 25 a. hr. with battery box (Champion instln dwg 4-1599) 
+ 23 lb. 
+ (+82) 
+ Models 7GCAA, 7GCBC, and 7KCAB 
+ v 
+ Concorde RG25, 12V 25 a. hr. (Champion instln. dwg. 7-1530) Model 7ECA 
+ 23 lb. 
+ (-26) 
+ (with Lycoming O-235-K2C engine) 
+ w 
+ Hawker 0769-4005, 12V 15 a hr. (Champion instln. Dwg. 7-1582) Model 7EC 
+ 15 lb. 
+ (-25) 
+ (with Continental O-200-A or O-200-D engine) 
+ 308 
+ Generator or Alternator 
+ a 
+ Generator, voltage regulator, 12V 20 a., Delco-Remy 1101890 and 118736 
+ 11 lb. 
+ (-28) 
+ Models 7EC, 7FC, 7JC 
+ b 
+ Generator, voltage regulator, 12V 35 a., Delco-Remy 1101898 and 1118704 
+ 16 lb. 
+ (-28) 
+ Models 7EC, 7FC, 7JC 
+ c 
+ Generator, voltage regulator, 12V 20 a., Delco-Remy 1101899 and 1119226 
+ 12 lb. 
+ (-45) 
+ Models 7ECA with Lycoming O-235-C1 engine, 7GC, 7GCA, 7GCAA, 7GCB, 
+ 7GCBA, 7GCBC, 7HC, 7KC, 7KCAB 
+ d 
+ Generator, voltage regulator, 12V 35 a., Delco-Remy 1101900 and 1118704 
+ 18 lb. 
+ (-46) 
+ Models 7ECA (with Lycoming O-235-C1 engine), 7GC, 7GCA, 7GCAA, 7GCB, 
+ 7GCBA, 7GCBC, 7HC, 7KC, 7KCAB 
+ e 
+ Generator, voltage regulator, 12V 20 a., Delco-Remy 1101890 and 1118736 
+ 12 lb. 
+ (-32) 
+ Model 7ECA 
+ f 
+ Generator, voltage regulator, 12V 35 a., Delco-Remy 1101898 and 1119220 
+ 18 lb. 
+ (-31) 
+ Models 7ECA with Continental O-200-A engine 
+ 12 lb. 
+ (-50) 
+ g 
+ Alternator and voltage regulator, 12V 40 a., Prestolite Alternator P/N ALE 6406 
+ (Model 7ECA with Lycoming O-235-C1 engine) and Prestolite Alternator 
+ P/N ALE 8406 (Models 7GCAA, 7GCBC, 7KCAB), Prestolite Voltage Regulator 
+ P/N VSF 72-1 or VSF 7202 or VSF 7203 
+ h 
+ Alternator and voltage regulator, 12V 35 a., Motorola RA12N451 and Integral 
+ 8 lb. 
+ (-41) 
+ R3-1 regulator - Model 7ACA 
+ i 
+ Alternator and voltage regulator, 12V 60 a., Prestolite Alternator P/N ALY8403 
+ 12 lb. 
+ (-50) 
+ or ALY-8420 (Model 7ECA with Lycoming O-235-C1 engine, 7GCAA, 7GCBC, 
+ 7KCAB). Prestolite Voltage Regulator P/N VSF 7203. 
+ 12 lb. 
+ (-50) 
+ j 
+ Alternator and voltage regulator, 12V 60 a., Prestolite Alternator P/N ALY8420 
+ G (#2 Field Terminal Grounded) Models 7ECA (with Lycoming O-235-C1 or 
+ O-235-K2C engine), 7GCAA, 7GCBC, 7KCAB. Prestolite Voltage Regulator 
+ P/N FVR 3224. 
+ 309 
+ Deleted - included in Item 305 
+ 310 
+ Landing light 
+ a 
+ Fixed light (dwg. 7-1065) Models 7EC, 7FC only 
+ 2 lb. 
+ (+7) 
+ b 
+ Retractable light (dwg. 4-10009) Models 7EC, 7FC only 
+ 5 lb. 
+ (+13) 
+ c 
+ Leading edge landing light (dwg. 4-1001) Models 7EC, 7FC, 7GC, 7GCA, 
+ 2 lb. 
+ (+4) 
+ 7GCB, 7GCBA, 7HC, 7JC 
+ d 
+ Nose bowl landing lights (Champion instln. dwg. 7-1149) Model 7KC only 
+ 2 lb. 
+ (-55) 
+ e 
+ Nose bowl mounted 100W bulb (Champion instln. dwg. 7-1274) Model 7ECA 
+ 1 lb. 
+ (-22) 
+ with CMC O-200-A engine 
+ f 
+ Nose bowl mounted 100W bulb (Champion instln. dwg. 7-1288) Models 7ECA 
+ 1 lb. 
+ (-53) 
+ with Lycoming O-235-C1 engine, 7GCAA, 7 GCBC, 7KCAB 
+ g 
+ Nose bowl mounted 100W bulb (Champion instln. dwg. 4-1558) Model 7ACA 
+ 1 lb. 
+ (-53) 
+ h 
+ Nose bowl mounted 100W bulb (Champion instln. dwg. 7-1475) Models 7ECA, 
+ 1 lb. 
+ (-53) 
+ 7GCAA, 7GCBC, 7KCAB 
+ 311 
+ Stall warning equipment installation 
+ a 
+ (Champion dwg. 7-1065) Models 7EC, 7FC, 7JC 
+ 1 lb. 
+ (-4) 
+ b 
+ (Champion dwg. 7-1101) Models 7GC, 7GCA, 7GCB, 7HC 
+ 1 lb. 
+ (-2) 
+ c 
+ (Champion dwg. 7-1138) Model 7KC 
+ 1 lb. 
+ (-2) 
+ d 
+ (Champion dwg. 7-1163) Model 7GCBA 
+ 1 lb. 
+ (-2) 
+ e 
+ (Champion dwg. 4-1401) Models 7ECA, 7GCAA, 7GCBC, 7KCAB, 7EC 
+ 1 lb. 
+ (-2) 
+ 312 
+ Radio Equipment 
+ (-8) 
+ 13 lb. 
+ a 
+ Narco VHT-3 Superhomer radio instln. 
+ (Champion dwg. 3-1063) Models 7EC, 7FC, 7GC, 7GCA, 7GCB, 7GCBA 
+ (Champion dwg. 7-1103) Models 7EC, 7FC, 7GC, 7GCA, 7GCB, 7GCBA, 
+ 7HC, 7JC 
+ (Champion dwg. 7-1167) Model 7KC 
+ (+13) 
+ 1 lb. 
+ Cabin speaker instln. (optional) 
+ 313 
+ Rotating beacon 
+ a 
+ (Champion dwg. 4-1020) Models 7EC, 7ECA, 7FC, 7GCA, 7GCAA, 7GCB, 
+ 2 lb. 
+ (+18 
+ 7GCBA, 7GCBC, 7HC, 7JC, 7KCAB 
+ 0) 
+ b 
+ (Champion dwg. 7-1149) Model 7KC 
+ 3 lb. 
+ (+18 
+ 2) 
+ c 
+ (Champion dwg. 4-1513) Models 7ACA, 7ECA, 7GCAA, 7GCBC, 7KCAB 
+ 2 lb. 
+ (+62) 
+ 314 
+ Strobe Light 
+ a 
+ Delta Model 7000 per Champion dwg. 4-1512 Models 7ECA, 7GCAA, 7GCBC 
+ 4 lb. 
+ (+24) 
+ b 
+ Whelen A429 Wing Tip Strobe Lights (Champion instln. dwg. 3-1512) Models 
+ 4 lb. 
+ (-4) 
+ 7ECA, 7GCAA, 7GCBC, 7KCAB 
+ c 
+ Aeroflash P/N 156-0003 Models 7ECA, 7GCAA, 7KCAB, 7GCBC, 7EC per 
+ 4 lb. 
+ (+24) 
+ Champion dwg. 3-1668 
+ Interior Equipment 
+ 401 
+ Adjustable front seat cushion and belt 
+ a 
+ (Champion dwg. 7-453) Models 7EC, 7FC, 7GC, 7GCA, 7HC, 7JC 
+ 14 lb. 
+ (+17) 
+ b 
+ (Champion dwg. 7-1147) Model 7KC 
+ 32 lb. 
+ (+14) 
+ 402 
+ Cargo rack replacing rear seat, cushion and belt 
+ 5 lb. 
+ (+40) 
+ 403 
+ Cabin heater 
+ 2 lb. 
+ (-36) 
+ 404 
+ Seats 
+ a 
+ Wide rear seat, dwg. 7-1067, cushions and belt, Models 7EC, 7ECA, 7FC, 7GC, 
+ 18 lb. 
+ (+46) 
+ 7GCA, 7GCAA, 7GCB, 7GCBC, 7JC, 7KCAB, 7ACA 
+ b 
+ Adjustable rear seat, Champion instln., dwg. 4-1056, Models 7GCB, 7HC 
+ 20 lb. 
+ (+48) 
+ c 
+ Adjustable rear seat, Champion instln., dwg. 7-1147, Model 7KC 
+ 33 lb. 
+ (+45) 
+ d 
+ Adjustable hinged front seat, Champion dwg. 7-1261, Models 7ECA, 7GCAA, 
+ 13 lb. 
+ (+16) 
+ 7GCBC 
+ e 
+ Adjustable hinged rear seat, Champion dwg. 7-1261, Models 7ECA, 7GCAA, 
+ 13 lb. 
+ (+46) 
+ 7GCBC 
+ f 
+ Parachute seat with seat pack parachute and cushions, front (Champion instln. 
+ 33 lb. 
+ (+15) 
+ dwg. 7-1279) Models 7ECA, 7GCAA, 7GCBC, 7KCAB 
+ g 
+ Parachute seat with seat pack parachute and cushions, rear (Champion instln. 
+ 33 lb. 
+ (+45) 
+ dwg. 7-1279) Models 7ECA, 7GCAA, 7GCBC, 7KCAB 
+ h 
+ Parachute seat instln. with cushions, without seat pack parachutes - front 
+ 13 lb. 
+ (+16) 
+ (Champion dwg. 4-1403-10) Models 7ECA, 7GCAA, 7GCBC, 7KCAB 
+ i 
+ Parachute seat instln. with cushions, without seat pack parachutes - rear 
+ 13 lb. 
+ (+46) 
+ (Champion dwg. 4-1403-10) Models 7ECA, 7GCAA, 7GCBC, 7KCAB 
+ j 
+ Front seat installation (Champion dwg. 4-1403-11) Models 7ECA, 7GCAA, 
+ 11 lb. 
+ (+16) 
+ 7GCBC, 7KCAB, 7ACA 
+ k 
+ Rear seat installation (Champion dwg. 4-1403-11) Models 7ECA, 7GCAA, 
+ 11 lb. 
+ (+46) 
+ 7GCBC, 7KCAB, 7ACA 
+ l 
+ Front seat installation (Champion dwg. 4-1642) Models 7ECA, 7GCAA, 7GCBC, 
+ 11 lb. 
+ (+16) 
+ 7KCAB 
+ m 
+ Rear seat installation (Champion dwg. 4-1642) Models 7ECA, 7GCAA, 7GCBC, 
+ 11 lb. 
+ (+46) 
+ 7KCAB 
+ n 
+ Adjustable front seat installation (Champion Drawing 7-1499) Models 7ECA, 
+ 15 lb. 
+ (+16) 
+ 7GCAA, 7GCBC, 7KCAB 
+ o 
+ Rear seat installation (Champion Drawing 4-1708) Models 7ECA, 7GCAA, 
+ 13 lb. 
+ (+47) 
+ 7GCBC, 7KCAB 
+ p 
+ Wide Rear Seat Installation (Champion Drawing 4-1709) Models 7ECA, 7GCAA, 
+ 18 lb. 
+ (+47) 
+ 7GCBC, 7KCAB 
+ 405 
+ Soundingproofing (side panels, headlining and firewall) 
+ (+22) 
+ 4 lb. 
+ Models 7EC 7JC 
+ (+10) 
+ 5 lb. 
+ Model 7FC only 
+ (+24) 
+ 4 lb. 
+ Models 7GC 7GCA 7GCB 7HC 
+ 406 
+ Alternate interior (includes upholstery, floormat and baggage compartment lid) 
+ Champion instln dwg 710003 
+ (+21) 
+ 12 lb. 
+ Models 7EC 7JC 
+ (+28) 
+ 15 lb. 
+ Model 7FC 
+ (+36) 
+ 12 lb. 
+ Models 7GC, 7GCA, 7GCB, 7HC (minus baggage compartment lid) 
+ 407 
+ Fire extinguisher 
+ a 
+ (Champion instln. dwg. 7-442) Models 7AC, 7BCM, 7CCM, 7DC 
+ 7 lb. 
+ (+20) 
+ b 
+ (Champion instln. dwg. 7-10004) Models 7EC, 7FC, 7GC, 7GCA, 7GCB, 7HC, 
+ 7 lb. 
+ (+20) 
+ 7JC 
+ c 
+ (Champion instln. dwg. 7-1262 or 7-1293) Models 7ECA, 7GCAA, 7GCBC, 
+ 5 lb. 
+ (+23) 
+ 7KCAB 
+ d 
+ (Champion instln. dwg. 7-1444) Model 7ACA 
+ 5 lb. 
+ (+23) 
+ 408 
+ Rear Seat Heater 
+ a 
+ (Champion instln. dwg. 7-1293) Models 7ECA, 7GCAA, 7GCBC, 7KCAB 
+ 2 lb. 
+ (-9) 
+ b 
+ (Champion instln. dwg. 7-1478) Models 7ECA, 7GCAA, 7GCBC, 7KCAB 
+ 2 lb. 
+ (-9) 
+ 409 
+ Emergency Locator Transmitter 
+ a 
+ SHARC 7 Emergency Locator Transmitter (Champion Inst. Drawing 3-1504) 
+ 2 lb. 
+ (+79) 
+ Models 7ECA, 7GCAA, 7GCBC, 7KCAB 
+ b 
+ SHARC 7 Emergency Locator Transmitter (Champion Inst. Drawing 3-1506) 
+ 2 lb. 
+ (+62) 
+ Model 7ACA 
+ c 
+ Larago Emergency Locator Transmitter (Champion Inst. Drawing 3-1590) 
+ 3 lb. 
+ (+68) 
+ Models 7ECA, 7GCAA, 7GCBC, 7KCAB 
+ d 
+ Ameri-King AK-450 or ACK Technologies E-01 Emergency Locator Transmitter 
+ 2.5 lb 
+ (+68) 
+ (Champion Inst. Drawing 3-1689), Models 7ECA, 7GCAA, 7GCBC, 7KCAB, 7EC 
+ Miscellaneous not listed above 
+ 601 
+ Deluxe finish 
+ 12 lb. 
+ (+55) 
+ 602 
+ Step fuselage 
+ 1 lb. 
+ (+19) 
+ 603 
+ Special windows Aeronca dwg 7576 
+ 7 lb. 
+ (+50) 
+ *604. 
+ Crop spraying instln., Aero Spray King Model A2 or A2-49 (Instln. per Ong dwg. 
+ A2-200 or A200-49 submitted by Ong Aircraft Corp., P.O. Box 214, Kansas City, 
+ MO) Eligble for certification in Standard and/or Restricted classification. (See 
+ NOTE 3.) (Models 7AC thru 7EC only) 
+ a 
+ Aero Spray King Model A2 
+ 66 lb. 
+ (+37.5) 
+ b 
+ Aero Spray King Model A2-49 
+ 71 lb. 
+ (+39) 
+ 605. 
+ Aerial Insecticiding, Inc., ""Portable Spray Equipment Model AI-7AC"" installed per 
+ 40 lb. 
+ (+13) 
+ instln. instructions and instln. dwg. 7AC-2 and 7AC-3 furnished with kit. Eligible 
+ for certification in Standard classification. Models 7AC thru 7EC only 
+ 67 lb. 
+ (+17) 
+ *606. 
+ Crop sprayer instln. (Models 7AC thru 7EC only) Pipestone Aviation Services 
+ installed per Pipestone Aviation Services, Pipestone, MN, dwg. and instln. 
+ instructions dated March 3, 1949. (Eligible for certification in Standard 
+ classification 
+ *607. 
+ Crop sprayer instln. (Models 7AC thru 7EC only) Svedy-Sorensen Sprayer installed 
+ 56 lb. 
+ (+17) 
+ per Svedy-Sorensen, Worthington, MN, dwg. and instln. instructions dated 
+ March 10, 1949. (Eligible for certification in Standard classification). 
+ 71 lb. 
+ (+28) 
+ *608. 
+ Crop sprayer instln. (Models 7AC thru 7EC only) Sprayer installed per Broyhill 
+ Company, Dakota City, NE, dwg. BC-7DC-1. All propeller limits listed for each 
+ Model apply to this installation except Model 7AC and 7CCM static r.p.m. limits for 
+ wood propeller which should be as follows: Static r.p.m. at maximum permissible 
+ throttle setting: (Model 7AC) not over 2250, not under 2150; (Model 7BCM) not 
+ over 2450, not under 2300. Eligible for certification in Standard or Restricted 
+ classification See NOTE 3 
+ Placards required 
+ In full view of pilot: ""All acrobatics including spins prohibited 
+ when spray rig installed."" 
+ On spray tank: ""Allowable weight tank contents to be determined from 
+ weight and balance. Do not exceed 280 lb."" 
+ 77 lb. 
+ (+9) 
+ *609. 
+ Crop sprayer instln. (Models 7AC thru 7EC only) Oda Spray and Equipment 
+ Co., Inc. installed per Oda dwg. H-300 and H301. Certification and operation 
+ limitations same as item 608 except as noted below: 
+ and balance. Do not exceed 260 lb."" 
+ 32 lb. 
+ (+4) 
+ *610. 
+ Crop sprayer instln. (Models 7AC thru 7EC) Frye Mfg. Co. Model 112 (Instln. per 
+ Frye Aerial Spray Kit instructions for Aeronca 7 series). Certification and operation 
+ limitations same as item 608 
+ (+33.5) 
+ Disposable spray fluid 
+ 54 lb. 
+ (+19) 
+ *611. 
+ Crop sprayer instln. (Models 7AC thru 7EC) Aero Spray King, Jr. Model SA-10 
+ installed per Ong Aircraft Corp. instln. instructions and dwg. SA-1000. Certification 
+ and operation limitations same as item 608 except as noted below: 
+ and balance. Do not exceed 193 lb."" 
+ (+40) 
+ Disposable spray fluid 
+ 45 lb. 
+ (+29) 
+ *612. 
+ Crop sprayer installation. (Models 7AC thru 7EC only) Martin Sprayer, Model B, 
+ installed per Martin Sprayer Mfg. Co., Inc., Monmouth, IL, instln. instructions dated 
+ March 3, 1949. Eligible for certification in Standard and/or Restricted classification 
+ (See NOTE 3.) except Model 7AC, having wood propeller, is limited to certification 
+ in Standard classification only 
+ Placards required 
+ In full view of pilot: ""All acrobatics including spins prohibited 
+ when spray equipment installed."" 
+ On spray tank: ""Allowable weight tank contents to be determined from 
+ weight and balance. Do not exceed 395 lb."" 
+ (+37) 
+ Disposable spray fluid 
+ LOW GAL. 
+ *613. 
+ Crop sprayer instln. Svedy-Sorensen Model 9 Combination Seeder, 
+ (+19) 
+ 60 lb. 
+ Duster and High or Low Gallonage Sprayer and Model 11 High or Low 
+ HIGH GAL. 
+ Gallonage Sprayer installed per Svedy-Sorensen Worthington, MN, 
+ (+16) 
+ 84 lb. 
+ instln. instructions dated April 1, 1950. Eligible for certification in 
+ SEEDER 
+ DUSTER AND 
+ Standard and/or Restricted classification (see NOTE 3) except Model 
+ (+33) 
+ 47 lb. 
+ 7AC is limited to certification in Standard classification only. All 
+ propeller limits apply with the exception of those listed below: 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Model 9 Seeder, Duster and Low Gallonage Sprayer 
+ and Model 11 Low Gallonage Sprayer: 
+ Fixed Pitch Wood Propellers 
+ Model 7AC Model 7EC 
+ Not over 2250 2350 
+ Not under 2050 2200 
+ Fixed Pitch Metal Propellers 
+ Model 7EC 
+ Not over 2350 
+ Not under 2200 
+ Model 9 and 11 High Gallonage Sprayer: 
+ Fixed Pitch Wood Propellers 
+ Model 7AC Model 7GC 
+ Not over 2250 2350 
+ Not under 2200 2275 
+ Fixed Pitch Metal Propellers 
+ Model 7AC Model 7EC 
+ Not over 2250 2350 
+ Not under 2175 2250 
+ Placards 
+ In full view of pilot: ""All acrobatics including spins prohibited ."" 
+ On spray tank: ""Allowable weight tank contents to be 
+ determined from weight and balance. 
+ Do not exceed 450 lb."" 
+ 614 
+ Crop sprayer instln. consisting of items (a) and (b) below: 
+ (+34) 
+ 25 lb. 
+ (a) Crop Sprayer instln., Independent Crop Dusting, Inc., Campbell, CA, two-unit 
+ Rotary Spray Kit, when installed per Independent Crop Dusting, Inc., instructions 
+ for instln. of two Series 700 Rotors dated February 1, 1950. Eligible for 
+ certification in Standard and/or Restricted Classification (see NOTE 3) except 
+ Model 7AC with wood propeller is limited to certification in Standard Classification 
+ only. (Kit does not include tank). 
+ (+36) 
+ 30 lb. 
+ (b) Sprayer tank for approved sprayer instln. when installed per Independent Crop 
+ Dusting, Inc., ""Mounting Kit A-700-1"" instructions and dwg. dated July 31, 1950.. 
+ Placards required 
+ In full view of pilot: ""All acrobatics including spins prohibited."" 
+ On spray tank: ""Maximum tank load to be determined from weight and 
+ balance. Do not exceed 264 lb."" 
+ 615 
+ Crop sprayer instln., Svedy-Sorensen seat tank sprayer installed per Svedy- 
+ 59 lb. 
+ (+21) 
+ Sorensen dwg. 16 and installation instructions dated November 2, 1951. 
+ 616. 
+ Fiberglass wing tip modification (Champion dwg. 7-1085) Models 7AC, 7BCM, 
+ No wt. change 
+ 7CCM 7DC 7EC 7FC 
+ 125 lb. 
+ (+7.5) 
+ 617. 
+ Sorensen sprayer unit per Champion dwg. 7-1113. (Models 7GC and 7GCA only). 
+ Eligible for certification under regulations of CAR 8 and CAM 8 only. Maximum 
+ gross weight 7GC, 2100 lb., 7GCA, 2150. 
+ Placards required 
+ In full view of pilot: ""All acrobatics including spins prohibited."" 
+ ""Restricted Category speed limitations: 
+ Maximum level speed 92 m.p.h., never exceed 
+ speed 123 m.p.h."" 
+ On spray tanks: ""Allowable weight of tank contents to be determined 
+ from weight and balance. Do not exceed 810 lb."" 
+ 618. 
+ Clamp-on dorsal fin, Models 7AC and 7BCM (Aeronca dwg. 4-678) 
+ 3 lb. 
+ (+148) 
+ 128 lb. 
+ (+7) 
+ 619. 
+ Sorensen sprayer unit per Champion dwg. 7-1113. (Models 7GCAA, 7GCB, 
+ 7GCBC). Eligible for certification under regulations of CAR 8 and CAM 8 only. 
+ Maximum gross weight 2325 lb 
+ Placards required 
+ In full view of pilot: ""All acrobatics including spins prohibited."" 
+ ""Restricted Category Speed Limitations: 
+ Maximum level speed 115 m.p.h., never exceed 
+ speed 121 m.p.h."" 
+ On spray tanks: ""Allowable weight of tank contents to be determined 
+ from weight and balance. Do not exceed 810 lb."" 
+ 620. 
+ Champion combination sprayer-duster unit (Model 7GCBA only) 
+ a 
+ Hopper instln. only per Champion Installation dwg. 4-1167, 4-1182, 4-1194, 
+ 101 lb. 
+ (+33) 
+ 7-1163, 7-1169, 7-1172, 7-1178. 
+ b 
+ Hopper and duster unit only per Champion instln. dwg. 4-1167, 4-1182, 
+ 172 lb. 
+ (+30.5) 
+ 4-1194, 7-1163, 7-1169, 7-1172, 7-1178. 
+ c 
+ Hopper and sprayer unit only per Champion instln. dwg. 4-1167, 4-1182, 
+ 197 lb. 
+ (+22.5) 
+ 4-1194, 7-1163, 7-1169, 7-1172, 7-1178. 
+ d 
+ Hopper and duster-sprayer unit combination complete per Champion instln. 
+ 239 lb. 
+ (+22.5) 
+ dwg. 4-1167, 4-1182, 4-1194, 7-1163, 7-1169, 7-1172, 7-1178. 
+ 621 
+ Horizontal Tail Surfaces Model Applicability 
+ 4-1481 Stab. 
+ 4-1481 Stab. 
+ 4-1413 Stab. 
+ 4-867 Stab. 
+ 4-1671 
+ 4-1482 
+ 4-1414 
+ Model 
+ 4-869 
+ 4-1700 Elev. 
+ 4-1483 Elev. 
+ 4-1415 Elev. 
+ 4-870 Elev. 
+ 7ECA 
+ x 
+ x 
+ x 
+ x 
+ Seaplane 
+ x 
+ x 
+ x 
+ x 
+ Skiplane 
+ x 
+ x 
+ x 
+ x 
+ 7GCAA 
+ x 
+ x 
+ x 
+ Skiplane 
+ x 
+ x 
+ x 
+ 7GCB 
+ x 
+ x 
+ 7GCBA 
+ x 
+ x 
+ 7GCBC 
+ x 
+ x 
+ x 
+ Seaplane 
+ x* 
+ x** 
+ x 
+ Skiplane 
+ x 
+ x 
+ x 
+ 7KCAB 
+ x 
+ x 
+ x 
+ 7ACA 
+ x 
+ With Pee Kay 1800 Floats 
+ With Edo 892000 Floats 
+ Other models approved with 4-867 Stab. and 4-870 Elev. only. 
+ 4-1414-5 and 4-1415-5 Elev. are alternates for 4-1414 and 4-1415 Elev. 
+ 622 
+ Tow Hitch Installation 
+ 4 lb. 
+ (+111) 
+ Tow Hitch instln. per Champion dwg.7-1143 
+ Models 7ECA, 7GCAA, 7GCB, 7GCBC, 7KCAB 
+ 623 
+ Metal Belly Skin Instln. per Bellanca dwg. 4-1579 
+ 14 lb. 
+ (+66) 
+ Models 7ECA 7GCAA 7GCBC 7KCAB 
+ NOTE 1. Current weight and balance report including list of equipment included in certificated empty 
+ weight and loading instructions when necessary must be provided for each aircraft at the time of 
+ original certification 
+ The certificated empty weight and C.G. location must include unusable fuel of 6 lb. at (+15) in. 
+ on 
+ Models 7ECA 7GCAA 7GCBC 7KCAB 
+ with items 119 or 123(a) Fuel tanks installed. 
+ NOTE 2. The following placards shall be displayed: 
+ a Baggage Compartment 
+ (1) (Models 7AC and S7AC) 
+ ""Maximum baggage - 40 lb. solo front, 20 lb. solo rear."" 
+ (2) (Models 7EC, 7FC, 7GC, 7GCA, 7GCB, 7HC, 7JC, 7KC) 
+ ""Maximum baggage 50 lb."" 
+ (3) (Models 7ECA, 7GCAA, 7GCBC, 7KCAB) 
+ ""Maximum baggage 100 lb."" 
+ (4) (Model 7ACA) 
+ ""Maximum baggage 40 lb."" 
+ (b) In front and clear view of pilot: 
+ (1) (Model 7BCM) 
+ ""Do not exceed 95 m.p.h. TIAS in level flight at any time."" 
+ ""Solo from front seat only."" 
+ (2) (Model S7AC with item 106) 
+ ""Solo from front seat only."" 
+ (3) (Models 7CCM and 7DC) 
+ ""Do not exceed 100 m.p.h. TIAS in level flight."" 
+ ""Do not exceed 135 m.p.h. TIAS."" 
+ ""Solo from front seat only."" 
+ ""Intentional spinning prohibited when carrying baggage."" 
+ ""Avoid abrupt throttle operation."" (For those models equipped with carburetor engine only.) 
+ (4) (Models S7CCM, S7DC) 
+ ""Do not exceed 129 m.p.h. TIAS."" 
+ ""Solo from front seat only."" 
+ ""Avoid abrupt throttle operation."" (For those models equipped with carburetor engine only.) 
+ (5) (Models 7EC and 7FC) 
+ ""Intentional spinning prohibited when carrying baggage."" 
+ (6) (Models 7GC, 7GCA) 
+ ""Solo from front seat only."" 
+ ""Intentional spinning prohibited."" 
+ (7) (Model 7HC) 
+ ""Solo from front seat only."" 
+ ""Intentional spinning prohibited."" 
+ ""Refer to loading schedule for loading information."" 
+ (8) (Model 7JC) 
+ ""Occupy front seat when flying solo."" 
+ (9) (Model 7KC) 
+ ""Intentional spinning prohibited."" 
+ (10) (Models 7ECA, 7GC, 7GCB, 7GCBC, 7HC) 
+ In addition to the above applicable placards, the following is required when 
+ Item 204(c) is installed: 
+ ""For seaplane use, do not exceed 137 m.p.h."" 
+ ""Intentional spinning prohibited."" 
+ (11) (Model 7GCBA) 
+ ""All acrobatics including spins prohibited."" 
+ (12) (Model 7GCB) 
+ ""Occupy front seat when flying solo."" 
+ ""Refer to loading schedule for loading information."" 
+ ""Do not exceed 135 MPH IAS during negative G condition."" 
+ ""Landplane approved for only following acrobatic maneuvers: 
+ Maneuver 
+ Entry Speed (IAS) 
+ m.p.h. 
+ Knots 
+ Chandelle, Lazy Eight 
+ 120 
+ 104 
+ Barrel or Slow Roll 
+ 120 
+ 104 
+ Immelmann 
+ 145 
+ 126 
+ Loop or Clover Leaf 
+ 140 
+ 122 
+ Split S 
+ 80 
+ 70 
+ Snap Roll 
+ 85 
+ 74 
+ Hammerhead Turn 
+ 140 
+ 122 
+ Cuban Eight 
+ 145 
+ 126 
+ Spin 
+ Slow Deceleration 
+ Do not exceed +5.0 or -2.0 G load factor. Do not exceed 135 m.p.h. IAS during negative 
+ G condition. Do not perform acrobatics in turbulent air. Caution: Negative G will cause 
+ loss of oil and oil pressure. Use of flaps during acrobatics prohibited. To recover from 
+ spin, use full opposite rudder and neutralize elevator. 
+ (13) (Model 7ECA, 7GCAA) 
+ ""Occupy front seat when flying solo."" 
+ ""Do not exceed 135 m.p.h. during negative G condition."" 
+ ""Landplane approved for only following acrobatic maneuvers: 
+ Maneuver 
+ Entry Speed (IAS) 
+ m.p.h. 
+ Knots 
+ Chandelle, Lazy Eight 
+ 120 
+ 104 
+ Barrel or Slow Roll 
+ 120 
+ 104 
+ Immelmann 
+ 145 
+ 126 
+ Loop or Clover Leaf 
+ 140 
+ 122 
+ Split S 
+ 80 
+ 70 
+ Snap Roll 
+ 85 
+ 74 
+ Hammerhead Turn 
+ 140 
+ 122 
+ Cuban Eight 
+ 145 
+ 126 
+ Spin 
+ Slow Deceleration 
+ Do not exceed +5.0 or -2.0 G load factor. Do not exceed 135 m.p.h. IAS during negative 
+ G condition. Do not perform acrobatics in turbulent air. Caution: Negative G will cause 
+ loss of oil and oil pressure. To recover from spin, use full opposite rudder and neutralize 
+ elevator. 
+ (14) (Model 7GCBC) 
+ ""Occupy front seat when flying solo."" 
+ ""Do not exceed 135 m.p.h. IAS during negative G condition."" 
+ ""Landplane approved for only following acrobatic maneuvers: 
+ Maneuver 
+ Entry Speed (IAS) 
+ m.p.h. 
+ Knots 
+ Chandelle, Lazy Eight 
+ 120 
+ 104 
+ Barrel or Slow Roll 
+ 120 
+ 104 
+ Immelmann 
+ 145 
+ 126 
+ Loop or Clover Leaf 
+ 140 
+ 122 
+ Split S 
+ 80 
+ 70 
+ Snap Roll 
+ 85 
+ 74 
+ Hammerhead Turn 
+ 140 
+ 122 
+ Cuban Eight 
+ 145 
+ 126 
+ Spin 
+ Slow Deceleration 
+ Do not exceed +5.0 or -2.0 G load factor. Do not exceed 135 m.p.h. IAS during negative 
+ G condition. Do not perform acrobatics in turbulent air. Caution: Negative G will cause 
+ loss of oil and oil pressure. Use of flaps during acrobatics prohibited. To recover from 
+ spin, use full opposite rudder and neutralize elevator. 
+ (15) (Model 7KCAB) with IO-320-E2A or IO-320-E2B (Modified per STC SE7CE) 
+ ""Occupy front seat when flying solo."" 
+ ""Do not exceed 135 m.p.h. IAS during negative G condition."" 
+ ""Landplane approved for only following acrobatic maneuvers: 
+ Maneuver 
+ Entry Speed (IAS) 
+ m.p.h. 
+ Knots 
+ Chandelle, Lazy Eight 
+ 120 
+ 104 
+ Barrel or Slow Roll 
+ 120 
+ 104 
+ Immelmann 
+ 145 
+ 126 
+ Loop or Clover Leaf 
+ 140 
+ 122 
+ Split S 
+ 80 
+ 70 
+ Snap Roll 
+ 85 
+ 74 
+ Hammerhead Turn 
+ 140 
+ 122 
+ Cuban Eight 
+ 145 
+ 126 
+ Spin 
+ Slow Deceleration 
+ Level Inverted Flight 
+ 120 
+ 104 
+ 135 m.p.h. (117 KTS) IAS Max 
+ Do not exceed +5.0 or -2.0 G load factor. Do not exceed 135 m.p.h. IAS during negative 
+ G 
+ condition. Do not perform acrobatics in turbulent air. Inverted flight limited to 2 min. 
+ Monitor oil press. while inverted to insure minimum of 60 psi. To recover from spin, use 
+ full opposite rudder and neutralize elevator. 
+ (Model 7KCAB with AEIO-320-E2B) 
+ ""Occupy front seat when flying solo."" 
+ ""Do not exceed 135 m.p.h. IAS during negative G condition."" 
+ ""Landplane approved for only following acrobatic maneuvers: 
+ Maneuver 
+ Entry Speed (IAS) 
+ m.p.h. 
+ Knots 
+ Chandelle, Lazy Eight 
+ 120 
+ 104 
+ Barrel or Slow Roll 
+ 120 
+ 104 
+ Immelmann 
+ 145 
+ 126 
+ Loop or Clover Leaf 
+ 140 
+ 122 
+ Split S 
+ 80 
+ 70 
+ Snap Roll 
+ 85 
+ 74 
+ Hammerhead Turn 
+ 140 
+ 122 
+ Cuban Eight 
+ 145 
+ 126 
+ Spin 
+ Slow Deceleration 
+ Level Inverted Flight 
+ 120 
+ 104 
+ 135 m.p.h. (117 KTS) IAS Max 
+ Do not exceed +5.0 or -2.0 G load factor. Do not exceed 135 m.p.h. IAS during negative 
+ G condition. Do not perform acrobatics in turbulent air. 2 min. of inverted fuel normally 
+ available. Momentary oil pressure interruptions are normal. To recover from spin, use 
+ full opposite rudder and neutralize elevator. 
+ (16) (Model 7GCBC with O-320-A2B Lycoming engine and item 204(d) installed) 
+ ""For Seaplane use: 
+ Acrobatics including spins prohibited. 
+ Maximum glide or dive speed 
+ 148 m.p.h. (128 knots) CAS 
+ Maximum level speed 
+ 110 m.p.h. ( 95 knots) CAS 
+ Maximum flaps extended speed 90 m.p.h. ( 78 knots) CAS"" 
+ (17) (Model 7ACA) 
+ ""Do not exceed 129 TIAS."" 
+ ""Occupy front seat when flying solo."" 
+ (c) On left side of fuselage, next to rear seat: 
+ (1) (Model 7HC) 
+ ""Maximum rear seat load, 250 lb. Remove rear stick with two occupants."" 
+ (2) (Model 7GCB) (When using adjustable rear seat) 
+ ""Maximum rear seat load, 250 lb. Remove rear stick with two occupants."" 
+ (d) On cabin door rear window: 
+ (1) (Model 7GCBA) 
+ ""Restricted."" 
+ (e) On top of hopper in plain view of ground crew filling the hopper: 
+ (1) (Model 7GCBA) 
+ ""Maximum hopper load 900 lb."" 
+ NOTE 3. Mandatory inspection times for strut attach fitting 3-1692 (7ECA, 7GCAA, 7GCBC, and 7KCAB) 
+ on metal spar winged aircraft must be inspected in accordance with American Champion Aircraft 
+ Airworthiness Limitations, dated May 9, 1996 or later FAA approved revision. 
+ NOTE 4. All Model 7AC airplanes are eligible with the engine installations listed under Sections III, IV, V 
+ and VIII, when accomplished in accordance with the following Champion Service Letters: 
+ No 13 7AC to 7BCM 
+ No 14 7AC to 7DC 
+ No 15 7AC to 7CCM 
+ No 56 7AC to 7EC 
+ All Model 7EC airplanes are eligible with the engine installations listed under Section IX when",
+No 60 7EC to 7GC,"When making this conversion, the nameplate in the airplane must be restamped with the proper"
+"model designation and the letters ""CONV"" added. The airplane serial number should not be",
+changed,"NOTE 5. Military S/N AAF 47-788 thru AAF 47-1296 eligible as 7BCM. Military S/N AAF 48-424 thru 
+ AAF 48-524 eligible as 7CCM. The nameplate in the airplane must be stamped with the proper"
+model designation. S/N 47-788 thru 47-1296 eligible as 7CCM if converted in accordance with,
+Aeronca Service Letter No 15,"NOTE 6. (a) On aircraft S/N 7EC-732 thru 773-397 thru 472, 7GC-171, 7GCB-17 thru 194, 7HC-30 thru 39, 
+ 7JC-18 thru 25, 7KC-1 thru 4, level as follows: level aircraft laterally and longitudinally 
+ using the three leveling lugs projecting through the left hand front floorboard. 
+ (b) On aircraft S/N's 7EC-774, 7ECA-1 and up, 7GC-172, 7GCA-172, 7GCAA-1 and up, 
+ 7GCB-195, 7GCBA-1, 7GCBC-1 and up, 7JC-26, 7KC-4, 7KCAB-1 and up, level as follows: 
+ drop plumb line from wing leading edge so that top oleo retaining bolt center line is 1/4 inch 
+ forward of wing leading edge. 
+ (c) On aircraft S/N's 7FC-473 and up, 7HC-40 and up, level as follows: drop plumb line from 
+ wing leading edge and measure 10-5/16 inches to aft face of front wing strut lug."
+"(d) Models 7ECA, 7GCAA, 7GCBC, 7KCAB, 7ACA - Aircraft with spring steel gear installed, level",
+NOTE 7. S/N's 7FC-2 thru 7FC-430 of model 7FC are eligible for item 201(e) wide track main gear when,
+NOTE 8. All 7JC aircraft are eligible for conversion to model 7EC at 1500 lb. maximum weight when,
+NOTE 9. S/N's 7HC-1 thru 7HC-32 of model 7HC are eligible for item 201(e) wide track main gear when,
+"NOTE 10. Model 7GCB eligible for acrobatic maneuvers listed in NOTE 2(b)(12), Model 7ECA and 7GCAA",
+NOTE 15,"The following changes apply to 7ECA and 7GCAA aircraft built in 1995 and later 
+ (all with 7-1566 wing frames). 
+ C.G. Range and Maximum Weight changes also apply to any 7ECA, 7GCAA, or 7KCAB that 
+ retrofits with 7-1566 wing frames or 7-1567 covered wing frames. 
+ C.G. Range: 
+ Landplane: 
+ (+14.2) to (+19.2) at 1750 lb. 
+ (+10.5) to (+19.2) at 1325 lb. or less 
+ When performing acrobatic maneuvers, 
+ the C.G. range shall be limited to: 
+ (+14.2) to (+16.3) at 1750 lb. 
+ (+10.5) to (+16.3) at 1325 lb. or less 
+ Straight line variation between points given. 
+ Maximum Weight 
+ Landplane: 
+ 1750 lb. 
+ Serial Nos. Eligible 
+ 7ECA: 
+ 1355-95 and up 
+ 7GCAA: 
+ 400-97 and up"
+NOTE 16,"The following changes apply to 7EC aircraft built in 2006 and later 
+ Engine 
+ Continental O-200-A or O-200-D 
+ Fuel 
+ 80 minimum grade aviation gasoline (O-200-A) 
+ 100LL minimum grade aviation gasoline (O-200-D) 
+ Engine Limits 
+ For all operations, 2750 r.p.m. (100 hp.) 
+ Airspeed Limits 
+ Level flight or climb 
+ 100 m.p.h. (87 knots) True Ind. 
+ Glide or dive 
+ 135 m.p.h. (117 knots) True Ind. 
+ C.G. Range 
+ Normal Category: 
+ (+14.0) to (+19.2) at 1320 lb. 
+ (+11.0) to (+19.2) at 1100 lb. or less 
+ Utility Category: 
+ (+14.0) to (+18.2) at 1320 lb. 
+ (+11.0) to (+18.2) at 1100 lb. or less 
+ Straight line variation between points given. 
+ Empty wt. 
+ C.G. Range 
+ None 
+ Maximum Weight 
+ 1320 lb. 
+ No. of Seats 
+ 2 (1 at +11.5, 1 at +43) 
+ 2 (1 at +11 to +14 with item 404(n), 1 at +43) 
+ Maximum Baggage 
+ 100 lbs. at +69 
+ Fuel Capacity 
+ 18 gal. At +24.5 
+ Oil Capacity 
+ 6 qt. at –35 (O-200-A) 
+ 5 qt at –35 (O-200-D) 
+ Control Surface 
+ Movements 
+ Elevator 
+ Up 
+ 24o 
+ Down 
+ 24o 
+ Elevator Trim Tab Up 
+ 17.5o 
+ Down 
+ 37.5o 
+ Ailerons 
+ Up 
+ 28.5o 
+ Down 
+ 18o 
+ Rudder 
+ Right 
+ 25o 
+ Left 
+ 25o 
+ Serial Nos. Eligible 
+ 1000-2006 and up 
+ Required Equipment Items 25, 111(i), 118(f), 201(o), 202(g), 307(w), 311(e), 409(d)"

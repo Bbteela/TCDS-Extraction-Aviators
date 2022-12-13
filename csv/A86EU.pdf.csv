@@ -1,0 +1,288 @@
+Keyterm,Info
+"A86EU 
+ Revision 4 
+ AEROMACCHI S.p.A. 
+ S.211A 
+ March 11, 2022",
+Type Certificate Holder,"AERMACCHI S.p.A. 
+ Via P. Foresio, 1 
+ 21040 Venegono Superiore (VA) 
+ Italy"
+"I - Model SIAI Marchetti S.211A (Acrobatic Category), Approved June 16, 1995",
+Engine,"1 Pratt & Whitney Aircraft of Canada, 
+ JT15D-5C turbofan"
+Fuel,"Jet A-1 or Jet B conforming to ASTM-D-1655 
+ JP-4 conforming to MIL-6-83133 
+ JP-5 conforming to MIL-T-5624 
+ JP-8 conforming to MIL-T-83133 
+ Anti-icing additive: for operations at external temperatures lower than +5 ºC, 
+ Ethylene Glycol Monomethyl Ether conforming to MIL-I-27686E must be 
+ blended into the aircraft fuel in concentrations not less than 0.06 percent or 
+ more than 0.15 percent by volume. 
+ For emergency use of Aviation Gasoline and fueling procedures, refer to 
+ Airplane Flight Manual."
+Oil,According to Airplane Flight Manual.
+Engine Limits,"Static Thrust standard day, sea level: 
+ Take-off 
+ 1,418.9 daN 
+ (3190 Lbs) 
+ Maximum continuous 
+ 1,418.9 daN 
+ (3190 Lbs) 
+ Max permissible engine rotor operating speeds: 
+ NL (Fan) 
+ 16,540 r.p.m. 
+ 104 percent 
+ NH (Gas gen) 
+ 31,450 r.p.m. 
+ 96 percent 
+ Max permissible interturbine gas temperatures: 
+ Take-off 
+ 700º C 
+ Maximum continuous 
+ 700º C"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"4 
+ - 
+ - 
+ 3 
+ 4 
+ - 
+ at 8,000 ft 
+ 210 (*) 
+ 213 
+ at sea level 
+ 250 (*) 
+ 253 
+ (*) linear variation for intermediate altitudes. 
+ MMO 
+ above 17,500 ft 
+ 0.72 Mach 
+ .72 Mach 
+ VA 
+ (design maneuvering) at 2900 Kg 
+ (6.394 Lbs) 
+ 280 
+ 283 
+ See A.F.M. for variations with weight 
+ VO 
+ (operational maneuvering) 
+ at 2900 Kg. (6394 lbs) 
+ 260 
+ 263 
+ See A.F.M. for variations with 
+ weight. 
+ VFE (flap extended) 
+ 160 
+ 162 
+ VLE (landing gear extended) 
+ 160 
+ 162 
+ VLO (landing gear operating) 
+ 160 
+ 162"
+CG Range,FORWARD:
+Landing gear retracted,"+5.235 m.(206.1 in) 
+ (18.0% MAC) at 2,350 Kg 
+ (5181 Lbs) or less 
+ +5.296 m. (208.5 in) 
+ (21.66% MAC) at 2,900 Kg 
+ (6394 Lbs). 
+ AFT: 
+ +5.391 m. (212.3 in) 
+ (27.5% MAC) at all weights 
+ Linear variation between weights."
+Mean Aerodynamic,1.646 m. (64.80 in); % MAC at 4.939 m. (194.44 in)
+Chord MAC,(from Datum)
+Datum,1.775 m. (69.88 in) in front of the forward cabin pressurized bulkhead
+Leveling,"Lateral: traverse bar placed on the cockpit sills 
+ Longitudinal: left hand cockpit sill"
+Maximum Weight,"Take-off 
+ 2,900 Kg (6394 Lbs) 
+ Landing 
+ 2,900 Kg (6394 Lbs) 
+ Zero Wing Fuel 
+ 2,420 Kg (5335 Lbs)"
+Equipment and Baggage,"20 Kg (44 Lbs) in the ventral fuselage compartment, arm 4.337 m (170.75 in)."
+Minimum Crew,1 pilot (front cockpit)
+Number of Seats,2 (front and rear cockpit)
+Fuel Capacity,"Total: 894 Lt. (236 U.S. Gal.); 
+ Total usable: 867 Lt. (229 U.S. Gal.). 
+ (See Note 1). 
+ (See Note 1)."
+Outside Temperature Limits,Between -25º C and + 45º C at sea level.
+Control Surface,"Flap 
+ Down 
+ 35º ± 1º"
+Movements,"Aileron 
+ Up 
+ 24 º ± 1º 
+ Down 
+ 16º ± 1º 
+ Aileron trim 
+ Up 
+ 6º 20´ ± 1º 
+ Down 
+ 5º 40´ ± 1º 
+ Elevator 
+ Up 
+ 25º ± 1º 
+ Down 
+ 12º 30´ ± 1º 
+ Elevator servo 
+ Up 
+ 8º 45´± 1º 
+ Down 
+ 17º 30´ ± 1º 
+ tab 
+ Rudder 
+ Right 
+ 20º ± 1º 
+ Left 
+ 20º ± 1º 
+ Rudder trim 
+ Up 
+ 10º ± 1º 
+ Down 
+ 10º ± 1º 
+ Stabilizer trim 
+ Up 
+ 0º 30´ ± 15' 
+ Down 
+ 5º ± 15' 
+ Speedbrake 
+ Down 
+ 37º"
+Serial Nos Eligible,"Each individual aircraft manufactured under this type certificate must 
+ be accompanied by an Export Certificate of Airworthiness as noted 
+ below under ""Import Requirements"" when an application for a U.S. 
+ airworthiness certificate is made. 
+ Model No. Siai Marchetti S211A: 201 and 202. 
+ Instructions to be accomplished to bring aircraft to the configuration 
+ required for receiving a U.S. Airworthiness Certificate are reported in 
+ SIAI Marchetti Technical Instruction Notes 211A-00-22-11 (S/N 201) 
+ and 211A-00-22-12 (S/N 202)."
+Import Requirements,"Country of Manufacturer: A U.S. airworthiness certificate may be 
+ issued on the basis of an Export Certificate of Airworthiness approved 
+ by an authorized representative of the Registro Aeronautico Italiano 
+ including the following statement: 
+ ""The aircraft covered by this certificate has been examined, tested, and 
+ found to conform to the type design approved under Type Certificate 
+ A86EU and is in a condition for safe operation."" 
+ Country other than Manufacturer (U.S. bilateral agreement and the original 
+ Export Certificate of Airworthiness issued by the country of manufacture must 
+ exist): 
+ A U.S. airworthiness certificate may be issued on the basis of a log 
+ book certifying statement endorsed by an authorized representative of 
+ the civil aviation authority of the exporting country. It is incumbent 
+ upon the exporting civil aviation authority to determine that the 
+ certifying statement includes evidence of acceptable service history 
+ and modification deviations and the following statement: 
+ ""The aircraft covered by this certificate has been examined, tested, 
+ inspected in accordance with the provisions of FAR 21.183(d) or its 
+ equivalent, and found to conform to the type design approved under 
+ Type Certificate A86EU and is in a condition for safe operation."" 
+ FAA Order 8130.2, Airworthiness Certification of Aircraft, for requirements for 
+ issuance of an airworthiness certificate for imported aircraft."
+Certification Basis,"- 
+ FAR Part 23 dated February 1, 1965 as amended through amendment 
+ 23-44 effective August 18, 1993. 
+ - 
+ Special Conditions (SC-23-ACE-80) effective June 16, 1995 in lieu 
+ of FAR 23.45, 23.51, 23.53, 23.65; 23.75; 23.77; 23.1581; 23.1583; 
+ 23.1585; 23.1587; 23.1589, and SC23.63; SC23.69; SC23.71; SC23.73. 
+ - 
+ Equivalent level of safety for FAR 23.562, [ACE No. 95-4], 23.677 
+ (a) [ACE No. 95-5], 23.777 (f) (1) [ACE No. 95-6], 23.807 (b)(5) 
+ [ACE No. 95-11], 23.841 (a) and (b) (5) (6) [ACE No. 95-7], 23.971 
+ (a) and (b) [ACE No. 95-8] 23.1182 [ACE No. 95-10], 23.1557 (d) 
+ [ACE No. 95-9] effective April 6, 1995. 
+ - 
+ FAR PART 34 effective September 10, 1990. 
+ - 
+ FAR PART 36 dated December 1, 1969, as amended through Amendment 
+ 36-20 effective September 16, 1992. 
+ Date of application for Type Certificate, July 9, 1993. 
+ The ENTE NAZIONALE per L’AVIAZONE CIVILE (ENAC) originally type 
+ Certificated this aircraft under its Type Certificate Number A 317 
+ Effective September 29, 2005, and it is an Italian Annex II product."
+Validation Basis,"Type Certificate A86EU was issued pursuant to FAR 21.29 in validation of 
+ Registro Aeronautico Italiano certification of compliance with the 
+ aforementioned certification basis, and in accordance with the standard 
+ airworthiness certificate provisions of FAR 21.183(c). 
+ NOTE: The airworthiness provisions of FAR 21.183(d) may be cited 
+ as the basis for issuance of standard airworthiness certificates for 
+ aircraft imported from a country other than the country of manufacture."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the aircraft for 
+ airworthiness certification. In addition, the following items of equipment are 
+ required: 
+ (a) Siai Marchetti S211A-R.A.I. approved Airplane Flight Manual P/N 211A- 
+ 00-38-01, dated June 6, 1995, or later RAI approved revisions."
+Import requirements,The FAA can issue a U.S. airworthiness certificate based on an NAA Export
+Certificate,"of Airworthiness (Export C of A) signed by a representative of the ENTE 
+ NAZIONALE per L’AVIAZONE CIVILE (ENAC) on behalf of the 
+ European Community. The Export C of A should contain the following 
+ statement “ The aircraft covered by this certificate has been examined, tested, 
+ and found to comply with ENAC’s Type Certificate No A317 approved under 
+ U.S. Type Certificate No. A 86EU and to be in a condition for safe operation”. 
+ Refer to the applicable bilateral agreement to verify eligibility for import into 
+ the United States of both new and used aircraft based on the scope of the 
+ agreement, to identify any required statements by the exporting authority on 
+ the export certificate of airworthiness (or equivalent document), and for 
+ procedures for coordinating exceptions to conformity statements on these 
+ documents. Refer to FAA Order 8130.2, Airworthiness Certification of 
+ Aircraft, for requirements for issuance of an airworthiness certificate for 
+ imported aircraft. 
+ · Vendor Manuals 
+ · Aircraft Flight Manuals, and 
+ · Overhaul and Maintenance Manuals"
+NOTE 1,"Current weight and balance report including list of equipment in the certificated empty weight, 
+ and loading instructions, must be provided for each aircraft at the time of original airworthiness 
+ certification, and at all time thereafter. 
+ The certificated empty weight and corresponding center of gravity location must include: 
+ - 
+ Unusable fuel: 
+ 20.5 Kg (45 Lbs) at 5.185 m. (204.13 in) and 1.6 Kg (3,6 Lbs) at 5.561 m. (218.93 in) 
+ for JP-5. 
+ 20.1 Kg (44 Lbs) at 5.185 m. (204.13 in) and 1.6 Kg (3,6 Lbs) at 5.561 m. (218.93 in) 
+ for JP-8/JET A-1 
+ 18.9 Kg (41,5 Lbs) at 5.185 m. (204.13 in) and 1.5 Kg (3,3 Lbs) at 5.561 m. (218.93 in) 
+ for JP-4 
+ 17.8 Kg (39 Lbs) at 5.185 m. (204.13 in) and 1.4 Kg (3 Lbs) at 5.561 m. (218.93 in) 
+ for AVGAS 
+ - 
+ Full Engine Oil: 8.6 Kg (19 lbs) at 7.3 m (287.4 in). 
+ - 
+ Undrainable Engine Oil: 
+ 0.5 Kg (1,1 Lbs) at 7.300 m. (287,4 in)."
+NOTE 2,"Placards (Refer to SIAI Marchetti Dwgs. B2-85001, B2-00416, B2- 21637, B2-25330, 
+ B2-21807, for a complete listing): 
+ All required placards as listed in the approved Airplane Flight Manual must be installed in the 
+ appropriate locations. 
+ (1) The following placard must be displayed in clear view of the pilot: 
+ ""THE MARKING AND PLACARDS INSTALLED IN THIS 
+ AIRPLANE CONTAIN OPERATING LIMITATIONS WHICH 
+ MUST BE COMPLIED WITH WHEN OPERATING THIS 
+ AIRPLANE IN THE ACROBATIC CATEGORY. OTHER 
+ OPERATING LIMITATIONS WHICH MUST BE COMPLIED WITH 
+ WHEN OPERATING THIS AIRPLANE IN THIS CATEGORY ARE 
+ CONTAINED IN THE AIRPLANE FLIGHT MANUAL."" 
+ (2) Refer to the Airplane Flight Manual, Section 2, Limitations for a listing of other required 
+ placards."
+NOTE 3,"Instructions for Continued Airworthiness and Service Life Limits of components are contained in 
+ the S211A Maintenance Manual (SIAI Marchetti Report 211A-00-39-01). Revisions to 
+ Airworthiness Limitations must be FAA approved. 
+ All manufacturer's service bulletins (and other manual material) which contain a statement that the 
+ document is approved by the exporting airworthiness authority (RAI) may be interpreted as FAA 
+ approved. These approvals pertain to the type design only. 
+ All service bulletins classified as Mandatory by the Italian Civil Aviation Authority are identified 
+ to that effect and are subject to an Airworthiness Directive issued by the FAA. 
+ Service documents required: S211A Maintenance Manual. 
+ Aircraft eligible for a standard airworthiness certificate must not be issued an airworthiness 
+ certificate unless the FAA has approved the Instructions for Continued Airworthiness."

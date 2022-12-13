@@ -1,0 +1,246 @@
+Keyterm,Info
+"A28CE 
+ Revision 13 
+ Textron Aviation Inc. 
+ 441 
+ July 29, 2015",
+Type Certificate Holder,"Textron Aviation Inc. 
+ One Cessna Boulevard 
+ Wichita, Kansas 67215"
+Type Certificate Holder Record,"Cessna Aircraft Company transferred to 
+ Textron Aviation Inc. on July 29, 2015"
+"I. 
+ Model 441, Conquest (Normal Category), Approved August 19, 1977",
+Engines,"Two Garrett Turbine Engine Company TPE331-8 Series Turboprops: 
+ S/N 441-0001 through 441-0339 
+ TPE331-8-401S 
+ TPE331-8-402S 
+ TPE331-8-403S 
+ TPE331-8-404S 
+ Engines may be interchanged in any combination. 
+ S/N 441-0340 and on 
+ TPE331-8-406S"
+Fuel,"Aviation turbine fuel ASTM D-1655, Jet A, Jet A-1 or Jet B; MIL-T-5624, JP-4 or Jp-5. 
+ Anti-icing additive per MIL-I-27686D, MIL-T-2768E, or Phillips PFA 55MB must be 
+ blended into the aircraft fuel in concentrations not less than 0.060% by volume. For 
+ emergency use of aviation gasoline and fueling procedures, refer to FAA Approved 
+ Airplane Flight Manual."
+Engine Limits,"Static sea level ratings 
+ Shaft 
+ Gas Gen. 
+ Indicated 
+ Prop 
+ Exhaust 
+ Horse 
+ Speed 
+ Torque 
+ Shaft 
+ Gas 
+ Power 
+ Speed 
+ Temp. 
+ (% R.P.M.) 
+ (Ft.-lbs.) 
+ (R.P.M.) 
+ (Deg. C) 
+ Takeoff (5 min) Static 
+ 635.5 
+ 100 
+ 1669 
+ 2000 
+ 450° 
+ Max. Continuous 
+ 635.5 
+ 100 
+ 1669 
+ 2000 
+ 450° 
+ Starting Limit 
+ -- 
+ -- 
+ -- 
+ -- 
+ 770° 
+ Note: During manual mode operation, refer to OAT gage and AFM for EGT limits."
+1,"2 
+ 3 
+ 4"
+13,"11 
+ 10 
+ 12"
+Propeller and,"Two three-bladed full-feathering, reversible propellers:"
+Propeller Limits,"1. 
+ Manufacturer: Hartzell 
+ Compatible Engines: TPE331-8-401S or 402S 
+ Hub: Hartzell HC-B3TN-5 
+ Blade: Hartzell T10178B-11 
+ Diameter: not over 90.0 inches, not under 88.5 inches; no further reduction 
+ permitted 
+ Pitch at 30-inch station: 
+ Start locks 
+ + 2.0° 
+ Flight idle 
+ +10.0° 
+ Feathered 
+ +87.4° 
+ Reverse 
+ - 8.0° 
+ 2. 
+ Manufacturer: McCauley Accessory Division 
+ Compatible Engines: TPE331-8-403S, 404S, or 406S 
+ Hub: McCauley 3GFR34C601 
+ Blade: McCauley 93JA-3 
+ Diameter: Not over 90.0 inches, not under 88.5 inches; no further reduction 
+ permitted 
+ Pitch at 30-inch station: 
+ Start locks 
+ + 2.0° 
+ Flight idle 
+ + 8.5° 
+ Feathered 
+ +85.3° 
+ Reverse 
+ - 8.0° 
+ Note: Either two McCauley or two Hartzell Propellers are required."
+Airspeed Limits,"VMO (Maximum operating) 
+ 245 knots"
+IAS,"Sea level to 21,300 ft. 
+ MMO Above 21,300 ft. 
+ .55 mach 
+ VA (Maneuvering) 
+ 167 knots 
+ VFE (Flaps extended) 
+ 30° (Landing) 
+ 180 knots 
+ 20° (Approach) 
+ 200 knots 
+ 10° (Takeoff) 
+ 200 knots 
+ VMCA (Minimum control speed) Air 
+ 91 knots 
+ VLO (Landing gear operating) 
+ 180 knots 
+ VLE (Landing gear extended) 
+ 180 knots"
+CG Range Landing,"(+167.63 in.) to (+178.07 in.) at 6,800 lb. (12% to 28.5% MAC)"
+Gear Extended,"(+173.35 in.) to (+178.07 in.) at 9,850 lb. (21% to 28.5% MAC) 
+ Variation is linear between points 
+ Landing gear retracting moment (+1113 in.-lb.)"
+Empty Wt CG Range,None
+Datum,100.0 in. forward of the front face of the forward pressure bulkhead which is sta. +100.0
+Leveling Means,"Seat rails over main spar (lateral) 
+ Leveling screws, R.H. fuselage (longitudinal)"
+Maximum Weight,"Takeoff 
+ 9,850 lb. 
+ Landing 
+ 9,360 lb. 
+ Zero fuel 
+ 8,500 lb. 
+ Ramp 
+ 9,925 lb."
+No of Seats,"1 through 11 (2 at +137.0, 2 at +178.0, 2 at +209.0, 2 at +249.0, 1 at +285.0, 2 at 
+ +296.0) 
+ See Manufacturer's Equipment List for other seating arrangements"
+Maximum Baggage,"Nose compartment: 
+ 250 lb. 
+ Sta. + 32.0 
+ 350 lb. 
+ Sta. + 71.0 
+ Aft cabin: 
+ 400 lb. 
+ Sta. +281.0 
+ 400 lb. 
+ Sta. +301.0 
+ 100 lb. 
+ Sta. +317.0"
+Fuel Quantity,"3227 lb. (481.5 gal.) total in two wing tanks 
+ 1613.5 lb. (240.75 gal.) each 
+ 3183 lb. (475 gal.) usable total, 1591.5 lb. (237.5 gal.) in each tank at sta. +181.9. Fuel 
+ weight based on 6.70 lb./gal. 
+ See NOTE 1 for data on unusable fuel"
+Oil Capacity,"3.75 gal. total, 3.75 gal. usable (1.88 gal. in ea. engine mounted tank at sta. +116.0) 
+ See NOTE 1 for undrainable oil"
+Maximum Operating,"33,000 ft. S/N 441-0001 through -0172 (See NOTE 4)"
+Altitude,"35,000 ft. S/N 441-0173 and on"
+Control Surface,"Elevator (horn faired) 
+ Up 25° 
+ Down 15°"
+Movements,"Elevator trim tabs 
+ Up 
+ 4° 
+ Down 
+ 9° 
+ Rudder (perpendicular to 
+ Right 32° 
+ Left 32° 
+ hinge 0° faired with fin) 
+ Rudder trim tab 
+ Right 11° 
+ Left 16° 
+ (perpendicular to hinge) 
+ Aileron 
+ Up 25° 
+ Down 15° 
+ Aileron trim tab 
+ Up 19° from 
+ Down 19° from 
+ neutral 
+ neutral 
+ Wing flap (inboard) 
+ Down 
+ 0° to 30° 
+ Wing flap (outboard) 
+ Down 
+ 0° to 20°"
+Serial Nos Eligible,Serial 698 and 441-0001 through 441-0362
+Certification Basis,"Part 23 of the Federal Aviation Regulations effective February 1, 1965, as amended by 23-1 through 23-14 except FAR 
+ 23.1385(c) as amended through 23-21; plus Special Conditions 23-74-CE-9; Part 36 of the Federal Aviation Regulations 
+ effective December 1, 1969, as amended by 36-1 through 36-6; SFAR 27, fuel venting. Findings of equivalent level of safety 
+ were made for FAR 23.1189(a), 23.1545, and 23.1583(a). 
+ In addition to the above certification basis, compliance with ice protection has been demonstrated in accordance with FAR 
+ 23.1419 of Amendment 23-14 effective December 20, 1973."
+SN 4410173 and on,"In addition to the above, certification basis compliance with FAR 25.1447(c)(2) as amended through 25-41 effective September"
+1 1977 is required,"Application for Type Certificate dated October 30, 1974. Type Certificate No. A28CE issued August 19, 1977, obtained by the"
+Production Basis,"Production Certificate No. 312 issued and Delegation Option Manufacturer No. CE-3 authorized to issue airworthiness 
+ certificates under delegation option provisions of Part 21 of the Federal Aviation Regulations. Effective February 15, 1985, and 
+ on, Production Certificate No. 4 is applicable to all spares production. See NOTE 6 for specific effectivity of P.C. 4 on new"
+Equipment,"Pilot’s Operating Handbook and FAA Approved Airplane Flight Manual required as follows: 
+ Airplane S/N Effectivity 
+ *POH/AFM Part Number 
+ 441-0001 through 441-0172 
+ D1561-14-13PH 
+ 441-0173 and On 
+ D1586-11-13PH 
+ *Note: Or later approved revisions. 
+ The basic required equipment as prescribed in the applicable airworthiness regulations (see Certification Basis) must be installed 
+ in the aircraft for certification. In addition, the following item of equipment is required: 
+ Stall Warning Indicator - Cessna Dwg. 5818008, or 
+ Angle-of-Attack Indicator System - Cessna Dwg. 0800302"
+NOTE 1,"Current weight and balance report together with list of equipment included in certificated empty weight and 
+ loading instructions when necessary must be provided for each aircraft at the time of original certification. 
+ The certified empty weight and corresponding center of gravity location must include undrainable oil (not 
+ included in oil capacity) and unusable fuel as follows: 
+ (a) 
+ Unusable fuel 44.0 lb. (6.5 gal.) at (sta.+186.7). 
+ (b) 
+ Oil 0.0"
+NOTE 2,The placards specified in the FAA Approved Airplane Flight Manual must be displayed.
+NOTE 3,"Service information: 
+ The airplane maintenance manual contains structural retirement lives, which may not be changed without 
+ FAA Engineering approval for the following components: 
+ Part Numbers 
+ Hours 
+ Airplane S/N 
+ Aileron Hinge 
+ 5824400-3 
+ 10,000 
+ Bracket 
+ 5824400-4 
+ 5824400-5 
+ 5824400-6 
+ 5824400-7"
+NOTE 4,"35,000 ft. S/N 441-0001 through -0172 when modified by SK441-36."
+NOTE 5,"Model 441 aircraft in compliance with Cessna Drawing 5700018 are eligible for certification in the 
+ Netherlands."
+NOTE 6,"Production Certificate No. 4 effective at Serial 441-0347 and on. 
+ --- END ---"

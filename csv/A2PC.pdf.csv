@@ -1,0 +1,2191 @@
+Keyterm,Info
+"A2PC 
+ Revision 20 
+ MITSUBISHI 
+ MU-2B 
+ MU-2B-10 
+ MU-2B-20 
+ MU-2B-15 
+ MU-2B-30 
+ MU-2B-35 
+ MU-2B-25 
+ MU-2B-36 
+ MU-2B-26 
+ March 8, 2016",
+Type Certificate Holder,"Mitsubishi Heavy Industries, Ltd. 
+ 16-5, KONAN 2-CHOME, MINATO-KU 
+ TOKYO, 108-8215 
+ JAPAN"
+"I - Model MU-2B, 6 to 9 PCLM (Normal Category), Approved November 4, 1965.",
+Engines,"2 Honeywell (AiResearch/Garrett) 
+ TPE331-25AA or TPE331-25AB 
+ Propeller-shaft to engine-rotor ratio 
+ 1 : 20.865"
+Fuel,"Fuels as designated 
+ ASTM D1655-68T Aviation Turbine Fuels 
+ Type Jet A, JET A-1 and Jet B 
+ MIL-T-5624G-1 Turbine Fuel 
+ Grade JP-4 and JP-5 
+ MIL-F-5616-l Fuel 
+ Grade JP-l 
+ MIL-F-46005A (M) -l Fuel 
+ Type I and II 
+ British Ministry of Supply Specifications 
+ (a) D.Eng.R.D.2482 Issue No.2 
+ (b) D.Eng.R.D.2486 Issue No.2 
+ (c) D.Eng.R.D.2494 Issue No.4 
+ MIL-G-5572D Aviation Gasoline 
+ Grade 80/87 (as emergency fuel only) 
+ Grade 100/130 (as emergency fuel only)"
+Oil,"Oils brands and trade names conforming to MIL-L-23699 or MIL-L-7808 are approved 
+ lubricants. (See Allied Signal Aerospace Company Service Information Letter SIL P331-2 
+ latest revision.)"
+Engine Limits,"Static Sea Level Rating (I.S.A.) 
+ Shaft 
+ Jet 
+ Equivalent 
+ *Propeller 
+ Maximum 
+ Horse- 
+ Thrust 
+ Shaft Horse- 
+ Shaft 
+ Permissible 
+ power 
+ (lbs.) 
+ Power 
+ Speed 
+ Exhaust Gas 
+ (SHP) 
+ (ESHP) 
+ (%)* 
+ Temperature 
+ (°C) 
+ Takeoff (5 min.) 
+ 575 
+ 75 
+ 605 
+ 100 
+ 571 
+ Maximum continuous 
+ 500 
+ 73 
+ 529 
+ 100 
+ 530 
+ Starting transient (1 sec.) 
+ 815 
+ At low altitude and low ambient temperature the engines may produce more power than that 
+ for which the aircraft has been certificated. Under these conditions the placarded torque 
+ meter limitations shall not be exceeded. 
+ * The maximum allowable propeller shaft speed is 105% for a transient period not to exceed 
+ 5 seconds. 100% propeller shaft speed is defined as 2,000 r.p.m."
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23"
+20,"17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 20 
+ Rev 20 changes: revised note 9"
+Propeller,"2 Hartzell HC-B3TN-5(C or E or M)/T10176SB-5 with 3 blades each, or"
+and,"2 Hartzell HC-B3TN-5(C or E or M)/T10176NSB-5 with 3 blades each, or"
+Propeller,"2 Hartzell HC-B3TN-5(C or E or M)/T10178B-11 with 3 blades each, or"
+Limits,"2 Hartzell HC-B3TN-5(C or E or M)/T10178NB-11 with 3 blades each, or 
+ 2 Hartzell HC-B3TN-5(C or E or M)/T10178B-11R with 3 blades each, or 
+ 2 Hartzell HC-B3TN-5(C or E or M)/T10178NB-11R with 3 blades each 
+ See Note 6 and 8 
+ Diameter 
+ 96-3/8 inches (T10176-5) 
+ 90-3/8 inches (T10178-11) 
+ Pitch setting at 30 in. Station 
+ Flight Idle 
+ 12° 
+ Feathered 
+ 86.5°± 0.5° (T10176-5) 
+ 87.0 °± 0.5°(T10178-11)"
+Airspeed Limits CAS,"Vmo (Maximum Operating) 
+ 250 knots (287 m.p.h.) 
+ Decrease by 5 knots per 1,000 ft. above 21,300 ft. 
+ to account for Mmo = .57M 
+ Vp (Maneuvering) 
+ 172 knots (197 m.p.h.) 
+ Vfe (Flaps extended) 
+ 140 knots (161 m.p.h.) 
+ Vlo (Landing gear operating) 
+ 160 knots (184 m.p.h.) 
+ Vle (Landing gear extended) 
+ 160 knots (184 m.p.h.) 
+ Vmc (Minimum control) 
+ 91 knots (105 m.p.h.) 
+ (S/N 008,010,013 if not modified by S/B 
+ No. 66) 
+ 89 knots (102 m.p.h.) 
+ (S/N 1009,011,012,014 thru 038 if not modified 
+ by S/B No.66) 
+ Flap 5° 
+ 99 knots (114 m.p.h.) 
+ (S/N 008, 010, 013 if modified by S/B 
+ No.66) 
+ Flap 20° 
+ 91 knots (105 m.p.h.) 
+ (S/N 008, 010, 013 if modified by S/B 
+ No.66) 
+ Flap 5° 
+ 97 knots (112 m.p.h.) 
+ (S/N 009, 011, 012, 014 thru 038 if modified by 
+ S/B No.66) 
+ Flap 20° 
+ 89 knots (102 m.p.h.) 
+ (S/N 009, 011, 012, 014 thru 038 if modified by 
+ S/B No. 66)"
+C G Range,"(Landing Gear Extended) 
+ Weight (lbs.) 
+ Forward 
+ Aft 
+ 8,160 or less 
+ +153.74 (21% MAC) 
+ +161.60 
+ (34% MAC) 
+ 8, 930 
+ +158.58 (29% MAC) 
+ +161.60 
+ (34% MAC) 
+ (If not modified by S/B No.36 and 92.) 
+ 8, 577 or less 
+ +153.74 (21% MAC) 
+ +161.60 
+ (34% MAC) 
+ 9,350 
+ +158.58 (29% MAC) 
+ +161.60 
+ (34% MAC) 
+ (If modified by S/B No.36 and 92.) 
+ Straight line variation between points given. 
+ Moment change due to gear retraction is +6, 738 in. lbs."
+Maximum Weight,"Takeoff 
+ 8,930 lbs. 
+ Landing 
+ 8,490 lbs. 
+ Zero fuel 
+ 8,490 lbs. 
+ (If not modified by S/B No.36 and 92.) 
+ Takeoff 
+ 9,350 lbs. 
+ Landing 
+ 8,930 lbs. 
+ Zero fuel 
+ 8,930 lbs. 
+ (If modified by S/B No.36 and 92.)"
+No of Seats,Maximum 9 (Pilot at +97.2)
+Maximum Baggage,"420 lbs. (200 lbs. at +205.1) (220 lbs. at +230.7) 
+ (S/N 008 thru 024 if not modified by S/B No.10) 
+ 574 lbs. (200 lbs. at +205.1) (220 lbs. at +230.7) (154 lbs. at +253.2) 
+ (S/N 008 thru 024 if modified by S/B No. 10, and S/N 025 and up) 
+ Total Cap 
+ Usable"
+Fuel Capacity,"Wing Tank 
+ 165 gal. (+167.3) 
+ 155 gal. 
+ TIP Tank (2 at 65 gal. ea.) 
+ 130 gal. (+155.9) 
+ 130 gal. 
+ Total 
+ 295 gal. 
+ 285 gal. 
+ Fuel weights are based on 6.5 lbs./gal. 
+ *See Note 1 (c) for required fuel usage procedure."
+Oil Capacity,Total 3.1 gal. (1.55 gal. each tank) (+139.4)
+Maximum Operating Altitude,"23,000 ft. (if not modified by S/B No.69) 
+ 25,000 ft. (if modified by S/B No.69)"
+Control Surface Movements,"Spoiler 
+ Up 60° 
+ Aileron Trim 
+ Up 20° 
+ Down 20° 
+ Elevator 
+ Up 
+ 33° 
+ Down 
+ 17° (If not modified by S/B No.60/ 
+ Up 
+ 33° 
+ 10° (If modified by S/B No. 60) 
+ Down 
+ Elevator Tab 
+ Up 
+ 30° 
+ Down 
+ 20° (f not modified by S/B No.216) 
+ Down 
+ Up 
+ 30° 
+ 1° (if modified by S/B No.216) 
+ Rudder 
+ Right 25° 
+ Left 25° 
+ Rudder Tab 
+ Right 25° 
+ Left 25° 
+ Flap Outboard 
+ Down 40° 
+ Flap Inboard 
+ Down 40°"
+Serial Nos eligible,"The Government of Japan Certificate of Airworthiness for Export endorsed as noted under 
+ “Import Requirements” must be submitted for each individual aircraft for which application 
+ for certification is made."
+"II-Model MU-2B-10, 6 to 9 PCLM (Normal Category), Approved January 20, 1967 
+ (See Note4 for conversion to MU-2B-15.)",
+Engines,"2 Honeywell (AiReseach/Garrett) 
+ PE331-25AA or TPE331-25AB 
+ Propeller-shaft to engine-rotor rati 
+ 1 : 20.865"
+Fuel,"Fuels as designated 
+ ASTM D1655-68T Aviation Turbine Fuels 
+ Type Jet A, JET A-1 and Jet B 
+ MIL-T-5624G-1 Turbine Fuel 
+ Grade JP-4 and JP-5 
+ MIL-F-5616-l Fuel 
+ Grade JP-l 
+ MIL-F-46005A (MR) -l Fuel 
+ Type I and II 
+ British Ministry of Supply Specifications 
+ (a) D.Eng.R.D.2482 Issue No.2 
+ (b) D.Eng.R.D.2486 Issue No.2 
+ (c) D.Eng.R.D.2494 Issue No.4 
+ MIL-G-5572D Aviation Gasoline 
+ Grade 80/87 (as emergency fuel only) 
+ Grade 100/130 (as emergency fuel only)"
+Oil,"Oils brands and trade names conforming to MIL-L-23699 or MIL-L-7808 are approved 
+ lubricants. (See Allied Signal Aerospace Company Service Information Letter SIL P331-2 
+ latest revision.)"
+Engine Limits,"Static Sea Level Rating (I.S.A.) 
+ Shaft 
+ Jet 
+ Equivalent 
+ *Propelle 
+ Maximum 
+ Horse- 
+ Thrust 
+ Shaft 
+ r Shaft 
+ Permissible 
+ power 
+ Horse- 
+ (lbs.) 
+ Speed 
+ Exhaust Gas 
+ (SHP) 
+ Power 
+ (%)* 
+ Temperature 
+ (ESHP) 
+ (°C) 
+ Takeoff (5 min.) 
+ 575 
+ 75 
+ 605 
+ 100 
+ 571 
+ Maximum continuous 
+ 500 
+ 73 
+ 529 
+ 100 
+ 530 
+ Starting transient 
+ 815 
+ (1 sec.) 
+ At low altitude and low ambient temperature the engines may produce more power than that 
+ for which the aircraft has been certificated. Under these conditions the placarded torque 
+ meter limitations shall not be exceeded. 
+ *The maximum allowable propeller shaft speed is 105% for a transient period not to exceed 5 
+ seconds. 100% propeller shaft speed is defined as 2,000 r.p.m."
+Propeller,"2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10176SB-5 with 3 blades each, or"
+and,"2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10176NSB-5 with 3 blades each, or"
+Propeller,"2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10178B-11 with 3 blades each, or"
+Limits,"2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10178NB-11 with 3 blades each, or 
+ 2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10178B-11R with 3 blades each, or 
+ 2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10178NB-11R with 3 blades each 
+ See Note 6 and 8 
+ Diameter 
+ 96 – 3/8 inches (T10176-5) 
+ 90 – 3/8 inches (T10178-11) 
+ Pitch setting at 30 in. Station 
+ Flight Idle 
+ 12° 
+ Feathered 
+ 86.5° ± 0.5° (T10176-5) 
+ 87.0° ± 0.5° (T10178-11)"
+Airspeed Limits CAS,"Vmo (Maximum Operating) 
+ 250 knots (287 m.p.h.) 
+ Decrease by 5 knots per 1,000 ft. above 21,300 ft. to account for Mmo = .57 M 
+ Vp (Maneuvering) 
+ 172 knots (197 m.p.h.) 
+ Vfe(Flaps extended) 
+ 140 knots (161 m.p.h.) 
+ Vlo (Landing gear operating) 
+ 160 knots (184 m.p.h.) 
+ Vle (Landing gear extended) 
+ 160 knots (184 m.p.h.) 
+ Vmc(Minimum control) 
+ 89 knots (102 m.p.h.) 
+ (S/N 101 thru 113 if not modified by S/B No.66) 
+ Flap 5° 
+ 97 knots (112 m.p.h.) 
+ (S/N 101 thru 113 if modified by S/B No.66, 
+ and S/N 116, 117, 119, 120) 
+ Flap 20° 
+ 89 knots (102 m.p.h.) 
+ (S/N 101 thru 113 if modified by S/B 
+ No.66, and S/N 116, 117, 119, 120)"
+Landing Gear Extended,"Weight (lbs.) 
+ Forward 
+ Aft 
+ 8, 577 or less 
+ +153.74 (21% MAC) 
+ +161.60 
+ (34% MAC) 
+ 9,350 
+ +158.58 (29% MAC) 
+ +161.60 
+ (34% MAC) 
+ Straight line variation between points given. 
+ Moment change due to gear retraction is +6, 738 in. lbs."
+Maximum Weight,"Takeoff 
+ 9,350 lbs. 
+ Landing 
+ 8,930 lbs. 
+ Zero fuel 
+ 8,930 lbs."
+No of Seats,Maximum 9 (Pilot at +97.2)
+Maximum Baggage,574 lbs. (200 lbs. at +205.1) (220 lbs. at +230.7) (154 lbs. at +253.2)
+Fuel Capacity,"Tip Tanks 
+ Standard 
+ Extend range 
+ F. STA 
+ Total Gap 
+ Usable 
+ Total Gap 
+ Usable 
+ Wing Tank 
+ 159 gal. 
+ 156 gal. 
+ 159 gal. 
+ 156 gal. 
+ +167.3 
+ Tip Tanks 
+ 130 gal. 
+ 130 gal. 
+ 186* gal. 
+ 180 gal. 
+ +155.9 
+ Total 
+ 289 gal. 
+ 286 gal. 
+ 345 gal. 
+ 336 gal. 
+ Fuel weights are based on 6.5 lbs./gal. 
+ *See Note 1 (c) for required fuel usage procedure."
+Oil Capacity,Total 3.1 gal. (1.55 gal. each tank) (+139.4)
+Maximum Operating Altitude,"23,000 ft.(if not modified by S/B No. 69) 
+ 25,000 ft.(if modified by S/B No. 69)"
+Control Surface Movements,"Spoiler 
+ Up 
+ 60° 
+ Aileron Trim 
+ Up 
+ 20° 
+ Down 
+ 20° 
+ Elevator 
+ Up 
+ 33° 
+ Down 
+ 17° (S/N 101 thru 108 if not modified 
+ by S/B No. 60) 
+ 10° (S/N 101 thru 108 if modified by 
+ Up 
+ 33° 
+ Down 
+ S/B No. 60, and S/N 109 and up) 
+ Elevator Tab 
+ Up 
+ 30° 
+ Down 
+ 20° (if not modified by S/B No. 216) 
+ Up 
+ 30° 
+ Down 
+ 1° (if modified by S/B No. 216) 
+ Rudder 
+ Right 
+ 25° 
+ Left 
+ 25° 
+ Rudder Tab 
+ Right 
+ 25° 
+ Left 
+ 25° 
+ Flap Outboard 
+ Down 
+ 40° 
+ Flap Inboard 
+ Down 
+ 40°"
+Serial Nos eligible,"The Government of Japan Certificate of Airworthiness for Export endorsed as noted under 
+ “Import Requirements” must be submitted for each individual aircraft for which application 
+ for certification is made"
+"III-Model MU-2B-20, 6 to 9 PCLM (Normal Category), Approved May 16, 1968.",
+Engines,"2 Honeywell (AiResearch/Garrett) 
+ TPE331-1-151A 
+ Propeller-shaft to engine-rotor ratio 
+ 1 : 20.865"
+Fuel,"Fuels as designated 
+ ASTM D1655-68T Aviation Turbine Fuels 
+ Type Jet A, JET A-1 and Jet B 
+ MIL-T-5624G-1 Turbine Fuel 
+ Grade JP-4 and JP-5 
+ MIL-F-5616-l Fuel 
+ Grade JP-l 
+ MIL-F-46005A (MR) -l Fuel 
+ Type I and II 
+ British Ministry of Supply Specifications 
+ (a) D.Eng.R.D.2482 Issue No.2 
+ (b) D.Eng.R.D.2486 Issue No.2 
+ (c) D.Eng.R.D.2494 Issue No.4 
+ MIL-G-5572D Aviation Gasoline 
+ Grade 80/87 (as emergency fuel only) 
+ Grade 100/130 (as emergency fuel only)"
+Oil,"Oil brands and trade names conforming to MIL-L-23699 or MIL-L-7808 are approved 
+ lubricants. (See Allied Signal Aerospace Company Service Information Letter SIL P331-2 
+ latest revision.)"
+Engine Limits,"Static Sea Level Rating (I. S. A.) 
+ Shaft 
+ Jet 
+ Equivalent 
+ Propeller 
+ Maximum 
+ Horse- 
+ Thrust 
+ Shaft Horse- 
+ Shaft 
+ Permissible 
+ power 
+ (lbs.) 
+ Power 
+ Speed (%)* 
+ Interstage 
+ (SHP) 
+ (ESHP) 
+ Turbine 
+ Temperature 
+ (°C) 
+ Takeoff (5 min.) 
+ 665 
+ 100 
+ 705 
+ 100 
+ 572 
+ Maximum 
+ 665 
+ 100 
+ 705 
+ 100 
+ 550 
+ continuous 
+ Starting transient (1 
+ 815 
+ sec.) 
+ At low altitude and low ambient temperature, the engines may produce more power than that 
+ for which the aircraft has been certificated. Under these conditions, the placarded torque 
+ meter limitations shall not be exceeded. 
+ *The maximum allowable propeller shaft is 105% for a transient period not to exceed 
+ 5 seconds, and 101% for 5 minutes. 100% propeller shaft speed is defined as 2,000 r.p.m."
+Propeller and Propeller Limits,"2 Hartzell HC-B3TN-5(C or E or M)/T10178B-11 with 3 blades each, or 
+ 2 Hartzell HC-B3TN-5(C or E or M)/T10178NB-11 with 3 blades each, or 
+ 2 Hartzell HC-B3TN-5(C or E or M)/T10178B-11R with 3 blades each, or 
+ 2 Hartzell HC-B3TN-5(C or E or M)/T10178NB-11R with 3 blades each 
+ See Note 6 and 8 
+ Diameter 
+ 90-3/8 inches 
+ Pitch setting at 30 in. station 
+ Flight Idle 
+ 12° 
+ Feathered 
+ 87.0°± 0.5° 
+ Reverse 
+ -6.5°"
+Airspeed Limits CAS,"Vmo (Maximum Operating) 
+ 250 knots (287 m.p.h.) 
+ Decrease by 5 knots per 1,000 ft. above 21,300 ft. to account for Mmo = .57M 
+ Vp (Maneuvering) 
+ 181 knots (208 m.p.h.) 
+ Vfe (Flaps extended) 
+ Flap 5° 
+ 140 knots (161 m.p.h.) 
+ (if not modified by S/R No.010) 
+ Flap 5° 
+ 175 knots (201 m.p.h.) 
+ Flap 20°, 40° 
+ 140 knots (161 m.p.h.) 
+ Vlo (Landing gear operating) 
+ 160 knots (184 m.p.h.) 
+ Vle (Landing gear extended) 
+ 162 knots (187 m.p.h.) 
+ Vmc (Minimum control) 
+ Flap 5° 
+ 100 knots (115 m.p.h. 
+ Flap 20° 
+ 93 knots (107 m.p.h.)"
+Landing Gear Extended,"Weight (lbs.) 
+ Forward 
+ Aft 
+ 9,149 or less 
+ +153.74 
+ + 161.60 
+ (21% MAC) 
+ (34% MAC) 
+ 9,920 
+ + 158.58 
+ + 161.60 
+ (29% MAC) 
+ (34% MAC) 
+ Straight line variation between points given. 
+ Moment change due to gear retraction is +6, 738 in. lbs."
+Maximum Weight,"Takeoff 
+ 9,920 lbs. 
+ Landing 
+ 9,435 lbs. 
+ Zero fuel 
+ 9,270 lbs."
+No of Seats,Maximum 9 (Pilot at +97.2)
+Maximum Baggage,"574 lbs. (200 lbs. at +205.1) (220 lbs. at +230.7) (154 lbs. at +253.2) 
+ Total Cap 
+ Usable"
+Fuel Capacity,"Wing Tank 
+ 159 gal. (+167.3) 
+ 156 gal. 
+ Outer Tank (2 at 15 gal. ea.) 
+ 30 gal. (+163.4) 
+ 30 gal. 
+ Tip Tank (2 at 93 gal. ea.)* 
+ 186 gal. (+155.9) 
+ 180 gal. 
+ Total 
+ 375 gal. 
+ 366 gal. 
+ Without Outer Tank 
+ Wing Tank 
+ 159 gal. (+167.3) 
+ 156 gal. 
+ Tip Tank (2 at 93 gal. ea.)* 
+ 186 gal. (+155.9) 
+ 180 gal. 
+ Total 
+ 345 gal. 
+ 336 gal. 
+ Fuel weights are based on 6.5 lbs./gal. 
+ *See Note 1 (c) for required fuel usage procedure."
+Oil Capacity,Total 3.1 gal. (1.55 gal. each tank)(+138.7)
+Maximum Operating Altitude,"25,000 ft"
+Control Surface Movements,"Spoiler 
+ Up 60° 
+ Aileron Trim 
+ Up 20° 
+ Down 
+ 20° 
+ Elevator 
+ Up 33° 
+ Down 
+ 10° 
+ Elevator tab 
+ Up 
+ 30° 
+ Down 
+ 20° (S/N102, 121 thru 164, if not 
+ modified by S/B No. 216) 
+ Up 
+ Down 
+ 30° 
+ 10° (S/N 165 and up, if not 
+ modified by S/B No. 216) 
+ 30° 
+ Up 
+ Down 
+ 1° (S/N102, 121, and up if 
+ modified by S/B No. 216) 
+ Rudder 
+ Right 25° 
+ Left 
+ 22° 
+ Rudder tab 
+ Right 25° 
+ Left 
+ 25° 
+ Flap outboard 
+ Down 
+ 40° 
+ Flap inboard 
+ Down 
+ 40°"
+Serial Nos eligible,"The Government of Japan Certificate of Airworthiness for Export endorsed as noted under 
+ “Import Requirements” must be submitted for each individual aircraft for which application for 
+ certification is made."
+"IV-Model MU-2B-15, 6 to 9 PCLM (Normal Category), Approved August 15, 1968.",
+Engines,"2 Honeywell (AiResearch/Garrett) TPE331-1-151A 
+ Propeller-shaft to engine-rotor ratio 1: 20.865"
+Fuel,"Fuels as designated 
+ ASTM D1655-68T Aviation Turbine Fuels Type Jet A, JET A-1 and Jet B 
+ MIL-T-5624G-1 Turbine Fuel 
+ Grade JP-4 and JP-5 
+ MIL-F-5616-l Fuel 
+ Grade JP-l 
+ MIL-F-46005A (MR) -l Fuel 
+ Type I and II 
+ British Ministry of Supply Specifications 
+ (a) D.Eng.R.D.2482 Issue No.2 
+ (b) D.Eng.R.D.2486 Issue No.2 
+ (c) D.Eng.R.D.2494 Issue No.4 
+ MIL-G-5572D Aviation Gasoline 
+ Grade 80/87 (as emergency fuel only) 
+ Grade 100/130 (as emergency fuel only)"
+Oil,"Oil brands and trade names conforming to MIL-L-23699 or MIL-L-7808 are approved 
+ lubricants. (See Allied Signal Aerospace Company Service Information Letter SIL P331-2 
+ latest revision.)"
+Engine Limits,"Static Sea Level Rating (I.S.A.) 
+ Shaft 
+ Jet 
+ Equivalent 
+ *Propeller 
+ Maximum 
+ Horse- 
+ Thrust 
+ Shaft 
+ Shaft 
+ Permissible 
+ power 
+ (lbs.) 
+ Horse- 
+ Speed 
+ Exhaust Gas 
+ (SHP) 
+ Power 
+ (%)* 
+ Temperature 
+ (ESHP) 
+ (°C) 
+ Takeoff (5 min.) 
+ 665 
+ 100 
+ 705 
+ 100 
+ 572 
+ Maximum continuous 
+ 665 
+ 100 
+ 705 
+ 100 
+ 550 
+ Starting transient (1 sec.) 
+ 815 
+ At low altitude and low ambient temperature the engines may produce more power than that 
+ for which the aircraft has been certificated. Under these conditions the placarded torque 
+ meter limitations shall not be exceeded. 
+ *The maximum allowable propeller shaft speed is 105% for a transient period not to exceed 
+ 5 seconds, and 101 % for 5 minutes. 100% propeller shaft speed is defined as 2,000 r.p.m."
+Propeller Limits,"2 Hartzell HC-B3TN-5(C or E or M)/T10178B-11 with 3 blades each, or 
+ 2 Hartzell HC-B3TN-5(C or E or M)/T10178NB-11 with 3 blades each, or 
+ 2 Hartzell HC-B3TN-5(C or E or M)/T10178B-11R with 3 blades each, or 
+ 2 Hartzell HC-B3TN-5(C or E or M)/T10178NB-11R with 3 blades each 
+ See Note 6 and 8. 
+ Diameter 
+ 90-3/8 inches 
+ Pitch setting at 30 in. station 
+ Flight idle 
+ 12° 
+ Feathered 
+ 87.0°±0.5 
+ Reverse 
+ -6.5°"
+CAS,"Vmo (Maximum operating) 
+ 250 knots (287 m.p.h.) 
+ Decrease by 5 knots per 1,000 ft. above 21,300 ft. to account for Mmo = .57M 
+ Vp(Maneuvering) 
+ 172 knots (197 m.p.h.) 
+ Vfe (Flap extended) 
+ 140 knots (161 m.p.h.) 
+ Vlo (Landing gear operating) 
+ 160 knots (184 m.p.h.) 
+ Vle (Landing gear extended) 
+ 160 knots (184 m.p.h.) 
+ Vmc (Minimum Control) 
+ 93 knots (107 m.p.h.) 
+ (S/N 114 and 115 if not modified by SB No.66 
+ Flap 5° 
+ 100 knots (115 m.p.h.) 
+ (S/N 114 and 115 if modified by S/B No.66 
+ and S/N 118) 
+ Flap 20° 
+ 93 knots (107 m.p.h.) 
+ (S/N 114 and 115 if modified by S/B No.66 
+ and S/N 118)"
+Landing Gear Extended,"Weight (lbs.) 
+ Forward 
+ Aft 
+ 8,577 or less 
+ + 153.74 
+ + 161.60 
+ (21% MAC) 
+ (34% MAC) 
+ 9,350 
+ + 158.58 
+ +161.60 
+ (29% MAC) 
+ (34% MAC) 
+ Straight line variation between points given. 
+ Moment change due to gear retraction is +6, 738 in. lbs."
+Maximum,"Take off 
+ 9,350 lbs."
+weight,"Landing 
+ 8,930 lbs. 
+ Zero fuel 
+ 8,930 lbs."
+No of Seat,Maximum 9 (Pilot at +97.2)
+Maximum Baggage,"574 lbs. (200lbs. at +205.1) (220lbs. at +230.7) (154lbs. at +253.2) 
+ Total Cap 
+ Usable"
+Fuel Capacity,"Wing Tank 
+ 159 gal. (+167.3) 
+ 156 gal. 
+ Tip Tank (2 at 93 gal. ea.)* 
+ 186 gal. (+155.9) 
+ 180 gal. 
+ Total 
+ 345gal. 
+ 336 gal. 
+ Fuel weights are based on 6.5 lbs./gal. 
+ *See Note 1 (c) for required fuel usage procedure."
+Oil Capacity,Total 3.1 gal. (1.55 gal. each tank) (+138.7)
+Maximum Operating Altitude,"23,000 ft. (If not modified by S/B No.69) 
+ 25,000 ft. (If modified by S/B No.69)"
+Control Surface Movements,"Spoiler 
+ Up 
+ 60° 
+ Aileron Trim 
+ Up 
+ 20° 
+ Down 
+ 20° 
+ Elevator 
+ Up 
+ 33° 
+ Down 
+ 10° 
+ Elevator tab 
+ Up 
+ 30° 
+ Down 
+ 20° (If not modified by S/B No. 
+ 216) 
+ Up 
+ 30° 
+ Down 
+ 1° (If modified by S/B No. 216) 
+ Rudder 
+ Right 
+ 25° 
+ Left 
+ 22° 
+ Rudder tab 
+ Right 
+ 25° 
+ Left 
+ 25° 
+ Flap outboard 
+ Down 
+ 40° 
+ Flap inboard 
+ Down 
+ 40°"
+Serial Nos eligible,"The Government of Japan Certificate of Airworthiness for Export endorsed as noted under 
+ “Import Requirements” must be submitted for each individual aircraft for which application 
+ for certification."
+"I-Model MU-2B-30, 10 PCLM (Normal Category), Approved July 14, 1969",
+Engines,"2 Honeywell (AiResearch/Garrett) 
+ TPE331-1-151A 
+ Propeller-shaft to engine-rotor ratio 
+ 1: 20.865"
+Fuel,"Fuels as designated 
+ ASTM D1655-68T Aviation Turbine Fuels 
+ Type Jet A, JET A-1 and Jet B 
+ MIL-T-5624G-1 Turbine Fuel 
+ Grade JP-4 and JP-5 
+ MIL-F-5616-l Fuel 
+ Grade JP-l 
+ MIL-F-46005A (MR) -l Fuel 
+ Type I and II 
+ British Ministry of Supply Specifications 
+ (a) D.Eng.R.D.2482 Issue No.2 
+ (b) D.Eng.R.D.2486 Issue No.2 
+ (c) D.Eng.R.D.2494 Issue No.4 
+ MIL-G-5572D Aviation Gasoline 
+ Grade 80/87 
+ (as emergency fuel only) 
+ Grade 100/130 
+ (as emergency fuel only)"
+Oil,"Oil brands and trade names conforming to MIL-L-23699 or MIL-L-7808 are approved 
+ lubricants. (See Allied Signal Aerospace Company Service Information Letter SIL P331-2 
+ latest revision.)"
+Engine Limits,"Static Sea Level Rating (I.S.A.) 
+ Shaft 
+ Jet 
+ Equivalent 
+ *Propeller 
+ Maximum 
+ Horsepower 
+ Thru 
+ Horse- 
+ Shaft 
+ Permissible 
+ (SHP) 
+ st 
+ Power 
+ Speed 
+ Interstage 
+ (lbs.) 
+ (ESHP) 
+ (%)* 
+ Turbine 
+ Temperature 
+ (°C) 
+ Takeoff (5 min.) 
+ 665 
+ 100 
+ 705 
+ 100 
+ 572 
+ Maximum Continuous 
+ 665 
+ 100 
+ 705 
+ 100 
+ 550 
+ Starting transient 
+ 815 
+ (1 sec.) 
+ At low altitude and low ambient temperature, the engines may produce more power than 
+ that for which the aircraft has been certificated. Under these conditions, the placarded 
+ torque meter limitations shall not be exceeded. 
+ *The maximum allowable propeller shaft speed is 105% for a transient period not to exceed 
+ 5 seconds, and 101% for 5 minutes. 100% propeller shaft speed is defined as 2,000 r.p.m."
+Propeller and Propeller,"2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10178B-11 with 3 blades each, or"
+Limits,"2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10178NB-11 with 3 blades each, or 
+ 2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10178B-11R with 3 blades each, or 
+ 2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10178NB-11R with 3 blades each 
+ See Note 6 and 8. 
+ Diameter 
+ 90-3/8 inches 
+ Pitch setting at 30 in. station 
+ Flight Idle 
+ 12° 
+ Feathered 
+ 87.0 ° ± 0.5° 
+ Reverse 
+ -6.5°"
+Airspeed Limits CAS,"Vmo (Maximum Operating) 
+ 250 knots (287 m.p.h.) 
+ Decrease by 5 knots per 1,000 ft. above 21,300 ft. to account for Mmo = .57 M 
+ Vp (Maneuvering) 
+ 188 knots (216 m.p.h.) 
+ Vfe (Flaps extended) 
+ Flap 5° 
+ 145 knots (167 m.p.h.) 
+ (S/N 502, 504, 506 thru 519, 521 thru 523 if 
+ not modified by S/B No.113) 
+ Flap 5° 
+ 146 knots (168 m.p.h.) 
+ (S/N 505, 520, 524 and up if not modified by 
+ S/R No. 010) 
+ (S/N 502 thru 504, 506 thru 519, 521 thru 523 
+ if modified by S/B No. 113 and not modified 
+ by S/R No.010) 
+ Flap 5° 
+ 175 knots (201 m.p.h.) 
+ Flap 20°, 40° 
+ 146 knots (168 m.p.h.) 
+ (S/N 505, 520, 524 and up if modified by S/R 
+ No. 010) 
+ (S/N 502 thru 504, 506 thru 519, 521 thru 523 
+ if modified by S/B No. 113 and S/R No.010) 
+ Vlo (Landing gear operating) 
+ Retract 
+ 160 knots (184 m.p.h.) 
+ (S/N 502 thru 504, 506 thru 519, 521 thru 523 
+ if not modified by S/B No.113) 
+ Extend 
+ 170 knots (195 m.p.h.) 
+ (S/N 502 thru 504, 506 thru 519, 521 thru 523 
+ if not modified by S/B No.113) 
+ Retract 
+ 170 knots (195 m.p.h.) 
+ (S/N 505, 520,524 and up. S/N 502 thru 504, 
+ 506 thru 519, 521 thru 523 if modified by S/B 
+ No.113) 
+ Extend 
+ 170 knots (195 m.p.h.) 
+ (S/N 505, 520,524 and up. S/N 502 thru 504, 506 
+ thru 519, 521 thru 523 if modified by 
+ S/B No.113) 
+ Vle (Landing gear extended) 
+ 170 knots (195 m.p.h.) 
+ Vmc (Minimum control) 
+ Flap 5° 
+ 99 knots (114 m.p.h.) 
+ Flap 20° 
+ 90 knots (104 m.p.h.)"
+Landing Gear Extend,"Weight (lbs.) 
+ Forward 
+ Aft 
+ 10,360 
+ +190.93 (21% MAC) 
+ +199.41(35% MAC) 
+ (S/N 502 thru 504, 506 thru 519, 521 thru 523 if not modified by S/B No. 113) 
+ 10,360 or less 
+ +190.93 (21% MAC) to 
+ +199.41(35% MAC) 
+ 10,800 
+ +192.75 (24% MAC) to 
+ +199.41(35% MAC) 
+ (S/N 505, 520, 524, and up. S/N 502 thru 504, 506 thru 519, 521 thru 523 if 
+ modified by S/B No.113) 
+ Straight line variation between points given. 
+ Moment change due to gear retraction is -6,556 in. lbs."
+Maximum Weight,"Take off 
+ 10,360 lbs. 
+ Landing 
+ 9,850 lbs. 
+ Zero fuel 
+ 9,772 lbs. 
+ (S/N 502 thru 504, 506 thru 519, 521 thru 523 if not modified by S/B No.113) 
+ Take off 
+ 10,800 lbs. 
+ Landing 
+ 10,260 lbs. 
+ Zero fuel 
+ 9,772 lbs. 
+ (S/N 505, 520, 524 and up. S/N 502 thru 504, 506 thru 519, 521 thru 523 if modified by S/B 
+ No.113)"
+No of Seats,"Maximum 10 (Pilot at +97.2) 
+ See loading instructions for passenger loading."
+Maximum Baggage,"600 lbs. at +286.8 
+ Total Cap 
+ Usable"
+Fuel Capacity,"Wing Tank 
+ 159 gal. (+204.5) 
+ 156 gal. 
+ Outer Tank (2 at 15 gal. ea.) 
+ 30 gal. (+201.0) 
+ 30 gal. 
+ Tip Tank (2 at 93 gal. ea.)* 
+ 186 gal. (+193.1) 
+ 180 gal. 
+ Total 
+ 375 gal. 
+ 366 gal. 
+ Fuel weight is based on 6.5 lbs./gal. 
+ *See Note 1 (c) for required fuel usage procedure."
+Oil Capacity,Total (2 at 1.55 gal. each tank) 3.1 gal. (+175.9)
+Maximum Operating Altitude,"25,000 ft."
+Control Surface Movements,"Spoiler 
+ Up 
+ 60° 
+ Aileron Trim 
+ Up 
+ 20° 
+ Down 
+ 20° 
+ Elevator 
+ Up 
+ 28° 
+ Down 
+ 12° 
+ Elevator Tab 
+ Up 
+ 30° 
+ Down 
+ 10° 
+ (If not modified 
+ by S/B No. 216) 
+ Up 
+ 30° 
+ Down 
+ 1° 
+ (If modified by 
+ S/B No. 216) 
+ Rudder 
+ Right 
+ 24° 
+ Left 
+ 22° 
+ Rudder Tab 
+ Right 
+ 25° 
+ Left 
+ 25° 
+ Flap Outboard 
+ Down 
+ 40° 
+ Flap Inboard 
+ Down 
+ 40°"
+Serial Nos eligible,"The Government of Japan Certificate of Airworthiness for Export endorsed as noted under 
+ “Import Requirements” must be submitted for each individual aircraft for which application for 
+ certification is made."
+"II-Model MU-2B-35, 8 to 10 PCLM (Normal Category), Approved May 28, 1971.",
+Engines,"2 Honeywell (AiResearch/Garrett) 
+ TPE331-6-251M, or 
+ 2 Honeywell (AiResearch/Garrett) 
+ TPE331-6A-251M, or 
+ 2 Honeywell (AiResearch/Garrett) 
+ TPE331-6-252M, or 
+ 2 Honeywell (AiResearch/Garrett) 
+ TPE331-6A-252M 
+ Propeller-shaft to engine-rotor ratio 
+ 1: 20.865"
+Fuel,"Fuels as designated 
+ ASTM D1655-68T Aviation Turbine Fuels Type Jet A, JET A-1 and Jet B 
+ MIL-T-5624G-1 Turbine Fuel 
+ Grade JP-4 and JP-5 
+ MIL-F-5616-l Fuel 
+ Grade JP-l 
+ MIL-F-46005A (MR) -l Fuel 
+ Type I and II 
+ British Ministry of Supply Specifications 
+ (a) D.Eng.R.D.2482 Issue No.2 
+ (b) D.Eng.R.D.2486 Issue No.2 
+ (c) D.Eng.R.D.2494 Issue No.4 
+ MIL-G-5572D Aviation Gasoline 
+ Grade 80/87 
+ (as emergency fuel only) 
+ Grade 100/130 
+ (as emergency fuel only)"
+Oil,"Oil brands and trade names conforming to MIL-L-23699 or MIL-L-7808 are approved 
+ lubricants. (See Allied Signal Aerospace Company Service Information Letter SIL P331-2 
+ latest revision.)"
+Engine Limits,"Static Sea Level Rating (I. S. A.) 
+ Shaft 
+ Propeller 
+ Maximum Permissible 
+ Horsepower 
+ Shaft Speed 
+ Interstage Turbine 
+ (SHP) 
+ (%)* 
+ Temperature (°C) 
+ Takeoff (5 min.) 
+ 665 
+ 100 
+ 923 
+ Maximum continuous 
+ 665 
+ 100 
+ 923 
+ Starting transient (1 sec.) 
+ 1149 
+ At low altitude and low ambient temperature, the engines may produce more power than 
+ that for which the aircraft has been certificated. Under these conditions, the placarded 
+ torque meter limitations shall not be exceeded. 
+ *The maximum allowable propeller shaft is 106% for a transient period not to exceed 5 
+ seconds, and 101.5% for 5 minutes. 100% propeller shaft speed is defined as 2,000 r.p.m."
+Propeller and Propeller Limits,"2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10178B-11 with 3 blades each, or 
+ 2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10178B-11R with 3 blades each, or 
+ 2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10178NB-11 with 3 blades each, or 
+ 2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10178NB-11R with 3 blades each 
+ See Note 6 and 8. 
+ Diameter 
+ 90-3/8 inches 
+ Pitch setting at 30 in. station 
+ Flight Idle 
+ 12° 
+ Feathered 
+ 87.0 ° ± 0.5° 
+ Reverse 
+ -6.5°"
+Airspeed Limits CAS,"Vmo (Maximum Operating) 
+ 250 knots (287 m.p.h.) 
+ Decrease by 5 knots per 1,000 ft. above 21,300 ft. to account for Mmo = .57 M 
+ Vp (Maneuvering) 
+ 188 knots (216 m.p.h.) 
+ Vfe (Flaps extended) 
+ Flap 5° 
+ 146 knots (168 m.p.h.) (S/N 548 thru 
+ 609 if not modified by S/R No.010) 
+ Flap 5° 
+ 175 knots (201 m.p.h.) (S/N 610 and up, 
+ S/N 548 thru 609 if modified by S/R No.010) 
+ Flap 20°, 40° 
+ 146 knots (168 m.p.h.) 
+ Vlo (Landing gear operating) 
+ Retract 
+ 170 knots (195 m.p.h.) 
+ Extend 
+ 170 knots (195 m.p.h.) 
+ Vle (Landing gear extended) 
+ 170 knots (195 m.p.h.) 
+ Vmc (Minimum control) 
+ Flap 5° 
+ 99 Knots (114 m.p.h.) 
+ Flap 20° 
+ 90 Knots (104 m.p.h.)"
+11000,"10850 (Ramp) 
+ 10800 (Takeoff)"
+10500,"10360 
+ 10260 (Landing)"
+10000,Gear-Down
+Weight pounds,"9850 
+ Gear-Up"
+9500,"(%MAC) 
+ 20 
+ 25 
+ 30 
+ 35 
+ 190 
+ 192 
+ 194 
+ 196 
+ 198 
+ 200 
+ (Inches)"
+Ramp  Takeoff,"Forward 
+ Aft 
+ Weight"
+CG Ranges,"In. 
+ %MAC 
+ In. 
+ %MAC 
+ Pounds"
+Gear Up,"+190.3 
+ 20 
+ +198.8 
+ 34 
+ 10360"
+Condition,"+192.1 
+ 23 
+ +198.8 
+ 34 
+ 10800"
+Gear,"+190.9 
+ 21 
+ +199.4 
+ 35 
+ 10360"
+Down,"+192.8 
+ 24 
+ +199.4 
+ 35 
+ 10800"
+Condition,"+192.8 
+ 24 
+ +199.4 
+ 35 
+ 10850"
+Landing,"Forward 
+ Aft 
+ Weight"
+CG Ranges,"In. 
+ %MAC 
+ In. 
+ %MAC 
+ Pounds"
+Gear Up,"+190.3 
+ 20 
+ +198.8 
+ 34 
+ 9850"
+Condition,"+192.1 
+ 23 
+ +198.8 
+ 34 
+ 10260"
+Gear Down,"+190.9 
+ 21 
+ +199.4 
+ 35 
+ 9850"
+Condition,"+192.8 
+ 24 
+ +199.4 
+ 35 
+ 10260 
+ Straight line variation between points given. Moment change due to gear retraction is -6556 in-lbs."
+Maximum weight,"Ramp 
+ 10,850 lbs. 
+ Takeoff 
+ 10,800 lbs. 
+ Landing 
+ 10,260 lbs. 
+ Zero fuel 
+ 9,775 lbs."
+Number of seats,"Maximum 10 (Pilot at +97.2) 
+ See loading instructions for passenger loading."
+Maximum baggage,600 lbs. at +286.8
+Fuel capacity,"TOTAL CAP 
+ USABLE 
+ Wing Tank 
+ 159 gal. (+204.5) 
+ 156 gal. 
+ Outer Tank (2 at 15 gal. ea.) 
+ 30 gal. (+201.0) 
+ 30 gal. 
+ Tip Tank (2 at 93 gal. ea.)* 
+ 186 gal. (+193.1) 
+ 180 gal. 
+ Total 
+ 375 gal. 
+ 366 gal. 
+ Fuel weights are based on 6.5 lbs./gal. 
+ *See Note 1(c) for required fuel usage procedure."
+Oil capacity,Total 3.1 gal. (1.55 gal. each tank) (+175.9)
+Maximum Operating Altitude,"25,000 ft."
+Control Surface Movements,"Spoiler 
+ Up 
+ 60° 
+ Aileron Trim 
+ Up 
+ 20° 
+ Down 
+ 20° 
+ Elevator 
+ Up 
+ 28° 
+ Down 
+ 12° 
+ Elevator Tab 
+ Up 
+ 30° 
+ Down 
+ 10° 
+ (If not modified 
+ by S/B No. 216) 
+ Up 
+ 30° 
+ Down 
+ 1° 
+ (If modified by 
+ S/B No. 216) 
+ Rudder 
+ Right 
+ 24° 
+ Left 
+ 22° 
+ Rudder Tab 
+ Right 
+ 25° 
+ Left 
+ 25° 
+ Flap Outboard 
+ Down 
+ 40° 
+ Flap Inboard 
+ Down 
+ 40°"
+Serial Nos eligible,"The Government of Japan Certificate of Airworthiness for Export endorsed as 
+ noted under “Import Requirements” must be submitted for each individual 
+ aircraft for which application for certification is made."
+"II-Model MU-2B-25, 6 ti 9 PCLM (Normal Category), Approved June 16, 1972",
+Engines,"2 Honeywell (AiResearch/Garrett) TPE331-6-251M, or 
+ 2 Honeywell (AiResearch/Garrett) TPE331-6A-251M, or 
+ 2 Honeywell (AiResearch/Garrett) TPE331-6-252M, or 
+ 2 Honeywell (AiResearch/Garrett) TPE331-6A-252M 
+ Propeller-shaft to engine-rotor ratio 1: 20.865"
+Fuel,"Fuels as designated 
+ ASTM D1655-68T Aviation Turbine Fuels 
+ Type Jet A, JET A-1 and Jet B 
+ MIL-T-5624G-1 Turbine Fuel 
+ Grade JP-4 and JP-5 
+ MIL-F-5616-l Fuel 
+ Grade JP-l 
+ MIL-F-46005A (MR) -l Fuel 
+ Type I and II 
+ British Ministry of Supply Specifications 
+ (a) D.Eng.R.D.2482 Issue No.2 
+ (b) D.Eng.R.D.2486 Issue No.2 
+ (c) D.Eng.R.D.2494 Issue No.4 
+ MIL-G-5572D Aviation Gasoline 
+ Grade 80/87 
+ (as emergency fuel only) 
+ Grade 100/130 
+ (as emergency fuel only)"
+Oil,"Oil brands and trade names conforming to MIL-L-23699 or MIL-L-7808 are approved 
+ lubricants. (See Allied Signal Aerospace Company Service Information Letter 
+ SIL P331-2 latest revision.)"
+Engine Limits,"Static Sea Level Rating (I.S.A.) 
+ Shaft 
+ *Propeller 
+ Maximum Permissible 
+ Horsepower 
+ Shaft 
+ Interstage Turbine 
+ (SHP) 
+ Speed (%)* 
+ Temperature (°C) 
+ Takeoff (5 min.) 
+ 665 
+ 100 
+ 923 
+ Maximum continuous 
+ 665 
+ 100 
+ 923 
+ Starting transient (1 sec.) 
+ 1149 
+ At low altitude and low ambient temperature the engines may produce more power 
+ than that for which the aircraft has been certificated. Under these conditions the 
+ placarded torque meter limitations shall not be exceeded. 
+ *The maximum allowable propeller shaft speed is 106% for a transient period not to exceed 
+ 5 seconds, and 101.5% for 5 minutes. 100% propeller shaft speed is defined as 2,000 r.p.m."
+Propeller Limits,"2 Hartzell HC-B3TN-5(C or E or M)/T10178B-11 with 3 blades each, or 
+ 2 Hartzell HC-B3TN-5(C or E or M)/T10178B-11R with 3 blades each, or 
+ 2 Hartzell HC-B3TN-5(C or E or M)/T10178NB-11 with 3 blades each, or 
+ 2 Hartzell HC-B3TN-5(C or E or M)/T10178NB-11R with 3 blades each 
+ See Note 6 and 8 
+ Diameter 
+ 90 - 3/8 inches 
+ Pitch setting at 30 in. station 
+ Flight idle 
+ 12° 
+ Feathered 
+ 87.0±5° 
+ Reverse 
+ -6.5°"
+Airspeed Limits CAS,"Vmo (Maximum Operating) 
+ 250 knots (287 m.p.h.) 
+ Decrease by 5 knots per 1,000 ft. above 21,300 ft. to account for Mmo = .57M 
+ Vp (Maneuvering) 
+ 181 knots (208 m.p.h.) 
+ Vfe (Flaps extended) 
+ Flap 5° 
+ 140 knots (161 m.p.h.) (S/N 239 thru 279 
+ if not modified by S/R No.010) 
+ Flap 5° 
+ 175 knots (201 m.p.h.) (S/N 280 and up. S/N 
+ 239 thru 279 if modified by S/R No. 010) 
+ Flap 20°, 40° 
+ 140 knots (161 m.p.h.) 
+ (S/N 280 and up. S/N 239 thru 279 if modified 
+ by S/R No. 010) 
+ Vlo (Landing gear operating) 
+ 160 knots (184 m.p.h.) 
+ Vle (Landing gear extended) 
+ 162 knots (187 m.p.h.) 
+ Vmc (Minimum control) 
+ Flap 5° 
+ 100 knots (115 m.p.h.) 
+ Flap 20° 
+ 93 knots (107 m.p.h.)"
+CG Range,"9970 (Ramp) 
+ 10,000 
+ 9920 (Takeoff) 
+ 9,500 
+ 9435 (Landing) 
+ 9149 
+ Weight (pounds) 
+ 9,000 
+ Gear-Down 
+ 8664 
+ Gear-Up 
+ 8,500 
+ (%MAC) 
+ 20 
+ 25 
+ 30 
+ 35 
+ 152 
+ 154 
+ 156 
+ 158 
+ 160 
+ 162 
+ (Inches) 
+ Center of Gravity Range (MU-2B-25)"
+Ramp  Takeoff,"Forward 
+ Aft 
+ Weight"
+CG Ranges,"In. 
+ %MAC 
+ In. 
+ %MAC 
+ Pounds"
+Gear Up,"+154.3 
+ 22 
+ +162.2 
+ 35 
+ 9149"
+Condition,"+159.2 
+ 30 
+ +162.2 
+ 35 
+ 9920"
+Gear,"+153.8 
+ 21 
+ +161.6 
+ 35 
+ 9149"
+Down,"+158.6 
+ 29 
+ +161.6 
+ 34 
+ 9920"
+Condition,"+158.6 
+ 29 
+ +161.6 
+ 34 
+ 9970"
+Landing,"Forward 
+ Aft 
+ Weight"
+CG Ranges,"In. 
+ %MAC 
+ In. 
+ %MAC 
+ Pounds"
+Gear Up,"+154.3 
+ 22 
+ +162.2 
+ 35 
+ 8664"
+Condition,"+159.2 
+ 30 
+ +162.2 
+ 35 
+ 9435"
+Gear Down,"+153.8 
+ 21 
+ +161.6 
+ 34 
+ 8664"
+Condition,"+158.6 
+ 29 
+ +161.6 
+ 34 
+ 9435 
+ Straight line variation between points given. 
+ Moment change due to gear retraction is +6738 in-lbs."
+Maximum weight,"Ramp 
+ 9,970 lbs. 
+ Takeoff 
+ 9,920 lbs. 
+ Landing 
+ 9,435 lbs. 
+ Zero fuel 
+ 9,271 lbs."
+No of seats,Maximum 9 (Pilot at +97.2)
+Maximum baggage,574 lbs. (200 lbs. at +205.1) (220 lbs. at +230.7) (154 lbs. at +253.2)
+capacity,"TOTAL CAP 
+ USABLE 
+ Wing Tank 
+ 159gal. (+169.3) 
+ 156gal. 
+ Outer Tank (2 at 15 gal. ea.) 
+ 30 gal. (+163.4) 
+ 30 gal. 
+ Tip Tank (2 at 93 gal. ea.)* 
+ 186 gal. (+155.9) 
+ 180 gal. 
+ Total 
+ 375 gal. 
+ 366 gal. 
+ Fuel weights are based on 6.5 lbs./gal. 
+ *See Note 1(c) for required fuel usage procedure."
+Oil Capacity,Total 3.1 gal. (1.55 gal. each tank) (+138.7)
+Maximum Operating Altitude,"25, 000 ft."
+Control Surface Movements,"Spoiler 
+ Up 
+ 60° 
+ Aileron Trim 
+ Up 
+ 20° 
+ Down 
+ 20° 
+ Elevator 
+ Up 
+ 33° 
+ Down 
+ 10° 
+ Elevator Tab 
+ Up 
+ 30° 
+ Down 
+ 10° 
+ (If not modified by S/B No. 216) 
+ Up 
+ 30° 
+ Down 
+ 1° (If modified by S/B No. 216) 
+ Rudder 
+ Right 
+ 25° 
+ Left 
+ 22° 
+ Rudder Tab 
+ Right 
+ 25° 
+ Left 
+ 25° 
+ Flap Outboard 
+ Down 
+ 40° 
+ Flap Inboard 
+ Down 
+ 40°"
+Serial Nos eligible,"The Government of Japan Certificate of Airworthiness for Export endorsed as noted under 
+ “Import Requirements” must be submitted for each individual aircraft for which application 
+ for certification is made."
+"III-Model MU-2B-36, 8 to 10 PCLM (Normal Category), Approved July 23, 1974.",
+Engines,"2 Honeywell (AiResearch/Garrett) 
+ TPE331-6-251M, or 
+ 2 Honeywell (AiResearch/Garrett) 
+ TPE331-6A-251M, or 
+ 2 Honeywell (AiResearch/Garrett) 
+ TPE331-6-252M, or 
+ 2 Honeywell (AiResearch/Garrett) 
+ TPE331-6A-252M 
+ Propeller-shaft to engine-rotor ratio 
+ 1: 20.865"
+Fuel,"Fuels as designated 
+ ASTM D1655-68T Aviation Turbine Fuels 
+ Type Jet A, JET A-1 and Jet B 
+ MIL-T-5624G-1 Turbine Fuel 
+ Grade JP-4 and JP-5 
+ MIL-F-5616-l Fuel 
+ Grade JP-l 
+ MIL-F-46005A (MR) -l Fuel 
+ Type I and II 
+ British Ministry of Supply Specifications 
+ (a) D.Eng.R.D.2482 Issue No.2 
+ (b) D.Eng.R.D.2486 Issue No.2 
+ (c) D.Eng.R.D.2494 Issue No.4 
+ MIL-G-5572D Aviation Gasoline 
+ Grade 80/87 
+ (as emergency fuel only) 
+ Grade 100/130 
+ (as emergency fuel only)"
+Oil,"Oil brands and trade names conforming to MIL-L-23699 or MIL-L-7808 are Approved 
+ lubricants. (See Allied Signal Aerospace Company Service Information Letter SIL P331-2 
+ latest revision.)"
+Engine Limits,"Static Sea Level Rating (I.S.A.) 
+ Shaft 
+ Propeller 
+ Maximum Permissible 
+ Horsepower 
+ Shaft 
+ Interstage Turbine 
+ (SHP) 
+ Speed 
+ Temperature (°C) 
+ (%)* 
+ Takeoff (5 min.) 
+ 715 
+ 100 
+ 923 
+ Maximum continuous 
+ 715 
+ 100 
+ 923 
+ Starting transient (1 sec.) 
+ 1149 
+ At low altitude and low ambient temperature, the engines may produce more power than 
+ that for which the aircraft has been certificated. Under these conditions, the placarded 
+ torque meter limitations shall not be exceeded. 
+ *The maximum allowable propeller shaft speed is 106% for a transient period not to 
+ exceed 5 seconds, and 101.5% for 5 minutes. 100% propeller shaft speed is defined as 
+ 2,000 r.p.m."
+Propeller and Propeller Limits,"2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10178B-11 with 3 blades each, or 
+ 2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10178B-11R with 3 blades each, or 
+ 2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10178NB-11 with 3 blades each, or 
+ 2 Hartzell 
+ HC-B3TN-5(C or E or M)/T10178NB-11R with 3 blades each 
+ See Note 6 and 8."
+,"Diameter 
+ 90-3/8 inches 
+ Pitch setting at 30 in. Station 
+ Flight Idle 
+ 12° 
+ Feathered 
+ 87.0° ± 0.5° 
+ Reverse 
+ -6.5°"
+Airspeed Limits CAS,"Vmo (maximum operating) 
+ 250 knots (287 m.p.h.) 
+ Decrease by 5 knots per 1,000 ft. above 21,300 ft. to account for Mmo = .57M 
+ Vp (Maneuvering) 
+ 191 knots (220 m.p.h.) 
+ Vfe (Flaps extended) 
+ Flap 5° 
+ 175 knots (201 m.p.h.) 
+ Flap 20°, 40° 
+ 155 knots (178 m.p.h.) 
+ Vlo (Landing gear operating) 
+ 175 knot (201 m.p.h.) 
+ Vle (Landing gear extended) 
+ 175 knots (201 m.p.h.) 
+ Vmc (Minimum control) 
+ Flap 5 
+ 99 knots (114 m.p.h.) 
+ Flap 20° 
+ 99 knots (114 m.p.h."
+CG Range,"11625 (Takeoff) 
+ 11575 (Ramp)"
+11500,11025 (Landing)
+11000,10690
+10500,Gear-Down
+Weight pounds,"Gear-Up 
+ 10140"
+10000,"(%MAC) 
+ 20 
+ 25 
+ 30 
+ 35 
+ 190 
+ 192 
+ 194 
+ 196 
+ 198 
+ 200 
+ (Inches)"
+Ramp  Takeoff,"Forward 
+ Aft 
+ Weight"
+CG Ranges,"In. 
+ %MAC 
+ In. 
+ %MAC 
+ Pounds"
+Gear Up,"+190.3 
+ 20 
+ +198.8 
+ 34 
+ 10690"
+Condition,"+194.0 
+ 26 
+ +198.8 
+ 34 
+ 11575"
+Gear,"+190.9 
+ 21 
+ +199.4 
+ 35 
+ 10690"
+Down,"+194.6 
+ 27 
+ +199.4 
+ 35 
+ 11575"
+Condition,"+194.6 
+ 27 
+ +199.4 
+ 35 
+ 11625"
+Landing,"Forward 
+ Aft 
+ Weight"
+CG Ranges,"In. 
+ %MAC 
+ In. 
+ %MAC 
+ Pounds"
+Gear Up,"+190.3 
+ 20 
+ +198.8 
+ 34 
+ 10140"
+Condition,"+194.0 
+ 26 
+ +198.8 
+ 34 
+ 11025"
+Gear Down,"+190.9 
+ 21 
+ +199.4 
+ 35 
+ 10140"
+Condition,"+194.6 
+ 27 
+ +199.4 
+ 35 
+ 11025 
+ Straight line variation between points given. 
+ Moment change due to gear retraction is -6556 in-lbs."
+Maximum weight,"Ramp 
+ 11,625 lbs. 
+ Take off 
+ 11,575 lbs. 
+ Landing 
+ 11,025 lbs. 
+ Zero fuel 
+ 9,943 lbs."
+No of seats,Maximum 10 (Pilot at +97.2) See loading instructions for passenger loading
+Maximum baggage,600 lbs. at +286.8
+Fuel capacity,"TOTAL CAP 
+ USABLE 
+ Wing Tank 
+ 159gal. (+204.5) 
+ 156gal. 
+ Outer Tank (2 at 15 gal.ea.) 
+ 30gal. (+201.0) 
+ 30 gal. 
+ Tip Tank (2 at 93 gal. ea.)* 
+ 186gal. (+193.1) 
+ 180 gal. 
+ Total 
+ 375gal. 
+ 366 gal. 
+ Fuel weights are based on 6.5 lbs./gal. 
+ *See Note 1(c) for required fuel usage procedure."
+Oil Capacity,Total 3.1 gal.(1.55 gal. each tank) (+175.9)
+Maximum Operating Altitude,"25,000 ft."
+Control Surface Movements,"Spoiler 
+ Up 
+ 60° 
+ Aileron Trim 
+ Up 
+ 20° 
+ Down 
+ 20° 
+ Elevator 
+ Up 
+ 28° 
+ Down 
+ 12° 
+ Elevator Tab 
+ Up 
+ 30° 
+ Down 
+ 10° 
+ (If not modified by 
+ S/B No. 216) 
+ Up 
+ 30° 
+ Down 
+ 1° 
+ (If modified by S/B 
+ No. 216) 
+ Rudder 
+ Right 
+ 24° 
+ Left 
+ 22° 
+ Rudder Tab 
+ Right 
+ 25° 
+ Left 
+ 25° 
+ Flap Outboard 
+ Down 
+ 40° 
+ Flap Inboard 
+ Down 
+ 40°"
+Serial Nos eligible,"The Government of Japan Certificate of Airworthiness for Export endorsed as noted under 
+ “Import Requirements” must be submitted for each individual aircraft for which application 
+ for certification is made."
+"VI-Model MU-2B-26, 6 to 9 PCLM (Normal Category), Approved July 23, 1974.",
+Engines,"2 Honeywell (AiResearch/Garrett) 
+ TPE331-6-251M, or 
+ 2 Honeywell (AiResearch/Garrett) 
+ TPE331-6A-251M, or 
+ 2 Honeywell (AiResearch/Garrett) 
+ TPE331-6-252M, or 
+ 2 Honeywell (AiResearch/Garrett) 
+ TPE331-6A-252M 
+ Propeller-shaft to engine-rotor ratio 
+ 1: 20.865"
+Fuel,"Fuels as designated 
+ ASTM D1655-68T Aviation Turbine Fuels Type Jet A, JET A-1 and Jet B 
+ MIL-T-5624G-1 Turbine Fuel 
+ Grade JP-4 and JP-5 
+ MIL-F-5616-l Fuel 
+ Grade JP-l 
+ MIL-F-46005A (MR) -l Fuel 
+ Type I and II 
+ British Ministry of Supply Specifications 
+ (a) D.Eng.R.D.2482 Issue No.2 
+ (b) D.Eng.R.D.2486 Issue No.2 
+ (c) D.Eng.R.D.2494 Issue No.4 
+ MIL-G-5572D Aviation Gasoline 
+ Grade 80/87 (as emergency fuel only) 
+ Grade 100/130 (as emergency fuel only)"
+Oil,"Oil brands and trade names conforming to MIL-L-23699 or MIL-L-7808 are approved 
+ lubricants. (See Allied Signal Aerospace Company Service Information Letter SIL P331-2 
+ latest revision.)"
+Engine Limits,"Static Sea Level Rating (I.S.A.) 
+ Shaft 
+ Propeller 
+ Maximum 
+ Horsepower 
+ Shaft 
+ Permissible Interstage 
+ (SHP) 
+ Speed 
+ Turbine Temperature 
+ (%)* 
+ (°C) 
+ Takeoff (5 min.) 
+ 665 
+ 100 
+ 923 
+ Maximum continuous 
+ 665 
+ 100 
+ 923 
+ Starting transient (1 sec.) 
+ 1149 
+ At low altitude and low ambient temperature the engines may produce more power than that 
+ for which the aircraft has been certificated. Under these conditions the placarded torque 
+ meter limitations shall not be exceeded. 
+ *The maximum allowable propeller shaft speed is 106% for a transient period not to exceed 5 
+ seconds, and 101.5% for 5minutes. 100% propeller shaft speed is defined as 2,000 r.p.m."
+Propeller and Propeller Limits,"2 
+ Hartzell 
+ HC-B3TN-5(C or E or M)/T10178B-11 with 3 blades each, or 
+ 2 
+ Hartzell 
+ HC-B3TN-5(C or E or M)/T10178B-11R with 3 blades each, or 
+ 2 
+ Hartzell 
+ HC-B3TN-5(C or E or M)/T10178NB-11 with 3 blades each, or 
+ 2 
+ Hartzell 
+ HC-B3TN-5(C or E or M)/T10178NB-11R with 3 blades each 
+ See Note 6 and 8 
+ Diameter 
+ 90-3/8 inches 
+ Pitch setting at 30 in. station 
+ Flight idle 
+ 12° 
+ Feathered 
+ 87.0° ± 0.5° 
+ Reverse 
+ -6.5°"
+Airspeed Limits CAS,"Vmo (maximum operating) 
+ 250 knots (287 m.p.h.) 
+ Decrease by 5 knots per 1,000 ft. above 21,300 ft. to account for Mmo = .57M 
+ Vp (Maneuvering) 
+ 182 knots (209 m.p.h.) 
+ Vfe (Flaps extended) 
+ Flap 5° 
+ 175 knots (201 m.p.h.) 
+ Flap 20°, 40° 
+ 155 knots (178 m.p.h.) 
+ Vlo (Landing gear operating) 
+ 170 knots (196 m.p.h.) 
+ Vle (Landing gear extended) 
+ 170 knots (196 m.p.h.) 
+ Vmc (Minimum control) 
+ Flap 5° 
+ 100 knots (115 m.p.h.) 
+ Flap 20° 
+ 93 knots (107 m.p.h.) 
+ 10520 (Ramp) 
+ 10,500 
+ 10470 (Takeoff)"
+CG Range,"10,000 
+ 10,000 
+ 9955 (Landing) 
+ 9,500 
+ 9315 
+ 9,000 
+ Weight (pounds) 
+ Gear-Down 
+ 8800 
+ Gear-Up 
+ 8,500 
+ (%MAC) 
+ 20 
+ 25 
+ 30 
+ 35 
+ 152 
+ 154 
+ 156 
+ 158 
+ 160 
+ 162 
+ (Inches) 
+ Center of Gravity Range (MU-2B-26)"
+Ramp  Takeoff,"Forward 
+ Aft 
+ Weight"
+CG Ranges,"In. 
+ %MAC 
+ In. 
+ %MAC 
+ Pounds"
+Gear Up,"+154.3 
+ 22 
+ +162.2 
+ 35 
+ 9315"
+Condition,"+159.2 
+ 30 
+ +162.2 
+ 35 
+ 10470"
+Gear,"+153.7 
+ 21 
+ +161.6 
+ 34 
+ 9315"
+Down,"+158.6 
+ 29 
+ +161.6 
+ 34 
+ 10470"
+Condition,"+158.6 
+ 29 
+ +161.6 
+ 34 
+ 10520"
+Landing,"Forward 
+ Aft 
+ Weight"
+CG Ranges,"In. 
+ %MAC 
+ In. 
+ %MAC 
+ Pounds"
+Gear Up,"+154.3 
+ 22 
+ +162.2 
+ 35 
+ 8800"
+Condition,"+159.2 
+ 30 
+ +162.2 
+ 35 
+ 9955"
+Gear Down,"+153.7 
+ 21 
+ +161.6 
+ 34 
+ 8800"
+Condition,"+158.6 
+ 29 
+ +161.6 
+ 34 
+ 9955 
+ Straight line variation between points given. Moment change due to gear retraction is +6738 in-lbs."
+Maximum weight,"Ramp 
+ 10,520 lbs. 
+ Takeoff 
+ 10,470 lbs. 
+ Landing 
+ 9,955 lbs. 
+ Zero fuel 
+ 9,710 lbs."
+No of seats,"Maximum 9 (Maximum operating altitude 25,000 ft.) (Pilot at +97.2) 
+ Maximum 7 (Maximum operating altitude 28,000 ft) (Pilot at +97.2) 
+ See loading instructions for passenger loading."
+Maximum baggage,574 lbs. (200 lbs. at +205.1) (220 lbs. at +230.7) (154 lbs. at +253.2)
+Fuel capacity,"TOTAL CAP 
+ USABLE 
+ Wing Tank 
+ 159 gal. (+204.5) 
+ 156 gal. 
+ Outer Tank (2 at 15 gal. ea.) 
+ 30 gal. (+201.0) 
+ 30 gal. 
+ Tip Tank (2 at 93 gal. ea.)* 
+ 186 gal. (+193.1) 
+ 180 gal. 
+ Total 
+ 375 gal. 
+ 366 gal. 
+ Fuel weights are based on 6.5 lbs./gal. 
+ *See Note 1 (c) for required fuel usage procedure."
+Oil Capacity,"Total 3.1 gal.(1.55 gal. each tank) (+138.7) 
+ Maximum Operating Altitude 25,000 ft. (Ships of cabin differential pressure 5 psi-nominal) 
+ 28,000 ft. (Ships of cabin differential pressure 6 psi-nominal)"
+Control Surface Movements,"Spoiler 
+ Up 
+ 60° 
+ Aileron Trim 
+ Up 
+ 20° 
+ Down 
+ 20° 
+ Elevator 
+ Up 
+ 33° 
+ Down 
+ 10° 
+ Elevator Tab 
+ Up 
+ 30° 
+ Down 
+ 10° (If not modified by S/B No. 
+ 216) 
+ Up 
+ 30° 
+ Down 
+ 1° (If modified by S/B No. 216) 
+ Rudder 
+ Right 
+ 25° 
+ Left 
+ 22° 
+ Rudder Tab 
+ Right 
+ 25° 
+ Left 
+ 25° 
+ Flap Outboard 
+ Down 
+ 40° 
+ Flap Inboard 
+ Down 
+ 40°"
+Serial Nos eligible,"The Government of Japan Certificate of Airworthiness for Export endorsed as noted under 
+ “Import Requirements” must be submitted for each individual aircraft for which application 
+ for certification is made."
+Data Pertinent to All Model,
+Datum,"Nose of fuselage for Models MU-2B, MU-2B-10, MU-2B-20, MU-2B-15, MU-2B-25, MU- 
+ 2B-26 (Forward 183.46 in. (4660 mm) from front plane of wing rear spar fuselage connecting 
+ frame). 
+ 6.69 in. (170 mm) aft of nose for Models MU-2B-30, MU-2B-35, MU-2B-36 (Forward 
+ 220.67 in. (5605 mm) from front plane of wing rear spar fuselage connecting frame)."
+MAC,"60.55 in. (Leading edge of MAC is at +141.03 (MU-2B, MU-2B-10, MU-2B-20, MU-2B- 
+ 15, MU-2B-25, and MU-2B-26), and at +178.23 (MU-2B-30, MU-2B-35, and MU-2B-36)."
+Leveling means,"Position spirit level on the R.H. bracket of keel (STA. 5809, STA.6020) longitudinally, and 
+ on the channel of door actuator laterally, for Models MU-2B, MU-2B-10, MU-2B-20, MU- 
+ 2B-15, MU-2B-25 and MU-2B-26. 
+ A plumb bob suspension crip fitted to the channel of the pressure bulkhead (STA. 8035), and 
+ a leveling provision scale on the equipment floor in the electrical compartment for Models 
+ MU-2B-30, MU-2B-35, and MU-2B-36."
+Certification basis,"CAR 10 dated March 28, 1955. (Applicable regulations are CAR 3 dated May 15, 1956 
+ including Amendments 3-1 through 3-8, plus the Special Conditions stated in FAA letter to 
+ the JCAB dated May 14, 1965, modified by FAA letters to the JCAB dated January 25, 1968, 
+ and May 12, 1971. 
+ Type Certificate No. A2PC issued November 4, 1965. 
+ Application for Type Certificate dated November 25, 1964."
+Required equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see 
+ Certification Basis) must be installed in the aircraft for type certification. Mitsubishi Reports 
+ 5ET65196(MU-2B), YET66131 (MU-2B-10), YET68004 (MU-2B-20), YET-68027 (MU- 
+ 2B-15), YET 69069(MU-2B-30) and YET 70176(MU-2B-35), YET 71354(MU-2B-25), 
+ YET-74194 (MU-2B-26) and YET 74196(MU-2B-36), contain lists of all required 
+ equipment as well as optional equipment installations approved by the JCAB."
+Import requirements,"Each aircraft and any replacement parts manufactured in Japan and exported to the United 
+ States must be designated as “Import” and clearly labeled as such in accordance with CAR 
+ 10.30. A U.S. certificate of Airworthiness may be issued on the basis of a Japanese 
+ Certificate of Airworthiness for export signed by a representative of the JCAB containing the 
+ following notation. 
+ “The aircraft covered by this certificate has been found to conform to Type Certificate 
+ Number A2PC and is in a condition for safe operation.”"
+Note 1,"(a) Current weight and balance report, including list of equipment included in certificated empty weight, and 
+ loading instructions when necessary, must be provided for each aircraft at the time of original airworthiness 
+ certification. 
+ (b) The certificated empty weight and corresponding center of gravity location must include unusable fuel and 
+ undrainable oil as follows: 
+ Unusable Fuel (MU-2B) 
+ 65.0 lbs. at (+167.3) 
+ Unusable Fuel (MU-2B-10) 
+ 19.5 lbs. at (+167.3) (Standard) 
+ 58.5 lbs. at (+159.7) (Extended Range) 
+ Unusable Fuel (MU-2B-20) 
+ 58.5 lbs. at (+159.7) 
+ Unusable Fuel (MU-2B-15) 
+ 58.5 lbs. at (+159.7) 
+ Unusable Fuel (MU-2B-30) 
+ 58.5 lbs. at (+196.9) 
+ Unusable Fuel (MU-2B-35) 
+ 58.5 lbs. at (+196.9) 
+ Unusable Fuel (MU-2B-25) 
+ 58.5 lbs. at (+159.7) 
+ Unusable Fuel (MU-2B-26) 
+ 58.5 lbs. at (+159.7) 
+ Unusable Fuel (MU-2B-36) 
+ 58.5 lbs. at (+196.9) 
+ Undrainable oil (All Models) 
+ 0 lbs. 
+ (c) The fuel quantity of each tip tank must not be more than 45 gallons, Model MU-2B, and not more than 65 
+ gallons, Model MU-2B-10 (Extend Range), MU-2B-20, MU-2B-15, MU-2B-30, MU-2B-35, MU-2B-25, and MU- 
+ 2B-26, MU-2B-36, before landing."
+Note 2,This aircraft must be operated in accordance with the JCAB approved Airplane Flight Manual.
+Note 3,(Delete)
+Note 4,"(a) Model MU-2B-10 can be converted to Model MU-2B-15 by complying with the provisions of Service 
+ Recommendation No. 086. 
+ (b) Model MU-2B-25 can be converted to Model MU-2B-20 by complying with the provisions of Service 
+ Recommendation No. 013. 
+ (c) Model MU-2B-35 can be converted to Model MU-2B-36 by complying with the provisions of Service 
+ Recommendation No. 020. 
+ (d) Model MU-2B-25 can be converted to Model MU-2B-26 by complying with the provisions of Service 
+ Recommendation No. 021."
+Note 5,"Mitsubishi Heavy Industries America Inc; Addison, Texas 75001, is licensed by Mitsubishi Heavy Industries, Ltd. 
+ to maintain the type design and to manufacture replacement and modification parts for Model MU-2B series 
+ airplanes listed in this type certificate data sheet."
+Note 6,"Airworthiness Directive – AD 2003-04-23, mandated that existing blades be replaced with new blades of the latest 
+ design in accordance with Hartzell Propeller Inc. SB HC-SB-61-250, Revision 1, dated April 8, 2002. Effected 
+ models are MU-2B/-10/-15/-20/-25/-26/-30/-35/-36. Removed Blade: T10176 H (B)-5, T10176H (K)-5, T10176H- 
+ 5, T10176HSB-5, T10178H-11R, T10178H (B)-11, T10178H (B)-11R Replaced By: T10176 (N) SB-5, T10178 
+ (N) B-11, T10178 (N) B-11R"
+Note 7,"Updated the propeller blades per Hartzell SB HC-SB-61-170, Rev. B, dated September 18, 1992 and A188, dated 
+ February 25, 1994, AD 95-01-02."
+Note 8,"Updated the propeller hubs and blades per Hartzell TC Data Sheet P15EA, Note 6(a) and (c)"
+Note 9,"The following serial number aircraft are no longer eligible for a standard airworthiness certificate; MU-2B: S/N 4,6 
+ thru 35,37,38; MU-2B-10: S/N 101, 103 to 111, 113, 116, 117, 119 and 120; MU-2B-15: S/N 114, 115 and 118."

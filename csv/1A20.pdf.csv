@@ -1,0 +1,2102 @@
+Keyterm,Info
+"1A20 
+ Revision 6 
+ Bombardier 
+ CL-44D4 
+ CL-44J 
+ March 24, 1998",
+Type Certificate Holder,"Bombardier Inc. 
+ P.O. Box 6087, Station Centre-ville 
+ Montreal, Quebec, Canada H3C 3G9"
+"I - Model CL-44D4 (Transport Category), Approved 24 May 1961 by the FAA and 23 May 1961 by the Canadian Department of 
+ Transport DOT",
+Engines,"4 Rolls-Royce Tyne 515 (Turboprop) 
+ Reduction gearing 0.064:1"
+Fuel,"For approved fuels additives and deviations to fuel specifications see DOT approved 
+ Airplane Flight Manual."
+Oil Engine  Gearbox,"Esso Aviation Turbo oil 35 
+ Enco Turbo oil 35 
+ Humble Turbo oil 35 
+ Penola Turbo oil 35 
+ Castrol 98"
+Constant Speed Drive,MIL-L-7808
+Static Sea Level Ratings,"Max. TGT °C when 
+ Shaft 
+ Jet 
+ Max. Engine 
+ Max. TGT 
+ Rolls Royce Modi- 
+ Horse- 
+ Thrust 
+ Speed 
+ °C 
+ fication No. 1426 
+ power 
+ (lb.) 
+ (r.p.m.) 
+ is incorporated. 
+ LP 
+ HP"
+Takeoff 5 min,"5095 
+ 1065 
+ 15250 
+ 18150 
+ 735* 
+ 665** 
+ 4685 
+ 940 
+ 14500 
+ 17950 
+ 715* 
+ 645**"
+Max transient for,"starting (5 sec.) 
+ 800 
+ 725"
+Max Reverse Pitch,"Braking (1 min.) 
+ 13250 
+ 16600 
+ 685* 
+ 620 
+ * 
+ These limits are applicable at sea level. Above sea level, the limits increase by 
+ 2 1/2°C per 1000 ft. altitude. 
+ ** 
+ TGT limits are applicable at sea level. Above sea level the limits increase by 
+ 2 1/2°C per 1000 ft. altitude if fuel trimmer control is used, or by 1 1/2°C per 
+ 1000 ft. if fuel control is used. 
+ il Inlet Temperature 
+ Minimum for starting 
+ -30°C 
+ Minimum for opening up 
+ -15°C 
+ Maximum allowable: 
+ With Castrol 98 
+ 105°C 
+ With any other approved oil 
+ 100°C"
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18"
+6,"- 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 5 
+ Oil Pressure Limits: 
+ Normal (at 90°C): 
+ 40-65 p.s.i. at 14,500 LP r.p.m. 
+ Minimum (at 100°C): 
+ 40 p.s.i. at 14,500 LP r.p.m. 
+ Minimum to complete flight: 
+ 38 p.s.i. at 11,000 LP r.p.m. and above, 
+ 30 p.s.i. at all r.p.m. below 11,000 LP r.p.m. 
+ Air Turbine Starter (At ground air connection) 
+ Maximum pressure 
+ .34 p.s.i.g. 
+ Maximum temperature 
+ 270°C 
+ Minimum temperature 
+ 20°C 
+ Normal Operating Time 
+ 30 Sec. 
+ Maximum Operating Time Limit 
+ 40 Sec. 
+ Starter Inlet Temperature and Corresponding Pressure Limits: 
+ Maximum 
+ 310°C (26 p.s.i.g.) 
+ Intermediate 
+ 150°C (32 p.s.i.g.) 
+ Minimum 
+ -30°C (32 p.s.i.g.)"
+Propeller and,"4 DeHavilland propellers Model PD 228/476/2, four blades"
+propeller limits,"Diameter: 16 ft. (+0.14 in., -1.00 in.) 
+ Pitch settings at Station 72.0 in.: 
+ Maximum reverse 
+ - 17° 
+ Ground Idle 
+ - 7° 
+ Flight Idle 
+ +12° 
+ Feather 
+ +83°"
+CAS,"Maximum Operating Limitation Vmo/Mmo 
+ Altitude 
+ S.L. 
+ 10 
+ 15 
+ 20 
+ 25 
+ in 
+ to 
+ to 
+ to 
+ to 
+ to 
+ 10,000 ft. 
+ 10 
+ 15 
+ 20 
+ 25 
+ 30 
+ Zero Fuel 
+ Weight 
+ m.p.h. (knots) 
+ Mach 
+ 155,000 
+ 288 
+ (250) 
+ 290 
+ (252) 
+ 292 
+ (254) 
+ 296 
+ (257) 
+ .62 
+ to 
+ (See Note 7) 
+ 160,000 
+ 153,000 
+ 290 
+ (252) 
+ 292 
+ (254) 
+ 294 
+ (256) 
+ 298 
+ (259) 
+ .62 
+ 151,000 
+ 293 
+ (255) 
+ 296 
+ (257) 
+ 298 
+ (259) 
+ 301 
+ (262) 
+ .62 
+ 149,000 
+ 296 
+ (257) 
+ 298 
+ (259) 
+ 300 
+ (261) 
+ 304 
+ (264) 
+ .62 
+ 147,000 
+ 299 
+ (260) 
+ 301 
+ (262) 
+ 304 
+ (264) 
+ 307 
+ (267) 
+ .62 
+ 145,000 
+ 301 
+ (262) 
+ 304 
+ (264) 
+ 306 
+ (266) 
+ 309 
+ (269) 
+ .62 
+ 143,000 
+ 305 
+ (265) 
+ 307 
+ (267) 
+ 309 
+ (269) 
+ 313 
+ (272) 
+ .62 
+ 141,000 
+ 307 
+ (267) 
+ 309 
+ (269) 
+ 312 
+ (271) 
+ 315 
+ (274) 
+ .62 
+ 139,000 
+ 311 
+ (270) 
+ 313 
+ (272) 
+ 315 
+ (274) 
+ 319 
+ (277) 
+ .62 
+ 137,000 
+ 313 
+ (272) 
+ 315 
+ (274) 
+ 317 
+ (276) 
+ 321 
+ (279) 
+ .62 
+ 135,000 
+ 316 
+ (275) 
+ 319 
+ (277) 
+ 321 
+ (279) 
+ 324 
+ (282) 
+ .62 
+ or less"
+Vfe Flaps extended 5°,264 m.p.h. (230 knots) (Mach .50)
+Vfe Flaps extended 15°,264 m.p.h. (230 knots)
+Vfe Flaps extended 30°,228 m.p.h. (198 knots)
+Vfe Flaps extended 45°,172 m.p.h. (150 knots)
+Va Maneuvering,241 m.p.h. (210 knots)
+Vlo Landing gear operating,207 m.p.h. (180 knots)
+Vle Landing gear extended,"211 m.p.h. (184 knots) 
+ 118 m.p.h. (103 knots)"
+Maximum landing light operating speed,190 m.p.h. (165 knots)
+Maximum landing light extended speed,241 m.p.h. (210 knots)
+Maximum spoiler operating speed,"230 m.p.h. (200 knots) 
+ Maximum fuel dump chute extended speed 
+ 241 m.p.h. (210 knots)"
+CG range,"Center-of gravity limits, with landing gear extended, are shown in the following tables; 
+ straight line variations exist between the quoted values. Gear retraction moment is 
+ +237,609 in.-lb.; retraction of the gear moves the C.G. aft approximately 1% MAC. 
+ C.G. Envelope for Aircraft with Basic Configuration, Zero Fuel 
+ Weight of 155,000 lb. or less. 
+ CENTER OF GRAVITY - PERCENT M.A.C. 
+ 12.0 
+ 12.8 
+ 14.0 
+ 17.3 18.0 18.8 
+ 26.8 
+ 31.0 
+ 210 
+ 205"
+WEIGHT 1000 lb,"Zero Fuel Wt. 145,000 lb. to 155,000 lb. 
+ 155 
+ Zero Fuel Wt. 135,000 lb. to 145,000 lb. 
+ 145 
+ 135 
+ Zero Fuel Wt. 135,000 lb. or less 
+ 127.4 
+ 120 
+ 95 
+ 688.9 
+ 690.4 
+ 692.7 
+ 699.1 700.5 
+ 702.0 
+ 717.4 
+ 725.5 
+ DISTANCE FROM C.G. DATUM - INCHES 
+ C.G. Envelope for Aircraft with Modified Swing Tail Compartment, 
+ Zero Fuel Weight of 155,000 lbs. or less 
+ CENTER OF GRAVITY - PERCENT M.A.C. 
+ 23.3 
+ 26.8 
+ 31.0 
+ 19.6 
+ 22.8 
+ 23.4 
+ 210 
+ 205"
+WEIGHT 1000 lb,"Zero Fuel Wt. 145,000 lb. to 155,000 lb. 
+ 155 
+ Zero Fuel Wt. 135,000 lb. to 145,000 lb. 
+ 145 
+ 135 
+ Zero Fuel Wt. 135,000 lb. or less 
+ 127.5 
+ 95 
+ 710.9 
+ 717.4 
+ 725.5 
+ 703.5 
+ 709.7 
+ 710.5 
+ DISTANCE FROM C.G. DATUM - INCHES 
+ C.G. Envelope for Aircraft with Basic Configuration of Modified 
+ Swing Tail Compartment, Zero Fuel Weight Between 155,000 lb. and 160,000 lb. 
+ CENTER OF GRAVITY - PERCENT M.A.C. 
+ 12.4 
+ 14.0 
+ 17.6 
+ 19.9 
+ 23.8 
+ 27.0 
+ 30.0 
+ 30.8 
+ 210 
+ 205 
+ WEIGHT 
+ 1,000 LB. 
+ 185 
+ 160 
+ 140 
+ 120 
+ 95 
+ 689.7 
+ 696.7 
+ 699.7 
+ 704.2 
+ 711.7 
+ 717.7 
+ 723.6 
+ 725.1 
+ DISTANCE FROM C.G. DATUM - INCHES 
+ FORWARD LIMIT: 
+ (a) 
+ Basic Interior Configuration: 
+ Gross Weight 
+ Limits 
+ Zero Fuel 
+ 95,000 
+ 14.0% MAC (Sta. 692.7) 
+ Weight 
+ 120,000 
+ 14.0% MAC (Sta. 692.7) 
+ 135,000 lb. 
+ 135,000 
+ 12.8% MAC (Sta. 690.4) 
+ or less 
+ 145,000 
+ 13.6% MAC (Sta. 692.0) 
+ 155,000 
+ 14.4% MAC (Sta. 693.5) 
+ 165,000 
+ 15.3% MAC (Sta. 695.2) 
+ 205,000 
+ 18.4% MAC (Sta. 701.2) 
+ 210,000 (see NOTE 8) 
+ 18.8% MAC (Sta. 702.0) 
+ Zero Fuel 
+ 135,000 
+ 12.8% MAC (Sta. 690.4) 
+ Weight 
+ 145,000 
+ 12.0% MAC (Sta. 688.9) 
+ 135,000 lb. 
+ 155,000 
+ 13.0% MAC (Sta. 690.8) 
+ to 
+ 165,000 
+ 13.9% MAC (Sta. 692.5) 
+ 145,000 lb. 
+ 205,000 
+ 17.6% MAC (Sta. 699.7) 
+ 210,000 (see NOTE 8) 
+ 18.0% MAC (Sta. 700.5) 
+ Zero Fuel 
+ 145,000 
+ 12.0% MAC (Sta. 688.9) 
+ Weight 
+ 155,000 
+ 12.0% MAC (Sta. 688.9) 
+ 145,000 lb. 
+ 165,000 
+ 13.0% MAC (Sta. 690.8) 
+ to 
+ 205,000 
+ 16.8% MAC (Sta. 698.1) 
+ 155,000 lb. 
+ 210,000 (see NOTE 8) 
+ 17.3% MAC (Sta. 699.1) 
+ Zero Fuel 
+ 155,000 
+ 12.4% MAC (Sta. 689.7) 
+ Weight 
+ 160,000 
+ 12.4% MAC (Sta. 689.7) 
+ 155,000 lb. 
+ 205,000 
+ 17.1% MAC (Sta. 698.7) 
+ to 
+ 210,000 
+ 17.6% MAC (Sta. 699.7) 
+ 160,000 
+ (see NOTE 7) 
+ (b) 
+ Modified Swing Tail Compartment for aircraft incorporating Canadair Service 
+ bulletin CL-44D4-245, and CL-44D4-303. The following limits apply when the 
+ swing-tail cargo load is in excess of 3,000 lb. on airplanes with the standard 
+ swing-tail compartment configuration or in excess of 1,000 lb. on airplanes with 
+ the swing-tail compartment modified to incorporate the dropped floor with 
+ passenger service facilities. 
+ Gross Weight 
+ Limits 
+ Zero Fuel 
+ 95,000 
+ 19.6% MAC (Sta. 703.5) 
+ Weight 
+ 120,000 
+ 19.6% MAC (Sta. 703.5) 
+ 135,000 lb. 
+ 135,000 
+ 19.6% MAC (Sta. 703.5) 
+ or less 
+ 145,000 
+ 20.2% MAC (Sta. 704.7) 
+ 155,000 
+ 20.6% MAC (Sta. 705.9) 
+ 165,000 
+ 21.2% MAC (Sta. 706.9) 
+ 205,000 
+ 23.2% MAC (Sta. 710.5) 
+ 210,000 (see NOTE 8) 
+ 23.4% MAC (Sta. 710.9) 
+ Zero Fuel 
+ 135,000 
+ 19.6% MAC (Sta. 703.5) 
+ Weight 
+ 145,000 
+ 19.6% MAC (Sta. 703.5) 
+ 135,000 lb. 
+ 155,000 
+ 20.2% MAC (Sta. 704.7) 
+ to 
+ 165,000 
+ 20.8% MAC (Sta. 705.8) 
+ 145,000 lb. 
+ 205,000 
+ 23.0% MAC (Sta. 710.1) 
+ 210,000 (see NOTE 8) 
+ 23.3% MAC (Sta. 710.5) 
+ Zero Fuel 
+ 145,000 
+ 19.6% MAC (Sta. 703.5) 
+ Weight 
+ 155,000 
+ 19.6% MAC (Sta. 703.5) 
+ 145,000 lb. 
+ 165,000 
+ 20.2% MAC (Sta. 704.7) 
+ to 
+ 205,000 
+ 22.5% MAC (Sta. 709.1) 
+ 155,000 lb. 
+ 210,000 (see NOTE 8) 
+ 22.8% MAC (Sta. 709.7) 
+ Zero Fuel 
+ 155,000 
+ 19.9% MAC (Sta. 704.2) 
+ Weight 
+ 160,000 
+ 19.9% MAC (Sta. 704.2) 
+ 155,000 lb. 
+ 205,000 
+ 23.4% MAC (Sta. 710.9) 
+ to 
+ 210,000 
+ 23.8% MAC (Sta. 711.7) 
+ 160,000 (see NOTE 7) 
+ AFT LIMIT: 
+ (a) 
+ Aircraft operating with Zero Fuel Weight up to 155,000 lb. 
+ Gross Weight 
+ Limits 
+ 95,000 
+ 26.8% MAC (Sta. 717.4) 
+ 127,400 
+ 31.0% MAC (Sta. 725.5) 
+ 205,000 
+ 31.0% MAC (Sta. 725.5) 
+ 210,000 (See NOTE 8) 
+ 31.0% MAC (Sta. 725.5) 
+ (b) 
+ Aircraft operating with Zero Fuel Weight between 155,000 lb. 
+ and 160,000 lb. (See NOTE 7). 
+ Gross Weight 
+ Limits 
+ 95,000 
+ 27.0% MAC (Sta. 717.7) 
+ 120,000 
+ 30.0% MAC (Sta. 723.6) 
+ 185,000 
+ 30.8% MAC (Sta. 725.1) 
+ 205,000 
+ 30.8% MAC (STA. 725.1) 
+ 210,000 
+ 30.8% MAC (Sta. 725.1)"
+Datum,"The datum for the center-of-gravity limits is at Station 0, which is 633.0 inches forward 
+ of a jig point located on the underside of the fuselage immediately forward of the front 
+ spar on the aircraft center line. The jig point is a Philips head screw in the skin joint."
+Mean Aerodynamic Chord,192.86 inches (L.E. of M.A.C. is 665.72 inches aft of Station 0).
+Maximum weight,"Taxi 
+ 206,000 lb. 
+ 211,000 lb. (See NOTE 8) 
+ Take-off 
+ 205,000 lb. 
+ 210,000 lb. (see NOTE 8) 
+ Landing 
+ 165,000 lb. 
+ Maximum Zero Fuel 
+ 155,000 lb. 
+ 160,000 lb. (See NOTE 7) 
+ All weights in excess of zero fuel weight must consist of usable fuel. See Airspeed 
+ Limits for variation of limit airspeeds with zero-fuel weight."
+Minimum crew,"3: Pilot, Co-pilot and System Operator."
+Maximum passengers,"Certification of original type design for cargo only. Maximum Supplemental Type 
+ Certificate configuration approved prior to FAR 25.2 is for 178 passengers."
+Maximum cargo,"Permissible cargo load and distribution varies with interior configuration. See NOTE 2 
+ for permissible loading for approved configuration. See NOTE 4(a) for cargo 
+ compartment classification."
+Fuel capacity,"Total gal. 
+ Usable gal. 
+ Imp. 
+ U.S. 
+ Imp. 
+ U.S. 
+ ARM 
+ 2 outboard main tanks 
+ 3810 
+ 4575 
+ 3760 
+ 4516 
+ 734.5 
+ 2 inboard main tanks 
+ 3802 
+ 4566 
+ 3736 
+ 4486 
+ 709.0 
+ c/s auxiliary tank 
+ 1636 
+ 1965 
+ 1626 
+ 1954 
+ 695.4 
+ 2 outboard auxiliary 
+ 874 
+ 1050 
+ 870 
+ 1044 
+ 765.5 
+ Total 
+ 10122 
+ 12156 
+ 9992 
+ 12000 
+ See CL-44D4 NOTE 1(c) for ""Systems fuel"" data."
+Oil capacity,"Total pt. 
+ Usable pt. 
+ Imp. 
+ U.S. 
+ lb. 
+ Imp. 
+ U.S. 
+ lb. 
+ ARM 
+ 2 outboard engines 
+ 124 
+ 148.8 150 
+ 40 
+ 48.0 
+ 48.4 
+ (555.0) 
+ 2 inboard engines 
+ 124 
+ 148.8 150 
+ 40 
+ 48.0 
+ 48.4 
+ (513.0) 
+ See CL-44D4 NOTE 1(d) for ""System oil"" data."
+Maximum approved,"30,000 ft. if suitable supplementary oxygen dispensing units are provided for"
+operating altitude,"flight altitudes above 10,000 ft. If no oxygen dispensing units are provided, maximum 
+ operating flight altitude is 10,000 ft."
+Other operating,This aircraft must be operated in accordance with the limitations listed in the
+limitations,Department of Transport Approved Airplane Flight Manual.
+Control surface movements,"Elevators 
+ UP 
+ 30° 
+ Down 
+ 15° 
+ (from neutral) 
+ L.H. Elevator servo tabs 
+ UP 
+ 14° 
+ Down 
+ 26° 
+ (rig 1° down) 
+ R.H. Elevator servo tabs 
+ UP 
+ 16° 
+ Down 
+ 24° 
+ (rig 1° up) 
+ Elevator trim tabs 
+ UP 
+ 17-1/2° 
+ Down 22-1/2° 
+ (from neutral) 
+ Rudder 
+ Right 16° 
+ Left 16° 
+ (from neutral) 
+ Rudder servo tabs 
+ Right 
+ 18° 
+ Left 
+ 18° 
+ (from neutral) 
+ Rudder connected tabs 
+ UP 
+ 22° 
+ Down 
+ 18° 
+ (rig 2° up) 
+ Aileron 
+ UP 21° 
+ Down 
+ 15° 
+ (from neutral) 
+ Aileron servo tabs 
+ UP 
+ 25° 
+ Down 
+ 21° 
+ (rig 2° up) 
+ Flaps 
+ UP 
+ 0° 
+ Down 
+ 45° 
+ Spoilers 
+ UP 
+ 48° 
+ Down 
+ 0° 
+ Tab angles measured with control surfaces neutral."
+Serial Nos eligible,"9, 14 to 39. The Canadian Department of Transport Certificate of Airworthiness for 
+ export endorsed as noted under ""Import Eligibility"" must be submitted for each 
+ individual aircraft for which application for certification is made."
+Import eligibility,"A U.S. Airworthiness Certificate may be issued on the basis of the Canadian 
+ Department of Transport ""Certificate of Airworthiness for Export"" signed by the 
+ Minister of Transport or his authorized representative. This form must contain the 
+ following statement: This certifies that the aircraft described below has been 
+ manufactured in conformity with data forming the basis for D.O.T. Type Approval No. 
+ A55 (FAA Type Certificate No. 1A20)."""
+Certification basis,"CAR 4b dated 31 December 1953; amendments 4b-1 through 4b-10; amendment 4b-11 
+ with the exception of items 6, 9, 17, 26, 27, 28, 33 and 44; and special regulation 
+ SR-422B. Type Certificate No. 1A20 issued 24 May 1961. Date of Application for 
+ Type Certificate 1 August 1957. 
+ Compliance with the following optional requirements has been established: Ditching, 
+ CAR 4b.361--Structural approval only-- eligible for ditching approval when the 
+ required ditching equipment and storage provisions are approved. Ice Protection, CAR 
+ 4b.640."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification including DOT 
+ approved Flight Manual (Canadair Service Publication No. 153 latest approved revision 
+ for the CL44D4). Canadair Report No. RAL-44-102 latest revised ""Equipment 
+ Qualification List for CL44D4"", lists all required equipment that must be installed as 
+ well as optional equipment installations approved by DOT. 
+ In addition the following items of equipment are required: 
+ Stall warning devise as follows: 
+ Drawing No. 
+ Part 
+ P/N 
+ 44-53055 
+ Transducer 
+ 44-50750-8 
+ 44-53013 
+ Potentiometer 
+ 44-50750-10 
+ 44A-51410 
+ Stick Shaker 
+ 44-50750-2 
+ 44D-51061 
+ Computer 
+ 44-50750-162"
+"II - Model CL-44J (Transport Category), Approved 28 January 1972 by the FAA and 8 July 1970 by the Canadian Department of 
+ Transport DOT",
+Engines,"4 Rolls-Royce Tyne 515 (Turboprop) 
+ Reduction gearing 0.064:1"
+Fuel,"For approved fuels additives and deviations to fuel specifications see DOT approved 
+ Airplane Flight Manual"
+Oil Engine  Gearbox,"Esso Aviation Turbo oil 35 
+ Enco Turbo oil 35 
+ Humble Turbo oil 35 
+ Penola Turbo oil 35 
+ Castrol 98"
+Constant Speed Drive,MIL-L-7808
+Static Sea Level Ratings,"Max. TGT °C when 
+ Shaft 
+ Jet 
+ Max. Engine 
+ Max. TGT 
+ Rolls Royce Modi- 
+ Horse- 
+ Thrust 
+ Speed 
+ °C 
+ fication No. 1426 
+ power 
+ (lb.) 
+ (r.p.m.) 
+ is incorporated. 
+ LP 
+ HP"
+Takeoff 5 min,"5095 
+ 1065 
+ 15250 
+ 18150 
+ 735* 
+ 665** 
+ 4685 
+ 940 
+ 14500 
+ 17950 
+ 715* 
+ 645**"
+Max transient for,"starting (5 sec.) 
+ 800 
+ 725"
+Max Reverse Pitch,"Braking (1 min.) 
+ 13250 
+ 16600 
+ 685* 
+ 620 
+ *These limits are applicable at sea level. Above sea level, the limits increase by 
+ 2 1/2°C per 1000 ft. altitude. 
+ **TGT limits are applicable at sea level. Above sea level the limits increase by 
+ 2 1/2°C per 1000 ft. altitude if fuel trimmer control is used, or by 1 1/2°C per 
+ 1000 ft. if fuel control is used. 
+ Oil Inlet Temperature 
+ Minimum for starting 
+ - 30°C 
+ Minimum for opening up 
+ -15°C 
+ Maximum allowable: 
+ With Castrol 98 
+ 105°C 
+ With any other approved oil 
+ 100°C 
+ Oil Pressure Limits: 
+ Normal (at 90°C): 
+ 40-65 p.s.i. at 14,500 LP r.p.m. 
+ Minimum (at 100°C): 
+ 40 p.s.i. at 14,500 LP r.p.m. 
+ Minimum to complete flight: 
+ 38 p.s.i. at 11,000 LP r.p.m. and above, 
+ 30 p.s.i. at all r.p.m. below 
+ 11,000 r.p.m. 
+ Air Turbine Starter (At ground air connection) 
+ Maximum pressure 
+ .34 p.s.i.g. 
+ Maximum temperature 
+ 270°C 
+ Minimum temperature 
+ 20°C 
+ Normal Operating Time 
+ 30 Sec. 
+ Maximum Operating Time Limit 
+ 40 Sec. 
+ Starter Inlet Temperature and Corresponding Pressure Limits: 
+ Maximum 
+ 310°C (26 p.s.i.g.) 
+ Intermediate 
+ 150°C (32 p.s.i.g.) 
+ Minimum 
+ -30°C (32 p.s.i.g.)"
+Propeller and,"4 DeHavilland propellers Model PD 228/476/2, four blades"
+propeller limits,"Diameter: 16 ft. (+0.14 in., -1.00 in.) 
+ Pitch settings at Station 72.0 in.: 
+ Maximum reverse 
+ -17° 
+ Ground Idle 
+ - 7° 
+ Flight Idle 
+ +12° 
+ Feather 
+ +83°"
+Airspeed limits,Maximum Operating Limitation Vmo/Mmo
+CAS,"(a) With Landing Fuel Weight of 25,000 lb. or less. 
+ Altitude 
+ S.L. 
+ 10 
+ 15 
+ 20 to 25 
+ in 
+ to 
+ to 
+ to 
+ Lesser of 
+ 10,000 ft. 
+ 10 
+ 15 
+ 20 
+ Vmo Mmo 
+ Zero Fuel 
+ Weight 
+ m.p.h. (knots) 
+ Mach 
+ 160,000 
+ 288 
+ (250) 
+ 290 
+ (252) 
+ 292 
+ (254) 
+ 296 
+ (257) 
+ (.62) 
+ (b) With Landing Fuel Weight of 25,000 lbs. or less and Canadair Service Bulletin CL44-476 Incorporated. 
+ Altitude 
+ S.L. 
+ 10 
+ 15 
+ 20 to 25 
+ in 
+ to 
+ to 
+ to 
+ Lesser of 
+ 10,000 ft. 
+ 10 
+ 15 
+ 20 
+ Vmo Mmo 
+ Zero Fuel 
+ Weight 
+ m.p.h. (knots) 
+ Mach 
+ 160,000 
+ 288 
+ (250) 
+ 290 
+ (252) 
+ 292 
+ (254) 
+ 296 
+ (257) 
+ (.62) 
+ 158,000 
+ 290 
+ (252) 
+ 292 
+ (254) 
+ 295 
+ (256) 
+ 298 
+ (259) 
+ (.62) 
+ 155,000 
+ 293 
+ (255) 
+ 296 
+ (257) 
+ 298 
+ (259) 
+ 301 
+ (262) 
+ (.62) 
+ 153,000 
+ 296 
+ (257) 
+ 298 
+ (259) 
+ 300 
+ (261) 
+ 304 
+ (264) 
+ (.62) 
+ 150,000 
+ 299 
+ (260) 
+ 301 
+ (262) 
+ 304 
+ (264) 
+ 307 
+ (267) 
+ (.62) 
+ 147,000 
+ 303 
+ (263) 
+ 305 
+ (265) 
+ 307 
+ (267) 
+ 311 
+ (270) 
+ (.62) 
+ 145,000 
+ 305 
+ (265) 
+ 307 
+ (267) 
+ 309 
+ (269) 
+ 313 
+ (272) 
+ (.62) 
+ 143,000 
+ 307 
+ (267) 
+ 309 
+ (269) 
+ 312 
+ (271) 
+ 315 
+ (274) 
+ (.62) 
+ 140,000 
+ 311 
+ (270) 
+ 313 
+ (272) 
+ 315 
+ (274) 
+ 319 
+ (277) 
+ (.62) 
+ 138,000 
+ 313 
+ (272) 
+ 315 
+ (274) 
+ 318 
+ (276) 
+ 321 
+ (279) 
+ (.62) 
+ 135,000 
+ 316 
+ (275) 
+ 319 
+ (277) 
+ 321 
+ (279) 
+ 324 
+ (282) 
+ (.62) 
+ or less 
+ (c) With landing fuel weight between 25,000 lbs. and 30,000 lbs. (with Canadair SB CL44-477 Incorporated). 
+ Altitude 
+ S.L. 
+ 10 
+ 15 
+ 20 to 25 
+ in 
+ to 
+ to 
+ to 
+ Lesser of 
+ 10,000 ft. 
+ 10 
+ 15 
+ 20 
+ Vmo Mmo 
+ Zero Fuel 
+ Weight 
+ m.p.h. (knots) 
+ Mach 
+ 160,000 
+ 288 
+ (250) 
+ 290 
+ (252) 
+ 292 
+ (254) 
+ 296 
+ (257) 
+ (.62) 
+ 155,000 
+ 288 
+ (250) 
+ 290 
+ (252) 
+ 292 
+ (254) 
+ 296 
+ (257) 
+ (.62) 
+ 153,000 
+ 290 
+ (252) 
+ 292 
+ (254) 
+ 295 
+ (256) 
+ 298 
+ (259) 
+ (.62) 
+ 150,000 
+ 293 
+ (255) 
+ 296 
+ (257) 
+ 298 
+ (259) 
+ 301 
+ (262) 
+ (.62) 
+ 147,000 
+ 297 
+ (258) 
+ 299 
+ (260) 
+ 301 
+ (262) 
+ 305 
+ (265) 
+ (.62) 
+ 145,000 
+ 299 
+ (260) 
+ 301 
+ (262) 
+ 304 
+ (264) 
+ 307 
+ (267) 
+ (.62) 
+ 143,000 
+ 301 
+ (262) 
+ 304 
+ (264) 
+ 306 
+ (266) 
+ 309 
+ (269) 
+ (.62) 
+ 140,000 
+ 305 
+ (265) 
+ 307 
+ (267) 
+ 309 
+ (269) 
+ 313 
+ (272) 
+ (.62) 
+ 138,000 
+ 307 
+ (267) 
+ 309 
+ (269) 
+ 312 
+ (271) 
+ 315 
+ (274) 
+ (.62) 
+ 135,000 
+ 311 
+ (270) 
+ 313 
+ (272) 
+ 315 
+ (274) 
+ 319 
+ (277) 
+ (.62)"
+Vfe Flaps extended 5°,264 m.p.h. (230 knots) (Mach .50)
+Vfe Flaps extended 15°,264 m.p.h. (230 knots)
+Vfe Flaps extended 30°,228 m.p.h. (198 knots)
+Vfe Flaps extended 45°,172 m.p.h. (150 knots)
+Va Maneuvering,241 m.p.h. (210 knots)
+Vlo Landing gear operating,207 m.p.h. (180 knots)
+Vle Landing gear extended,"211 m.p.h. (184 knots) 
+ 118 m.p.h. (103 knots)"
+Maximum landing light operating speed,190 m.p.h. (165 knots)
+Maximum landing light extended speed,241 m.p.h. (210 knots)
+Maximum spoiler operating speed,"230 m.p.h. (200 knots) 
+ Maximum fuel dump chute extended speed 
+ 241 m.p.h. (210 knots)"
+CG range,"Center-of gravity limits, with landing gear extended, are shown in the following tables; 
+ straight line variations exist between the quoted values. Gear retraction moment is 
+ +237,609 in.-lb.; retraction of the gear moves the C.G. aft approximately 1% MAC. 
+ C.G. Envelope for CL-44J Cargo Configuration 
+ (See NOTE 4(b)) 
+ CENTER OF GRAVITY - % M.A.C. 
+ 12.0 
+ 14.0 
+ 17.0 18.0 19.0 
+ 23.5 
+ 30.0 
+ 30.8 
+ 210 
+ 203 
+ 185 
+ W E IG H T 1 ,0 0 0 lb . 
+ 175 
+ Zero Fuel Wt. 160,000 lb. 
+ 165 
+ 160 
+ Zero Fuel Wt. 
+ 145,000 lb. 
+ 145 
+ Zero Fuel Wt. 135,000 lb. 
+ 135 
+ 120 
+ 95 
+ 846.1 
+ 809.9 
+ 813.7 
+ 819.5 821.5 
+ 823.5 
+ 832.5 
+ 844.6 
+ DISTANCE FROM C.G. DATUM - INCHES 
+ FORWARD LIMIT: (Geardown) 
+ Cargo Configuration (see Note 4 (b) 
+ Gross Weight 
+ Limits 
+ Zero Fuel 
+ 95,000 
+ 14.0% MAC (Sta. 813.7) 
+ Weight 
+ 120,000 
+ 14.0% MAC (Sta. 813.7) 
+ 135,000 lb. 
+ 135,000 
+ 12.8% MAC (Sta. 811.4) 
+ or less 
+ 145,000 
+ 13.7% MAC (Sta. 813.1) 
+ 160,000 
+ 15.1% MAC (Sta. 815.8) 
+ 203,000 
+ 19.0% MAC (Sta. 823.5) 
+ Zero Fuel 
+ 135,000 
+ 12.8% MAC (Sta. 811.4) 
+ Weight 
+ 145,000 
+ 12.0% MAC (Sta. 809.9) 
+ 135,000 lb. 
+ 160,000 
+ 13.4% MAC (Sta. 812.5) 
+ to 
+ 203,000 
+ 17.4% MAC (Sta. 820.4) 
+ 145,000 lb. 
+ 210,000 
+ 18.0% MAC (Sta. 821.5) 
+ Zero Fuel 
+ 145,000 
+ 12.0% MAC (Sta. 809.9) 
+ Weight 
+ 160,000 
+ 12.0% MAC (Sta. 809.9) 
+ 145,000 lb. 
+ 203,000 
+ 16.4% MAC (Sta. 818.5) 
+ to 
+ 210,000 
+ 17.0% MAC (Sta. 819.7) 
+ 160,000 lb. 
+ 210,000 
+ AFT LIMIT (Gear Down) 
+ Cargo Configuration (See Note 4 (b).) 
+ Zero Fuel 
+ 95,000 
+ 23.5% MAC (Sta. 832.5) 
+ Weight 
+ 145,000 
+ 30.0% MAC (Sta. 844.6) 
+ 135,000 lb. 
+ 165,000 
+ 30.8% MAC (Sta. 846.1) 
+ or less 
+ 175,000 
+ 30.8% MAC (Sta. 846.1 
+ 185,000 
+ 30.8% MAC (Sta. 846.1) 
+ 203,000 
+ 30.8% MAC (Sta. 846.1) 
+ AFT LIMIT (Gear Down) (cont'd) 
+ Cargo Configuration (See Note 4 (b).) 
+ Zero Fuel 
+ 95,000 
+ 23.5% MAC (Sta. 832.5) 
+ Weight 
+ 145,000 
+ 30.0% MAC (Sta. 844.6) 
+ 135,000 lb. 
+ 165,000 
+ 30.0% MAC (Sta. 844.6) 
+ to 
+ 175,000 
+ 30.8% MAC (Sta. 846.1) 
+ 145,000 lb. 
+ 185,000 
+ 30.8% MAC (Sta. 846.1) 
+ Zero Fuel 
+ 95,000 
+ 23.5% MAC (Sta. 832.5) 
+ Weight 
+ 145,000 
+ 30.0% MAC (Sta. 844.6) 
+ 145,000 lb. 
+ 165,000 
+ 30.0% MAC (Sta. 844.6) 
+ to 
+ 175,000 
+ 30.0% MAC (Sta. 844.6) 
+ 160,000 lb. 
+ 185,000 
+ 30.8% MAC (Sta. 846.1) 
+ 203,000 
+ 30.8% MAC (Sta. 846.1) 
+ 210,000 
+ 30.8% MAC (Sta. 846.1)"
+Datum,"The datum for the center-of-gravity limits is at Station 0, which is 754.00 inches 
+ forward of a jig point located on the underside of the fuselage immediately forward of 
+ the front spar on the aircraft center line. The jig point is a Philips head screw in the 
+ skin joint."
+Mean Aerodynamic Chord,192.86 inches (L.E. of M.A.C. is 786.72 inches aft of Station 0).
+Maximum weight,"Taxi 
+ 211,000 lb. 
+ Take-off 
+ 210,000 lb. 
+ Landing 
+ 175,000 lb. 
+ Maximum Zero Fuel 
+ 160,000 lb. 
+ All weights in excess of zero fuel weight must consist of usable fuel. See Airspeed 
+ Limits for variation of limit airspeeds with zero-fuel weight."
+Minimum crew,"3: Pilot, Co-pilot and System Operator."
+Maximum passengers,Certification of original type design for cargo only.
+Maximum cargo,"Permissible cargo load and distribution varies with interior configuration. See NOTE 2 
+ for permissible loading for approved configuration. See NOTE 4(b) for cargo 
+ compartment classification."
+Fuel capacity,"Total Gal. 
+ Usable Gal. 
+ Imp. 
+ U.S. 
+ Imp. 
+ U.S. 
+ ARM 
+ 2 outboard main tanks 
+ 3,810 
+ 4,575 
+ 3,760 
+ 4,516 
+ 855.5 
+ 2 inboard main tanks 
+ 3,802 
+ 4,566 
+ 3,736 
+ 4,486 
+ 830.0 
+ 2 outboard auxiliary 
+ 874 1,050 870 1,044 786.5 
+ Total 
+ 8,486 
+ 10,191 
+ 8,366 
+ 10,046 
+ See CL-44J NOTE 1(c) for ""System fuel"" data."
+Oil capacity,"Total Gal. 
+ Usable pt. 
+ Imp Pts. (lb.) 
+ Imp. Pts. (lb.) 
+ ARM 
+ 2 outboard engines 
+ 124 
+ 150 
+ 40 
+ 48.4 
+ 676.0 
+ 2 inboard engines 
+ 124 
+ 150 
+ 40 
+ 48.4 
+ 634.0 
+ See CL-44J NOTE 1(d) for ""System oil"" data."
+Maximum approved,"25,000 ft. if suitable supplementary oxygen dispensing units are provided for flight"
+operating altitude,"altitudes above 10,000 ft. If no oxygen dispensing units are provided, maximum 
+ operating flight altitude is 10,000 ft."
+Other operating,This aircraft must be operated in accordance with the limitations listed in the
+limitations,Department of Transport Approved Airplane Flight Manual.
+Serial Nos eligible,"9, 14 to 39. The Canadian Department of Transport Certificate of Airworthiness for 
+ export endorsed as noted under ""Import Eligibility"" must be submitted for each 
+ individual aircraft for which application for certification is made."
+Import eligibility,"A U.S. Airworthiness Certificate may be issued on the basis of the Canadian 
+ Department of Transport ""Certificate of Airworthiness for Export"" signed by the 
+ Minister of Transport or his authorized representative. This form must contain the 
+ following statement: This certifies that the aircraft described below has been 
+ manufactured in conformity with data forming the basis for D.O.T. Type Approval No. 
+ A55 (FAA Type Certificate No. 1A20)."""
+Certification basis,"CAR 4b dated 31 December 1953; amendments 4b-1 through 4b-10; amendment 4b-11 
+ with the exception of items 6, 9, 17, 26, 27, 28, 33 and 44; and special regulation SR- 
+ 422B. Type Certificate No. 1A20 issued 24 May 1961. Date of Application for Type 
+ Certificate 1 August 1957. 
+ Compliance with the following optional requirements has been established: Ditching, 
+ CAR 4b.361--Structural approval only-- eligible for ditching approval when the 
+ required ditching equipment and storage provisions are approved. Ice Protection, CAR 
+ 4b.640."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification including DOT 
+ approved Flight Manual (Canadair Service Publication No. 188, latest approved 
+ revision for the CL-44J). Canadair Report No. RAL-44-102 latest revised ""Equipment 
+ Qualification List for CL-44J"", lists all required equipment that must be installed as 
+ well as optional equipment installations approved by DOT. 
+ In addition the following items of equipment are required: 
+ Stall warning devise as follows: 
+ Drawing No. 
+ Part 
+ P/N 
+ 44-53055 
+ Transducer 
+ 44-50750-8 
+ 44-53013 
+ Potentiometer 
+ 44-50750-10 
+ 44A-51410 
+ Stick Shaker 
+ 44-50750-2 
+ 44D-51061 
+ Computer 
+ 44-50750-162"
+DATA PERTINENT TO ALL MODELS,
+Leveling means,"Plumb bob suspension point in the roof of crew compartment over a target plate fixed in 
+ the floor, (Ref.: Sta. 198.3)."
+Control surface movements,"Elevators 
+ UP 
+ 30° 
+ Down 
+ 15° 
+ (from neutral) 
+ L.H. Elevator servo tabs 
+ UP 
+ 14° 
+ Down 
+ 26° 
+ (rig 1° down) 
+ R.H. Elevator servo tabs 
+ UP 
+ 16° 
+ Down 
+ 24° 
+ (rig 1° up) 
+ Elevator trim tabs 
+ UP 17-1/2° 
+ Down 
+ 22-1/2° (from neutral) 
+ Rudder 
+ Right 16° 
+ Left 
+ 16° 
+ (from neutral) 
+ Rudder servo tabs 
+ Right 
+ 18° 
+ Left 
+ 18° 
+ (from neutral) 
+ Rudder connected tabs 
+ UP 
+ 22° 
+ Down 
+ 18° 
+ (rig 2° up) 
+ Aileron 
+ UP 
+ 21° 
+ Down 
+ 15° 
+ (from neutral) 
+ Aileron servo tabs 
+ UP 
+ 25° 
+ Down 
+ 21° 
+ (rig 2° up) 
+ Flaps 
+ UP 
+ 0° 
+ Down 
+ 45° 
+ Spoilers 
+ UP 
+ 48° 
+ Down 
+ 0° 
+ Tab angles measured with control surfaces neutral."
+NOTE 1,"Applicable to Model CL-44D4 
+ (a) 
+ Current weight and balance report, including list of equipment included in certificated empty weight, and 
+ loading instructions when necessary, must be in each aircraft at the time of original certification, and at 
+ all times thereafter except in the case of operators having an approved weight control system. 
+ (b) 
+ The airplane must be loaded so that the C.G. is within the specified limits at all times with the effects of 
+ fuel use taken into account. The fuel loading and consumption must be in accordance with schedule 
+ given in Tables 1 through 4 of Section 2 of the DOT approved Flight Manual. 
+ (c) 
+ Systems fuel, which must be included in the empty weight, is the amount of fuel required to fill the 
+ system piping, plus the unusable fuel in the fuel tanks. The amount of ""System Fuel"" is as follows: 
+ 31.2 U.S. gal. 
+ 26.0 Imp. gal.) in the system piping 
+ (CG ARM 733.4 in.) 
+ 154.8 U.S. gal. 
+ (129.0 Imp. gal.) in the Tanks 
+ (CG ARM 723.4 in.) 
+ 186.0 
+ (155.0 
+ (CG ARM 725.1 in.) 
+ (d) 
+ System oil, which must be included in empty weight, is the amount of oil normally trapped in the 
+ propellers, plus the amount normally trapped in the engines after oil drainage. The total amount of 
+ ""System Oil"" is as follows: 
+ 61.4 U.S. pt. (51.2 Imp. Pt.) (total) in outboard engines 
+ (CG ARM 569 in.) 
+ 61.4 U.S. pt. (51.2 Imp. Pt.) (total) in inboard engines 
+ (CG ARM 527 in.) 
+ 75.6 U.S. pt. (63.0 Imp. Pt.) (total) in outboard propellers 
+ (CG ARM 534 in.) 
+ 75.6 U.S. pt. (63.0 Imp. Pt.) (total) in inboard propellers 
+ (CG ARM 492 in.)"
+"Applicable to Model CL-44J, Cargo Variant",
+NOTE 2,"Applicable to Model CL-44D4 
+ The following placards must be displayed as indicated: 
+ (a) 
+ Systems Operator's Panel 
+ ""FUEL JETTISONING 
+ MAXIMUM SPEED......................... 209 KTS. (IAS) 
+ CLIMB ATTITUDE 
+ ALL OTHER 
+ 1 OR MORE 
+ FLIGHT CONDITION 
+ INOPERATIVE 
+ FLAPS 
+ ENGINES: 
+ 0° OR 
+ FLAPS 15° 
+ 15° 
+ (b) 
+ Forward Lower Cargo Compartment: 
+ MAXIMUM CAPACITY 
+ 10,775 lb. 
+ ALLOWABLE FLOOR LOADING 
+ 75 lb./sq. ft. 
+ (c) 
+ Aft Lower Cargo Compartment: 
+ MAXIMUM CAPACITY 
+ 11,560 LB. 
+ ALLOWABLE FLOOR LOADING 
+ 75 lb./sq. ft. 
+ (d) 
+ Main Fuselage Compartment: Permissible loads for the swing tail and aft fuselage vary with the 
+ configuration of the swing tail compartment. One of more of the following placards apply: 
+ Placard No. 1 applies to the basic interior configuration. 
+ Placard No. 2 applies when the aft section of the main fuselage compartment is modified in accordance 
+ with Canadair Service Bulletin No. CL44D4-303. 
+ Placard No. 3 applies to aircraft incorporating structural provisions for increased swing tail compartment 
+ cargo capacity per Part 1 of Canadair Service Bulletin No. CL44D4-245. The cargo load of 
+ Compartment N may be increased above 3,000 pounds provided the following limitations are observed: 
+ (1) 
+ The total weight of cargo in Compartment N must not exceed 4,200 lb. 
+ (2) 
+ The center-of-gravity of the compartment load must lie between Station 1237 and 1290, and not less 
+ than 20 inches to starboard of compartment centerline. 
+ (3) 
+ The forward center-of-gravity limits of Page 5, Item (b), apply. 
+ Placard No. 4 applies to those aircraft which incorporate structural provisions for increased swing tail 
+ compartment cargo capacity per Part B of Canadair Service Bulletin No. CL44D4-245. The cargo load of 
+ Compartment N may be increased above 1,000 pounds provided the following limitations are observed: 
+ (1) 
+ The total weight of cargo and passenger service facilities (i.e., galleys, toilets, partitions, etc.) in 
+ Compartment N must not exceed 4,200 lb. 
+ (2) 
+ Cargo in Compartment N loaded forward of Station 1303 must not exceed 3,200 lb. 
+ (3) 
+ The total longitudinal moment of cargo and of passenger service facilities in Compartment N, 
+ measured with respect to Station 1228.5, must not exceed 258,000 inch pounds. 
+ (4) 
+ The total lateral moment of cargo and of passenger service facilities in Compartment N, measured 
+ with respect to the hinge line BL 68 RH, must not exceed 201,500 inch pounds. 
+ (5) 
+ The seat rails in Compartment N must not be used for crash restraint of cargo in excess of 1,400 lb. 
+ (6) 
+ The forward center-of-gravity limits of Page 5, Item (b), apply. 
+ In Placard Nos. 1 through 4, the maximum allowable floor loadings shown for all compartments except F and 
+ G are limited by floor panel strength. The floor supporting structure for all compartments is approved for a 
+ maximum allowable loading equivalent to 300 lb./sq. feet. 
+ Placard No. 1"
+Limits of Compartment,"Placard 
+ Total Load 
+ Forward of 
+ Total Load 
+ Aft. Sta. 
+ aft of Fwd. 
+ including 
+ Sta. including 
+ Maximum 
+ load in lower 
+ load in lower 
+ allowable 
+ Maximum 
+ cargo compart- 
+ compartment 
+ floor"
+Fwd,"Aft 
+ Capacity 
+ ment must not 
+ must not 
+ loading"
+Station,"(Station) 
+ Compartment 
+ (lb.) 
+ exceed 
+ exceed 
+ lb./sq.ft."
+247,"331 
+ B 
+ 7700 
+ 9160 
+ 200"
+331,"421 
+ C 
+ 8250 
+ 15460 
+ 200"
+421,"511 
+ D 
+ 8250 
+ 21760 
+ 200"
+511,"601 
+ E 
+ 8250 
+ 28060 
+ 200"
+601,"691 
+ F 
+ 8250 
+ 35160 
+ 300"
+691,"781 
+ G 
+ 8250 
+ 37490 
+ 300"
+781,"871 
+ H 
+ 8250 
+ 30060 
+ 200"
+871,"961 
+ J 
+ 8250 
+ 23760 
+ 200"
+961,"1051 
+ K 
+ 8250 
+ 17460 
+ 200"
+1051,"1141 
+ L 
+ 5830 
+ 11160 
+ 200"
+1141,"1237 
+ M 
+ 4950 
+ 6840 
+ 200"
+1237,"1406 
+ N 
+ 3000 
+ 3000 
+ 150 
+ Placard No. 2"
+Limits of Compartment,"Placard 
+ Total Load 
+ Forward of 
+ Total Load 
+ Aft. Sta. 
+ aft of Fwd. 
+ including 
+ Sta. including 
+ Maximum 
+ load in lower 
+ load in lower 
+ allowable 
+ Maximum 
+ cargo compart- 
+ compartment 
+ floor"
+Fwd,"Aft 
+ Capacity 
+ ment must not 
+ must not 
+ loading"
+Station,"(Station) 
+ Compartment 
+ (lb.) 
+ exceed 
+ exceed 
+ lb./sq.ft."
+247,"331 
+ B 
+ 7700 
+ 9160 
+ 200"
+331,"421 
+ C 
+ 8250 
+ 15460 
+ 200"
+421,"511 
+ D 
+ 8250 
+ 21760 
+ 200"
+511,"601 
+ E 
+ 8250 
+ 28060 
+ 200"
+601,"691 
+ F 
+ 8250 
+ 35160 
+ 300"
+691,"781 
+ G 
+ 8250 
+ 37110 
+ 300"
+781,"871 
+ H 
+ 8250 
+ 29680 
+ 200"
+871,"961 
+ J 
+ 8250 
+ 23380 
+ 200"
+961,"1051 
+ K 
+ 8250 
+ 17080 
+ 200"
+1051,"1141 
+ L 
+ 5830 
+ 10780 
+ 200"
+1141,"1237 
+ M 
+ 4950 
+ 5800 
+ 200"
+1237,"1303 
+ N 
+ 1000 
+ 1000 
+ 150 
+ Placard No. 3"
+Limits of Compartment,"Placard 
+ Total Load 
+ Forward of 
+ Total Load 
+ Aft. Sta. 
+ aft of Fwd. 
+ including 
+ Sta. including 
+ Maximum 
+ load in lower 
+ load in lower 
+ allowable 
+ Maximum 
+ cargo compart- 
+ compartment 
+ floor"
+Fwd,"Aft 
+ Capacity 
+ ment must not 
+ must not 
+ loading"
+Station,"(Station) 
+ Compartment 
+ (lb.) 
+ exceed 
+ exceed 
+ lb./sq.ft."
+247,"331 
+ B 
+ 7700 
+ 9160 
+ 200"
+331,"421 
+ C 
+ 8250 
+ 15460 
+ 200"
+421,"511 
+ D 
+ 8250 
+ 21760 
+ 200"
+511,"601 
+ E 
+ 8250 
+ 28060 
+ 200"
+601,"691 
+ F 
+ 8250 
+ 35160 
+ 300"
+691,"781 
+ G 
+ 8250 
+ 38690 
+ 300"
+781,"871 
+ H 
+ 8250 
+ 31260 
+ 200"
+871,"961 
+ J 
+ 8250 
+ 24960 
+ 200"
+961,"1051 
+ K 
+ 8250 
+ 18660 
+ 200"
+1051,"1141 
+ L 
+ 5830 
+ 12360 
+ 200"
+1141,"1237 
+ M 
+ 4950 
+ 8040 
+ 200"
+1237,"1406 
+ N 
+ 3000 
+ 4200 
+ 150 
+ Placard No. 4"
+Limits of Compartment,"Placard 
+ Total Load 
+ Forward of 
+ Total Load 
+ Aft. Sta. 
+ aft of Fwd. 
+ including 
+ Sta. including 
+ Maximum 
+ load in lower 
+ load in lower 
+ allowable 
+ Maximum 
+ cargo compart- 
+ compartment 
+ floor"
+Fwd,"Aft 
+ Capacity 
+ ment must not 
+ must not 
+ loading"
+Station,"(Station) 
+ Compartment 
+ (lb.) 
+ exceed 
+ exceed 
+ lb./sq.ft."
+247,"331 
+ B 
+ 7700 
+ 9160 
+ 200"
+331,"421 
+ C 
+ 8250 
+ 15460 
+ 200"
+421,"511 
+ D 
+ 8250 
+ 21760 
+ 200"
+511,"601 
+ E 
+ 8250 
+ 28060 
+ 200"
+601,"691 
+ F 
+ 8250 
+ 35160 
+ 300"
+691,"781 
+ G 
+ 8250 
+ 38690 
+ 300"
+781,"871 
+ H 
+ 8250 
+ 31260 
+ 200"
+871,"961 
+ J 
+ 8250 
+ 24960 
+ 200"
+961,"1051 
+ K 
+ 8250 
+ 18660 
+ 200"
+1051,"1141 
+ L 
+ 5830 
+ 12360 
+ 200"
+1141,"1237 
+ M 
+ 4950 
+ 8040 
+ 200"
+1237,"1303 
+ N 
+ 1000 
+ 4200 
+ 150"
+1303,"1406 
+ 40 
+ Applicable to Model CL-44J, cargo variant 
+ (a) Flight Crew Compartment 
+ (1) 
+ Systems Operator's Panel 
+ ""FUEL JETTISONING 
+ MAXIMUM SPEED......................... 209 KTS. (IAS) 
+ CLIMB ATTITUDE 
+ ALL OTHER 
+ 1 OR MORE FLIGHT CONDITIONS 
+ INOPERATIVE 
+ FLAPS 
+ ENGINES: 0° OR 
+ FLAPS 15° 15° 
+ (2) 
+ In pilot's view: 
+ ""THIS AIRCRAFT APPROVED FOR CARGO OPERATION ONLY"". 
+ (b) 
+ Forward Lower Cargo Compartment: 
+ MAXIMUM CAPACITY 
+ 13,000 LB. 
+ ALLOWABLE FLOOR LOADING 
+ 75 LB./SQ. FT. 
+ (c) 
+ Aft Lower Cargo Compartment: 
+ MAXIMUM CAPACITY 
+ 13,160 LB. 
+ ALLOWABLE FLOOR LOADING 
+ 75 LB./SQ. FT. 
+ (d) 
+ Main Fuselage Compartment:"
+Limits of Compartment,"Placard 
+ Total Load 
+ Forward of 
+ Total Load 
+ Maximum 
+ Aft. Sta. 
+ aft of Fwd. 
+ allowable 
+ including 
+ Sta. including 
+ floor 
+ load in lower 
+ load in lower 
+ loading 
+ cargo compart- 
+ compartment 
+ lb./sq.ft. 
+ Maximum 
+ ment must not 
+ must not 
+ (Plywood floor"
+Fwd,"Aft 
+ Capacity 
+ exceed 
+ exceed 
+ Panels)"
+Station,"(Station) 
+ Compartment 
+ (lb.)"
+159,"223 
+ A 
+ 800 
+ 800 
+ - - - - 
+ 75"
+223,"331 
+ B 
+ 8360 
+ 8360 
+ - - - - 
+ 200"
+331,"421 
+ C 
+ 8250 
+ 14660 
+ - - - - 
+ 200"
+421,"511 
+ D 
+ 8250 
+ 20960 
+ - - - - 
+ 200"
+511,"601 
+ E 
+ 8250 
+ 27260 
+ - - - - 
+ 200"
+601,"691 
+ F 
+ 8250 
+ 33560 
+ - - - - 
+ 200"
+691,"781 
+ G 
+ 8250 
+ 39955 
+ - - - - 
+ 300"
+781,"871 
+ H 
+ 8250 
+ 48050 
+ - - - - 
+ 300"
+871,"963 
+ I 
+ 8400 
+ - - - - 
+ 36460 
+ 200"
+963,"1053 
+ K 
+ 8250 
+ - - - - 
+ 30020 
+ 200"
+1053,"1143 
+ L 
+ 8250 
+ - - - - 
+ 23720 
+ 200"
+1143,"1233 
+ M 
+ 8250 
+ - - - - 
+ 17420 
+ 200"
+1233,"1323 
+ N 
+ 5900 
+ - - - - 
+ 11120 
+ 200"
+1323,"1413 
+ O 
+ 5000 
+ - - - - 
+ 6840 
+ 200"
+1419,"1588 
+ P 
+ 3000 
+ - - - - 
+ 3000 
+ 150 
+ (1) 
+ Compartment ""A"" is located in the lower hold and is restricted to a floor load of 150 lb./ft. run with 
+ a maximum of 800 lb. 
+ (2) 
+ The maximum allowable floor loadings shown for all compartments are limited by floor panel 
+ strength. With the exception of Compartments ""A"" and ""P"", the floor supporting structure for all 
+ compartments is approved for a maximum allowable loading equivalent to 300 p.s.f."
+NOTE 3,"Special Fatigue or Retirement Considerations Applicable 
+ (a) 
+ The basic airframe is life limited to 40,000 hours, or 13,500 landings, whichever occurs first, subject to 
+ the special inspections of Canadair Service Information Circulars Nos. 176-CL-44D4 and 268-CL-44D4. 
+ (b) 
+ When an airplane Model CL-44D4 is converted to a Model CL-44J, the life limit of the Model J must be 
+ reduced by the service hours and landings accumulated on the model D4 at the time of conversion. 
+ (c) 
+ Control rod end fittings, P/N 28-90031, of the elevator control system must be replaced at intervals of 
+ 10,000 hours in accordance with Service Bulletin No. CL-44D4-201. 
+ (d) 
+ Airplane Models CL-44D4 and CL-44J whose serial numbers are listed in Canadair Service Information 
+ Circular No. 380-CL44, are eligible for removal of the basic airframe life limitation, reference items (a) 
+ and (b). Eligibility is contingent upon compliance with the requirements of Canadair S.I.C. No. 380- 
+ CL44, at or before the basic airframe life limitation of paragraph (a) is reached."
+NOTE 4,"Applicable to Model CL-44D4 
+ (a) 
+ The fuselage above the floor is approved as a Class ""E"" Cargo compartment provided the transparent 
+ material of window and exits, if installed, is shielded by fire- resistant covers, Canadair P/N 44D-41754. 
+ Applicable to Model CL-44J, Cargo Variant 
+ (b) 
+ The fuselage above the floor is approved as a Class ""E"" cargo compartment provided the aircraft is 
+ modified in accordance with Canadair Modification Summary No. CL-44D4-688."
+NOTE 5,"The fuselage on each production aircraft must be pressurized to 1.33 times relief valve pressure. (Fatigue 
+ specimen was pressurized to 1.33 time relief valve pressure prior to fatigue tests)."
+NOTE 6,Deleted
+NOTE 7,"Applicable to Model CL-44D4 
+ Only aircraft with Canadair Service Bulletin No. CL44-227 with Supplement No. 1 and Revision ""A"" and 
+ ""B"" and CL44-451 with Revision ""A"" incorporated, may operate with zero fuel weight in excess of 
+ 155,000 lb."
+NOTE 8,"Applicable to Model CL-44D4 
+ Only aircraft with Canadair Service Bulletin No. CL44-227 with Supplement No. 1 and Revisions ""A"" and 
+ ""B"" incorporated, may operate at a maximum take-off weight of up to 210,000 lb. and a taxi weight of up to 
+ 211,000 lb."
+NOTE 9,"Applicable to Model CL-44J, Cargo Variant 
+ Aircraft with modification defined by Canadair Modification Summary CL-44D-688 incorporated are 
+ approved for the carriage of cargo only."

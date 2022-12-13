@@ -1,0 +1,539 @@
+Keyterm,Info
+"A41NM 
+ Revision 5 
+ BAE SYSTEMS (Operations ) Limited 
+ Jetstream Model 4101 
+ March 28, 2007",
+Type Certificate Holder,"BAE SYSTEMS (Operations) Limited 
+ Prestwick International Airport 
+ Ayrshire, Scotland KA9 2RW"
+Jetstream Model 4101 (Transport Category Airplane) approved 9 April 1993 (see note 7):,
+Engines,"Left: 
+ TPE331-14GR-XXXX Garrett turbo-propeller, reduction gear 
+ ratio 22.97:1, rotates clockwise when viewed from rear. 
+ Right: 
+ TPE331-14HR-XXXX Garrett turbo-propeller, reduction gear 
+ ratio 22.93:1, rotates counter clockwise when viewed from rear. 
+ Note: -XXXX = Dash number portion of engine model number (see below) 
+ Jetstream Aircraft Modification Number 
+ Signifying Installation of Engines Having the Model Number 
+ Shown 
+ Engine Model Number"
+TPE33114GR14HR801H,None (Original Build Standard)
+TPE33114GR14HR802H,"None (Original Build Standard) 
+ -803H 
+ JM41278 
+ -804H 
+ JM41278 and JM41312 
+ -805H 
+ JM41278, JM41312, JM41333 and JM41300 
+ -806H 
+ JM41333 
+ -807H 
+ JM41278, JM41312 and JM41333 
+ -901H 
+ JM41465 
+ -808H 
+ JM41278, JM41312 and JM41548A or B 
+ -809H 
+ JM41278, JM41312, JM41333, JM41300 and JM41548A or B 
+ -810H 
+ JM41278, JM41312, JM41333 and JM41548A or B 
+ -903H 
+ JM41465 and JM41548A or B"
+Engine Limits,"Propeller Shaft Torque: 
+ Pre Mod JM41300: 
+ Maximum permissible torque for take-off and continuous operation is 
+ 100% (5076 Lb-Ft). This equates to 1119 kW (1500 SHP) at 100% (1552 RPM) 
+ propeller rotational speed. 
+ Post Mod JM41300: 
+ Maximum permissible torque for take-off and continuous operation is 
+ 100% (5584 Lb-Ft). This equates to 1230 kW (1650 SHP) at 100% (1552 RPM) 
+ propeller rotational speed"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9"
+Rev No,"5 
+ 4 
+ 4 
+ 4 
+ 4 
+ 5 
+ 5 
+ 4 
+ 4 
+ Engine Propeller Shaft Rotational Speed: 
+ Maximum for Take-Off, Maximum Continuous and APR operation is 101% 
+ (1568 RPM). 
+ Exhaust Gas Temperature (EGT): 
+ Maximum permissible Exhaust Gas Temperature (EGT) at any given time is the 
+ displayed EGT LIMIT with Integrated Electronic (engine) Control (IEC) selected 
+ ON."
+Fuel and Additives,"a. 
+ Engine fuels approved for use are as follows: 
+ Kerosene Type: 
+ UK: 
+ DERD 2453 (AVTUR/FSII)* 
+ DERD 2494 (AVTUR) 
+ USA: 
+ ASTM D 1655, Type Jet A or 
+ Jet A-1 
+ MIL-T-83133 Grade JP-8* 
+ NATO: 
+ F34* and F35 
+ CANADA: 
+ CAN/CGSB-3.22-M86 
+ Kerosene Type: 
+ UK: 
+ DERD 2454 (AVTAG/FSII)* 
+ USA: 
+ ASTM D 1655, (Jet B) 
+ MIL-T-5624, (JP-4) 
+ CANADA: 
+ CAN/CGSB-3.22-M86 (FSII) 
+ CAN/CGSB-3.22-M86 
+ NATO: 
+ F40* 
+ b. 
+ Each of the following additives is approved for use with the fuel and 
+ must be to the latest standard of the relevant specification. Fuel marked 
+ with an asterisk (*) already contains fuel system icing inhibitor and further 
+ additions to those fuels are not permitted. 
+ Icing Inhibitors: 
+ Concentrations not to exceed 0.15% by volume. 
+ UK: 
+ DERD 2451 (AL-31) 
+ USA: 
+ MIL-I-27686 
+ ASTM D 1655 
+ NATO: S748 
+ Biocide: Biobor JF Biocide in concentration not greater than 270 parts per 
+ million (20 ppm of elemental boron)."
+Engine Oil,"The oil capacity for each engine and oil tank combined is: 
+ 5.68 liters 
+ 1.25 UK gallons 
+ 6 U.S. quarts 
+ Oil Specifications: 
+ USA 
+ NATO 
+ Type II: 
+ MIL-L-23699C 
+ 0-156 
+ Brands: Mixing of oil brands is not permitted. The approved brands of oil are: Mobil Jet 
+ Oil II, Exxon (ENCO/ESSO) 2380 Turbo Oil, Castrol 5000, Aeroshell/Royco Turbine 
+ Oil 500 or 560. 
+ Oil Temperature Limits: 
+ Minimum for Starting 
+ minus 40 °C 
+ Maximum Continuous 110 °C 
+ Maximum 
+ 127 °C (5 minute limit) 
+ The minimum permissible oil temperature is 55 °C for all operating conditions 
+ other than starting and ground operations. 
+ Oil Pressure Limits: 
+ Minimum Pressure 
+ Maximum Pressure 
+ Taxi RPM 
+ 30 PSI 
+ 65 PSI 
+ Flight RPM 
+ 45 PSI 
+ 65 PSI 
+ If the oil temperature is cold, a transient oil pressure of 85 PSI is permitted during an 
+ engine start."
+Propellers,"Pre Mod JM41300: 
+ Left: 
+ McCauley B5JFR36C1101-* /* -114GCA-0 
+ Right: 
+ McCauley C5JFR36C1102-* /* -L114GCA-0 
+ Blades: 5 
+ Post Mod JM41300: 
+ Left: 
+ McCauley B5JFR36C1103-*/* -114HCA-0 
+ Right: 
+ McCauley C5JFR36C1104-* /* -L114HCA-0 
+ Blades: 5 
+ Notes: 
+ (1) */* = in the propeller model number denotes a variable alphabetical 
+ suffix which gives the modification state of the propeller. 
+ (2) Mod JK42618 permits post Mod JM41300 propellers to be fitted to 
+ airplanes with 1500 shp engines at MTOW of 24,000 lb. 
+ (3) Mod JK42843 permits post Mod 41300 propellers to be fitted to 
+ airplanes with 1500 shp engines at MTOW of 23, 000 lb."
+Propeller Limits,"Speed Range: 
+ All Operations, 101% RPM. 
+ Continuous ground operation between 82% and 90% and below 68% rpm 
+ is prohibited. Except for takeoff , continuous ground operation is prohibited when 
+ the torque is greater than 60% and the wind is greater than 15 kts unless the wind is 
+ from within ±45 degrees of the nose of the airplane. 
+ Diameter (Nominal): 114.0 inches. Reduction to a minimum of 112.0 inches permitted. 
+ Pitch Settings at 42.0 inch radius station: 
+ Maximum Reverse: -15° 
+ Flight Idle: 
+ + 7° (pre Mod JM41333) 
+ +10° (post Mod JM41333) 
+ Feathered: 
+ +79.7°"
+Airspeed Limits,"VMO/MMO (Maximum Operating Speed) 
+ VMO = 250 KIAS 
+ MMO = 0.52 (above 17,400 ft altitude) 
+ VA (Maneuvering Speed - flaps retracted) 
+ VA = 180 KIAS 
+ VFE (Flap Maximum Extended Speeds) 
+ VFE = 170 KIAS 
+ 9° Flap (Pre Mod JK42584) 
+ 200 KIAS 
+ 9° Flap (Post Mod JK42584) 
+ 160 KIAS 
+ 15° Flap 
+ 140 KIAS 
+ 25° Flap 
+ VLO (RET) 
+ (Landing Gear, Maximum Speed During Retraction) 
+ VLO (EXT) 
+ (Landing Gear, Maximum Speed During Extension) 
+ VLE 
+ (Landing Gear, Maximum Operating Speed While Extended) 
+ VLO (RET) = 160 KIAS 
+ VLO (EXT) = VLE = 170 KIAS (Pre Mod JK42584) 
+ VLO (EXT) = VLE = 170 KIAS (Flaps 0°, Post Mod JK42584) 
+ VLO (EXT) = VLE = 200 KIAS (Flaps 9°, Post Mod JK42584) 
+ VMC (Minimum Control Speed With Critical Engine Inoperative) 
+ VMC = 91 KIAS (Pre Mod JM41300) 
+ VMC = 92 KIAS (Post Mod JM41300)"
+Pre Mod JM41300,"Weight 
+ Fuselage Station Inches 
+ Fwd Limit 
+ Fwd Limit 
+ Aft Limit 
+ L/G Up 
+ L/G Down 
+ L/G Up/Down 
+ 13000 
+ 308.35 
+ 310.00 
+ 322.00 
+ 16150 
+ 308.35 
+ 310.00 
+ - 
+ 16834 
+ - 
+ - 
+ 329.10 
+ 18500 
+ - 
+ - 
+ 329.80 
+ 23000 
+ 321.38 
+ 322.54 
+ 329.80 
+ Note: Straight line variations between weights and fuselage stations where quoted."
+Post Mod JM41300,"Weight 
+ Fuselage Station Inches 
+ Fwd Limit 
+ Fwd Limit 
+ Aft Limit 
+ L/G Up 
+ L/G Down 
+ L/G Up/Down 
+ 13000 
+ 308.35 
+ 310.00 
+ 322.00 
+ 16150 
+ 308.35 
+ 310.00 
+ - 
+ 16834 
+ - 
+ - 
+ 329.10 
+ 18500 
+ - 
+ - 
+ 329.80 
+ 20700 
+ 316.82 
+ 318.15 
+ 329.80 
+ 24000 
+ 319.61 
+ 320.75 
+ 329.80 
+ Note: Straight line variations between weights and fuselage stations where quoted."
+CG Datum,"The CG datum is defined as fuselage station zero (Stn 0.0). This point is 3.556m 
+ (11 ft 8 in) forward of the weighing point which is marked by a screw on the 
+ bottom of the fuselage on the aircraft center-line at Stn. 140."
+Standard Mean Chord SMC,"The length of the SMC is 1.770m (69.69 inches). The leading edge of the SMC is 
+ 7.798m (307.02 inches) aft of Station 0.0."
+Leveling Means,"Leveling beams are mounted at Station 327 on the passenger seat rails. See weight and 
+ balance manual."
+Maximum Weights,"Pre Mod JM41300: 
+ Condition 
+ Max Wt 
+ Max Wt 
+ (kg) 
+ (Lb) 
+ Taxi and Ramp 
+ 10483 
+ 23110 
+ Take-off 
+ 10433 
+ 23000 
+ Landing 
+ 10115 
+ 22300 
+ Zero Fuel 
+ 9389 
+ 20700 
+ Jacking Weight 
+ 8981 
+ 19800 
+ Post Mod JM41300: 
+ Condition 
+ Max Wt 
+ Max Wt 
+ (Kg) 
+ (Lb) 
+ Taxi and Ramp 
+ 10936 
+ 24110 
+ Take-off 
+ 10886 
+ 24000 
+ Landing 
+ 10569 
+ 23300 
+ Zero Fuel 
+ 9707 
+ 21400 
+ Jacking Weight 
+ 8981 
+ 19800"
+Minimum Crew,2 - Pilot and Co-pilot
+Maximum No Passengers,30
+Maximum BaggageCargo,"544 kg (1200 lb) in the rear baggage bay. 
+ 159 kg (350 lb) in the ventral pod. 
+ 45 kg (100 lb) in the forward right stowage. 
+ 23 kg (50 lb) in the forward left stowage. 
+ Or as otherwise placarded on the airplane."
+Fuel Capacity,"UK Gal 
+ US Gal 
+ Liters 
+ kg 
+ lb"
+Usable,"727 
+ 874 
+ 3306 
+ 2639 
+ 5819"
+Unusable,"4 
+ 5 
+ 19 
+ 15 
+ 33"
+Total,"731 
+ 879 
+ 3325 
+ 2654 
+ 5852"
+Maximum Operating Altitude,"25,000 ft"
+Airplane Operating Temperature Range,"Minimum of minus 40 °C between minus 1000 ft and 16000 ft pressure altitude, 
+ decreasing linearly to minus 54 °C at 25000 ft pressure altitude. 
+ Maximum of ISA + 40 °C."
+Fuel Tank Temperatures,"The minimum fuel tank temperature is minus 37 °C. 
+ The maximum fuel tank temperature is plus 49 °C. 
+ Measured at right angles to the hinge line: 
+ Aileron: 
+ 21.4° Up, 14.15° Down 
+ Aileron Trim Tabs: 
+ 18.2° Up, 17.75° Down 
+ Flaps: 
+ Take-off 0° 
+ with Mod. JM 41400 embodied 
+ 9° or 15° with Mod. JK 42493 or JD42525 embodied 
+ Approach 15° 
+ Landing 25° 
+ Elevator: 
+ 28° Up, 17° Down 
+ Elevator Trim Tab: 
+ Left: 5.58° Up, 8.4° Down 
+ Right: 5.47° Up, 8.67° Down 
+ Rudder: 
+ ± 24° 
+ Rudder Trim Tab: 
+ 9.24° Right, 8.25° Left"
+Operating Limitations,"Aircraft shall be operated in compliance with the operating limitations specified in 
+ the FAA/CAA approved Airplane Flight Manual Document No. J41.01."
+DATA PERTINENT TO ALL MODELS,
+Serial Numbers Eligible,"A United Kingdom Certificate of Airworthiness for Export endorsed as noted 
+ under ""Import Requirements"" below must be submitted for each individual 
+ airplane for which application for United States certification is made."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on an Export Certificate of 
+ Airworthiness (Export C of A) signed by a representative of Civil Aviation Authority of 
+ the United Kingdom (CAA-UK) on behalf of the European Community. The Export C of 
+ A should contain the following statement: ‘The aircraft covered by this certificate has 
+ been examined, tested, and found to conform with the Type Design approved under U.S. 
+ Type Certificate No. A41NM and to be in a condition for safe operation.’ Only Model 
+ Jetstream 4101 airplanes manufactured in the United Kingdom and accompanied by a 
+ CAA-UK Export Certificate of Airworthiness are eligible for a United States Certificate 
+ of Airworthiness."
+Certification Basis,"-Part 25 of the FAR's dated February 1, 1965, as amended by amendments 25-1 
+ through 25-66 (based on the BAe application date to CAA-UK for TC), and 
+ -Part 25 of the FAR's amendments numbered 25-67, 25-68, 25-69, 25-70, and 
+ 25-71 , and 
+ -Part 25 of the FAR's sections 25.361 and 25.729 and paragraphs 25.571(e)(2), 
+ 25.773(b)(2) and 25.905(d), all as amended by amendment 25-72, and 
+ -Part 25 of the FAR's, Section 25.1419 as amended by amendments 25-1 through 
+ 25-66 of the FAR's (BAe elected to comply with this requirement), and 
+ -FAA Special Conditions (SC's) as follows: 
+ -SC's number 25-ANM-45 issued July 9, 1991 and 25-ANM-45A issued 
+ November 8, 1994, Cabin Aisle Width 
+ -SC's number 25-ANM-48 issued August 29, 1991, Lightning and High 
+ Intensity Radiated Fields (HIRF), and 
+ -SC’s number 25-ANM-110 issued December 6, 1995, ATTCS power for 
+ approach climb performance, see NOTE 8 
+ SC number 25-ANM-129, issued June 5, 1997, Continuous Power Reserve (CPR) 
+ System, see NOTE 9 
+ SC number 25-165-SC, issued September 28, 2000, Seats with Inflatable Lapbelts 
+ see NOTE 10 
+ -FAA Exemptions as follows: 
+ Exemption number 5587, head impact criteria 
+ (25.562(c)(5)) for the three most forward passenger seats in the passenger 
+ cabin, expired March 31, 2001. [Exemption 5587 was issued January 13, 1993]. 
+ see NOTE 10. 
+ -FAA Equivalent Safety Findings as follows: 
+ -Section 25.349, flight rolling conditions 
+ -Paragraph 25.729(e)(2), landing gear aural warning inhibited whenever 
+ the airspeed is greater than 145 knots IAS, and 
+ -Paragraph 25.811(d)(2), emergency exit markings, overwing exits, and 
+ -Paragraph 25.1182(a), Nacelle areas behind the firewalls, and 
+ -Part 34 of the FAR's effective September 10, 1990, and 
+ -Part 36 of the FAR's effective December 1, 1969 as amended by amendments 36-1 
+ through 36-18 including Appendices A, B and C 
+ The CAA-UK originally type certificated this aircraft. The FAA validated this product 
+ under U.S. Type Certificate Number A41NM. Effective September 28, 2003, the 
+ European Aviation Safety Agency (EASA) began oversight of this product on behalf of 
+ the United Kingdom."
+Required Equipment,"The basic required equipment as prescribed in the applicable Federal Aviation Regulations (see 
+ ""Certification Basis"") must be installed in the airplane for U.S. certification. All of the required equipment 
+ that must be installed as well as optional equipment installations approved by the FAA are listed in the 
+ Jetstream 4100 Master Equipment List (Document No. AWR/063/JM41 as revised and approved by CAA- 
+ UK). 
+ Federal Aviation Administration (FAA) approved Airplane Flight Manual (AFM), Jetstream Series 4100 
+ Flight Manual, Document No. J41.01., published in the English language (CAA-UK approved on behalf of 
+ the FAA on April 1, 1993 or later CAA-UK or EASA approved revisions), is required."
+Service Information,"Each of the documents listed below that contain a statement that it is approved by the European Aviation 
+ Safety Agency (EASA) - or for approvals made before September 28, 2003 - by the CAA-UK, are accepted 
+ by the FAA and are considered FAA approved. These approvals pertain to the type design only. 
+ • BAE SYSTEMS Service Bulletins, except as noted below, 
+ • Structural repair manuals, 
+ • Vendor manuals referenced in BAE SYSTEMS service bulletins 
+ • Aircraft flight manuals, 
+ • Repair Instructions. 
+ Note: Design changes that are contained in BAE SYSTEMS Service Bulletins and that are classified as Level 
+ 1 Major in accordance with either the US/UK or US/EASA Bilateral Aviation Safety Agreement 
+ Implementation Procedures for Airworthiness must be approved by the FAA. 
+ Airframe mandatory inspections and component life limits resulting from investigations and tests for 
+ compliance with damage tolerance requirements are listed in the ""Airworthiness Limitations"" section in 
+ Chapter 5 of the JS4100 Maintenance Manual. 
+ Airplane systems and equipment related and engine mandatory Certification Maintenance Requirements 
+ (CMR's) are listed in the ""Certification Maintenance Requirements"" section in Chapter 5 of the JS4100 
+ Maintenance Manual. Material covered in this Section must not be changed without FAA approval."
+Available Documents,"-Airplane Flight Manual, Doc. No. J41.01. 
+ -Manufacturers Operations Manual, Doc. No. SA4.4100/MOM/- 
+ -Jetstream 4100 Maintenance Review Board (MRB) report, Doc No.J4100/MRB/1 
+ -JS4100 Manufacturers Maintenance Manual, Doc No. SA4.4100/AMM/- 
+ -Structural Repair Manual, Doc No. SA4.4100/SRM/400 
+ -Wiring Diagrams Manual, Doc No. SA4.4100/WM/- 
+ -Illustrated Parts Catalogue, Doc No. SA4.4100/IPC/- 
+ -Weight and Balance Manual, Doc No. SA4.4100/WBM/- 
+ -Master Minimum Equipment List, Doc No. MMEL-J41-01 
+ -Service Bulletins CAA approved by the authority of CAA-UK authorization Number CAA JA02034 JAR 
+ 21 DOA granted to Jetstream Aircraft Ltd. by CAA-UK 
+ -Variant Build Standard, Doc No. JS-4100/VBS XXX/X"
+NOTE 1,"Weight and Balance: 
+ a. 
+ A current Weight and Balance Report, including list of equipment included in the certificated empty 
+ weight, and loading instructions must be in each aircraft at the time of original airworthiness 
+ certification and at all times thereafter except in the case of an operator having an FAA approved 
+ loading system for weight and balance control. Weight and Balance Manual SA4.4100/WBM/- 
+ contains all the loading information required for each aircraft in its delivery configuration. 
+ b. 
+ The airplane must be loaded in accordance with limitations in Chapter 2 of the AFM and the CG must 
+ remain within the specified limits at all times. 
+ c. 
+ The airplane empty weight and corresponding center of gravity location must include: 
+ Total engine and gearbox oil: 24.50lb at Sta 263.70 in. 
+ Total hydraulic fluid: 45.64 lb at Sta 335.60 in. 
+ Unusable fuel (32.60 lb) listed as follows: 
+ Unusable Fluid 
+ U.S. Gallons 
+ Pounds 
+ Moment Arm (inches) 
+ Drainable: 
+ Left Wing 
+ 2.28 
+ 15.18 
+ 337.63 
+ Right Wing 
+ 2.28 
+ 15.18 
+ 337.63 
+ Trapped Fuel: 
+ Tanks and fuel lines 
+ 0.34 
+ 2.25 
+ 337.63 
+ Total unusable fuel 
+ 4.90 
+ 32.60 
+ 337.63"
+NOTE 2,All placards specified in the airplane Maintenance Manual must be installed in the appropriate locations.
+NOTE 3,"Mandatory structural inspections, inspection times, and retirement times for structural parts and for 
+ components are listed in the ""Airworthiness Limitations"" section in Chapter 5 of the JS4100 Maintenance 
+ Manual, Doc. No. SA4.4100/AMM/-. Material covered in this Section of the Maintenance Manual must not 
+ be changed without FAA approval."
+NOTE 4,"Mandatory Certification Maintenance Requirements (CMR's) for airplane systems and equipment are listed 
+ in the certification Maintenance Requirements"" section in Chapter 5 of the JS4100 Maintenance Manual, 
+ Doc. No. SA4.4100/AMM/-. Material covered in this Section must not be changed without FAA approval."
+NOTE 5,"Mandatory engine Certification Maintenance Requirements (CMR's) are listed in the ""Certification 
+ Maintenance Requirements"" section in Chapter 5 of the Jetstream Model 4100 Maintenance Manual, Doc. 
+ No. SA4.4100/AMM/-. Material covered in this Section must not be changed without FAA approval.."
+NOTE 6,"The CMR's are also included in an appendix to the Maintenance Review Board Document No. 
+ J4100/MRB/1."
+NOTE 7,"The Jetstream Model 4101 has been granted U.S. Type Certification approval by the FAA and is a variant 
+ of the Jetstream Series 4100 airplane approved by the Civil Aviation Authority of the United Kingdom. 
+ The minimum acceptable configuration of the Jetstream Model 4101 is defined in Jetstream Aircraft 
+ Limited Document No. JS-4100/TBS.FAA/- which is titled ""Jetstream Model 4101 Type Build Standard 
+ for Type Acceptance in the United States""."
+NOTE 8,"Installation of the appropriate amendment in the Airplane Flight Manual (AFM) allows published airplane 
+ performance to be based on utilization of ATTCS power for compliance with the approach climb 
+ performance requirements in § 25.121(d) of the Federal Aviation Regulations."
+NOTE 9,"Airplane performance base on use of CPR power for take-off and enroute conditions after failure of one 
+ engine will be published in an applicable Amendment to the Airplane Flight Manual."
+NOTE 10,"The following BAE Systems modifications are FAA and CAA approved and satisfy FARs §25.785 (a) 
+ and §25.562(c)(5) via compliance with FAA Special Condition number 25-165-SC. 
+ JK 42997 (Service BulletinJ41-25-082): Installs an inflatable lapbelt mounted Airbag for each front 
+ row occupant, designed to minimize the loads on the passenger from impact with the forward passenger 
+ cabin bulkhead or other adjacent structure. 
+ JK 412006 (Service bulletin J41-25-081): Installs improved head pads on the bulkhead. 
+ 42967 (Service BulletinJ41-25-075): Compliance with Front Row Passenger Head Impact 
+ Requirements. 
+ Part 1: Compliance may be achieved by the accomplishment of service bulletins introducing 
+ shoulder harnesses or seatbelt airbags, or through use of certain corporate seating layouts which 
+ give adequate clearance from the forward bulkhead/partition. If none of these are embodied part 2 
+ must be carried out. 
+ Part 2: The seat belts on the front single and front double seats are removed. Antimacassars (seat 
+ headrest covers) with “Do Not Occupy” labels are introduced to the front single and front seats. 
+ Part 3: If part 2 is accomplished and Service Bulletins, J41-25-064, J41-25-072, J41-25-074 or 
+ J41-25-076 are subsequently embodied, Part 3 should be used to remove the changes introduced by 
+ Part 2."

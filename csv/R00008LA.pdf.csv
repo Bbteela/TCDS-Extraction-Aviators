@@ -1,0 +1,286 @@
+Keyterm,Info
+"R00008LA 
+ Revision 1 
+ Siller Helicopters 
+ SH-3A 
+ September 18, 2003",
+Type Certificate Holder,"Siller Helicopters 
+ 1250 Smith Road 
+ Yuba City, CA 95991"
+"I - Model SH-3A (S-61A) (Restricted Category Military Surplus Rotorcraft) Approved July 21, 2000 (See NOTES 
+ Section",
+Engines,(2) General Electric T58-GE-100. (Optional Engines See Note 12)
+Fuel,"Aviation Kerosene, JP4 or JP5 ( General Electric Co. Spec. No. D50T1011 or 
+ subsequent revisions thereto)."
+Engine Limits,"Sea Level Static - Standard Day (See Note 13) 
+ Power 
+ Gas 
+ Turbine 
+ Power 
+ Generator 
+ Inlet 
+ Turbine 
+ Speed 
+ Temp. 
+ Torque 
+ Speed 
+ (T5) 
+ (% Ng) 
+ (% Q) 
+ (% Nf) 
+ Takeoff 
+ T58-GE-100 (5 Min.) 
+ 103 
+ 112 
+ 100.0 
+ 696° C 
+ One Engine Inoperative 
+ T58-GE-100 (30 Min.) 
+ 123 
+ 112 
+ 100.0 
+ 696° C 
+ (2-1/2 Min.) 
+ 123 
+ 112 
+ 102.0 
+ 721° C 
+ Maximum Continuous 
+ (See Note 14) 
+ T58-GE-100 
+ 86 
+ 112 
+ 100.0 
+ 660° C 
+ Max. Transient (2 Sec.) 
+ NA 
+ NA 
+ NA 
+ 840o C 
+ Starting Allowable Max. 
+ NA 
+ NA 
+ NA 
+ 950°C 
+ (2 Sec.) 
+ Overspeed (15 Sec.) 
+ (Note 15) 
+ 122 
+ 105.0 
+ NA"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"- 
+ - 
+ 1 
+ 1 
+ 1 
+ 1"
+Rotor Limits,"Max. 225 r.p.m. (112%) 
+ Min. 184 r.p.m. ( 91%)"
+Transmission Torque Limits,"Single Engine Operation 
+ Transient torque meter readings from 112% to 130%, not to exceed 5 seconds. 
+ Transient torque meter readings above 130% are not permissible. 
+ Dual Engine Operation 
+ Transient torque meter readings from 95% to 112%, not to exceed 5 seconds. 
+ Transient torque meter readings above 112% are not permissible."
+Airspeed Limits,Vne (Never exceed) speed 155 m.p.h. (130 knots) CAS.
+CG Range,"(+258.0) to (+259.6) at 19,100 lbs. to 22,000 lbs., Forward Limit 
+ (+276.0) to (+275.2) at 19,100 lbs. to 22,000 lbs., Aft Limit 
+ (+254.0) to (+280.0) at 16,000 lbs. or less. 
+ Straight Line Variation Between Points Given. (See chart.) 
+ 22,000 - 
+ GROSS WEIGHT 19,100 - 
+ (LBS.) 
+ 16,000 - 
+ _____________________________ 
+ 254 258 276 280 
+ Stations - Inches"
+Empty Weight CG Range,None
+Datum,267.4 in. forward of main rotor centroid.
+Leveling Means,Leveling plates on sill and upper frame of cargo door.
+Maximum Weight,"19,100 lbs., see Note 18."
+Minimum Crew,2 - Pilot and Copilot.
+Number of Seats,2 - 2 at (+149.0)
+Maximum Cargo,See Note 17.
+Fuel Capacity,"700 gal. (347 gal. at 215.3, 353 gal. at 317.3)."
+Oil Capacity,"6.0 gal. (2 tanks 3 gal. each at 181.0). 
+ For rigging information, see Note 3."
+Serial No’s Approved,"Refer to Siller Helicopters Serial Numbers Eligible Report No. SH61001, NC, 
+ dated July 21, 2000, or later FAA approved revision. A current copy is on file 
+ at the Los Angeles ACO."
+Certification Basis,"FAR 21.25(a)(2) effective February 1, 1965, with Amendments 21-1 through 
+ 21-42. Type Certificate No. R00008LA issued July 21, 2000 for the Special 
+ Purpose(s) of: 
+ (1) Agricultural Operations under FAR 21.25(b)(1). 
+ Note: In accordance with FAR 36.1(a)(4), compliance with the noise 
+ requirements was not shown. Therefore, aircraft certificated under this type 
+ certificate are only eligible for agricultural operations excepted by FAR 
+ 36.1(a)(4) and defined under FAR 137.3 
+ (2) Forest and Wildlife Conservation Operations under FAR 21.25(b)(2). 
+ Note: In accordance with FAR 36.1(a)(4), compliance with the noise 
+ requirements was not shown. Therefore, aircraft certificated under this 
+ type certificate are only eligible for dispensing fire fighting materials excepted 
+ by FAR 36.1(a)(4) and defined under FAR 137.3 
+ (3) External Load Operations under FAR 21.25(b)(7). 
+ Note: In accordance with FAR 36.1(a)(4), compliance with the noise 
+ requirements was not shown. Therefore, aircraft certificated under this type 
+ certificate are only eligible for external load operations excepted by FAR 
+ 36.1(a)(4) and defined under FAR 133.1(b). 
+ Any alteration to the aircraft for Special Purposes not identified above require 
+ further FAA approval and in addition may require noise and / or flight testing. 
+ General Note: Any subsequent modifications to the helicopters type certified 
+ under this Type Certificate are to have the certification basis for that 
+ modification established under 14 CFR 21.101 published June 7, 2000 which 
+ became effective June 10, 2003. Otherwise non-significant modifications are to 
+ meet the requirements of CAR 7 airworthiness standards, transport category, 
+ including Amendment 7-4, effective October 1959, plus special conditions for 
+ turbine engine installations and 14 CFR 29.1529, Instructions for Continued 
+ Airworthiness, Amendment 20, effective September 11, 1980."
+Date of Application,"August 18, 1997"
+Production Basis,"None. No helicopter may be produced under this approval. Prior to adding 
+ serial numbers to this Type Certificate, each candidate helicopter must undergo 
+ a conformity inspection. The conformity inspection will be conducted in 
+ accordance with a Type Inspection Authorization, Part 1, or request for 
+ conformity that will include as a minimum, the inspections contained in the 
+ FAA Rotorcraft Directorate Restricted Category conformity document dated 
+ September 25, 2001 or later FAA approved revisions."
+Equipment,"Equipment necessary for the particular special purpose operation must be 
+ installed."
+NOTE 1,"A current weight and balance report including a list of equipment included in 
+ the certificated empty weight, and loading instructions when necessary, must be 
+ provided for each aircraft at the time of original certification. Refer to Siller 
+ Helicopters RFM Supplement No. SH61005, “Rotorcraft Operator’s Manual 
+ Supplement to Navy Model SH-3A Helicopter With GE T58-GE-5/-10/-100 and 
+ CT58-140-1 Engines”, N.C., dated July 17, 2000, or later FAA approved 
+ revisions, for C.G. determination."
+NOTE 2,"The following placards must be prominently displayed in the cockpit in full 
+ view of the pilots. 
+ Placard No. 1 
+ ""THIS ROTORCRAFT MUST BE OPERATED IN ACCORDANCE WITH 
+ THE RESTRICTED CATEGORY OPERATING LIMITATIONS OF FAR 
+ 91.313."" 
+ Placard No. 2 
+ “THIS HELICOPTER MUST BE OPERATED IN COMPLIANCE WITH THE 
+ OPERATING LIMITATIONS SPECIFIED IN THE APPROVED 
+ HELICOPTER OPERATORS MANUAL. REFER TO U.S. NAVY NAVAIR 
+ 01-230HLC-1, CHAPTER 4, FOR OPERATING LIMITS AND 
+ RESTRICTIONS.” 
+ Placard No. 3 
+ ""VFR OPERATIONS ONLY."" 
+ The builder’s data plate required by FAR 45.13 must be installed in accordance 
+ with drawing SH-76, N.C., dated April 21, 1998 or later FAA approved 
+ revisions."
+NOTE 3,"The helicopter(s) must be serviced, maintained, inspected, repaired, and 
+ overhauled in accordance with the documents specified in Siller Helicopters 
+ Instructions for Continued Airworthiness Maintenance Report No. SH61003, 
+ NC, dated January 7, 1998, or later FAA approved revisions or inspected in 
+ accordance with other FAA accepted inspection programs. The TC holder’s 
+ Instructions for Continued Airworthiness Report is part of the TC holder’s 
+ Instructions for Continued Airworthiness."
+NOTE 4,"Prior to obtaining an original Airworthiness Certificate: 
+ (A) 
+ Each helicopter must pass a conformity inspection in accordance with 
+ Siller Helicopters Engineering Report No. SH61002, NC, dated 
+ January 7, 1998, or later FAA approved revision. The Engineering 
+ Report also identifies the special purpose modification(s) accomplished 
+ on that particular helicopter. The Engineering Report identifies 
+ military airframe changes (AFC) accomplished on the helicopter. In 
+ addition, each helicopter must pass an inspection for any possible 
+ hidden damage and the military records reviewed for acceptability of 
+ any repairs or alterations. 
+ (B) 
+ The maintenance, overhaul and modification records of each helicopter 
+ must be reviewed for military changes that may affect the airworthiness 
+ of the helicopter. 
+ (C) 
+ After the required inspections, the aircraft must be found to be in a 
+ good state of preservation, repair, and in a condition for safe operation."
+NOTE 5,"This aircraft is prohibited from carrying cargo for compensation or hire. 
+ Carriage of cargo is limited to such cargo that is incidental to the aircraft 
+ owner/operator’s business which is other than air transportation."
+NOTE 6,"Restricted Category aircraft may not be operated in a foreign country without 
+ the express written approval of that country."
+NOTE 7,"This aircraft has not been shown to meet the requirements of the applicable 
+ comprehensive and detailed airworthiness code as provided by Annex 8 to the 
+ Convention on International Civil Aviation."
+NOTE 8,"Engine changes are allowed provided the replacement engine is of the same 
+ make and model as identified in this TCDS. The replacement engine must have 
+ proper records and have the applicable FAA Airworthiness inspection 
+ accomplished."
+NOTE 9,"The Airworthiness Directives for the helicopter and engines contained in Siller 
+ Helicopters Airworthiness Directives Compliance Report No. SH61007 dated 
+ January 7, 1998, or later FAA approved revisions, must be complied with prior 
+ to original airworthiness certification."
+NOTE 10,"The service life limited parts overhaul and retirement intervals for these 
+ helicopters is specified in Siller Helicopters Instructions For Continued 
+ Airworthiness Report, Report No. SH61003, N.C., dated January 7, 1998, or 
+ later FAA approved revisions."
+NOTE 11,"The helicopter must be operated in accordance with a Flight Manual comprised 
+ of the following: 
+ 1) Dept. of the Navy, “NATOPS Flight Manual, Navy Model SH-3G, HH-3A, 
+ UH-3A Helicopters”, NAVAIR 01-230HLC-1, Original, dated September 
+ 15, 1988. 
+ 2) Siller Helicopters RFM Supplement No. SH61005, “Rotorcraft Operator’s 
+ Manual Supplement to Navy Model SH-3A Helicopter With GE T58-GE- 
+ 5/-10/-100 and CT58-140-1 Engines”, NC, dated July 17, 2000."
+NOTE 12,"Optional Engine Installation: (2) General Electric CT58-140-1 (with Hamilton 
+ Standard Fuel Control JFC-26). (See NOTE 15). (2) General Electric T58-GE- 
+ 5; (2) General Electric T58-GE-10."
+NOTE 13,"Installation of all engine models require: 
+ a. 
+ All engine operating limits standardized and derated to the General Electric 
+ CT58-140-1. 
+ b. Main gearbox part number S6135-20600-27, -33, -39 and subsequent 
+ installed. 
+ c. 
+ Left engine cowl inst., part number S6130-80050 modified for increased 
+ cooling provisions per Sikorsky Service Instructions No. 61-3A. 
+ d. Tail pipe assembly, part number S6130-80169-1, installed (bolt on versus 
+ clamp). 
+ e. 
+ Tube installation - air bleed dump RH, part number S6120-62342-6, 
+ installed. 
+ f. 
+ Engine Inlet Duct Assy. S6130-80165 installed."
+NOTE 14,"Maximum continuous total power for two-engine operation is limited to 2100 
+ hp."
+NOTE 15,"Torque may exceed 103 percent Q on one engine to a maximum of 123 percent, 
+ provided that the power of the other is reduced so that total torque for both 
+ engines does not exceed 206 percent Q for 30 minutes or 172 percent 
+ continuously, and that the single engine Ng, T5 and Q limits are not exceeded. 
+ The governing parameter is the limit which occurs first."
+NOTE 16,"If takeoff power (CT58-140-1) is used in cumulative excess of 5 minutes during 
+ any one emergency, the engine must be inspected in accordance with GE 
+ Commercial Maintenance Manual SEI-182, Revision 8 dated December 31, 
+ 1996 or later FAA approved revision."
+NOTE 17,"Provisions for the carriage of external loads are available in the form of 
+ structural hard points on the fuselage and single point hook. Information 
+ concerning the operating limitations with this equipment is contained in the 
+ Flight Manual."
+NOTE 18,"Maximum takeoff and landing weight is 19,100 lbs., except in FAR 133 
+ rotorcraft-external load operations where the maximum rotorcraft-load 
+ combination weight is 22,000 lbs. The external load must be jettisonable so that 
+ the rotorcraft weight is not more than 19,100 lbs."
+NOTE 19,"Any alteration to the type design of this aircraft may require Instructions for 
+ Continued Airworthiness. These instructions must be submitted and accepted 
+ by FTW-AEG, Aircraft Evaluation Group Office, prior to approval for return to 
+ service."
+NOTE 20,"This aircraft is prohibited from carrying cargo for compensation or hire. 
+ Carriage of cargo is limited to such cargo that is incidental to the aircraft 
+ owners/operator’s business which is other than air transportation."
+NOTE 21,"Restricted category aircraft may not be operated in a foreign country without 
+ express written approval of that country."
+NOTE 22,"This aircraft has not been shown to meet the requirements of the applicable 
+ comprehensive and detailed Airworthiness Code as provided by Annex 8 to the 
+ Convention on International Civil Aviation."
+NOTE 23,"Any alteration to the type design of this aircraft may require Instructions For 
+ Continued Airworthiness. These instructions must be submitted to and accepted 
+ by the FTW-AEG, Aircraft Evaluation Group Office prior to approval for return 
+ to service."
+NOTE 24,"No Person may be carried in this helicopter during flight unless that person is 
+ essential to the purpose of the flight."

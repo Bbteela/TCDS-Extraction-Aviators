@@ -1,0 +1,159 @@
+Keyterm,Info
+"A-533 
+ WACO 
+ YKC 
+ YKC-S 
+ YKS-6 
+ ZKS-6 
+ January 3, 1949",
+Manufacturer,"Waco Aircraft Co. 
+ Troy, Ohio"
+"I - Models YKC, YKC-S and YKS-6, 4-5 PCL-SB (See Note 1 for explanation of model designation).",
+Engine,Jacobs L-4
+Engine limits,"For all operations, 2000 rpm (225 H.P.)"
+Airspeed limits,Not available
+Propeller limits,Not available
+CG range,"Landplane: 
+ (-14.4) to (-2.4) 
+ Seaplane: 
+ (-12.7) to (-3.7)"
+EWCG range,"Landplane: 
+ (-10.4) to (-15.0) 
+ Seaplane: 
+ (-12.3) to (-13.1) 
+ Both valid as 3, 4 or 5 place, with or without optional fuel tanks. If empty weight C.G. 
+ falls within range given, it is unnecessary to check critical forward and aft C.G. 
+ positions. These ranges are not valid for non-standard arrangements, except as noted 
+ herein."
+Maximum weight,"(a) 
+ Landplanes serials 3873 to 3877, inclusive, and 3975 (not equipped with spoilers) are 
+ eligible at 2850 lbs. 
+ (b) Landplanes serials 3978 and up eligible at 3000 lbs. These serials also eligible at 
+ 3250 lbs. provided: 
+ (1) Landing gear per Waco Dwg. 20497 is installed and structural changes per pages 8 
+ and 9 of Waco Report 383 are made, and 
+ (2) Wing spoilers or Model UMF vertical tail surfaces are installed. 
+ (c) 
+ Seaplanes: 3250 lbs."
+No seats,"3, 4 or 5 (Front - 2.5, rear +27). Five-place airplanes must have: 
+ (a) 
+ Additional safety belt on rear seat. 
+ (b) Baggage capacity reduced to 70 lbs., unless actual weight and balance 
+ substantiates lesser restriction."
+Maximum baggage,100 lbs. (+49)
+Fuel capacity,50 gals. (-11) (Two 25-gal. tanks in upper wings)
+Oil capacity,5 gals. (-44)
+Serial Nos eligible,"3873 and up mfd. prior to Sept. 30, 1939. Approval expired as of that date."
+Required equipment,"Landplanes: 
+ Items 101, 102, 103, 104, 107, 108, 109, 110. 
+ Seaplanes: 
+ Items 101, 104, 109, 110, 151, 152, 153, 154, 155, 156. Seaplanes 
+ serials 3873 to 3877, inclusive, and 3975 must have wing spoilers 
+ installed in accordance with approved data."
+Page No,"1 
+ 2 
+ 3"
+RevNo,"- 
+ - 
+ -"
+"II - Model ZKS-6, 4-5 PCL-SB 
+ (Same as Model YKS-6, except engine installation. 
+ See Note 1 for explanation of model designation).",
+Engine,Jacobs L-5
+Engine limits,"Take-off and climb 
+ 2000 rpm (285 hp) 
+ For all other operations 
+ 1910 rpm (250 hp)"
+Airspeed limits,"Level flight or climb 
+ 140 mph True Ind. 
+ Glide or dive 
+ 168 mph True Ind."
+Propeller limits,Not available
+CG range,)
+Empty weight CG range,)
+Maximum weights,( Same as given under Part I above.
+No seats,)
+Maximum baggage,)
+Fuel capacity,"50 gals. (-11) (Two 25-gal. tanks in upper wings) 
+ Fuel valves must be placarded: ""Both tanks should be turned to ""ON"" position 
+ during take-off, climb and landing""."
+Oil capacity,5 gals. (-44)
+Serial Nos eligible,"3873 and up manufactured prior to September 30, 1939. Approval expired as of that 
+ date."
+Required equipment,"Landplanes: Items 101, 102, 103, 104, 107, 108, 109, 110, 323. 
+ Seaplanes : Items 101, 104, 109, 110, 151, 152, 153, 154, 155, 156, 323."
+Specifications Pertinent to All Models,
+Datum,Leading edge lower wing
+Leveling means,Not available
+Certification basis,"Approved type certificate No. 533. (Expired September 30, 1939)"
+Export eligibility,"Will be supplied on request to Office of Aviation Safety, Washington."
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item indicates net weight 
+ change when that item is installed."
+Propellers and Propeller Accessories,"109. Propeller - wood (fixed pitch) 
+ 45 lbs. 
+ (-79.5) 
+ 204. Propeller - Hamilton Standard hub 2B20, blades 6109A-6 to 6109A-16 
+ incl., or 6135A-6 to 6135A-16 incl., - Diameter 8'6"" maximum, 7'7"" 
+ minimum. (For use with Jacobs L-4 only) 
+ 104 lbs."
+a,"Adj. pitch metal - Ham. Std. 
+ +37 lbs. 
+ (-80) 
+ (b) Fixed pitch metal - Curtiss 55501 
+ +9 lbs. 
+ (-80) 
+ Engines and Engine Accessories - Fuel and Oil System"
+101 Engine ring cowl,22 lbs.
+102 Starter direct electrical,20 lbs.
+153 Starter,30 lbs.
+155 Heater,"5 lbs. 
+ (-51)"
+a,"70 gals. (Two 35 gal. tanks in upper wings) 
+ +18 lbs. 
+ (-11) 
+ (b) 100 gals. (Two 35 gal. tanks in upper wings and two 15 gal. 
+ +53 lbs. 
+ (-11) 
+ tanks in lower wings) 
+ 307. Four or 6 1/2 gal. oil tank 
+ No weight change 
+ 312. Engine crankcase cooling disc (Mounted on forward part of 
+ 3 lbs."
+314 a,"Heater 
+ 5 lbs. (-51)"
+b Ventilator,2 lbs.
+318 Lux remote fire extinguisher,19 lbs. (+12) or (-48)
+107 8in streamline tail wheel,"(+181) 
+ 108. 6.50-10 wheels (Autofan) with 7:50-10 or 8:50-10 tires 
+ (-24) 
+ (wheels must be placarded for these tires) 
+ 151. Edo P-3300 or 38-3430 floats"
+304 Wheel streamlines,24 lbs. (-24)
+315 75010 cactus proof tubes,10 lbs. (-24)
+316 Tail wheel lock,(+87)
+324 Skis,Use actual weight
+a,Washington Aircraft 3600
+103 Generator,"13 lbs. 
+ 104. Battey - ahead of firewall 
+ 42 lbs."
+154 Generator,"10 lbs. 
+ 301. Landing lights - Grimes retractable 
+ 11 lbs. (+7)"
+320 Generator  Eclipse LV180,18 lbs.
+201 Ambulance equipment litter,12 lbs. (+97)
+303 Flexible instrument pane,l5 lbs. (-34)
+308 Flares,"(a) Three 1 1/2 min. 
+ 17 lbs. (+70) 
+ (b) Five 1 min. 
+ 13 lbs. (+70)"
+321 Baggage compartment and door,3 lbs. (+54)
+Miscellaneous,152. Large vertical surfaces including extra fin underneath fuselage
+310 Air brakes,"10 lbs. 
+ (0) 
+ 317. Extra door and wing walk 
+ 16 lbs. (+19)"
+Yearly models,"1934 YKC 
+ or ZKS 
+ 1935 YKC-S or ZKS-S 
+ 1936 YKS-6 or ZKS-6 
+ In the case of the 1936 designation: First letter shows engine; second letter shows wing; third letter shows type;"

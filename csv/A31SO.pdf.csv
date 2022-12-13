@@ -1,0 +1,875 @@
+Keyterm,Info
+"A31SO 
+ Revision 14 
+ Embraer 
+ EMB-120 
+ EMB-120RT 
+ EMB-120ER 
+ EMB-120FC 
+ EMB-120QC 
+ January 21, 2022",
+Type Certificate Holder,"Embraer S.A. 
+ Av. Brig. Faria Lima, 2170 
+ 12227-901 São Jose dos Campos, SP 
+ Brazil"
+Type Certificate Holder Record,"Yaborã Indústria Aeronaútica S.A. transferred the TC No A31SO to Embraer S.A. on 
+ January 1st, 2022. 
+ Embraer S.A. transferred TC No A31SO to Yaborã Indústria Aeronáutica S.A. on 
+ January 31, 2020. 
+ Empresa Brasileira de Aeronáutica S.A. (Embraer) changed company name to Embraer 
+ S.A. effective November 2010."
+"1. - Model EMB-120 Brasilia (Transport Category), Approved July 9, 1985",
+Engines,2 Pratt & Whitney of Canada Ltd PW 115
+Fuel,"MIL-T-5624 JP-4, JP-5 and ASTM D1655 Jet A, Jet A-1 and Jet B conforming to P&W 
+ specifications PWA522 or CPW204. See NOTE 4."
+Oil,"In accordance with P&W Specification 
+ PWA521 Type II (MIL-L-23699) or CPW202 (MIL-L-23699A)."
+Engine Limits,"Prop. 
+ Gas 
+ Jet Thrust 
+ Torque 
+ NP 
+ Int-Turbine T6 
+ Gen.NH 
+ Shaft HP 
+ (lbf) 
+ % 
+ % 
+ Temp.°C (°F) 
+ % 
+ Max. Take-off 
+ (5 min. max.) 
+ 1760 
+ 212 
+ 110 
+ 100 
+ 785 (1445) 
+ 100 
+ Max. Continuous 
+ 1600 
+ 212 
+ 100 
+ 100 
+ 785 (1445) 
+ 100 
+ Transient 
+ (20 sec. max.) 
+ 110 
+ 850 (1562) 
+ 102 
+ Starting 
+ (5 sec. max.) 
+ 950 (1742) 
+ Max. Reverse 
+ 80 
+ NOTE: 
+ The above engine limits are individual maximum operating limits and are not 
+ for setting engine power. Refer to AFM Section 4 for power setting data."
+Propeller Limits,"Condition Levers must in MIN RPM position during all ground operations, except when"
+Ground Operation,"cleared for takeoff or during landing roll. 
+ Power Levers must remain at or below Flight Idle during all ground operations, except 
+ for brief (approximately 5 seconds) excursions as needed to maneuver the airplane"
+Max Operating Altitude,"S/N 12000004, 12000006 through 12000011 
+ Enroute - 25,000 ft. (Bleed on) 
+ - 20,000 ft. (Bleed off)"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12"
+Revision No,"14 
+ 11 
+ 11 
+ 11 
+ 11 
+ 11 
+ 11 
+ 11 
+ 11 
+ 11 
+ 14 
+ 13"
+January 21 2022,"Page 2 of 12 
+ S/N 12000012 and up 
+ Bleed On 
+ Bleed Off 
+ Enroute - EEC on 
+ 32,000 ft. 
+ 25,000 ft 
+ EEC off 
+ 25,000 ft 
+ 20,000 ft"
+Temperature Operating,"S/N 12000004, 12000006 through 12000020"
+Limits,"Maximum ISA +32° C 
+ Minimum -54° C 
+ S/N 12000021 and up 
+ Maximum ISA +35° C 
+ Minimum -54° C"
+mass,"lb. 
+ kg 
+ Start of take-off 
+ 25,353 
+ 11,500 
+ Landing 
+ 24,802 
+ 11,250 
+ Zero Fuel 
+ 23,148 
+ 10,500"
+Number of Seats,"Maximum 34, including 1 pilot, 1 copilot, 1 attendant, 1 check pilot and 30 passengers."
+Maximum Baggage,1213 lb (See NOTE 7).
+"2. - Model EMB-120RT Brasilia (Transport Category), Approved October 23, 1986",
+Engines,"2 Pratt & Whitney of Canada Ltd. PW 118 or 
+ 2 Pratt & Whitney of Canada Ltd. PW 118A or 
+ 2 Pratt & Whitney of Canada Ltd. PW118B or 
+ 1 Pratt & Whitney of Canada Ltd. PW 118 and 
+ 1 Pratt & Whitney of Canada Ltd. PW 118A (see AFM for operating limits)"
+Fuel,"MIL-T-5624 JP-4, JP-5 and ASTM D1655 Jet A, Jet A-1 & Jet B conforming to P&W. 
+ specifications PWA522 or CPW204. See NOTE 4."
+Oil,"In accordance with P&W Specification PWA521 Type II (MIL-L-23699) 
+ or CPW202 (MIL-L-23699A)."
+Engine Limits,"Prop 
+ Gas 
+ Gas 
+ Shaft 
+ Jet Thrust 
+ Torque 
+ NP 
+ Int-Turbine, T6 
+ Gen.NH 
+ Gen.NL 
+ HP 
+ (lbf) 
+ % 
+ % 
+ Temp.°C (°F) 
+ % 
+ % 
+ PW 118 Max. 
+ Take-off(5 min. max.) 
+ 1980 
+ 230 
+ 110 
+ 100 
+ 816 (1500) 
+ 100 
+ 100 
+ PW 118A Max 
+ 1980 
+ 230 
+ 110 
+ 100 
+ 816 (1500) 
+ 102 
+ 102 
+ Take-off(5 min. max.) 
+ PW 118B Max 
+ 1980 
+ 230 
+ 110 
+ 100 
+ 816 (1500) 
+ 102 
+ 102 
+ Take-off(5 min. max.) 
+ PW 118 Max 
+ 1800 
+ 230 
+ 100 
+ 100 
+ 800 (1472) 
+ 100 
+ 100 
+ Continuous 
+ PW 118A Max 
+ 1800 
+ 230 
+ 100 
+ 100 
+ 800 (1472) 
+ 102 
+ 102 
+ Continuous 
+ PW 118B Max 
+ 1800 
+ 230 
+ 100 
+ 100 
+ 800 (1472) 
+ 102 
+ 102 
+ Continuous 
+ Transient 
+ 120 
+ 110 
+ 850 (1562) 
+ 102 
+ 102 
+ (20 Sec. max.) 
+ Starting 
+ 950 (1742) 
+ (5 sec. max.) 
+ Max. Reverse 
+ 80"
+January 21 2022,"Page 3 of 12 
+ NOTE: 
+ The above engine limits are individual maximum operating limits and are not 
+ for setting engine power. Refer to AFM Section 4 for power setting data."
+Propeller Limits,"Condition Levers must in MIN RPM position during all ground operations, except when"
+Ground Operation,"cleared for takeoff or during landing roll. 
+ Power Levers must remain at or below Flight Idle during all ground operations, except 
+ for brief (approximately 5 seconds) excursions as needed to maneuver the airplane."
+Max Operating Altitude,"Bleed On 
+ Bleed Off 
+ EEC on 
+ 32,000 ft 
+ 25,000 ft. 
+ EEC off 
+ 25,000 ft. 
+ 20,000 ft"
+Limits,"Maximum ISA +35° C 
+ Minimum -54° C 
+ S/N 12000021 and up 
+ Maximum ISA + 35°C 
+ Minimum -54°C"
+Maximum Weight mass,"lb. 
+ kg 
+ Start of take-off 
+ 25,529 
+ 11,580 
+ Landing 
+ 24,802 
+ 11,250 
+ Zero Fuel 
+ 23,148 
+ 10,500"
+Number of Seats,"Maximum 34, including 1 pilot, 1 copilot, 1 attendant, 1 check pilot and 30 passengers."
+Maximum Baggage,1213 lb (See NOTE 7).
+"3. Model EMB-120ER Brasilia (Transport Category), Approved March 20, 1992",
+Engines,"2 Pratt & Whitney of Canada Ltd. PW 118 or 
+ 2 Pratt & Whitney of Canada Ltd. PW 118A or 
+ 2 Pratt & Whitney of Canada Ltd. PW118B or 
+ 1 Pratt & Whitney of Canada Ltd. PW 118 and 
+ 1 Pratt & Whitney of Canada Ltd. PW 118A 
+ (see AFM for operating limits)"
+Fuel,"MIL-T-5624 JP-4, JP-5 and ASTM D1655 Jet A, Jet A-1 and Jet B conforming to 
+ P&W specifications PWA522 or CPW204. See NOTE 4"
+Oil,"In accordance with P&W specification PWA521 Type II (MIL-L-23699) or CPW202 
+ (MIL-L-23699A)."
+Engine Limits,"Prop 
+ Gas 
+ Gas 
+ Jet Thrust 
+ Torque 
+ NP 
+ Int-Turbine, T6 
+ Gen. NH 
+ Gen. NL 
+ Shaft HP 
+ (lbf) 
+ % 
+ % 
+ Temp. °C (°F) 
+ % 
+ %"
+5 min max,"1980 
+ 230 
+ 110 
+ 100 
+ 816 (1500) 
+ 100 
+ 100"
+5 min max,"1980 
+ 230 
+ 110 
+ 100 
+ 816 (1500) 
+ 102 
+ 102"
+5 min max,"1980 
+ 230 
+ 110 
+ 100 
+ 816 (1500) 
+ 102 
+ 102 
+ 1800 
+ 230 
+ 100 
+ 100 
+ 800 (1472) 
+ 100 
+ 100 
+ 1800 
+ 230 
+ 100 
+ 100 
+ 800 (1472) 
+ 102 
+ 102 
+ 1800 
+ 230 
+ 100 
+ 100 
+ 800 (1472) 
+ 102 
+ 102 
+ Transient"
+0 sec max,"120 
+ 110 
+ 850 (1562) 
+ 102 
+ 102"
+January 21 2022,"Page 4 of 12 
+ Starting"
+5 sec max,950 (1742)
+Max Reverse,"80 
+ NOTE: The above engine limits are individual maximum operating limits and are not for 
+ setting engine power. Refer to AFM Section 4 for power setting data."
+Propeller Limits,"Condition Levers must in MIN RPM position during all ground operations, except when"
+Ground Operation,"cleared for takeoff or during landing roll 
+ Power Levers must remain at or below Flight Idle during all ground operations, except 
+ for brief (approximately 5 seconds) excursions as needed to maneuver the airplane"
+Max Operating Altitude,"Bleed On 
+ Bleed Off 
+ EEC on 
+ 32,000 ft 
+ 25,000 ft. 
+ EEC off 
+ 25,000 ft. 
+ 20,000 ft"
+Limits,"Maximum ISA +35° C 
+ Minimum -54° C"
+Maximum Weight mass,"lb. 
+ kg 
+ Ramp 
+ 26,609 
+ 12,070 
+ Takeoff 
+ 26,433 
+ 11,990 
+ Landing 
+ 25,794 
+ 11,700 
+ Zero Fuel 
+ 24,030 
+ 10,800"
+Number of Seats,"Maximum 34, including 1 pilot, 1 copilot, 1 attendant, 1 check pilot and 30 passengers."
+Maximum Baggage,1213 lb (See NOTE 7).
+"4. Model EMB-120FC Brasilia (Transport Category, Full Cargo version), Approved July 17, 2000.",
+Engines,"2 Pratt & Whitney of Canada Ltd. PW 118 or 
+ 2 Pratt & Whitney of Canada Ltd. PW 118A or 
+ 2 Pratt & Whitney of Canada Ltd. PW118B or 
+ 1 Pratt & Whitney of Canada Ltd. PW 118 and 
+ 1 Pratt & Whitney of Canada Ltd. PW 118A 
+ (see AFM for operating limits)"
+Fuel,"MIL-T-5624 JP-4, JP-5 and ASTM D1655 Jet A, Jet A-1 and Jet B conforming to 
+ P&W specifications PWA522 or CPW204. See NOTE 4."
+Oil,"In accordance with P&W specification PWA521 Type II (MIL-L-23699) or CPW202 
+ (MIL-L-23699A)."
+Engine Limits,"Prop 
+ Gas 
+ Gas 
+ Jet Thrust 
+ Torque 
+ NP 
+ Int-Turbine, T6 
+ Gen. NH 
+ Gen. NL 
+ Shaft HP 
+ (lbf) 
+ % 
+ % 
+ Temp. °C (°F) 
+ % 
+ %"
+5 min max,"1980 
+ 230 
+ 110 
+ 100 
+ 816 (1500) 
+ 100 
+ 100"
+5 min max,"1980 
+ 230 
+ 110 
+ 100 
+ 816 (1500) 
+ 102 
+ 102"
+5 min max,"1980 
+ 230 
+ 110 
+ 100 
+ 816 (1500) 
+ 102 
+ 102 
+ 1800 
+ 230 
+ 100 
+ 100 
+ 800 (1472) 
+ 100 
+ 100 
+ 1800 
+ 230 
+ 100 
+ 100 
+ 800 (1472) 
+ 102 
+ 102 
+ 1800 
+ 230 
+ 100 
+ 100 
+ 800 (1472) 
+ 102 
+ 102 
+ Transient"
+0 sec max,"120 
+ 110 
+ 850 (1562) 
+ 102 
+ 102"
+January 21 2022,"Page 5 of 12 
+ Starting"
+5 sec max,950 (1742)
+Max Reverse,"80 
+ NOTE: The above engine limits are individual maximum operating limits and are not for 
+ setting engine power. Refer to AFM Section 4 for power setting data."
+Propeller Limits,"Condition Levers must in MIN RPM position during all ground operations, except when"
+Ground Operation,"cleared for takeoff or during landing roll 
+ Power Levers must remain at or below Flight Idle during all ground operations, except 
+ for brief (approximately 5 seconds) excursions as needed to maneuver the airplane"
+Max Operating Altitude,"Bleed On 
+ Bleed Off 
+ EEC on 
+ 32,000 ft 
+ 25,000 ft 
+ EEC off 
+ 25,000 ft 
+ 20,000 ft"
+Limits,"Maximum ISA +35° C 
+ Minimum -54° C"
+Maximum Weight mass,"lb. 
+ kg 
+ Ramp 
+ 26,609 
+ 12,070 
+ Takeoff 
+ 26,433 
+ 11,990 
+ Landing 
+ 25,794 
+ 11,700 
+ Zero Fuel 
+ 24,030 
+ 10,800"
+Number of Seats,None. Approved for cargo only. No passengers allowed.
+Maximum Occupants,"Not to exceed 3, including pilot, copilot and 1 check pilot;"
+Cargo Compartment,8150 lb.
+Distribution on Cargo Compartment,FLOOR LOAD LIMIT
+CARGO COMPARTMENT,"STATION LIMITS 
+ MAX. LOAD 
+ (lb/sqft) 
+ X (ft) 
+ (lb) 
+ E1 
+ From x=18.57 to x=26.41 
+ 2490 
+ 61 
+ E2 
+ From x=26.41 to x=35.20 
+ 2645 
+ 61 
+ E3 
+ From x=35.20 to x=44.71 
+ 2550 
+ 61 
+ E4 
+ From x=44.71 to x=49.05 
+ 1210 
+ 100 
+ E1+E2 
+ From x=18.57 to x=35.20 
+ 4400 
+ 61 
+ According to corresponding"
+E1E2E3E4,"From x=18.57 to x=49.05 
+ 8150 
+ cargo compartment"
+"5. Model EMB-120QC Brasilia (Transport Category, Quick Change Cargo version), Approved October 1, 2003.",
+Engines,2 Pratt & Whitney of Canada Ltd. PW 118 or
+January 21 2022,"Page 6 of 12 
+ 2 Pratt & Whitney of Canada Ltd. PW 118A or 
+ 2 Pratt & Whitney of Canada Ltd. PW118B or 
+ 1 Pratt & Whitney of Canada Ltd. PW 118 and 
+ 1 Pratt & Whitney of Canada Ltd. PW 118A 
+ (see AFM for operating limits)"
+Fuel,"MIL-T-5624 JP-4, JP-5 and ASTM D1655 Jet A, Jet A-1 and Jet B conforming to 
+ P&W specifications PWA522 or CPW204. See NOTE 4."
+Oil,"In accordance with P&W specification PWA521 Type II (MIL-L-23699) or CPW202 
+ (MIL-L-23699A)."
+Engine Limits,"Prop 
+ Gas 
+ Gas 
+ Shaft 
+ Jet Thrust 
+ Torque 
+ NP 
+ Int-Turbine, T6 
+ Gen. NH 
+ Gen. NL 
+ HP 
+ (lbf) 
+ % 
+ % 
+ Temp. °C (°F) 
+ % 
+ %"
+5 min max,"1980 
+ 230 
+ 110 
+ 100 
+ 816 (1500) 
+ 100 
+ 100"
+5 min max,"1980 
+ 230 
+ 110 
+ 100 
+ 816 (1500) 
+ 102 
+ 102"
+5 min max,"1980 
+ 230 
+ 110 
+ 100 
+ 816 (1500) 
+ 102 
+ 102 
+ 1800 
+ 230 
+ 100 
+ 100 
+ 800 (1472) 
+ 100 
+ 100 
+ 1800 
+ 230 
+ 100 
+ 100 
+ 800 (1472) 
+ 102 
+ 102 
+ 1800 
+ 230 
+ 100 
+ 100 
+ 800 (1472) 
+ 102 
+ 102 
+ Transient"
+0 sec max,"120 
+ 110 
+ 850 (1562) 
+ 102 
+ 102 
+ Starting"
+5 sec max,950 (1742)
+Max Reverse,"80 
+ NOTE: The above engine limits are individual maximum operating limits and are not for 
+ setting engine power. Refer to AFM Section 4 for power setting data."
+Propeller Limits,"Condition Levers must in MIN RPM position during all ground operations, except when"
+Ground Operation,"cleared for takeoff or during landing roll 
+ Power Levers must remain at or below Flight Idle during all ground operations, except 
+ for brief (approximately 5 seconds) excursions as needed to maneuver the airplane"
+Max Operating Altitude,"Bleed On 
+ Bleed Off 
+ EEC on 
+ 32,000 ft 
+ 25,000 ft. 
+ EEC off 
+ 25,000 ft. 
+ 20,000 ft"
+Limits,"Maximum ISA +35° C 
+ Minimum -54° C"
+Maximum Weight mass,"lb. 
+ kg 
+ Ramp 
+ 26,609 
+ 12,070 
+ Takeoff 
+ 26,433 
+ 11,990 
+ Landing 
+ 25,794 
+ 11,700 
+ Zero Fuel (see NOTE 11) 
+ 24,030 
+ 10,800"
+of Occupants,"With an original forward lavatory configuration, maximum 34 including 1 pilot, 1 
+ copilot, 1 flight attendant, 1 check pilot and 30 passengers. With an original aft lavatory 
+ configuration, maximum 31 including 1 pilot, 1copilot, 1 flight attendant, 1 check pilot 
+ and 27 passengers. With a cargo configuration, maximum 03, 1 pilot, 1copilot and 1 
+ check pilot, no passengers or flight attendant are allowed."
+January 21 2022,Page 7 of 12
+Cargo Compartment,"When operating with passenger version, 1213 lb (see NOTE 7). 
+ When operating with cargo (class E) version: 
+ 7715 lb to comply with the requirement FAR 121 
+ 7500 lb to comply with the requirement FAR 135"
+Maximum Loading,"Distribution on Cargo (Class E) Compartment 
+ FLOOR LOAD LIMIT"
+CARGO COMPARTMENT,"STATION LIMITS 
+ MAX. LOAD 
+ (lb/sqft) 
+ X (ft) 
+ (lb) 
+ E1 
+ From x=20.5 to x=28.4 
+ 2490 
+ 61 
+ E2 
+ From x=28.4 to x=36.6 
+ 2645 
+ 61 
+ E3 
+ From x=36.6 to x=44.5 
+ 2550 
+ 61 
+ E4 
+ From x=44.5 to x=49.0 
+ 1210 
+ 100 
+ E1+E2 
+ From x=20.5 to x=36.6 
+ 4400 
+ 61"
+Data Pertinent to All Models,
+Propeller and Propeller Limits,"2- Hamilton Standard Model 14RF-9 
+ Blade: 
+ RFC11E1-6A, RFC11M1-6A, RFC11N1-6A or RFC11U1-6A 
+ Diameter: 
+ 10.5 ft. nominal 
+ Pitch settings at STA 42 ins 
+ Feather 
+ 79.2° 
+ Flight fine 
+ 17.3° 
+ Ground fine 
+ -4.5° 
+ Full reverse 
+ -15.0° 
+ Propeller (Np) 
+ - Takeoff 
+ 1300 rpm 
+ (100%) 
+ - Max. Continuous 
+ 1300 rpm 
+ (100%)"
+January 21 2022,Page 8 of 12
+Airspeed Limits IAS,"Maximum Operating Limit Speed (Vmo) 
+ Knots 
+ MPH 
+ Vfe (Flaps extended) 
+ Flaps 15° 
+ 200 
+ 230 
+ Flaps 25° 
+ 150 
+ 175 
+ Flaps 45° 
+ 135 
+ 156 
+ VA (Maneuvering) 
+ 200 
+ 230 
+ VLO (Landing gear operation) 
+ 200 
+ 230 
+ VLE (Landing gear extended) 
+ 200 
+ 230"
+Minimum Crew,2 (Pilot and Copilot)
+Fuel Capacity,"882 gallons (441 gallons each tank) 
+ Unusable fuel 7.4 gallons (3.7 gallons each tank)"
+Oil Capacity,13.0 gal. (6.5 gal. in each engine).
+Datum,"366.4"" forward of the 66% wing chord line (frame 28). 
+ The 66% wing chord line is 0.67"" aft of the rear jack points."
+Leveling Means,"Plumb from the upper part of the floor frame 28 using a mark in the 
+ lower part of the frame as a reference."
+Passenger Configuration,1213 lb
+Maximum Cargo,Deleted. Previous note not applicable to US configuration
+January 21 2022,Page 9 of 12
+CG Limits EMB120 and EMB120RT,"TAKEOFF AND LANDING LIMITS 
+ IN-FLIGHT LIMITS (FLAPS AND GEAR UP) 
+ 21.0% 
+ 42.0% 
+ 19.5% 
+ 43.5% 
+ 26000 
+ MRW=25529 lb (11580 kg) 
+ MTOW=25353 lb (11500 kg) 
+ MLW=24802 lb (11250 kg) 
+ 24000 
+ MZFW=23148 lb (10500 kg) 
+ 19.8% 
+ 22707 lb 
+ (10300 kg) 
+ 22707 lb (10300 kg) 
+ 16.3% 
+ 22000 
+ 13.4% 
+ WEIGHT - lb 
+ 20000 
+ 18297 lb (8300 kg) 
+ 18000 
+ 4.0% 
+ 6.0% 
+ 16000 
+ 15873 lb 
+ MOW 
+ (7200 kg) 
+ 14330 lb-(6500 kg) 
+ 44.0% 
+ 14000 
+ 0 
+ 10 
+ 20 
+ 30 
+ 40 
+ 50 
+ % MAC"
+January 21 2022,"Page 10 of 12 
+ C.G. Limits EMB-120ER, EMB-120FC and EMB-120QC"
+Control Surface Movements,"Deflections measured normal to hinge lines: 
+ Main Rudder (hinge at 70% chord) 
+ Right 
+ 20° ± 1° 
+ Left 
+ 17° ± 1° 
+ Secondary Rudder (hinge at 86% chord) 
+ Right 
+ 15°± 1° 
+ Left 
+ 13°± 1° 
+ Elevators 
+ Up 
+ 20° + 1° 
+ Down 
+ 15° ± 1° 
+ Ailerons 
+ Up 
+ 25° ± 1° 
+ Down 
+ 15° ± 1° 
+ Flaps (Outboard and Inboard) 
+ Max. deflection 
+ 45° ± 1° 
+ Flap (Middle) - Max. deflection 
+ 51° ± 1° 
+ Elevator Tabs (Trim deflections) 
+ Up 
+ 3.3° ± 0.5° or 
+ Down 
+ 22° ± 1° 
+ 5.5° ± 0.5° 
+ Right Aileron Tab Trim Deflections 
+ (Aileron Neutral) 
+ Up 
+ 11° ± 1° 
+ Down 
+ 11° ± 1° 
+ Aileron Automatic Tab 
+ 25° Up 
+ 14.7° ± 1° 
+ 15° down 
+ 8.5° ± 1°"
+January 21 2022,Page 11 of 12
+Serial Numbers Eligible,"A Brazilian Certificate of Airworthiness for Export endorsed as noted under ""Import 
+ Requirements"" must be submitted for each individual aircraft for which application for 
+ U.S. certification is made."
+Import Requirements,"Refer to the applicable bilateral agreement to verify eligibility for import into the United 
+ States of both new and used aircraft based on the scope of the agreement, to identify any 
+ required statements by the exporting authority on the export certificate of airworthiness 
+ (or equivalent document), and for procedures for coordinating exceptions to conformity 
+ statements on these documents. Refer to FAA Order 8130.2, Airworthiness Certification 
+ of Aircraft, for requirements for issuance of an airworthiness certificate for imported 
+ aircraft."
+Certification Basis,"Federal Aviation Regulation (FAR) Part 21, including Amendments through 21-49, 
+ effective September 10, 1979; FAR 25, including Amendments through 25-54, effective 
+ October 14, 1980; FAR 25.832, Amendment 25-56; Special FAR (SFAR) 27, including 
+ Amendments through 27-5 effective January 11, 1984, and FAR 36, including 
+ Amendments through 36-12 effective August 1, 1981 for EMB-120 and EMB-120RT, 
+ through 36-18 effective August 18, 1992 for EMB-120ER, through 36-22 effective 
+ October 13, 1999 for EMB-120FC and through 36-24 effective August 07, 2002 for 
+ EMB-120QC ; Exemption from FAR 25.571 (e) (2) as specified in Exemption No. 
+ 3722; Equivalent Safety Finding to FAR 25.783 (f) Cargo Door. Airplanes 
+ incorporating Embraer Service Bulletin No. 120-25-0220 comply with FAR 
+ 25.811(c)(2)(ii), Amendment 25-79, instead of FAR 25.811(e)(3), Amendment 25-54. 
+ Date of application for EMB-120; June 8, 1981. 
+ Date of application for EMB-120RT; August 20, 1986. 
+ Date of application for EMB-120ER; August 16, 1991. 
+ Date of application for EMB-120FC; December 2, 1999. 
+ Date of application for EMB-120QC; October 6, 2000. 
+ Based on § 21.29(a) for new import TCs, or § 21.101(g) for changes to TCs, applicable 
+ provisions of Part 26 are included in the certification basis. For any future Part 26 
+ amendments, the holder of this TC must demonstrate compliance with the applicable 
+ sections."
+Service Information,"Service bulletins, structural repair manuals, vendor manuals, aircraft flight manuals, and 
+ overhaul and maintenance manuals, which contain a statement that the document is 
+ ANAC approved, are accepted by the FAA and are considered FAA approved. These 
+ approvals pertain to the type design only."
+Ditching,"Compliance has been shown with the ditching requirements of FAR 25.801. When the 
+ operating rules require emergency ditching equipment, compliance with 25.1415 must 
+ be demonstrated."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. The ""Basic 
+ Equipment Checklist,"" ""Chart A,"" lists all the required and optional equipment and is 
+ included in the POH and ANAC approved AFM"
+January 21 2022,Page 12 of 12
+NOTE 1,"Current weight and balance report including list of equipment included in certificated empty 
+ weight and loading instructions must be provided for each aircraft at the time of original 
+ certification. For loading procedures the Weight and Balance Manual WB120/701, must be 
+ followed. The certificated empty weight and corresponding center-of-gravity location must 
+ include system (undrainable) oil (not included in oil capacity) and unusable fuel (not included in 
+ usable fuel) as follows: 
+ Fuel: 
+ 48 lbs. at 348.8 in. 
+ Oil: 
+ 16 lbs. at 272.2 in."
+NOTE 2,"The aircraft must be operated in accordance with the ANAC Approved Airplane Flight Manual. 
+ For cargo configuration required placards see also Embraer Service Bulletin nº 120-25-0245"
+NOTE 3,"The Airworthiness Limitations are listed on Section 6 of document MRB-HI-200 “Maintenance 
+ Review Board Report”, as follows 
+ Part A - System & Powerplant 
+ Part B - Strucuture 
+ Part C - Life-Limited Components 
+ Part D - Critical Design Configuration Control Limitations (CDCCL) 
+ Part E - Fuel System Limitations"
+NOTE 4,"If fuel conforming to specifications PWA522 or CPW204 is not available it is permissible to use 
+ aviation gasoline MIL-G-5572 of all grades for a total time period not exceeding 150 hours 
+ during any overhaul period. 
+ JET B or JP-4 fuel should only be used when no other fuel is available."
+NOTE 5,"Aircraft S/N 12000004 and 12000006 through 12000021, inclusive, have been converted to the 
+ model EMB-120RT by the accomplishment of the Embraer Service Bulletin nº 120-72-0001."
+NOTE 6,"The engine Pratt & Whitney PW-118A may be installed in accordance with the Embraer Service 
+ Bulletin nº 120-072-0002."
+NOTE 7,"The passenger baggage compartment maximum capacity may be increased to 1540 lb thru 
+ accomplishment of SB 120-25-0205. All pax aircraft S/Ns 12000281, 12000286 through 
+ 12000288, and 12000290 and on are factory modified for 1540 lb."
+NOTE 8,"All EMB-120RT S/Ns may be converted into the model EMB-120ER by the accomplishment of 
+ Embraer Service Bulletin nº 120-00-0008."
+NOTE 9,"All EMB-120ER S/Ns may be converted into the model EMB-120FC by the accomplishment of 
+ Embraer Service Bulletin nº 120-25-0245"
+NOTE 10,"All EMB-120ER S/Ns may be converted into the model EMB-120QC by the accomplishment of 
+ Embraer Service Bulletins nº 120-25-0244 and 120-25-0243."
+NOTE 11,"All EMB-120QC operating cargo must comply with Embraer Service Bulletins nº 120-25-0252 
+ and 120-25-0253."

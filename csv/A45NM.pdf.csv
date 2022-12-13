@@ -1,0 +1,572 @@
+Keyterm,Info
+"A45NM 
+ Revision 9 
+ Deutsche Aircraft GmbH 
+ Dornier Model 328-100 
+ February 10, 2022",
+Type Certificate Holder,"Deutsche Aircraft GmbH 
+ Sonderflughafen Oberpfaffenhofen 
+ D-82234 Wessling 
+ Germany"
+Type Certificate Holder Record,"Dornier Luftfahrt GmbH transferred TC A45NM to Fairchild Dornier GmbH, effective 
+ August 8, 2000. 
+ Fairchild Dornier GmbH transferred TC A45NM to AvCraft Aerospace GmbH, effective 
+ July 28, 2003. 
+ AvCraft Aerospace GmbH transferred TC A45NM to 328 Support Services GmbH, 
+ effective June 7, 2006. 
+ 328 Support Service GmbH re-named to Deutsche Aircraft GmbH, effective 
+ October 6, 2021. 
+ Dornier 328-100 (Transport Category Airplane) approved November 10, 1993"
+Note,"Major Modification ""Mod 10"" was approved November 3, 1994. Major Modification “Mod 20” was approved August 
+ 5, 1996. Pre ""Mod 10"" airplanes are designated by Dornier as ""Mod 00."") Type Design Definition Document TD- 
+ 00300 is the basis for the definition of the type design. The information in this data sheet applies to all Dornier 328- 
+ 100 airplanes, unless otherwise noted."
+Engines,"2 Pratt and Whitney of Canada Ltd. PW 119B turboprops. Refer to Engine FAA- 
+ Type Certificate E20NE. 
+ Mod 10: Same engines as the basic model. 
+ Mod 20: Two (2) Pratt and Whitney of Canada Ltd. PW 119C. Refer to Engine 
+ FAA Type Certificate E20NE"
+Fuel,"(a) Specifications: 
+ ASTM (D 1655) Jet A ASTM (D 1655) Jet A1 
+ ASTM (D 1655) Jet B ASTM (D 1655) Jet A-2 
+ (b) Additives: 
+ According to latest version of Dornier 328 Aircraft Maintenance Manual."
+Oil,"Types of approved oils for use in PW 100 engines are: 
+ - 5 Centistoke oils (conforming to specification PWA 521, Type II). 
+ - 4 Centistoke oils. 
+ - Third generation oils."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+Rev No,"9 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ Mod 00: The following engine limits table applies to the Mod 00 airplane only. 
+ Engine Limits (Mod 00 airplane only):"
+Conditions,"Operating Limits 
+ POWER 
+ TQ 
+ ITT 
+ RPM 
+ RPM 
+ RPM 
+ OIL 
+ OIL 
+ % TQ at % 
+ (%) 
+ °C 
+ High 
+ Low 
+ Prop 
+ Oil Press 
+ Oil Temp 
+ Np 
+ Press 
+ Press 
+ Rotor 
+ Rotor 
+ PSID 
+ °C (8) 
+ NL 
+ NP 
+ NH 
+ (%) 
+ (%) 
+ (%)"
+BEST PERF,"100 at 100 
+ 100 
+ 800 
+ 102.7 
+ 104.4 
+ 102.5 
+ 55 to 65 
+ 0 to 115"
+TAKEOFF1,"85 at 100 
+ 100 
+ 800 
+ 102.7 
+ 104.4 
+ 102.5 
+ 55 to 65 
+ 0 to 115"
+GND IDLE,"- 
+ - 
+ - 
+ min 64 
+ - 
+ - 
+ min 40 
+ -54 to 115 
+ (3)"
+STARTING,"- 
+ - 
+ 950 
+ - 
+ - 
+ - 
+ 200 
+ min 
+ (4) 
+ -54"
+TRANSIENT 5,"- 
+ 120 
+ 850 
+ 104.2 
+ 105.9 
+ 110 
+ 40 to 100 
+ -"
+OTHER,"- 
+ - 
+ - 
+ - 
+ - 
+ 110 (7) 
+ - 
+ 125 (6)"
+1,Operation is limited to 5 minutes.
+2,"Power limit is 1851 SHP. Operation between 85% and 100% TQ with NP below 100% is not time limited provided the 
+ power limit is not exceeded. (Refer to Power Torque Setting Charts in Airplane Flight Manual (AFM) Section 6 - 
+ Performance)."
+3,Up to 75% NH only.
+4,5 seconds maximum starting only.
+5,20 seconds maximum.
+6,20 minutes maximum.
+7,"In case of a propeller or propeller governor malfunction the flight can be completed with the indicated Np speed. 
+ Power must be set not to exceed 75% torque."
+8,"Under icing conditions oil temperature must be maintained above 45°C to ensure intake strut deicing. 
+ Mod 10; Mod 20: The following engine limits table applies to the Mod 10 and Mod 20 airplanes. 
+ Engine Limits (Mod 10 and Mod 20 airplane):"
+Conditions,"Operating Limits 
+ POWER 
+ TQ 
+ ITT 
+ RPM 
+ RPM 
+ RPM 
+ OIL 
+ OIL 
+ % TQ at % 
+ (%) 
+ °C 
+ High 
+ Low 
+ Prop 
+ Oil Press 
+ Oil Temp 
+ Np 
+ Press 
+ Press 
+ Rotor 
+ Rotor 
+ PSID 
+ °C (7) 
+ NL 
+ NP 
+ NH 
+ (%) 
+ (%) 
+ (%)"
+BEST PERF,"100 at 100 
+ 100 
+ 800 
+ 102.7 
+ 104.4 
+ 102.5 
+ 55 to 65 
+ 0 to 115"
+TAKEOFF 1,"85 at 100 
+ 100 
+ 800 
+ 102.7 
+ 104.4 
+ 102.5 
+ 55 to 65 
+ 0 to 115 
+ 100 at 85 or"
+OPER,below
+GND IDLE,"- 
+ - 
+ - 
+ min 64 
+ - 
+ - 
+ min 40 
+ -54 to 115 
+ (2)"
+STARTING,"- 
+ - 
+ 950 
+ - 
+ - 
+ - 
+ 200 
+ min 
+ (3) 
+ -54"
+TRANSIENT 4,"- 
+ 120 
+ 850 
+ 104.2 
+ 105.9 
+ 110 
+ 40 to 100 
+ -"
+OTHER,"- 
+ - 
+ - 
+ - 
+ - 
+ 110 (6) 
+ - 
+ 125 (5)"
+1,"Operation is limited to 5 minutes duration, but may be used up to 10 minutes for single engine operation."
+2,Up to 75% NH only.
+3,850° C to 950° C for 5 seconds maximum.
+4,20 seconds maximum.
+5,20 minutes maximum.
+6,"In case of a propeller or propeller governor malfunction maximum power is 75% torque provided Np does not 
+ exceed110%."
+7,Under icing conditions oil temperature must be maintained above 45° C to ensure intake strut deicing.
+Propellers and Propeller Limits,"Mod 00: 2 Hartzell six bladed HD-E6C-3A 
+ Diameter: 11 ft 6 in (3.5 m). Refer to propeller FAA-Type Certificate P34NE 
+ Mod 10, Mod 20: 2 Hartzell six bladed HD-E6C-3B. 
+ Diameter: 11 ft 10 in (3.6 m). Refer to propeller FAA-Type Certificate P34NE 
+ Mod 10, Mod 20: For propeller limits table refer to AFM 02-06-00, Page 2, April 25, 
+ 1996."
+Airspeed Limits IAS,"VD 
+ 324 KIAS 
+ VMO 
+ 270 KIAS 
+ MMO 
+ .59 (above 
+ 20,000 ft pressure altitude) 
+ VA (Maneuvering) (Mod 00) 
+ 170 KIAS 
+ VA (Maneuvering) (Mod 10, 20) 
+ 180 KIAS 
+ VFE (Flaps Extended) 
+ 12° 
+ 200 KIAS 
+ 20° 
+ 180 KIAS 
+ In addition for Mod 10, 20: 
+ 32° 
+ 160 KIAS 
+ VMC (Minimum Control) 
+ Refer to AFM 
+ VLE = VLO 
+ 200 KIAS 
+ Tire Speed 
+ 165 KIAS 
+ Windshield wiper operating speed 
+ 166 KIAS"
+Datum,"The aircraft reference zero datum point is located 375.39 in. forward of the fuselage frame 
+ 23, 98.425 in. under the fuselage centerline and the aircraft buttock line."
+Leveling Means,"Plumb line in rear open and latched baggage door. 
+ Weight and Center of Gravity Limits: The following weight and center of gravity limits apply to the Mod 00 airplane only. 
+ WEIGHT 
+ CENTER OF GRAVITY LIMITS 
+ Forward Limit 
+ Rear Limit 
+ Flight 
+ Takeoff/ 
+ Landing 
+ MAC 
+ MAC 
+ MAC 
+ ARM 
+ ARM 
+ ARM"
+MIN FLIGHT WEIGHT,"9,600 kg 
+ 14.0 % 
+ 16.0 % 
+ 21,164 lb 
+ 9.663 m 
+ 9.704 m 
+ 380.44 in 
+ 382.04 in"
+up to WEIGHT,"11,000 kg 
+ 14.0 % 
+ 24,251 lb 
+ 9.663 m 
+ 380.44 in"
+up to WEIGHT,"10712 kg 
+ 16.0 % 
+ 23616 lb 
+ 9.704 m 
+ 382.04 in 
+ connected by line up to MAX. 
+ 12,260 kg 
+ 16.4 % 
+ 19.5 % 
+ 40.0 %"
+ZERO FUEL WEIGHT,"27,029 lb 
+ 9.711 m 
+ 9.776 m 
+ 10.193 m 
+ 382.34 in 
+ 384.87 in 
+ 401.29 in 
+ connected by line up to MAX 
+ 13,230 kg 
+ 17.9 % 
+ 21.3 %"
+LANDING WEIGHT,"29,167 lb 
+ 9.742 m 
+ 9.812 m 
+ 383.55 in 
+ 386.31 in 
+ connected by line up to MAX. 
+ 13,640 kg 
+ 18.5 % 
+ 22.0 %"
+TAKEOFF WEIGHT,"30,071 lb 
+ 9.754 m 
+ 9.826 m 
+ 384.01 in 
+ 386.85 in 
+ connected by line up to MAX. 
+ 13,720 kg 
+ 22.1 %"
+RAMP WEIGHT,"30,247 lb 
+ 9.829 m 
+ 386.96 in"
+Note 1,"The limits are valid for the allowable flap positions corresponding to the flight speeds for takeoff, climb, cruise, 
+ approach, and landing. The envelope may be limited for operational conditions due to ""In-Flight Movement."" 
+ Note that takeoff and landing have different limits than the flight limits."
+Note 2,"0% MAC is located 369.213 in. from the datum line. 
+ 100% MAC is located 80.197 in. from 0% MAC. 
+ Weight and Center of Gravity Limits: The following weight and center of gravity limits apply to the Mod 10 and Mod 20 
+ airplanes. 
+ WEIGHT 
+ CENTER OF GRAVITY LIMITS 
+ Forward Limit 
+ Rear Limit 
+ Flight 
+ Takeoff & 
+ Takeoff & 
+ Flight 
+ Landing 
+ Landing 
+ MAC 
+ MAC 
+ MAC 
+ MAC 
+ ARM 
+ ARM 
+ ARM 
+ ARM"
+MIN FLIGHT WEIGHT,"9,400 kg 
+ 14.0 % 
+ 16.0 % 
+ 20,724 lb 
+ 9.663 m 
+ 9.704 m 
+ 380.44 in 
+ 382.04 in"
+up to WEIGHT,"10,712 kg 
+ 23,616 lb 
+ 16.0 % 
+ 14.0 % 
+ 9.704 m 
+ 9.663 m 
+ 382.04 in 
+ 380.44 in"
+up to WEIGHT,"11,000 kg 
+ 24,251 lb 
+ 40.0 % 
+ 44.0 % 
+ connected by line up to MAX. 
+ 12,610 kg 
+ 16.9 % 
+ 20.2 %"
+ZERO FUEL WEIGHT,"27,800 lb 
+ 9.723 m 
+ 9.790 m 
+ 10.193 m 
+ 10.274 m 
+ 382.80 in 
+ 385.42 in 
+ 401.29 in 
+ 404.50 in 
+ connected by line up to MAX 
+ 13,230 kg 
+ 17.9 % 
+ 21.3 %"
+LANDING WEIGHT,"29,167 lb 
+ 9.742 m 
+ 9.812 m 
+ 383.55 in 
+ 386.31 in 
+ connected by line up to MAX. 
+ 13,990 kg 
+ 18.9 % 
+ 22.5 %"
+TAKEOFF WEIGHT,"30,843 lb 
+ 9.763 m 
+ 9.837 m 
+ 384.39 in 
+ 387.30 in 
+ connected by line up to MAX. 
+ 14,070 kg 
+ 22.7 %"
+RAMP WEIGHT,"31,019 lb 
+ 9.840 m 
+ 387.39 in"
+Note 1,"The limits are valid for the allowable flap positions corresponding to the flight speeds for takeoff, climb, cruise, 
+ approach, and landing. The envelope may be limited for operational conditions due to ""In-Flight Movement."" 
+ Note that takeoff and landing have different limits than the flight limits."
+Note 2,"0% MAC is located 369.213 in from the datum line. 
+ 100% MAC is located 80.197 in. from 0% MAC."
+Minimum Crew,2 - Pilot and copilot
+Maximum Passengers,"33 
+ Front row passenger seats must be equipped with integral three-point safety 
+ harnesses (reference change notice CN-00281, dated February 21, 1995)"
+Type of Baggage Compartment,"Class ""D"" Compartment"
+Maximum Baggage,"Total of 1653 lbs (750 kg) in the rear baggage compartment 
+ - 882 lbs (400 kg) in the forward part 
+ - 771 lbs (350 kg) in the aft part 
+ - max. floor loading = 75 lb/ft2"
+Fuel Capacity,"7531 lbs usable (gravity refueled) 
+ 7300 lbs usable (pressure refueled)"
+Oil Capacity,"Oil capacity per Engine (incl. Propeller Oil System) 
+ TOTAL 
+ MIN to MAX 
+ TOTAL 
+ OIL TANK 
+ ON SIGHT GLASS 
+ OIL SYSTEM 
+ US Gallons 
+ 4.70 
+ 0.75 
+ 5.60 
+ Liters 
+ 17.70 
+ 2.84 
+ 21.00"
+Maximum Operating,"Altitude 31,000 ft."
+Control Surface Movements,"Wing Flaps 
+ 12° and 20° (Mod 00) 
+ Wing Flaps 
+ 12°, 20°, and 32° (Mod 10, 20) 
+ Ailerons 
+ 30° up (+1°), 25° down (+1°) 
+ Elevator 
+ 30° up (-2°), 25° down (-1°) 
+ Stabilizer 
+ Fixed 
+ Rudder 
+ 18°right, 16° left (Mod 00) 
+ Rudder 
+ 24° right (+1°), 20° left (-1°) (Mod 10,20)"
+Serial Numbers,"Mod 00: 3006 through 3030. All former Mod 00 airplanes are modified to Mod 10 
+ in accordance with Service Bulletin SB 328-00-053 
+ Mod 10: Production aircraft manufactured to the Mod 10 configuration begin at 
+ serial number 3031 and subsequent. Previous serial number aircraft are eligible to 
+ operate to the Mod 10 specifications if service bulletin SB328-00-053 is installed. 
+ Mod 20: Mod 20 aircraft are produced by incorporation of Service Bulletin SB 
+ 328-00-175. 
+ The following serial numbers are declared Non-TC compliant aircraft and 
+ excluded from the TCDS due to production details and known non-conformities: 
+ Former test article aircraft S/No’s.: 3001, 3002, 3003, and 3004."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on an Export Certificate 
+ of Airworthiness (Export C of A) signed by a representative of the LBA on behalf 
+ of the European Community. 
+ The Export C of A should contain the following statement: ‘The aircraft 
+ covered by this certificate has been examined, tested, and found to conform 
+ with the Type Design approved under U.S. Type Certificate No. A45NM and 
+ to be in a condition for safe operation.’ 
+ The U.S. airworthiness certification basis for aircraft type certificated under 14 
+ CFR part 21, section 21.29, exported by country of manufacture is section 
+ 21.183(c) or 21.185(c). 
+ The U.S. airworthiness certification basis for aircraft type certificated under 
+ section 21.29 exported from countries other than the country of manufacture (e.g., 
+ third party country) is section 21.183(d) or 21.185(b)."
+Certification Basis,"Mod 00: FAR Part 25 Effective February 1, 1965, including Amendments 25-1 
+ through 25-61, plus Amendments 25-62, -63, and –64, which were requested to be 
+ added to the Certification Basis by Dornier, with the exception of Sections 
+ 25.21(b) and 25.205 (removed from Part 25 by Amendment 25-72). In addition, 
+ the following paragraphs apply: 
+ Section 25.571(e)(3) as amended by Amendment 25-72, effective 
+ August 20, 1990, and Section 25.905(d), as amended by Amendment 
+ 25-72. 
+ Section 25.729(e)(2) as amended by Amendment 25-75, effective 
+ November 26, 1991. 
+ Section 25.365 as amended by Amendment 25-71, effective April 
+ 10, 1990. 
+ FAA Special Condition 25-ANM-76 dated August 31, 1993 (Lightning and 
+ HIRF). 
+ FAA Grant Of exemption No. 5785 regarding Section 25.161(d), granted 
+ November 5, 1993. 
+ Equivalent Level of Safety Finding for flight crew top hatch emergency exit 
+ markings (FAR 25.811(f)) 
+ Dornier elected to comply with the following optional requirement: Section 
+ 25.1419 for icing. 
+ FAR Part 36 effective December 1, 1969, including Amendments 36-1 through 
+ 36-20. 
+ FAR Part 34 effective September 10, 1990. SFAR 27-5 has been recodified 
+ as FAR Part 34, which is intended to continue the enforcement of 40 CFR 
+ Part 87 and make Part 34 a permanent part in the FAR's. 
+ Mod 10, Mod 20: The certification basis for the Mod 10 and Mod 20 
+ airplanes is the same as for the basic Mod 00 airplane. 
+ All Variants 
+ Based on 14 CFR section 21.29(a) for new import TCs, or section 21.101(g) for 
+ changes to TCs, applicable provisions of 14 CFR Part 26 are included in the 
+ certification basis. For any future 14 CFR Part 26 amendments, the holder of this 
+ TC must demonstrate compliance with the applicable sections. 
+ The Luftfahrt-Bundesamt (LBA) originally type certificated this aircraft under its 
+ type certificate Number 2534. The FAA validated this product under U.S. Type 
+ Certificate number A45NM. Effective September 28, 2003, the European 
+ Aviation Safety Agency (EASA) began oversight of this product on behalf of the 
+ Federal Republic of Germany."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see the Certification Basis) must be installed in the aircraft for 
+ certification. 
+ Equipment approved for the Model Dornier 328-100 is listed in Document No. 
+ TD-34000, Equipment Register Document."
+Airplane Flight Manual,Refer to AM-AFM-050893-ENV.
+Service Information,"Each of the documents listed below that contain a statement that it is approved by 
+ the European Aviation Safety Agency (EASA) – or for approvals made before 
+ September 28, 2003 – by the LBA, are accepted by the FAA and are considered 
+ FAA approved. Additionally, the type certificate holder has contracted with 328 
+ Design GmbH (328DO) as the EASA approved DOA holder. Approvals issued 
+ by 328DO or by the TC holder under the authority of EASA approved design 
+ organization EASA.21J.438 – or for approvals made prior to September 28, 2003 
+ – by the TC holder under the authority of LBA approved design organization 
+ LBA.JA.002, are considered FAA approved. These approvals pertain to the 
+ design data only. 
+  
+ TC holder Service Bulletins, except as noted below, 
+  
+ Structural repair manuals 
+  
+ Vendor manuals referenced in TC holder Service Bulletins 
+  
+ Airplane flight manuals 
+  
+ Repair instructions. 
+ Note: Design changes that are contained in TC holder Service Bulletins and that 
+ are classified as Level 1 Major in accordance with the FAA/EASA agreed 
+ Technical Implementation Procedures for Airworthiness and Environmental 
+ Certification (TIP latest Revision), must be approved by the FAA."
+NOTE 1,"Current weight and balance report including a list of equipment included in 
+ certificated empty weight, and loading instructions when necessary must be 
+ provided for each aircraft at its delivery. 
+ For further information see Weight & Balance Manual TM-WBM-190793- 
+ ALL"
+NOTE 2,"Airworthiness Limitations including structural inspections and retirement times 
+ for safe-life parts are listed in Dornier Airworthiness Limitations Document TM- 
+ ALD-010693-ALL."
+NOTE 3,"Certification Maintenance Requirements (CMR) are listed in Document TM- 
+ CMR-010793-ALL."
+NOTE 4,"Compliance with the optional ditching requirements of FAR 25.801, FAR 
+ 25.1411, and FAR 25.1415 has not been shown."

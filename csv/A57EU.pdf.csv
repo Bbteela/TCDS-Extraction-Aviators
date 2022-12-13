@@ -1,0 +1,539 @@
+Keyterm,Info
+"A57EU 
+ Revision 16 
+ GROB Aircraft SE 
+ G 115 
+ G 115A 
+ G 115B 
+ G 115C 
+ G 115C2 
+ G 115D 
+ G 115D2 
+ G 115EG 
+ July 19, 2021",
+Type Certificate Holder,"GROB Aircraft SE 
+ Lettenbachstrasse 9 
+ 86874 Tussenhausen-Mattsies 
+ Germany"
+Type Certificate Ownership Record,"Grob Werke GmbH & Co. KG Unternehmensbereich Burkhart Grob Fleugzeugbau 
+ transferred TC A57EU to BURKHART GROB Luft- und Raumfahrt GmbH & Co. 
+ KG on November, 1989. 
+ BURKHART GROB Luft- und Raumfahrt GmbH & Co. KG transferred TC A57EU 
+ to GROB Aerospace GmbH on December, 2006. 
+ GROB Aerospace GmbH transferred TC A57EU to GROB Aerospace GmbH i.l. on 
+ August, 2008. 
+ GROB Aerospace GmbH i.l. transferred TC A57EU to GROB Aircraft AG on 
+ February, 2009. 
+ GROB Aircraft AG transferred TC A57EU to GROB Aircraft SE on September 01, 
+ 2017."
+"I. 
+ Model G 115 (Normal and Utility Category), approved December 21, 1988. 
+ Model G 115A (Normal and Utility Category), approved December 06, 1990. 
+ Model G 115B (Normal and Utility Category), approved July 19, 1993. 
+ Model G 115C (Utility Category), approved August 13, 1993. 
+ Model G 115C (Utility and Acrobatic Category), approved February 8, 1996. 
+ Model G 115C2 (Utility Category), approved September 14, 1994 
+ Model G 115D (Utility and Acrobatic Category), approved October 28, 1993 
+ Model G 115D2 (Utility and Acrobatic Category), approved September 14, 1994 
+ Model G 115EG (Acrobatic Category), approved February 6, 2001",
+Engine,"Avco Lycoming O-235-H2C (G 115 and G 115A) 
+ Avco Lycoming O-320-D1A or -D2A or -D3G (G 115B) 
+ Avco Lycoming O-320-D1A (G 115C) 
+ Avco Lycoming O-360-A1F6 (G 115C2) 
+ Avco Lycoming AEIO-360-B1F (G 115D) 
+ Avco Lycoming AEIO-320-D1B (G 115D2) 
+ Avco Lycoming AEIO-360-B1B (G 115EG)"
+Fuel,AVGAS 100 or 100 LL.
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+Rev No,"16 
+ 10 
+ 10 
+ 10 
+ 16 
+ 15 
+ 15"
+Engine Limits,"G 115,G 115A(O-235): 
+ G 115B,G 115C, G 115D2, (O-320, AEIO-320): 
+ Max. power 
+ 115 HP (85.8 KW) 
+ 160 HP (119.3 KW) 
+ Max. permitted RPM 
+ 2800 RPM 
+ 2700 RPM 
+ Max. continuous power 
+ 112 HP (83.5 KW) 
+ 160 HP (119.3 KW) 
+ Max. continuous RPM 
+ 2700 RPM 
+ 2700 RPM"
+Engine Limits,"G 115D, G 115C2, G 115EG (O-360, AEIO-360): 
+ Max. power 
+ 180 HP (134.2 KW) 
+ Max. permitted RPM 
+ 2700 RPM 
+ Max. continuous power 
+ 180 HP (134.2 KW) 
+ Max. continuous RPM 
+ 2700 RPM 
+ Propeller and Propeller G 115, G 115A 
+ G 115, G 115A 
+ G 115B 
+ G 115C"
+Limits,"Hoffmann 
+ Sensenich 
+ Sensenich 
+ Sensenich 
+ HO 14-175 120 
+ 72 CKS6-2-53 
+ 74 DM6S5-2-64 
+ 74 DM7S14-2-64 
+ or HO 14 HM -175 120"
+Diameter max,"5.74 ft (1.75 m) 
+ 5.84 ft (1.78 m) 
+ 6.00 ft (1.83 m) 
+ 6.00 ft (1.83 m)"
+Pitch at 075 R,"3.94 ft (1.20 m) 
+ 4.43 ft (1.35 m) 
+ 5.35 ft (1.63 m) 
+ 5.35 ft (1.63 m)"
+Propeller RPM Limits 2900,"2800 
+ 2800 
+ 2800"
+Static RPM Limits,"2400 
+ 2350 
+ 2250 
+ 2250"
+Limits,"G 115C2 
+ G 115D 
+ G 115D2 
+ G 115EG 
+ Hartzell 
+ Hoffmann 
+ Hoffmann 
+ MT-Propeller 
+ HC-F2YR-1F/F7666A-3R HO-V 343 K()-V/180 FP HO23CHM-() 188 156 MTV-12-B-C/C- 
+ 183-17e"
+Diameter max,"6.09 ft (1.86 m) 
+ 5.90 ft (1.80 m) 
+ 6.17 ft (1.88 m) 
+ 6.004 ft (1.83 m)"
+Pitch at 75 R,"13° ± 0.2° 
+ 4.43 ft (1.35 m) 
+ 5.12 ft (1.56 m) 
+ 5.36 ft (1.635 m)"
+Propeller RPM Limits 2900,"2700 
+ 2700 
+ 2800"
+Static RPM Limits,"2600 
+ 2550 
+ 2200 
+ 2600"
+Airspeed Limits,"G 115, G 115A 
+ G 115B 
+ G 115C, G 115C2 G 115C* G 115D G 115D2"
+VNE never exceed,"164 kts (303 km/h) 159 kts (295 km/h) 184 kts (341 km/h) 184 kts (341 km/h) 166 kts (308 km/h) 
+ VNO (normal operating) 135 kts (250 km/h) 129 kts (240 km/h) 134 kts (248 km/h) 134 kts (248 km/h) 134 kts (248 km/h)"
+normal aircraft,95 kts (176 km/h) 100 kts (186 km/h)
+utility aircraft,99 kts (184 km/h) 104 kts (192 km/h) 114 kts (212 km/h) 114 kts (212 km/h) 114 kts (212 km/h)
+acrobatic aircraft,128 kts (237 km/h) 128 kts (237 km/h)
+VFE flaps extended,"94 kts (175 km/h) 94 kts (175 km/h) 112 kts (208 km/h) 112 kts (208 km/h) 112 kts (208 km/h) 
+ * G 115C only if used for limited acrobatics according to Service Bulletin 1078-55."
+Airspeed Limits,G115EG
+VNE never exceed,"184 kts (341 km/h) 
+ VNO (normal operating) 150 kts (278 km/h)"
+acrobatic aircraft,130 kts (241 km/h)
+VFE flaps extended,112 kts (208 km/h)
+CG Range,"G 115, G 115A 
+ G 115B 
+ G 115C, G 115C2 
+ G 115C*, G 115D,"
+Most Forward CG,"(Between the given values linear change) 
+ G 115D2"
+Normal aircraft,"8.70 in (221 mm) 
+ 10.04 in (255 mm) 
+ aft of datum at 
+ aft of datum at 
+ 1874.0 lbs (850 kg) 
+ 2028.2 lbs (920 kg) 
+ 7.83 in (199 mm) 
+ 7.83 in (199 mm) 
+ aft of datum at 
+ aft of datum at 
+ 1818.8 lbs (825 kg) 
+ 1851.4 lbs (840 kg) 
+ or less 
+ or less"
+Utility aircraft,"7.83 in (199 mm) 
+ 10.04 in (255 mm) 
+ 8.94 in (227 mm) 
+ 8.94 in (227 mm) 
+ aft of datum 
+ aft of datum 
+ aft of datum at 
+ aft of datum at 
+ at 1873.9 lbs (850 kg) 
+ 2182 lbs (990 kg) 
+ 2182 lbs (990 kg) 
+ 7.83 in (199 mm) 
+ 7.76 in (197 mm) 
+ 7.76 in (197 mm) 
+ aft of datum at 
+ aft of datum at 
+ aft of datum at 
+ 1763.7 lbs (800 kg) 
+ 1653 lbs (750 kg) 
+ 1653 lbs (750 kg) 
+ or less"
+Acrobatic aircraft,"8.62 in (219 mm) 
+ aft of datum at 
+ 2028 lbs (920 kg) 
+ 7.76 in (197 mm) 
+ aft of datum at 
+ 1653 lbs (750 kg)"
+CG Range,G 115EG
+Most Forward CG,(Between the given values linear change)
+Acrobatic aircraft,"8.46 in (215 mm) 
+ aft of datum at 
+ 2183.0 lbs (990 kg) 
+ 7.76 in (197 mm) 
+ aft of datum at 
+ 1653 lbs (750 kg) 
+ or less"
+Most rearward CG,"G 115, G 115A 
+ G 115B 
+ G 115C, G 115C2 
+ G 115C*, G 115D, 
+ G 115D2"
+Normal aircraft,"11.72 in (298 mm) 
+ 11.72 in (298 mm) 
+ aft of datum 
+ aft of datum"
+Utility aircraft,"11.72 in (298 mm) 
+ 11.72 in (298 mm) 
+ 11.72 in (298 mm) 
+ 11.72 in (298 mm) 
+ aft of datum 
+ aft of datum 
+ aft of datum at 
+ aft of datum at 
+ 2182 lbs (990 kg) 
+ 2182 lbs (990 kg) 
+ 11.34 in (288 mm) 
+ 11.34 in (288 mm) 
+ aft of datum at 
+ aft of datum at 
+ 1653 lbs (750 kg) 
+ 1653 lbs (750 kg)"
+Acrobatic aircraft,"11.61 in (295 mm) 
+ aft of datum at 
+ 2028 lbs (920 kg) 
+ 11.34 in (288 mm) 
+ aft of datum at 
+ 1653 lbs (750 kg)"
+Acrobatic aircraft,"11.73 in (298 mm) 
+ aft of datum at 
+ 2183 lbs (990 kg) 
+ 11.48 in (292 mm) 
+ aft of datum at 
+ 1653 lbs (750 kg)"
+Empty Weight CG,"See Flight Manual (weight and balance, Section 6)"
+Datum,Wing leading edge
+Leveling Means,Canopy sill
+Maximum Weight G 115G 115A,"G 115B 
+ G 115C, G 115C2 
+ G 115C*, G 115D, 
+ G 115EG 
+ G 115D2"
+Normal aircraft,1873.9 lbs (850 kg) 2028.2 lbs (920 kg)
+Utility aircraft,1763.7 lbs (800 kg) 1873.9 lbs (850 kg) 2182.6 lbs (990 kg) 2182.6 lbs (990 kg)
+Acrobatic aircraft,2028.2 lbs (920 kg) 2183 lbs (990 kg)
+Minimum Crew,1 pilot
+Number of Seats,2 (side by side) 9.84 in (250 mm) aft of datum
+Maximum Baggage,"44.1 lbs (20 kg) 35.43 in (900 mm) aft of datum 
+ (for G115, G115A, G115B) 
+ 121 lbs (55 kg) 38.98 in (990 mm) aft of datum 
+ (for G115C, G115C2, G115D, G115D2, G115EG)"
+Fuel Capacity,"G 115,G 115A: 
+ G 115B: 
+ G 115C, G 115C2, 
+ G 115D, G 115D2, 
+ G 115EG: 
+ 26.42 U.S. gal (100 l) 
+ 29.59 U.S. gal (112 l) 
+ 39.63 U.S. gal (150 l) 
+ 35.04 in (890 mm) 
+ 35.04 in (890 mm) 
+ 13.19 in (335 mm) 
+ aft of datum 
+ aft of datum 
+ aft of datum"
+Usable,"24.23 U.S. gal (91.7 l) 
+ 28.27 U.S. gal (107 l) 
+ 37.77 U.S. gal (143 l)"
+Oil Capacity,"G 115, G 115A: 
+ G 115B: 
+ G 115C, G 115C2, 
+ G 115EG: 
+ G 115D, G 115D2, 
+ G 115EG: 
+ 6 quarts (5.7 l) 
+ 8 quarts (7.6 l) 
+ 8 quarts (7.6 l) 
+ 8 quarts (7.6 l) 
+ 52.36 in (1330 mm) 
+ 52.36 in (1330 mm) 
+ 52.36 in (1330 mm) 
+ 50.79 in (1290 mm) 
+ fwd of datum 
+ fwd of datum 
+ fwd of datum 
+ fwd of datum 
+ G 115 
+ G 115A 
+ G 115B 
+ G 115C, G 115C2 
+ G 115EG 
+ G 115D, G 115D2 
+ (in) (mm) 
+ (in) (mm) 
+ (in) (mm) 
+ (in) 
+ (mm) 
+ (in) 
+ (mm)"
+Flaps,"UP 
+ 0 0 
+ 0 0 
+ 0 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ DOWN 
+ 6.97± 0.35 177± 9 
+ 6.97±0.35 177±9 
+ 6.97±0.35 177±9 
+ 9.96+0. 2 
+ 253 +5 
+ 10.11 
+ 257 +0 
+ -0.39 
+ -10 
+ -0.39 
+ -10"
+Aileron,"UP 
+ 2.76±0.28 70±7 
+ 2.76±0.28 70±7 
+ 2.76±0.20 70±5 
+ 2.83±0.12 
+ 72±3 
+ 2.99±0.12 
+ 76±3 
+ DOWN 
+ 1.42±0.28 36±7 
+ 1.42±0.28 36±7 
+ 2.36±0.20 60±5 
+ 2.56±0.12 
+ 65±3 
+ 2.79±0.12 
+ 71±3"
+Aileron,"UP 
+ 3.54±0.12 90±3 
+ if installed, same"
+servo,"(aileron on 
+ movements as 
+ stop) 
+ G 115"
+8008,"DOWN 
+ 1.54±0.12 39±3"
+through,(aileron on
+8031,stop)
+Elevator,"UP 
+ 3.46±0.28 88±7 
+ 3.46±0.28 88±7 
+ 3.46±0.28 88±7 
+ 6.69±0.20 
+ 170±5 
+ 7.0±0.20 
+ 178±5 
+ DOWN 
+ 2.80±0.28 71±7 
+ 2.52±0.20 64±5 
+ 2.52±0.20 64±5 
+ 3.94±0.20 
+ 100±5 
+ 4.13±0.20 
+ 105±5"
+Trim tab,"UP 
+ 1.14±0.08 29±2 
+ 1.14±0.08 29±2 
+ 1.14±0.08 29±2 
+ 1.69±0.12 
+ 43±3 
+ 0.6±0.08 
+ 15±2"
+elevator,"DOWN 
+ 2.01±0.08 51±2 
+ 2.01±0.08 51±2 
+ 2.01±0.08 51±2 
+ 2.36±0.12 
+ 60±3 
+ 2.36±0.12 
+ 65±3"
+Rudder,"LH 
+ 11.42±0.79 290±20 
+ 11.42±0.39 290±10 
+ 11.42±0.39 290±10 10.28±0.20 261±5 
+ 10.83 +0 
+ 275±10"
+up to SN,-0.39
+8065,"RH 
+ 11.42±0.79 290±20 
+ 11.42±0.39 290±10 
+ 11.42±0.39 290±10 10.28±0.20 261±5"
+as of SN,"LH 
+ 11.06±0.75 281±19"
+replacement RH,11.06±0.75 281±19
+Serial Nos Eligible,"Model G 115 
+ Serial No. 8008 through 8088 
+ Model G 115A 
+ Serial No. 8090 through 8109 
+ Serial No. 8008 through 8109 must be modified according to GROB Service 
+ Bulletin TM 1078-5 ""Special equipment of GROB G 115 for the export to the 
+ USA"". 
+ Model G 115B is formed by modification of Serial No. 8008 through 8088 and 8090 
+ through 8109 according to GROB Service Bulletin TM 1078-27/2 ""Modification 
+ of the G 115/G 115A to the G 115B standard"". 
+ Model G 115C as of Serial No. 82001/C. 
+ Model G 115C2 as of Serial No. 82015/C2. 
+ Model G 115D as of Serial No. 82003/D. 
+ Model G 115D2 as of Serial No.82002/D2. 
+ Model G 115EG as of Serial No. 82200."
+Import Requirements,"The FAA can issue a U.S. Standard Airworthiness Certificate based on an Export 
+ Certificate of Airworthiness (Export C of A) signed by a representative of the 
+ German civil airworthiness authority, the Luftfahrt Bundesamt (LBA), on behalf of 
+ the European Community. The Export C of A should contain the following 
+ statement: ‘The aircraft covered by this certificate has been examined, tested, and 
+ found to comply with U.S. airworthiness regulations 14 CFR Part 23 approved under 
+ U.S. Type Certificate No. A57EU and to be in a condition for safe operation.’ 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the 
+ United States of both new and used aircraft based on the scope of the agreement, to 
+ identify any required statements by the exporting authority on the export certificate of 
+ airworthiness (or equivalent document), and for procedures for coordinating 
+ exceptions to conformity statements on these documents. Refer to FAA Order 
+ 8130.2, Airworthiness Certification of Aircraft, for requirements for issuance of an 
+ airworthiness certificate for imported aircraft."
+Certification Basis,"1) 
+ 14 CFR Sections 21.29, 21.183(c) and 14 CFR 23, effective February 1, 1965, 
+ including Amendments 23-1 through 23-32, and 
+ 2) 
+ 14 CFR Section 36, effective November 18, 1969, including Amendments 36-1 
+ through amendment in effect at the time of U.S. Type Certification, and 
+ 3) 
+ Special Conditions; GROB Model G 115 - Series Airplanes, published in 
+ Federal Register 53FR39448, and 
+ 4) 
+ Section 611(b) of the FAA Act of 1958 
+ The LBA originally type certificated this aircraft under its Type Certificate No. 1078. 
+ The FAA validated this product under U.S. Type Certificate No. A57EU. Effective 
+ September 28, 2003, the European Aviation Safety Agency (EASA) began oversight 
+ of this product on behalf of Germany. 
+ The EASA type certificate for the G115 series models is EASA.A.364."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the airplane for certification."
+Service Information,"Service bulletins, aircraft flight manuals, maintenance and overhaul manuals, 
+ structural repair manuals, and vendor manuals which contain a statement that the 
+ document is approved by the EASA, are accepted by the FAA and are considered 
+ FAA approved. (These approvals pertain to the design data only.)"
+Note 1,"Current weight and balance data together with a list of equipment included in the certificated empty 
+ weight, and loading instructions, when necessary, must be provided for each powered aircraft at the time 
+ of original certification. The certificated empty weight and corresponding center of gravity locations 
+ must include the following: 
+ a) 
+ unusable fuel of 13.18 lbs (G 115, G 115A), 7.94 lbs (G 115B) at 35.04 in aft of datum, 11.10 
+ lbs (G 115C, G 115C2, G115D, G 115D2, G 115EG) at 13.19 in aft of datum. 
+ b) 
+ engine oil of 11.18 lbs (G 115, G 115A) respectively 14.91 lbs (G 115B, G 115C, G 115C2, G 
+ 115D, G 115D2) at 52.36 in and 50.79 in (G 115EG) fwd of datum."
+Note 2,"The placards listed in Section 2 of the LBA-approved Airplane Flight Manual GROB G 115, G 115B, G 
+ 115C, G 115C2, G 115D, G 115D2, G 115EG must be displayed. See Note 9."
+Note 3,"Service Life Limited components airframe: 
+ 12,000 flight hours for G 115, G 115A, G 115B, G 115C, G 115C2; extended to 22,900 flight 
+ hours if inspected in accordance with AMM chapter 05-41 (see also Service Bulletin 
+ MSB1078-161) 
+ 4,000 flight hours for the G 115D, G 115D2 and for the G 115C if certified for limited acrobatics in 
+ accordance with Service Bulletin 1078-55. This Service Life Limit can be extended to 12,000 flight 
+ hours, if an inspection in accordance with Service Bulletin OSB1078-105 is performed before 
+ reaching 4,000 flight hours. 
+ Every 3000 flight hours for the G 115, G 115A, G 115B, G 115C, G 115C2 a scheduled inspection 
+ must be performed in accordance with the Maintenance Manual. 
+ After 2,000, 6,000, 8,000 and 10,000 flight hours for the G 115D, G 115D2 and for the G 115C if 
+ certified for limited acrobatics in accordance with Service Bulletin 1078-55, a scheduled inspection 
+ must be performed in accordance with the Maintenance Manual, including a fuel tank pressure test 
+ after 8,000 flight hours. 
+ 24,000 flight hours for G 115EG."
+Note 4,"Changes to the factory delivered paint schemes have to be coordinated with the TC Holder or the FAA's 
+ Certificate Management Office responsible for this type certificate."
+Note 5,"Major structural repairs must be accomplished by a properly certificated mechanic in accordance with 
+ data approved by the FAA."
+Note 6,"All G 115 models are approved for VFR day and night. 
+ G 115C, G 115C2, G 115D and G 115D2 models are approved for IFR when equipped with Service 
+ Bulletin 1078-50 and the associated Airplane Flight Manual Supplement as shown in Service Bulletin 
+ 1078-50 or later (LBA) approved AFM Supplement Revision."
+Note 7,"Only G 115, G 115A, G 115B: 
+ Normal Category: 
+ Acrobatic maneuvers inclusive spins are not approved. 
+ Utility Category: 
+ Spins with equipment according to Service Bulletin TM 1078-9/2 and with 
+ flap setting 0° are approved. Spins without wheel fairings are not 
+ approved. 
+ Control Surface Movements (restricted): 
+ (in) 
+ (mm) 
+ Elevator 
+ Down 
+ 2.52±0.20 
+ 64 ±5 
+ Rudder 
+ LH 
+ 11.42±0.39 
+ 290±10 
+ RH 
+ 11.42±0.39 
+ 290±10"
+Note 8,"Airplanes of the model G 115C may be operated in the acrobatic category for limited acrobatics after 
+ embodiment of Service Bulletin 1078-55. The equipment required by Service Bulletin 1078-55 may be 
+ installed already complete or partly by the manufacturer. So modified airplanes are marked with the 
+ suffix “/C1” to the S/N and the sales designation is “G 115C1 ACRO”. The G 115C must be operated in 
+ the acrobatic category according to Supplement 2 to the Airplane Flight Manual G 115C, LBA approved."
+Note 9,"In addition to all other requirements of this type certificate data sheet, G 115EG airplanes must 
+ additionally have the following instruments marked in US units: 
+ 1) 
+ EGT and OAT indicator in degrees centigrade (or Fahrenheit). 
+ 2) 
+ Manifold pressure in inches of mercury pressure, fuel flow indicator in gallons. 
+ 3) 
+ Fuel quantity in gallons. 
+ 4) 
+ Oil temperature and pressure in degrees centigrade (or Fahrenheit) and in pounds per square 
+ inch, (psi). 
+ 5) 
+ Fuel pressure and cylinder head temperature, in psi and degrees centigrade (or Fahrenheit). 
+ The following placards must be shown in US units: 
+ 1) 
+ Limitations must be in US units, weight in pounds. 
+ 2) 
+ Fuel Filler Cap, gallons. 
+ 3) 
+ Fuel Tank Selector, consistent with fuel quantity indicator. 
+ 4) 
+ Fuel Flow, gallons per hour. 
+ 5) 
+ Manifold Pressure, inches of mercury 
+ Procedures and methods for accomplishing this remarking should be obtained from the manufacturer."

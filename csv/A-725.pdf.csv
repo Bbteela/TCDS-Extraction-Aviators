@@ -1,0 +1,709 @@
+Keyterm,Info
+"A-725 
+ Revision 4 
+ FS 2001 Corp. 
+ J5A (Army L-4F) 
+ J5A-80 
+ J5B (Army L-4G) 
+ J5C 
+ AE-1 
+ HE-1 
+ March 30, 2001",
+Type Certificate Holder,"FS 2001 Corp 
+ 709 Dupont Street, P. O. Box 1678 
+ Bellingham, WA 98227-1678. 
+ The New Piper Aircraft, Inc. 
+ 2926 Piper Drive 
+ Vero Beach, FL 32960 
+ TC 725 transferred 9-25-00, reissued 3-30-01"
+"I - Model J5A (Army L-4F), 3 PCLM, Approved April 13, 1940; Model J5A-80, 3 PCLM, Approved July 31, 1942 
+ and Model J5B (Army L-4G), 3 PCLM, Approved June 17, 1940. 
+ The three models are all similar except for engine installation.",
+Engine,"J5A: 
+ Continental A-75-8 
+ J5A-80: 
+ Continental A-80-8 
+ J5B: 
+ Lycoming GO-145-C2 
+ See Item 307 for optional engines."
+Fuel,"J5A and J5B: 
+ 73 min. octane aviation gasoline 
+ J5A-80: 
+ 80 min. octane aviation gasoline"
+Engine Limits,"J5A: 
+ For all operations, 2600 rpm (75 hp.) 
+ J5A-80: 
+ For all operations, 2700 rpm (80 hp.) 
+ J5B: 
+ For all operations, 3200 rpm (75 hp.)"
+Airspeed Limits,"Level flight or climb 104 mph True Ind. 
+ Glide or dive 
+ 140 mph True Ind."
+Propeller Limits,"Static rpm at full throttle and diameter, respectively:"
+with Item 101 or 107,"J5A: 
+ Not over 2525, not under 2300 
+ Not over 82 inches, not under 68 inches 
+ J5A-80: Not over 2550, not under 2300 
+ Not over 70 inches, not under 68 inches 
+ J5B: 
+ Not over 3200, not under 2750 
+ Not over 83 inches, not under 74 inches 
+ No additional tolerance on rpm permitted."
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10"
+4,"2 
+ 4 
+ 3 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2"
+C G Range,"(+12.2) 
+ to 
+ (+21.0) 
+ or 
+ (+9.6) 
+ to 
+ (+21.0) 
+ when elevator bungee per Piper Dwg. C-40 is installed."
+Empty Weight C G Range,"(+14.0) 
+ to 
+ (+17.4) 
+ for Serial Nos. 5-2 to 5-783 
+ (+15.7) 
+ to 
+ (+19.2) 
+ for Serial Nos. 5-784 and up 
+ Ranges are not valid for non-standard arrangements except that they may be used when 
+ auxiliary fuel tank Item 316 is installed. When empty weight C. G. falls within the 
+ pertinent range, computation of critical fore and aft C. G. positions is unnecessary."
+Datum,Wing leading edge
+Leveling Means,Chord line at wing root rib - zero incidence when level.
+Maximum Weight,1450 lbs.
+Number of Seats,"3 
+ (one at +6 and two at +34)"
+Maximum Baggage,"41 lbs. 
+ (+566) 
+ When Serial Nos. 5-2 to 5-783 are flown solo from rear seat, 
+ maximum baggage is 20 lbs."
+Fuel Capacity,"Serials 5-2 to 5-783: 
+ 19 gallons 
+ Wing tank, 18 gallons at +23 and 
+ Header tank, 1 gallon at -21. 
+ Serials 5-784 and up: 
+ 25 gallons 
+ Wing tank, 18 gallons at +23 and 
+ Header tank, 7 gallons at -15.5."
+Oil Capacity,"Serials 5-2 to 5-783: 
+ 4 quarts (-36). 
+ Serials 5-784 and up: 
+ 5 quarts (-36)."
+Control Surface,"Elevators 
+ 30° 
+ Up 
+ 30° 
+ Down"
+Movements,"Ailerons 
+ 31° 
+ Up 
+ 25° 
+ Down 
+ Rudder 
+ 30 
+ Right 
+ 30° 
+ Left 
+ Stabilizer 
+ 1°47' Up 
+ 4° 57' Down"
+Serial Numbers Eligible,5-2 and up
+Required Equipment,"J5A: 
+ Items 101, 102, 103 and 104 
+ J5A-80: Items 101, 102, 103, 104 and 106. 
+ J5B: 
+ Items 101, 102, 103, 104 and 105."
+"II - Model J5C, 3 PCL-SM, Approved December 21, 1942 and Model AE-1 or HE-1, 2 PCL-SM Approved 
+ December 21 1942 
+ Model J5C same as model J5A except for redesigned landing gear and engine installation. Model AE-1, identical to Model 
+ HE-1, is same as model J5C except for the removal of rear seat and baggage compartment, the addition of several fuselage",
+Engine,Lycoming 0-235 (See Item 307 for optional engine.)
+Fuel,73 min. octane grade aviation gasoline
+Engine Limits,"For all operations, 2550 rpm (100 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 110 mph 
+ True Ind. 
+ Glide or dive 
+ 140 mph 
+ True Ind."
+Propeller Limits,Static rpm at full throttle:
+with Item 101 or 107,"Landplane: Not over 2450, not under 2050. 
+ Seaplane: 
+ Not over 2450, not under 2290. 
+ No additional tolerance permitted. 
+ Diameter: 
+ Not over 74 in., not under 72 in."
+CG Range,"Landplane: 
+ J5C (+9.0) to (+18.6) 
+ AE-1, HE-1 (+10.9) to (+20.5) 
+ Seaplane: 
+ (+11.3) to (+18.2) 
+ Landplane: 
+ J5C (+10.2) to (+14.3) 
+ AE-1, HE-1 (+12.3) to (+17.7) 
+ Seaplane: 
+ J5C (+13.1) to (+13.5) 
+ AE-1, HE-1 (+12.7) to (+14.4) 
+ Ranges are not valid for non-standard arrangements except that they may be used when 
+ auxiliary fuel tank Item 316 is installed. When empty weight C. G. falls within the 
+ pertinent range, computation of critical fore and aft C. G. positions is unnecessary."
+Datum,Wing leading edge
+Leveling Means,"Plumb bob from machine screw at door frame channels near upper rear corner of door to 
+ hole in plate near rear seat."
+Maximum Weight,1550 lbs.
+Number of Seats,"J5C: 
+ 3 (one at +6 and two at +34) 
+ AE-1, HE-1: 2 (one at +6 and one at +59)"
+Maximum Baggage,"J5C: 
+ 41 lbs. (+56) 
+ AE-1, HE-1: None"
+Fuel Capacity,"20 gallons (18 gallon tank in right wing at +23 and 2 gallon header tank in fuselage 
+ at -15.5). See Item 316 for auxiliary tank."
+Oil Capacity,"2 gallons 
+ (-40)"
+Control Surface,"Elevators 
+ 27° 
+ Up 
+ 32° 
+ Down"
+Movements,"Ailerons 
+ 31° 
+ Up 
+ 25° 
+ Down 
+ Rudder 
+ 20° 
+ Right 
+ 20° 
+ Left 
+ Stabilizer 
+ 0.5° 
+ Up 
+ 6° 
+ Down 
+ On AE-1 and HE-1 only: Elevator trim tab: 43° Up (fixed)"
+Serial Numbers Eligible,"J5C: 
+ 5-1309, 5-1388 and up 
+ AE-1, HE-1: 
+ 5-1400 and up"
+Required Equipment,"In addition to the pertinent required basic equipment specified in CAR 4a, the following 
+ items of equipment must be installed: 
+ Items 102, 103, 104 and 107"
+Data Pertinent to All Models,
+Certification Basis,Type Certificate No. 725 (CAR 4a)
+Production Basis,None.
+Export Eligibility,"Deleted as of July 31, 1995"
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item of equipment indicates net weight change when 
+ that item is installed. 
+ Approval for the installation of all items of equipment listed herein has been obtained by the aircraft manufacturer 
+ except those items preceded by an asterisk (*). The asterisk denotes that approval has been obtained by someone 
+ other than the aircraft manufacturer. An item marked with an asterisk may not have been manufactured under an 
+ FAA monitored or approved quality control system, and therefore conformity must be determined if the item is not 
+ identified by a Form FAA-186, PMA or other evidence of FAA production approval. 
+ J5A 
+ AE-1"
+Propellers and Propeller Accessories,"J5A-80 
+ J5B 
+ J5C 
+ HE-1"
+101,"Propeller - wood (fixed or adj pitch) 
+ +12 lbs. 
+ (-54) 
+ (-56) 
+ - - - - 
+ - - - - 
+ - - - -"
+Propeller  wood fixed pitch,"- - - - 
+ - - - - 
+ - - - - 
+ 14 lbs. 
+ (-54) 
+ (-54)"
+1,"+18 lbs. 
+ (-54) 
+ - - - - 
+ - - - - 
+ - - - - 
+ - - - -"
+Low 14 ½° High 19°,(Eligible on J5A with A-75 series
+Propeller  McCauley 1A90,"+9 lbs. 
+ (-54) 
+ - - - - 
+ - - - -- 
+ - - - -- 
+ - - - -"
+Static rpm at max permissible,"throttle setting: 
+ Not over 2440, not under 2340."
+Diameter Not over 70 inches,"not under 68.5 inches. 
+ See Items 307(d), (e) and (g) and 
+ NOTE 3 for other limits when those 
+ engines are installed. 
+ +9 lbs 
+ (-54) 
+ (-56) 
+ - - - - 
+ - - - --"
+"- - - - 
+ b. (Models J5A, J5A-80 and J5B",
+Static rpm at full throttle,"Not over 2200, not under 2100. 
+ No additional tolerance permitted."
+Diameter Not over 73 inches,"not under 71.5 inches. 
+ - - - - 
+ - - - - 
+ - - - -- 
+ +18 lbs. 
+ (-54) 
+ (-54)"
+Parts List Assembly No 4330,"Low pitch setting at 24 in. sta: 11° 
+ Static rpm at max. permissible throttle 
+ setting: Not over 2600, not under 2500."
+Diameter Not over 74 inches,not under 72.5 inches.
+When this Item is installed,installation and flight check must be
+dated May 28 1948,"J5A 
+ AE-1 
+ J5A-80 
+ J5B 
+ J5C 
+ HE-1 
+ +18 lbs. 
+ (-54) 
+ - - - - 
+ - - - -- 
+ - - - - 
+ - - - -"
+R002 with R00220572 blades,Pitch settings at 27 in. station:
+Diameter Not over 72 inches,"not under 70.5 inches. 
+ Eligible on J5A with C-85-12 engine,"
+equivalent must be installed,"- - - - 
+ - - - - 
+ - - - - 
+ 23 lbs. 
+ (-54) 
+ (-54)"
+with Lycoming O235B engine only,Static rpm at max. permissible throttle
+setting,"Not over 2300, not under 2150."
+Diameter Not over 72 inches,"not under 70.5 inches. 
+ 21 lbs. 
+ (-54) 
+ - - - - 
+ - - - - 
+ - - - --- 
+ - - - -"
+pitch metal (Model J5A with A75 engine,
+only,Static rpm at max. permissible throttle
+setting,"Not over 2440, not under 2340"
+Diameter Not over 72 inches,not under 70 inches
+pitch metal,"24 lbs. 
+ (-54) 
+ - - - - 
+ - - - -- 
+ - - - -"
+- - - -,
+engine only,Static rpm at max. permissible throttle
+setting,"Not over 2150, not under 2000. 
+ No additional tolerance permitted."
+Diameter Not over 74 inches,"not under 72.5 inches. 
+ 24 lbs. 
+ (-54) 
+ - - - - 
+ - - - -- 
+ - - - -"
+- - - -,
+engine only,Static rpm at max. permissible throttle
+setting,"Not over 2430, not under 2170. 
+ No additional tolerance permitted."
+Diameter Not over 74 inches,"not under 72 inches. 
+ 24 lbs. 
+ (-56) 
+ (-56) 
+ - - - - 
+ - - - --"
+- - - --,
+engine only,Static rpm at max. permissible throttle
+setting,"Not over 2250, not under 2100. 
+ No additional tolerance permitted."
+Diameter Not over 74 inches,"not under 72.5 inches. 
+ J5A 
+ AE-1 
+ J5A-80 
+ J5B 
+ J5C 
+ HE-1 
+ - - - - 
+ - - - - 
+ - - - -- 
+ 24 lbs. 
+ (-54) 
+ (-54)"
+Model J5 with Lycoming O-235 engine,
+only,Static rpm at max. permissible throttle
+setting,"Not over 2300, not under 2150."
+Diameter Not over 74 inches,"not under 72 inches. 
+ J5A 
+ AE-1 
+ Engines and Engine Accessories - Fuel and Oil System 
+ J5A-80 
+ J5B 
+ J5C 
+ HE-1"
+No aircraft of these models is eligible,
+for original certification with single,"ignition engine after August 1, 1941."
+Carburetor air and cabin heater,"3 lbs. 
+ (-33) 
+ (-33) 
+ 3 lbs. 
+ (-33) 
+ (-33)"
+106,"Oil cooler (Harrison HE212) (J5A-80 only) 
+ 5 lbs. 
+ (-49) 
+ - - - - 
+ - - - - 
+ - - - - 
+ - - - -"
+Oil filter Fram PB5,"(a) Kit No. 520, Fram Install. Dwg. 
+ 5 lbs. 
+ - - - - 
+ (-27.5) 
+ - - - - 
+ - - - - 
+ - - - - 
+ No. 6158 
+ (b) Kit No. 510, Fram Install. Dwg. 
+ 5 lbs. 
+ (-27.5) 
+ - - - - 
+ - - - -- 
+ - - - - 
+ - - - - 
+ No. 61542"
+Engines,"+3 lbs. 
+ (-31) 
+ - - - - 
+ - - - -- 
+ - - - - 
+ - - - -"
+b Lycoming GO145C1,"-11 lbs. 
+ - - - - 
+ (-30) 
+ - - - - 
+ - - - -- 
+ - - - -"
+c Lycoming GO145C3,"+2 lbs. 
+ - - - - 
+ (-30) 
+ - - - - 
+ - - - - 
+ - - - - 
+ +12 lbs. 
+ (-31) 
+ - - - - 
+ - - - - 
+ - - - -"
+- - - -,
+- - - -,
+f Lycoming O235B,"Engine limits - for all operations, 
+ 2600 rpm (104 hp.) 
+ Propeller limits same as for engine 
+ model O-235 
+ Engines and Engine Accessories - Fuel and Oil 
+ J5A 
+ AE-1 
+ J5A-80 
+ J5B 
+ J5C 
+ HE-1 
+ +12 lbs. 
+ (-31) 
+ - - - - 
+ - - - - 
+ - - - -"
+- - - -,
+308,"Oil cooler (Harrison HE212) (J5A only) 
+ 5 lbs. 
+ (-49) 
+ - - - - 
+ - - - -- 
+ - - - -- 
+ - - - -"
+"309. 
+ Starter installation - Hummer Model X",
+a Piper Dwg C702,"3 lbs. 
+ (-31) 
+ - - - - 
+ - - - - 
+ - - - - 
+ - - - -"
+b Piper Dwg C72,"3 lbs. 
+ - - - - 
+ (-31) 
+ - - - - 
+ - - - - 
+ - - - - 
+ - - - - 
+ - - - - 
+ - - - - 
+ 16 lbs. 
+ (+23) 
+ (+23)"
+316,Left wing auxiliary fuel tank (18 gals.)
+Additional placards required,"(a) ""Auxiliary fuel system 18 gal. capacity."" 
+ (b) Near left filler neck: ""Fill right wing 
+ tank first."" 
+ J5A 
+ AE-1"
+Landing Gear and Floats,"J5A-80 
+ J5B 
+ J5C 
+ HE-1 
+ 31 lbs. 
+ (+1) 
+ (+1) 
+ 31 lbs. 
+ (+1) 
+ (+1)"
+102,8.00-4 wheels with brakes and 4-ply
+tires,(Wheels must be placarded for these
+Tail Wheels,"(a) 6x2.00 with solid rubber tire 
+ 2 lbs. 
+ (+201) 
+ (+201) 
+ 2 lbs. 
+ (+201) 
+ (+201)"
+b 2x250 steerable full swivelMaule,"6 lbs. 
+ (+201) 
+ (+201) 
+ 6 lbs. 
+ (+201) 
+ (+201) 
+ Model SFS-14"
+c 6x250 steerable straightMaule,"6 lbs. 
+ (+201) 
+ (+201) 
+ 6 lbs. 
+ (+201) 
+ (+201) 
+ Model SS-14 
+ Neglect weight change"
+brake pressure unit,"(J5A, J5A-80, J5B and J5C only) 
+ J5A 
+ AE-1 
+ J5A-80 
+ J5B 
+ J5C 
+ HE-1 
+ - - - - 
+ - - - - 
+ - - - - 
+ +183 lbs. 
+ (+14.5) 
+ (+14.5)"
+204,"Edo 89-2000 floats with water rudder 
+ and seaplane fin Piper Dwg. No. 11030 
+ in accordance with Edo Dwg. 89-S-180A. 
+ All airplanes must have additional fuselage 
+ brace tubes (Parts Nos. 11026 and 11027) in 
+ accordance with Piper Dwg. No. 11031."
+Wheel streamlines,"6 lbs. 
+ (+2) 
+ (+2) 
+ 6 lbs. 
+ (+2) 
+ - - - -"
+Parking brake,"3 lbs. 
+ (-8) 
+ (-8) 
+ 3 lbs. 
+ (-8) 
+ (-8)"
+6x200 pneumatic tail wheel,"Neglect weight change 
+ Use Actual Weight Change"
+311,Skis (Eligible on any airplane of these
+clearance The maximum weight for,the skiplane will be the same as for the
+in parenthesis after ski model,whichever is less) (Use actual weight
+change,"(a) Federal SC-2 (maximum 1650 lbs.) 
+ (b) Heath 725 (maximum 1450 lbs.) 
+ (c) Marston MFS-1600 (maximum 1600 lbs)"
+d Air Transport 1620750 maximum,"1620 lbs.) 
+ (e) Jack Carr Service 16 (maximum 1600 lbs) 
+ (f) Wollam W-1650 (maximum 1650 lbs.) 
+ (g) Heath 725A (maximum 1450 lbs.)"
+h Federal A1500 or A1500A,"(maximum 1500 lbs.) per Federal 
+ Dwg. 11R262. (Eligible on J5A and 
+ J5B only) 
+ (i) Federal A-1850 (maximum 1850 lbs.) 
+ per Federal Dwg. 11R262"
+j Federal A2000 or A2000A,"(maximum 2000 lbs.) per Federal 
+ Dwg. 11R262."
+k Wesco per Western Aircraft,"Equipment Company Dwgs. Nos. 12 
+ and 148: 
+ (1) A-15 (maximum 1500 lbs.) 
+ (2) A-20 or AS-2 (maximum 2000 lbs.) 
+ (3) A-25, AS-2A or AS-2B (maximum 
+ 2500 lbs.) 
+ J5A 
+ AE-1"
+Electrical Equipment,"J5A-80 
+ J5B 
+ J5C 
+ HE-1"
+Batteries,"(a) Reading 333 LD or 324 LD (6 volt) 
+ 16 lbs. 
+ - - - - 
+ (+57) 
+ - - - - 
+ - - - - 
+ - - - - 
+ Serial Nos. 5-784 and up 
+ 16 lbs. 
+ - - - - 
+ (+57) 
+ - - - - 
+ - - - - 
+ - - - - 
+ (b) Exide 6AC-7-1 or Willard SYR-7-6 
+ (with box) 
+ (12 volt Serial Nos. 5-784 and up) 
+ 11 lbs. 
+ - - - - 
+ (+2) 
+ - - - - 
+ - - - - 
+ - - - -"
+Generator installation,"(a) General Armature AG-40 or AG-42 
+ (Wind-driven) 
+ (1) Serial Nos. 5-2 to 5-783 
+ 11 lbs. 
+ (+2) 
+ (+2) 
+ - - - -- 
+ - - - - 
+ - - - - 
+ (2) Serial Nos. 5-784 and up 
+ 11 lbs. 
+ (+2) 
+ - - - - 
+ - - - - 
+ - - - - 
+ - - - --"
+Batteries,"(a) Willard SYR-7-3 with box (6 volt) 
+ (1) Serial Nos. 5-2 to 5-783 
+ 11 lbs. 
+ (-20) 
+ (-20) 
+ - - - - 
+ - - - - 
+ - - - - 
+ (2) Serial Nos. 5-784 and up 
+ 11 lbs. 
+ (-20) 
+ - - - - 
+ - - - -- 
+ - - - -- 
+ - - - - 
+ (b) Reading 333LD or 324LD (6 volt) 
+ 16 lbs. 
+ (+57) 
+ - - - - 
+ - - - -- 
+ - - - - 
+ - - - - 
+ Serial Nos. 5-784 and up 
+ 16 lbs. 
+ (+57) 
+ - - - - 
+ - - - - 
+ - - - - 
+ - - - - 
+ (c) Exide 6AC-7-1 or Willard SYR-7-6 
+ (with box) (12 volt) 
+ Serial Nos. 5-784 and up 
+ 4 lbs. 
+ (+15) 
+ (+15) 
+ - - - - 
+ - - - - 
+ - - - -"
+retractable Generator Item 310,"required when Item 312(c) is used) 
+ J5A 
+ AE-1"
+Interior Equipment,"J5A-80 
+ J5B 
+ J5C 
+ HE-1"
+Three 1½ minute flares International,"17 lbs. 
+ (+83) 
+ (+83) 
+ - - - -- 
+ - - - -- 
+ - - - -"
+Litter,"- - - - 
+ - - - -- 
+ - - - - 
+ 25 lbs. 
+ - - - - 
+ (+67)"
+Splint,"- - - - 
+ - - - - 
+ - - - - 
+ 5 lbs. 
+ - - - - 
+ (+32) 
+ J5A 
+ AE-1"
+Miscellaneous not listed above,"J5A-80 
+ J5B 
+ J5C 
+ HE-1 
+ +2 lbs. 
+ (+72) 
+ (+72) 
+ 2 lbs. 
+ (+72) 
+ (+72)"
+Installed in accordance with Westfield,"Industries, Salem, Illinois. Dwg. No. 1"
+and Kit installation instructions,Use Actual Weight Change and Moment Arm
+12108 13108 and installation,"instructions dated June 17, 1954 issued"
+NOTE 1,"Current weight and balance report including list of equipment included in certificated empty weight, and 
+ loading instructions when necessary, must be in each aircraft at the time of original certification and at all 
+ times thereafter (except in the case of air carrier operators having an approved weight control system)."
+NOTE 2,"Placard baggage compartment of models J5A and J5A-80 (Serial Nos. 5-2 to 5-783) as follows: 
+ ""Maximum capacity 
+ 41 lbs."" 
+ ""Maximum when flown solo from rear seat 
+ 20 lbs."" 
+ Placard required for models J5C, AE-1 and HE-1: ""Main fuel valve must be ""ON"" for all operations. Main 
+ fuel system 20 gallon capacity."" 
+ When left wing tank (Item 316) is installed, the following additional placards are required: 
+ (a) 
+ ""Auxiliary fuel system 18 gallon capacity."" 
+ (b) 
+ Near the left filler neck, ""fill right wing tank first."" 
+ The following placard must be displayed in full view of the pilot on models AE-1 and HE-1 only: 
+ ""Intentional Spinning Prohibited."""
+NOTE 3,"With Item 307(d) or (e) the following Item may be installed: 
+ Propeller - McCauley 1A90 
+ +9 lbs. (-54) 
+ Static rpm at maximum permissible throttle setting: 
+ Not over 2100, not under 2000. 
+ No additional tolerance permitted 
+ Diameter - not more than 74 inches, not less than 72.5 inches."

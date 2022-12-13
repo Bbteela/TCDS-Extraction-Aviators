@@ -1,0 +1,191 @@
+Keyterm,Info
+"A5CE 
+ Revision 10 
+ LEARJET 
+ 23 
+ July 15, 1990",
+Type Certificate Holder,"Learjet Inc. 
+ 8220 West Harry Street 
+ P. O. Box 7707 
+ Wichita, Kansas 67277"
+"I - MODEL 23, 8 PCLM (Normal Category), approved July 31, 1964",
+Engines,2 General Electric Turbojet CJ-610-1 or -4
+Fuel,"Commercial kerosene, JP-4 and JP-5 type fuel, conforming to GE jet fuel 
+ Spec. D50T1011. Phillips PFA55MB anti-icing additive must be blended 
+ into aircraft fuel in concentrations not less than 0.060 or more than 0.5 percent 
+ by volume. JP-4 fuel is supplied with necessary anti-icing additive. For emergency 
+ use of aviation gasoline and fueling procedures, see Airplane Flight Manual."
+Engine limits,"Static thrust standard day, sea level: 
+ Takeoff (5 min.) 2850 lb. 
+ 16,700 r.p.m. 
+ Max. continuous 2700 
+ 16,500 r.p.m. 
+ Max. permissible engine rotor operating speed 
+ 17,820 r.p.m. allowable for transient conditions 
+ Max. permissible temperatures: 
+ Turbine outlet - gas 
+ Takeoff (5 min.) 
+ 704°C 
+ 1300°F 
+ Max. continuous 
+ 677°C 
+ 1250°F 
+ Max. transient (10 sec.) 
+ 782°C 
+ 1440°F 
+ Max. transient for 
+ 950°C 
+ 1750°F 
+ starting (momentary)"
+Airspeed Limits CAS,"VMO 
+ (Maximum operating) 
+ 350K to 23,900 ft."
+See NOTE 4,"MMO M = .81 above 23,900 ft. 
+ VA 
+ (Maneuvering) 
+ 267.5K 
+ MA M = .81 above 36,300 ft. 
+ VFE 
+ (Flap extension speeds) 
+ 150K landing 
+ 165K takeoff 
+ VMC 
+ (Air min. control speed) 
+ 85K 
+ VLO 
+ (Landing gear operating) 
+ 200K 
+ VLE 
+ (Landing gear extended) 
+ 260K 
+ VS8 
+ (Speed brakes extended) 
+ ny speed, except extension with flaps 
+ extended prohibited in flight"
+Page No,"1 
+ 2 
+ 3"
+RevNo,"10 
+ 8 
+ 8"
+CG Range Landing,(+223.6) to (+236.7) at 6386 lb.
+Gear Extended,"(+223.6) to (+236.7) at 9000 lb. 
+ (+227.6) to (+236.7) at 12,500 lb. 
+ Variation between points is linear 
+ Landing gear retracting moment (-911.6 in.-lb.)"
+Datum,14 in. aft nose. Wing jack points are at sta. 264.9
+MAC,84.486 in. (L.E. of MAC at sta 210.043)
+Leveling Means,Seat rails
+Maximum Weights,"Takeoff 
+ 12,500 lb. 
+ Landing 
+ 11,880 lb. 
+ Zero fuel 
+ 9,000 lb. 
+ See Gates Learjet ECR 1219 for approved configuration for zero fuel increase 
+ to 10,000 lbs. 
+ Ramp 
+ 12,750 lb."
+Minimum Crew,For all flights: 2 persons (pilot and co-pilot)
+No of Seats,"8 (2 at 103, 1 at 132, 2 at 167, 3 at 210) 
+ See Gates Learjet ECR 613A for optional approved 9 and 10 place configuration."
+Maximum Baggage,500 lb. at sta. 252
+Fuel Capacity Gal,"S/N 003 - 14 
+ S/N 015 - 051 
+ S/N 052 - 099 
+ Usable 
+ Arm 
+ Usable Arm 
+ Usable 
+ Arm 
+ 2 Wing tanks 
+ 347 
+ 235.3 
+ 347 
+ 235.3 
+ 347 
+ 235.3 
+ 2 Tip tanks 
+ 356 
+ 239.2 
+ 356 
+ 239.2 
+ 368 
+ 239.2 
+ Fuselage tank 
+ 112 
+ 282.5 
+ 125 
+ 282.5 
+ 125 
+ 282.5 
+ See NOTE 1(a) for data on unusable fuel"
+Oil Capacity lb,"Total 
+ Usable 
+ Arm 
+ 2 engine mounted tanks 
+ 8 ea. 
+ 5.6 
+ 308"
+Maximum Operating Altitude,"41,000 ft."
+Other Operating Limitations,See FAA Approved Airplane Flight Manual
+Control Surface,"Horizontal stabilizer 
+ Down 1/2° to 7°"
+Movements,"Elevator 
+ Up 15° 
+ Down 15° 
+ Aileron 
+ Up 18° 
+ Down 18° 
+ Aileron trim tab 
+ Up 20° 
+ Down 20° 
+ Aileron geared tabs at 
+ ± aileron deflection) 
+ Up 15° 
+ Down 15° 
+ Rudder 
+ Up 30° 
+ Down 30° 
+ Rudder trim tab 
+ Up 11° 
+ Down 11° 
+ Wing flap 
+ Down 0° to 40° 
+ Speed brake 
+ Up 0° to 40° 
+ See Airplane Service Manual or LES FT 1007 for rigging tolerances or instructions."
+Serial Nos Eligible,003 and up
+Certification Basis,"Part 3 of the Civil Air Regulations effective May 15, 1956, as amended by 
+ 3-1 through 3-8, plus Special Conditions dated November 12, 1963, and 
+ Amendment No. 1 dated July 31, 1964, and No. 2 dated March 14, 1966, and 
+ Exception No. 352 from compliance with CAR 3.74(a)(2) and (3) fir ground 
+ operation at a maximum weight of 12,750 lb. 
+ Type Certificate No. A5CE issued July 31, 1964. 
+ Application for type certificate dated March 7, 1963."
+Production Basis,Production Certificate No. 317
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. Learjet 
+ Report 23-WB-10, “Master Equipment List,” contains a listing of all required 
+ equipment as well as optional equipment installations approved by the FAA."
+Service Information,"Learjet Model 23 Service Manual includes structural component replacement 
+ lives from FAA approved Learjet Report 23-S47."
+NOTE 1,"(a) Current weight and balance report including list of equipment included in the certificated empty weight, 
+ and loading instructions when necessary, must be provided for each aircraft at the time of original 
+ certification. The empty weight and corresponding center of gravity location must include: 
+ Unusable fuel 
+ 27.0 gal. at 221.3 
+ Unusable oil 
+ 4.8 lb. at 308.0 
+ Hydraulic fluid 
+ 14.0 lb. at 284.0 
+ (b) 
+ The airplane must be loaded so that the C.G. is within the specified limits at all times."
+NOTE 2,The placards specified in the FAA Approved Airplane Flight Manual must be displayed.
+NOTE 3,"All replacement seats (crew and passenger), although they may comply with TSO C39 must also be 
+ demonstrated to comply with CAR 3.390."
+NOTE 4,"The Limitations Section of the Airplane Flight Manual contains indicted airspeed (IAS) operating 
+ limitations. Airspeed instruments will be marked with appropriate indicated airspeed."
+NOTE 5,"Model 23 airplanes that have been modified to Model 24 configuration per ECR’s 223, 230, or 227 are to be 
+ considered transport category airplanes under Part 25 and Type Certificate A10CE. All FAA actions 
+ affecting Model 24 airplanes under Type Certificate A10CE are applicable to these modified aircraft."

@@ -1,0 +1,2194 @@
+Keyterm,Info
+"A21EA 
+ Revision No. 50 
+ Bombardier Inc. 
+ CL-600-1A11 (600) 
+ CL-600-2A12 (601) 
+ CL-600-2B16 (601-3A Variant) 
+ CL-600-2B16 (601-3R Variant) 
+ CL-600-2B16 (604 Variant) 
+ CL-600-2B19 (Regional Jet Series 100 & 440)* 
+ CL-600-2C10 (Regional Jet Series 700, 701 & 702)* 
+ CL-600-2C11 (Regional Jet Series 550)* 
+ CL-600-2D15 (Regional Jet Series 705)* 
+ CL-600-2D24 (Regional Jet Series 900)* 
+ CL-600-2E25 (Regional Jet Series 1000)* 
+ * Administratively transferred to TCDS A21EA-1 Revision 
+ No. IR on November 26, 2019 (See Note 17) 
+ February 16, 2021",
+Type Certificate Holder,"Bombardier Inc. 
+ 800 boul. René Lévesque West 
+ Montreal, Quebec, Canada 
+ H3B1Y8"
+"I - Model CL-600-1A11 (600) (Transport Category), Approved November 7, 1980, by the FAA and August 10, 1980, by the 
+ Canadian Department of Transport DOT",
+Engines,Two AVCO Lycoming ALF-502L or ALF-502L-2
+Fuel,"Type 
+ Specifications 
+ Canada 
+ U.S.A. 
+ U.K. 
+ China 
+ Russia/Ukraine 
+ Jet A 
+ CAN2-3.23 
+ ASTM D1655 
+ - 
+ - 
+ - 
+ Jet A-1 
+ CAN2-3.23 
+ ASTM D1655 
+ DEF STAN 
+ No. 3 Jet 
+ TS-1* or RT 
+ 91-91 
+ Grade JP-5 
+ - 
+ MIL-DTL-5624 
+ DEF STAN 
+ - 
+ - 
+ 91-86 
+ Grade JP-8 
+ - 
+ MIL-DTL-83133 
+ DEF STAN 
+ - 
+ - 
+ 91-87 
+ Jet B 
+ CAN2-3.22 
+ ASTM D6615 D. Eng. RD2486 
+ - 
+ - 
+ JP-4 
+ CAN2-3.22 
+ MIL-DTL-5624 D. Eng. RD2454 
+ - 
+ - 
+ Jet A and Jet A-1 fuels must contain an approved anti-icing additive unless Canadair Modification Summary 
+ 600-702 and Lycoming Service Bulletin ALF-502-79-0007 are incorporated. 
+ *Refer to appropriate AFM listed in Approved Publication section when using TS-1."
+Oil,"Engine, APU, Generator Adapter: 
+ MIL-L-7808 (Type I) or MIL-L-23699 (Type II) or other approved oils as identified in the Maintenance 
+ Manual (refer to Approved publications)."
+Engine Limits,"SL Static 
+ Compressor RPM 
+ Interturbine 
+ Thrust (lb.) 
+ Temperature 
+ LP 
+ HP 
+ %N1 
+ %N2 
+ °C 
+ °F 
+ Time Limit 
+ Max. Takeoff 
+ 7500 
+ 96.0 
+ 98.2 
+ 904 
+ 1660 
+ 5 minutes"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20"
+Rev No,"49 
+ 43 
+ 43 
+ 43 
+ 43 
+ 43 
+ 42 
+ 43 
+ 43 
+ 49 
+ 49 
+ 49 
+ 49 
+ 47 
+ 47 
+ 47 
+ 47 
+ 42 
+ 49 
+ 49"
+Rev No,"Max. Continuous 
+ 7100 
+ 96.0 
+ 96.4 
+ 877 
+ 1610 
+ - 
+ Starting Maximum 
+ 823 
+ 1513 
+ 10 seconds above 
+ 793°C (1460°F)"
+Oil Temperature,"°C 
+ °F 
+ Maximum Permissible 
+ 143 
+ 290 
+ Transient* 
+ 170 
+ 338 
+ *Permitted during power reduction. Normal temperature must be achieved within two minutes of achieving 
+ steady state operation."
+Oil Pressure,"Maximum 
+ Sea Level 
+ 120 p.s.i. 
+ Minimum 
+ At steady state low 
+ 30 p.s.i. 
+ or high idle"
+APU Limits,"Maximum RPM 
+ 110% 
+ Maximum EGT: 
+ °C 
+ °F 
+ Starting (10 seconds) 
+ 974 
+ 1785 
+ Running 
+ 732 
+ 1349"
+Airspeed Limits CAS,"Vmo and Mmo (maximum operating) 
+ m.p.h. 
+ Knots 
+ Mach"
+See NOTE 1,"Sea level to 10000 ft. 
+ 345 
+ 300 
+ - 
+ above 10000 ft. 
+ 368 
+ 320 
+ 0.79 
+ Vfe (Flaps extended) 
+ 20° 
+ 265 
+ 230 
+ - 
+ 30° 
+ 226 
+ 196 
+ - 
+ 45° 
+ 193 
+ 168 
+ - 
+ Va (maneuvering) 
+ (See AFM for variation of Va with altitude and aircraft weight). 
+ V1o (Landing Gear Operation) 
+ 225 
+ 196 
+ - 
+ V1e (Landing Gear Extended) 
+ 288 
+ 250 
+ -"
+CG Range,"Forward Limit 
+ Aft Limit"
+See NOTE 1,"Weight, lb. 
+ % MAC (Sta.) 
+ % MAC (Sta.) 
+ 24000 to 31300 
+ 16% (+502.848) 
+ - - - 
+ 36500 
+ 18% (+504.701) 
+ 28% (+513.965) 
+ 25800 
+ - - - 
+ 33% (+518.598) 
+ 24000 
+ - - - 
+ 33% (+518.598) 
+ Straight line variation between points given."
+Datum,"Fuselage station 0, located 375 inches forward of weighing datum jig point"
+Mean Aerodynamic Chord,92.644 in. (Leading edge of MAC from datum at +488.025 in.)
+Leveling Means,"Target plate and plumb bob bracket within rear fuselage, at fuselage station 718."
+Maximum Weights,lb. *
+See NOTE 1,"Ramp 
+ 36500 
+ Takeoff 
+ 36000 
+ Landing 
+ 30500 
+ Zero Fuel 
+ 25800 
+ Minimum flight weight 24000 
+ *Certain aircraft are eligible for operation at an increased weight. See AFM as in approved publications."
+Minimum Crew,Two (Pilot and Co-pilot)
+Maximum Occupants,Twenty-one (includes crew)
+Fuel Capacity,"U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ Weight, lb. 
+ Mom.Arm-in. 
+ 2 main tanks (each) 
+ 732.5 
+ 611.3 
+ 2259.1 
+ 4981 
+ (+506.5) 
+ 1 center tank 
+ 751 
+ 625.8 
+ 2316.1 
+ 5107 
+ (+457.5) 
+ Total 
+ 2216 
+ 1848.4 
+ 6834.3 
+ 15069 
+ - - - 
+ Usable 
+ 2 main tanks (each) 
+ 725 
+ 605 
+ 2236 
+ 4930 
+ (+506.5) 
+ 1 center tank 
+ 750 
+ 625 
+ 2313 
+ 5100 
+ (+457.5) 
+ Total 
+ 2200 
+ 1835 
+ 6785 
+ 14960 
+ - - - 
+ See NOTE 1(b) for system fuel."
+Oil Capacity,"U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ Weight, lb. 
+ Mom.Arm-in. 
+ 2-engines (each) 
+ 3.69 
+ 3.07 
+ 12.88 
+ 28.4 
+ (+623) 
+ Total 
+ 7.38 
+ 6.14 
+ 25.76 
+ 56.8 
+ (+623) 
+ Usable 
+ 2-engines (each) 
+ 1.94 
+ 1.61 
+ 6.76 
+ 14.9 
+ (+623) 
+ Total 
+ 3.87 
+ 3.22 
+ 13.52 
+ 29.8 
+ (+623) 
+ See NOTE 1(c) for system oil. 
+ APU 
+ Usable 
+ .408 
+ .340 
+ 1.43 
+ 3.144 
+ (+675) 
+ Total 
+ .714 
+ .594 
+ 2.49 
+ 5.5 
+ (+675) 
+ Unusable 
+ .306 
+ .254 
+ 1.06 
+ 2.356 
+ (+675)"
+Maximum Operating,"Takeoff and landing: 
+ 5000 ft."
+Altitude See NOTE 1,"En route: 
+ 40000 ft. 
+ 41000 ft. with Canadair Limited Modification Summaries 600-1923 
+ and 600-8330 incorporated"
+Control Surface,"Rudder 
+ 20° (+1.0°, -0.5°) Left 
+ 20° (+1.0°, -0.5°) Right"
+Movements,"Elevator 
+ 23.6° (+ or - 1.0°) Up 
+ 18.4° (+ or - 1.0°) Down 
+ Horizontal Stabilizer 
+ 0° (+0.5° or -0.25° )LE Up 
+ -9° (+ or - 0.5°) LE Down 
+ Aileron 
+ 20.8° (+ or - 1.0°) Up 
+ 21.3° (+ or - 1.0°) Down 
+ Flap 
+ – Inboard 
+ 0° - 45° (+ or - 1.0°) Down 
+ – Outboard 
+ 0° - 46.7° (+ or - 1.0°) Down 
+ Flight Spoiler 
+ 0° - 40°(+3°, -0°)Up"
+Serial Numbers Eligible,"1002, 1004 to 1085"
+Service Information,"Service Bulletins, structural repair manuals, and aircraft flight manuals which contain a statement that the 
+ document is Transport Canada approved or Transport Canada approved through the Manufacturers Design 
+ Approval Representative are accepted by the FAA and are considered FAA approved. These approvals 
+ pertain to the type design only."
+"II - Model CL-600-2A12 (601) (Transport Category), Approved March 11, 1983, by the FAA and February 25, 1983, by the 
+ Canadian Department of Transport DOT",
+Engines,Two General Electric CF-34-1A or *
+Fuel,"Type 
+ Specifications 
+ Canada 
+ U.S.A. 
+ U.K. 
+ China 
+ Russia/Ukraine 
+ Jet A 
+ CAN2-3.23 
+ ASTM D1655 
+ - 
+ - 
+ - 
+ Jet A-1 
+ CAN2-3.23 
+ ASTM D1655 
+ DEF STAN 
+ No. 3 Jet 
+ TS-1* or RT 
+ 91-91 
+ Grade JP-5 
+ - 
+ MIL-DTL-5624 
+ DEF STAN 
+ - 
+ - 
+ 91-86 
+ Grade JP-8 
+ - 
+ MIL-DTL-83133 
+ DEF STAN 
+ - 
+ - 
+ 91-87 
+ Jet B 
+ CAN2-3.22 
+ ASTM D6615 
+ D. Eng. RD2486 
+ - 
+ - 
+ JP-4 
+ CAN2-3.22 
+ MIL-DTL-5624 D. Eng. RD2454 
+ - 
+ - 
+ *Refer to appropriate AFM listed in Approved Publication section when using TS-1."
+Oil,"Engine, APU, Generator Adapter: 
+ MIL-L-7808 (Type I) or MIL-L-23699 (Type II) or other approved oils as identified in the 
+ Maintenance Manual (refer to Approved Publications)."
+Engine Limits,"SL Static 
+ Compressor RPM 
+ Interturbine 
+ Thrust (lb.) 
+ Temperature** 
+ LP 
+ HP 
+ %N1 
+ %N2 
+ °C 
+ °F 
+ Time Limit 
+ Max. takeoff 
+ 9140 
+ 98.6 
+ 99.4 
+ 857 
+ 1575 
+ 5 minutes 
+ Normal takeoff 
+ 8650 
+ 96.2 
+ 98.3 
+ 842 
+ 1548 
+ 5 minutes 
+ Max. continuous 
+ 8920 
+ 98.6 
+ 99.2 
+ 838 
+ 1540 
+ Idle range 
+ 62.9-64.0 
+ Min. Idle in icing conditions 
+ 64.0 
+ Transient: 
+ Max. takeoff 
+ 886 
+ 1627 
+ 2 minutes 
+ Normal takeoff 
+ 864 
+ 1587 
+ 2 minutes 
+ Start/relight 
+ 930 
+ 1706 
+ 16 seconds 
+ 889 
+ 1632 
+ 50 seconds 
+ * One - General Electric CF-34-3A and one CF-34-3A2 or 
+ One - General Electric CF-34-1A and one CF-34-3A or 
+ One - General Electric CF-34-1A and one CF-34-3A2 or 
+ Two - General Electric CF-34-3A or 
+ Two - General Electric CF-34-3A2 
+ Aircraft with two CF34-3A or CF34-3A2 engines installed, improved performance is not available until 
+ Canadair Service Bulletin 601-0238 - Modification - Engines - Use of 3A engines at 3A power settings, 
+ is incorporated. 
+ **See AFM as listed in Approved Publications for CF-34-3A and CF-34-3A2 engines ITT limits. 
+ NOTE 
+ 1. Above 40000 feet, engine anti-ice bleed or air conditioning unit must be selected ON for each engine. 
+ 2. Engine Limits with APR Operating are only applicable to Outside Air Temperatures of - 4°F (- 20°C) and above."
+Oil Temperature,"°C 
+ °F 
+ Maximum Permissible (15 minutes Maximum) 
+ +163 
+ 325 
+ Maximum for Single Engine Climb (60 minutes maximum) 
+ +155 
+ 311 
+ Maximum Continuous 
+ +150 
+ 302 
+ Minimum for Starting 
+ -40 
+ -40"
+Oil Pressure,"Maximum Transient Cold Start 
+ 100 psi 
+ (Six minutes maximum) 
+ Maximum Continuous 
+ 95 psi 
+ Minimum at Steady State Idle 
+ 25 psi 
+ Minimum at Takeoff (power): 
+ 40 psi"
+APU Limits,"Maximum RPM 
+ 110% 
+ Maximum EGT: 
+ °C 
+ °F 
+ Starting (10 seconds) 
+ 974 
+ 1785 
+ Running 
+ 732 
+ 1350"
+Airspeed Limits CAS,"Vmo and Mmo (maximum operating) 
+ m.p.h. 
+ Knots 
+ Mach 
+ Sea level to 10000 ft. 
+ 345 
+ 300 
+ - 
+ 10000 ft. to 21420 ft. 
+ 420 
+ 365 
+ - 
+ 21420 ft. to 25740 ft. 
+ - 
+ - 
+ 0.80 
+ 25740 ft. to 28640 ft. 
+ 385 
+ 335 
+ - 
+ above 28640 ft. 
+ - 
+ - 
+ 0.85 
+ Vfe (Flaps extended) 
+ 20° 
+ 265 
+ 230 
+ - 
+ 30° 
+ 226 
+ 196 
+ - 
+ 45° 
+ 215 
+ 187 
+ - 
+ Va (maneuvering) 
+ (See AFM for variation of Va with altitude and aircraft weight). 
+ V1o (Landing Gear Operation) 
+ 226 
+ 196 
+ - 
+ V1e (Landing Gear Extended) 
+ 288 
+ 250 
+ -"
+CG Range,"Forward Limit 
+ Aft Limit"
+See NOTE 1,"Weight, lb. 
+ % MAC (Sta.) 
+ % MAC (Sta.) 
+ 25000 to 42250 
+ 16% (+502.848) 
+ - - - 
+ 42250 
+ - - - 
+ 30% (+515.818) 
+ 31000 
+ - - - 
+ 35% (+520.450) 
+ 25000 
+ - - - 
+ 35% (+520.450) 
+ Straight line variation between points given."
+Datum,"Fuselage station 0, located 375 inches forward of weighing datum jig point."
+Mean Aerodynamic Chord,92.644 in. (Leading edge of MAC from datum at +488.025 in.)
+Leveling Means,"Target plate and plumb bob bracket within rear fuselage, at fuselage station 718."
+Maximum Weights,lb. *
+See NOTE 1,"Ramp 
+ 42250 
+ Takeoff 
+ 42100 
+ Landing 
+ 36000 
+ Zero Fuel 
+ 29500 
+ Minimum flight weight 25000 
+ *Certain aircraft are eligible for operation at an increased weight. See AFM as in approved 
+ publications."
+Minimum Crew,Two (Pilot and Co-pilot)
+Maximum Occupants,Twenty-two (includes crew).
+Fuel Capacity,"U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ Weight, lb. 
+ Mom.Arm-in. 
+ 2 main tanks (each) 
+ 721 
+ 600.4 
+ 2224 
+ 4903 
+ (+506.6) 
+ Auxiliary Tanks 
+ 1012 
+ 842.7 
+ 3121 
+ 6882 
+ (+455.6) 
+ Total 
+ 2454 
+ 2043.4 
+ 7569 
+ 16688 
+ - - - 
+ Usable 
+ 2 main tanks (each) 
+ 720 
+ 600 
+ 2221 
+ 4896 
+ (+506.6) 
+ Auxiliary Tanks 
+ 1011 
+ 842 
+ 3118 
+ 6875 
+ (+455.6) 
+ Total 
+ 2451 
+ 2042 
+ 7560 
+ 16667 
+ - - - 
+ See NOTE 1(b) for system fuel."
+Oil Capacity,"U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ Weight, lb. 
+ Mom.Arm-in. 
+ 2-engines (each) 
+ 1.70 
+ 1.42 
+ 6.21 
+ 13.7 
+ (+645.4) 
+ Total 
+ 3.40 
+ 2.83 
+ 12.42 
+ 27.4 
+ (+645.4) 
+ Usable 
+ 2-engines (each) 
+ 1.38 
+ 1.14 
+ 5.04 
+ 11.11 
+ (+645.4) 
+ Total 
+ 2.75 
+ 2.29 
+ 10.08 
+ 22.22 
+ (+645.4) 
+ See NOTE 1(c) for system oil. 
+ APU 
+ Usable 
+ .408 
+ .340 
+ 1.43 
+ 3.144 
+ (+646.0) 
+ Total 
+ .714 
+ .594 
+ 2.49 
+ 5.5 
+ (+646.0) 
+ Unusable 
+ .306 
+ .254 
+ 1.06 
+ 2.356 
+ (+646.0)"
+Maximum Operating,"Takeoff and landing: 
+ 10000 ft."
+Altitude,"En route: 
+ 41000 ft."
+Control Surface,"Rudder 
+ 25° (+1.0°, -0.5°) Left 
+ 25° (+1.0°, -.5°) Right"
+Movements,"Elevator 
+ 23.6° (+ or - 1.0°) Up 
+ 18.4° (+ or - 1.0°) Down 
+ Horizontal Stabilizer 
+ 0° (+0.5° or -0.25°) LE Up 
+ -9° (+ or - 0.5°) LE Down 
+ Aileron 
+ 20.8° (+ or - 1.0 °) Up 
+ 21.3° (+ or - 1.0°) Down 
+ Flap 
+ – Inboard 
+ 0° - 45° (+ or - 1°) Down 
+ – Outboard 
+ 0° - 46.7° (+ or - 1°) Down 
+ Flight Spoiler 
+ 0° - 40° (+3°, -0°) Up"
+Serial Numbers Eligible,3001 to 3066
+Service Information,"Service Bulletins, structural repair manuals, and aircraft flight manuals which contain a statement that the 
+ document is Transport Canada approved or Transport Canada approved through the Manufacturers Design 
+ Approval Representative are accepted by the FAA and are considered FAA approved. These approvals 
+ pertain to the type design only."
+"III - Model CL-600-2B16 (Transport Category), Approved April 30, 1987, by the FAA and April 21, 1987, by the 
+ Canadian Department of Transport DOT",
+Engines,"(601-3A Variant) Two General Electric CF-34-3A or CF-34-3A2 or 
+ One General Electric CF-34-3A and one CF-34-3A2 
+ (601-3R Variant) Two General Electric CF-34-3A1 (Serial Number 5135 to 5194) Approved by the FAA 15 
+ July 1995. 
+ (604 Variant) 
+ Two General Electric CF 34-3B (Serial Number 5301 and subsequent) Approved by the 
+ FAA 31 May 1995."
+Fuel,"Type 
+ Specifications 
+ Canada 
+ U.S.A. 
+ U.K. 
+ China 
+ Russia/Ukraine 
+ Jet A 
+ CAN2-3.23 ASTM D1655 
+ - 
+ - 
+ - 
+ Jet A-1 
+ CAN2-3.23 ASTM D1655 
+ DEF STAN 
+ No. 3 Jet 
+ TS-1* or RT 
+ 91-91 
+ Grade JP-5 
+ - 
+ MIL-DTL-5624 
+ DEF STAN 
+ - 
+ - 
+ 91-86 
+ Grade JP-8 
+ - 
+ MIL-DTL-83133 
+ DEF STAN 
+ - 
+ - 
+ 91-87 
+ Jet B 
+ CAN2-3.22 ASTM D6615 
+ D. Eng. RD2486 
+ - 
+ - 
+ JP-4 
+ CAN2-3.22 MIL-DTL-5624 D. Eng. RD2454 
+ - 
+ - 
+ *Refer to appropriate AFM listed in Approved Publication section when using TS-1."
+Oil,"Engine, APU, Generator Adapter: 
+ MIL-L-7808 (Type I) or MIL-L-23699 (Type II) or other approved oils as identified in the Maintenance 
+ Manual (refer to Approved publications)."
+Engine Limits,"SL Static 
+ Compressor RPM 
+ Interturbine 
+ Thrust (lb.) 
+ Temp.** 
+ LP 
+ HP 
+ %N1 
+ %N2 
+ °C 
+ °F 
+ Time Limit 
+ Max. takeoff 
+ 9140 
+ 98.6 
+ 99.4 
+ 871 
+ 1600 
+ 5 minutes 
+ Normal takeoff 
+ 8650 
+ 96.2 
+ 98.3 
+ 856 
+ 1573 
+ 5 minutes 
+ Max. continuous 
+ 8920 
+ 98.6 
+ 99.2 
+ 860 
+ 1580 
+ Idle range 
+ 62.9-64.0 
+ Min. Idle in icing conditions 
+ 64.0 
+ Transient: 
+ Max. takeoff 
+ 900 
+ 1652 
+ 2 minutes 
+ Normal takeoff 
+ 878 
+ 1612 
+ 2 minutes 
+ Start/relight 
+ 930 
+ 1706 
+ 16 seconds 
+ 903 
+ 1657 
+ 50 seconds 
+ ** See AFM as listed in Approved Publications for CF-34-3A and CF-34-3A2 engines ITT limits. 
+ NOTE 
+ 1. Above 40000 feet, engine anti-ice bleed or air conditioning unit must be selected ON for each engine. 
+ 2. Engine Limits with APR Operating are only applicable to Outside Air Temperatures of -4°F (-20°C) and 
+ above."
+Oil Temperature,"°C 
+ °F 
+ Maximum Permissible (15 minutes Maximum): 
+ +163 
+ 325 
+ Maximum for Single Engine Climb (60 minutes maximum): 
+ +155 
+ 311 
+ Maximum Continuous: 
+ +150 
+ 302 
+ Minimum for Starting: 
+ -40 
+ -40"
+Oil Pressure,"Maximum Transient Cold Start: 
+ 100 psi 
+ (6 min. maximum) 
+ Maximum Continuous: 
+ 95 psi 
+ Minimum at Steady State Idle: 
+ 25 psi 
+ Minimum at Takeoff (power): 
+ 40 psi"
+APU Limits,"Maximum RPM 
+ 110% 
+ Maximum EGT: 
+ °C 
+ °F 
+ Starting (10 seconds) 
+ 974 
+ 1785 
+ Running 
+ 731 
+ 1348"
+Airspeed Limits CAS,"Vmo and Mmo (maximum operating) 
+ m.p.h. 
+ Knots 
+ Mach 
+ Sea level to 10000 ft. 
+ 346 
+ 301 
+ - 
+ 10000 ft. to 21330 ft. 
+ 414 
+ 360 
+ - 
+ 21330 ft. to 25640 ft. 
+ - 
+ - 
+ 0.79 
+ 25640 ft. to 28720 ft. 
+ 380 
+ 330 
+ - 
+ above 28720 ft. 
+ - 
+ - 
+ 0.835 
+ Vfe (Flaps extended) 
+ 20° 
+ 267 
+ 232 
+ - 
+ 30° 
+ 228 
+ 198 
+ - 
+ 45° 
+ 218 
+ 190 
+ - 
+ Va (maneuvering) 
+ (See AFM for variation of Va with altitude and aircraft weight). 
+ V1o (Landing Gear Operation) 
+ 226 
+ 197 
+ - 
+ V1e (Landing Gear Extended) 
+ 288 
+ 250 
+ -"
+CG Range,"Forward Limit 
+ Aft Limit"
+See NOTE 1,"Weight, lb. 
+ % MAC (Sta.) 
+ % MAC (Sta.) 
+ 25000 to 42250 
+ 16% (+502.848) 
+ - - - 
+ 43250 
+ - - - 
+ 30% (+515.818) 
+ 31000 
+ - - - 
+ 35% (+520.450) 
+ 25000 
+ - - - 
+ 35% (+520.450) 
+ Straight line variation between points given."
+Datum,"Fuselage station 0, located 375 inches forward of weighing datum jig point"
+Mean Aerodynamic Chord,92.644 in. (Leading edge of MAC from datum at +488.025 in.)
+Leveling Means,"Target plate and plumb bob bracket within rear fuselage, at fuselage station 718."
+Maximum Weights,lb. *
+See NOTE 1,"Ramp 
+ 43250 
+ Takeoff 
+ 43100 
+ Landing 
+ 36000 
+ Zero Fuel 
+ 29500 
+ Minimum 
+ 25000 
+ *Certain aircraft are eligible for operation at different weights. See AFM as in approved publications. 601-3R 
+ Variant for aircraft S/N 5135 and subsequent."
+Minimum Crew,Two (Pilot and Co-pilot)
+Maximum Occupants,Twenty-two (includes crew).
+Engine Limits,"SL Static 
+ CF34-3B 
+ Compressor RPM 
+ Interturbine Temp. 
+ Thrust (lb.) 
+ LP 
+ HP 
+ %N1 
+ %N2 
+ °C 
+ °F 
+ Time Limit 
+ Max. takeoff 
+ 9220 
+ 98.6 
+ 99.4 
+ 899 
+ 1650 
+ 5 minutes 
+ Normal takeoff 
+ 8729 
+ 96.2 
+ 98.3 
+ 884 
+ 1623 
+ 5 minutes 
+ Max. continuous 
+ 9140 
+ 98.6 
+ 99.2 
+ 899 
+ 1650 
+ Idle range 
+ 62.9-64.0 
+ Min. Idle in icing conditions 
+ 64.0 
+ Transient: 
+ Max. Takeoff 
+ 928 
+ 1702 
+ 2 minutes 
+ Normal Takeoff 
+ 906 
+ 1663 
+ 2 minutes 
+ Start/relight 
+ 930 
+ 1706 
+ 16 seconds 
+ 903 
+ 1657 
+ 50 seconds 
+ NOTE 
+ 1. Above 40000 feet, engine anti-ice bleed or air conditioning unit must be selected ON for each engine. 
+ 2. Engine Limits with APR Operating are only applicable to Outside Air Temperatures of -4°F (-20°C) and 
+ above."
+Oil Temperature,"°C 
+ °F 
+ Maximum Permissible (15 minutes Maximum): 
+ +163 
+ 325 
+ Maximum for Single Engine Climb (60 minutes maximum): 
+ +155 
+ 311 
+ Maximum Continuous: 
+ +150 
+ 302 
+ Minimum for Starting: 
+ -40 
+ -40"
+Oil Pressure,"Maximum Transient Cold Start: 
+ 115 psi 
+ (10 min. maximum) 
+ Maximum Continuous: 
+ 95 psi 
+ Minimum at Steady State Idle: 
+ 25 psi 
+ Minimum at Takeoff (power): 
+ 45 psi"
+APU Limits,"Maximum RPM 
+ 110% 
+ Maximum EGT: 
+ °C 
+ °F 
+ Starting (10 seconds) 
+ 974 
+ 1785 
+ Running 
+ 731 
+ 1348"
+Airspeed Limits CAS,"Vmo and Mmo (maximum operating) 
+ m.p.h. 
+ Knots 
+ Mach 
+ Sea level to 8000 ft. 
+ 345 
+ 300 
+ - 
+ 8000 ft. to 22160 ft. 
+ 400 
+ 348 
+ - 
+ 22160 ft. to 26570 ft. 
+ - 
+ - 
+ 0.78 
+ 26570 ft. to 30997 ft. 
+ 366 
+ 318 
+ - 
+ above 30997 ft. 
+ - 
+ - 
+ 0.85 
+ Vfe (Flaps extended) 
+ 20° 
+ 266 
+ 231 
+ - 
+ 30° 
+ 227 
+ 197 
+ - 
+ 45° 
+ 217 
+ 189 
+ - 
+ Va (maneuvering) 
+ (See AFM for variation of Va with altitude and aircraft weight). 
+ V1o (Landing gear operation) 
+ 227 
+ 197 
+ - 
+ V1e (Landing gear extended) 
+ 288 
+ 250 
+ -"
+CG Range,"Forward Limit 
+ Aft Limit"
+See NOTE 1,"Weight, lb. 
+ % MAC (Sta.) 
+ % MAC (Sta.) 
+ 26000 to 38000 
+ 20% (+506.553) 
+ - - - 
+ 39500 to 44750 
+ 16% (+502.847) 
+ - - - 
+ 47700 
+ 20% (+506.553) 
+ - - - 
+ 47700 to 43000 
+ - - - 
+ 38% (+523.228) 
+ 38000 to 26000 
+ - - - 
+ 35% (+520.449) 
+ Straight line variation between points given."
+Datum,"Fuselage station 0, located 375 inches forward of weighing datum jig point."
+Mean Aerodynamic Chord,92.644 in. (Leading edge of MAC from datum at +488.025 in.)
+Leveling Means,"Target plate and plumb bob bracket within rear fuselage, at fuselage station 718."
+Maximum Weights,lb. *
+See NOTE 1,"Ramp 
+ 47700 
+ Takeoff 
+ 47600 
+ Landing 
+ 38000 
+ Zero Fuel 
+ 32000 
+ Minimum 
+ 26000 
+ *Certain aircraft are eligible for operation at different weights. See AFM as in approved publications. 601-3R 
+ Variant for aircraft S/N 5135 and subsequent"
+Minimum Crew,Two (Pilot and Co-pilot)
+Maximum Occupants,Twenty-two (includes crew).
+Fuel Capacity,"U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ Weight, lb. Mom.Arm-in. 
+ Usable 
+ 2 main tanks (each) 
+ 727 
+ 605 
+ 2227 
+ 4909 
+ (+506.6) 
+ Fuselage tanks 
+ 1017 
+ 847 
+ 3115 
+ 6868 
+ (+455.6) 
+ Total 
+ 2472 
+ 2059 
+ 7569 
+ 16686 
+ See NOTE 1(b) for system fuel."
+Fuel Capacity,"U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ Weight, lb. Mom.Arm-in. 
+ Usable 
+ 2 main tanks (each) 
+ 727 
+ 605 
+ 2227 
+ 4909 
+ (+506.6) 
+ Fuselage tanks 
+ 1010 
+ 841 
+ 3115 
+ 6868 
+ (+455.6) 
+ Tail tank 
+ 187.7 
+ 156.24 
+ 579 
+ 1276 
+ (+816.7) 
+ Total 
+ 2651.7 
+ 2207.24 
+ 8148 
+ 17962 
+ See NOTE 1(b) for system fuel."
+Fuel Capacity,"U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ Weight, lb. Mom.Arm-in. 
+ Usable 
+ 2 main tanks (each) 
+ 720 
+ 600 
+ 2205 
+ 4860 
+ (+506.6) 
+ Auxiliary tank 
+ 1062 
+ 884 
+ 3251 
+ 7168 
+ (+450.6) 
+ Tail tank 
+ 461 
+ 384 
+ 1411 
+ 3112 
+ (+771.7) 
+ Total 
+ 2963 
+ 2467 
+ 9072 
+ 20000 
+ See NOTE 1(b) for system fuel."
+Oil Capacity,"601-3A Variant* 
+ U.S. Gal. 
+ Imp. Gal. 
+ Kg. 
+ Weight, lb. Mom.Arm-in. 
+ 2-engines (each) 
+ 1.70 
+ 1.42 
+ 5.94 
+ 13.09 
+ (+653.0) 
+ Total 
+ 3.40 
+ 2.83 
+ 11.88 
+ 26.18 
+ (+653.0) 
+ Usable 
+ 2-engines (each) 
+ 1.38 
+ 1.14 
+ 4.80 
+ 10.59 
+ (+653.0) 
+ Total 
+ 2.75 
+ 2.29 
+ 9.60 
+ 21.18 
+ (+653.0) 
+ See NOTE 1(c) for system oil. 
+ APU 
+ Usable 
+ .408 
+ .340 
+ 1.43 
+ 3.144 
+ (+646.0) 
+ Total 
+ .714 
+ .594 
+ 2.49 
+ 5.5 
+ (+646.0) 
+ Unusable 
+ .306 
+ .254 
+ 1.06 
+ 2.356 
+ (+646.0) 
+ *601-3R Variant & 604 Variant - same as 601-3A, except as listed in the AFM approved 
+ publication."
+Maximum Operating,"Takeoff and landing: 
+ 10000 ft."
+Altitude,"En route: 
+ 41000 ft."
+Control Surface Movements Rudder,"25° (+1°, -0.5°) Left 
+ 25° (+1° or -0.5°) Right 
+ Elevator 
+ 23.6° (+ or - 1.0°) Up 
+ 18.4° (+ or - 1.0°) Down 
+ Horizontal Stabilizer 
+ 0° (+ or - 0.3°) LE Up 
+ -9° (+ or - 0.3°) LE Down 
+ Aileron 
+ 20.8° (+ or - 1°) Up 
+ 21.3° (+ or - 1°) Down 
+ Flap 
+ – Inboard 
+ 0° - 45° (+ or - 1°) Down 
+ – Outboard 
+ 0° - 46.7° (+ or - 1°) Down 
+ Flight Spoiler 
+ 0° - 40° (+3°, -0°) Up"
+Serial Numbers Eligible,5001 and subsequent
+Service Information,"Service Bulletins, structural repair manuals, and aircraft flight manuals which contain a statement that the 
+ document is Transport Canada approved or Transport Canada approved through the Manufacturers Design 
+ Approval Representative are accepted by the FAA and are considered FAA approved. These approvals 
+ pertain to the type design only. 
+ Data Pertinent to all Models"
+Approved Publications,"Model CL-600-1A11 (600) 
+ (a) 
+ Airplane Flight Manual, Canadair Publication RAG-600-101, Issue 2 (PSP 600 (U.S.) FAA, 
+ and PSP 600-1 (U.S.) for the appropriate configuration, (See NOTE 1) and approved revisions. 
+ (b) 
+ Drawing List, Canadair Publication RAL-600-105, and later approved revisions. 
+ Model CL-600-2A12 (601) 
+ (a) 
+ Airplane Flight Manual, Canadair Publication PSP 601-1A, PSP 601-1A-1, PSP 601-1B and 
+ PSP 601-1B-1 for the appropriate weight configuration, (See NOTE 1) and approved revisions. 
+ (b) 
+ Drawing List, Canadair Publication RAL-601-105, and later approved revisions. 
+ Model CL-600-2B16 (601-3A, 601-3R, & (604 Variants (from S/N 5301 to 5664))) 
+ (a) 
+ Airplane Flight Manual, Canadair Publication PSP 601A-1, PSP 601A-1-1 and PSP 604-1 for 
+ the appropriate weight configuration, (See NOTE 1) and approved revisions. 
+ (b) 
+ Drawing List, Canadair Publication RAL-601A-105 (3A & 3R Variants) and RAL-604-0001 
+ (604 Variant), and later approved revisions. 
+ Model CL-600-2B16 (604 Variant (from S/N 5701 to 5988)) 
+ (a) 
+ Airplane Flight Manual, Canadair Publication PSP 605-1 for the appropriate weight 
+ configuration, (See NOTE 1&9) and approved revisions. 
+ (b) 
+ Drawing List, Canadair Publication RAL-604-0001 (604 Variant), and later approved 
+ revisions. 
+ Model CL-600-2B16 (604 Variant (from S/N 6050 & Subs)) 
+ (a) 
+ Airplane Flight Manual, Canadair Publication PSP 650-1 for the appropriate weight 
+ configuration, (See NOTE 1&14) and approved revisions. 
+ (b) 
+ Drawing List, Canadair Publication RAL-604-0001 (604 Variant), and later approved 
+ revisions."
+Import Eligibility,"A U.S. Airworthiness Certificate may be issued on the basis of the Canadian Department of Transport 
+ ""Certificate of Airworthiness for Export"" signed by the Minister of Transport. This form must contain 
+ the following statement: 
+ (a) 
+ Model CL-600-1A11 (600) 
+ ""This certificates that the aircraft described below has been manufactured in conformity with 
+ data forming the basis for the DOT Aircraft Type Approval No. A-131, as modified by 
+ Drawing List, Canadair Publication RAL-600-105, and later approved revisions (FAA Type 
+ Certificate No. A21EA)"". 
+ (b) 
+ Model CL-600-2A12 (601) 
+ ""This certifies that the aircraft described below has been manufactured in conformity with data 
+ forming the basis for the DOT Aircraft Type Approval No. A-131 as modified by Drawing List, 
+ Canadair Publication RAL-601-105, and later approved revisions (FAA Type Certificate No. 
+ A21EA)"". 
+ (c) 
+ Model CL-600-2B16 (601-3A & 3R Variants) 
+ ""This certifies that the aircraft described below has been manufactured in conformity with data 
+ forming the basis for the DOT Aircraft Type Approval No. A-131 as modified by Drawing List, 
+ Canadair Publication RAL-601A-105 and later approved revisions (FAA Type Certificate No. 
+ A21EA)"". 
+ Model CL-600-2B16 (604 Variant) 
+ ""This certifies that the aircraft described below has been manufactured in conformity with data 
+ forming the basis for the DOT Aircraft Type Approval No. A-131 as modified by Drawing List, 
+ Canadair Publication RAL-604-0001 and later approved revisions (FAA Type Certificate No. 
+ A21EA)""."
+Certification Basis,"Model CL-600-1A11 (600), CL-600-2A12 (601), and CL-600-2B16 (601-3A & 3R Variants) 
+ FAR Part 25 dated February 1, 1965, including Amendments 25-1 through 25-37, plus 
+ FARs 25.675(a), 25.685(a), 25.733(c), 25.775(e), 25.787(c), 25.815, 25.841(b), 25.951(a), 25.979(d) 
+ and (e), 25.1041, 25.1143(e), 25.1303(a), 25.1322, 25.1385(c), 25.1557(b), 25.1583(a), of 
+ Amendment 25-38; 
+ FARs 25.901(b) and (c), 25.903(c) and (e), 25.933(a), 25.943, 25.959, 25.1091(a) and (d), 25.1145(c), 
+ 25.1199(b) and (c), 25.1207, 25.1549, 25.1585(a)(9) of Amendment 25-40; and 
+ FAR 25.1309 of Amendment 25-41; 
+ FAR 25.1353(c) of Amendment 25-42; 
+ FAR's25.571 and 25.629(d)(4) (v) of Amendment 25-45; 
+ FARs 25.351 and 25.603 of Amendment 25-46. 
+ Model CL-600-2B16 (604 Variant) 
+ FAR Part 25 dated February 1, 1965, including Amendments 25-1 through 25-78 with the following 
+ exceptions: 
+ FAR Part 25 at Amendments 25-1 through Amendment 25-37 for paragraphs: 109, 149, 365, 561, 
+ 625, 701, 772, 783 (except 783(f)), 785 (except 785(g)), 789, 791, 801, 803, 807, 809, 811, 812, 813, 
+ 831, 853, 855, 857, 1307, 1359, 1415, & 1419; 
+ FAR Part 25 at Amendment 25-37 for existing installations and Amendment 25-78 for new 
+ installations for paragraphs: 963, 965, 994, 997, and 1438; 
+ FAR Part 25 at Amendment 25-38 for paragraphs 787 and 1439; 
+ FAR Part 25 at Amendment 25-40 for paragraph 25.973; 
+ FAR Part 25 at Amendment 25-37 for paragraph 25.109 (see Note 7); 
+ FAR Part 25 at Amendment 25-44 for paragraph 25.1413; 
+ FAR Part 25 at Amendment 25-54 for paragraph 851; 
+ FAR Part 25 at Amendment 25-80 for paragraph 1316. 
+ New FAR Part 25 requirements 562, 810, 819, 832, 858, 869, (a) & (b), 1421, 1423 and 1450 are not 
+ part of the certification basis. 
+ Additional FAA Requirements 
+ (a) 
+ Model CL-600-1A11 (600) 
+ (1) 
+ FAR Part 36 dated December 1, 1969, as amended through Amendment 36-9 inclusive. 
+ (2) 
+ SFAR 27 dated February 1, 1974, as amended through Amendment SFAR 27-2. 
+ (3) 
+ Special Conditions: 
+ - No. 25-94-EA-12 dated March 26, 1980, (FAA Docket No. 16921) and 
+ Amendment No. 1 dated September 11, 1981. 
+ - No. 25-666-SC Non-Rechargeable Lithium Batteries, effective to design changes 
+ applied for after May 9, 2017. See the applicability section of this special 
+ condition for more information on which design change must meet it. 
+ Date of application for Type Certificate August 3, 1976. 
+ Type Certificate A21EA issued November 7, 1980. 
+ (b) 
+ Model CL-600-2A12 (601) 
+ (1) 
+ FAR Part 36 dated December 1, 1969, as amended through Amendments 36-9 inclusive. 
+ (2) 
+ SFAR 27 dated February 1, 1974, as amended through Amendment SFAR 27-2. 
+ (3) 
+ Special Conditions: 
+ - No. 25-ANM-1 dated March 8, 1983. 
+ - No. 25-666-SC, Non-Rechargeable Lithium Batteries, effective to design 
+ changes applied for after May 9, 2017. See the applicability section of this 
+ special condition for more information on which design change must meet it. 
+ Date of application for amendment to Type Certificate May 1, 1981. 
+ Type Certificate A21EA amended March 11, 1983. 
+ (c) 
+ Model CL-600-2B16 (601-3A & 3R Variants) 
+ (1) 
+ FAR Part 36 dated December 1, 1969, as amended through Amendments 36-9 inclusive. 
+ (2) 
+ SFAR 27 dated February 1, 1974, as amended through Amendment SFAR 27-2. 
+ (3) 
+ Special Conditions: 
+ - No. 25-ANM-1 dated March 8, 1983. 
+ - No. 25-666-SC, Non-Rechargeable Lithium Batteries, effective to design 
+ changes applied for after May 9, 2017. See the applicability section of this 
+ special condition for more information on which design change must meet it. 
+ Date of application for amendment to Type Certificate March 3, 1986. 
+ Type Certificate A21EA amended April 30, 1987. 
+ (d) 
+ Model CL-600-2B16 (604 Variant) 
+ (1) 
+ FAR Part 36 dated December 1, 1969, as amended through Amendments 36-20 
+ inclusive. 
+ (2) 
+ FAR Part 34 dated August 25, 1990 as amended through Amendment 34-1. 
+ (3) 
+ Special Conditions: 
+ - No. 25-ANM-109 dated October 31, 1995 (HIRF). 
+ - No. 25-666-SC, Non-Rechargeable Lithium Batteries, effective to design 
+ changes applied for after May 9, 2017. See the applicability section of this 
+ special condition for more information on which design change must meet it. 
+ Date of application for Change to Type Design June 14, 1993. 
+ Change to Type Design approved November 2, 1995. 
+ Equivalent safety has been established for the following requirements: 
+ (a) 
+ CL-600-1A11 (600), CL-600-2A12 (601), and CL-600-2B16 (601-3A & 3R Variants). 
+ (1) 
+ FAR 25.773(b)(2) DV Window 
+ (2) 
+ 25.955(a)(4) Blocked Flow Meter Fuel Flow Requirements 
+ (3) 
+ FAR 25.201 Stall Determination 
+ (b) 
+ CL-600-2B16 (604 Variant) 
+ (1) 
+ FAR 25.955 (a)(4) Blocked Flow Meter Fuel Flow Requirements 
+ (2) 
+ Several FAR’s for the use of Reduced Minimum Operating Speed Factors 
+ (3) 
+ FAR 25.125(a) Increased Flare Height, for Steep Approach Landing Ops. at London City 
+ (c) 
+ CL-600-1A11 (600), CL-600-2A12 (601), and CL-600-2B16 (601-3A, 3R, & 604 Variant) 
+ (1) 
+ Ditching provisions of 14 CFR 25.801 
+ (2) 
+ Ice Protection of 14 CFR 25.1419"
+Equipment,"The basic equipment as prescribed in the applicable airworthiness requirements (See 
+ Certification Basis) must be installed in the aircraft for certification. 
+ Model CL-600-1A11 (600), CL-600-2A12 (601), and CL-600-2B16 (601-3A & 3R Variants)"
+Airworthiness and Safety,"Based on § 21.101(g) for changes to TCs, applicable provisions of Part 26 are included in the"
+Improvements for Transport,"certification basis. For any future Part 26 amendments, the holder of this TC must demonstrate"
+Category Airplanes,"compliance with the applicable sections. 
+ Exemption 9947 
+ This exemption grants relief to Bombardier Model CL-600-1A11 (600), CL-600-2A12 (601), and CL- 
+ 600-2B16 (601-3A & 3R Variants) from having to meet the airworthiness requirements of §§ 26.11, 
+ 26.33, 26.35, 26.43, 26.45, and 26.49. 
+ (See Note 10 for a list of related operational requirements and associated considerations) 
+ Model CL-600-2B16 (604 Variant) 
+ Based on § 21.101(g) for changes to TCs, applicable provisions of Part 26 are included in the 
+ certification basis. For any future Part 26 amendments, the holder of this TC must demonstrate 
+ compliance with the applicable sections. 
+ Exemption 9947 
+ This exemption grants relief to Bombardier Model CL-600-2B16 (604 Variant) from having to meet 
+ the airworthiness requirements of §§ 26.11, 26.33, 26.35, 26.43, 26.45, and 26.49. 
+ (See Note 10 for a list of related operational requirements and associated considerations)"
+NOTE 1,"This Aircraft Type Certificate Data Sheet defines a configuration which does not include passenger 
+ provision for the CL-600-1A11 (600), CL-600-2A12 (601), and CL-600-2B16 (601-3A, 3R & 604 
+ Variants) models. Carriage of persons in the cabin is permitted when an approved seating arrangement 
+ and related required passenger provisions are incorporated. 
+ (a) 
+ Current weight and balance report including the list of equipment included in the certificated 
+ empty weight, and loading instructions when necessary, must be provided for each aircraft at the 
+ time of original certification. 
+ (b) 
+ Model CL-600-1A11 (600), CL-600-2A12 (601), and CL-600-2B16 (601-3A, 3R & 604 
+ Variants) 
+ System fuel, which must be included in the empty weight, is the amount of fuel required to fill 
+ the system plumbing and tanks to the undrainable level plus unusable fuel in the fuel tanks. The 
+ total amount of “system fuel” for the following Challenger variants is: 
+ Model: 
+ Total Unusable (system fuel) 
+ CL-600-1A11 (600), 2A12 (601) 
+ 16.0 gal. total, 109 lb., (arm +500.00) 
+ CL-600-2B16 (601-3A & 3R Variants) 
+ 17.5 gal. total, 119 lb., (arm +524.80) 
+ CL-600-2B16 (604 Variant) 
+ 19.0 gal. total, 129 lb., (arm +536.60) 
+ (c) 
+ Model CL-600-1A11 (600) 
+ System oil, which must be included in the empty weight, is the amount of oil necessary for 
+ engine lubrication. The total amount of ""system oil"" is as follows: 
+ 7.38 U.S. gal. (total) 56.8 lb., (arm +623) 
+ Model CL-600-2A12 (601) and CL-600-2B16 (601-3A, 3R and 604 Variant) 
+ System oil, which must be included in the empty weight, is the amount of oil necessary for 
+ engine lubrication. The total amount of ""system oil"" is as follows: 
+ 6.1 U.S. gal. (total), 47 lb., (arm +680.5) 
+ (d) 
+ Model CL-600-1A11 (600) 
+ Aircraft which incorporate Canadair Limited Modification Summaries: 
+ 1) 
+ 600-556 Modified main landing gear wheel, 
+ 2) 
+ 600-592 Modified main landing gear sidestay, 
+ 3) 
+ 600-1933 Revised airspeed limitation placard. 
+ May be operated to the following limitations (eligible Serial Numbers 1002, 1004 through 
+ 1037): 
+ Maximum Weight 
+ lb. 
+ Ramp 
+ 38650 
+ Takeoff 
+ 38500 
+ Landing 
+ 32500 
+ Zero Fuel 
+ 28500 
+ Maximum Occupants 
+ Twenty-two (includes crew) 
+ C.G. Range 
+ Forward Limit 
+ Aft Limit 
+ Weight, lb. 
+ % MAC (Sta.) 
+ % MAC (Sta.) 
+ 24000 to 38650 
+ 16 % (+502.848) 
+ - - - 
+ 38650 
+ - - - 
+ 28% (+513.965) 
+ 25800 
+ - - - 
+ 33% (+518.598) 
+ 24000 
+ - - - 
+ 33% (+518.598) 
+ Straight line variation between points given. 
+ Maximum Operating Altitude 
+ Takeoff and landing 
+ 10000 ft. 
+ En route 
+ 40000 ft. 
+ 41000 ft. 
+ with Canadair Limited Modification Summaries 
+ 600-1923 & 600-8330 incorporated. 
+ (e) 
+ Model CL-600-1A11 (600) 
+ Aircraft which incorporate Canadair Limited Modification Summaries: 
+ 1) 
+ 600-594 Landing gear for 40400 lb. takeoff weight aircraft, 
+ 2) 
+ 600-616 Wheels and brakes for the 40400 lb. takeoff weight aircraft, 
+ 3) 
+ 600-643 Structural reinforcement at wing B.L. O rib, 
+ 4) 
+ 600-752 Modified anti-skid unit, 
+ 5) 
+ 600-817 Stall protection system computer for the 40400 lb. takeoff weight aircraft, 
+ 6) 
+ 600-8150 Placard for the 40400 lb. takeoff weight aircraft, 
+ 7) 
+ 600-760 Drop down passenger door-production improvement (required only on 
+ S/N 1024 & subsequent). 
+ May be operated to the following limitations (eligible Serial Numbers 1002, 1004 and 
+ subsequent): 
+ Maximum Weight 
+ lb. 
+ Ramp 
+ 40550 
+ Takeoff 
+ 40400 
+ Landing 
+ 36000 
+ Zero fuel 
+ 28500 
+ Maximum Occupants 
+ Twenty-two (includes crew) 
+ C.G. Range (Aircraft without Canadair Modification Summary 600-8265 incorporated) 
+ Forward Limit 
+ Aft Limit 
+ Weight, lb. 
+ % MAC (Sta.) 
+ % MAC (Sta.) 
+ 24000 to 40550 
+ 16 % (+502.848) 
+ - 
+ 40550 
+ - 
+ 27% (+513.039) 
+ 38000 
+ - 
+ 31% (+516.745) 
+ 31000 
+ - 
+ 31% (+516.745) 
+ 27500 
+ - 
+ 33% (+518.598) 
+ 24000 
+ - 
+ 33% (+518.598) 
+ Straight line variation between points given. 
+ C.G. Range (Aircraft with Canadair Modification Summary 600-8265 incorporated) 
+ Forward Limit 
+ Aft Limit 
+ Weight, lb. 
+ % MAC (Sta.) 
+ % MAC (Sta.) 
+ 24000 to 40550 
+ 16 % (+502.848) 
+ - 
+ 40550 
+ - 
+ 27% (+513.039) 
+ 38000 
+ - 
+ 31% (+516.745) 
+ 31000 
+ - 
+ 31% (+516.745) 
+ 28500 
+ - 
+ 35% (+520.450) 
+ 24000 
+ - 
+ 33% (+520.450) 
+ Straight line variation between points given. 
+ Maximum Operating Altitude 
+ Takeoff and landing 
+ 10000 ft. 
+ En route 
+ 40000 ft. 
+ 41000 ft. 
+ with Canadair Modification Summaries 600-1923 
+ & 600-8330 incorporated 
+ (f) 
+ Model CL-600-1A11 (600) 
+ Airspeed Limits (CAS) 
+ Aircraft which, in addition to the Canadair Modification Summaries essential for operation at a 
+ maximum takeoff weight of 40400 lb., also incorporate the following Canadair Modification 
+ Summary: 
+ 1) 
+ 600-665 Revised Vmo/Mmo outputs of ADC and limitations placard may be operated 
+ at the following limitations: 
+ Vmo and Mmo (maximum operating) 
+ m.p.h. 
+ Knots 
+ Mach. 
+ Sea level to 10000 feet 
+ 345 
+ 300 
+ - 
+ Above 10000 feet 
+ 420 
+ 365 
+ 0.835 
+ Extension of the flight spoilers at airspeeds above Mach = 0.79 is not permitted unless the 
+ following additional Canadair Modification Summaries are incorporated: 
+ 1) 
+ 600-512 Prevention of spoiler asymmetry 
+ 2) 
+ 600-809 Dormant failure protection of the flight spoiler detent 
+ 3) 
+ 600-8212 Hydraulic pipe routing to suit spoiler detent mechanism. 
+ (g) 
+ Model CL-600-1A11 (600) 
+ Aircraft Serial Numbers 1086 and subsequent and aircraft incorporated the following: 
+ 1) 
+ Either 
+ a) 
+ Canadair Service Bulletin 
+ 600-0378 – Modification - Stall Protection System - Stall Strip Removal and 
+ Altitude Compensation 
+ or 
+ b) 
+ Supplementary Type Certificate SA99NE - Wing Stall Strip Removed 
+ and 
+ 2) 
+ Canadair Service Bulletin 
+ 600-0379 - Modification - Tires and Airspeed Limitation Placards – 41100 Pounds 
+ Takeoff Weight. 
+ May be operated to the following limitations (eligible Serial Numbers 1002, 1004 and 
+ subsequent) 
+ Maximum Weight 
+ lb. 
+ Ramp 
+ 41250 
+ Takeoff 
+ 41100 
+ Landing 
+ 36000 
+ Zero fuel 
+ 28500 
+ Maximum Occupants 
+ Twenty-two (includes crew). 
+ C.G. Range Aircraft 1004, 1009, 1053 to 1056, 1066 and subsequent and Aircraft incorporating 
+ Canadair Service Bulletin 600-0221 or 600-0486 
+ Forward Limit 
+ Aft Limit 
+ Weight, lb. 
+ % MAC (Sta.) 
+ % MAC (Sta.) 
+ 24000 to 41250 
+ 16% (+502.848) 
+ - 
+ 41250 
+ - 
+ 26% (+512.112) 
+ 38000 
+ - 
+ 31% (+516.745) 
+ 31000 
+ - 
+ 31% (+516.745) 
+ 28500 
+ - 
+ 35% (+520.450) 
+ 24000 
+ - 
+ 35% (+520.450) 
+ Straight line variation between points given. 
+ C.G. Range (Other Aircraft) 
+ Forward Limit 
+ Aft Limit 
+ Weight, lb. 
+ % MAC (Sta.) 
+ % MAC (Sta.) 
+ 24000 to 41250 
+ 16% (+502.848) 
+ - 
+ 41250 
+ - 
+ 26% (+512.112) 
+ 38000 
+ - 
+ 31% (+516.745) 
+ 31000 
+ - 
+ 31% (+516.745) 
+ 27500 
+ - 
+ 33% (+518.598) 
+ 24000 
+ - 
+ 33% (+518.598) 
+ Straight line variation between points given. 
+ Maximum Operating Altitude 
+ Takeoff and landing 
+ 10000 ft. 
+ En route 
+ 41000 ft. 
+ Airspeed Limits (CAS) 
+ Vmo and Mmo (maximum operating) 
+ m.p.h. 
+ Knots 
+ Mach. 
+ Sea level to 10000 feet 
+ 345 
+ 300 
+ - 
+ Above 10000 feet 
+ 420 
+ 365 
+ 0.835 
+ Extension of the flight spoilers at airspeeds above Mach = 0.80 is not permitted on 
+ Aircraft S/N 1005 to 1008, 1010 to 1052, 1057 to 1066 not incorporating Canadair 
+ Service Bulletin 600-0086 Modification - Spoilers - Ground Spoiler Activation and 
+ Flight Spoiler Detent Mechanism. 
+ (h) 
+ Model CL-600-1A11 (600) 
+ Aircraft incorporating the following Canadair Service Bulletins 
+ a) 
+ 600-0350 Modification - Engine Speed Indicating- N1 Fan Speed Indicator 
+ b) 
+ 600-0379 Modification - Tires and Airspeed Limitation Placards - 41100 lb. 
+ Takeoff Weight. 
+ c) 
+ 600-0401 Modification - Winglets - Addition 
+ With Aircraft Serial Numbers 1005 to 1008 and 1010 to 1051 incorporating the following 
+ additional Canadair Service Bulletins 
+ either 
+ 600-0096 Modification - Nose Landing Gear Steering 
+ or 
+ 600-0380 Modification - Nose Gear - Steer by Wire. 
+ May be operated to the following limitations (eligible Serial Numbers 1002, 1004 and 
+ subsequent). 
+ Maximum Weight 
+ lb. 
+ Ramp 
+ 41250 
+ Takeoff 
+ 41100 
+ Landing 
+ 36000 
+ Zero Fuel 
+ 28500 
+ Maximum Occupants 
+ Twenty-two (includes crew). 
+ C.G. Range Aircraft 1004, 1009, 1053 to 1056, 1066 and Subsequent and Aircraft 
+ Incorporating Canadair Service Bulletin 600-0221 or 600-0486 
+ Forward Limit 
+ Aft Limit 
+ Weight, lb. 
+ % MAC (Sta.) 
+ % MAC (Sta.) 
+ 24000 to 41250 
+ 16% (+502.848) 
+ - 
+ 41250 
+ - 
+ 26% (+512.112) 
+ 38000 
+ - 
+ 31% (+516.745) 
+ 31000 
+ - 
+ 31% (+516.745) 
+ 28500 
+ - 
+ 35% (+520.450) 
+ 24000 
+ - 
+ 35% (+520.450) 
+ Straight line variation between points given. 
+ C.G. Range (Other Aircraft) 
+ Forward Limit 
+ Aft Limit 
+ Weight, lb. 
+ % MAC (Sta.) 
+ % MAC (Sta.) 
+ 24000 to 41250 
+ 16% (+502.848) 
+ - 
+ 41250 
+ - 
+ 26% (+512.112) 
+ 38000 
+ - 
+ 31% (+516.745) 
+ 31000 
+ - 
+ 31% (+516.745) 
+ 27500 
+ - 
+ 33% (+518.598) 
+ 24000 
+ - 
+ 33% (+518.598) 
+ Straight line variation between points given. 
+ Maximum Operating Altitude 
+ Takeoff and landing 
+ 10000 ft. 
+ En route 
+ 41000 ft. 
+ Airspeed Limits (CAS) 
+ Vmo and Mmo (maximum operating) 
+ m.p.h. 
+ Knots 
+ Mach 
+ Sea level to 10000 feet 
+ 345 
+ 300 
+ - 
+ 10000 ft. to 21420 ft. 
+ 420 
+ 365 
+ - 
+ 21420 ft. to 25740 ft. 
+ - 
+ - 
+ 0.79 
+ 25740 ft. to 28640 ft. 
+ 385 
+ 335 
+ - 
+ above 28640 ft. 
+ - 
+ - 
+ 0.835 
+ Vfe (Flaps extended) 
+ 20° 
+ 265 
+ 230 
+ 30° 
+ 226 
+ 196 
+ 45° 
+ 215 
+ 187 
+ Extension of the flight spoilers at airspeeds above Mach = 0.79 is not permitted on 
+ Aircraft S/N 1005 to 1008, 1010 to 1052, 1057 to 1066 not incorporating Canadair 
+ Service Bulletin 600-0086 Modification - Spoilers - Ground Spoiler Activation and 
+ Flight Spoiler Detent Mechanism. 
+ (i) 
+ Model CL-600-1A11 (600) 
+ Aircraft incorporating the following Canadair Service Bulletins 
+ a) 
+ 600-0350 Modification - Engine Speed Indicating- N1 Fan Speed Indicator 
+ b) 
+ 600-0446 Modification - Placard-41250 lb. Take-off Weight (Aircraft with Winglets). 
+ c) 
+ 600-0401 Modification - Winglets - Addition 
+ With Aircraft Serial Numbers 1005 to 1008 and 1010 to 1051 incorporating the following 
+ additional Canadair Service Bulletins 
+ either 
+ 600-0096 Modification - Nose Landing Gear Steering 
+ or 
+ 600-0380 Modification - Nose Gear - Steer by Wire. 
+ May be operated to the following limitations (eligible Serial Numbers 1002, 1004 and 
+ subsequent). 
+ Maximum Weight 
+ lb. 
+ Ramp 
+ 41400 
+ Takeoff 
+ 41250 
+ Landing 
+ 36000 
+ Zero Fuel 
+ 28500 
+ Maximum Occupants 
+ Twenty-two (includes crew). 
+ C.G. Range Aircraft 1004, 1009, 1053 to 1056, 1066 and Subsequent and Aircraft Incorporating 
+ Canadair Service Bulletin 600-0221 
+ Forward Limit 
+ Aft Limit 
+ Weight, lb. 
+ % MAC (Sta.) 
+ % MAC (Sta.) 
+ 24000 to 41400 
+ 16% (+502.848) 
+ - 
+ 41400 
+ - 
+ 26% (+512.112) 
+ 38000 
+ - 
+ 31% (+516.745) 
+ 31000 
+ - 
+ 31% (+516.745) 
+ 28500 
+ - 
+ 35% (+520.450) 
+ 24000 
+ - 
+ 35% (+520.450) 
+ Straight line variation between points given. 
+ C.G. Range (Other Aircraft) 
+ Forward Limit 
+ Aft Limit 
+ Weight, lb. 
+ % MAC (Sta.) 
+ % MAC (Sta.) 
+ 24000 to 41400 
+ 16% (+502.848) 
+ - 
+ 41400 
+ - 
+ 26% (+512.112) 
+ 38000 
+ - 
+ 31% (+516.745) 
+ 31000 
+ - 
+ 31% (+516.745) 
+ 27500 
+ - 
+ 33% (+518.598) 
+ 24000 
+ - 
+ 33% (+518.598) 
+ Straight line variation between points given. 
+ Maximum Operating Altitude 
+ Takeoff and landing 
+ 10000 ft. 
+ En route 
+ 41000 ft. 
+ Airspeed Limits (CAS) 
+ Vmo and Mmo (maximum operating) 
+ m.p.h 
+ Knots 
+ Mach 
+ Sea level to 10000 feet 
+ 345 
+ 300 
+ - 
+ 10000 ft. to 21420 ft. 
+ 420 
+ 365 
+ - 
+ 21420 ft. to 25740 ft. 
+ - 
+ - 
+ 0.79 
+ 25740 ft. to 28640 ft. 
+ 385 
+ 335 
+ - 
+ above 28640 ft. 
+ - 
+ - 
+ -0.835 
+ Vfe (Flaps extended) 
+ 20° 
+ 265 
+ 230 
+ 30° 
+ 226 
+ 196 
+ 45° 
+ 215 
+ 187 
+ Extension of the flight spoilers at airspeeds above Mach = 0.79 is not permitted on 
+ Aircraft S/N 1005 to 1008, 1010 to 1052, 1057 to 1066 not incorporating Canadair 
+ Service Bulletin 600-0086 Modification – Spoilers - Ground Spoiler Activation and 
+ Flight Spoiler Detent Mechanism. 
+ (j) 
+ Model CL-600-2A12 (601) 
+ Aircraft Serial Numbers 3018 and subsequent and aircraft incorporating the following Canadair 
+ Service Bulletin 601-0032 - Modification - Tires and Airspeed Limitation Placards 43100 lb. 
+ Takeoff Weight may be operated to the following limitations (eligible Serial Numbers 3001 and 
+ subsequent) 
+ Maximum Weight 
+ lb. 
+ Ramp 
+ 43250 
+ Takeoff 
+ 43100 
+ Maximum Occupants 
+ Twenty-two (includes crew). 
+ C.G. Range 
+ Forward Limit 
+ Aft Limit 
+ Weight, lb. 
+ % MAC (Sta.) 
+ % MAC (Sta.) 
+ 25000 to 43250 
+ 16% (+502.848) 
+ - 
+ 43250 
+ - 
+ 30% (+515.818) 
+ 31000 
+ - 
+ 35% (+520.450) 
+ 25000 
+ - 
+ 35% (+520.450) 
+ Straight line variation between points given."
+NOTE 2,"Model CL-600-1A11 (600) 
+ All placards must be installed in accordance with Canadair Limited Drawings: 600-40402, 600- 
+ 40452, 600-51000, 600-51002, 600-51004 
+ Model CL-600-2A12 (601) 
+ All placards must be installed in accordance with Canadair Limited Drawings: 601-40402, 601- 
+ 40452, 600-51000, 600-51002, 601-51004. 
+ Model CL-600-2B16 (601-3A, 3R and 604 Variants) 
+ All placards must be installed in accordance with Canadair Limited Drawings: 601-40402, 601-40452, 
+ 601A51000, 601A51002, 601A51004.(601-3A & 3R Variants) 601-40402, 601-40452 & 604-51000 
+ (604 Variant)"
+NOTE 3,"Model CL-600-1A11 (600) 
+ The airplane life limits and repetitive inspections for components and equipment are listed in Canadair 
+ Time Limits/Maintenance Checks, PSP 605. These limitations may not be changed without FAA 
+ Engineering approval. This document with Canadair Maintenance Manual, PSP 602 and Job 
+ Inspection Card Manual PSP 622, NDT-612 contain all information essential for proper maintenance. 
+ Model CL-600-2A12 (601) 
+ The airplane life limits and repetitive inspections for components and equipment are listed in Canadair 
+ Time Limits/Maintenance Checks, PSP 601-5. These limitations may not be changed without FAA 
+ Engineering approval. This document with Canadair Maintenance Manual, PSP 601-2 and Job 
+ Inspection Card Manual PSP 601-22, NDT-612 contain all information essential for proper 
+ maintenance. 
+ Model CL-600-2B16 (601-3A, 3R and 604 Variants) 
+ The airplane life limits and repetitive inspections for components and equipment are listed as 
+ follows: 
+ 1. 
+ 601 3A and 3R Variants: Canadair Time Limits/Maintenance Checks, PSP 601A-5; 
+ 2. 
+ 604 Variant (s/n 5301 to 5664): Time Limits/Maintenance Checks, Identification No. CH 
+ 604 TLMC, Section 5-10; 
+ 3. 
+ 604 Variant (s/n 5701 to 5988): Time Limits/Maintenance Checks, Identification No. CH 
+ 605 TLMC, Section 5-10. 
+ 4. 
+ 604 Variant (s/n 6050 and subsequent): Time Limits/Maintenance Checks, Identification No. 
+ CH 650 TLMC, Section 5-10. 
+ These limitations may not be changed without FAA Engineering approval. These documents and the 
+ associated Canadair Maintenance Manual: 
+ 1. 
+ 601 3A and 3R Variants: Aircraft Maintenance Manual PSP 601-2 Identification No. CH 
+ 601MM; 
+ 2. 
+ 604 Variant (s/n 5301 to 5664): Aircraft Maintenance Manual Identification No. CH 604 
+ MM; 
+ 3. 
+ 604 Variant (s/n 5701 to 5988): Aircraft Maintenance Manual Identification No. CH 605 
+ MM; 
+ 4. 
+ 604 Variant (s/n 6050 and subsequent): Aircraft Maintenance Manual Identification No. CH 
+ 650MM; 
+ and/or Job Inspection Card Manuals PSP601A-22 (601-3A Variant) and/or PSP 601R-22 (601-3R 
+ Variant), PSP604-22 (604 Variant), NDT604-12 contain all information essential for proper 
+ maintenance."
+NOTE 4,RESERVED
+NOTE 5,RESERVED
+NOTE 6,RESERVED
+NOTE 7,"Model Cl-600-2B16 (604 Variant) 
+ The following additional requirements must be included with FAR 25.109 at Amendment 
+ 25-37: 
+ 1. 
+ Airplane Flight Manual information, in the form of guidance material, must be provided for 
+ supplementary operating procedures and performance information for operating on wet and 
+ contaminated runways. 
+ 2. 
+ The accelerate-stop distance and landing distance must be determined using the braking 
+ performance which is obtained with the brake conditions that are expected in service."
+NOTE 8,RESERVED
+NOTE 9,"The Challenger 605 is a marketing designation for the Challenger CL-600-2B16 (604 Variant) with 
+ Modsums 604DX10000, 604DX20000 and 604DX30000 incorporated, beginning with aircraft s/n 5701 
+ to s/n 5988. This designation is for marketing purposes only."
+NOTE 10,"This exemption does not grant relief from the related operational requirements contained in §§ 
+ 121.1109, 121.1111, 121.1117, 125.509, 129.109, 129.111 or 129.117. Should a person choose to operate 
+ a Bombardier Model CL-600-1A11 (600), CL-600-2A12 (601), CL-600-2B16 (601-3A Variant), CL- 
+ 600-2B16 (601-3R Variant) or CL-600-2B16 (604 Variant) airplane under part 121, 125, or part 129 
+ beyond the operational compliance deadlines as stated in §§ 121.1109, 121.1111, 121.1117, 125.509, 
+ 129.109, 129.111 or 129.117, that person will be required to comply with those operational requirements."
+NOTE 11,RESERVED
+NOTE 12,RESERVED
+NOTE 13,RESERVED
+NOTE 14,"The Challenger 650 is a marketing designation for the Challenger CL-600-2B16 (604 Variant) 
+ beginning with aircraft s/n 6050 and subsequent. This designation is for marketing purposes only."
+NOTE 15,RESERVED
+NOTE 16,RESERVED
+NOTE 17,"The following models were previously recorded on Revision No. 48 of this TCDS A21EA and have been 
+ administratively transferred to TCDS A21EA-1 Revision No. IR on November 26, 2019 pursuant to 14 
+ CFR § 21.47: 
+ • CL-600-2B19 (Regional Jet Series 100 & 440) 
+ • CL-600-2C10 (Regional Jet Series 700, 701 & 702) 
+ • CL-600-2C11 (Regional Jet Series 550) 
+ • CL-600-2D15 (Regional Jet Series 705) 
+ • CL-600-2D24 (Regional Jet Series 900) 
+ • CL-600-2E25 (Regional Jet Series 1000) 
+ Existing manufactured Regional Jet Series aircraft have identification data plates which still refer to this 
+ FAA Type Certificate A21EA since the approved type design was recorded on this FAA Type Certificate 
+ A21EA at the time of manufacture. Since both FAA Type Certificates A21EA and A21EA-1 cross- 
+ reference each other via a record on the first page of both FAA Type Certificate Data Sheets, these aircraft 
+ will not require Supplemental aircraft identification data plates to comply with 14CFR §§ 21.182, 45.11, 
+ & 45.13. 
+ FAA Airworthiness Directives (ADs) and any associated Alternate Means of Compliance (AMOCs) that 
+ refer to this FAA Type Certificate A21EA and apply to any of the approved Regional Jet Series aircraft 
+ models listed above, continue to remain applicable following this administrative change. 
+ Existing FAA Supplemental Type Certificates (STCs), Part Manufacturing Approvals (PMAs), 
+ Airworthiness Directives (ADs) or Alternate Means of Compliance (AMOCs) that refer to this FAA Type 
+ Certificate A21EA and list any of the approved Regional Jet Series aircraft models listed above, are not 
+ required to be revised following this administrative change. When revising FAA STCs or PMAs for any 
+ Variant 
+ Marketing 
+ Model 
+ Serial Number 
+ Designation 
+ Designation 
+ CL600-1A11 
+ CL600 
+ 1002, 1004-1085 
+ CL600-2A12 
+ CL601 
+ 3001-3066 
+ CL600-2B16 
+ 601-3A 
+ CL601-3A 
+ 5001-5134 
+ CL600-2B16 
+ 601-3R 
+ CL601-3R 
+ 5135-5194 
+ CL600-2B16 
+ 604 
+ CL604 
+ 5301-5664 
+ CL600-2B16 
+ 604 
+ CL605 
+ 5701-5988 
+ CL600-2B16 
+ 604 
+ CL650 
+ 6050-6999 
+ ...END..."

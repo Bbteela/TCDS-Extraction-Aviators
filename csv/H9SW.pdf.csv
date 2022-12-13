@@ -1,0 +1,1311 @@
+Keyterm,Info
+"H9SW 
+ REVISION 18 
+ BELL 
+ 222 
+ 222B 
+ 222U 
+ 230 
+ 430 
+ February 11, 2022",
+Type Certificate Holder,"Bell Textron Canada Limited 
+ 12800 Rue De l'Avenir 
+ Mirabel, Quebec 
+ J7J 1R4 Canada"
+Type Certificate Holder Record,Bell Helicopter Textron Canada Limited was the previous name of TC holder.
+Type Certificate Holder,"Period 
+ Bell Helicopter Textron, Fort Worth, Texas 
+ Prior to 28 February 1992 
+ Bell Helicopter Textron, A Division of Textron Canada Limited, Mirabel, Québec 
+ 28 February, 1992 to 19 December 2001 
+ Bell Helicopter Textron Canada Limited, Mirabel Quebec. 
+ 20 December 2001 to 15 December 2019 
+ 16 December 2019 to Present 
+ Effective 16 December 2019 Bell Helicopter Textron Canada Limited was revised to 
+ Bell Textron Canada Limited, Mirabel Quebec"
+"MODEL 222 (TRANSPORT CATEGORY A AND B), APPROVED MAY 24, 1983",
+Engines,"(2) Avco Lycoming LTS 101-650C-2, -3, -3A"
+Fuel,"SPECIFICATION 
+ TYPE 
+ USA 
+ CANADA 
+ Kerosene 
+ CGSB 3.23 
+ ASTM D-1655 
+ JET A 
+ JET A-1 
+ CGSB 3.23 
+ ASTM D-1655 
+ JP-8 
+ 3-GP-23 
+ MIL-DTL-83133 
+ Wide Cut 
+ JET B 
+ CGSB 3.22 
+ ASTM D-6615 
+ JP-4 
+ CGSB 3.22 
+ MIL-DTL-5624 
+ High Flash 
+ JP-5 
+ 3-GP-24 
+ MIL-DTL-5624 
+ See FAA-approved Rotorcraft Flight Manual for temperature limitations. Fuel Additives: See NOTE 4."
+Engine Limits,All Engines Operating:
+See NOTE 5,"Take off 
+ Mast Torque 
+ Main Rotor 
+ (5 Min.) 
+ Meter 
+ Mast Speed 
+ (100%) 
+ 348 rpm 
+ 13,205 ft. lb 
+ (100%)"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ I I I"
+Rev No,"18 
+ 14 
+ 14 
+ 14 
+ 14 
+ 14 
+ 14 
+ 14 
+ 14 
+ 14 
+ 14 
+ 14 
+ 16 
+ 16 
+ 14 
+ 14 
+ 17 
+ 18 
+ 17 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 49,638 rpm 
+ 782°C 
+ (103.7%) 
+ (1,440°F) 
+ Maximum Continuous 
+ Mast Torque 
+ Main Rotor 
+ Meter 
+ Mast Speed 
+ (100%) 
+ 348 rpm 
+ 13,205 ft. lb 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 49,159 rpm 
+ 763°C 
+ (102.7%) 
+ (1,405°F) 
+ One Engine Inoperative: 
+ 2½ Min. Power 
+ Engine Torque 
+ Output Shaft 
+ Meter 
+ Speed 
+ (100%) 
+ 9,545 rpm 
+ 383 ft. lb 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 50,548 rpm 
+ 832°C 
+ (105.6%) 
+ (1,530°F) 
+ 30 Min. Power 
+ Engine Torque 
+ Output Shaft 
+ Meter 
+ Speed 
+ (96%) 
+ 9,545 rpm 
+ 369 ft. lb 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 50,169 rpm 
+ 796°C 
+ (104.8%) 
+ (1,464°F) 
+ Maximum Continuous 
+ Engine Torque 
+ Output Shaft 
+ Power 
+ Meter 
+ Speed 
+ (87%) 
+ 9,545 rpm 
+ 335 ft. lb 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 49,159 rpm 
+ 763°C 
+ (102.7%) 
+ (1,405°F) 
+ Takeoff and maximum continuous mast torque limits correspond to 875 shp at 348 
+ rpm (9,545 rpm Power Turbine Speed) at the mast but not more than 539 shp from 
+ each engine. 
+ Values of torque, gas generator speed and measured gas temperature correspond to 
+ eligible engine operating limits and exceed the standard day, sea level rating. 
+ Power On"
+Rotor Speed Limits,"Power Off 
+ Maximum 364 rpm. 
+ Maximum 348 rpm 
+ (Tach reading 104%) 
+ (Tach reading 100%) 
+ Minimum 313 rpm. 
+ Minimum 338 rpm 
+ (Tach reading 90%) 
+ (Tach reading 97%) 
+ For Weights more than 
+ 2722 kg. (6000 lb.) 
+ Maximum 296 rpm. 
+ (Tach reading 85%) 
+ For Weights less than 
+ 2722 kg. (6000 lb.)"
+Transmission Torque,"Mast torque = 17897 Nm (13,205 ft. lbs.) at 348 rpm."
+Airspeed Limits,"VNE (Never exceed) 150 knots Sea level to 3,000 feet density altitude (Hd). Decrease"
+IAS,"VNE 3 knots per 1,000 feet Hd above 3,000 feet. 
+ Knots 
+ VNE 
+ (power off) 
+ 80 
+ VLO 
+ (Landing Gear Operation) 
+ 120 
+ Maximum sideward/rearward flight 
+ 30 
+ Maximum Taxi Ground Speed 
+ 35"
+Center of Gravity CG,See FAA-approved Rotorcraft Flight Manual
+Empty Weight CG Range,See Maintenance Manual
+Datum,"Station 0 (datum is located 241.3 cm (95 inches) forward of the fuselage nose or 
+ 230.38 cm (90.7 inches) forward of the radome nose)."
+Leveling Means,Plumb line from right inside top of baggage compartment.
+Maximum Weights,"kg 
+ lb"
+See NOTE 1,"Internal 
+ 3561 
+ 7850 
+ External 
+ 3674 
+ 8100"
+Minimum Crew,"1 pilot (right seat) 
+ VFR operations 
+ 1 pilot 
+ IFR operations when modified in accordance with BHT-222- 
+ FMS-17"
+Number of Seats,10 (includes pilot)
+Maximum Baggage,226.8 kg (500 lbs)
+Fuel Capacity,"S/N 47006 to 47023 
+ Litres 
+ Imp. Gals 
+ U.S. Gals 
+ Usable 
+ 670.7 
+ 147.6 
+ 177.2 
+ Unusable 
+ 33.3 
+ 7.3 
+ 8.8 
+ S/N 47006 to 47023 when modified per Technical Bulletin 222-80-1, and S/N 47024 
+ to 47089 
+ Usable 
+ 709.8 
+ 156.2 
+ 187.5 
+ Unusable 
+ 8.7 
+ 1.9 
+ 2.3"
+Oil Capacity,"Usable 
+ 3.78 
+ 0.83 
+ 1.0 
+ Total 
+ 14.1 
+ 3.1 
+ 3.7"
+Maximum Operating,"20,000 feet pressure altitude"
+Altitude,"10,500 feet density altitude for takeoff, landing, and in-ground-effect maneuvers"
+Rotor Blade ,"For rigging information, refer to the appropriate Model 222 Series Maintenance"
+Control Movement,Manual.
+Manufacturer’s Serial,S/N 47006 to 47089
+Import Requirements,See NOTE 6
+Certification Basis,"FAR part 29 dated February 1, 1965, (Transport Category A & B) Amdt 29-1 through 
+ 29-9, Amdt 29-11. FAR 29.997 of Amdt 29-10 and FAR 29.927 (b) (2) ofAmdt 
+ 29.17. Special conditions No. 29-87-SW-7. Ditching FAR 29.801 of Amdt 29-12. 
+ External cargo FAR 29.25(c) and 29.865 of Amdt 29-12. FAR 29.1557.c and FAR 
+ 29.1555.c of Amdt 29-12. Height velocity requirements of Amdt. 29-12, Section 
+ 29.1, 29.79 29.1517 and 29.1587. IFR requirements dated August 12, 1976. FAA 
+ issued Exemption No. 2789. FAR 29.811 (h)(l). Exemption No. 4395 FAR 29.855 
+ (a) and portions of 29.855 (d). 
+ Equivalent Safety Findings: 
+ 1. 
+ Power Turbine Common Control 
+ FAR 29.903 (b) 
+ 2. 
+ Fuel Pressure Switch 
+ FAR 29.1305(b)(2) 
+ 3. 
+ Fireproof Oil System 
+ FAR 29.1189 
+ 4. 
+ Crash Resistant Fuel Cell 
+ FAR 29.963(b) & 29.965 
+ 5. 
+ Crew Door Switch 
+ FAR 29.783(e) 
+ 6. 
+ Unsafe Rotor and Engine Out 
+ FAR 29.33(b), 
+ Warning Indicator 
+ 29.1357(e) & Special 
+ Flight Condition No. 2 
+ 7. 
+ Aft Window Exit Size 
+ FAR 29.807 (a)(4) 
+ 8. 
+ Main Door Window Exit Size 
+ FAR 29.807(d)(1) 
+ for Ditching 
+ 9. 
+ Hoist Manual Release 
+ FAR 29.865(b)(2 
+ 10. 
+ Baggage Compartment Liner 
+ FAR 29.855(a) 
+ 11. 
+ Main Gear Drop Test for 
+ FAR 29.725, 29.727 
+ 3561 kg (7850 lbs) GW"
+Production Basis,"Model 222 helicopters, Serial Numbers 47006 to 47089 were manufactured by Bell 
+ Helicopter Textron, Fort Worth, Texas under FAA Type Certificate H9SW."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the helicopter for 
+ certification. In addition, the following items of equipment are required. 
+ (1) 
+ Batteries: 
+ Marathon 206-075-742-105 
+ EPI 18137 (222-375-049-101), or GE 43B010RB03, 
+ SAFT 1756. 
+ (2) 
+ Passenger shoulder harness. 
+ (3) 
+ Canadian Kit, Modification 222-899-021 for Canadian 
+ Registered helicopters only."
+Service Information,"FAA-approved Rotorcraft Flight Manual BHT-222-FM-1 S/N 47006 to 47080 and 
+ BHT-222-FM-2 S/N 47081 to 47089 February 28, 1992, or later FAA-approved 
+ revision."
+"MODEL 222B AND MODEL 222U (TRANSPORT CATEGORY A AND B), APPROVED 19 SEPTEMBER 
+ 1983 
+ (DATA IS PERTINENT TO BOTH MODELS EXCEPT AS INDICATED)",
+Engines,2 Avco Lycoming LTS 101 750C-1
+Fuel,"SPECIFICATION 
+ TYPE 
+ CANADA 
+ USA 
+ Kerosene 
+ JET A 
+ CGSB 3.23 
+ ASTM D-1655 
+ JET A-1 
+ CGSB 3.23 
+ ASTM D-1655 
+ JP-8 
+ 3-GP-23 
+ MIL-DTL-83133 
+ Wide Cut 
+ JET B 
+ CGSB 3.22 
+ ASTM D-6615 
+ JP-4 
+ CGSB 3.22 
+ MIL-DTL-5624 
+ High Flash 
+ JP-5 
+ 3-GP-24 
+ MIL-DTL-5624 
+ See FAA-approved Rotorcraft Flight Manual for temperature limitations. 
+ Fuel Additives: See NOTE 4."
+Engine Limits,All Engines Operating:
+See NOTE 5,"Takeoff 
+ Mast Torque 
+ Main Rotor 
+ (5 Min.) 
+ Meter 
+ Mast Speed 
+ (100%) 
+ 348 rpm. 
+ 13,960 ft. lb 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 49,830 rpm 
+ 786°C 
+ (104.1%) 
+ (1,447°F) 
+ Maximum Continuous 
+ Mast Torque 
+ Main Rotor 
+ Meter 
+ Mast Speed 
+ (94.6%) 
+ 348 rpm 
+ 13,960 ft. lb 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 765°C 
+ 49,255 rpm 
+ (1,410°F) 
+ (102.9%) 
+ One Engine Inoperative: 
+ 2½ Min. Power 
+ Engine Torque 
+ Output Shaft 
+ Meter 
+ Speed 
+ (100%) 
+ 9,545 rpm 
+ 404 ft. lb 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 822°C 
+ 50,787 rpm 
+ (1,512°F) 
+ (106.1%) 
+ 30 Min. Power 
+ Engine Torque 
+ Output Shaft 
+ Meter 
+ Speed 
+ (97.3%) 
+ 9,545 rpm 
+ 393 ft. lb 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 800°C 
+ 50,165 rpm 
+ (1,472°F) 
+ (104.8%) 
+ Maximum Continuous 
+ Engine Torque 
+ Output Shaft 
+ Power 
+ Meter 
+ Speed 
+ (86.4%) 
+ 9,545 rpm 
+ 349 ft. lb 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 49,255 rpm 
+ 765°C 
+ (102.9%) 
+ (1,410°F) 
+ Measured Gas Temperature (MGT) Transient Limits 
+ Start: 
+ 900°C 
+ 12 second Transient: 
+ 832°C"
+Rotor Speed Limits,"Power Off 
+ RPM 
+ % 
+ Min. Transient 
+ 285 
+ 82 
+ Min. (Less than 2722 kg (6000 lb)) 
+ 296 
+ 85 
+ Min. (2722 kg (6000 lb) or over) 
+ 313 
+ 90 
+ Maximum 
+ 362 
+ 104 
+ Max. Transient 
+ 372 
+ 107 
+ Power On 
+ Min. Transient 
+ 313 
+ 90 
+ Min. Continuous 
+ 338 
+ 97 
+ Max. Continuous 
+ 348 
+ 100 
+ Max. Transient 
+ 357 
+ 102.5 
+ Max. Overspeed (Mast 
+ 358 
+ 103 
+ Torque 50% or lower-5 
+ minute limit)"
+Transmission Torque,"13,960 ft.-lbs. at 348 rpm"
+Airspeed Limits,The following limits pertain to models 222B and 222U:
+IAS,"VNE (Never exceed) 150 knots, sea level to 3000 ft. Hd. Decrease VNE for 
+ ambient conditions in accordance with airspeed limitation placard. 
+ Knots 
+ VNE power off 
+ 80 
+ VNE single engine 
+ 100 
+ Maximum sideward and rearward flight 
+ 30 
+ The following limits pertain to model 222B only: 
+ VLE 
+ (Landing gear extended) 
+ 140 
+ VLO 
+ (Landing gear operation) 
+ 120 
+ Maximum Taxi Ground Speed 
+ 35 
+ See FAA-approved Rotorcraft Flight Manual"
+Empty Weight CG Range,See Maintenance Manual.
+Datum,"Station 0 (datum is located 241.3 cm (95 inches) forward of the fuselage nose or 
+ 230.38 cm (90.7 inches) forward of the radome nose)."
+Leveling Means,Plumb line from right inside top of baggage compartment.
+Maximum Weights,"kg 
+ lbs"
+See NOTE 1,"Internal 
+ 3742 
+ 8250 
+ External 
+ 3810 
+ 8400"
+Minimum Crew,1 pilot (right seat)
+Number of Seats,10 (includes pilot)
+Maximum Baggage,226.8 kg (500 lbs)
+Fuel Capacity,"Model 222B 
+ Litres 
+ U.S. gal 
+ Usable 
+ 709.8 
+ 187.5 
+ Model 222U 
+ Usable 
+ 935.4 
+ 247.1"
+Engine Oil Capacity,"Usable 
+ Litres 
+ U.S. gal"
+per engine,"14.1 
+ 3.7"
+Maximum Operating,"20,000 feet pressure altitude for VFR operations"
+Altitude,"15,000 feet pressure altitude for IFR operations 
+ 14,000 feet density altitude for takeoff, landing, and in-ground-effect maneuvers"
+Rotor Blade ,"For rigging information, refer to the appropriate Model 222 Series Maintenance"
+Control Movement,Manual.
+Manufacturer’s Serial,Model 222B Serial Number 47131 to 47156
+Numbers,Model 222U Serial Number 47501 to 47574
+Import Requirements,See NOTE 6
+Certification Basis,"Model 222B & Model 222U: FAR Part 29 dated February 1, 1965, (Transport 
+ Category A & B) Amdt 29-1 through 29-9. Amdt 29-11. FAR 29.997 ofAmdt 
+ 29-10 and FAR 29.927(b)(2) of Amdt 29-17. Ditching FAR 29.801 of Amdt 29-12. 
+ External cargo FAR 29.25(c) and 29.865 of Amdt 29-12. FAR 29.1557(c) and FAR 
+ 29.1555(c) of Amdt 29-12. Height velocity requirements of Amdt. 29-21, Section 
+ 29.1, 29.79, 29.1517 and 29.1587. IFR requirements dated December 15, 1978. 
+ FAA issued Exemption No. 2789. FAR 29.811(h)(1) and Exemption No. 4395. FAR 
+ 29.855(a) and portions of 29.855(d). 
+ Equivalent Safety Findings: 
+ 1. 
+ Power Turbine Common Control 
+ FAR 29.903 (b) 
+ 2. 
+ Fuel Pressure Switch 
+ FAR 29.1305(b)(2) 
+ 3. 
+ Fireproof Oil System 
+ FAR 29.1189 
+ 4. 
+ Crash Resistant Fuel Cell 
+ FAR 29.963(b) & 29.965 
+ 5. 
+ Crew Door Switch 
+ FAR 29.783(e) 
+ 6. 
+ Unsafe Rotor and Engine Out 
+ FAR 29.33(b), 29.1309(d), 
+ Warning Indicator 
+ 29.1357(e) & Special Flight 
+ Condition No. 2 
+ 7. 
+ Aft Window Exit Size 
+ FAR 29.807 (a)(4) 
+ 8. 
+ Main Door Window Exit Size 
+ FAR 29.807(d)(1) 
+ for Ditching 
+ 9. 
+ Hoist Manual Release 
+ FAR 29.865(b)(2) 
+ 10. 
+ Baggage Compartment Liner 
+ FAR 29.855(a) 
+ 11. 
+ Landing Gear Drop Test 
+ FAR 29.307(b)(5), 29.723, 
+ 29.725 & 29.727 (Model 222U) 
+ 12. 
+ Limitations Placard 
+ FAR 29.1559 (Model 222U) 
+ 13. 
+ IFR Dihedral Stability 
+ IFR Criteria Paragraph 4(a) 
+ (Model 222U)"
+Production Basis,"Model 222B helicopters, serial numbers 47131 to 47156, and Model 222U 
+ helicopters, serial numbers 47501 to 47574 were manufactured by Bell Helicopter 
+ Textron, Fort Worth, Texas under FAA Type Certificate H9SW."
+Equipment,"The basic required equipment as prescribed in the applicable Airworthiness 
+ requirements (see Certification Basis) must be installed in the aircraft. In addition the 
+ following equipment is required: 
+ 1) 
+ Batteries: 
+ Model 222B: GE 43B010RB03. 
+ Model 222U: Marathon 30703-001 
+ 2) 
+ Airspeed indicator: 
+ Model 222B: 
+ S/N 47131 and Sub: P/N 222-375-027-107. 
+ Model 222U: 
+ S/N 47501 and Sub: P/N 222-375-027-107"
+Service Information,"FAA-approved Rotorcraft Flight Manual BHT-222B-FM-1 and BHT-222U-FM-1, 28 
+ February 1992, or later FAA-approved revision."
+"MODEL 230 (TRANSPORT CATEGORY A AND B), APPROVED MARCH 12, 1992",
+Engines,2 Allison 250C30G/2
+Fuel,"SPECIFICATION 
+ TYPE 
+ CANADA 
+ USA 
+ Kerosene 
+ JET A 
+ CGSB 3.23 
+ ASTM D-1655 
+ JET A-1 
+ CGSB 3.23 
+ ASTM D-1655 
+ JP-8 
+ 3-GP-23 
+ MIL-DTL-83133 
+ Wide Cut 
+ JET B 
+ CGSB 3.22 
+ ASTM D-6615 
+ JP-4 
+ CGSB 3.22 
+ MIL-DTL-5624 
+ High Flash 
+ JP-5 
+ 3-GP-24 
+ MIL-DTL-5624 
+ See FAA-approved Rotorcraft Flight Manual for temperature limitations. 
+ Fuel Additives: See NOTE 7."
+Engine Limits,All Engines Operating:
+See NOTE 5,"Take off 
+ Mast Torque 
+ Main Rotor 
+ (5 Min.) 
+ Meter 
+ Mast Speed 
+ (100%) 
+ 348 rpm 
+ 925 SHP 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 53,550 rpm 
+ 767.8°C 
+ (105%) 
+ (1,414°F) 
+ Maximum Continuous 
+ Mast Torque 
+ Main Rotor 
+ Meter 
+ Mast Speed 
+ (94.6%) 
+ 348 rpm 
+ 875 SHP 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 53,550 rpm 
+ 715.6°C 
+ (105%) 
+ (1,320°F) 
+ One Engine Inoperative: 
+ 2½ Min. Power 
+ Engine Torque 
+ Output Shaft 
+ Meter 
+ Speed 
+ (100%) 
+ 9,545 rpm 
+ 734 SHP 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 53,550 rpm 
+ 825.6°C 
+ (105%) 
+ (1,518°F) 
+ 30 Min. Power 
+ Engine Torque 
+ Output Shaft 
+ Meter 
+ Speed 
+ (97.3%) 
+ 9,545 rpm 
+ 714 SHP 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 53,550 rpm 
+ 797.8°C 
+ (105%) 
+ (1,468°F) 
+ Maximum Continuous 
+ Engine Torque 
+ Output Shaft 
+ Power 
+ Meter Speed 
+ (86.4%) 
+ 9,545 rpm 
+ 676 SHP 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 53,550 rpm 
+ 767.8°C 
+ (105%) 
+ (1,414°F)"
+Rotor Speed Limits,"Power Off 
+ RPM 
+ % 
+ Min. Transient 
+ 285 
+ 82 
+ Min. (Less than 2722 kg (6000 lb)) 
+ 296 
+ 85 
+ Min. (2722 kg (6000 lb) or over) 
+ 313 
+ 90 
+ Maximum 
+ 362 
+ 104 
+ Max. Transient 
+ 372 
+ 107 
+ Power On 
+ Min. Transient 
+ 313 
+ 90 
+ Min. Continuous 
+ 338 
+ 97 
+ Max. Continuous 
+ 348 
+ 101"
+Transmission Torque,925 SHP at 348 rpm
+Airspeed Limits,"VNE (Never exceed) 150 knots, sea level to 3000 ft. Hd. Decrease VNE for ambient"
+IAS,"conditions in accordance with airspeed limitation placard. 
+ Knots 
+ VNE power off 
+ 80 
+ VNE single engine 
+ 100 
+ Maximum sideward and rearward flight 
+ 30"
+Center of Gravity CG,See FAA-approved Rotorcraft Flight Manual
+Empty Weight CG Range,See Maintenance Manual.
+Datum,"Station 0 (datum is located 241.3 cm (95 inches) forward of the fuselage nose or 
+ 230.38 cm (90.7 inches) forward of the radome nose)."
+Leveling Means,Plumb line from right inside top of baggage compartment.
+Maximum Weight,"kg 
+ lb"
+See NOTE 1,"Internal 
+ 3810 
+ 8400 
+ External 
+ 3810 
+ 8400"
+Minimum Crew,1 pilot (right seat)
+Number of Seats,10 (includes pilot)
+Maximum Baggage,226.8 kg (500 lbs)
+Fuel Capacity,"Wheel LG 
+ Litres 
+ U.S. Gals 
+ usable 
+ 709.8 
+ 187.5 
+ Skid LG 
+ usable 
+ 935.4 
+ 247.1"
+Engine Oil Tank,"Litres 
+ U.S. gal"
+Capacity,"Total 
+ 6.1 
+ 1.61"
+Per Engine,"Usable 
+ 1.9 
+ 0.50"
+Maximum Operating,"20,000 feet pressure altitude for VFR operations"
+Altitude,"15,000 feet pressure altitude for IFR operations 
+ 14,000 feet density altitude for takeoff, landing, and in-ground-effect maneuvers"
+Rotor Blade ,"For rigging information, refer to the Model 230 Maintenance Manual."
+Serial Numbers Eligible,Serial number 23001 and subsequent
+Import Requirements,See NOTE 6
+Certification Basis,"FAR Part 29 dated February 1, 1965, (Transport Category A & B) amendment 29-1 
+ through 29-9 plus the following: 
+ Amendment 29-10 
+ 29.997 
+ Amendment 29-11 
+ 29.1401 
+ Amendment 29-12 
+ 29.25 (c), 29.801, 29.865, 
+ 29.1555 (c) and 29.1557 (c). 
+ Amendment 29-17 
+ 29.927 (b) (2) 
+ IFR requirements dated December 15, 1978 
+ FAA exemption no. 2789, FAR 29.811 (h) (l) and FAA exemption no. 4395, FAR 
+ 29.855 (a) and portions of 29.855 (d). FAA Exemptions 2789 and 4395 pertained to 
+ the model 222 series helicopters; however, these exemptions have been found to be 
+ applicable to the model 230. 
+ The following selected additional sections of FAR 29 up to and 
+ including amendment 29-26: 
+ Amendment 29-26: 
+ 29.1, 
+ 29.21, 29.25, 29.27, 
+ 29.29, 
+ 29.31, 29.33, 29.45, 29.51, 
+ 29.53, 
+ 29.59, 
+ 29.63, 
+ 29.65, 29.67, 29.71, 29.73, 29.75, 29.77, 
+ 29.79, 
+ 29.141, 29.143, 29.151, 29.161, 29.171, 29.173, 29.175, 29.231, 
+ 29.235, 29.251, 29.301, 29.303, 29.305, 29.309, 29.321, 29.337, 29.339, 
+ 29.341, 29.351, 29.361, 
+ except (a) (4), 
+ 29.411, 29.471, 29.473, 29.475, 29.477, 29.479, 29.481, 
+ 29.483, 29.485, 29.493, 29.501, 29.547, 29.549, 29.561, 29.563, 29.571, 
+ 29.601, 29.603, 29.607, 29.609, 29.611, 29.613, 29.619, 29.621, 29.623, 
+ 29.625, 29.629, 29.683, 29.723, 29.725, 29.727, 29.731, 29.735, 29.771, 
+ 29.773, 29.775, 29.785, 29.831, 29.861, 29.863, 29.873, 29.901, 29.903, 
+ 29.907, 29.908, 29.917, 29.931, 29.939, 29.951, 29.955, 29.961, 29.993, 
+ 29.995, 29.997, 29.1011, 29.1013, 29.1015, 29.1017, 29.1019, 29.1021, 
+ 29.1023, 29.1027, 29.1041, 29.1043, 29.1045, 29.1047, 29.1049, 29.1091, 
+ 29.1093, 29.1103, 29.1105, 29.1121, 29.1123, 29.1141, 29.1143, 29.1145, 
+ 29.1163, 29.1165, 29.1181, 29.1183, 29.1185, 29.1187, 29.1189, 
+ 29.1191, 29.1193, 29.1194, 29.1195, 29.1197, 29.1199, 29.1201, 29.1203, 
+ 29.1301, 29.1303, 29.1305, 29.1307, 29.1321, 29.1322, 29.1327, 
+ 29.1331, 29.1333, 29.1337, 29.1359, 29.1363, 29.1381, 29.1401, 29.1431, 
+ 29.1461, 29.1501, 29.1503, 29.1505, 29.1517, 29.1519, 29.1521, 
+ 29.1527, 29.1541, 29.1543, 29.1549, 29.1551, 29.1555, 29.1557, 29.1559, 
+ 29.1581, 29.1583, 29.1585, 29.1587. 
+ Appendix B. 
+ The Noise Standards of FAR Part 36 and ICAO Annex 16, Chapter 8, Rev. 17 
+ November 1988, published in 2nd Edition of 1988 Vol. 1. 
+ Equivalent Safety Findings: 
+ 1. 
+ 92/01 
+ Engines: Category A 
+ FAR 29.903(b) 
+ Engine Isolation 
+ 2. 
+ 92/02 
+ Powerplants Instruments 
+ FAR 29.1305(b)(2) 
+ 3. 
+ 92/03 
+ Fuel Tanks 
+ FAR 29.963(b) & 
+ 29.965 
+ 4. 
+ 92/04 
+ Doors 
+ FAR 29.783(e) 
+ 5. 
+ 92/05 
+ Emergency Exit Marking 
+ FAR 29.811(d) 
+ 6. 
+ 92/06 
+ Passenger Emergency Exits 
+ FAR 29.807(d)(1) 
+ 7. 
+ 92/07 
+ External Load Attaching Means 
+ FAR 29.865(b)(2) 
+ 8. 
+ 92/08 
+ Landing Gear, Limit Drop 
+ FAR 29.725 & 29.727 
+ Test and Reserve Energy 
+ Absorption Drop Test 
+ 9. 
+ 92/09 
+ Proof of Structure, 
+ FAR 29.307(b), 
+ Landing Gear Limit 
+ 29.723, 
+ Drop Test & Reserve 
+ 29.725, 
+ Energy Absorption 
+ 29.727 
+ Drop Test 
+ 10. 92/10 
+ Airworthiness Criteria 
+ FAR 29 
+ for Helicopter 
+ Appendix B, V 
+ Instrument Flight - 
+ Static Lateral - 
+ Directional Stability 
+ 11. 92/11 
+ Cargo and Baggage 
+ FAR 29.855(a) 
+ Compartments"
+Production Basis,None. For import requirements see NOTE 6
+Equipment,"The basic required equipment as prescribed in the applicable Airworthiness 
+ requirements (see Certification Basis) must be installed in the aircraft."
+Service Information,"FAA-approved Rotorcraft Flight Manual BHT-230-FM-1, 
+ dated 12 March 1992 or later FAA-approved revision"
+"IV. MODEL 430 (TRANSPORT CATEGORY B), APPROVED FEBRUARY 23, 1996 AND (TRANSPORT 
+ CATEGORY A), APPROVED FEBRUARY 19, 1999",
+Engines,2 Allison 250-C40B with Chandler Evans EMC-35A (FADEC) fuel control system
+Fuel,"SPECIFICATION 
+ TYPE 
+ CANADA 
+ USA 
+ Kerosene 
+ JET A 
+ CGSB 3.23 
+ ASTM D-1655 
+ JET A-1 
+ CGSB 3.23 
+ ASTM D-1655 
+ JP-8 
+ 3-GP-23 
+ MIL-DTL-83133 
+ Wide Cut 
+ JET B 
+ CGSB 3.22 
+ ASTM D-6615 
+ JP-4 
+ CGSB 3.22 
+ MIL-DTL-5624 
+ High Flash 
+ JP-5 
+ 3-GP-24 
+ MIL-DTL-5624 
+ Emergency fuel: MIL-G-5572, all grade, maximum of six hours operation per O/H 
+ period 
+ Fuel Additives: See NOTE 7."
+Engine Limits,"All Engines Operating: 
+ Take off 
+ Mast Torque 
+ Main Rotor 
+ (5 Min.) 
+ Meter 
+ Mast Speed 
+ (100%) 
+ 365 rpm 
+ 1045 SHP 
+ (105%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 53,550 rpm 
+ 779.4°C 
+ (105%) 
+ (1,435°F) 
+ Maximum Continuous 
+ Mast Torque 
+ Main Rotor 
+ Meter 
+ Mast Speed 
+ (94.6%) 
+ 348 rpm 
+ 875 SHP 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 53,550 rpm 
+ 726.7°C 
+ (105%) 
+ (1,340°F) 
+ One Engine Inoperative: 
+ 2 Min. Power 
+ Engine Torque 
+ Output Shaft 
+ Meter 
+ Speed 
+ (105.3%) 
+ 9,598 rpm 
+ 811 SHP 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 53,550 rpm 
+ 827.2°C 
+ (105%) 
+ (1,521°F) 
+ 30 Sec. Power 
+ Engine Torque 
+ Output Shaft 
+ Meter 
+ Speed 
+ (109.6%) 
+ 9,598 rpm 
+ 844 SHP 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 53,550 rpm 
+ 871.1°C 
+ (105%) 
+ (1,600°F) 
+ 30 Min. Power 
+ Engine Torque 
+ Output Shaft 
+ Meter 
+ Speed 
+ (92.8%) 
+ 9,598 rpm 
+ 715 SHP 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 53,550 rpm 
+ 797.8°C 
+ (105%) 
+ (1,468°F) 
+ Maximum Continuous 
+ Engine Torque 
+ Output Shaft 
+ Power 
+ Meter Speed 
+ (92.8%) 
+ 9,598 rpm 
+ 715 SHP 
+ (100%) 
+ Gas Generator 
+ Measured Gas 
+ Speed 
+ Temperature 
+ 53,550 rpm 
+ 779.4°C 
+ (105%) 
+ (1,435°F)"
+Rotor Speed Limits,"Power Off 
+ % 
+ 86 
+ Minimum Transient 
+ 86 to 90 
+ Transient Operation 
+ 91 to 105 
+ Continuous Operation 
+ 106 
+ Maximum Transient 
+ Power On 
+ Minimum Transient 
+ 90 
+ Maximum Continuous 
+ 100 
+ Maximum Ground Operation 
+ 102 
+ Conditional Operating Range 
+ 105 
+ -(During Take off and Landing) 
+ Maximum Transient 
+ 106"
+Transmission Torque,1045 SHP at 348 rpm
+Airspeed Limits,"VNE (Never exceed) 150 knots. Decrease VNE for ambient conditions in accordance 
+ with airspeed limitation placard."
+IAS,"Knots 
+ VNE power off 
+ 80 
+ VNE single engine 
+ 100 
+ Maximum sideward and rearward flight 
+ 35"
+Center of Gravity CG,See FAA-approved Rotorcraft Flight Manual
+Empty Weight CG Range,See Maintenance Manual
+Datum,"Station 0 (datum is located 241.3 cm (95 inches) forward of the fuselage nose or 
+ 230.38 cm (90.7 inches) forward of the radome nose)."
+Leveling Means,Plumb line from right inside top of baggage compartment.
+Maximum Weight,"kg 
+ lb"
+See NOTE 1,"Internal 
+ 4082 
+ 9000 
+ External 
+ 4218 
+ 9300"
+Minimum Crew,"1 pilot (right seat) 
+ VFR operations 
+ 2 pilots 
+ IFR operations"
+Number of Seats,10 (includes pilot(s))
+Maximum Baggage,226.8 kg (500 lbs)
+Fuel Capacity,"Wheel LG 
+ Litres 
+ U.S. Gals 
+ usable 
+ 709.8 
+ 187.5 
+ Skid LG 
+ usable 
+ 935.4 
+ 247.1"
+Engine Oil Tank,"Litres 
+ U.S. gal"
+Capacity,"Total 
+ 6.1 
+ 1.61"
+Per Engine,"Useable 
+ 1.9 
+ 0.50"
+Maximum Operating,"20,000 feet pressure altitude VFR operations"
+Altitude,"15,000 feet pressure altitude for IFR operations 
+ 14,000 feet density altitude for takeoff, landing, and in-ground-effect maneuvers"
+Rotor Blade ,"For rigging information, refer to the Model 430 Maintenance Manual."
+Serial Numbers,Serial number 49001 and subsequent
+Import Requirements,See NOTE 6
+Certification Basis,"a) FAR Part 29 dated February 1, 1965, (Transport Category A & B) amendment 
+ 29-1 through 29-32 and 34 except for: 
+ The following paragraphs of FAR Part 29 at amendment 29-9: 
+ 29.497, 29.519, 29.521, 29.561, (a), (b) and (d), 29.671, 29.729, 29.783, 29.805, 
+ 29.807, 29.811, 29.853, 29.855, 29.865, 29.963, 29.967, 29.969, 29.971, 29.975, 
+ 29.977, 29.979, 29.991, 29.999, 29.1001, 29.1309 
+ The following paragraphs of FAR Part 29 at amendment 29-12: 
+ 29.787 and 29.865; 
+ The following paragraph of FAR Part 29 at amendment 29-13: 
+ 29.927; 
+ The following paragraph of FAR Part 29 at amendment 29-24: 
+ 29.1309 applicable to new systems introduced as model 430 design 
+ changes (FADEC, IDS, AFCS and EFIS) from the 230; and 
+ The following paragraph of FAR Part 29 at amendment 29-26: 
+ 29.563 and 29.785 
+ b) FAR Part 36 dated June 1, 1974 amendments 36-1 through 36-18 (Canadian 
+ Airworthiness Manual Chapter 516 Change 2 dated November 1, 1991 - Noise 
+ Requirements). 
+ c) Additional compliance with FAR Part 29 at amendment 29-12 is shown for 
+ paragraph 29.801 Ditching, when the required safety equipment 
+ and ditching equipment is installed. 
+ d) Transport Canada Special Conditions: 
+ 1. SCA93-2 High Intensity Radiated Fields (HIRF) , dated January 4,1993 
+ 2. SCA93-3 Lightning Protection, dated January 4,1993 
+ 3. SCA94-08 Software Aspects of Certification, dated March 18, 1994 
+ e) Findings of Equivalent Safety: 
+ FAR 29.963(b) and 965 
+ Crash Resistant Fuel Cell 
+ FAR 29.783(e) 
+ Crew Door Switch 
+ FAR 29.811(d) 
+ Size of Emergency Exit Signs 
+ FAR 29.807(d)(1) 
+ Passenger Emergency Exits (Main 
+ Door Exit Size for Ditching) 
+ FAR 29.865(b)(2) 
+ External Load Attaching Means 
+ (Hoist Manual Release) 
+ FAR 29.855(a) 
+ Baggage and Cargo Compartment 
+ FAR 29.307(b), 723,.725,727 
+ Proof of Structure, Landing Gear 
+ Limit Drop Test and Reserve 
+ Energy Absorption Drop Test (Skid Gear 
+ Only) 
+ f) FAA exemption no. 2789, FAR 29.811 (h) (l) and FAA exemption no. 4395, FAR 
+ 29.855 (a) and portions of 29.855 (d). FAA Exemptions 2789 and 4395 pertained to 
+ the model 222 series helicopters; however, these exemptions have been found to be 
+ applicable to the model 430."
+Production Basis,None. For import requirements see NOTE 6
+Equipment,"The basic required equipment as prescribed in the applicable Airworthiness 
+ requirements (see Certification Basis) must be installed in the aircraft."
+Service Information,"FAA-approved Rotorcraft Flight Manual BHT-430-FM-1, 
+ dated February 23, 1996 or later FAA-approved revision."
+"DATA PERTINENT TO ALL MODELS EXCEPT AS INDICATED 
+ The original Bell Model 222 was approved by Transport Canada under ATA H88, dated May 24, 1983, on the Basis 
+ of FAA TC H9SW. The original Bell Models 222B and 222U were approved by Transport Canada under ATA H88 
+ dated September 19, 1983 on the basis of FAA TC H9SW. 
+ Effective February 28, 1992, design responsibility for all Models 222, 222B, and 222U helicopters was transferred",
+222,"82-16-06 
+ 222B 
+ 83-02-51 
+ 87-13-01 
+ 89-25-04 
+ 87-19-01 
+ 82-09-53 
+ 222B & 222U 
+ 85-14-11 
+ 83-02-51 
+ 87-13-01 
+ 83-09-03 
+ 87-15-06 
+ 84-12-02 
+ 87-15-07 
+ 85-14-11 
+ 88-02-03 
+ 87-15-07 
+ 89-17-05 
+ 88-02-03 
+ 89-17-05 
+ 89-25-04"
+NOTE 1,"Current weight and balance report including list of equipment included in the approved 
+ empty weight and loading instructions when necessary must be provided for each 
+ helicopter at the time of original certification."
+NOTE 2,"For a complete listing of required placards, see the applicable FAA-approved Rotorcraft 
+ Flight Manual"
+NOTE 3,"The retirement times of certain parts and inspection requirements are listed in 
+ Airworthiness Limitations, Chapter 4 of the Model 222, or Model 222B, or Model 
+ 222U, or Model 230, and Model 430 Maintenance Manual (as appropriate). These 
+ values of retirement of service lives and inspection cannot be increased without the 
+ approval of Canadian DOT. 
+ The retirement times of critical parts are listed in the following table. These limitations 
+ may not be changed without FAA engineering approval. 
+ MODEL 222/222B (Refer to FAA-approved Chapter 4 of the Maintenance Manual, 
+ BHT-222/222B-MM-1, for airworthiness lives of components applicable to 222/222B) 
+ MODEL 222U (Refer to FAA-approved Chapter 4 of the Maintenance Manual, 
+ BHT-222U-MM-1, for airworthiness lives of components applicable to 222U) 
+ MODEL 230 (Refer to FAA-approved Chapter 4 of the Maintenance Manual, 
+ BHT-230-MM-1, for airworthiness lives of components applicable to 230) 
+ MODEL 430 (Refer to FAA-approved Chapter 4 of the Maintenance Manual, 
+ BHT-430-MM-1, for airworthiness lives of components applicable to 430) 
+ Bell Service Bulletins are approved by Transport Canada and include a statement 
+ to that effect. Such approval may be approved by FAA. 
+ Any changes to the type design of this helicopter by means of an amended type certificate 
+ (TC), supplemental type certificate (STC), or amended STC, requiring instructions for 
+ continued airworthiness (ICA's) must be submitted thru the project aircraft certification 
+ office (ACO) for review and acceptance by the Fort Worth -Aircraft Evaluation Group 
+ (FTW-AEG) Flight Standards District Office (FSDO) prior to the aircraft delivery, or 
+ upon issuance of the first standard airworthiness certificate for the affected aircraft, 
+ whichever occurs later as prescribed by Title 14 CFR 21.50. Type design changes by 
+ means of a field approval that require ICA's must have those ICA's reviewed by the field 
+ approving FSDO."
+NOTE 4,"For all operations below -29°C (-20°F) ambient temperature, all JET A, JET A-1 and 
+ JET B fuels used in Model 222, Model 222B and Model 222U helicopters must contain 
+ Phillips PFA-55MB or MIL-L-27686 anti-icing additive in concentrations of not less 
+ than 0.035% nor more than 0.15% by volume. Blending this additive into the fuel and 
+ checking its concentration must be conducted in the manner prescribed by the Rotorcraft 
+ Flight Manual."
+NOTE 5,"Avco Lycoming engines used in the Model 222 must incorporate a shim in the fuel 
+ control. Fuel Controls with the shim are identified by P/N 4-301-098-05. Engines used 
+ in the production configuration (S/N 47006 to 47089) must use this shim or use 
+ selectively fitted governor reset spring in accordance with Avco Lycoming Service 
+ Bulletin LTS101C-73-0015."
+NOTE 6,"To be considered eligible for operation in the United States, each Aircraft 
+ manufactured under this Type Certificate must have a U. S. Airworthiness Certificate 
+ that may be issued on the basis of the Canadian Department of Transport Certificate 
+ of Airworthiness for Export signed by the Minister of Transport containing the 
+ following statement 
+ ""The rotorcraft covered by this certificate has been examined, tested, and found to 
+ comply with the type design approved under Type Certificate H9SW and to be in 
+ condition for safe operation"". 
+ The U.S. airworthiness certification basis for aircraft type certificated under FAR 
+ Section 21.29 and exported by the country of manufacture is 21.183(c) or 21.185(c). 
+ The U.S. airworthiness certification basis for aircraft type certificated under FAR 
+ Section 21.21 exported from countries other than the country of manufacture (e.g., 
+ third party country) is FAR Sections 21.183(d) or 21.185(b). 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United States of 
+ both new and used aircraft based on the scope of the agreement, to identify any required 
+ statements by the exporting authority on the export certificate of airworthiness (or equivalent 
+ document), and for procedures for coordinating exceptions to conformity statements on these 
+ documents. Refer to FAA Order 8130.2, Airworthiness Certification of Aircraft, for requirements 
+ for issuance of an airworthiness certificate for imported aircraft."
+NOTE 7,"For all operations below +5°C (23°F) ambient temperature, all JET A, JET A-1 and JET 
+ B fuels used in Model 230 and 430 helicopters must contain Phillips PFA-55MB or 
+ MIL-L-27686 anti-icing additive in concentration of not less than 0.035% nor more than 
+ 0.15% by volume. Blending this additive into the fuel and checking its concentration 
+ must be conducted in the manner prescribed by the Rotorcraft Flight Manual."
+NOTE 8,"The model 430 helicopter employs electronic engine controls, commonly named Full 
+ Authority Digital Engine Controls (FADEC) and is recognized to be more susceptible to 
+ Electromagnetic Interference (EMI) than rotorcraft that have only manual (non- 
+ electronic) controls. (EMI may be the result of radiated or conducted interference.) For 
+ this reason modifications that add or change systems that have the potential for EMI, 
+ must either be qualified to an FAA acceptable standard or tested at the time of 
+ installation for interference to the FADEC. This type of testing must employ the 
+ particular FADEC’s diagnostic techniques and external diagnostic techniques. The test 
+ procedure must be FAA approved."
+NOTE 9,"Effective December 20, 2001 the name Bell Helicopter Textron, A Division of Textron 
+ Canada Limited was revised to Bell Helicopter Textron Canada Limited. Effective 
+ December 16, 2019, the name Bell Helicopter Textron Canada Limited was revised to 
+ Bell Textron Canada Limited."

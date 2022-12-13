@@ -1,0 +1,642 @@
+Keyterm,Info
+"A-743 
+ Revision 15 
+ BOEING 
+ A75L3 
+ 75 (Army PT-13) 
+ A75 (Army PT-13A, -13B, -13C) 
+ B75 (Navy N2S-5) 
+ E75 (Army PT-13D, Navy N2S-5, 
+ PT-13D/N2S-5) 
+ A75J1 (Army PT-18) 
+ A75L300 
+ A75N1 (Army PT-17, -17A; 
+ Navy N2S-1, -4) 
+ B75N1 (Navy N2S-3) 
+ D75N1 (Army PT-27) 
+ IB75A 
+ E75N1 
+ October 15, 1987",
+Manufacturer,"Boeing Airplane Company 
+ Wichita Division 
+ Wichita, Kansas 67210"
+"I. Model A75L3, 2 PO-CLB, (Acrobatic Category) (see Note 7), approved June 3, 1941; 75 (Army PT-13), 
+ A75 (Army PT-13A, -13B, -13C), B75 (Navy N2S-5), E75 (Army PT-13D, Navy N2S-5, PT-13D/N2S-5), 
+ 2 PO-CLB, approved April 21, 1945 
+ (Airplanes with the Model No. E75N1 marked on their name plates are actually Model E75 (Army PT-13D, Navy 
+ N2S-5 or PT-13D/N2S-5) airplanes and are eligible for certification without correction of the name plates.)",
+Engine,"Lycoming R-680-B4B 
+ 506 lbs. (-55) or 
+ Lycoming R-680-B4C 
+ 497 lbs. (-55) or 
+ Lycoming R-680-B4D 
+ 490 lbs. (-55) or 
+ Lycoming R-680-B4E 
+ 512 lbs. (-55)"
+Fuel,65 minimum octane aviation gasoline
+Engine Limits,"For all operations, 2100 rpm (225 hp)"
+Airspeed Limits TIAS,"Level flight or climb 
+ 125 mph 
+ Glide or dive 
+ 186 mph"
+Propeller Limits,"See Item 1(a), 1(b), 1(d), or 1(e)"
+CG Range,(-1.0) to (+7.1)
+Empty Weight CG Range,"(-1.5) to (+0.5) solo from either seat 
+ (-4.4) to (+0.5) placard in front cockpit: ""Solo from rear seat only."" 
+ When empty weight C.G. falls within this range, computation of critical fore 
+ and aft C.G. positions is unnecessary. Ranges are not valid for non-standard 
+ arrangement or for crop duster or sprayer installations."
+Maximum Weight,2950 lbs. See Note 6 for 3200 lbs. maximum weight.
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11"
+Rev No,"15 
+ 15 
+ 15 
+ 15 
+ 15 
+ 15 
+ 15 
+ 15 
+ 15 
+ 15 
+ 15"
+Number of Seats,2 (+19) and (+55)
+Maximum Baggage,60 lbs. (+84)
+Fuel Capacity,46 gals. (-5) (One tank in upper wing center section)
+Oil Capacity,4.4 gals. (-26)
+Control Surface Movements,"Elevator trim tab 
+ Up 
+ 15° 
+ Down 
+ 15° 
+ Elevator 
+ Up 
+ 24° 
+ Down 
+ 22° 
+ Aileron 
+ Up 
+ 23° 
+ Down 
+ 18° 
+ Rudder 
+ Right 
+ 30° 
+ Left 
+ 30°"
+Serial Numbers Eligible,"75001 and up and all Army and Navy serial numbers. Use manufacturer's 
+ number if available."
+Required Equipment,"Items 1(a) or (b) or (d) or (e); 105(a), (b) or (c); 203(a) or (b); 204(a) or (b); 
+ 205(a) or (b); 401(a) or (b); 402"
+"II. Model A75N1 (Army PT-17, -17A, Navy N2S-1, -4); B75N1 (Navy N2S-3, D75N1 (Army PT-27), 2 PO-CLB, 
+ (Acrobatic Category) (See NOTE 7), approved April 21, 1945",
+Engine,"Continental W-670-6A 
+ 465 lbs. (-55) or 
+ Continental W-670-6N 
+ 470 lbs. (-55)"
+Fuel,65 minimum octane aviation gasoline
+Engine Limits,"For all operations, 2075 rpm (220 hp)"
+Airspeed Limits TIAS,"Level flight or climb 
+ 125 mph 
+ Glide or dive 
+ 186 mph"
+Propeller limits,"See Item 1(b), 1(d), or 1(e)"
+CG Range,(-1.0) to (+7.1)
+Empty Weight CG Range,"(-1.5) to +0.5) Solo from either seat 
+ (-4.4) to (+0.5) placard in front cockpit: ""Solo from rear seat only."" 
+ When empty weight C.G. falls within this range, computation of critical fore 
+ and aft C.G. positions is unnecessary. Ranges are not valid for non-standard 
+ arrangements or for crop duster or sprayer installations."
+Maximum Weight,2950 lbs. See Note 6 for 3200 lbs. maximum weight.
+No of Seats,2 (+19) and (+55)
+Maximum Baggage,60 lbs. (+84)
+Fuel Capacity,46 gals. (-5) (One tank in upper wing center section)
+Oil Capacity,4.4 gals. (-26)
+Control Surface Movements,"Elevator trim tab 
+ Up 
+ 15° 
+ Down 
+ 15° 
+ Elevator 
+ Up 
+ 24° 
+ Down 
+ 22° 
+ Aileron 
+ Up 
+ 23° 
+ Down 
+ 18° 
+ Rudder 
+ Right 
+ 30° 
+ Left 
+ 30°"
+Serial Numbers Eligible,"75001 and up and all Army and Navy serial numbers. Use manufacturer's 
+ number if available."
+Required Equipment,"Items 1(b or (d) or (e); 105(a), (b) or (c); 203(a) or (b); 204(a) or (b); 
+ 205(a) or (b); 401(a) or (b); 402"
+"III. Model A75J1 (Army PT-18) 2 PO-CLB, (Acrobatic Category) (See NOTE 7), approved May 28, 1945",
+Engine,Jacobs R-755-7. See NOTE 4 for required modifications.
+Fuel,73 minimum octane aviation gasoline
+Engine Limits,"For all operations, 2000 rpm (225 hp)"
+Airspeed Limits TIAS,"Level flight or climb 
+ 125 mph 
+ Glide or dive 
+ 186 mph"
+Propeller Limits,See item 1(b).
+CG Range,(-1.0) to (+7.1)
+Empty Weight CG Range,"(-1.5) to +0.5) Solo from either seat 
+ (-4.4) to (+0.5) placard in front cockpit: ""Solo from rear seat only."" 
+ When empty weight C.G. falls within this range, computation of critical fore 
+ and aft C.G. positions is unnecessary. Ranges are not valid for non-standard 
+ arrangements or for crop duster or sprayer installations."
+Maximum Weight,2950 lbs.
+No of Seats,2 (+19) and (+55)
+Maximum Baggage,60 lbs. (+84)
+Fuel Capacity,46 gals. (-5) (One tank in upper wing center section)
+Oil Capacity,4.4 gals. (-26)
+Control Surface Movements,"Elevator trim tab 
+ Up 
+ 15° 
+ Down 
+ 15° 
+ Elevator 
+ Up 
+ 24° 
+ Down 
+ 22° 
+ Aileron 
+ Up 
+ 23° 
+ Down 
+ 18° 
+ Rudder 
+ Right 
+ 30° 
+ Left 
+ 30°"
+Serial Numbers Eligible,"75001 and up and all Army and Navy serial numbers. Use manufacturer's 
+ number if available."
+Required Equipment,"Items 1(b); 105(a), (b) or (c); 203(a) or (b); 204(a) or (b); 
+ 205(a) or (b); 401(a) or (b); 402"
+"IV. *Model A75L300 (applies only to models listed under Sections I, II, and III when modified according to 
+ Missouri data or equivalent 
+ *Note: Models listed under Sections 1, II, or III when modified according to Brandt, Perkins & Brandt, 
+ Marysville, California, data, eligible for certification with the following limitation but will retain 
+ original model designation:",
+Engine,"Lycoming B680-E3 
+ 525 lbs. (-54) or 
+ Lycoming B680-E3A 
+ 535 lbs. (-55) or 
+ Lycoming R680-E3B 
+ 565 lbs. (-55)"
+Fuel,87 minimum octane aviation gasoline
+Engine Limits,"Maximum, except takeoff 
+ 2200 rpm (285 hp) 
+ Takeoff (one minute) 
+ 2300 rpm (300 hp)"
+Airspeed Limits TIAS,"Level flight or climb 
+ 125 mph 
+ Glide or dive 
+ 186 mph"
+Propeller Limits,See Item 1(f)
+CG Range,"Maximum Weights 
+ 2950 lbs. or less 
+ 3200 lbs. 
+ 3520 lbs. 
+ Fwd. C. G. Limit 
+ (-1.0) 
+ (-1.0) 
+ (-1.0) 
+ Aft C.G. Limit 
+ (+7.1) 
+ (+4.5) 
+ (+4.5) 
+ Note: Straight line variation aft of C.G. limit above 2950 lbs. with Item 601 not 
+ installed. 
+ LBS. 
+ 3200 
+ FRONT 
+ LIMIT 
+ 3100 
+ 3000 
+ AFT 
+ LIMIT 
+ 2900 
+ -1 
+ 0 
+ +1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ INCHES"
+Empty Weight CG Range,"(-1.3) to (-0.4) Solo from either seat. 
+ (-3.7) to (-0.4) When front cockpit placarded: ""Solo from rear seat only."" 
+ When empty weight C.G. falls within this range, computation of critical fore and 
+ aft C.G. positions is unnecessary. Ranges are not valid for non-standard 
+ arrangements or for crop duster or sprayer installations."
+Maximum Weight,"Takeoff: NC Certification, 3200 lbs. 
+ ***NR certification (prior to October 11, 1950), 3520 lbs. 
+ Landing: 3200 lbs. 
+ Placards 
+ 1. 
+ ""Intentional spins prohibited at weights above 2950 lbs."" with Item 601 
+ not installed. 
+ 2. 
+ ""Intentional spins prohibited"" if elevator up-travel is more than 24°. 
+ ***3. 
+ For NR certification (prior to October 11, 1950): ""Maneuvering speed 
+ at maximum weight not to exceed 115 m.p.h."""
+Required Equipment,"Items 1(f); 105(a), (b), or (c); 204(a) or (b); 205(a) or (b); 401(a) or (b); 402"
+"V. **Model IB75A (applies only to models listed under Sections I, II, or III when modified according to Inland Aviation 
+ Company, Los Banos, California, data, or equivalent). 
+ Note 
+ Models listed under Sections I, II, or III modified according to Air-Repair, Clarksburgh, California, data, 
+ eligible for certification with the following limitations but will retain original model designation:",
+Engine,Pratt & Whitney T1B-3 (R-985-AN-1 or -AN-3) 668 lbs. or 669 lbs. (-48.5)
+Fuel,87 minimum octane aviation gasoline
+Engine Limits,"Maximum, except takeoff 
+ 1950 rpm (310 hp) 
+ Takeoff (one minute) 
+ 2300 rpm (450 hp) 
+ ***All original certification in the Restricted Category after October 11, 1950, must be in accordance with CAR and CAM 8."
+Airspeed Limits TIAS,"Level flight or climb 
+ 125 mph 
+ Glide or dive 
+ 150 mph"
+Propeller Limits,See Item 1(g) or 1(h).
+CG Range,(-2.1) to (+4.0)
+Empty Weight CG Range,"(-5.3) to (-1.6) 
+ When empty weight C.G. falls within this range, computation of critical fore and 
+ aft C. G. positions is unnecessary. Ranges are not valid for non-standard 
+ arrangements or crop duster or sprayer installations."
+Maximum Weight,"Takeoff: NC Certification, 3200 lbs 
+ ***NR certification (prior to October 11, 1950), 3520 lbs. 
+ Landing: 3200 lbs."
+Control surface movements,"Elevator 
+ Up 
+ 28° 
+ Down 
+ 22°"
+Placards,"1. 
+ ""METO power not to exceed 310 hp (1950 rpm)"" 
+ 2. 
+ ""Intentional spins prohibited"" 
+ 3. 
+ ""SOLO from rear seat only."" 
+ ***4. 
+ NR certification (prior to October 11, 1950): ""Maneuvering speed at 
+ maximum weight not to exceed 115 mph."""
+Required Equipment,"Items 1(g) or (h); 105(a), (b) or (c); 203(a) or (b); 204(a) or (b); 205(a) or (b); 
+ 401(a) or (b); 402"
+SPECIFICATIONS PERTINENT TO ALL MODELS,
+Datum,Leading edge of lower wing
+Leveling Means,Leveling lugs provided in front cockpit
+Certification Basis,Type Certificate No. 743 (CAR 4a)
+Production Basis,"None. Each aircraft manufactured subsequent to October 3, 1945, for civil 
+ use must, prior to original certification, satisfactorily pass: 
+ A detailed inspection for workmanship, materials, and conformity with 
+ the approved technical data and a check of the flight characteristics by an FAA 
+ representative."
+Export Eligibility,"Eligible for export to all countries subject to the provisions of MOP 2-4, 
+ except as follows: 
+ Canada - Landplane - eligible 
+ Skiplane 
+ - not eligible"
+EQUIPMENT,"A plus (+) or minus (-) sign preceding the weight of an item indicates net weight change when that 
+ item is installed. 
+ Approval for the installation of all items of equipment listed herein has been obtained by the aircraft 
+ manufacturer except those items preceded by four asterisks (****). The asterisks denote that approval 
+ has been obtained by other than the aircraft manufacturer. 
+ ***All original certification in the Restricted Category after October 11, 1950, must be in accordance with CAR and CAM 8."
+a,"Curtiss 55501-5 (eligible only with engines listed under Section I)..................................... 57 lbs. (-69) 
+ Static rpm at maximum permissible throttle setting: 
+ Not over 1750, not under 1650. 
+ No additional tolerance permitted. 
+ Diameter: Not over 102 in., not under 99 in. 
+ (b) Sensenich 98AA64 or 98AA66 or Fahlin D760-68-94 (including hub) or any 
+ other fixed pitch wood propeller meeting following limits which is eligible 
+ for the engine power and speed: ..................................................................................... 57 lbs. (-69) 
+ Static rpm at maximum permissible throttle setting: 
+ Not over 1950, not under 1725. 
+ No additional tolerance permitted. 
+ Diameter: Not over 98 in., not under 94 in. 
+ Reduce glide or dive speed to 150 mph. TIAS when using propeller with 
+ static rpm above 1775. 
+ Indexing: When this propeller is installed on Continental W-670-6A or -6N engine, 
+ the propeller must be indexed in the 90 degree position (blades at right 
+ angles to the crankthrow)."
+c,"Deleted February 15, 1946. 
+ (d) McCauley with the following hubs and blades: 
+ (Eligible only when used with Continental W-670-6A, -6N (Army R-670) or 
+ Lycoming R-680-B4 engines.) 
+ Hubs 
+ Blades 
+ D-1093 
+ SS-138-6 
+ or 
+ SS-135-6M 
+ 82 lbs. (-69) 
+ 41D5926 
+ SS-135-6 
+ 82 lbs. (-69) 
+ Static rpm, at maximum permissible throttle setting: 
+ Not over 1925, not under 1575. 
+ No additional tolerance permitted. 
+ Pitch settings at 42 in. sta.: 9° to 11.7° 
+ Diameter: Not over 102 in., not under 100 in. 
+ When installed on Continental W-670-6A or -6N engine, this propeller must be 
+ indexed in the zero degree position (blades in line with the crankthrow) and the 
+ tachometer should be placarded as follows: ""Avoid continuous operation between 
+ 1500 and 1650 rpm."""
+e,"Hamilton Standard blades 11C1 (Navy 4350, 4350F, 4350F1) 
+ in hub 5404, or other eligible 2-way ground adjustable hub. (Eligible only with 
+ engines listed under Sections I and II). ........................................................................... 87 lbs. (-69) 
+ Static rpm at maximum permissible throttle setting: 
+ Not over 1975, not under 1500. No additional tolerance permitted. 
+ Diameter: Not over 102 in., not under 100 in. On Continental W-670 engines, 
+ index in the zero degree (blades in line with crankthrow) position and placard 
+ tachometer as follows: ""Avoid continuous cruise operation above 1900 rpm."""
+f,"Hamilton Standard, constant speed, hub 2B20, blades 6135-9 through -16, 
+ with 1012G1 or 1012A1 governor, eligible on Lycoming R-680-E3, -E3A, 
+ and -E3B engines only. ................................................................................................ 110 lbs. (-70) 
+ Pitch settings at 42 in. sta.: Low 7° for 6135-9 blades and 10° for 6135-16 blades 
+ Diameter: 8'3"" max., 7' 7-1/8"" min. allowable for repairs"
+g,"Hamilton Standard, ground adjustable 5406-AL hub, 1C1-12 through 1C1-14 
+ blades. Eligible with P&W T1B3 engine only. .............................................................. 99 lbs. (-67) 
+ Pitch setting at 42 in. sta.: 13.0° 
+ Diameter: 9'0"" max., 8' 9-7/8"" min. allowable for repairs 
+ Eligible with P&W T1B3 engine only. 
+ Pitch setting at 42 in. sta.: low 12-1/2°, high 16-1/2° 
+ Diameter: 9'0"" max., 8' 3-7/8"" min. allowable for repairs 
+ Engines and Engine Accessories - Fuel and Oil System"
+a,"Eclipse M-2046-C (ACO 150976, Type B-11).................................................................... 24 lbs. (-36) 
+ (on Models A75L3, 75, A75, B75, and E75 only)"
+"(b) Eclipse 94C, Model 1 (ACO 150976, Type B-11) .............................................................. 24 lbs. (-44)",
+a,"Bendix - Scintilla 10-12290-1 (modified to fit airplane) (on Model 75 only)......................... 4 lbs. (-11) 
+ (b) Bendix - Scintilla 10-15590-1.............................................................................................. 6 lbs. (-24)"
+103,"Carburetor air cleaner, Air Maze 5AWA ..................................................................................... 6 lbs. (-33)"
+104,Oil dilution system............... ...................................................................................................... 2 lbs. (-34)
+a,"Plain type, Boeing-Wichita Dwg. 75-3001 or 75-3028.......................................................... 6 lbs. (-26) 
+ (b) Hopper type, Boeing-Wichita Dwg. D75N1-3001................................................................. 6 lbs. (-26)"
+c,"Hopper type, Boeing-Wichita Dwg. E75N1-3002 ................................................................. 8 lbs. (-26) 
+ Capacity: 4.76 gals."
+"106. 
+ Winter front cowl installation (on Models A75N1, B75N1 and D75N1 only) .............................. 9 lbs. (-61)",
+107,Engine fire extinguisher system................................................................................................. 21 lbs. (-20)
+Landing Gear and Floats,(Main gear shock struts of the air-oil type and conforming to Boeing-Wichita Dwg. 75-2602 and main landing gear
+carry-through structures conforming to Boeing-Wichita Dwg. 75-2603 may be used on Model 75 (Army PT-13) only.),
+a,"24 in. streamline (Bendix or Hayes) with hyd. brakes and 24 in. 4-ply 
+ streamline tires............. .................................................................................................... 94 lbs. (-17) 
+ (b) 24 in. streamline (Bendix or Hayes) with hyd. brakes and 8.90-12.50 4-ply low 
+ pressure tires..................................................................................................................... 96 lbs. (-17)"
+a,8 in. smooth contour wheel and 6-ply tire............................................................................. 4 lbs. (+196)
+205,Tail wheel gear (less wheel and tire)
+a,"Steerable ........................................................................................................................... 18 lbs. (+190) 
+ (b) Free swivel with lock......................................................................................................... 18 lbs. (+190)"
+a,"12 volt - 34 amp. hr. (5 hr. rate)......................................................................................... 41 lbs. (-16) 
+ (b) 24 volt - 11 amp hr. (5 hr. rate).......................................................................................... 34 lbs. (-16)"
+a,"Type TIC............................................................................................................................. 9 lbs. (-13) 
+ (b) Type RC-73......................................................................................................................... 5 lbs. (+39)"
+a,Wing (NAF 1021)
+a,"Metal (Boeing-Wichita Dwg. 75-3720) ................................................................................ 8 lbs. (+26) & (+62) 
+ (b) Wood (Boeing-Wichita Dwg. B75N1-3610 ........................................................................ 13 lbs. (+26) & (+62)"
+402,"Safety belts, Army Types B-6, B-10, B-11, and B-12 and NAF 1045-1"
+a,"One quart carbon tetrachloride (Type A-2)........................................................................... 7 lbs. (+51) 
+ (b) Two Pound CO2 (Type 2TA 2TB) ....................................................................................... 6 lbs. (+46)"
+601,Spoilers (spin strips) over leading edge upper and lower wings or lower wing only
+a,"Blind flying hood................................................................................................................. 6 lbs. (+67) 
+ (b) Fling flying hood provisions................................................................................................. 2 lbs. (+55)"
+603,"Cockpit enclosure (Boeing). When this item is installed, airplane not eligible for 
+ night flying and must be placarded as follows: 
+ ""Close hatches before entering spin or dive."""
+605,"Cockpit enclosure (R.A.D. Air Devices, St. Louis, MO) ............................................................ 47 lbs. (+50)"
+606,Cockpit enclosure (Rawdon Dwg. PT-1050) .............................................................................. 10 lbs. (+44)
+607,Sprayer and Duster Installations (all 75 series airplanes unless otherwise noted)
+a,"Goettl's Metalcraft Co., 2431 E. Buhanan, Phoenix, Arizona 
+ Duster installation kit approved, subject to inspection, when installed according to 
+ drawings and installation instructions furnished with kit. 
+ (b) Barrie Aeronautical Corp., Lee Airport, Lockport, New York 
+ Model 20 dust hopper approved, subject to inspection, when installed according to 
+ Barrie Dwg. 001."
+c,"Transland Company, 223 California St., El Segundo, California 
+ Spray installation approved, subject to inspection, when installed in accordance with 
+ combination Spray Tank and Hopper Dwg. 1001, Dwgs. 1 through 10, and 
+ installation instructions: 
+ Airspeed Limits: 
+ Level flight or climb 
+ 100 mph TIAS 
+ Glide or dive 
+ 120 mph TIAS 
+ (d) Transland Company, 223 California St., El Segundo, California 
+ Duster installation approved, subject to inspection, when installed in accordance with 
+ combination Spray Tank and Hopper Dwg. 1001, Dwgs. 2001, 2004 and 2005 and 
+ installation instructions: 
+ Airspeed Limits: 
+ Level flight or climb 
+ 112 mph TIAS 
+ Glide or dive 
+ 134 mph TIAS"
+e,"Rawdon Bros. Aircraft, Inc., Box 1135, Wichita, Kansas 
+ Spray kit approved, subject to inspection, when installed according to Rawdon Report PT-6025."
+f,"Burnam Aviation Co., Arlington, Texas 
+ Six venturi spray kit approved, subject to inspection, when installed according to 
+ Burnam Dwgs. and Instructions B-1, B-2, B-3, RB-100, RB-101, RB-102, RB-1 and RB-2. 
+ Airspeed Limits: 
+ Level flight or climb 
+ 119 mph TIAS 
+ Glide or dive 
+ 143 mph TIAS"
+g,"Independent Crop Dusting, Inc., Campbell, California 
+ ICD Model 600 rotary spray two unit kit approved, subject to inspection, when installed according 
+ to ICD Dwgs. 600-102 to -106 inclusive and installation instructions, and when mounted to the wing 
+ structure in accordance with ICD Dwg. 600-101 or ICD Mounting Kit No. 600-1B. 
+ Airspeed Limits: 
+ Level flight or climb 
+ 92 mph TIAS 
+ Glide or dive 
+ 110 mph TIAS 
+ (h) Airplane Vapor Spray Company, Route 3, Box 567b, Visalia, California 
+ Duster, spray or combination duster and spray kit approved, subject to inspection, when installed 
+ according to assembly Dwg. No 8904-A and P-100 through P-107, inclusive, and installation 
+ Dwgs. 1001 through 1008 inclusive. Kits include instructions for Pratt and Whitney R-985-AN3 
+ engine installation and the airplane was eligible for NR certification prior to October 11, 1950, with 
+ the engine and limitations listed in Section V."
+i,"Ong Aircraft Corp., Kansas City, Missouri 
+ Aero Dust King Model DS-12 kit approved, subject to inspection, when installed according to 
+ Ong Installation Instructions and DWg. DS-1200."
+j,"Airplane Dust and Spray Equipment Company, Kern County Airport, Bakersfield, California 
+ Sprayer pump and boom assembly kit, subject to inspection, when installed according to 
+ Dwg. 50320-207-75 and installation instructions. 
+ Airspeed Limits: 
+ Level flight or climb 
+ 92 mph TIAS 
+ Glide or dive 
+ 110 mph TIAS 
+ (k) Rawdon Seeder-Duster, Rawdon Bros. Aircraft Inc., Box 1135, Wichita, Kansas 
+ Kit approved, subject to inspection, when installed according to Rawdon Report No. PT-7100."
+608,"Metal center wing section, Goettls Metalcraft Company, 2431 E. Buchanan Street, Phoenix, Arizona 
+ Per Goettls Metalcraft Company Dwgs. Nos. G-2348-M, and/or G-2348-M modified."
+609,"Wings made in accordance with Dwgs. 53040-1 through 53040-5, owned by Arvin-Wings, Inc., 
+ P.O. Box 668, Arvin, California, comply with the structural requirements of CAR 8 when installed 
+ on 75 Series aircraft. This configuration was substantiated under Part 8 for the following weights 
+ and speeds: 
+ 3200 lbs. gross weight, takeoff and landing 
+ Vc = 110 mph Vne - 139 mph 
+ Airplanes equipped with these wings are eligible for certification under CAR 8 only. For certification at 
+ higher weights and speeds than those shown above, these airplanes should be flight tested in 
+ accordance with CAM 8.10-3 and the maximum weight established in accordance with CAM 8.10-4 
+ for the intended special purpose."
+610,"Wings made in accordance with Dwgs. NA101 through NA131, owned by National Aircraft Corporation, 
+ 8075 Woodley Avenue, Van Nuys, California, comply with structural requirements of CAR 8 only 
+ when installed on 75 series aircraft. This configuration was substantiated under Part 8 for the following 
+ weights and speeds: 
+ 3632 lbs. Gross weight, takeoff 
+ 3200 lbs. Gross weight, landing 
+ Vc = 105 mph Vne - 141 mph 
+ Airplanes equipped with these wings are eligible for certification under CAR 8 only. For certification at 
+ higher weights and speeds than those shown above, these airplanes should be flight tested in 
+ accordance with CAM 8.10-3 and the maximum weight established in accordance with CAM 8.10-4 
+ for the intended special purpose."
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight empty, 
+ and loading instructions when necessary, must be in each aircraft at the time of original certification 
+ and at all times thereafter (except in the case of air carrier operators having an approved weight control 
+ system)."
+NOTE 2,"Prior to original certification of any surplus military aircraft the following revisions must be made: 
+ (These revisions are also covered in Boeing Airplane Company, Wichita Division, Service Bulletin No. 75-1, 
+ A75-1, B75-1, E75-1, A75N1-1, D75N1-1, A75J1-1 (one bulletin). 
+ (a) 
+ The 0.040 inch thick aluminum firewall must be replaced, covered, or backed by 0.015 inch thick 
+ stainless steel or 0.018 inch thick mild steel suitably protected against corrosion. As an alternative, 
+ the back of the present firewall may be covered with a sheet 1/8 inch thick asbestos covered, in 
+ turn, with 0.020 inch thick aluminum. The entire assembly should be securely riveted together. The 
+ asbestos and second sheet of aluminum need not be applied in one piece. However, any joints should 
+ be well matched and asbestos joints should not coincide with joints in the aluminum. 
+ (b) A suitable stick or gauge for measuring the oil quantity shall be provided. 
+ (c) 
+ The baggage compartment shall be marked ""maximum capacity 60 lbs."" or as limited by pertinent 
+ weight and balance report, if less."
+NOTE 3,"Prior to original certification of any surplus military aircraft of the subject models equipped with an 
+ electrical system, the following conditions should be complied with or electrical installations should 
+ be removed: (These revisions are also covered in Boeing Airplane Company, Wichita Division, Service 
+ Bulletin No. 75-1, A75-1, B75-1, E75-1, A75N1-1, B75N1-1, D75N1-1, A75J1-1 (one bulletin).) 
+ (a) 
+ Any unapproved position lights must be replaced with Federal Aviation Administration 
+ certificated or approved lights. The wing lights on some airplanes are already of an 
+ approved type. These approved lights are NAF-1021 and AN 3033 models. However, if 
+ the AN 3033 lights have a streamlined glass cover, the sandblasted area on the inside of the 
+ cover should be painted black or the cover should be replaced with a glass globe and a 
+ streamlined metal cover which can be obtained from the light manufacturer. None of the 
+ rudder light assemblies incorporated on these military airplanes is approved. 
+ (b) A battery switch must be installed that will disconnect the battery from the electrical 
+ system as near the battery as practicable. 
+ (c) 
+ If the battery switch is operable from only one seat the airplane should be placarded for 
+ solo flight from that seat."
+NOTE 4,"Jacobs R-755-7 engines used in Army PT-18 airplanes must be inspected and modified as follows, 
+ prior to certification: 
+ (a) 
+ The rear main engine crankcase must be part no. 30068. If any other rear main crankcase 
+ is installed it must be replaced. 
+ (b) Inspect all gears and bushings in the engine starter gear train to assure that they are in 
+ airworthy condition. Any unsatisfactory parts must be replaced. 
+ (c) 
+ Eclipse type 946 starters must not be used with the R-755-7 engine due to their excessively high 
+ clutch setting. In addition, no inertia type starters with a clutch setting above 300 ft. lbs. should 
+ be used with this engine."
+NOTE 5,"Rigging specifications are as follows: 
+ (Complete maintenance instructions, including detailed rigging information, may be purchased from the 
+ Boeing Airplane Company, Wichita Division.) 
+ Center section centering - With fuselage leveled laterally the center section is centered by hanging a plumb 
+ bob over the outboard side of the bushing at the front spar terminal bolt and measuring the lateral distance 
+ from the plumb line to the fuselage box tube. This dimension is normally 23"" plus or minus 1/32"" and 
+ should be equal within plus or minus 1/16"" on both sides of the fuselage. 
+ Dihedral 
+ - Upper wing 1/2°, lower wing 1-1/2° 
+ Incidence 
+ - Upper wing 4°, lower wing 3° 
+ Stagger 
+ - 26-13/16"" plus or minus 1/8"" at strut point (spoilers on both wings 
+ or on neither wing) 
+ - 26-9/16"" plus or minus 1/8"" at strut point (spoilers on lower wing only) 
+ Sweepback 
+ - 0°"
+NOTE 6,"Models with engines listed under Sections I and II are also eligible for NC certification at a maximum 
+ weight of 3200 lbs. under the following conditions: 
+ Airspeed limits 
+ Level flight or climb 
+ 123 mph TIAS 
+ Glide or dive 
+ 148 mph TIAS 
+ Propeller limits 
+ Static rpm, at maximum permissible throttle setting: 
+ Not over 1970, not under 1870 
+ No additional tolerance permitted 
+ Diameter - Not over 102 in., not under 100 in. 
+ Pitch setting: 9° at 42 in. station 
+ (Limits shown in Item 1(d) and Item 1(e) are not applicable at 3200 lb. weight). 
+ C.G. Range 
+ (-1.0) to (+4.5) at 3200 lbs. 
+ (-1.0) to (+7.1) at 2950 lbs. or less 
+ Straight line variation of aft C.G. limit between 2950 lbs. and 3200 lbs. 
+ LBS. 
+ 3200 
+ 3100 
+ FRONT 
+ LIMIT 
+ 3000 
+ AFT 
+ LIMIT 
+ 2900 
+ -1 
+ 0 
+ +1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ INCHES 
+ Empty Wt. C.G. Range 
+ (-1.3) to (-0.4) ""Solo from rear seat only."" 
+ (-3.7) to (-0.4) When front cockpit placarded: 
+ ""Solo from rear seat only."" 
+ When empty weight C.G. falls within this range computation of critical fore 
+ and aft C.G. positions is unnecessary. Ranges are not valid for non-standard 
+ arrangements or for crop duster or sprayer installations. 
+ Placards 
+ ""Intentional spinning prohibited"" 
+ ""80 minimum octane fuel to be used"" 
+ Item 1(d) or 1(e) required. Item 601 not be installed. Front windshield to be removed and front cockpit 
+ covered over. 
+ NOTE: 
+ Above aircraft with external configuration changes such as approved dusters, sprayers, etc., 
+ listed under item 607, or similar, are eligible for NC or standard certification with the above 
+ limitations unless otherwise noted."
+NOTE 7,"The certification basis for these airplanes does not contain operating categories, i.e., normal, utility or 
+ acrobatic, as listed in the current certification regulations. However, since certain of these models were 
+ designed to perform and have demonstrated the capability to perform the acrobatic maneuvers not 
+ exceeding the load factors listed below, the words ""acrobatic category"" are included so that those 
+ persons concerned with these airplanes understand their capacity in terms of current practices. 
+ Maneuvering load factors are as follows: 
+ A75L3, 75, A75, B75, E75, A75N1, 
+ B75N1, D75N1 and A75J1 
+ +6.67 to -2.67 
+ For the above reasons, the airworthiness certificate for A75L3, 75, A75, B75, E75, A75N1, B75N1, 
+ D75N1 and A75J1 airplanes is to be issued in the acrobatic category."

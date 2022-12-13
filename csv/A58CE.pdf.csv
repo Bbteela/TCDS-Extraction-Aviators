@@ -1,0 +1,460 @@
+Keyterm,Info
+"A58CE 
+ Revision 7 
+ Aircraft Integrated 
+ Solutions Ltd 
+ Ae 270 
+ July 28, 2021",
+Type Certificate Holder,"AIRCRAFT INTEGRATED SOLUTIONS LTD 
+ International House 
+ 12 Constance Street 
+ London E16 2DQ United Kingdom"
+Type Certificate Holder Record,"Aero Vodochody a.s. transferred TC A58CE to Aircraft Integrated 
+ Solutions Ltd on October 24, 2016. (NOTE 6)"
+"I. 
+ Model Ae 270, Single-engine airplane, (Normal Category), approved February 24, 2006",
+Engines,"1 Pratt & Whitney Canada, model PT6A-66A turboprop, two-shaft 
+ engine with a free turbine, a compressor section having four axial stages 
+ and one centrifugal stage, with an annular combustion chamber. 
+ Compression ratio: 12: 1 
+ Gear ratio to prop. Shaft 0.0662:1 
+ FAA Engine Type Certificate: TCDS E26NE 
+ Fuel Grade and Approved Fuel Additives 
+ JET A-50 
+ ASTM-D1655 
+ JET A 
+ ASTM-D1655 
+ JET B 
+ ASTM-D1655 
+ JET A-1 
+ ASTM-D1655 
+ JET A-2 
+ ASTM-D1655 
+ JP-4 
+ MIL-PRF-5624 
+ JP-5 
+ MIL-PRF-5624 
+ JP-8 
+ MIL-DTL-83133 
+ JP-8-100 
+ MIL-DTL-83133 
+ For approved additives and other approved fuel grades refer to latest 
+ revision of P&W Canada Service Bulletin 14004"
+Oil,"Aero Shell Turbine Oil 500, Royco Turbine Oil 500, 
+ Mobil Jet Oil II, Castrol 5000, Exxon Turbo Oil 2380, 
+ Turbonycoil 525-2A, in accordance with P&W Canada SB No. 14001"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9"
+Rev No,"7 
+ 0 
+ 0 
+ 2 
+ 0 
+ 3 
+ 7 
+ 3 
+ 4"
+Power Setting,"Power 
+ MK 
+ ng 
+ np 
+ Max. ITT 
+ Oil 
+ Oil 
+ Pressure 
+ Temperature 
+ 2 
+ 4 
+ 1 
+ [SHP (kW)] 
+ [lb ft] 
+ [%] 
+ [RPM] 
+ [˚C] 
+ [psi] 
+ [˚C]"
+Takeoff,"850 (634) 
+ 2,230 
+ 104 
+ 2,000 
+ 800 
+ 100 to 135 
+ 0 to 104 
+ 9"
+Max,800 8
+Max Climb,"850 (634) 
+ 785 
+ 10 to 104 
+ 10 
+ 7"
+Ground Idle,"65 3 
+ 785 
+ min. 60 
+ –40 to 110"
+Flight Idle,73 3
+Starting,"1,000 
+ max. 200 
+ min. –40 
+ max. 5 s"
+Transient,"2,750 
+ 104 
+ 2,205 
+ 870 
+ 40 to 200 
+ 0 to 110 
+ max. 20 s 
+ max. 20 s 
+ max. 20 s 
+ 6 
+ 5"
+Max Reverse,"800 (597) 
+ 1,900 
+ 780 
+ 100 to 135 
+ 0 to 104"
+1,"For propeller speed below 1,600 RPM the torque is limited to 1,100 lb ft."
+2,"Normal oil pressure with gas generator speed above 72 %. At normal oil temperature between 60 to 
+ 70º C and torque below 2,000 lb ft the minimum oil pressure is 60 psi. Oil pressures under 90 psi are 
+ undesirable. Under emergency conditions, to complete a flight, a lower oil pressure limit of 60 psi is 
+ permissible at reduced power level not exceeding 1,100 lb ft torque. If oil pressure drops below 60 
+ psi, shutdown the engine or make a precautionary landing using minimum power required to sustain 
+ flight. During an extremely cold weather start, oil pressure may reach 200 psi."
+3,"switched on (ECS ON) and the outside air temperature influence combined, the low and high idle 
+ speeds may be lower by 3 %."
+4,"For increased oil service life, an oil temperature below 80º C is recommended. A minimum oil 
+ temperature of 55º C is recommended for fuel heater operation at takeoff power."
+5,Oil temperature limits are –40 to 104º C with limited periods of 10 min at 104 to 110 º C.
+6,"May be employed in an emergency condition, at all ratings, to complete a flight."
+7,Climb power may be set by using nominal ITT of 735º C.
+9,"Takeoff power is limited to 5 minutes. 850 SHP (634 kW) up to 50.1º C OAT. 
+ 10 850 SHP (634 kW) up to 44.5º C OAT."
+Number of propellers,1
+Propeller and Propeller Limits,"Hartzell Propeller Inc. (USA) 
+ HC-E4N-3P/D9511FASK/D-630-3P 
+ four-blade, all-metal, hydraulically-actuated with constant-speed, full 
+ feathering and reversible 
+ Propeller diameter: 96 in. (2.438 m) 
+ Sense of Rotation: Clockwise (in view of flight direction) 
+ US Propeller Type Certificate: TCDS P10NE 
+ Propeller Pitch: 
+ Pitch Angle on the radius r = 30 in (762 mm): 
+ - fine pitch 
+ 21.5+/- 0.1º 
+ - reverse angle 
+ -12.8+/- 0.5º 
+ - feather 
+ 86.1+/-0.5º"
+Airspeed Limits,"VMO (maximum operating speed) 
+ 205 KIAS 
+ - up to 16400 ft 
+ MMO (maximum operating speed) 
+ 0.42 
+ - above 16400 ft 
+ VA (Manoeuvring Speed at 3800 kg) 
+ 154 KIAS 
+ VFE (Maximum Flap Extended Speed ) 
+ flaps 20° 
+ VFE20 
+ 148 KIAS 
+ flaps 36° 
+ VFE36 
+ 125 KIAS 
+ VLO (Maximum landing gear operating speed) 
+ 132 KIAS 
+ VLE (Maximum landing gear extended speed) 
+ 132 KIAS"
+Flight Load Factor Limits,"Maximum Positive Flight Load Factor: 
+ -flaps retracted (0) 
+ 3.41 
+ -flaps extended (20 and 36) 
+ 2.00 
+ Maximum Negative Flight Load Factor: 
+ -flaps retracted (0) 
+ -1.36"
+Max Ramp,8422lbs. (3820kg)
+Max Takeoff,8377lbs. (3800 kg)
+Max Landing,8377lbs. (3800 kg)
+Max Zero Wing Fuel,8157lbs. (3700 kg)
+Max Weight in Baggage Compartment,132 lbs. (60kg)
+Typical Empty Weight Green airplane,5370 lbs. (2436 kg) +/- 2%
+Typical Empty Weight –PAX version,5974 lbs. (2710 kg) +/- 2%
+MaxPayload – PAX version,1984 lbs. (900 kg)
+CenterofGravity Limits,"Weight 
+ Forward C.G. Limit 
+ Aft C.G. Limit"
+lbs,"[kg] 
+ [in] 
+ [m] 
+ [% bMAC] 
+ [in] 
+ [m] 
+ [% bMAC]"
+6206,"2,815 
+ 212.8 
+ 5.405 
+ 21 
+ 213.4 
+ 5.421 
+ 22"
+7165,"3,250 
+ 212.8 
+ 5.405 
+ 21 
+ - 
+ - 
+ -"
+7844,"3,558 
+ - 
+ - 
+ - 
+ 218.3 
+ 5.547 
+ 30"
+8377,"3,800 
+ 213.4 
+ 5.421 
+ 22 
+ 218.3 
+ 5.547 
+ 30"
+Datum,"Reference Datum is a distance of 116.5 in (2.960 m) from the 
+ firewall (bulkhead No. 1). The leading edge of the MAC is 
+ 199.8 in (5.076 m) aft of the Reference Datum 
+ Mean Aerodynamic Chord (MAC): The MAC length is 61.7 in (1.568 m)."
+Leveling Means,"Refer to the ""Ae 270 Maintenance Manual"", Doc. No. 
+ BMAI01EN, Chapter 8 or to the applicable Pilot´s Operating 
+ Handbook and Airplane Flight Manual, Sec. 6."
+Seating Capacity,"8 passenger seats in cabin and 2 crew seats in the flight deck. 
+ Maximum of 9 passengers. 
+ Refer to the POH/AFM for passenger and flight crew loading 
+ instructions and approved configuration."
+Minimum Crew,1 pilot in the left seat
+Total Fuel Tanks Capacity,"Both Tanks 
+ 304.4 U.S. Gal 
+ (1152 l) 
+ Each Tank 
+ 152.2 U.S. Gal 
+ (576 l)"
+Max Allowable Fuel,"Both Tanks 
+ 185.0 U.S. Gal 
+ (700 l) 
+ Each Tank 
+ 92.5 U.S. Gal 
+ (350 l)"
+Usable Fuel,"Both Tanks On 
+ 172.6 U.S. Gal 
+ (653.0 l) 
+ Single Tank On 
+ 86.3 U.S. Gal 
+ (326.5 l)"
+Unusable Fuel,"Both Tanks On 
+ 12.4 U.S. Gal 
+ (47.0 l) 
+ Single Tank On 
+ 6.2 U.S. Gal 
+ (23.5 l)"
+Maximum Allowable Fuel Unbalance,"12 U.S. Gal 
+ (45 l)"
+Oil Tank Capacity,"Total Capacity: 
+ 14.8 U.S. Quarts 
+ (14.0 l) 
+ Drain Quantity: 
+ 14.5 U.S. Quarts 
+ (13.7 l) 
+ Operating Range: 
+ 1.6 U.S. Quarts 
+ (1.50 l)"
+Approved Kinds of Operation,"- VFR flights, day and night, 
+ - IFR flights, day and night"
+Prohibited Kinds of Operation,- Flight into known or forecast icing is prohibited.
+Landing Gear,"- Retractable, tricycle type. 
+ - Can operate on unpaved runways. 
+ - Main Gear: swinging fork of tow type and oil pneumatic shock absorbers, 
+ - Nose Gear: telescopic oil-pneumatic shock absorber and oil shimmy damper, 
+ - Nose Wheel rotation angle: ± 15 o 
+ - Nose Wheel castoring angle with steering OFF: ± 55 o"
+Control Surface Movements,"Ailerons: 
+ Up 
+ 22.5 o  1 o 
+ Down 
+ 13.5 o  1 o 
+ Aileron Trim Tab: 
+ Up 
+ 15 o  1 o 
+ Down 15 o  1 o 
+ Elevator: 
+ Up 
+ 30 o  1 o 
+ Down 
+ 15 o  1 o 
+ Elevator Trim Tab 
+ Up 13 o  1 o 
+ (Left / Right): 
+ Down 28 o  1 o 
+ Rudder 
+ Left 25 o+ 1 o (-0o) 
+ Right 25 o+ 1 o (-0o) 
+ Rudder Trim Tab: 
+ 23 o  1 o 
+ (Rudder Neutral) 
+ Left 
+ Right 7 o - 1 o (+0 o) 
+ Neutral (Left) 
+ 8o  1 o 
+ Wing Flaps: 
+ Takeoff 
+ 20 o  2 o 
+ Landing 
+ 36 o  1 o 
+ Neutral 
+ 0 o  1 o"
+Operating Ambient,ISA-22°F to ISA+68°F (ISA-30°C to ISA+20°C)
+Temperature Range,"Minimum Temprature above 17700 ft: –58°F (–50°C) 
+ See Approved Airplane Flight Manual, listed in Service 
+ Information a) for more details."
+Standard Equipment,"As defined in section 6 of the Ae 270 Airplane Flight Manual, Ref. 
+ No.BPOH01EN, (Revision 2, dated October 6, 2006) or later revision."
+Optional  Operational,"As defined in section 6 of the Ae 270 Airplane Flight Manual,"
+Equipment,"Ref. No. BPOH01EN, (Revision 2, dated October 6, 2006) or later 
+ revision."
+Service Life Limits,"Airframe Service Life: 5,000 flight hours. 
+ Components: as listed in Chapter 4 of Maintenace Manual, Ref No. 
+ BMAI01EN, Rev. 1, dated October 20, 2006 or later FAA 
+ approved revision."
+Serial Nos Eligible,"Ae 270 Airplane with serial number 0006 and subsequent, are eligible 
+ for import into the United States. See Details under Import 
+ Requirements below."
+Certification Basis,"The regulations (unless otherwise stated) are Title 14 of the Code of 
+ Federal Regulations (14 CFR): 
+ 14 CFR Part 23 dated February 1, 1965, as amended through 
+ Amendment 23-55 effective March 1, 2002; 
+ 14 CFR Part 34 dated September 10, 1990, as amended through 
+ Amendment 34-3 effective February 3, 1999; 
+ 14 CFR Part 36 dated December 1, 1969, as amended through 
+ amendment 36-24 effective August 7, 2002. 
+ Equivalent Safety Items: 
+ Equivalent levels of safety finding made per the provision of 14 CFR 
+ Part 21.21(b)(1) for: 
+ 14 CFR 23 § 23.145(b)(2): ELOS ACE-05-14, Refer to FAA 
+ memorandum dated October 14, 2005. 
+ 14 CFR 23 § 23.145(b)(4): ELOS ACE-05-13, Refer to FAA 
+ memorandum dated October 7, 2005. 
+ Special Conditions: High Intensity Radiated Fields, (HIRF), Number 
+ 23-137-SC, issued September 16, 2003. 
+ Date of Application for U.S. Type Certificate June 8, 1998. 
+ The Civil Aviation Authority of the Czech Republic (CAA-CZ) 
+ originally type certificated this aircraft on behalf of EASA without 
+ issuing its own Czech Republic type certificate. The FAA validated this 
+ product under U.S. Type Certificate Number A58CE. Effective 
+ December 12, 2005, the European Aviation Safety Agency (EASA) 
+ began oversight of this product on behalf of the Czech Republic. The 
+ EASA TCDS number is EASA.A.060."
+Validation Basis,"The applicable airworthiness requirements for a U.S. certification under 
+ 14 CFR 21 section 21.29 identified above were established considering 
+ the airworthiness requirements applied by the responsible exporting 
+ Czech-Republic civil aviation authority under the Bilaterial Aviation 
+ Agreement (BAA) authorized by the Agreement between the 
+ Government of the Czech-Republic and the Government of the United 
+ States of America, including the Operating Procedure and the interim 
+ working agreement between the Government of the United States of 
+ America and the European Aviation Safety Agency (EASA) per FAA 
+ Order 8110.52. 
+ This Type Certificate was issued pursuant to the certification by the 
+ CAA-CZ and EASA that the Aero Vodochody Model Ae 270 complies 
+ with the above requirements. 
+ EASA issued EASAType Certificate No. A.060, as described in EASA 
+ TCDS No. EASA.A.060 Issue 001."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on an NAA 
+ Export Certificate of Airworthiness (Export C of A) signed by a 
+ representative of the Civil Aviation Authority of the Czech Republic 
+ (CAA-CZ) on behalf of the European Community. The Export C of A 
+ should contain the following statement: ‘The aircraft covered by this 
+ certificate has been examined, tested, and found to comply with U.S. 
+ airworthiness regulations 14 CFR Federal Aviation Regulations Part 
+ 23, U.S. Type Certificate No. A58CE and to be in a condition for safe 
+ operation.’ 
+ Refer to the applicable bilateral agreement to verify eligibility for 
+ import into the United States of both new and used aircraft based on the 
+ scope of the agreement, to identify any required statements by the 
+ exporting authority on the export certificate of airworthiness (or 
+ equivalent document), and for procedures for coordinating exceptions 
+ to conformity statements on these documents. Refer to FAA Order 
+ 8130.2, Airworthiness Certification of Aircraft, for requirements for 
+ issuance of an airworthiness certificate for imported aircraft. 
+ Model Ae 270 airplane with serial numbers 0006 and subsequent are 
+ eligible for a U.S. Standard Airworthiness Certificate."
+Equipment,"The basic required equipment as prescribed in the applicable 
+ airworthiness regulations (see Certification Basis) must be installed in 
+ the airplane for certification. Such equipment is listed in the current 
+ FAA approved Airplane Flight Manual, BPOH01EN, (Revision 2, 
+ dated October 6, 2006) or later approved revisions."
+Service Information,"Each of the documents listed below must state that it is approved by the 
+ European Aviation Safety Agency (EASA) or – for approvals made 
+ before December 12, 2005 – by the Civil Aviation Authority of the 
+ Czech Republic (CAA-CZ). 
+ • Service bulletins, 
+ • Structural repair manuals, 
+ • Vendor manuals, 
+ • Aircraft flight manuals, and 
+ • Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved 
+ for type design data only unless one of the following conditions exists: 
+ • The documents change the limitations, performance, or 
+ procedures of the FAA approved manuals; or 
+ •The documents make an acoustical or emissions changes to this 
+ product’s U.S. type certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these 
+ documents. The FAA may delegate on case-by-case to EASA to 
+ approve on behalf of the FAA for the U.S. type certificate. If this is the 
+ case it will be noted on the document. 
+ Each airplane is provided with the following approved documents: 
+ a) Aero Vodochody Ae 270 Airplane Flight Manual, Ref. No.: 
+ BPOH01EN, (Revision 2, dated October 6, 2006) or later FAA 
+ approved revision. 
+ b) Aero Vodochody Ae 270 Airplane Maintenance Manual, Ref. No.: 
+ BMAI01EN, Rev. 1, dated October 20, 2006 or later FAA approved 
+ revision, including: 
+ Chap. 4: ""Airworthiness Limitations"" and Chap. 5: ""Time 
+ Limits/ Maintenance Check"". 
+ c) Aero Vodochody Ae 270 Airplane Wiring Manual, Ref. No.: 
+ BWIR02EN, Rev. 1, dated October 20, 2006 or later FAA approved 
+ revisions."
+NOTE 1,"Current weight and balance data including list of equipment included in 
+ the certificated empty weight and loading instructions, when necessary, 
+ must be provided for each airplane at the time of original certification, 
+ and remain with the airplane at all times thereafter. The certificated 
+ empty weight and corresponding center of gravity locations must 
+ include the following: 
+ Unusable fuel of 12.4 US gal (82.8 lbs.) {47.0 l; 37.5 kg}"
+NOTE 2,"Airplane operation must be in accordance with the EASA approved 
+ Airplane Flight Manual listed above. All placards listed in Section 2 
+ must be displayed in clear view of the pilot."
+NOTE 3,"Airworthiness Limitations are specified in the Section 2 
+ LIMITATIONS chapter of the Flight Manual and Chapter 4 of the 
+ Instructions for Continued Airworthiness (Maintenance Manual) and 
+ are approved by EASA and the FAA. These LIMITATIONS specify 
+ mandatory replacement times, and operating limitations, and may not be 
+ changed without EASA and FAA approval. 
+ The FAA must approve revisions to the Airworthiness Limitations. The 
+ inspections, maintenance, repair and painting must be accomplished 
+ according to the Maintenance Manual or other procedures acceptable to 
+ the FAA."
+NOTE 4,"Information essential for the proper operation, maintenance and 
+ inspection of the airplane is contained in the Aero Vodochody Ae 270 
+ Airplane Flight Manual and Maintenance Manual."
+NOTE 5,"All avionics installed in this aircraft must meet the applicable FAA 
+ Technical Standard Order (TSO) and/or equivalent FAA approved 
+ safety requirements."
+NOTE 6,"Per EASA TCDS EASA.A.060, Aero Vodochody a.s. changed the TC 
+ holder name to AERO Vodochody AEROSPACE a.s. on May 12, 2013 
+ and was documented as such until the EASA TC transferred to Aircraft 
+ Integrated Solutions Ltd on September 29, 2016. This previous TC 
+ holder name change was never coordinated with the FAA for the FAA 
+ A58CE type certificate."

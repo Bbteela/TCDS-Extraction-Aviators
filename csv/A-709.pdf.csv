@@ -1,0 +1,165 @@
+Keyterm,Info
+"A-709 
+ Revision 5 
+ STINSON 
+ HW-75 
+ 10 
+ November 9, 1956",
+Manufacturer,"Stinson Division 
+ Consolidated Vultee Aircraft Corp."
+"I - Model HW-75, 3 PCLM, Approved May 20, 1939 and Model 10, 3 PCLM, Approved April 22, 1940 
+ (Model 10 is same as HW-75 except for wider cabin and minor structural changes.)",
+Engine,Continental A-75-3 (See item 314 for optional engines).
+Fuel,73 min. grade aviation gasoline
+Engine limits,"For all operations, 2650 rpm (75 hp)"
+Propeller limits,(75 hp): Max. permissible diameter 81 in.
+with item 101,"(80 hp): Static rpm at max. permissible throttle setting: 
+ Not over 2635, not under 2325. No additional tolerance permitted. 
+ Diameter: Not over 81 in., not under 67.5 in."
+Airspeed limits,"Level flight or climb 
+ 120 mph (104 knots) True Ind. 
+ Glide or dive 
+ 144 mph (125 knots) True Ind. 
+ Flaps extended 
+ 85 mph ( 74 knots) True Ind."
+CG range,(+14.7) to (+19)
+Empty weight CG range,"(+14.6) to (+15.5) When empty weight C.G. falls within this range, computation of 
+ critical fore and aft C.G. positions is unnecessary. Range is not valid for non-standard 
+ arrangements."
+Datum,Wing leading edge
+Leveling means,Top of door frame
+Maximum weight,1580 lbs.
+No seats,3 (2 front at +16 and one rear at +39).
+Maximum baggage,"24 lbs. (+39). Baggage may be increased to 194 lbs. when rear seat passenger is not 
+ carried - 100 lbs. on rear seat and 94 lbs. on floor."
+Fuel capacity,"HW-75: 18 gals. (+22) See item 305 for extra tanks 
+ 10: 20 gals. (+22)"
+Oil capacity,4 1/2 qts. (-40) See item 305 for extra capacity.
+Control surface movements,Not available.
+1,"2 
+ 3 
+ 4"
+5,"5 
+ 5 
+ 5"
+Serial Nos eligible,"HW-75: 7000 and up manufactured prior to Feb. 28, 1941. 
+ Approval expired as of that date. 
+ 10: 7501 and up manufactured prior to Feb. 28, 1941. 
+ Approval expired as of that date."
+Required equipment,"Items 101, 102, 103, 104 and 105"
+SPECIFICATIONS PERTINENT TO ALL MODELS,
+Certification basis,Type Certificate No. 709 (CAR 4a)
+Production basis,"Not pertinent - see ""Serial Nos. Eligible."""
+Export eligibility,"Eligible for export to all countries except as follows subject to the provisions 
+ of MOP 2-4 . 
+ Canada - Landplane - eligible 
+ Seaplane - not eligible. However, structure complies with Canadian 
+ requirements for ski installation with a maximum ski height 
+ of 8-11/16 in. and a tread of 6 ft. 11-5/8 in. (centerline of 
+ ski 3-1/16 in. out from edge of torque plate)."
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item indicates net weight change when that item 
+ is installed."
+Propellers and Propeller Accessories,"101. Propeller - wood (fixed or adj. pitch) 
+ 13 lbs. (-60) 
+ Static rpm at max. permissible throttle setting: 
+ Not over 2500, not under 2325. 
+ No additional tolerance permitted. 
+ Low pitch setting 14° at 22 in. sta."
+a,"Beech R-1 hub C-100, blades R100-70 
+ +12 lbs. (-60) 
+ Diameter: Not over 70 in., not under 68 in. 
+ (b) Flottorp R002, hub R002-208, blades R002-205-72 
+ +18 lbs. (-60) 
+ (See Prop. Spec. P-804, NOTE 6, for interchangeable blades) 
+ Diameter: Not over 72 in., not under 68 in."
+c,"Propeller control (Beech Dwg. R000-000) to be used with 
+ 2 lbs. (-30) 
+ either of above propellers"
+318 Propeller  McCauley 1A90,"26 lbs. (-60) 
+ Static rpm at max. permissible throttle setting: 
+ Not over 2440, not under 2340. 
+ No additional tolerance permitted. 
+ Diameter: Not over 70 in., not under 68.5 in. 
+ 29 lbs. (-60) 
+ (See Prop. Spec. P-804, NOTE 6 for interchangeable blades) 
+ Static rpm at max. permissible throttle setting: 
+ (low pitch): Not over 2500, not under 2325 
+ No additional tolerance permitted. 
+ Diameter: Not over 72 in., not under 72 in. 
+ Placard required: ""Do not exceed 2575 engine rpm in level flight or climb."" 
+ 320. Propeller - Sensenich M74CK-2 fixed pitch metal (A75 engine only) 
+ 21 lbs. (-60) 
+ Static rpm at max. permissible throttle setting: 
+ Not over 2440, not under 2340. 
+ No additional tolerance permitted. 
+ Diameter: Not over 72 in., not under 70 in. 
+ Engines and Engine Accessories - Fuel and Oil System 
+ 105. Carburetor air heater (Dwg. T-3225) 
+ 3 lbs. (-35)"
+a,"(Eclipse E-80) (Item 304(b) required) 
+ 18 lbs. (-33) 
+ (b) (Eclipse No. 635) (Item 304(b), (c) or (d) required) 
+ 16 lbs. (-33)"
+c,"Wiring and switch 
+ 2 lbs. (-6)"
+a,"18 gal. fuel tank (Model HW-75 only) 
+ 15 lbs. (+22)"
+(b) 20 gal. fuel tank (Model 10 only),
+c,"2 gal. oil tank 
+ 1 lb. (-40) 
+ 313. Revised engine mount (Dwg. T-3830) for engines with No wt. change"
+a,"A-75-6 (Limits same as for A-75-3) 
+ +3 lbs."
+b A758,"No wt. change 
+ Engine limits: For all operations, 2600 rpm (75 hp)"
+c,"A-75-9 (Limits same as for A-75-8) 
+ +3 lbs."
+d A806 A806J A809 A809J,"+3 lbs. 
+ Engine limits: For all operations, 2700 rpm (80 hp) 
+ Fuel: 
+ 80 min. octane 
+ (See NOTE 1 for further restrictions.)"
+e,"A-80-8 or A-80-8J 
+ No wt. change 
+ Limits same as for (d). 
+ (See NOTE 1 for further restrictions.)"
+Landing Gear,"102. 6.00-6 wheels with brakes (Goodrich 600M) and 4-ply tires 
+ 28 lbs. (+1) 
+ (Wheels must be placarded for these tires) 
+ 103. 6x2.00 solid tail wheel (Firestone No. 206-7B) 
+ 2 lbs. (+168)"
+107 Parking brake,3 lbs. (+13)
+302 Wheel streamlines,6 lbs. (+1)
+311 Puncture seal tubes,2 lbs. (+1)
+315 Skis,Use actual wt. change
+a,Federal SC-2
+a,"8.00-4 (Goodrich 841) with brakes and 4-ply tires 
+ No wt. change 
+ (Wheels must be placarded for these tires) 
+ +1 lbs. (+155)"
+Electrical Equipment,"104. Battery - 6 volt (Reading No. 324) with box 
+ 14 lbs. (-25) 
+ 303. Landing lights (Grimes ST-250) one or two 
+ 5 lbs. ea. (+14)"
+a,"(Reading R-24, 12 vo.) 
+ 27 lbs. (-25)"
+b Exide 6TS71 12 vo,28 lbs. (+15)
+c,"(Exide 6TS-7-1, 12 vo.) 
+ 28 lbs. (-25)"
+"(d) (Exide 6TS-13-1, 12 vo.) (For serial nos. 7601 and up of model 10 only)",
+e,"(Exide 6TS-13-1, 12 vo.) 
+ 40 lbs. (+29) 
+ 310. Generator - wind driven (Air Associates 6 or 12 volt) 
+ 8 lbs. (+10)"
+Interior Equipment,"201. Flares - three 1 minute International 
+ 8 lbs. (+34)"
+306 Cabin heater,2 lbs. (-35)
+106 Two cabin doors,"16 lbs. (+16) 
+ series engines eligible for installation in certificated aircraft are those manufactured or"
+"converted to this series prior to May 11, 1949. Such engines installed in Stinson Model HW-75 
+ and Model 10 aircraft are acceptable provided the following conditions are observed:",
+a,"Propeller Item 101, 317, 318 or 319 must be installed. 
+ (b) Fuel tank filler neck or cap must be placarded for 80 octane minimum."
+c,"Revised engine baffles in accordance with Stinson Dwg. 2-4306 for up-exhaust engine 
+ and 2-4305 for down-exhaust engine must be installed. 
+ (d) Tachometer must be marked for maximum of 2700 rpm."

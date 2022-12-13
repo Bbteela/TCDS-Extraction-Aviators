@@ -1,0 +1,347 @@
+Keyterm,Info
+"A36NM 
+ Minden Air 
+ SP-2H (P2V-7) 
+ Revision 5 
+ February 11, 2010",
+Type Certificate Holder,"Minden Air Corp 
+ 2311 P-51 Court 
+ Minden, NV 89423"
+Previous Address,"Minden Air Corp. 
+ 9991 E. Desert Air 
+ Tucson, AZ 85730"
+"I. 
+ Model SP-2H (P2V-7) (Restricted Category) Approved June 8, 1991",
+Engines,"(A) 
+ 2 Curtiss-Wright R3350-32WA 
+ Reduction Gear Ratio 16:7 
+ (B) 
+ 2 Westinghouse J34WE-36"
+Fuel,MIL-G-5572 Grade 100/130 *
+Engine Limits,"(A) R3350-32WA (Fuel Grade 100/130 Low Blower) * 
+ BHP 
+ RPM 
+ M. P. IN. HG 
+ Altitude (FT) 
+ Takeoff (5 minutes Wet) 
+ 3696 
+ 2900 
+ 59.0 
+ Sea Level 
+ Takeoff (5 minutes Wet) 
+ 3716 
+ 2900 
+ 59.0 
+ 2000 
+ Takeoff (5 minutes Dry) 
+ 2900 
+ 2900 
+ 54.0 
+ Sea Level 
+ Takeoff (5 minutes Dry) 
+ 2900 
+ 2900 
+ 53.0 
+ 2000 
+ Max Continuous 
+ 2600 
+ 2600 
+ 48.5 
+ Sea Level 
+ Max Continuous 
+ 2655 
+ 2600 
+ 47.5 
+ 4000 
+ *High blower and reverse pitch operation are restricted to a maximum of 2600 RPM. 
+ See Navair 01-75EEB-1 for Engine Operating Limits Tables. 
+ (B) J34WE-36 **"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5"
+Rev No,"5 
+ 2 
+ 5 
+ 5 
+ 5 
+ Exhaust Gas Temp 
+ StaticThrust 
+ RPM 
+ °F 
+ °C 
+ Lbs. 
+ Takeoff (5 minutes) 
+ 3050 
+ 12,500 (100%) 
+ ** 
+ ** 
+ Maximum Continuous 
+ 2650 
+ 12,500 ( 96%) 
+ ** 
+ ** 
+ First 5 sec. only 
+ 1760 
+ 960 
+ Next 30 sec. Only 
+ 1562 
+ 850 
+ Acceleration 
+ 1661 
+ 905 
+ ** These limits are individually calibrated and, therefore, must be obtained from 
+ the logbook for each engine."
+Propeller Limits,"Hubs – 2 Hamilton Standard 24260-313 or 
+ 2460-337 or 24260-223 
+ Blades – 4 2J17H3-36S or 2J17Z3-36S or 
+ 2FJ17C3-36S*** 
+ Diameter Limits – 14 ft. 2 in. – No cutoff permitted. 
+ Continuous ground operation between 2000 and 2400 RPM is prohibited. 
+ Pitch setting at 72-inch station: 
+ Low pitch 
+ 14 
+ (+0.5) 
+ Feathered 
+ +82 
+ (+0.5) 
+ Reverse 
+ -22 
+ (+0.5) 
+ *** Interchangeable Blades – these blades can be used interchangeably in the same 
+ propeller provided they are used in pairs and installed in opposite arms and that the 
+ prefix letters for opposite blades and the cutoff dash numbers for all blades are the 
+ same."
+Airspeed Limits,"Vne 
+ Never exceed at sea level 
+ 270 KIAS 
+ Vfe 
+ (Flaps extended 5) 
+ 210 KIAS 
+ Vfe 
+ (Flaps extended 10) 
+ 210 KIAS 
+ Vfe 
+ (Flaps extended 15) 
+ 200 KIAS 
+ Vfe 
+ (Flaps extended 20) 
+ 175 KIAS 
+ Vfe 
+ (Flaps extended 25) 
+ 155 KIAS 
+ Vfe 
+ (Flaps extended 32) 
+ 145 KIAS 
+ Vle 
+ (Maximum gear extend) 
+ 155 KIAS 
+ Va 
+ (Maximum maneuvering) 
+ 160 KIAS 
+ Vmc 
+ (Minimum control speed) 
+ 108 KIAS 
+ Fire Retardant Dumping Envelope (See Note 2) 
+ 120 knots to 145 knots (full flaps) 
+ 120 knots to 150 knots (all other flap settings)"
+CG Range,"Aft of datum, landing gear extended 
+ 362.91 to 375.53 at 80,000 
+ 354.71 to 375.53 at 61,400 
+ Straight line variation between points given."
+Empty Weight CG Range,None.
+Datum,The reference datum is located at fuselage station 0
+Mean Aerodynamic,The leading edge of the M.A.C. is located at fuselage station 330.1.
+Chord MAC,The length of the M.A.C. is 126.2 inches.
+Leveling Means,"Level the aircraft by dropping a plumb bob from the leveling hook through the leveling 
+ grid in the nose wheel well."
+Maximum,"Takeoff 
+ 80,000 lbs."
+Weights,"Landing 
+ 68,700 lbs. 
+ Zero Fuel 
+ 68,550 lbs."
+Minimum Crew,Pilot and Co-pilot
+Number of Seats,"One at +180”, occupancy limited to persons essential to perform the special purpose 
+ operation. 
+ Fire Retardant 2,750 gallons (U.S.) 25,300 lbs. at F.S. 313.0 to 481.0"
+Fuel Capacity,"Total 
+ Fuel 
+ No. Tanks 
+ U.S. Gal. 
+ U.S. Gal. 
+ Lbs. 
+ Arm 
+ Center Section 
+ 2 
+ 790 
+ 1580 
+ 9480 
+ +382.5” 
+ Wing (main) 
+ 2 
+ 715 
+ 1430 
+ 8580 
+ +376.5” 
+ Total permanent tankage 
+ 3010 
+ 18060"
+Oil Capacity,"Total 
+ Oil 
+ No. Tanks 
+ U.S. Gal. 
+ U.S. Gal. 
+ Lbs. 
+ Arm 
+ Nacelle Tank 
+ 2 
+ 80 
+ 160 
+ 1136 
+ +382.7” 
+ (expansion 
+ - 
+ 20 
+ - 
+ - 
+ - 
+ space) 
+ Jet Pod Oil 
+ 2 
+ 2.75 
+ 5.5 
+ 41 
+ +311.0"
+Water Injection Tank Capacity,"Total ADI 
+ Fluid 
+ No. Tanks 
+ U.S. Gal. 
+ U.S. Gal. 
+ Lbs. 
+ Arm 
+ Nacelle Tank 
+ 2 
+ 25 
+ 50 
+ 375 
+ +316.0” 
+ Fluid – AMS – 3006 Type I which specifies 48 – 52% methyl alcohol by volume and 
+ 48 – 52% water by volume."
+Control Surface Movements,"Aileron 
+ Up 22° + 1° 
+ Down 15° 30’ + 1° 
+ Aileron Tab 
+ Up 15° 45’ + 2° 
+ Down 16° 20’ + 2° 
+ Elevator 
+ Up 27° 30’ + 1° 30’ 
+ Down 27° + 1° 30’ 
+ Elevator Trim Panel 
+ Up 7° (+ 1/4° - 0°) 
+ Down 3° (+ 1/4° - 0°) 
+ Spoiler 
+ Up 55° - 60° 
+ Rudder Trim 
+ Tab 
+ Left 10° 
+ Right 10° 30’ 
+ Rudder 
+ Left 21° 
+ Right 21° 
+ Aileron Spring Tab: Adjust spring tab in accordance with NAVWEPS 01-76-EEB-2- 
+ 3, Figure 3-16."
+Serial Numbers Eligible,148344 and 148357
+Certification Basis,"The certification basis is 14 Code of Federal Regulations (CFR) part 21 
+ & § 21.25 (a)(2) and (b)(2), CAR Part 4B as effective October 1, 1959, § 
+ 21.50(b), § 25.571 and § 25.1529 to Amendment 25-54 as effective 
+ September 11, 1980 (see Note 5). Type Certificate Data Sheet No. 
+ A36NM, Revision 5, issued 11 February, 2010 for the special purpose of 
+ forest and wildlife conservation (aerial dispensing of fluids)"
+Production Basis,"None. Prior to original airworthiness certification of each aircraft, FAA personnel must 
+ perform an airworthiness inspection determining condition for safe operation and 
+ determine the applicant has conducted a satisfactory flight test. See Note 3 for data on 
+ Service bulletins and service changes."
+Equipment,"The basic required equipment, as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. Equipment 
+ necessary for the particular special purpose operation must be installed. In addition, an 
+ FAA approved Airplane Flight Manual Supplement is required. (See Note 2)."
+Note 1,"Current weight and balance report including list of equipment included in certificated 
+ empty weight, and loading instructions when necessary must be provided for in each 
+ aircraft at the time of original airworthiness certification. Refer to T.O. 1-1B-40, 
+ Handbook of Weight and Balance Data, and Minden Air P2V-7 Weight and Balance 
+ Report No. MA-750 dated June 5, 1991."
+Note 2,"The aircraft shall be operated in accordance with the Minden Air Flight Manual MAC- 
+ FMS-002A, Revision 2, dated April 17, 2002, or later FAA approved revision, and 
+ Minden Air Flight Manual Supplement Report No. MAC-FMS-002 Rev. No. “2”, dated 
+ April 20, 1999."
+Note 3,"Prior to civil certification, compliance with the following Department of the Navy 
+ Service Bulletins, Aircraft Bulletins, Aircraft Service Changes, Engine and Propeller 
+ Bulletins and Powerplant Changes, must be determined. 
+ SP-2H (P2V-7) Airframe and Interim Airframe Bulletins – Nos. 1, 3, 4, 5, 6, 8, 9, 10, 
+ 12, 13, 14, 17, 18, 19, 20, Rev. B, 21 and Amend 1, 22, 23, 24, 25, 26, and Amend 
+ 1,27, Rev. A, 31 and Amend 1, 63, 65, 67, 69, and Amend 1, 72, 74, 75, 78, 81, 83, 
+ Amend 1, 86, 88, 90, 91, 92, 93, 94, 95, and Amend 1, 98, 100, 101, 102, 103, 104, 
+ 105, 107, 108, 110, 114, Rev. A, 115, 116, and Amend 1, 117, 118, 119. Interim 7, 
+ Interim 11, and Amend 1, Interim 29 and Amend 1, Interim 31, Amend 1, Interim 32, 
+ Interim 33 and Amend 1, Interim 36, 37, Interim 38, Interim 39, Interim 40, 42, Interim 
+ 43, Interim 44, 45, Interim 46, Interim 47, Interim 48, Interim 49 and Amend 1, Interim 
+ 51, Rev. A, Interim 53, Interim 55, Interim 56, Interim59, Interim 60 and Amend 1, 
+ Interim 61, Interim 62. 
+ P2V-7 Aircraft Service Changes – 605, 676, 681, 688, 693, 694, 297, 699, 706, 709, 
+ 711, 714, 721, 722, 724, 726, 733, 735, 736A, 783, 785, 787A, 793, 795, 798, 799, 802, 
+ 803A, 806A, 807, 808, 812, 815, 816, 817, 819, 822, 825A, 826, 831B, 839C, 841, 843, 
+ 845A, 847, 848A, 851, 856, 861A, 862, 864, 877B, 878, 882, 885, Amend1, 894 
+ Amend 1, 896 Amend 1, 896 Amend 1, 898, 900, 901, 903, 904, 906, Amend 1, 912, 
+ 920, 923, 924, Amend 1, 928, 929, 931 Amend 1, 932, 934, 935, 0937, 940, 941, 948, 
+ 952, 953 
+ Amend 1, 955A, 959 Amend 2, 971, 974, 979, 980, 981, 987, 988, 991 
+ Wright R3350-32WA Engine Bulletins – Nos. 115 Rev B, 296 Amend 2, 360 Rev B, 
+ 396 Amend 2, 461 Amend 1, 420, 423 Rev B, 445 Rev C, 469 Rev A, Amend 2, 474 
+ rev A, 485 Rev A, 486 Amend 1, 489 Rev B, 490 Rev A, 491 Rev A, 515, 516, 517, 
+ 518, 519 Amend 1, 520 Amend 1, 562 Rev A, 563 amend 2, 564 Rev B, Amend 2, 566 
+ Rev B, 599 Rev A, 622 Rev A, 625 Rev A, Amend 1, 635 Rev C, 642, 646 Rev A, 653 
+ Amend 1, 656 rev A, 663, 680 Rev A, 681, 682 Rev A, 685, 686, 688, 689, 691 Amend 
+ 1, 693, 694 Amend 1, 697, 698, 699, 700, 702, 703, 705, 706, 707, 708, 709, 710, 711 
+ Amend 1, 713 Rev A, 714 Rev B, 715, 716 Amend 1, 717, 718, 719, 720, 721 Rev B, 
+ Amend 1, 722, 726 Amend 1, 727, 731, 732, 735, 736, 737, 742 Amend 2, 748, 750, 
+ 751 Rev A, and 752. 
+ J-34-WE-36 Turbo-Jet Engine Bulletins - - Nos. Engines Bulletin No. 0, 181, 183, 199, 
+ 202, 208, 232, 236, 241, 244, 245, 246, 247, 265, 266A and Amend 1, 275 and Amend 
+ 3, 279, 280, 291, 296, Rev B, 303, 308, Rev A, 312, 313, 314, 320, 322, 323, Rev A, 
+ 326, Rev A, 328 Amend 1, 332, 333, 334, 335, 338, Rev A, 339, 341, 342, 343, Amend 
+ 1, 345, 346, 347, 349, Rev A, Amend 1, 350, 351, Amend 1, 353, 354, Rev A, 355 Rev 
+ B, Amend 1, 356, 361, 363, 364, 365, 366, 368, 370, Rev A, 371 Rev A, 374, 376, 
+ Amend 1, 378, 380, 381 Rev A, Amend 1, and 382. 
+ Hamilton Standard Propeller P/N 24260 Propeller Bulletins - - Nos. 270, 272, 275, 276, 
+ 277, 293, 311, 312, 317, 318, 324, 338, 346A, 360, 361A, 362, 368A, 370, 373A, 376, 
+ 377, 390, 401, 402, 405, 415A Amend 3, 417, 419, 422B, 429, 432, 435 and Amend 1, 
+ 436, 440A and Amend 1, 447, 450, 462, 463, 467 Amend 2, 474, 486, 488, 489, 491, 
+ 492 Rev A, 494, 502, 505A, 509, 515A, 516, 527A, 531, 532, 535A, 541, 544A, 551, 
+ 555, 600A."
+Note 4,"Modification to these aircraft or special equipment will be necessary, reference § 21.25 
+ (a) (2) or (b) (2), prior to civil airworthiness certification for the special purpose of 
+ forest and wildlife conservation (fire fighting) and for any other FAA approved special 
+ purpose operation, in accordance with Minden Air Corp. Master Drawing List MAC- 
+ MDL-0001, Revision 16, dated April 12, 2002, or later FAA approved revision. 
+ Carriage of hazardous materials is prohibited unless compliance is shown with § 21.25, 
+ part 91 and the applicable regulations in the Code of Federal Regulations 49, Part 175."
+Note 5,"Restricted Aircraft Airworthiness Certificates issued are effective as long as 
+ maintenance and preventive maintenance, replacement times and inspection intervals 
+ are performed in accordance with P2V-7 Instructions for Continued Airworthiness for 
+ S/N 148344 and S/N 148357, “Minden Air Corp. Report No. P2V-ICA-001, Revision 
+ N/C, dated December 21, 2009, Maintenance Requirement Cards NA01-75EEB-6 
+ Series”, Department of the Navy Service Bulletins Nos 116, 117, and 118; and FAR 
+ Parts 21, 43 and 91. 
+ The Instructions for Continued Airworthiness as specified in Minden Air Corp. Report 
+ No. P2V-ICA-001, Revision N/C, dated December 21, 2009 are certified to the 
+ requirements of § 25.571 and § 25.1529 and specifies mandatory replacements and 
+ inspection intervals which are not subject to change without the express approval of the 
+ FAA. All maintenance, structural repair, alteration and modification to those areas 
+ specified in Minden Air Corp. Report No. P2V-ICA-001 must be performed to the 
+ requirements of § 25.571 and § 25.1529."
+Note 6,All autopilot equipment must be removed.
+Note 7,"The FAA representative responsible for the issuance of Restricted Airworthiness 
+ Certificates shall make Note 6 part of the operating limitations issued with the 
+ Airworthiness Certificate."

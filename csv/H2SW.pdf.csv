@@ -1,0 +1,1385 @@
+Keyterm,Info
+"H2SW 
+ REVISION 53 
+ BELL 
+ 206 
+ 206A 
+ 206A-1(OH-58A) 
+ 206B 
+ 206B-1 
+ 206L 
+ 206L-1 
+ 206L-3 
+ 206L-4 
+ 407 
+ February 9, 2022",
+Type Certificate Holder,"Bell Textron Canada Limited 
+ 12,800 Rue De L'Avenir 
+ Mirabel, Quebec 
+ J7J 1R4 Canada"
+Type Certificate Holder Record,"Bell Helicopter Textron Canada Limited was the previous name of TC holder. 
+ The company name history is presented below."
+Type Certificate Holder,"Period 
+ Bell Helicopter Textron, Fort Worth, Texas 
+ Prior to 14 September 1995 
+ Bell Helicopter Textron, A Division of Textron Canada Limited, Mirabel, Québec 
+ 14 September 1995 to 19 December 2001"
+Bell Helicopter Textron Canada Limited,"20 December 2001 to 15 December 2019 
+ Bell Textron Canada Limited, Mirabel Québec 
+ 16 December 2019 to Present"
+"I - Model 206 4PCLH (Normal Category), Approved April 28, 1964. 
+ Serial Nos eligible 
+ No eligible serial numbers exist. 
+ II - Model 206A 5PCLH (Normal Category), Approved October 20, 1966",
+Engine,"Rolls-Royce (Allison) Model 250-C18 or 250-C18B (See Note 13), or Allison Model 250-C20. En gine 
+ Type Certificate No. E4CE."
+Fuel,"ASTM D6615 Type Jet B; ASTM D1655 Type Jet A and Jet A-1: MIL-DTL-5624 Grade JP-4 (NATO F- 
+ 40); MIL-DTL-5624 Grade JP-5 (NATO F-44); and MIL-DTL-83133 Grade JP-8 (NATO F-34) See 
+ Rotorcraft Flight Manual for fuel temperature limitations. (See Note 8)"
+Engine limits,"Torque 
+ Output 
+ Turbine 
+ Gas Gen. 
+ Pressure 
+ Shaft Speed 
+ Temp. 
+ Speed"
+Takeoff,"100%(95 psi) 
+ 100% 
+ 749°C 
+ 104%"
+5 Min,"(317 HP) 
+ (6,000 rpm) 
+ (1380°F) 
+ (53,164 rpm)"
+Max,"85%(81 psi) 
+ 100% 
+ 693°C 
+ 104%"
+Continuous,"(270 HP) 
+ (6,000 rpm) 
+ (1,280°F) 
+ (53,164 rpm) 
+ I I I I I I I I I I I I I I I I I I I I I I"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21"
+Rev No,"53 
+ 41 
+ 49 
+ 52 
+ 49 
+ 38 
+ 49 
+ 49 
+ 49 
+ 41 
+ 49 
+ 49 
+ 44 
+ 49 
+ 50 
+ 52 
+ 43 
+ 49 
+ 53 
+ 53 
+ 51 
+ Torque 
+ Output 
+ Turbine 
+ Gas Gen. 
+ Pressure 
+ Shaft Speed 
+ Temp. 
+ Speed"
+Takeoff,"100% (76 psi) 
+ 100% 
+ 793°C 
+ 104%"
+5 min,"(317 HP) 
+ (6,000 rpm) 
+ (1459°F) 
+ (53,010 rpm)"
+Max,"85% (65 psi) 
+ 100% 
+ 743°C 
+ 104%"
+Continuous,"(270 HP) 
+ (6,000 rpm) 
+ (1369°F) 
+ (53,010 rpm) 
+ *250-C20 engine is used in 206B only. 206A may be modified to 206B by using SI-206-80 incorporating 250-C20 engine."
+Rotor limits,"Power Off 
+ Power On 
+ Maximum 422 rpm 
+ Maximum 394 rpm 
+ (Dual Tach Reading 107%) 
+ (Dual Tach Reading 100%) 
+ Minimum 355 rpm 
+ Minimum 374 rpm 
+ (Dual Tach Reading 90%) 
+ (Dual Tach Reading 95%)"
+Airspeed limits,"Never exceed 150 mph (130 knots) CAS 
+ Decrease Vne 4 mph (3.5 knots) per 1000 ft. above 3000 ft."
+CG Range,"Straight line variation between points given. 
+ (a) Longitudinal C.G. Limits 
+ (+106) to (+112.1) at 3,000 lbs 
+ (+106) to (+112.4) at 2,900 lbs. 
+ (+106) to (+113.4) at 2,600 lbs. 
+ (+106) to (+114.2) at 2,350 lbs 
+ (+106) to (+114.2) at 2,100 lbs 
+ (b) Lateral C.G. Limits 
+ 2.3 inches left to 3.0 inches right at longitudinal C.G. 106.0 
+ 3.0 inches left to 4.0 inches right at longitudinal C.G. 108.0 to 114.2"
+Empty weight CG range,Refer to Section 1 of the appropriate Model Maintenance Manual.
+Maximum weight,"3,000 lbs. for standard skid landing gear equipped; 2,900 lbs. for other landing gear equipped. (See 
+ note for external cargo configuration information)"
+Minimum crew,1 at (+65.0)
+Passengers,1 at (+65.0) and 3 at (+104.0)
+Maximum cargo,"1,200 lbs maximum. See Rotorcraft Flight Manual for loading schedule."
+Fuel capacity,76 gallons (+116.0); unusable fuel 10 lbs. at (+120.0)
+Oil capacity,"5.5 quarts (+179.0); usable oil, 2 quarts (included in capacity). Undrainable oil 1.0 lbs. at (+167.)"
+Rotor blade and,For rigging information refer to the 206A Maintenance Manual.
+Serial Nos eligible,"4-251, 254-625, 627-660, 672-715"
+"III - Model 206A-1 (OH-58A) 4 PCLH (Normal Category), Approved May 6, 1969 
+ (See note 12 for Conversion of Military Model OH-58A to Model 206A-1) 
+ (See note 15 regarding Canadian Military Model COH-58A) 
+ (See note 16 regarding surplused Military Model OH-58A)",
+Engine,Rolls-Royce (Allison) Model 250-C10D (See Note 14 and 34) Engine Type Certificate E4CE
+Fuel,ASTM D6615 Jet B (See Note 8)
+Engine limits,"Torque 
+ Output 
+ Turbine 
+ Gas Gen. 
+ Pressure 
+ Shaft Speed 
+ Temp. 
+ Speed"
+Takeoff,"92 psi 
+ 103% 
+ 738°C 
+ 104%"
+5 Min,"(317 HP) 
+ (6,180 rpm) 
+ (1360°F) 
+ (53,164 rpm)"
+Max,"79 psi 
+ 103% 
+ 693°C 
+ 104%"
+Continuous,"(270 HP) 
+ (6,180 rpm) 
+ (1,280°F) 
+ (53,164 rpm) 
+ (See Rotorcraft Flight Manual for transient limits) 
+ NOTE: Powerplant cooling has been demonstrated to be adequate for the following ambient temperature schedule: 125°F at sea 
+ level, decreasing at a lapse rate of 3.6°F per 1000 feet to 89°F at the maximum operating altitude of 10,000 feet."
+Rotor limits,"Power Off 
+ Power On 
+ Maximum 390 rpm 
+ Maximum 394 rpm 
+ (Dual Tach Reading 110%) 
+ (Dual Tach Reading 100%, N2 103%) 
+ Minimum 330 rpm 
+ Minimum 347 rpm 
+ (Dual Tach Reading 93%) 
+ (Dual Tach Reading 98%, N2 101%) 
+ (See Rotorcraft Flight Manual for transient limits.)"
+Airspeed limits,"Never exceed 120 knots CAS 
+ Decrease Vne 3.5 knots/1000 ft. above 3000 ft."
+CG Range,"Straight line variation between points given. 
+ (a) 
+ Longitudinal C.G. Limits 
+ (+106) to (+112.1) at 3,000 lbs 
+ (+105.2) to (+114.2) at 2,500 lbs 
+ (+105.2) to (+114.2) at 1,800 lbs 
+ (b) 
+ Lateral C.G. Limits 
+ 2.6 inches right 
+ 2.4 inches left"
+Empty weight CG range,Refer to Section 1 of the appropriate Model Maintenance Manual.
+Maximum weight,"3,000 lbs."
+Minimum crew,1 at (+65.0)
+Passengers,1 at (+65.0) and 2 at (+104.0)
+Maximum cargo,"1,200 lbs maximum. See Rotorcraft Flight Manual for loading schedule."
+Fuel capacity,71.5 gallons (+116.0); unusable fuel 6 lbs. at (+110.0) included in capacity
+Oil capacity,"5.5 quarts (+179.0); usable oil, 2 quarts (included in capacity). Undrainable oil 2.8 lbs. at (+153.)"
+Rotor blade and,For rigging information refer to the 206A-1 Maintenance Manual.
+Serial Nos eligible,"39,998 and up"
+"Serial Nos. certificated 39,998 and 39,999. All other eligible serial number rotorcraft must be converted to Model 206A-1 in 
+ accordance with note 12 prior to issuance of a standard airworthiness certificate. 
+ IV - Model 206B 5 PCLH (Normal Category), Approved 19 August 1971 (See Note 31)",
+Engine,"Rolls-Royce (Allison) Model 250-C20 with Chandler Evans Model MC-40 Fuel Control System. 
+ (See Note 21 and 25) See Note 20 for Alternate Fuel Control. Engine Type Certificate No. E4CE."
+Fuel,"ASTM D6615 Type Jet B; ASTM D1655 Type Jet A and Jet A-1; MIL-DTL-5624 Grade JP-4 
+ (NATO F-40); MIL-DTL-5624 Grade JP-5 (NATO F-44); and MIL-DTL-83133 Grade JP-8 (NATO 
+ F-34). See Rotorcraft Flight Manual for fuel temperature limitations. (See Note 8)."
+Engine limits,"Torque 
+ Output 
+ Turbine 
+ Gas Gen. 
+ Pressure 
+ Shaft Speed 
+ Temp. 
+ Speed"
+Takeoff,"100% (76 psi) 
+ 100% 
+ 793°C 
+ 104%"
+5 min,"(317 HP) 
+ (6,016 rpm) 
+ (1459°F) 
+ (53,010 rpm)"
+Max,"85% (65 psi) 
+ 100% 
+ 737°C 
+ 104%"
+Continuous,"(270 HP) 
+ (6,016 rpm) 
+ (1359°F) 
+ (53,010 rpm)"
+Rotor limits,"Power Off 
+ Power On 
+ GW 3,000 lbs or less 
+ GW 3,000 to 3,200 lbs 
+ Maximum 422 rpm 
+ Maximum 394 rpm 
+ Maximum 395 rpm 
+ (Dual Tach 107%) 
+ (Dual Tach 100%) 
+ (Dual Tach 100%) 
+ Minimum 355 rpm 
+ Minimum 374 rpm 
+ Minimum 382 rpm 
+ (Dual Tach 90%) 
+ (Dual Tach 95%) 
+ (Dual Tach 97%)"
+Airspeed limits,"(a) 
+ 3,000 lbs or less 
+ Never exceed 150 mph (130 knots) CAS) 
+ Decrease VNE 4mph (3.5 knots) per 1,000 ft. above 3,000 ft. 
+ Maximum altitude 20,000 ft. 
+ (b) 
+ 3000 - 3200 lbs 
+ Never exceed 140 mph (122 knots) CAS 
+ Decrease VNE 8 mph (7 knots) per 1,000 ft. above 3,000 ft. 
+ Maximum altitude 13,500 ft."
+CG range,"(a) 
+ Longitudinal C.G. Limits. 
+ Prior to S/N 2212 
+ S/N 2212 and Sub 
+ (+106) to (+111.4) at 3,200 lbs. 
+ (+106) to (+111.6) at 3,200 lbs. 
+ (+106) to (+112.1) at 3,000 lbs. 
+ (+106) to (+112.3) at 3,000 lbs. 
+ (+106) to (+112.4) at 2,900 lbs. 
+ (+106) to (+112.6) at 2,900 lbs. 
+ (+106) to (+113.4) at 2,600 lbs. 
+ (+106) to (+113.6) at 2,600 lbs. 
+ (+106) to (+114.2) at 2,350 lbs. 
+ (+106) to (+114.2) at 2,425 lbs. 
+ (+106) to (+114.2) at 2,100 lbs. 
+ (+106) to (+114.2) at 2,100 lbs. 
+ Straight line variation between points given. 
+ (b) 
+ Lateral C.G. Limits 
+ 2.3 inches left to 3.0 inches right at longitudinal C.G. 106.0 
+ 3.0 inches left to 4.0 inches right at longitudinal C.G. 108.0 to 114.2 
+ Straight line variation between points given."
+Empty Weight,Refer to Section 1 of the appropriate Model Maintenance Manual.
+Maximum weight,"3,200 lbs (See note 11 for external cargo configuration information)"
+Minimum crew,1 at (+65.0)
+Passengers,"1 at (+65.0), 3 at (+104.0)"
+Maximum cargo,"1,200 lbs maximum. See Rotorcraft Flight Manual for loading schedule."
+Fuel capacity,"76 gallons (+116.0); unusable fuel 6.7 lbs. at (+120.0) 
+ S/N 3567 and subsequent 91 gallons usable (+118); unusable 6.7 lbs.(+120.0)"
+Oil capacity,"5.5 quarts (+179.0); usable oil, 2 quarts (included in capacity); undrainable oil, 1.0 lbs. (+167)."
+Rotor blade and,For rigging information refer to the 206B Mantenance Manual.
+Serial Nos eligible,"661, 671, 716 and up except 898, 1054, 1318, 2211, 2520, 2529, 2536, 2538, 2542, 2581, 2585, 2589, 
+ 2599, 2601, 2605, 3124, 3523, 3798, 4129, 4500"
+"V - Model 206B-1 5 PCLH (Normal Category), Approved November 10, 1971 
+ Serial Nos eligible 
+ No eligible serial numbers exist. 
+ VI - Model 206L 7 PCLH (Normal Category), Approved September 22, 1975",
+Engine,"Rolls-Royce (Allison) Model 250-C20B or 250-C20J with Bendix P/N DP-N1 or DP-N2 Fuel 
+ Control. Engine Type Certificate No. E4CE."
+Fuel,"ASTM D6615 Type Jet B; ASTM D1655 Type Jet A and Jet A-1; MIL-DTL-5624 Grade JP-4 
+ (NATO F-40); MIL-DTL-5624 Grade JP-5 (NATO F-44) and MIL-DTL-83133 Grade JP-8 (NATO 
+ F-34). See Rotorcraft Flight Manual for fuel mixtures and fuel temperature limitations. (See Note 8.)"
+Engine limits,"Torque 
+ Output 
+ Turbine 
+ Gas Gen. 
+ Pressure 
+ Shaft Speed 
+ Temp. 
+ Speed"
+Takeoff,"100% (101 psi) 
+ 100% 
+ 810°C 
+ 105%"
+5 min,"420 shp 
+ (6,016 rpm) 
+ (1490°F) 
+ (53,519 rpm)"
+Max,"88% ( 89 psi) 
+ 100% 
+ 738°C 
+ 105%"
+Continuous,"370 shp 
+ (6,016 rpm) 
+ (1360°F) 
+ (53,519 rpm) 
+ (See Rotorcraft Flight Manual for transient limits)"
+Rotor limits,"Power Off 
+ Power On 
+ Maximum 422 rpm 
+ Maximum 395 rpm 
+ (Dual Tach Reading 107%) 
+ (Dual Tach Reading NR 100%,) 
+ Minimum 355 rpm 
+ Minimum 382 rpm 
+ (Dual Tach Reading 90%) 
+ (Dual Tach Reading 97%)"
+Airspeed limits,"Hp FTx1000 
+ 0 
+ 2 
+ 4 
+ 6 
+ 8 
+ 10 
+ 12 
+ 14 
+ 16 
+ 18 
+ 20 
+ OAT°C 
+ Vne 
+ IAS 
+ MPH 
+ 46 
+ 150 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ 40 
+ 150 
+ 146 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ 20 
+ 150 
+ 150 
+ 145 
+ 138 
+ 131 
+ 123 
+ 116 
+ -- 
+ -- 
+ -- 
+ -- 
+ 0 
+ 150 
+ 150 
+ 150 
+ 145 
+ 138 
+ 130 
+ 123 
+ 115 
+ 108 
+ 101 
+ 93 
+ -20 
+ 150 
+ 150 
+ 150 
+ 150 
+ 145 
+ 137 
+ 130 
+ 123 
+ 115 
+ 108 
+ 100 
+ -40 
+ 147 
+ 142 
+ 138 
+ 132 
+ 128 
+ 123 
+ 119 
+ 114 
+ 110 
+ 105 
+ 101 
+ -50 
+ 135 
+ 130 
+ 126 
+ 121 
+ 117 
+ 112 
+ 108 
+ 104 
+ 100 
+ 96 
+ 92 
+ NOTE: ABOVE NOS BASED ON 
+ MAX. MACHAdvancing BladeTip OF 0.95"
+CG range,"(a) 
+ Longitudinal C.G. Limits (See Note 19). 
+ Forward Limit 
+ (+118) up to 2,800 lbs. changing linearly to (+119.1) at 4,000 lbs. 
+ Aft Limit 
+ (+128.5) up to 2,900 lbs. changing linearly to (+126.8) at 4,000 lbs. 
+ (b) 
+ Lateral C.G. Limits 
+ Left 
+ 4.0 inches. 
+ Right 
+ 3.5 inches"
+Empty weight,Refer to Section 8 of the appropriate Model Maintenance Manual.
+Maximum weight,"4,000 lbs."
+Minimum crew,1 at (+65.0)
+Passengers,"1 at (+65.0) and 2 at (+91.0), and 3 at (+129.0)"
+Maximum cargo,"1,464 lbs maximum. See Rotorcraft Flight Manual for loading schedule."
+Fuel capacity,98.0 gallons at (+128.9); unusable fuel 1 gal. at (+94)
+Oil capacity,"5.5 quarts (+205.0); usable oil, 2 quarts (included in capacity). Undrainable oil 1.6 lbs. at (+192)"
+Rotor blade and,For rigging information refer to the 206L Maintenance Manual
+Serial Nos eligible,45004 through 45153 and 46601 thru 46617
+"VII - Model 206L-1 7 PCLH (Normal Category), Approved May 17, 1978. 
+ (See Note 26 for 4,150 lbs. gross weight.)",
+Engine,"Rolls-Royce (Allison) Model 250-C28B with Bendix gas producer Fuel control DP-T3. Engine Type 
+ Certificate No. E1GL. Or 
+ Rolls-Royce (Allison) Model 250-C30P with Bendix gas producer Fuel Control DP-V1. Engine Type 
+ Certificate No. E1GL"
+Fuel,"ASTM D6615 Type Jet B; ASTM D1655 Type Jet A and Jet A-1; MIL-DTL-5624 Grade JP-4 (NATO F- 
+ 40); MIL-DTL-5624 Grade JP-5 (NATO F-44); and MIL-DTL-83133 Grade JP-8 (NATO F-34). See 
+ Rotorcraft Flight Manual for fuel mixtures and fuel temperature limitations. (See Note 8)"
+Engine limits,Model 206L-1 Rotorcraft with Rolls Royce (Allison) 250-C28B engines installed
+Torque,"Output 
+ Turbine 
+ Gas Gen. 
+ Gas Gen. 
+ Pressure 
+ Shaft Speed 
+ Out Temp 
+ Speed"
+Takeoff,"100% (59 psi) 
+ 100% 
+ 791°C 
+ 104%"
+5 min,"435 shp 
+ (6,016 rpm) 
+ (1456°F) 
+ (52,980 rpm)"
+Max,"85% (50 psi) 
+ 100% 
+ 743°C 
+ 104%"
+Continuous,"370 shp 
+ (6,016 rpm) 
+ (1369°F) 
+ (52,980 rpm)"
+Engine limits,Model 206L-1 Rotorcraft with Rolls Royce (Allison) 250-C30P engines installed (See Note 38).
+Torque,"Output 
+ Turbine 
+ Gas Gen. 
+ Gas Gen 
+ Pressure 
+ Shaft Speed 
+ Out Temp 
+ Speed"
+Takeoff,"100% (62 psi) 
+ 100% 
+ 768°C 
+ 104%"
+5 min,"435 shp 
+ (6,016 rpm) 
+ (1414°F) 
+ (53,550 rpm)"
+Max,"85% (53 psi) 
+ 100% 
+ 716°C 
+ 104%"
+Continuous,"370 shp 
+ (6,016 rpm) 
+ (1320°F) 
+ (53,550 rpm) 
+ (See Rotorcraft Flight Manual for transient limits)"
+Rotor limits,"Power Off 
+ Power On 
+ Maximum 422 rpm 
+ Maximum 395 rpm 
+ (Dual Tach Reading 107%) 
+ (Dual Tach Reading 100%) 
+ Minimum 355 rpm 
+ Minimum 382 rpm 
+ (Dual Tach Reading 90%) 
+ (Dual Tach Reading 97%) 
+ 12 
+ 14 
+ 16 
+ 18 
+ 20"
+Airspeed limits,"Hp FTx1000 
+ 0 
+ 2 
+ 4 
+ 6 
+ 8 
+ 10 
+ IAS 
+ MPH 
+ OAT° C 
+ VNE 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ 150 
+ -- 
+ 46 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ 40 
+ 150 
+ -- 
+ -- 
+ 138 
+ 131 
+ 123 
+ 116 
+ -- 
+ -- 
+ -- 
+ -- 
+ 150 
+ 150 
+ 20 
+ 145 
+ 145 
+ 138 
+ 130 
+ 123 
+ 115 
+ 108 
+ 101 
+ 93 
+ 0 
+ 150 
+ 150 
+ 150 
+ 150 
+ 145 
+ 137 
+ 130 
+ 123 
+ 115 
+ 108 
+ 100 
+ 150 
+ 150 
+ -20 
+ 150 
+ 132 
+ 128 
+ 123 
+ 119 
+ 114 
+ 110 
+ 105 
+ 101 
+ 147 
+ 142 
+ -40 
+ 138 
+ -50 
+ 135 
+ 130 
+ 126 
+ 121 
+ 117 
+ 112 
+ 108 
+ 104 
+ 100 
+ 96 
+ 92 
+ NOTE: ABOVE NOS. BASED ON 
+ MAX MACHAdvancing BladeTip OF 0.95"
+CG range,"(a) 
+ Longitudinal C.G. Limits. (See Note 19.) 
+ (Internal Loading) 
+ Forward Limit 
+ (+118) up to 2,800 lbs. changing linearly to (+119) at 4,050 lbs. 
+ Aft Limit 
+ (+128.5) up to 2,900 lbs. changing linearly to (+127) at 4,050 lbs."
+CG Range,"(External Loading) 
+ Forward Limit 
+ (+118) up to 2,800 lbs. changing linearly to (+119.2) at 4,250 lbs. 
+ Aft Limit 
+ (+128.5) up to 2,900 lbs. changing linearly to (+126.7) at 4,250 lbs. 
+ (b) 
+ Lateral C.G. Limits 
+ Left 
+ 4.0 inches 
+ Right 
+ 3.5 inches"
+Empty weight,Refer to Section 8 of the appropriate Model Maintenance Manual.
+Maximum Weight,"4,050 lbs (Internal Loading) 
+ 4,250 lbs (External Loading) 
+ 4450 lbs (Internal Loading) See Note 40 
+ 4550 lbs (External Loading) See Note 40"
+Minimum Crew,1 at (+65.0)
+Passengers,"1 at (+65.0), 2 at (+91.0), and 3 at (+129.0)"
+Maximum Cargo,See Rotorcraft Flight Manual for loading schedule
+Fuel Capacity,"98.4 gallons (+130.4); unusable fuel, 1 gallon at (+94)"
+Oil Capacity,"5.5 quarts (+205.0); usable oil, 2 quarts (included in capacity); undrainable oil, 1.6 lbs (+192)"
+Rotor blade and,For rigging information refer to the 206L-1 Maintenance Manual.
+Serial Nos eligible,"45154 thru 45790 except 45237, 45526, 45739"
+"VIII - Model 206L-3 7PCLH (Normal Category). Approved December 10, 1981.",
+Engine,"Rolls-Royce (Allison) Model 250-C30P with Bendix Gas Producer Fuel Control DP-V1. Engine 
+ Type Certificate E1GL."
+Fuel,"ASTM D6615 Type Jet B; ASTM D1655 Type Jet A and A-1; MIL-DTL-5624 Grade JP-4 (NATO 
+ F-40); MIL-DTL-5624 Grade JP-5 (NATO F-44); and MIL-DTL-83133 Grade JP-8 (NATO F-34). 
+ See Rotorcraft Flight Manual for fuel mixtures and fuel temperature limitations. (See Note 8)"
+Engine Limits,"Torque 
+ Output 
+ Turbine 
+ Gas Gen."
+See Note 28,"Pressure 
+ Shaft Speed 
+ Out Temp 
+ Speed."
+Takeoff,"100% (62 psi) 
+ 100% 
+ 768°C 
+ 105%"
+5 min,"435 shp 
+ (6,016 rpm) 
+ (1,414°F) 
+ (53,550 rpm)"
+Max,"85%(53 psi) 
+ 100% 
+ 716°C 
+ 105%"
+Continuous,"370 shp 
+ (6,016 rpm) 
+ (1,320°F) 
+ (53,550 rpm) 
+ (See Rotorcraft Flight Manual for Transient Limits)"
+Rotor limits,"Power Off 
+ Power On 
+ Maximum 422 rpm 
+ Maximum 395 rpm 
+ (Dual Tach Reading 107%) 
+ (Dual Tach Reading 100%) 
+ Minimum 355 rpm 
+ Minimum 382 rpm 
+ (Dual Tach Reading 90%) 
+ (Dual Tach Reading 97%)"
+Airspeed limits,"Basic VNE is 130 KIAS sea level to 3,000 feet density altitude. Decrease VNE for ambient 
+ conditions in accordance with Airspeed Limitation Placard in the FAA approved Rotorcraft Flight 
+ Manual, dated December 9, 1981."
+CG range,"(a) 
+ Longitudinal C.G. Limits. (See Note 19.) 
+ (Internal Loading) 
+ Forward Limit 
+ (+118) up to 2,800 lbs. changing linearly to (+119.1) at 4,150 lbs. 
+ Aft Limit 
+ (+128.5) up to 2,900 lbs. changing linearly to (+126.85) at 4,150 lbs. 
+ (External Loading) 
+ Forward Limit 
+ (+118) up to 2,800 lbs. changing linearly to (+119.2) at 4,250 lbs. 
+ Aft Limit 
+ (+128.5) up to 2,900 lbs. changing linearly to (+126.7) at 4,250 lbs. 
+ (b) 
+ Lateral C.G. Limits 
+ Left 
+ 4.0 inches 
+ Right 
+ 3.5 inches"
+Empty weight CG range,Refer to Section 8 of the appropriate Model Maintenance Manual.
+Maximum Weight,"4,150 lbs (Internal Loading) 
+ 4,250 lbs (External Loading) 
+ 4450 lbs (Internal Loading) See Note 40 
+ 4550 lbs (External Loading) See Note 40"
+Minimum Crew,1 at (+65.0)
+Passengers,"1 at (+65.0), 2 at (+91.0), and 3 at (+129.0)"
+Maximum Cargo,See Rotorcraft Flight Manual for loading schedule
+Fuel Capacity,"110.7 gallons (+131.7); unusable fuel, 1 gallon at (+94)"
+Oil Capacity,"5.5 quarts (+205.0); usable oil, 2 quarts (included in capacity); undrainable oil, 1.6 lbs (+192)"
+Rotor blade and,For rigging information refer to the 206L-3 Maintenance Manual.
+Serial Nos eligible,"51001 thru 51612 except 51272, 51442"
+"IX - MODEL 206L-4 7PCLH (Normal Category). Approved October 2, 1992",
+Engine,"Rolls-Royce (Allison) Model 250-C30P with Bendix Gas Producer Fuel Control DP-V1. 
+ Engine 
+ Type Certificate No. E1GL."
+Fuel,"ASTM D6615 Type Jet B; ASTM D1655 Type Jet A and A-1; MIL-DTL-5624 Grade JP-4 (NATO F- 
+ 40); MIL-DTL-5624 Grade JP-5 (NATO F-44); and MIL-DTL-83133 Grade JP-8 (NATO F-34). 
+ See Rotorcraft Flight Manual for fuel mixtures and fuel temperature limitations. (See Note 8)"
+Engine Limits,"Torque 
+ Output 
+ Turbine 
+ Gas Gen. 
+ Pressure 
+ Shaft Speed 
+ Out Temp 
+ Speed"
+Takeoff,"100%(71.4 psi) 
+ 101% 
+ 768°C 
+ 105%"
+5 min,"495 shp 
+ (6,076 rpm) 
+ (1,414°F) 
+ (53,550 rpm)"
+IX  MODEL 206L4,(cont’d)
+Engine Limits,"Torque 
+ Output 
+ Turbine 
+ Gas Gen 
+ Pressure 
+ Shaft Speed 
+ Out Temp 
+ Speed"
+Maximum,"75%(54 psi) 
+ 101% 
+ 716°C 
+ 105%"
+Continuous,"373.7 shp 
+ (6,076 rpm) 
+ (1,320°F) 
+ (53,550 rpm) 
+ (See 206L-4 Rotorcraft Flight Manual for Transient Limits)"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 422 rpm 
+ Maximum 398 rpm 
+ (Dual Tach Reading 107%) 
+ Dual Tach Reading 101%) 
+ Minimum 355 rpm 
+ Minimum 390 rpm 
+ (Dual Tach Reading 90%) 
+ (Dual Tach Reading 99%)"
+Airspeed limits,"Basic VNE is 140 KIAS sea level to 3,000 feet density altitude. 
+ Decrease VNE for ambient 
+ conditions and internal loading in accordance with Airspeed Limitation Placard in the 206L-4 
+ Rotorcraft Flight Manual. Also see the 206L-4 Rotorcraft Flight Manual for VNE limits associated 
+ with peculiar operating conditions."
+CG range,"(a) 
+ Longitudinal C.G. Limits. (See Note 19) 
+ (Internal Loading) 
+ Forward Limit 
+ (+118.0) up to 2,800 lbs. changing linearly to (+119.4) at 4,450 lbs. 
+ Aft Limit 
+ (+128.5) up to 2,900 lbs. changing linearly to (+126.4) at 4,450 lbs. 
+ (External Loading) 
+ Forward Limit 
+ (+118.0) up to 2,800 lbs. changing linearly to (+119.5) at 4,550 lbs. 
+ Aft Limit 
+ (+128.5) up to 2,900 lbs. changing linearly to (+126.3) at 4,550 lbs. 
+ (b) 
+ Lateral C.G. Limits 
+ Left 
+ 4.0 inches up to 4,150 lbs., 1.2 inches above 
+ Right 
+ 3.5 inches up to 4,150 lbs., 1.61 inches above"
+Empty Weight,Refer to Section 8 of the appropriate Model Maintenance Manual.
+Maximum weight,"4,450 lbs. (2018.5 kg) (Internal Loading) 
+ 4,550 lbs. (2063.8 kg) (External Loading)"
+Altitude limits,"Maximum altitude at 4,150 lbs. or less is 20,000 feet pressure altitude. Maximum altitude at 4,151 
+ lbs. to 4,450 lbs is 10,000 feet density altitude"
+Minimum crew,1 at (65.0)
+Passengers,"1 at (+65.0), 2 at (+91.0), and 3 at (+129.0). Refer to 206L-4 Rotorcraft Flight Manual for 
+ limitations."
+Maximum cargo,Refer to 206L-4 Rotorcraft Flight Manual for loading schedule.
+Fuel capacity,"110.7 gallons (+131.7): unusable fuel, 1 gallon at (+94)"
+Oil capacity,"5.5 quarts (+205.0); usable oil, 2 quarts (included in capacity); undrainable oil, 1.6 lbs. (+192)."
+Rotor blade and,For rigging information refer to the 206L-4 Maintenance Manual.
+Serial Nos eligible,52001 and subsequent except 52144
+"X. - Model 407 7PCLH (Normal Category). Approved February 9, 1996",
+Engine,"Rolls Royce (Allison) Model 250-C47B with Chandler Evans EC-135 (FADEC) Fuel Control System 
+ or Model 250-C47B/8 or Model 250-C47E/4. Engine Type Certificate No. E1GL."
+Fuel,"ASTM D6615, Type Jet B; ASTM D1655 Type Jet A, and Jet A-1; MIL-DTL-5624 Grade JP-4 
+ (NATO F-40): MIL-DTL-5624 Grade JP5 (NATO F-44); and MIL-DTL-83133 Grade JP8 (NATO F-"
+See Note 8,34). See Rotorcraft Flight Manual for fuel mixture and fuel temperature limitations.
+Engine Limits,"Torque 
+ Output 
+ Turbine 
+ Gas Gen. 
+ Pressure 
+ Shaft Speed 
+ Out Temp 
+ Speed"
+Takeoff,"100%(91.4 psi) 
+ 100% 
+ 779°C 
+ 105%"
+5 min,"674 shp 
+ (6,317 rpm) 
+ (1,434°F) 
+ (53,550 rpm)"
+Maximum,"93.5%(85.5 psi) 
+ 100% 
+ 727°C 
+ 105%"
+Continuous,"630 shp 
+ (6,317 rpm) 
+ (1,341°F) 
+ (53,550 rpm) 
+ (See 407 Rotorcraft Flight Manual for Transient Limits)"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 422 rpm 
+ Maximum 413 rpm 
+ (Dual Tach Reading 107%) 
+ Dual Tach Reading 100%) 
+ Minimum 351 rpm 
+ Minimum 409 rpm 
+ (Dual Tach Reading 85%) 
+ (Dual Tach Reading 99%)"
+Airspeed limits,"Basic VNE is 140 KIAS sea level to 3,000 feet density altitude. Decrease VNE for ambient 
+ conditions and internal loading in accordance with Airspeed Limitation Placard in the 407 Rotorcraft 
+ Flight Manual. Also see the 407 Rotorcraft Flight Manual for VNE limits associated with peculiar 
+ operating conditions."
+CG range,"(a) 
+ Longitudinal C.G. Limits cm (in.) 
+ Forward Limit (Internal Loading) 
+ 302.3 cm (+119.0) up to 2041 kg (4,500 lbs.) changing linearly to 303.5 cm (+119.5) 
+ at 2268 kg (5,000 lbs.) 
+ Aft Limit (Internal Loading) 
+ 327.7 cm (+129.0) up to 2268 kg (5,000 lbs.) 
+ Forward Limit (Internal Loading when kit 407-706-020 (5250 lb kit) is installed) 
+ 302.3 cm (+119.0 in) up to 2041 kg (4,500 lbs.), changing linearly to 304.2 cm 
+ (+119.8 in) at 2381 kg (5,250 lbs.) 
+ Aft Limit (Internal Loading when kit 407-706-020 (5250 lb. Kit) is installed) 
+ 327.7 cm (+129.0 in) up to 2268 kg (5,000 lbs), changing linearly to 326.8 cm (128.7 
+ in) at 2381 kg (5,250 lbs) 
+ Forward Limit (External Loading) 
+ 302.3 cm (+119.0 in) up to 2041 kg (4,500 lbs.) changing linearly to 306.1 cm 
+ (+120.5in) at 2722 kg (6,000 lbs.) 
+ Aft Limit (External Loading) 
+ 327.7 cm (+129.0 in) up to 2268 kg (5,000 lbs) changing linearly to 324.1 cm (127.6 
+ in) at 2722 kg (6,000 lbs.) 
+ (b) 
+ Lateral C.G. Limits (Internal Loading) 
+ Left 6.4 cm (2.5 in.) up to 1588 kg (3,500 lbs.), changing linearly to 3.9 cm (1.5 in.) at 
+ 2268 kg (5,000 lbs.) 
+ Right 7.6 cm (3.0 in.) up to 1588 kg (3,500 lbs.) changing linearly to 5.2 cm (2.0 in.) 
+ at 2268 kg (5,000 lbs.) 
+ Lateral C.G. Limits (Internal Loading when kit 407-706-020 (5250 lb kit) installed) 
+ Left 6.4 cm (2.5 in.) up to 1588 kg (3,500 lbs), changing linearly to 3.5 cm (1.4 in) at 
+ 2381 kg (5,250 lbs.) 
+ Right 7.6 cm (3.0 in.) up to 1588 kg (3,500 lbs), changing linearly to 4.8 cm (1.9 in) at 
+ 2381 kg (5,250 lbs.) 
+ Lateral C.G. Limits (External Loading) 
+ Left 10.2 cm (4.0 in.) up to 2268 kg (5,000 lbs.), 
+ 3.9 cm (1.5 in.) at 2268 kg (5,000 lbs.), changing linearly to 2.3 cm (0.9 in.) at 2722 
+ kg (6,000 lbs.) 
+ Right 10.2 cm (4.0 in.) up to 2268 kg (5,000 lbs.), 
+ 5.2 cm (2.0 in) at 2268 kg (5,000 lbs.) changing linearly to 3.6 cm (1.4 in.) at 2722 kg 
+ (6,000 lbs.)"
+Maximum weight,"2268 kg (5,000 lbs.) (Internal Loading)"
+Mass,"2381 kg (5,250 lbs.) (Internal Loading) when equipped with kit 407-706-020 
+ 2722 kg (6,000 lbs.) (External Loading) (See Note 24 for external cargo configuration information)"
+Altitude limits,"Maximum altitude at 2268 kg (5,000 lbs.) or less is 20,000 feet pressure altitude. 
+ Maximum altitude above 2268 kg (5,000 lbs.) is 10,000 feet density altitude"
+Minimum crew,1 pilot
+Maximum Occupants,7 (includes crew)
+Maximum cargo,Refer to 407 Rotorcraft Flight Manual for loading schedule.
+Fuel capacity,"483.7 litres (106.4 Imp. Gal) (127.8 US Gal) usable, 
+ 10.0 litres (2.21 Imp. Gal) ( 2.65 US Gal) unusable."
+Oil capacity,"5.21 litres (4.58 Imp. Quarts) (5.5 US quarts); usable oil 2 US quarts included in capacity. 
+ Undrainable oil, 1.6 lbs."
+Rotor blade and,For rigging information refer to the 407 Maintenance Manual
+Serial Nos eligible,"53000 to 53138, 53140 to 53279, 53281 to 53470, 53472 to 53900, 539ll to 54800, 54805 and 
+ subsequent"
+Data Pertinent to all Models except as indicated,
+Datum,"Model 206 Station 0 (datum is 7 inches forward of most forward point of fuselage cabin nose section). 
+ Models 206A, 206A-1, 206B, 206B-1, 206L, 206L-1, 206L-3, 206L-4, and 407 Station 0 (datum is 1 inch 
+ forward of most forward point of fuselage cabin nose section or 55.16 inches forward of jack point 
+ centerline)."
+Leveling Means,"206 Series except 206A S/N 104-583. Plumb line from ceiling left rear cabin to index plate on floor. 
+ 206A S/N 104-583. Level pads on right side in the transmission compartment. 
+ 407 Plumb line from the underside of the engine pan through the access panel in the baggage bay roof to 
+ an index plate on the floor of the baggage compartment."
+Certification Basis,"FAR 21.29 and CAR 6 dated December 20, 1956, Amendments 6-1 thru 6-4, CAR 6.307(b) and 6.637 of 
+ Amendment 6-5, Special Conditions dated October 2, 1962, as revised February 8, 1966, plus the 
+ water/alcohol power augmentation special conditions dated November 14, 1967, revised September 15, 1975."
+Certification Basis,"Special conditions for ""IFR Instrument Flight requirements for Bell Model 206B/L"" submitted to 
+ Bell by FAA (ASW-216) letter dated July 16, 1975. 
+ Exemption No. 595 for Model 206A only. 
+ Exemption No. 595A for Model 206A-1 only. 
+ Exemption No. 595B for Model 206B AND 206B-1 only. 
+ 206L-1 with Rolls Royce (Allison) 250-C30P engine (See Note 38) 
+ a. 
+ For all areas not affected by the installation of BHT kit P/N 206-706-520, CAR 6 dated 
+ December 20, 1956, Amendments 6-1 thru 6-4, CAR 6.307(b) and 6.637 of Amendment 6-5, 
+ Special Conditions dated October 2, 1962, as revised February 8, 1966. 
+ b. 
+ The Basis of Certification for installation of the 250-C30P engine on Bell 206L-1 helicopters as 
+ installed per BHT kit P/N 206-706-520 is: CAR 6.251(c) from CAR 6 dated December 20, 1956, 
+ Amendments 6-1 through 6-4, Special Conditions dated October 2, 1962 as revised February 8, 
+ 1966. Plus the following regulations from FAR Part 27: 27.143, 27.1587 at Amdt 27-1; 27.1093 
+ at Amdt 27-8; 27.45, 27.141, 27.1309 at Amdt 27-20; 27.65, 27.73, 27.301, 27.303, 27.305, 
+ 27.561, 27.601, 27.603, 27.605, 27.607, 27.609, 27.619, 27.621, 27.625, 27.771, 27.773, 27.777, 
+ 27.831, 27.901. 27.903, 27.907, 27.931, 27.939, 27.993, 27.1011, 27.1041, 27.1043, 27.1045, 
+ 27.1091, 27.1123, 27.1141, 27.1163, 27.1183, 27.1191, 27.1193, 27.1301, 27.1305, 27.1307, 
+ 27.1321, 27.1337, 27.1351, 27.1365, 27.1367, 27.1381, 27.1503, 27.1505, 27.1521, 27.1527, 
+ 27.1529, 27.1541, 27.1543, 27.1549, 27.1581, 27.1583 at Amdt 27-24; 27.307, 27.613, 27.629 at 
+ Amdt 27-28. 
+ FAR Part 36 dated 3 November 1969 Amendment 36-1 thru 36-14, Subpart H. 
+ 206L-1 modified per Bell Service Instruction BHT-206-SI-2052 (See Note 39) 
+ a. 
+ For all areas not affected by the installation of BHT kit P/Ns 206-705-420 and 206-706-530, 
+ CAR 6 dated December 20, 1956, Amendments 6-1 thru 6-4, CAR 6.307(b) and 6.637 of 
+ Amendment 6-5, Special Conditions dated October 2, 1962, as revised February 8, 1966. 
+ b. 
+ The Basis of Certification for modification as installed per BHT kit P/Ns 206-705-420 and 206- 
+ 706-530: CAR 6.251(c) from CAR 6 dated December 20, 1956, Amendments 6-1 through 6-4, 
+ Special Conditions dated October 2, 1962 as revised February 8, 1966. Plus the following 
+ regulations from FAR Part 27 dated October 2, 1964: 27.79, 27.143, 27.173, 27.175, 27.1519, 
+ 27.1587 at Amdt 27-1; 27.45, 27.141, 27.1309 at Amdt 27-20; 27.1, 27.21, 27.25, 27.27, 27.29, 
+ 27.51, 27.65, 27.73, 27.75, 27.171, 27.251, 27.301, 27.303, 27.305, 27.309, 27.321, 27.339, 
+ 27.341, 27.411, 27.471, 27.473, 27.549, 27.561, 27.601, 27.603, 27.605, 27.607, 27.609, 27.611, 
+ 27.619, 27.621, 27.623, 27.625, 27.695, 27.725, 27.771, 27.773, 27.873, 27.901. 27.903, 27.907, 
+ 27.921, 29.931, 27.939, 27.1011, 27.1041, 27.1043, 27.1045, 27.1191, 27.1301, 27.1303, 
+ 27.1305, 27.1321, 27.1337, 27.1381, 27.1435, 27.1501, 27.1503, 27.1505, 27.1521, 27.1529, 
+ 27.1541, 27.1543, 27.1549, 27.1581, 27.1583 27.1589 at Amdt 27-24; 27.307, 27.337, 27.351, 
+ 27.501, 27.571 27.613,, 27.629, 27.727 at Amdt 27-28. 
+ Plus 206L-4 Equivalent Safety Finding for Skid Landing Gear (Drop Test) – FAR 27.723, 27.725, 27.727 
+ FAR Part 36 dated 3 November 1969 Amendment 36-1 thru 36-14, Subpart H. 
+ 206L-3 
+ For 206L-3 basis of certification is the same as 206L-1 with Rolls Royce (Allison 250-C30P engine plus 
+ FAR 27.1529 at Amdt 27-18. 
+ 206L-3 modified per Bell Service Instruction BHT-206-SI-2052 (See Note 39) 
+ a. 
+ For all areas not affected by the installation of BHT kit P/Ns 206-705-420 and 206-706-530, 
+ CAR 6 dated December 20, 1956, Amendments 6-1 thru 6-4, CAR 6.307(b) and 6.637 of 
+ Amendment 6-5, Special Conditions dated October 2, 1962, as revised February 8, 1966. 
+ b. 
+ The Basis of Certification for modification as installed per BHT kit P/Ns 206-705-420 and 206- 
+ 706-530: CAR 6.251(c) from CAR 6 dated December 20, 1956, Amendments 6-1 through 6-4, 
+ Special Conditions dated October 2, 1962 as revised February 8, 1966. Plus the following 
+ regulations from FAR Part 27 dated October 2, 1964: 27.79, 27.143, 27.173, 27.175, 27.1519, 
+ 27.1587 at Amdt 27-1; 27.45, 27.141, 27.1309 at Amdt 27-20; 27.1, 27.21, 27.25, 27.27, 27.29, 
+ 27.51, 27.65, 27.73, 27.75, 27.171, 27.251, 27.301, 27.303, 27.305, 27.309, 27.321, 27.339, 
+ 27.341, 27.411, 27.471, 27.473, 27.549, 27.561, 27.601, 27.603, 27.605, 27.607, 27.609, 27.611, 
+ 27.619, 27.621, 27.623, 27.625, 27.695, 27.725, 27.771, 27.773, 27.873, 27.901. 27.903, 27.907, 
+ 27.921, 29.931, 27.939, 27.1011, 27.1041, 27.1043, 27.1045, 27.1191, 27.1301, 27.1303, 
+ 27.1305, 27.1321, 27.1337, 27.1381, 27.1435, 27.1501, 27.1503, 27.1505, 27.1521, 27.1529, 
+ 27.1541, 27.1543, 27.1549, 27.1581, 27.1583 27.1589 at Amdt 27-24; 27.307, 27.337, 27.351, 
+ 27.501, 27.571 27.613,, 27.629, 27.727 at Amdt 27-28. 
+ Plus 206L-4 Equivalent Safety Finding for Skid Landing Gear (Drop Test) – FAR 27.723, 27.725, 27.727 
+ FAR Part 36 dated 3 November 1969 Amendment 36-1 thru 36-14, Subpart H. 
+ For 206B S/N 5101 through 5400. Meets fuel system qualification to NPRM 90-24. Crash resistant fuel 
+ system in normal and transport category rotorcraft, Draft paragraph 29-952 and associated revised 
+ paragraphs. 
+ For 206L-4 FAR 21.29 and Part 27 dated 2 October 1964 Amendment 27-1 thru 27-24 with: 27.45, 
+ 27.141, 27.1309 at Amdt 27-20; 27.1093, 27.1545 at Amdt 27-8; 27.79, 27.143, 27.173, 27.175, 27.1519, 
+ 27.1585, 27.1587 at Amdt 27-1; 27.2, 27.307, 27.337, 27.351, 27.427, 27,501, 27.571, 27.613, 27.629, 
+ 27.663, 27.674, 27.685, 27.727, 27.783, 27.807, 27.861, 27.865 at Amdt 27-28; and 27.391, 27.395, 
+ 27.397, 27.681, 27.1357, 27.1361, replaced by 6.220, 6.225, 6.323, 6.623, 6.624, 6.625, 6.626 of CAR 
+ Part 6 dated 6 December 1956 Amendment 6-1 thru 6-4. Exceptions to FAR 27 are the deletion of: 27.71, 
+ 27.177, 27.399, 27.562, 27.610, 27,954, 27.1195, 27.1322. 
+ Equivalent Safety Findings: 1. Skid Landing Gear (Drop Test) - FAR 27.723, 27.725, and 27.727; 2. Fuel 
+ Tanks (Drop Test) - FAR 27.965(c)(1) and (c)(2). 
+ FAR Part 36 dated 3 November 1969 Amendment 36-1 thru 36-14, Subpart H. 
+ For Model 407 
+ (a) 
+ FAR part 27, dated October 2, 1964 Amendment 27-1 through 27-30 with; 
+ Ultimate inertia load factors Section 27.561(b)(3)(i-iv) remain at the levels specified by Section 
+ 27.561(b)(3) at Amdt 27-0; 
+ Section 27.563 at Amdt 27-25; 
+ Section 27.785 at Amdt 27-21; 
+ Section 27.1093 at Amdt 27-8; and 
+ Section 27.173 at Amdt 27-1 
+ Section 27.175 at Amdt 27-1. 
+ Exceptions to FAR 27 are the deletion of sections: 27.562, 27.1195, and 27.952(b)(1) 
+ Section 27.1317 at Amdt 27-42 for the 250-C47E/4 engine installation 
+ (b) 
+ FAR 36 Amdt 36-1 through 36-20. 
+ (c) 
+ Transport Canada Special Conditions 
+ High Intensity Radiated Fields (HIRF), SCA 95-02, April 26, 1995 (except for the 250-C47E/4 
+ engine installation) 
+ (d) 
+ Equivalent Safety Findings exist with respect to the following regulations: 
+ -FAR 27.307(b)(5), 27.723, 
+ 27.725, and 27.727 
+ Skid Type Undercarriages"
+Certification Basis d,"-FAR27.952 
+ Forward Fuel Tank Drop Test 
+ -FAR27.952 
+ Aft Fuel Tank Drop Test 
+ -FAR27.965(c)(1) and (2) 
+ Fuel Tank Pressure Test 
+ -FAR27.1305(p) 
+ Engine Anti-Ice Annunciation (See Note 41) 
+ Installation of Integrated Avionics System (Garmin G1000H) and affected areas on Bell Model 407 
+ helicopters, Serial Numbers 54300 to 54303 and 54305 to 54566 and Serial Numbers 54568 to 54800. 
+ Installation of the Integrated Avionics System (Garmin G1000H NXi) and affected areas on 407 Serial 
+ Number 54304, 54567 and Serial Numbers 54805 and Subsequent (See Note 42) 
+ (a) 
+ 14 CFR part 27, dated October 2, 1964 Amdt 27-1 through 27-46 with the following exceptions; 
+ Ultimate inertia load factors 14 CFR 27.561(b)(3)(i-iv) remain at the levels specified by 14 CFR 
+ 27.561(b)(3) at Amdt 27-0; 
+ 14 CFR 27.785 at Amdt 27-21 
+ (b) 
+ 14 CFR 36 Amdt 36-1 through 36-20. 
+ (c) 
+ Equivalent Safety Finding: 
+ Number SP4107RD-R/F- 1 
+ 14 CFR part 27.1545 (b)(2) Airspeed Indicator"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see certification 
+ basis) must be installed in the helicopter for certification. 
+ In addition, the following items of equipment are required: 
+ (a) 
+ Engine Out Warning System all models. 
+ (b) 
+ Outside air temperature gage for Models 206A, 206A-1, 206B, 206L, 206L-1, 206L-3, 206L-4, 
+ and 407. 
+ (c) 
+ FAA approved Helicopter Flight Manual. 
+ (1) 
+ a. 
+ Model 206A dated October 20, 1966, reissued May 15, 1970. 
+ b. 
+ Model 206A (Serial No. 503 only) dated October 20, 1966, reissued August 19, 
+ 1968, for 2900 lbs gross weight. 
+ c. 
+ Model 206A dated April 2, 1971, for 205-C20 Engine. 
+ (2) 
+ Model 206B, dated July 30, 1971, reissued December 20, 1972. Model 206B, Serial 
+ No. 2212 (See Note 21), dated July 1, 1977. 
+ Model 206B, Serial No. 5101 through 5400 (See note 31), TH-67 Configuration Fuel 
+ System and Torque Indicator (BHT-206B3-FMS-33), dated 5 October, 1993. 
+ (3) 
+ Model 206L, dated September 22, 1975. 
+ (4) 
+ Model 206L-1, dated May 17, 1978. 
+ (5) 
+ Model 206L-3, dated December 9, 1981. 
+ (6) 
+ Model 206L-4, dated October 2, 1992. 
+ (7) 
+ Model 407 Serial Numbers 53001 to 54299 are to be operated in accordance with Bell 
+ Rotorcraft Flight Manual BHT-407-FM-1, dated February 9, 1996 
+ (8) 
+ Model 407 Serial Numbers 54300 to 54303 and 54305 to 54566 and Serial Numbers 
+ 54568 to 54800 are to be operated in accordance with Bell Rotorcraft Flight Manual 
+ BHT-407-FM-2, dated March 4, 2011. (See Note 42) 
+ (9) 
+ Model 407 Serial Numbers 54304, 54567 and 54805 and subsequent are to be operated 
+ in accordance with Bell Rotorcraft Flight Manual BHT-407-FM-3, dated January 17, 
+ 2018. (see Note 42)"
+Production Basis,"None for 206. Production Certificate No. 100 for Models 206A, 206A-1, 206B, 206B-1, 206L, 206L-1, 
+ 206L-3, 206L-4 and 407. (See Note 29 and Note 32 for helicopters produced by Bell Textron Canada 
+ Limited)"
+NOTE 1,"Current weight and balance report including list of required equipment and list of equipment included in 
+ certificated empty weight, and loading instructions when necessary must be provided for each helicopter at 
+ the time of original certification. The certificate empty weight and corresponding C.G. locations must 
+ include undrainable oil and unusable fuel for the appropriate model."
+NOTE 2,"The following placard must be displayed in front of and in clear view of the pilot: ""THIS HELICOPTER 
+ MUST BE OPERATED IN COMPLIANCE WITH OPERATING LIMITATIONS SPECIFIED IN THE 
+ APPROVED HELICOPTER FLIGHT MANUAL."" 
+ All placards required in the approval flight manual must be installed in the appropriate locations."
+NOTE 3,The retirement times of critical parts are listed in the following table. These limitations may not be changed
+"MODEL 206A and 206B (Refer to FAA approved Chapter 4 of the Maintenance Manual, BHT - 206A/B-MM-1, for airworthiness",
+"MODEL 206L (Refer to FAA approved Chapter 4 of the Maintenance Manual, BHT-206L-MM-1, for airworthiness lives of",
+"MODEL 206L-1 (Refer to FAA approved Chapter 4 of the Maintenance Manual, BHT-206L-1-MM-1, for airworthiness lives of",
+"MODEL 206L-3 (Refer to FAA approved Chapter 4 of the Maintenance Manual, BHT 206L3-MM-1 for the service lives of 
+ components applicable to the Model 206L-3) 
+ MODEL 206L-4 (Refer to FAA approved Chapter 4 of the Maintenance Manual, BHTI 206L4-MM-1 for service lives of",
+"MODEL 407 (Refer to approved Chapter 4 of the Maintenance Manual, BHT-407-MPI for service lives of components applicable",
+NOTE 4,"Information essential for proper maintenance is contained in the appropriate Model Bell maintenance or 
+ overhaul manual."
+NOTE 5,Reserved
+NOTE 6,"Power on rotor and engine output shaft speed limits increase (inversely with power as shown in approved 
+ flight manuals for all models)."
+NOTE 7,"Reserved 
+ o"
+NOTE 8,"For all operations below 40 F ambient temperature, all fuel used in the Model 206A must contain Phillips 
+ PFA-55 MB anti-icing additive in concentrations of not less than 0.035% or more than 0.15% by volume. 
+ Blending this additive into the fuel and checking its concentration must be conducted in the manner 
+ prescribed by the Rotorcraft Flight Manual. This additive is eligible as described above but not required 
+ for use in the Models 206B, 206L, 206L-1, 206L-3, and 206L-4 helicopter. 
+ Note Anti-ice additive is eligible but not required and the above does not apply for Model 206A 
+ helicopters equipped with Fuel Filter Kit P/N 206-706-603-1, -3. RFM Supplement BHT-206A-FMS-17 
+ dated January 13, 1970, is required. For Model 407 S/N 54304, S/N 54567 and S/N 54805 and subsequent 
+ (See Note 42) operating in ambient temperatures below -12.2°C (10°F) OAT, all fuel must contain MIL- 
+ DTL-85470 or ASTM D4171 anti-icing additive contration to be 0.07% to 0.15% by volume."
+NOTE 9,"Engine fuel system components as listed below are required to assure satisfactory engine/rotor drive 
+ system torsional stability. 
+ Model 206A with Model 250-C18 or 250-C18B engine: 
+ Accumulator Assy. Allison *P/N 6848165, 
+ Double Check Valve *P/N 6854622, 
+ plus Accumulator Assy. Kit Allison P/N 6858338 
+ or 
+ Accumulator Assy. Allison *P/N 6848165, 
+ Double Check Valve Allison *P/N 6873599, 
+ plus Accumulator Assy. Kit Allison P/N 6874921 
+ Model 206B and Model 206L with Bendix Fuel Control: 
+ Allison Accumulator Kit P/N 6887645 (See Allison 250 Installation Bulletin No. 1004.) 
+ Model 206L-1 with Bendix DP-T3 fuel control: 
+ Equipment required for system torsional stability (accumulator P/N 6875224 and Double Check 
+ Valve P/N 6876557) is approved and included as part of the Allison Model 250-C28B engine. 
+ Model 206L-3 with Bendix DP-V1 Fuel Control: 
+ Equipment required for system torsional stability (accumulator P/N 687522) is approved and 
+ included as part of the Allison Model 250-C30P engine. 
+ * 
+ These items are included in basic 250-C18, 250-C18B, and 250-C10D engines."
+NOTE 10,"The engine air induction systems on the Models 206A, 206B, 206L, 206L-1, and 206L-3 have been 
+ substantiated for icing characteristics as necessary to demonstrate that ice accumulation on the engine air 
+ inlet will not adversely affect engine operation or cause a serious loss of power when the helicopter is 
+ operated in icing conditions within the capability of the remainder of the helicopter to operate under such 
+ conditions."
+NOTE 11,"Models 206A and 206B helicopters that have external cargo hooks installed per Service Instructions No. 
+ 206-4 (revised July 1, 1968, or later) or No. 206-17 meet the structural and design requirements of the 
+ certification basis, provided the weight in excess of the normal category gross weight is not imposed on 
+ the landing gear, when operated at 3,350 pounds gross weight in accordance with the limits of the 206A 
+ FAA approved Helicopter Flight Manual Supplement dated May 3, 1967, as reissued August 19, 1968, or 
+ the 206B FAA approved Helicopter Flight Manual Supplement dated July 30, 1971, reissued December 
+ 20, 1972, as appropriate. The retirement times listed in Note 3 are not changed."
+NOTE 12,"Prior to civil certification, the military Model OH-58A must be modified in accordance with approved 
+ data. Information regarding modification to the Model 206A-1 configuration is contained in Type 
+ certification No. H2SW Type Design Data. In addition, all historical records of the aircraft must be 
+ available and conformity to the FAA approved 206A-1 type design data must be shown."
+NOTE 13,"Allison Model 250-C18B engine is required with Water-Alcohol Power Augmentation Kit P/N 206- 
+ 706- 400-1 for improved performance shown in Rotorcraft Flight Manual Supplement dated November 
+ 26, 1969, reissued May 15, 1970. The 250-C18D engine is also eligible without water alcohol power 
+ augmentation at limitations and performance shown for the 250-C18 engine."
+NOTE 14,Engine must be modified in accordance with Airworthiness Directives 69-18-4.
+NOTE 15,"Canadian Military Model COH-58A serial numbers 44001 and up are not eligible for Federal Aviation 
+ Administration type certification in any category."
+NOTE 16,"Military Model OH-58A surplused from other than an Armed Force of the United States is not eligible for 
+ Federal Aviation Administration type certification in any category."
+NOTE 17,"Models 206A and 206B helicopters that have an external cargo hook installed per Service Instruction No. 
+ 206-94 meet the structural and design requirements of the certification basis, provided the weight in excess 
+ of the normal category gross weight is not imposed on the landing gear, when operated to 3,350 pounds 
+ gross weight in accordance with the limits of 206A FAA-approved Helicopter Flight Manual Supplement 
+ dated June 16, 1972, as reissued December 20, 1972. The retirement times listed in Note 3 are not 
+ changed."
+NOTE 18,"Model 206A helicopters may be converted to Model 206B helicopters in accordance with Bell Helicopter 
+ Company Service Instruction No. 206-80, dated May 11, 1971, or later revision."
+NOTE 19,"Installed battery capacity must be at least 13 ampere hours for the 206L and 17 ampere hours for the 206L- 
+ 1, 206L-3, 206L-4, and 407 to insure fuel transfer pump operation and c.g. control after electrical system 
+ failure. A special emergency circuit for fuel transfer pump operation is provided."
+NOTE 20,"Bendix P/N DP-N1 or DP-N2 is eligible on Model 206B helicopters - See Allison 250 Installation Bulletin 
+ No. 1004."
+NOTE 21,"Model 206B, Serial No. 2212 and subsequent 
+ Engine 
+ Allison Model 250-C20B with Bendix P/N DP-N2 Fuel Control 
+ Alternate Fuel Control 
+ CECO Mod. MC-40, Control P/N 104900A3-2, Governor P/N 
+ 6851468E 
+ Alternate Engine 
+ Allison Model 250-C20J with Bendix P/N DP-N2 and Bendix power 
+ turbine governor AL-AAI 
+ Fuel 
+ ASTM D6615 Type Jet B; ASTM D1655 Type Jet A and Jet A-1; MIL-DTL-5624 Grade JP- 
+ 4 (NATO F-40); MIL-DTL-5624 Grade JP-5 (NATO F-44) and MIL-DTL-83133 Grade JP-8 
+ (NATO F-34). See Rotorcraft Flight Manual for Fuel Mixture and Fuel Temperature 
+ Limitations (see Note 8)."
+Engine limits,"Torque 
+ Output 
+ Turbine 
+ Gas Gen. 
+ Pressure 
+ Shaft Speed 
+ Out Temp. 
+ Speed"
+Takeoff,"100% 
+ 100% 
+ 810°C 
+ 105%"
+5 min,"(317 shp) 
+ (6,016 rpm) 
+ (1490°F) 
+ (53,519 rpm)"
+Max,"85% 
+ 100% 
+ 738°C 
+ 105%"
+Continuous,"(270 shp) 
+ (6,016 rpm) 
+ (1360°F) 
+ (53,519 rpm)"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 422 rpm 
+ Maximum 395 
+ (Dual Tach Reading 107%) 
+ (Dual Tach Reading 100%) 
+ Minimum 355 rpm 
+ Minimum 382 rpm 
+ (Dual Tach Reading 90%) 
+ (Dual Tach Reading 97%) 
+ Empty Weight C.G. range 
+ Refer to Section 8 of the appropriate Model Maintenance Manual."
+NOTE 22,"Model 206A and 206B engine Fuel Controls must be set for 235 pounds per hour (pph) Maximum Fuel 
+ Flow. Model 206L fuel control must be set for 270 PPH, Model 206L-1 must be set for 290 PPH, and 
+ 206L-3 must be set for 325 PPH (except for Note 28), and Model 206L-4 must be set for 356 PPH."
+NOTE 23,"For the Model 206L-1, only Marathon Model CA 170 or Saft Model 1756 batteries are eligible."
+NOTE 24,"Model 206L-1 or 206L-3 helicopters that have an external cargo hook installed per Service Instruction No. 
+ 206-2012 meet the structural and design requirements of the certification basis, provided the weight in 
+ excess of the normal category gross weight is not imposed on the landing gear, when operated to 4,250 
+ pounds gross weight in accordance with the limits of the appropriate FAA-approved Helicopter Flight 
+ Manual Supplement, 206L-1, dated May 17, 1978, or 206L-3, dated December 11, 1981, No. BHT-206L- 
+ 3-FMS4. Model 206L-4 helicopters equipped with this external cargo hook may operate to 4,550 pounds 
+ gross weight in accordance with the limits of FAA approved Helicopter Flight Manual Supplement, BHT- 
+ 206L4-FMS-4 dated October 1992. 
+ The retirement times listed in Note 3 are not changed. 
+ Model 407 helicopters equipped with an external cargo hook may operate to 2722 kg (6,000 lbs.) gross 
+ weight in accordance with the limits of Transport Canada approved Rotorcraft Flight Manual Supplement 
+ BHT-407-FMS-5, Rev.1, Supplemental Cargo Hook P/N 206-706-341 dated September 4, 1998."
+NOTE 25,"Model 206A/B helicopters, Serial Nos. 498 through 2211, may be converted to the configuration defined 
+ by Note 21 by modification as prescribed by Bell Textron Service Instruction No. 206-112, dated March 
+ 17, 1978, or later revision. Alternate engine (Model 250-C20J) does apply to these aircraft. Refer to Bell 
+ Information Letter 206‐82‐26 regarding applicable engine models."
+NOTE 26,"Model 206L-1 helicopters that have main rotor yoke, P/N 206-011-149-101, installed, may be operated to 
+ 4,150 pounds internal gross weight in accordance with the limits of 206L-1 FAA-approved Helicopter 
+ Flight Manual Supplement, dated November 9, 1979. The retirement times listed in Note 3 are not 
+ changed."
+NOTE 27,"Model 206B helicopters designated as TH‐57, TH‐57A and TH‐57B were delivered to the US Navy for 
+ training purposes. Model 206B serial numbers 3437, 3540 thru 3545, 3572, 3675, 3690 thru 3742, 3747, 
+ 3748, 3751 thru 3754, 3758 thru 3762, 3766 thru 3769, 3773 thru 3775, 3779 thru 3781, 3828 thru 3848, 
+ 3882 thru 3917 and 5001 thru 5040 are not eligible for commercial certification."
+NOTE 28,"Bell Textron Service Instruction Number 206-2039 provides for an increased takeoff power rating up to 
+ 456 HP. Special maintenance procedures are required with use of this rating. See Service Instruction 
+ Number 206-2039. Not applicable to 206L-1 or 206L-4."
+NOTE 29,"Model 206B S/N 3959 and subsequent except 4048, Model 206L-3 S/N 51215 and subsequent and Model 
+ 206L-4 S/N 52001 and subsequent are manufactured by Bell Textron Canada Limited under the Canadian 
+ Department of Transportation, Manufacturers Approval No. 1-86. S/N 4048 was produced under FAA 
+ Production Certificate No. 100 by Bell Helicopter Textron Inc., Fort Worth, Texas."
+Import Requirements,"To be considered eligible for operation in the United States, each Aircraft manufactured under this Type 
+ Certificate must have a U. S. Airworthiness Certificate that may be issued on the basis of the Canadian 
+ Department of Transport Certificate of Airworthiness for Export signed by the Minister of Transport 
+ containing the following statement: 
+ ""The rotorcraft covered by this certificate has been examined, tested, and found to comply with the type 
+ design approved under Type Certificate H2SW and to be in condition for safe operation"". 
+ The U.S. airworthiness certification basis for aircraft type certificated under FAR Section 21.29 and 
+ exported by the country of manufacture is 21.183(c) or 21.185(c). The U.S. airworthiness certification 
+ basis for aircraft type certificated under FAR Section 21.21 exported from countries other than the country 
+ of manufacture (e.g., third party country) is FAR Sections 21.183(d) or 21.183(b). 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United States of both new 
+ and used aircraft based on the scope of the agreement, to identify any required statements by the exporting 
+ authority on the export certificate of airworthiness (or equivalent document), and for procedures for 
+ coordinating exceptions to conformity statements on these documents. Refer to FAA Order 8130.2, 
+ Airworthiness Certification of Aircraft, for requirements for issuance of an airworthiness certificate for 
+ imported aircraft."
+NOTE 30,"The Allison engine Model 250-C20JN is the 250-C20J engine with an auxiliary gear pad. The 250-C20J 
+ may be modified into 250-C20JN with Allison kit P/N 6896857. 
+ See Allison Installation Bulletin No. 
+ 1012 Rev 3."
+NOTE 31,"MODEL 206B, SERIAL NO. 5101 THROUGH 5400 
+ Model 206B Serial No. 5101 through 5313 are designated by the U.S. Army as the TH-67 Creek. 
+ Engine: 
+ Allison Model 250-C20J, P/N 23006900, with Bendix Fuel Control. 
+ The engine is 
+ modified with Allison Kit, P/N 6896857. (See Detroit Diesel Allison Installation Bulletin. 
+ 1012, Rev 3). The engine is used with P/N 23005745 Gearbox Assembly which includes 
+ the spare accessory drive. 
+ C.G. Range: (Same as 206B S/N 2212 and sub) 
+ Passengers: None 
+ Fuel Capacity: 82.6 gallons (+118.97); unusable fuel, 1 gallon (+104.5) 
+ All other data is same as Model 206B as noted in Section IV of this document."
+NOTE 32,"Model 407 S/N 53000 and subsequent are manufactured by Bell Textron Canada Limited (see Note 44) 
+ under the Canadian Department of Transportation, Manufacturers Approval No. 1-86."
+Import Requirements,"To be considered eligible for operation in the United States, each Aircraft manufactured under this Type 
+ Certificate must have a U. S. Airworthiness Certificate that may be issued on the basis of the Canadian 
+ Department of Transport Certificate of Airworthiness for Export signed by the Minister of Transport 
+ containing the following statement: 
+ ""The rotorcraft covered by this certificate has been examined, tested, and found to comply with the type 
+ design approved under Type Certificate H2SW and to be in condition for safe operation"". 
+ The U.S. airworthiness certification basis for aircraft type certificated under FAR Section 21.29 and exported 
+ by the country of manufacture is 21.183(c) or 21.185(c). 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United States of both new and 
+ used aircraft based on the scope of the agreement, to identify any required statements by the exporting authority 
+ on the export certificate of airworthiness (or equivalent document), and for procedures for coordinating 
+ exceptions to conformity statements on these documents. Refer to FAA Order 8130.2, Airworthiness 
+ Certification of Aircraft, for requirements for issuance of an airworthiness certificate for imported aircraft. 
+ The U.S. airworthiness certification basis for aircraft type certificated under FAR Section 21.21 exported 
+ from countries other than the country of manufacture (e.g., third party country) is FAR Sections 21.183(d) 
+ or 21.183(b)."
+NOTE 33,"Bell Textron Service Bulletins are approved by Transport Canada and include a statement to that effect. 
+ Such approval may be interpreted as approved by FAA."
+NOTE 34,"The Allison engine Model 250-C10D military’s designation is T63-A-700. This engine is identified by 
+ this designation in the military operator’s manual for the OH-58A helicopter (TM55-1520-228-10)."
+NOTE 35,Note deleted in entirety per Revision 47.
+NOTE 36,Note deleted in entirety per Revision 52.
+NOTE 37,"Model 407 helicopters equipped with Bell Kit 407-706-020, may be operated to 2381 kg (5,250 lb.) 
+ internal gross weight in accordance with the limits of 407 FAA approved Rotorcraft Flight Manual 
+ Supplement dated May 7, 1999."
+NOTE 38,"Model 206L-1 helicopters modified per Bell Service Instruction BHT-206-SI-2050 (BHT Kit 206-706- 
+ 520) have engine Rolls-Royce (Allison) 250-C30P installed. Model 206L-1 helicopters with Rolls Royce 
+ (Allison) 250-C30P engine are to be operated in accordance with FAA approved Rotorcraft Flight Manual 
+ BHT-206L3-FM-1 dated December 19, 2007 or later FAA approved revision."
+NOTE 39,"Model 206L-1 and Model 206L-3 helicopters modified per Bell Service Instruction BHT-206-SI-2052 
+ (BHT Kit 206-706-530) have a commercial designation of 206L-1+ and 206L-3+."
+NOTE 40,"Model 206L-1 and Model 206L-3 helicopters modified per Bell Service Instruction BHT-206-SI-2052 
+ (BHT Kit 206-706-530) may operate to 4450 lbs internal gross weight and 4550 lbs external gross weight 
+ in accordance with the limitations specified in Bell Rotorcraft Flight Manual BHT-206L4-FM-1."
+NOTE 41,"The Equivalent Level of Safety Finding for 14 CFR 27.1305(p) applies to Model 407, Serial Number 
+ 53000 to 53094. Model 407, Serial Number 53095 and subsequent comply with the requirements of 14 
+ CFR 27.1305 (p) for Engine Anti-Ice Annunciation."
+NOTE 42,"Model 407 helicopters Serial Numbers 54300 to 54303 and 54305 to 54565 have a commercial 
+ designation of 407GX (Rolls Royce 250-C47B plus Garmin G1000H). Model 407 Serial Numbers 54566 
+ and 54568 to 54800 have a commercial designation of 407GXP (Rolls Royce 250-C47B/8 plus Garmin 
+ G1000H). Model 407 Serial Numbers 54304, S/N 54567 and 54805 and subsequent have a commercial 
+ designation of 407GXi (Rolls Royce 250-C47E/4 plus Garmin G1000H NXi)."
+NOTE 43,"Paragraph X. - Model 407 7PCLH (Normal Category). Approved February 9, 1996. Correction 
+ made to airspeed limits basic VNE from 130 to 140 KIAS sea level to 3,000 feet density altitude. 
+ (Reference: Airworthiness Directive, AD 2001-01-52 R1; published in Federal Register, 66 FR 33019, 
+ June 20, 2001; effective date: July 25, 2001.)"
+NOTE 44,"Effective December 16, 2019 the name Bell Helicopter Textron Canada Limited was revised to 
+ Bell Textron Canada Limited."

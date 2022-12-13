@@ -1,0 +1,140 @@
+Keyterm,Info
+"4A2 
+ Revision 4 
+ Texas Bullet 205 
+ October 7, 1977",
+Manufacturer,"Richard P. Schutze 
+ 114 Bryant 
+ Ojai, California 93023"
+"I - Model Texas Bullet 205, 4 PCLM (Normal Category), Approved November 30, 1950",
+Engine,Continental E185-1
+Fuel,80 minimum octane aviation fuel
+Engine limits,"Maximum continuous, 2300 rpm (185 hp) 
+ Take-off (one minute), 2600 rpm (205 hp)"
+Airspeed limits,"Maneuvering 
+ 126 mph (110 knots) True Ind. 
+ Maximum structural cruising 
+ 175 mph (152 knots) True Ind. 
+ Never exceed 
+ 207 mph (180 knots) True Ind. 
+ Flaps extended 
+ 110 mph ( 96 knots) True Ind. 
+ Landing gear extended 
+ 120 mph (104 knots) True Ind."
+CG range,"(+91.9) to (+95.4) at 2300 lbs. or less. 
+ (+90.3) to (+95.4) at 1755 lbs. or less. 
+ LBS. 
+ 2300 
+ 2100 
+ Rear 
+ 1900 
+ Limit 
+ Fwd 
+ 1700 
+ Lim it 
+ 1500 
+ 90 
+ 91 
+ 92 
+ 93 
+ 94 
+ 95 
+ 96 
+ IN C HES 
+ Straight line variation between points given. 
+ Effect of retracting landing gear is negligible."
+Empty weight CG range,None
+Datum,60.0 in. ahead of the firewall bulkhead.
+Leveling means,Horizontal skin splice on right side of fuselage aft of door.
+Page No,"1 
+ 2 
+ 3"
+Rev No,"4 
+ 4 
+ -"
+Maximum weight,2300 lbs.
+No seats,4 (2 at +95 and 2 at +123)
+Maximum baggage,125 lbs. (+147)
+Fuel capacity,48 gals. (two 24 gal. wing tanks) (+104)
+Oil capacity,10 qts. (+53)
+Control surface movements,"Wing flaps 
+ Down 
+ 30° 
+ Stabilizer 
+ Up 
+ 4° 
+ Down 
+ 10° 
+ (at 0° when parallel to leveling means) 
+ Elevator 
+ Up 
+ 30° 
+ Down 
+ 26° 
+ (at 0° when parallel to leveling means) 
+ Aileron 
+ Up 
+ 25° 
+ Down 
+ 12 1/2° 
+ Rudder 
+ Right 
+ 20° 
+ Left 
+ 20°"
+Serial Nos eligible,102 and up
+Required equipment,"1, 102, 104, 201(a), 202(a), 204(a), 401"
+Specifications Pertinent to all Models,
+Certification basis,"Type Certificate No. 4A2 (CAR 3, Normal Category)"
+Production basis,"None. Prior to original certification a CAA representative must perform a 
+ detailed inspection for workmanship, materials, and conformity with the 
+ approved technical data, and a check of the flight characteristics."
+Export eligibility,"Eligible for export to all countries subject to the provisions of 
+ ASR 312 (MOP 2-4 contains same information)."
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item indicates net weight change when 
+ that item is installed."
+"1. 
+ Propeller Hartzell variable pitch; hub model HC-12x20-7,",
+Low 138° High 246°,should be 1/8 inch for -7 propellers. This clearance must be determined by observation
+2,"Propeller spinner, Aircraft Mfg. Co. Dwg. 185 P301 
+ 4 lb. (+16)"
+Propeller Hartzell variable pitch,"70 lb. (+15) 
+ Diameter 78 in. Static rpm at maximum permissible throttle setting, 
+ not over 2270, not under 2170. No additional tolerance permitted. 
+ Operating pitch setting at 30"" station: low 16°, high 30°. 
+ Minimum clearance between the propeller hub spider and the propeller 
+ control piston jack plate should be 1/8 inch 
+ This clearance must be determined by observation while the engine is running. 
+ Engine and Engine Accessories - Fuel and Oil System"
+Fuel pump Romec No RD7790,1 lb. (+53)
+102,"Wobble pump, Aircraft Mfg. Co. No. 185 P647 
+ 2 lbs. (+87)"
+Starter Delco Remy No 1109660,20 lbs. (+55)
+104,"Oil cooler tank, Aircraft Mfg. Co. No. 185 P803 
+ 11 lbs. (+53)"
+105,"hydraulic pump, New York Airbrake Co. No. 67AC02S 
+ 3 lbs. (+53)"
+201,"Two main wheel-brake assemblies, 6.00-6, Type III 
+ 14 lbs. (+80)"
+a,"Firestone Model DFA207 
+ Wheel Assembly No. DFA180 
+ Brake Assembly No. CFA252"
+a,"Two main wheel 6-ply rating tires, 6.00-6, Type III 
+ 20 lbs. (+80)"
+a,"Firestone Model DFA132, swivel, Aircraft Mfg. Co. 
+ 2 lbs. (+262) 
+ L534"
+301,"Generator, Delco Remy No. 1101879, 12V, 25 amps. 
+ 14 lbs. (+55)"
+a,"Reading No. S24, 12V, 24 amp. hours 
+ 23 lbs. (+57) 
+ (b) Reading No. S24, 12V, 24 amp. hours 
+ 23 lbs. (+152)"
+303,"Landing lights, (2) General Electric No. 4537 
+ 2 lbs. (+85)"
+401,"CAA Approved Flight Manual, dated November 30, 1950 
+ NOTE 1. Current weight and balance report including list of equipment included in certificated weight empty, and 
+ loading instructions when necessary, must be in each aircraft at the time of original certification and at all times 
+ NOTE 2. The following placard must be displayed on the instrument panel in full view of the pilot:"
+a,"""This airplane must be operated as a Normal Category airplane in compliance with the Airplane 
+ Flight Manual. No acrobatic maneuvers, including spins, approved."""

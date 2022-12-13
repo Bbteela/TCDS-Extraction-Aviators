@@ -1,0 +1,1896 @@
+Keyterm,Info
+"A46EU 
+ Revision 22 
+ DASSAULT AVIATION 
+ MYSTERE-FALCON 50 
+ MYSTERE-FALCON 900 
+ FALCON 900EX 
+ May 2, 2021",
+Type Certificate Holder,DASSAULT AVIATION
+See NOTE 8,"9 Rond Point des Champs Elysees 
+ 75008 Paris 
+ France 
+ The U.S. airworthiness certification basis for aircraft type certificated under FAR Section 21.29 and exported by the 
+ country of manufacture is FAR Sections 21.183(c) or 21.185(c). 
+ The U.S. airworthiness certification basis for aircraft type certificated under FAR Section 21.29 exported from 
+ countries other than the country of manufacture (e.g. third party country) is FAR 21.183(d) or 21.185(b). 
+ Notwithstanding that the FAR referenced in the above paragraph does not specifically address or require a foreign 
+ civil airworthiness authority certification, such certification is the only practical way for an applicant to show, and 
+ the Federal Aviation Administration (FAA) to find conformity to the FAA-approved type design and conditions for"
+safe operation,"Engines, Propellers, and Related Products Imported into the United States."
+"I. Model MYSTERE-FALCON 50 (Transport Category Airplane), approved March 7, 1979. 
+ a Basic Model Definition",
+Engines,"3 engines - Allied Signal Engines, Model TFE 731-3-1C (see Note 3b)."
+Engine Limits,"Static, Standard Sea level 
+ Takeoff (5 min) 
+ lb 3,700 
+ Maximum Continuous 
+ lb 3,700 
+ Maximum normal operating rotor speeds 
+ Low pressure rotor (N1) RPM 21,000 percent 101.5% 
+ High pressure rotor (N2) RPM 29,692 percent 100% 
+ Transient Conditions* 
+ 1 Minute 
+ 5 Seconds 
+ Low pressure rotor (N1) 101.5% to 103% 
+ 103% to 105% 
+ High pressure rotor (N2) 100% to 103% 
+ 103% to 105% 
+ *(See NOTE 7) 
+ Interstage turbine temperature (ITT):"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18"
+Rev No,"22 
+ 8 
+ 10 
+ 13 
+ 13 
+ 13 
+ 9 
+ 10 
+ 10 
+ 12 
+ 9 
+ 10 
+ 22 
+ 22 
+ 14 
+ 20 
+ 20 
+ 20"
+Page No,"19 
+ 20 
+ 21 
+ 22 
+ 23 24"
+Rev No,"21 
+ 22 
+ 20 
+ 22 
+ 22 22 
+ During starting 
+ 907ºC (1,665ºF) 
+ Starting (10 sec. transient) 
+ 927ºC (1,700ºF)* 
+ Takeoff (5 minutes) 
+ 907ºC (1,665ºF) 
+ Takeoff (10 sec. transient) 
+ 939ºC (1,722ºF) 
+ Maximum Continuous 
+ 885ºC (1,625ºF) 
+ *(See NOTE 7) 
+ Oil temperature at fan gearbox inlet: 
+ Maximum (sea level to 30,000 ft) 
+ 127ºC (260ºF) 
+ Maximum (above 30,000 ft) 
+ 140ºC (284ºF) 
+ Maximum (2 minutes transient) 
+ 149ºC (300ºF) 
+ Minimum Continuous 
+ 30ºC ( 86ºF) 
+ Fuel Pressure 
+ Minimum fuel pressure warning, psig 4.5 
+ Oil pressure limits: 
+ At idle, psig 
+ 25 to 46 
+ Takeoff & maximum continuous, psig 
+ 38 to 46"
+APU optional,Allied Signal Engines GTCP 36-100(A)
+See NOTE 6,"Limitation - Not operable in flight 
+ RATED 
+ MAX. ALLOWABLE 
+ EGT 
+ 680ºC 
+ 732ºC 
+ RP 
+ 100% 
+ 109% 
+ Fuel: See NOTE 4, and Airplane Flight Manual 
+ Oil: See NOTE 5b, and GTCP 36-100 Maintenance Manual."
+Airspeed Limits IAS,"Unless otherwise indicated, speeds are indicated airspeeds. 
+ VMO (Maximum Operating) 
+ 350 kts at sea level, 370 kts at 10,000 ft., with straight line variation between 
+ those points. 
+ 370 kts from 10,000 ft to 24,000 ft. 
+ MMO (Maximum Operating) 
+ M = 0.86 above 24,000 ft. 
+ VA (Maneuvering) 
+ 210 kts 
+ VFE (Slat and Flap Speeds) 
+ Slats 
+ 200 kts 
+ Slats + flaps 20º 
+ 190 kts 
+ Slats + flaps 48º 
+ 175 kts 
+ VLO (Landing Gear Operation) 
+ 190 kts 
+ MLO 
+ 0.70 
+ VLE (Landing Gear Extended) 
+ 220 kts 
+ MLE 
+ 0.75 
+ Windshield Wiper Operation 
+ 205 kts 
+ Cockpit Window Opening 
+ 180 kts 
+ VMC (Minimum Control Speed) 
+ In flight 
+ 82.5 kts (CAS) 
+ On ground 
+ 87.5 kts (CAS)"
+CG Range,"Weight (lb) 
+ Forward Limit (% MAC) 
+ Aft Limit (% MAC)"
+Gear Extended,"38,800 
+ 22.3 
+ 32 
+ 35,715 
+ 19.8 
+ 32 
+ 30,203 
+ 14 
+ 32 
+ 18,959 
+ 14 
+ 32 
+ For aircraft incorporating AMD-BA Modification 1230 (Falcon 50 Service Bulletin 
+ Number 161), C.G. Range is modified as follows: 
+ Weight (lb) 
+ Forward Limit (% MAC) 
+ Aft Limit (% MAC) 
+ 40,780 
+ 23.3 
+ 29.6 
+ 40,255 
+ 22.8 
+ 32 
+ 35,715 
+ 19.2 
+ 32 
+ 30,640 
+ 14 
+ 32 
+ 18,959 
+ 14 
+ 32 
+ For aircraft incorporating AMD-BA Modification 1430 (Falcon 50 Service Bulletin 
+ Number 191), C.G. Range is modified as follows: 
+ Weight (lb) 
+ Forward Limit (% MAC) 
+ Aft Limit (% MAC) 
+ 40,780 
+ 20.9 
+ 29.6 
+ 40,255 
+ 20.6 
+ 32.0 
+ 35,715 
+ 17.3 
+ 32.0 
+ 32,624 
+ 14.0 
+ 32.0 
+ 18,959 
+ 14.0 
+ 32.0 
+ Gear retraction has negligible effect on C.G. Range."
+Datum,"Datum is 25% of mean aerodynamic chord (MAC) which is marked on aircraft and 
+ coincides with fuselage Station (FS) + 382.83 inches. (Fuselage Station + 0 is the 
+ forward end of the aircraft nose cone)."
+Mean Aerodynamic Chord,"Length 
+ 111.77 in. 
+ Zero % MAC is at FS + 354.89 in."
+Leveling Means,"A bubble-type level, when placed on a special leveling rule which in turn is placed on 
+ the tops of 3 specific leveling pins on the floor of the fuselage rear compartment, 
+ facilitates leveling of the airplane in the longitudinal and lateral directions."
+Weight Limitations,"Maximum Weights 
+ Maximum ramp 
+ 38,800 lb. 
+ Maximum takeoff (brake release) 
+ 38,800 lb. 
+ Maximum landing 
+ 35,715 lb. 
+ Maximum zero fuel 
+ 25,570 lb. 
+ Minimum weight 
+ 18,959 lb. 
+ For aircraft incorporating AMD-BA Modification 1230 or modification 1430 (Falcon 
+ 50 Service Bulletin Number 161 or 191), weight limitations are modified as follows: 
+ Maximum ramp 
+ 40,780 lb. 
+ Maximum takeoff (brake release) 
+ 40,780 lb. 
+ Maximum landing 
+ 35,715 lb. 
+ Maximum zero fuel 
+ 25,570 lb. 
+ Minimum weight 
+ 18,959 lb."
+Maximum Passengers,"19 maximum - limited by emergency exit requirement of FAR 25.807(c) (AMD memo 
+ DTM 800 identifies approved cabin interior for 8 or 9 passenger seats). 
+ 12 maximum - limited by cabin air ventilation requirements of FAR 25.831 when 
+ operated above 45,000 feet (AMD Falcon 50 Service Bulletin No. F50-0163 is applied 
+ (or AMD Mod. M17). 
+ 0 - Without passenger provision but incorporating Dassault Ferry flight configuration : 
+ M2133."
+Crew Seats,"Third crew seat, installed in accordance with Option No. 25-11-02, may be occupied for 
+ takeoff and landing."
+Maximum Baggage,"2,200 lb in rear baggage compartment."
+Fuel Capacity,"Nominal - (refer to weight and balance report of each individual airplane for exact 
+ capacity). 
+ Usable Fuel 
+ US Gallons 
+ Pounds 
+ Arm (in) 
+ Left wing 
+ 559 
+ 3,748 
+ -0.94 
+ Center wing 
+ 410 
+ 2,749 
+ -38.82 
+ Right wing 
+ 559 
+ 3,748 
+ -0.94 
+ Left fuselage 
+ 210 
+ 1,404 
+ +51.3 
+ Center fuselage 
+ 367 
+ 2,461 
+ +51.85 
+ Right fuselage 
+ 210 
+ 1,404 
+ +51.3 
+ TOTAL USABLE 
+ 2,315 
+ 15,514 
+ TOTAL FUEL 
+ 2,329 
+ 15,607 
+ Pressure Fueling 
+ 50 psi maximum."
+Oil Capacity,"Usable, 0.5 US Gallons"
+Each Engine,"Unusable, 2.25 US Gallons (drainable, and trapped oil) side engine arm + 80.9 in., 
+ center engine arm + 225.8 in."
+Maximum Operating Altitude,"45,000 ft. 
+ 49,000 ft. 
+ for serial No. 156 and on, or for aircraft incorporating AMD-BA 
+ Modification M17 (Falcon 50 Service Bulletin Number F50-0163)."
+Control Surface Movements,"Elevator: 
+ Down 
+ 16º 
+ Up 
+ 20º 
+ Rudder: 
+ Right 
+ 23º 
+ Left 
+ 23º 
+ Aileron: 
+ Up 
+ 25º20' 
+ Down 
+ 24º50' 
+ Flaps: 
+ Down 
+ 48º 
+ Airbrakes: 
+ Up 
+ 68º 
+ Wing Slats: 
+ internal 20º 
+ external 30º 
+ Stabilizer: 
+ Electrical stops: 
+ Nose down 
+ 1º 
+ Nose up 
+ 11º 
+ Mechanical stops: 
+ Nose down (max) 1º30' 
+ Nose up (max) 
+ 11º30' 
+ Structural stops: 
+ Nose down (min) 2º 
+ Nose up (min) 
+ 12º 
+ Rigging tolerances are included in Maintenance Manual."
+"EX designation for Mystère Falcon 50 does not correspond to a model designation. This is only a commercial designation for 
+ airplanes on which 6 Major modifications are embodied. 
+ Those 6 modifications, listed below, are basic on any aircraft from serial number 253 and subsequent. 
+ M1810: new engines - assembly line configuration - TFE 731-40 
+ M1890 new avionics 
+ M1940 Bleed Air System Computer 
+ M2159 ADC new calibration 
+ The following associated retrofit modifications are available: 
+ M2017: New engines – retrofit – TFE 731-40-1C 
+ M1924 New avionics – retrofit 
+ Other modifications, as retrofit, have the same modification numbers as for new build aircraft.",
+Engines,"3 engines - Allied Signal Engines, Model TFE 731-40 (FAA Data Sheet EINM-1 July 13, 
+ 1995)"
+Engine Limits,"Static, Standard Sea level 
+ Takeoff (5 min) 
+ lb 3,700 
+ Maximum Continuous 
+ lb 3,700 
+ Maximum normal operating rotor speeds 
+ Low pressure rotor (N1) RPM 21,021 percent 100.1% 
+ High pressure rotor (N2) RPM 31,485 percent 101% 
+ Transient Conditions* 
+ 5 Seconds 
+ Low pressure rotor (N1) 
+ 100.5% 
+ High pressure rotor (N2) 
+ 102.5 
+ *(See NOTE 7) 
+ Interstage turbine temperature (ITT): 
+ During starting 
+ 991ºC (1,815ºF) 
+ Takeoff (5 minutes) 
+ 1013ºC (1,855ºF) 
+ Maximum Continuous 
+ 991ºC (1,815ºF) 
+ Oil temperature at fan gearbox inlet: 
+ Maximum (sea level to 30,000 ft) 
+ 127ºC (261ºF) 
+ Maximum (above 30,000 ft) 
+ 140ºC (284ºF) 
+ Maximum (2 minutes transient) 
+ 149ºC (300ºF) 
+ Minimum Continuous 
+ 40ºC ( 104ºF) 
+ Fuel Pressure 
+ Minimum fuel pressure warning, psig 4.5 
+ Oil pressure limits: 
+ At idle, psig 
+ 50 to 80 
+ Takeoff & maximum continuous, psig 
+ 65 to 80"
+APU basic,Unchanged. Included as basic equipment on serial number 253 and subsequent.
+Airspeed Limits IAS,Unchanged
+CG Range,"Weight (lb) 
+ Forward Limit (% MAC) 
+ Aft Limit (% MAC)"
+Gear Extended,"39,700 
+ 22.96 
+ 32 
+ 30,179 
+ 14 
+ 32 
+ 18,959 
+ 14 
+ 32 
+ After incorporation of Falcon 50 Service Bulletin Number 161, C.G. Range is modified 
+ as follows: 
+ Weight (lb) 
+ Forward Limit (% MAC) 
+ Aft Limit (% MAC)"
+Gear Extended,"40,785 
+ 23.3 
+ 29.57 
+ 40,300 
+ 22.99 
+ 32 
+ 30,618 
+ 14 
+ 32 
+ 18,959 
+ 14 
+ 32"
+Datum,Unchanged
+Mean Aerodynamic Chord,Unchanged
+Leveling Means,Unchanged
+Weight Limitations,"Maximum Weights 
+ Maximum ramp 
+ 39,700 lb. 
+ Maximum takeoff (brake release) 
+ 39,700 lb. 
+ Maximum landing 
+ 35,715 lb.(unchanged) 
+ Maximum zero fuel 
+ 25,570 lb.(unchanged) 
+ Minimum weight 
+ 18,959 lb.(unchanged) 
+ After incorporation of Falcon 50 Service Bulletin Number 161, weight limitations are 
+ modified as follows: 
+ Maximum ramp 
+ 40,785 lb.(unchanged) 
+ Maximum takeoff (brake release) 
+ 40,785 lb.(unchanged) 
+ Maximum landing 
+ 35,715 lb. (unchanged) 
+ Maximum zero fuel 
+ 25,570 lb. (unchanged) 
+ Minimum weight 
+ 18,959 lb. (unchanged)"
+Maximum Passengers,"Unchanged, except 
+ Ferry kit definition and installation (0 passenger provisions) is covered by Dassault 
+ modification M2133"
+Crew Seats,Unchanged
+Maximum Baggage,Unchanged
+Fuel Capacity,Unchanged
+Oil Capacity,"Usable, 1.01 US Gallons"
+Each Engine,"Unusable, 0.31 US Gallons"
+Maximum Operating Altitude,Unchanged
+Control Surface Movements,"Unchanged ,except 
+ Rudder (M1200): 
+ Right 
+ 29º 
+ Left 
+ 29º"
+"II. Model MYSTERE-FALCON 900 (Transport Category Airplane), approved March 21, 1986. 
+ a Basic Model Definition",
+Engines,"3 engines - Allied Signal Engines, Model TFE 731-5AR-1C (See NOTE 3b). 
+ MF900 aircraft incorporating M.1200 (Service Bulletin F900-100) are equipped with 3 engines 
+ Allied Signal Engines, Model TFE 731-5BR-1C."
+Engine Limits,"A/C without SB100 
+ A/C with SB100 
+ Static, Standard Sea Level 
+ Takeoff (5 min.) 
+ lb 4,500 
+ lb 4,750 
+ Maximum continuous 
+ lb 4,500 
+ lb 4,634 
+ Maximum normal operating rotor speeds 
+ Low pressure rotor (N1) RPM 
+ 21,000 RPM 100% 
+ High pressure rotor (N2) RPM 
+ 29,989 RPM 101% 30,540 RPM 100.8% 
+ Transient Conditions* 
+ 5 seconds 
+ Low pressure rotor (N1) 
+ 100% to 103% 
+ High pressure rotor (N2) 
+ 101% to 103% 
+ 100.8% to 103% 
+ * (See NOTE 7) 
+ Interstage turbine temperature (ITT): 
+ During starting 
+ 952ºC 
+ (1,746ºF) 
+ 978ºC (1,793ºF) 
+ Starting (10 sec. transient) 
+ 974ºC 
+ (1,785ºF)* 
+ 996ºC (1,825ºF) 
+ Takeoff (5 minutes) 
+ 974ºC 
+ (1,785ºF) 
+ 996ºC (1,825ºF) 
+ (5 sec. transient) 
+ 984ºC 
+ (1,803ºF) 
+ 1006ºC (1,842ºF) 
+ (2 sec. transient) 
+ 994ºC 
+ (1,821ºF) 
+ 1016ºC (1,861ºF) 
+ Maximum continuous 
+ 924ºC 
+ (1,696ºF) 
+ 968ºC (1,775ºF) 
+ * (See NOTE 7) 
+ Oil temperature at fan gearbox inlet: 
+ Maximum (sea level to 30,000 ft) 
+ 127ºC 
+ (260ºF) 
+ Maximum (Above 30,000 ft) 
+ 140ºC 
+ (284ºF) 
+ Maximum transient (2 minutes) 
+ 149ºC 
+ (300ºF) 
+ Minimum Continuous 
+ 30ºC 
+ ( 86ºF) 
+ Fuel pressure: 
+ Minimum fuel pressure warning 
+ psig 4.5 
+ Oil pressure limits: 
+ At idle, psig 
+ psig 25 to 46 
+ Takeoff and maximum continuous 
+ psig 38 to 46"
+APU,"Allied Signal Engines Model GTCP 36-150(F) 
+ Limitation - Not operable in flight 
+ RATED 
+ MAX. ALLOWABLE 
+ EGT 
+ 720ºC 
+ 973ºC 
+ RPM 
+ 102% 
+ 110% 
+ Fuel : See NOTE 4, and Airplane Flight Manual 
+ Oil : See NOTE 5b."
+Airspeed Limits,"Unless otherwise indicated, speeds are indicated airspeeds. 
+ VMO (Maximum Operating) 
+ 350 kts at sea level; 370 kts at 10,000 ft., with straight line 
+ variation between those points. 
+ 370 kts from 10,000 ft to 25,000 ft. 
+ MMO (Maximum Operating) 
+ - Weight below 35,000 lbs. 
+ M = 0.87 from 25,000 ft. to 38,000 ft. 
+ 0.87 at 38,000 ft. to 0.84 at 42,000 ft., with straight line 
+ variation between other points. 
+ 0.84 above 42,000 ft. 
+ - Weight above 35,000 lbs. 
+ M = 0.87 from 25,000 ft. to 33,000 ft. 
+ 0.87 at 33,000 ft. to 0.84 at 37,000 ft. with straight line 
+ variations between those points. 
+ 0.84 above 37,000 ft. 
+ Aircraft 
+ Aircraft 
+ Without SB100 
+ With SB100 
+ VA (Maneuvering) 
+ 228 kts 
+ VFE (Slat and Flap Speeds) 
+ Flaps 7º + Slats 
+ 200 kts 
+ Flaps 20º + Slats 
+ 190 kts 
+ Flaps 40º + Slats 
+ 180 kts 
+ VLO (Landing Gear Operation) 
+ 190 kts 
+ MLO 
+ 0.70 
+ VLE (Landing Gear Extended) 
+ 245 kts 
+ MLE 
+ 0.75 
+ Windshield Wiper Operation 
+ 215 kts 
+ Cockpit Window Opening 
+ 215 kts 
+ VMC (Minimum Control Speed) 
+ In flight 
+ 83 kts (CAS) 85.3 kts (CAS) 
+ On ground 
+ 83.6 kts (CAS) 86 kts (CAS)"
+CG Range,"Weight (lb) 
+ Forward Limit (% MAC) 
+ Aft"
+Gear Extended,"45,500 
+ 14 
+ 31 
+ 42,000 
+ 14 
+ 31 
+ 20,700 
+ 14 
+ 31 
+ For aircraft incorporating Modification 1196, C.G. range is modified as follows: 
+ Weight (lb) 
+ Forward Limit (% MAC) 
+ Aft Limit (% MAC) 
+ 20,700 
+ 14 
+ 31 
+ 42,000 
+ 14 
+ 31 
+ 46,500 
+ 14 
+ 31 
+ Gear retraction has negligible effect on C.G. Range."
+Datum,"Datum is 25% of mean aerodynamic chord (MAC) which is marked on aircraft 
+ and coincides with fuselage Station (FS) + 420.43 inches. (Fuselage Station + 0 is the 
+ forward end of the aircraft nose cone). 
+ Datum is marked on fuselage of A/C S/N's 1 through 11 only."
+Mean Aerodynamic Chord,"Length 
+ 113.69 in. 
+ Zero % MAC is at FS 
+ + 392 in."
+Leveling Means,Standard bubble-type level to be installed on the passengers seats tracks.
+Weight Limitations,"Maximum Weights 
+ Maximum ramp 
+ 45,700 lb 
+ Maximum takeoff (brake release) 
+ 45,500 lb 
+ Maximum landing 
+ 42,000 lb 
+ Maximum zero fuel 
+ 28,220 lb 
+ Minimum weight 
+ 20,700 lb 
+ For aircraft incorporating DASSAULT Modification 1196, Weight limitations 
+ are modified as follows: 
+ Maximum ramp 
+ 46,700 lb 
+ Maximum takeoff 
+ 46,500 lb 
+ Maximum landing 
+ 42,000 lb 
+ Maximum zero fuel 
+ 30,865 lb 
+ Minimum weight 
+ 20,700 lb"
+Maximum Passengers,19 maximum - limited by emergency exit requirement of FAR 25.807(c) (AMD memo
+See Note 9,"DTM 20164 identifies approved cabin interior for 12 passenger seats). 
+ Ferry flight configuration (0 passenger provisions) is defined by Dassault modification 
+ M3115"
+Crew Seats,The optional third crew seat may be occupied for takeoff and landing.
+Maximum Baggage,"2,866 lb in rear baggage compartment."
+Fuel Capacity,"Nominal - (refer to weight and balance report of each individual airplane for exact 
+ capacity). 
+ Usable Fuel 
+ US Gallons 
+ Pounds 
+ Arm (in) 
+ wing and center wing, LH 
+ 904 
+ 6,058 
+ -12.1 
+ wing and center wing, RH 
+ 904 
+ 6,058 
+ -12.1 
+ Forward and aft fuselage 
+ 1,037 
+ 6,949 
+ -28.2 
+ TOTAL USABLE FUEL 
+ 2,845 
+ 19,065 
+ TOTAL FUEL 
+ 2,863 
+ 19,184 
+ Pressure Fueling 
+ 50 psi maximum."
+Oil Capacity,"Usable, 0.375 US Gallons"
+Each Engine,"Unusable, 2.86 US Gallons (drainable, and trapped oil) side engine arm + 136.7 in., 
+ center engine arm + 272.5 in."
+Maximum Operating Altitude,"51,000 ft."
+Control Surface Movements,"Elevator: 
+ down 
+ 16º 
+ up 
+ 20º 
+ Rudder: 
+ right 
+ 29º 
+ left 
+ 29º 
+ Aileron: 
+ up 
+ 25º20' 
+ down 
+ 24º50' 
+ Flaps: 
+ down 
+ 40º 
+ Airbrakes: 
+ up 
+ 68º 
+ Wing Slats: 
+ internal 20º 
+ external 30º 
+ Stabilizer: 
+ Electrical stops: 
+ Nose down 
+ 2º 
+ Nose up 
+ 10º 
+ Mechanical stops: 
+ Nose down (max) 2º30' 
+ Nose up (max) 
+ 10º30' 
+ Structural stops: 
+ Nose down (min) 2º40' 
+ Nose up (min) 
+ 11º 
+ Rigging tolerances are included in Maintenance Manual."
+"The 900C designation for the Mystere-Falcon 900 does not correspond to a model designation. It is only a commercial 
+ designation for Mystere-Falcon 900 airplanes on which one of the following major modifications are incorporated: 
+ M1975 Avionics upgrade  production 
+ M2695 Avionics upgrade – retrofit 
+ The M1975 and M2695 modifications consists of a complete upgrade of the basic Mystere-Falcon 900 avionics, by installation 
+ of a variant of the Honeywell Primus 2000 suite. M1975 is basic on all Mystere-Falcon 900 aircraft produced from serial 
+ number 179 and subsequent 
+ All parameters listed in the preceding sub-section (a) for the basic Mystere-Falcon 900 remain valid for airplanes which 
+ incorporate M1975 or M2695 
+ III. Model FALCON 900EX (Transport Category Airplane), approved July 19, 1996. 
+ a Basic Model Definition 
+ The Falcon 900EX is defined by Dassault modification M3000 and differs from the Mystere-Falcon 900 in the following major 
+ respects: (i) Allied Signal Engines TFE 731-60 replace TFE 731-5AR-1C or TFE 731-5BR-1C engines; (ii) A new aft fuel tank 
+ is added, and the forward central fuel tank is increased in capacity; (iii) The instrument panel is changed by the installation of a 
+ new avionics suite, including Honeywell Primus 2000 five tube EFIS including autothrottle; (iv) bleed air system is modified by 
+ components, and use of Falcon 2000 type electrical wires; (vi) an increase in maximum weights.",
+Engines,3 engines - Allied Signal Engines TFE 731-60-1C (See Note 3b).
+Engine Limits,"Static, Standard Sea Level 
+ Takeoff (5 min.) 
+ lb 5,000 
+ Maximum Continuous 
+ lb 4,525 
+ Maximum normal operating rotor speeds: 
+ Low pressure rotor (N1) 
+ rpm 21,000 
+ percent 100% 
+ High pressure rotor (N2) 
+ rpm 31,485 
+ percent 100% 
+ Transient conditions*: 
+ 1 second 
+ Low pressure rotor (N1) 
+ 100% 
+ to 
+ 100.5% 
+ High pressure rotor (N2) 
+ 100% 
+ to 
+ 101.5% 
+ * (See Note 7) 
+ Interstage Turbine Temperature (ITT): 
+ During starting 
+ 994C 
+ (1,821F) 
+ Takeoff (5 minutes) 
+ 1022C (1,872F) 
+ (10 sec. Transient*) 
+ 1032C (1,890F) 
+ Maximum Continuous 
+ 991C 
+ (1,816F) 
+ * (See Note 7) 
+ Oil temperature at fan gearbox inlet: 
+ Maximum: 
+ - Sea level to 30,000 ft 
+ 127C 
+ (260F) 
+ - Above 30,000 ft 
+ 140C 
+ (284F) 
+ Maximum transient (2 minutes) 
+ 149C 
+ (300F) 
+ Minimum Continuous 
+ 30C 
+ (86F) 
+ Fuel pressure: 
+ Minimum fuel pressure warning 
+ psig 4.5 
+ Oil pressure limits: 
+ At idle 
+ psig 50 to 80 
+ Takeoff and maximum continuous 
+ psig 65 to 80 
+ Transient (3 minutes maximum) 
+ psig 100"
+APU,"Allied Signal Engines GTCP 36-150(F) 
+ Limitation - Not operable in flight 
+ Rated 
+ Max.allowable 
+ EGT 
+ 720C 
+ 973C 
+ RPM 
+ 102% 
+ 110% 
+ Fuel: 
+ See NOTE 4, and Airplane Flight Manual 
+ Oil: 
+ See NOTE 5b"
+Airspeed Limits,"Unless otherwise indicated, speeds are indicated airspeeds. 
+ VMO (Maximum operating) 
+ Sea level 
+ 350 kt 
+ 10,000 ft 
+ 370 kt (linear variation from 0 to 10,000 ft) 
+ From 10,000 to 25,000 ft 
+ 370 kt 
+ MMO (Weight lower than 35,000 lb) 
+ From 25,000 to 38,000 ft 
+ Mach 0.87 
+ From 38,000 to 42,000 ft 
+ Linear Variation from Mach 0.87 to 0.84 
+ Above 42,000 ft 
+ Mach 0.84 
+ MMO (Weight above 35,000 lb) 
+ From 25,000 to 33,000 ft 
+ Mach 0.87 
+ From 33,000 to 37,000 ft 
+ Linear Variation from Mach 0.87 to 0.84 
+ Above 37,000 ft 
+ Mach 0.84 
+ VA (Maneuvering) 
+ 228 kt 
+ VFE (Slat and flaps speeds) 
+ flaps 7 + slats 
+ 200 kt 
+ flaps 20 + slats 
+ 190 kt 
+ flaps 40 + slats 
+ 180 kt 
+ Landing gear operation 
+ VLO 
+ 190 kt 
+ MLO 
+ Mach 0.70 
+ Landing gear extended 
+ VLE 
+ 245 kt 
+ MLE 
+ Mach 0.75 
+ Windshield wiper operation 
+ 215 kt 
+ Cockpit window opening 
+ 215 kt 
+ Minimum control speed 
+ In flight: 
+ VMCA 
+ 85.2 kt (CAS) 
+ On ground: 
+ VMCG 
+ 88.9 kt (CAS)"
+Without M3020 SB N 1,"Weight 
+ Forward CG limit 
+ Rear CG limit 
+ kg 
+ lb 
+ % CMA 
+ % CMA"
+Minimum weight,"9 390 
+ 20 700 
+ 14 
+ 31"
+Maximum zero fuel weight,"14 000 
+ 30 864 
+ 14 
+ 31"
+Maximum landing weight,"19 051 
+ 42 000 
+ 14 
+ 31 
+ Maximum weight for 31% rear limit 
+ 21 228 
+ 46 800 
+ 14 
+ 31"
+Maximum takeoff weight,"21 908 
+ 48 300 
+ 14 
+ 24,20"
+Maximum ramp weight,"22 000 
+ 48 500 
+ 14 
+ 23,45"
+With M3020 SB N 1,"Weight 
+ Forward CG limit 
+ Rear CG limit 
+ kg 
+ lb 
+ % CMA 
+ % CMA"
+Minimum weight,"9 390 
+ 20 700 
+ 13 
+ 31"
+Maximum zero fuel weight,"14 000 
+ 30 864 
+ 13 
+ 31"
+Maximum landing weight,"20 185 
+ 44 500 
+ 13 
+ 31 
+ Maximum weight for 31% rear limit 
+ 21 228 
+ 46 800 
+ 13 
+ 31"
+Maximum takeoff weight,"22 226 
+ 49 000 
+ 13 
+ 21,35"
+Maximum ramp weight,"22 317 
+ 49 200 
+ 13 
+ 20,50"
+Datum,"Datum is 25% of mean aerodynamic chord (MAC) and coincides with fuselage station 
+ +420.43 inches (Fuselage station +0 is the forward end of the aircraft nose cone). 
+ 13% MAC is 13.66 inches forward of the reference 
+ 14% MAC is 12.52 inches forward of the reference 
+ 31% MAC is 6.81 inches rear of the reference."
+Mean Aerodynamic Chord,"Length 
+ 113.69 inches 
+ Zero % MAC is at FS + 392 inches"
+Leveling Means,Standard bubble type level to be installed on the passengers seats tracks.
+Maximum Passengers,19 maximum.
+See Note 9,"Ferry flight configuration (0 passenger provisions) is defined by Dassault modification 
+ M3116"
+Crew Seats,The optional third crew seat may be occupied for takeoff and landing.
+Maximum Baggage,"2,866 lb in rear baggage compartment."
+Fuel Capacity,"Nominal - (refer to weight and balance report of each individual airplane for exact 
+ capacity). 
+ Usable fuel per engine* 
+ Liters 
+ kg* 
+ US gallons 
+ lb*"
+Engine 1,"Left wing and left front tank, left center tank and left feeder 
+ 3 966 
+ 3 185 
+ 1 048 
+ 7 021"
+Engine 2,"Front tank, rear tank, rear compartment tank and center feeder 
+ 3 857 
+ 3 097 
+ 1 019 
+ 6 828"
+Engine 3,"Right wing and right front tank, right center tank and right feeder 
+ 3 941 
+ 3 165 
+ 1 041 
+ 6 977 
+ Usable – total 
+ 11 764 
+ 9 446 
+ 3 109 
+ 20 825 
+ Fuel – total 
+ 11 854 
+ 9 519 
+ 3 133 
+ 20 986 
+ * Fuel volumic mass: 0,803 kg/l"
+Pressure fueling,50 psi max.
+Oil Capacity,"Usable 
+ 1.01 U.S. Gallons (3.81 - 4.05 quarts)"
+Each engine,"Total 
+ 1.823 U.S. Gallons (6,91 - 7,3 quarts) 
+ Unusable 
+ 0.317 U.S. Gallons (1,21 - 1,25 quart)"
+Maximum Operating Altitude,"51,000 ft."
+Control Surface Movements,"Elevator - up: 
+ 20 
+ Elevator - down: 
+ 16 
+ Rudder - right: 
+ 29 
+ Rudder - left: 
+ 29 
+ Aileron - up: 
+ 2520 
+ Ailerons - down: 
+ 2450 
+ Flaps - down: 
+ 40 
+ Slats - internal: 
+ 20 
+ Slats - external: 
+ 30 
+ Airbrakes - up 
+ 68 
+ Stabilizer 
+ Nose down 
+ Nose up"
+Electrical stops,"2 
+ 10"
+Mechanical stops maximum,"230 
+ 1030"
+Structural stops minimum,"240 
+ 11 
+ Rigging tolerances are included in Maintenance Manual. 
+ (b) Falcon 900EX EASy Definition (Approved November 14, 2003)"
+"EASy designation for Falcon 900EX does not correspond to a model designation. This is only a commercial designation for 
+ airplanes on which a Major modification number M3083 has been embodied. 
+ Major Change Modification number M3083 to the Falcon 900EX consists of the installation of an Enhanced Avionics System 
+ (EASy) based on the Honeywell “Primus EPIC” product line. This system architecture is mainly built around 2 cabinets called 
+ Modular Avionics Units (MAU), 2 Modular Radio Cabinets (MRC), 2 Audio panels, 2 reversionary panels and 4 14.1 inch 
+ Liquid Crystal Displays. The pilots have access to the system using the 2 CCDs with multipurpose knob, menu pushbutton, 
+ 600 
+ All parameters listed in the preceding sub-section (a) for the basic Falcon 900EX remain valid for airplanes which incorporate 
+ M3083 
+ (c) Falcon 900DX Definition (Approved November 3, 2005) 
+ The DX definition of the Falcon 900EX does not correspond to a model designation. The Falcon 900DX is only a commercial 
+ desgination for Falcon 900EX airplanes on which the following modifications are installed at production: 
+ Modification number 
+ Title 
+ Modification number 
+ Title 
+ M3083  M3876 
+ EASy Step 3 Configuration 
+ M4000 
+ Definition of F900DX 
+ M3555 
+ Rear Compartment mod 
+ M3755 
+ Main Battery Relocation 
+ M5047 
+ Feeder Routing in Rear 
+ M5012 
+ Fastener Change in 
+ Comp. 
+ Longitudinal Beams 
+ M5046 
+ FQMC Software Update 
+ M3987 
+ Electronic Checklist for 
+ 900DX 
+ M3083, M3876, M4000, M3555, M3755, M5047, M5012, M5046 and M3987 are basic on all Falcon 900EX aiplanes starting 
+ with serial number 601 and subsequent. 
+ All parameters listed in the preceding sub-sections (a and b) for the Falcon 900EX and EASy designation remain valid for 
+ airplanes which incorporate M3083, M3876, M4000, M3555, M3755, M5047, M5012, M5046 and M3987, except for the 
+ following weight limits and CG changes: 
+ Weight Limits & CG Range for Falcon 900DX, except for s/n 621 and s/n 624 which incorporate M5051 and are the same as the 
+ Falcon 900EX 
+ Falcon 900DX without M5051 
+ Weight 
+ Forward CG limit 
+ Rear CG limit 
+ kg 
+ lb 
+ % CMA 
+ % CMA 
+ Minimum weight 
+ 9 390 
+ 20 700 
+ 14 
+ 31 
+ Maximum zero fuel weight 
+ 14 000 
+ 30 864 
+ 14 
+ 31 
+ Maximum landing weight 
+ 19 142 
+ 42 200 
+ 14 
+ 31 
+ Maximum weight for 31% rear limit 
+ 21 228 
+ 46 800 
+ 14 
+ 31 
+ Maximum takeoff weight 
+ 21 183 
+ 46 700 
+ 14 
+ 24,20 
+ Maximum ramp weight 
+ 21 273 
+ 46 900 
+ 14 
+ 23,45 
+  
+ (d) Falcon 900LX Definition (Approved July 15, 2010) 
+ The LX definition of the Falcon 900EX does not correspond to a model designation. The Falcon 900LX is only a commercial 
+ designation for the Falcon 900EX on which modifications M5281 and M5535 (winglets) have been installed at production. 
+ All parameters listed in the preceding sub-section (b) above for the Falcon 900EX EASy remain valid for airplanes which 
+ incorporate M5281 and M5535 
+ IV. DATA PERTINENT TO ALL MODELS.",
+Fuel,"- Fuels conforming to Allied Signal Engine Company Specifications: 
+ (See NOTE 4). 
+ EMS 53111 (Type JET A) 
+ EMS 53112 (Type JET A 1) 
+ EMS 53113 (Type JET B and JP4) 
+ EMS 53116 (Type JP5)"
+Oil,"- Oils conforming to Allied Signal Engine Company Specifications EMS 53110, 
+ Class B, Type 2. 
+ - (See NOTE 5a)."
+Minimum Crew,2 - Pilot and co-pilot.
+Serial Numbers Eligible,"A French ""Certificat de Navigabilite pour Exportation"" endorsed as note under ""Import 
+ Requirements"" must be submitted for each individual aircraft for which application for 
+ US certification is made. 
+ Serial Numbers: 
+ For MYSTERE FALCON 50: Aircraft serial number 1 (s/n 2 See DGAC 
+ TCDS 163) through 250, and serial number 252. Serial number 251, 253 and 
+ subsequent are FALCON 50EX definition 
+ For MYSTERE FALCON 900: Aircraft serial number 1 (s/n 3 See DGAC 
+ TCDS 163) and Followings. Serial number 179 and subsequent include 
+ M1975 as standard (F900C definition). 
+ For FALCON 900EX: Aircraft serial number 1 through 119 except 97. Serial 
+ numbers 97, 120 through 600 include M3083 as standard (F900EX EASy 
+ definition). Aircraft serial number 601 and subsequent include M3083, 
+ M3876, M4000, M3555, M3755, M5047, M5012, M5046 and M3987 as 
+ standard (F900DX definition). Aircraft serial number 240 and subsequent 
+ include M5281 and M5535 as standard (F900LX definition)."
+Import Requirements,"Refer to the applicable bilateral agreement to verify eligibility for import into the United 
+ States of both new and used aircraft based on the scope of the agreement, to identify any 
+ required statements by the exporting authority on the export certificate of airworthiness 
+ (or equivalent document), and for procedures for coordinating exceptions to conformity 
+ statements on these documents. Refer to FAA Order 8130.2, Airworthiness Certification 
+ of Aircraft, for requirements for issuance of an airworthiness certificate for imported 
+ aircraft."
+Certification Basis,"(a) For MYSTERE - FALCON 50 (basic model): 
+ FAR 21.29; FAR Part 25, dated February 1st, 1965, including amendments No. 25-1 
+ through 25-34 and, 
+ Para 25.255 of amendment 25-42 
+ Para 25.979 (d) and (e) as amended per amendment 25-38 
+ Para 25.1013 (b)(1) as amended per amendment 25-36 
+ Para 25.1351 (d) as amended per amendment 25-41 
+ Para 25.1353 (c)(6) as amended per amendment 25-42 
+ FAA Special Conditions No. 25-86-EU-24 dated March 6, 1979 
+ Special Condition No. 25‐712‐SC, Non‐Rechargeable Lithium Batteries, effective to 
+ design changes applied for after January 18, 2018. See the applicability section of 
+ this special condition for more information on which design changes must meet it. 
+ FAR Part 36, through amendment 36-9 
+ SFAR 27, through amendment SFAR 27-1 (fuel venting) 
+ Reference date of application for Type Certificate: 14 November 1973. 
+ (b) For MYSTERE - FALCON 50 airplanes incorporating Dassault modifications 
+ (Falcon 50EX definition): 
+ M1200: Increase of rudder control authority 
+ M1810: new engines - assembly line configuration - TFE 731-40 
+ M1890: New Avionics 
+ M1939: new engine control EIED 
+ M1940: Bleed Air System Computer 
+ Or associated retrofit modifications: 
+ M2017: new engines – retrofit TFE 731-40-1C 
+ M1924: new avionics - retrofit 
+ (1) For parts of the airplane not changed or not affected by the modifications: 
+ Unchanged from basic Mystere-Falcon 50 
+ (2) For those parts of the airplane that are changed or are affected by the 
+ modifications M1200, M1810, M1890, M1939, M1940, M2017, M1924: 
+ The certification basis includes, in addition to the certification basis of record 
+ indicated above in (b)(1), the following sections as amended by the indicated 
+ amendments:"
+Section,"Amend. 
+ Title 
+ Section 
+ Amend. 
+ Title"
+252,"25-72 
+ Special retroactive req’mts 
+ 25.1143 
+ 25-57 
+ Engine controls"
+25207,"25-42 
+ Stall warning 
+ 25.1145 
+ 25-40 
+ Ignition switches"
+25305,"25-77 
+ Strength and deformation 
+ 25.1163 
+ 25.57 
+ Powerplant accessories"
+25307,"25-54 
+ Proof of structure 
+ 25.1165 
+ 25-72 
+ Ignition systems"
+25331,"25-72 
+ Maneuver and gust loads 
+ 25.1181 
+ 25-72 
+ Fire zones"
+25341,"25-72 
+ Gust loads 
+ 25.1183 
+ 25-57 
+ Flammable fluid carrying 
+ components"
+25343,"25-72 
+ Fuel and oil loads 
+ 25.1195 
+ 25-46 
+ Fire extinguishing systems"
+25345,"25-72 
+ High lift devices 
+ 25.1197 
+ 25-40 
+ Fire extinguishing agents"
+25351,"25-72 
+ Yawing conditions 
+ 25.1303 
+ 25-38 
+ Flight and navigation 
+ instruments"
+25361,"25-72 
+ Engine torque 
+ 25.1305 
+ 25-36 
+ Powerplant instruments 
+ 25.1307 
+ 25-72 
+ Miscellaneous equipment"
+25571,"25-72 
+ Damage tolerance 
+ 24.1309 
+ 25-41 
+ Equipment, systems and 
+ installations 
+ 25.1316 
+ 25-80 
+ Lightning protection"
+25603,"25-46 
+ Materials 
+ 25.1321 
+ 25-41 
+ Instruments arrangement"
+25605,"25-46 
+ Fabrication methods 
+ 25.1322 
+ 25-38 
+ Warning, caution and advisory 
+ lights"
+25613,"25-72 
+ Material strength properties 
+ 25.1323 
+ 25-57 
+ Airspeed indicating system"
+25693,"25-72 
+ Joints 
+ 25.1325 
+ 25-41 
+ Static pressure systems"
+25729,"25-75 
+ Retracting mechanism 
+ 25.1326 
+ 25-43 
+ Pitot heating indicating systems"
+25773,"25-72 
+ Pilot Compartment view 
+ 25.1329 
+ 25-46 
+ Automatic pilot system"
+25777,"25-46 
+ Cockpit controls 
+ 25.1331 
+ 25-41 
+ Instruments using a power 
+ supply"
+25779,"25-72 
+ Motion and effect of cockpit 
+ 25.1333 
+ 25-41 
+ Instrument systems 
+ controls"
+25781,"25-72 
+ Cockpit control knob shape 
+ 25.1335 
+ 25-41 
+ Flight director systems"
+25807,"25-72 
+ Passenger emergency exits 
+ 25.1337 
+ 25-40 
+ Powerplant instruments 
+ 25.1381 
+ 25-72 
+ Instrument lights"
+25831e,"25-41 
+ Ventilation 
+ 25.1438 
+ 25-41 
+ Pressurization systems"
+25863,"25-46 
+ Flammable fluid fire protect. 
+ 25.1501 
+ 25-42 
+ Operating limitations"
+25869,"25-72 
+ Fire protection: systems 
+ 25.1521 
+ 25-72 
+ Powerplant limitations"
+25901,"25-40 
+ Powerplant installation 
+ 25.1529 
+ 25-54 
+ Instructions for continued 
+ airworthiness"
+25939,"25-40 
+ Engine operating characteristics 
+ 25.1543 
+ 25-72 
+ Instrument markings"
+25943,"25-40 
+ Negative acceleration 
+ 25.1551 
+ 25-72 
+ Oil quantity indication"
+251013,"25-72 
+ Oil tanks 
+ 25.1557 
+ 25-72 
+ Miscellaneous markings"
+251015,"25-36 
+ Oil tank tests 
+ 25.1581 
+ 25-72 
+ Flight manual"
+251019,"25-57 
+ Oil strainer or filter 
+ 25.1583 
+ 25-72 
+ Operating limitations"
+251021,"25-57 
+ Oil system drains 
+ 25.1585 
+ 25-46 
+ Operating procedures"
+251041,"25-38 
+ Cooling - general"
+251091,"25-57* 
+ Air induction"
+251121,"25-40 
+ Exhaust system - general 
+ * NOTE: applicable for nacelles mounted on the fuselage sides 
+ 2. 
+ 14 CFR Part 36, effective December 1, 1969, as amended by Amendments 
+ 36-1 through 36-20. 
+ 3. 
+ 14 CFR Part 34, original issue. 
+ 4. 
+ Special Condition No. 25-ANM-115 HIRF 
+ Special Condition No. 25‐712‐SC, Non‐Rechargeable Lithium Batteries, effective to 
+ design changes applied for after January 18, 2018. See the applicability section of 
+ this special condition for more information on which design changes must meet it. 
+ 5. 
+ FAA Exemption No. 6451 for 25.571(e)(1), Amendment 25-72, Bird Strike Speed. 
+ 6. 
+ Equivalent safety findings for the following requirements: 
+ N2 Digital Only Indication (refer to Issue Paper P-6) 
+ 7. 
+ Compliance will be shown to the following optional requirements: 
+ - Ditching: § 25.801 Amendment 25-72 
+ - Ice Protection : § 25.1419 Amendment 25-72 
+ Reference date of application for design change is September 19, 1994. 
+ (c) For the MYSTERE - FALCON 900: 
+ - FAR Part 25, Amendment 25-1 through 25-56, except for the following sections 
+ which are complied with as amended through the noted Amendments. 
+ 25.107 - Amdt 25-38 
+ - Take-off speeds 
+ 25.109 - Amdt 25-34 
+ - Accelerate-stop distance 
+ 25.111 - Amdt 25-34 
+ - Take-off path 
+ 25.149 - Amdt 25-34 
+ - Minimum control speed 
+ 25.629 - Amdt 25-45 
+ - Flutter, deformation and fail safe 
+ criteria 
+ 25.933 - Amdt 25-38 
+ - Reversing systems 
+ 25.997 - Amdt 25-34 
+ - Fuel strainer or filter 
+ 25.1019 - Amdt 25-34 
+ - Oil strainer or filter 
+ 25.1093 - Amdt 25-34 
+ - Induction system deicing and 
+ anti-icing provisions 
+ 25.1141 - Amdt 25-34 
+ - Powerplant controls - General 
+ 25.1167 - Amdt 25-34 
+ - Accessory gearboxes 
+ 25.1305 – Amdt 25-34 
+ - Powerplant instruments 
+ - Special condition SC 25-ANM-8 High Altitude Operation 
+ - Special Condition No. 25‐712‐SC, Non‐Rechargeable Lithium Batteries, effective 
+ to design changes applied for after January 18, 2018. See the applicability section of 
+ this special condition for more information on which design changes must meet it. 
+ - SFAR 27, Amendments 27.1 through 27.5. (Fuel Venting) 
+ - FAR Part 36, Amendments 36.1 through 36.12. 
+ - Equivalent safety findings exist with respect to the following regulations: 
+ FAR Part 25.811(e)(3) Type III Exit Handle Illumination 
+ FAR Part 25.903(b) 
+ Engine Isolation 
+ - Advisory circular 120.29 change 3 criteria for approving Category I and 
+ Category II landing minima for FAR 121 operators. 
+ Compliance has been shown the following optional requirements. 
+ DITCHING; FAR 25.801 – Amdt 25-72 
+ (overwater operation may be approved when the aircraft is equipped and installation 
+ approved to FAR 25.801). 
+ ICE PROTECTION; FAR 25.1419 – Amdt 25-72 
+ Reference date of application for Amendment to Type Certificate is Febuary 12, 
+ 1982 
+ (d) For Mystere-Falcon 900 airplanes incorporating Dassault modifications M1975 or 
+ M2695 (Falcon 900C definition): 
+ (1) For parts of the airplane not changed or not affected by the modifications: 
+ Unchanged from basic Mystere-Falcon 900 certification basis 
+ (2) For those parts of the airplane that are changed or are affected by the 
+ modifications M1975 or M2695, the certification basis includes, in addition to 
+ the certification basis of record indicated above in (d)(1), the following 
+ sections as amended by the indicated amendments: 
+ - 14 CFR part 25, including Amendments 25-1 through 25-91, except for sections 
+ 25.1305(c)(8) and 25.1305(d)(3), which are complied with as amended through 
+ Amendments 25-1 through 25-34. 
+ - 
+ Special Condition 25-ANM-115 High Intensity Radiated Fields (HIRF) 
+ - 
+ Special Condition No. 25‐712‐SC, Non‐Rechargeable Lithium Batteries, effective to 
+ design changes applied for after January 18, 2018. See the applicability section of 
+ this special condition for more information on which design changes must meet it. 
+ - 
+ An equivalent level of safety finding was established with respect to the following 
+ regulation: 
+ Section 25.1549 Digital only display of engine high pressure rotor speed (issue 
+ paper P-1) 
+ - 
+ For precision approaches and landings, the applicable technical requirements are 
+ complemented by FAA advisory circulars AC 120-29 and AC 120-28C. 
+ - 
+ For the TCAS, the applicable technical requirements are complemented by FAA 
+ advisory circular AC 20-131A. 
+ Reference date of application for design change is February 8, 1998. 
+ (e) For the FALCON 900EX: 
+ 1. 
+ (a) For parts of the airplane not changed or not affected by the modification 
+ M3000 (Falcon 900EX definition): 
+ 14 CFR Part 25, effective February 1, 1965, including amendments 25-1through 25- 
+ 56, except for the following sections which are complied with as amended through 
+ the noted Amendments 
+ 25.629 Amdt. 25-45 
+ Flutter, deformation and fail safe criteria 
+ 25.997 Amdt. 25-36 
+ Fuel strainer or filter 
+ 25.1141 Amdt. 25-40 
+ Powerplant controls - General 
+ (b) For those parts of the airplane that are changed or are affected by the 
+ modification M3000: 
+ 14 CFR Part 25, effective February 1, 1965, including amendments 25-1 
+ through 25-77, except for the following sections which are complied with 
+ as amended through the indicated Amendments: 
+ 25.109 
+ Amdt. 25-0 
+ Accelerate-stop distance 
+ 25.933 
+ Amdt 25-38 
+ Reversing system 
+ 25.1093 
+ Amdt 25-0 
+ Air intake system de-icing 
+ and anti-icing provisions 
+ 25.1316 
+ Amdt. 25-80 
+ Lightning Protection 
+ 2. 
+ 14 CFR Part 36 , effective December 1, 1969, as amended by Amendments 
+ 36-1 through 36-20. 
+ 3. 
+ 14 CFR Part 34, original issue. 
+ 4. 
+ Special Condition No. 25-ANM-8 
+ High Altitude Operation 
+ Special Condition No. 25-ANM-115 
+ HIRF 
+ Special Condition No. 25‐712‐SC 
+ Non‐Rechargeable Lithium Batteries, 
+ effective to design changes applied for after January 18, 2018. See the applicability 
+ section of this special condition for more information on which design changes must 
+ meet it. 
+ 5. 
+ FAA Exemption No. 6451 for 25.571(e)(1), Amendment 25-72, Bird Strike 
+ Speed. 
+ 6. 
+ Equivalent safety findings for the following requirements: 
+ Section 25.1549 N2 Digital Only Indication (refer to Issue Paper P-6) 
+ 7. 
+ Compliance is shown to the following optional requirements: 
+ - Ditching: § 25.801 Amendment 25-72 
+ - Ice Protection : § 25.1419 Amendment 25-72 
+ 8. 
+ Miscellaneous 
+ - For precision approaches and landings, the applicable technical 
+ requirements are complemented by FAA Advisory Circular (AC) 
+ 120-29 and AC 120-28(c). 
+ - For the automatic flight control system, the applicable technical 
+ requirements are complemented by AC 25-1329-1A for cruise. 
+ Reference date of application for amendment to type certificate is March 3, 1993 
+ (f) For FALCON 900EX airplanes incorporating Dassault modification M3083 (Falcon 
+ 900EX EASy definition): 
+ 1. 
+ (a) For parts of the airplane not changed or not affected by modification M3083: 
+ Unchanged from basic Falcon 900EX certification basis 
+ (b) For those parts of the airplane that are changed or are affected by the 
+ modification M3083: 
+ 14 CFR Part 25, effective February 1, 1965, including amendments 25-1 
+ through 25-98, except for the following sections which are complied with 
+ as amended through the indicated Amendments: 
+ 25.1351 
+ Amdt. 25-41 
+ General 
+ 25.1353 
+ Amdt. 25-42 
+ Electrical Equipment and 
+ Installations 
+ 25.1355 
+ Amdt. 25-38 
+ Distribution System 
+ 2. 
+ 14 CFR Part 36 , effective December 1, 1969, as amended by Amendments 
+ 36-1 through 36-20. 
+ 3. 
+ 14 CFR Part 34, original issue. 
+ 4. 
+ Special Condition No. 25-ANM-8 High Altitude Operation 
+ Special Condition No. 25-ANM-115 HIRF 
+ Special Condition No. 25‐712‐SC Non‐Rechargeable Lithium Batteries, 
+ effective to design changes applied for after January 18, 2018. See the applicability 
+ section of this special condition for more information on which design changes must 
+ meet it. 
+ 5. 
+ FAA Exemption No. 6451 for 25.571(e)(1), Amendment 25-72, Bird Strike 
+ Speed. 
+ 6. 
+ Equivalent safety findings for the following requirements: 
+ Section 25.1549 N2 Digital Only Indication (refer to Issue Paper P-6) 
+ Section 25.813(c)(2) Emergency Exit Access (documented in TAD ELOS Memo 
+ AT10291IB-T-C-101) 
+ Section 25.809(b) and 25.813(c)(2)(ii) - Emergency Exit Access (documented in 
+ TAD ELOS Memorandum AT10010IB-T-CI-101) 
+ 25.813(c)(2) “Emergency Exit Access” (documented in TAD ELOS Memo 
+ SP00843IB-T) 
+ 7. 
+ Compliance is shown to the following optional requirements: 
+ - Ditching: § 25.801 Amendment 25-72 
+ - Ice Protection : § 25.1419 Amendment 25-72 
+ 8. 
+ Miscellaneous 
+ - For precision approaches and landings, the applicable technical 
+ requirements are complemented by FAA Advisory Circular (AC) 
+ 120-29 and AC 120-28(c). 
+ - For the automatic flight control system, the applicable technical 
+ requirements are complemented by AC 25-1329-1A for cruise. 
+ Reference date of application for design change M3083 is November 8, 1999. 
+ (g) For Falcon 900EX airplanes incorporating Dassault modification M4000 (F900DX): 
+ See (f) above. 
+ (h) For Falcon 900EX airplanes incorporating Dassault modification M5281 (F900LX): 
+ 1. 
+ (a) For parts of the airplane not changed or not affected by modification M5281: 
+ Unchanged from basic Falcon 900EX certification basis 
+ (b) For those parts of the airplane that are changed or are affected by the 
+ modification M5281: 
+ Based on the application date of September 14, 2006, for Modification M5281, 
+ under the provisions of Federal Aviation Regulation 14 CFR 21.101, the 
+ applicable type certification standards for the modification to the Model Falcon 
+ 900EX series are as follows: 
+ 14 CFR Part 25, effective February 1, 1965, including amendments 25-1 
+ through 25-119, except for the following sections which are complied with 
+ as amended through the indicated Amendments: 
+  
+ 14 CFR part 25 paragraphs at Amendment 34 
+ 25.1093 and 25.1141 (except (a) and (f)) 
+  
+ 14 CFR part 25 paragraphs at Amendment 38 
+ 25.933 
+  
+ 14 CFR part 25 paragraphs at Amendment 45 
+ 25.629 
+  
+ 14 CFR part 25 paragraphs at Amendment 56 
+ 25.361 to 25.367, 25.399 to 25.409, 25.495 to 25.511, 25.561, 25.562, 
+ 25.563, 25.621, 25.655, 25.657, 25.675, 25.679 to 25.697, 25.701, 
+ 25.721, 25.723, 25.729 (except (e)), 25.731 to 25.745, 25.772, 
+ 25.773(b)(c), 25.775, 25.779, 25.783(except (e)), 25.785, 25.787, 25.793, 
+ 25.801 to 25.811, 25.812 (except (f)), 25.813, to 25.833, 25.841 (except 
+ (b)(5)(6)), 25.843 to 25.859, 25.863 (except (c)), 25.871, 25.875, 25.901 
+ (except (c)), 25.903 (except (d)(2)), 25.905 to 25.929, 25.934, 25.937, 
+ 25,939, 25.941 to 25.961, 25.963 (except (e)), 25.965 to 25.994, 25.999 
+ to 25.1017, 25.1021 to 25.1027, 25.1041 (except (f)), 25.1043 to 25.1091, 
+ 25.1103 to 25.1127, 25.1143, 25.1145 (c), 25.1149 to 25.1165, 25.1181 
+ to 25.1201, 25.1207, 25.1337 (except (b)(d)), 25.1351, 25.1353, 25.1362, 
+ 25.1363, 25.1383, 25.1403 to 25.1415, 25.1421, 25.1433, 25.1435 
+ (except (a)(2)), 25.1436 to 25.1455, 25.1461, 25.1503 to 25.1521, 
+ 25.1525, 15.1527, 25.1531, 25.1533, 25.1557, 25.1561, 25.1583, and 
+ 25.1587 
+  
+ 14 CFR part 25 paragraphs at Amendment 72 
+ 25.1419 
+  
+ 14 CFR part 25 paragraphs at Amendment 77 
+ 25.145, 25.149, 25.201, 25.203, 25.233, 25.253, 25.901 (c), 25.963 (e), 
+ 25.997, 25.1019, 25.1167 
+  
+ 14 CFR part 25 paragraphs at Amendment 98 
+ 25.1 to 25.33; 25.147; 25.171; 25.173; 25.175; 25.177; 25.181; 25.207; 
+ 25.231; 25.235; 25.237; 25.671; 25.672; 25.677; 25.699; 25.703; 25.729 
+ (f); 25.771; 25.773 (a) (d); 25.783 (e); 25.789; 25.791; 25.812 (f); 25.841 
+ (b)(5) (b)(6); 25.863 (c); 25.869; 25.899; 25.903 (d)(2); 25.1141 (a) (f); 
+ 25.1145 (a) (b); 25.1203; 25.1301; 25.1303; 25.1305; 25.1307; 
+ 25.1309;25.1321; 25.1322; 25.1323; 25.1325; 25.1326; 25.1327; 
+ 25.1329; 25.1331; 25.1333; 25.1335; 25.1337 (b) (d); 25.1351; 25.1353; 
+ 25.1355; 25.1357; 25.1360; 25.1381; 25.1435 (a)(2); 25.1457; 25.1459; 
+ 25.1501; 25.1523; 25.1529; 25.1541; 25.1543; 25.1545; 25.1547; 
+ 25.1549; 25.1551; 25.1553; 25.1555; 25.1563; 25.1585 
+  
+ 14 CFR part 25 paragraphs at Amendment 144 
+ 25.773(e) : « Pilot compartment view » For FalconEye System 
+ Installations. 
+ 2. 
+ 14 CFR Part 36 , effective December 1, 1969, as amended by Amendments 
+ 36-1 through 36-28. 
+ 3. 
+ 14 CFR Part 34, original issue. 
+ 4. 
+ Special Condition No. 25-ANM-8 High Altitude Operation 
+ Special Condition No. 25-ANM-115 HIRF 
+ Special Condition No. 25‐712‐SC Non‐Rechargeable Lithium Batteries, 
+ effective to design changes applied for after January 18, 2018. See the applicability 
+ section of this special condition for more information on which design changes must 
+ meet it. 
+ 5. 
+ FAA Exemptions: Existing exemptions apply and No. 109332 for 25.629(d)(9) 
+ Amdt 25-45 and 25.671(c)(2) Amdt 25-56. 
+ 6. 
+ Equivalent safety findings for the following requirements: 
+ Section 25.1419 – Ice Protection (documented in TAD ELOS Memo TD0710IB-T- 
+ S-101) 
+ Reference date of application for design change M5281 is September 14, 2006. 
+ The Direction Generale de l'Aviation Civile (D.G.A.C.) of France originally type 
+ certificated this aircraft under its type certificate Number 163. The FAA 
+ validated this product under U.S. Type Certificate Number A46EU. Effective 
+ September 28, 2003, the European Aviation Safety Agency (EASA) began 
+ oversight of this product on behalf of the D.G.A.C.."
+Type Definition,"For the Mystere-Falcon 50, the type definition is in Note DTM 800, Revision G 
+ For the Mystere-Falcon 900, the type definition is in Note DTM 20.078, Revision C 
+ For the Falcon 900EX, the type definition is in Modification M3000, Revision B3 of 
+ Mystere-Falcon 900"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (See Certification Basis) must be installed on the aircraft for certification. The lists of all 
+ equipment as well as optional equipment approved by Direction Generale de l'Aviation 
+ Civile (DGAC) of France are contained: 
+ For the MYSTERE - FALCON 50, in the AMD-BA memos No. DTM 380075/91 and 
+ DTM 4510/78 
+ For the MYSTERE - FALCON 900, in the AMD-BA memos No. DTM 5100/84 and 
+ DTM 5257/84 
+ For the FALCON 900EX, in the Dassault Aviation memo No. DTM 35-3287/95 
+ In addition, the following is required: 
+ (a) 
+ For the MYSTERE - FALCON 50: 
+ DGAC approved FALCON 50 Airplane Flight Manual, Document DTM-813 
+ approved September 9, 1988, as of revision 24 and subsequent - 
+ It supersedes DTM 884 which must no longer be used. 
+ For the MYSTERE - FALCON 50, s/n 253 and subsequent (Falcon 50 EX 
+ definition): DGAC approved FALCON 50 Airplane Flight Manual, Document 
+ DTM-813EX revision 1 approved December 20, 1996 
+ For the MYSTERE - FALCON 900: 
+ DGAC approved FALCON 900 Airplane Flight Manual, Document DTM 
+ 20103 approved June 6, 1986. 
+ For the Mystere-Falcon 900, s/n 179 and subsequent (F900C definition): 
+ DGAC approved Falcon 900 Airplane Flight Manual, Document FM900C 
+ approved 15 June 1999 
+ For the FALCON 900EX s/n 1 through 119 except 97: 
+ DGAC approved Airplane Flight Manual, Document DTM 561 Revision 1, 
+ approved July 16, 1996. 
+ For the FALCON 900EX serial numbers 97, 120 and subsequent (F900EX 
+ EASy definition): 
+ DGAC approved Airplane Flight Manual, Document DGT84972 approved 
+ November 13, 2003. 
+ (b) 
+ Nose wheel must be equipped with a chined tire."
+Service Information,"Each of the documents listed below that contain a statement that it is approved by the 
+ European Aviation Safety Agency (EASA) - or for approvals made before September 28, 
+ 2003 - by the the Direction Generale de l'Aviation Civile (D.G.A.C.) of France, are 
+ accepted by the FAA and are considered FAA approved. Additionally, approvals issued 
+ by Dassault Aviation under the authority of EASA approved Design Organization 
+ EASA.21J.051 - or for approvals made before September 28, 2003 - under the authority 
+ of DGAC Design Organization Approval No. No. F.JA.03 are considered FAA 
+ approved. These approvals pertain to the type certificate only such as changes to type 
+ design and repair/unrepair of damages. 
+ • Dassault Aviation Service Bulletins, except as noted below, 
+ • Structural repair manuals, 
+ • Vendor manuals referenced in Dassault Aviation service bulletins 
+ • Aircraft flight manuals, 
+ • Repair Instructions. 
+ Note: Design changes that are contained in Dassault Aviation Service Bulletins and that 
+ are classified as Level 1 Major in accordance with either the US/Direction Generale de 
+ l'Aviation Civile (D.G.A.C.) of France or US/EASA Bilateral Aviation Safety Agreement 
+ Implementation Procedures for Airworthiness must be approved by the FAA."
+NOTE 1,"Weight and Balance 
+ (a) Current weight and balance report, including list of equipment in certified empty 
+ weight and loading instructions must be provided for each aircraft at delivery. 
+ (b) The following must be included in the airplane empty weight: 
+ (1)For the MYSTERE - FALCON 50: 
+ The total unusable fuel (92.6 lb) listed as follows, plus unusable oil (54 lb), plus 
+ hydraulic fluid (106 lb at + 93.3 in.) 
+ UNUSABLE FUEL 
+ US GALLONS 
+ POUNDS 
+ ARM (in) 
+ Drainable: 
+ Left Wing 
+ 0.8 
+ 5.3 
+ -7.87 
+ Center Wing 
+ 0.5 
+ 3.5 
+ -7.87 
+ Right Wing 
+ 0.8 
+ 5.3 
+ -7.87 
+ Left fuselage 
+ 0.7 
+ 4.4 
+ +70.87 
+ Center fuselage 
+ 0.5 
+ 3.5 
+ +70.87 
+ Right fuselage 
+ 0.7 
+ 4.4 
+ +70.87 
+ UNUSABLE FUEL 
+ US GALLONS 
+ POUNDS 
+ ARM (in) 
+ Trapped Fuel: 
+ Tanks and fuel lines: 
+ 9.8 
+ 65.4 
+ +14.77 
+ TOTAL UNUSABLE FUEL 13.8 
+ 91.8 
+ (2) For the MYSTERE - FALCON 900: 
+ The total unusable fuel 119 (lbs.) listed as follows, plus unusable oil 73.6 (lbs.), plus 
+ hydraulic fluid (106 lbs. at +79.57 in.). 
+ UNUSABLE FUEL 
+ US GALLONS 
+ POUNDS 
+ ARM (in) 
+ Drainable: 
+ Wing and center wing, LH 
+ 3.03 
+ 20.3 
+ -35.33 
+ Wing and center wing, RH 
+ 2.34 
+ 15.7 
+ -35.33 
+ Forward and aft fuselage 
+ 2.30 
+ 15.4 
+ +20.20 
+ Trapped Fuel: 
+ Tanks and fuel lines: 
+ 10.20 
+ 68.3 
+ -44.13 
+ TOTAL UNUSABLE FUEL 17.86 
+ 119.7 
+ (3) For the FALCON 900EX: 
+ The total unusable fuel (114 lbs, at -21.2 in.), plus the unusable oil (42 lbs), plus hydraulic 
+ Fluid (106 lbs. At + 79.57 in. 
+ Unusable fuel per engine 
+ Liters 
+ Kg 
+ US Gallons 
+ lb"
+Drainable,"21.4 
+ 17.2 
+ 6 
+ 38"
+Engine 1 left circuit,"19.8 
+ 15.9 
+ 5 
+ 35"
+Engine 2 center circuit,"23 
+ 18.5 
+ 6 
+ 41"
+Non drainable,"26 
+ 21 
+ 7 
+ 46"
+Tanks and pipes,"Unusable – total 
+ 90 
+ 73 
+ 24 
+ 160 
+ (c) The airplane must be loaded in accordance with the Falcon 50 Performance Manual, 
+ Section 2, or the Falcon 900 Loading Manual, Loading Instructions, as applicable, 
+ and the C.G. must be within the specified limits at all times."
+NOTE 2,Reserved.
+NOTE 3,"Service Life Limits and required Maintenance/Inspections. 
+ a. 
+ Airframe components which are life limited, and associated retirement times, are 
+ presented in DGAC approved Chapter 5.40.00 of the FALCON 50 or FALCON 900 
+ and 900EX Maintenance Manual, and must be replaced as indicated therein. 
+ b. 
+ Engine Life Limited parts are listed in FAA-approved Allied Signal Service Bulletin 
+ TFE 731 72-3001. 
+ c. 
+ Required Maintenance and Inspections to maintain airworthiness based on/involving 
+ reliability are presented in DGAC approved Chapter 5.40.00 of the Falcon 50 or 
+ Falcon 900 and 900EX Maintenance Manual. 
+ Chapter 5-40 references: 
+ MF50/F50EX : Airworthiness Limitation Section (Chapter 5-40, reference: 
+ DGT 113872) 
+ MF900/F900C : Airworthiness Limitation Section (Chapter 5-40, reference: 
+ DGT113873) 
+ F900EX : Airworthiness Limitation Section (Chapter 5-40, reference: DGT113874) 
+ F900EX Easy/DX/LX: Airworthiness Limitation Section (Chapter 5-40, reference: 
+ DGT113875)"
+NOTE 4,"Fuel Specifications and Additives: 
+ a. 
+ For information concerning equivalent fuel specifications see Airplane Flight Manual. If 
+ a different type of fuel is used, or a mixture of fuels are used, the engine computer must 
+ be adjusted in accordance with the TFE 731-3,or TFE 731-5, or TFE 731-40, or TFE 
+ 731-60 Maintenance Manual (as applicable) to adapt the computer to the density of the 
+ fuel used in order to preserve both the starting, and the acceleration deceleration 
+ characteristics of the engine. 
+ b. 
+ ADDITIVES 
+ For the TFE 731 engine, the GTCP 36-100 and GTCP 36-150 auxiliary power unit 
+ the following additives limitations are approved: 
+ - Anti-Icing Additive, conforming to AIR 3652 or 
+ - MIL-I-27686D or E, (JP-4/JP-8) or to MIL-I-85470 (JP-5) or equivalent are 
+ approved for use in fuel in amounts up to 0.15 percent by volume. 
+ - SOHIO Biobor JF biocide additive, or equivalent, is approved for use in the fuel 
+ at a concentration not to exceed 270 PPM - 
+ - Antistatic additive, provided the quantity added does not exceed 1 PPM for SHELL 
+ ASA 3 and 3 PPM for STADIS 450."
+NOTE 5,"Qualified Oils: 
+ a. 
+ Allied Signal Turbine Engine Company Service Information Letters give brand names 
+ of oils conforming to Specification EMS 53110, Class B, Type 2. 
+ b. 
+ Brand names of oils approved for use in the APU are listed in the GTCP 36-100 or 
+ GTCP 36-150 Maintenance Manual as applicable."
+NOTE 6,"For the MYSTERE - FALCON 50, 
+ Installation of the AiResearch Model GTCP 36-100(A) turbine auxiliary power unit is an 
+ approved optional installation and may be installed subsequent to airplane delivery in 
+ accordance with AMD-BA Service Bulletin No. FALCON 50-0002."
+NOTE 7,"If these transient limits are exceeded refer to engine Maintenance Manual for corrective 
+ action."
+NOTE 8,"Effective June 19, 1990 the name of AVIONS MARCEL DASSAULT-BREGUET 
+ AVIATION changed to DASSAULT AVIATION. The new name will appear as of this date 
+ on all documents and nameplates. However, documents bearing the old name remain valid 
+ and will be updated when and where necessary."
+NOTE 9,"The cabin interior arrangements must comply with the FAA certification basis. General 
+ specification for cabin interior completions are covered by the document DTM 802-30 for 
+ Mystere-Falcon 50 airplanes, and by DTM 20-167 for Mystere-Falcon 900 and Falcon 900EX 
+ airplanes. These specifications mainly cover the gust and forced landing load factors. 
+ For the Mystere-Falcon 900 and Falcon 900EX, DGAC France has granted an equivalent 
+ safety finding for FAR 25.813(e) to allow cabin interior doors. This equivalent safety finding 
+ is not included in the FAA certification basis and is therefore not valid for US registered 
+ airplanes."
+NOTE 10,"The modifications MF50 M2210 (from serial number 263), MF900 M2440 (from serial 
+ number 165), F900EX M2458 (from serial number 015) have been approved to operate in 
+ ""Reduced Vertical Separation Minimun"" airspace. Continued airworthiness and operational 
+ approval aspects of RVSM must be constructed according to advisory circular 91- RVSM. 
+ Aircraft RVSM capability remains valid after further incorporation of any DGAC approved 
+ Dassault Aviation Modification."
+NOTE 11,"An approved change to the AFM and ALS can be released either through a full revision of the 
+ manual or through a Change Project (CP) number bearing the same reference as the related 
+ manual."

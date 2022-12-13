@@ -1,0 +1,452 @@
+Keyterm,Info
+"A00066CE 
+ Revision 7 
+ Costruzioni Aeronautiche Tecnam S.P.A. 
+ P2010 
+ P2010 TDI 
+ March 15, 2022",
+Type Certificate Holder,"Costruzioni Aeronautiche Tecnam S.P.A. 
+ Via S. D’acquisto 62 
+ 80042 Boscotrecase (NA) 
+ Italy"
+Type Certificate Holder Record,"Costruzioni Aeronautiche Tecnam srl transferred TC A00066CE to Costruzioni 
+ Aeronautiche Tecnam S.P.A. on March 14, 2018."
+"I - Model P2010 (Normal Category), Approved December 4, 2015",
+Engine,"1) Lycoming Engine IO-360-M1A (TC 1E10) 
+ 2) Lycoming Engine IO-390-C3B6 (TC E00006NY) (See Note 9)"
+Fuel,"For Lycoming Engine IO-360-M1A: 
+ AVGAS Grade 91/96 or 100LL (ASTM D910) 
+ MOGAS EN 228:2008 (E) (see Note 8) 
+ For Lycoming Engine IO-390-C3B6: 
+ AVGAS 100LL"
+Engine Limits,"For Lycoming Engine IO-360-M1A: 
+ Max rotational speed 2700 r.p.m. (180 hp) 
+ Cruise rotational speed (75%) 2450 r.p.m. (135 hp) 
+ (Engine shaft r.p.m.) 
+ For Lycoming Engine IO-390-C3B6: 
+ Take-Off power 2700 r.p.m. (215 hp) 
+ Max continuous power 2700 r.p.m. (215 hp)"
+Propeller and,1) MT Propeller MT 188R145-4G (TC P19BO)
+Propeller Limits,"Two blades, constant speed, fixed pitch, wood construction. 
+ Diameter: 1880 mm (74 in) - no reduction allowed. 
+ Clockwise rotation (pilot’s view) 
+ 2) MT Propeller MTV-15-B/193-52 (TC P23BO) (See Note 5) 
+ Two blades, constant speed, variable pitch, wood construction. 
+ Diameter: 1930 mm (76 in) – No reduction allowed. 
+ Clockwise rotation (pilot’s view) 
+ Page No. 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ Rev. No. 
+ 7 
+ 4 
+ 6 
+ 4 
+ 6 
+ 7 
+ 6 
+ 6 
+ 7 
+ 3) MT Propeller MTV-12B/183-59 (TC P25NE) (See Note 9) 
+ Three blades, constant speed, variable pitch, wood construction. 
+ Diameter: 1830 mm (72 in) – No reduction allowed. 
+ Clockwise rotation (pilot’s view)"
+Oil,"Average 
+ MIL-L-6082B or 
+ MIL-L-22851 or 
+ Ambient 
+ SAEJ1966 Spec. 
+ SAEJ1899 Spec. 
+ Temperature 
+ Mineral Grades 
+ Ashless Dispersant Grades 
+ All Temperatures 
+ SAE15W50 or SAE20W-50 
+ Above 80°F 
+ SAE60 
+ SAE60 
+ Above 60°F 
+ SAE50 
+ SAE40 or SAE50 
+ 30°F to 90°F 
+ SAE40 
+ SAE40 
+ 0°F to 70°F 
+ SAE30 
+ SAE40, SAE30, SAE20W40 
+ Below 10°F 
+ SAE20 
+ SAE30 or SAE20W30 
+ For additional info, refer to ""Lycoming Operation and Installation Manual"" for the 
+ list of alternative recommended commercial brands and types 
+ KIAS KCAS"
+Airspeed Limits,"VO (Operating Manoeuvring Speed) 
+ 120 
+ 119 
+ VA (Design Manoeuvring Speed) 
+ 120 
+ 119 
+ VFE (Maximum Flap Extended Speed) 
+ 91 
+ 92 
+ VNO (Maximum Structural Cruising Speed) 
+ 132 
+ 130 
+ VNE (Never Exceed Speed) 
+ 169 
+ 164"
+Center of Gravity CG Range,"Forward limit: 10.31 in (19 % MAC) behind datum 
+ Aft Limit: 17.32 in (32.0 % MAC) behind datum 
+ Mean Aerodynamic Chord is 54.2 in"
+Empty Weight CG Range,None
+Datum,Vertical plane tangent to wing leading edge
+Levelling Means,"Seat track supporting beams (see Airplane Flight Manual (AFM), 2010/100, Section 
+ 6 for the procedure)."
+Maximum Weight,"Take-off 
+ 2557 lbs 
+ Landing 
+ 2557 lbs"
+Minimum Crew,1 pilot
+Number of Seats,4
+BaggageCargo,Maximum 88 lbs at 61.41 in aft the datum
+Fuel Capacity,"63.4 U.S. Gal. (+ 24.1 in) 
+ Usable 61 U.S. Gal."
+Oil Capacity each engine,"Maximum: 
+ 8 U.S. Qts. 
+ Minimum: 
+ 4 U.S. Qts."
+Control Surface Movements ,"Ailerons 
+ 19°±2° TEU (**) 14 ° ±2° TED (***) 
+ Stabilator 
+ 6°±2° TEU 17°±2° TED 
+ Stabilator trim tab 
+ 3°±1° TEU 15°°±1° TED 
+ 3°±1° TEU 6°±1° TED (See Note 10) 
+ Rudder 
+ 25°±2° RH 25°±2° LH 
+ Rudder trim tab 
+ 20°±2° RH 20°±2° LH 
+ Flaps 
+ 15°±1° TED (Take-off position) 
+ 40°±1° TED (Landing position) 
+ (*) Nominal Values 
+ (**) Trailing Edge Up 
+ (***) Trailing Edge Down"
+Applicable Serial Numbers,S/N 1/U.S. to 9999/U.S.
+Import Requirements,"a) A U.S. airworthiness certificate may be issued on the basis of an NAA Export 
+ Certificate of Airworthiness (Export of C of A) signed by a representative of 
+ the Ente Nazionale per l'Aviazione Civile (ENAC) on behalf of the European 
+ Community. The Export C of A should contain the following statement ""The 
+ aircraft covered by this certificate has been examined, tested, and found to 
+ comply with U.S. Type Certificate No. A00066CE and to be in a condition for 
+ safe operation."" 
+ b) The U.S. airworthiness certification basis for aircraft type certificated under 14 
+ CFR part 21, Section 21.29 and exported. 
+ c) Each P2010 aircraft should have the following modification installed: 
+ • 
+ MOD2010/061 “New cargo net and G1000 software configuration for 
+ USA aircraft”, 
+ It must be identified with a “Steel identification plate” showing USA S/N 
+ (xxx/U.S.) and TCDS references. Tecnam can incorporate these modifications 
+ using Tecnam Service Bulletin SB 221-CS. 
+ d) Refer to the applicable bilateral agreement to verify eligibility for import into 
+ the United States of both new and used aircraft based on the scope of the 
+ agreement, to identify any required statements by the exporting authority on the 
+ export certificate of airworthiness (or equivalent document), and for procedures 
+ for coordinating exceptions to conformity statements on these documents. 
+ Refer to FAA Order 8130.2, Airworthiness Certification of Aircraft, for 
+ requirements for issuance of an airworthiness certificate for imported aircraft."
+Certification Basis,"Type Certification under 14 CFR Section 21.29 including the following 
+ requirements: 
+ 14 CFR Part 23 effective February 1, 1965 including amdt 23-1 through 23-61 
+ 14 CFR Part 36 effective December 1, 1969 including amdt 36-1 through 36-28 
+ Equivalent levels of safety (ELOS): None 
+ Approved Kinds of Operation: 
+ Day and Night, Visual Flight Rules (VFR) and Instrument Flight Rules (IFR) 
+ Prohibited Kinds of Operation: 
+ Flight into known icing conditions 
+ Type Certificate No. A00066CE was issued December 4, 2015. 
+ Date of Application for FAA Type Certificate was December 13, 2011. 
+ The European Aviation Safety Agency (EASA) originally type certified this aircraft 
+ under its type certificate number A.576."
+Maximum Operating Altitude,"12000 ft 
+ 14000 ft (See Note 11)"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the airplane for 
+ certification. Such equipment is listed in the current FAA approved AFM: 
+ 2010/100 Ed. 2, Rev. 0, or later approved revisions."
+Service Information,"Each of the documents listed below must state that it is approved by EASA: 
+ • 
+ Service bulletins, 
+ • 
+ Structural repair manuals, 
+ • 
+ Vendor manuals, 
+ • 
+ Aircraft flight manuals, and 
+ • 
+ Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved for type 
+ design data only unless one of the following conditions exists: 
+ • 
+ The documents change the limitations, performance, or procedures of the 
+ FAA approved manuals; or 
+ • 
+ The documents make an acoustical or emissions changes to this product’s 
+ U.S. type certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. The 
+ FAA may delegate on case-by-case to EASA to approve on behalf of the FAA for 
+ the U.S. type certificate. If this is the case, it will be noted on the document. 
+ Each airplane is provided with the following approved documents: 
+ a) AFM doc. 2010/100 Ed. 2, Rev. 0, or later FAA approved revision. 
+ b) Airplane Maintenance Manual (AMM) doc. 2010/101 Ed. 1, Rev. 2, or 
+ later FAA approved revision, including Chap. 4: ""Airworthiness 
+ Limitations"" and Chap. 5: ""Time Limits/ Maintenance Check"". 
+ c) The appropriate Lycoming series engine maintenance manuals. 
+ d) The appropriate MT Propellers Instruction Manual."
+NOTE 1,"Current weight and balance report, including list of equipment included in certificated empty weight 
+ and loading instructions when necessary, must be provided for each aircraft at the time of original 
+ certification. 
+ The certificated empty weight and corresponding center of gravity location must include: 
+ Unusable fuel: 14.28 lbs at 24.1 in aft of datum"
+NOTE 2,"Airplane operation must be in accordance with the EASA approved AFM listed above. All placards 
+ listed in Section 2 must be displayed."
+NOTE 3,"Airworthiness Limitations are specified in the Section 2 LIMITATIONS of the AFM and Chapter 4 of 
+ the AMM and are approved by EASA and the FAA. These LIMITATIONS specify mandatory 
+ replacement times, and operating limitations, and may not be changed without FAA approval. 
+ Revisions to the Airworthiness Limitations must be approved by the FAA. The inspections, 
+ maintenance, repair and painting must be accomplished according to the Maintenance Manual or 
+ other procedures acceptable to the FAA."
+NOTE 4,"Information essential for the proper operation, maintenance and inspection of the airplane is contained 
+ in the Tecnam P2010 AFM and AMM."
+NOTE 5,"Optional Variable Pitch Propeller 
+ Tecnam Modification No. MOD2010-002 (Variable Pitch Propeller - MTV-15-B/193-52 (TC 
+ P23BO)). Airplanes with this modification must have at least Tecnam AFM doc. 2010/100 Ed. 2, 
+ Rev. 0, Supplement No. D-2 or later FAA/EASA approved revisions and Tecnam P2010 AMM 
+ Supplement No. S-1, Ed. 1, Rev. 0, or later FAA/EASA approved revisions."
+NOTE 6,"Optional GFC 700 Autopilot 
+ Tecnam Modification No. MOD2010-001 (Garmin GFC 700 Autopilot). Airplanes can be modified 
+ by Tecnam at the factory under their major level 1 type design change approval. Airplanes with this 
+ modification must have Tecnam AFM Section 9 Supplement No. D01, Ed. 1, Rev. 0 (Aircraft 
+ equipped with fixed pitch propeller), or AFM Section 9 Supplement No. D07, Ed. 1, Rev. 0 (Aircraft 
+ equipped variable pitch propeller), or later FAA/EASA approved revisions and Tecnam P2010 AMM 
+ Supplement No. S-3, Ed. 1, Rev. 0, or later FAA/EASA approved revisions. Aircraft in service can 
+ incorporate this modification using Tecnam Service bulletin SB -180-CS (Aircraft equipped with 
+ fixed pitch propeller) or Tecnam Service bulletin SB -220-CS(Aircraft equipped with variable pitch 
+ propeller)."
+NOTE 7,"Alternative Avionics Configuration 
+ Tecnam Modification No. MOD2010-003 (Alternative Avionics Configuration – Garmin G500). This 
+ modification cannot be installed as retrofit. Airplanes can be modified by Tecnam at the factory 
+ under their major level 1 type design change approval. Airplanes with this modification must have 
+ Tecnam AFM Section 9 Supplement No. D03, Ed.1, Rev. 0, or later FAA/EASA approved revisions 
+ and Tecnam P2010 AMM Supplement No. S-2, Ed.1, Rev. 0, or later FAA/EASA approved revisions."
+NOTE 8,"Optional Automotive Fuel 
+ Tecnam Modification No. MOD2010-032 (Automotive Fuel-MOGAS). Airplanes can be modified 
+ by Tecnam at the factory under their major level 1 type design change approval. Airplanes with this 
+ modification must have Tecnam AFM Section 9 Supplement No. D04, Ed. 1, Rev 0, or later 
+ FAA/EASA approved revisions. Aircraft in service can incorporate this modification using Tecnam 
+ Service bulletin SB -182-CS."
+NOTE 9,"Optional Engine and Avionic Suite 
+ Tecnam Modification No. MOD2010/078 (Lycoming IO-390 Engine and G1000Nxi avionic suite 
+ installation). This modification cannot be installed as a retrofit. Airplanes with this modification 
+ must have Tecnam AFM Supplement No. D10, Ed. 2, Rev. 1 or later FAA/EASA approved revisions 
+ and Tecnam P2010 AMM Supplement No. S6, Ed. 1, Rev. 1, or later FAA/EASA approved revisions."
+NOTE 10,"Optional GFC 700 Autopilot for Airplanes Equipped with IO390 Engine 
+ Tecnam Modification No. MOD2010/133 (Garmin GFC 700 Autopilot for IO390-Equipped Airplanes). 
+ Airplanes with this modification must have Tecnam AFM Section 9 Supplement No. D16, Ed. 2, Rev. 0, 
+ or later FAA/EASA approved revisions and Tecnam P2010 AMM Supplement No. S12, Ed. 1, Rev. 1, or 
+ later FAA/EASA approved revisions. Aircraft in service can incorporate this modification using Tecnam 
+ Service bulletin SB -308-CS."
+NOTE 11,"Optional Altitude Increase for Airplanes Equipped with IO390 Engine 
+ Tecnam Modification No. MOD2010/194 (Maximum operating altitude increase at 14000ft for IO-390 
+ equipped airplanes). Airplanes with this modification must have Tecnam AFM Section 9 Supplement No. 
+ D21, Ed. 2, Rev. 2, or later FAA/EASA approved revisions and Tecnam P2010 AMM Supplement No. 
+ S16, Ed. 1, Rev. 1, or later FAA/EASA approved revisions. Aircraft in service can incorporate this 
+ modification using Tecnam Service bulletin SB -410-CS."
+"II - Model P2010 TDI (Normal Category), Approved October 27, 2021",
+Engine,Continental Engine TAE 125-02-125 (TC E00069EN)
+Fuel,"JET A-1 (ASTM-D-1655) 
+ Diesel (EN 590)"
+Engine Limits,"Take-Off power 2300 r.p.m. (168 hp) 
+ Max continuous power 2250 r.p.m. (153 hp) 
+ Other engine limitations listed in P2010 TDI Airplane Flight Manual (AFM), 
+ 2010/552, Section 2"
+Propeller and,MT Propeller MTV-6-R/190-69 (TC P19NE)
+Propeller Limits,"Three blades, constant speed, variable pitch, wood construction. 
+ Diameter: 1900 mm (75 in) - no reduction allowed. 
+ Clockwise rotation (pilot’s view)"
+Oil,"Engine: 
+ Aero Shell Oil Diesel Ultra; 
+ Shell Helix Ultra 5W30 
+ Gearbox: Centurion Gearbox Oil N1 
+ For additional info, refer to P2010 TDI AFM, 2010/552, Section 2"
+Coolant,"BASF Glysantin Protect Plus / G48; 
+ Water / Radiator protection in a ratio of 50:50 
+ For additional info, refer to P2010 TDI AFM, 2010/552, Section 2 
+ KIAS KCAS"
+Airspeed Limits,"VO (Operating Manoeuvring Speed) 
+ 119 
+ 119 
+ VA (Design Manoeuvring Speed) 
+ 119 
+ 119 
+ VFE (Maximum Flap Extended Speed) 
+ 90 
+ 92 LND 
+ 100 
+ 101 TO 
+ VNO (Maximum Structural Cruising Speed) 
+ 130 
+ 130 
+ VNE (Never Exceed Speed) 
+ 163 
+ 164"
+Center of Gravity CG Range,"Forward limit: 10.83 in (19 % MAC) behind datum up to 2205 lbs 
+ 12.99 in (23% MAC) behind datum up to MTOW 
+ Aft Limit: 17.87 in (32.0 % MAC) behind datum 
+ Mean Aerodynamic Chord is 54.2 in"
+Empty Weight CG Range,None
+Datum,Vertical plane tangent to wing leading edge
+Levelling Means,"Seat track supporting beams (see AFM, 2010/552, Section 6 for the procedure)"
+Maximum Weight,"Take-off 
+ 2557 lbs 
+ 2646 lbs (See NOTE 5) 
+ Landing 
+ 2557 lbs 
+ 2646 lbs (See NOTE 5)"
+Minimum Crew,1 pilot
+Number of Seats,4
+BaggageCargo,Maximum 88 lbs at 61.41 in from datum
+Fuel Capacity,"63.4 U.S. Gal. (+ 24.1 in) 
+ Usable 61 U.S. Gal."
+Oil Capacity each engine,"Maximum: 
+ 6.34 U.S. Qts. 
+ Minimum: 
+ 4.75 U.S. Qts."
+Control Surface Movements ,"Ailerons 
+ 19°±2° TEU (**) 14 ° ±2° TED (***) 
+ Stabilator 
+ 17°±2° TEU 6°±2° TED 
+ Stabilator trim tab 
+ 6°±2° TEU 8°±2° TED 
+ Rudder 
+ 25°±2° RH 25°±2° LH 
+ Rudder trim tab 
+ 20°±2° RH 20°±2° LH 
+ Flaps 
+ 0° (Fully Retracted) 
+ 40°±1° (Fully Extended) 
+ (*) Nominal Values 
+ (**) Trailing Edge Up 
+ (***) Trailing Edge Down"
+Applicable Serial Numbers,S/N 100/U.S. to 9999/U.S. when MOD2010/162 is installed
+Import Requirements,"a) A U.S. airworthiness certificate may be issued on the basis of an NAA Export 
+ Certificate of Airworthiness (Export of C of A) signed by a representative of 
+ the Ente Nazionale per l'Aviazione Civile (ENAC) on behalf of the European 
+ Community. The Export C of A should contain the following statement ""The 
+ aircraft covered by this certificate has been examined, tested, and found to 
+ comply with U.S. Type Certificate No. A00066CE and to be in a condition for 
+ safe operation."" 
+ b) The U.S. airworthiness certification basis for aircraft type certificated under 14 
+ CFR part 21, Section 21.29 and exported. 
+ c) Each P2010 TDI aircraft should have the following modification installed: 
+ • 
+ MOD2010/061 “New cargo net and G1000 software configuration for 
+ USA aircraft”, 
+ It must be identified with a “Steel identification plate” showing USA S/N 
+ (xxx/U.S.) and TCDS references. Tecnam can incorporate these modifications 
+ using Tecnam Service Bulletin SB 221-CS. 
+ d) Refer to the applicable bilateral agreement to verify eligibility for import into 
+ the United States of both new and used aircraft based on the scope of the 
+ agreement, to identify any required statements by the exporting authority on the 
+ export certificate of airworthiness (or equivalent document), and for procedures 
+ for coordinating exceptions to conformity statements on these documents. 
+ Refer to FAA Order 8130.2, Airworthiness Certification of Aircraft, for 
+ requirements for issuance of an airworthiness certificate for imported aircraft."
+Certification Basis,"14 CFR Part 23 effective February 1, 1965, including Amendments 23-1 through 
+ Amendment 23-61. In addition, the following 14 CFR Part 23 regulations at 
+ Amendment 23-64 for the installation of a diesel engine with a Full Authority 
+ Digital Engine Control (FADEC) system: 
+ §23.2010 – Accepted means of compliance, 
+ §23.2225 – Component loading conditions, 
+ §23.2400 – Powerplant installation, 
+ §23.2410 – Powerplant installation hazard assessment, 
+ §23.2425 – Powerplant operational characteristics, 
+ §23.2430 – Fuel system, 
+ §23.2510 – Equipment, systems, and installations, 
+ §23.2515 – Electrical and electronic system lightning protection, 
+ §23.2520 – High-intensity Radiated Fields (HIRF) protection, 
+ §23.2610 – Instrument markings, control markings, and placards, 
+ §23.2615 – Flight, navigation, and powerplant instruments 
+ 14 CFR Part 36 effective December 1, 1969, including Amendments 36-1 through 
+ Amendment 36-31 
+ Approved Kinds of Operation: 
+ Day and Night, Visual Flight Rules (VFR) and Instrument Flight Rules (IFR) 
+ Prohibited Kinds of Operation: 
+ Flight into known icing conditions 
+ Date of Application for U.S. Amended Type Certificate for Model P2010 TDI 
+ January 28, 2021. 
+ The European Aviation Safety Agency (EASA) originally type certified this model 
+ aircraft under its type certificate number EASA.A.576."
+Maximum Operating Altitude,18000 ft
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the airplane for 
+ certification. Such equipment is listed in the current FAA approved AFM: 
+ 2010/552 Ed. 1, Rev. 1, or later approved revisions."
+Service Information,"Each of the documents listed below must state that it is approved by EASA: 
+ • 
+ Service bulletins, 
+ • 
+ Structural repair manuals, 
+ • 
+ Vendor manuals, 
+ • 
+ Aircraft flight manuals, and 
+ • 
+ Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved for type 
+ design data only unless one of the following conditions exists: 
+ • 
+ The documents change the limitations, performance, or procedures of the 
+ FAA approved manuals; or 
+ • 
+ The documents make an acoustical or emissions changes to this product’s 
+ U.S. type certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. The 
+ FAA may delegate on case-by-case to EASA to approve on behalf of the FAA for 
+ the U.S. type certificate. If this is the case, it will be noted on the document. 
+ Each airplane is provided with the following approved documents: 
+ a) AFM doc. 2010/552 Ed. 1, Rev. 1, or later FAA approved revision. 
+ b) Airplane Maintenance Manual (AMM) doc. 2010/553 Ed. 2, Rev. 0, or 
+ later FAA approved revision, including Chap. 4: ""Airworthiness 
+ Limitations"" and Chap. 5: ""Time Limits/ Maintenance Check"". 
+ c) The appropriate Continental series engine maintenance manuals. 
+ d) The appropriate MT Propellers Instruction Manual."
+NOTE 1,"Current weight and balance report, including list of equipment included in certificated empty weight 
+ and loading instructions when necessary, must be provided for each aircraft at the time of original 
+ certification. 
+ The certificated empty weight and corresponding center of gravity location must include: 
+ Unusable fuel: 16.1 lbs at 24.1 in aft of datum"
+NOTE 2,"Airplane operation must be in accordance with the FAA approved AFM listed above. All placards 
+ listed in Section 2 must be displayed."
+NOTE 3,"Airworthiness Limitations are specified in the Section 2 LIMITATIONS of the AFM and Chapter 4 of 
+ the AMM and are approved by EASA and the FAA. These LIMITATIONS specify mandatory 
+ replacement times, and operating limitations, and may not be changed without FAA approval. 
+ Revisions to the Airworthiness Limitations must be approved by the FAA. The inspections, 
+ maintenance, repair and painting must be accomplished according to the Maintenance Manual or 
+ other procedures acceptable to the FAA."
+NOTE 4,"Information essential for the proper operation, maintenance and inspection of the airplane is contained 
+ in the Tecnam P2010 TDI AFM and AMM."
+NOTE 5,"Optional Weight Increase up to 1200 kg 
+ Tecnam Modification No. MOD2010/207 (P2010TDI: weight increment up to 1200kg). Airplanes with 
+ this modification must have Tecnam P2010 TDI AFM Doc. 2010/552, Ed. 2, Rev. 0, or later FAA/EASA 
+ approved revisions and Tecnam P2010 TDI AMM Doc. 2010/553, Ed. 2, Rev. 0, or later FAA/EASA 
+ approved revisions. Aircraft in service can incorporate this modification using Tecnam Service bulletin 
+ SB 487-CS."

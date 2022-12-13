@@ -1,0 +1,528 @@
+Keyterm,Info
+"H1SW 
+ Revision 27 
+ Bell 
+ 204B 
+ 205A 
+ 205A-1 
+ 205B 
+ 210 
+ April 20, 2020",
+Type Certificate Holder,"Bell Textron Inc. 
+ Subsidiary of Textron, Inc. 
+ P.O. Box 482 
+ Fort Worth, Texas 76101"
+Type Certificate Holder Record,"Renamed from “Bell Helicopter Textron Inc.” to “Bell Textron Inc.” on July 1, 2019."
+"I - Model 204B, 11 PCLH (Transport Helicopter Category B), Approved April 4, 1963",
+Engine,Lycoming T5309A (See Note 5 for alternate Engine)
+Fuel,"MIL-T-5624, Grade JP-4 (See Note 9)"
+Engine Limits,"Torque Pressure 
+ Output Shaft Speed 
+ Exhaust Gas Temp. 
+ Gas Gen. Speed 
+ (P.S.I.) 
+ (R.P.M.) 
+ (°C) 
+ (R.P.M.) 
+ Takeoff (5 min.) 
+ 47.5 (1100 hp) 
+ 6,600 (100%) 
+ 638 
+ 25,200(100.2%) 
+ Max. Continuous 
+ 39.0 ( 900 hp) 
+ 6,600 (100%) 
+ 621 
+ 24,700( 98.2%) 
+ See Notes 6 and 7"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 339 r.p.m. 
+ Maximum 324 r.p.m. 
+ (Dual Tach Reading 104.5%) 
+ (Dual Tach Reading 100%) 
+ Minimum 294 r.p.m. 
+ Minimum 310 r.p.m. 
+ (Dual Tach Reading 91.0%) 
+ (Dual Tach Reading 95.5%)"
+Airspeed Limits,"Never exceed 138 m.p.h. (120 knots) up to and including 7,500 lbs. G.W. at sea level 
+ Never exceed 127 m.p.h. (110 knots) from 7,500 lbs. to 8,500 lbs. G.W. at sea level 
+ VNE decreases 3.5 m.p.h. per 1,000 feet (3 knots per 1,000 feet)"
+CG Range,"(a) Longitudinal C.G. limits 
+ (+127.0) to (+133.0) at 8,500 lbs. 
+ (+125.0) 
+ at 7,250 lbs. 
+ (+125.0) to (+138.0) at 6,500 lbs. 
+ (+130.0) to (+138.0) at 4,500 lbs. 
+ (b) Lateral C.G. Limits 
+ ±4.7 in. from centerline of fuselage"
+Empty Weight CG Range,See Model 204B Maintenance Manual
+Maximum Weight,"8,500 lbs."
+Minimum Crew,1
+Maximum Passengers,"9 (with three-passenger, forward facing, center seat installed) or 
+ 10 (with four-passenger, rearward facing center seat installed)"
+Maximum Baggage,400 lbs. (See RFM for loading schedule)
+Fuel Capacity,"160 gals (+136) for S/N 2001, 2002, 2003, and 2006 thru 2025. 
+ 242 gals (+136.5) for S/N 2004, 2005, 2026 and subsequent. 
+ See Note 1 for data on unusable fuel."
+Oil System Capacity,"4 gals (+157) usable oil 1 1/2 gals (included in capacity) 
+ See Note 1 for data on undrainable oil."
+Rotor Blade and,"For rigging information, refer to the Model 204B Maintenance Manual"
+Serial Nos Eligible,"2001 thru 2070, 2196 thru 2199"
+"II - Model 205A, 15 PLCH (Transport Helicopter Category B), Approved June 13, 1968",
+Engine,Lycoming T5311A (See Note 14 for alternate engine)
+Fuel,"ASTM Type A (JP-5) or Type B (JP-4) (See Note 15) 
+ See Appendix 1 of applicable rotorcraft flight manual for approved vendor designations"
+Engine Limits,"Torque Pressure 
+ Output Shaft Speed 
+ Exhaust Gas Temp 
+ Gas Gen. Speed 
+ P.S.I. 
+ R.P.M. 
+ (°C) 
+ (R.P.M.) 
+ Takeoff (5 minutes) 
+ 47.5 (1100 h.p.) 
+ 6,600 (100%) 
+ 638 
+ 25,200 (100.2%) 
+ Maximum Continuous 
+ 39.0 ( 900 h.p.) 
+ 6,600 (100%) 
+ 621 
+ 24,700 ( 98.2%) 
+ (See Notes 6 and 7)"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 339 r.p.m. 
+ Maximum 324 r.p.m. 
+ (104.5% Tach) 
+ (100% Tach) 
+ Minimum 294 r.p.m. 
+ Minimum 310 r.p.m. continuous 
+ (91% Tach) 
+ (97% Tach) 
+ Minimum 294 r.p.m. 0 to 30 knots 
+ (91% Tach)"
+Airspeed Limits,"Never exceed 120 knots up to and including 7,500 lbs. G.W. at sea level. 
+ Never exceed 110 knots from 7,500 lbs. to 8,500 lbs. G.W. at sea level. 
+ Velocity decreases 3 knots per 1,000 feet."
+CG Range,"(a) Longitudinal C.G. Limits 
+ (+130) to (+144) at 8,500 lbs. 
+ (+130) to (+144) at 6,500 lbs. 
+ (+134) to (+144) at 5,300 lbs. 
+ Straight line variation between points given. 
+ 85 
+ 80 
+ 75 
+ 70 
+ GROSS WT 
+ 65 
+ (LBS.) 
+ F WD 
+ AFT 
+ 60 
+ LIMIT 
+ L IMI T 
+ 55 
+ 50 
+ 45 
+ 130 
+ 135 
+ 140 
+ 145 
+ LONGITUDINAL C.G. STATION (INCHES) 
+ (b) Lateral C.G. Limits 
+ 4.7 in. left from centerline fuselage 
+ 6.5 in. right from centerline of fuselage"
+Empty Weight C G Range,See Model 205A Maintenance Manual
+Maximum Weight,"8,500 lbs."
+Minimum Crew,One (1)
+Maximum Passengers,Fourteen (14) (with four-passenger rearward facing center seat installed)
+Maximum Baggage,400 lbs. (See RFM for loading schedule)
+Fuel Capacity,220 gals (+150.4)
+Oil System Capacity,"3.25 gals (+173) usable oil 1.6 gals. (included in capacity) 
+ See Note 1 for data on undrainable oil."
+Rotor Blade and,"For rigging information, refer to the Model 205A Maintenance Manual."
+Serial Nos Eligible,30001 thru 30039. (See Note 17)
+"III - Model 205A-1, 15 PCLH (Transport Helicopter Category B), Approved October 25, 1968 
+ Same as Model 205A with Lycoming T5313A engine except rotor drive system modified for high takeoff and maximum 
+ continuous power ratings",
+Engine,Lycoming T5313A or T5313B (See Note 19)
+Fuel,"ASTM Type A (JP-5) or Type B (JP-4) (see Note 15) 
+ See Appendix 1 of applicable rotorcraft flight manual for approved vendor designations."
+Engine Limits,"Torque Pressure 
+ Output Shaft Speed 
+ Exhaust Gas Temp 
+ Gas Gen. Speed 
+ (P.S.I.) 
+ (R.P.M.) 
+ (°C) 
+ (R.P.M.)"
+Takeoff 5 minutes,"54.0 (1250 h.p.) 
+ 6,600 (100%) 
+ 626 
+ 25,150 (100%) 
+ 47.5 (1100 h.p.) 
+ 6,600 (100%) 
+ 610 
+ 24,650 ( 98%) 
+ (See Notes 6 and 7)"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 339 r.p.m. 
+ Maximum 324 r.p.m. 
+ (104.5% Tach) 
+ (100% Tach) 
+ Minimum 294 r.p.m. 
+ Minimum 314 r.p.m. continuous 
+ (91% Tach) 
+ (97% Tach) 
+ Minimum 294 r.p.m. 0 to 30 knots 
+ (91% Tach)"
+Airspeed Limits,"Never exceed speed 120 knots up to and including 7,500 lbs. G.W. at sea level. 
+ Never exceed speed 115 knots from 7,500 lbs. to 8,500 lbs. G.W. at sea level. 
+ Never exceed speed 110 knots from 8,500 lbs. to 9,500 lbs. G.W. at sea level. 
+ Velocity decreases 3 knots per 1,000 feet."
+CG Range,"(a) Longitudinal C.G. Limits 
+ (+133) to (+143) at 9,500 lbs. 
+ SEE FIGURE 
+ (+130) to (+144) at 8,500 lbs. 
+ (+130) to (+144) at 6,500 lbs. 
+ (+134) to (+144) at 5,300 lbs. 
+ (+136) to (+142) at 10, 500 lbs. 
+ Straight line variation between points given. 
+ (b) Lateral C.G. Limits 
+ 4.7 in. left from centerline of fuselage 
+ 6.5 in. right from centerline of fuselage"
+Empty Weight CG Range,See Model 205A-1 Maintenance Manual
+Maximum Weight,"9,500 lbs. Internal, 10, 500 lbs. External (See Note 16 external cargo limitations)"
+Minimum Crew,One (1)
+Maximum Passengers,Fourteen (14) (with four-passenger rearward facing center seat installed)
+Maximum Baggage,400 lbs. (See RFM for loading schedule)
+Fuel Capacity,"220 gals. (+150.4) 
+ See Note 1 for data on unusable"
+Oil System Capacity,"3.25 gals. (+173) usable oil 1.6 gals. (included in capacity). 
+ See Note 1 for data on undrainable oil."
+Rotor Blade and,"For rigging information, refer to the pertinent model maintenance manual."
+Serial Nos Eligible,"30053 thru 30067, and 30078 thru 30332."
+"IV Model 205B, 15 PCLH (Transport Helicopter Category B), Approved December 6, 1989",
+Engine,Lycoming T5317A (Type Certificate E17EA)
+Fuel,"ASTM Type A (JP-5) or Type B (JP-4) (See Note 15) 
+ See Appendix 1 of applicable rotorcraft flight manual for approved vendor designations"
+Engine Limits,"Torque Pressure 
+ Output Shaft Speed 
+ Exhaust Gas Temp 
+ Gas Gen. Speed 
+ (P.S.I.) 
+ (R.P.M.) 
+ (°C) 
+ (R.P.M.)"
+Takeoff 5 minutes,"55.7 (1290 h.p.) 
+ 6,600 (100%) 
+ 677 
+ 26,400 (100%) 
+ 49.0 (1134 h.p.) 
+ 6,600 (100%) 
+ 647 
+ 25,400 ( 98%)"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 339 r.p.m. 
+ Maximum 324 r.p.m. 
+ (104.5% Tach) 
+ (100% Tach) 
+ Minimum 294 r.p.m. 
+ Minimum 314 r.p.m. continuous 
+ (91% Tach) 
+ (97% Tach)"
+Airspeed Limits,"Never exceed speed 130 knots up to and including 7,500 lbs. G.W. at sea level. 
+ Never exceed speed 122 knots from 7,500 lbs. to 8,500 lbs. G.W. at sea level. 
+ Never exceed speed 106 knots from 8,500 lbs. to 10,500 lbs. G.W. at sea level. 
+ Velocity decreases 3 knots per 1,000 feet above 3,000 ft."
+CG Range,"(a) Longitudinal C.G. Limits 
+ +134 to +144 at 5,400 lbs. 
+ SEE FIGURE 
+ +130 to +144 at 6,500 lbs. 
+ +130 to +144 at 8,500 lbs. 
+ +136.2 to +141.8 at 10,500 lbs. 
+ +136.2 to +140.9 at 11, 2000 lbs. 
+ Straight line variation between points given 
+ (b) Lateral C.G. Limits 
+ 4.7 in. left from centerline of fuselage 
+ 6.5 in. right from centerline of fuselage"
+Empty Weight CG Range,See Model 205B Maintenance Manual
+Maximum Weight,"10,500 lbs. Internal, 11,200 lbs. External (See Note 26 for external cargo limitations)"
+Minimum Crew,One (1)
+Maximum Passengers,Fourteen (14) with four-passenger rearward facing center seat installed
+Maximum Baggage,400 lbs. (See RFM for loading schedule)
+Fuel Capacity,"220 gals. (+150.4) 
+ See Note 1 for data on unusable fuel."
+Oil System Capacity,"3.25 gals. (+173) usable oil 1.6 gals. (included in capacity). 
+ See Note 1 for data on undrainable oil."
+Rotor Blade and,"For rigging information, refer to the pertinent model maintenance manual."
+Serial Nos Eligible,"30066, 30166, 30188, and 30297. Serial Numbers 30351 and up are not eligible for FAA 
+ Certificate of Airworthiness."
+"V Model 210 (Transport Helicopter Category B), Approved July 20, 2005",
+Engine,Honeywell International Inc. T5317B or T5317BCV (Type Certificate E17EA)
+Fuel,"ASTM D-1655 Type A or A-1, NATO F-44, MIL-DTL-5624 Grade JP-5, NATO F-34, 
+ MIL-T-83133 Grade JP-8, ASTM D-6615 Type B, NATO F-40, or MIL-DTL-5624 
+ Grade JP-4. (See Note 15) 
+ See Appendix 1 of applicable rotorcraft flight manual for approved vendor designations"
+Engine Limits,"Torque 
+ Output Shaft Speed 
+ Measured Gas Temp 
+ Gas Gen. Speed 
+ (%) 
+ (R.P.M.) 
+ (R.P.M.) 
+ (°C) 
+ 6,600 (100%) 
+ 26,400 (105%)"
+Takeoff 5 minutes,"100 (1290 h.p.) 
+ 863 
+ 88 (1134 h.p.) 
+ 6,600 (100%) 
+ 820 
+ 25,400 (101%)"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 324 r.p.m. 
+ Maximum 339 r.p.m. 
+ (100% Tach) 
+ (104.5% Tach) 
+ Minimum 294 r.p.m. 
+ Minimum 314 r.p.m. continuous 
+ (91% Tach) 
+ (97% Tach)"
+Airspeed Limits,"Never exceed speed 130 knots up to and including 7,500 lbs. G.W. at sea level. 
+ Never exceed speed 106 knots at 10,500 lbs. G.W. at sea level. 
+ Velocity decreased linearly from 130 knots to 106 knots with G.W. 
+ Velocity decreases linearly 3 knots per 1,000 feet above 3,000 ft density altitude."
+CG Range,"(a) Longitudinal C.G. Limits 
+ +134 to +144 at 5,400 lbs. 
+ SEE FIGURE 
+ +130 to +144 at 6,500 lbs. 
+ +130 to +144 at 8,500 lbs. 
+ +136.2 to +141.8 at 10,500 lbs. 
+ +136.2 to +140.9 at 11,200 lbs 
+ Straight line variation between points given 
+ (b) Lateral C.G. Limits 
+ 4.7 in. left from centerline of fuselage 
+ 6.5 in. right from centerline of fuselage"
+Empty Weight CG Range,None
+Maximum Weight,"10,500 lbs. Internal, 11,200 lbs. External (See Note 27 for external cargo limitations)"
+Minimum Crew,One (1)
+Maximum Passengers,Nine (9)
+Maximum Baggage,400 lbs. (See RFM for loading schedule)
+Fuel Capacity,"206.1 gals. (+153.2) 
+ See Note 1 for data on unusable fuel."
+Oil System Capacity,"3.25 gals. (+173) Usable oil 1.6 gals. (included in capacity). 
+ See Note 1 for data on undrainable oil."
+Rotor Blade and,"For rigging information, refer to the pertinent model maintenance manual."
+Serial Nos Eligible,21001 thru 21400 (see Note 24)
+Data Pertinent to all Models,
+Datum,"Station 0 (datum is located 7.60 inches aft of the most forward point of the fuselage 
+ cabin nose section for the models 204B, 205A, 205A-1 and 205B and datum is 
+ located 20.00 inches aft of the most forward point of the fuselage cabin nose section for 
+ the model 210)."
+Leveling Means,Plumb line from top of left main door frame.
+Certification Basis,"Models 204B, 205A, 205A-1 and 205B 
+ CAR 7 dated August 1, 1956, Amendments 7-1 through 7-4, Category B, and 
+ Special Conditions for Turbine Powered Rotorcraft dated June 16, 1961, and 
+ amended June 21, 1967. No exemptions 
+ Model 210 
+ 14 CFR Part 29 dated August 12, 1965, Amend 29-1; 14 CFR Part 29.501, 29.1091, 
+ 29.1181, 29.1191,and 29.1195 of Amend 29-3; 14 CFR Part 29.607 of Amend 29-5; 14 
+ CFR 29.1397 of Amend 29-7; 14 CFR Part 29.1387 of Amend 29-9; 14 CFR Part 29.997, 
+ 29.1013, 29.1015, 29.1093, 29.1183, and 29.1305 of Amend 29-10; 14 CFR Part 29.903, 
+ 29.917, 29.931, 29.939, 29.951, 29.971, 29.977, 29.979, 29.999, 29.1041, 29.1043, 
+ 29.1125, 29.1143, 29.1165, 29.1189, 29.1197, 29.1307, 29.1322, 29.1549, and 29.1557 
+ of Amend 29-12; 14 CFR Part 29.901 and 29.1121, and 29.1337 of Amend 29-13; 14 
+ CFR Part 29.1309 and 29.1335 of Amend 29-14; 14 CFR Part 29.1353 of Amend 29-15; 
+ 14 CFR Part 29.1529 of Amend 29-20; 14 CFR Part 29.1, 29.79, 29.1321 and 29.1587 of 
+ Amend 29-21; 14 CFR Part 29.1303, 29.1325, 29.1331, 29.1333, 29.1355, and 29.1357 
+ of Amend 29-24; 14 CFR Part 29.1027 of Amend 29-26; 14 CFR Part 29.807 of Amend 
+ 29-30; 14 CFR Part 29.2 of Amend 29-32; 14 CFR Part 29.1329, 29.1351, and 29.1359 
+ of Amend 29-42; 14 CFR Part 29.1323 of Amend 29-44; 14 CFR 36 dated November 3, 
+ 1969, Amends 36-1 through 36-24, Subpart H. 
+ No exemptions. 
+ Equivalent Safety Finding: 
+ (1) Number AT2192RC-R/A-3, 14 CFR 29.501(e) One-skid landing loads in the level 
+ attitude"
+Production Basis,"Production Certificate No. 100 for Models 204B, 205A, and 205A-1. For the Model 
+ 210 None. Prior to original certification of each Model 210 aircraft, an FAA 
+ representative must perform a detailed inspection for workmanship, material, conformity 
+ with the approved technical data, and a check of the flight characteristics (see note 24)."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (See Certification Basis) must be installed in the helicopter for certification. In addition, 
+ the following item of equipment is required with each helicopter as specified: 
+ (a) 
+ Outside air temperature gage for all models 
+ (b) 
+ Engine tail pipe temperature gage for Models 204B, 205A, 205A-1 and 205B. 
+ (c) 
+ FAA approved Rotorcraft Flight Manual as follows: 
+ (1) Model 204B, dated March 29, 1963, reissued April 26, 1965, incorporating 
+ revisions 1 through 8 
+ (2) Model 205A, dated May 31, 1968, required with Lycoming Model T5311A 
+ engine 
+ (3) Model 205A, dated August 15, 1968, required with Lycoming Model T5313A 
+ engine except Manual dated August 16, 1968, required for Model 205A, S/N 
+ 30011 thru 30016 
+ (4) Model 205A-1, dated October 18, 1968. 
+ (5) Model 205B, dated December 6, 1989. 
+ (6) Model 210, dated July 20 2005."
+Note 1,"Current weight and balance report including list of equipment included in the certificated empty weight, and 
+ loading instructions, when necessary must be provided for each helicopter at the time of original 
+ certification. 
+ Model 204B: The certificated empty weight and corresponding C.G. locations must include undrainable oil 
+ of 1.72 lbs. (+154), and unusable fuel of 13.75 lbs. (+136) with 160-gal. capacity fuel system and 19.0 lbs. 
+ (+136) for 242-gal. capacity fuel system. 
+ Model 205A, 205A-1, and 205B: The certificated empty weight and corresponding C.G. locations must 
+ include undrainable oil of 1.72 lbs. (+154), and unusable fuel of 16.5 lbs. (+144). 
+ Model 210: The certified empty weight and corresponding C.G. locations must include undrainable oil of 
+ 1.72 lbs. (+154), and unusable fuel of 22 lbs. (+137)."
+Note 2,"The following placard must be displayed in front of and in clear view of the pilot: ""THIS HELICOPTER 
+ MUST BE OPERATED IN COMPLIANCE WITH THE OPERATING LIMITATIONS SPECIFIED IN 
+ THE FAA APPROVED ROTORCRAFT FLIGHT MANUAL."" All placards required in the approved 
+ rotorcraft flight manual must be installed in the appropriate locations."
+Note 3,"The retirement times of critical parts are listed in the pertinent model maintenance manual. These values of 
+ retirement or service life cannot be increased without FAA engineering approval."
+Note 4,"Information essential for proper maintenance of the helicopter is contained in the appropriate Bell Helicopter 
+ Company Model Maintenance Manual and series Component Repair and Overhaul Manual."
+Note 5,"Lycoming Model T5309B, T5309C, and T5311A engines are eligible at the same ratings and limitations as 
+ the Model T5309A engine in Model 204B helicopters equipped with P/N 204-060-494-1 orifice installed in 
+ the oil cooler bleed air system in accordance with Bell Service Instruction No. 204-10. Fuel, per MIL-J- 
+ 5624, Grade JP-5 is eligible in Model 204B helicopters equipped with Model T5309C and T5311A engines. 
+ See Note 21. 
+ this value is required on each engine and the value corresponding to takeoff power is stamped on the engine 
+ data plate. To assure correct interpretation of this value on the aircraft torquemeter, the torquemeter must be 
+ adjusted so that the value of 47.5 (for the Model 204B and 205A); 54.0 (for the Model 205A-1) or 55.7 (for 
+ the Model 205B) on the torquemeter plastic overlay corresponds to the engine data plate torque pressure. 
+ Specific instructions for this adjustment are included in the applicable Rotorcraft Flight Manual. 
+ For the Model 210, the engine calibration factor is the torquemeter oil pressure corresponding to 875 ft-lbs. 
+ To assure correct interpretation of this value on the aircraft torque indicating system, the torque indicator 
+ must be calibrated so that the takeoff limit (100% torque) is equal to 1026.5 ft-lbs. Actual torquemeter 
+ pressure at takeoff power will vary depending upon engine calibration factor. Specific instructions for the 
+ torque indicator calibration are included in the aircraft maintenance manual."
+Note 7,"Gas producer speed as shown under ""Engine Limits"" are maximum permissible speeds. The gas producer 
+ speed for rated power output varies with individual engines and must be determined during engine 
+ calibration and installed on the instrument panel must correspond to the engine data plate gas producer 
+ speed. For Models 204B, 205A, and 205A-1 helicopters, the engine gas producer speed limits also vary with 
+ OAT in accordance with the schedule as shown on the Temperature Limit placard on the instrument panel."
+Note 8,"For the models 204B, 205A, 205A-1 and 205B the maximum permissible exhaust gas temperature varies 
+ with ambient temperature as described in the Rotorcraft Flight Manual and on the face of the ambient 
+ temperature gage on the instrument panel."
+Note 9,"Phillips PFA55MB anti-icing additive at a concentration not in excess of 0.1% by volume may be used in 
+ fuel for the Model 204B helicopter. No fuel system anti-icing credit is allowed."
+Note 10,"The engine air induction system has been substantiated for icing characteristics as necessary to demonstrate 
+ that ice accumulation on the engine air inlet will not adversely affect engine operation or cause a serious loss 
+ of power when the helicopter is operated in icing conditions within the capability of the remainder of the 
+ helicopter to operate under such conditions."
+Note 11,"Model 204B helicopters that are equipped with the Main Rotor Blade, P/N 204-011-250, and that have the 
+ External Cargo Suspension installation completed in accordance with Bell Service Instructions No. 204-3 
+ meet the structural and design requirements of the certification basis when operated at 9,500 pounds gross 
+ weight in accordance with the limits of FAA Approved Model 204B Rotorcraft Flight Manual Supplement 
+ dated August 1, 1964. Gross weights above 8,500 pounds are limited to External Cargo Load only and must 
+ not be imposed on the landing gear. The retirement times listed in Airworthiness Limitations Schedule of 
+ BHT-204B-M&O-1 Maintenance and Overhaul Instructions are not changed."
+Note 12,"Main Rotor Retention Strap, P/N 204-012-112-1, must not be installed on Models 204B, 205A, 205A-1 
+ and 205B."
+Note 13,"Model 205A helicopters equipped with the External Cargo Suspension installation completed in accordance 
+ with Bell Drawing No. 204-706-104 meet the structural and design requirements of the certification basis 
+ when operated at 9,500 pounds gross weight in accordance with the limits of the FAA Approved Model 
+ 205A Rotorcraft Flight Manual Supplements listed below: 
+ Model 205A with Lycoming T5311A engine Supplement dated May 31, 1968. 
+ Model 205A with Lycoming T5313A engine installed in accordance with Note 14 Supplement 
+ Dated August 15, 1968 (eligible on helicopters with Serial numbers 30001 thru 30010 and 
+ 30017 thru 30039). 
+ Model 205A with Lycoming T5313A engine installed in accordance with Note 14 Supplement dated 
+ August 16, 1968 (applicable to Serial Numbers 30011 through 30016 only)."
+Note 14,"Model 205A helicopters are eligible for the Lycoming T5313A engine and for a gross weight increase to 
+ 9,500 pounds when the engine is installed and engine and helicopter markings are revised in accordance with 
+ Bell Service Instruction No. 205-28 and when equipped and operated in accordance with the FAA Approved 
+ Rotorcraft Flight Manual dated August 15, 1968. Model 205A, S/N's 30011 thru 30016 with the 
+ Lycoming T5313A engine installation must be operated in accordance with FAA Approved Rotorcraft Flight 
+ manual dated August 16, 1968. (See Note 19)"
+Engine,Lycoming T5313A or T5313B
+Fuel,"ASTM Type A (JP-5) or Type B (JP-4) (See Note 15) 
+ See Appendix 1 of applicable rotorcraft flight manual for approved vendor designations."
+Engine Limits,"Torque Pressure 
+ Output Shaft Speed 
+ Exhaust Gas Temp. 
+ Gas Gen. Speed 
+ (P.S.I.) 
+ (R.P.M.) 
+ (°C) 
+ (R.P.M.) 
+ Takeoff (5 minutes) 
+ 47.5 (1100 h.p.) 
+ 6,600 (100%) 
+ 626 
+ 25,150 (100%) 
+ Maximum Continuous 
+ 39.0 ( 900 h.p.) 
+ 6,600 (100%) 
+ 610 
+ 24,650 ( 98%) 
+ (See Notes 6 and 7)"
+Airspeed,"Never exceed speed 120 knots up to and including 7,500 lbs. G.W. at sea level. 
+ Never exceed speed 115 knots from 7,500 lbs. to 8,500 lbs. G.W. at sea level. 
+ Never exceed 110 knots from 8,500 lbs. to 9,500 lbs. G.W. at sea level. 
+ Velocity decreases 3 knots per 1,000 feet."
+CG Range,"(a) Longitudinal C.G. Limits 
+ (+133) to (+143) at 9,500 lbs. 
+ (+130) to (+144) at 8,500 lbs. 
+ (+130) to (+144) at 6,500 lbs. 
+ (+134) to (+144) at 5,300 lbs. 
+ (b) Lateral C.G. Limits 
+ (No change from basic)"
+Maximum Weight,"9,500 lbs."
+Serial Nos Eligible,30001 thru 30039
+Note 15,"For all operations below 40°F. ambient temperature, all fuel used in the Model 205A, 205A-1, 205B and 210 
+ helicopters must contain anti-icing additive in accordance with Phillips Specification PFA55MB in 
+ concentrations of not less than 0.035% nor more than 0.15% by volume. Blending this additive into the fuel 
+ and checking its concentration must be conducted in the manner prescribed by the Rotorcraft Flight Manual."
+Note 16,"Model 205A-1 helicopters equipped with the External Cargo Suspension installation completed in 
+ accordance with Bell Drawing No. 204-706-104 meet the structural and design requirements of the 
+ certification basis when operated at or below 10,500 pounds gross weight in accordance with the limits of 
+ FAA Approved Model 205A-1 Rotorcraft Flight Manual Supplement dated October 18, 1968. The 
+ retirement times listed in Airworthiness Limitations Schedule of BHT-205A1-MM-1 Maintenance 
+ Manual are not changed."
+Note 17,"Model 205A helicopters with Serial Nos. 30001 thru 30039 may be modified to the Model 205A-1 
+ configuration and ratings. See Bell Service Instruction 205-32. The basic model nameplate must be 
+ restamped to read 205A-1 upon accomplishment of this modification. (Serial Nos. 30040 thru 30052 are 
+ not eligible for certification.)"
+Note 18,"A partition must not be installed between the passenger and crew compartments that will obscure the pilot's 
+ view of latch engagement of both passenger doors."
+Note 19,"Lycoming engine Model T5313B is eligible and interchangeable with T5313A engines in the Model 205A-1. 
+ All ratings, limitations, performance, and installation considerations remain unchanged. Rotorcraft Flight 
+ Manual Supplement dated February 17, 1970, is required."
+Note 20,"Bulkheads, fences or partitions must not be installed between the passenger and crew compartments when the 
+ helicopter is equipped with the Model 204B Litter Kit No. 204-706-029 or Model 205A and 205A-1 Litter 
+ Kit No. 205-706-047."
+Note 21,"Lycoming Engine Model T5311B is eligible in lieu of Model T5311A in the Model 204B. Driveshaft 
+ adapter, P/N 204-040-812-3, is required. See Bell Service Letter No. 205A-76/204B-90. Rotorcraft Flight 
+ Manual Supplement dated June 30, 1972, required."
+Note 22,The Models 205B and 210 meet the requirements for Stage 1 Noise Certification as described in FAR 36.
+Note 23,"Deleted by Revision 20, May 17, 2002."
+Note 24,"The following Serial Numbers were produced under Type Certificate only: 21001 thru 21004. 
+ Serial Number 21001 was produced under Type Certificate by BHTI. 
+ Serial Numbers 21002 thru 21004 were produced under Type Certificate licensed to Aeronautical 
+ Accessories, Inc."
+Note 25,"Any changes to the type design of this helicopter by means of a mended type certificate (TC), supplemental 
+ type certificate (STC), or amended STC, requiring instructions for continued airworthiness (ICA’s) must be 
+ submitted thru the project aircraft certification office (ACO) for review and acceptance by the Fort Worth- 
+ Aircraft Evaluation Group (FTW-AEG) Flight Standards district Office (FSDO) prior to the aircraft delivery, 
+ or upon issuance of the first standards airworthiness certificate for the affected aircraft, whichever occurs 
+ later as prescribed by Title 14 CFR 21.50. Type design changes by means of a FAA Form 337 (field 
+ approval) that require ICA’s must have those ICA’s reviewed by the field approving FSDO."
+Note 26,"Model 205B helicopters equipped with the External Cargo Suspension installation competed in accordance 
+ with Bell Drawing No. 204-706-104 meet structural and design requirements of the certification basis when 
+ operated at or below 11, 200 pounds gross weight in accordance with the limits of FAA approved Model 
+ 205B Rotorcraft Flight Manual Supplement dated August 14, 1995."
+Note 27,"Model 210 helicopters equipped with the External Cargo Suspension installation competed in accordance 
+ with Bell Service Instruction BHT-210-SI-4 meet structural and design requirements of the certification basis 
+ when operated at or below 11, 200 pounds gross weight in accordance with the limits of FAA approved 
+ Model 210 Rotorcraft Flight Manual Supplement dated January 18, 2006."

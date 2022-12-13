@@ -1,0 +1,315 @@
+Keyterm,Info
+"A22EU 
+ Revision 5 
+ De Havilland Support 
+ Limited 
+ Beagle B.121 
+ Series 1, 2, 3 
+ March 1, 2012",
+Type Certificate Holder,"De Havilland Support Limited 
+ Building 213 
+ Duxford Airfield 
+ Cambridgeshire 
+ CB2 4QR"
+Type Certificate Holder Record,"British Aerospace, Aircraft Group 
+ Scottish Division transferred TC A22EU to De Havilland Support Limited in October 
+ 2002"
+Type Certificate Ownership Record,"(1) This TC was considered not valid by the state of design on June 19, 2007, and has been replaced by 
+ European Aviation Safety Agency (EASA) Specific Airworthiness Specification (SAS) number 
+ EASA.SAS.A.082, issued June 19, 2007. Only standard airworthiness certificates issued prior to 
+ March 1, 2012 are valid. 
+ (2) Future unsafe conditions existing in the aircraft may result in the revocation of the airworthiness 
+ certificates of the aircraft if there is no entity to comply with 14 CFR § 21.99(a), “Required design 
+ changes.” 
+ (3) Replacement parts may not be available in the future."
+"I - Model B.121 Series 1 2PCLM (Normal and Utility Category), Approved January 11, 1969.",
+Engine,Rolls-Royce/Continental O-200-A
+Fuel,80/87 minimum grade aviation gasoline
+Engine limits,For all operations 2750 r.p.m. (100 h.p.)
+Propeller,"McCauley IA105/SCM7053 
+ Diameter range 70"" max. - 68.5"" min. 
+ Static r.p.m. at maximum permissible throttle setting (Cross wind): 
+ Not over 2400, not under 2300 
+ No additional tolerance permitted."
+Airspeed Limits IAS,"Knots 
+ M.P.H. 
+ Vne (Never exceed) 
+ 150 
+ 173 
+ Vno (Max. structural cruising) 
+ 120 
+ 138 
+ Va (Maneuvering) 
+ 110 
+ 127 
+ Vfe (Flaps extended 0° to 40° 
+ 100 
+ 115"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"5 
+ 2 
+ 2 
+ 2 
+ 5 
+ 2"
+CG range,"Normal Category 
+ (+66.1) to (+71.2) at 1470 lb. or less 
+ (+67.5) to (+71.2) at 1600 lb. 
+ Utility Category 
+ (+66.1) to (+69.1) at 1470 lb. or less 
+ (+67.5) to (+69.1) at 1600 lb. 
+ Straight line variation between points given"
+Empty weight CG range,None
+Maximum weight,1600 lb.
+Number of seats,2 (+78)
+Maximum baggage,85 lb. (+100)
+Fuel capacity,29 U.S. gallons usable (+65.1) (See Note 1 for data on unusable fuel).
+Oil capacity,1.0 U.S. gallons usable (+15) (See Note 1 for data on system oil).
+Control surface movements,"Wing flaps 
+ Up 
+ 0° 
+ Down 
+ 39.5° 
+ Aileron 
+ Up 
+ 28° 
+ Down 
+ 12° 
+ Elevator 
+ Up 
+ 30° 
+ Down 
+ 20° 
+ Elevator trim tab 
+ Up 
+ 13° 
+ Down 
+ 32° 
+ Rudder 
+ Left 
+ 25° 
+ Right 
+ 25°"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see CERTIFICATION BASIS) must be installed in the aircraft 
+ for certification. Beagle Report TECH/B121/62 contains a list of all required 
+ equipment as well as optional equipment installations approved by the 
+ A.R.B. 
+ In addition, the following item of equipment is required: 
+ a) 
+ Stall Warning Indicator (Safeflight 164) 
+ b) 
+ ARB Approved Flight Manual Doc. No.B.S.3/5 dated 6th September 
+ 1968."
+"II - Model B.121 Series 2 4PCLM (Normal Category), 2PCLM (Utility Category), Approved January 11, 1969. 
+ (Same as Model B.121 Series 1, except for power plant installation).",
+Engine,Lycoming O-320-A2B
+Fuel,80-87 minimum grade aviation gasoline
+Engine limits,For all operations 2700 r.p.m. (150 h.p.)
+Propeller,"Sensenich M74DMS-0-60 
+ Diameter range 74"" max. - 72"" min. 
+ Static r.p.m. at maximum permissible throttle setting (cross wind): 
+ Not over 2400, not under 2200 
+ No additional tolerance permitted."
+Airspeed limits IAS,"Knots 
+ M.P.H. 
+ Vne (Never exceed) 
+ 150 
+ 173 
+ Vno (Max. Structural cruising) 
+ 120 
+ 138 
+ Va (Maneuvering) 
+ 110 
+ 127 
+ Vfe (Flaps extended 0° to 40°) 100 
+ 115"
+CG range,"Normal Category 
+ (+62.8) to (+71.6) at 1250 lb. or less 
+ (+63.5) to (+71.6) at 1600 lb. 
+ (+65.8) to (+71.6) at 1800 lb. 
+ (+67.6) to (+71.2) at 1925 lb. 
+ Utility Category 
+ (+62.8) to (+69.1) at 1250 lb. or less 
+ (+63.5) to (+69.1) at 1600 lb. 
+ (+65.2) to (+69.1) at 1750 lb. 
+ Straight line variation between points given"
+Empty weight CG range,None
+Maximum weight,"1925 lb. Normal Category 
+ 1750 lb. Utility Category"
+Number of seats,2 (+78) (See Note 4)
+Maximum baggage,120 lb. (+124)
+Fuel capacity,"29 U.S. gallons usable (+65.1). 
+ Optional extra tankage 14 U.S. gallons usable (+65.1) (See Note 1 for data 
+ on unusable fuel)."
+Oil capacity,1.5 U.S. gallons usable (+12) (See Note 1 for data on system oil).
+Control surface movements,"Wing flaps 
+ Up 
+ 0° 
+ Down 
+ 39.5° 
+ Aileron 
+ Up 
+ 28° 
+ Down 
+ 12° 
+ Elevator 
+ Up 
+ 30° 
+ Down 
+ 20° 
+ Elevator trim tab 
+ Up 
+ 13° 
+ Down 
+ 32° 
+ Rudder 
+ Left 
+ 25° 
+ Right 
+ 25°"
+Equipment,"The basic required equipment as prescribed in the applicable 
+ airworthiness regulations (see Certification Basis) must be installed 
+ in the aircraft for certification. Beagle Report TECH/B121/76 contains 
+ a list of all required equipment as well as optional equipment 
+ installations approved by the A.R.B. 
+ In addition, the following item of equipment is required: 
+ a) 
+ Stall Warning Indicator (Safe Flight 164) 
+ b) 
+ A.R.B. Approved Flight Manual Doc. No.B.S.3/6 dated 6th 
+ September 1968."
+"III - Model B.121 Series 3 2PCLM (Normal) and Utility Category, Approved 19 January 1970. 
+ (Same as Model B.121 Series 1, except for power plant installation).",
+Engine,Lycoming O-320-D2C.
+Fuel,91/96 minimum grade aviation gasoline
+Engine limits,For all operations 2700 r.p.m. (160 h.p.)
+Propeller 1,"Sensenich M74DMS-0-62 
+ Diameter range 74"" max. - 72"" min. 
+ Static r.p.m. at maximum permissible throttle setting (cross wind): 
+ Not over 2400, not under 2200 
+ No additional tolerance permitted. 
+ 2. 
+ Sensenich 74DM655-0-62 
+ Diameter range 74"" max. - 72"" min. 
+ Static r.p.m. at maximum permissible throttle setting (cross wind): 
+ Not over 2400, not under 2200 
+ No additional tolerance permitted."
+Airspeed limits IAS,"Knots 
+ M.P.H. 
+ Vne (Never exceed) 
+ 150 
+ 173 
+ Vno (Max. Structural cruising) 
+ 120 
+ 138 
+ Va (Maneuvering) 
+ 110 
+ 127 
+ Vfe (Flaps extended 0° to 40°) 100 
+ 115"
+CG range,"Normal Category 
+ (+62.8) to (+71.6) at 1250 lb. or less 
+ (+63.5) to (+71.6) at 1600 lb. 
+ (+66.2) to (+71.6) at 1825 lb. 
+ (+67.6) to (+71.2) at 1950 lb. 
+ Utility Category 
+ (+62.8) to (+69.1) at 1250 lb. or less 
+ (+63.5) to (+69.1) at 1600 lb. 
+ (+65.2) to (+69.1) at 1750 lb. 
+ Straight line variation between points given"
+Empty weight CG range,None
+Maximum weight,"1950 lb. Normal Category 
+ 1750 lb. Utility Category"
+Number of seats,2 (+78) (See Note 4)
+Maximum baggage,120 lb. (+124)
+Fuel capacity,"42 U.S. gallons usable (+65.1) 
+ (See Note 1 for data on unusable fuel)."
+Oil capacity,"1.5 U.S. gallons usable (+15) 
+ (See Note 1 for data on system oil)."
+Control surface movements,"Wing flaps 
+ Up 
+ 0° 
+ Down 
+ 39.5° 
+ Aileron 
+ Up 
+ 28° 
+ Down 
+ 12° 
+ Elevator 
+ Up 
+ 27° 
+ Down 
+ 25° 
+ Elevator trim tab 
+ Up 
+ 13° 
+ Down 
+ 35° 
+ Rudder 
+ Left 
+ 25° 
+ Right 
+ 25°"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the aircraft for type 
+ certification. Beagle Report TECH/B121/89 contains a list of all required 
+ equipment as well as optional equipment installations approved by the 
+ A.R.B. 
+ In addition, the following item of equipment is required: 
+ a) 
+ Stall Warning Indicator (Safe Flight 164) 
+ b) 
+ A.R.B. Approved Flight Manual Doc. No.B.S.3/8 dated 16 
+ October, 1969."
+SPECIFICATIONS PERTINENT TO ALL MODELS,
+Datum,"Fuselage station zero which is situated 73.0 ins. forward of the weighing 
+ reference station which is marked on a plate on the fuselage."
+Leveling means,"Holes for datum pins on which straight edge is placed are located at 
+ Stns. 104 and 128.5 on left side of fuselage for longitudinal levelling 
+ and on each side of door frame at Stn. 100 for lateral levelling."
+Serial Nos eligible,"Only those aircraft serials holding a standard airworthiness certificate issued prior to 
+ March 1, 2012 are eligible. 
+ The United Kingdom Certificate of Airworthiness for Export endorsed as 
+ noted under ""Import Requirements"" must be submitted for each 
+ individual aircraft for which application for certification is made."
+Import Requirements,"None eligible after March 1, 2012. 
+ Previous to this date: 
+ A United States Airworthiness Certificate may be issued on the basis of a 
+ U.K. Certificate of Airworthiness for Export signed by a representative of 
+ the Board of Trade containing the following statement: 
+ ""The aircraft covered by this Certificate has been examined and found 
+ to comply with U.S. Federal Aviation Regulation FAR 23 effective 
+ February 1, 1965, including amendments 23-1 through 23-6 and conforms 
+ to Type Certificate A22EU""."
+Certification basis,"FAR 21.29, FAR 23, effective February 1, 1965, including amendments 
+ 23-1 through 23-6. 
+ Type Certificate No. A22EU issued January 11, 1969. 
+ Date of application for type certificate, January 12, 1966."
+NOTE 1,"Current weight and balance report including list of equipment included in certificated empty 
+ weight, and loading instructions when necessary, must be provided for each aircraft at the 
+ time of original certification. 
+ The certificated empty weight and corresponding centre of gravity location must include unusable 
+ fuel of 7 lb. (+65.1), (Series 1, 2 and 3) and system oil of 4 lb. (+15 Series 1) (+12 Series 2 
+ and 3)."
+NOTE 2,"The following placards must be displayed in full view of the pilot: 
+ THIS AIRPLANE MUST BE OPERATED AS A NORMAL OR UTILITY CATEGORY AIRPLANE IN 
+ COMPLIANCE WITH THE APPROVED AIRPLANE FLIGHT MANUAL. 
+ ALL MARKINGS AND PLACARDS ON THIS AIRPLANE APPLY TO ITS OPERATIONS AS A UTILITY 
+ CATEGORY AIRPLANE. FOR NORMAL CATEGORY OPERATIONS REFER TO THE AIRPLANE 
+ FLIGHT MANUAL. NO ACROBATIC MANOEUVRES, INCLUDING SPINS, ARE APPROVED FOR 
+ NORMAL CATEGORY OPERATIONS. 
+ FOOTNOTE: 
+ All placards required in the approved airplane Flight Manual must be installed in the appropriate 
+ locations."
+NOTE 3,"Each individual airplane will be supplied with a placard that specifies the kind of operation, such 
+ as V.F.R., I.F.R., day or night, to which the operation of the airplane is limited by the equipment 
+ installed."
+NOTE 4,"One or two additional rear seats (+110) may be installed in B.121 Series 2 and 3 airplanes 
+ to A.R.B. approved Beagle modifications Nos. BE.23 or BE.22 respectively."

@@ -1,0 +1,327 @@
+Keyterm,Info
+"A60NM 
+ Revision New 
+ ALENIA AERONAUTICA 
+ C-27J JCA 
+ December 21, 2010",
+Type Certificate Holder,"ALENIA AERONAUTICA S.p.A. 
+ Viale dell’Aeronautica 
+ 80038 Pomigliano d’Arco, Naples 
+ Italy"
+"I. Model C-27J JCA (Transport Category Airplane) approved December 21, 2010",
+Engines,"Two (2) Allison / Rolls Royce AE2100D2A (Engine Type Certificate TE1CH, dated September 
+ 24, 2008)"
+Fuel,"Fuels conforming to: 
+ ASTM D-1655 grades Jet-A and Jet A-1, 
+ MIL-T-5624 grade JP-5, and 
+ MIL-T-83133 grade JP-8 are acceptable. 
+ (see also the C-27J JCA Airplane Flight Manual AFM-1C-27J-JCA-1)"
+Engine data sheet,"Power 
+ Torque 
+ MGT 
+ Np(*) 
+ Ng(**) 
+ [SHP] 
+ m × daN [ft × lb] 
+ [°C] 
+ [%] 
+ [%]"
+Takeoff 5 min,"4637 
+ 234.9 (1732) 
+ 852 
+ 101 
+ 101 
+ 4637 
+ 234.9 (1732) 
+ 833 
+ 101 
+ 101"
+Transient,"- 
+ 262.1 (1933) 
+ - 
+ 114 
+ 102"
+,100% = 14267 revolutions per minute [r.p.m.]
+,"100% = 15265 revolutions per minute [r.p.m.] 
+ Other engine limitations: See the Engine Type Certificate Data Sheet TE1CH"
+Propeller,"Number and type: 
+ Two (2) - Dowty Propeller R391/6-132-F/10 
+ Blades: 
+ Six (6) - composite material 
+ Diameter: 
+ 4115 mm (162 inches) 
+ Minimum propeller pitch angle in flight range: 15° (software), 13° (mechanical) 
+ Minimum propeller pitch angle in ground range: -17° 
+ Feathered propeller pitch angle: 
+ 89°"
+Propeller Limits,See the relevant Propeller Type Certificate Data Sheet P15BO
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"New 
+ New 
+ New 
+ New 
+ New 
+ New"
+Auxiliary Power Unit,Hamilton Sundstrand T-62T-46C16 APS 1000
+Hydraulic Fluids,"Hydraulic Fluid specification: 
+ MIL-PRF-5606 or MIL-PRF-83282 
+ Oil specification: 
+ MIL-L-23699 
+ Engine and APU specification: 
+ MIL-L-7808"
+Airspeed Limits IAS,"VMO 
+ 260 KIAS from sea level to 18,400 ft 
+ MMO 
+ 0.55 from 18,400 ft to 25,000 ft 
+ VA (Maneuvering) 
+ 199 KIAS from sea level to 25,000 ft 
+ at 67,241 lb (30,500 kg) 
+ VFE (Flaps Extended) 
+ 1 
+ 180 KIAS 
+ 2 
+ 170 KIAS 
+ FULL 
+ 155 KIAS 
+ VLE 
+ 200 KIAS 
+ VLO 
+ 155 KIAS 
+ Tire Speed 
+ 210 MPH 
+ Windshield wiper operating speed 
+ 203 KIAS"
+Center of Gravity Limits,Refer to the C-27J JCA Airplane Flight Manual (AFM-1C-27J-JCA-1)
+Datum,Center line normal plane positioned 653 mm forward of the aircraft nose
+Leveling Means,Mount points of airplane floor positioned at frame No. 20 on right side (10000 mm from datum)
+Maximum Weights,"Taxi and ramp: 
+ 30700 Kg (67681 lbs) 
+ Take-off: 
+ 30500 Kg (67240 lbs) 
+ Landing: 
+ 27500 Kg (60626 lbs) 
+ Zero fuel: 
+ 26500 Kg (58422 lbs)"
+Minimum Crew,Two (2): Pilot and copilot
+Number of Seats,"Three (3): Pilot, copilot and flight deck observer"
+Maximum Compartment Weights,"Loading limitations referred to datum distances and measured in millimetres are: 
+ 5355 – 9145 
+ 1500 Kg/m and 600 Kg/m2 
+ 9145 – 10015 
+ 2500 Kg/m and 1000 Kg/m2 
+ 10015 – 11175 
+ 2500 Kg/m and 1000 Kg/m2 
+ 11175 – 12195 
+ 2500 Kg/m and 1000 Kg/m2 
+ 12195 – 13945 
+ 1500 Kg/m and 600 Kg/m2 
+ 13945 – 15905 
+ 1000 Kg/m and 400 Kg/m2 (ramp)"
+Tanks,"Usable Fuel 
+ Unusable Fuel 
+ Liters (Kg) 
+ Gallons (lb) 
+ Liters (Kg) 
+ Gallons (lb)"
+Wing,"Left Main Tank 
+ 3360 (2654) 
+ 888 (5852) 
+ 40 (32) 
+ 11 (70) 
+ Right Main Tank 
+ 3360 (2654) 
+ 888 (5852) 
+ 40 (32) 
+ 11 (70) 
+ Left Aux Tank 
+ 2800 (2212) 
+ 740 (4877) 
+ 57 (45) 
+ 15 (99) 
+ Right Aux Tank 
+ 2800 (2212) 
+ 740 (4877) 
+ 57 (45) 
+ 15 (99)"
+Total,"12320 (9732) 
+ 3256 (21458) 
+ 194 (154) 
+ 52 (338) 
+ NOTE: Weights are calculated for a typical JP-8 with an average standard day density of 790 kg/m3"
+Oil Capacity,"Engine oil: 
+ Two tanks with a capacity of 34 litres 
+ APU oil: 
+ One tank with a capacity of 4.73 litres"
+Maximum Operating Altitude,"25,000 ft (see Note 6)"
+Control Surface Movements,"Wing Flaps (outer/inner) 
+ 11.25°/5.0°, 22.5°/10.0° and 45.0°/20.0° 
+ Ailerons 
+ 26° up, 19° down (structural stop 27° up, 20° down) 
+ Spoilers 
+ 77.5° roll control 
+ 90° lift dumper (structural stop 91°) 
+ Elevator 
+ 25° up, 25° down (structural stop 27.5° up, 27.5° down 
+ Stabilizer 
+ fixed 
+ Rudder * 
+ 35 right, 35° left 
+ * NOTE: Rudder control system is equipped with a Rudder Travel Limiter Unit (RTLU)"
+Serial Numbers,"No civil C-27J JCA customers are presently identified. Military configured C-27J JCA airplanes 
+ could be eligible for a U.S. civil standard certificate of airworthiness (See “Import Requirements”) 
+ if exported from Italy to the U.S. with an Export Certificate of Airworthiness that references the 
+ FAA approved civil type design with identified deviations; these deviations must be rectified 
+ before such airplanes will be eligible for a U.S. civil standard certificate of airworthiness."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on an Export Certificate of Airworthiness 
+ (Export C of A) signed by a representative of the ENAC on behalf of the European Community. 
+ The Export C of A should contain the following statement: ‘The aircraft covered by this certificate 
+ has been examined, tested, and found to conform with the Type Design approved under U.S. Type 
+ Certificate No. A60NM and to be in a condition for safe operation.’"
+Certification Basis,"14 CFR Part 25, effective February 1, 1965, including Amendments 25-1 through 25-87 in entirety, 
+ plus Amendment 25-111, effective September 2, 2003, for 14 CFR 25.856(a), Amendment 25-122, 
+ effective September 5, 2007, for 14 CFR 25.1317 and Amendment 25-125, effective September 19, 
+ 2008, for 14 CFR 25.981(b) and the fuel tank flammability requirements of 25.981(d), as described 
+ in exemption No. 9847, and to prevent a potential unsafe design feature under 14 CFR 21.21(b)(2), 
+ the applicant is required to comply with EASA Certification Specification CS 25.1155 at 
+ Amendment 5. 
+ Special Conditions 
+ No. 25-390-SC 
+ Interaction of Systems and Structures 
+ No. 25-391-SC 
+ Liquid Oxygen System 
+ No. 25-392-SC 
+ Unique Systems and Equipment within a Class E Cargo 
+ Compartment. 
+ NOTE: The FAA Special Conditions referenced above may be accessed at internet 
+ location: 
+ http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgSC.nsf/MainFrame?OpenFrameSet 
+ Equivalent Safety Findings 
+ 14 CFR 25.791(b): Lavatory Passenger Information Signs (documented in TAD ELOS 
+ memo TC0371IB-T-C-5); 
+ 14 CFR 25.1093(b): Air Intake System Ice Protection (documented in TAD ELOS memo 
+ TC0371IB-T-P-1); 
+ 14 CFR 25.1549: APU Instruments, Markings, and Placards (documented in TAD ELOS 
+ memo TC0371IB-T-P-2); 
+ 14 CFR 25.1305(e)(1): Engine Torque Indications (documented in TAD ELOS memo 
+ TC0371IB-T-P-3); 
+ 14 CFR Part 25 Subparts E, F, & G: Adoption of draft harmonized rules for Auxiliary 
+ Power Unit (APU) Certification (documented in TAD ELOS memo TC0371IB-T-P-10); 
+ 14 CFR 25.671(c)(2): Flight Control System Failure Criteria (documented in TAD ELOS 
+ memo TC0371IB-T-S-5); 
+ 14 CFR 25.831(g): Acceptable High Temperature Physiological Environment During 
+ Failure Conditions (documented in TAD ELOS memo TC0371IB-T-S-17). 
+ NOTE: The FAA Equivalent Level of Safety Memos referenced above may be accessed 
+ at internet location: 
+ http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgELOS.nsf/MainFrame?OpenFrameSet 
+ Exemptions 
+ Exemption No. 9737 for 14 CFR Part 25 Section 25.562(b)(2), Amendment 25-64, 
+ “Emergency landing dynamic conditions”; 
+ Exemption No. 9847 for 14 CFR Part 26 Section 26.37 (b), Amendment 26-2, “Pending 
+ type certification projects: Fuel tank flammability”. 
+ NOTE: The FAA Exemptions referenced above may be accessed at internet location: 
+ http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgEX.nsf/MainFrame?OpenFrameSet 
+ Optional Requirements complied with: 
+ §25.1403 Wing icing detection lights; 
+ §25.1419 Ice protection. 
+ Continued Airworthiness and Safety Improvements 
+ Special Federal Aviation Regulation (SFAR) Number 88, Amendment 21-78, became 
+ effective June 6, 2001. SFAR No. 88, “Fuel Tank System Fault Tolerance Evaluation 
+ Requirements”, is applicable to the C-27J JCA. Alenia Aeronautica must satisfy the 
+ requirements of SFAR No. 88 within 18 months after issuance of the type certificate. 
+ 14 CFR Part 26, effective September 19, 2008, including Amendment 26-2. 
+ Environmental Standards 
+ 14 CFR Part 36, effective December 1, 1969, including Amendments 36-1 through 
+ 36-28; 
+ 14 CFR Part 34, effective September 10, 1990, including Amendments 34-1 
+ through 34-3. 
+ Additional Design Requirements and Conditions 
+ The following design details or information must be maintained to ensure that an unsafe 
+ design condition is not present: 
+ Severe Icing Conditions: Airplanes with pneumatic deicing boots and non-powered 
+ lateral axis flight controls can be more susceptible to a potential loss of control following 
+ an exposure to supercooled large drop icing conditions. Specific visual cues for 
+ identifying severe icing conditions for the C-27J were determined, and the airplane was 
+ shown to be controllable after such an encounter and capable of safely exiting these 
+ conditions. The Airplane Flight Manual (AFM) Limitations (Section 2-5 “Systems” and 
+ Section 2-7 “Icing Conditions”), Normal Procedures (Section 3-17 “Flight Conditions”) 
+ and Emergency Procedures (Section 4A-12 “Miscellaneous”) contain instructions for 
+ identifying severe icing conditions and procedures for safely exiting such conditions. 
+ Reverse Thrust and Propeller Pitch Settings below the Flight Regime: The C-27J 
+ includes a feature named “Beta Lock-Out System” to protect the intentional activation of 
+ the Reverse Thrust and Propeller Pitch Settings below the Flight Regime in flight. This 
+ Beta Lock-Out System is compliant with the requirements of EASA CS 25.1155 at 
+ Amendment 5. The Airplane Flight Manual (AFM) Limitations (Section 2-4 “Power 
+ Plant”), Emergency Procedures (Section 4A-2 “ACAWS” and Section 4A-3 “Engine”) 
+ and Procedures Following Failures (Section 4B-2 “ACAWS” and Section 4B-20 
+ “Avionics System”) contain instructions for operation during beta lock-out system 
+ malfunctions. 
+ Class E Cargo Compartment - Protection of essential systems: Cargo Compartment 
+ Lining panels are installed in the cargo compartment in order to assure protection against 
+ flame penetration for all essential systems and equipment. These panels meet the flame 
+ penetration resistance requirements of Appendix F Part III of JAR-25 (Change 14 
+ Amendment 25/96/1). The Cargo Compartment Lining consists of: 
+  
+ sidewall panels installed from frame 9 to frame 29; 
+  
+ ceiling panels installed from frame 9 to frame 32. 
+ Following a smoke event, the flight crew will apply the relevant Airplane Flight Manual 
+ (AFM) Emergency Procedures to shut-off cargo ventilation, depressurize the cabin to 
+ 24,000 feet and start emergency descent and landing as soon as possible (Section 4A-5 
+ “Smoke”). 
+ Fuel Tank Vent System Flame Arrestors: The fuel vent outlets of the Model C-27J 
+ include flame arrestors to prevent fuel tank explosions following an accident. Flame 
+ arrestors must be maintained that have flame holding capability for a minimum period of 
+ 2.5 minutes to allow passenger evacuation following an accident. The flame arrestor 
+ installation must also be designed such that either ice will not accumulate during icing 
+ conditions or the fuel tank pressures will be maintained within allowable limits by other 
+ means when the arrestor installation ices over."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see the 
+ Certification Basis) must be installed in the aircraft. As referenced in the paragraph 2.2 of Doc. ref. 
+ G-CONF-110/090-0100-0002-AL Issue 14 “C-27J – Civil Certification – Type Design Definition”, 
+ the lists of all equipment as well as optional approved equipment are contained in the document: 
+ Doc. ref. G-CONF-110/090-0100-0016-AL Issue 1 “Equipment Qualification List”."
+Airplane Flight Manual,EASA approved C-27J JCA Airplane Flight Manual AFM-1C-27J-JCA-1
+Service Information,"Each of the documents listed below that contain a statement that it is approved by the European 
+ Aviation Safety Agency (EASA) are accepted by the FAA and are considered FAA approved. 
+ Additionally, approvals issued by Alenia Aeronautica under the authority of EASA Design 
+ Organization Approval EASA.21J.003 are considered FAA approved. These approvals pertain to 
+ the design data only. 
+  
+ Alenia Aeronautica Service Bulletins, except as noted below, 
+  
+ Structural repair manuals 
+  
+ Vendor manuals referenced in Alenia Aeronautica Service Bulletins 
+  
+ Airplane flight manuals 
+  
+ Repair instructions. 
+ Note: Design changes that are contained in Alenia Aeronautica Service Bulletins and that are 
+ classified as Level 1 Major in accordance with either the US/Italy or US/EASA Bilateral Aviation 
+ Safety Agreement - Implementation Procedures for Airworthiness, must be approved by the FAA."
+NOTE 1,"A current weight and balance report, including a list of equipment included in the certificated 
+ empty weight, and loading instructions when necessary must be provided for each aircraft at the 
+ time of original certification. 
+ For further information see Weight and Balance Manual WBM-1C-27J-JCA-5."
+NOTE 2,"Airworthiness Limitations including structural inspections and retirement times for safe-life parts 
+ are listed in Doc. ref. G-CONF-110/090-0100-0017-AL Issue 1."
+NOTE 3,"Certification Maintenance Requirements are listed in Doc. ref. G-CONF-110/090-0100-0017-AL 
+ Issue 1 Section 4."
+NOTE 4,"Instructions for continued airworthiness (ICA) are incomplete. ICA must be complete and accepted 
+ by the FAA prior to delivery of the first airplane or issuance of a standard certificate of 
+ airworthiness, whichever occurs later. Contact the TC issuing office, ANM-116, for information."
+NOTE 5,"Other Operating Limitations: 
+ - 
+ The FAA pilot type rating has not been determined. No U.S. C-27J JCA pilot certificates may 
+ be issued until this is accomplished. 
+ - 
+ Operational suitability under 14 CFR Parts 91, 125, and 121 has not been evaluated. This 
+ aircraft may not be operated under those regulations until this evaluation has been 
+ accomplished."
+NOTE 6,"FAA ACO’s should coordinate with the TC issuing office (ANM-116) any changes intended to 
+ increase the airplane maximum operating altitude above 25,000 feet (reference Issue Paper G-1)."

@@ -1,0 +1,180 @@
+Keyterm,Info
+"A-784 
+ Revision 3 
+ GOODYEAR 
+ GA-2 
+ GA-2B 
+ December 2, 1949",
+Manufacturer,"Goodyear Aircraft Corporation 
+ Akron, Ohio"
+"I. Model GA-2, 3 PCAmM, approved February 28, 1947",
+Engine,Franklin GA4-145-A3
+Fuel,80 min. octane aviation gasoline
+Engine Limits,"For all operations, 2600 rpm (145 hp)"
+Airspeed Limits,"Level flight or climb 
+ 120 mph True Ind. 
+ Glide or dive 
+ 150 mph True Ind. 
+ Landing gear down 
+ 115 mph True Ind."
+CG Range,(+53.2) to (+60.6)
+Empty Weight C G Range,"(+61.5) to (+64.3). When empty weight C.G. falls within this range, 
+ computation of critical fore and aft C. G. positions is unnecessary. 
+ Range is not valid for non-standard arrangements."
+Maximum Weight,2200 lbs.
+No Seats,"3 (two at +18, one at +46)"
+Maximum baggage,80 lb. (+67) (except none for Serial No. XA-11)
+Fuel Capacity,30 gal. (one 30-gal. tank) (+68)
+Oil Capacity,2 gal. (+70)
+Control surface movements,"Elevator 
+ Up 
+ 23° 
+ Down 
+ 13° 
+ Elevator tab 
+ Up 
+ 23° 
+ Down 
+ 23° 
+ Rudder 
+ Left 
+ 20° 
+ Right 
+ 20° 
+ Aileron 
+ Up 
+ 25° 
+ Down 
+ 15°"
+Serial nos eligible,"XA-11, 4021, 4025 to 4032, inlcusive."
+Required equipment,"Items 1, 101, 102, 103, 104, 105, 106, 201, 202, 203 and 302."
+"II. Model GA-2B, 3PCAmM, approved August 12, 1949",
+Engine,Franklin 6A4-165-B3
+Fuel,80 min. octane aviation gasoline
+Engine Limits,"For all operations, 2800 rpm (165 hp)"
+Airspeed Limits,"Level flight or climb 
+ 120 mph True Ind. 
+ Glide or dive 
+ 150 mph True Ind. 
+ Landing gear down 
+ 115 mph True Ind."
+Page No,"1 
+ 2 
+ 3"
+Rev No,"3 
+ 3 
+ 3"
+CG Range,(+53.2) to (+60.6)
+Empty Weight CG Range,"(+61.5) to (+65.0). When empty weight C.G. falls within this range, 
+ computation of critical fore and aft C.G. positions is unnecessary. 
+ Range is not valid for non-standard arrangements."
+Maximum Weight,2300 lbs.
+No Seats,"3 (two at +18, one at +46)"
+Maximum Baggage,80 lbs. (+67)
+Fuel Capacity,42 gal. (two 21 gal. wing tanks) (+50)
+Oil Capacity,9 qts. (+70)
+Control surface movements,"Elevator 
+ Up 
+ 20° 
+ Down 
+ 16° 
+ Elevator tab 
+ Up 
+ 18° 
+ Down 
+ 23° 
+ Rudder 
+ Left 
+ 20° 
+ Right 
+ 20° 
+ Aileron 
+ Up 
+ 25° 
+ Down 
+ 15° 
+ Stabilizer 
+ Fixed"
+Serial nos eligible,"4019, 4020, 4022, 4023, 4024, 4033 and up."
+Required equipment,"Items 2, 101, 102, 103, 104, 105, 106, 201, 202, 203, and 302."
+SPECIFICATIONS PERTINENT TO ALL MODELS,
+Datum,Any point on aft face of vertical windshield frame.
+Leveling means,Bottom of door frame.
+Certification basis,Type Certificate No. 784 (CAR 4a)
+Production basis,"None. Prior to original certification a CAA representative must perform a 
+ detailed inspection for workmanship, materials, and conformity with the 
+ approved technical data, and a check of the flight characteristics."
+Export eligibility,"Eligible for export to all countries except as follows, subject to the provisions 
+ of ASR 312 (MOP 2-4 contains the same information: 
+ Canada - Landplane: eligible 
+ Skiplane: not eligible 
+ Equipment: A plus (+) or minus (-) sign preceding the weight of an item indicates net weight change when that item"
+"1. 
+ Koppers Aeromatic F200 with 00-78 blades (Model GA-2)",
+Koppers Aeromatic F2000076BL Model GA2B,32 lbs. (+93)
+Parts List Assembly No 43781,"Installation and operation must be accomplished in accordance with Koppers ""Installation 
+ Procedure and Operating Limitations No. 48."" 
+ Low pitch setting 13° at 24 in. sta. 
+ Static rpm at max. permissible throttle setting - 
+ Not over 2750, not under 2680. No additional tolerance permitted. 
+ Diameter: Not over 76 in., not under 74.5 in."
+3.,
+"101. 
+ Starter (Delco-Remy with solenoid), Model No. 1109681",
+"102. 
+ Carburetor air heater and scoop, Goodyear Dwg. 2A600-2 (Model GA-2)",
+"Carburetor air heater and scoop, Goodyear Dwg. No. 2A600-602 (Model GA-2B)",
+103,"Engine-driven fuel pump, AC No. EC-1539072 
+ 3 lbs. (+62)"
+"104. 
+ Emergency hand fuel pump, Aero Mfg. Co. Model 560 Type D2",
+"105. 
+ Oil cooler, Heat Exchanger's Inc. Model 100 (Model GA-2)",
+"Oil cooper, Heat Exchanger's Inc. Model 100 (Model GA-2B) (both required)",
+106,"Engine cooling blower, Goodyear Dwg. No. 2A660-2 
+ 16 lbs. (+89) 
+ All airplanes also require propeller flange extension, Dwg. No. 2A660-4."
+"107. 
+ Auxiliary wing tank, Goodyear Dwg. 2A100S501 (Model GA-2 only)",
+Cabin heater Model GA2B,13 lbs. (+64)
+201,"Two main wheel-brake assemblies, 6.00-6, Type III and 7.00-6 4-ply rating tires with tubes"
+a,"Goodyear Model L6HBD 
+ 37 lbs. (+39) 
+ Wheel Assembly No. 511413-M 
+ Brake Assembly No. 9520292"
+b Goodyear Model CL6HBM,"47 lbs. (+39) 
+ (cross-wind wheel) 
+ Wheel-brake Assembly No. 266AX36 
+ Wheel installation Dwg. No. 280AX1"
+a,"Goodyear Dwg. No. 2A421-2-100 
+ 14 lbs. (+213) 
+ (b) Goodyear Dwg. No. SK-12148 (for XA-11 only) 
+ 12 lbs. (+220)"
+203,"Landing gear retraction crank Goodyear Dwg. No. 2A417-18 
+ 1 lb. (+37)"
+301,"Generator, Delco-Remy 25 amp., with voltage regulator 
+ 16 lbs. (+55)"
+"302. 
+ Battery, Reading Model R33L, and box (Model GA-2)",
+"Battery, Reading Model R33L, and box (Model GA-2B)",
+"303. 
+ Landing lights, Goodyear Dwg. 2A100S500 (Model GA-2)",
+"Landing lights, Goodyear Dwg. 2A100-634 (Model GA-2B)",
+401,"Life Preservers - Inflated seat back cushions (3) 
+ 2 front 
+ 5 lbs. (+18) 
+ 1 rear 
+ 2 lbs. (+46)"
+"601. 
+ Water anchor, Northill Co., No. 6, with line and clevis (Model GA-2)",
+"Water anchor, Danforth Mark V, with line and clevis (Model GA-2B)",
+602,"Water rudder, retractable, Goodyear Drawing No. 2A200-5 
+ 3 lbs. (+240)"
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight empty, 
+ and loading instructions when necessary, must be in each aircraft at the time of original certification 
+ and at all times thereafter (except in the case of air carrier operators having an approved weight 
+ control system)."
+NOTE 2,"The following placards must be displayed in front of and in clear view of the pilot: 
+ (a) 
+ ""Do not extend landing gear above 115 mph."" 
+ (b) ""Intentional spins prohibited."""

@@ -1,0 +1,190 @@
+Keyterm,Info
+"R00027LA 
+ REEDER FLYING SERVICE INC. 
+ UH-60A 
+ Revision 0 
+ April 20, 2021",
+TYPE CERTIFICATE TC,REEDER FLYING SERVICE INC.
+HOLDER,"644 Airport Loop 
+ Twin Falls, ID 83301-0367"
+"I - MODEL: UH-60A (Restricted Category Military Surplus Rotorcraft) Approved April 15, 2021.",
+ENGINES,"(2) General Electric T700-GE-701D/CC Original 
+ (2) General Electric T700-GE-700 (Alternate) 
+ * See NOTE 8 for alternate engine information."
+FUEL,"Aviation Kerosene JP-4, JP-5, JP-8, Jet A, Jet A-1 or Jet B. 
+ *See NOTE 8 for alternate and emergency fuels."
+ENGINE LIMITS T700GE700,"SHAFT 
+ POWER TURBINE 
+ GAS GEN 
+ POWER TURBINE 
+ HP 
+ RPM 
+ RPM 
+ INLET (TGT)"
+Military Power 30 min,"1,561 
+ 20,900 
+ 44,700 
+ 850º C 
+ 1,318 
+ 20,900 
+ 44,700 
+ 775º C"
+ENGINE LIMITS T700GE701DCC,"POWER TURBINE 
+ SHAFT 
+ POWER TURBINE 
+ GAS GEN 
+ INLET (TGT) 
+ HP 
+ RPM/% 
+ RPM/% 
+ 1,940 
+ 20,900/100 
+ 44,700/102 
+ 903º C"
+Maximum Rating 10 Min dual,"1,890 
+ 20,900/100 
+ 44,700/102 
+ 878º C 
+ 1,800 
+ 20,900/100 
+ 44,700/102 
+ 851º C"
+min dual,"1,662 
+ 20,900/100 
+ 44,700/102 
+ 810º C"
+TRANSMISSION LIMITS,TORQUE:
+UH60A,"110% Single Engine (No time limit) 
+ 100% Dual Engine (No time limit)"
+ROTOR LIMITS,"Max. 258 RPM 
+ Min. 232 RPM"
+AIRSPEED LIMITS,"Vne Power on: 193 knots IAS, (221 MPH). See document RFM-RF-001 “Rotorcraft Flight 
+ Manual for UH-60A Blackhawk Helicopter”, Revision NC, Dated April 12, 2021, or later 
+ FAA-approved revision for variations of Vne with gross weight, pressure altitude, and 
+ temperature and for additional data."
+Page No,"1 
+ 2 
+ 3 
+ 4"
+Rev No,"- 
+ - 
+ - 
+ -"
+EMPTY WEIGHT CG RANGE,None
+DATUM,341.2 inches forward of the main rotor centroid.
+LEVELING MEANS,"Plumb bob in L/H cabin door frame to leveling plate on cabin floor. Ref. Work Package 1727 
+ contained in TM 1-1570-237-23."
+MAXIMUM WEIGHT,"22,000 lbs."
+MINIMUM CREW,"2 (pilot, copilot)"
+NUMBER OF SEATS,"2 at Sta. 227.1; 1 at Sta. 262.0; 3 at Sta. 282.0; 3 at Sta. 320.7; 4 at Sta. 339.8; 4 at Sta. 
+ 387.2."
+FUEL CAPACITY,"361.5 gallons; 2 tanks (LH & RH interchangeable). 
+ 359.7 gallons; 2 tanks (LH &RH interchangeable) (with fuel boost pumps installed). At Sta. 
+ 420.75"
+OIL CAPACITY,7 quarts each engine at Sta. 375.0.
+OTHER LIMITS,"Refer to Reeder Flying Service document no RFM-RF-001 “Rotorcraft Flight Manual for 
+ UH-60A Blackhawk Helicopter”, Revision NC, Dated April 12, 2021, or later FAA approved 
+ revisions. Flight hours are counted from takeoff to landing."
+SERIAL NO APPROVED,"U.S. military surplus UH-60A Blackhawk helicopters as identified in Reeder Flying Service 
+ Inc. Serial Number Approved Serial Number List RPT-RF-102, Rev. NC dated July 20, 2020, 
+ or later FAA-approved revision"
+CERTIFICATION BASIS,"14 CFR Part 21 § 21.25(a)(2) for the special purposes listed in FAR 21.25 (b)(1)(2)(7) as 
+ defined below. 
+ (1) 
+ § 21.25(b) (1) Agriculture Operations 
+ (2) 
+ § 21.25(b) (2) Forest & Wildlife Conservation 
+ (3) 
+ § 21.25(b) (7) External Loads 
+ shown. 
+ Therefore, aircraft certificated under this type certificate are only eligible for aerial 
+ dispensing of liquids and forest conservation material excepted by § 36.1(a) (4) and 
+ defined under § 137.3 and 133.1(b). 
+ Any alteration to the aircraft for Special Purposes not identified above require further FAA 
+ approval and in addition, may require noise and/or flight testing. 
+ This aircraft is approved for Day or Night VFR operations only. Flight into known icing 
+ conditions is prohibited. 
+ General Note: Any subsequent modifications to the helicopters type certified under this 
+ Type Certificate are to have the certification basis for that modification established under 
+ 14 CFR part 21 § 21.101 published June 7, 2000 which became effective June 10, 2003. 
+ Otherwise non-significant modifications are to meet the requirements of 14 CFR 29 
+ airworthiness standards, transport category, Amendment 1, effective August 12, 1965 and 
+ 14 CFR part 29 § 29.1529, Instructions for Continued Airworthiness, Amendment 20, 
+ effective September 11, 1980."
+DATE OF APPLICATION,"March 16, 2020"
+PRODUCTION BASIS,"None. No helicopters may be produced under this approval. No helicopter serial number 
+ may be added to this type certificate unless approved by the cognizant Aircraft Certification 
+ Office."
+EQUIPMENT,"The basic required equipment necessary for the particular special purpose operation must 
+ be installed for certification. In addition, the following items of equipment must be on board 
+ the helicopter and available to the crew: 
+ “Rotorcraft Flight Manual for UH-60A Blackhawk Helicopter:”, Document number RFM-RF- 
+ 001, Revision NC, Dated April 12, 2021 or later FAA-approved revision"
+NOTE 1,"A current weight and balance report, including a list of equipment included in the 
+ certified empty weight, and loading instructions when necessary, must be provided for 
+ each helicopter at the time of original airworthiness certification."
+NOTE 2,"All placards required by either the FAA-approved Rotorcraft Flight Manual. the 
+ applicable operating rules, or the Type Certification Data, must be installed on 
+ the helicopter. Required placards are contained in Reeder Flying Service Inc. 
+ Engineering Configuration Drawing number RF-001-101, Revision NC dated 
+ March 23, 2020, or later FAA-approved revision, or any applied technical 
+ bulletins."
+NOTE 3,"The helicopter(s) must be serviced, maintained, inspected, repaired and overhauled in 
+ accordance with the requirements specified in Reeder Flying Service Inc. document ICA- 
+ RF-001 “Instructions for Continued Airworthiness” Rev. B, dated January 25, 2021, or 
+ later FAA accepted revision, or inspected in accordance with other FAA accepted 
+ inspection programs. The service life limited parts overhaul and retirement intervals for 
+ these helicopters is specified in the FAA-Approved airworthiness limitation sections of the 
+ ICA-RF-001. An FAA approved/accepted copy must accompany each helicopter on 
+ delivery. 
+ General Electric (GE) Aviation Unit and T700 Intermediate Maintenance Manual SEI 671 
+ Change 1, dated March 1, 2014 and General Electric (GE) T700 Depot Maintenance 
+ Manual SEI 676 Change 7 dated September 1, 2013 or later FAA-accepted revision, are 
+ an acceptable alternate method for servicing, maintaining, inspecting, repairing and 
+ overhauling General Electric GE T700-GE-700, T700-GE-701C and T700-GE-701D/CC 
+ engines. Revisions to the above listed manuals must be submitted to the FAA Boston 
+ Aircraft Certification Office for review and concurrence before being submitted to the 
+ FAA Fort Worth Aircraft Evaluation Division for FAA-acceptance"
+NOTE 4,"This helicopter must be operated in accordance with the Operator Manual “Rotorcraft 
+ Flight Manual for UH-60A Blackhawk Helicopter”, Document number RFM-RF-001, 
+ Revision NC, Dated April 12, 2021, or later FAA-approved revision. 
+ cargo is limited to such cargo that is incidental to the helicopter owner/operator's 
+ business, which is other than air transportation."
+NOTE 6,"A Restricted Category helicopter may not be operated in a foreign country without the 
+ express written approval of that country."
+NOTE 7,"This helicopter has not been shown to meet the requirements of the applicable 
+ comprehensive and detailed airworthiness code as provided by Annex 8 to the 
+ Convention on International Civil Aviation."
+NOTE 8,"Installation of T-700-GE-701D/CC engines in accordance with Reeder Flying Service 
+ Inc. Technical Bulletins TB-RF-101, ""T700-GE-701D/CC Engine Installation, Revision 
+ NC, dated July 20, 2020, or later FAA-approved revision, and TB-RF-102, ""T700-GE- 
+ 701D/CC Auto Relight and Transient Droop Improvement Installation, Revision NC 
+ dated July 20, 2020, or later FAA-approved revision, is approved for the model UH-60A 
+ helicopters under this type certificate. Performance information and limitations with 
+ T700-GE-701D/CC engines are contained in Chapter 7A of RFM-RF-001 “Rotorcraft 
+ Flight Manual for UH-60A Blackhawk Helicopter”, Revision NC, Dated April 12, 2021."
+NOTE 9,"The US Army Safety Messages that must be complied with for the helicopter and engine 
+ prior to certification are contained in Reeder Flying Service, Inc. Engineering Configuration 
+ Report document RPT-RF-100, Revision A, dated January 25, 2021, or later FAA-approved 
+ revision."
+NOTE 10,"Alternative and emergency fuels are listed in document no. RFM-RF-001 “Rotorcraft 
+ Flight Manual for UH-60A Blackhawk Helicopter”, Revision NC, Dated April 12, 2021 or 
+ later FAA-approved revision."
+NOTE 11,"No person may be carried onboard this aircraft unless that person is a flight crewmember: 
+ is a flight crewmember trainee: performs an essential function in connection with a 
+ special purpose operation for which the aircraft is certificated: or is necessary to 
+ accomplish the work activity directly associated with that special purpose. Reference 14 
+ CFR §91 .3I 3(d)."
+NOTE 12,"Any alteration to the type design of this aircraft may require Instructions for Continued 
+ Airworthiness. Changes to the type design by means of a Supplemental Type Certificate 
+ requiring ICAs or changes to existing ICAs must be submitted and received by the Fort 
+ Worth Aircraft Evaluation Division. Type design changes by means or an FAA field 
+ approval that require ICAs must have those ICAs reviewed by the Flight Standards 
+ District Office managing the field approval or the Fort Worth Aircraft Evaluation 
+ Division."
+NOTE 13,"No helicopter may obtain a Restricted Category Airworthiness Certificate under this type 
+ certificate unless it is included in the ""Approved Serial Number List "", Reeder Flying 
+ Service Report Number RPT-RF-102, Revision NC, Dated July 20, 2020, or later FAA 
+ approved revision."
+NOTE 14,"The builder's data plate must be installed in accordance with Reeder Flying Service Inc. 
+ Drawing RF-001-101, Revision NC dated July 20, 2020, or later FAA-approved revision."

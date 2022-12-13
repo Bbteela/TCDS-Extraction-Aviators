@@ -1,0 +1,2154 @@
+Keyterm,Info
+"1H11 
+ Revision 20 
+ Centerpointe Aerospace Inc. 
+ S-58A 
+ S-58J 
+ S-58B 
+ S-58BT 
+ S-58C 
+ S-58DT 
+ S-58D 
+ S-58ET 
+ S-58E 
+ S-58FT 
+ S-58F 
+ S-58HT 
+ S-58G 
+ S-58JT 
+ S-58H 
+ Military Models (See Note 6, 7, 8) 
+ September 19, 2019",
+Type Certificate Holder,"Centerpointe Aerospace Inc 
+ 279 Blackland Road 
+ Royse City, TX 75189"
+Type Certificate Holder Record,"California Helicopter Airways Inc. became Centerpointe Aerospace Inc. on September 19, 2019. 
+ Sikorsky Aircraft transferred TC 1H11 to California Helicopter Airways Inc. on May 06, 2015."
+"I. - Model S-58A, S-58B, S-58C, 14 PLCH, Approved August 2, 1956, Model S-58D, 14 PLCH, Approved December 15, 
+ 1961, Model S-58E, 14 PLCH, Approved May 27, 1971, Model S-58F, S-58G, S-58H, S-58J, 14 PLCH, Approved 
+ March 15, 1972. (See Note 6, 7, 8 for Military versions.)",
+Engine,"1. 
+ Wright Cyclone 989C9HE-2 or 
+ 2. 
+ Wright Cyclone 998C9HE-2 engine (Same limitations as for Wright 989C9HE-2)"
+Fuel,"115/145, 100/130 minimum grade aviation gasoline"
+Engine limits,"M.P. 
+ HP 
+ R.P.M. 
+ in Hg. 
+ Alt. 
+ Fuel Grade 115/145 
+ Maximum continuous 
+ 1275 
+ 2500 
+ 47.5 
+ S.L. 
+ Maximum continuous 
+ 1275 
+ 1500 
+ 46.0 
+ 3500 ft. 
+ Takeoff (five minutes) 
+ 1525 
+ 2800 
+ 56.5 
+ S.L. 
+ Takeoff (five minutes) 
+ 1525 
+ 2800 
+ 55.5 
+ 700 ft. 
+ (Straight line manifold pressure variation with altitudes shown) 
+ Fuel Grade 100/130 (Item 401(f) required) 
+ Maximum continuous 
+ 1275 
+ 2500 
+ 47.5 
+ S.L. 
+ Maximum continuous 
+ 1275 
+ 2500 
+ 46.0 
+ 3500 ft. 
+ Takeoff (five minutes) 
+ 1425 
+ 2800 
+ 53.0 
+ S.L. 
+ Takeoff (five minutes) 
+ 1425 
+ 2800 
+ 52.0 
+ 2900 ft. 
+ (Straight line manifold pressure variation with altitude shown)"
+Rotor limits,"Maximum 258 r.p.m. 
+ Minimum 170 r.p.m. See NOTE 3 for required placard."
+Airspeed limits,"Maximum never exceed 120 knots CAS (117 knot IAS). 
+ See NOTE 3 for required placard."
+CG range,(+129.6) to (+146.7)
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19"
+Rev No,"17 
+ 16 
+ 16 
+ 18 
+ 16 
+ 18 
+ 18 
+ 17 
+ 17 
+ 16 
+ 16 
+ 16 
+ 16 
+ 16 
+ 17 
+ 18 
+ 18 
+ 16 
+ 20"
+Empty wt CG range,None
+Maximum weight,"12,700 lb. for S-58A, S-58B, S-58C, (See Item 604 for higher weight) 
+ 13,000 lb. for S-58D and S-58E 
+ 12,500 lb. for S-58F, S-58G, S-58H, S-58J. (See NOTE 9 for these Models)."
+No seats,"14 Pilot and co-pilot: (+93) 
+ Passengers: 
+ (S-58A): 3 at (+131), 1 at (+162), 1 at (+175), 1 at (+180), 1 at (+198), 1 at (+211), 1 at 
+ (+218), 3 at (+254). 
+ (S-58C): 3 at (+131), 3 at (+174), 3 at (+211), 3 at (+254) (also S-58G) 
+ (See item 402 for model S-58B, S-58D, S-58E, S-58F, S-58H, S-58J seating 
+ arrangements to 16)"
+Maximum baggage,"(S-58A) Lower shelf 260 lb. (+97) 
+ Upper shelf 100 lb. (+95) 
+ (S-58B, S-58D, S-58E) 200 lb./sq.ft. (+82.5 to +246) 
+ (S-58C) 
+ 200 lb./sq.ft. (+82.5 to +112) 
+ (See NOTE 5 for cargo capacity.) 
+ (Refer to the appropriate Helicopter Flight Manual for additional information.)"
+Fuel Capacity,"See NOTE 1 for data on system fuel and oil. 
+ 12 Cell Configuration S-58A, S-58B, S-58C, S-58F, S-58G 
+ USABLE FUEL (Pump Type Transfer System) 
+ Location 
+ Volume (Gal) 
+ Maximum Weight (lb.) 
+ Arm (In.) 
+ Forward Tank 
+ 124 
+ 744 
+ 121 
+ Center Tank 
+ 69 
+ 414 
+ 184 
+ Aft Tank 
+ 92 
+ 552 
+ 223 
+ TOTAL 
+ 285 
+ 1710 
+ 12 Cell Configuration S-58D, S-58E, S-58H, S58J 
+ USABLE FUEL (Ejector Type Transfer System) 
+ Location 
+ Volume (Gal.) 
+ Maximum Weight (lb.) 
+ Arm (In.) 
+ Forward 
+ 99 
+ 594 
+ 121 
+ Center Tank 
+ 68 
+ 408 
+ 184 
+ Aft Tank 
+ 87 
+ 522 
+ 233 
+ TOTAL 
+ 254 
+ 1524 
+ 11 Cell Configuration S-58E, S-58D, S-58H, S-58J 
+ USABLE FUEL (Ejector Type Transfer System) 
+ Location 
+ Volume (Gal.) 
+ Maximum Weight (lb.) 
+ Arm (In.) 
+ Forward Tank 
+ 99 
+ 594 
+ 121 
+ Center Tank 
+ 68 
+ 408 
+ 184 
+ Aft Tank 
+ 87 
+ 522 
+ 233 
+ TOTAL 
+ 254 
+ 1524"
+Oil Capacity,10.5 gal. (+75)
+Rotor blade movements,For rigging information refer to Maintenance Manual.
+Serial Nos eligible,"58310, 
+ 58312, 
+ 58324, 
+ 58333, 
+ 58350, 
+ 58356, 
+ 58363, 
+ 58387, 
+ 58388, 
+ 58395, 
+ 58396, 
+ 58403, 
+ 58410, 
+ 58414, 
+ 58432, 
+ 58449, 
+ 58462, 
+ 58470, 
+ 58482, 
+ 58519, 
+ 58530, 
+ 58534, 
+ 58700, 
+ 58775, 
+ 58807, 
+ 58836, 
+ 58898, 
+ 581016, 
+ 581573, 
+ (See NOTE 6, 7, 8 for other S/N's eligible)"
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 6, the following 
+ items of equipment must be installed: 
+ 102, 104, 105, 111, 112, 201, 202, 205, 206, 301, 302, 303, 401"
+Certification basis,"Type Certificate No. 1H11 (CAR 6, January 15, 1951 and Amendment 6-1 through 6-6). 
+ The Model S-58C is eligible for scheduled air carrier operation."
+"II- Model S-58BT, S-58DT, S-58ET, 14 PLCH, Approved 18 February 1972 
+ Model S-58FT, S-58HT, S-58JT, 14 PLCH, Approved 27 March 1972 
+ (See NOTE 6, 7, 8 for Military Versions) (See NOTE 10 regarding Supplemental Type Certification of P&WA 
+ ACL PT6T3 Conversion",
+Engine,"1. 
+ Pratt & Whitney Aircraft of Canada, Ltd. PT6T-3 Twin Power Section Turboshaft 
+ (Ref. NOTE 5 Engine Type Certificate Data Sheet No. E22EA) or 
+ 2. 
+ Pratt & Whitney Aircraft of Canada, Ltd. PT6T-6 Twin Power Section Turboshaft 
+ (Ref. NOTE 5 Engine Type Certificate Data Sheet No. E22EA)"
+Fuel,"1. 
+ PT6T-3 Twin Power Section Turboshaft: 
+ JP-1, JP-4 and JP-5 conforming to current issue of PWA Specification No. 522. 
+ Emergency use of aviation gasoline, all grades; (MIL-G-5572) is permitted for a 
+ total time period not exceeding 150 hours during any overhaul period. 
+ 2. 
+ PT6T-6 Twin Power Section Turboshaft: 
+ Fuels conforming to PWA Specification No. 522 and CPW-46, and later revisions. 
+ Emergency use of MIL-G-5572, Grades 80/87, 91/98, 100/130, and 115/145, is 
+ permitted for a total time period not exceeding 150 hours, or 450 hours using a 1:3 
+ mixture of aviation gasoline and aviation kerosene, during any overhaul period. 
+ 3. 
+ See NOTE 14."
+Engine limits,"1. 
+ PT6T-3 Twin Power Section Turboshaft: 
+ Sea Level Static, Standard Day Conditions. Total power output 
+ Shaft 
+ Power Turbine 
+ Gas Gen. 
+ Power Turbine 
+ RFM Item 401(o) 
+ hp. 
+ r.p.m. 
+ r.p.m. 
+ Inlet Temp T5 
+ Takeoff (5 min.) 
+ 1505 
+ 3300(100%) 
+ 38100(100%) 
+ 810°C 
+ Maximum continuous 
+ 1262 
+ 29700(90%)Max. 
+ 38100(100%) 
+ 765°C 
+ 29040(88%)Min. 
+ Transient limit (10 sec) 
+ (101.5%) 
+ 850°C 
+ Starting limit (2 sec) 
+ 1090°C 
+ Total power output, Meeting FAR 29, Category ""A"" Powerplant Installation 
+ Requirements 
+ Shaft 
+ Power Turbine 
+ Gas. Gen. 
+ Power Turbine 
+ RFM Item 401(p) or 401(s) 
+ hp. 
+ r.p.m. 
+ r.p.m. 
+ Inlet Temp T5 
+ Takeoff (5 min.) 
+ 1625 
+ 33000 (100%) 
+ 38100 (100%) 
+ 810°C 
+ Maximum continuous 
+ 1420 
+ 31020 (94%)Max. 
+ 38100 (100%) 
+ 765°C 
+ 30360 (92%)Min. 
+ Transient limit (10 sec) 
+ (101.5%) 
+ 850°C 
+ Starting limit (2 sec) 
+ 1090°C 
+ Single power section 
+ 900 
+ 33000 (100%) 
+ 38100 (100%) 
+ 810°C 
+ See NOTE 10 
+ 2. 
+ PT6T-6 Twin power Section Turboshaft: 
+ Sea Level Static, Standard Day Conditions. Total power output Meeting FAR 29, 
+ Category ""A"" Power Plant Installation Requirements 
+ Shaft 
+ Power Turbine 
+ Gas. Gen. 
+ Exhaust Gas 
+ RFM Item 401(s) 
+ hp. 
+ r.p.m. 
+ r.p.m. 
+ Temp T7 
+ Takeoff (5 min.) 
+ 1625 
+ 33000 (100%) 
+ 38400 (100.8%) 
+ 624°C 
+ Maximum continuous 
+ 1420 
+ 31020 (94%)Max. 
+ 38400 (100.8%) 
+ 593°C 
+ 30360 (92%)Min. 
+ Transient limit (5 sec) 
+ 39100 (102.6%) 
+ 645°C 
+ Starting limit (2 sec) 
+ 760°C 
+ Single power section 
+ 970 
+ 33000 (100%) 
+ 38400 (100.8%) 
+ 624°C 
+ See NOTE 13."
+Rotor limits,"Maximum 258 r.p.m. (104% Nr) 
+ Minimum 170 r.p.m. (68% Nr)"
+Airspeed limits,"Never exceed 120 knots CAS (117 knots IAS) 
+ See NOTE 3 for required placard."
+CG range,(+129.6) to (+146.7)
+Empty wt CG range,None
+Maximum weight,"13000 lb. for S-58BT, S-58DT, S58ET 
+ 12500 lb. for S-58FT, S-58HT, S-58JT"
+No seats,"14 pilot and co-pilot: (+93) 
+ Passengers (see Item 402 for cabin seating arrangements) 
+ (S-58DT, S-58HT) 1 at 131, 1 at 148, 1 at 166, 1 at 174, 1 at 183, 1 at 189, 1 at 201, 1 
+ at 205, 1 at 218, 1 at 221, 1 at 236, 1 at 237. 
+ (S-58ET, S-58JT) 2 at 96, 1 at 112, 1 at 116, 1 at 135, 1 at 156, 2 at 176, 2 at 196, 2 at 
+ 215 (see Item 402 for other seating arrangements)"
+Maximum baggage,"(S-58BT, S-58DT, S-58ET) 200 lb./sq. ft. (+82.5 to +246) (Refer to the appropriate 
+ Helicopter Flight Manual for additional information.)"
+Fuel Capacity,"See NOTE 1 for data on system fuel and oil 
+ 12 Cell Configuration S-58BT, S-58ET, S-58FT, S-58JT 
+ USABLE FUEL (Pump Type Transfer System) 
+ Location 
+ Volume (Gal.) 
+ Maximum Weight (lb.) 
+ Arm (In.) 
+ Forward Tank 
+ 120 
+ 816 
+ 121 
+ Center Tank 
+ 69 
+ 469 
+ 184 
+ Aft Tank 
+ 90 
+ 612 
+ 223 
+ TOTAL 
+ 279 
+ 1897 
+ 12 Cell Configuration S-58BT, S-58ET, S-58FT, S-58JT 
+ USABLE FUEL (Ejector Type Transfer System) 
+ Location 
+ Volume (Gal.) 
+ Maximum Weight (lb.) 
+ Arm (In.) 
+ Forward Tank 
+ 123 
+ 837 
+ 121 
+ Center Tank 
+ 62 
+ 422 
+ 184 
+ Aft Tank 
+ 88 
+ 598 
+ 223 
+ TOTAL 
+ 273 
+ 1857 
+ 11 Cell Configuration S-58DT, S-58ET, S-58HT, S-58JT 
+ USABLE FUEL (Ejector Type Transfer System) 
+ Location 
+ Volume (Gal.) 
+ Maximum Weight (lb.) 
+ Arm (In.) 
+ Forward Tank 
+ 94 
+ 639 
+ 121 
+ Center Tank 
+ 62 
+ 422 
+ 184 
+ Aft Tank 
+ 88 
+ 598 
+ 223 
+ TOTAL 
+ 244 
+ 1659"
+Oil Capacity,Each Engine Power Section 1.6 gal. (0.75 usable) +40.0 In.
+Rotor Blade Movements,"For rigging information, refer to Maintenance Manual."
+Serial Nos Eligible,"Production of turbine models is not planned, but rather conversion of the reciprocating 
+ engine models to turbine models. All S-58B's, S-58D's, S-58E's, S-58F's, S-58H's, and 
+ S-58J's serial numbers are eligible for conversion. 
+ (See NOTE 6, 7, 8 for other serial numbers eligible)."
+Required Equipment,"Basic required equipment as prescribed in the applicable airworthiness regulations (See 
+ Certification Basis) must be installed in the helicopter for certification: Also Items 103, 
+ 106, 108, to 125 except 111, 201, 202, 205, 206, 304, 305, 401. Also 126(a) required 
+ with P&W Aircraft PT6T-3 engine installation. Item 126(b) required with P&W Aircraft 
+ PT6T-6 engine installation."
+Certification basis,"Type Certificate No. 1H11 (CAR 6, January 15, 1951, and Amendment 6-1 through 
+ 6-6); In addition, for configuration I, (Sikorsky Kit No. 580000-10000-011) portions of 
+ FAR 29 dated 1 February 1965 including Amendments 29-1 through 29-3, specifically; 
+ 29.73; 29.361(a); 29.901(b)(5); 29.903(c); 29.927(b); 29.939; 29.955(a); 29.997(e); 
+ 29.1041(a); 29.1091(f); 29.1093(b); 29.1121(h); 29.1181(a); 29.1185; 29.1187(a) 
+ through (d); 29.1189(a)(1), (b), (d), (e) and (f); 29.1191(a), (c), (d), and (f); 29.1193(a) 
+ through (d); 29.1194; 29.1195(a) and (c); 29.1203; 29.1303(e); 29.1305(a)(3), (a)(4), 
+ (a)(6) through (a)(15), and (c), also; 
+ Special Conditions 27-33-EA-8 (Docket No. 10991) dated 14 April 1971, and 
+ Exemption No. 1154 (Docket No. 10310) dated 10 July 1970. 
+ For Configuration II, (Sikorsky Kit No. 58000-10000-012) the certification basis of 
+ Configuration I applies except for deletion of Special Flight Condition No. 1 of Special 
+ Conditions 27-33-EA-8 (Docket No. 10991) dated 14 April 1971 and addition of the 
+ following applicable FAR 29 requirements: 
+ 29.33; 29.45; 29.51; 29.63; 29.65; 29.75; (a) and (c)(1); 29.79(a) and (b)(1); 29.141; 
+ 29.171; 29.173; 29.175; 29.231; 29.241; 29.251; 29.663(b); 29.303(b); 29.951; 
+ 29.953(a); 29.961; 29.967(a) and (e); 29.971(a), (b) and (c); 29.973(b); 29.975(a); 
+ 29.977; 29.991(c)(2) and (3); 29.993(c) and (e); 29.995; 29.1011(b); 29.1017(b); 
+ 29.1019; 29.1023(b); 29.1047(a); 29.1049; 29.1103(b) and (c); 29.1123; 29.1141(d) and 
+ (e); 29.1163(b) and (d); 29.1187(e); 29.1189(c); 29.1193(e); 29.1195(b); 29.1305(b); 
+ 29.1501; 29.1509; 29.1517; 29.1581; 29.1587(b)(1). 
+ In addition, FAR 29.1505 (Ref. Revision 4 FMS No. 16 to RFM SA4045-12 (Item 
+ 401(p)): FAR 25.801, 25.807(d) (Ref. FMS No. 13 to RFM SA4047-17 (Item 401(dd)). 
+ Configuration II differs from Configuration I in that the rotorcraft complies with the 
+ FAR 29 Category ""A"" Power Plant installation requirements when operating under 
+ Configuration II. Refer to Item 401 (p) for additional differences. A Configuration II 
+ rotorcraft can be flown as a Configuration I rotorcraft, but a Configuration I rotorcraft 
+ cannot be flown as a Configuration II rotorcraft."
+Specifications Pertinent to all Models,
+Datum,137.7 inches forward of main rotor centroid
+Leveling Means,Plumb bob from top of cabin door frame to scale on lower door sill
+Production basis,"Production Certificate No. 105 (S-58A, S-58B, S-58C, S-58D, S-58E, S-58F, S-58G, 
+ S-58H, S-58J, S-58BT, S-58DT, S-58ET, S-58FT, S-58HT and S-58JT)"
+a x indicates applies,"(b) ""-"" indicates does not apply 
+ (c) ""_./"" indicates item No. of previous revision 
+ Twin Power 
+ Reciprocating 
+ Section 
+ Engine and Engine Accessories - Fuel and Oil System 
+ Engine 
+ Turboshaft"
+102,"Starter Model AN4116R3 
+ 28 lb. (+22) 
+ x 
+ -"
+103,"Starter generator, Lear Siegler 23046-0019 
+ - 
+ x"
+104,"Fuel Pump - engine driven AN4101-1 
+ 3 lb. (+31) 
+ x 
+ -"
+105,"Fuel pump, boost, Romec RG11260-A1 
+ 4 lb. (+121) 
+ x 
+ -"
+106,"Fuel pump, boost, Lear Siegler P/N RG17020A-1 
+ - 
+ x"
+107,"Master mechanical fuel shut-off valve installation in accordance with 
+ x 
+ - 
+ Sikorsky Kit Dwg. No. S1607-3041. 
+ Item 401(k) required with this installation."
+108,"Fuel shut-off valve, Aerospace Controls AV16B1847D 
+ - 
+ x"
+109,"Manual fuel drain valve, Koehler 8151-4AF 
+ - 
+ x"
+110,"Fuel filter drain valve, Koehler 3-116965 
+ - 
+ x"
+111,"Oil cooler, engine, Airesearch Model No. 88340 
+ 36 lb. (+66) 
+ x 
+ -"
+112,"Oil cooler, transmission, Harrison Radiator 
+ 28 lb. (+199) 
+ x 
+ - 
+ Model No. 852534"
+113,"Oil cooler, (four) radiator, Harrison 8538233 
+ - 
+ x"
+114,"Oil cooler, blower (a) Dynamic Air M141S-1A 
+ - 
+ x 
+ (b) Torin A27583 
+ - 
+ x"
+115,"Manual oil drain valve, Koehler 8151-8AV 
+ - 
+ x"
+116,"Oil pump, angle gear box, Lear Siegler RG34000C 
+ - 
+ x"
+117,"Hydraulic pump, N.Y. Airbrake 67WL200-2 
+ - 
+ x"
+118,"Torquemeter Transmitter, Bendix 58450-10012-101 
+ - 
+ x"
+119,"Torquemeter Indicator, Bendix 6300-C49A-155-B1 
+ - 
+ x"
+120,"Engine Tachometer generator (Ng), MS25038-4 
+ - 
+ x"
+121,"Engine Tachometer generator (Nf), MS25038-2 
+ - 
+ x"
+122,"Engine Tachometer Indicator (Ng), General Electric 8DJ1CAA-2 
+ - 
+ x"
+123,"Engine Tachometer, Indicator (Nf), included Item 125 
+ - 
+ x"
+124,"Main Rotor Tachometer generator, MS25038-2 
+ - 
+ x"
+125,"Triple Tachometer Indicator, (a) Kollsman P/N 58450-10011-101 
+ - 
+ x 
+ (b) Kollsman A5590110010 
+ - 
+ x"
+126a,"Engine T5 Gas Temperature Indicator, Lewis 152B33 
+ - 
+ x 
+ b. 
+ Engine T7 Gas Temperature Indicator, Lewis 71700 (See NOTE 3) 
+ - 
+ x"
+127,"Auxiliary 85 gal. fuel tank installation in 
+ 60 lb. (+223) 
+ x 
+ - 
+ accordance with Sikorsky Dwg. No. S1630-62703 
+ Fuel arm (+223) (S-58C and S-58G)"
+128,"Auxiliary 60 gal. fuel tank installation in accordance with 
+ x 
+ x 
+ Sikorsky Kit Dwg. No. S1607-3106. (S-58A, S-58B, S-58C, 
+ S-58F, S-58G, S-58BT, S-58FT) Use actual wt. change"
+129,"Auxiliary 150.5 gal. fuel tank installation in accordance with 
+ - 
+ x 
+ Sikorsky Kit Dwg. No. S1630-62245-5. (Installation of basic tank 
+ P/N 58088-30008 as modified by 58088-30010 mod. kit.) (S-58BT, 
+ S-58DT, S-58ET, S-58FT, S-58HT) Item 401 (bb) required with this 
+ installation. See NOTE 3 for operating limitations."
+130,"Chip detector installation in accordance with Sikorsky Kit 
+ x 
+ x 
+ Dwg. No. S1607-4598. Item 401(1) required with this installation. 
+ Twin Power 
+ Reciprocating 
+ Section 
+ Engine 
+ Turboshaft"
+201,"Two main wheel-brake assemblies, 11.00-12, Type III 
+ 39 lb. (+101) 
+ x 
+ (a) Goodyear Model L12HBM 
+ Wheel assembly No. 530884G 
+ Brake assembly No. 530886SG"
+202,"Two main wheels, 6-ply rating tires, 11.00-12, Type III, 
+ 31 lb.(+101) 
+ x 
+ x 
+ with regular tubes"
+205,"Tail wheel assembly, 6.00-6, Type III 
+ 4 lb. (+440) 
+ x 
+ x 
+ (a) Goodyear Model L6HBD 
+ Wheel assembly No. 9531065"
+206,"Tail wheel 6-ply rating tire, 6.00-6, Type III, 
+ 11 lb. (+440) 
+ x 
+ x 
+ with regular tube. Dunlop tube and tire size 11.00-12, Type 20, No. 6, 
+ 1EXX, nylon 8 ply rating may be used as an alternate on Models S-58BT, 
+ S-58DT, and S-58ET."
+207,"Emergency inflatable float gear installed in accordance with 
+ x 
+ x 
+ Sikorsky Dwg. No. S1625-55030 for S-58A, S-58B, 
+ 338 lb. (+164) 
+ S-58D, S-58E, S-58F, S-58H, S-58J, S-58BT, S-58DT, 
+ S-58ET, S-58FT, S-58HT, S-58JT. 
+ Sikorsky Dwg. No. S1625-55000 for S-58C, S-58G. 
+ Additional modifications in accordance with Sikorsky Dwg. No. 
+ S1607-2556 are required when Item 209 is installed. 
+ Item 401(d) required with this installation on reciprocating models. 
+ Item 401(v) required with this installation on turboshaft models. 
+ See NOTE 3 for operating limitations."
+208,"Emergency flotation gear. Use actual wt. change 
+ x 
+ x 
+ (a) P/N S1625-56000 installed in accordance with Sikorsky 
+ Kit Dwg.S6107-2515 and Sikorsky Service Information 
+ Circular No. 1625-1188. 
+ (S-58B, S-58D, S-58E, S-58F, S-58H, S-58J Item 401(e) 
+ and/or Item 401(h) required with this installation) 
+ (S-58BT, S-58DT, S-58ET, S-58FT, S-58HT, S-58JT, Item 
+ 401(w) and/or Item 401(x) required with this installation). 
+ (b) P/N S1625-56100 installed in accordance with Sikorsky 
+ - 
+ x 
+ Kit Dwg. No. S1607-2515 and Sikorsky Service Information 
+ Circular No. S1625-1123 (S-58C, S-58G Item 401(e) and/or 
+ 401(h) required with this installation). 
+ (maximum weight 12,700 lbs.). 
+ See NOTE 3 for operating limitations."
+209,"Main landing gear installation in accordance with Sikorsky 
+ Dwg. No. S1607-2552A. 
+ Use actual wt."
+210,"Salvage flotation gear installed in accordance with Sikorsky 
+ x 
+ x 
+ Dwgs. S1607-2571-4, -7, -8. 
+ Use actual wt. 
+ (S-58B, S-58C, S-58D, S-58E, S-58F, S-58G, S-58H, S-58J 
+ Item 401(n) required with this installation) 
+ (S-58BT, S-58DT, S-58ET, S-58FT, S-58HT, S-58JT, Item 
+ 401(y) required with this installation) 
+ See NOTE 3 for operating limitations."
+211,"Ditching flotation system installation in accordance with 
+ x 
+ x 
+ Sikorsky Dwgs. S1607-2571-4, -7, or -8, and Sikorsky Dwg. 
+ 58088-20073 (modified door); Item 401(dd) required with this 
+ installation. 
+ Twin Power 
+ Reciprocating 
+ Section 
+ Engine 
+ Turboshaft"
+301,"Generator 
+ (a) 30V, 300 amp., Eclipse Red Bank Model 30E20-9-1A, 45 lb. (+19) 
+ x 
+ - 
+ 30E20-11A or 30E20-49A"
+302,"Battery 
+ (a) 24V, 24 amp. hr., Model AN3151-2 
+ 56 lb. (+77) 
+ x 
+ - 
+ (b) 24V, 26 amp. hr., Model AN3150-2 
+ 80 lb. (+77) 
+ x 
+ -"
+303,"Two inverters, 250 V.A. output, Model AN3532-2 
+ 17 lb. (+76) 
+ x 
+ -"
+304,"Battery Sontone 
+ (a) Sonotone CA21H-1, 22 amp hr., 28V 
+ - 
+ x 
+ (b) Sonotone CA5, 35 amp hr., 28V 
+ - 
+ x"
+305,"Inverters (two) AN3532-3, 250VA, 11V, 400 cycle 
+ - 
+ x"
+306,Relay & Sensor Assembly 58550-10249-042
+401,"(a) FAA approved Rotorcraft Flight Manual dated August 2, 1956, 
+ x 
+ - 
+ reissued June 28, 1957, revised 13 August 1972 (RFM 4045-12) 
+ (b) Supplement No. 1 dated August 2, 1956, reissued June 10, 1958, 
+ x 
+ - 
+ revised August 28, 1983, to item 401(a). Contains operational 
+ information for Item 602. 
+ (c) Supplement No. 2 dated August 2, 1956, reissued April 25, 1958, 
+ x 
+ - 
+ revised August 28, 1973 to Item 401(a). Contains operational 
+ information for Item 603. 
+ (d) Supplement No. 3 dated December 10, 1956, reissued May 7, 1958, 
+ x 
+ - 
+ revised 21 October 1971, to Item 401(a). Required when Item 207 
+ is installed.` 
+ (e) Supplement No. 4 dated February 18, 1957, reissued May 7, 1958, 
+ x 
+ - 
+ revised October 21, 1971, to item 401(a). Required when 
+ Item 208 is installed. 
+ (f) Supplement No. 5 dated October 9, 1957, reissued June 10, 1958, 
+ revised April 23, 1959, to Item 401(a). Required when grade 
+ 100/130 fuel is used. 
+ (g) Supplement No. 6 dated December 30, 1957, reissued June 18, 1958, 
+ revised October 21, 1960, to Item 401(a). Required when Item 604 
+ is installed. 
+ (h) Supplement No. 7 dated April 25, 1958, revised 28 August 1973, to 
+ x 
+ - 
+ Item 401(a). Contains operational information when both Item 208 
+ and Item 603 are installed. 
+ (i) Supplement No. 8 dated May 7, 1958, revised December 15, 1961, to 
+ x 
+ - 
+ Item 401(a). Required when Item 605 is installed. 
+ (j) Supplement No. 9 dated February 24, 1959, to Item 401(a) 
+ x 
+ - 
+ Contains operational information when Ejector Fuel System 
+ is used on S-58B. 
+ (k) Supplement No. 11 dated November 13, 1959, to Item 401(a). 
+ x 
+ - 
+ Required when Item 107 is installed. 
+ (l) Supplement No. 12 dated October 17, 1960 to Item 401(a). 
+ x 
+ - 
+ Required when Item 130 is installed. 
+ (m) Supplement No. 13 dated December 15, 1961, revised May 27, 1971, 
+ x 
+ - 
+ to Item 401(a). Required for the model S-58D and S-58E. 
+ (n) Supplement No. 14 dated March 5, 1965, revised October 20, 1971, 
+ x 
+ - 
+ to Item 401(a). Required when Item 210 is installed. 
+ Twin Power 
+ Reciprocating 
+ Section 
+ Engine 
+ Turboshaft 
+ (o) Supplement No. 15 dated 15 April 1971, revised 30 November 1973, 
+ x 
+ - 
+ to Item 401(a). Required for installation of UACL PT6T-3 engine 
+ in Model S-58B, S-58D, S-58E, S-58F, S-58H and S-58J. Required 
+ for configuration I aircraft. 
+ (p) Supplement No. 16 dated 5 November 1971, revised 10 April 1973, 
+ x 
+ - 
+ to Item 401(a). Required for installation of UACL PT6T-3 engine, 
+ meeting FAR 29, Category A Power Plant Installation requirements 
+ in S-58B, S-58D, S-58E, S-58F, S-58H and S-58J. Required for 
+ configuration II aircraft. 
+ See NOTE 12. 
+ (q) Supplement No. 17 dated 15 March 1972, revised 27 March 1972 to 
+ x 
+ - 
+ Item 401(a). Required for the Model S-58F, S-58G, S-58H, S-58J 
+ (air taxi operations). 
+ (r) Supplement No. 18 dated 30 June 1972 to Item 401(a). Required 
+ when Item 602 is used in isolated Mountain Operations Above 
+ 8000 feet Density Altitude. 
+ (s) FAA Approved Rotorcraft Flight Manual dated November 5, 1971, 
+ - 
+ x 
+ reissued April 18, 1973, revised September 13, 1977 
+ See NOTE 12. 
+ (t) 
+ Supplement No. 1 dated April 20, 1973 to Item 401(s). Required 
+ - 
+ x 
+ when Item 602 is installed. 
+ (u) Supplement No. 2 dated April 20, 1973 to Item 401(s). Required 
+ - 
+ x 
+ when Item 603 is installed. 
+ (v) Supplement No. 3 dated April 20, 1973 revised July 15, 1976 to 
+ Item 401(s). Required when item 207 is installed. 
+ (w) Supplement No. 4 dated April 20, 1973 to Item 401(s). Required 
+ - 
+ x 
+ when Item 208 is installed. Canceled. 
+ (x) Supplement No. 5 dated April 20, 1973 to Item 401(s). Required 
+ when Items 603 and 208 are installed. Canceled. 
+ (y) Supplement No. 6 dated April 20, 1973, revised March 28, 1978, 
+ - 
+ x 
+ to Item 401(s). Required when Item 210 is installed. 
+ (z) Supplement No. 7 dated April 20, 1973, revised July 15, 1976, 
+ to Item 401(s). Required when Item 602 is used in Isolated, 
+ Mountain Operations above 8000 feet Density Altitude. 
+ (aa) Supplement No. 8 dated June 5, 1973, revised March 28, 1975 to 
+ - 
+ x 
+ Item 401(s). Required when Item 608 is installed. 
+ (bb) Supplement No. 10 dated May 2, 1974, revised March 27, 1975 
+ - 
+ x 
+ to item 401(s). Required when Item 129 is installed. 
+ (cc) Supplement No. 12 dated May 2, 1974, revised May 2, 1978 
+ - 
+ x 
+ to Item 401(s). Required when Item 609 is installed. 
+ (dd) Supplement No. 13, dated April 10, 1975 revised March 28, 1978, 
+ to item 401(s) when Item 211 is installed."
+402,"Optional cabin seating arrangements, Sikorsky Dwg. Nos.; 
+ (a) S1650-61750, 12 Place (S-58B, S-58D, S-58F, S-58H, S-58BT, 
+ x 
+ x 
+ S-58DT, S-58FT, S-58HT). 
+ (b) S1650-61760, 14 Place (S-58B, S-58F, S-58BT, S-58FT). 
+ x 
+ x 
+ (c) S1607-5091, 15 Place (S-58B, S-58F, S-58BT, S-58FT). 
+ x 
+ x 
+ (d) S1607-5094, 16 Place (S-58B, S-58D, S-58E, S-58F, S-58H, S-58J, 
+ S-58BT, S-58ET, S-58FT, S-58JT). 
+ NOTE: Seating configuration with more than 15 seats in cabin must have 
+ a secondary emergency exit on the left side of the cabin."
+403,"Litters installed in accordance with Sikorsky Dwg. 
+ Use actual wt. 
+ x 
+ x 
+ No. S1650-61770 (S-58B, S-58D, S-58BT, S-58DT)."
+404,"Pilot and copilot seat, Aerosmith Model C-111. 
+ x 
+ x 
+ Twin Power 
+ Reciprocating 
+ Section 
+ Engine 
+ Turboshaft"
+601,"Hydraulic pump, variable delivery, N.Y. Airbrake 
+ Model No. 67WB200 (S-58A, S-58B, S-58C, S-58F, S-58G, S-58BT, 
+ S-58DT, S-58ET, S-58FT, S-58HT, S-58JT). 
+ (a) Transmission-driven 
+ 8 lb. (+156) 
+ x 
+ x 
+ (b) Engine-driven 
+ 8 lb. (+125) 
+ x 
+ -"
+602,"Cargo sling installation (S-58A, S-58B, S-58C, S-58D, 
+ S-58E, S-58F, S-58G, S-58H, S-58J Item 401(b) or 401(r) 
+ required with this installation. S-58BT, S-58DT, S-58ET, 
+ S-58FT, S-58HT, S-58JT Item 401(t) or 401(z) required 
+ with this installation). 
+ (a) Sikorsky Dwg. No. S1650-62150, (4000 lb.) 
+ x 
+ x 
+ (b) Sikorsky Dwg. No. S1650-62195, (5000 lb.) 
+ x 
+ x 
+ See NOTE 4 for operating limitations."
+603,"Hoist installation in accordance with Sikorsky Dwg. No. 
+ x 
+ x 
+ S1650-61700 (S-58A, S-58B, S-58C, S-58D, S-58E, S-58F, 
+ S-58G, S-58H, S-58J). Item 401(c) and/or 401(h) required 
+ with this installation. S-58BT, S-58DT, S-58ET, S-58FT, 
+ S-58HT, S-58JT Item 401(u) and/or Item 401(x) required 
+ with this installation). 
+ See NOTE 4 for operating limitations."
+604,"Modifications for increase in gross weight of S-58A, S-58B, 
+ x 
+ - 
+ S-58C to 13,000 lb. in accordance with Sikorsky Kit Dwg. 
+ No. S1605-1700A. Item 401(g) required with this installation 
+ Fuel 
+ 115/145 minimum grade aviation gasoline 
+ Rotor limits 
+ See NOTE 3 for required placard. 
+ Airspeed 
+ Never exceed 107 knots IAS. See NOTE 3 for 
+ required placard. 
+ Maximum weight 13,000 lb."
+605,"Automatic Stabilization Equipment installed in accordance with 
+ x 
+ x 
+ Sikorsky Dwg. No. S1605-4600. Item 401(i) required with this 
+ installation."
+606,"Omitted. 
+ - 
+ -"
+607,"Modified nose door assembly and relocation of fixed equipment in 
+ x 
+ - 
+ accordance with Sikorsky Kit Dwg. No. S1607-4554 Use act. wt. change 
+ (S-58A, S-58B, S-58C, S-58F, S-58G). 
+ - 
+ x"
+608,"IFR Mod Kit No. 58000-10001-002. 
+ - 
+ x 
+ Item 401(aa) required with this installation. See NOTE 3 for 
+ operating limitations."
+609,"Product improvement items as defined by Sikorsky Dwg. No. 
+ - 
+ x 
+ 58000-10000-014. Item 401(cc) required with this installation. 
+ See NOTE 3 for operating limitations."
+610,"Bifilar vibration absorber installation in accordance with 
+ - 
+ x 
+ Sikorsky Modification Kit 58070-10003. Model S58T series only."
+NOTE 1,"Current weight and balance report, including list of equipment included in certificated weight empty, and 
+ loading instructions must be in each helicopter at the time of original certification and at all times thereafter. 
+ In the case of Air Carrier operators having an approved weight control system, the weight and balance report 
+ need not be in the helicopter. When changes are made to the helicopter which affect weight and balance 
+ refer to the Flight Manual for instructions."
+NOTE 2,"Information essential to the proper maintenance of the helicopter including retirement time of critical 
+ components is contained in the Sikorsky S-58 Maintenance Manual provided with each helicopter. Sikorsky 
+ Publication No. SA4045-15, Part IV, S58 Maintenance Manual, is applicable to Sikorsky Model S-58A, 
+ S-58B, S-58C, S-58D, S-58E, S-58F, S-58G, S-58H and S-58J helicopters. Sikorsky Publication No. 
+ SA4047-20, Equalized Inspection and maintenance Program (which supersedes Sikorsky Publication No. 
+ SA4045-15T, Part IV, S-58T Maintenance Manual) is applicable to Sikorsky Model S-58BT, S-58DT, 
+ S-58ET, S-58FT, S-58HT, and S-58JT helicopters. The values of retirement or service life cannot be 
+ increased without FAA engineering approval."
+NOTE 3,"The following placards must be displayed on the instrument panel in full view of the pilot: 
+ (a) All model S-58 series and S-58T series: 
+ (i) 
+ ""THIS HELICOPTER MUST BE OPERATED IN COMPLIANCE WITH THE OPERATING 
+ LIMITATIONS SPECIFIED IN THE FAA APPROVED ROTORCRAFT FLIGHT MANUAL."" 
+ (ii) 
+ ""AVOID FAST TURNS, 15-SEC. MINIMUM FOR 360 DEGREES."" 
+ (iii) 
+ ""DURING EXTENDED HOVERING, CLOSE WINDOWS AND DOORS AND TURN VENT 
+ SYSTEM ON. CLOSE LEFT WINDOW DURING STARTING AND TAXIING."" except when 
+ Item 207, 208, or 210 is installed. 
+ (iv) 
+ ""DO NOT FLY AT A PRESSURE ALTITUDE MORE THAN 3500 FEET ABOVE TAKE- 
+ OFF ALTITUDE."" (Required when Item 208 or 210 with U.S. Rubber Floats Model Nos. 
+ PE-E-1005-1 and PE-E-1005-2 is installed.) 
+ (v) 
+ ""DO NOT FLY AT A PRESSURE ALTITUDE MORE THAN 6300 FEET ABOVE TAKE- 
+ OFF ALTITUDE."" (Required when Item 208 or 210 with Air Cruisers Floats Model Nos. 
+ 11D11149 and 11D11150 is installed.) 
+ (vi) 
+ ""DO NOT MAKE WATER CONTACT ABOVE 20 KNOTS."" (Required when Item 208 or 
+ 210 is installed.) 
+ (vii) 
+ ""DURING EXTENDED HOVERING, SIDEWARD AND REARWARD FLIGHT, CLOSE 
+ WINDOWS AND DOORS AND TURN VENT SYSTEM ON. CLOSE LEFT WINDOW 
+ DURING STARTING AND TAXIING."" (Required when Item 207, 208 or 210 is installed.) 
+ (viii) ""LOCK TAIL WHEEL PRIOR TO TAKE-OFF WHEN THE TAIL WHEEL TYPE FLOAT IS 
+ INSTALLED."" (Required when Item 207 is installed). 
+ (ix) 
+ ""DO NOT INFLATE FLOATS ABOVE 60 KNOTS IAS. DO NOT EXCEED 60 KNOTS 
+ WITH FLOATS INFLATED."" (Required when Item 207 is installed.) 
+ (b) All model S-58 series only, except as indicated: 
+ (i) 
+ ""AVOID TAXI TURNS BELOW 2400 ENGINE R.P.M."" 
+ (ii) 
+ Never exceed speeds. Variation of Vne with altitude, engine r.p.m. and manifold pressure. 
+ (S-58A, S-58B, S-58C, S-58F, S-58G when Item 604 is not installed). 
+ 2200 
+ r.p.m. 
+ 2300 
+ r.p.m. 
+ 2400 
+ r.p.m. 
+ 2500 
+ r.p.m. 
+ Alt. 
+ IAS 
+ M.P. 
+ IAS 
+ M.P. 
+ IAS 
+ M.P. 
+ IAS 
+ M.P. 
+ S.L. 
+ 72 
+ 35.5 
+ 87 
+ 38.7 
+ 103 
+ 42.3 
+ 117 
+ 47.5 
+ 5000 
+ -- 
+ -- 
+ 60 
+ 37.0 
+ 76 
+ 41.0 
+ 90 
+ F.T. 
+ 10000 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ 63 
+ F.T. 
+ (iii) 
+ Never exceed speeds. Variation of Vne with altitude, engine r.p.m. and manifold pressure. 
+ Required when Item 604 is installed (S-58A, S-58B, S-58C). Required for the S-58D, S-58E. 
+ 2300 
+ r.p.m. 
+ 2400 
+ r.p.m. 
+ 2500 
+ r.p.m. 
+ Alt. 
+ IAS 
+ M.P. 
+ IAS 
+ M.P. 
+ IAS 
+ M.P. 
+ S.L. 
+ 77 
+ 38.7 
+ 93 
+ 42.3 
+ 107 
+ 47.5 
+ 4000' 
+ -- 
+ -- 
+ 71 
+ 41.5 
+ 85 
+ F.T. 
+ 8000' 
+ -- 
+ -- 
+ -- 
+ -- 
+ 63 
+ F.T. 
+ (c) All model S-58T series only, except as indicated: 
+ (i) 
+ ""AVOID TAXI TURNS BELOW 88% Nr."" 
+ (ii) 
+ ""MAXIMUM SIDEWARD FLIGHT SPEED NOT TO EXCEED 25 KNOTS."" 
+ (iii) 
+ ""FUELING INSTRUCTIONS"" Required with Item 401(p) or 401(s). 
+ ""1. 
+ SERVICE FROM ALL THREE FILLER NECKS 
+ 2. 
+ ALLOW SUFFICIENT TIME FOR LEVEL TO STABILIZE 
+ 3. 
+ TOP OFF AS NECESSARY"" 
+ (adjacent to center and aft fuel cell filler caps) 
+ (iv) 
+ ""NO. 2 FUEL QTY (Required with Item 401(p) or 401(s)). ADD BOTH NEEDLES"" 
+ (v) 
+ (below No. 2 Fuel Quantity Indicator) 
+ ""PASSENGER CAPACITY IS LIMITED TO 15 PERSONS WHEN EXTERNAL 
+ AUXILIARY FUEL SYSTEM IS INSTALLED"" (Required when Item 129 is installed.) 
+ (Required with Item 401(bb)). 
+ (vi) 
+ ""USE AUXILIARY FUEL FIRST."" 
+ ""AUXILIARY TANK USABLE FUEL IS 870 LBS. WITH THE BASIC TANK P/N 58088- 
+ 30008 988 LBS. AS MODIFIED BY 58088-30010). (Required when Item 129 is installed. 
+ Required with Item 401(bb)). 
+ (vii) 
+ ""ACCURATE FOR GROUND ATTITUDE ONLY."" (Required when Item 129 is installed. 
+ Required with Item 401(bb)). 
+ (viii) Variation of Vne with altitude, main rotor r.p.m. and gross weight. (See below) (Required with 
+ Item 401(p) or 401(s)). 
+ 13000 lb. or Below 
+ Takeoff Gross Weight 
+ 89% NR 
+ 99% NR 
+ Vne 
+ Altitude 
+ KIAS 
+ KIAS 
+ Versus Density Altitude 
+ Sea Level 
+ 107 
+ 117 
+ Power On 
+ 2000 
+ 96 
+ 117 
+ Not to be Moved in Flight 
+ 4000 
+ 85 
+ 106 
+ 6000 
+ 74 
+ 95 
+ 8000 
+ 63 
+ 84 
+ 10000 
+ 73 
+ 12000 
+ 62 
+ 12000 lb. 
+ 11000 lb. or below 
+ POWER OFF Vne 
+ 93% NR 
+ Density 
+ 81-91% Nr 
+ 92-104% Nr 
+ Altitude 
+ KIAS 
+ Altitude 
+ KIAS 
+ Altitude 
+ KIAS 
+ KIAS 
+ Sea Level 
+ 117 
+ Sea Level 
+ 117 
+ Sea Level 
+ 107 
+ 117 
+ 3500 
+ 117 
+ 5000 
+ 117 
+ 2000 
+ 96 
+ 117 
+ 4000 
+ 115 
+ 6000 
+ 111 
+ 4000 
+ 85 
+ 106 
+ 6000 
+ 104 
+ 8000 
+ 100 
+ 6000 
+ 74 
+ 95 
+ 8000 
+ 93 
+ 10000 
+ 89 
+ 8000 
+ 63 
+ 84 
+ 10000 
+ 82 
+ 12000 
+ 78 
+ 10000 
+ 73 
+ 12000 
+ 71 
+ 14000 
+ 67 
+ 12000 
+ 62 
+ 13500 
+ 62 
+ 15000 
+ 62 
+ 15000 
+ 62 
+ (ix) 
+ Never exceed speeds. Variation of Vne speed with Altitude. (See placard below) Required 
+ with Item 401(o). 
+ Vne at 89% Nr 
+ Takeoff Gross Weights 
+ Density 
+ 12,700 Pounds 
+ 12,700 to 
+ Altitude 
+ and Below 
+ 13,000 Pounds 
+ S.L. 
+ 117 KIAS 
+ 107 KIAS 
+ 4000 ft. 
+ 95 KIAS 
+ 85 KIAS 
+ 5000 ft. 
+ 90 KIAS 
+ 79 KIAS 
+ 8000 ft. 
+ 74 KIAS 
+ 63 KIAS 
+ 10000 ft. 
+ 63 KIAS 
+ (x) 
+ Torque Limits Placard (see below). Required with Item 401(o). 
+ TAKE-OFF POWER 
+ MAX. CONTINUOUS POWER 
+ Percent Torque @ Nr = 100% 
+ Percent Torque @ Nr = 89%"
+Pres,Pres
+Alt,"Temp °C 
+ Alt 
+ Temp °C"
+1000,1000
+20,"-10 
+ 0 
+ 10 
+ 20 
+ 30 
+ 40 
+ -20 
+ -10 
+ 0 
+ 10 
+ 20 
+ 30 
+ 40"
+108,"106 
+ 103 
+ 101 
+ 99 
+ 96 
+ 93 
+ -1 
+ 101 
+ 98 
+ 96 
+ 94 
+ 93 
+ 91 
+ 89"
+106,"104 
+ 101 
+ 100 
+ 97 
+ 93 
+ 90 
+ 0 
+ 100 
+ 98 
+ 96 
+ 94 
+ 92 
+ 90 
+ 88"
+104,"102 
+ 100 
+ 97 
+ 94 
+ 90 
+ 87 
+ 1 
+ 100 
+ 98 
+ 96 
+ 94 
+ 92 
+ 89 
+ 87"
+102,"100 
+ 98 
+ 94 
+ 91 
+ 87 
+ 84 
+ 2 
+ 99 
+ 97 
+ 95 
+ 93 
+ 91 
+ 88 
+ 86"
+100,"97 
+ 95 
+ 91 
+ 88 
+ 84 
+ 81 
+ 3 
+ 99 
+ 96 
+ 94 
+ 92 
+ 89 
+ 86 
+ 83"
+98,"94 
+ 91 
+ 87 
+ 84 
+ 81 
+ 78 
+ 4 
+ 98 
+ 95 
+ 92 
+ 89 
+ 86 
+ 83 
+ 80"
+95,"91 
+ 88 
+ 84 
+ 81 
+ 78 
+ 74 
+ 5 
+ 96 
+ 92 
+ 89 
+ 86 
+ 83 
+ 80 
+ 77"
+91,"87 
+ 84 
+ 81 
+ 78 
+ 74 
+ 71 
+ 6 
+ 93 
+ 89 
+ 86 
+ 83 
+ 80 
+ 77 
+ 74"
+88,"84 
+ 81 
+ 78 
+ 75 
+ 71 
+ 68 
+ 7 
+ 90 
+ 86 
+ 83 
+ 80 
+ 77 
+ 74 
+ 71"
+84,"81 
+ 77 
+ 74 
+ 71 
+ 68 
+ 65 
+ 8 
+ 86 
+ 83 
+ 80 
+ 77 
+ 74 
+ 71 
+ 68"
+81,"77 
+ 74 
+ 71 
+ 68 
+ 65 
+ 62 
+ 9 
+ 83 
+ 80 
+ 77 
+ 74 
+ 71 
+ 68 
+ 65"
+77,"73 
+ 71 
+ 68 
+ 65 
+ 62 
+ 59 
+ 10 
+ 80 
+ 77 
+ 74 
+ 71 
+ 68 
+ 65 
+ 62 
+ (xi) 
+ Variation of Vne with altitude, main rotor r.p.m. and gross weight (see below). Required when 
+ Item 609 is installed. Required with Item 401(cc). 
+ VNE VS ALTITUDE PWR ON 93% NR 
+ T.O. GROSS WT (LBS.) 
+ 11000 
+ 12000 
+ 13000 
+ OR BELOW 
+ ALTITUDE 
+ KIAS 
+ KIAS 
+ KIAS 
+ 2000 & Less 
+ 117* 
+ 3500 
+ 108* 
+ 4000 
+ 115* 
+ 106 
+ 5000 
+ 109* 
+ 100 
+ 6000 
+ 111* 
+ 104 
+ 95 
+ 8000 
+ 100 
+ 93 
+ 84 
+ 10000 
+ 89 
+ 82 
+ 73 
+ 12000 
+ 78 
+ 71 
+ 62 
+ 13500 
+ 70 
+ 62 
+ 14000 
+ 67 
+ 15000 
+ 62 
+ *FOR IFR FLIGHT REDUCE 
+ THESE SPEEDS TO 107 KIAS 
+ POWER OFF Vne 
+ DENSITY 
+ 81-91% Nr 
+ 92-104% Nr 
+ ALTITUDE 
+ KIAS 
+ KIAS 
+ SEA LEVEL 
+ 107 
+ 117* 
+ 2000 
+ 96 
+ 117* 
+ 4000 
+ 85 
+ 106 
+ 6000 
+ 74 
+ 95 
+ 8000 
+ 63 
+ 84 
+ 10000 
+ -- 
+ 73 
+ 12000 
+ -- 
+ 62 
+ 15000 
+ -- 
+ 62 
+ *FOR IFR FLIGHT REDUCE 
+ THESE SPEEDS TO 107 KIAS 
+ (xii) 
+ ""BATTERY STARTS ON GROUND PROHIBITED"" (in vicinity of T7 indicator on aircraft 
+ equipped with PT6T-6 engine. Placard not required if the DC/DC converter, P/N 58550- 
+ 10347-101, is installed.) 
+ (xiii) Variation of Vne with altitude, main rotor r.p.m. and gross weight (see below). Required when 
+ Item 608 is installed. Required with Item 401(aa). 
+ TAKEOFF Gross Weight 
+ 13000 lb. 
+ 12000 lb. 
+ 11000 lb. or Below 
+ ALTITUDE 
+ KIAS 
+ ALTITUDE 
+ KIAS 
+ ALTITUDE 
+ KIAS 
+ SEA LEVEL 
+ 117* 
+ SEA LEVEL 
+ 117* 
+ SEA LEVEL 
+ 117* 
+ Vne versus 
+ 2000 
+ 117* 
+ 3500 
+ 117* 
+ 5000 
+ 117* 
+ DENSITY 
+ 4000 
+ 106 
+ 4000 
+ 115* 
+ 6000 
+ 111* 
+ ALTITUDE 
+ 6000 
+ 95 
+ 6000 
+ 104 
+ 8000 
+ 100 
+ POWER ON 
+ 8000 
+ 84 
+ 8000 
+ 93 
+ 10000 
+ 89 
+ 93% Nr 
+ 10000 
+ 73 
+ 10000 
+ 82 
+ 12000 
+ 78 
+ 12000 
+ 62 
+ 12000 
+ 71 
+ 14000 
+ 67 
+ - 
+ - 
+ 13500 
+ 62 
+ 15000 
+ 62 
+ *FOR IFR FLIGHT REDUCE THESE SPEEDS TO 107 KIAS 
+ POWER OFF Vne 
+ DENSITY 
+ 81-91% Nr 
+ 91-104% Nr 
+ ALTITUDE 
+ KIAS 
+ KIAS 
+ SEA LEVEL 
+ 107 
+ 117* 
+ 2000 
+ 96 
+ 117* 
+ 4000 
+ 85 
+ 106 
+ 6000 
+ 74 
+ 95 
+ 8000 
+ 63 
+ 84 
+ 10000 
+ -- 
+ 73 
+ 12000 
+ -- 
+ 62 
+ 15000 
+ -- 
+ 62 
+ *FOR IFR FLIGHT REDUCE 
+ THESE SPEEDS TO 107 KIAS"
+NOTE 4,"The hoist (Item 603) and the cargo sling (Item 602) are special purpose equipment and are to be operated in 
+ accordance with the limitations described in CAR 8 or FAR 133 as applicable. Information concerning the 
+ operating limitations is also contained in Items 401(b), 401(c), 401(r), 401(h), 401(t), 401(u), 401(z), and 
+ (x)."
+NOTE 5,"The cabin floor area for Model S-58C is structurally satisfactory for a uniformly distributed loading of 200 
+ p.s.f. between Stations 112 and 246 and for 100 p.s.f. between Stations 246 and 296 when used for cargo 
+ purposes."
+NOTE 6,"Military model CH-34A (formerly H-34A), CH-34C (formerly H-34C), VH-34C (formerly H-34C), HH-34F 
+ (formerly HUS-1G), UH-34D (formerly HUS-1), UH-34E (formerly HUS-1A), VH-34D (formerly HUS- 
+ 1Z), SH-34G (formerly HSS-1), SH-34H (formerly HSS-1F), SH-34J (formerly HSS-1N), UH-34G and UH- 
+ 34J aircraft manufactured by Sikorsky Aircraft may be converted to models of the S-58 type shown on page 
+ 1 provided the converted aircraft conforms to a specific model in accordance with FAR 21.183(d). Any 
+ serial number in the ""Serial Numbers Eligible"" sections which has a ""D"" suffix applies only to the aircraft 
+ having a nameplate with a ""D"" suffix and an aircraft with a nameplate bearing the same Arabic number 
+ without the suffix ""D"" is not eligible."
+NOTE 7,"The following helicopters have been converted (reference: NOTE 6): 
+ Surplus 
+ Eligible For 
+ Serial 
+ Military 
+ Certification as 
+ Number 
+ Model 
+ Civil Model 
+ Modifier 
+ 58-112 
+ H34C 
+ S58E 
+ Chicago Helicopters Airways 
+ Chicago, Illinois 
+ 58-269 
+ CH34C 
+ S58E 
+ Heli-Crane, Inc. 
+ Maryland Heights, Missouri 
+ 58-279 
+ H34A 
+ S58E 
+ Carson Helicopters, Inc. 
+ Perkasie, Pennsylvania 
+ 58-317 
+ CH34C 
+ S58E 
+ Chicago Helicopters Airways 
+ 58-328 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ Stratford, Connecticut 
+ 58-336 
+ H34A 
+ S58E 
+ Imperial Airways, Inc. 
+ South St. Paul, Minnesota 
+ 58-354 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-374 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-378 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-412 
+ CH34C 
+ S58E 
+ Chicago Helicopter Airways 
+ 58-437 
+ S58B 
+ S58BT 
+ Sikorsky Aircraft 
+ 58-524 
+ HUS-1 
+ S58D 
+ Chicago Helicopter Airways 
+ 58-531 
+ CH34C 
+ S58J 
+ Pacific Crown Aviation, Inc. 
+ 58-540 
+ CH34C 
+ S58E 
+ Chicago Helicopter Airways 
+ 58-601 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-673 
+ CH34C 
+ S58ET 
+ Orlando Helicopter Airways, Inc. 
+ P.O. Box 2802, Orlando, Florida 
+ 58-658 
+ UH34J 
+ S58BT 
+ Chicago Helicopter Airways 
+ 58-692 
+ S58B 
+ S58BT 
+ Sikorsky Aircraft 
+ 58-700 
+ S58B 
+ S58BT 
+ Sikorsky Aircraft 
+ 58-721 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-727 
+ H34G 
+ S58ET 
+ Chicago Helicopter Airways 
+ 58-730 
+ S58H 
+ Pacific Crown Aviation 
+ 58-735 
+ S58J 
+ Edward Chopot 
+ 58-738 
+ CH34C 
+ S58E 
+ Chicago Helicopter Airways 
+ 58-740 
+ H34G 
+ S58E 
+ Carson Helicopters, Inc. 
+ 58-743 
+ UH34J 
+ S58B 
+ Chicago Helicopter Airways 
+ 58-750 
+ H34A 
+ S58ET 
+ Hawaii Helicopter International 
+ 58-761 
+ HSS-1 
+ S58B 
+ Moore Aviation, Inc. 
+ 58-775 
+ S58B 
+ S58ET 
+ Sikorsky Aircraft 
+ Surplus 
+ Eligible For 
+ Serial 
+ Military 
+ Certification as 
+ Number 
+ Model 
+ Civil Model 
+ Modifier 
+ 58-777 
+ HSS-1 
+ S58B 
+ Carson Helicopters, Inc. 
+ 58-780 
+ H34A 
+ S-58ET 
+ Hawaii Helicopter International 
+ Lihue, Hawaii 
+ 58-787 
+ UH34D 
+ S58D 
+ Chicago Helicopter Airways 
+ 58-827 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-855 
+ H34G 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-856 
+ H34G 
+ S58E 
+ Hawaii Helicopter International 
+ 58-869 
+ CH34C 
+ S58J 
+ Edward Chopot 
+ Hamilton, Montana 
+ 58-879 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-926 
+ HSS1N 
+ S58B 
+ Carson Helicopters, Inc. 
+ 58-941 
+ CH34C 
+ S58E 
+ Chicago Helicopter Airways 
+ 58-956 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-960 
+ H34A 
+ S58JT 
+ Utility Helicopters, Inc. 
+ Long Beach, California 
+ 58-1070 
+ H34A 
+ S-58ET 
+ Sikorsky Aircraft 
+ 58-1071 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1091 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1097 
+ H34G 
+ S58E 
+ Imperial Airways, Inc. 
+ 58-1105 
+ H34G 
+ S58E 
+ Imperial Airways, Inc. 
+ 58-1112 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1117 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1120 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1122 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1124 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1126 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1128 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1129 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1147 
+ HUS-1 
+ S58D 
+ Carson Helicopters, Inc. 
+ 58-1148 
+ HU34D 
+ S58D 
+ Carson Helicopters, Inc. 
+ 58-1158 
+ SH34J 
+ S58BT 
+ Carson Helicopters, Inc. 
+ 58-1186 
+ H34A 
+ S58JT 
+ Utility Helicopters, Inc. 
+ 58-1193 
+ UH34D 
+ S58D 
+ Orlando Helicopter Airways, Inc. 
+ 58-1214 
+ HUS-1 
+ S58D 
+ Chicago Helicopter Airways 
+ 58-1225 
+ UH34D 
+ S58B 
+ Chicago Helicopter Airways 
+ 58-1227 
+ HUS-1 
+ S58D 
+ Chicago Helicopter Airways 
+ 58-1272 
+ S58J 
+ 58-1402 
+ HUS-1 
+ S58D 
+ Carson Helicopters, Inc. 
+ 58-1438 
+ UH34D 
+ S58D 
+ Chicago Helicopter Airways 
+ 58-1439 
+ HUS-1 
+ S58D 
+ Carson Helicopters, Inc. 
+ 58-1458 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1459 
+ H34A 
+ S58E(J) 
+ Bering Associates 
+ Anchorage, Alaska 
+ 58-1461 
+ UH-34D 
+ S58D 
+ John A. Haertsch 
+ Tucson, Arizona 
+ 58-1464 
+ HUS-1 
+ S58D 
+ Carson Helicopters, Inc. 
+ 58-1487 
+ UH34D 
+ S58D 
+ Chicago Helicopter Airways 
+ 58-1491 
+ HUS-1 
+ S58D 
+ Carson Helicopters, Inc. 
+ 58-1492 
+ UH34A 
+ S58D 
+ Chicago Helicopter Airways 
+ 58-1493 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1503 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1514 
+ H34 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1519 
+ UH34D 
+ S58DT 
+ Chicago Helicopter Airways 
+ Surplus 
+ Eligible For 
+ Serial 
+ Military 
+ Certification as 
+ Number 
+ Model 
+ Civil Model 
+ Modifier 
+ 58-1527 
+ H34G 
+ S58ET 
+ Orlando Helicopter Airways 
+ 58-1536 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1537 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1538 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1547 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1551 
+ H43A 
+ S58E 
+ Orlando Helicopter Airways, Inc. 
+ 58-1561 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1564 
+ H34G 
+ S58ET 
+ Orlando Helicopter Airways, Inc. 
+ 58-1565 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1567 
+ H34G 
+ S58E 
+ Chicago Helicopter Airways 
+ 58-1570 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1575 
+ H34A 
+ S58E 
+ Lake Line Helicopters, Inc. 
+ Eden Prairie, Minnesota 
+ 58-1576 
+ H34G 
+ S58E 
+ Utility Helicopters, Inc. 
+ 58-1589 
+ H34G 
+ S58ET 
+ Orlando Helicopter Airways, Inc. 
+ 58-1606 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1607 
+ CH34A 
+ S58E 
+ Helicopter Minut Men, Inc. 
+ Columbus, Ohio 
+ 58-1613 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1618 
+ H34G 
+ S58E 
+ Chicago Helicopter Airways 
+ 58-1626 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1627 
+ H34A 
+ S58E 
+ Olympic Helicopters Inc. 
+ Boeing Field, Seattle, Washington 
+ 58-1630 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1632 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1637 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1639 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1646 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1648 
+ CH34A 
+ S58E 
+ Western Helicopters, Inc. 
+ Rialto, California 
+ 58-1657 
+ H34A 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1659 
+ HUS-1 
+ S58ET 
+ Sikorsky Aircraft 
+ 58-1663 
+ H34G III 
+ S58JT 
+ Air Aisa Ltd. 
+ 58-1672 
+ H34G 
+ S58ET 
+ Orlando Helicopter Airways, Inc. 
+ 58-1673 
+ H34G 
+ S58ET 
+ Orlando Helicopter Airways, Inc. 
+ 58-1677 
+ H34G-III 
+ S58JT 
+ Air Asia, Ltd. 
+ 58-1720 
+ UH34D 
+ S58D 
+ 4C's Helicopters, Inc. 
+ Martinez, California 
+ 58-1732 
+ H34G 
+ S58E(J) 
+ Trans Alaska Helicopters 
+ Anchorage, Alaska 
+ 58-1787 
+ UH34D 
+ S58D 
+ Orlando Helicopter Airways, Inc. 
+ 58-1809 
+ UH34D 
+ S58D 
+ Carson Helicopters, Inc."
+NOTE 8,"The applicant for an airworthiness certificate for military versions of the S-58 series rotorcraft will be 
+ required to provide the information to the local Manufacturing Inspection District Office (MIDO), 
+ Manufacturing Inspection Field Representative (MIFR), or Manufacturing Inspection Satellite Office 
+ (MISO). After February 24, 1981, Sikorsky Aircraft will not provide Type Design information regarding 
+ eligibility and modifications to be accomplished for airworthiness certification of any military version of the 
+ S-58 type rotorcraft."
+NOTE 9,"Except for a difference in Maximum Weight, the following models are identical to each other including all 
+ limits: 
+ S-58F identical to S-58B 
+ S-58G identical to S-58C 
+ S-58FT identical to S-58BT 
+ S-58H identical to S-58D 
+ S-58HT identical to S-58DT 
+ S-58J identical to S-58E 
+ S-58JT identical to S-58ET"
+NOTE 10,"Initially the Pratt & Whitney Aircraft PT6T-3 engine installation in the S-58B and S-58E was approved via 
+ a Supplemental Type Certificate (SH71EA dated 15 April 1971, amended 27 May 1971, 5 November 1971 
+ and 21 January 1972) issued to Sikorsky Aircraft. Subsequently, Sikorsky Aircraft requested that the 
+ turbine configured aircraft be added to Helicopter Type Certificate 1H11 as new models, which was 
+ accomplished on 18 February 1972 and 27, March 1972. Special service instructions are provided in SSI 
+ 129A for conversion to turbine aircraft."
+NOTE 11,"The Pratt & Whitney Aircraft PT6T-3 engine may be installed in a military aircraft which has been 
+ converted to either an S-58B, S-58D, S-58E, S-58H or S-58J under the provisions of NOTE 6, 7, and 8."
+NOTE 12,"Supplement No. 16 to Item 401(a) became Rotorcraft Flight Manual SA4047-17, Item 401(s) for S-58T 
+ series configuration II. See certification basis."
+NOTE 13,"Sikorsky Modification Kit No. 58070-30000 covers Pratt & Whitney Aircraft PT6T-6/PT6T-3 power 
+ package replacement."
+NOTE 14,"Use of the combustion heater installed on rotorcraft equipped with Pratt & Whitney Aircraft PT6T-6 or 
+ PT6T-3 engine power package is prohibited unless the heater installation is FAA approved for operation 
+ with turbine engine type fuels."

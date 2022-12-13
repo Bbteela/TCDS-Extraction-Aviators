@@ -1,0 +1,422 @@
+Keyterm,Info
+"7A10 
+ Revision 2 
+ de HAVILLAND 
+ D.H. 106 Comet 4C 
+ August 8, 2003",
+Type Certificate Holder,"The de Havilland Aircraft Co., Ltd. 
+ Hatfield, Hertz, England"
+"I - Model D.H. 106 Comet 4C (Transport Category), Approved December 21, 1960",
+Engines,4 Rolls Royce Avon 525B turbojets
+Fuel,"The following Aviation Kerosene Specifications are approved: 
+ British: 
+ D.Eng. RD 2482, 2488 and 2494 
+ Canadian: 
+ 3-GP-23C Type 1 
+ American: 
+ A.S.T.M. D.1655-59 T Type A or Type A-1 and United 
+ Airlines Specification UA-1 
+ I.A.T.A.: 
+ Kerosene Type Fuel 
+ The following departures from Specification D.Eng. RD 2494 are acceptable: 
+ Flash point 
+ Minimum 70°F 
+ Mercaptan Sulphur 
+ Maximum 0.016% by weight"
+Oil,D.Eng. RD 2487 (Type RD E/O/463) or Esso Aviation Turbo Oil 35
+Engine limits,"Static Sea Level Ratings 
+ Max. Turbine 
+ Minimum 
+ Exhaust 
+ Maximum 
+ Thrust 
+ RPM 
+ (Lb.) 
+ Rating 
+ Gas Temp, °C 
+ Maximum takeoff (5 min.) 
+ 10250 
+ 8050 
+ 625 
+ Maximum continuous 
+ 8765 
+ 7600 
+ 570"
+Airspeed limits IAS,"Vne (never exceed) 
+ 305 kt. or Mach 0.79, whichever is the lesser 
+ Vno (normal operating) 
+ 275 kt. or Mach 0.76, whichever is the lesser 
+ Va (maneuvering) 
+ 199 kt. 
+ Vfe (flaps down 0° to 20°) 
+ 210 kt. 
+ Vfe (flaps down 20° to 30°) 
+ 190 kt. 
+ Vfe (flaps down 30° to 40°) 
+ 170 kt. 
+ Vfe (flaps down 40° to 60°) 
+ 150 kt. 
+ Vfe (flaps down 60° to 80°) 
+ 140 kt. 
+ Vlo (landing gear operation) 
+ 185 kt. 
+ Vle (landing gear extended) 
+ 210 kt. 
+ air brake operation 
+ 305 kt. or Mach 0.79, whichever is lesser 
+ air brake extended 
+ 305 kt. or Mach 0.79, whichever is lesser 
+ Vmc (minimum control) 
+ Less than the stalling speed 
+ Elevator Gear Change Limitations: 
+ Minimum airplane speed in 'fine gear' 
+ 170 kt. 
+ Maximum airplane speed in 'coarse gear' 
+ 200 kt."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5"
+Rev No,"2 
+ - 
+ - 
+ - 
+ -"
+CG range Landing,"The nose gear retraction moment is 27,000 in.lb."
+gear extended,"Main gear retraction has no effect on the airplane C.G. 
+ 170 
+ 162,000 
+ 162,000 
+ +4.1 
+ -8.3 
+ 160 
+ 140 
+ 113,300 
+ -22.7 
+ 107,300 
+ 120 
+ -25.3 
+ 118,150 
+ 102,500 
+ -17.7 
+ -28.8 
+ 108,700 
+ 100 
+ -23.5 
+ 95,000 
+ +4.0 
+ 80 
+ 79,000 
+ 79,000 
+ -28.9 
+ -13.3 
+ 60 
+ -35 
+ -30 
+ -25 
+ -20 
+ -15 
+ -10 
+ -5 
+ 0 
+ +5"
+Datum,702 in. aft of the fuselage nose
+Standard mean chord,222 in. (L.E. of S.M.C. is 640.8 in. aft of fuselage nose).
+Leveling means,"Fuselage sighting rods and microptic level for longitudinal leveling. 
+ Leveling bar and spirit level in conjunction with datum sockets in rear freight hold for 
+ lateral leveling."
+Maximum weight,"Maximum taxi 
+ 162,000 lb. 
+ Maximum takeoff 
+ 162,000 lb. 
+ Maximum landing 
+ 120,000 lb. 
+ Maximum zero fuel 
+ 102,500 lb."
+Minimum crew,"3. Pilot and copilot (-628.8), flight engineer (-582)"
+Maximum passengers,"107 passengers. (See approved weight and balance report for actual number and 
+ location.) 
+ Maximum"
+Maximum baggage,"Maximum 
+ Total 
+ Moment Arm 
+ Floor Loading 
+ Floor Load 
+ (In.) 
+ (lb. sq. ft.) 
+ (lb.) 
+ Compartment 
+ Freight Compartments 
+ Forward Hold 
+ Fwd. of Datum A (Frame 17) 
+ 783 
+ 75 
+ -426.6 
+ Between Datums A & B 
+ 257 
+ 75 
+ -372.6 
+ Frames 17 & 19 
+ Aft of Datum B (Frame 19) 
+ 1,971 
+ 75 
+ -271.2 
+ Center Hold 
+ Fwd. of Datum A (Frame 42) 
+ 1,296 
+ 75 
+ +144.0 
+ Between Datum A & B 
+ 257 
+ 75 
+ +212.4 
+ (Frames 42 & 44) 
+ 1,512 
+ 75 
+ +290.4 
+ Rear Cabin Hold 
+ 3,140 
+ 150 
+ +434.4"
+Fuel capacity,"(See NOTE 1(b) for data on system fuel.) 
+ TANK 
+ TOTAL 
+ USABLE 
+ MOMENT ARM 
+ (lb.) 
+ (in.) 
+ 1 center wing tank 
+ 16095 
+ 16031 
+ (-26.5) 
+ (No. 1) 
+ 2 inner wing tanks 
+ 12639 
+ 12607 
+ (-32.2) 
+ (No. 2) 
+ 2 middle wing tanks 
+ 22462 
+ 22398 
+ (-49.4) 
+ (No. 3) 
+ 2 outer wing tanks 
+ 13409 
+ 13313 
+ (+108) 
+ (No. 4) 
+ 2 external wing tanks 
+ 6944 
+ 6816 
+ (- 7.2) 
+ (No. 4A)"
+Oil capacity,"(See NOTE 1(b) for data on system oil.) 
+ 1.04 U.S. gal. per engine (-7.4)"
+Max operating altitude,"40,000 ft."
+Other operating limitations,"Aircraft shall be operated in compliance with the operating limitations specified in the 
+ Air Registration Board approved Airplane Flight Manual."
+Control surface movements,"Elevator 
+ Coarse gear 
+ Up 23° 
+ Down 10° (From neutral trim 
+ Fine gear 
+ Up 12° minimum 
+ Down 5° minimum position) 
+ Elevator balance tab 
+ Up 13° 20' 
+ Down 30° 38' 
+ Rudder 
+ Left 28° 
+ Right 28° (From neutral trim 
+ position) 
+ Aileron 
+ Up 22° 30' 
+ Down 22° 30' (From neutral 
+ trim position) 
+ Aileron balance tab 
+ Up 6° 10' 
+ Down 6° 10' 
+ Flaps 
+ 2 inboard sections 
+ 80° Total angle of travel 
+ 2 outboard sections 
+ 58° Total angle of travel 
+ Airbrakes 
+ Inner 
+ Up 27° 
+ Outer 
+ Up 84° 
+ Down 72°"
+Auto pilot limit,Elevator movement from
+switches,"neutral trim position 
+ Coarse 
+ Up 2° 24' 
+ Down 1° 24' 
+ Fine 
+ Up 0° 30' 
+ Down 0° 30' 
+ Aileron movement from 
+ neutral trim position 
+ Coarse 
+ Up 15° 
+ Down 15° 
+ Fine 
+ Up 3° 45' 
+ Down 3° 45'"
+Serial Nos eligible,"6424, 6425, and 6443 provided a United Kingdom Certificate of Airworthiness for export 
+ endorsed as noted under ""Import Requirements"" is submitted for each individual aircraft 
+ for which application for certification is made."
+Import requirements,"A U.S. Airworthiness Certificate may be issued on the basis of: 
+ a) 
+ A United Kingdom Certificate of Airworthiness for Export which contains the 
+ following notation: 
+ ""The aeroplane covered by this certificate has been examined and found to comply 
+ with British Airworthiness Requirements (July 1, 1956) and the Special Conditions 
+ for the Comet notified by the U.S.A. Government of the United Kingdom and 
+ conforms to T.C. 7A10,: 
+ b) 
+ Satisfactory evidence that all applicable inspections and modifications classified as 
+ ""Mandatory"" by the U.K. Civil Aviation Authority, and compliance with all FAA 
+ Airworthiness Directives have been accomplished. (A current list of all CAA 
+ ""Mandatory"" modifications and inspections may be obtained upon request from the 
+ Chief, Aircraft Certification staff, FAA, c/o American Embassy, APO New York, 
+ N.Y. 09667); and, 
+ c) 
+ An FAA finding that the airplane conforms to T.C. 7A10 and is in a condition for 
+ safe operation pursuant to FAR 21.183(c)."
+Certification basis,"CAR 10, equivalent to CAR 4b effective December 31, 1953, plus amendments 4b-1, 
+ 4b-2, 4b-3, 4b-4, 4b-5, 4b-6; except paragraphs 19 4b.358 (b)(5) and 47 4b.645(e); 4b-7, 
+ 4b-8; except paragraph 17 4b.612(b); 4b-9, 4b-11 and S.R.422B. 
+ Compliance with the ditching requirements has been demonstrated. 
+ Compliance with the icing protection requirements has been demonstrated. 
+ Type Certificate No. 7A10 issued December 21, 1960. 
+ Date of Application for Type Certificate June 11, 1956."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification basis) must be installed in the aircraft for certification. 
+ Approved equipment is shown on de Havilland Equipment Schedule M.31410. 
+ The following additional equipment is required: 
+ (a) Stall warning stick shaker D.H. drg. 6-2 CF 1941 
+ 4 lb. (-645) 
+ (b) High speed warning, 1 horn KLAXON 2K 
+ 3 lb. (-606) 
+ (c) Artificial feel, 'q' pot elevator control system 
+ D.H. drg. 6-4B CF 313A 
+ 17 lb. (-653) 
+ (d) Rudder limiter D.H. drg. 6-4B CF 337A and 6-4 
+ CF 1449 A/1 
+ 8 lb. (-669) 
+ (e) Rudder centralizer LOCKHEED part no. AIR 107270 
+ 2 ¼ lb. (+639) 
+ (f) Artificial feel, spring struts: 
+ Elevator control system 6-4B CF 779A/1 
+ 3 lb. (-636) 
+ Aileron control system 6-4C 10725 A.N.D. 
+ 3 lb. (-643) 
+ Rudder control system 6-4B CF 145/3 
+ 2 lb. (-669) 
+ (g) Yaw damper, rudder control system: 
+ 2 detector and amplifier SMITHS 300 EAP 
+ 23 lb. (+123) 
+ 2 actuator SMITHS 302 EAP 
+ 11 lb. (+403) 
+ (h) Control surface position indicators: 
+ Aileron: 2 transmitters SMITHS 875 F./BR 
+ 1 ½ lb. (+146) 
+ 1 indicator 
+ SMITHS PW 873/FL/BR 
+ 1 lb. (+654) 
+ Elevator: 1 transmitter SMITHS 875 FL/BR 
+ 3/4 lb. (+642) 
+ Rudder: 1 transmitter SMITHS 875 FL/BR 
+ 3/4 lb. (+646) 
+ Elevator/Rudder: 
+ 1 indicator 
+ SMITHS PW 873/FL/BR 
+ 1 lb. (-654)"
+NOTE 1,"(a) Current weight and balance report, including list of equipment included in certificated empty weight, and 
+ loading instructions when necessary, must be provided for each aircraft at the time of original certification. 
+ (b) ""Unusable fuel"" is that amount of fuel in the tanks which is unavailable to the engines under critical flight 
+ conditions as defined in CAR 4b.416. This unusable fuel includes the ""system fuel"" which is defined as 
+ the quantity required to fill the system and tanks to the tank outlet level when the airplane is in the ground 
+ level altitude. The ""unusable fuel"" must be included in the airplane empty weight or be suitably accounted 
+ for in the airplane weight and balance report. The total amount of fuel is as follows: 
+ Usable fuel (lb.) 
+ Unusable fuel (lb.) 
+ 71,165 
+ 384 
+ ""System Oil"" is that amount of oil required to fill the oil system and tanks and is completely contained within 
+ the engines. System oil weight is 58 lb. The oil tank capacity shown in this data sheet includes only the usable 
+ oil. A sight glass allows to check the oil level."
+NOTE 2,"The following is a list of aircraft parts, which are critical from the fatigue standpoint, and must be replaced at the 
+ times specified. 
+ Component 
+ Part No. 
+ Renewal Times 
+ No. 2 Aileron Hinge Bracket 
+ attachment bolts 
+ 6.4WE. 5085 
+ 12,000 hr. 
+ Nose Wheel Steering Jack 
+ 6.UN. 1087 
+ attachment bolt 
+ (Pre.Mod.4/1095) 
+ 18,000 hr. 
+ 6.4UN. 273 
+ (Post Mod.4/1095) 
+ 18,000 hr. 
+ Main Alighting Gear 
+ 6.3U. 39A 
+ Rocker Arm 
+ (Pre.Mod.4/1637C) 
+ 1,800 landings 
+ Elevator Primary 
+ ) 
+ 10,000 hr. 
+ Servodyne Valve 
+ ) 
+ AIR. 101014 
+ Chest 
+ ) 
+ or 
+ ) 
+ Rudder Primary 
+ ) 
+ AIR. 104582 
+ 30,000 hr. 
+ Servodyne Valve 
+ ) 
+ Chest 
+ ) 
+ Aileron Primary 
+ AIR. 100930 
+ 15,000 hr. 
+ Servodyne Body 
+ Aileron Primary 
+ AIR. 100932 
+ 15,000 hr. 
+ Servodyne Connecting 
+ Block 
+ Aileron Secondary 
+ AIR. 100870 
+ 15,000 hr. 
+ Servodyne Body 
+ Outer Flap Servodyne 
+ AIR. 102358 or 
+ 15,000 hr. 
+ Body 
+ AIR. 103660 
+ Outer Flap Servodyne 
+ AIR. 104654 
+ 15,000 hr. 
+ Valve Chest 
+ Main Undercarriage 
+ AIR. 104224 or 
+ 20,000 hr. 
+ Jack Eye End 
+ AIR. 58416"
+NOTE 3,"All aircraft must be maintained and repaired in accordance with the Air Registration Board approved 
+ Maintenance and Structural Repair Manuals."
+NOTE 4,"When thrust reversers are not installed throttle levers conforming with de Havilland Comet modification 4/2395 
+ must be installed."
+NOTE 5,A FAA Certificate of Airworthiness is not to be issued until compliance is found to SFAR 88.

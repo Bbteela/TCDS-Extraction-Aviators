@@ -1,0 +1,142 @@
+Keyterm,Info
+"1H2 
+ Revision 4 
+ VERTICAL AVIATION 
+ S-52-2 
+ (Military YH-18A) 
+ S-52-3 
+ (Military HO5S-1) 
+ October 23, 2019",
+TYPE CERTIFICATE TC HOLDER,"Vertical Aviation Technologies, Inc. 
+ 1609 Hangar Rd. 
+ Sanford, FL 32773 
+ TYPE CERTIFICATE HOLDER RECORD: Sikorsky Aircraft Corporation 
+ 6900 Main Street 
+ Stratford, CT 06615-9129"
+"I-model S-52-2, 4 PCLH, Approved February 13, 1951; Model S-52-3, 4 PCLH, Approved January 31, 1952 (See 
+ note 4 for YH-18A and HO55-1) 
+ Model S-52-3 similar to Model S-52-2 except for the addition of a V-type stabilizer, fuel system changes, electrical 
+ system changes and other minor revisions.",
+Engine,"Aircooled Motors, Franklin 6V6-245-B16F (Military 0-425-1)"
+Fuel,91 minimum grade aviation gasoline
+Engine limits,"For all operations, 3275 rpm (245hp)"
+Rotor limits,"Maximum 350 rpm. 
+ Minimum 260 rpm."
+Airspeed limits,"Never exceed 
+ (S-52-2) 100 knots True Ind. 
+ (S-52-3) 95 knots True Ind."
+Page No,"1 
+ 2 
+ 3 
+ 4"
+Rev No,"4 
+ 4 
+ 4 
+ 4 
+ (+89) to (+96.0) at 2500 lbs. or less 
+ Straight line variation between points given 
+ (S-52-3) (+88) to (+94)"
+Empty weight CG range,None
+Datum,91 in. forward of centerline main rotor shaft
+Leveling means,Main rotor shaft perpendicular
+Maximum weight,2700 lbs.
+No of seats,4 (Two at +50 and two at +87)
+Maximum baggage,"Footwell, RH 
+ 100 lbs. 
+ (+68) 
+ Footwell, LH 
+ 100 lbs. (+68) 
+ Aft passenger position, RH 
+ 200 lbs. (+87) 
+ Aft passenger position, LH 
+ 200 lbs. (+87)"
+Fuel capacity,(S-52-2) 61 gals. (+89.5); (S-52-3) 57 gals. (+89.5)
+Oil capacity,(S-52-2) 3.1 gals. (+108); (S-52-2) 3.5 gals. (+108)
+Rotor blade movements,"For rotor rigging information see Erection and Maintenance Manual and 
+ applicable Service Information Circulars."
+Serial Nos eligible,"(S-52-2) 52005, 52006, 52008 
+ (S-52-3) 52009 through 52095"
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 6, the 
+ following items of equipment must be installed: 
+ Items 101, 102, 201(a), 202, 205(a), 206, 302, 303, 401"
+Datum,91 in. forward of centerline main rotor shaft
+Leveling means,Main rotor shaft perpendicular
+Maximum weight,2700 lbs.
+No of seats,4 (Two at +50 and two at +87)
+Maximum baggage,"Footwell, RH 
+ 100 lbs. 
+ (+68) 
+ Footwell, LH 
+ 100 lbs. (+68) 
+ Aft passenger position, RH 
+ 200 lbs. (+87) 
+ Aft passenger position, LH 
+ 200 lbs. (+87)"
+Oil capacity,(S-52-2) 3.1 gals. (+108); (S-52-2) 3.5 gals. (+108)
+Rotor blade movements,"For rotor rigging information see Erection and Maintenance Manual and applicable 
+ Service Information Circulars."
+Serial Nos eligible,"(S-52-2) 52005, 52006, 52008 
+ (S-52-3) 52009 through 52095"
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 6, the following 
+ items of equipment must be installed: 
+ Items 101, 102, 201(a), 202, 205(a), 206, 302, 303, 401."
+Specifications Pertinent to All Models,
+Certification basis,"Type Certificate No. 1H2 
+ (Combination CAR 06, March 1, 1950, and CAR 6, January 15, 1951)"
+Production basis,Production Certificate No. 105
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item indicates the net weight 
+ change when that item is installed. 
+ Engine and Engine Accessories - Fuel and Oil System"
+101,"Starter (Eclipse Pioneer) AN4116R1, Direct cranking 
+ 20 lbs. 
+ (+131)"
+102,"Oil cooler & attaching parts (Harrison Radiator 10439B) 
+ 9 lbs. 
+ (+128)"
+201,"2 Main wheel-brake assemblies, 5.00-5, Type III,"
+a Goodyear Model L5HBM,"8 lbs. 
+ (+106) 
+ Wheel Assembly No. 9520265 
+ Brake Assembly No. 9520425"
+202,"2 Main wheel 6 ply-rating tires, 5.00-5, Type III, with regular tubes 
+ 11 lbs. 
+ (+106)"
+205,"2 Nose wheels, 10.00, Type I"
+a Firestone Model B0200,"4 lbs. 
+ (+36)"
+206,"2 Nose wheel 8 ply-rating tires, 10.00, Type I, channel tread, with regular tubes 
+ 5 lbs. 
+ (+36)"
+Battery AN 3151 24V,"47 lbs. 
+ (+6)"
+Generator EclipsePioneer 12981,"23 lbs. 
+ (+133)"
+Two landing lights Grimes D31504,"3 lbs. 
+ (+34)"
+Position Lights AN30333 4,Neglect weight
+Tail light Grimes S,Neglect weight
+401,"CAA Approved Helicopter Flight Manual dated January 31, 1952"
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight empty, 
+ and loading instructions must be in each helicopter at the time of original certification and at all times 
+ thereafter (except in the case of air carrier operators having an approved weight control system). When 
+ changes are made to the helicopter which affect weight and balance, see instructions contained in 
+ Section IV of the Flight Manual."
+NOTE 2,"The following placards must be displayed on the instrument panel in full view of the pilot: 
+ (a) ""This helicopter must be operated in compliance with the operating limitations specified in the 
+ CAA Approved Rotorcraft Flight Manual."" 
+ (b) ""Acrobatic and Instrument Flight Prohibited."" 
+ (c) ""Decrease Vne 4 knots per thousand feet of altitude above sea level."" 
+ (d) ""15 minute fuel supply remains when red light is on."" 
+ The following placard must be displayed on controls cover between rear passenger positions: 
+ (a) ""Maximum cargo weight 
+ 600# 
+ (1) Each footwell 
+ 100# 
+ (2) Each rear passenger position 
+ 200# 
+ For loading instructions see section 4 of the Flight Manual."""
+NOTE 3,"Information essential to the proper maintenance of the helicopter including retirement of critical 
+ parts is included in the manufacturer's service instructions provided with each helicopter."
+NOTE 4,"Information regarding modifications to be accomplished prior to civil certification of Military Models 
+ YH- 18A and HO5S-1 should be obtained from Sikorsky Aircraft. Specific conversion details for the 
+ Model HO5S-1 are provided in Sikorsky SPECIAL SERVICE INSTRUCTION NO. 101."

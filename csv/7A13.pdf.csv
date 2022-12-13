@@ -1,0 +1,186 @@
+Keyterm,Info
+"7A13 
+ Revision 7 
+ General Atomics AeroTec Systems 
+ Do 28 A-1 
+ Do 28 B-1 
+ September 28, 2021",
+Type Certificate Holder,"General Atomics AeroTec Systems GmbH 
+ Claude-Dornier-Strasse 1 
+ D-82234 Wessling 
+ Germany"
+Type Certificate Holder Record,"Dornier-Werke G.M.b.H. 
+ Munich 
+ Federal Republic of Germany (Original type certificate holder; date(s) of transfer(s) to 
+ subsequent holder(s) not known. Intervening ownership until Dornier Luftfahrt GmbH not 
+ known.) 
+ DORNIER LUFTFAHRT GmbH 
+ D-8031 Wessling 
+ Federal Republic of Germany, transferred TC A16EU to Fairchild Dornier GmbH on June 
+ 1, 2000. 
+ Fairchild Dornier GmbH 
+ D-82230 Wessling, Germany, transferred TC A16EU to RUAG Aerospace Services 
+ GmbH on July 27, 2003. 
+ RUAG Aerospace Services GmbH transferred TC 7A13 to General Atomics AeroTec 
+ Systems GmbH on September 28, 2021."
+"I - Model Do 28 A-1, 8 PCLM (Normal Category), Approved July 20, 1961",
+Engines,2 Lycoming O-540-A1D
+Fuel,91/96 Minimum grade aviation gasoline
+Engine limits,"For all operations, 2575 r.p.m. (250 hp.)"
+Propeller and,2 Hartzell HC-A2XK-2/8433-2
+propeller limits,"Diameter: 82 in. (No cutoff permitted) 
+ Pitch settings at 30 in. sta: 
+ Low 13°, High 52.7°"
+Airspeed limits,"Vne (Never exceed) 
+ 204 m.p.h. (177 knots) 
+ Vno (Max. structural cruising) 
+ 160 m.p.h. (139 knots) 
+ Vp (Maneuvering) 
+ 117 m.p.h. (102 knots) 
+ Vfe (Flaps extended) 
+ 100 m.p.h. ( 87 knots)"
+CG range,(+128.5) to (+137.5)
+Empty weight CG range,None
+Maximum weight,5400 lb.
+No of seats,"8. (2 at +120.8), (2 or 3* at +148.1), (2 or 3* at +189.7) 
+ *3 when seats 28.1.24/25 installed."
+Maximum baggage,132 lb. (+210.6)
+Fuel capacity,"122 gal. (Two twin tanks 29 gal. and 13 gal. ea., two auxiliary tanks 19 gal. ea.) 
+ (+153.1)"
+Oil capacity,6 gal. (Two engines with 3 gal. ea.) (+79.5)
+Page No,"1 
+ 2 
+ 3"
+Rev No,"7 
+ 4 
+ 6"
+Control surface movements,"Wing flaps 
+ Down 45° 
+ Outer aileron 
+ Up 21° 
+ Down 20° 
+ Inner aileron 
+ Up 18° 
+ Down 18° 
+ Elevator 
+ Up 28° 
+ Down 23° 
+ Rudder 
+ Right 25° 
+ Left 25° 
+ Stabilizer 
+ Up 9° 
+ Down 4°"
+Serial Nos eligible,"The Federal Republic of Germany Certificate of Airworthiness for Export endorsed as 
+ noted below under ""Certification basis"" must be submitted for each individual aircraft for 
+ which application for certification is made."
+"II - Model Do 28 B-1, 7 PCLM (Normal Category), Approved June 1, 1964",
+Engines,2 Lycoming IO-540-A1A5
+Fuel,100/130 Minimum grade aviation gasoline
+Engine limits,"For all operations, 2575 r.p.m. (290 hp.)"
+Propeller and,2 Hartzell HC-A3VK-2
+propeller limits,"Diameter: 80 in. (No cutoff permitted) 
+ Pitch settings at 30 in. sta: Low 12.5°"
+Airspeed limits,"Vne (Never exceed) 
+ 207 m.p.h. (180 knots) 
+ Vno (Max. structural cruising) 
+ 167 m.p.h. (145 knots) 
+ Vp (Maneuvering) 
+ 121 m.p.h. (105 knots) 
+ Vfe (Flaps extended) 
+ 109 m.p.h. (95 knots)"
+CG range,(+129.2) to (+137.5)
+Empty weight CG range,None
+Maximum weight,6000 lb.
+No of seats,"7. (2 at +120.8), (2 or 3 at +148.1), (2 at +189.7)"
+Maximum baggage,132 lb. (+210.6)
+Fuel capacity,"122 U.S. gal. (Two tank groups 29 gal. + 13 gal. + 19 gal. ea.) (+153.1) 
+ 40 US gal. (Two auxiliary tip tanks, optional equipment, 20 gal. ea.) (+142.9)"
+Oil capacity,"6 U.S. gal. (Two engines, 3 gal. ea.) (+79.5)"
+Control surface movements,"Serial No. 
+ Serial No. 
+ 3062 to 3066 
+ 3067 and Up. 
+ Wing flaps 
+ Down 55° 
+ Down 55° + 1° 
+ Outer aileron 
+ Up 20° 
+ Down 20° 
+ Up 20.5° + 1.5° 
+ Down 20.5° + 1.5° 
+ Inner aileron 
+ Up 18° 
+ Down 18° 
+ Up 20.5° + 2° 
+ Down 20.5° + 2° 
+ (measured at zero flap) 
+ Elevator 
+ Up 32° 
+ Down 29° 
+ Up 32° + 1° 
+ Down 29° + 1° 
+ Rudder 
+ Right 30° 
+ Left 30° 
+ Right 30° + 1° 
+ Left 30° + 1° 
+ For further details see Rigging Diagram in Maintenance Manual Do 28 B-1 Page 3.31."
+Serial Nos eligible,"The Federal Republic of Germany Certificate of Airworthiness for Export endorsed as 
+ noted below under ""Certification basis"" must be submitted for each individual aircraft for 
+ which application for certification is made."
+Specifications Pertinent to All Models,
+Datum,118.11 in. forward of wing leading edge slat
+Leveling means,Longeron in cabin horizontal
+Certification basis,"CAR 10. Type Certificate No. 7A13 issued July 20, 1961 
+ Date of Application for Type Certificate March 8, 1960 
+ U.S. Civil Air Regulation Part 3, dated May 15, 1956, including Amendments 3-1, 3-2, 3- 
+ 3, 3-4 and 3-5, (Do 28 B-1: including Amendments 3-1 through 3-7). 
+ Each aircraft and any replacement part manufactured in Germany must be clearly 
+ identified as imported. 
+ The Luftfahrt Bundesamt originally type certificated this aircraft under its type certificate 
+ Number 613. The FAA validated this product under U.S. Type Certificate Number 7A13. 
+ Effective September 28, 2003, the European Aviation Safety Agency (EASA) began 
+ oversight of this product on behalf of Germany. 
+ The EASA type certificate is EASA.A.360."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. In addition, the 
+ following items of equipment are required: 
+ (a) Luftfahrt-Bundesamt approved Airplane Flight Manual 
+ (b) Stall warning indicator"
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on an NAA Export Certificate of 
+ Airworthiness (Export C of A) signed by a representative of the Luftfahrt Bundesamt on 
+ behalf of the European Community. The Export C of A should contain the following 
+ statement: ‘The aircraft covered by this certificate has been examined, tested, and found to 
+ comply with U.S. Civil Air Regulation Part 3 approved under U.S. Type Certificate No. 
+ 7A13 and to be in a condition for safe operation.’ 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United 
+ States of both new and used aircraft based on the scope of the agreement, to identify any 
+ required statements by the exporting authority on the export certificate of airworthiness 
+ (or equivalent document), and for procedures for coordinating exceptions to conformity 
+ statements on these documents. Refer to FAA Order 8130.2, Airworthiness Certification 
+ of Aircraft, for requirements for issuance of an airworthiness certificate for imported 
+ aircraft."
+Service Information,"Each of the documents listed below must state that it is approved by the European 
+ Aviation Safety Agency (EASA) or – for approvals made before September 28, 2003 – by 
+ the Luftfahrt Bundesamt. 
+ • Service bulletins, 
+ • Structural repair manuals, 
+ • Vendor manuals, 
+ • Aircraft flight manuals, and 
+ • Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved unless one of the 
+ following conditions exists: 
+ • The documents change the limitations, performance, or procedures of the FAA 
+ approved manuals; or 
+ •The documents make an acoustical or emissions changes to this product’s U.S. type 
+ certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. The FAA 
+ may delegate on case-by-case to EASA to approve on behalf of the FAA for the U.S. type 
+ certificate. If this is the case it will be noted on the document."
+NOTE 1,"Current weight and balance report, including list of equipment included in certificated empty weight, and 
+ loading instructions when necessary, must be provided for each aircraft at the time of original certification."
+NOTE 2,"The following placard must be displayed on the instrument panel in full view of the pilot: 
+ ""THIS AIRPLANE MUST BE OPERATED AS A NORMAL CATEGORY AIRPLANE IN 
+ COMPLIANCE WITH THE OPERATING LIMITATIONS OF THE AIRPLANE FLIGHT MANUAL. 
+ NO ACROBATIC MANOEUVERS, INCLUDING SPINS APPROVED."""

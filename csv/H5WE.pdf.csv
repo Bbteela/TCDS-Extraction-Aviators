@@ -1,0 +1,199 @@
+Keyterm,Info
+"H5WE 
+ Revision 2 
+ LOCKHEED 
+ L-286 
+ July 23, 2012",
+Type Certificate Holder,"Lockheed Martin Aeronautics Company 
+ 86 South Cobb Drive 
+ Marietta, GA 30063 
+ Lockheed-California Company 
+ A Division of Lockheed Aircraft Corporation 
+ Burbank, California"
+"I. 
+ Model 286 Normal Category Helicopter, approved June 30, 1966",
+Engine,United Aircraft of Canada PT6B-9
+Fuel See Note 6,"Grade JP-1, JP-4, JP-5 Aviation Fuel conforming to P&WA Spec. 522"
+Engine Limits,"Takeoff (5 min.) 
+ Max. continuous 
+ Shaft H.P. 
+ 550 
+ 500 
+ Torque 
+ 464 ft-lb. 
+ 421 ft.-lb. 
+ Gas Generator RPM, N1 
+ 38,100 (101.6%) 
+ 38,100 (101.6%) 
+ Output shaft RPM, N2 
+ 6230 (100%) 
+ 6230 (100%) 
+ Turbine Inlet Temp. 
+ 1820F (994C) 
+ 1745F (952C)"
+Transient Limits,"Turbine Inlet Temp. 
+ during Start (2 second limit) 1900F (1038C) 
+ Gas Generator RPM, N1 (10 second limit) 38,500 (102.6%) 
+ Output shaft RPM, N2 6853 (110%)"
+Rotor limits and,"Power Off 
+ Power On"
+engine operating speeds,"Maximum 108% RPM 
+ Maximum 104% RPM 
+ Minimum 92% RPM 
+ Minimum 100% RPM"
+Airspeed limits,"Density altitude 
+ Vne (never exceed speed) 
+ S.L. to 1500’ 
+ 136 KCAS 
+ 10000’ 
+ 103 KCAS 
+ (Linear variation between 1500 & 10000 feet)"
+Altitude limits,See FAA Approved Rotorcraft Flight Manual.
+CG Range,Most fwd 12000 in. lbs. at max. weight (4700 lbs. and below)
+Hub offset moment about,Most aft 0 in. lbs. at max. weight (4700 lbs.)
+main rotor shaft centerline,"Most aft 17000 in. lbs. at reduced weight (4000 lbs. and below) 
+ Lateral 8000 in. lbs. right and left (4700 lbs. and below) 
+ (Linear aft longitudinal variation between 
+ 4700 & 4000 lbs.)"
+Datum Equipment arm,150’ fwd of main rotor shaft centerline
+Page No,1 2 3
+Rev No,2 1 1
+reference index,(See Rotorcraft Flight Manual for weight and balance computation.)
+Leveling means,Plumb bob at Fuselage Sta. 73.5
+Maximum weight,4700 lbs.
+Number of seats,"2 (100.7” index arm), 3 (127.5” index arm)"
+Maximum cargo,"200 lbs. - fwd LH seat (100.7” index arm) 
+ 740 lbs. - aft floor area (127.4” index arm) at 125 lb/sq. ft. max floor landing"
+Fuel capacity,520 lbs. - (151” index arm). See NOTE 1 for “unusable” fuel.
+Oil capacity,"Engine oil, 24 lbs. (210” index arm). Turbo Jet 35 
+ Transmission oil, 14 lbs. (164” index arm) Turbo Jet 35"
+Other operating limitations,"FAA Approved Rotorcraft Flight Manual. See NOTE 4 for Maintenance and NOTE 5 
+ for Non-Icing Flight Limitations."
+Service life,See NOTE 3 for list of Life Limited Components.
+Main rotor blade movements,"Collective pitch at 163” R, 15 up and 0 down 
+ (not to be used for rigging. 
+ Cyclic (measured with collective full up)"
+Refer to Maintenance Manual,"Longitudinal  12 tolerance + 1, -0.50"
+for rigging procedure,"Lateral  12 tolerance +1, -0.50"
+Tail rotor blade movements,"Collective 10 11’ (thrust to right) 
+ 14 45’ (thrust to left) 
+ (from neutral rig pin setting)"
+Serial numbers eligible,2001 and up
+Certification basis,"CAR 6 dated December 20, 1956, including Amendments 6-1 through 6-7. 
+ Type Certificate H5WE issued June 30, 1966. 
+ Date of Application of Type Certificate July 15, 1964."
+Production basis,Production Certificate No. 600.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the helicopter for 
+ certification. Lockheed Report 19208, Section IIA “Equipment List,” contains 
+ a list of all required equipment that must be installed as well as optional 
+ equipment installations approved by the FAA."
+NOTE 1,"Current weight and balance report including lisdt of equipment included in certificated empty weight, 
+ and loading instructions, must be provided for each helicopter at the time of original airworthiness 
+ certification and at all times thereafter (except in the case of operators having an approved weight 
+ control system). 
+ Fuel and oil capacities as indicated are total tank capacities over and above “Trapped Fuel and Oil.” 
+ The indicated capacity of the fuel tank does not include “Unusable” fuel of 10 pounds which cannot 
+ be used safely in all flight attitudes, and which must be included in the empty weight."
+NOTE 2,"The following placard must be installed in the Pilot’s Checklist: 
+ “This helicopter must be operated in compliance with the operating limitations specified in the FAA 
+ Approved Rotorcraft Flight Manual.” 
+ For additional placards, see FAA Approved Rotorcraft Flight Manual."
+NOTE 3,"The retirement times of critical parts are listed in the following table. These values of 
+ retirement or service life cannot be increased without FAA Engineering Approval. 
+ Life limited components removed when life limit has been reached must be destroyed or 
+ permanently marked to prevent return to service. 
+ Component 
+ Part No. 
+ Hours 
+ Main rotor blade 
+ 542492-1 
+ 1800 
+ Main rotor cuff 
+ 541464-1 
+ 4500 
+ Blade to cuff attach bolts 
+ 541628-3, -5 
+ 3900 
+ Main rotor T.T. pack 
+ 542484 
+ 20,000 
+ Tension-Torsion pack bolts 
+ 542277-3, 542487-3 
+ 4500 
+ Main rotor hub (inc. hub shaft bolts, MS21250) 
+ 542446-1 
+ 4500* 
+ Bearing, plain rod end (pitch link main rotor) 
+ 740286-101, -103 
+ 300 
+ Inspect every 20 hours 
+ Main rotor pitch link rod end bearings 
+ DREM 6-087, 6-092 
+ 50 
+ (Southwest) 
+ Gyro assembly (inc. mounting bolts, MS21250) 
+ 542099-1 
+ 3600 
+ Gyro support assembly 
+ 542209-1 
+ 9600 
+ Gyro centering bearings (KAHR) 
+ KSBY-7, -7G 
+ *** 
+ Tail rotor cuff and blade (Parsons) 
+ 6570-1100-02 or -03 
+ 15,000 
+ Tail rotor assembly (including Cuff) 
+ 6570-1100-04 
+ 8200 
+ Tail rotor hub 
+ 542477-5 
+ 1800 
+ Tail rotor trunion (inc. nut 542113 & cone 542115-3) 
+ 542111-5 
+ 12,000 
+ Bearing, plain rod end (pitch link tail rotor) 
+ 740285-101, 740286-105 
+ 300 
+ Tail rotor pitch link rod end bearings (Southwest) 
+ AREM-5DUW & DREMS-6-092 
+ 50 
+ Engine to Trans. Coupling (LORD) 
+ LC-5038-1 
+ ** 
+ Tail rotor drive shaft assemblies 
+ 541375-3, -5, -7, -9 
+ 4500 
+ Tail rotor gear box 
+ 541384-1 
+ 1500 
+ Mach. Inst. swash plate controls 
+ 541479-3 
+ 26,000 
+ Roll spring, positive 
+ 541604-3 
+ 5000 
+ Collective actuator (Bertea) 
+ 541580-2 
+ 19,500 
+ Cyclic pitch actuator (Bertea) 
+ 541580-1 
+ 19,500 
+ Cyclic roll actuator (Bertea) 
+ 541580-1 
+ 19,500 
+ Tail boom 
+ 541363 
+ 12,800* 
+ * Inspect per Lockheed Report 19224, pages B-1 and B-2 at 2100 hours and thereafter at periods not 
+ to exceed 300 hours from the last inspection. 
+ ** Inspect every 100 hours and replace on conditions (Visual check for any deformation or deterioration 
+ of core). 
+ *** Inspect every 50 hours per Lockheed Report 19224, page B-3."
+NOTE 4,"This model helicopter must be serviced and maintained in conformance with instruction given by 
+ Lockheed-California Company in the Maintenance and Inspection Manual."
+NOTE 5,"This model helicopter is approved for flight in non-icing conditions only. See FAA Approved 
+ Rotorcraft Flight Manual."
+NOTE 6,"Pnillips anti-icing fuel additive PFA-55MB may be used if concentration delivered to helicopter 
+ does not exceed 0.15% by volume. No fuel system anti-icing credit is allowed."

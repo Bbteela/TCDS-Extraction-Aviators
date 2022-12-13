@@ -1,0 +1,413 @@
+Keyterm,Info
+"A61NM 
+ Revision 12 
+ Gulfstream Aerospace LP 
+ Gulfstream G280 
+ December 21, 2021",
+Type Certificate Holder,"Gulfstream Aerospace LP (GALP) 
+ P.O. Box 1036 
+ Airport City 
+ 7019900, Israel"
+"I. Model Gulfstream G280 (Transport Category Airplane) approved on August 30, 2012",
+Engines,2 Honeywell AS907-2-1G (Turbofan) Engines per FAA Type Certificate Data Sheet E00010LA
+Auxiliary Power Unit,Honeywell 36-150[IAI]
+Fuel,"Fuels conforming to Honeywell International Inc. Specifications EMS53111 (Jet Atype), 
+ EMS53112 (Jet A1 and JP-8 types), EMS53116 (JP-5 type)"
+Oil,"Oils conforming to Honeywell International Inc. Specification EMS53110, Type II."
+Engine Limits,Refer to Airplane Flight Manual (AFM)
+APU Limits,Refer to Airplane Flight Manual (AFM)
+Airspeed Limits,"VMO 
+ 300 KIAS from sea level to 10,000 ft., 
+ increasing linearly to 330 KIAS at 
+ 20,000 ft. 
+ 340 KIAS from 20,000 ft. to 28,000 ft. 
+ MMO 
+ 0.85 Mach from 28,000 ft. to 45,000 ft. 
+ VA (Maneuvering) 
+ 215-225 KIAS below 20,000 ft. 
+ 225-264 KIAS between 20,000 ft. and 
+ 35,000 ft. 
+ 264 KIAS from 35,000 ft. to 39,000 ft. 
+ VA (Maneuvering) 
+ 0.85 Mach from 35,000 ft. to 45,000 ft. 
+ VFE (Flaps Extended) 
+ Flaps 10°250 KIAS 
+ Flaps 20°220 KIAS 
+ Flaps LND 
+ 180 KIAS 
+ Maximum Landing Gear Operating Speed (VLO) 195 KIAS 
+ Maximum Landing Gear Extended Speed (VLE) 195 KIAS 
+ Vmc air (ISA; sea level) 
+ 97 KIAS 
+ Vmc landing (ISA; sea level) 
+ 95 KIAS 
+ Vmc ground (ISA; sea level) 
+ 95 KIAS 
+ Main landing gear tire speed limit 
+ 195 kts. 
+ Nose landing gear tire speed limit 
+ 182 kts."
+Datum,"Fuselage station 0, located 221.77 inches (5.633 meters) forward of the main entrance aft frame."
+Mean Aerodynamic Chord,"The MAC length is 112.92 inches (2.868 meters), with leading edge at fuselage station 10305."
+Leveling Means,"Longitudinally: Place level on either seat rail at fuselage station 10534 (FR 34 – against the 
+ emergency exit) parallel to aircraft centerline."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+Rev No,"12 
+ 2 
+ 10 
+ 10 
+ 12 
+ 11 
+ 7 
+ Laterally: Place level on seat rail at cockpit floor fuselage station 4518 (FR 10) 90° to aircraft 
+ centerline."
+Center of Gravity CG Limits,Refer to Airplane Flight Manual (AFM)
+Empty Weight CG Limits,None.
+Maximum Weights,"Max Ramp Weight: 
+ 39,750 lbs. 
+ Max Takeoff Weight: 
+ 39,600 lbs. 
+ Max Landing Weight: 
+ 32,700 lbs. 
+ Max Zero Fuel Weight: 
+ 28,200 lbs."
+Maximum Compartment Weights,"Floor load 120 lb./ft.2 
+ Lbs. 
+ Arm 
+ (floor load behind vertical net 100 lb./ ft.2) 
+ 1980 
+ 544.21 in. (13.82 meters)"
+Fuel Capacity,"Total useable fuel all tanks 
+ 14620 lbs. (at density 6.7 lbs./U.S. gallon) 
+ Total unusable fuel all tanks 
+ 86.8 lbs. drainable from tanks and lines 
+ 29.6 lbs. trapped in tanks and lines 
+ LH wing 
+ LH feed 
+ Center 
+ RH feed 
+ RH wing 
+ Aft tank 
+ Fwd. 
+ tank 
+ tank 
+ tank 
+ tank 
+ tank 
+ tank"
+Tank Capacity LBS,"4377 
+ 540 
+ 2153 
+ 1132 
+ 1619 
+ 540 
+ 4377"
+Tank Usable Fuel,"4340 
+ 530 
+ 2140 
+ 1130 
+ 1610 
+ 530 
+ 4340"
+LBS,"541 
+ 322"
+Arm inches Meters,"441 (11.20) 
+ 439 (11.15) 
+ 396 
+ 439 (11.15) 
+ 441 (11.20) 
+ (10.05) 
+ (13.75) 
+ (8.20)"
+Unusable Fuel LBS,"36.8 
+ 10.0 
+ 12.6 
+ 1.6 
+ 8.6 
+ 10.0 
+ 36.8 
+ 541 
+ 322"
+Arm inches Meters,"441 (11.20) 
+ 439 (11.15) 
+ 396 
+ 439 (11.15) 
+ 441 (11.20) 
+ (10.05) 
+ (13.75) 
+ (8.20)"
+Minimum Crew,"2 
+ Pilot and Copilot."
+Maximum Passenger Seating Capacity,"19 
+ As limited by exit door arrangement (see Note 4) 
+ 0 
+ For aircraft conforming to “green” aircraft configuration defined by 
+ GALP drawing 30P000999900-501 Revision A and report 
+ 30P000/120060 Revision New"
+Oil Capacity,Oil capacity (useable) for both engines 19.2 lbs. (at density 8.14 lbs./U.S. gallon)
+Maximum Altitude,"45,000 ft."
+Control Surface Movements,"Ailerons 
+ 15° TE up, 15° TE down (+ 0.25°) 
+ Aileron trim 
+ 15° TE up, 15° TE down (+ 1.0°) 
+ Aileron gear tab 
+ 15° TE up, 15° TE down (+ 1.0°) 
+ Elevator 
+ 27.5° TE up, 20° TE down (+ 0.5°) 
+ Stabilizer 
+ 12 TE up, 2.5 TE down (+ 0.3°) 
+ Rudder 
+ 30 right, 30° left (+ 1.5°) 
+ Rudder trim 
+ 9 right, 9° left (+ 1.1°) 
+ Ground Spoiler 
+ 55 up (+ 1.7°) 
+ Roll Spoiler 
+ 45 up (+ 1.65°) 
+ Flap 
+ 39 maximum TE down (+ 1.0°) 
+ Deflections are in the planes normal to the hinge lines, except for the flaps, which are in 
+ stream wise planes normal to the wing reference plane. Deflections of a surface supported 
+ by another moveable surface are relative to the parent surface. Stabilizer deflections are 
+ relative to the airplane horizontal reference. Rudder maximum deflections are scheduled 
+ by the flight control system as a function of airspeed; the data presented herein 
+ correspond to zero airspeed."
+Serial Numbers,2001 and subsequent (see Note 6).
+DATA PERTINENT TO ALL MODELS EXCEPT AS INDICATED,
+Import Requirements,"Refer to the applicable bilateral agreement to verify eligibility for import into the United States 
+ of both new and used aircraft based on the scope of the agreement, to identify any required 
+ statements by the exporting authority on the export certificate of airworthiness (or equivalent 
+ document), and for procedures for coordinating exceptions to conformity statements on these 
+ documents. Refer to FAA Order 8130.2, Airworthiness Certification of Aircraft, for 
+ requirements for issuance of an airworthiness certificate for imported aircraft."
+Certification Basis,"14 CFR part 25, effective February 1, 1965, including Amendments 25-1 through 25-120 in entirety, plus Amendment 
+ 25-122 in entirety. 
+ Special conditions 
+ No. 25-449-SC 
+ Windshield Precipitation Removal by Hydrophobic Coatings 
+ No. 25-425-SC 
+ Dynamic Test Requirements for Side-facing, Single-occupant Seats 
+ No. 25-432-SC 
+ Go-around Performance Credit for Use of Automatic Power Reserve (ATTCS). 
+ No. 25-447-SC 
+ Engine Torque Loads for Sudden Engine Stoppage 
+ No. 25-440-SC 
+ Design Roll Maneuver 
+ No. 25-453-SC 
+ Operation without normal Electrical Power 
+ No. 25-439-SC 
+ Interaction of Systems and Structure 
+ No. 25-464-SC 
+ Isolation or Aircraft Electronic System Security Protection from Unauthorized Internal 
+ Access 
+ No. 25-465-SC 
+ Aircraft Electronic System Security Protection from Unauthorized External Access 
+ No. 25-664-SC 
+ Non-Rechargeable Lithium Battery Installations 
+ Note: The FAA Special Conditions referenced above may be accessed at internet location: 
+ http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgSC.nsf/Frameset?OpenPage 
+ See note 8 regarding change in model designation. 
+ Equivalent Safety Findings 
+ 14 CFR 25.811(d)(1), 25.812(a)(1),(b),(c),(d),(e): Emergency Exit Marking and Emergency Lighting 
+ (documented in TAD ELOS memo AT0329IB-T-CI-1) 
+ 14 CFR 25.1301, 25.1309: Function and Installation and Equipment, Systems, and Installations (documented in 
+ TAD ELOS memo AT0329IB-T-S-21R1) 
+ 14 CFR 25.831(g): Cabin Temperature and Humidity (documented in TAD ELOS memo AT0329IB-T-S-15) 
+ 14 CFR 25.331(c): Checked Pitch Maneuver (documented in TAD ELOS memo AT0329IB-T-A-8) 
+ 14 CFR 25.341, 25.343, 25.345, 25.371, 25.373, 25.391: Design Gust Criteria and Continuous Turbulence 
+ (documented in TAD ELOS memo AT0329IB-T-A-9) 
+ 14 CFR 25.721, 25.963(d), 25.994: Emergency Landing Gear Breakaway (documented in TAD ELOS memo 
+ AT0329IB-T-A-10) 
+ 14 CFR 25.391, 25.395, 25.415: Ground Gust (documented in TAD ELOS memo AT0329IB-T-A-11) 
+ 14 CFR 25.671: Flight Control Systems (documented in TAD ELOS memo AT0329IB-T-S-22-1) 
+ 14 CFR 25.629: Aeroelastic Stability Requirements (documented in TAD ELOS memo AT0329IB-T-S-22-2R2) 
+ 14 CFR 25.1203(a): Engine Fire Detection in Tailpipe (documented in TAD ELOS memo AT0329IB-T-P-6) 
+ 14 CFR § 25.933: Flight Critical Thrust Reverser (documented in TAD ELOS memo AT0329IB-T-P-8) 
+ 14 CFR part 25 multiple sections: Adoption of Draft Harmonized Rules for APU Certification (documented in 
+ TAD ELOS memo AT0329IB-T-P-15) 
+ 14 CFR 25.841(b): Cabin Pressurization – High Altitude Airport Takeoff and Landing Operations (documented 
+ in TAD ELOS memo AT0329IB-T-S-16) 
+ 14 CFR 25.901, 25.1305, 25.1321, 25.1549: Digital Display of Engine Rotor Speed N2 (documented in TAD 
+ ELOS memo AT0329IB-T-F-8) 
+ Note: The FAA Equivalent Safety Findings referenced above may be accessed at internet location: 
+ http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgELOS.nsf/Frameset?OpenPage 
+ See note 8 regarding change in model designation. 
+ Exemptions 
+ Exemption No. 9900 for 14 CFR Part 25 Sections 25.562(a) and 25.785(b): Multiple-occupancy Side-facing 
+ Seats 
+ Partial Exemption No. 10274 for 14 CFR Part 25 Section 25.813(e): Doors between Passenger Seats 
+ Occupiable for Takeoff and Landing and any Passenger Emergency Exit 
+ Exemption No. 10402 for 14 CFR Section 25.981(a)(3): Structural Lightning Protection Aspects of Fuel Tank 
+ Ignition Prevention 
+ Time-limited Exemption No. 10408 for 14 CFR Section 25.901(c): Uncontrollable High Thrust Failure 
+ Conditions (see Note 3 and Note 11) 
+ Time-limited Exemption No. 10612 for 14 CFR Section 25.981(a)(3): Fuel Tank Ignition Prevention (see Note 
+ 9) 
+ Partial Time-limited Exemption No. 10613A from certain engine installation, operational limitation and engine 
+ indication provisions of Title 14, Code of Federal Regulations (14 CFR) (See Note 10) 
+ Partial Exemption No. 17440 for 14 CFR Section 25.841(a)(2) from certain requirements for pressurized cabin. 
+ (see Note 12) 
+ Note: The FAA Exemptions referenced above may be accessed at internet location: 
+ http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgEX.nsf/Frameset?OpenPage 
+ See note 8 regarding change in model designation. 
+ Optional Design Regulations: 
+ The model G280 has been shown to comply with the following optional requirements: 
+ Section 25.801 Ditching 
+ Section 25.1411(d),(e),(f),(g) Safety Equipment – General 
+ Section 25.1415(a)(b)(c)(d) Ditching Equipment 
+ Section 25.1419 Ice protection 
+ Environmental Standards: 
+ 14 CFR part 34, as amended by Amendments 34-1 through 34-4, effective June 29, 2009 
+ 14 CFR part 36, effective December 1, 1969 including amendments 36-1 through 36-31 effective November 3, 
+ 2017 
+ A finding of regulatory adequacy pursuant to the “Noise Control Act of 1972” (49 USC Section 44715) 
+ Additional Design Requirements and Conditions: 
+ The following design details or information must be maintained to ensure that an unsafe design condition is not present: 
+ Fuel Vent System Fire Protection: Compliance shown by design; flame arrestors added to the vent line near the NACA 
+ scoops on the outboard wing. 
+ Fuselage Fuel Tank Penetration: Compliance shown by design and test of the G280 forward and aft fuselage fuel tanks 
+ to demonstrate resistance to tire fragment or other debris impact. Changes to fuel tank skin thickness, tire mass, and tire 
+ size, may impact debris penetration resistance. Therefore, any such changes will require evaluation to ensure an unsafe 
+ condition is not introduced. 
+ Type Certificate Information 
+ Type certificate A61NM issued August 30, 2012 
+ • 
+ Original application for type certification dated March 31, 2006 
+ • 
+ Extension granted per 14 CFR Section 21.17(d)(2) for a new reference date of application of March 31, 2007 
+ • 
+ Provisional type certificate application October 27, 2011 
+ • 
+ Extension granted per 14 CFR Section 21.17(d)(2) for a new reference date of application of September 30, 2007 
+ • 
+ Provisional type certificate A61NM issued March 1, 2012"
+Production Basis,"Until 31 December 2021 Gulfstream G280 airplanes, all series and models, 
+ were produced in Israel under production certificate PA-30 issued by the Civil 
+ Aviation Authority of Israel (CAAI). From 1 January 2022, Gulfstream G280 
+ airplanes, all series and models, are produced in Israel under production 
+ certificate PC-1 issued by the Civil Aviation Authority of Israel (CAAI). 
+ Effective 1 January 2022, production certificate PC-1 supersedes and replaces 
+ PA-30See also Note 7 regarding licensing arrangements."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see the Certification Basis) must be installed in the aircraft. The list 
+ of all such equipment supplied by the manufacturer with each aircraft is 
+ contained in the GALP document: 
+ G280 Master Equipment List Rep. 30P000/110634/Rev. A or higher"
+Airplane Flight Manual,"CAAI-approved AFM No. G280-1001-1 for aircraft with avionics software 
+ version 3.2.1 
+ CAAI-approved AFM No. G280-1002-1 for aircraft with avionics software 
+ version 3.6 
+ CAAI-approved AFM No. G280-1003-1 for aircraft compliant with FADEC 
+ software version V2G (production modification G25-10044 or associated SB 
+ 280-76-128)"
+Service Information,"Service bulletins, repair instructions (letters, drawings, specifications, forms used 
+ for transmitting repair descriptions, etc.), structural repair manuals, airplane flight 
+ manuals, vendor manuals, and overhaul and maintenance manuals that are 
+ published in the English language and indicate applicability to the U.S. approved 
+ type design included in this Type Certificate and that include a statement that the 
+ document is Civil Aviation Authority of Israel (CAAI) approved, are accepted 
+ by the FAA and are considered FAA approved. These approvals pertain to type 
+ design only."
+NOTE 1,"Weight and balance: 
+ A current weight and balance report, including a list of equipment included in certificated empty 
+ weight and loading instructions when necessary must be provided for each aircraft at the time of 
+ original certification. 
+ The certificated basic empty weight and corresponding center of gravity location must include the 
+ total engine oil, hydraulic fluid and unusable fuel."
+NOTE 2,"Airplane operation must be in accordance with a CAAI approved Airplane Flight Manual. All 
+ placards required by the AFM, operating rules, and the certification basis must be installed in the 
+ appropriate locations."
+NOTE 3,"Maintenance 
+ Program, 
+ including 
+ Service 
+ Life 
+ Limits 
+ and 
+ Required 
+ Maintenance/Inspections/Reporting: 
+ Chapter 5-10-10 of the Gulfstream G280 Maintenance Manual, part number G280-1001-3, basic 
+ issue, dated August 24, 2012 contains the Airworthiness Limitations Section required by 14 CFR part 
+ 25 appendix H25.4. Later revisions to the Chapter 5-10-10 must be approved prior to incorporation 
+ into the maintenance program of airplanes operated under the type certificate. The Chapter 5-10-10 
+ includes the following components: 
+ • 
+ Life limited components are listed in the Tables 4 and 5. 
+ • 
+ The mandatory systems certification maintenance requirements, raised from the safety analysis, 
+ are listed in the Table 6. 
+ • 
+ The fuel tank system airworthiness limitations are listed in the Table 6. 
+ • 
+ The fuel tank system critical design configuration control limitations (CDCCLs) are listed in 
+ the Table 7. 
+ Additionally, the FAA has concluded that the occurrence of any uncontrollable high-thrust failure 
+ condition, or any of the associated causal failures listed in Chapter 05-10-10 of the G280 Maintenance 
+ Manual, may endanger the safe operation of an airplane, and hence are reportable under Title 14, 
+ Code of Federal Regulations 121.703(c), 125.409(c), and 135.415(c)."
+NOTE 4,"The type design defined by GALP drawings 30P000999900-501 Revision A and report 
+ 30P000/120060 Revision New includes approved seating for pilot and copilot only, and has peculiar 
+ provisions and limitations linked to this limited occupancy. A forward observer seat is not included 
+ in the approved type design. 
+ Modifications intended to expand occupancy provisions to other than pilot and copilot seating 
+ approved under the TC must be approved. Certification guidance for interior installations is provided 
+ in GALP report 30P090/060643 Rev. A or higher “G280 Certification Specification for the Green 
+ Aircraft Completion Center Interface.” 
+ In addition to occupancy considerations noted above, compliance to 14 CFR 25.809(a) was found: 
+ (a) 
+ for the over wing exit by using both the window in the exit and the window immediately forward 
+ of the exit. It isn’t possible to view the likely area of evacuee ground contact from the over wing 
+ exit window therefore the window immediately forward of the exit was used for this purpose. 
+ No items may be installed between the over wing exit and the window immediately forward of 
+ the over wing exit that could cause an obstruction. Questions regarding a proposed installation 
+ in this area must be coordinated with the TC issuing office. 
+ (b) 
+ for the Main Entry Door (MED) exit by using the left hand (LH) forward-most cabin window 
+ which is immediately aft of and adjacent to the MED. No items may be installed that could cause 
+ an obstruction of this window, unless alternative viewing means are approved. Questions 
+ regarding a proposed installation in this area must be coordinated with the TC issuing office."
+NOTE 5,"The G280 model incorporates integrated avionics systems using software-based line replaceable units 
+ (LRUs) which share a digital transmission bus. Modification to the LRU software or alteration of the 
+ LRU interface could adversely affect the airworthiness of the certified product. LRU software 
+ configurations approved under the TC are defined in GALP Document 30P8000005 Rev.W, “TOP 
+ ELECT.& AVIONIC PART LIST BASIC FINAL ASSY.” Changes to the integrated avionics system 
+ must be approved."
+NOTE 6,"G280 airplane serial numbers 2003 through 2009 were imported into the U.S. under the provisional 
+ TC issued March 1, 2012. These serial number airplanes did not conform to the FAA-approved type 
+ design definition at the time of import. Eligibility for a standard certificate of airworthiness on these 
+ airplanes requires a determination of conformity to the type design definition approved under the 
+ FAA TC. The modifications necessary to bring these airplanes from the exported configuration to the 
+ FAA TC type design configuration are described in a Task Transfer Reports (TTR) prepared for each 
+ serial number airplane, according to the G280 GALP PTC to TC Configuration Management Plan, 
+ IAI Document Number 30P002/120376, Revision A, dated July 26, 2012."
+NOTE 7,"Israel Aerospace Industries (IAI) LTD., Ben Gurion International Airport 70100, ISRAEL, is 
+ licensed by GULFSTREAM AEROSPACE LP to manufacture and obtain Airworthiness Certificates 
+ for the aircraft models listed in this Type Certificate Data Sheet."
+NOTE 8,"GALP letter CAAI/11140/BM, dated July 18, 2011 provides notification of a model designation 
+ change from G250 to G280. Some FAA special conditions, exemptions, and equivalent safety finding 
+ memorandums issued prior to this date include the G250 model designation but are fully applicable 
+ to the Model Gulfstream G280."
+NOTE 9,"In accordance with the FAA Decision contained in Time-limited Exemption No. 10612 for 14 CFR 
+ Section 25.981(a)(3): Fuel Tank Ignition Prevention, no aircraft may operate after June 30, 2014 
+ unless production modification G25-10706 or its associated service bulletin 280-57-036, and 
+ production modification G25-20047 or its associated service bulletin 280-57-071 are incorporated."
+NOTE 10,"In accordance with the FAA Decision contained in Time-limited Exemption No. 10613A from certain 
+ engine installation operational limitation and engine indication provisions: no aircraft may operate 
+ after December 31, 2015 unless production modification G25-10022 or its associated service bulletin 
+ 280-30-017, and production modification G25-20061 or its associated service bulletin 280- 76-111 
+ are incorporated."
+NOTE 11,"In accordance with the FAA Decision contained in Time-limited Exemption No. 10408A for 14 CFR 
+ Section 25.901(c): Uncontrollable High Thrust Failure Conditions, production aircraft starting from 
+ aircraft Serial Number 2110 are equipped with the approved amended type design (production 
+ modification G25-10054) which satisfies the conditions required to remove this exemption from 
+ those aircraft having incorporated production modification G25-10054."
+NOTE 12,"In accordance with the FAA Decision contained in the Partial Grant of Exemption No. 17440, relief 
+ from certain requirements of 14 CFR Section 25.841(a)(2) allowing access to the baggage 
+ compartment up to 44,000 feet is granted for aircraft incorporating modification G25-10066 or it’s 
+ associated service bulletin 280-11-252."

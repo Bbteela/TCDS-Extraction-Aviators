@@ -1,0 +1,681 @@
+Keyterm,Info
+"A-803 
+ Revision 19 
+ MOONEY 
+ M-18C 
+ M-18C55 
+ M-18L 
+ M-18LA 
+ February 1, 1972",
+Manufacturer,"Mooney Mite Aircraft Corporation 
+ Box 3999 
+ Charlottesville, Virginia 22903"
+"I - Model M-18 - Deleted - April 28, 1950 
+ II - Model M-18L, 1 PCLM (Normal and Utility Category), Approved March 15, 1949",
+Engine,Lycoming O-145-B2
+Fuel,80 minimum octane aviation gasoline
+Engine limits,"For all operations, 2550 r.p.m. (65 hp.)"
+Airspeed limits,"Maneuvering 
+ 103 m.p.h. ( 90 knots) (Normal Category)"
+CAS,"109 m.p.h. ( 95 knots) (Utility Category) 
+ Maximum structural cruising 
+ 109 m.p.h. ( 95 knots) 
+ Never exceed 
+ 143 m.p.h. (124 knots) 
+ Flaps extended 
+ 84 m.p.h. ( 73 knots) 
+ Landing gear extended 
+ 109 m.p.h. ( 95 knots) 
+ Landing gear operation 
+ 109 m.p.h. ( 95 knots)"
+CG range,"(With landing gear extended) 
+ Normal Category: 
+ (+32.1) to (+33.8) at 780 lb. 
+ (+31.7) to (+33.8) at 725 lb. or less 
+ Utility Category: 
+ (+31.8) to (+32.9) at 740 lb. 
+ (+31.7) to (+32.9) at 725 lb. or less 
+ Straight line variation of forward limits between specified weights. 
+ Effect of retracting landing gear +266 in.-lb. 
+ (Not eligible for Utility Category operation with Items 302, 303 and 304 installed). 
+ 780 
+ N O RM A L 
+ 760 
+ CA T EG O RY 
+ PO U N D S 
+ 740 
+ U T IL ITY 
+ 720 
+ CA T E GO RY 
+ 700 
+ 31 
+ 32 
+ 33 
+ 34 
+ IN CH E S"
+Empty weight CG range,"(+29.9) to (+30.0). When the E.W.C.G. falls within this range, computation of critical 
+ fore and aft C.G. positions is unnecessary. Range is not valid for non-standard 
+ arrangements. 
+ Normal Category: 
+ 780 lb. 
+ Utility Category: 
+ 740 lb."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+Rev No,"19 
+ - 
+ - 
+ - 
+ - 
+ - 
+ -"
+No seats,1 (+34) or (+35) for flat bottom seat
+Maximum baggage,"Normal Category: 
+ 40 lb. (+51) 
+ Utiltiy Category: 
+ None"
+Fuel capacity,"12 gal. (11 gal. usable) (one tank in fuselage) (+56.7) 
+ See NOTE 1 for data on unusable fuel and Item 111 for auxiliary fuel tank."
+Oil capacity,4 qt. (-9.0)
+Control surface movements,"Wing flaps 
+ Up 
+ 0° 
+ Down 
+ 16.5° 
+ Ailerons 
+ Up 
+ 15.5° 
+ Down 
+ 7° 
+ Elevators 
+ Up 
+ 25° 
+ Down 
+ 13° (stabilizer neutral at 0°) 
+ Rudder 
+ Right 
+ 20° 
+ Left 
+ 18° 
+ Stabilizer (Leading Edge) 
+ Up 
+ 2.5° 
+ Down 
+ 3.5°"
+Serial Nos eligible,2 and up
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 3, the following 
+ items of equipment must be installed: 
+ 2, 101, 201(c), 202(b), 205(b), 206(b), 401(b), 402. 
+ (For night flying, instrument lights or equivalent to provide illumination of all placards 
+ and instruments and flasher type landing gear warning light or aural (Horn) warning are 
+ required in addition to equipment required by CAR 43)."
+"III - Model M-18C, 1 PCLM (Normal Cateory), Approved April 11, 1950",
+Engine,Continental A65-12 or -8
+Fuel,80 minimum octane aviation gasoline
+Engine limits,"For all operations, 2300 r.p.m. (65 hp.)"
+Airspeed limits,"Maneuvering 
+ 107 m.p.h. 
+ ( 93 knots)"
+CAS,"Maximum structural cruising 
+ 114 m.p.h. 
+ ( 99 knots) 
+ Never exceed 
+ 143 m.p.h. 
+ (124 knots) 
+ Flaps extended 
+ 85 m.p.h. 
+ ( 74 knots) 
+ Landing gear extended 
+ 109 m.p.h. 
+ ( 95 knots) 
+ Landing gear operation 
+ 109 m.p.h. 
+ ( 95 knots)"
+CG range,"(With landing gear extended) 
+ (+31.1) to (+34.4) 
+ Effect of retracting landing gear 
+ +362 in.-lb."
+Empty weight CG range,"(+28.1) to (+29.3). When the E.W.C.G. falls within this range, computation of critical 
+ fore and aft C.G. positions is unnecessary. Range is not valid for non-standard 
+ arrangements."
+Maximum weight,850 lb.
+No seats,1 (+34) or (+35) for flat bottom seat
+Maximum baggage,40 lb. (+51) (with battery): 40 lb. (+51 and 35 lb. (+70) (Standard airplane).
+Fuel capacity,"12 gal. (9.6 gal. usable) (One tank in fuselage) (+56.7) 
+ (See Item 112 for alternate fuselage tank) 
+ See NOTE 1 for data on unusable fuel and Item 111 for auxiliary fuel tank."
+Oil capacity,4 qt. (-4.5)
+Control surface movements,"Wing flaps 
+ Up 
+ 0° 
+ Down 
+ 16.5° 
+ Ailerons 
+ Up 
+ 15.5° 
+ Down 
+ 7° 
+ Elevators 
+ Up 
+ 25° 
+ Down 
+ 13° (stabilizer neutral at 0°) 
+ Rudder 
+ Right 
+ 23° 
+ Left 
+ 18° 
+ Stabilizer (Leading Edge) 
+ Up 
+ 1.5° 
+ Down 
+ 3.5°"
+Serial Nos eligible,201 and up
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 3, the following 
+ items of equipment must be installed: 
+ 5, 101, 201(c), 202(b), 205(b), 206(b), 401(e), 402. 
+ (For night flying, instrument lights or equivalent to provide illumination of all placards 
+ and instruments and flasher type landing gear warning light or aural (Horn) warning are 
+ required in addition to equipment required by CAR 43)."
+"IV - Model M-18LA, 1 PCLM (Normal Cateory), Approved July 12, 1950",
+Engine,Lycoming O-145-B2
+Fuel,80 minimum octane aviation gasoline
+Engine limits,"For all operations, 2550 r.p.m. (65 hp.)"
+Airspeed limits,"Maneuvering 
+ 107 m.p.h. 
+ ( 93 knots)"
+CAS,"Maximum structural cruising 
+ 114 m.p.h. 
+ ( 99 knots) 
+ Never exceed 
+ 143 m.p.h. 
+ (124 knots) 
+ Flaps extended 
+ 85 m.p.h. 
+ ( 74 knots) 
+ Landing gear extended 
+ 109 m.p.h. 
+ ( 95 knots) 
+ Landing gear operation 
+ 109 m.p.h. 
+ ( 95 knots)"
+CG range,"(With landing gear extended) (+31.1) to (+34.4) 
+ Effect of retracting landing gear +362 in.-lb."
+Empty weight CG range,"(+28.1) to (+29.3). When the E.W.C.G. falls within this range, computation of critical 
+ fore and aft C.G. positions is unnecessary. Range is not valid for non-standard 
+ arrangements."
+Maximum weight,850 lb.
+No seats,1 (+34) or (+35) for flat bottom seat
+Maximum baggage,40 lb. (+51) with battery): 40 lb. (+51) and 35 lb. (+70) (Standard airplane)
+Fuel capacity,"12 gal. (11 gal. usable) (one tank in fuselage) (+56.7) 
+ (See item 112 for alternate fuselage tank) 
+ See NOTE 1 for data on unusable fuel and Item 111 for auxiliary fuel tank."
+Oil capacity,4 qt. (-9.0)
+Control surface movements,"Wing flaps 
+ Up 
+ 0° 
+ Down 
+ 16.5° 
+ Ailerons 
+ Up 
+ 15.5° 
+ Down 
+ 7° 
+ Elevators 
+ Up 
+ 25° 
+ Down 
+ 13° (stabilizer neutral at 0°) 
+ Rudder 
+ Right 
+ 23° 
+ Left 
+ 18° 
+ Stabilizer (Leading Edge) 
+ Up 
+ 1.5° 
+ Down 
+ 3.5°"
+Serial Nos eligible,"100 to 200, inclusive."
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 3, the following 
+ items of equipment must be installed: 
+ 2, 101, 201(c), 202(b), 205(b), 206(b), 401(f), 402. 
+ (For night flying, instrument lights or equivalent to provide illumination of all placards 
+ and instruments and flasher type landing gear warning light or aural (Horn) warning are 
+ required in addition to equipment required by CAR 43)."
+"V - Model M-18C 55, 1 PCLM (Normal Cateory), Approved April 2, 1955.",
+Engine,Continental A65-12 or -8
+Fuel,80 minimum octane aviation gasoline
+Engine limits,"For all operations, 2300 r.p.m. (65 hp.)"
+Airspeed limits,"Maneuvering 
+ 107 m.p.h. 
+ ( 93 knots)"
+CAS,"Maximum structural cruising 
+ 114 m.p.h. 
+ ( 99 knots) 
+ Never exceed 
+ 143 m.p.h. 
+ (124 knots) 
+ Flaps extended 
+ 85 m.p.h. 
+ ( 74 knots) 
+ Landing gear extended 
+ 109 m.p.h. 
+ ( 95 knots) 
+ Landing gear operation 
+ 109 m.p.h. 
+ ( 95 knots)"
+CG range,"(With landing gear extended) (+31.1) to (+34.4) 
+ Effect of retracting landing gear +362 in.-lb."
+Empty weight CG range,"(+28.1) to (+29.3). When the E.W.C.G. falls within this range, computation of critical 
+ fore and aft C.G. positions is unnecessary. Range is not valid for non-standard 
+ arrangements."
+Maximum weight,850 lb.
+No seats,1 (+37)
+Maximum baggage,"40 lb. (+51) with battery); 40 lb. (+51) and 35 lb. 
+ (+70) (Standard airplane)."
+Fuel capacity,"13.5 gal. (one tank in fuselage) (+58.7) 
+ See NOTE 1 for data on unusable fuel and Item 111 for auxiliary fuel tank."
+Oil capacity,4 qt. (-4.5)
+Control surface movements,"Wing flaps 
+ Up 
+ 0° 
+ Down 
+ 16.5° 
+ Ailerons 
+ Up 
+ 15.5° 
+ Down 
+ 7° 
+ Elevators 
+ Up 
+ 25° 
+ Down 
+ 13° (stabilizer neutral at 0°) 
+ Rudder 
+ Right 
+ 23° 
+ Left 
+ 18° 
+ Stabilizer (Leading Edge) Up 
+ 1.5° 
+ Down 
+ 3.5°"
+Serial Nos eligible,323 and up
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 3, the following 
+ items of equipment must be installed: 
+ 2, 101, 201(c), 202(b), 205(b), 206(b), 401(k). 
+ (For night flying, instrument lights or equivalent to provide illumination of all placards 
+ and instruments and flasher type landing gear warning light or aural (Horn) warning are 
+ required in addition to equipment required by CAR 43)."
+SPECIFICATIONS PERTINENT TO ALL MODELS,
+Datum,25.19 in. forward of wing leading edge outboard of fillet.
+Leveling means,"Right hand engine bearer tube (M-18L and M-18LA); front face of front spar under seat 
+ is 90° to level (M-18L, M-18LA, M-18C and M-18C 55)"
+Certification basis,Type Certificate No. 803 (CAR 3)
+Production basis,"None. Prior to original certification of each aircraft a FAA Inspector must perform a 
+ detailed inspection for workmanship, materials, and conformity with the approved 
+ technical data and a check of the flight characteristics."
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item indicates net change when that item is 
+ installed. "" "" indicates ""Does not apply."" 
+ Approval for the installation of all items of equipment listed herein has been obtained by the aircraft 
+ manufacturer except those items preceded by an asterisk (*). The asterisk denotes that approval has 
+ been obtained by someone other than the aircraft manufacturer. An item marked with an asterisk may 
+ not have been manufactured under a FAA monitored or approved quality control system."
+Propellers and Propeller Accessories,"M-18-L 
+ M-18L 
+ M-18LA 
+ M18C 55"
+2,"Propeller-Sensenich 66CB-52 or any other fixed 
+ 10 lb. 
+ (-21.5) 
+ ----- 
+ (-21.5) 
+ ----- 
+ pitch wood propeller which is eligible for the engine power 
+ and speed and which meets the following limits: 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2085, not under 1890. 
+ No additional tolerance permitted. 
+ Diameter: Not over 66 in., not under 64.5 in."
+PropellerSensenich 60LY44 or 60MY49 or,"11 lb. 
+ (-21.5) 
+ ----- 
+ (-21.5) 
+ ----- 
+ any other fixed pitch wood propeller which is eligible 
+ for the engine power and speed and which meets the"
+following limits,"Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2350, not under 2100. 
+ No additional tolerance permitted. 
+ Diameter: Not over 60 in., not under 59 in."
+4,"Propeller-Flottorp 63L60 or 63L56 or any 
+ 8 lb. 
+ (-21.5) 
+ ----- 
+ (-21.5) 
+ ----- 
+ other fixed pitch wood propeller which is 
+ eligible for the engine power and speed and"
+which meets the following limits,"Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2220, not under 1995. 
+ No additional tolerance permitted. 
+ Diameter: Not over 63 in., not under 62 in."
+PropellerFlottorp 65A60 to 66 Sensenich,"9 lb. 
+ ----- 
+ (-23) 
+ ----- 
+ (-23) 
+ 65CK58 to 62, or any other fixed pitch 
+ wood propeller which is eligible for the engine power 
+ and speed and which meets the following limits: 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2030, not under 1800. 
+ No additional tolerance permitted. 
+ Diameter: Not over 65 in., not under 63.5 in. 
+ M-18-L 
+ M-18L 
+ M-18LA M18C 55 
+ 29 lb. 
+ ----- 
+ (-23) 
+ ----- (-23) 
+ or R003-100 hub with R003-237-65T blades. 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2030, not under 1800. 
+ Pitch settings at 3/4 sta.: Low - 18.5°, high 25.5° 
+ Diameter: Not over 65 in., not under 63.5 in. 
+ When this item is installed, Airplane Flight Manual 
+ must be revised to list this item and include the 
+ statement ""With this propeller installed, performance 
+ is equal to or better than that shown for the fixed"
+pitch wood propeller,Engine and Engine Accessories - Fuel and Oil Systems
+101 Carburetor air heater,"1 lb. 
+ (-8.5) 
+ (-10) 
+ (-8.5) 
+ (-10) 
+ 102. to 107. Deleted - April 28, 1950"
+108 Cabin air heater,"1 lb. 
+ (-1.5) 
+ ( -6) 
+ (-1.5) 
+ ( -6) 
+ 109. Nose cowl and baffle (Mooney Dwg. Nos. 811 
+ No wt. change ---- 
+ No wt. change 
+ ----"
+and 812 respectively,Item No. 109 must be used when electrical system is
+installed Mooney Dwg No 846,"110. Starter Delco Remy (CMC 50309) 
+ 16 lb. 
+ ----- 
+ (+2.5) 
+ ----- 
+ (+2.5) 
+ Requires No. 2 gauge cable to battery 
+ 111. 6 gal. aux. fuel tank (Installed in 
+ 5 lb. 
+ (+49.5) 
+ (+49.5) 
+ (+49.5) 
+ (+49.5) 
+ accordance with Mooney Dwg. 1049). Arm 
+ of fuel is (+51). When this item is installed 
+ in M-18L or M-18LA no baggage is permitted and 
+ when installed in M-18C or M-18C 55, baggage 
+ in rear compt. only is permitted. See NOTE 1 
+ for data on unusable fuel. (Item 401(g), 
+ (h), (i) or (k) required when this item is installed). 
+ 112. 15.5 gal alternate main fuel tank (may be 
+ +2 lb. 
+ ----- 
+ ----- 
+ (+59) 
+ ----- 
+ installed in lieu of the standard 12 gal. fuselage tank). 
+ See NOTE 1 for data on unusable fuel."
+Landing Gear,"201. Two main gear assemblies, Type III"
+Goodyear model 15HBM 5005,"11 lb. 
+ (+51) 
+ ----- 
+ ----- 
+ -----"
+Mooney model W1 4004,"11 lb. 
+ (+50) 
+ (+48) 
+ (+48) 
+ (+48)"
+202 a,"Two main wheel 4-ply tires, 5.00-5, 
+ 12 lb. 
+ (+51) 
+ ----- 
+ ----- 
+ -----"
+b,"Two main wheel 6-ply industrial tires, 
+ 10 lb. 
+ (+50) 
+ (+48) 
+ (+48) 
+ (+48) 
+ 4.00-4, Type III, with regular tubes"
+c,"Two main wheel 4-ply industrial tires, 
+ 8 lb. 
+ (+50) 
+ (+48) 
+ (+48) 
+ (+48) 
+ 4.00-4, Type III, with regular tubes 
+ 205. One nose wheel, Type III"
+Firestone model 5C2M1 5005,"3 lb. 
+ ( 0 ) 
+ ----- 
+ ----- 
+ -----"
+Mooney model W2 wheel assembly,"3 lb. 
+ (+1.5) 
+ ( -1) 
+ ( -1) 
+ ( -1)"
+206 a,"One nose wheel 4-ply tire, 5.00-4, 
+ 5 lb. 
+ ( 0 ) 
+ ----- 
+ ----- 
+ -----"
+b,"One nose wheel 6-ply industrial tire, 
+ 5 lb. 
+ (+1.5) 
+ ( -1) 
+ ( -1) 
+ ( -1) 
+ 4.00-4, Type III, with regular tube"
+207 Two main gear doors,"4 lb. 
+ (+48) 
+ (+48) 
+ (+48) 
+ (+48)"
+Electrical Equipment,"M-18L 
+ M-18C 
+ M-18LA 
+ M-18C 55 
+ 302. Battery and box, Willard SYW-7-3, 
+ 9 lb. 
+ (+119) 
+ ----- 
+ (+119) 
+ ----- 
+ 6 Volt, 10 Amp. (5 hr. rate)"
+a,"W-78B, (E-68), 6 volt, 8 amp. 
+ 7 lb. 
+ (-15.5) 
+ ----- 
+ (-15.5) 
+ -----"
+W148B 12 volt 8 amp,"8 lb. 
+ (-15.5) 
+ ----- 
+ (-15.5) 
+ -----"
+W612B 6 volt 12 amp,"11 lb. 
+ (-14) 
+ ----- 
+ (-14) 
+ -----"
+W1210B 12 volt 10 amp,"11 lb. 
+ (-14) 
+ ----- 
+ (-14) 
+ -----"
+W1515B 12 volt 15 amp,"12 lb. 
+ (-13.5) 
+ ----- 
+ (-13.5) 
+ -----"
+W1520B 12 volt 20 amp,"12 lb. 
+ (-13.5) 
+ ----- 
+ (-13.5) 
+ ----- 
+ 304. Landing light, General Electric, 4538 
+ 1 lb. 
+ (-18.5) 
+ ----- 
+ (-18.5) 
+ -----"
+"305. Battery and box, Reading Models",
+a,"S-24, 12 volt, 24 amp. hr. 
+ 23 lb. 
+ (+75) 
+ (+75) 
+ (+75) 
+ (+75)"
+b,"333L, 6 volt, 33 amp. hr. 
+ 15 lb. 
+ (+75) 
+ ----- 
+ (+75) 
+ -----"
+c,"324L, 6 volt, 24 amp. hr. 
+ 12 lb. 
+ (+75) 
+ ----- 
+ (+75) 
+ -----"
+d,"S-12, 12 volt, 12 amp. hr. 
+ 16 lb. 
+ (+75) 
+ (+75) 
+ (+75) 
+ (+75) 
+ NOTE: only eligible when starter not installed. 
+ 306. Generator, Delco Remy (CMC 40435) 
+ 10 lb. 
+ ----- 
+ (+2.5) 
+ ----- 
+ (+2.5)"
+307 Landing light GE 4537,"1 lb. 
+ ----- 
+ (-18.5) 
+ ----- 
+ -----"
+Interior Equipment,"401. CAA Approved Airplane Flight Manual 
+ (b) Airplane Flight Manual dated 8/12/49 
+ Elig. 
+ ----- 
+ ----- 
+ -----"
+Airplane Flight Manual Supplement dated,"Elig. 
+ ----- 
+ ----- 
+ ----- 
+ October 31, 1949 (Required with Propeller Item 3)"
+Airplane Flight Manual Supplement dated,"Elig. 
+ ----- 
+ ----- 
+ ----- 
+ January 25, 1950 (Required with Propeller Item 4)"
+e,"Airplane Flight Manual dated April 10, 1950 
+ ----- 
+ Elig. 
+ ----- 
+ -----"
+f,"Airplane Flight Manual dated July 12, 1950, 
+ ----- 
+ ----- 
+ Elig. 
+ ----- 
+ or Revision No. 1, dated May 14, 1952"
+Airplane Flight Manual Supplement dated,"--- 
+ Elig. 
+ ----- 
+ Elig. 
+ June 6, 1950 (Pertinent to 6 gal. aux. fuel tank, Item 111)"
+Airplane Flight Manual Supplement dated,"Elig. 
+ ----- 
+ ----- 
+ ----- 
+ June 6, 1950 (Pertinent to 6 gal. aux. fuel tank, Item 111)"
+Airplane Flight Manual Supplement dated,"---- 
+ ----- 
+ Elig. 
+ ----- 
+ July 12, 1950 (Pertinent to 6 gal. aux. fuel tank, Item 111)"
+Airplane Flight Manual Supplement dated,"----- 
+ ----- 
+ Elig. 
+ ----- 
+ July 12, 1950 (Pertinent to propellers, Item 3 & 4)"
+k,"Airplane Flight Manual dated April 10, 1950 
+ ----- 
+ ----- 
+ ----- 
+ Elig. 
+ and Supplements No. 5 and No. 6 dated April 11, 1955 
+ 402. Fixed Ballast (as required to balance) 
+ M-18L 
+ M-18C 
+ M-18LA 
+ M-18C 55"
+Without electrical system installed,"0-8½ lb. (+155) 
+ 0-3½ lb. (+155) 
+ 0-3½ lb. (+155) ----"
+With electrical system installed,"0-2** lb. (+155) 
+ 0-3½ lb. (+155) 
+ 0-2 lb. (+155) 
+ ---- 
+ When other than standard tail cone (Mooney Dwg 
+ No. 66-1 1/2) is installed, the maximum allowable 
+ fixed ballast must be reduced by the following amounts: 
+ Tail Cone Installed 
+ Reductions"
+Mooney Dwg No 662,.5 lb.
+Mooney Dwg No 662 12,1.0 lb.
+Mooney Dwg No 663,"1.5 lb. 
+ **No ballast allowed when air driven generator installed"
+NOTE 1,"Current weight and balance report including list of equipment included in certificated empty weight, and loading instructions when 
+ necessary, must be in each aircraft at the time of original certification and at all times thereafter (except in the case of air carrier 
+ The certificated weight empty and corresponding center of gravity location must include unusable fuel as follows:"
+MODEL M18L,Unusable Fuel of 7 lb. at (+56.7) (Included in Fuel Capacity).
+MODEL M18LA,"Unusable Fuel of 7 lb. at (+56.7) for 12 gal. fuselage tank; or unusable fuel of 24.8 lb. at (+59) for 
+ 15.5 gal. fuselage tank (Included in Fuel Capacity)."
+MODEL M18C,"Unusable Fuel of 16 lb. at (+56.7) for 12 gal. fuselage tank; or unusable fuel of 24.8 lb. at (+59) for 
+ 15.5 gal. fuselage tank (Included in Fuel Capacity)."
+MODEL M18C 55,No unusable fuel.
+NOTE 2,The following placards must be displayed in front of and in clear view of the pilot:
+MODEL M18L,"""THIS AIRPLANE MUST BE OPERATED AS A NORMAL OR UTILITY CATEGORY AIRPLANE IN 
+ COMPLIANCE WITH THE APPROVED FLIGHT MANUAL."" All markings and placards on this airplane 
+ apply to its operation as a Normal Category Airplane. For Utility Category operations, refer to the Airplane 
+ Flight Manual. 
+ ""NO ACROBATIC MANEUVERS (INCLUDING SPINS) ARE APPROVED FOR NORMAL CATEGORY 
+ OPERATIONS."""
+MODEL M18C,"""THIS AIRPLANE MUST BE OPERATED AS A NORMAL CATEGORY AIRPLANE IN COMPLIANCE 
+ M-18LA, WITH THE APPROVED FLIGHT MANUAL."""
+and M18C 55,"""NO ACROBATIC MANEUVERS (INCLUDING SPINS) ARE APPROVED FOR NORMAL CATEGORY 
+ OPERATIONS."" 
+ ""NO SMOKING."" (Required when ash tray not installed)."

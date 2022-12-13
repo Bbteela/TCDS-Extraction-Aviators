@@ -1,0 +1,219 @@
+Keyterm,Info
+"A54NM 
+ Revision 2 
+ Ilyushin Aviation Complex 
+ Ilyushin Model Il-96T 
+ November 30, 2006",
+Type Certificate Holder,"Ilyushin Aviation Complex 
+ Leningradsky Prospect, 45”G” 
+ 12590 Moscow 
+ Russia"
+"1. Model Ilyushin Il-96T (Transport Category Airplane) approved June 2, 1999",
+Engines,4 Pratt and Whitney PW-2337 turbofan engines. Refer to engine FAA-Type Certificate E17NE.
+Unit,"One gas turbine engine, Model VSU-10, Series 3, approved for ground use only. Manufactured by 
+ Omsk Design Bureau, Russia."
+Fuel,"The engines and APU must be operated with fuels and additives in accordance with PW SB No. 2016 
+ (at the latest revision). Fuels RT and TS-1 GOST 10227-86 and fuel additives I, I-M, TGF, and TGF- 
+ M may be used in accordance with PW Document IEN No. 94MZ317 dated February 17, 1995."
+Oil,"The engines shall be operated with oils specified in PW Service Bulletin No. 238 (at the latest 
+ revision)."
+PW 2337 Limits,"Static thrust, sea level 
+ 37,530 lb. 
+ Maximum permissible rotor speed, rpm: 
+ - Low pressure rotor (N1) 
+ 4,575 
+ - High pressure rotor (N2) 
+ 12,360 
+ - High pressure rotor (N2), 
+ 5 seconds, transient 
+ 12,445 
+ Maximum permissible turbine exhaust temperature (T4.9), °C/°F 
+ - Takeoff (5 minutes) 
+ 655/1211 
+ - Takeoff (5 second transient) 
+ 670/1238 
+ - Maximum continuous 
+ 625/1157 
+ - Maximum continuous, (5 second transient) 
+ 640/1184 
+ - At start up, ground 
+ 495/923 
+ - At start up, in flight 
+ 655/1211 
+ Maximum permissible oil outlet temperature, °C/°F 
+ - Continuous operation 
+ 163/325 
+ - Transient operation (20 minutes) 
+ 177/350 
+ For other limitations refer to engine Data Sheet E17NE"
+Page No,"1 
+ 2 
+ 3 
+ 4"
+Rev No,"1 
+ 0 
+ 0 
+ 1 
+ APU Limits 
+ Maximum bleed air flow from driven 
+ Compressor, sea level 
+ 3.5 kg/sec, not less 
+ Maximum load of AC generator (208/120 volts, 400hz ±2%): 
+ - 40 kVA during 10 hours duration 
+ - 60 kVA during 5 min duration 
+ - 80 kVA during 5 seconds duration 
+ When the maximum permissible value of either power turbine speed or gas generator speed, 
+ or gas temperature, or oil temperature is attained, or oil pressure is decreased below the 
+ permissible value (see the maintenance manual for the VSU-10, Section 049.70.30) 
+ automatic APU shutdown is provided."
+Airspeed Limits IAS,"VMO 
+ 325 KIAS (600 km/h) 
+ MMO 
+ 0.84 
+ VA (Maneuvering) 
+ See approved airplane flight manual. 
+ VFE (Flaps/slats Extended) 
+ Flaps/Slats 
+ 2°/3° 
+ 275 KIAS (510 km/h) 
+ 3°/25° 
+ 264 KIAS (490 km/h) 
+ 10°/25° 
+ 243 KIAS (450 km/h) 
+ 25°/25° 
+ 210 KIAS (390 km/h) 
+ 40°/25° 
+ 189 KIAS (350 km/h) 
+ VLO 
+ Extension 
+ 325 KIAS (600 km/h) 
+ Extension before an 
+ emergency descent 
+ 325 KIAS (600 km/h) 
+ VLE 
+ Maximum while extended 
+ 325KIAS (600 km/h) 
+ Maximum Tire Speed 
+ 254 MPH (221 knots, 410 km/h)"
+Datum,"The aircraft reference zero datum point (QE 0) is located 5.91 in. (150 mm) aft of the fuselage nose 
+ cone and on the fuselage centerline. 
+ The 0% MAC datum is located 1195.145 in. (29340.7 mm) aft of the reference datum (QE 0)."
+Mean Aerodynamic Chord,The MAC length is 261.26 in. (6.636 m)
+Center of Gravity Limits,"FWD 
+ 10% MAC 
+ AFT 
+ 34% MAC"
+Leveling Means,"Measuring marks are provided on the aircraft for leveling. These marks are indicated by special 
+ rivets or drillings as shown and described in the Leveling Drawing 1.9625.0011.000.000 with 
+ changes 9625.00.035.004.01 and 9625.00.035.002.01."
+Maximum Weights,"Max Ramp Weight: 
+ 597,440 lb. (271,000 kg) 
+ Max Takeoff Weight: 
+ 592,240 lb. (270,000 kg) 
+ Max Landing Weight: 
+ 485,000 lb. (220,000 kg) 
+ Max Zero Fuel Weight: 
+ 459,430 lb. (208,400 kg) 
+ Max Payload 
+ 202,390 lb. (92,000 kg)"
+Minimum Crew,2 - Pilot and copilot
+Limitation,"The aircraft must be operated by a flight crew consisting of a pilot and copilot, plus an additional 
+ person qualified as pilot in this airplane type, who shall monitor the aircraft performance and 
+ warnings. This temporary limitation is explained in the airplane flight manual, and is applicable until 
+ verification of the IDS, and ASCS software has been completed and the AFM limitation has been 
+ removed."
+Maximum Cabin Crew,Four persons
+Type of Baggage Compartment,"Class ""E"" Compartment (main deck cargo compartment) 
+ Class “E” Compartments (below the floor)"
+Maximum Cargo,"Total of 202,820.96 lbs. (92,000 kg) on the main deck compartment 
+ - 59,523.54 lbs. (27,000 kg) in the forward lower compartment 
+ - 46,296.09 lbs. (21,000 kg) in the aft lower compartment 
+ - Maximum. floor loading = 82 lb./ft2 on the main deck"
+Fuel Capacity,"116,300 kg maximum, when γ = 0.775 
+ 254,672.6 lbs (115, 520 kg) usable"
+Oil Capacity,"Oil capacity per Engine 
+ MAX OIL 
+ MIN OIL 
+ TANK 
+ TANK 
+ US Gallons 
+ 7.0 
+ 1.2 
+ Liters 
+ 26.5 
+ 4.56 
+ Maximum Operating Altitude 43,000 ft. (13,100 m)"
+Control Surface Movements,"Wing Flaps 
+ 2°, 3°, 10°, 25°, and 40° 
+ Ailerons 
+ 31° up (±1.5°), 16° down (+1°, -1.5°) 
+ Elevator 
+ 17.5° up (+1.5°, -1°), 10° down (+2°, -0.5°) 
+ Stabilizer 
+ 12° nose up (+12’, -30’), 2° nose down (±12’) 
+ Rudder 
+ 27° right (-1°), 27° left (-1°)"
+Serial Numbers,S/N 976693201001T and subsequent.
+Import Requirements,"To be considered eligible for operation in the United States, each aircraft manufactured under 
+ this type certificate must be accompanied by a certificate of airworthiness for export or 
+ certifying statement endorsed by the exporting foreign civil airworthiness authority which 
+ states (in the English language): This aircraft conforms to its U.S. Type Design (Type 
+ Certificate No. A54NM) and is in a condition for safe operation."
+Certification Basis,"14 CFR part 25 Effective February 1, 1965, including Amendments 25-1 through 25- 
+ 81. In addition, Ilyushin has elected to comply with Part 25 of the FAR as amended by 
+ Amendments 25-83 through 86. 
+ Special Conditions: 
+ - No. 25-ANM-135, “Ground Loads and Conditions for Central Landing Gear” 
+ - No. 25-ANM-135, “Design Maneuver Requirements 
+ - No. 25-ANM-135, “Effect of Flight Control Systems on Structure 
+ - No. 25-ANM-135, “High intensity Radiated Fields” 
+ Exemptions: 
+ - 
+ No. 6011 for FAR 25.571(e), Bird Strike Speed 
+ - 
+ No. 6754, Hydraulic Systems 
+ No. 6877, Partial Grant for Floor Warpage Test Requirements 
+ Equivalent Level of Safety Findings: 
+ - 
+ Checked Maneuver Loads (FAR 25.331(c)(2)) 
+ - 
+ Premium Selection of Materials (FAR 25.603, 25.613) 
+ - 
+ Flap Gust Conditions (FAR 25.345) 
+ - 
+ Aircraft Pressurization Outflow and Safety Valves (FAR 25.841) 
+ - 
+ Unique Aural Overspeed Warning (FAR 25.1303(c)(1)) 
+ Optional Requirements complied with: 
+ - 
+ FAR 25.1419 Icing 
+ Environmental Standards complied with: 
+ - 
+ FAR Part 36 effective December 1, 1969, including Amendments 36-1 through 
+ 36-21. 
+ - 
+ FAR Part 34 effective September 10, 1990, including Amendment 34-1"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see the 
+ Certification Basis) must be installed in the aircraft. The lists of all equipment as well as optional 
+ approved equipment are contained in the document: 
+ Type Design Definition Document No. Reg.W.9625.00.00183.872 (Master Drawing List)"
+Manual,"Aviation Register approved Airplane Flight Manual No. 9625 AFM, original issue, approved June 2, 
+ 1999"
+Service Information,"Service bulletins, repair instructions (letters, drawings, specifications, forms used for transmitting 
+ repair descriptions, etc.), structural repair manuals, airplane flight manuals, vendor manuals, and 
+ overhaul and maintenance manuals that are published in the English language and indicate 
+ applicability to the U.S. approved type designs included in this Type Certificate and that include a 
+ statement ”AR Approved” are accepted by the FAA and are considered ”FAA Approved.”"
+NOTE 1,"Current weight and balance report including a list of equipment included in certificated empty weight, 
+ and loading instructions when necessary must be provided for each aircraft at its delivery. 
+ For further information see Il-96T Weight & Balance Manual dated March 30, 1998"
+NOTE 2,"Airworthiness Limitations including structural inspections and retirement times for safe-life parts are 
+ listed in Ilyushin Airworthiness Limitations Document N9625-701 CD dated November 4, 1998."
+NOTE 3,"Certification Maintenance Requirements (CMR) are listed in the Il-96T CMR Document. Dated 
+ November 30, 1998"
+NOTE 4,"Compliance with the optional ditching requirements of FAR 25.801, FAR 25.1411, and FAR 25.1415 
+ has been shown."
+NOTE 5,"FAA Certificate of Airworthiness is not to be issued until the Instructions for Continued Airworthiness, 
+ as defined in 14 CFR 25.1529 and Appendix H, have been approved. Contact the Seattle Aircraft 
+ Evaluation Group for information."
+NOTE 6,A FAA Certificate of Airworthiness is not to be issued until compliance is found to SFAR 88.

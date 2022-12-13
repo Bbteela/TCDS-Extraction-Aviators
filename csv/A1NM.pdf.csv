@@ -1,0 +1,2552 @@
+Keyterm,Info
+"A1NM 
+ Revision 39 
+ BOEING 
+ 767-200 Series 
+ 767-300 Series 
+ 767-300F Series 
+ 767-400ER Series 
+ 767-2C Series 
+ February 18, 2022",
+Type Certificate Holder,"The Boeing Company 
+ 737 Logan Ave N 
+ Renton, WA 98057-0000"
+"I - Model 767-200 (Approved July 30, 1982)",
+Engines,"2 Pratt and Whitney JT9D-7R4D, JT9D-7R4E, JT9D-7R4E4, PW4052, PW4056, PW4060A, or 2 General Electric 
+ CF6-80A, CF6-80A2, CF6-80C2-B2, -B4, -B6 or CF6-80C2B4F, -B6F, -B7F. 
+ WARNING: To prevent unsafe airplane handling characteristics, PW4000 series engines with electronic engine 
+ control (EEC) part number 791100-14-102 (Pratt & Whitney part number 54D043) must not be installed on the 
+ same airplane as PW4000 series engines that have the ring case compressor configuration. This combination of 
+ engine configurations is not approved because of a significant difference in engine acceleration rates and the effect 
+ of that difference on airplane handling characteristics. Ring case compressor equipped engines were approved with 
+ the same engine model number as previously approved PW4000 configurations, and must be identified by the 
+ presence of a “/A5” marked at the end of the “INSTL ARR” block on the engine data plate. 
+ The General Electric CF6-80A engines may be intermixed with CF6-8 0A2 engines with appropriate limitations as 
+ noted in the FAA-Approved Airplane Flight Manual."
+Fuel,"Pratt and Whitney Engines: Fuels conforming to the latest version of Pratt & Whitney Service Bulletin 2016 
+ General Electric Engines: Fuel conforming to GE Specification D50TF2. (See Note 14) 
+ All Engines: ASTM D-1655 grades Jet A or Jet A1. (See Note 14) 
+ ASTM D 6615 grades Jet B (see Note 14) 
+ MIL-T-5624 grades JP-4 or JP-5. (See Note 14) MIL-T-83133 grades JP-8. 
+ Refer to the FAA approved Airplane Flight Manual listed in Note 2 for fuel limitations 
+ Engine Ratings & For engine ratings and operating limits see engine TC Data Sheet No. E3NE for the P&W JT9D-7R4D, -7R4E, or - 
+ Operating Limits: 7R4E4; TC Data Sheet E13NE for the GE CF6-80A, CF6-80A2, or CF6-80C2; TC Data Sheet E24NE for the 
+ PW4000, or the FAA-Approved Airplane Flight Manual."
+Airspeed Limits,"VD = 420 KCAS to 17,854 ft/.91M above 23,000 ft, linear variation between these points. 
+ VFC = 390 KCAS to 17,600 ft/382 KCAS at 23,000 ft/.87M above 26,000 ft, linear variation between these points. 
+ VMO = 360 KCAS/.86M 
+ VLE = 270 KCAS/.82M 
+ VLO = 270 KCAS/.82M 
+ For other airspeed limits, see the appropriate FAA-Approved Airplane Flight Manual."
+CG Range,"See the appropriate FAA-Approved Flight Manual. 
+ Page No. 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ Rev. No. 
+ 39 
+ 36 
+ 37 
+ 39 
+ 37 
+ 36 
+ 39 
+ 36 
+ 37 
+ 39 
+ 36 
+ 39 
+ 38 
+ 36 
+ 39 
+ 36 
+ I I I I I I I I I I I I I I I I I 
+ Page No. 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 32 
+ Rev. No. 
+ 36 
+ 36 
+ 39 
+ 37 
+ 36 
+ 37 
+ 36 
+ 37 
+ 38 
+ 37 
+ 39 
+ 37 
+ 39 
+ 38 
+ 38 
+ 38"
+Maximum Weights,See the appropriate FAA-Approved FlightManual.
+Maximum,255 with 2 pairs of Type A plus 1 pair of Type III exits.
+Passengers,290 with 2 pairs of Type A plus 2 pairs of Type III exits.
+Model,Eligible Serial Numbers
+767201,23897-23902
+767204,"22980, 22981, 23072, 23250, 23807, 24013, 24239, 24457, 24736, 24757, 25058, 25139"
+767205,"23057, 23058"
+767209,"22681, 22682"
+767212,28525
+767216,"23623, 23624, 24973"
+767219,"23326-23328, 24150"
+767222,21862-21880
+767223,"22307-22336, 30256"
+767224,30430-30439
+767231,22564-22573
+767232,22213-22227
+767233,"22517-22528, 24142-24145, 24323-24325"
+767238,"23304-23306, 23309, 23402, 23403, 23896"
+767241,23801-23806
+767246,23212-23214
+767258,22972-22975
+767259,"24618, 24835"
+767260,"23106, 23107, 23916"
+767266,23178-23180
+767269,23280-23282
+767275,"22683, 22684"
+767277,22692-22696
+767281,"22785-22790, 23016-23022, 23140-23147, 23431-23434"
+767283,"24727, 24728"
+767284,"24716, 24742, 24762"
+76723B,"23973, 23974"
+76724Q,28270
+76725D,"24733, 24734"
+76725E,27192-27195
+76727C,"27385, 27391, 28016, 28017"
+76727E,"24832, 24854"
+76727G,"25537, 27048, 27049"
+7672B1,"25421, 26471"
+7672B7,"24764, 24765, 24894, 25225, 25257, 26847"
+7672AX,33685
+7672DX,32954
+7672EY,33686-33689
+7672FK,"33844, 33958, 34433, 35498"
+7672J6,"23307, 23308, 23744, 23745, 24007, 24157"
+7672N0,"24713, 24867"
+7672Q4,22921-22923
+7672Q8,24448
+7672S1,23494
+Certification Basis,"Part 25 of the Federal Aviation Regulations as amended by Amendments 25-1 through 25-37, except where superseded by the 
+ following sections of Part 25 as amended by Amendments 25-1 through:"
+2538,"25.101, 25.161, 25.397, 25.603, 25.675, 25.685, 25.775, 25.787, 25.815, 25.841, 25.941, 25.951, 25.979(a), 
+ (b), (c), 25.999, 25.1027, 25.1041, 25.1093(b), 25.1125, 25.1143(a), (b), (c), (d), 25.1167, 25.1303, 25.1305, 
+ 25.1322, 25.1355, 25.1385, 25.1403, 25.1439, 25.1515, 25.1533, 25.1557"
+2539,25.807
+2540,"25.901(a), (b)(1)(ii), (b)(2), (b)(3), (b)(4), (c), 25.903, 25.933, 25.939, 25.943, 25.945, 25.952, 25.959, 
+ 25.963, 25.965, 25.973, 25.995, 25.1091(a), (b), (c), (d), 25.1093(a), (c), 25.1121, 25.1123, 25.1141, 
+ 25.1145, 25.1197, 25.1199, 25.1207, 25.1337, 25.1549"
+2541,"25.831, 25.1309, 25.1321, 25.1325, 25.1331, 25.1333, 25.1335, 25.1351, 25.1401, 25.1421, 25.1435, 
+ 25.1447, 25.1450, 25.1457, 25.1459, 25.1461"
+2542,"25.21, 25.29, 25.107, 25.111, 25.143, 25.147, 25.149, 25.177, 25.181, 25.201, 25.207, 25.233, 25.237, 
+ 25.255, 25.703, 25.729, 25.1043, 25.1353, 25.1501, 25.1521, 25.1581, 25.1583, 25.1585, 25.1587"
+2543,25.1326
+2544,25.1413
+2545,"25.571, and 25.573"
+2546,"25.345, 25.351(a), 25.629, 25.697, 25.803, 25.901(d), 25.1103(a), (b)(2), (d), (e), (f), 25.1142, and 25.1522"
+2549,25.733
+2554,"25.365 (e)(1), (2) 
+ Compliance with the following optional requirements has been established with respect to the following sections of 14 CFR Part 25: 
+ §25.801 - Ditching Provisions (Over- water operation can be approved when the aircraft has been equipped and installation has 
+ been approved according to 14 CFR 25.801) 
+ §25.1419 - Ice Protection Provisions 
+ 14 CFR §26: (Based on 14 CFR §21.101(g) for changes made to TCs applicable provisions of 14 CFR part 26 are included in the 
+ certificationbasis. For any future 14 CFR part 26 amendments, the holder of this TC must demonstrate compliance with the applicable 
+ sections). Compliance has been found for the following regulations at Amendment 26-0: 26.11 and Amendment 26-1: 26.43, 26.45, 26.47,"
+and 2649,"14 CFR part 36 of the Federal Aviation Regulations with Amendments 36-1 through 36-12, effective August 1, 1981. See the 
+ appropriate FAA Approved Airplane Flight Manual listed in Note (2) for applicability of Stage 4 Noise Recertification through 
+ Amendment 36-28."
+Exemption,"Title 
+ Issued Date 
+ Expiration Date 
+ Exemption from 25.785(h) -Allows one seat for a required flight attendant"
+4725,"to be located near the overwing Type III exits. 
+ 3 November, 1986 
+ Permanent"
+8119,"Partial Exemption from §25.901(c), Single Failures resulting in 
+ 11 June, 2003 
+ Permanent 
+ Uncontrollable High Thrust Conditions"
+9749A,"Exemption from 14 CFR 25.785(j), 25.807(d), 25.807(g)(1), 25.807(i)(1), 
+ 24 July, 2009 
+ Permanent 
+ 25.810(a)(1), 25.812(e), 25.813(b), 25.857(e), and 25.1447(c)(1) for 767- 
+ 200 series airplanes converted from passenger to freighter with provisions 
+ for the carriage of mixed cargo/live animal operation"
+9791C,"Partial Time-Limited Exemption from 14 CFR §25.853(a), appendix F, 
+ 28 November, 2008 28 November, 2011 
+ paragraph (a)(1)(i), Testing on Large Interior Panels (Expired Exemption 
+ No. 9791, November 28, 2010, Exemption No. 9791B, 28 February, 2011)"
+10767C,"Time-limited exemption from 14 CFR 25.901(c) and 25.981(a)(3), fuel 
+ 17 December, 2015 
+ 17 May, 2016 
+ tank ignition prevention associated with the FQIS is limited to the 
+ replacement of the ARINC 429 chip within the fuel quantity processer 
+ unit’s IOC cards and the BITE card (Expired Exemption No. 10767, 17 
+ May, 2016, Exemption No. 10767A, 17 May, 2016)"
+14593,"Exemption from SFAR 88, and §§ 25.901(c) and 25.981(a)(3), as they 
+ 25 January, 2016 
+ Permanent 
+ pertain to fuel-tank-ignition prevention associated with the fuel-quantity 
+ indication system and fuel-overfill-shutoff surge tank wiring installation, 
+ limited to in-service 767-200 (freighter only) 
+ Equivalent Safety Findings (ESF’s) exist with respect to the following sections of 14 CFR Part 25:"
+ELOS IP,"Title 
+ 14 CFR 
+ ANM-100S-0811-CI-2 Pressurized Cabin Loads (Crew Rest) 
+ 25.365(e)(2) 
+ ANM-100S-1727-CI-1 Cross Aisle Between Type III Exits 
+ 25.807, 25.813"
+ANM100S2332CI1,"Pressurized Cabin Loads (Crew Rest) 
+ 25.365(e)(2)"
+ANW21281105,"Test Subjects for Emergency Evacuation Demonstration 
+ 25.803(c)(8)"
+AT0328STTC5,"""No Smoking"" limitation in the passenger compartment 
+ 25.791,25.853, 
+ CAR 4b.3 81"
+AT1736SETC14,"Door Sill Reflectance 
+ 25.811"
+ELOS IP,"Title 
+ 14 CFR"
+AT2251SETF1,"Use of the 1-g Stall Speed Instead of Minimum Speed in the Stall as a 
+ 1.2, 25.21(b), 25.103(a),(a)(1),(a)(3- 
+ Basis for Determining Compliance (Non-Structural Sections) 
+ 6),(b)(c), 25.107(b)(1),(b)(2),(c)(3),(g), 
+ 25.111(a), 25.119(b), 
+ 25.121(c),(d),(d)(3), 25.125(a)(2), 
+ 25.143(g), 25.145(a),(a)(1),(b)(1- 
+ 4),(b)(6),(c), 25.147 (a),(a)(2),(c),(d), 
+ 25.149 (c), 
+ 25.161(b),(c)(1),(c)(2),(c)(3)(d),(e)(3), 
+ 25.175(a)(2),(b)(1),(b)(2),(b)(2)(ii),(b) 
+ (3),(c),(c)(4),(d),(d)(5), 25.177(c), 
+ 25.181(a),(b), 25.201(a)(2),(b)(4), 
+ 25.207(b),(c),(d),(e),(f), 25.231(a)(2), 
+ 25.233(a), 25.237(a),(b)(1),(b)(2), 
+ 25.735(f)(2),(g), 25.773(b)(1)(i), 
+ 25.1001(c)(1),(c)(3), 
+ 25.1323(c)(1),(c)(2), 25.1325(e), 
+ 25.1587(b)(2)"
+AT6937SETS1,"Hydraulic System Proof Pressure Test 
+ 25.1435 (25-45)"
+CT1180NWDA5,"Emergency Exit Arrangement 
+ 25.807, 25.809, 25.813"
+CT1180NWDA7,"Type A Exit Passageway Dimensions 
+ 25.807, 25.811"
+CT1180NWDP10,"Engine Fan Cowl Compartment Fire Zone 
+ 25.1181(a)(6), 25.1182"
+CT1180NWDP9,"Induction System Deicing and Anti-icing Protection 
+ 25.1093(b)(1)"
+CT1180NWDS20,"Forward Position Light Intensity in the Vertical Plane and Overlap 
+ 25.1393, 25.1395"
+PS050123P1,"Ground Fault Interrupter Relays 
+ 25.981(a)(3)"
+PS050177P2,"Fuel Tank Flammability Rule (see Note 17) 
+ 25.981 (25-125)"
+PS060496F18,"Engine and Auxiliary Power Unit (APU) Fire Switch Handle Design 
+ 25.1555(d)(1)"
+PS080670C1,"Adhesives Used in Interior Panel Bent Joint Potting Applications 
+ 25.853(a)"
+PS130901ES1,"Oxygen Quantity Indication of the Lavatory Supplemental Oxygen 
+ 25.1441(c) 
+ System"
+PS131000C5,"Flammability Testing Hierarchy 
+ 25.853(a)(d), part 25 
+ appendix F parts I 
+ and IV"
+SA06091WITP1,"Powerplant Instrumentation for RCI LDS-2100 installation on Boeing 
+ 25.1305 & 25.1549 
+ 767-200 series aircraft equipped with General Electric CF6-80A2 
+ engines"
+TC6918SET G8,"Formatting of Boeing Instructions for Continued Airworthiness Manuals 25.1529 (25-54), 
+ - Airworthiness Limitations 
+ 25.1729(25-123), 
+ H25(25-132)"
+TD1990SETC1,"Emergency Locator Transmitter (ELT) 
+ 25.1415(d)"
+TD2695SETC1,"Exterior Exit Markings 
+ 25.811(f)"
+TD7075SETC1,"Type III Exit Accessibility 
+ 25.803, 25.807(c), 25.813(c"
+TS130005S1,"Determination of Minimum Oxygen Flow for the Lavatory Oxygen 
+ 25.1443(c) 
+ System 
+ Special Conditions with respect to the following subjects apply:"
+Special Condition,"Title 
+ Effective Date"
+25ANM18,"Lightning Protection, Protection from Unwanted Effects of Radio Frequency 
+ 29 April, 1988 
+ (RF)Energy and Propulsion Control System for Pratt and Whitney PW4000 
+ series engines, General Electric CF6-80C2 FADEC engine, and Rolls Royce 
+ RB211-524H-36 engine installations"
+25ANM20,"Installation of a longitudinal partition in the cabins 
+ 23 August, 1988"
+25369SC,"Seats with Non-Traditional, Large, Non-MetallicPanels 
+ 17 March, 2008"
+25630SC,"Non-Rechargeable Lithium Batteries 
+ 22 April, 2017 
+ II - 767-200SF Major Design Change 
+ A 767-200SF (Special Freighter) is a 767-200 series passenger airplane that has been modified in accordance with FAA-approved 
+ Boeing Service Bulletin(s) 767-00-0038 to operate in a freighter configuration. These aircraft remain 767-200 series aircraft for 
+ documentation purposes on this TCDS and with regard to the applicability of airworthiness directives. Because of the magnitude 
+ of thisdesign change, the certification basis for the changed aspects was required to be established and documented in accordance 
+ with section 21.101 (Changed Product Rule) 
+ All general information in TCDS A1NM for the 767-200 Series remains applicable to an airplane operating in the 767-"
+200SFconfiguration with the following exceptions,"Maximum Passengers: There are no provisions for the carriage of passengers. A maximum of four supernumeraries canoccupy 
+ the flight deck as given in Exemption 9749A. 
+ The 767-200SF certification basis was established according to the requirements given in § 21.101 and AC 21.101-1, and was 
+ determined in accordance with FAA Order 8110.48. The 767-200SF consists of the following product level change which is"
+considered significant per AC 211011,"Significant Product Level Change: Passenger to Freighter Conversion 
+ Certification basis: Part 36: Unchanged under the “No Acoustical Change” Provisions of § 21.93(b) 
+ SFAR 27: Unchanged from 767-200 Series 
+ Part 26, Amendments 26-0 through 26-1 
+ Part 25 of the FAR, effective February 1, 1965, as amended by Amendments 25-1 through 25-115 with the following 
+ exceptions per section 21.101(b): 
+ SECTION NO. 
+ TITLE 
+ AT AMDT. 25- 
+ 25.365(e)(2) 
+ Pressurized Compartment Loads 
+ 25-54 (for compartments outside 
+ of the pressurized area) 
+ 25.561(c)(2) 
+ General 
+ 25-64 
+ 25.571 
+ Damage-tolerance and fatigue evaluation of 
+ 25-54 
+ structure 
+ 25.831(g) 
+ Ventilation 
+ 25-41 
+ 25.841(a) 
+ Pressurized cabins 
+ 25-38 
+ Changed Areas: The following is a high level description of the listing of changes incorporated as part of the passenger to 
+ SFconversion: 
+ • Installed strengthened floor beams and fuselage frames 
+ • Installed main deck cargo door 
+ • Installed rigid cargo barrier/smoke barrier 
+ • Revised cargo ventilation system 
+ • Removal of passenger windows and installation of window plugs 
+ • Installed main deck cargo fire protection system and smoke detection system 
+ • Installed aural and visual alerts in the main deck Class E cargo compartment 
+ • Installation of seats and provisions to the flight deck for four supernumeraries 
+ The certification basis for the following changes incorporated as part of the passenger to SF conversion remains at the"
+"originalcertification basis for the Model 767-200 shown on TCDS A1NM: 
+ • Rerouting and some minor changes to hardware associated with flight controls, landing gear, and wheel brake 
+ cables 
+ • Rerouting of air data tubing, hydraulic tubing, certain electrical wiring 
+ • Changes to performance characteristics associated with static and dynamic loads 
+ • Forward lavatory with recirculating waste system, including flush motor and related timer and circuit breaker 
+ • Re-use of passenger airplane interior mounting hardware and attach points to accommodate cargo 
+ compartment equipment like sidewall panels and ceilings. 
+ • Installation of a floor-mounted first observer seat 
+ • Revision to the Ditching and Flotation analysis document as affected by the SF modification 
+ • Revision of the EICAS to the 767-200SF configuration 
+ • Revision of Door 1L counterbalance associated with the slide removal 
+ The certification basis for areas not affected by the change will remain at the original certification basis for the Model 767-200. 
+ Special Conditions: Special conditions that are part of the certification basis for the 767-200 Series apply to the airplane operating in 
+ the767-200SF configuration. 
+ Exemptions 
+ All exemptions from 14 CFR Part 25 listed in TCDS A1NM for the 767-200 Series apply to the 767-200SF 
+ configuration, except those listed below: 
+ Exemption No. 4725 - Exemption from 25.785(h) -Allows one seat for a required flight attendant to be located 
+ near the overwing Type III exits. Does not apply. 
+ Exemption 9749A, dated 07/24/09, provides relief from the requirements of Sections 25.785(j); 25.807(d), (g)(1), 
+ (i)(1); 25.810(a)(1); 25.812(e); 25.813(b); 25.857(e); and 25.1447(c)(1) to allow for the carriage of 
+ supernumeraries on the 767-200SF. 
+ Equivalent Safety Findings: All existing Equivalent Safety Findings listed in TCDS A1NM for the 767-200 Series apply 
+ to the767-200 operated in the 767-200SF configuration, except those listed below: 
+ • Test Subjects for Emergency Evacuation Demonstration, Section 25.803(c)(8). Does not apply. 
+ • Passenger Emergency Exits, Section 25.807(a)(7)(iv) and (c). Does not apply. 
+ • Type III Exit Access, 25.803, 25,807(c) and 25.813(c). Does not apply. 
+ • Emergency Exit Access, 25.807, 25.809 and 25.813. Does not apply. 
+ • Exterior Exit Markings, 25.811(f)(2). Does not apply. 
+ • “No Smoking” limitation in passenger compartment, 25.791 and 25.853(c). Does not apply. 
+ • Type A Exit Passageway Dimensions, 25.807 and 25.811. Does not apply. 
+ • Cross-Aisle between Type III Exits, 25.807 and 25.813. Does not apply 
+ TCDS Notes: All Notes in TCDS A1NM that apply to the 767-200 Series also apply to an airplane operated in the 767- 200SF 
+ configuration 
+ Optional 
+ All optional requirements applicable to 767-200 Series also apply to aircraft operated in the 767-200SF 
+ Requirements configuration 
+ III - Model 767-300 (Approved September 22, 1986)",
+Engines,"2 Pratt and Whitney JT9D-7R4D, JT9D-7R4E, JT9D-7R4E4, PW4056, PW4060, PW4060C, or PW4062; or 2 
+ General Electric CF6-80A2, or CF6-80C2-B2, -B4, or -B6, or CF6-80C2-B2F, B4F, B6F, or -B7F; or 2 Rolls Royce 
+ RB211- 524H-36, or RB211-524H-T-36. 
+ WARNING: To prevent unsafe airplane handling characteristics, PW4000 series engines with electronic engine 
+ control (EEC) part number 791100-14-102 (Pratt & Whitney part number 54D043) must not be installed on the same 
+ airplane as PW4000 series engines that have the ring case compressor configuration. This combination of engine 
+ configurations is not approved because of a significant difference in engine acceleration rates and the effect of that 
+ difference on airplane handling characteristics. Ring case compressor equipped engines were approved with the 
+ same engine model number as previously approved PW4000 configurations, and must be identified by the presence 
+ of a “/A5 marked at the end of the “INSTL ARR” block on the engine data plate."
+Fuel,"Pratt and Whitney Engines: Fuels conforming to the latest version of P&W Service Bulletin 2016 
+ General Electric Engines: Fuel conforming to GE Specification D50TF2. (See Note 14) 
+ Rolls Royce Engines: See Rolls Royce ""Operating Instructions RB211-524H on the Boeing 767-300. (See Note 15) 
+ All Engines: ASTM D-1655 grades Jet A or Jet A1. (See Note 14, 15) 
+ ASTM D 6615 grades Jet B (see Note 14) 
+ MIL-T-5624 grades JP-4 or JP-5. (See Note 14, 15) 
+ MIL-T-83133 grades JP-8. 
+ Refer to the FAA approved Airplane Flight Manual listed in Note 2 for fuel limitations 
+ Engine Ratings & Operating Limits: For engine ratings and operating limits see engine TC Data Sheet No. E3NE for the P&W JT9D- 
+ 7R4D, - 7R4E, or - 7R4E4; TC Data Sheet E13NE for the GE CF6-80A2, or CF6-80C2; TC Data Sheet E24NE for the 
+ PW4000, TC Data Sheet E30NE for the Rolls Royce RB211-524H-36, or RB211-524H-T-36; or the FAA-Approved 
+ Airplane Flight Manual. 
+ Airspeed Limits: VD = 420 KCAS to 17,854 ft/.91M above 23,000 ft, linear variation between these points. 
+ VFC = 390 KCAS to 17,600 ft/382 KCAS at 23,000 ft/.87M above 26,000 ft, linear variation between these points. 
+ VMO = 360 KCAS/.86M 
+ VLE = 270 KCAS/.82M 
+ VLO = 270 KCAS/.82M 
+ For other airspeed limits, see the appropriate FAA-Approved Airplane Flight Manual."
+CG Range,"See the appropriate FAA-Approved Flight Manual. 
+ Maximum Weights: See the appropriate FAA-Approved Flight Manual."
+Maximum,290 with 2 pairs of Type A plus 2 pairs of Type III exits
+Passengers,"290 with 3 pairs of Type A plus 1 pair of Type III exits. (See Note 6 for Type III Exit requirements.) 
+ 351 with 3 pairs of Type A plus 1 pair of Type I exits."
+Model,Eligible Serial Numbers
+767304,"28039-28042, 28208, 28883, 28979, 29137, 29138, 29384"
+767306,"26263, 27610-27612, 27614, 27957-27960, 28098, 28884, 30393"
+767316,"26327, 26329, 27597, 27613, 27615, 29227-29229, 34626, 34628, 34629, 35229-35231, 35696-35698, 36710-36712, 
+ 37800-37802, 40590-40593,40798, 40799, 41746-41748, 41993-41997, 42213, 42214"
+767319,"24875, 24876, 26264, 26912, 26913, 26915, 26971, 28745, 29388, 30586"
+767322,"25091-25094, 25280, 25283-25287, 25389-25394, 27112-27115, 27158-27160, 29236-29243, 30024-30029"
+767323,"24032-24046, 25193-25202, 25445-25451, 26995, 26996, 27059, 27060, 27184, 27448-27451, 29429-29432, 29603- 
+ 29606, 33081-33089"
+767324,"27392-27394, 27568, 27569"
+767328,"27135, 27136, 27212, 27427, 27428"
+767330,"25137, 25208, 25209, 26983-26988, 26991, 26992"
+767332,"23275-23279, 23435-23438, 24075-24080, 24759, 24775, 24800, 24802, 24803, 24852, 24981, 24982, 25061, 25122, 
+ 25123, 25143-25146, 25306, 25409, 25984-25991, 27110, 27111, 27582-27584, 27961, 27962, 28447-28458, 29689- 
+ 29698, 30180, 30198, 30199, 30388, 30573-30575, 30594-30597, 32776"
+767333,"25583-25588, 30846, 30850-30852"
+767336,"24333-24343, 25203, 25204, 25442-25444, 25732, 25733, 25826, 25828, 25829, 25831, 25832, 25834, 27140, 29230- 
+ 29232"
+767338,"24146, 24316, 24317, 24407, 24531, 24853, 24929, 24930, 25246, 25274, 25316, 25363, 25575-25577, 28153, 28154, 
+ 28724, 28725, 29117, 29118, 30186"
+767341,"24752, 24753, 24843, 24844, 30341, 30342"
+767343,"30008, 30009"
+767346,"23215-23217, 23645, 23961-23966, 24498, 24782, 24783, 27311-27313, 27658, 27659, 28553, 28837, 28838, 29863, 
+ 32886-32888, 33493-33497, 33845-33851, 35813-35815, 36131, 37547-37550, 40363-40569"
+767352,"26261, 26262"
+767360,33767-33769
+767366,"24541, 24542"
+767375,"24082-24087, 24306, 24307, 24574, 24575, 25120, 25121, 25864, 25865, 30108, 30112"
+767381,"23756-23759, 24002-24006, 24350, 24351, 24400, 24415-24417, 24632, 24755, 24756, 24880, 25055, 25136, 25293, 
+ 25616-25619, 25654-25662, 27050, 27339, 27444, 27445, 27942, 27943, 27944, 32972-32980, 33506-33508, 35876, 
+ 35877, 37719, 37720, 37872, 40564-40567, 40894-40898"
+767383,"24318, 24357, 24358, 24475-24477, 24729, 24846-24849, 25088, 25365, 26544"
+76731A,"24428, 24429, 25273, 25312, 26469, 26470, 27619"
+76731B,"25170, 26259, 26265"
+76731K,"27205, 27206, 28865"
+76732K,33968
+76732L,"40342, 40343, 41063"
+76733A,"25346, 25403, 25530-25536, 27189, 27310, 27376, 27377, 27468, 27476, 27477, 27908, 27909, 27918, 28043, 
+ 28138-28141, 28147, 28159, 28495, 33421-33425"
+76734G,41519
+76733P,"28370, 28392, 33078, 35796, 40533, 40534-40536"
+76734P,33047-33049
+76735D,"24865, 27902, 28656"
+76735E,"26063, 26064"
+76735H,26387-26389
+76736D,"27309, 27684, 27685, 27941, 35155, 35156"
+76736N,"29898, 30107, 30109-30111, 30115, 30841, 30843, 30847, 30853, 30854"
+76737D,26328
+76737E,25077
+76738A,"29617, 29618"
+76738E,"24797, 24798, 25132, 25347, 25404, 25757-25760, 25762, 25763, 29129, 30840"
+76739H,"26256, 26257"
+7673BG,30564-30566
+7673D6,24766-24768
+7673G5,"24257-24259, 28111, 29435"
+7673J6,25875-25878
+7673KY,"42220, 42221, 42223"
+7673P6,"23764, 24349, 24484, 24485, 24495, 24496, 24983-24985, 25241, 25269, 25354, 26233-26238, 27254, 27255"
+7673Q8,"24745, 24746, 27600, 27616-27618, 27686, 27993, 28132, 28206, 28207, 29390, 29383, 29386, 29387, 30048, 30301"
+7673S1,"25221, 26608"
+7673T7,"25076, 25117"
+7673W0,"28148, 28149, 28264"
+7673X2,26260
+7673Y0,"24947, 24948, 24952, 24953, 24999, 25000, 25411, 26200, 26204-26208"
+7673Z9,"23765, 24628, 26417, 27095, 29867, 30331, 30383"
+7673BG,30563
+7673CB,33466-33469
+Certification Basis,"Part 25 of the Federal Aviation Regulations as amended by Amendments 25-1 through 25-37, except where superseded by the 
+ following sections of Part 25 as amended by Amendments 25-1 through:"
+2538,"25.101, 25.161, 25.397, 25.603, 25.675, 25.685, 25.775, 25.787, 25.815, 25.841, 25.941, 25.951, 25.979(a), 
+ (b), (c), 25.999, 25.1027, 25.1041, 25.1093(b), 25.1125, 25.1143(a), (b), (c), (d), 25.1167, 25.1303, 25.1305, 
+ 25.1322, 25.1355, 25.1385, 25.1403, 25.1439, 25.1515, 25.1533, 25.1557"
+2539,25.807
+2540,"25.901(a), (b)(1)(ii), (b)(2), (b)(3), (b)(4), (c), 25.903, 25.933, 25.939, 25.943, 25.945, 25.952, 25.959, 
+ 25.963, 25.965, 25.973, 25.995, 25.1091(a), (b), (c), (d), 25.1093(a), (c), 25.1121, 25.1123, 25.1141, 
+ 25.1145, 25.1197, 25.1199, 25.1207, 25.1337, 25.1549"
+2541,"25.831, 25.1309, 25.1321, 25.1325, 25.1331, 25.1333, 25.1335, 25.1351, 25.1401, 25.1421, 25.1435, 
+ 25.1447, 25.1450, 25.1457, 25.1459, 25.1461"
+2542,"25.21, 25.29, 25.107, 25.111, 25.143, 25.147, 25.149, 25.177, 25.181, 25.201, 25.207, 25.233, 25.237, 
+ 25.255, 25.703, 25.729, 25.1043, 25.1353, 25.1501, 25.1521, 25.1581, 25.1583, 25.1585, 25.1587"
+2543,25.1326
+2544,25.1413
+2545,"25.571, and 25.573"
+2546,"25.345, 25.351(a), 25.629, 25.697, 25.803, 25.901(d), 25.1103(a), (b)(2), (d), (e), (f), 25.1142, and 25.1522"
+2549,25.733
+2554,"25.365 (e)(1), (2) 
+ Compliance with the following optional requirements has been established with respect to the following sections of 14 CFR Part 25: 
+ §25.801 - Ditching Provisions (Over- water operation can be approved when the aircraft has been equipped and installation has 
+ been approved according to 14 CFR 25.801) 
+ §25.1419 - Ice Protection Provisions 
+ 14 CFR §26: (Based on 14 CFR §21.101(g) for changes made to TCs applicable provisions of 14 CFR part 26 are included in the 
+ certification basis. For any future 14 CFR part 26 amendments, the holder of this TC must demonstrate compliance with the applicable 
+ sections). Compliance has been found for the following regulations at Amendment 26-0: 26.11 and Amendment 26-1: 26.43, 26.45, 26.47,"
+2649 and Amendment 263 2639,"14 CFR part 36 of the Federal Aviation Regulations with Amendments 36-1 through 36-12, effective August 1, 1981. See the 
+ appropriate FAA Approved Airplane Flight Manual listed in Note (2) for applicability of Stage 4 Noise Recertification through 
+ Amendment 36-28."
+Exemption,"Title 
+ Issued Date 
+ Expiration Date 
+ Exemption from 25.785(h) -Allows one seat for a required flight attendant"
+4725,"to be located near the overwing Type III exits. 
+ 3 November, 1986 
+ Permanent"
+8119,"Partial Exemption from §25.901(c), Single Failures resulting in 
+ 11 June, 2003 
+ Permanent 
+ Uncontrollable High Thrust Conditions"
+9791C,"Partial Time-Limited Exemption from 14 CFR §25.853(a), appendix F, 
+ 28 November, 2008 28 November, 2011 
+ paragraph (a)(1)(i), Testing on Large Interior Panels (Expired Exemption 
+ No. 9791, November 28, 2010, Exemption No. 9791B, 28 February, 2011) 
+ 25 May, 2010 
+ Permanent"
+10069,"Exemption from 14 CFR 25.779(b)(1), 25.1301(d), and 25.1309(a), 767- 
+ 300 with Rolls Royce RB211- 524G/H engines installedwith Full 
+ Authority Fuel Control Software “Issue 17” software."
+10767C,"Time-limited exemption from 14 CFR 25.901(c) and 25.981(a)(3), fuel 
+ 17 December, 2015 
+ 17 May, 2016 
+ tank ignition prevention associated with the FQIS is limited to the 
+ replacement of the ARINC 429 chip within the fuel quantity processer 
+ unit’s IOC cards and the BITE card (Expired Exemption No. 10767, 17 
+ May, 2016, Exemption No. 10767A, 17 May, 2016)"
+14593,"Exemption from SFAR 88, and §§ 25.901(c) and 25.981(a)(3), as they 
+ 25 January, 2016 
+ Permanent 
+ pertain to fuel-tank-ignition prevention associated with the fuel-quantity 
+ indication system and fuel-overfill-shutoff surge tank wiring installation, 
+ limited to in-service 767-300 (freighter only) 
+ Equivalent Safety Findings (ESF’s) exist with respect to the following sections of 14 CFR Part 25:"
+ELOS IP,"Title 
+ 14 CFR"
+AT00010BATS1,"Powerplant And Auxiliary Power Unit Instruments 
+ 25.1549(b)"
+AT0328STTC5,"""No Smoking"" limitation in the passenger compartment 
+ 25.791,25.853, 
+ CAR 4b.3 81"
+AT1736SETC14,"Door Sill Reflectance 
+ 25.811"
+AT2251SETF1,"Use of the 1-g Stall Speed Instead of Minimum Speed in the Stall as a 
+ 1.2, 25.21(b), 25.103(a),(a)(1),(a)(3- 
+ Basis for Determining Compliance (Non-Structural Sections) 
+ 6),(b)(c), 25.107(b)(1),(b)(2),(c)(3),(g), 
+ 25.111(a), 25.119(b), 
+ 25.121(c),(d),(d)(3), 25.125(a)(2), 
+ 25.143(g), 25.145(a),(a)(1),(b)(1- 
+ 4),(b)(6),(c), 25.147 (a),(a)(2),(c),(d), 
+ 25.149 (c), 
+ 25.161(b),(c)(1),(c)(2),(c)(3)(d),(e)(3), 
+ 25.175(a)(2),(b)(1),(b)(2),(b)(2)(ii),(b) 
+ (3),(c),(c)(4),(d),(d)(5), 25.177(c), 
+ 25.181(a),(b), 25.201(a)(2),(b)(4), 
+ 25.207(b),(c),(d),(e),(f), 25.231(a)(2), 
+ 25.233(a), 25.237(a),(b)(1),(b)(2), 
+ 25.735(f)(2),(g), 25.773(b)(1)(i), 
+ 25.1001(c)(1),(c)(3), 
+ 25.1323(c)(1),(c)(2), 25.1325(e), 
+ 25.1587(b)(2)"
+AT4965SETP1,"RB211-524H-T Engine Fire Detection Provisions 
+ 25.1203"
+AT4965SETP2,"RB211-524H-T Engine Zone 2 Pressure Relief Provisions 
+ 25.1103(d)"
+PS050177P2,"Fuel Tank Flammability Rule (see Note 17) 
+ 25.981 (25-125)"
+PS050123P1,"Ground Fault Interrupter Relays 
+ 25.981(a)(3)"
+PS060496F18,Engine and Auxiliary Power Unit (APU) Fire Switch Handle Design 25.1555(d)(1)
+PS080670C1,"Adhesives Used in Interior Panel Bent Joint Potting Applications 
+ 25.853(a)"
+PS130901ES1,"Oxygen Quantity Indication of the Lavatory Supplemental Oxygen 
+ 25.1441(c) 
+ System"
+PS131000C5,"Flammability Testing Hierarchy 
+ 25.853(a)(d), part 25 
+ appendix F parts I and 
+ IV"
+SA06091WITP1,"Power plant and Auxiliary Power Unit Instruments 
+ 25.1549(b), (c)"
+T4173NMDSC1,"Emergency Exit Arrangement and Cross Aisle Proximity 
+ 25.813"
+T4173NMDSCI1,"Emergency Exit Arrangement 
+ 25.807, 25.809 and 
+ 25.813"
+T4173NMDSCI2,"Emergency Exit Access 
+ 25.813(c)"
+TC6918SET G8,"Formatting of Boeing Instructions for Continued Airworthiness 
+ 25.1529 (25-54) 
+ Manuals - Airworthiness Limitations 
+ 25.1729(25-123) 
+ Appendix H (25-132)"
+TC6918SETF6,"Minimum Unstick Speed (VMU) 
+ 25.107(e)(1)(iv)"
+TD1637SETC1,"Folding Waste Trolley 
+ 25.853(d)"
+TD1990SETC1,"Emergency Locator Transmitter (ELT) 
+ 25.1415(d)"
+TD2695SETC1,"Exterior Exit Markings 
+ 25.811(f)"
+TD7075SETC1,"Type III Exit Accessibility 
+ 25.803, 25.807(c), 
+ 25.813(c)"
+TS130005S1,"Determination of Minimum Oxygen Flow for the Lavatory Oxygen 
+ 25.1443(c) 
+ System 
+ Special Conditions with respect to the following subjects apply:"
+Special Condition,"Title 
+ Effective Date"
+25ANM18,"Lightning Protection, Protection from Unwanted Effects of Radio Frequency 
+ 29 April, 1988 
+ (RF)Energy and Propulsion Control System for Pratt and Whitney PW4000 
+ series engines, General Electric CF6-80C2 FADEC engine, and Rolls Royce 
+ RB211-524H-36 engine installations"
+25ANM20,"Installation of a longitudinal partition in the cabins 
+ 23 August, 1988"
+25369SC,"Seats with Non-Traditional, Large, Non-MetallicPanels 
+ 17 March, 2008"
+25454SC,"Seats with Inflatable Lapbelts 
+ 5 January, 2012"
+25630SC,"Non-Rechargeable Lithium Batteries 
+ 22 April, 2017 
+ IV - 767-300BCF Major Design Change 
+ The 767-300BCF (Boeing Converted Freighter) is a 767-300 series passenger airplane that has been modified in accordance with 
+ FAA- approved Boeing Service Bulletin(s) 767-00-0039 to operate in a freighter configuration. These aircraft remain 767-300 series 
+ aircraft for documentation purposes on this TCDS and with regard to the applicability of airworthiness directives. Because of the 
+ magnitude of this design change, the certification basis for the changed aspects was required to be established and documented in 
+ accordance with section 21.101 (Changed Product Rule). 
+ All general information in TCDS A1NM for the 767-300 Series remains applicable to an airplane operating in the 767-300BCF"
+configuration with the following exceptions,"Maximum Passengers: There are no provisions for the carriage of passengers. A maximum of four supernumeraries can occupy the 
+ flight deck as given in Exemption 9696A 
+ A 767-300BCF certification basis was established according to the requirements given in § 21.101 and AC 21.101-1, and was 
+ determined in accordance with FAA Order 8110.48. The 767-300BCF consists of the following product level change which is"
+considered significant per AC 211011,"Significant Product Level Change - Passenger to Freighter Conversion: 
+ Certification basis: Part 36: Unchanged under the “No Acoustical Change” Provisions of § 21.93(b) 
+ SFAR 27: Unchanged from 767-300 Series 
+ Part 26, Amendments 26-0 through 26-1 
+ Part 25 of the FAR, effective February 1, 1965, as amended by Amendments 25-1 through 25-117 with the following 
+ exceptions per section 21.101(b): 
+ SECTION NO. 
+ TITLE 
+ AT AMDT. 25- 
+ 25.365(e)(2) 
+ Pressurized Compartment Loads 
+ 25-54 (for compartments 
+ outside of the pressurized area) 
+ 25.561(c)(2) 
+ General 
+ 25-64 
+ 25.571 
+ Damage-tolerance and fatigue evaluation of structure 
+ 25-54 
+ 25.831(g) 
+ Ventilation 
+ 25-41 
+ 25.841(a) 
+ Pressurized cabins 
+ 25-38 
+ Changed Areas: The following is a high level description of the listing of changes incorporated as part of the passenger to BCF 
+ conversion: 
+ • 
+ Installed strengthened floor beams and fuselage frames 
+ • 
+ Installed main deck cargo door 
+ • 
+ Installed rigid cargo/smoke barrier 
+ • 
+ Revised cargo ventilation system 
+ • 
+ Removal of passenger windows and installation of window plugs 
+ • 
+ Installed main deck cargo fire protection system and smoke detection system 
+ • 
+ Installed aural and visual alerts in the main deck Class E cargo compartment 
+ • 
+ Installation of seats and provisions to the flight deck for four supernumeraries 
+ The certification basis for the following changes incorporated as part of the passenger to BCF conversion remains at the original"
+"certification basis for the Model 767-300 shown on TCDS A1NM: 
+ • 
+ Rerouting and some minor changes to hardware associated with flight controls, landing gear, and wheel brake 
+ cables 
+ • 
+ Rerouting of air data tubing, hydraulic tubing, certain electrical wiring 
+ • 
+ Changes to performance characteristics associated with static and dynamic loads 
+ • 
+ Forward lavatory with recirculating waste system, including flush motor and related timer and circuit breaker 
+ • 
+ Re-use of passenger airplane interior mounting hardware and attach points to accommodate cargo 
+ compartment equipment like sidewall panels and ceilings. 
+ • 
+ Installation of a floor-mounted first observer seat 
+ • 
+ Revision to the Ditching and Flotation analysis document as affected by the BCF modification 
+ • 
+ Revision of the EICAS to the 767-300BCF configuration 
+ • 
+ Incorporation of the 767-300 production stabilizer electric alternate trim control system 
+ • 
+ Optional installation of English and foreign language placards in appropriate exterior and interior 
+ locations 
+ • 
+ Optional modification of lower lobe air conditioning 
+ • 
+ Strengthening of landing gear to accommodate differences in weight and CG 
+ • 
+ Revision of Door 1L counterbalance associated with slide removal 
+ The certification basis for areas not affected by the change will remain at the original certification basis for the Model 767-300 shown on 
+ TCDS A1NM 
+ Special Conditions: Special conditions that are part of the certification basis for the 767-300 Series apply to the airplane operating in 
+ the 767-300BCF configuration. 
+ Exemptions 
+ All exemptions from 14 CFR Part 25 listed in TCDS A1NM for the 767-300 Series apply to the 767- 300BCF 
+ configuration, except those listed below: 
+ Exemption No. 4725 - Exemption from 25.785(h) -Allows one seat for a required flight attendant to be located near 
+ the over wing Type III exits. Does not apply. 
+ Exemption 9696, dated May 14, 2008 and corrected on May 22, 2008 provides relief from the requirements of 
+ Sections 25.785(j), 25.807(d), 25.807(g)(1), 25.807(i)(1), 25.809(a), 25.810(a)(1), 25.812(e), 25.813(b), 25.857(e), 
+ and 25.1447(c)(1) to allow for the carriage of supernumeraries on the 767- 300BCF. 
+ Exemption 9696A, dated November 14, 2008 provides relief from the requirements of Sections 25.785(j); 25.807(d), 
+ (g)(1), (i)(1); 25.809(a); 25.810(a)(1); 25.812(e); 25.813(b); 25.857(e); and 25.1447(c)(1) to allow for the carriage of 
+ supernumeraries on the 767-300BCF. 
+ Equivalent Safety Findings: All existing Equivalent Safety Findings listed in TCDS A1NM for the 767-300 Series apply to the 767- 
+ 300 operated in the 767-300BCF configuration, except those listed below: 
+ • 
+ Test Subjects for Emergency Evacuation Demonstration, Section 25.803(c)(8). Does not apply 
+ • 
+ Passenger Emergency Exits, Section 25.807(a)(7)(iv) and (c). Does not apply 
+ • 
+ Type III Exit Access, 25.803, 25,807(c) and 25.813(c). Does not apply 
+ • 
+ Emergency Exit Access, 25.807, 25.809 and 25.813. Does not apply 
+ • 
+ Exterior + Markings, 25.811(f)(2). Does not apply 
+ • 
+ “No Smoking” limitation in passenger compartment, 25.791 and 25.853(c). Does not apply 
+ • 
+ Type A Exit Passageway Dimensions, 25.807 and 25.811. Does not apply 
+ • 
+ Cross-Aisle between Type III Exits, 25.807 and 25.813. Does not apply 
+ • 
+ Oxygen Quantity Indication of the Lavatory Supplemental Oxygen System, 25.1441(c). Does not apply 
+ Equivalent Safety Findings (ESF’s) exist with respect to the following sections of 14 CFR Part 25: 
+ § 25.855(e) - Cargo Compartment Smoke Detection 
+ TCDS Notes 
+ All Notes in TCDS A1NM that apply to the 767-300 Series also apply to an airplane operated in the 767- 
+ 300BCF configuration. 
+ Optional 
+ All optional requirements in TCDS A1NM that apply to the 767-300 Series also apply to an airplane operated in the 
+ Requirements 
+ 767-300BCF configuration. 
+ V - Model 767-300F (Freighter) (Approved October 12, 1995)",
+Engines,2 General Electric CF6-80C2B6F or B7F
+Fuel,"General Electric Engines: Fuel conforming to GE Specification D50TF2 
+ All Engines: ASTM D-1655 grades Jet A or Jet A1, or Jet B 
+ ASTM D 6615 grades Jet B 
+ MIL-T-5624 grades JP-4 or JP-5 MIL-T-83133 grades JP-8 
+ Refer to the FAA approved Airplane Flight Manual listed in Note 2 for fuel limitations."
+Engine Ratings ,"Operating Limits: For engine ratings and operating limits see engine TC Data Sheet E13NE for the GE CF6-80C2. 
+ Airspeed Limits: VD = 420 KCAS to 17,854 ft/.91M above 23,000 ft, linear variation between these points 
+ VFC = 390 KCAS to 17,600 ft/.382 KCAS at 23,000 ft/.87M above 26,000 ft, linear variation between these points 
+ VMO = 360 KCAS/.86M 
+ VLE = 270 KCAS/.82M 
+ VLO = 270 KCAS/.82M 
+ For other airspeed limits, see the appropriate FAA-Approved Airplane Flight Manual."
+CG Range,"See the appropriate FAA-Approved Airplane Flight Manual. 
+ Maximum Weights: See the appropriate FAA-Approved Airplane Flight Manual."
+Maximum,"0 passengers (767-300F) 2 crew, 4 persons with one floor level exit equipped with inertia reels and right hand"
+Passengers,flightcrew exit operable from outside. (Exemption No. 5993A)
+Model,Eligible Serial Numbers
+767300F,"63110-63129, 64058-64060, 65791, 65907-65909, 66240-66247, 66249-66253, 66809-66812, 66864"
+76732LF,"41063, 41068, 41069"
+76734AF,"27239-27243, 27740-27764, 32843, 32844, 37856-37865, 37866-37878, 37944-37947, 65788-65790"
+76738EF,"25756, 25761, 29129"
+767316F,"29881, 30780, 30842, 32572, 32573, 34245, 34246, 34627"
+767346F,"35816, 35817, 35818"
+767381F,"33404, 33509, 33510, 35709"
+7673JHF,37805-37810
+7673S2F,"42706-42732, 43538, 43541-43554, 43630-43633, 44377-44380, 61205, 61206, 62497-62500, 63094- 
+ 63109, 64055-64057"
+Certification Basis,"Part 25 of the Federal Aviation Regulations as amended by Amendments 25-1 through 25-37, except where superseded by the 
+ following sections of Part 25 as amended by Amendments 25-1 through:"
+2538,"25.101, 25.161, 25.397, 25.603, 25.675, 25.685, 25.775, 25.787, 25.815, 25.841, 25.941, 25.951, 25.979(a), 
+ (b), (c), 25.999, 25.1027, 25.1041, 25.1093(b), 25.1125, 25.1143(a), (b), (c), (d), 25.1167, 25.1303, 25.1305, 
+ 25.1322, 25.1355, 25.1385, 25.1403, 25.1439, 25.1515, 25.1533, 25.1557"
+2539,25.807
+2540,"25.901(a), (b)(1)(ii), (b)(2), (b)(3), (b)(4), (c), 25.903, 25.933, 25.939, 25.943, 25.945, 25.952, 25.959, 
+ 25.963, 25.965, 25.973, 25.995, 25.1091(a), (b), (c), (d), 25.1093(a), (c), 25.1121, 25.1123, 25.1141, 
+ 25.1145, 25.1197, 25.1199, 25.1207, 25.1337, 25.1549"
+2541,"25.831, 25.1309, 25.1321, 25.1325, 25.1331, 25.1333, 25.1335, 25.1351, 25.1401, 25.1421, 25.1435, 
+ 25.1447, 25.1450, 25.1457, 25.1459, 25.1461"
+2542,"25.21, 25.29, 25.107, 25.111, 25.143, 25.147, 25.149, 25.177, 25.181, 25.201, 25.207, 25.233, 25.237, 
+ 25.255, 25.703, 25.729, 25.1043, 25.1353, 25.1501, 25.1521, 25.1581, 25.1583, 25.1585, 25.1587"
+2543,25.1326
+2544,25.1413
+2545,"25.571, and 25.573"
+2546,"25.345, 25.351(a), 25.629, 25.697, 25.803, 25.901(d), 25.1103(a), (b)(2), (d), (e), (f), 25.1142, and 25.1522"
+2549,25.733
+2554,"25.365 (e)(1), (2)"
+2564,"25.561 Applies to seats for supernumeraries, galley and rigid barrier"
+2572,"25.783 Applies to main deck cargo door 
+ Compliance with the following optional requirements has been established with respect to the following sections of 14 CFR Part 25: 
+ §25.801 - Ditching Provisions (Over- water operation can be approved when the aircraft has been equipped and installation has 
+ been approved according to 14 CFR 25.801) 
+ §25.1419 - Ice Protection Provisions 
+ 14 CFR §26: (Based on 14 CFR §21.101(g) for changes made to TCs applicable provisions of 14 CFR part 26 are included in the 
+ certificationbasis. For any future 14 CFR part 26 amendments, the holder of this TC must demonstrate compliance with the applicable 
+ sections). Compliance has been found for the following regulations at Amendment 26-0: 26.11 and Amendment 26-1: 26.43, 26.45, 26.47,"
+2649 and Amendment 263 2639,"14 CFR part 36 of the Federal Aviation Regulations with Amendments 36-1 through 36-12, effective August 1, 1981. See the 
+ appropriate FAA Approved Airplane Flight Manual listed in Note (2) for applicability of Stage 4 Noise Recertification through 
+ Amendment 36-28."
+Exemption,"Title 
+ Issued Date 
+ Expiration Date 
+ Partial Exemption from 25.807(c)(1) and 25.857(e) - Allows for the"
+5993,"carriage of up to seven persons includingthe flight crew members, when 
+ 23 November 1994 
+ Permanent 
+ the airplane is equipped with a floor level exit with escape slide, and a right 
+ hand flight crew window emergency exit that is operable from the outside 
+ Partial Exemption from 25.809(f)(1) - Allows for the carriage of persons"
+5993A,"other than flight crew members. In lieu of an escape slide, the emergency 
+ 9 August 1995 
+ Permanent 
+ evacuation assist means at the entry door shall be an inertial reel descent 
+ device andharness provided for each occupant. See Note 12"
+8119,"Partial Exemption from §25.901(c), Single Failures resulting in 
+ 11 June, 2003 
+ Permanent 
+ Uncontrollable High Thrust Conditions"
+9791C,"Partial Time-Limited Exemption from 14 CFR §25.853(a), appendix F, 
+ 28 November, 2008 28 November, 2011 
+ paragraph (a)(1)(i), Testing on Large Interior Panels (Expired Exemption 
+ No. 9791, November 28, 2010, Exemption No. 9791B, 28 February, 2011)"
+10767D,"Time-limited exemption from 14 CFR 25.901(c) and 25.981(a)(3), fuel 
+ 17 December, 2015 
+ 31 December, 2027 
+ tank ignition prevention associated with to the latent-plus-single failures 
+ for the FQIS processor, and fuel-quantity-system wiring that is co-routed 
+ with airplane wiring carrying electrical power exceeding intrinsically safe 
+ levels. (Expired Exemption No. 10767, 17 May, 2016, Exemption No. 
+ 10767A, 17 May, 2016, Exemption 10767C, 31 December, 2019)"
+14593,"Exemption from SFAR 88, and §§ 25.901(c) and 25.981(a)(3), as they 
+ 25 January, 2016 
+ Permanent 
+ pertain to fuel-tank-ignition prevention associated with the fuel-quantity 
+ indication system and fuel-overfill-shutoff surge tank wiring installation, 
+ limited to in-service 767-300 (freighter only) 
+ Equivalent Safety Findings (ESF’s) exist with respect to the following sections of 14 CFR Part 25:"
+ELOS IP,"Title 
+ 14 CFR"
+AT00010BATS1,"Powerplant And Auxiliary Power Unit Instruments 
+ 25.1549(b)"
+AT0141SETS1,"Supplemental Oxygen Equipment 
+ 25.1447(c)(1) and (3)"
+AT0328STTC5,"""No Smoking"" limitation in the passenger compartment 
+ 25.791,25.853, 
+ CAR 4b.3 81"
+AT1736SETC14,"Door Sill Reflectance 
+ 25.811"
+PS050123P1,"Ground Fault Interrupter Relays 
+ 25.981(a)(3)"
+PS050177P2,"Fuel Tank Flammability Rule (see Note 17) 
+ 25.981 (25-125)"
+PS060496F18,"Engine and Auxiliary Power Unit (APU) Fire Switch Handle Design 
+ 25.1555(d)(1)"
+PS080670C1,"Adhesives Used in Interior Panel Bent Joint Potting Applications 
+ 25.853(a)"
+ELOS IP,"Title 
+ 14 CFR"
+PS131000C5,"Flammability Testing Hierarchy 
+ 25.853(a)(d), part 25 
+ appendix F parts I and 
+ IV"
+ST06344WITP1,"Powerplant Instrumentation for RCI LDS-2100 Installation on Boeing 767- 25.1549(b), (c) 
+ 300F Series Aircraft"
+TC6918SET G8,"Formatting of Boeing Instructions for Continued Airworthiness Manuals - 
+ 25.1529 (25-54) 
+ Airworthiness Limitations 
+ 25.1729(25-123) 
+ Appendix H (25-132)"
+TD1990SETC1,"Emergency Locator Transmitter (ELT) 
+ 25.1415(d)"
+TD2695SETC1,"Exterior Exit Markings 
+ 25.811(f)"
+TS130005S1,"Determination of Minimum Oxygen Flow for the Lavatory Oxygen System 25.1443(c) 
+ Special Conditions with respect to the following subjects apply:"
+Special Condition,"Title 
+ Effective Date"
+25ANM18,"Lightning Protection, Protection from Unwanted Effects of Radio Frequency 
+ 29 April, 1988 
+ (RF)Energy and Propulsion Control System for Pratt and Whitney PW4000 
+ series engines, General Electric CF6-80C2 FADEC engine, and Rolls Royce 
+ RB211-524H-36 engine installations"
+25630SC,"Non-Rechargeable Lithium Batteries 
+ 22 April, 2017 
+ VI - 767-300F Major Design Change – Large Format Display System 
+ The aircraft listed below were produced with a Rockwell Collins, Inc. STC number ST01750WI installed in production. As a result, 
+ the certification basis for these aircraft has been advanced for the areas associated with the STC as identified below. Section V 
+ (767-300F)of this TCDS remains applicable for all regulatory aspects not discussed below. Certification Basis: The certification 
+ basis is advanced for the following regulations for the areas listed below: 
+ SECTION NO. 
+ TITLE 
+ AT AMDT. 25- 
+ 25.143(b) 
+ General – Controllability and Maneuverability 
+ 129 
+ 25.305(a)(b)(c) 
+ Strength and Deformation 
+ 86 
+ 25.307(a) 
+ Proof of Structure 
+ 72 
+ 25.561 
+ General – Emergency Landing Conditions 
+ 91 
+ 25.603 
+ Materials 
+ 46 
+ 25.605(a) 
+ Fabrication Methods 
+ 46 
+ 25.611 
+ Accessibility Provisions 
+ 123 
+ 25.613(a)(b)(c) 
+ Material Strength Properties and Material Design Values 
+ 112 
+ 25.625(a)(b)(c) 
+ Fitting Factors 
+ 72 
+ 25.773(a) 
+ Pilot Compartment View 
+ 136 
+ 25.777(a)(b)(c) 
+ Cockpit controls 
+ 46 
+ 25.831(d) 
+ Ventilation 
+ 89 
+ 25.853(a) 
+ Compartment Interiors 
+ 116 
+ 25.869(a) 
+ Fire Protection System 
+ 72 
+ 25.899 
+ Electrical Bonding and Protection Against Static Electricity 
+ 123 
+ 25.1301(a) 
+ Function and Installation 
+ 123 
+ 25.1303 
+ Flight and Navigation Instruments 
+ 90 
+ 25.1305(a)(3-6),(c)(1-3),(d)(1)(3) Powerplant Instruments 
+ 115 
+ 25.1307(e) 
+ Miscellaneous Equipment 
+ 72 
+ 25.1309(a)(b)(c)(d)(e) 
+ Equipment Systems and Installations 
+ 123 
+ 25.1310(a)(1)(2)(3)(i) 
+ Power Source Capacity and Distribution 
+ 123 
+ SECTION NO. 
+ TITLE 
+ AT AMDT. 25- 
+ 25.1316 
+ System lightning protection 134 
+ 134 
+ 25.1317(a)(b)(c) 
+ High-intensity Radiated Fields (HIRF) Protection 
+ 122 
+ 25.1322 
+ Warning, Caution, and Advisory Lights 
+ 131 
+ 25.1323(a)(f)(g) 
+ Airspeed Indicating System 
+ 109 
+ 25.1329(i)(j)(k) 
+ Flight Guidance System 
+ 119 
+ 25.1351(a) 
+ General - Electrical Systems and Equipment 
+ 72 
+ 25.1353(a)(c) 
+ Electrical Equipment and Installations 
+ 123 
+ 25.1360(b) 
+ Precautions Against Injury 
+ 123 
+ 25.1381(a)(b) 
+ Instrument Systems 
+ 72 
+ 25.1431 
+ Electronic Equipment 
+ 113 
+ 25.1438(b) 
+ Pressurization and Pneumatic Systems 
+ 41 
+ 25.1459(c) 
+ Flight Recorders 
+ 124 
+ 25.1535 Appx. K25.1.1 
+ ETOPS Approval 
+ 120 
+ 25.1535 Appx. K25.1.2 
+ ETOPS Approval 
+ 120 
+ 25.1551 
+ Oil Quantity Indicator 
+ 72 
+ 25.1581(a)(2) 
+ Airplane Flight Manual 
+ 72 
+ 25.1583(c)(1) 
+ Operating Limitations 
+ 130 
+ 25.1585(a)(b) 
+ Operating Procedures 
+ 105 
+ Changed Areas: The following is a high level description of the listing of changes incorporated as part of the installation of the Rockwell"
+Collins LDS Amended STC ST01750WI,"• 
+ Installed new forward instrument panel to accept new line-replaceable units (LRU) 
+ • 
+ Installed graphics generator units (3 GGUs) 
+ • 
+ Installed adaptive flight displays (3 AFDs) 
+ • 
+ Installed display control panels (2 DCPs) 
+ • 
+ Installed display dimming panels (2 DDPs) 
+ • 
+ Installed operational software for the GGU"
+"Equivalent Safety Findings which apply only to the Model 767-300F series with incorporation of STC exist with respect to the following 
+ sections of 14 CFR Part 25: 
+ §25.1549(b) & (c) - Powerplant [and auxiliary power unit instruments] (ELOS Memo SA06180WI-T-P-1). 
+ 1 
+ Model 
+ Eligible Serial Numbers 
+ 767300F 
+ 63110-63129, 64058-64060, 65791, 65907-65909, 66240-66247, 66249-66253, 66809-66812, 66864 
+ 76734AF 
+ 65788-65790 
+ 7673S2F 
+ 42720-42732, 43538, 43541, 43547-43554, 43630-43633, 61205, 61206, 62497-62500, 63094-63109, 
+ 64055- 64057 
+ VII – Model 767-400ER (Approved July 20, 2000)",
+Engines,2 General Electric CF6-80C2B8F
+Fuel,"General Electric Engines: Fuel conforming to GE Specification D50TF2 
+ ASTM-D-1655 grades Jet A or Jet A1 
+ ASTM D6615 grades Jet B 
+ MIL-T-5624 grades JP-4 or JP-5 MIL-T-83133 grades JP-8 
+ Refer to the FAA approved Airplane Flight Manual listed in Note 2 for fuel limitations"
+Engine Ratings ,"Operating Limits: For engine ratings and operating limits see engine TC Data Sheet E13NE for the GE CF6-80C2. 
+ Airspeed Limits: VD = 420 KCAS to 17,854 ft/. 91M above 23,000 ft., linear variation between these points 
+ VFC = 390 KCAS to 17,600 ft/. 382 KCAS at 23,000 ft/. 87M above 26,000 ft, linear variation between these points 
+ VMO = 360 KCAS/. 86M 
+ VLE = 270 KCAS/. 82M 
+ VLO = 270 KCAS/. 82M 
+ For other airspeed limits, see the appropriate FAA-Approved Airplane Flight Manual."
+CG Range,"See the appropriate FAA-Approved Airplane Flight Manual. 
+ Maximum Weights: See the appropriate FAA-Approved Airplane Flight Manual."
+Maximum,375 with the as designed exit configuration
+Model,Eligible Serial Numbers
+767424ER,29446-29461
+767432ER,29699-29719
+7674FSER,34205
+Certification Basis,"Title 14 Code of Federal Regulations (CFR) Part 25 as amended by Amendments 25-1 through 25-89 for the complete airplane 
+ with the exceptions listed below: 
+ SECTION NO. 
+ TITLE 
+ AT AMDT. 25- 
+ 25.101 
+ Performance - General 
+ 92 
+ 25.105 
+ Takeoff 
+ 92 
+ 25.107 
+ Takeoff Speeds 
+ 92 
+ 25.109 
+ Accelerate-Stop Distance 
+ 92 
+ 25.113 
+ Takeoff Distance and Takeoff run 
+ 92 
+ 25.115 
+ Takeoff Flight Path 
+ 92 
+ 25.341 
+ Gust Loads 
+ 861 
+ 25.365(d) 
+ Pressurized Compartment Loads 
+ 71 
+ 25.365(e)(2) 
+ Pressurized Compartment Loads 
+ 546 
+ 25.499(e) 
+ Nose Wheel Yaw 
+ 91 
+ 25.519(b)(2) 
+ Jacking and Tie-down Provisions 
+ not part of the TC basis 
+ 25.562 
+ Emergency Landing Dynamic Conditions 
+ 643 
+ 25.571 
+ Damage - Tolerance and Fatigue Evaluation of Structure 
+ 45 
+ 25.703 
+ Takeoff Warning System 
+ 424 
+ 25.735 
+ Brakes 
+ 92 
+ 25.783(e), (g) 
+ Doors 
+ 235 
+ 25.783(f) 
+ Doors 
+ not part of the TC basis 
+ 25.831(a) 
+ Ventilation 
+ 41 
+ 25.831 (b)(2) 
+ Ventilation 
+ 41 
+ 25.831(g) 
+ Ventilation 
+ not part of the TC basis 
+ 25.841 
+ Pressurization 
+ 38 
+ 25.853(d)(3) 
+ Compartment Interiors 
+ 72 
+ 25.855 
+ Cargo or Baggage Compartments 
+ 722, 32 
+ 25.858(a) 
+ Cargo Compartment Fire Detection Systems 
+ not part of the TC basis 
+ 25.903(d) 
+ Engines 
+ 40 
+ 25.903(e) 
+ Engines 
+ 734 
+ 25.1316 
+ System Lightning Protection 
+ 807 
+ 25.1419(c) 
+ Ice Protection 
+ 23 
+ 25.1517 (2) 
+ Rough Air Speed for Turbulence Penetration Speed 
+ not part of the TC basis 
+ 25.1533 
+ Additional Operating Limitations 
+ 92 
+ 767-400ER Exception Notes: 
+ 1. 
+ For damage tolerance analysis, to be compatible with the requested reversion to Amendment 25-45 for §25.571, Boeing 
+ proposes to comply with Amendment 25-0 for static strength (fail-safe) analysis resulting from single element failures of the 
+ strut towing attachment interfaces. 
+ 2. 
+ Applicable to systems, equipment installations, and structures that are new and significantly modified, or significantly 
+ affected by other changes. Where two amendment levels are shown for the same paragraph, the amendment level without 
+ the superscript (2) applies to structures, systems and portions of the airplane, which are not new or significantly modified. 
+ 3. 
+ Pilot/Co-Pilot Seats: Pilot/co-pilot seats will comply with Amendment 25-64 except paragraph (c)(5), (c)(6). 
+ Passenger Seats: Passenger seats will comply with Amendment 25-64 except for Front Row Head Impact Criteria (HIC) 
+ per paragraph (c)(5). Stretchers for transporting non-ambulatory occupants are not required to comply with §25.562. 
+ Flight Deck Observer Seats: Flight Deck Observer seats will comply with Amendment 25-64 except paragraph (c)(6). 
+ Flight Attendant seats: Flight Attendant seats will comply with Amendment 25-64. 
+ 767-400ER Exception Notes (Cont’d): 
+ 4. 
+ Boeing intends to comply with the amendment level indicated for this rule, however, Boeing requests an exception to the 
+ latest policy and prefers to revert to the earlier policy. 
+ 5. 
+ The equivalent regulation to §25.783(g) at Amendment 25-88 is §25.783(f) at Amendment 25-23. The equivalent 
+ regulation to §25.783(g) at Amendment 25-23 is §25.783(h) and (i) at Amendment 25-88. 
+ Unchanged doors will comply with §25.783(e) and (f) at Amendment 25-23. Any new doors will comply with 
+ §25.783(e)-(g) at Amendment 25-88. 
+ 6. 
+ Reversion is requested for sub-paragraph (2) only. That is, Boeing will comply with paragraph (e) at Amendment 25-87, 
+ combined with (2) at Amendment 25-54. 
+ 7. 
+ For §25.1316, Applicable to new and significantly modified structure and systems and portions of the airplane affected 
+ by these changes."
+14 CFR §26,"Based on 14 CFR §21.101(g) for changes made to TCs applicable provisions of 14 CFR part 26 are included in the certification 
+ basis. For any future 14 CFR part 26 amendments, the holder of this TC must demonstrate compliance with the applicable 
+ sections. 
+ Compliance has been found for the following regulations at Amendment 26-0: 26.11 
+ Compliance has been found for the following regulations at Amendment 26-1: 26.43, 26.45, 26.47, and 26.49 
+ Part 34 as amended at the time of certification. 
+ Part 36, as amended at the time of certification. 
+ Part 121 is sometimes amended to require compliance with newly adopted standards of Part 25 on retroactive basis. If not already 
+ included in the above type-certification basis, Boeing will be requested to voluntarily accept the corresponding Part 25 standards 
+ as part of the type-certification basis for these derivative airplanes in order to facilitate operators' compliance with any such 
+ newly adopted Part 121 requirements."
+Exemption,"Title 
+ Issued Date 
+ Expiration Date"
+6886,"Exemption from §25.1435(b)(1), Hydraulic Proof Pressure Test 
+ 8 April, 1999 
+ Permanent"
+6935,"Exemption from §25.562(b)(2), Floor Warpage for Flight Deck Seats 
+ 4 August, 1999 
+ Permanent"
+8119,"Partial Exemption from §25.901(c), Single Failures resulting in 
+ 11 June, 2003 
+ Permanent 
+ Uncontrollable High Thrust Conditions"
+9791C,"Partial Time-Limited Exemption from 14 CFR §25.853(a), appendix F, 
+ 28 November, 2008 28 November, 2011 
+ paragraph (a)(1)(i), Testing on Large Interior Panels (Expired Exemption 
+ No. 9791, November 28, 2010, Exemption No. 9791B, 28 February, 2011)"
+10767C,"Time-limited exemption from 14 CFR 25.901(c) and 25.981(a)(3), fuel 
+ 17 December, 2015 
+ 17 May, 2016 
+ tank ignition prevention associated with the FQIS is limited to the 
+ replacement of the ARINC 429 chip within the fuel quantity processer 
+ unit’s IOC cards and the BITE card (Expired Exemption No. 10767, 17 
+ May, 2016, Exemption No. 10767A, 17 May, 2016) 
+ Equivalent Safety Findings (ESF’s) exist with respect to the following sections of 14 CFR Part 25:"
+ELOS IP,"Title 
+ 14 CFR"
+AT00010BATS1,"Powerplant And Auxiliary Power Unit Instruments 
+ 25.1549(b)"
+AT0328STTC5,"""No Smoking"" limitation in the passenger compartment 
+ 25.791,25.853, 
+ CAR 4b.3 81"
+AT1736SETC14,"Door Sill Reflectance 
+ 25.811"
+AT2251SETA2,"Material Design Values 
+ 25.613"
+AT2251SETC2,"Escape Slide Inflation Times 
+ 25.809(b)(2), 
+ 25.810(a)(1)"
+ELOS IP,"Title 
+ 14 CFR"
+AT2251SETF1,"Use of the 1-g Stall Speed Instead of Minimum Speed in the Stall as a 
+ 1.2, 25.21(b), 25.103(a),(a)(1),(a)(3- 
+ Basis for Determining Compliance (Non-Structural Sections) 
+ 6),(b)(c), 25.107(b)(1),(b)(2),(c)(3),(g), 
+ 25.111(a), 25.119(b), 
+ 25.121(c),(d),(d)(3), 25.125(a)(2), 
+ 25.143(g), 25.145(a),(a)(1),(b)(1- 
+ 4),(b)(6),(c), 25.147 (a),(a)(2),(c),(d), 
+ 25.149 (c), 
+ 25.161(b),(c)(1),(c)(2),(c)(3)(d),(e)(3), 
+ 25.175(a)(2),(b)(1),(b)(2),(b)(2)(ii),(b) 
+ (3),(c),(c)(4),(d),(d)(5), 25.177(c), 
+ 25.181(a),(b), 25.201(a)(2),(b)(4), 
+ 25.207(b),(c),(d),(e),(f), 25.231(a)(2), 
+ 25.233(a), 25.237(a),(b)(1),(b)(2), 
+ 25.735(f)(2),(g), 25.773(b)(1)(i), 
+ 25.1001(c)(1),(c)(3), 
+ 25.1323(c)(1),(c)(2), 25.1325(e), 
+ 25.1587(b)(2)"
+AT2251SETP3,"Flight Critical Thrust Reversers 
+ 25.933(a)(1)(ii)"
+AT2251SETP4,"Auxiliary Power Unit Induction System 
+ 25.1103(e)"
+AT2251SETP5,"Auxiliary Power Unit (APU) Instrumentation and Monitoring 
+ 25.1305(a)(3-6), 
+ Requirements and Operation as an Alternate Electrical Power Source 
+ (c)(l), (c)(3), (c)(4) 
+ and (c)(6)"
+AT2251SETP6,"Auxiliary Power Unit (APU) Operating Limitations 
+ 25.1522 and 
+ 25.1549"
+AT2251SETS1,"Overspeed Aural Warning 
+ 25.1303(c)(1)"
+AT2251SETS4,"Airplane Operation with Air Conditioning Packs Off During Takeoff 
+ 25.831(a)"
+AT4965SETA2,"Material Design Values 
+ 25.613"
+PS050123P1,"Ground Fault Interrupter Relays 
+ 25.981(a)(3)"
+PS050177P2,"Fuel Tank Flammability Rule (see Note 17) 
+ 25.981 (25-125)"
+PS060496F18,"Engine and Auxiliary Power Unit (APU) Fire Switch Handle Design 
+ 25.1555(d)(1)"
+PS080670C1,"Adhesives Used in Interior Panel Bent Joint Potting Applications 
+ 25.853(a)"
+PS130901ES1,"Oxygen Quantity Indication of the Lavatory Supplemental Oxygen 
+ 25.1441(c) 
+ System"
+PS131000C5,"Flammability Testing Hierarchy 
+ 25.853(a)(d), part 25 
+ appendix F parts I and 
+ IV"
+TC6918SET G8,"Formatting of Boeing Instructions for Continued Airworthiness Manuals 
+ 25.1529 (25-54) 
+ 25.1729(25-123) 
+ Airworthiness Limitations 
+ Appendix H (25-132)"
+TD2695SETC1,"Exterior Exit Markings 
+ 25.811(f)"
+TD7075SETC1,"Type III Exit Accessibility 
+ 25.803, 25.807(c), 
+ 25.813(c)"
+TS130005S1,"Determination of Minimum Oxygen Flow for the Lavatory Oxygen 
+ 25.1443(c) 
+ System 
+ Special Conditions with respect to the following subjects apply:"
+Special Condition,"Title 
+ Effective Date"
+25149SC,"Sudden Engine Stoppage 
+ 16 September, 1999"
+25152SC,"High Intensity Radiated Fields (HIRF) 
+ 3 January, 2000"
+25369SC,"Seats with Non-Traditional, Large, Non-Metallic Panels 
+ 17 March, 2008"
+25448SC,"Seats with Inflatable Lapbelts 
+ 6 October, 2011"
+25630SC,"Non-Rechargeable Lithium Batteries 
+ 22 April, 2017"
+"VIII - Model 767-2C (Approved December 21, 2017) 
+ Engines: Two Pratt and Whitney PW4062, Reference Engine Type Certificate No. E24NE 
+ Refer to the FAA approved Airplane Flight Manual identified in Note 2 for engine limitations. 
+ Fuel 
+ Jet A and Jet A-1 as specified in ASTM D1655 
+ JP-5 as specified in MIL-DTL-5624 
+ JP-8 as specified in MIL-DTL-83133 
+ Any other fuel specified in Pratt and Whitney Service Bulletin 2016 
+ Refer to the FAA approved Airplane Flight Manual listed in Note 2 for fuel limitations 
+ Engine Ratings  Operating Limits 
+ For engine ratings and operating limits see engine TC Data Sheet E24NE or the FAA Approved Airplane Flight Manual 
+ Airspeed Limits: VD = 420 KCAS to 17,854 ft/.91M above 23,000 ft, linear variation between these points. 
+ VFC = 390 KCAS to 17,600 ft/382 KCAS at 23,000 ft/.87M above 26,000 ft, linear variation between these points. 
+ VMO = 360 KCAS / .86M 
+ VLE = 270 KCAS / .82M 
+ VLO = 270 KCAS / .82M 
+ For other airspeed limits, see the appropriate FAA-Approved Airplane Flight Manual 
+ C. G. Range: See appropriate FAA approved Airplane Flight Manual. 
+ Maximum Weights: See appropriate FAA approved Airplane Flight Manual. 
+ Pilot Type Rating: The Boeing 767-2C has not been evaluated by the Flight Standards Board. No pilot type rating or training, checking 
+ and currency requirement determinations have been made. 
+ Maximum 
+ 14 (767-2C) 4 flight crew members in the flight deck and 10 supernumeraries in the aircrew member compartment 
+ Passengers 
+ Model 
+ Serial Numbers (See Note 19) 
+ 7672C 
+ 34052, 34077, 34086-34092, 34105-34115, 34121, 34124, 34126, 34127, 34134-34141, 41858, 41860, 
+ 41861, 41863- 41868, 41870, 41873, 41874, 41878, 41879, 41881, 41883-41886, 41888, 41889, 41984, 
+ 41985, 66585, 66622 
+ Certification Basis 
+ Title 14, Code of Federal Regulations (14 CFR) part 25 as amended by Amendments 25-0 through 25-136 with exceptions permitted 
+ by 14 CFR 21101 
+ SECTION No. 
+ TITLE 
+ AT AMDT 
+ EXCEPTION APPLIES TO: 
+ 25- 
+ 25.21 
+ Proof of compliance. 
+ 72 
+ Entire Airplane 
+ 25.103 
+ Stall speed. 
+ 108 
+ Entire Airplane 
+ 25.105 
+ Takeoff. 
+ 92 
+ Entire Airplane 
+ 25.107 
+ Takeoff speeds. 
+ 108 
+ Entire Airplane 
+ 25.111 
+ Takeoff path. 
+ 115 
+ Entire Airplane 
+ 25.119 
+ Landing climb: All-engines- 
+ 108.94 
+ Entire Airplane 
+ operating. 
+ 25.121 
+ Climb: One-engine-inoperative. 
+ 108 
+ Entire Airplane 
+ 25.123 
+ En route flight paths. 
+ 0 
+ Entire Airplane 
+ SECTION 
+ TITLE 
+ AT AMDT 
+ EXCEPTION APPLIES TO: 
+ No. 
+ 25- 
+ 25.125 
+ Landing. 
+ 108 
+ Entire Airplane 
+ 25.143 
+ General. 
+ 108 
+ Entire Airplane 
+ 25.207 
+ Stall warning. 
+ 108 
+ Entire Airplane 
+ 25.237 
+ Wind velocities. 
+ 108 
+ Entire Airplane 
+ 25.253(c) 
+ High-speed characteristics. 
+ N/A 
+ Entire Airplane 
+ 25.335(b)(2) 
+ Design airspeeds. 
+ 23 
+ Loads: 
+ Design Dive Speeds 
+ 25.365(e)(2) 
+ Pressurized cabin loads. 
+ 54* 
+ Section 41 and Underwing Structures 
+ * See paragraph below, “Additional 
+ Design Requirements and Conditions,” 
+ for information on required design 
+ features. 
+ 25.519(b)(2) 
+ Jacking & tie-down 
+ N/A* 
+ Primary Jacking Points 
+ * See paragraph below, “Additional 
+ provisions. 
+ Design Requirements and Conditions,” 
+ for information on required design 
+ features. 
+ 86* 
+ Structures1 
+ 25.571(a) 
+ Damage-tolerance and 
+ and (b), 
+ * See paragraph below, “Additional 
+ fatigue evaluation of 
+ except 
+ Design Requirements and Conditions,” 
+ structure. 
+ (b)(1) 
+ for information on required design 
+ features. 
+ through 
+ (b)(6) 
+ 25.603 
+ Materials. 
+ 38 
+ Empennage: 
+  Fin and Rudder (except wire 
+ brackets/installation on rear spar and 
+ fixed trailing edge panels between 
+ Rudder Sta. 230.97 and 305.87) 
+  Horizontal Stabilizer Elevators and Fix 
+ Engine Nacelle: 
+  Engine Nacelle Fan Cowl Panel 
+ Engine Pylon: 
+ Pylon Forward, Underwing, and Nacelle 
+ Fairings and all related fairing support 
+ structure 
+ 25.613 
+ Material strength properties and 
+ 0 
+ Fuselage: 
+  Nose Landing Gear Doors and 
+ design values. 
+ support structure 
+ Empennage: 
+  Fin and Rudder (except wire 
+ brackets/installation on rear spar and 
+ fixed trailing edge panels between 
+ Rudder Sta. 230.97 and 305.87) 
+  Horizontal Stabilizer Elevators and 
+ Fixed TE 
+ Engine Nacelle: 
+  Engine Nacelle Fan Cowl Panel 
+ Engine Pylon: 
+  Pylon Forward, Underwing, and 
+ Nacelle Fairings and all related 
+ fairing support structure 
+ Flight Control Systems: 
+  Primary Flight Control hydraulic 
+ equipment (except Elevator Feel 
+ Computer, and Elevator Feel Shift 
+ Module) 
+ Landing Gear Systems: 
+  Landing Gear Actuation System (except 
+ for gear extension/retractioncommand, 
+ alternate extend cable load limiter, and 
+ flight deck indication) 
+  Brake Control System (except for right 
+ brake control cable and antiskidlight and 
+ brake temperature indication) 
+ Nose Wheel Steering System 
+ SECTION No. 
+ TITLE 
+ AT AMDT 25- 
+ EXCEPTION APPLIES TO: 
+ 25.615 
+ Design properties. 
+ 23 
+ Fuselage: 
+  Nose Landing Gear Doors and support 
+ structure 
+ Empennage: 
+  Fin and Rudder (except wire 
+ brackets/installation on rear spar and 
+ fixed trailing edge panels between 
+ Rudder Sta. 230.97 and 305.87) 
+  Horizontal Stabilizer Elevators and 
+ Fixed TE 
+ Engine Nacelle: 
+  Engine Nacelle Fan Cowl Panel 
+ Engine Pylon: 
+  Pylon Forward, Underwing, and Nacelle 
+ Fairings and all related fairing support 
+ structure 
+ Flight Control Systems: 
+  Primary Flight Control hydraulic 
+ equipment (except Elevator Feel 
+ Computer, and Elevator Feel Shift 
+ Module) 
+ Landing Gear Systems: 
+  Landing Gear Actuation System (except 
+ for gear extension/retraction command, 
+ alternate extend cable load limiter, and 
+ flight deck indication) 
+  Brake Control System (except for right 
+ brake control cable and antiskid light 
+ and brake temperature indication) 
+ Nose Wheel Steering System 
+ 25.729 
+ Retracting mechanism. 
+ 42 
+ Landing Gear Systems: 
+ Electrical Subsystems Landing Gear 
+ Position Indication 
+ 25.735 
+ Brakes. 
+ 23 
+ Landing Gear Systems: 
+ Brake Control System (except for right 
+ brake control cable and antiskid light and 
+ brake temperature indication) 
+ Brakes. 
+ 92 
+ Landing Gear Systems: 
+ 25.735(a), 
+ (f)(1), (f)(2), 
+ Tires, Wheels, and Brakes 
+ (g), (h)(1) and 
+ (h)(2) 
+ 25.773(b)(2) 
+ Pilot compartment view. 
+ 23 
+ Flight Crew Operations: 
+ Pilot Compartment View 
+ 25.777 
+ Cockpit controls. 
+ 0 
+ Landing Gear Systems: 
+ Brake Control System (except for right 
+ brake control cable and antiskid light and 
+ brake temperature indication) 
+ SECTION No. 
+ TITLE 
+ AT AMDT 25- 
+ EXCEPTION APPLIES TO: 
+ 25.783 
+ Doors. 
+ 23 
+ Fuselage: 
+  Wing-to-Body Fairing Access Door 
+ Assy - ADP, Aft Fairing3 
+  Wing-to-Body Fairing Access Door 
+ Assy - Hydraulic Reservoir Fill, Aft 
+ Fairing3 
+  Wing-to-Body Fairing Access Door 
+ Assy - Pressure Bottle, Aft Fairing3 
+  Wing-to-Body Fairing Panel Assy - 
+ Pressure Relief Door, Aft Fairing3 
+  Wing-to-Body Fairing Door Assy - 
+ RAT, Aft Fairing3 
+  Wing-to-Body Fairing Underwing 
+ Fairing Access Panels/Doors3 
+ Fuselage Doors: 
+  Fwd Access Door 
+  EE Access Door 
+  Lower Fwd Small Cargo Door 
+  Lower Aft Small Cargo Door 
+  Aft Entry and Service Doors 
+  Overwing Exit Doors 
+  Electrical Subsystems Door Control and 
+ Indication 
+ Flight Deck Windows: 
+ Flight Deck No. 2 Openable Window3 
+ 25.783(c)(2) 
+ Doors. 
+ N/A* 
+ Fuselage Doors: 
+  Fwd Entry and Service Doors2 
+ * See paragraph below, “Additional 
+ Design Requirements and Conditions,” for 
+ information on required design features. 
+ 25.795(b)(1) 
+ Security considerations 
+ 106 
+ Entire Airplane 
+ 25.795(c)(2) 
+ Security considerations. 
+ 106* 
+ Entire Airplane4 
+ 25.809(a) 
+ Emergency Exit Arrangement. 
+ 34 
+ Escape Systems: 
+  Flight Deck Window Egress Viewing 
+ Means 
+ Overwing Exit and Aft Exit Windows 
+ Viewing Means 
+ 25.863 
+ Flammable fluid fire protection. 
+ 23 
+ Landing Gear Systems: 
+  Landing Gear Actuation System (except 
+ for gear extension/retraction command, 
+ alternate extend cable load limiter, and 
+ flight deck indication) 
+ Brake Control System (except for right 
+ brake control cable and antiskid light and 
+ brake temperature indication) 
+ 25.869 
+ Fire protection: Systems. 
+ N/A 
+ Landing Gear Systems: 
+  Landing Gear Actuation System (except 
+ for gear extension/retraction command, 
+ alternate extend cable load limiter, and 
+ flight deck indication) 
+ Brake Control System (except for right 
+ brake control cable and antiskid light and 
+ brake temperature indication) 
+ 25.1021 
+ Oil drains. 
+ 0 
+ Engine Systems: 
+ Engine Oil System (drainage hardware) 
+ 25.1091(e) 
+ Air induction. 
+ N/A 
+ Engine Systems: 
+ Engine Inlet Probe 
+ 25.1093(b) 
+ Induction system deicing and anti-icing 
+ 38 
+ Engine Systems: 
+ provisions. 
+ Engine Operability 
+ 25.1163(a) 
+ Powerplant accessories. 
+ 0 
+ Engine Systems: 
+ Engine Air Turbine Starter Oil System 
+ 25.1183 
+ Flammable fluid-carrying components. 
+ 57 
+ Engine Systems: 
+ Engine Air/Vent System (hardware) 
+ 25.1301 
+ Function and installation. 
+ 0 
+ Entire Airplane 
+ SECTION No. 
+ TITLE 
+ AT AMDT 25- 
+ EXCEPTION APPLIES TO: 
+ 25.1309 
+ Equipment systems and installations. 
+ 41 
+ Entire Airplane 
+ 25.1310 
+ Power source capacity and distribution. 
+ N/A 
+ Entire Airplane 
+ 25.1316 
+ System lightning protection. 
+ N/A* 
+ Avionics: 
+  Thrust Management Computer 
+ Flight Control Systems: 
+  Spoiler Control System Electronics Unit 
+  Spoiler Control Module 
+  High Lift System 
+ Landing Gear Systems: 
+  Brake Control System (except for right 
+ brake control cable and antiskid light 
+ and brake temperature indication) 
+ Environmental Control Systems: 
+  Ice and Rain Protection Systems 
+ (Window Heat System only) 
+ * See paragraph below, “Additional Design 
+ Requirements and Conditions,” for 
+ information on required design features. 
+ 25.1317 
+ High-intensity radiated fields (HIRF) 
+ N/A* 
+ Avionics: 
+  Thrust Management Computer 
+ protection. 
+ Flight Control Systems: 
+  Spoiler Control System Electronics Unit 
+  Spoiler Control Module 
+  High Lift System 
+ Landing Gear Systems: 
+  Brake Control System (except for right 
+ brake control cable and antiskid light 
+ and brake temperature indication) 
+ Environmental Control Systems: 
+  Ice and Rain Protection Systems 
+ (Window Heat System only) 
+ Engine Systems: 
+  Engine Control System 
+ *See paragraph below, “Additional Design 
+ Requirements and Conditions,” for 
+ information on required design features. 
+ 25.1353. 
+ Electrical equipment and installations. 
+ 42 
+ Landing Gear Systems: 
+  Landing Gear Actuation System (except 
+ for gear extension/retraction command, 
+ alternate extend cable load limiter, and 
+ flight deck indication) 
+ Brake Control System (except for right 
+ brake control cable and antiskid light and 
+ brake temperature indication) 
+ 25.1360 
+ Precautions against injury. 
+ N/A 
+ Landing Gear Systems: 
+  Landing Gear Actuation System (except 
+ for gear extension/retraction command, 
+ alternate extend cable load limiter, and 
+ flight deck indication) 
+ Brake Control System (except for right 
+ brake control cable and antiskid light and 
+ brake temperature indication) 
+ 25.1365(d) 
+ Electrical appliances, motors and 
+ N/A 
+ Primary Flight Controls 
+  Aileron lockout actuator 
+ transformers 
+  Lateral trim actuator 
+  Rudder trim actuator 
+  Autospeed brake actuator 
+  Stabilizer trim control module motor 
+ motor-operated valve 
+ Avionics 
+ High frequency transceiver equipment 
+ 25.1419 
+ Ice protection. 
+ 23 
+ Entire Airplane5 
+ SECTION No. 
+ TITLE 
+ AT AMDT 25- 
+ EXCEPTION APPLIES TO: 
+ 25.1431 
+ Electronic equipment. 
+ 0 
+ Landing Gear Systems: 
+ Brake Control System (except for right 
+ brake control cable and antiskid light and 
+ brake temperature indication) 
+ 25.1435 
+ Hydraulic systems. 
+ 41 
+ Flight Control Systems: 
+  Primary Flight Control hydraulic 
+ equipment (except Elevator Feel 
+ Computer, and Elevator Feel Shift 
+ Module) 
+  High Lift System 
+ Landing Gear Systems: 
+  Landing Gear Actuation System (except 
+ for gear extension/retraction command, 
+ alternate extend cable load limiter, and 
+ flight deck indication) 
+  Brake Control System (except for right 
+ brake control cable and antiskid light 
+ and brake temperature indication) 
+ Nose Wheel Steering System 
+ 25.1435 
+ Hydraulic systems. 
+ 72 
+ Flight Control Systems: 
+  Elevator Control System Feel Shift 
+ Module 
+ Elevator Control System Feel Computer 
+ Exception Notes: 
+ 1. 
+ The certification requirement for § 25.571(a) and (b) is Amendment 25-86. The certification requirement for 
+ §§ 25.571(b)(1), (b)(2), (b)(3), (b)(4), (b)(5) and (b)(6) is Amendment 25-132. 
+ 2. 
+ The certification requirement for the Forward Entry and Service Doors is § 25.783 Amendment 25-114, except that 
+ the self-latching requirement of § 25.783(c)(2) does not apply; the self-latching requirement of subparagraph (c)(2) did 
+ not exist prior to Amendment 25-114. 
+ 3. 
+ Section 25.783 is not applicable to this area at Amendment 25-23. 
+ 4. 
+ Compliance is not required (for the entire airplane) for the following regulations: §§ 25.795(c)(2), (c)(2)(i), and 
+ (c)(2)(ii) 
+ 5. 
+ Compliance with the ice protection requirements of § 25.1419 at Amendment 25-23 includes compliance with part 25 
+ appendix C at Amendment 25-0. 
+ Optional Design Requirements 
+ Ditching: §§ 25.801; 25.1411(d), (e), (f), and (g); and 25.1415 
+ Ice Protection: § 25.1419 
+ 14 CFR §26 
+ 14 CFR part 26 as amended by Amendment 26-1 through 26-6. For any future 14 CFR part 26 amendments, the holder of this 
+ TC must demonstrate compliance with the applicable sections. 
+ Compliance has been found for the following regulations: 
+ §26.11 at Amendment 26-0 
+ §26.49 at Amendment 26-1 
+ §§26.33 and 26.39 at Amendment 26-3 
+ §§26.43 and 26.45 at Amendment 26-4 
+ §26.21 at Amendment 26-6 
+ 14 CFR part 34 as amended by Amendments 34-1 through 34-5A 
+ 14 CFR part 36 as amended by Amendments 36-1 through 36-30 
+ Additional Design Requirements and Conditions (ADRC) for 767-2C: 
+ 14 CFR 21.35(a), (b)(2) and (f)(2) – All model 767-2C aircraft must be flown with a Boeing pilot in command prior to the 
+ completion of that aircraft model’s F&R testing. 
+ 14 CFR 25.365(e)(2) – Pressurized Compartment Loads for the Flight Deck Compartment, E/E Bay and Nose Wheel Well 
+ volumes of Section 41 and the Underwing Keel Beam Cavity. 
+ When evaluating these compartments for compliance with §25.365(e)(2) Amendment 25-54, the compartments must be 
+ analyzed in accordance with the conditions identified below. In lieu of the following, compliance with §25.365 at 
+ Amendment 25-87, may be shown: 
+ 1. Flight deck compartment - 840 in2 hole in the fuselage. 
+ 2. E/E Bay / Nose Wheel Well Compartment - 415 in2 hole in the fuselage. 
+ 3. Underwing Keel Beam Cavity - 115 in2 hole in the front spar bulkhead. 
+ 14 CFR 25.519(b)(2) – Jacking and tie-down provisions 
+ The following design features must be incorporated in the type design (reference § 25.519, Amendment N/A). In lieu of 
+ incorporating the following design features, compliance with § 25.519 at Amendment 25-81, may be shown: 
+ The primary jacking points on the body and wing shall be designed for the following ultimate conditions with the 
+ maximum jacking loads prescribed in the Maintenance Manual: 
+ a) 
+ Vertical 2.5 factor 
+ b) 
+ Vertical 2.0 factor and side 0.50 factor (acting singularly) 
+ c) 
+ Vertical 2.0 factor and longitudinal 0.50 factor (acting singularly) 
+ 14 CFR 25.571(a) and (b) [excluding (b)(1) through (b)(6)] – Damage-tolerance and fatigue evaluation of structure, Model 
+ 767-2C Airplane Structures. 
+ The following design features must be incorporated in the type design (reference §25.571(a) and (b), Amendment 25-86). 
+ In lieu of incorporating the following design features, compliance with §25.571(a) and (b), Amendment 25-132, may 
+ be shown: 
+ 1. 
+ For the Model 767-2C structure, an evaluation of the existing damage tolerance analysis (DTA) 
+ maintenanceactions must be performed to determine if any changes are required due to changes in 
+ loads, geometry, material, etc. New or changed maintenance actions for the 767-2C must be included 
+ in the Airworthiness Limitations Document D011T030-01-01 in accordance with §25.571(a)(3) at 
+ Amendment 25-86. 
+ 2. 
+ The above evaluation must include loading magnitudes and loading spectra which are developed in 
+ accordance with § 25.571 at Amendment 25-96. This includes usage of the 1.15 factor for pressure acting 
+ alone in accordance with § 25.571(b)(5) at Amendment 25-96. 
+ 3. 
+ Maintenance instructions must be based on in-service data and fatigue testing to ensure freedom from 
+ widespread fatigue damage. 
+ 14 CFR 25.783(c)(2) – Doors. Forward Entry and Service Doors 
+ The following design features must be incorporated in the type design (reference § 25.783(c)(2), Amendment N/A). In lieu 
+ of incorporating the following design features, compliance with § 25.783(c)(2) at Amendment 25-114, may be shown: 
+ These doors must remain open to the extent necessary to prevent pressurization or safely close (but not latch) as 
+ pressurization takes place. 
+ 14 CFR 25.1316 – System Lightning Protection 
+ The following design features must be incorporated in the type design (reference § 25.1316, Amendment N/A). In lieu of 
+ incorporating the following design features, compliance with § 25.1316 at Amendment 25-134, may be shown: 
+ 1. 
+ Thrust Management Computer (TMC). The following design features are required to minimize exposure of 
+ the TMC to coupled lightning transients: 
+ a. 
+ TMC wiring routed to the Electronic Engine Control (inside the pressure vessel) must incorporate 
+ enhanced shielding, i.e. have a single, braided shield, grounded at every break. 
+ b. 
+ TMC wiring routed to the Electronic Engine Control (outside the pressure vessel) must incorporate 
+ enhanced shielding, i.e., have a second layer of shielding (typically overbraid) applied to it, and the 
+ majority of this shielding must be terminated peripherally at pressure hull, at outboard equipment, and 
+ all disconnects between the outboard equipment and pressure hull. 
+ 2. 
+ Window Heat System. The following design features are required to minimize exposure of the Window 
+ Heat System to coupled lightning transients: 
+ a. 
+ The power and sensor wiring between the Window Heat Control Unit and the No. 1 flight deck window 
+ must be shielded. 
+ 14 CFR 25.1317 High-intensity Radiated Fields (HIRF) Protection 
+ The following design features must be incorporated in the type design (reference § 25.1317, Amendment N/A). In lieu of 
+ the following, compliance with § 25.1317 at Amendment 25-122, may be shown: 
+ 1. 
+ Electronic Engine Control System (EECS). The following design features are required to minimize 
+ exposure of the EECS to internal HIRF fields. 
+ a. 
+ The EECS must comply with Special Condition 25-ANM-18, dated April 29, 1988. 
+ b. 
+ All on-engine EECs wiring must incorporate enhanced shielding, i.e., have a second layer of shielding 
+ (typically overbraid) applied to it, and the majority of this shielding must be terminated peripherally, 
+ rather than with multi-inch long jumper wires. 
+ c. 
+ RF shielding of the EECS is required as part of the engine nacelle type design as follows: 
+ i. 
+ The fan cowl shall have a ply of BMS8-336 expanded aluminum foil or equivalent on the OML 
+ surfaces. 
+ ii. 
+ The fan cowl and its access doors shall have a ply of BMS8-289 aluminum foil or equivalent on 
+ their IML which shall be in electrical physical contact with the adjacent nacelle components when 
+ closed. 
+ iii. 
+ An aluminum foil layer must be incorporated on the forward strut fairing panels. 
+ 2. 
+ Thrust Management Computer (TMC). The following design features are required to minimize exposure of 
+ the TMC to internal HIRF fields: 
+ a. 
+ TMC wiring routed to the Electronic Engine Control (inside the pressure vessel) must incorporate 
+ enhanced shielding, i.e. have a single, braided shield, grounded at every break. 
+ b. 
+ TMC wiring routed to the Electronic Engine Control (outside the pressure vessel) must incorporate 
+ enhanced shielding, i.e., have a second layer of shielding (typically overbraid) applied to it, and the 
+ majority of this shielding must be terminated peripherally at pressure hull, at outboard equipment, and 
+ all disconnects between the outboard equipment and pressure hull. 
+ 3. 
+ Window Heat System. The following design features are required to minimize exposure of the Window 
+ Heat System to internal HIRF fields: 
+ a. 
+ The power and sensor wiring between the Window Heat Control Unit and the No. 1 flight deck window 
+ must be shielded. 
+ Ignition System 
+ The engine in-flight start demonstration flight test conditions should be performed using the most critical single ignition 
+ configuration. The configuration(s) selected should be based on a consideration of the most critical igniter position, 
+ the most critical applicable ignition power configuration, and the most critical igniter plug adjustment. 
+ In-Flight All-Engines Restart 
+ A minimum restart capability after an all-engines-out scenario must be established under the following conditions using 
+ procedures provided in the airplane flight manual (AFM): 
+ a. 
+ During the take-off and the initial climb-out portion of the flight, the airplane should have the capability for the 
+ flight crew to restore engine power immediately following an all-engine-out scenario and when the fuel source to 
+ the engine is restored. 
+ b. 
+ During the high altitude portion of the flight at cruise speed and maximum altitude, the airplane should have the 
+ capability for the flight crew to restart engines from a stabilized windmill speed prior to descending below an 
+ altitude of 15,000 feet, by showing either or both: 
+ 1) 
+ All but one engine should be restarted and accelerated to produce maximum continuous thrust/power, or 
+ 2) 
+ The engine(s) should be restarted, and the necessary thrust/power achieved, to enable the airplane to 
+ maintain level flight. 
+ c. 
+ During flight at speeds greater than the minimum flaps-up “holding speed” and at altitudes below 20,000 feet, the 
+ airplane should have the capability for the flight crew to restart engines from a stabilized windmill speed prior to 
+ descending 5000 feet from the initiation of the restart procedure and prior to exceeding an airspeed of 300 knots, 
+ by showing either or both: 
+ 1) 
+ All but one engine should be restarted and accelerated to produce maximum continuous thrust/power, or 
+ 2) 
+ The engine(s) should be restarted, and the necessary thrust/power achieved, to enable the airplane to 
+ maintain level flight. 
+ Protection of Critical Systems Located in or in the Vicinity of the Main Deck Class E Cargo Compartment from the Effects of a 
+ Cargo Fire 
+ 1. 
+ Following fire/smoke detection, the crew must follow the AFM procedure to depressurize the cabin and ascend or 
+ descend the airplane to an altitude of 25,000 feet until final descent to a suitable airport is possible. 
+ 2. 
+ A main deck stationary smoke barrier must be installed between the occupied areas and the main deck cargo 
+ compartment. The barrier and associated joints will be tested to meet the requirements of 14 CFR part 25 appendix F 
+ part III (refer to Amendment 25-60). 
+ 3. 
+ Class E cargo compartment liners will be tested to meet the requirements of 14 CFR part 25 appendix F part III (refer 
+ to Amendment 25-60), except at the locations identified below: 
+ a) 
+ Dado Panels (Vented and Non-Vented) located along the sidewall at the floor of the main deck cargo 
+ compartment. 
+ b) 
+ Door Liner and Doorway Liner Materials and Joints (Main Deck Cargo Door, Aft Passenger and Service Doors, 
+ Emergency Escape Hatch), including joints covering door operating mechanisms, latches, door tracks and hinges. 
+ c) 
+ Aft Lowered Ceiling Area, STA 1459 to the Aft Pressure Dome. 
+ 4. 
+ Critical systems and wiring located behind, or in close proximity to features excluded in section 3, must be protected 
+ with any one, or combination of the methods listed in section 5. 
+ 5. 
+ Protection of critical systems and the electrical interconnection wiring systems (EWIS) components required for 
+ continued safe flight and landing, located in, or in close proximity to the Class E compartment must be accomplished 
+ by any one, or combination of the following: 
+ a) 
+ Routing below the main deck floor and outside of the cargo compartment; 
+ b) 
+ Routing behind fire resistant liners that meet the requirements of 14 CFR part 25 appendix F part III (refer to 
+ Amendment 25-60); 
+ c) 
+ Use of fire hardened EWIS components or insulation where required to protect wire in locations subject to 
+ potential high temperatures on the backside of cargo liners and above ceiling panels; 
+ d) 
+ Routing redundant EWIS on opposite sides of the main deck floor and/or opposite sides of the crown area, and/or with 
+ a minimum separation of 6 feet; 
+ e) 
+ Routing redundant control cables to meet separation requirements; 
+ f) 
+ Placement of air dams or fire stops behind cargo liners as required to prevent propagation of fire behind the liner; 
+ g) 
+ Placement of special fire resistant covers behind air return grilles, decompression vents, and dados as required. 
+ Exemptions: The following Exemptions are applicable to the 767-2C: 
+ Exemption 
+ Applicable Section 
+ Title 
+ Date Issued Comments 
+ Number 
+ 12920A1 
+ 21.35(a),(b)(2) and 
+ Conduct Function and ReliabilityTesting 
+ 3/9/2017 
+ Time Limited 
+ (f)(2) 
+ After TC 
+ Exemption: Termination 
+ Date April 24, 2018. 
+ 10861 
+ 25.562(b)(2) 
+ Floor Warpage - Testing Requirement for 
+ 9/8/2013 
+ Flight Deck Seats 
+ 11068 
+ 25.777(a) 
+ Flight Deck Provisions 
+ 9/19/2014 
+ 25.1301(a)(b)(d) 
+ 25.1309(a)(c) 
+ 10691 
+ 25.785(j) 
+ Carriage of Supernumeraries with Main Deck 
+ 1/28/2013 
+ 25.795(b)(2), (c)(1),(c)(3) 
+ Class E In-Flight Accessand No Auto-Presenting 
+ 25.809(a) 
+ Oxygen Dispensing Units and 10% Overage in 
+ 25.810(a)(1) 
+ the Aircrew and CargoCompartments 
+ 25.857(e) 
+ 25.1447(c)(1) 
+ 10866 
+ 25.841(a)(2)(i), 
+ Pressurized Cabins – UncontainedEngine 
+ 9/11/2013 
+ Partial Exemption 
+ (a)(2)(ii) 
+ Failure 
+ 8119 
+ 25.901(c) 
+ No Single Failure 
+ 6/11/2003 
+ Partial Exemption 
+ 11086A 
+ 25.961(a)(5) 
+ Fuel System Hot Weather 
+ 3/10/2016 
+ Operations with JP-4 
+ 10884A 
+ 25.981(a)(3) 
+ Fuel Tank Structural 
+ 12/15/2017 
+ Lightning Ignition Protection 
+ 17591 
+ 25.1329(j) 
+ Autopilot Disconnect 
+ 10/17/2017 Time Limited Exemption: 
+ Termination Date: 
+ December 31, 2019 
+ 17631 
+ 25.1322(d)(1) 
+ Windshear Detection andWarning 
+ 11/2/2017 
+ Time Limited Exemption: 
+ System 
+ Termination Date: 
+ December 31, 2019 
+ 176332 
+ 25.903(d)(1) 
+ Minimization of Hazards fromEngine 
+ 11/3/2017 
+ Line-Limited 
+ Rotor Failure 
+ 176673 
+ 25.863(a) 
+ APU Forward Firewall 
+ 11/28/2017 Line Limited 
+ 25.1191(b)(1) 
+ 17651 
+ 25.959 
+ Center Tank Fuel Management 
+ 11/17/2017 Time Limited Exemption: 
+ 25.1322(d)(1) 
+ Termination Date: 
+ December 31, 2019 
+ 17658 
+ 25.1301(a), (d) 
+ Altitude Callouts 
+ 11/22/2017 Time Limited Exemption: 
+ Termination Date: 
+ December 31, 2019 
+ 17686 
+ 25.995(b) 
+ Fuel Valve Installations 
+ 12/15/2017 
+ 7672C Exemptions Notes 
+ 1. 
+ Function and Reliability Testing completed on 1/31/2018. 
+ 2. 
+ Exemption is limited to the first 32 767-2C model airplanes produced (through production Line Number 1145) 
+ 3. 
+ Exemption is limited to the first 41 767-2C model airplanes produced (through production Line Number 1164) 
+ Equivalent Safety Findings (ESF’s) exist with respect to the following sections of 14 CFR Part 25: 
+ ELOS IP 
+ Title 
+ 14 CFR 
+ PS050212F4 
+ Longitudinal Trim 
+ 25.161(a),(c)(3), 
+ 25.1301(a), 25.1309(a) 
+ PS090863A2 
+ Flight Flutter Test Requirement 
+ 25.629(e) 
+ PS050212SF1 
+ Wing Flap Control Lever 
+ 25.777(e) 
+ PS090863C2 
+ Other Exits in the Cargo Compartment 
+ 25.807(h)(2) 
+ AT2251SETC2 
+ Escape Slide Inflation Times 
+ 25.810(a)(1)(ii) 
+ PS050020ES3 
+ Acceptable High Temperature Physiological EnvironmentDuring 
+ 25.831(g) 
+ Failure Conditions 
+ PS090863P11 
+ Display of Powerplant Instruments 
+ 25.1549(b) 
+ PS090863P5 
+ Flammability Exposure Evaluation Time 
+ 25.981(b) 
+ Appendix N25.3 
+ AT2251SETP4 
+ Auxiliary Power Unit Induction System 
+ 25.1103(e) 
+ PS090863P9 
+ Fire Safety Requirements for PW4062 Fan Compartment 
+ 25.1181(b) 
+ 25.1182(a) 
+ PS090863P8 
+ Engine Aft Fairing and Main Strut Fire Safety Requirements 
+ 25.1183(a) 
+ 25.1189(a),(d) 
+ PS050212P16 
+ Fireproof Cowling and Nacelle Skin 
+ 25.1193(e)(3) 
+ PS090863P4 
+ Auxiliary Power Unit (APU) Compartment Fireproof Skin Requirements 
+ 25.1193(e)(3) 
+ PS090863P12 
+ Pressure Fueling System 
+ 25.979(b)(1) 
+ TC6918SETSA11 
+ Overspeed Aural Warning 
+ 25.1303(c)(1) 
+ 25.1305(a)(3),(a)(4), 
+ AT2251SETP5 
+ Auxiliary Power Unit (APU) Instrumentation and Monitoring 
+ (a)(5),(a)(6),(c)(1),(c)(3), 
+ Requirements and Operation as an AlternateElectrical Power Source 
+ (c)(4),(c)(6) 
+ PS090863SE1 
+ Forward Position and Anti-Collision Lights 
+ 25.1387(b),(c) 
+ 25.1401(b) 
+ PS090863SE3 
+ Forward and Rear Position Light Distribution and Intensities 
+ 25.1389(b)(3) 
+ PS090863SE8 
+ Engine Electrical Wiring Interconnection System (EWIS) – 
+ 25.1713(c) 
+ Fire Protection 
+ TC6918SETF4 
+ Rough Air Speed (VRA) 
+ 25.1517 
+ AT2251SETP6 
+ Auxiliary Power Unit (APU) Operating Limitations 
+ 25.1522 
+ 25.1549 
+ TC6918SETG8 
+ Formatting of Boeing Instructions for Continued Airworthiness 
+ 25.1529 
+ Manuals - Airworthiness Limitations 
+ 25.1729 
+ Appendix H25.4 
+ PS060496F18 
+ Engine and Auxiliary Power Unit (APU) Fire 
+ 25.1555(d)(1) 
+ Switch Handle Design 
+ PS090863EE3 
+ Early Extended Operations (ETOPS) Method AuxiliaryPower Unit 
+ 25.1535 
+ (APU) Validation Test 
+ K25.2.2((f) 
+ PS090863P19 
+ Fuel Tank Ignition Prevention – Hot Surface Ignition 
+ 25.981(a) 
+ Temperature 
+ PS090863P37 
+ Fuel Pump Control and Indication 
+ 25.901(c) 
+ 25.981(a)(3) 
+ PS170570EE2 
+ Engine- Condition Monitoring, Early Extended Operations (ETOPS) 
+ Appendices K25.1.5, 
+ Method Propulsion System Design and ValidationTest 
+ K25.2.2(b)(1) & (d) 
+ Special Conditions: The following Special Conditions are applicable to the Model 767-2C: 
+ Special Condition 
+ Title 
+ Effective Date 
+ Boeing Model 767 Series Airplanes With Pratt & Whitney PW4000 Series 
+ 25ANM18 
+ Engines:Lightning Protection, Protection from Unwanted Effects of Radio 
+ 4/29/1988 
+ Frequency (RF) Energy, and Propulsion Control System 
+ 25149SC 
+ Sudden Engine Stoppage 
+ 9/16/1999 
+ 25571SC 
+ Interaction of Fuel Systems and Structures 
+ 11/24/2014 
+ Isolation of Aircraft Electronic System Security Protection from Unauthorized 
+ 25574SC 
+ InternalAccess 
+ 2/26/2015 
+ 25575SC 
+ Aircraft Electronic System Security Protection from Unauthorized External Access 2/26/2015 
+ 25630SC 
+ Non-Rechargeable Lithium Batteries and Battery Systems 
+ 4/22/2017 
+ Production Basis 
+ Production Certificate No. 700 has been issued to The Boeing Company See Note 13. 
+ Required Equipment: The basic required equipment as prescribed in the applicable Federal Aviation Regulations must be installed in the 
+ aircraft. 
+ Service Information: Boeing Document D634T201 (D634T245 for 767-2C) ""Structural Repair Manual"" is FAA-approved. Service Bulletins 
+ and other service information when FAA-approved shall carry a statement to that effect. 
+ DATA PERTINENT TO ALL MODELS",
+Maximum,"43,100 feet"
+Operating Altitude 40100 feet 7672C,"Leveling Means: Two inclinometers, plumb bob support and target (scale), left main gear well."
+Datum,"Sta 0.0, located 92.5 in forward of airplane nose (B.S. 92.5)."
+MAC,237.5 inches
+Control Surface,"Control surfaces must be rigged in accordance with Boeing Drawings 251T1001, 251T2001, 251T3001, 251T4001,"
+Movements,"254T7001, 257T4001, 256T1001, 256T2001, 256T3001."
+Note 1,"A current Weight & Balance Report must be in each aircraft at the time of original airworthiness certification and at all 
+ timesthereafter except in the case of an operator having an FAA approved loading system for weight and balance 
+ control."
+Note 2,"Airplane operation must be in accordance with the FAA-Approved Airplane Flight Manual. All placards required by 
+ either FAA- Approved Airplane Flight Manual, the applicable operating rules, or the Certification Basis must be 
+ installed in the airplane. 
+ Boeing Document No. D6T11320 is the basic FAA Approved Airplane Flight Manual for Pratt and Whitney powered 
+ Model767-200/-300/-2C airplanes. 
+ Boeing Document No. D6T11321 is the basic FAA Approved Airplane Flight Manual for GE powered Model 767- 
+ 200/-300 airplanes. 
+ Boeing Document No. D631T001 is the basic FAA Approved Airplane Flight Manual for Model 767-400ER airplanes."
+Note 3,"The FAA approved Airworthiness Limitations Section of the Instructions for Continued Airworthiness are referenced 
+ in Maintenance Planning Data Document (MPD) Section 9 - Airworthiness Limitations and Certification Maintenance 
+ Requirements; Boeing Document D622T001-9. The Airworthiness Limitations section is FAA-approved and specifies 
+ maintenance required under 14 CFR §§ 43.16 and 91.403, unless an alternative program has been FAA approved. 
+ The operational limitations and maintenance tasks set forth in the following documents constitute the Airworthiness 
+ Limitations of the Boeing 767-200/300/300F/400ER model airplanes. For airplanes delivered after April 5, 2019, the 
+ applicable revision level of each of these documents is listed on the airplane-specific Revision Effectivity Report (RER) MPE- 
+ RER-767-LNXXXX letter of each airplane. Airplane operators are required to observe the limitations and perform the 
+ maintenance tasks per the specified revision level or a later FAA-approved revision of the documents. 
+ The following documents are the FAA approved requirements to comply with 14 CFR §§ 25.571, 25.981, 25.1529, 43.16 and 
+ 91.403: 
+ Boeing Document 
+ Title 
+ Description 
+ D622T001-9-01 
+ 767-200/300/300F/ 
+ Contains required structural inspections and the retirement times 
+ 400ER Airworthiness 
+ for structural safe-life and life-limited parts. Also contains 
+ Limitations (AWLs) 
+ required retirement times for systems life-limited parts and other 
+ systems limitations. 
+ D622T001-9-02 
+ 767-200/300/300F/ 
+ Existing structures AWLs that were impacted by airplane 
+ production non-conformances may result in airplane specific 
+ 400ER Airworthiness 
+ revised inspection requirements and/or inspection intervals. 
+ Limitations – Line 
+ Number Specific 
+ D622T001-9-03 
+ 767-200/300/300F/ 
+ Required periodic tasks to specific Systems installations. 
+ 400ER Certification 
+ Maintenance 
+ Requirements (CMRs) 
+ D622T001-9-04 
+ 767-200/300/300F/ 
+ This document lists and provides instructions for Airworthiness 
+ Limitation Instructions (ALIs) and Critical Design Configuration 
+ 400ER Special 
+ Compliance Items/ 
+ Control Limitations (CDCCLs) required to comply with 14 CFR 
+ Part 25.981 
+ Airworthiness 
+ Limitations 
+ D622T001-DTR 
+ 767-200/300/300F/ 
+ This document contains completed (filled) DTR Check Forms. 
+ 400ER Damage 
+ These forms were used to develop a suggested Supplemental 
+ Tolerance Rating (DTR) 
+ Structural Inspection Program (SSIP) which is part of the SSIP in 
+ Check Form Document 
+ the Maintenance Planning Data document D622T001. These 
+ completed DTR Check Forms also serve as examples to assist 
+ operators while completing their own DTR Check Forms. 
+ 767-2C 
+ The FAA approved Airworthiness Limitations Section of the Instructions for Continued Airworthiness are referenced in 
+ Maintenance Planning Data Document (MPD) Section 9 - Airworthiness Limitations and Certification Maintenance 
+ Requirements; Boeing Document D011T030-01. The Airworthiness Limitations section is FAA-approved and specifies 
+ maintenance required under 14 CFR 43.16 and 91.403 of the Federal Aviation Regulations, unless an alternative program has 
+ been FAA approved. 
+ The operational limitations and maintenance tasks set forth in the following documents constitute the Airworthiness 
+ Limitations of the Boeing 767-2C model airplanes. For airplanes delivered after December 2, 2019, the applicable revision 
+ level of each of the MPD Section 9 sub-tier documents (D011T030-01-01, D011T030-01-02, D011T030-01-03, D011T030- 
+ 01-04) and the 767-2C Damage Tolerance Rating (DTR) Check Form Document (D011T030–04) is listed on the airplane- 
+ specific Revision Effectivity Report (RER) MPE-RER-7672C-LNXXXX letter of each airplane. Airplane operators are 
+ required to observe the limitations and perform the maintenance tasks per the specified revision level or a later FAA- 
+ approved revision of the documents. 
+ The following documents are the FAA approved requirements to comply with 14 CFR 25.571, 25.981, 25.1529, 25.1729, 
+ 43.16 and 91.403: 
+ Boeing Document 
+ Title 
+ Description 
+ Contains required structural inspections and the retirement times 
+ D011T030-01-01 
+ 767-2C Airworthiness 
+ for structural safe-life and life-limited parts. Also contains 
+ Limitations (AWLs) 
+ required retirement times for systems life-limited parts and other 
+ systems limitations. 
+ Existing structures AWLs that were impacted by airplane 
+ D011T030-01-02 
+ 767-2C Airworthiness 
+ Limitations (AWLs) – 
+ production non-conformances may result in airplane specific 
+ Line Number Specific 
+ revised inspection requirements and/or inspection intervals. 
+ D011T030-01-03 
+ 767-2C Certification 
+ Required periodic tasks to specific Systems installations. 
+ Maintenance 
+ Requirements (CMRs) 
+ Boeing Document 
+ Title 
+ Description 
+ This document lists and provides instructions for Airworthiness 
+ D011T030-01-04 
+ 767-2C Special 
+ Compliance Items 
+ Limitation Instructions (ALIs) and Critical Design Configuration 
+ (SCIs) /Airworthiness 
+ Control Limitations (CDCCLs) required to comply with 14 CFR 
+ Limitations 
+ Part 25.981 
+ This document contains the EWIS Instructions for Continued 
+ D011T030-01-05 
+ 767-2C Electrical 
+ Wiring Interconnection 
+ Airworthiness tasks and procedures in compliance with Title 14 
+ Systems (EWIS) 
+ CFR 25.1729 that must be incorporated into the operator’s EWIS 
+ Document 
+ maintenance program. 
+ D011T030–04 
+ 767-2C Damage 
+ This document contains completed (filled) DTR Check Forms. 
+ Tolerance Rating 
+ These forms were used to develop a suggested Supplemental 
+ (DTR) Check Form 
+ Structural Inspection Program (SSIP) which is part of the SSIP in 
+ the Maintenance Planning Data document D011T030. These 
+ Document 
+ completed DTR Check Forms also serve as examples to assist 
+ operators while completing their own DTR Check Forms."
+Note 4,"Systems and Powerplant Certification Maintenance Requirements (CMR): The CMRs are listed in either the FAA- 
+ approved Certification Maintenance Requirements (CMRs) Document D622T001-9-03 (D011T013-01-03 for 767-2C) 
+ or the applicableengine Type Certificate Data Sheet. The more restrictive requirement from these two documents shall be 
+ in force."
+Note 5,"Crew procedures identified as required by engineering failure analyses in Boeing Document D230T405 must not be 
+ changed unless approved by FAA Seattle Aircraft Certification Office."
+Note 6,"The following requirements apply to the design features at the required Type III overwing emergency exits: 
+ 1. 
+ With one pair of Type III exits there must be an unobstructed cross-aisle at least 20 inches wide between main aisles in 
+ closeproximity to the overwing exit pair. With two pair of Type III exits, the cross-aisle must be in close proximity to 
+ both exit pairs. 
+ 2. 
+ Emergency lighting for the cross aisle must be provided in accordance with FAR 25.812. 
+ 3. 
+ The seat pitch at the seat row that provides access to each overwing exit from the main-aisle must be not less than 36 Inches. 
+ 4. 
+ A maximum of two inches of seat cushion may encroach into the actual projected opening of the exit, provided 
+ that thecushion can be readily compressed"
+Note 7,"The type design reliability and performance of this airplane has been evaluated in accordance with FAA Advisory Circular 
+ 120- 42A and found suitable for extended operations when configured in accordance with Boeing Document D6T11604 
+ ""CONFIGURATION, MAINTENANCE AND PROCEDURES FOR EXTENDED RANGE(ER) OPERATION"". This 
+ finding does not constitute approval to conduct extended operations. 
+ The type-design reliability and performance of the Models 767-300BCF and 767-200SF have been evaluated under 14 
+ CFR§25.1535 and found suitable for up to 180 minutes extended operations (ETOPS) when the configuration, 
+ maintenance, and procedures standard contained in Boeing Document D6T11604 ""CONFIGURATION, 
+ MAINTENANCE AND PROCEDURES FOR EXTENDED RANGE (ER) OPERATION"" are met. The actual maximum 
+ approved diversion time for this airplane may be less based on its most limiting system time capability. This finding does 
+ not constitute operational approval to conduct ETOPS. 
+ The type-design reliability and performance of the Model 767-2C have been evaluated under 14 CFR 25.3(b)(1) and 
+ 25.1535 and found suitable for up to 180 minutes extended operations (ETOPS) when the configuration, maintenance, and 
+ procedures standard contained in Boeing Document D922T010-01 ""767-2C Configuration, Maintenance and Procedures"" 
+ are met. The actual maximum approved diversion time for this airplane may be less based on its most limiting system time 
+ capability. This finding does not constitute operational approval to conduct ETOPS."
+Note 8,"There are service bulletins which call for modifications which do not comply with the Type Certification Basis. These 
+ service bulletins are listed in Boeing Document D624T001 ""Service Bulletin 767"". The records of airplanes imported into 
+ the USA should be reviewed to be sure that further modifications are accomplished to ensure compliance, if the non FAA- 
+ approved service bulletins modifications have been installed."
+Note 9,"The Engine Indication and Crew Alerting System (EICAS) provides displays of engine parameters, crew messages of non- 
+ normal conditions, system status maintenance data. EICAS messages are divided into the following categories: 
+ WARNING - Red message, immediate crew action required. 
+ CAUTION - Amber message, subsequent crew action required. 
+ ADVISORY - Indented amber message, possible subsequent crew action required. 
+ STATUS - White message appears on EICAS Status page, provides readiness for dispatch information which require crew 
+ awareness prior to dispatch. 
+ MAINTENANCE - White message appears on ECS/MSG page of EICAS, for use of maintenance personnel only."
+Note 10,"Airplane line numbers 231 and subsequent were manufactured after August 20, 1988, and Airplane line numbers 322 
+ and subsequent were manufactured after August 20, 1990 (Reference FAR 121.312(a)(1) and (2), Amendment 121-198). 
+ Airplanes 322 through 326 are exempt (Exemption No. 5176A). See Boeing Service Bulletin Index, D6-30300, for cross 
+ reference of line number to serial number to block number."
+Note 11,"The Pratt and Whitney PW4000 series, General Electric CF6-80C2 FADEC series, and Rolls Royce RB211-524H-36 or 
+ RB211- 524H-T-36 series engine type certificate data sheets define allowable dispatch criteria with certain faults present 
+ in the engine control system. The three fault categories defined in the engine type data sheets correspond to the following 
+ Boeing EICAS messages. 
+ Engine Fault Level 
+ RB-211-524H, T 
+ PW4000 
+ CF6-80C2 FADEC 
+ EICAS Boeing Message Category 
+ C 
+ A 
+ C 
+ ENG CONTROL-ADVISORY 
+ C1 
+ B 
+ C1 
+ ENG EEC C1 – STATUS 
+ C2 
+ C 
+ C2 
+ ENG EEC C2 - MAINTENANCE"
+Note 12,"Exemption 5993A for the 767-300F requires that the procedures found to be acceptable during the emergency evacuation 
+ demonstration be incorporated into the approved operator's procedures. Any deviation requires coordination with FAA 
+ Seattle Aircraft Certification Office."
+Note 13,"The following Serial Number was produced under Type Certificate only: 
+ 27240"
+Note 14,"CF6-80C2 series engines incorporating Dribble Flow Fuel Nozzles PN 9331M72P33, P34 and P41 are prohibited from the 
+ use of JP-4 and Jet B (wide cut) fuel."
+Note 15,"Use of JP-4 and Jet B (wide cut) fuel is prohibited when one or two Rolls-Royce RB211-524H-T-36 series engines are 
+ installed."
+Note 16,"Mandatory replacement times, inspection intervals, related inspection procedures and all critical design configuration control 
+ limitation for the fuel tank system determined during the Special Federal Aviation Regulation No. 88 program and for 
+ compliance with 14 CFR 25.981 are listed in the FAA-approved Special Compliance Items (SCls)/Airworthiness 
+ Limitations Document D622T001-9-04 (D011T030-01-04 for 767-2C)."
+Note 17,"An Equivalent Safety Finding for the Flammability Reduction System (FRS), 14 CFR 25.981 at Amendment 25-125 is 
+ applied if fuel tank inerting is installed in new airplane production (starting with line # 993) or as a modification on existing 
+ in service aircraft per Boeing Service Bulletin 767-47-0001. Airworthiness Limitations for the FRS are contained in Section 
+ 9 of the applicable Maintenance Planning Document."
+Note 18,"The FAA has concluded that the occurrence of any uncontrollable high thrust failure condition, or any of the associated causal 
+ failures listed within Boeing Document D332N402, “may endanger the safe operation of an airplane” and hence are reportable 
+ under §§ 121.703 (c), 125.409 (c), and 135.415(c)."
+Note 19,"KC-46A airplanes are tanker/cargo versions of the Model 767-2C. Prior to operation as a commercial aircraft, the following 
+ must be accomplished: 
+ a) 
+ The maintenance, overhaul and modification records of each aircraft must be reviewed for changes made by the 
+ military services that may affect the airworthiness of the aircraft. Modifications, changes of equipment and repairs, 
+ which affect the safety or performance of the aircraft, must be approved by the FAA 
+ b) 
+ All aircraft returned to civil operations must comply with all applicable Airworthiness Directives 
+ c) 
+ All items that are not FAA approved must be removed from the aircraft if they affect the safety or performance of the 
+ aircraft. 
+ d) 
+ Each deviation from the FAA approved type design as listed on FAA Form 8130-31 “Conformity Certificate – Military 
+ Aircraft” that is required for civil certification must be corrected per FAA approved data. 
+ The following serial numbers were produced as part of the ATC project and have not been reworked to the type design 
+ configuration to be eligible for a Standard Airworthiness Certificate: 34054, 41273-41275, 41852, 41855, 41856, 41983"

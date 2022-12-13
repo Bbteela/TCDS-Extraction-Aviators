@@ -1,0 +1,416 @@
+Keyterm,Info
+"A56CE 
+ Revision 9 
+ Polskie Zakłady Lotnicze 
+ Sp. z o.o., Mielec 
+ PZL M28 05 
+ July 1, 2021",
+Type Certificate Holder,"Polskie Zakłady Lotnicze Sp. z o.o. 
+ Wojska Polskiego 3 
+ 39-300 Mielec 
+ Poland"
+"I. 
+ Model PZL M28 05, Twin-engine airplane, (Commuter Category), approved March 19, 2004",
+Engines,"2 (ea) Pratt & Whitney Canada, model PT6A-65B turboprops with a free 
+ turbine in reverse arrangement, reduction ratio of 0.0568:1."
+Fuel,"Aviation kerosene, type JET-A, JET A-1, JET A-2, and their 
+ equivalents as per P&WC Bulletin No. 13044: 
+ JP-4, JP-5, JP-8, 
+ F34, F35, F40, F43, F44, 
+ AIR 3404, AIR 3405, AIR 3407 
+ RT acc. to GOST 16564-71"
+Oil,"Aero Shell Turbine Oil 500, Royco Turbine Oil 500, 
+ Mobil Jet Oil II, Stanffer Jet II, Castrol 5000, Exxon Turbo Oil 2380, 
+ Turbonycoil 525-2A, in accordance with P&WC Bulletin No. 13001"
+Engine Performance,"Shaft Torque Prop speed Turbine Speed ITT 
+ Horsepower 
+ SHP1) 
+ PSIG 1/rpm 
+ % C 
+ Takeoff 
+ 1100* 
+ 43.34 1700 
+ 104 820 
+ Max. Continuous 
+ 1100** 43.34 1700 
+ 104 810 
+ Max. Cruise 
+ 1000*** 43.34 1700 
+ 104 800 
+ 1) minimum operating power attainable in service 
+ *attainable up to 50.5 oC ambient air temperature 
+ ** attainable up to 45.5 oC ambient air temperature 
+ ***attainable up to 42.5 oC ambient air temperature"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10"
+Rev No,"8 
+ 0 
+ 0 
+ 5 
+ 5 
+ 7 
+ 8 
+ 7 
+ 7 
+ 5"
+Propeller and Propeller Limits,"Hartzell Propeller Inc. (USA) 
+ HC-B5MP-3D 
+ Five-blade, all-metal, constant-speed with feathering and reverse 
+ Propeller diameter: 2.820 m (9 ft. 3 in.)"
+Airspeed Limits,"Indicated Airspeed 
+ Calibrated Airspeed 
+ IAS (km/h) (KTS) 
+ CAS (km/h) (KTS)"
+Max Operating Limit Speed VMO,"355 
+ 192 
+ 345 
+ 186"
+Design Maneuvering Speed VA,"244 
+ 133 
+ 238 
+ 129"
+Max FlapsExtended Speed VFE,"Flaps 15 
+ 215 
+ 116 
+ 210 
+ 113 
+ Flaps 40 
+ 200 
+ 108 
+ 190 
+ 103"
+Max SpoilerDeployed Speed VNS,"215 
+ 116 
+ 210 
+ 113 
+ 153 
+ 83 
+ 146 
+ 79 
+ Load Factor Limits at Max. Allowable Weight of 7500 kg: 
+ Flaps Up: 
+ Positive Nz =+3.0 Negative Nz = -1.0 
+ Flaps Down: 
+ Positive Nz =+2.0 Negative Nz = 0.0"
+a Center of Gravity range,"Forward 
+ 22% MAC 
+ Aft 
+ 33% MAC 
+ (b) MAC Length: 1.886 m (74.25 in.) 
+ (c) Location of reference datum: 2.470 m (97.24 in.) Frame No. 9, Forward. 
+ (d) The leading edge of the MAC is aft of the reference datum: 4.135 m (162.80 in.)"
+4400,% MAC
+21,"22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 32 
+ 33 
+ 34"
+Weights,"M28 05 Airplane C.G. Envelope 
+ Weight [ kg] 
+ 7500 
+ 7000 
+ 6500 
+ 6000 
+ 5500 
+ 5000 
+ 4500 
+ 4.50 
+ 4.55 
+ 4.60 
+ 4.65 
+ 4.70 
+ [m] from Reference Datum 
+ 4.586 [m]"
+Max Takeoff,7500 kg (16534 lbs.)
+Max Landing,7500 kg (16534 lbs.)
+Max ZeroFuel,6900 kg (15212 lbs.)
+Max Payload,"2300 kg (5070 lbs.) i.e.: 
+ - max. 2000 kg (4408 lbs.) in Cargo/Passenger Cabin 
+ (including max. 40 kg (88 lbs.) on Rack in Fuselage Rear Part) 
+ - max. 300 kg (662 lbs.) in Underfuselage Pod (optional equipment)"
+Minimum Weight for Flight,4700 kg (10362 lbs.)
+Cargo Loading Hoist Capacity Max,700 kg (1540 lbs.)
+Leveling Means,See AFM section 6 for details.
+Max Passenger Seating Capacity,19
+Minimum Crew,2 pilots
+Fuel Tank Capacity,"- Wing tanks Max. 3894 lbs; 602 US gal. (1766 kg) (2278 L) 
+ - Optional Aux. Fuselage Fuel Tank 3637 lbs; 552 US gal. (1650 kg) (2090L)"
+Unusable Fuel,62 lbs.; 9.5 US gal. (28 kg) (36 L)
+Usable Fuel,3832 lbs.; 592.5 US gal. (1738 kg) (2242 L)
+Oil Tank Capacity,Maximum 2x 2.5 US gal. (2x9.45 L)
+Approved Kinds of Operation,"- VFR flights, day and night, 
+ - IFR flights, day and night"
+Prohibited Kinds of Operation,"- Flight into known or forecast icing is prohibited unless the PZL 
+ ice protection system (IPS) is installed. (See Note 8 and Note 9)"
+Landing Gear,"- Non-retractable, tricycle type. 
+ - Main Gear: rocker-type with a single-chamber shock absorber, 
+ - Nose Gear: rocker-type, with a two-chamber shock absorber, 
+ - Nose Wheel rotation angle: ± 15o 
+ - Nose Wheel castoring angle with steering OFF: ± 45o"
+Ailerons,"Up 
+ 22o  1o 
+ Down 
+ 16 o 20’ 1 o"
+Aileron Trim Tab,"Up 
+ 14 o  1 o 
+ Down 
+ 14 o  1 o"
+Elevator,"Up 
+ 27 o  1 o 
+ Down 
+ 19 o  1 o"
+Elevator Neutral,"Up 
+ 15 o  1 o 
+ Down 
+ 25 o  1 o"
+Rudder LH,"Inboard 
+ 16 o  1 o 
+ Outboard 
+ 22 o  1 o"
+Rudder RH,"Inboard 
+ 16 o  1 o 
+ Outboard 
+ 22 o  1 o"
+Rudder Neutral,"Left 
+ 15 o  1 o 
+ Right 
+ 15 o  1 o"
+Wing Flaps,"Takeoff 
+ 15 o  1 o 
+ Landing 
+ 40 o  1 o"
+Spoilers,"Inboard 
+ 45 o  1 o 
+ Outboard 
+ 60 o  1 o"
+Temperature Range,-85 F to +122 F (-50C to + 50C)
+Standard Equipment,"As defined in section 7 of the PZL M28 05 Airplane Flight Manual, 
+ Ref. No. M28/10/2002, Revision 6, dated February 11, 2004 or later revision."
+Optional  Operational,"As defined in section 9 of the PZL M28 05 Airplane Flight Manual,"
+Equipment,"Ref. No. M28/10/2002, Revision 6, dated February 11, 2004 or later revision. 
+ For FIKI approved airplanes, AFM Revision 26 dated June 24, 2013 or later 
+ revision. 
+ Outside Air Temperature Limits: -85º F to +122ºF (-50 ºC to + 50ºC) 
+ Load Factor: SEE ABOVE 
+ Maximum cruise altitude: 
+ - for airplane in passenger version without oxygen (O2) system 
+ 3,000 m (9,842 ft.) 
+ - for airplane in cargo version without O2 system within max. 30 min. 4,000 m (13,123 ft.) 
+ - for airplane in cargo version with O2 system 
+ 7,620 m (25,000 ft.) 
+ Maximum airfield altitude: 
+ 4,000 m (13,123 ft.)"
+Service Life Limits,"Airframe Service Life: 8000 flight hours or 8000 takeoff-landing (whichever is first)*. 
+ Components: as listed in Chapter 4 of Maintenace Manual, Ref No. 
+ M28/11/2002, Revision 6 dated March 5, 2004, or later FAA approved revision. 
+ * 25000 flight hours or 30000 takeoff-landings (whichever occurs first), on condition that 
+ modifications per service bulletin (SB) no E/12.101R3/2014 (or later) must be accomplished 
+ within airplane life range of 7800-8000 flight hours or landings (whichever is first). 
+ This life extension requires M28/11/2002, Revision 52, dated May 11, 2015 or later FAA 
+ approved revisions. (See NOTE 7)."
+Serial Nos Eligible,"M28 05 with serial number AJE00302 and subsequent, are eligible for 
+ import into the United States. See Details under Import Requirements below."
+Certification Basis,"The regulations (unless otherwise stated) are Title 14 of the Code of Federal 
+ Regulations (14CFR): 
+ 14 CFR Part 23 dated February 1, 1965, as amended through Amendment 23- 
+ 42 effective February 4, 1991 with the exception of 
+ 14 CFR Part 23 Sections 23.49, 23.201, 23.203, 23.207 and 23.1545, which are 
+ at Amendment 50; 
+ 14 CFR Part 23 Section 23.1309 is at Amendment 49; 
+ 14 CFR Part 34 dated September 10, 1990, as amended through Amendment 
+ 34-3 effective February 3, 1999; 
+ 14 CFR Part 36 dated December 1, 1969, as amended through amendment in 
+ effect on the date of issuance of the U.S. type certificate (currently Amendment 
+ 36-24 effective August 7, 2002). 
+ Equivalent Safety Items: 
+ Equivalent levels of safety finding made per the provision of 14 CFR Part 
+ 21.21(b)(1) for: 
+ ELOS ACE-03-02: 14 CFR 23 § 23.1361(a). Master Switch Arrangement; 
+ Refer to FAA memorandum dated January 12, 2004. 
+ Special Conditions: High Intensity Radiated Fields, (HIRF), Number 23-142- 
+ SC, dated December 18, 2003. 
+ Flight into known icing is not approved on this airplane unless the PZL IPS is 
+ installed see below and Note 8 and Note 9. 
+ Date of Application for U.S. Type Certificate June 18, 1996. 
+ The Civil Aviation Office (CAO) of Poland originally type certificated this 
+ aircraft under its type certificate Number BB-216. The FAA validated this 
+ product under U.S. Type Certificate Number A56CE. Effective October 24, 
+ 2005, the European Aviation Safety Agency (EASA) began oversight of this 
+ product on behalf of Poland. The EASA TCDS number is EASA.A.058."
+SB E12101R22013 NOTE 7,"The certification basis is the same as the original certification basis shown 
+ above with the following additional regulations at a higher amendment level: 
+ 14 CFR Part 23 Sections 23.572(b), 23.574 (b), 23.575 and 23.629(i) which are 
+ at Amendment 48;"
+Ice protection system IPS installed,"and operational (NOTE 8 and NOTE 9) 
+ The certification basis is the same as the original certification basis shown 
+ above with the following additional regulations at a higher amendment level: 
+ 14 CFR Part 23 Section 23.1419 at Amendment 43; 
+ 14 CFR Part 23 Section 23.1525 at Amendment 45; 
+ 14 CFR Part 23 Sections: 23.775, 23.1307, 23.1323, 23.1326, 23.1351, 
+ 23.1353, and 23.1431 at Amendment 49; 
+ 14 CFR Part 23 Sections 23.63, 23.67, 23.69, 23.75, 23.1325, 23.1559, 
+ 23.1581, 23.1583 and 23.1585 at Amendment 50; 
+ 14 CFR Part 23 Sections 23.929, 23.975,and 23.1093 at Amendment 51; 
+ 14 CFR Part 23 Sections 23.901 at Amendment 53; 
+ 14 CFR Part 23 Sections 23.903(a) at Amendment 54; 
+ 14 CFR Part 23 Sections 23.73 at Amendment 62"
+Validation Basis,"The applicable airworthiness requirements for a U.S. certification under 
+ 14 CFR 21 section 21.29 identified above were established considering the 
+ airworthiness requirements applied by the responsible exporting Polish civil 
+ aviation authority under the Bilateral Aviation Agreement (BAA) authorized by 
+ the Agreement between the Government of the Poland and the Government of 
+ the United States of America, including the Amendment to the Annex, dated 
+ February 9, 2004, that allows Commuter Category airplanes from Poland. 
+ This Type Certificate was issued pursuant to the certification by the CAO that 
+ the PZL Model M28 05 complies with the above requirements. 
+ The CAO issued Polish Type Certificate No. BB-216, dated April 18, 2002, as 
+ described in CAO TCDS No. BB-216 Revision 2, dated September 17, 2002."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on an NAA Export 
+ Certificate of Airworthiness (Export C of A) signed by a representative of the 
+ Civil Aviation Office (CAO) of Poland on behalf of the European Community. 
+ The Export C of A should contain the following statement: ‘The aircraft 
+ covered by this certificate has been examined, tested, and found to comply with 
+ U.S. airworthiness regulations 14 CFR Federal Aviation Regulations Part 23, 
+ U.S. Type Certificate No. A56CE and to be in a condition for safe operation.’ 
+ Refer to the applicable bilateral agreement to verify eligibility for import into 
+ the United States of both new and used aircraft based on the scope of the 
+ agreement, to identify any required statements by the exporting authority on the 
+ export certificate of airworthiness (or equivalent document), and for procedures 
+ for coordinating exceptions to conformity statements on these documents. 
+ Refer to FAA Order 8130.2, Airworthiness Certification of Aircraft, for 
+ requirements for issuance of an airworthiness certificate for imported aircraft. 
+ SEE NOTE 6 – for limitation for icing equipment. Serial number AJE00310 
+ and subsequent have the icing protection system (IPS) for inadvertent icing 
+ encounters only installed at the factory. 
+ Model PZL M28 05 airplane without any other letter associated on the model 
+ designation and with serial numbers AJE00302 and subsequent are eligible for 
+ a U.S. Standard Airworthiness Certificate. 
+ Note: For example, if an airplane is model number M28 05 W, it is not eligible 
+ for the U.S. Standard Airworthiness Certificate. 
+ Note: M28 05 airplanes with the following serial numbers are not eligible for 
+ U.S. Standard Airworthiness Certificate: 
+ AJE001-XY (where XY equals 01 through 99); 
+ AJE002-XY (where XY equals 01 through 99); 
+ or AJE00-301 
+ Note: The Serial number system of the M28 05 is as follows: 
+ AJEUWXYZ 
+ where the AJE is the article code of M28; the UWX is the series 
+ number or production batch number (FIRST three digits) eg 003, 004 
+ 999, where 999 is highest possible number of production batch; 
+ the YZ is the number of an airplane in series (last two digits) eg 
+ 01,02 .14 .99, where 99 is a highest possible number of an airplane in 
+ one production batch."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the airplane for 
+ certification. Such equipment is listed in the current FAA approved Airplane 
+ Flight Manual (AFM), Revision 6, dated February 11, 2004, or later approved 
+ revisions. Serial Number AJE00310 and subsequent that has the IPS, TCAS II 
+ and Garmin GNS430AW systems installed at the factory must use AFM 
+ revision 15, dated November 18, 2008 or later approved revisions. 
+ AFM revision 26 dated June 24, 2013 or later required for FIKI airplanes"
+Service Information,"Each of the documents listed below must state that it is approved by the 
+ European Aviation Safety Agency (EASA) or – for approvals made before 
+ October 24, 2005 – by the Civil Aviation Office (CAO) of Poland. 
+ • Service bulletins, 
+ • Structural repair manuals, 
+ • Vendor manuals, 
+ • Aircraft flight manuals, and 
+ • Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved for type 
+ design data only unless one of the following conditions exists: 
+ • The documents change the limitations, performance, or procedures of the 
+ FAA approved manuals; or 
+ •The documents make an acoustical or emissions changes to this product’s 
+ U.S. type certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. 
+ The FAA may delegate on case-by-case to EASA to approve on behalf of the 
+ FAA for the U.S. type certificate. If this is the case it will be noted on the 
+ document. 
+ Each airplane is provided with the following approved documents: 
+ a) PZL M28 05 Airplane Flight Manual, Ref. No.: M28/10/2002, 
+ Revision 6, dated February 11, 2004 or later FAA approved revision. 
+ M28-05 with serial numbers AJE00310 and subsequent should have AFM 
+ Revision 15, dated November 18, 2008 or later FAA approved revisions. 
+ AFM revision 26 dated June 24, 2013 or later required for FIKI airplanes. 
+ b) PZL M28 Maintenance Manual (MM), Ref. No.: M28/11/2002, Rev. 6, 
+ dated March 5, 2004, or later FAA approved revision, including 
+ Chap. 4: ""Airworthiness Limitations"" and Chap. 5: ""Time Limits/ 
+ Maintenance Check"". 
+ M28-05 with serial numbers AJE00310 and subsequent should have MM 
+ Revision 14, dated November 7, 2008 or later FAA approved revisions. 
+ For airplanes with life extension per SB E/12.101R3/2014, MM revision 52 
+ dated May 11, 2015 or later FAA approved revisions. (NOTE 7). 
+ MM Rev 33 dated June 24, 2013 or later required for FIKI approved 
+ Airplanes. (NOTE 8 and NOTE 9) 
+ 10, 2003 or later CAO approved revisions."
+NOTE 1,"Current weight and balance data including list of equipment included in the 
+ certificated empty weight and loading instructions, when necessary, must be 
+ provided for each airplane at the time of original certification, and remain with 
+ the airplane at all times thereafter. The certificated empty weight and 
+ corresponding center of gravity locations must include the following: 
+ Unusable fuel of 36 L (28 kg) {62 lbs.; 9.5 US gal}"
+NOTE 2,"Airplane operation must be in accordance with the CAO approved Airplane 
+ Flight Manual listed above. All placards listed in Section 2 must be displayed 
+ in clear view of the pilot."
+NOTE 3,"Airworthiness Limitations are specified in the Section 2 LIMITATIONS 
+ chapter of the Flight Manual and Chapter 4 of the Instructions for Continued 
+ Airworthiness (Maintenance Manual) and are approved by EASA and the FAA. 
+ These LIMITATIONS specify mandatory replacement times, and operating 
+ limitations, and may not be changed without FAA approval. 
+ Revisions to the Airworthiness Limitations must be approved by the 
+ FAA. The inspections, maintenance, repair and painting must be 
+ accomplished according to the Maintenance Manual or other 
+ procedures acceptable to the FAA."
+NOTE 4,"Information essential for the proper operation, maintenance and inspection 
+ of the airplane is contained in the Model PZL M28 05 Flight Manual and 
+ Maintenance Manual."
+NOTE 5,"All avionics installed in this aircraft must meet the applicable FAA Technical 
+ Standard Order (TSO) and/or equivalent FAA approved safety requirements."
+NOTE 6,"M28 05 airplanes with serial numbers (S/N) AJE00310 and subsequent have 
+ type design change of installation of the ice protection system (IPS), approved 
+ on non-hazard basis only, installed at the factory. These airplanes are not 
+ approved for flight into known icing at this time. M28 05 airplanes with S/N 
+ AJE00302 up to AJE00309 do not have this IPS for inadvertent icing 
+ encounters and will only have the IPS if the manufacture develops a service 
+ bulletin for retro fit at a later time. Currently no service bulletin exists. 
+ NOTE 7. PZL life extension project was validated as FAA projects TD00415CE-A, 
+ AT00705CE-A and AT00762CE-A. PZL electected to use later amendments of 
+ several of the structures regulations. See certification basis for details. If 
+ operators wish to extend their airframe service life to 25000 flight hours or 
+ 30000 takeoff- landings (whichever occurs first), they must incorporate SB 
+ E/12.101R3/2014 (or later) and use chap 4 of Rev 52 of MM M28/10/2002 
+ dated May 11, 2015 or later FAA approved revisions. Any 
+ repairs/modifications done to airplanes with this modification must comply 
+ with the certification basis listed above on this TCDS."
+NOTE 8,"Flight in known icing condition is permitted, when certified IPS (ice protection 
+ system) is installed and is operational. This applies to S/N AJE00339 and up 
+ when this optional equipment is installed at the factory. When this option is 
+ installed at the factory, the airplane logbook and records will be noted before 
+ delivery from the factory. The airplane will have the supplement No. 9.130 in 
+ the AFM as mandatory and the airplane will have a placard (on the upper 
+ control panel in the cockpit) with appropriate statement - see Sec. 2.23 and Sec. 
+ 2.39 of this supplement: "" THIS AIRPLANE HAS THE FULL ICING 
+ PROTECTION SYSTEM FITTED AND IS CERTIFIED FOR FLIGHT 
+ INTO KNOWN AND FORECAST ICING CONDITIONS""."
+NOTE 9,"Flight in known icing condition is permitted, when certified IPS (ice protection 
+ system) is installed and is operational. This applies to prior airplanes with 
+ Bulletin no. E/12.115/2013 “Installation of ice protection system certified for 
+ flight in known and forecast icing conditions” incorporated. AFM Revision 26 
+ dated June 24, 2013 and A MM Rev 33 dated Jun 24, 2013 or later required 
+ for FIKI approved airplanes."

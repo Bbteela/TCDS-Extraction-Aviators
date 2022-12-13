@@ -1,0 +1,223 @@
+Keyterm,Info
+"A12IN 
+ Revision 2 
+ SUD AVIATION GARDAN 
+ GY.80-150 
+ GY.80-160 
+ GY.80-180 
+ March 1, 2012",
+Type Certificate Holder,"Sud-Aviation 
+ Paris, France"
+Type Certificate Ownership Record,"(1) This TC was considered not valid by the state of design on June 27, 2007, and has been replaced by 
+ European Aviation Safety Agency (EASA) Specific Airworthiness Specification (SAS) number 
+ EASA.SAS.A.075, issued June 27, 2007. Only standard airworthiness certificates issued prior to 
+ March 1, 2012 are valid. 
+ (2) Future unsafe conditions existing in the aircraft may result in the revocation of the airworthiness 
+ certificates of the aircraft if there is no entity to comply with 14 CFR § 21.99(a), “Required design 
+ changes.” 
+ (3) Replacement parts may not be available in the future."
+"I - Model Gardan GY.80-150, 4 PCLM (Normal Category), Approved May 3, 1963",
+Engine,Lycoming O320-A3C
+Fuel,*80/87 minimum grade aviation gasoline
+Engine limits,"*For all operations, 2700 r.p.m. (150 b.h.p.)"
+Propeller and,Hartzell HC-82XL-1/7636D-4
+propeller limits,"Pitch setting at 30 in. sta.: 
+ Low 12°, High 24.2° 
+ Diameter: Maximum 72 in., Minimum 70 in. 
+ No further reduction permitted. 
+ or 
+ Sensenich M74 DM-61 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2300, not under 2150. 
+ No additional tolerance permitted. 
+ Diameter: 
+ Maximum 74 in. 
+ Minimum 72 in. (no further reduction permitted)"
+Airspeed limits CAS,"*Never exceed 
+ 186 m.p.h. (162 knots) 
+ *Maximum structural cruising 
+ 145 m.p.h. (127 knots) 
+ Maneuvering 
+ 134 m.p.h. (116 knots) 
+ Flaps and landing gear extended 
+ 106 m.p.h. ( 92 knots)"
+CG range,(+8.2) to (+17.5) at 2250 lbs.
+landing gear extended,"(+7.4) to (+17.5) at 1841 lbs. or less 
+ Straight line variation between points given 
+ Moment change due to retraction of landing gear + 1237 in.-lbs."
+Empty weight CG range,None
+Maximum weight,2250 lbs.
+No of seats,4 (2 at +13) (2 at +41.7)
+Maximum baggage,88 lbs (+61)
+Page No,"1 
+ 2 
+ 3 
+ 4"
+Rev No,"2 
+ 1 
+ 2 
+ 1"
+Fuel capacity,"42 gal. (two 21 gal. tanks in wings) 
+ (+4.7) and 10.5 gal. in fuselage at rear place (+38)"
+Oil capacity,6.6 qts. (in the engine) (4.4 qts. usable)
+"II - Model Gardan GY.80-160, 4 PCLM (Normal Category), Approved May 3, 1963",
+Engine,Lycoming O-320-B3C
+Fuel,*91/96 maximum grade aviation gasoline
+Engine limits,"*For all operations, 2700 r.p.m. (160 b.h.p.)"
+Propeller and,Hartzell HC-82XL-1/7636D-4
+propeller limits,"Pitch setting at 30 in. sta.: 
+ Low 12°, High 24.2° 
+ Diameter: 
+ Maximum 72 in., 
+ Minimum 70 in. (No further reduction permitted.) 
+ or 
+ Sensenich M74 DM-61 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2400, not under 2250. 
+ No additional tolerance permitted. 
+ Diameter: 
+ Maximum 74 in. 
+ Minimum 72 in. (no further reduction permitted) 
+ or 
+ Sensenich M74 DM-63 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2250, not under 2100 
+ Diameter: 
+ Maximum 74 in. 
+ Minimum 72 in. (no further reduction permitted)"
+Airspeed limits CAS,"*Never exceed 
+ 186 m.p.h. (162 knots) 
+ *Maximum structural cruising 
+ 145 m.p.h. (127 knots) 
+ Maneuvering 
+ 134 m.p.h. (116 knots) 
+ Flaps and landing gear extended 
+ 106 m.p.h. ( 92 knots)"
+CG range,(+8.2) to (+17.5) at 2425 lbs. with Hartzell HC-82XL-1 propeller; at
+landing gear extended,"2315 lbs. with Sensenich M74 DM-61 propeller; at 2250 lbs. with 
+ Sensenich M 74 DM-63 propeller 
+ (+7.4) to (+17.5) at 1841 lbs. or less 
+ Straight line variation between points given 
+ Moment change due to retraction of landing gear +1237 in. lbs."
+Empty weight CG range,None
+Maximum weight,"2425 lbs. with Hartzell HC-82 XL-1 
+ 2315 lbs. with Sensenich M74 DM-61 
+ 2250 lbs. with Sensenich M74 DM-63"
+No of seats,4 (2 at +13) (2 at +41.7)
+Maximum baggage,88 lbs (+61)
+Fuel capacity,"42 gal. (two 21 gal. tanks in wings) 
+ (+4.7) and 10.5 gal. in fuselage at rear place (+38)"
+Oil capacity,6.6 qts. (in the engine) (4.4 qts. usable)
+"III - Model Gardan GY.80-180, 4 PCLM (Normal Category), Approved September 9, 1965",
+Engine,Lycoming O360 A.2.A.
+Fuel,*91/96 minimum grade aviation gasoline
+Engine limits,"*For all operations, 2700 r.p.m. (180 b.h.p.)"
+Propeller and,Sensenich M76 EMM-62
+propeller limits,"Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2400, not under 2250. 
+ No additional tolerance permitted. 
+ Diameter: 76 in. (no further reduction permitted)"
+Airspeed limits CAS,"*Never exceed 
+ 186 m.p.h. (162 knots) 
+ *Maximum structural cruising 
+ 145 m.p.h. (127 knots) 
+ Maneuvering 
+ 134 m.p.h. (116 knots) 
+ Flaps and landing gear extended 106 m.p.h. ( 92 knots)"
+CG range,(+8.2) to (+16.5) at 2425 lbs.
+landing gear extended,"(+7.4) to (+16.5) at 1841 lbs. or less 
+ Straight line variation between points given. 
+ Moment change due to retraction of landing gear + 1237 in. lbs."
+Empty weight CG range,None
+Maximum weight,2425 lbs.
+No of seats,4 (2 at 13) (2 at 41.7)
+Maximum baggage,88 lbs (+61)
+Fuel capacity,"42 gal. (two 21 gal. tanks in wings) (+4.7) and 10.5 gal. in fuselage at 
+ rear place (+38)"
+Oil capacity,6.6 qts. (in the engine) (4.4 qts. usable)
+DATA PERTINENT TO ALL MODELS,
+Datum,Wing leading edge outboard of the wingtank
+Leveling means,Frame under door
+Control surface movements,"Tolerances 
+ Wing flaps 
+ 19° 
+ + 0° -2° 
+ Aileron 
+ Up 20° 
+ Down 20° 
+ + 0° -1° 
+ Elevator 
+ Up 13° 
+ Down 9° 
+ + 1° -1° 
+ Elevator 
+ anti-servo tab 
+ Up 13° 
+ Down 9° 
+ + 1° -1° 
+ Elevator 
+ trim tab 
+ Up 3°20' 
+ Down 6°40' 
+ +30' -30' 
+ Rudder 
+ Right 28° 
+ Left 28° 
+ + 2° -1°"
+Serial Nos eligible,"Only those aircraft serials holding a standard airworthiness certificate issued prior to 
+ March 1, 2012 are eligible. 
+ The S.G.A.C. Certificate of Airworthiness for Export endorsed as noted below under 
+ ""Certification basis"" must be submitted for each individual airplane for which 
+ application for Certification is made."
+Certification basis,"CAR 10 dated March 1955, French AIR 2052 revised to May 3, 1962 certified 
+ by S.G.A.C. as equivalent to U.S. CAR 3 dated May 15, 1956 and amendments 3-1 
+ through 3-5. 
+ Type Certificate No. A12IN issued May 3, 1963. 
+ Date of Application for Type Certificate March 10, 1961."
+Import requirements,"None eligible after March 1, 2012. 
+ Previous to this date: 
+ A U.S. Airworthiness Certificate may be issued on the basis of a French 
+ Certificat de Navagabilite pour Exportation signed by a representative of the 
+ Secretariat General de l'Aviation Civile (S.G.A.C.) containing the following 
+ statement: ""The airplane covered by this certificate has been found to comply 
+ with French AIR 2052 effective May 3, 1962 and conforms to Type 
+ Certificate No. A12IN."""
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. In addition, 
+ the following items of equipment are required: 
+ Stall warning indicator Safe Flight 164. 
+ NOTE 1. Current weight and balance report including list of equipment included in certificated empty weight, and loading 
+ instructions when necessary, must be provided for each aircraft at the time of original certification. 
+ NOTE 2. The following placards must be displayed in locations as indicated."
+"A. Applicable to Models GY.80-150, GY.80-160, and GY.80-180",
+1,"Set tabs 
+ 1. 
+ Fuel selector on fullest tank"
+2,"Electric pump on 
+ 2. 
+ Mixture rich"
+3,"Mixture rich 
+ 3. 
+ Gear and flaps down"
+4,"Propeller full in (for Models GY.80-150, 
+ 4. 
+ Propeller full in (for Models 
+ GY.80-160 with Hartzell HC-82XL-1 propellers 
+ Cy.80-150, GY.80-160 with 
+ installed) 
+ Hartzell HC-82XL-1 propellers 
+ ` 
+ installed)"
+5,"Check fuel selector on fullest tanks 
+ 5. 
+ Electric pump on 
+ (2) On fuel selector valve plate: 
+ fuselage tank: 10.5 gal., LEFT + RIGHT wing tank: 42 gal. 
+ (3) On the baggage compartment ""Maximum baggage 88 lbs."" 
+ ""For additional loading instructions see weight an balance data."" 
+ (4) On the fuel tank filler cap: ""Tank capacity 21 U.S. gal. (each wing tank) and 10.5 
+ U.S. gal. (Fuselage tank) 
+ Grade 80/87 (CY.80-150) 
+ Grade 91/96 (GY.80-160 and GY.80-180) 
+ (5) In addition to the above placards, the prescribed operating limitations indicated by * under 
+ Section I, II and III above, must be displayed by permanent markings."

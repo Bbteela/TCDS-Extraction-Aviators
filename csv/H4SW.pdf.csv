@@ -1,0 +1,2186 @@
+Keyterm,Info
+"H4SW 
+ Revision 38 
+ BELL 
+ 212 
+ 412 
+ 412EP 
+ 412CF 
+ January 07, 2022",
+Type Certificate Holder,"Bell Textron Inc. 
+ P. O. Box 482 
+ Fort Worth, Texas 76101 
+ Type Certificate Holder Record: Renamed from “Bell Helicopter Textron Inc.” to “Bell Textron Inc.” on July 1, 2019."
+"I - Model 212 (Transport Helicopter-Category B), Approved 30 October 1970-(Transport Category A), Approved 
+ 30 June 1971. See Note 7.",
+Engines,"Pratt and Whitney Canada Corp. (Formerly Pratt & Whitney Canada, Inc., Pratt & Whitney 
+ Aircraft of Canada Ltd. and United Aircraft of Canada, Ltd.) Model PT6T-3 or PT6T-3B Twin 
+ Power Section Turboshaft (Ref. Note 5 on Type Certificate Data Sheet No. E22EA)."
+Fuel,"Avjet type fuels conforming to ASTM D1655, Type A, A-1; or ASTM D6615, Type B; or 
+ MIL-DTL-5624, Grade JP-4 (NATO F-40) or JP-5 (NATO F-44); or MIL-DTL-83133, 
+ Grade JP-8 (NATO F-34). 
+ Torque 
+ Power Turbine 
+ Per engine 
+ Speed - rpm 
+ Gas Generator 
+ Gas 
+ lb-ft 
+ (%) 
+ Speed - rpm 
+ Temperature 
+ (%) 
+ Maximum Minimum 
+ (%) 
+ °C"
+"Engine Operating Limits for Model 212 with PT6T-3 Engines 
+ Normal Operation 
+ Takeoff 5 minutes 
+ 515 (1) (2) 
+ 38,100 
+ 810 
+ 32,000 
+ 33,000 (3) 
+ (100) 
+ (100) 
+ (100) 
+ (97) 
+ 450 (1) 
+ 38,100 
+ 765 
+ 33,000 (3) 
+ 32,000 
+ (100) 
+ (87.5) 
+ (100) 
+ (97) 
+ One Engine Inoperative Emergency 
+ 30 Minutes 
+ 738 (4) 
+ 38,100 
+ 810 
+ 33,000 (3) 
+ 32,000 
+ (100) 
+ (71.8) 
+ (100) 
+ (97) 
+ Continuous 
+ 657 (4) 
+ 38,100 
+ 765 
+ 33,000 (3) 
+ 32,000 
+ (100) 
+ (63.9) 
+ (100) 
+ (97) 
+ Engine Operating Limits for Model 212 with PT6T-3B Engines 
+ 38,400(5) 
+ Normal Operation 
+ 810 
+ 515 (1) (2) 
+ 33,000 (3) 
+ 32,000 
+ Takeoff 5 minutes 
+ (100.8) 
+ (100) 
+ (100) 
+ (97) 
+ 38,400(5) 
+ 450 (1) 
+ 765 
+ 33,000 (3) 
+ 32,000 
+ (100.8) 
+ (87.5) 
+ (100) 
+ (97) 
+ Torque 
+ Power Turbine 
+ Per engine 
+ Speed - rpm 
+ Gas Generator 
+ Gas 
+ lb-ft 
+ (%) 
+ Speed - rpm 
+ Temperature 
+ (%) 
+ Maximum Minimum 
+ (%) 
+ °C 
+ One Engine Inoperative Emergency 
+ 212 Minutes 
+ 815 (4) 
+ 33,000 (3) 32,000 
+ 39,000(6) 
+ 850 
+ (79.4) 
+ (100) 
+ (97) 
+ (102.4) 
+ 30 Minutes 
+ 815 (4) 
+ 33,000 (3) 
+ 32,000 
+ 38,400(5) 
+ 822 
+ (79.4) 
+ (100) 
+ (97) 
+ (100.8) 
+ Continuous 
+ 657 (4) 
+ 33,000 (3) 32,000 
+ 38,400(5) 
+ 765 
+ (63.9) 
+ (100) 
+ (97) 
+ (100.8) 
+ 1 On transmission torque scale 
+ 2 See Note 26 
+ (3) 100% (33,000 rpm) corresponds to 6600 rpm engine output shaft speed. 
+ 4 On engine torque scale 
+ (5) 38,800 rpm (101.8%) with Gage P/N 212-075-037-113. 
+ (6) 39,400 rpm (103.4%) with Gage P/N 212-075-037-113. 
+ Rotor limits 
+ Power Off 
+ Power On 
+ Maximum 339 rpm 
+ Maximum 324 rpm 
+ (Tach reading 104.5%) 
+ (Tach reading 100%) 
+ Minimum 294 rpm 
+ Minimum 314 rpm 
+ (Tach reading 91%) 
+ (Tach reading 97%) 
+ Airspeed limits 
+ 11,200 
+ 10,000 
+ 8,000 
+ 7,500 r------t----4--- 
+ 100 (115) 
+ 120 (138) 
+ 130 (149.5) 
+ VNE Knots (MPH) CAS 
+ Decrease VNE 3 knots (3.5 mph) per 1,000 feet (above 3,000 feet Hd) 
+ CG range 
+ (a) Longitudinal C.G. limits 
+ VFR Configuration 
+ IFR Configuration 
+ (+134.0) to (+142.0) at 11,200 lb 
+ (+134.0) to (+142.0) at 11,200 lb 
+ (+130.0) to (+144.0) at 8,800 lb 
+ (+132.0) to (+143.0) at 10,000 lb 
+ (+130.0) to (+144.0) at 6,500 lb 
+ (+132.0) to (+144.0) at 8,800 lb 
+ (+134.0) to (+144.0) at 5,300 lb 
+ (+132.0) to (+144.0) at 5,900 lb 
+ (+134.0) to (+144.0) at 5,300 lb 
+ Above limits for VFR operation; aft limit 
+ (+142.5) for IFR operation 
+ Straight line variation between points given. See figure below: 
+ 11,200 
+ 142.0 
+ 10,000 
+ Gross 
+ 8,800 
+ Weight 
+ (lb) 
+ 6,500 
+ ~:~88 
+ 135 
+ 140 
+ 142.5 144 
+ Longitudinal C. G. Station (inches) 
+ (b) Lateral C.G. limits - Category B and VFR Configuration 
+ 4.7 in. left of centerline 
+ 6.5 in. right of centerline 
+ Category A and IFR Configuration 
+ +3.5 in. left and right of centerline 
+ Empty weight CG range 
+ See Chapter 8, Model 212 Maintenance Manual. 
+ Maximum weight 
+ 11,200 lb. See Note 4 for external cargo limitations. See Flight Manual Supplement 
+ dated 30 June 1971 for Category A limitations 
+ Minimum crew 
+ 1 (pilot) Category B and Category A; 2 (pilot and copilot) for vertical 
+ takeoff and landing operations. See Notes 11 and 12 for IFR operations. 
+ Maximum passengers 
+ 14 (Not limited by emergency exit requirements) 
+ Maximum baggage 
+ 400 lb (See Flight Manual for loading schedule) 
+ Fuel capacity 
+ 219.6 U.S. gal. (+153.3) total. (See Note 17) 
+ 216.8 U.S. gal. usable. (See Note 17) 
+ 4 U.S. gal. unusable. (See Note 1 for requirement to include unusable (including trapped) 
+ fuel weight in certificated empty weight) 
+ Oil capacity 
+ Sys. Capacity 1.6 gal. (+182.9) each power section (.75 gal. usable). 
+ (Total capacity 3.2 gal. (+182.9)). See Note 1 for requirement to include undrainable oil 
+ weight in certificated empty weight. 
+ Rotor blade and 
+ control movements 
+ For rigging information refer to the Model 212 Maintenance Manual. 
+ Serial numbers eligible 
+ 30501 thru 30999 except 30604 thru 30610, 30754 and 30890; 31101 thru 31311, except 
+ 31163; 32101 thru 32199; 35001thru 35108 (See Note 20). 
+ II - Model 412 (Transport Helicopter - Category B), Approved January 9, 1981. (Transport Helicopter - Category A), 
+ Approved August 31 1983",
+Engines,"Pratt & Whitney Canada, Corp. Model PT6T-3B Twin Power Section Turboshaft 
+ (Ref. Note 5 on Type Certificate Data Sheet No. E22EA) or Pratt and Whitney Canada, 
+ Corp. PT6T-3BE (See Note 24) or Pratt and Whitney Canada, Corp. PT6T-3D (See Notes 
+ 27 and 29) or Pratt & Whitney Canada, Corp. PT6T-3BF (See Note 41) or Pratt & 
+ Whitney Canada Corp. PT6T-3BG (See Note 42)."
+Fuel,"Avjet type fuels conforming to ASTM D1655, Type A, A-1; or ASTM D6615, Type B; 
+ or MIL-DTL-5624, Grade JP-4 (NATO F-40) or JP-5 (NATO F-44); or MIL-DTL-83133, 
+ Grade JP-8 (NATO F-34)."
+"Engine Operating Limits for Model 412 (S/N 33001 thru 33107) with PT6T-3B Engines 
+ Torque 
+ Power Turbine 
+ per engine 
+ Speed - rpm 
+ Gas Generator 
+ Gas 
+ lb-ft 
+ (%) 
+ Speed - rpm 
+ Temperature 
+ (%) 
+ Maximum Minimum 
+ (%) 
+ °C 
+ Normal Operation: 
+ Takeoff (5 minutes) 
+ 537 (1) 
+ 33,000 (2) 
+ 32,000 
+ 38,400(5) 
+ 810 
+ (100) 
+ (100) 
+ (97) 
+ (100.8) 
+ Maximum Continuous 
+ 450 (1) 
+ 33,000 (2) (3) 
+ 32,000 
+ 38,400(5) 
+ 765 
+ (84) 
+ (100) 
+ (97) 
+ (100.8) 
+ One Engine Inoperative (Emergency): 
+ 2-1/2 Minutes 
+ 815 (4) 
+ 33,000 (2) 
+ 32,000 
+ 39,000(6) 
+ 850 
+ (76) 
+ (100) 
+ (97) 
+ (102.4) 
+ 30 Minutes 
+ 815 (4) 
+ 33,000 (2) 
+ 32,000 
+ 38,400(5) 
+ 822 
+ (76) 
+ (100) 
+ (97) 
+ (100.8) 
+ Continuous 
+ 657 (4) 
+ 33,000 (2) 
+ 32,000 
+ 38,400(5) 
+ 765 
+ (61) 
+ (100) 
+ (97) 
+ (100.8) 
+ Engine Operating Limits for Model 412 (S/N 33001 thru 33107) with PT6T-3BF Engines (See Note 41) 
+ Torque 
+ Power Turbine 
+ per engine 
+ Speed - rpm 
+ Gas Generator 
+ Gas 
+ lb-ft 
+ (%) 
+ Speed - rpm 
+ Temperature 
+ (%) 
+ Maximum Minimum 
+ (%) 
+ °C 
+ Normal Operation: 
+ Takeoff (5 minutes) 
+ 537 (1) 
+ 33,000 (2) 
+ 32,000 
+ - 
+ 810 
+ (100) 
+ (100) 
+ (97) 
+ Maximum Continuous 
+ 450 (1) 
+ 33,000 (2) (3) 
+ 32,000 
+ 38,800 
+ 765 
+ (84) 
+ (100) 
+ (97) 
+ (101.8) 
+ One Engine Inoperative (Emergency): 
+ 2-1/2 Minutes 
+ 815 (4) 
+ 33,000 (2) 
+ 32,000 
+ - 
+ - 
+ (76) 
+ (100) 
+ (97) 
+ 30 Minutes 
+ 815 (4) 
+ 33,000 (2) 
+ 32,000 
+ 39,400 
+ 850 
+ (76) 
+ (100) 
+ (97) 
+ (103.4) 
+ Continuous 
+ 657 (4) 
+ 33,000 (2) 
+ 32,000 
+ 38,800 
+ 810 
+ (61) 
+ (100) 
+ (97) 
+ (101.8) 
+ Engine Operating Limits for Model 412 (S/N 33108 thru 33213, 36001 thru 36019) with PT6T-3B Engines (See Note 19) 
+ (The 412SP is a Model designation used for marketing purposes only) 
+ Torque 
+ Power Turbine 
+ per engine 
+ Speed - rpm 
+ Gas Generator 
+ Gas 
+ lb-ft 
+ (%) 
+ Speed - rpm 
+ Temperature 
+ (%) 
+ Maximum Minimum 
+ (%) 
+ °C 
+ Normal Operation: 
+ 38,400(5) 
+ 33,000 (2) 
+ 32,000 
+ 810 
+ Takeoff (5 minutes) 
+ 557 (1) 
+ (100) 
+ (100) 
+ (97) 
+ (100.8) 
+ 38,400(5) 
+ Maximum Continuous 
+ 450 (1) 
+ 33,000 (2) (3) 
+ 32,000 
+ 765 
+ (81) 
+ (100) 
+ (97) 
+ (100.8) 
+ One Engine Inoperative (Emergency): 
+ 39,000(6) 
+ 33,000 (2) 
+ 32,000 
+ 850 
+ 2-1/2 Minutes 
+ 815 (4) 
+ (73.2) 
+ (100) 
+ (97) 
+ (102.4) 
+ 38,400(5) 
+ 30 Minutes 
+ 815 (4) 
+ 33,000 (2) 
+ 32,000 
+ 822 
+ (73.2) 
+ (100) 
+ (97) 
+ (100.8) 
+ 38,400(5) 
+ 33,000 (2) 
+ 32,000 
+ 765 
+ Continuous 
+ 657 (4) 
+ (58.9) 
+ (100) 
+ (97) 
+ (100.8) 
+ Engine Operating Limits for Model 412 (S/N 33108 thru 33213, 36001 thru 36019) with PT6T-3BF Engines (See Notes 19 and 41) 
+ (The 412SP is a Model designation used for marketing purposes only) 
+ Torque 
+ Power Turbine 
+ per engine 
+ Speed - rpm 
+ Gas Generator 
+ Gas 
+ lb-ft 
+ (%) 
+ Speed - rpm 
+ Temperature 
+ (%) 
+ Maximum Minimum 
+ (%) 
+ °C 
+ Normal Operation: 
+ Takeoff (5 minutes) 
+ 557 (1) 
+ 33,000 (2) 
+ 32,000 
+ - 
+ 810 
+ (100) 
+ (100) 
+ (97) 
+ Maximum Continuous 
+ 450 (1) 
+ 33,000 (2) (3) 
+ 32,000 
+ 38,800 
+ 765 
+ (81) 
+ (100) 
+ (97) 
+ (101.8) 
+ One Engine Inoperative (Emergency): 
+ 2-1/2 Minutes 
+ 815 (4) 
+ 33,000 (2) 
+ 32,000 
+ - 
+ - 
+ (73.2) 
+ (100) 
+ (97) 
+ 30 Minutes 
+ 815 (4) 
+ 33,000 (2) 
+ 32,000 
+ 39,400 
+ 850 
+ (73.2) 
+ (100) 
+ (97) 
+ (103.4) 
+ Continuous 
+ 657 (4) 
+ 33,000 (2) 
+ 32,000 
+ 38,800 
+ 810 
+ (58.9) 
+ (100) 
+ (97) 
+ (101.8) 
+ Engine Operating Limits for Model 412 (S/N 36020 thru 36086) with PT6T-3BE Engines (See Note 24) 
+ (The 412HP is a Model designation used for marketing purposes only) 
+ Power Turbine 
+ Torque 
+ Speed - rpm 
+ Gas Generator 
+ Gas 
+ lb-ft 
+ (%) 
+ Speed - rpm 
+ Temperature 
+ (%) 
+ Maximum Minimum 
+ (%) 
+ °C 
+ Normal Operation 
+ Takeoff (5 minutes) 
+ 22,208 (7) 
+ 33,000 (2) 
+ 32,000 
+ 38,400(5) 
+ 810 
+ (100) 
+ (100) 
+ (97) 
+ (100.8) 
+ Maximum Continuous 
+ 17,993 (7) 
+ 33,000 (2) (3) 
+ 32,000 
+ 38,400(5) 
+ 765 
+ (81) 
+ (100) 
+ (97) 
+ (100.8) 
+ One Engine Inoperative Emergency 
+ 2-1/2 Minutes 
+ 815 (4) 
+ 33,000 (2) 
+ 32,000 
+ 39,000(6) 
+ 850 
+ (73.2) 
+ (100) 
+ (97) 
+ (102.4) 
+ 30 Minutes 
+ 815 (4) 
+ 33,000 (2) 
+ 32,000 
+ 38,400(5) 
+ 822 
+ (73.2) 
+ (100) 
+ (97) 
+ (100.8) 
+ Continuous 
+ 657 (4) 
+ 33,000 (2) 
+ 32,000 
+ 38,400(5) 
+ 765 
+ (58.9) 
+ (100) 
+ (97) 
+ (100.8) 
+ Engine Operating Limits for Model 412 (S/N 36020 thru 36086) with PT6T-3BG Engines (See Notes 24 and 42) 
+ (The 412HP is a Model designation used for marketing purposes only) 
+ Power Turbine 
+ Torque 
+ Speed - rpm 
+ Gas Generator 
+ Gas 
+ lb-ft 
+ (%) 
+ Speed - rpm 
+ Temperature 
+ (%) 
+ Maximum Minimum 
+ (%) 
+ °C 
+ Normal Operation 
+ Takeoff (5 minutes) 
+ 22,208 (7) 
+ 33,000 (2) 
+ 32,000 
+ - 
+ 810 
+ (100) 
+ (100) 
+ (97) 
+ Maximum Continuous 
+ 17,993 (7) 
+ 33,000 (2) (3) 
+ 32,000 
+ 38,800 
+ 765 
+ (81) 
+ (100) 
+ (97) 
+ (101.8) 
+ One Engine Inoperative Emergency 
+ 2-1/2 Minutes 
+ 815 (4) 
+ 33,000 (2) 
+ 32,000 
+ - 
+ - 
+ (73.2) 
+ (100) 
+ (97) 
+ 30 Minutes 
+ 815 (4) 
+ 33,000 (2) 
+ 32,000 
+ 39,400 
+ 850 
+ (73.2) 
+ (100) 
+ (97) 
+ (103.4) 
+ Continuous 
+ 657 (4) 
+ 33,000 (2) 
+ 32,000 
+ 38,800 
+ 810 
+ (58.9) 
+ (100) 
+ (97) 
+ (101.8) 
+ Engine Operating Limits for Model 412 (S/N 36020 thru 36086) with PT6T-3D Engines (See Notes 27, 29 and 30) 
+ (The 412HP is a Model designation used for Marketing purposes only) 
+ Power Turbine 
+ Torque 
+ Speed - rpm 
+ Gas Generator 
+ Gas 
+ lb-ft 
+ (%) 
+ Speed - rpm 
+ Temperature 
+ (%) 
+ Maximum Minimum 
+ (%) 
+ °C 
+ Normal Operation 
+ Takeoff (5 minutes) 
+ 22,208 (7) 
+ 33,000 (2) 
+ 32,000 
+ 39,300 
+ 810 
+ (100) 
+ (100) 
+ (97) 
+ (103.2) 
+ Maximum Continuous 
+ 17,993 (7) 
+ 33,000 (2) (3) 
+ 32,000 
+ 39,300 
+ 810 
+ (81) 
+ (100) 
+ (97) 
+ (103.2) 
+ One Engine Inoperative Emergency 
+ 2-1/2 Minutes 
+ 902 (4) 
+ 33,000 (2) 
+ 32,000 
+ 41,600 
+ 940 
+ (81) 
+ (100) 
+ (97) 
+ (109.2) 
+ Continuous 
+ 815 (4) 
+ 33,000 (2) 
+ 32,000 
+ 39,500 
+ 820 
+ (73.2) 
+ (100) 
+ (97) 
+ (103.7) 
+ Engine Operating Limits for Model 412 with PT6T-3DE Engines (See Note 36) 
+ Power Turbine 
+ Torque 
+ Speed - rpm 
+ Gas Generator 
+ Gas 
+ lb-ft 
+ (%) 
+ Speed - rpm 
+ Temperature 
+ (%) 
+ Maximum Minimum 
+ (%) 
+ °C 
+ Normal Operation 
+ Takeoff (5 minutes) 
+ 22,208 (7) 
+ 33,000 (2) 
+ 32,000 
+ 39,300 
+ 810 
+ (100) 
+ (100) 
+ (97) 
+ (103.2) 
+ Maximum Continuous 
+ 17,993 (7) 
+ 33,000 (2) (3) 
+ 32,000 
+ 39,300 
+ 810 
+ (81) 
+ (100) 
+ (97) 
+ (103.2) 
+ One Engine Inoperative Emergency 
+ 2-1/2 Minutes 
+ 902 (4) 
+ 33,000 (2) 
+ 32,000 
+ 41,600 
+ 940 
+ (81) 
+ (100) 
+ (97) 
+ (109.2) 
+ 30 Minutes 
+ 859 (4) 
+ 33,000 (2) 
+ 32,000 
+ 40,250 
+ 855 
+ (77) 
+ (100) 
+ (97) 
+ (105.7) 
+ Engine Operating Limits for Model 412 (S/N 36020 thru 36086) with PT6T-3DF Engines (See Note 37) 
+ Power Turbine 
+ Torque 
+ Speed - rpm 
+ Gas Generator 
+ Gas 
+ lb-ft 
+ (%) 
+ Speed - rpm 
+ Temperature 
+ (%) 
+ Maximum Minimum 
+ (%) 
+ °C 
+ Normal Operation 
+ Takeoff (5 minutes) 
+ 22,208 (7) 
+ 33,000 (2) 
+ 32,000 
+ 39,300 
+ 810 
+ (100) 
+ (100) 
+ (97) 
+ (103.2) 
+ Maximum Continuous 
+ 17,993 (7) 
+ 33,000 (2)(3) 
+ 32,000 
+ 39,300 
+ 810 
+ (81) 
+ (100) 
+ (97) 
+ (103.2) 
+ One Engine Inoperative Emergency 
+ 2-1/2 Minutes 
+ 902 (4) 
+ 33,000 (2) 
+ 32,000 
+ 41,600 
+ 940 
+ (81) 
+ (100) 
+ (97) 
+ (109.2) 
+ 30 Minutes 
+ 859 (4) 
+ 33,000 (2) 
+ 32,000 
+ 40,700 
+ 885 
+ (77) 
+ (100) 
+ (97) 
+ (106.8) 
+ 1 On transmission torque scale 
+ (2) 100% (33,000 rpm) corresponds to 6600 rpm engine output shaft speed. 
+ 4 On engine torque scale 
+ (5) 38,800 rpm (101.8%) with Gage P/N 212-075-037-113. 
+ (6) 39,400 rpm (103.4%) with Gage P/N 212-075-037-113. 
+ 7 On mast torque scale 
+ Rotor limits 
+ Power Off 
+ Power On 
+ Maximum 339 rpm 
+ Maximum continuous 324 rpm 
+ (Tach reading 104.5%) 
+ (Tach reading 100%) 
+ Minimum 294 rpm 
+ Maximum 339 rpm 
+ (Tach reading 91%) G.W. more than 8,000 lb 
+ (Tach reading 104.5%) 
+ Minimum 259 rpm 
+ (For 0 to 30% transmission torque) 
+ (Tach reading 80%) G.W. less than 8,000 lb 
+ Minimum 314 rpm 
+ (Tach reading 97%; see respective 
+ BHT-412-FM-1, -2 or -3 flight manual for 
+ selection of rotor speed to flight conditions) 
+ Airspeed limits 
+ See Placard P/N 412-075-215 (VNE varies with altitude and temperature) 
+ (Max. VNE 140 KIAS). 
+ CG range for 412 
+ (a) Longitudinal C.G. limits 
+ Serial number effectivity  
+ (+134.6) to (+141.6) at 11,600 lb 
+ 33001 thru 33107 
+ (+130.0) to (+144.0) at 8,800 lb 
+ See Note 19 
+ (+130.0) to (+144.0) at 6,500 lb 
+ (+130.4) to (+144.0) at 6,400 lb min. wt. 
+ Straight line variation between points given. See figure in Section 1, Model 412 
+ Rotorcraft Flight Manual (BHT-412-FM-1). 
+ (b) Lateral C.G. limits 
+ + 4.5 in. left and right of aircraft centerline. 
+ CG range for 412 
+ (a) 
+ Longitudinal C.G. limits 
+ Serial number effectivity  
+ (135.1) to (141.4) at 11900 lb 
+ 33108 thru 33213 
+ (130.0) to (144.0) at 8800 lb 
+ 36001 thru 36086 
+ (130.0) to (144.0) at 6500 lb 
+ (130.4) to (144.0) at 6400 lb min. wt. 
+ Straight line variation between points given. See figure in Section 1, Model 412 
+ Rotorcraft Flight Manual (BHT-412-FM-2, -3) 
+ (b) Lateral C.G. limits 
+ + 4.5 in. left and right of aircraft centerline. 
+ Empty weight CG range 
+ When possible, the empty C.G. shall be adjusted to the range given in Chapter 8, Model 
+ 412 Maintenance Manual. For helicopter configurations where this is not possible, 
+ complete computation of critical fore and aft C.G. position must be determined for each 
+ loading to ensure that the entire flight is conducted within the limits of the Gross Weight 
+ Center of Gravity chart in the Limitations section of the Flight Manual. 
+ Maximum weight 
+ 11,600 lb for 412 (S/N 33001 thru 33107) (See Note 19); 11,900 lb for 412 (S/N 33108 
+ thru 33213 and 36001 thru 36086). 
+ Minimum crew 
+ 1 (pilot) Category B and Category A. See Note 14 for IFR operations. 
+ Maximum passengers 
+ 14 (Not limited by emergency exit requirements). 
+ 9 (with passenger seats re-arranged to create a nine or less passenger seat configuration - 
+ see Note 53). 
+ Maximum baggage 
+ 400 lb (See Flight Manual for loading schedule) 
+ 412 
+ 412 
+ Fuel capacity 
+ S/N 33001-33107: 
+ S/N 33108 thru 33213 
+ 36001 thru 36086 
+ 214.2 U.S. gal. (+152.8) total 
+ 337.5 U.S. gal. (+151.5) total 
+ 211.4 U.S. gal. usable 
+ 330.5 U.S. gal. usable 
+ 2.8 U.S. gal. unusable 
+ 7.0 U.S. gal. unusable 
+ See Note 1 for requirement to include unusable (including trapped) fuel weight in 
+ certificated empty weight. For additional fuel capacities see Note 18. 
+ Oil capacity 
+ Sys. Capacity 1.6 gal. (+182.9) each power section (.75 gal. usable). (Total capacity 
+ 3.2 gal. (+182.9)). See Note 1 for requirement to include undrainable oil weight in 
+ certificated empty weight. 
+ Rotor blade and 
+ For rigging information, refer to the Model 412 Maintenance Manual. 
+ control movements 
+ Serial numbers eligible 
+ 33001 thru 33213 except 33079, 33130, 33139 thru 33149; 33161 thru 33167; and 36001 
+ thru 36086 (See Note 20). Serial Numbers 34001 thru 34999 (See Note 34) are not 
+ eligible for FAA Certificate of Airworthiness. 
+ III - Model 412EP (Transport Helicopter - Category B), Approved June 23, 1994. (Transport Helicopter - Category A), 
+ Approved October 5 1994 
+ Data pertinent to Model 412EP Helicopters Serial Numbers 36087 thru 36999",
+Engines,"Pratt & Whitney Canada, Corp. Model PT6T-3D or PT6T - 3DE or PT6T-3DF Twin 
+ Power Section Turboshaft (Ref. Note 5 on Type Certificate Data Sheet No. E22EA)."
+Fuel,"Avjet type fuels conforming to: 
+ U.S.A. specifications ASTM D1655, Type A, A-1; or ASTM D6615, Type B; or 
+ MIL-DTL-5624, Grade JP-4 (NATO F-40) or JP-5 (NATO F-44); or MIL-DTL-83133, 
+ Grade JP-8 (NATO F-34). 
+ People’s Republic of China specification GB 6537-2006, Grade No. 3 Jet Fuel"
+"Engine Operating Limits for Model 412EP with PT6T-3D Engines 
+ Power Turbine 
+ Gas 
+ Speed - rpm 
+ Gas Generator 
+ Torque 
+ Temperature 
+ (%) 
+ Speed - rpm 
+ lb-ft 
+ °C 
+ Maximum M 
+ (%) 
+ (%) 
+ inimum 
+ Normal Operation 
+ 810 
+ 33,000 (2) 
+ 39,300 
+ 32,000 
+ Takeoff (5 minutes) 
+ 22,208 (1) 
+ (103.2) 
+ (100) 
+ (100) 
+ (97) 
+ Maximum Continuous 
+ 17,993 (1) 
+ 33,000 (2) (3) 
+ 32,000 
+ 39,300 
+ 810 
+ (81) 
+ (100) 
+ (97) 
+ (103.2) 
+ One Engine Inoperative Emer 
+ gency): 
+ 2-1/2 Minutes 
+ 902 (4) 
+ 33,000 (2) 
+ 32,000 
+ 41,600 
+ 940 
+ (81) 
+ (100) 
+ (97) 
+ (109.2) 
+ 33,000 (2) 
+ 32,000 
+ 39,500 
+ 820 
+ Continuous 
+ 815 (4) 
+ (73.2) 
+ (100) 
+ (97) 
+ (103.7) 
+ Engine Operating Limits for Model 412 EP (S/N 36072, 36082, 36119, 36122, 36123, 36126, 36127, and 36133) with PT6T-3DE Engines 
+ See Note 36 
+ Normal Operation 
+ Takeoff (5 minutes) 
+ 22,208 (1) 
+ 33,000 (2) 
+ 32,000 
+ 39,300 
+ 810 
+ (100) 
+ (100) 
+ (97) 
+ (103.2) 
+ Maximum Continuous 
+ 17,993 (1) 
+ 33,000 (2)(3) 
+ 32,000 
+ 39,300 
+ 810 
+ (81) 
+ (100) 
+ (97) 
+ (103.2) 
+ One Engine Inoperative Emergency 
+ 2-1/2 Minutes 
+ 902 (4) 
+ 33,000 (2) 
+ 32,000 
+ 41,600 
+ 940 
+ (81) 
+ (100) 
+ (97) 
+ (109.2) 
+ 30 Minutes 
+ 859 (4) 
+ 33,000 (2) 
+ 32,000 
+ 40,250 
+ 885 
+ (77) 
+ (100) 
+ (97) 
+ (105.7) 
+ Engine Operating Limits for Model 412EP with PT6T-3DF Engines (See Note 37) 
+ Normal Operation 
+ Takeoff (5 minutes) 
+ 22,208 (1) 
+ 33,000 (2) 
+ 32,000 
+ 39,300 
+ 810 
+ (100) 
+ (100) 
+ (97) 
+ (103.2) 
+ Maximum Continuous 
+ 17,993 (1) 
+ 33,000 (2)(3) 
+ 32,000 
+ 39,300 
+ 810 
+ (81) 
+ (100) 
+ (97) 
+ (103.2) 
+ One Engine Inoperative Emergency 
+ 2-1/2 Minutes 
+ 902 (4) 
+ 33,000 (2) 
+ 32,000 
+ 41,600 
+ 940 
+ (81) 
+ (100) 
+ (97) 
+ (109.2) 
+ 30 Minutes 
+ 859 (4) 
+ 33,000 (2) 
+ 32,000 
+ 40,700 
+ 885 
+ (77) 
+ (100) 
+ (97) 
+ (106.8) 
+ 1 On mast torque scale 
+ (2) 100% (33,000 rpm) corresponds to 6600 rpm engine output shaft speed. 
+ 4 On engine torque scale 
+ Rotor limits 
+ Power Off 
+ Power On 
+ Maximum 339 rpm 
+ Maximum continuous 324 rpm 
+ (Tach reading 104.5%) 
+ (Tach reading 100%) 
+ Minimum 294 rpm 
+ Maximum 339 rpm 
+ (Tach reading 91%) G.W. more than 8,000 lb 
+ (Tach reading 104.5%) 
+ Minimum 259 rpm 
+ (For 0 to 30% transmission torque) 
+ (Tach reading 80%) G.W. less than 8,000 lb 
+ Minimum 314 rpm 
+ (Tach reading 97%; see BHT-412-FM-4 
+ for rotor speed selection to flight conditions) 
+ Airspeed limits 
+ See Placard P/N 412-075-215 (VNE varies with altitude and temperature) 
+ (Max. VNE 140 KIAS). 
+ CG range 
+ (a) 
+ Longitudinal C.G. limits 
+ (135.1) to (141.4) at 11900 lb 
+ (130.0) to (144.0) at 8800 lb 
+ (130.0) to (144.0) at 6500 lb 
+ (130.4) to (144.0) at 6400 lb min. wt. 
+ Straight line variation between points given. See figure in Section 1, Model 412EP 
+ Rotorcraft Flight Manual (BHT-412-FM-4) 
+ (b) Lateral C.G. limits 
+ + 4.5 in. left and right of aircraft centerline. 
+ Empty weight CG range 
+ When possible, the empty C.G. shall be adjusted to the range given in Chapter 8, 
+ Model 412/412EP Maintenance Manual. For helicopter configurations where this is not 
+ possible, complete computation of critical fore and aft C.G. position must be determined 
+ for each loading to ensure that the entire flight is conducted within the limits of the Gross 
+ Weight Center of Gravity chart in the Limitations section of the Flight Manual. 
+ Maximum weight 
+ 11,900 lb 
+ Minimum crew 
+ 1 (pilot) Category B and Category A. See Note 14 for IFR operations. 
+ Maximum passengers 
+ 14 (Not limited by emergency exit requirements). 
+ 9 (with passenger seats re-arranged to create a nine or less passenger seat configuration - 
+ see Note 53). 
+ Maximum baggage 
+ 400 lb (See Flight Manual for loading schedule) 
+ Fuel capacity 
+ 337.5 U.S. gal. (+151.5) total 
+ 330.5 U.S. gal. usable 
+ 7.0 U.S. gal. unusable 
+ See Note 1 for requirement to include unusable (including trapped) fuel weight in 
+ certificated empty weight. For additional fuel capacities see Note 18. 
+ Oil capacity 
+ Sys. Capacity 1.6 gal. (+182.9) each power section (.75 gal. usable). (Total capacity 
+ 3.2 gal. (+182.9)). See Note 1 for requirement to include undrainable oil weight in 
+ certificated empty weight. 
+ Rotor blade and 
+ For rigging information, refer to the Model 412/412EP Maintenance Manual. 
+ control movements 
+ Serial numbers eligible 
+ 36087 thru 36999 (See Notes 20 and 43). Serial Numbers 33501 thru 33508 are not 
+ eligible for FAA Certificate of Airworthiness. (See Note 34) 
+ Data Pertinent to Model 412EP Helicopter Serial Numbers 37002 thru 37999 
+ (Improved Model 412EP, designated as 412EPI for marketing purposes, see Note 46) 
+ The following data, limitations, and conditions apply to areas of the helicopter which are changed:",
+Engines,"Pratt & Whitney Canada, Corp. Model PT6T-9 Twin Power Section Turboshaft 
+ (Ref. Note 12 on engine Type Certificate Data Sheet No. E22EA)."
+"Engine Operating Limits for Model 412EP Helicopter S/N 37002 thru 37999 with PT6T-9 Engines 
+ Power Turbine 
+ Gas Generator 
+ Torque 
+ Speed – rpm (%) 
+ Speed – rpm 
+ Gas 
+ lb-ft 
+ 100% = 33,000 
+ (%) 
+ Temperature 
+ (%) 
+ Maximum Minimum 
+ 100% = 38,100 
+ °C 
+ Normal Operation 
+ Takeoff (5 minutes) 
+ 22,208 (1) 
+ 34,155(2) 
+ 32,010 
+ 38,850 
+ 825 
+ (100) 
+ (103.5) 
+ (97) 
+ (102) 
+ 34,155(2) 
+ Maximum Continuous 
+ 17,993 (1) 
+ 32,010 
+ 38,100 
+ 785 
+ (81) 
+ (103.5) 
+ (97) 
+ (100) 
+ One Engine Inoperative Emergency 
+ 30 Seconds 
+ 1010 (3) 
+ 34,155(2) 
+ 32,010 
+ 41,200 
+ 960 
+ (90.7) 
+ (103.5) 
+ (97) 
+ (108.1) 
+ 2 Minutes 
+ 915 (3) 
+ 34,155(2) 
+ 32,010 
+ 40,160 
+ 905 
+ (82.1) 
+ (103.5) 
+ (97) 
+ (105.4) 
+ Continuous 
+ 875 (3) 
+ 34,155(2) 
+ 32,010 
+ 39,500 
+ 860 
+ (78.5) 
+ (103.5) 
+ (97) 
+ (103.7) 
+ 1 On mast torque scale 
+ (2) 100% (33,000 rpm) corresponds to 6,600 rpm engine output shaft speed. 
+ 3 On engine torque scale 
+ Rotor limits 
+ Power Off 
+ Power On 
+ Maximum 339 rpm 
+ Maximum continuous 324 rpm 
+ (Tach reading 104.5%) 
+ (Tach reading 100%) 
+ Minimum 294 rpm 
+ Maximum 335 rpm 
+ (Tach reading 91%) G.W. more than 8,000 lb 
+ (Tach reading 103.5%) 
+ Minimum 259 rpm 
+ Minimum 314 rpm 
+ (Tach reading 80%) G.W. less than 8,000 lb 
+ (Tach reading 97%; see BHT-412-FM-5 for 
+ rotor speed selection to flight conditions) 
+ Oil capacity 
+ Each engine power section tank (on accessory gearbox) has 1.6 gal. capacity, 0.75 gal. 
+ usable, and 0.5 gal. expansion space available. Reduction gearbox tank has 1.25 gal. 
+ capacity. See Note 1 for requirement to include undrainable oil weight in certificated 
+ empty weight. 
+ Serial numbers eligible 
+ 37002 thru 37999 (see Note 20) 
+ Data, limitations, and conditions for areas of the helicopter not impacted by changes, listed in Note 46, are the same as that 
+ specified herein for helicopter serial numbers 36087 thru 36999 and remain applicable. 
+ Data Pertinent to Model 412EP Helicopters Serial Numbers 36248 thru 36999 and 37002 thru 37999 with Increased Gross 
+ Weight (IGW) Kit 412-706-140 installed (see Note 50). 
+ Rotor limits 
+ Power Off 
+ Power On 
+ Maximum 339 rpm 
+ Maximum continuous 324 rpm 
+ (Tach reading 104.5%) 
+ (Tach reading 100%) 
+ Minimum 294 rpm 
+ Maximum 335 rpm 
+ (Tach reading 91%) G.W. more than 8,000 lb 
+ (Tach reading 103.5%) 
+ Minimum 259 rpm 
+ Minimum 314 rpm 
+ (Tach reading 80%) G.W. less than 8,000 lb 
+ (Tach reading 97%; see BHT-412-FMS-74.5 
+ for rotor speed selection to flight conditions) 
+ CG range 
+ (a) 
+ Longitudinal C.G. limits 
+ (135.6) to (141.1) at 12200 lb 
+ (130.0) to (144.0) at 8800 lb 
+ (130.0) to (144.0) at 6500 lb 
+ (130.4) to (144.0) at 6400 lb min. wt. 
+ Straight line variation between points given. 
+ (b) Lateral C.G. limits 
+ + 4.5 in. left and right of aircraft centerline. 
+ Maximum weight 
+ 12,200 lb 
+ Data Pertinent to Model 412EP Helicopter Serial Numbers 38001 thru 38999 and 39101 thru 39999 
+ (Improved Model 412EP, designated as 412EPX for marketing purposes, see Note 51) 
+ The following data, limitations, and conditions apply to areas of the helicopter which are changed:",
+Engines,"Pratt & Whitney Canada, Corp. Model PT6T-9 Twin Power Section Turboshaft 
+ (Ref. Note 12 on engine Type Certificate Data Sheet No. E22EA)."
+"Engine Operating Limits for Model 412EP Helicopter S/N 38001 thru 38999, and 39101 thru 39999 with PT6T-9 Engines 
+ Power Turbine 
+ Gas Generator 
+ Torque 
+ Speed – rpm (%) 
+ Speed – rpm 
+ Gas 
+ lb-ft 
+ 100% = 33,000 
+ (%) 
+ Temperature 
+ (%) 
+ Maximum Minimum 
+ 100% = 38,100 
+ °C 
+ Normal Operation 
+ Takeoff (5 minutes) 
+ with airspeed up to 60 KIAS 
+ 24,639 (1) 
+ 34,155(2) 
+ 32,010 
+ 38,850 
+ 825 
+ (111) 
+ (103.5) 
+ (97) 
+ (102) 
+ Takeoff (5 minutes) 
+ with airspeed above 60 KIAS 
+ 22,208 (1) 
+ 34,155(2) 
+ 32,010 
+ 38,850 
+ 825 
+ (100) 
+ (103.5) 
+ (97) 
+ (102) 
+ Maximum Continuous 
+ with airspeed below 60 KIAS 
+ 22,208 (1) 
+ 34,155(2) 
+ 32,010 
+ 38,100 
+ 785 
+ (100) 
+ (103.5) 
+ (97) 
+ (100) 
+ Maximum Continuous 
+ with airspeed above 60 KIAS 
+ 17,993 (1) 
+ 34,155(2) 
+ 32,010 
+ 38,100 
+ 785 
+ (81) 
+ (103.5) 
+ (97) 
+ (100) 
+ One Engine Inoperative Emergency 
+ 30 Seconds 
+ 1010 (3) 
+ 34,155(2) 
+ 32,010 
+ 41,200 
+ 960 
+ (90.7) 
+ (103.5) 
+ (97) 
+ (108.1) 
+ 2 Minutes 
+ 915 (3) 
+ 34,155(2) 
+ 32,010 
+ 40,160 
+ 905 
+ (82.1) 
+ (103.5) 
+ (97) 
+ (105.4) 
+ Continuous 
+ 875 (3) 
+ 34,155(2) 
+ 32,010 
+ 39,500 
+ 860 
+ (78.5) 
+ (103.5) 
+ (97) 
+ (103.7) 
+ 1 On mast torque scale 
+ (2) 100% (33,000 rpm) corresponds to 6,600 rpm engine output shaft speed. 
+ 3 On engine torque scale 
+ Rotor limits 
+ Power Off 
+ Power On 
+ Maximum 339 rpm 
+ Maximum continuous 324 rpm 
+ (Tach reading 104.5%) 
+ (Tach reading 100%) 
+ Minimum 294 rpm 
+ Maximum 335 rpm 
+ (Tach reading 91%) G.W. more than 8,000 lb 
+ (Tach reading 103.5%) 
+ Minimum 259 rpm 
+ Minimum 314 rpm 
+ (Tach reading 80%) G.W. less than 8,000 lb 
+ (Tach reading 97%; see BHT-412-FM- 
+ 6 for rotor speed selection to 
+ flight conditions) 
+ Oil capacity 
+ Each engine power section tank (on accessory gearbox) has 1.6 gal. capacity, 0.75 gal. 
+ usable, and 0.5 gal. expansion space available. Reduction gearbox tank has 1.25 gal. 
+ capacity. See Note 1 for requirement to include undrainable oil weight in certificated 
+ empty weight. 
+ CG range 
+ (a) 
+ Longitudinal C.G. limits 
+ (136.9) to (140.5) at 13000 lb 
+ (135.6) to (141.1) at 12200 lb 
+ (130.0) to (144.0) at 8800 lb 
+ (130.0) to (144.0) at 6500 lb 
+ (130.4) to (144.0) at 6400 lb min. wt. 
+ Straight line variation between points given. 
+ (b) Lateral C.G. limits 
+ + 4.5 in. left and right of aircraft centerline. 
+ Maximum weight 
+ 12,200 lb – internal cargo 
+ 13,000 lb – external cargo (Class B rotorcraft-load combination) 
+ Serial numbers eligible 
+ 38001 thru 38999 and 39101 thru 39999 (see Note 20) 
+ Data, limitations, and conditions for areas of the helicopter not impacted by changes, listed in Note 51, are the same as that 
+ specified herein for helicopter serial numbers 36087 thru 36999 and remain applicable. 
+ IV - Model 412CF (Transport Helicopter - Category B), Approved March 2, 1995. (Transport Helicopter - 
+ Category A), Approved March 2, 1995. See Note 33.",
+Engines,"Pratt & Whitney Canada, Corp. Model PT6T-3D Twin Power Section Turboshaft 
+ (Ref. Note 5 on Type Certificate Data Sheet No. E22EA)."
+Fuel,"Avjet type fuels conforming to ASTM D1655, Type A, A-1; or ASTM D6615, Type B; 
+ or MIL-DTL-5624, Grade JP-4 (NATO F-40) or JP-5 (NATO F-44); or MIL-DTL-83133, 
+ Grade JP-8 (NATO F-34)."
+"Engine Operating Limits for Model 412CF with PT6T-3D Engines 
+ Power Turbine 
+ Torque 
+ Speed - rpm 
+ Gas Generator 
+ Gas 
+ lb-ft 
+ (%) 
+ Speed - rpm 
+ Temperature 
+ (%) 
+ Maximum Minimum 
+ (%) 
+ °C 
+ Normal Operation 
+ Takeoff (5 minutes) 
+ 22,208 (1) 
+ 33,000 (2) 
+ 32,000 
+ 39,300 
+ 810 
+ (100) 
+ (100) 
+ (97) 
+ (103.2) 
+ 33,000 (2) (3) 
+ 32,000 
+ 39,300 
+ 810 
+ Maximum Continuous 
+ 17,993(1) 
+ (81) 
+ (100) 
+ (97) 
+ (103.2) 
+ One Engine Inoperative Emergency 
+ 33,000 (2) 
+ 32,000 
+ 41,600 
+ 940 
+ 2-1/2 Minutes 
+ 902 (4) 
+ (81) 
+ (100) 
+ (97) 
+ (109.2) 
+ 33,000 (2) 
+ 32,000 
+ 39,500 
+ 820 
+ Continuous 
+ 815 (4) 
+ (73.2) 
+ (100) 
+ (97) 
+ (103.7) 
+ 1 On mast torque scale 
+ (2) 100% (33,000 rpm) corresponds to 6,600 rpm engine output shaft speed. 
+ 4 On engine torque scale 
+ Rotor limits 
+ Power Off 
+ Power On 
+ Maximum 339 rpm 
+ Maximum continuous 324 rpm 
+ (Tach reading 104.5%) 
+ (Tach reading 100%) 
+ Minimum 294 rpm 
+ Maximum 339 rpm 
+ (Tach reading 91%) G.W. more than 8,000 lb 
+ (Tach reading 104.5%) 
+ Minimum 259 rpm 
+ (For 0 to 30% transmission torque) 
+ (Tach reading 80%) G.W. less than 8,000 lb 
+ Minimum 314 rpm 
+ (Tach reading 97% see BHT-412CF-FM-01 
+ for rotor speed selection to flight conditions) 
+ Airspeed limits 
+ See Placard P/N 412-075-215 (VNE varies with altitude and temperature) 
+ (Max. VNE 140 KIAS). 
+ CG range 
+ (a) 
+ Longitudinal C.G. limits 
+ (135.1) to (141.4) at 11900 lb 
+ (130.0) to (144.0) at 8800 lb 
+ (130.0) to (144.0) at 6500 lb 
+ (130.4) to (144.0) at 6400 lb min. wt. 
+ Straight line variation between points given. See figure in Section 1, Model 412CF 
+ Rotorcraft Flight Manual (BHT-412CF-FM-01). 
+ (b) Lateral C.G. limits 
+ + 4.5 in. left and right of aircraft centerline. 
+ Empty weight CG range 
+ When possible, the empty C.G. shall be adjusted to the range given in Chapter 8, Model 
+ 412CF Maintenance Manual (C-12-146-000/MF-001). For helicopter configurations 
+ where this is not possible, complete computation of critical fore and aft C.G. position 
+ must be determined for each loading to ensure that the entire flight is conducted within 
+ the limits of the Gross Weight Center of Gravity chart in the Limitations section of the 
+ Model 412CF Flight Manual (BHT-412CF-FM-01). 
+ Maximum weight 
+ 11,900 lb 
+ Minimum crew 
+ 1 (pilot) Category B and Category A. See Flight Manual for mission systems a 
+ additional crew. 
+ Maximum passengers 
+ 14 (Not limited by emergency exit requirements) 
+ Maximum baggage 
+ 400 lb (See Flight Manual for loading schedule) 
+ Fuel capacity 
+ 326.5 U.S. gal. (+150.2) total 
+ 317.3 U.S. gal. usable 
+ 9.2 U.S. gal. unusable 
+ See Note 1 for requirement to include unusable (including trapped) fuel weight in 
+ certificated empty weight. For additional fuel capacities see Note 18. 
+ Oil capacity 
+ Sys. Capacity 1.6 gal. (+182.9) each power section (.75 gal. usable). (Total capacity 3.2 
+ gal. (+182.9)). See Note 1 for requirement to include undrainable oil weight in 
+ certificated empty weight. 
+ Rotor blade and 
+ For rigging information, refer to the Model 412CF Maintenance Manual 
+ control movements 
+ (C-12-146-000/MF-001). 
+ Serial numbers eligible 
+ 46400 thru 46499 (See Note 20). 
+ Data Pertinent to All Models",
+Datum,"Station 0 (datum is located 20 inches aft of the most forward point of the fuselage cabin 
+ nose section)."
+Leveling means,Plumb line from top of left main door frame.
+Certification basis,"Model 212 
+ 14 CFR Part 29 dated February 1, 1965, Amdt 29-1 and 29-2, except 
+ where superseded by the following regulations at amendment level later 
+ than 29-2. 
+ 14 CFR Part 29.473, 29.501, 29.771, 29.903(c), 29.1323, 29.1505(b) 
+ Amdt 29-3 
+ Special Condition No. 29-12-SW-1, and “Guidelines For Helicopter Certification Using 
+ Vertical Takeoff Techniques From Ground Level and Elevated Heliports” vertical takeoff 
+ criteria transmitted to Bell by FAA SW-210 letter dated 3 February 1971, and IFR Instrument 
+ requirements for Bell Model 212 helicopters transmitted by SW-210 (SW-216 letter dated 
+ 1 July 1970). 
+ Equivalent Safety Finding for 14 CFR Part 29.501(e) One-skid landing loads in the level 
+ attitude (reference FAA letter to Bell Helicopter Textron, Inc. dated September 20, 1995). 
+ No Exemptions 
+ Ditching: 14 CFR Part 29.801 of Amend 29-12 including 14 CFR Part 29.1411, 29.1415 
+ Model 412 
+ 14 CFR Part 29 dated February 1, 1965, Amdt 29-1 and 29-2, except 
+ where superseded by the following regulations at amendment level later 
+ than 29-2: 
+ 14 CFR Part 29.473, 29.501, 29.663, 29.771, 29.903(c), 29.1323, 29.1505(b) 
+ Amdt 29-3 
+ Special Condition No. 29-12-SW-1 Amdt 1, and “Guidelines For Helicopter Certification 
+ Using Vertical Takeoff Techniques From Ground Level and Elevated Heliports” vertical 
+ takeoff criteria transmitted to Bell by FAA SW-210 letter dated 3 February 1971, and 
+ “Airworthiness Criteria for Helicopter Instrument Flight” dated Dec. 15, 1978. 
+ Equivalent Safety Finding for 14 CFR Part 29.501(e) One-skid landing loads in the level 
+ attitude (reference FAA letter to Bell Helicopter Textron, Inc. dated September 20, 1995). 
+ Exemption No. 3100 against 14 CFR Part 29.1323(c). 
+ Exemption No. 5985 against 14 CFR Part 29.1303(g)(1). 
+ Ditching: 14 CFR Part 29.801 of Amend 29-12 including 14 CFR Part 29.1411, 29.1415. 
+ Complied with Category A engine isolation requirements. 
+ Noise standards: 14 CFR Part 36, Subpart H dated February 5, 1988, Amdt 36-14. 
+ For Cat. A operations conducted in accordance with BHT-412-FMS-62.3 (see Note 40) 
+ compliance has been also shown with 29.53, 29.55, 29.60, 29.61, 29.64, 29.79 at Amdt 29- 
+ 39 and 29.59, 29.62, 29.67(a), 29.77, 29.81, 29.85, 29.1587(a) at Amdt 29-44 
+ Model 412EP (S/N 36087 thru 36999) 
+ 14 CFR Part 29 dated February 1, 1965, Amdt 29-1 and 29-2. 
+ For changes specific to 412EP S/N 36087 thru 36999 the certification 
+ basis is superseded by the following regulations at amendment levels 
+ later than 29-2. 
+ 14 CFR Part 29.473, 29.501, 29.663, 29.771, 29.903(c), 29.1323, 
+ 29.1505(b) 
+ Amdt 29-3 
+ 14 CFR Part 29.1457 
+ Amdt 29-6 
+ 14 CFR Part 29.939(c), 29.1322 
+ Amdt 29-12 
+ 14 CFR Part 29.1335, 29.1351 
+ Amdt 29-14 
+ 14 CFR Part 29.1353, 29.1581 
+ Amdt 29-15 
+ 14 CFR Part 29.1413 
+ Amdt 29-16 
+ 14 CFR Part 29.1545 
+ Amdt 29-17 
+ 14 CFR Part 29 Appendix A a29.1, a29.2, a29.3 
+ Amdt 29-20 
+ 14 CFR Part 29.1321 
+ Amdt 29-21 
+ 14 CFR Part 29.151, 29.161, 29.181, 29.672, 29.1303, 29.1309, 29.1325, 
+ 29.1329, 29.1331, 29.1333, 29.1355, 29.1357, 29.1555 
+ Amdt 29-24 
+ 14 CFR Part 29.1459 
+ Amdt 29-25 
+ 14 CFR Part 29.1549 
+ Amdt 29-26 
+ 14CFR Part 29 Appendix A a29.4 
+ Amdt 29-27 
+ 14 CFR Part 29 Appendix B VIII 
+ Amdt 29-31 
+ 14 CFR Part 29.2 
+ Amdt 29-32 
+ 14 CFR Part 29.53, 29.55, 29.60, 29.61, 29.64, 29.79 
+ Amdt 29-39 
+ 14 CFR Part 29.59, 29.62, 29.67(a), 29.77, 29.81, 29.85, 29.1587(a) 
+ Amdt 29-44 
+ Special Condition No. 29-12-SW-1 Amdt 1. 
+ Special Condition No. 29-ASW-5 for SAR equipped helicopters. 
+ Equivalent Safety Finding for 14 CFR Part 29.501(e) One-skid landing loads in the level 
+ attitude (reference FAA letter to Bell Helicopter Textron, Inc. dated September 20, 1995). 
+ Exemption No. 3100 against 14 CFR Part 29.1323(c). 
+ Exemption No. 5985 against 14 CFR Part 29.1303(g)(1). 
+ Ditching: 14 CFR Part 29.801 of Amend 29-12 including 14 CFR Part 29.1411, 29.1415. 
+ Complied with Category A engine isolation requirements. 
+ Noise standards: 14 CFR Part 36, Subpart H dated February 5, 1988, Amdt 36-14. 
+ If BHT Kit 412-706-089-101, Crash Attenuating Crew Seats, is installed then compliance 
+ has also been shown to 14 CFR Part 29.307 of Amend 29-4; 29.603 of Amend 29-12; 
+ 29.613 of Amend 29-17; 29.561(b) and 29.785 of Amend 29-29; and 29.562 of Amend 
+ 29-41. 
+ Model 412EP (S/N 37002 thru 37999) 
+ 14 CFR Part 29 dated February 1, 1965, Amdt 29-1 and 29-2. 
+ For changes specific to 412EP S/N 37002 thru 37999 (see Note 46) the 
+ certification basis is superseded by the following regulations at 
+ amendment levels later than 29-2. 
+ 14 CFR Part 29.473, 29.501, 29.663, 29.771, 29.773(a), 29.901, 
+ 29.903(c)(1)(2), 29.1191(a)(c)(d)(e)(f), 29.1323, 
+ Amdt 29-3 
+ 29.1505(b) 
+ 14 CFR Part 29.1457 
+ Amdt 29-6 
+ 14 CFR Part 29.1397 
+ Amdt 29-7 
+ 14 CFR Part 29.1387 
+ Amdt 29-9 
+ 14 CFR Part 29.1401 
+ Amdt 29-11 
+ 14 CFR Part 29.63, 29.939, 29.1165, 29.1322 
+ Amdt 29-12 
+ 14 CFR Part 29.1145 
+ Amdt 29-13 
+ 14 CFR Part 29.1335, 29.1351 
+ Amdt 29-14 
+ 14 CFR Part 29.29, 29.33(a)(1), 29.1353, 29.1501, 29.1527, 29.1581 
+ Amdt 29-15 
+ 14 CFR Part 29.1413 
+ Amdt 29-16 
+ 14 CFR Part 29.1091(a)(b), 29.1545 
+ Amdt 29-17 
+ 14 CFR Part 29.571, 29.1529, 14 CFR Part 29 Appendix A a29.1, a29.2, 
+ a29.3 
+ Amdt 29-20 
+ 14 CFR Part 29.1321, 14 CFR Part 29 Appendix B I, III, IV, V, VI, VII, 
+ Amdt 29-21 
+ IX (a)(b) 
+ 14 CFR Part 29.853(a)(2)(c) 
+ Amdt 29-23 
+ 14 CFR Part 29.21, 29.45(a)(b)(c)(e)(f), 29.151, 29.161, 29.181, 29.672, 
+ 29.771(a)(b)(c), 29.1303, 29.1309, 29.1325, 29.1329, 
+ 29.1331, 29.1333, 29.1355, 29.1357, 29.1517, 29.1555, 
+ 29.1559, 29.1583, 29.1585 
+ Amdt 29-24 
+ 14 CFR Part 29.1459 
+ Amdt 29-25 
+ 14 CFR Part 29.1011(d), 29.1041, 29.1043, 29.1045, 29.1047, 
+ 29.1141(a)(b)(c)(d)(f)(2), 29.1337(a)(b)(1)(2)(c)(d)(e), 
+ 29.1557(c)(2) 
+ Amdt 29-26 
+ 14CFR Part 29 Appendix A a29.4 
+ Amdt 29-27 
+ 14 CFR Part 29.337(a), 29.613(d) 
+ Amdt 29-30 
+ 14 CFR Part 29.783(e), 29.903(a)(b)(c)(3)(d)(e) 
+ Amdt 29-31 
+ 14 CFR Part 29.2 
+ Amdt 29-32 
+ 14CFR Part 29.1143(a)(b)(c)(e)(f), 29.1549 
+ Amdt 29-34 
+ 14 CFR Part 29.952(a)(1)(2)(3)(5)(6), 29.952(c), 29.952(c)(3), 
+ Amdt 29-35* 
+ 29.952(f), 29.963(b), 29.973(a), 29.973(a)(3) 
+ 14 CFR Part 29.49(a)(b)(c), 29.51, 29.53, 29.55, 29.60, 29.61, 29.64, 
+ 29.65(a), 29.75, 29.79, 29.83(a)(b), 29.87(a) 
+ Amdt 29-39 
+ 14 CFR Part 29.1305(a)(3)(4)(6-19)(21-23)(25)(26)(b)(c), 
+ 29.1309(a)(b)(2)(c)(d)(e)(f)(g)(h), 
+ 14 CFR Part 29 Appendix B VIII (a)(b)(3)(4)(5)(6)(c) 
+ Amdt 29-40 
+ 14 CFR Part 29.1521(a)(b)(1)(3)(4)(5)(6)(7)(ii)(c)(4)(d)(e)(f)(g)(h)(i)(j) 
+ Amdt 29-41 
+ 14 CFR Part 29.1329(f), 29.1351(a)(b)(3)(4)(6)(d), 29.1359 
+ Amdt 29-42 
+ 14 CFR Part 29.975(a), 29.975(a)(7) 
+ Amdt 29-42* 
+ 14 CFR Part 29.865(c)(6) 
+ Amdt 29-43 
+ 14 CFR Part 29.59, 29.62, 29.67, 29.77, 29.81, 29.85, 
+ 29.1323(a)(b)(c)(d)(e) 
+ Amdt 29-44 
+ 14 CFR Part 29.1317(a)(b)(c), 14 CFR Part 29 Appendix E 
+ Amdt 29-49 
+ 14 CFR Part 29.1587 
+ Amdt 29-51 
+ * Applicable to fuel system components that meet the 49 USC §44737 (see Note 54). 
+ Special Condition No. 29-12-SW-1 Amdt 1. 
+ Equivalent Safety Finding for 14 CFR Part 29.501(e) One-skid landing loads in the level 
+ attitude (reference FAA letter to Bell Helicopter Textron, Inc. dated September 20, 1995). 
+ Equivalent Safety Finding for 14 CFR Part 29.1305(a)(11-16) and 29.1549(a)(b)(c)(e) for 
+ the Power Situation Indicator (documented in ELOS Memo No. ST0025RC-RD/P-1) dated 
+ 1/16/13. 
+ Equivalent Safety Finding for 14 CFR Part 29.1545(b)(2) for Airspeed Indicator 
+ (documented in ELOS Memo No. ST0025RC-RD/F-2) dated 9/27/12. 
+ Equivalent Safety Finding for 14 CFR Part 29.1333(a) and 14 CFR Part 29 Appendix B 
+ VIII(b)(5)(i) and (ii) for Electronically Integrated Flight Instrument Systems (documented in 
+ ELOS Memo No. ST0025RC-RD/S-2) dated 1/25/13. 
+ Equivalent Safety Finding for 14 CFR Part 29.1555(c)(1) for the Useable Fuel Capacity 
+ Marking (documented in ELOS Memo No. ST0025RC-RD/P-2) dated 12/18/12. 
+ Ditching: 14 CFR Part 29.801 of Amend 29-12 including 14 CFR Part 29.1411, 29.1415. 
+ Complied with Category A engine isolation requirements. 
+ Noise standards: 14 CFR Part 36, Subpart H dated February 5, 1988, Amdt 36-14. 
+ If BHT Kit 412-706-089-101, Crash Attenuating Crew Seats, is installed then compliance has 
+ also been shown to 14 CFR Part 29.307 at Amdt 29-4; 29.603 at Amdt 29-12; 29.613 at 
+ Amdt 29-17; 29.561(b), 29.785 at Amdt 29-29, 29.562 at Amdt 29-41. 
+ If BHT Kit 412-706-140, Increased Gross Weight, is installed then compliance has also 
+ been shown to 14CFR Part 29.25(a)(1)(3)(4) at Amdt 29-51. 
+ Model 412EP (S/N 38001 thru 38999, and 39101 thru 39999) 
+ 14 CFR Part 29 dated February 1, 1965, Amdt 29-1 and 29-2. 
+ For changes specific to 412EP S/N 38001 thru 38999 and 39101 thru 
+ 39999 (see Note 51) the certification basis is superseded by the 
+ following regulations at amendment levels later than 29-2. 
+ 14 CFR Part 29.473, 29.501, 29.663, 29.771, 29.773(a), 29.901, 
+ 29.903(c)(1)(2), 29.1191(a)(c)(d)(e)(f), 29.1323, 
+ Amdt 29-3 
+ 29.1505(a)(2)(ii)(b) 
+ 14 CFR Part 29.607 
+ Amdt 29-5 
+ 14 CFR Part 29.1457 
+ Amdt 29-6 
+ 14 CFR Part 29.1397 
+ Amdt 29-7 
+ 14 CFR Part 29.1387 
+ Amdt 29-9 
+ 14 CFR Part 29.1401 
+ Amdt 29-11 
+ 14 CFR Part 29.63, 29.939, 29.1165, 29.1322 
+ Amdt 29-12 
+ 14 CFR Part 29.1145 
+ Amdt 29-13 
+ 14 CFR Part 29.1335, 29.1351 
+ Amdt 29-14 
+ 14 CFR Part 29.29, 29.33(a)(1), 29.1353, 29.1501, 29.1527, 29.1581 
+ Amdt 29-15 
+ 14 CFR Part 29.1413 
+ Amdt 29-16 
+ 14 CFR Part 29.1091(a)(b), 29.1545 
+ Amdt 29-17 
+ 14 CFR Part 29.571, 29.1529, 14 CFR Part 29 Appendix A a29.1, a29.2, 
+ a29.3 
+ Amdt 29-20 
+ 14 CFR Part 29.1321, 14 CFR Part 29 Appendix B I, III, IV, V, VI, VII, 
+ IX (a)(b) 
+ Amdt 29-21 
+ 14 CFR Part 29.853(a)(2)(c) 
+ Amdt 29-23 
+ 14 CFR Part 29.21, 29.45(a)(b)(c)(e)(f), 29.151, 29.161, 29.181, 29.672, 
+ 29.771(a)(b)(c), 29.1303, 29.1309, 29.1325, 29.1329, 
+ 29.1331, 29.1333, 29.1355, 29.1357, 29.1517, 29.1555, 
+ 29.1559, 29.1583, 29.1585 
+ Amdt 29-24 
+ 14 CFR Part 29.1459 
+ Amdt 29-25 
+ 14 CFR Part 29.927, 29.1011(d), 29.1041, 29.1043, 29.1045, 29.1047, 
+ 29.1141(a)(b)(c)(d)(e)(f)(2), 29.1337(a)(b)(1)(2)(c)(d)(e), 
+ 29.1557(c)(2) 
+ Amdt 29-26 
+ 14CFR Part 29 Appendix A a29.4 
+ Amdt 29-27 
+ 14 CFR Part 29.571(a)(a)(1)(ii)(b)(b)(3) 
+ Amdt 29-28* 
+ 14 CFR Part 29.337(a), 29.613(d)(e) 
+ Amdt 29-30 
+ 14 CFR Part 29.783(e), 29.903(a)(b)(c)(3)(d)(e) 
+ Amdt 29-31 
+ 14 CFR Part 29.2 
+ Amdt 29-32 
+ 14CFR Part 29.1143(a)(b)(c)(e)(f), 29.1549 
+ Amdt 29-34 
+ 14 CFR Part 29.952(a)(1)(2)(3)(5)(6), 29.952(c), 29.952(c)(3), 
+ 29.952(f), 29.963(b), 29.973(a), 29.973(a)(3) 
+ Amdt 29-35 
+ 14 CFR Part 29.49(a)(b)(c), 29.51, 29.53, 29.55, 29.60, 29.61, 29.64, 
+ 29.65(a), 29.75, 29.79, 29.83, 29.87(a) 
+ Amdt 29-39 
+ 14 CFR Part 29.1305(a)(3)(4)(6-19)(21-23)(25)(26)(b)(c), 
+ 29.1309(a)(b)(2)(c)(d)(e)(f)(g)(h), 
+ 14 CFR Part 29 Appendix B VIII (a)(b)(1)(3)(4)(5)(6)(c) 
+ Amdt 29-40 
+ 14 CFR Part 29.1521(a)(b)(1)(3)(4)(5)(6)(7)(ii)(c)(4)(d)(e)(f)(g)(h)(i)(j) 
+ Amdt 29-41 
+ 14 CFR Part 29.923(a)(b)(1)(c)(d)(e)(f)(g)(h)(i)(j)(k)(2)(k)(3)(m)(o)(p), 
+ 29.975(a), 29.975(a)(7) 29.1329(f), 
+ 29.1351(a)(b)(3)(4)(6)(d), 29.1359 
+ Amdt 29-42 
+ 14 CFR Part 29.865(a)(b)(3)(i)(c)(6)(d)(e) 
+ Amdt 29-43 
+ 14 CFR Part 29.59, 29.62, 29.67, 29.77, 29.81, 29.85, 
+ 29.1323(a)(b)(c)(d)(e) 
+ Amdt 29-44 
+ 14 CFR Part 29.397(b)(2) 
+ Amdt 29-47 
+ 14 CFR Part 29.1317, 14 CFR Part 29 Appendix E 
+ Amdt 29-49 
+ 14 CFR Part 29.25(a)(1)(3)(4) (c)(1)(3)(4)(5), 29.1587 
+ Amdt 29-51 
+ * Applicable only to modified main rotor gearbox gears. 
+ Special Condition No. 29-12-SW-1 Amdt 1. 
+ Equivalent Safety Finding for 14 CFR Part 29.501(e) One-skid landing loads in the level 
+ attitude (reference FAA letter to Bell Helicopter Textron, Inc. dated September 20, 1995). 
+ Equivalent Safety Finding for 14 CFR Part 29.1305(a)(11-16) and 29.1549(a)(b)(c)(e) for 
+ the Power Situation Indicator (documented in ELOS Memo No. ST0025RC-RD/P-1) dated 
+ 1/16/13. 
+ Equivalent Safety Finding for 14 CFR Part 29.1545(b)(2) for Airspeed Indicator 
+ (documented in ELOS Memo No. ST0025RC-RD/F-2) dated 9/27/12. 
+ Equivalent Safety Finding for 14 CFR Part 29.1333(a) and 14 CFR Part 29 Appendix B 
+ VIII(b)(5)(i) and (ii) for Electronically Integrated Flight Instrument Systems (documented 
+ in ELOS Memo No. ST0025RC-RD/S-2) dated 1/25/13. 
+ Equivalent Safety Finding for 14 CFR Part 29.1555(c)(1) for the Useable Fuel Capacity 
+ Marking (documented in ELOS Memo No. ST0025RC-RD/P-2) dated 12/18/12. 
+ Ditching: 14 CFR Part 29.801 at Amdt 29-12 including 14 CFR Part 29.1411, 29.1415. 
+ Complied with Category A engine isolation requirements. 
+ Noise standards: 14 CFR Part 36, Subpart H dated February 5, 1988, Amend 36-14. 
+ If BHT Kit 412-706-089-101, Crash Attenuating Crew Seats, is installed then compliance has 
+ also been shown to 14 CFR Part 29.307 at Amdt 29-4; 29.603 at Amdt 29-12; 29.613 at 
+ Amdt 29-17; 29.561(b), 29.785 at Amdt 29-29, 29.562 at Amdt 29-41. 
+ If Crew Seat Kit P/N 412-706-099-101/-103 is installed, then compliance is also shown to 
+ 29.1307(a) at Amdt 29-12; 29.603, 29.605(a), 29.613(a)(b) at Amdt 29-17; 29.307(a), 
+ 29.803(a)(b), 29.805(a)(b) at Amdt 29-30; 29.561 (a) (b) at Amdt 29-38; 29.562(a) (b) (c) at 
+ Amdt 29-41; 29.625, 29.785(a) (b) (c) (d) (e) (f) (g) (h) (i) (j) at Amdt 29-42; 29.773(a) at 
+ Amdt 29-57. 
+ Model 412CF 
+ 14 CFR Part 29 dated February 1, 1965, Amdt 29-1 and 29-2. 
+ For changes specific to 412CF the certification basis is superseded by the 
+ following regulations at amendment levels later than 29-2. 
+ 14 CFR Part 29.473, 29.663, 29.771, 29.903(c), 29.1323, 29.1505(b) 
+ Amdt 29-3 
+ 14 CFR Part 29.1457 
+ Amdt 29-6 
+ 14 CFR Part 29.1397 
+ Amdt 29-7 
+ 14 CFR Part 29.1387 
+ Amdt 29-9 
+ 14 CFR Part 29.1401 
+ Amdt 29-11 
+ 14 CFR Part 29.939(c), 29.1322 
+ Amdt 29-12 
+ 14 CFR Part 29.1335, 29.1351 
+ Amdt 29-14 
+ 14 CFR Part 29.1353, 29.1581 
+ Amdt 29-15 
+ 14 CFR Part 29.1413 
+ Amdt 29-16 
+ 14 CFR Part 29.1545 
+ Amdt 29-17 
+ 14 CFR Part 29.1321 
+ Amdt 29-21 
+ 14 CFR Part 29.151, 29.161, 29.672, 29.1303, 29.1309, 29.1325, 29.1329, 
+ 29.1331, 29.1333, 29.1355, 29.1357, 29.1555, 29.1559 
+ Amdt 29-24 
+ 14 CFR Part 29.1459 
+ Amdt 29-25 
+ 14 CFR Part 29.1549 
+ Amdt 29-26 
+ 14 CFR Part 29.501 
+ Amdt 29-30 
+ 14 CFR Part 29 Appendix B 
+ Amdt 29-31 
+ 14 CFR Part 29.2 
+ Amdt 29-32 
+ Special Condition No. 29-12-SW, Amdt 1. 
+ Equivalent Safety Finding for 14 CFR Part 29.501(e) One-skid landing loads in the level 
+ attitude (reference FAA letter to Bell Helicopter Textron, Inc. dated September 20, 1995). 
+ Exemption No. 3100 against 14 CFR Part 29.1323(c). 
+ Exemption No. 5985 against 14 CFR Part 29.1303(g)(1). 
+ Ditching: 14 CFR Part 29.801 of Amend 29-12 including 14 CFR Part 29.1411, 29.1415. 
+ Complied with Category A engine isolation requirements. 
+ Noise standards: 14 CFR Part 36, Subpart H dated February 5, 1988, Amdt 36-14. 
+ Type Certificate H4SW issued 30 October 1970. 
+ Date of application for Type Certificate 17 January 1968."
+Production basis,Production Certificate No. 100. See Note 20.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ (See Notes 4, 7, 11, 12, 
+ regulations (See Certification Basis) must be installed in the helicopter for 
+ 14, 15, 16, 21, 24, 26, 27, 
+ certification. In addition, the following items of equipment are required with each 
+ 29, 30, 31, 32, 45, 49, 50) 
+ helicopter as specified: 
+ (1) FAA approved Bell Model 212 Rotorcraft Flight Manual BHT-212VFR-FM-1 Reissue dated 
+ 14 August 1995 or later FAA approved revision. Replaces previously published Model 212 
+ VFR Rotorcraft Flight Manuals BHT-212-FM-1, BHT-212-FM-2, and BHT-212-FM-3 for VFR 
+ configuration of S/N 30504 thru 31311, and 35001thru 35108. 
+ (2) FAA approved Bell Model 212 Flight Manual Supplement BHT-212-FMS-7 for Category A 
+ Operations dated 30 June 1971, reissued 18 August 1972, or later FAA approved revision. See 
+ Note 7. 
+ (3) FAA approved Bell Model 212 Flight Manual Supplement BHT-212-FMS-23 for PT6T-3B 
+ engine has been incorporated in the basic flight manuals - Items (13) and 14). See Note 35. 
+ (4) FAA approved Bell Model 412 Flight Manual, BHT-412-FM-1, dated January 9, 1981, or later 
+ FAA approved revision for Transport Category B (S/N 33001-33107). 
+ (5) Model 412. Airspeed indicator P/N 412-075-009-105. 
+ (6) FAA approved Bell Model 412 Flight Manual, BHT-412-FM-1, Revision 2, dated March 20, 
+ 1981, or later FAA approved revision for IFR operations (SN 33001-33107). FAA approved 
+ Bell Model 212 Flight Manual BHT-212-FM-4 for S/N 30504 thru 30596 or BHT-212-FM-5 
+ for S/N 30597 thru 31311 and S/N 35001thru 35108 for IFR operations. 
+ (7) When 412 part number passenger seats are used, they must include their seat belt and shoulder 
+ harness. 
+ (8) FAA approved Bell Model 412 Flight Manual Supplement for Category A operations 
+ (BHT-412-FMS-10). 
+ (9) FAA approved Bell Model 412 Flight Manual, BHT-412-FM-2, dated November 17, 1983, or 
+ later FAA approved revision for Transport Category B or A, VFR or IFR operation (S/N 33108 
+ thru 33213 and 36001 thru 36019). 
+ (10) FAA approved Bell Model 412 Flight Manual, BHT-412-FM-3, dated February 5, 1991, or later 
+ FAA approved revision for Transport Category B or A, VFR or IFR operation (S/N 36020 thru 
+ 36086). 
+ (11) FAA approved Bell Model 412EP Flight Manual, BHT-412-FM-4, dated June 23, 1994, or later 
+ FAA approved revision for Transport Category B or A, VFR or IFR operation (S/N 36087 thru 
+ 36999). 
+ (12) FAA approved Bell Model 412CF Rotorcraft Flight Manual, BHT-412CF-FM-01 dated March 
+ 2, 1995, or later FAA approved revision for Transport Category B or A, VFR or IFR operation 
+ (S/N 46400 thru 46499). 
+ (13) Deleted by Revision 29, December 8, 2014. 
+ (14) FAA approved Bell Model 212 Rotorcraft Flight Manual BHT-212IFR-FM-1 Reissue dated 14 
+ August 1995 or later FAA approved revision. Replaces previously published Model 212 IFR 
+ Rotorcraft Flight Manuals BHT-212-FM-4 and BHT-212-FM-5 for IFR configuration of S/N 
+ 30504 thru 31311, and S/N 35001thru 35108. See Note 12. 
+ (15) FAA approved Bell Model 412EP Rotorcraft Flight Manual, BHT-412-FM-5, dated 10 
+ October, 2014, or later FAA approved revision for Transport Category B or A, VFR or IFR 
+ operation (S/N 37002 thru 37999). 
+ (16) FAA approved Bell Model 412EP Rotorcraft Flight Manual, BHT-412-FM-6, dated 28 June 
+ 2018, or later FAA approved revision for Transport Category B or A, VFR or IFR operation 
+ (S/N 38001 thru 38999 and S/N 39101 thru 39999). 
+ NOTES"
+NOTE 1,"A current weight and balance report, including list of equipment included in the certificated empty weight and 
+ loading instructions when necessary, must be provided for each helicopter at the time of original certification. This 
+ is in accordance with 14 CFR 29.25, 29.27, 29.29, and 29.31. 
+ The Model 212 certificated empty weight and corresponding C.G. locations must include undrainable oil of 7.1 lb 
+ (+230.7) and unusable fuel of 28.3 lb (+142.8). For aircraft with kit 412-704-001 installed, the unusable fuel is 28.3 
+ lb (+142.8). 
+ The Model 412, 412EP, and 412CF certificated empty weight and corresponding C.G. location must include 
+ undrainable oil of 7.1 lb (+230.7). For aircraft S/N 33001 thru 33107 (412) unusable fuel of 28.3 lb (+142.8). For 
+ aircraft S/N 33108 thru 33213 (412), 36001 thru 36086 (412), and 36087 thru 36999 (412EP), and 37002 thru 37999 
+ (412EP), and 38001 thru 38999, and 39101 thru 39999 (412EP) the unusable (including trapped) fuel is 47.6 lb 
+ (+128.0). For aircraft 46400 thru 46499 (412CF), the unusable (including trapped) fuel is 62.4 lb (+123.4). 
+ When possible, the empty weight/C.G. shall be adjusted to the range given in Chapter 8, 212 Maintenance Manual, 
+ and 412/412EP and 412CF Maintenance Manuals. For helicopter configurations where this is not possible, complete 
+ computations of critical fore and aft C.G. positions must be determined for each loading to ensure that the entire 
+ flight is conducted within the limits of the G.W./C.G. chart in the Limitations section of the Flight Manual."
+NOTE 2,"All placards required by either the FAA approved Rotorcraft Flight Manual, the Flight Manual Supplements, the 
+ applicable operating rules, or the Certification Basis must be installed in the helicopter. This is in accordance with 
+ 14 CFR 29.1541 through 29.1559. 
+ The following placards must be displayed in front of and in clear view of the pilot. 
+ (a) Model 212: “This helicopter must be operated in compliance with the operating limitations specified in the 
+ FAA Approved Rotorcraft Flight Manual.” 
+ (b) Model 412, Model 412CF and Model 412EP (S/N 36087 thru 36999): “This helicopter must be operated in 
+ compliance with the operating limitations specified in the FAA Approved Rotorcraft Flight Manual.” 
+ (c) Model 412EP (S/N 37002 thru 37999, and S/N 38001 through 38999, and S/N 39101 thru 39999): “This 
+ rotorcraft is approved for Day / Night VFR/IFR, Non-icing operation” 
+ All placards required in the FAA approved Flight Manual must be installed in the appropriate locations. Placards 
+ and markings with their appropriate locations are also presented in Chapter 11 of the maintenance manual."
+NOTE 3,"For Model 212, 412, 412EP, and 412CF the retirement times of certain parts and inspection requirements are listed 
+ in the FAA approved Airworthiness Limitations, Chapter 4, of the Model 212, 412/412EP and 412CF Maintenance 
+ Manuals. Refer to Chapter 1 of the Maintenance Manual for a list of publications essential to the proper maintenance 
+ of the rotorcraft."
+NOTE 4,"Model 212 helicopters equipped with the external cargo suspension installation completed in accordance with Bell 
+ Drawing 212-706-103 meet the structural and design requirements of the certification basis when operated to 11,200 
+ pounds gross weight in accordance with the limits of FAA Approved Model 212 Flight Manual Supplement, 
+ BHT-212-FMS-3, dated 29 October 1970, reissued 14 August 1995, or later FAA approved revision, for 11,200 
+ pounds gross weight. The life limitations and inspection requirements referred in Note 3 are not changed."
+NOTE 5,"A partition must not be installed between the passenger and crew compartments that will obstruct the pilot’s view 
+ of the passenger large sliding doors and hinged panels. Interior linings must not be installed that obstruct the view 
+ of the crew/passenger (forward) door latch engagements with the fuselage."
+NOTE 6,"For 212 S/N 30504 through 30553 the inspection of the engine exhaust ducts and ejectors must be conducted in 
+ accordance with Bell Service Letter No. 212-4 dated October 1970, or later FAA approved revision."
+NOTE 7,"Only Model 212 Category B helicopters equipped with skid landing gear are eligible for Category A when modified 
+ by incorporating modifications of Bell Service Instruction No. 212-17 (212-706-029 Altimeter Kit) and installing 
+ the Dual Control Kit P/N 212-706-005-3 or 204-706-034-5 and the Copilot's Instrument Kit P/N 212-706-104-1 or 
+ 212-706-110-1."
+NOTE 8,"Deleted by Revision 5, May 15, 1975."
+NOTE 9,"Deleted by Revision 20, August 20, 1993."
+NOTE 10,"Bulkheads, fences, or partitions must not be installed between the passenger and crew compartments when the 
+ helicopter is equipped with Litter Kit No. 205-706-047."
+NOTE 11,"Model 212 S/N 30503 incorporating IFR Modification No. 212-961-041 is eligible for IFR operations when operated 
+ in accordance with the limitations of FAA Approved Flight Manual Supplement for IFR Operations dated December 
+ 15, 1972, or later FAA approved revision. Minimum crew 2 (pilot and copilot) for IFR instrument operations."
+NOTE 12,"S/N 30504 thru 30596 incorporating IFR Kit No. 212-706-106, S/N 30597 thru 30603 and 30611 thru 30679 
+ incorporating IFR Kit No. 212-706-041, S/N 30680 thru 30849 incorporating IFR Kit No. 212-706-109, and S/N 
+ 30850 thru 31311 incorporating IFR Kit No. 212-706-112, are eligible for IFR operations when operated in 
+ accordance with the limitations of the FAA Approved Flight Manual BHT-212IFR-FM-1 dated 14 August 1995, or 
+ later FAA approved revision. Minimum crew 2 (pilot and copilot) for IFR instrument conditions. Installation of 
+ IFR Fin Kit No. 212-706-114 is not required for IFR operations of the Model 212."
+NOTE 13,"Compliance with Bell Service Bulletin No. 212-9 must be assured prior to issuing a U.S. Airworthiness Certificate 
+ for Bell Model 212 helicopters, S/N 30519, 30522, 30523, and 30524."
+NOTE 14,"Model 412 and 412EP helicopters incorporating IFR modification No. 412-705-006 are eligible for IFR operations 
+ when operated in accordance with the limitations of FAA Approved Flight Manual Revision 2 dated March 20, 
+ 1981, or later FAA approved revision, or later FAA approved Flight Manual. Minimum crew one (pilot) for IFR 
+ operations."
+NOTE 15,"Model 412 and 412EP helicopters equipped with the external cargo suspension kit installed in accordance with 
+ Bell Drawing 212-706-103 meet the certification basis when operated in accordance with FAA Approved Flight 
+ Manual Supplement BHT-412-FMS-9, or FAA approved Flight Manual BHT-412CF-FM-01 for Model 412CF 
+ helicopters."
+NOTE 16,"Model 412 and 412EP helicopters equipped with the internal hoist kit installed in accordance with Bell Drawing 
+ 214-706-003 or 412-899-223 meet the certification basis when operated in accordance with FAA Approved Flight 
+ Manual Supplement BHT-412-FMS-7 or BHT-412-FMS-26."
+NOTE 17,"Crashworthy fuel cell kit 412-704-001 is approved for installation in the Model 212. When this kit is installed in 
+ lieu of the standard cells, the fuel capacity becomes 214 U.S. gallons and the usable becomes 211 U.S. gallons."
+NOTE 18,"Model 412 series helicopters equipped with Auxiliary Fuel Kit 412-706-007 have fuel capacities (including basic 
+ system) as follows: 
+ 412 (S/N 33108 thru 33213, 36001 thru 36086), 412EP 
+ 412 (S/N 33001 thru 33107): 
+ With Left or Right Auxiliary Tank: 
+ With Left or Right Auxiliary Tank: 
+ 419.1 U.S. gal. (+150.9) Total 
+ 295.8 U.S. gal. (+157.7) Total 
+ 412.1 U.S. gal. Usable 
+ 293 U.S. gal. Usable 
+ 7 U.S. gal. Unusable 
+ 2.8 U.S. gal. Unusable 
+ (See Note 1) 
+ (See Note 1) 
+ With Both Left and Right Auxiliary Tanks: 
+ With Both Left and Right Auxiliary Tanks: 
+ 500.8 U.S. gal. (+150.6) Total 
+ 377.5 U.S. gal. (+151.2) Total 
+ 493.8 U.S. gal. Usable 
+ 374.7 U.S. gal. Usable 
+ 7 U. S. gal. Unusable 
+ 2.8 U.S. gal. Unusable 
+ (See Note 1) 
+ (See Note 1) 
+ 412CF 
+ With Left or Right Auxiliary Tank: 
+ 408.2 U.S. gal (+149.9) Total 
+ 399.0 U.S. gal. Usable 
+ 9.2 U.S. gal. Unusable 
+ (See Note 1) 
+ With Both Left and Right Auxiliary Tanks: 
+ 489.9 U.S. gal. (+149.7) Total 
+ 480.7 U.S. gal. Usable 
+ 9.2 U.S. gal. Unusable 
+ (See Note 1)"
+NOTE 19,"For Model 412 S/Ns 33001 thru 33107 complying with BHT Technical Bulletin 412-84-44 and operated in 
+ accordance with FAA Approved Flight Manual Supplement BHT-412-FMS-19.1, the transmission torque and 
+ maximum gross weight / C.G. limits are as shown for the 412 (S/N 33108 thru 33213)."
+NOTE 20,"Model 212 S/N 35001thru 35108 and Model 412 series S/N 36001 thru 36292, and 46400 thru 46499 (See Note 33) 
+ are manufactured by Bell Helicopter Textron, a Division of Textron Canada Limited, under the Transport Canada 
+ Manufacturing Approval No. 1-86. Model 412EP S/N 36293 thru 36999, and S/N 37002 thru 37999, and S/N 39101 
+ thru 39999 are manufactured by Bell Textron Canada Limited, under the Transport Canada Manufacturing Approval 
+ No. 1-86 according to the approved “FAA-TCCA Management Plan for Bell Helicopter Civil Aeronautical 
+ Products”. 
+ Import Requirements: 
+ Refer to the applicable bilateral agreement to verify eligibility for import based on the scope of the agreement, 
+ to identify any required statements on the export certificate of airworthiness (or equivalent document), and for 
+ procedures for coordinating exceptions to conformity statements on these documents. Refer to FAA Order 
+ 8130.2, Airworthiness Certification of Aircraft, provisions for Import Aircraft, for requirements for issuance of 
+ an airworthiness certificate."
+NOTE 21,"Deleted by Revision 23, May 20, 1998."
+NOTE 22,"Deleted by Revision 20, August 20, 1993."
+NOTE 23,"Model 412 S/N 36020 thru 36086 having Model PT6T-3BE engines installed meet certification basis when operated 
+ in accordance with FAA Approved Flight Manual BHT-412-FM-3."
+NOTE 24,"Aircraft Model 412 S/N 33108 thru 33213 and S/N 36001 thru 36019 are eligible for improved hover operation 
+ when modified in accordance with BHTI Mod Drawing. 412-570-001-103 and operated in accordance with FAA 
+ Approved Flight Manual Supplement BHT-412-FMS-34.2."
+NOTE 25,"Deleted by Revision 21, June 23, 1994."
+NOTE 26,"Model 212 helicopter equipped with Increased Takeoff Horsepower Kit No. 212-704-153 and operated in 
+ accordance with FAA Approved Flight Manual Supplement BHT-212-FMS-29 are approved for operation with a 
+ takeoff (5 minutes) transmission torque of 104.3% (537 lb-ft) per engine."
+NOTE 27,"a) Model 412 S/N 36020 thru 36080 having Model PT6T-3D engines installed in accordance with BHT Technical 
+ Bulletin 412-93-119 and modified with 412-706-029 Maximum Continuous Power Kit are eligible for improved 
+ hover operation when operated in accordance with FAA Approved Flight Manual Supplement BHT-412-FMS-45.3 
+ or BHT-412-FMS-45.3 & 45.4. 
+ b) Model 412 S/N 36081 thru 36999 modified with 412-706-029 Maximum Continuous Power Kit are eligible for 
+ improved hover operation when operated in accordance with FAA Approved Flight Manual Supplement 
+ BHT-412-FMS-45.4 or BHT-412-FMS-45.3 & 45.4."
+NOTE 28,"Model 212 S/N 35038 thru 35108, and Model 412 S/N 36026, Model 412EP S/N 36037 thru 36999, and Model 
+ 412CF S/N 46400 thru 46499 incorporate provisions for cockpit voice recorders and flight data recorders (Reference 
+ FAR 29.1457, 29.1459)."
+NOTE 29,"Model 412 S/N 36020 thru 36086 having Model PT6T-3D engines installed but not modified with 412-706-029 
+ Maximum Continuous Power Kit shall be operated in accordance with FAA Approved Flight Manual Supplement 
+ BHT-412-FMS-46.3."
+NOTE 30,"Model 412 (S/N 36001 thru 36086) and 412EP (S/N 36087 thru 36999) helicopters equipped with Dual Digital 
+ Automatic Flight Control System with Search and Rescue Kit installed in accordance with BHT Mod Dwg. 
+ 412-570-002 meet the certification basis when operated in accordance with FAA Approved Flight Manual 
+ Supplement BHT-412-FMS-39.3 or 39.4 respectively."
+NOTE 31,"Model 412EP helicopters equipped with Dual Digital Automatic Flight Control System (4-axis) Kit No. 
+ 412-705-024 and Electronic Flight Instrument System (EFIS) Kit No. 412-705-009 meet the certification basis when 
+ operated in accordance with FAA Approved Flight Manual Supplement BHT-412-FMS-38.4."
+NOTE 32,"Model 412EP helicopters equipped with Flight Director Kit No. 412-706-024 meet the certification basis when 
+ operated in accordance with FAA Approved Flight Manual Supplement BHT-412-FMS-37.4."
+NOTE 33,"Model 412CF helicopters are utility/tactical transport/rescue versions of the Model 412EP manufactured for the 
+ Canadian Military. The FAA approved Model 412CF helicopter is defined by Bell Helicopter Textron Drawing 
+ Number 412-900-004 Revision CA dated November 19, 1994, or later FAA approved revision. Prior to return to 
+ civil operations, the following must be accomplished: 
+ (a) The maintenance, overhaul and modifications records of each aircraft must be reviewed for changes made by 
+ the military services that may affect the airworthiness of the aircraft. Modifications, changes of equipment and 
+ major repairs must be approved by the FAA. All items that are not FAA approved must be removed from the 
+ aircraft. 
+ (b) Comply with all applicable FAA Airworthiness Directives. 
+ (c) Each deviation from the approved type design required for civil certification must be corrected per approved 
+ data. 
+ (d) Incorporate civil markings in accordance with markings installations 212-070-600-005/-121/-131 in lieu of 
+ military markings 412-070-600-101/-103/-105. 
+ (e) Install FAA approved radios as part of the type design."
+NOTE 34,"Bell Model 412 helicopters, S/N 34001 thru 34999, and parts produced by Industri Pesawat Terbang Nusantara 
+ (IPTN), Republic of Indonesia, are not eligible for Airworthiness Certification in the United States. Helicopters S/N 
+ 33501 thru 33508 delivered to the Royal Saudi Air Force (RSAF) are not eligible for Airworthiness Certification in 
+ the United States."
+NOTE 35,"Model 212 prior to S/N 31125 shall incorporate all equipment specified in TB 212-81-54 prior to operation with 
+ Model PT6T-3B engines."
+NOTE 36,"Model 412EP S/N 36072, 36082, 36119, 36122, 36123, 36126, 36127, and 36133 having Model PT6T-3DE engines 
+ installed shall be operated in accordance with FAA approved flight manual supplement BHT-412-FMS-53.4."
+NOTE 37,"Model 412 and 412EP having Model PT6T-3DF engines installed shall be operated in accordance with FAA 
+ approved flight manual supplement BHT-412-FMS-56.3 or BHT-412-FMS-56.4."
+NOTE 38,"Model 412EP S/N 36095, 36125, 36144, 36145, 36151, 36162, 36163, 36164, and 36156 were delivered to the UK 
+ for military training. Subsequent to delivery extensive modifications were made which are not FAA approved. Prior 
+ to U.S registration these aircraft must be reconfigured to the FAA approved configuration for the Model 412EP."
+NOTE 39,"Model 412EP S/N's 36172, 36193, 36194, 36195, 36302, and 36303 were delivered to the Royal Thai Air Force in 
+ a FAA VFR approved configuration, Reference BHT-412-FMS-60.4. Due to Non FCC approved Radio/Avionic 
+ installations these aircraft are required to be reconfigured to an approved FAA IFR configuration prior to U.S. 
+ registration."
+NOTE 40,"Model 412 and 412EP helicopter having Model PT6T-3D series engines installed and performing Category A 
+ operations, shall be operated in accordance with FAA-approved flight manual supplements BHT-412-FMS 62.3 or 
+ BHT-412-FMS 62.4."
+NOTE 41,"Model 412 having Model PT6T-3BF engines (30 Minute OEI Rating) installed shall be operated in accordance with 
+ FAA approved flight manual supplement BHT-412-FMS-67.1 and BHT-412-FMS-67.2. This supplement shall be 
+ attached to Model 412 Flight Manual (BHT-412-FM-1, BHT-412-FM-2, or BHT-412-FMS-19.1)."
+NOTE 42,"Model 412 having Model PT6T-3BG engines (30 Minute OEI Rating) installed shall be operated in accordance with 
+ FAA approved flight manual supplement BHT-412-FMS-68.3. This supplement shall be attached to Model 412 
+ Flight Manual (BHT-412-FM-3, or BHT-412-FMS-34.2)."
+NOTE 43,"Bell Model 412EP helicopters, S/N 36327, 36336, 36339, 36341 thru 36345 and parts thereof were operated as 
+ foreign military aircraft and must be conformed by Bell Textron Inc. prior to issuance of any FAA Standard 
+ Airworthiness Certificate."
+NOTE 44,"Deleted by Revision 29, December 8, 2014"
+NOTE 45,"Model 412 serial numbers 33108 through 33129, 33131 through 33138, 33150 through 33160, 33168 through 33213, 
+ and 36001 thru 36019 are eligible for improved hover and climb performance when modified with the 412SP to 
+ 412HP Upgrade Kit in accordance with BHTI Drawing 412-704-052, and operated in accordance with FAA 
+ approved Flight Manual BHT-412-FM-3."
+NOTE 46,"Model 412EP, helicopter serial numbers 37002 through 37999, represents productionization of STC SR09600RC 
+ (Bell BasiX-Pro Glass Cockpit and Pratt&Whitney Canada PT6T-9 engine), SR09535RC-D (Installation of a Dual 
+ Tailboom Strakes and FastFin System), and incorporation into the type design of P/N 412-016-100-111 Blade Assy- 
+ Tail Rotor. It is referred as “412EPI” for marketing purposes to highlight upgraded engine and glass cockpit."
+NOTE 47,"Model 412EP helicopters serial numbers 37002 thru 37999 performing Category A operations shall be operated in 
+ accordance with FAA approved flight manual supplement BHT-412-FMS-62.5."
+NOTE 48,"Model 412EP helicopters serial numbers: 37002 thru 37999, and serial numbers 38001 thru 38999, and serial 
+ numbers 39101 thru 39999 employ electronic engine controls, commonly named Full Authority Digital Engine 
+ Controls (FADEC) that are recognized to be more susceptible to Electromagnetic Interference (EMI) than rotorcraft 
+ that have manual (non-electronic) controls. EMI may be the result of radiated or conducted interference. For this 
+ reason, modifications that add or change systems that have the potential for EMI, must either be qualified to a 
+ standard acceptable to the FAA or tested at the time of installation for interference to the FADEC. This type of 
+ testing must employ the particular FADEC diagnostic techniques and external diagnostic techniques. The test 
+ procedure must be approved."
+NOTE 49,"Model 412EP helicopters equipped with PT6T-9 engine and having the Extended Hover Performance Kit 
+ 412-706-120 installed shall be operated in accordance with FAA approved flight manual supplement BHT-412- 
+ FMS-80.5."
+NOTE 50,"Model 412EP helicopters equipped with PT6T-9 engine and having the Increased Gross Weight Kit 412-706-140 
+ installed shall be operated in accordance with FAA-approved flight manual supplement BHT-412-FMS-74.5 and 
+ maintained airworthy in accordance with Chapter 4 of BHT-412MM-2 Rev. 24 or later FAA approved revision."
+NOTE 51,"Model 412EP, helicopter serial numbers 38001 thru 38999, and serial numbers 39101 thru 39999, represent the 
+ productionization of STC SR09600RC (Bell BasiX-Pro Glass Cockpit and Pratt&Whitney Canada PT6T-9 engine) 
+ and STC SR09535RC-D (Dual Tailboom Strakes and FastFin System) and incorporation into the type design of the 
+ modified lever assembly of main rotor collective control, modified tail rotor blades, modified main gearbox and 
+ mast assembly, modified main rotor hub, and upgraded displays. It is designated 412EPX for marketing purposes 
+ only."
+NOTE 52,"Model 412EP helicopters serial numbers 38001 thru 38999 and serial numbers 39101 thru 39999, performing 
+ Category A operations shall be operated in accordance with FAA approved flight manual supplement 
+ BHT-412-FMS-62.6."
+NOTE 53,"Re-arrangement of type certificate passenger seating to limit passenger seating to nine (9) or less passengers by 
+ removal of type-certificated seat(s). Category B operations with nine or less passenger seats in accordance with 
+ Rotorcraft Flight Manual Supplements: 
+ BHT-412FMS 35.1& 35.2 for Model 412, 412SP S/N 33001 thru 36019; 
+ BHT-412FMS 35.3 & 35.4 for Model 412HP and 412EP S/N 36020 thru 36086, and 36087 thru 36999; 
+ BHT-412-FMS 35.5 for Model 412EP S/N 37002 thru 37999; 
+ BHT-412-FMS 35.6 for Model 412EP S/N 38001 thru 38999 and 39101 thru 39999."
+NOTE 54,"To be eligible for operations in the U.S airspace, the Model 412EP S/N 37002 through 37999 manufactured after 
+ April 5, 2020 must be compliant with the crash resistant fuel system requirements of 49 USC §44737. 
+ Compliance is achieved by installation of the fuel system comprised of fuel cells P/N 412-361-705-101, 412-361- 
+ 706-101, 412-361-707-101, 412-361-707-102, 412-361-708-101, 412-361-708-102, 412-361-703-101, 412-361- 
+ 709-101, 412-361-710-101, 412-361-711-101, and Kit 412-704-160, Retrofit Kit - Fuel System Instl. 
+ Model 412EP S/N 37002 through 37999 manufactured on or before April 5, 2020 will be compliant with the crash 
+ resistant fuel system requirements of 49 USC§44737 if retrofitted with fuel cells P/N 412-361-705-101, 412-361- 
+ 706-101, 412-361-707-101, 412-361-707-102, 412-361-708-101, 412-361-708-102, 412-361-703-101, 412-361- 
+ 709-101, 412-361-710-101, 412-361-711-101, and Kit 412-704-160, Retrofit Kit - Fuel System Instl."
+NOTE 55,"Model 412EP S/N 37012 was delivered to Japan for military use. Subsequent to delivery extensive modifications 
+ were made which are not FAA approved. Prior to U.S registration this aircraft must be reconfigured to the FAA 
+ approved configuration for the Model 412EP."

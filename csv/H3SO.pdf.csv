@@ -1,0 +1,618 @@
+Keyterm,Info
+"H3SO 
+ Revision 17 
+ Richards Heavylift Helo, 
+ Inc. 
+ UH-1A 
+ UH-1B 
+ UH-1H 
+ May 02, 2016",
+Type Certificate Holder,"Richards Heavylift Helo, Inc. 
+ 1181 Osprey Nest Point 
+ Orange Park, Florida 32073"
+Type Certificate Holder Record,"TC issued to Wilco Aviation on November 21, 1974. 
+ Wilco Aviation transferred TC to Southern Aero Corporation on July 10, 1984. 
+ Southern Aero Corporation transferred TC to UNC Helicopter Inc. on May 10, 1994. 
+ UNC Helicopters, Inc. transferred TC to US Helicopter, Inc. on December 27, 1995. 
+ US Helicopter Inc. transferred TC to S.M.&T. Aircraft on August 23, 2001. 
+ S.M.&T. Aircraft transferred to Richards Heavylift Helo, Inc. on October 18, 2005 
+ Richards Heavylift Helo, Inc. address change on March 22, 2010. 
+ Richards Heavylift Helo, Inc. address change on May, 02, 2016."
+"I. - Model UH-1A (Restricted Category) approved November 21, 1974 
+ (See Note 8 & 10 regarding helicopter, engines and appliances)",
+Engine,Lycoming T-53-L-1A
+Fuel,"MIL-T-5624, Grade JP-4 (Jet B) (See note 11 for alternate fuels)"
+Engine Limits,"Torque Pressure 
+ Output Shaft 
+ Exhaust Gas Temp 
+ (p.s.i.) 
+ (r.p.m.) 
+ (° C) 
+ Takeoff (5 min.) 
+ 34 (860 HP) 
+ 6400 (98%) 
+ 760 
+ Maximum continuous 
+ 30.5 (770 HP) 
+ 6200 (94%) 
+ 385"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 330 R.P.M. 
+ Maximum 314 R.P.M. 
+ Minimum 285 R.P.M. 
+ Minimum 310 R.P.M."
+Airspeed Limits,"Never exceed 120 mph (105 knots) up to and including 7200 lbs. G.W. at sea level. 
+ Velocity decreases 3.5 mph per 1000 ft. (3 knots per 1000 ft.) (See NOTE 2 for required 
+ placard)."
+C G Range,"(+128.0) to 
+ (+137.5)"
+Maximum Gross Weight,7200 lbs.
+Minimum Crew,1 (pilot)
+No of Seats,See Note 11
+Fuel Capacity,125 gallons (+136).
+Oil Capacity,6 gallons (+157.0) unusable oil 1.6 gallons (included in capacity)
+Movements,"For rigging information, refer to Technical Manual 55-1520-218-20."
+Other Operating Limitations,"Flight hours are counted from takeoff to landing. 
+ The helicopters approved under this type certificate are done so under the concept of 
+ limited exposure associated with escape from inadvertent ice encounters, and are 
+ prohibited against flight into known icing. The helicopters must be re-evaluated if 
+ certification to the General Ice Protection Airworthiness Regulations is required. 
+ Battery must be moved to Station (+3.4) and US/Rotal Ballast Box, part no. 
+ W/R 10-20-74, W/R 10-25-74 must be installed at (+3.4) for solo operation when no 
+ additional crew, or internal cargo or equipment is carried within the cockpit or cabin. 
+ (See NOTE 2 for required placard.)"
+"II. - Model UH-1B (Restricted Category) approved December 21, 1976. 
+ (See note 8 & 10 regarding helicopter, engines and appliances)",
+Engine,Lycoming T53-L-11D series or T5311B.
+Fuel,"MIL-T-5624, Grade JP-4 (Jet B) (See note 11 for alternate fuels)."
+Engine Limits,"Torque Pressure 
+ Output Shaft 
+ Exhaust Gas Temp 
+ (p.s.i.) 
+ (r.p.m.) 
+ (° C) 
+ Takeoff (5 min.) 
+ 47.5 (1100 HP) 
+ 6600 
+ 610 
+ Maximum continuous 
+ 39.0 ( 900 HP) 
+ 6400 
+ 590"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 339 R.P.M. 
+ Maximum 324 R.P.M. 
+ Minimum 295 R.P.M. 
+ Minimum 294 R.P.M. 
+ Continuous operation 294-324 R.P.M."
+Airspeed Limits,"Never exceed 120 knots (138 mph) up to and including 6600 lbs. G.W. sea level to 2000 ft. 
+ Never exceed 112 knots (129 mph) at 7200 lbs. G.W. sea level to 2000 ft. (See 
+ NOTE 2 for specific operating airspeed limitations.)"
+C G Range,"Longitudinal C.G. Limits: 
+ (+125.0) to 
+ (+136.0) to 6600 lbs. and above. 
+ (+125.0) to 
+ (+136.4) to 6500 lbs. 
+ (+125.0) to 
+ (+137.3) to 6250 lbs. 
+ (+125.0) to 
+ (+138.0) at 6000 lbs. or less 
+ 9, 000 
+ 8, 500 
+ 8, 000 
+ 7, 500 
+ 7, 000 
+ 6, 500 
+ Forwar d Limi t 
+ GROSS WEIGHT - (Lbs .) 
+ 6, 000 
+ Aft Limit 
+ 5, 500 
+ 5, 000 
+ 124 126 128 130 132 134 136 138 
+ CENTER OF GRAVITY - FUSELAGE STATION"
+Maximum Gross Weight,8500 lbs.
+Minimum Crew,1 (pilot)
+No of Seats,See Note 11
+Maximum Baggage,200 lbs. (150 lbs./sq. ft. deck loading maximum)
+Fuel Capacity,"168 U.S. gallons 
+ (+136)"
+Oil Capacity,3.25 gallons (+157)
+Control Movements,"For rigging information, refer To Technical Manual 55-1520-219-20."
+Other Operating Limitations,"Flight hours are counted from takeoff to landing 
+ The helicopters approved under this type certificate are done so under the concept of 
+ limited exposure associated with escape from inadvertent ice encounters, and are 
+ prohibited against flight into known icing. The helicopters must be re-evaluated if 
+ certification to the General Ice Protection Airworthiness Regulations is required. 
+ III. - UH-1H (Restricted Category) approved June 20, 1989. 
+ (See note 8 & 10 regarding helicopter, engines and appliances)"
+Engine,Lycoming T53-L-13B and T5313B (Civ) series.
+Fuel,"MIL-T-5624, Grade JP-4 (see note 11 for alternate fuels)"
+Engine Limits,"Torque Pressure 
+ Output Shaft 
+ Exhaust Gas Temp 
+ (p.s.i.) 
+ (r.p.m.) 
+ (° C) 
+ Takeoff (30 min.) 
+ 50.0 (1100 HP) 
+ 6600 
+ 610 to 625 
+ Maximum continuous 
+ 50.0 (1100 HP) 
+ 6600 
+ 400 to 610"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 339 R.P.M. Maximum 324 R.P.M. 
+ Minimum 294 R.P.M. Minimum 294 R.P.M.. 
+ Continuous operation 294-324 R.P.M. 
+ Maximum for auto rotation is 339 R.P.M."
+Airspeed Limits,"Roof Mounted Pitot: Never exceed 124 knots (143 mph) up to and including 7500 lbs. 
+ G.W. sea level to 2000 ft. Never exceed 113 knots (132 mph) at 9500 lbs. G.W. sea level 
+ to 2000 ft. See NOTE 2 for specific operating airspeed limitations. 
+ Nose Mounted Pitot: Never exceed 112 knots (131 mph) up to and including 7500 lbs. 
+ G.W. sea level to 2000 ft. Never exceed 103 knots (118 mph) at 9500 lbs. G.W. sea level 
+ to 2000 ft. See NOTE 2 for specific operating airspeed limitations."
+CG Range,"Longitudinal C.G. Limits: (+130.0) to (+144.0) 
+ Lateral C.G. Limits: ± 5.0 inches from Center Line of helicopter. 
+ See TM 55-1520-210-10, Center of Gravity Charts for specific loads/ weights."
+Maximum Gross Weight,9500 lbs.
+Minimum Crew,1 (pilot)
+No of Seats,See Note 11
+Maximum Baggage,100 lbs/sq. ft. cargo area (See TM 55-1520-210-10).
+Fuel Capacity,"220 U.S. gallons (+151.6) Non-crashworthy system 
+ 209 U.S. gallons Crashworthy system"
+Oil Capacity,3.25 gallons (+173.0)
+Rotor Blade and,"For rigging information, refer to Technical Manual 55-1520-210-23"
+Other Operating Limitations,"Flight hours are counted from takeoff to landing. 
+ The helicopters approved under this type certificate are done so under the concept of 
+ limited exposure associated with escape from inadvertent ice encounters, and are 
+ prohibited against flight into known icing. The helicopters must be re-evaluated if 
+ certification to the General Ice Protection Airworthiness Regulations is required."
+DATA PERTINENT TO ALL MODELS,
+Leveling Means,Plumb line from top of left main door frame to index plate on cabin floor (see note 1).
+Approved Serial No’s,"Model UH-1A, -1B and -1H helicopters that have been conformed identified in FAA 
+ approved “Richards Heavylift Helo, Inc., RHLH-002, dated May 23, 2016” or later FAA 
+ approved revision. Current copy is available at the Atlanta Aircraft Certification Office, 
+ Atlanta GA."
+Certification Basis,"Federal Aviation Regulations FAR 21.25 (a)(2) effective February 1, 1965 including 
+ amendments 21-1 through 21-71. Type Certificate No. H3SO issued November 21, 
+ 1974, for the special purposes of: 
+ Model UH-1A and UH-1B 
+ (1) Forest and Wildlife Conservation operations under FAR 21.25(b)(2) 
+ Note: In accordance with FAR 36.1(a)(4), compliance with the noise requirements was 
+ not shown. Therefore, aircraft certificated under this type certificate are only eligible for 
+ dispensing firefighting materials excepted by FAR 36.1(a)(4) and defined under FAR 
+ 137.3 
+ (2) External Cargo Operations under FAR 21.25(b)(7) 
+ Note: In accordance with FAR 36.1(a)(4), compliance with the noise requirements was 
+ not shown. Therefore, aircraft certificated under this type certificate are only eligible for 
+ external load operations excepted by FAR 36.1(a)(4) and defined under FAR 133.1(b). 
+ (3) Agricultural operations under FAR 21.25(b)(1) 
+ Note: In accordance with FAR 36.1(a)(4), compliance with the noise requirements was 
+ not shown. Therefore, aircraft certificated under this type certificate are only eligible for 
+ agricultural operations excepted by FAR 36.1(a)(4) and defined under FAR 137.3 
+ Any alterations to the helicopter for Special Purposes not identified above require further 
+ FAA approval and in addition, may require noise and/or flight testing. 
+ General Note: Any subsequent modifications to the helicopter type certified under this 
+ Type Certificate are to have the certification basis for that modification established under 
+ 14 CFR 21.101 published June 7, 2000 which became effective June 10, 2003. 
+ Otherwise non-significant modifications are to meet the requirements of CAR 7 
+ airworthiness standards, including Amendment 7-5, effective May 1962 and 14 CFR 
+ 29.1529, Instructions for continued airworthiness, Amendment 20, effective September 
+ 11, 1980. 
+ Model UH-1H 
+ (1) Forest and Wildlife Conservation operations under FAR 21.25(b)(2) 
+ Note: In accordance with FAR 36.1(a)(4), compliance with the noise requirements was 
+ not shown. Therefore, aircraft certificated under this type certificate are only eligible for 
+ dispensing firefighting materials excepted by FAR 36.1(a)(4) and defined under FAR 
+ 137.3 
+ (2) External Cargo Operations under FAR 21.25(b)(7) 
+ Note: In accordance with FAR 36.1(a)(4), compliance with the noise requirements was 
+ not shown. Therefore, aircraft certificated under this type certificate are only eligible for 
+ external load operations excepted by FAR 36.1(a)(4) and defined under FAR 133.1(b). 
+ (3) Agricultural operations under FAR 21.25(b)(1) 
+ Note: In accordance with FAR 36.1(a)(4), compliance with the noise requirements was 
+ not shown. Therefore, aircraft certificated under this type certificate are only eligible for 
+ agricultural operations excepted by FAR 36.1(a)(4) and defined under FAR 137.3 
+ Any alterations to the helicopter for Special Purposes not identified above require further 
+ FAA approval and in addition, may require noise and/or flight testing 
+ General Note: Any subsequent modifications to the helicopter type certified under this 
+ Type Certificate are to have the certification basis for that modification established under 
+ 14 CFR 21.101 published June 7, 2000 which became effective June 10, 2003. 
+ Otherwise non-significant modifications are to meet the requirements of 14 CFR 29 
+ airworthiness standards, transport category, Amendment 1, effective August 12, 1965 
+ and 14 CFR 29.1529, Instructions for Continued Airworthiness, Amendment 20, 
+ effective September 11, 1980 and 14 CFR 29.1529, Instructions for continued 
+ airworthiness, Amendment 20, effective September 11, 1980."
+Date of Application,"November 1, 1974, Amended: July 10, 1984, May 10, 1994, December 27, 1995, and 
+ August 23, 2001."
+Production Basis,"None. No helicopter or part may be produced under this approval. Prior to adding 
+ serial numbers to this Type Certificate, each candidate helicopter must undergo a 
+ conformity inspection. The conformity inspection must be authorized by a Type 
+ Inspection Authorization, Part 1, or request for conformity that will include as 
+ applicable, the checklist items referenced in the appendices of FAA Order 8110.56, 
+ Restricted Category Type Certification."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in each type helicopter for certification. The 
+ basic required equipment as prescribed for the special purpose operation and as necessary 
+ for safe operation must be installed on each helicopter. In addition, the following 
+ documents and components must be available in each helicopter for type certification 
+ and airworthiness certification: 
+ (1) U.S. Army TM 55-1520-218-10 Operator's Manual UH-1A 
+ (2) U.S. Army TM 55-1520-219-10, Operator's Manual UH-1B. 
+ (3) U.S. Army TM 55-1520-210-10, Operator's Manual UH-1H. 
+ (4) Deleted. 
+ (5) (UH-1B) Standard U.S. Army cargo suspension installation - 204-070-949-5; 
+ 204-070-529-1; 204-070-529-3; or 204-070-529-7 IAW TM 55-1520-219-23P 
+ (Parts Manual) installed and maintained IAW TM 55-1520-219-20 (Maintenance 
+ Manual) and operated IAW TM 55-1520-219-10 (Operator’s Manual) for all 
+ external cargo operations. Refer to NOTE 2 for operating limitations. 
+ (6) (UH-1H) Standard U.S. Army cargo suspension installation - 204-070-900-5; 
+ 204-070-900-7; or 204-070-900-19 IAW TM 55-1520-210-23P (Parts Manual) 
+ installed and maintained IAW TM 55-1520-210-23 (Maintenance Manual) and 
+ operated IAW TM 55-1520-210-10 (Operator's Manual) for all external cargo 
+ operations. Refer to NOTE 2 for operating limitations."
+Note 1,"A current weight and balance report including a list of equipment included in the certified empty weight, and 
+ loading instructions, when necessary, must be provided for each helicopter at the time of original 
+ certification and at all times thereafter. Refer to TM 55-1520-210-10 (UH-1H), TM 55-1520-218-10 (UH- 
+ 1A) or TM 55-1520-219-10 (UH-1B), Operators Manual Army Model UH-1H/V, UH-1A or UH-1B 
+ Helicopters, Chapter 6, and TM 55-1520-210-23-1 (UH-1H), TM 55-1520-218-23-1 (UH-1A) or TM 55- 
+ 1520-219-23-1 (UH-1B) Aviation Unit and Intermediate Maintenance Instructions Army Model UH- 
+ 1H/V/EH-1H/X, UH-1A or UH-1B Chapter 1 for leveling means and weight and balance determination."
+Note 2,"The following placards must be prominently displayed in the cockpit in full view of the pilot: (On the 
+ instrument panel)"
+Placard No 1,"THIS HELICOPTER ROTORCRAFT MUST BE OPERATED IN ACCORDANCE WITH THE 
+ RESTRICTED CATEGORY OPERATING LIMITATIONS OF FAR 91.313."
+Placard No 2,"EXTERNAL LOAD OPERATIONS: Vne WILL BE DETERMINED FOR EACH PROPOSED 
+ EXTERNAL LOAD APPLICATION"
+Placard No 3,"For Model UH-1A 
+ (a) Operating Limits 
+ CALIBRATED AIRSPEED - KNOTS 
+ Gross Weight 
+ 5000 lbs. 
+ 6000 lbs. 
+ 6500 lbs. 
+ 7200 lbs. 
+ RPM 
+ 6200 
+ 6400 
+ 6200 
+ 6400 
+ 6200 
+ 6400 
+ 6200 
+ 6400 
+ SL 
+ 105 
+ 105 
+ 105 
+ 105 
+ 77 
+ 77 
+ 58 
+ 62 
+ 3000 ft. 
+ 100 
+ 100 
+ 98 
+ 100 
+ 74 
+ 74 
+ 49 
+ 59 
+ 6000 ft. 
+ 96 
+ 96 
+ 80 
+ 93 
+ 71 
+ 70 
+ 34 
+ 43 
+ 9000 ft. 
+ 89 
+ 92 
+ 63 
+ 75 
+ 56 
+ 66 
+ -- 
+ 29 
+ 12000 ft. 
+ 73 
+ 84 
+ 47 
+ 58 
+ 38 
+ 48 
+ -- 
+ -- 
+ 15000 ft. 
+ 57 
+ 67 
+ -- 
+ 42 
+ 22 
+ 32 
+ -- 
+ -- 
+ 18000 ft. 
+ 42 
+ 51 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ HOVERING - 5800 RPM 
+ At 5000 lb - up to 16800 ft. 
+ At 6500 lb - up to 7600 ft. 
+ At 6000 lb - up to 11100 ft. 
+ At 7200 lb - up to 3800 ft. 
+ REDUCE AIR SPEED WHEN VIBRATION IS EXCESSIVE 
+ EXTERNAL LOAD OPERATION: VNE IS 60 KTS. CAS UNLESS FURTHER RESTRICTIVE BY 
+ OPERATING LIMITS CHARTS ABOVE 
+ (b) Battery and Ballast Box must be installed in Nose for Solo Flight. See Weight and Balance data for 
+ each aircraft. 
+ (c) This helicopter must be operated in accordance with the restricted category operating limitations of 
+ FAR 91.313 and with the limitations noted in U.S. Army TM 55-1520-218-10. 
+ For Model UH-1B 
+ (a) Operating Limits 
+ CALIBRATED AIRSPEED - KNOTS 
+ Gross Weight 
+ 6600 lbs. or less 
+ 7200 lbs. 
+ 8000 lbs. 
+ 8500 lbs. 
+ RPM 
+ 6400 
+ 6600 
+ 6400 
+ 6600 
+ 6400 
+ 6600 
+ 6400 
+ 6600 
+ DENS ALT. FT. 
+ SL to 2000 ft. 
+ 120 
+ 120 
+ 109 
+ 112 
+ 95 
+ 101 
+ 86 
+ 95 
+ 3000 ft. 
+ 116 
+ 116 
+ 105 
+ 108 
+ 92 
+ 97 
+ 82 
+ 92 
+ 6000 ft. 
+ 102 
+ 106 
+ 92 
+ 97 
+ 77 
+ 86 
+ 68 
+ 80 
+ 9000 ft. 
+ 90 
+ 94 
+ 79 
+ 86 
+ 65 
+ 76 
+ -- 
+ -- 
+ 12000 ft. 
+ 77 
+ 84 
+ 66 
+ 75 
+ -- 
+ -- 
+ -- 
+ -- 
+ 15000 ft. 
+ 64 
+ 72 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ 18000 ft. 
+ 51 
+ 61 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ -- 
+ FROM 0 TO 70 KNOTS USE 6000 TO 6600 RPM RANGE 
+ FROM 70 TO 120 KNOTS USE 6400 TO 6600 RPM RANGE 
+ REDUCE AIR SPEED WHEN VIBRATION IS EXCESSIVE 
+ EXTERNAL LOAD OPERATION: VNE IS 60 KTS. CAS UNLESS FURTHER RESTRICTIVE BY 
+ OPERATING LIMITS CHARTS ABOVE 
+ (b) This helicopter must be operated in accordance with the restricted category operating limitations of 
+ FAR 91.313 and with the limitations note in U.S. Army TM 55-1520-219-10. 
+ For Model UH-1H 
+ Helicopters With Nose Mounted Pitot: 
+ INDICATED AIRSPEED - KNOTS 
+ DENSITY 
+ GROSS WEIGHT 
+ ALTITUDE 
+ To 7500 lbs. 
+ 8500 lbs. 
+ 9500 lbs. 
+ SL to 2000 ft. 
+ 112 
+ 107 
+ 103 
+ 3000 ft. 
+ 109 
+ 104 
+ 100 
+ 6000 ft. 
+ 100 
+ 95 
+ 91 
+ 9000 ft. 
+ 91 
+ 86 
+ 82 
+ 12000 ft. 
+ 82 
+ 77 
+ 73 
+ 15000 ft. 
+ 70 
+ 65 
+ --- 
+ 18000 ft. 
+ 58 
+ --- 
+ --- 
+ UP TO 7500 LBS GW USE 6000 TO 6600 RPM RANGE 
+ OVER 7500 LBS GW USE 6400 TO 6600 RPM RANGE 
+ POWER OFF 294 TO 339 R.P.M. 
+ REDUCE AIRSPEED WHEN VIBRATION IS EXCESSIVE 
+ Helicopters With Roof Mounted Pitot: 
+ INDICATED AIRSPEED - KNOTS 
+ DENSITY 
+ GROSS WEIGHT 
+ ALTITUDE 
+ To 7500 lbs. 
+ 8500 lbs. 
+ 9500 lbs. 
+ SL to 2000 ft. 
+ 124 
+ 118 
+ 113 
+ 3000 ft. 
+ 121 
+ 115 
+ 110 
+ 6000 ft. 
+ 112 
+ 106 
+ 101 
+ 9000 ft. 
+ 103 
+ 97 
+ 92 
+ 12000 ft. 
+ 94 
+ 88 
+ 83 
+ 15000 ft. 
+ 82 
+ 76 
+ --- 
+ 18000 ft. 
+ 70 
+ --- 
+ --- 
+ UP TO 7500 LBS GW USE 6000 TO 6600 RPM RANGE 
+ OVER 7500 LBS GW USE 6400 TO 6600 RPM RANGE 
+ POWER OFF 294 TO 339 R.P.M. 
+ REDUCE AIRSPEED WHEN VIBRATION IS EXCESSIVE 
+ (b) This helicopter must be operated in accordance with the restricted category operating limitations of 
+ FAR 91.313 and with the limitations noted in U.S. Army TM 55-1520-210-10."
+Placard No 4,“INSTRUMENT FLIGHT PROHIBITED”
+Note 3,"The UH-1A, UH-1B and UH-1H helicopter(s) must be serviced, maintained, inspected, repaired and 
+ overhauled in accordance with the following technical manuals: 
+ UH-1A 
+ This model helicopter must be serviced and maintained in compliance with TM 55-1520-218-10 and 
+ TM 55-1520-218-20. Repairs to be made in accordance with TM 55-1520-218-34. Component overhaul 
+ intervals and replacement times shall be in accordance with the TBO/Replacement schedule found in 
+ TM 55-1520-218-20, unless superseded by appropriate Airworthiness Directive. Component life limits to be 
+ U.S. Army TM 55-1520-218-20. 
+ UH-1B 
+ This model helicopter must be serviced and maintained in compliance with TM 55-1520-219-10 and 
+ TM 55-1520-219-20. Repairs to be made in accordance with TM 55-1520-219-34. Component overhaul 
+ intervals and replacement times shall be in accordance with the TBO/Replacement schedule found in 
+ TM 55-1520-219-20, unless superseded by appropriate Airworthiness Directive. Component life limits to be 
+ as specified in U.S. Army TM 55-1520-219-20. These and other applicable documents are specified in 
+ Richard’s Heavylift Helo, Inc. Instructions for Continued Airworthiness Report, Report No. 001 dated May 
+ 16, 2007. 
+ UH-1H 
+ This model helicopter must be serviced and maintained in compliance with TM 55-1520-210-10 and 
+ TM 55-1520-210-23. Repairs to be made in accordance with TM 55-1520-210-23. Component overhaul 
+ intervals and replacement times shall be in accordance with the TBO/Replacement schedule found in 
+ TM 55-1520-210-23, unless superseded by appropriate Airworthiness Directive. These and other applicable 
+ documents are specified in Richard’s Heavylift Helo, Inc. Instructions for Continued Airworthiness Report, 
+ Report No. 002 dated May 16, 2007."
+Note 4,"In addition to the standard helicopter requirements, the following additional data and/or helicopter 
+ configuration requirements must be met for each individual Richard’s Heavylift Helo, Inc., Aircraft model 
+ UH-1A, UH-1B and UH-1H upon application for an original Special Airworthiness Certificate: 
+ (a) A completed Application for Airworthiness Certificate, FAA Form 8130-6 that has correctly identifies 
+ the type certificate holder’s helicopter and its intended special purpose(s). 
+ (b) Written confirmation from the certifying office that the affected serial number has been added to Richards 
+ Heavylift Helo, Inc., RHLH-002, Type Certificate Data Sheet H3SO Approved Serial Number List. 
+ (c) The application for airworthiness certification and the helicopter’s registration certificate match the 
+ information on the Richard’s Heavylift Helicopter, Inc., aircraft data plate. 
+ (d) The helicopter Flight Manual and documents specified in Note 3 are with the helicopter. 
+ (e) The conditions and limitations specified in Richards Heavylift Helo, Inc., Type Certificate Data Sheet, 
+ dated March 22, 2010 or later FAA approved revision are met."
+Note 5,"This helicopter is prohibited from carrying cargo for compensation or hire. Carriage of cargo is limited to 
+ such cargo that is incidental to the helicopter owners/operator’s business which is other than air 
+ transportation."
+Note 6,"A restricted category helicopter may not be operated in a foreign county without the express written approval 
+ of that country."
+Note 7,"This helicopter has not been shown to meet the requirements of the applicable comprehensive and detailed 
+ Airworthiness Code as provided by Annex 8, to the Convention of the International Civil Aviation 
+ Organization."
+Note 8,"Military to Civil or Military to Military engine changes are allowed, provided the replacement engine is of 
+ the same make and model as identified in this TCDS. The military or civil replacement engine must have 
+ proper military or civil records and have the applicable FAA Airworthiness Inspection accomplished and is 
+ in an airworthy condition."
+Note 9,"The Airworthiness Directives for the helicopter and engine must be complied with prior to original 
+ certification. 
+ (a) UH-1A and UH-1B: FAA Airworthiness Directives for all UH-1A, B, & Bell 204 series aircraft and 
+ Lycoming engine model T5311 series must be reviewed for applicability and complied with 
+ accordingly. All applicable U.S. Army Modification Work Orders (MWO'S) and technical bulletins 
+ must be accomplished. 
+ (b) UH-1H:. FAA Airworthiness Directives for UH-1H & Bell Helicopter Model 205 series; and 
+ Lycoming T5313B and T53-L-13B series engines must be reviewed for applicability and complied with 
+ accordingly. All applicable U.S. Army Modification Work Orders (MWO'S) and technical bulletins 
+ must be accomplished"
+Note 10,"Alternate and emergency fuels are listed in TM 55-1520-210-10 (UH-1H), TM 55-1520-218-10 (UH-1A) or 
+ TM 55-1520-219-10 (UH-1B), Operators Manual Army Model UH-1H/V, UH-1A, or UH-1B Helicopters, 
+ Chapter 2, Section XVI. Some limitations apply for the use of certain alternate and emergency fuels. These 
+ limitations are listed in this section."
+Note 11,"No person may be carried in this helicopter during flight unless that person is essential to the purpose of the 
+ flight."
+Note 13,"Any Alteration to the type design of this aircraft may require Instructions for Continued Airworthiness. If 
+ so, these instructions must be submitted and accepted by the FAA Fort Worth Aircraft Evaluation Group 
+ (FTW-AEG), prior to approval for return to service."
+Note 14,Manufacture and install TC Holders Data Plate on helicopter.
+Note 15,"For UH-1B and UH-1H 
+ Torque pressure output by the engine torque sensing system varies with individual engines. A calibration of 
+ this value is required on each engine and the value corresponding to take-off power is stamped on the engine 
+ data plate."
+Note 16,"For UH-1B 
+ Maximum permissible exhaust temperature varies with ambient temperature as described on the Operator’s 
+ Manual. Check engine EGT by use of Health Indicator Test (HIT) prior to take-off (see TM 55-1520-219-10 
+ and HIT EGT Log for the aircraft)."
+Note 17,"For UH-1H 
+ Maximum permissible exhaust temperature varies with ambient temperature as described on the Operator’s 
+ Manual. Check engine EGT by use of Health Indicator Test (HIT) prior to take-off (see TM 55-1520-210-10 
+ and HIT EGT Log for the aircraft)."
+Note 18,"All Models 
+ Pilot in Command in left seat requires relocation of engine instructions on panel in accordance with U.S. 
+ Helicopter Specification U95-008-ST and a manual cargo release on the left side in accordance with U.S. 
+ Helicopter Specification U95-006-ST."

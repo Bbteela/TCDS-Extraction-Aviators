@@ -1,0 +1,210 @@
+Keyterm,Info
+"A00059SE 
+ Revision 3 
+ Epic Aircraft, LLC 
+ E1000 
+ August 24, 2021",
+TC Holder,"Epic Aircraft, LLC 
+ 22590 Nelson Road 
+ Bend, Oregon 97701"
+"Model E1000 (Utility Category), Approved November 6, 2019",
+Engine,"Engine Manufacturer: 
+ Pratt and Whitney Canada, Corp. 
+ Number of Engines: 
+ One (1) 
+ Engine TC Number: 
+ E26NE 
+ Engine Model Designation: 
+ PT6A-67A"
+Fuel,"Primary Fuel: 
+ Jet A 
+ Alternate Fuels: 
+ JP-8, Any other fuel which complies with the latest revision 
+ of Pratt & Whitney Service Bulletin 14004"
+Engine Limits,"Maximum Takeoff Power: 
+ 1,200 horsepower at 1,700 rpm, subject to ambient temperature 
+ and pressure conditions 
+ See the latest approved revision of the E1000 “Pilots Operating Handbook and FAA Approved Flight 
+ Manual”, SK05000001 (Serial Numbers (SN) K003-K010), or SK05001001 (SN K011 and on, or SN 
+ K003-K010 with Epic SB-0017 incorporated) and Engine TC Data Sheet E26NE for additional details 
+ and limitations"
+Propeller and,"Propeller Manufacturer: 
+ Hartzell"
+Propeller Limits,"Number of Propellers: 
+ One (1) 
+ Propeller TC Number: 
+ P10NE 
+ Propeller Model Designation: 
+ HC-E4A-3D/E10477SK/D-5500-1P 
+ Diameter Limits: 
+ 104” minimum, 105” maximum 
+ High Pitch Angle: 
+ 79.6° ± 0.5° 
+ Low Pitch Angle: 
+ 19.0° ± 0.2° 
+ Reverse Pitch Angle: 
+ -17.5° ± 0.5° 
+ Static RPM Limits: 
+ Stabilized operation on the ground between 350 and 950 RPM 
+ is prohibited 
+ See Propeller TC Data Sheet P10NE for additional details and limitations 
+ (5-Blade Modification) 
+ Propeller Manufacturer: 
+ Hartzell 
+ Number of Propellers: 
+ One (1) 
+ Propeller TC Number: 
+ P20NE 
+ Propeller Model Designation: 
+ HC-E5A-3A/NC10245B()/105820() 
+ Diameter Limits: 
+ 104” minimum, 105” maximum 
+ High Pitch Angle: 
+ 80.0° ± 0.5° 
+ Low Pitch Angle: 
+ 14.7° ± 0.2° 
+ Reverse Pitch Angle: 
+ -17.5° ± 0.5° 
+ Static RPM Limits: 
+ Stabilized operation on the ground between 400 and 900 RPM 
+ is prohibited 
+ See Propeller TC Data Sheet P20NE for additional details and limitations."
+Page No,"1 
+ 2 
+ 3"
+Rev No,"3 
+ 2 
+ 3"
+Airspeed Limits,"MMO: 
+ 0.6 Mach 
+ VMO: 
+ 270 kcas 
+ VO: 
+ 170 kcas 
+ VFE (T/O): 
+ 180 kcas 
+ VFE (FULL): 
+ 130 kcas 
+ VLO: 
+ 150 kcas 
+ VLE: 
+ 150 kcas"
+Minimum speed with,"Flaps UP: 
+ 120 kcas"
+Autopilot Engaged,"Flaps T/O: 
+ 110 kcas 
+ Flaps FULL: 
+ 105 kcas"
+Airframe Life Limits,"See section 4 in E1000 “Airplane Maintenance Manual”, SK05000000, or other FAA approved data."
+Center of Gravity,"Aft Limits: 
+ 173.5"" aft of datum at 8,000 lbs"
+CG Range,"172.0"" aft of datum at 5,700 lbs 
+ 169.9” aft of datum at 5,000 lbs 
+ Forward Limits: 
+ 172.8"" aft of datum at 8,000 lbs 
+ 169.4"" aft of datum at 7,600 lbs 
+ 163.0"" aft of datum (5,700 lb to 5,000 lbs) 
+ Straight-line variation between points"
+Empty Weight,None
+Datum,107.62 inches forward of the forward face of the firewall
+Leveling Means,"Place a calibrated level between the middle row seats oriented longitudinally in the airplane. 
+ See the latest approved revision of the E1000 “Pilots Operating Handbook and FAA Approved Flight 
+ Manual”, SK05000001 (SN K003-K010), or SK05001001 (SN K011 and on, or SN K003-K010 with 
+ Epic SB-0017 incorporated), for additional details."
+Maximum Weights,"Maximum Takeoff: 
+ 8,000 lb 
+ Maximum Landing: 
+ 7,600 lb"
+Minimum Crew,1 Pilot
+Number of Seats,"Up to 6 seats total in accordance with latest approved revision of the E1000 “Pilots Operating 
+ Handbook and FAA Approved Flight Manual”, SK05000001 (SN K003-K010), or SK05001001 (SN 
+ K011 and on, or SN K003-K010 with Epic SB-0017 incorporated)."
+Maximum Compartment,As defined in latest approved revision of the E1000 “Pilots Operating Handbook and FAA
+Weights,"Approved Flight Manual”, SK05000001 (SN K003-K010), or SK05001001 (SN K011 and on, or 
+ SNK003-K010 with Epic SB-0017 incorporated)."
+Fuel Capacity,"One 139 US gal tank in each wing at 180.9"" aft of datum when full and 178.0” aft of datum when empty; 
+ (278 US gal total; 264 gal usable, 14 gal unusable). 
+ Note: add weight of unusable fuel to the certificated empty weight"
+Oil Capacity,"Maximum System Capacity 3 US gal (11.35 L), Usable Capacity 2.5 US gal (9.4 L) 
+ Any oil conforming to MIL-PRF-23699G, Type II (5cSt) and as specified in the latest revision of Pratt 
+ and Whitney Service Bulletin 14001. Note: add weight of unusable oil to the certificated empty weight."
+Maximum Operating,FL340
+Control Surface,"Wing Flaps: 
+ Up: 
+ 0° ±0.6° 
+ Takeoff: 12° ±2° 
+ Full: 42.8° - 43.4°"
+Movements,"Ailerons: 
+ Up: 
+ 20° ±2° 
+ Down: 
+ 15.5° ±0.5° 
+ Aileron Trim Tab: 
+ Up: 
+ 17° ±2° 
+ Down: 
+ 17° ±2° 
+ Elevator: 
+ Up: 
+ 25.5°-25.8° 
+ Down: 
+ 13.5° ±2° 
+ Elevator trim tab: 
+ Up: 
+ 7.5° ±1° 
+ Down: 
+ 19.5° ±0.5° 
+ Rudder: 
+ Left: 
+ 18°-19° 
+ Right: 
+ 18°-19.5° 
+ Rudder trim tab: 
+ Left: 
+ 20° ±0.5° 
+ Right: 
+ 5°±1° 
+ Rudder Limiter: 
+ Left: 
+ 5.5°-6.5° 
+ See the latest FAA approved revision of the E1000 “Airplane Maintenance Manual”, SK05000000, 
+ or other FAA approved data, for flap rigging instructions and setting Flaps up (0°) configuration."
+Manufacturer’s,K003 and on
+Certification Basis,"14 Code of Federal Regulations (CFR) Part 23 effective February 1, 1965, as amended by 23-1 
+ through 23-62. 
+ 14 CFR Part 36 as amended through 36-30."
+Equivalent Level of,14 CFR Part 23.221 Spinning by installing a stick pusher/shaker in accordance with
+Safety Finding,"ELOS Memo No. TC11773SE-A-F-1 
+ 14 CFR Part 23 Amendment 23-62 errors with ELOS Memo TC11773SE-A-F-2"
+TC Number,"A00059SE 
+ TC Issuance Date: 
+ November 6, 2019 
+ TC Application Date: 
+ October 10, 2015 
+ Operational Restrictions: As defined in latest approved revision of the E1000 “Pilots Operating Handbook and FAA 
+ Approved Flight Manual”, SK05000001 (SN K003-K010), or SK05001001 (SN K011 and on, or SN 
+ K003-K010 with Epic SB-0017 incorporated)."
+Production Basis,PC 733NM
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see 
+ Certification Basis) must be installed in the aircraft for airworthiness certification."
+Additional Equipment,The latest FAA Approved Revision of the E1000 “Pilots Operating Handbook and FAA Approved
+Necessary for Type,"Flight Manual”, SK05000001 (SN K003-K010), or SK05001001 (SN K011 and on,"
+Certification,or SN K003-K010 with Epic SB-0017 incorporated).
+NOTE 1,"A current weight and balance report, including a list of equipment included in the certificated empty 
+ weight, and loading instructions when necessary must be provided for each aircraft at the time of 
+ original certification. This is in accordance with 14 CFR 23.23, 23.25, and 23.29."
+NOTE 2,"All placards required by either FAA Approved Airplane Flight Manual, the applicable operating rules, 
+ or the Certification Basis must be installed in the airplane. The required approved placards are 
+ specified in the latest FAA approved revision of the E1000 “Pilots Operating Handbook and FAA 
+ Approved Flight Manual”, SK05000001 (SN K003-K010), or SK05001001 (SN K011 and on, or SN 
+ K003-K010 with Epic SB-0017 incorporated)."
+NOTE 3,"The airplane must be subsequently maintained in accordance with the Instructions for Continued 
+ Airworthiness, and Airworthiness Limitations section, as contained in the latest FAA approved 
+ revision of the E1000 “Airplane Maintenance Manual”, SK05000000, or other FAA approved data."
+NOTE 4,"The airplane shall be manufactured in accordance with the latest FAA approved revision of the E1000 
+ “Master Drawing List”, CK00000127, or other FAA approved data."
+NOTE 5,"Exterior colors are limited to those specified in the latest FAA approved revision or Epic Aircraft 
+ “Process Specification: Paint”, Document No. SX51200003, or other FAA approved data."
+NOTE 6,"Major structural repairs must be accomplished at FAA certified repair stations rated for composite 
+ aircraft structure work, in accordance with FAA approved Epic Aircraft, LLC repair methods 
+ contained in “Airplane Maintenance Manual”, SK05000000, or other methods approved by the FAA."

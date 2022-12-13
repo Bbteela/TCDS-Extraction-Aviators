@@ -1,0 +1,142 @@
+Keyterm,Info
+"H-3 
+ Sheet 1 
+ Revision 3 
+ SIKORSKY 
+ S-52 
+ July 14, 1961",
+Manufacturer,"Sikorsky Aircraft, Division of United Aircraft Corp., 
+ Bridgeport 1, Conn."
+"I - Model S-52, 2 PCLH, Approved February 25, 1948",
+Engine,"Aircooled Motors, Franklin 6V4-165-B32F"
+Fuel,91 minimum grade aviation gasoline
+Engine limits,3000 rpm (165 hp net after cooling)
+Airspeed limits,"Never exceed 
+ 100 mph True Ind."
+Rotor limits,"Maximum 
+ 320 rpm 
+ Minimum 
+ 270 rpm"
+Altitude limits,"Avoid slow speed operation between 10 and 300 ft. above the ground surface. (See 
+ approved flight manual)"
+CG range,(73.4) to (77.7)
+Empty weight CG range,None
+Datum,79.2 inches forward centerline main rotor shaft
+Leveling means,Main rotor shaft perpendicular
+Maximum weight,2100 lbs.
+No of seats,2 (43) (Minimum crew 1)
+Maximum baggage,75 lbs. (71)
+Fuel capacity,41 gals. (73)
+Oil capacity,2 gals. (82)
+Rotor blade,"Main rotor collective pitch 3.25° to 15.3° 
+ Main rotor azimuth pitch angles, with collective pitch control at 3.25° and the blades on 
+ the droop and starting stops, are as follows: 
+ On blade placed at 90° to left of fuselage centerline: 
+ Extreme Stick Position 
+ Blade Angle 
+ Forward 
+ -3° 
+ Aft 
+ +11° 
+ On blade placed in extreme forward position: 
+ Extreme Stick Position 
+ Blade Angle 
+ Left 
+ +4° 
+ Right 
+ -3° 
+ Mechanical limits of main rotor coning: -3° to +30° 
+ Mechanical limits of main rotor hunting: 
+ 0 to -3° (autorotation)"
+Page No,"1 
+ 2 
+ 3"
+Rev No,"3 
+ 3 
+ 3 
+ 0 to +20° (starting) 
+ Tail rotor collective pitch -3.5° to +22°"
+Serial Nos eligible,52001 thru 52003
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 6, the following 
+ items of equipment must be installed: 
+ Items 1, 2, 101, 102, 103, 201, 202, 203, 204, 301, 302, 401"
+Specifications Pertinent to All Models,
+Certification basis,Type Certificate No. 3 (CAR 6)
+Production basis,"None. Prior to original certification a FAA representative must perform a detailed 
+ inspection for workmanship, materials, and conformity with the approved technical data, 
+ and a check of the flight characteristics."
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an optional item indicates the net 
+ weight change between that item and the equivalent required item."
+1,"Main rotor blades (3) Sikorsky Dwg. (S-11-10-2000) 
+ 106 lbs. 
+ (79)"
+2,"Tail rotor blades (2) Sikorsky Dwg. (S-11-15-2020) 
+ 3 lbs. 
+ (312) 
+ Engine and Engine Accessories - Fuel and Oil System"
+101,"Starter (Delco-Remy 12 volt manual engaging) 
+ 18 lbs. 
+ (79)"
+102,"Oil cooler (Heat Exchanger, Inc.) 
+ 15 lbs. 
+ (63)"
+103,"Main gear box (Dwg. S-11-35-4000) 
+ 71 lbs. 
+ (76)"
+201,"2 Main wheel-brake assemblies (5.00-5) - Goodyear 
+ Wheel assembly No. 9510130 
+ 8 lbs. 
+ (89) 
+ Brake assembly No. 9510120 
+ 4 lbs. 
+ (89)"
+202,"2 Main wheel 4-ply rating tires and tubes (5.00-5) 
+ 8 lbs. 
+ (89)"
+203,"1 Nose wheel (Goodyear 10"") Assembly No. 510646-M 
+ 2 lbs. 
+ (14)"
+204,"1 Nose wheel 6-ply rating tire and tube (U.S. Royal 
+ 10"" channel tread). 
+ 4 lbs. 
+ (14)"
+301,"Voltage regulator, Auto-Lite VSR-4007-C 
+ 2 lbs. 
+ (88)"
+302,"Battery, AW12-25 Willard 27 lbs. (127.5)"
+303,"Generator (12 volt furnished with engine) 
+ 11 lbs. 
+ (79)"
+304,"Landing light, Grimes D-3150-2 
+ 2 lbs. 
+ (6)"
+305,"Position lights, Grimes Model E 
+ Neglect weight"
+306,"Tail light, Grimes Model S 
+ Neglect weight"
+401,CAA Approved Helicopter Flight Manual
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight empty, and 
+ loading instructions when necessary, must be in each helicopter at the time of original certification and at all 
+ times thereafter (except in the case of air carrier operators having an approved weight control system)."
+NOTE 2,"The following placards must be displayed on the instrument panel in full view of the pilot: 
+ (a) 
+ ""This helicopter must be operated in accordance with the operating limitations (or pertinent sections) of 
+ the CAA Approved Helicopter Flight Manual."" 
+ (b) 
+ ""No Acrobatic Maneuvers Approved."" 
+ (c) 
+ ""Instrument Flight Prohibited."" 
+ (d) 
+ ""Avoid operation between 1800 - 2100 rpm."" 
+ (e) 
+ ""Maximum operating rpm 3000 rpm. 
+ Minimum operating rpm at sea level - 2800. 
+ Minimum operating rpm at 5000 feet - 2875. 
+ Minimum operating rpm at 10,000 feet - 2950. 
+ Minimum operating rpm at 13,600 feet - 3000."" 
+ (f) 
+ ""Avoid slow speed operation between 10 and 300 feet. (see Flight Manual)."""
+NOTE 3,"These helicopters must be maintained in conformance with instructions given by Sikorsky Aircraft in its 
+ Service Inspection Guide Report, SER-1805."
+NOTE 4,"Information essential to the proper maintenance of the helicopter including retirement times of critical parts 
+ is included in the manufacturer's service instructions provided with each helicopter."

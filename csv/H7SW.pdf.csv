@@ -1,0 +1,420 @@
+Keyterm,Info
+"H7SW 
+ Revision 12 
+ Scott’s-Bell 47, Inc. 
+ U.S. Army OH-13H 
+ U.S. Army OH-13E 
+ August 7, 2014",
+Type Certificate Holder,"Scott’s – Bell 47, Inc. 
+ 100 Minnesota Avenue 
+ Le Sueur, MN 56058"
+Type Certificate Holder Record,"Texas Helicopter Co. Inc. transferred H7SW to Aerodyne Systems Engineering Ltd. 
+ on March 4, 1986 
+ Aerodyne Systems Engineering Ltd. transferred H7SW to Gifton McCreary 
+ on July 27, 1987 
+ Gifton McCreary transferred H7SW to Texas Helicopter Co. Inc. on August 11, 2004. 
+ Texas Helicopter Co. Inc. transferred H7SW to Scott’s – Bell 47, Inc. 
+ on August 7, 2014."
+"I - U.S. Army Model OH-13E, 3 PCLH (Restricted Category), Approved May 3, 1976 
+ See Note 3 for required modification to single-place configuration, Model M-74.",
+Engine,Franklin O-335-5D (6V-335-A).
+Fuel,91/96 minimum grade aviation gasoline.
+Engine limits,Maximum continuous rpm. 3200 (210 hp.)
+Rotor limits ,"Power on (Engine Tach) 
+ Power off (Rotor Tach)"
+Oper engine limits,"Maximum 
+ 3200 
+ Maximum 
+ 370 
+ Minimum 
+ 2900 (S.L.) 
+ Minimum 
+ 322"
+Airspeed limits,VNE (never exceed) 85 knots (98 mph) (CAS)
+CG Range,+83.0 to +87.9 aft of datum
+Empty weight cg range,"See TM 55-1520-224-10, ""Operators Manual"", Chapter 7, Section II."
+Datum,87.0 inches forward of main rotor mast CL.
+Maximum weight,2350 lbs.
+No of seats,3 (Pilot and 2 passengers) (+55)
+Fuel Capacity,29 gal. (+109)
+Oil Capacity,2 gal. (+90)
+Rotor Blade and,"(Tolerance, ± 1/2 degree). For rigging information, refer to TM 55-1520-224-20,"
+Control Movements,"Organizational Maintenance Manual, Army Model OH-13 helicopters dated October 1, 
+ 1969, updated to Change 4, Chapter 9, Section III."
+Other operating limitations,"Operators Manual (Model OH-13E, OH-13G, and OH-13H helicopters), ""TM 55-1520- 
+ 224-10, Basic October 1, 1969, updated to Change C-3, July 2, 1971, Chapter 7 and SEE 
+ Note 3 for special purpose modification."
+Serial Nos eligible,"All U.S. Army serial numbers (TM 55-1520-224-20, Chapter 1, Section I) and 76-001 
+ and subsequent"
+"II - U.S. Army Model OH-13H, 3 PCLH (Restricted Category), Approved August 31, 1977 
+ See Note 3 for modification to single-place configuration, M74A or M74L.",
+Engine,Lycoming O-435-23 (VO-435-A1C); See Note 7 for alternates.
+Fuel,80 minimum grade aviation gasoline.
+Engine Limits,"Maximum (Sea Level) 
+ 26.8 in. Hg., 3200 r.p.m. (240 h.p.)"
+Rotor limits and,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.)"
+operational engine speeds,"Maximum 
+ 370 
+ Maximum 
+ 3200 
+ Minimum 
+ 322 
+ Minimum 
+ 2900"
+Airspeed limits,VNE 87 knots S.L. to 3000 ft. Reduce VNE 3 knots/1000 ft. above 3000 ft. (CAS)
+CG range,(+82) to (+89) aft of datum
+Empty weight cg range,"See TM 55-1520-224-10, ""Operators Manual,"" Chapter 12, Section III"
+Datum,87 inches forward of main rotor mast center line
+Leveling means,"Three levelings lugs lower left hand longeron and diagonal tube aft of mast and forward 
+ of aft cross tube."
+Maximum weights,"2450 lb. design weight 
+ 2750 lb. operating weight"
+No of seats,3 (Pilot and 2 passengers)
+Maximum baggage,"See loading instructions in TM 55-1520-224-10 Chapter 7, Section II."
+Fuel capacity,41 gal. (+89.95)
+Oil capacity,"2 gal (+111.5) 
+ For rigging information refer to TM 55-1520-224-20, Organizational Maintenance"
+movements,"Manual Army Model OH-13 helicopters dated October 1, 1969, updated to Change 4, 
+ Chapter 9, Section III."
+Other Operating limitations,"Operators Manual (Model OH-13E, OH-13G, and OH-13H helicopters), ""TM 55-1520- 
+ 224-10, Basic October 1, 1969, updated to Change C-3 July 2, 1971, Chapter 7, and see 
+ Note 3 for special purpose modification."
+Serial Nos eligible,"All U.S. Army serial numbers (TM 55-1520-224-20, Chapter I, Section I) and 77-007 
+ subsequent."
+INFORMATION COMMON TO ALL MODELS,
+Certification Basis,"FAR 21.25(a)(2) (Special purpose modification ref. CAR Part 6 effective October 2, 
+ 1959), effective February 1, 1965. Type Certificate No. H7SW issued May 3, 1976, for 
+ the following special purposes: 
+ 1. 
+ Agricultural 
+ 2. 
+ Forest and Wildlife Conservation 
+ 3. 
+ Aerial Surveying 
+ 4. 
+ Patrolling 
+ 5. 
+ External Cargo (See Note 10) 
+ Date of Application: November 6, 1974."
+Production Basis,"None. No OH-13E and OH-13H helicopters may be produced. OH-13E helicopters 
+ modified to M74 helicopters and OH-13H helicopters modified to M74A or M74L 
+ helicopters may be produced in accordance with the type certificate. Prior to original 
+ airworthiness certification of each aircraft, an FAA representative must perform a 
+ detailed inspection for workmanship, materials, and conformity with approved technical 
+ data. A check of flight characteristics must be performed."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification except compass 
+ is optional for agricultural purposes. In addition, equipment or modification for the 
+ special purpose must be installed."
+NOTE 1,"Current weight and balance report, including list of equipment included in the certificated empty weight, and 
+ loading instructions, when necessary, must be provided for each aircraft at the time of original certification 
+ and at all times thereafter."
+NOTE 2,"All placards required in the approved helicopter flight manual must be installed in appropriate locations. 
+ The following placard must be installed in full view of the pilot. 
+ ""This helicopter to be operated in compliance with the operating limitations specified in the FAA 
+ approved flight manual and restricted category operating limitations of FAR 91.39."""
+NOTE 3,"Prior to the original airworthiness certification of the OH-13E or OH-13H helicopters, the following must be 
+ accomplished for the appropriate model: 
+ Incorporate the single-place modifications described by FAA-approved Model M74 drawing list approved 
+ May 3, 1976, or later approved revisions; Model M74 and M74A drawing list approved August 19, 1977, or 
+ later approved revisions: or Model M74, M74A, and M74L drawing list approved June 10, 1981, or later 
+ approved revision. These lists also include data that require compliance with certain AD's and modifications 
+ based on military service experience. See Note 5 for the limitations applicable to the single-place 
+ modification Model OH-13E/M74. See Note 8 for Model OH-13H/M74A limitations. See Note 14 for the 
+ Model OH-13H/M74L limitations."
+NOTE 4,"a. 
+ Information essential for proper maintenance of the helicopter is contained in Army Maintenance 
+ Manual TM 55-1520-244-35, dated October 1969, through Change C-3 and Organizational 
+ Maintenance Manual TM 55-1520-244-20, dated October 1969, through Change 4. In addition, 
+ essential information for proper maintenance of the Model OH-13E/M74, OH-13H/M74A, and OH- 
+ 13H/M74L single-place helicopters is contained in the appropriate Texas Helicopter Company, Inc. 
+ Maintenance and Overhaul Manual. 
+ b. 
+ Component overhaul intervals and replacement times shall be in accordance with the appropriate 
+ Department of the Army or Texas Helicopter Company, Inc. Maintenance and Overhaul Manual. The 
+ retirement times of certain parts are listed below and also appear in the appropriate maintenance 
+ manual. These values of retirement or service life cannot be increased without FAA Engineering 
+ Approval. 
+ any of the following components."
+Component,"Part No. 
+ Optional Retirement 
+ Retirement or 
+ Retirement or 
+ or Service Life 
+ Service Life 
+ Service Life 
+ Hours 
+ Hours 
+ Hours 
+ OH-13E/M74; 
+ OH-13H/M74L 
+ OH-13H/M74A"
+Hub Yoke,"47-120-177-1 
+ --- 
+ 3600 
+ 5000"
+Grip Assy,"47-120-135-3, -5 
+ 2500 
+ None Established 
+ ---"
+Grip Assy,"47-120-252-7 & -11 
+ --- 
+ 2500 
+ 5000"
+Blade Assy metal,"47-110-250-13, -15, -17, & 19 
+ --- 
+ 3000 
+ ---"
+Blade Assy,"47-110-250-21 
+ --- 
+ --- 
+ 5000"
+Gimbal Ring,"47-120-014-17, -19, -21 
+ 1200 
+ None Established 
+ None Established"
+Gimbal Ring,"47-120-014-23 
+ 4800 
+ None Established 
+ None Established"
+Pitch Horn,"47-120-126-5 
+ --- 
+ None Established 
+ 5000"
+Drag Brace,"47-110-372-1 
+ --- 
+ None Established 
+ 2500"
+TAIL ROTOR,"47-642-102- 
+ 300 
+ 300 AD 80-10-4 
+ ---"
+TR Blades,"(All dash numbers) 
+ 47-642-117-1 
+ --- 
+ 2500 
+ 2500"
+Grip Retention Bolt,"47-641-194-1 
+ --- 
+ 2500"
+TR Hub Yoke,"47-641-057-1 
+ 1200 
+ 2500 
+ ---"
+TR Hub Yoke,"47-641-057-7, -9, or 47-641-104-5 
+ --- 
+ 2500 
+ --- 
+ (Except that -9 serial numbers listed 
+ below have life of 
+ --- 
+ 400 
+ --- 
+ N29-1246 thru -1266, N29-1298 thru –1452 
+ N29-10453 thru -10488, N29-10501 thru –10525 
+ SR29-50501 thru -50507, SR 29-50509 thru –50528 
+ SR29-50530 thru -50533, SR 29-50535 thru –50537 
+ SR29-50539 thru -50544, SR29-50546 thru –50554"
+TR Yoke,"47-641-126-5 
+ --- 
+ 2500 
+ 2500"
+Pitch Change Bearing,"SIRP, 47-641-146 (R-4-AF4) 
+ 100 
+ 200 
+ ---"
+Pitch Change Bearing,"47-641-131-1 
+ --- 
+ 600 
+ 600"
+Fan Belts,"47-661-041-3, -5, -7 
+ --- 
+ 600 
+ ---"
+Fan Belts,"47-661-041-9 
+ --- 
+ 900 
+ 900"
+Engine Mount,"47-612-135-1 and 47-612-171-101 
+ 2400 
+ --- 
+ 47-612-171-115 & -123 
+ --- 
+ 3000 
+ 3000 
+ *5,000 hours when used exclusively with 47-110-250-21 blades, otherwise lower lives of 3600 hours for yoke and 2500 hours"
+NOTE 5,"The following revised OH-13E conditions and limitations are applicable to the special purpose single-place 
+ modification, TEXAS HELICOPTER COMPANY, Inc., Model M-74, 1PCLH (Restricted Category) approved May 
+ 3, 1976."
+Engine,"Lycoming 0-435-23 (VO-435-A1C). See Note 7 for alternate engines. See Note 9 for 
+ optional high compression engines and limitations."
+Fuel,80/87 Minimum grade aviation gasoline
+Engine Limits,"Maximum continuous 
+ 24.5 in. Hg., 3100 rpm (200 HP)"
+Rotor Limits,"Power Off (Rotor Tach) 
+ Power On (Engine Tach) 
+ Maximum 
+ 370 
+ Maximum 
+ 3200 
+ Minimum 
+ 322 
+ Minimum 
+ 2900"
+Airspeed Limits,"VNE (never exceed) 100 mph sea level to 1400 ft. Decrease VNE 4.5 mph per 1000 feet 
+ above 1400 ft. (CAS)"
+CG,(-2.0) to (+2.9) Aft of datum
+Empty weight CG range,None
+Datum,2.0 inches forward of the main rotor mast centerline.
+Leveling means,"See Texas Helicopter Company, Inc. Maintenance and Overhaul Manual."
+Maximum weight,2450 lb.
+No of seats,1 (Pilot) (-30)
+Maximum baggage,None
+Fuel Capacity,29 gals. (+24) (includes 1 gal. unusable)
+Rotor Blade and,"Refer to Texas Helicopter Company, Inc. Maintenance and Overhaul Manual."
+Other operational,"FAA approved helicopter flight manual for TEXAS HELICOPTER, Model OH-"
+Limitations,"13E/M74 dated April 27, 1976, for day VFR only and Supplement dated May 6, 1976, 
+ for night VFR Operation."
+Serial Nos Eligible,"All U.S. Army serial numbers and TEXAS HELICOPTER COMPANY, Inc. 76-001 and 
+ subsequent."
+NOTE 6,"The helicopter must be operated in accordance with FAR 91.39, and agricultural operations must be 
+ conducted under FAR Part 137."
+NOTE 7,"The following Lycoming engines are equivalent to the VO-435-A1C and may be used as alternates. 
+ a. 
+ VO-435-A1A 
+ b. 
+ VO-435-A1B 
+ c. 
+ VO-435-A1D 
+ d. 
+ VO-435-A1E 
+ e. 
+ VO-435-A1F"
+NOTE 8,"The following revised OH-13H conditions and limitations are applicable to the special purpose single-place 
+ modification, TEXAS HELIOCPTER COMPANY, INC., Model M-74A, 1PCLH (Restricted Category) 
+ approved August 31, 1977."
+Engine,"Lycoming 0-435-23 (VO-435-A1C) See Note 7 for alternate engines. See Note 9 for 
+ optional high compression engines and limitations."
+Fuel,80/87 Minimum grade aviation gasoline.
+Engine Limits,"Maximum continuous 
+ 25.7 in. Hg., 3200 rpm (220 HP) 
+ Takeoff 27.5 in. hg., 3200 rpm (240 HP)"
+Rotor Limits,"Power Off (Rotor Tach) 
+ Power On (Engine Tach) 
+ Maximum 
+ 370 
+ Maximum 
+ 3200 
+ Minimum 
+ 322 
+ Minimum 
+ 2900"
+Airspeed Limits,"VNE (never exceed) 100 mph sea level to 1400 ft. Decrease VNE 4.5 mph per 1000 feet 
+ above 1400 ft. (CAS)"
+CG,(-2.0) to +2.9) Aft of datum
+Empty weight,None
+Datum,2.0 inches forward of the main rotor mast centerline.
+Leveling means,"See Texas Helicopter Company, Inc. Maintenance and Overhaul Manual."
+Maximum weight,2750 lb.
+No of Seats,1 (Pilot) (-30)
+Maximum baggage,None
+Fuel Capacity,29 gals. (+24) (includes 1 gal. unusable)
+Rotor blade and,"Refer to Texas Helicopter Company, Inc. Maintenance and Overhaul Manual."
+Other operational,FAA approved helicopter flight manual for TEXAS HELICOPTER Model OH-
+Limitations,"13H/M74A dated August 19, 1977, for day VFR only and Supplement dated August 19, 
+ 1977, for night VFR operation. Flight Manual Revision No. 2 dated April 25, 1978, for 
+ 2750 lbs. gross weight."
+Serial Nos Eligible,"All U.S. Army serial numbers and TEXAS HELICOPTER COMPANY, Inc., 77-007 and 
+ subsequent."
+NOTE 9,"Lycoming VO-435-A1E or VO-435-A1F engines modified per STC SE2500SW may be installed in 
+ accordance with M74 and M74A Drawing No. M74 Revision E. 100/130 minimum grade aviation gasoline 
+ is required. OH-13E/M74 Flight Manual Revision 5 or later revision required and OH-13H/M74A Flight 
+ Manual Revision 1 or later revision required for the respective model helicopter. These flight manuals 
+ contain approved placards and placard locations associated with installation of these engines."
+NOTE 10,"External cargo hook kit 74-706-660 and cargo racks 74-700-201 approved. See RFM supplement dated 
+ April 25, 1978, for cargo hook and supplement dated April 26, 1978, for cargo racks for OH-13E/M74 and 
+ OH-13H/M74A. See RFM supplements dated June 10, 1981, for cargo hook and cargo rocks for OH- 
+ 13H/M74L."
+NOTE 11,Parts not eligible for use.
+NOTE 12,"Service Instruction No. SI-002 contains approved information to convert an M74 configuration to an M74A 
+ configuration."
+NOTE 13,"Texas Helicopter Service Instruction S.I. 003 contains approved information to install the Bell Model 47 
+ improved tail rotor blades noted in AD 80-10-4, paragraph (c)."
+NOTE 14,"The following revised conditions and limitations are applicable to the special purpose single-place 
+ modification, TEXAS HELIOCPTER COMPANY, INC., Model M-74L, (Restricted Category) approved 
+ June 10, 1981."
+Engine,"Lycoming VO-435-A1E or VO-435-A1F modified per STC SE2500SW and installed in 
+ accordance with M74 & M74A drawing No. M74 Revision E or later revision."
+Fuel,100/130 Minimum grade aviation gasoline.
+Engine Limits,"Manifold Pressure for 220 H.P. @ 3200 RPM 
+ Press. 
+ Alt. Ft. 
+ Carburetor Air Temp. °C. 
+ -25 
+ -5 
+ +15 
+ +35 
+ +45 
+ 0 
+ 22.7 
+ 23.4 
+ 24.1 
+ 24.8 
+ 25.1 
+ 2000 
+ 22.4 
+ 23.1 
+ 23.8 
+ 24.5 
+ 24.8 
+ 4000 
+ 22.1 
+ 22.8 
+ 23.5 
+ F.T. 
+ F.T. 
+ 6000 
+ 21.8 
+ F.T. 
+ F.T. 
+ F.T. 
+ F.T. 
+ Take-off Power-2 Min. Limit 240 H.P. 3200 RPM 
+ 0 
+ 23.0 
+ 24.9 
+ 25.8 
+ 26.7 
+ 27.2 
+ F.T. Equals Full Throttle"
+Rotor Limits ,"Power Off (Rotor Tach) 
+ Power On (Engine Tach)"
+Operational,"Maximum 
+ 370 
+ Maximum 
+ 3200"
+Engine Limits,"Minimum 
+ 333 
+ Minimum 
+ 3000"
+Airspeed Limits,"VNE (never exceed) 100 mph (87 knots) sea level to 1400 ft. Decrease VNE 4.5 mph (4 
+ knots) per 1000 feet above 1400 ft. (CAS)"
+CG,(-2.0) to (+2.9) Aft of datum
+Empty weight CG range,None
+Datum,2.0 inches forward of the main rotor mast centerline.
+Leveling means,"See Texas Helicopter Company, Inc. Maintenance and Overhaul Manual."
+Maximum weight,2850 lb.
+No of Seats,1 (Pilot) (-30)
+Maximum baggage,None
+Fuel Capacity,29 gals. (+24) (includes 1 gal. unusable)
+Rotor Blade and,"Refer to Texas Helicopter Company, Inc. Maintenance and Overhaul Manual."
+Other Operational,"FAA approved helicopter flight manual for TEXAS HELIOCPTER COMPANY, INC."
+Limitations,"Model OH-13H/M74L dated June 10, 1981, for day VFR and Supplement dated June 10, 
+ 1981, for night VFR operation."
+Serial Nos Eligible,"All U.S. Army OH-13H serial numbers and TEXAS HELIOCPTER COMPANY, INC. 
+ serial number 77-007 and subsequent."
+NOTE 15,"TEXAS HELICOPTER COMPANY, INC. Service Instruction No. SI-006 contains approved information to 
+ convert an M74A configuration to an M74L configuration."
+NOTE 16,"TEXAS HELICOPTER COMPANY, INC. Service Instruction No. SI-007 contains approved information for 
+ an optional modification to the M74 by relocating the battery forward in a revised instrument pedestal."

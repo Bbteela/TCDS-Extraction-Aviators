@@ -1,0 +1,266 @@
+Keyterm,Info
+"H80EU 
+ Revision 2 
+ AgustaWestland 
+ EH101-300 
+ February 28, 2022",
+Type Certificate Holder,"AGUSTAWESTLAND 
+ Company controlled jointly by: 
+ AGUSTA ELI s.r.l. 
+ 21017 - Cascina Costa di Samarate (Varese) Italia 
+ and 
+ WESTLAND HELICOPTER LIMITED 
+ Yeovil, Somerset, England"
+"I. 
+ Model EH101-300 (Transport Category Helicopter) approved November 25, 1994.",
+Engines,"Three General Electric model CT7-6 turboshaft engines with DECU. 
+ (Ref. CID 618776 and CID 618775). 
+ One auxiliary power unit Sunstrand model T-62T40C7EH/ 
+ P/N 4502316 with ESU P/N 4502145."
+Fuel,"Jet A 
+ - ASTM D1655 
+ Jet A1 - ASTM D1655 
+ Jet B 
+ - ASTM D1655 
+ Fuel system icing inhibitor is to be used below + 5ºC OAT. See U.K. 
+ CAA approved Rotorcraft Flight Manual."
+All engine operation,"- Maximum Continuous 
+ Torque (transmission rating) 
+ 100% 
+ (1254 lb-ft) 
+ (4884 shp at 100% rpm; 
+ 5006 shp at 102.5% rpm) 
+ Output shaft speed (Nf) 
+ 102.5% (20974 rpm) 
+ Gas Producer Speed (Ng) 
+ 101.6% (45415 rpm) 
+ Gas Temperature 
+ 899 ºC (1650 ºF) 
+ - Take Off (5 minutes) 
+ Torque (Transmission rating) 
+ 106.5% (1335 lb-ft) 
+ (5199 shp at 100% rpm; 
+ 5329 shp at 102.5% rpm) 
+ Output shaft speed (Nf) 
+ 102.5% (20974 rpm) 
+ Gas Producer Speed (Ng) 
+ 102.6% (45862 rpm) 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev,"2 
+ - 
+ - 
+ 2 
+ 1 
+ -"
+No,"1 
+ - Maximum Continuous 
+ Torque (transmission rating) 
+ 112 % (934 lb-ft) 
+ (3640 shp at 100% rpm; 
+ 3731 shp at 102.5% rpm) 
+ Output shaft speed (Nf) 
+ 102.5% (20974 rpm) 
+ Gas Producer Speed (Ng) 
+ 102.6% (45862 rpm) 
+ Gas Temperature 
+ 948 ºC (1738 ºF) 
+ - 2.5 Minutes Rating 
+ Torque (transmission rating) 
+ 118% 
+ (986 lb-ft) 
+ (3840 shp at 100% rpm; 
+ 3936 shp at 102.5% rpm) 
+ Output shaft speed (Nf) 
+ 102.5% (20974 rpm) 
+ Gas Producer Speed (Ng) 
+ 103% 
+ (46041 rpm) 
+ Gas Temperature 
+ 964 ºC (1767 ºF)"
+Rotor Limits,"Power off 
+ Maximum 
+ 110% 
+ (231 rpm) 
+ Minimum 
+ 95% 
+ (199.5 rpm) 
+ Power on-Take Off and Landing 
+ Maximum 
+ 103% 
+ (216.3 rpm) 
+ Minimum 
+ 98% 
+ (205.8 rpm) 
+ Power on-Cruise 
+ Maximum 
+ 101% 
+ (212.1 rpm) 
+ Minimum 
+ 98% 
+ (205.8 rpm) 
+ - Rotor Speed Warning 
+ Low speed p. on 
+ 96% 
+ (201.6 rpm) 
+ High speed p. on 
+ 105% 
+ (220.5 rpm) 
+ Low speed p. off 
+ 95% 
+ (199.5 rpm) 
+ High speed p. off 
+ 110% 
+ (231 rpm)"
+Airspeed Limits,"Never exceed speed (Vne) 
+ 167 Kts IAS 
+ For reduction of Vne with altitude 
+ OAT and weight: see U.K. CAA 
+ approved Rotorcraft Flight Manual. 
+ Maximum Gear Operating Speed (Vlo) 
+ 167 Kts IAS 
+ Maximum Gear Extended Speed (Vle) 
+ 167 kts IAS 
+ Never Exceed Speed Power Off 
+ (Vne power off) 
+ 134 Kts IAS 
+ 2 
+ A 
+ B 
+ 14 000 
+ 13 000 
+ Gross 
+ Weight 
+ (Kg) 
+ 12 000 
+ 11 000 
+ E 
+ F 
+ 10 000 
+ 9 000 
+ 7.8 
+ 7 .9 
+ 8 
+ 8 .1 
+ 8.2 
+ 8.3 
+ 8. 4 
+ 8.5 
+ C of G STATION (m) 
+ kg 
+ m 
+ kg 
+ m 
+ A 14290 - 7.875 
+ D 12000 - 7.875 
+ B 14290 - 8.385 
+ E 10500 - 8.385 
+ C 12000 - 8.460 
+ F 10500 - 8.460 
+ Lateral center of gravity limits are ± 30 mm from the centerline at all 
+ gross weights."
+Empty Weight CG Range,From Sta 8385 mm (330.12 in) to Sta 8460 mm (333.07 in.)
+Datum,"Longitudinal station 0 (datum) is 3385 mm (133.26 in) forward of the 
+ front jack point. 
+ Lateral station 0 (datum) is ± 1400 mm (55.12 in) inboard of each 
+ main jack point and coincides with the rotorcraft longitudinal 
+ plane of symmetry."
+Leveling Means,"Plumb line from ceiling reference point to index plate on floor of 
+ passenger cabin."
+Maximum Weight,14290 kg (31504 lb)
+Minimum Crew,Two (2) pilots.
+Number of Passenger Seats,Thirty (30) passengers.
+Maximum Baggage,"Not applicable. 
+ 3 
+ Usable: 1097.75 U.S. Gal. (4155.44 Liters). See Note 1 for unusable fuel."
+Oil Capacity,"Engines 
+ 1.63 U.S. Gal. (6.17 Liters) each engine, two at Sta. 330.86 in 
+ (8403.84 mm) and one at Sta. 381.96 in (9701.784 mm) 
+ APU 
+ 0.79 U.S. Gal. (2.99 Liters) at Sta. 395.4 in (10043.16 mm) 
+ Main Gearbox 
+ 13.2 U.S. Gal. (49.97 Liters) at Sta. 320.47 in (8139.94 mm) 
+ Accessory Gearbox 
+ 1.82 U.S. Gal. (6.89 Liters) at Sta. 266.8 in. (6776.72 mm) 
+ Intermediate Gearbox 
+ 0.76 U.S. Gal. (2.88 Liters) at Sta. 736.6 in (18709.64 mm) 
+ Tail Gearbox 
+ 0.92 U.S. Gal. (3.48 Liters) at Sta. 763.5 in (19392.90 mm). See 
+ Note 1 for undrainable oil."
+Maximum Operating Altitude,10000 ft (3048 m)
+Rotor Blade and,For rigging information refer to the EH101 Maintenance Manual
+Control Movements,Document # EC02P002J.
+Serial Numbers Eligible,50008
+Import Requirements,"To be considered eligible for operation in the United States, each 
+ aircraft manufactured under this Type Certificate must be 
+ accompanied by a certificate of airworthiness for export or certifying 
+ statement endorsed by the exporting civil airworthiness authority 
+ which states (in the English language): ""This aircraft conforms to its 
+ U.S. type design (Type Certificate Number H80EU) and is in a 
+ condition for safe operation. The U.S. airworthiness certification basis 
+ for aircraft type certificated under FAR Section 21.29 and exported by 
+ the country of manufacture is FAR Sections 21.183(c) or 21.185(c). 
+ Refer to the applicable bilateral agreement to verify eligibility for import into 
+ the United States of both new and used aircraft based on the scope of the 
+ agreement, to identify any required statements by the exporting authority on 
+ the export certificate of airworthiness (or equivalent document), and for 
+ procedures for coordinating exceptions to conformity statements on these 
+ documents. Refer to FAA Order 8130.2, Airworthiness Certification of 
+ Aircraft, for requirements for issuance of an airworthiness certificate for 
+ imported aircraft. 
+ The U.S. airworthiness certification basis for aircraft type certificated 
+ under FAR Section 21.29 exported from countries other than the 
+ country of manufacture (e.g. third party country) is FAR Sections 
+ 21.183(d) or 21.183(b). 
+ Certificates of Airworthiness under this Type Certificate may not be 
+ granted unless approved passenger seating featuring upper torso 
+ restraint is installed. 
+ Note: The Maintenance Manual for the EH101-300 has not been 
+ accepted by the FAA; therefore, this aircraft is not eligible for 
+ 4 
+ FAR 21 including Amendment 21-61. 
+ FAR 29 including Amendment 29-1 through 29-27. 
+ FAR 29.351 Amendment 29-30. 
+ Equivalent Safety Findings for FAR 29.903(b) and FAR 29.1303(g)(2) 
+ Special condition no. 29-ASW-12 on HIRF. 
+ FAR 36 including Amendment 36-14. 
+ Civil Aviation Authority-United Kingdom (CAA-U.K.) originally type 
+ certificated this rotorcraft under its type certificate number BR2. The FAA 
+ validated this product under U.S.Type Certificate Number H80EU"
+Equipment,"The basic required equipment as prescribed in the applicable 
+ airworthiness regulations (see certification basis) must be installed in 
+ the aircraft for certification. 
+ In addition a CAA approved Rotorcraft Flight Manual is required."
+NOTES,"The FAA can issue a U.S. airworthiness certificate based on an National 
+ Aviation Authority (NAA) Export Certificate of Airworthiness (Export C of A) 
+ signed by a representative of the Civil Aviation Authority-United Kingdom 
+ (CAA-UK) on behalf of the European Community. 
+ The Export C of A should contain the following statement: “The aircraft 
+ covered by this certificate has been examined, tested, and found to comply with 
+ the type design” approved under U.S. Type Certificate Number H80EU and to 
+ be in a condition for safe operation."
+Note 1,"Current weight and balance report including list of equipment 
+ included in certificated empty weight, and loading instructions when 
+ necessary must be provided for each aircraft at the time of original 
+ certification. 
+ The certificated empty weight and corresponding CG location must 
+ include total oil capacity of 22.43 U.S. Gal. (84.9 lt) at sta. 9074 mm 
+ (357.24 in) and unusable fuel of 21.03 U.S. Gal. (79.6 lt) at sta. 
+ 7259 mm (285.8 in)."
+Note 2,"Placards listed in the CAA approved Rotorcraft Flight Manual must 
+ be displayed in the appropriate location."
+Note 3,"Instructions for continued airworthiness of the rotorcraft are provided 
+ in the following documentation: 
+ - Document No. ED02P2llJTC Continued Airworthiness 
+ Schedule and Airworthiness Limitations Manual 
+ - Document No. EC02P002J Maintenance Manual 
+ 5 
+ Service bulletins, structural repair manuals, overhaul and maintenance 
+ manuals, which contain a statement that the document is CAA 
+ approved, are accepted by the FAA and are considered FAA approved. 
+ These acceptances pertain to the type design only. 
+ 6"

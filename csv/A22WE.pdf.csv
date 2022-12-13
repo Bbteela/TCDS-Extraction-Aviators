@@ -1,0 +1,3056 @@
+Keyterm,Info
+"A22WE 
+ Revision 13 
+ BOEING 
+ DC-10-10 
+ DC-10-40 
+ DC-10-30 
+ DC-10-30F (KC-10A, 
+ KDC-10) 
+ DC-10-10F 
+ DC-10-40F 
+ DC-10-15 
+ MD-11 
+ MD-11F 
+ MD-10-10F 
+ MD-10-30F 
+ April 30, 2018",
+Type Certificate Holder,"The Boeing Company 
+ 4000 Lakewood Boulevard 
+ Long Beach, California 90808"
+Type Certificate Ownership Record,"McDonnell Douglas Corporation, Long Beach, California, merged with The Boeing 
+ Company effective January 1, 2010. Transferred type certificate A22WE to The Boeing 
+ Company on September 27, 2010."
+"I - Model DC-10-10 (Transport Aircraft), Approved July 29, 1971",
+Engines,"3 General Electric CF6-6D, CF6-6D1, CF6-6D1A, CF6-6K or CF6-6K2 Turbofan Engines. (CF6-6D and 
+ CF6-6K engines may be intermixed in accordance with Appendix XXII of the applicable FAA Approved 
+ Airplane Flight Manual. CF6-6D1 and CF6-6D1A engines may be intermixed in accordance with page 2.1 of 
+ Section IVB of applicable FAA Approved Airplane Flight Manual.)"
+Fuel,See NOTE 4.
+Oil,See NOTE 5.
+Engine Limits,"Takeoff Thrust. Sea Level, 
+ CF6-6D/-6K 
+ CF6-6D1 
+ CF6-6D1A/-6K2 
+ Static (5 min) - flat to 
+ 88oF (CF6-6D/-6K) and to 
+ 84oF (CF6-6D1/-6D1A/-K2) 
+ 39,300 lb. 
+ 40,300 lb. 
+ 40,900 lb. 
+ Maximum Continuous (flat to 77oF) 
+ 37,500 lb. 
+ 37,500 lb. 
+ 37,500 lb. 
+ The following table identifies the current revision of each page of the Data Sheet:"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19"
+Rev No,"13 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 11 
+ 11 
+ 11 
+ 10 
+ 11"
+Page No,"20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 32 
+ 33 
+ 34 
+ 35 
+ 36 
+ 37 
+ 38"
+Rev No,"10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 11 
+ 12 
+ 11 
+ 12 
+ 10 
+ 11 
+ 10 
+ 10 
+ 10 
+ 11 
+ 11 
+ 10 
+ 13"
+Page No,"39 
+ 40 
+ 41 
+ 42 
+ 43 
+ 44 
+ 45 
+ 46 
+ 47 
+ 48 
+ 49 
+ 50"
+Rev No,"13 
+ 13 
+ 13 
+ 10 
+ 10 
+ 11 
+ 10 
+ 11 
+ 10 
+ 10 
+ 11 
+ 11 
+ Maximum permissible engine rotor operating speeds 
+ N1 (Low Compressor) 
+ 3810 rpm (111%) 
+ N2 (High Compressor) 
+ 9925 rpm (101%) 
+ Maximum permissible engine temperature 
+ Turbine exhaust gas temperatures at turbine outlet 
+ Take off (5 min.) 
+ 1670oF (910oC) 
+ Maximum Continuous 
+ 1616oF (880oC) 
+ Maximum Acceleration (2 min.) 
+ 1697oF (925oC) 
+ Starting (Max. Transient for 40 sec.) 
+ 1652oF (900oC) 
+ (Max. No Time Limit) 
+ 1382oF (750oC) 
+ Maximum permissible oil outlet temperature 
+ Continuous operation 
+ 320oF (160oC) 
+ Transient operation 1 
+ 347oF (175oC)"
+APU Limits,AiResearch TSCP700-4B
+if installed,"Power Rating Maximum at sea level 
+ 189 hp 
+ Rotor Speeds 
+ Low pressure speed (N1) 
+ 31,570 rpm (110%) 
+ High pressure speed (N2) 
+ 38,830 rpm (110%) 
+ Exhaust Gas Temperature Maximum during operation 
+ 1085oF (585oC) 
+ Maximum indicated temperature during each starting cycle 
+ 1085oF (585oC)"
+CAS,"VMO / MMO (Maximum Operating) 
+ With SB 37-87 
+ Without SB 37-87 
+ At Sea Level 
+ 350K 
+ 350K 
+ At 10,000 ft 
+ 350K 
+ 376K 
+ At 24,820 ft 
+ 350K 
+ 376K (M=0.88) 
+ At 28,310 ft 
+ 350K (M=0.88) 
+ 350K (M=0.88) 
+ At 42,000 ft 
+ 258K (M=0.88) 
+ 258K (M=0.88) 
+ VA (Maneuvering) 
+ See FAA Approved Airplane Flight Manual 
+ VFE 
+ Flap Position (Inboard) 
+ 5o 
+ 260K (M = 0.51) 
+ 15o 
+ 250K (M = 0.51) 
+ 20o 
+ 233K (M = 0.51) 
+ 25o 
+ 214K (M = 0.51) 
+ 35o 
+ 187K (M = 0.51) 
+ 50o 
+ 171K (M = 0.51) 
+ 1 Transient operation above 320°F (160°C) is limited to 15 minutes."
+CAS,"VSLAT (Slat Operating) 
+ Takeoff and Approach: 
+ Flap Position (Inboard) 
+ 5o 
+ 260K (M = 0.51) 
+ 15o 
+ 250K (M = 0.51) 
+ 25o 
+ 214K (M = 0.51) 
+ Landing 
+ Flap Position (Inboard) 
+ 35o 
+ 187K (M = 0.51) 
+ 50o 
+ 171K (M = 0.51) 
+ Autoslat 
+ Flaps retracted 
+ 260K (M = 0.51) 
+ VLO (Landing Gear) 
+ Retraction 
+ 230K (M = 0.70) 
+ Extension 
+ 260K (M = 0.70) 
+ VLE (Landing Gear Extended) 
+ 300K (M = 0.70) 
+ V (Landing light extension) 
+ Maximum speed extension retraction, 
+ or extended position 
+ VMO/MMO 
+ V (Fuel Dump) 
+ 325K up to 28,000 feet 
+ M = 0.82 above 28,000 feet"
+CG Range,See the appropriate FAA Approved Airplane Flight Manual and Weight and Balance Manual.
+Maximum Weight,"440, 000 pound Takeoff Weight 455,000 pound Takeoff Weight"
+See NOTE 10,"See Serial Numbers Eligible 
+ See Serial Numbers Eligible 
+ Taxi and Ramp 
+ 443,000 lb. 
+ 458,000 lb. 
+ Takeoff 
+ 440,000 lb. 
+ 455,000 lb. 
+ Landing 2 
+ 363,500 lb. 
+ 363,500 lb. 
+ Zero Fuel 3 
+ 335,000 lb. 
+ 335,000 lb. 
+ Gear Jacking 
+ 443,000 lb. 
+ 443,000 lb. 
+ Fuselage and Wing Jacking 
+ 388,000 lb. 
+ 388,000 lb."
+Minimum Crew,"For all flights: Pilot, Copilot, and Flight Engineer."
+Passengers,(See NOTE 6)
+Baggage,"(See Weight and Balance Manual) 
+ 2 Fuel dump valves required for operation in excess of maximum landing weight. See NOTE 1 (f). 
+ 3 All weight in airplane above this weight must be fuel."
+Fuel Capacity,"Fuel Tank Capacity (pounds) 
+ Usable 
+ Location 
+ Structural 
+ (6.7 lb./gal) 
+ Arm (Inches) 
+ Main No. 1 
+ 42,579 
+ 40,116 
+ 1488 
+ Main No. 2 
+ 68,998 
+ 64,969 
+ 1296 
+ Main No. 3 
+ 42,579 
+ 40,116 
+ 1488 
+ Center Wing Auxiliary (if installed) 
+ 36,849 
+ 32,727 
+ 1279 
+ Crossfeed Manifold and Lines 
+ 609 
+ 1429"
+Oil Capacity,"24.3 lb./engine usable at 8.1 lb./gal. with wing engines moment arm at 1125 in. and tail engine moment arm 
+ at 2200 in."
+Altitude,"42,000 feet"
+MAC,300.682 inches (Leading Edge of MAC Station 1299.83)
+Limits,See NOTE 3
+Eligible,"Maximum Takeoff Weight of 440,000 pounds"
+See NOTE 10,"46500, 46502 - 46509, 46511 - 46520, 46522 – 46525, 46603, 46604, 46614, 46632, 46645, 46646, 
+ 46700 - 46703, 46706 - 46707, 46709, 46908, 46928, 46942, 46943, 46946, 46977, 46983, 
+ 47800, 47802, 47832, 47833, 47966 - 47969. 
+ Maximum Takeoff Weight of 455,000 pounds 
+ 46501, 46727, 46905, 46906, , (46517, 46525, 46645, 46646, 46908, 46977, 46983, 47832, 47833). 4"
+Information,"See ""Data Pertinent to All Models"""
+"II - Model DC-10-40 (Transport Aircraft), Approved October 20, 1972",
+Engines,"3 Pratt and Whitney JT9D-20 Turbofan Engines with water injection, or 3 Pratt and Whitney JT9D-20J or 
+ JT9D-59A Turbofan Engines (JT9D-59A Engines are installed per Rohr STC SA3139WE) (See Serial 
+ Numbers Eligible)."
+Fuel,See NOTE 4.
+Oil,See NOTE 5.
+Engine Limits,"JT9D-20 
+ JT9D-20J 
+ JT9D-59A 
+ Static Thrust, Sea Level 
+ Takeoff, Dry 5 
+ 44,500 lb. 
+ 48,050 lb. 
+ 51,720 lb. 
+ Takeoff, Wet 6 
+ 47,000 lb. 
+ Maximum Continuous 
+ 39,240 lb. 
+ 39,240 lb. 
+ 44,770 lb. 
+ 4 When modified in accordance with McDonnell Douglas Service Bulletin 57-97. 
+ 5 5 minutes flat to 84°F for JT9D-20 and 86°F for JT9D-20J and JT9D-59A. 
+ 6 2 ½ minutes wet flat to 86°F. 
+ Maximum permissible engine rotor speeds 
+ N1 (Low Compressor) 
+ 3650 rpm (101.4%) 
+ 3750 rpm (104.2%) 
+ 3780 rpm (105%) 
+ N2 (High Compressor) 
+ 8000 rpm ( 98.9%) 
+ 8000 rpm ( 98.9%) 
+ 8011 rpm ( 99%) 
+ Maximum permissible engine temperature 
+ Turbine exhaust gas temperature at turbine outlet 
+ (Tt 6 for JT9D-20 & -20J and Tt 7 for JT9D-59A) 
+ Takeoff, Wet or Dry (5 min) 
+ 1679oF (915oC) 
+ 1805oF (985oC) 
+ 1238oF (670oC) 
+ Maximum Continuous 
+ 1607oF (875oC) 
+ 1697oF (925oC) 
+ 1202oF (650oC) 
+ Maximum Acceleration (2 min) 
+ 1679oF (915oC) 
+ 1805oF (985oC) 
+ 1238oF (670oC) 
+ Starting 7 
+ 1202oF (650oC) 
+ 1202oF (650oC) 
+ 941oF (505oC) 
+ Maximum permissible oil inlet temperature 
+ Continuous Operation 
+ 275oF (135oC) 
+ 275oF (135oC) 
+ 275oF (135oC) 
+ Transient Operation 8 
+ 320oF (160oC) 
+ 320oF (160oC) 
+ 320oF (160oC)"
+APU Limits,AiResearch TSCP700-4
+if installed,"Power Rating Maximum at sea level 
+ 189 hp 
+ Rotor Speeds 
+ Low pressure rotor speed (N1) 
+ 31,750 rpm (110%) 
+ High pressure rotor speed (N2) 
+ 38,830 rpm (110%) 
+ Exhaust Gas Temperature 
+ Maximum during operation 
+ 1085oF (585oC) 
+ Maximum indicated temperature during each starting cycle 1085oF (585oC)"
+Airspeed Limits,VMO / MMO (Maximum Operating)
+CAS,"At Sea Level 
+ 350K 
+ At 10,000 ft. 
+ 376K 
+ At 24,820 ft. 
+ 376K (M = 0.88) 
+ At 42,000 ft. 
+ 258K (M = 0.88) 
+ VA (Maneuvering) 
+ See FAA Approved Airplane Flight Manual 
+ With JT9D-20 or -20J 
+ With JT9D-59A 
+ Engines (See Serial 
+ Engines (See Serial 
+ VFE 
+ Flap Position (Inboard) 
+ Numbers Eligible) 
+ Numbers Eligible) 
+ 5o 
+ 260K (M = 0.51) 
+ 270K (M = 0.55) 
+ 15o 
+ 255K (M = 0.51) 
+ 255K (M = 0.51) 
+ 20o 
+ 240K (M = 0.51) 
+ 240K (M = 0.51) 
+ 25o 
+ 221K (M = 0.51) 
+ 221K (M = 0.51) 
+ 35o 
+ 194K (M = 0.51) 
+ 194K (M = 0.51) 
+ 50o 
+ 178K (M = 0.51) 
+ 178K (M = 0.51) 
+ 7 Maximum transient for 10 seconds. 
+ 8 Transient operation above 275°F (135°C) is limited to 20 minutes."
+CAS,"VSLAT (Slat Operating) 
+ Takeoff and Approach: 
+ With JT9D-20 or 20J 
+ With JT9D-59A 
+ Engines (See Serial 
+ Engines (See Serial 
+ Flap Position (Inboard) 
+ Numbers Eligible) 
+ Numbers Eligible) 
+ 5o 
+ 260K (M = 0.51) 
+ 270K (M = 0.55) 
+ 15o 
+ 255K (M = 0.51) 
+ 255K (M = 0.51) 
+ 20o 
+ 221K (M = 0.51) 
+ 221K (M = 0.51) 
+ Landing 
+ Flap Position (Inboard) 
+ 25o 
+ 221K (M = 0.51) 
+ 221K (M = 0.51) 
+ 35o 
+ 194K (M = 0.51) 
+ 194K (M = 0.51) 
+ 50o 
+ 178K (M = 0.51) 
+ 178K (M = 0.51) 
+ Autoslat 
+ Flaps retracted 
+ 260K (M = 0.51) 
+ 270K (M = 0.75) 
+ VLO (Landing Gear) 
+ Retraction 
+ 230K (M = 0.70) 
+ 230K (M = 0.70) 
+ Extension 
+ 260K (M = 0.70) 
+ 260K (M = 0.70) 
+ VLE (Landing Gear Extended) 
+ 300K (M = 0.70) 
+ 300K (M = 0.70) 
+ V (Landing light extension) 
+ VMO/MMO 
+ VMO/MMO 
+ Maximum speed extension, 
+ retraction, or extended position. 
+ V (Fuel Dump) 
+ 325K up to 28,000 feet 
+ M = 0.82 above 28,000 feet"
+CG Range,See the appropriate FAA Approved Airplane Flight Manual and Weight and Balance Manual.
+Maximum Weight,"With JT9D-20 or -20J Engines 
+ With JT9D-59A Engines"
+See NOTE 10,"565,000 pound Takeoff Weight 
+ 572,000 pound Takeoff Weight 
+ (See Serial Numbers Eligible) 
+ (See Serial Numbers Eligible) 
+ Center Main 
+ Center Main 
+ Center Main 
+ Center Main 
+ Gear Retracted 
+ Gear Extended 
+ Gear Retracted 
+ Gear Extended 
+ or Removed"
+Taxi and Ramp,"568,000 lb. 
+ 443,000 lb. 
+ 575,000 lb. 
+ 478,000 lb."
+Takeoff 9,"565,000 lb. 
+ 440,000 lb. 
+ 572,000 lb. 
+ 475,000 lb."
+Landing 10,"421,000 lb. 
+ 363,500 lb. 
+ 421,000 lb. 
+ 400,000 lb."
+Zero Fuel 11,"391,000 lb. 
+ 363,500 lb. 
+ 391,000 lb. 
+ 391,000 lb."
+Gear Jacking Weight,"568,000 lb. 
+ 443,000 lb. 
+ 575,000 lb. 
+ 478,000 lb."
+Jacking Weight,"508,000 lb. 
+ 443,000 lb. 
+ 508,000 lb. 
+ 478,000 lb. 
+ 9 For takeoff above 555,000 pounds, 28 ply main landing gear tires and modification per Douglas Service Bulletin 57-"
+28 or equivalent are required,"10 Fuel dump valves required for takeoff in excess of maximum landing weight. See NOTE 1 (f). 
+ 11 All weight in airplane above this weight must be fuel."
+Minimum Crew,"For all Flights: Pilot, Copilot, and Flight Engineer."
+Passengers,(See NOTE 6).
+Baggage,(See Weight and Balance Manual).
+Fuel Capacity,"Fuel Tank Capacity (pounds) 
+ Usable 
+ Usable 12 
+ Location 
+ Structural 
+ (6.7 lb./gal.) 
+ (6.7 lb./gal.) 
+ Arm (inches) 
+ Main No. 1 
+ 43,202 
+ 40,203 
+ 40,704 
+ 1492.6 
+ Main No. 2 
+ 69,495 
+ 64,969 
+ 65,438 
+ 1296.0 
+ Main No. 3 
+ 43,202 
+ 40,403 
+ 40,704 
+ 1492.6 
+ Center Wing Auxiliary 
+ 104,141 
+ 97,409 
+ 98,111 
+ 1266.1 
+ Crossfeed Manifold & Lines 
+ 622 
+ 622 
+ 1420.1"
+Oil Capacity,"77 lb./engine usable at 8.1 lb./gal. with wing engines moment arm at 1164.0 in. and tail moment area at 
+ 2239.0 in."
+Altitude,"42,000 feet"
+MAC,295.78 inches (Leading Edge of MAC Station 1311.95)
+Limits,See NOTE 3
+Eligible,"Maximum Takeoff Weight of 565,000 pounds"
+See NOTE 10,"(with JT9D-20 or -20J Engines) 
+ 46750, 46752 – 46771. 
+ Maximum Takeoff Weight of 572,000 pounds 
+ (with JT9D-59A Engines installed per STC SA3139WE) 
+ 46660, 46662, 46913, 46923, 46967, 46974, 47822, 47824 - 47826, 47852, 47853, – 47856, 47857, 48301. 
+ Spare Engine Transportation Pod - The Spare Engine Transportation Pod may be carried on models with 
+ JT9D-59A engines installed per STC SA3139WE in accordance with the limitations specified in the FAA 
+ approved Airplane Flight Manual."
+Information,"See ""Data Pertinent to All Models"""
+"III - Model DC-10-30 (Transport Aircraft), Approved November 21, 1972",
+Engines,"3 General Electric CF6-50A, CF6-50C, CF6-50CA, CF6-50C1, CF6-50C2, CF6-50C2B or CF6-50C2-R 
+ Turbofan Engines. (Engines may be intermixed in accordance with Appendix XXII of applicable FAA 
+ Approved Airplane Flight Manual)."
+Fuel,"See NOTE 4. 
+ 12 When modified per Douglas Service Bulletin 28-27 and 28-32 or equivalents."
+Oil,See NOTE 5.
+Engine Limits,"CF6-50C/-50CA/ 
+ CF6-50A 
+ -50C2-R 
+ CF6-50C1 
+ CF6-50C2 
+ CF6-50C2B 
+ Static Thrust, Sea Level 
+ Takeoff 13 
+ 48,400 lb. 
+ 50,400 lb. 
+ 51,800 lb. 
+ 51,800 lb. 
+ 53,200 lb. 
+ Maximum Continuous 
+ 46,300 lb. 
+ 46,300 lb. 
+ 46,300 lb. 
+ 46,300 lb. 
+ 46,300 lb. 
+ (flat to 86°F) 
+ Maximum permissible engine rotor operating speeds 
+ N1 (Low Compressor) 14 3982 rpm (116%) 
+ 3982 rpm (116%) 
+ 4068 rpm 
+ 4068 rpm 
+ 4068 rpm (118.5%)15 
+ 4068 rpm (118.5%)15 (118.5%) 
+ (118.5%) 
+ N2 (High Compressor) 
+ 10613 rpm (108%) 
+ 10613 rpm (108%) 
+ 10761 rpm 
+ 10761 rpm 
+ 10761 rpm (109.5%)16 
+ 10761 rpm (109.5%)16 (109.5%) 
+ (109.5%) 
+ CF6-50C/-50CA/ 
+ CF6-50C2/-50C2B/ 
+ CF6-50A 
+ -50C1 
+ -50C2-R 
+ Maximum permissible engine temperature 
+ Turbine exhaust gas temperature at turbine outlet 
+ Takeoff (5 min.) 
+ 1679oF (915oC) 
+ 1715oF (935oC) 
+ 1733oF (945oC) 
+ 1733oF (945oC)17 
+ Maximum Continuous 
+ 1607oF (875oC) 
+ 1607oF (875oC) 
+ 1670oF (910oC) 
+ 1670oF (910oC)17 
+ Maximum for Acceleration 
+ (2 min.) 
+ 1706oF (930oC) 
+ 1742oF (950oC) 
+ 1760oF (960oC) 
+ 1760oF (960oC)17 
+ Starting 
+ (Max. Transient for 40 sec.) 
+ 1652oF (900oC) 
+ 1652oF (900oC) 
+ 1652oF (900oC) 
+ (Max. no time limit) 
+ 1382oF (750oC) 
+ 1382oF (750oC) 
+ 1382oF (750oC) 
+ Maximum permissible oil outlet temperature 
+ Continuous Operation 
+ 320oF (160oC) 
+ 320oF (160oC) 
+ 320oF (160oC) 
+ 13 5 minutes flat to 87°F for -50A; 5 minutes flat to 86°F for -50C, -50CA, -50C1, -50C2, and -50C2-R; 5 minutes flat"
+to 79°F for 50C2B,"14 The CF6-50C N1 value of 116% is used for the preparation of the Airplane Flight Manual in lieu of the CF6-50C1 
+ N1 value of 116½% noted in the engine data sheet. 
+ 15 When modified per Douglas Service Bulletin 77-46 or production equivalent, for CF6-50A/-50C/-50CA/-50C1. 
+ 16 When modified per Douglas Service Bulletin 77-44 or production equivalent, for CF6-50A/-50C/-50CA/-50C1. 
+ 17 When modified per Douglas Service Bulletin 77-47 or production equivalent, for CF6-50C/-50CA/-50C1. 
+ CF6-50C/-50CA/ 
+ CF6-50C2/-50C2B/ 
+ CF6-50A 
+ -50C1 
+ -50C2-R 
+ Transient Operation 18 
+ 347oF (175oC) 
+ 347oF (175oC) 
+ 347oF (175oC)"
+APU Limits,AiResearch TSCP700-4
+if installed,"Power Rating Maximum at sea level 
+ 189 hp 
+ Rotor Speeds 
+ Low pressure rotor speed (N1) 
+ 31,750 rpm (110%) 
+ High pressure rotor speed (N2) 
+ 38,830 rpm (110%) 
+ Exhaust Gas Temperature 
+ Maximum during operation 
+ 1085oF (585oC) 
+ Maximum indicated temperature 
+ each starting cycle 
+ 1085oF (585oC)"
+CAS,"VMO/MMO (Maximum Operating) 
+ At Sea Level 
+ 350K 
+ At 10,000 ft 
+ 376K 
+ At 24,820 ft 
+ 376K (M = 0.88) 
+ At 42,000 ft 
+ 258K (M = 0.88) 
+ VA (Maneuvering) 
+ See FAA Approved Airplane Flight Manual 
+ 572,000 lb./580,000 lb. 
+ 565,000 lb. 
+ VFE 
+ Flap Position 
+ Takeoff Weight 
+ Takeoff Weight 
+ (Inboard) 
+ (See Serial Numbers Eligible) 
+ (See Serial Numbers Eligible) 
+ 5o 
+ 270K (M = 0.55) 
+ 260K (M = 0.51) 
+ 15o 
+ 255K (M = 0.51) 
+ 255K (M = 0.51) 
+ 20o 
+ 240K (M = 0.51) 
+ 240K (M = 0.51) 
+ 25o 
+ 221K (M = 0.51) 
+ 221K (M = 0.51) 
+ 35o 
+ 194K (M = 0.51) 
+ 194K (M = 0.51) 
+ 50o 
+ 178K (M = 0.51) 
+ 178K (M = 0.51) 
+ VSLAT (Slat Operating) 
+ Takeoff and Approach 
+ Flap Position 
+ 5o 
+ 270K (M = 0.55) 
+ 260K (M = 0.51) 
+ 15o 
+ 255K (M = 0.51) 
+ 255K (M = 0.51) 
+ 25o 
+ 221K (M = 0.51) 
+ 221K (M = 0.51) 
+ Landing 
+ Flap Position 
+ 35o 
+ 194K (M = 0.51) 
+ 194K (M = 0.51) 
+ 50o 
+ 178K (M = 0.51) 
+ 178K (M = 0.51) 
+ 18 Transient operation above 320°F (160°C) is limited to 15 minutes."
+CAS,"572,000 lb./580,000 lb. 
+ 565,000 lb. 
+ Takeoff Weight 
+ Takeoff Weight 
+ (See Serial Numbers Eligible) 
+ (See Serial Numbers Eligible) 
+ Autoslat 
+ Flaps retracted 
+ 270K (M = 0.55) 
+ 260K (M = 0.51) 
+ VLO Landing Gear 
+ Retraction 
+ 230K (M = 0.70) 
+ 230K (M = 0.70) 
+ Extension 
+ 260K (M = 0.70) 
+ 260K (M = 0.70) 
+ VLE (Landing Gear 
+ Extended) 
+ 300K (M = 0.70) 
+ 300K (M = 0.70) 
+ V (Landing light extension) - Maximum Speed in 
+ extension, retraction, or extended position 
+ VMO/MMO 
+ V (Fuel Dump) 
+ 325K up to 28,000 feet 
+ M=0.82 above 28,000 feet"
+CG Range,See the appropriate FAA Approved Airplane Flight Manual and Weight and Balance Manual.
+Maximum Weight,"565,000 pound Takeoff Weight 
+ 572,000 pound Takeoff Weight"
+See NOTE 10,"(See Serial Numbers Eligible) 
+ (See Serial Numbers Eligible) 
+ Center Main 
+ Center Main 
+ Center Main 
+ Center Main 
+ Gear Extended 
+ Gear Retracted 
+ Gear Extended 
+ Gear Retracted 
+ Taxi and Ramp 
+ 568,000 lb. 
+ 463,000 lb. 
+ 575,000 lb. 
+ 478,000 lb. 
+ Takeoff 19 
+ 565,000 lb. 
+ 460,000 lb. 
+ 572,000 lb. 
+ 475,000 lb. 
+ Landing 20 
+ 424,000 lb. 
+ 400,000 lb. 
+ 424,000 lb. 
+ 400,000 lb. 
+ Zero Fuel 21 
+ 401,000 lb. 
+ 391,000 lb. 
+ 401,000 lb. 
+ 401,000 lb. 
+ Gear Jacking 
+ 568,000 lb. 
+ 463,000 lb. 
+ 575,000 lb. 
+ 478,000 lb. 
+ Fuselage and 
+ Wing Jacking 
+ 508,000 lb. 
+ 463,000 lb. 
+ 508,000 lb. 
+ 478,000 lb. 
+ 580,000 pound Takeoff Weight 
+ 590,000 pound Takeoff Weight 24A, 24B 
+ (See Serial Numbers Eligible) 
+ (See Serial Numbers Eligible) 
+ Center Main 
+ Center Main 
+ Center Main 
+ Center Main 
+ Gear Extended 
+ Gear Retracted 
+ Gear Extended 
+ Gear Retracted 
+ Taxi and Ramp 
+ 583,000 lb. 
+ 478,000 lb. 
+ 593,000 lb. 
+ 478,000 lb. 
+ Takeoff 22 
+ 580,000 lb. 
+ 475,000 lb. 
+ 590,000 lb. 
+ 475,000 lb. 
+ 19 For takeoff weights above 555,000 pounds, 28 ply main landing gear tires and modification per Douglas Service 
+ Bulletin 57-28 or equivalents are required. 
+ 20 Fuel dump valves required for operation in excess of maximum landing weight. See NOTE 1(f). 
+ 21 All weight in airplane above this weight must be fuel. 
+ 22 For takeoff weights above 555,000 pounds, 28 ply main landing gear tires and modification per Douglas Service 
+ Bulletin 57-28 or equivalents are required."
+See NOTE 10,"580,000 pound Takeoff Weight 
+ 590,000 pound Takeoff Weight 
+ (See Serial Numbers Eligible) 
+ (See Serial Numbers Eligible) 
+ Landing 23 
+ 446,000 lb. 
+ 400,000 lb. 
+ 411,000 lb. 
+ 400,000 lb. 
+ Zero Fuel 24 
+ 424,000 lb. 
+ 391,000 lb. 
+ 368,000 lb. 
+ 368,000 lb. 
+ Gear Jacking 
+ 583,000 lb. 
+ 478,000 lb. 
+ 593,000 lb. 
+ 478,000 lb. 
+ Fuselage and 
+ Wing Jacking 
+ 508,000 lb. 
+ 478,000 lb. 
+ 508,000 lb. 
+ 478,000 lb."
+Minimum Crew,"For all Flights: Pilot, Copilot, and Flight Engineer."
+Passenger,(See NOTE 6).
+Baggage,(See Weight and Balance Manual).
+Fuel Capacity,"Fuel Tank Capacity (pounds) 
+ Usable 
+ Usable 25 
+ Arm 
+ Location 
+ Structural 
+ (6.7 lb./gal.) 
+ (6.7 lb./gal.) 
+ (inches) 
+ Main No. 1. 
+ 43,202 
+ 40,203 
+ 40,704 
+ 1492.6 
+ Main No. 2. 
+ 69,495 
+ 64,969 
+ 65,438 
+ 1296.0 
+ Main No. 3. 
+ 43,202 
+ 40,203 
+ 40,704 
+ 1492.6 
+ Center Wing Auxiliary 
+ 104,141 
+ 97,409 
+ 98,111 
+ 1266.1 
+ Aft Aux.26 
+ 11,028 
+ N/A 
+ 10,280 
+ 1819.5 
+ Aft Aux.27 
+ 23,052 
+ N/A 
+ 21,618 
+ 1850.0 
+ Aft Aux.28 
+ 24,018 
+ N/A 
+ 3,317 
+ Crossfeed Manifold & Lines 
+ 609 
+ 609 
+ 1420.5 
+ NOTE: The integrity of the transfer system must be demonstrated per Maintenance Manual, Chapter 28-21- 
+ 100, section titled ""Manifold Integrity Check"" whenever the system is disturbed for maintenance. Also, if the 
+ tank overfilled light is illuminated any time during fueling, comply with the caution note in Chapter 
+ 12-11-04, section titled ""Safety and Operating Precautions"", item pertaining to tank overfilled condition. 
+ 23 Fuel dump valves required for operation in excess of maximum landing weight. See NOTE 1(f). 
+ 24 All weight in airplane above this weight must be fuel. 
+ 24A Serial numbers 48265, 48267, 48290, 48315, 48316, and 48319 have a maximum zero fuel weight of 391,000 lb. 
+ 24B Serial numbers 48267, 48290, 48315, 48316, and 48319 have a maximum landing weight of 436,000 lb. 
+ 25 When modified per Douglas Service Bulletins 28-27 and 28-32 or equivalents. 
+ 26 When modified per Douglas Service Bulletins 28-67, 28-111 and 28-114 or equivalents. 
+ 27 When modified per Douglas Service Bulletin 28-79 or equivalent. 
+ 28 When modified in accordance with Service Bulletin 28-79 and 28-137 or production equivalent."
+Oil Capacity,"24.3 lb./engine usable at 8.1 lb./gal. with wing engines moment arm at 1125 in. and tail engine moment arm 
+ at 2200 in."
+Altitude,"42,000 feet"
+MAC,295.78 inches (Leading Edge of MAC Station 1311.95)
+Limits,See NOTE 3
+Eligible,"Maximum Takeoff Weight of 565,000 pounds"
+See NOTE 10,"46550 - 46557, 46575 - 46582, 46640, 46685, 46686, 46711 - 46714, 46850 - 46854, 46868, 46870, 46872, 
+ 46892, 46911, 46912, 46914 –46416, 46418 - 46919, 46922, 46926, 46927, 46933, 46934, 46940, 46941, 
+ 46944, 46945, 46950 - 46954, 46957, 46958, 46963, 46964, 46969, 46971, 46972, 46981, 46982, 46997, 
+ 47834, 47837, 47846 - 47849, 47861 - 47867, 47886, 47926, 47927, 47980, 47982, 47981, 48283, 48286. 
+ Maximum Takeoff Weight of 572,000 pounds 
+ 46542, 46591, 46959, 46961, 46981, 46988, 46990, 46991, 46993, 46995, 47817, 47838, 47956, 47957, 
+ 48266, 48317, 48318. 
+ Maximum Takeoff Weight of 580,000 pounds 
+ 46583, 46584, 46869. 
+ Maximum Takeoff Weight of 590,000 pounds 
+ 46543, 46595, 46596, 47814, 47815, 47844, 47845, 47850, 47851, 48252, 48265, 48267, 48282, 48285, 
+ 48288, 48290, 48292, 48293, 48296, 48315, 48316, 48319."
+Information,"See ""Data Pertinent to All Models"""
+"IV - Model DC-10-30F (Transport Aircraft), Approved March 30, 1973 
+ (KC-10A See NOTE 11 regarding certification) 
+ (KDC-10 See NOTE 19 regarding certification)",
+Engines,"3 General Electric CF6-50A, CF6-50C, CF6-50CA, CF6-50C1, CF6-50C2, CF6-50C2B or CF6-50C2-R 
+ Turbofan Engines. (Engines may be intermixed in accordance with Appendix XXII of applicable FAA 
+ Approved Airplane Flight Manual)."
+Fuel,See NOTE 4
+Oil,See NOTE 5
+Engine Limits,(See Section III)
+APU Limits,AiResearch TSCP700-4
+if installed,"(See Section III) 
+ (KC-10A See NOTE 11 regarding certification) 
+ (KDC-10 See NOTE 19 regarding certification)"
+Airspeed Limits,VMO/MMO (Maximum Operating)
+CAS,"(KC-10A with Aerial Refueling Boom and Drogue Stowed) 
+ (KDC-10 with Aerial Refueling Boom stowed) 
+ At Sea Level 
+ 350K 
+ At 10,000 ft 
+ 376K 
+ At 24,820 ft 
+ 376K (M = 0.88) 
+ At 42,000 ft 
+ 258K (M = 0.88) 
+ VMO/MMO (Maximum Operating) 
+ (KC-10A/KDC-10 with Aerial Refueling Boom Deployed) 
+ At Sea Level 
+ 350K 
+ At 10,000 ft 
+ 355K 
+ At 25,600 ft 
+ 370K (M = 0.88) 
+ At 37,000 ft 
+ 289K (M = 0.88) 
+ VMO/MMO (Maximum Operating) 
+ (KC-10A with Drogue Deployed) 
+ At Sea Level 
+ 325K 
+ At 10,000 ft 
+ 329K 
+ At 28,930 ft 
+ 345K (M = 0.88) 
+ At 37,000 ft 
+ 289K (M = 0.88) 
+ VA (Maneuvering) 
+ See FAA Approved Airplane Flight Manual 
+ VFE Flap Position Inboard 
+ 5o 
+ 270K (M = 0.55) 
+ 15o 
+ 255K (M = 0.51) 
+ 20o 
+ 240K (M = 0.51) 
+ 25o 
+ 221K (M = 0.51) 
+ 35o 
+ 194K (M = 0.51) 
+ 50o 
+ 178K (M = 0.51) 
+ VSLAT (Slat Operating) 
+ Takeoff and Approach 
+ Flap Position (Inboard) 
+ 5o 
+ 270K (M = 0.55) 
+ 15o 
+ 255K (M = 0.51) 
+ 25o 
+ 221K (M = 0.51) 
+ Landing 
+ Flap Position (Inboard) 
+ 25o 
+ 221K (M = 0.51) 
+ 35o 
+ 194K (M = 0.51) 
+ 50o 
+ 178K (M = 0.51) 
+ Autoslat 
+ Flaps retracted 
+ 270K (M = 0.75) 
+ VLO Landing Gear 
+ Retraction 
+ 230K (M = 0.70) 
+ Extension 
+ 260K (M = 0.70) 
+ VLE (Landing Gear Extended) 
+ 300K (M = 0.70) 
+ (KC-10A See NOTE 11 regarding certification) 
+ (KDC-10 See NOTE 19 regarding certification)"
+CAS,"V (Landing light extension) - 
+ Maximum speed in extension, 
+ retraction, or extended position 
+ VMO/MMO 
+ V (Fuel Dump) 
+ 325K up to 28,000 feet 
+ M = 0.82 above 28,000 feet 
+ NOTE - The airspeed limits for DC-10-30F with CF6-50C1 engines are the same as those for DC-10-40 
+ airplanes with JT9D-59A engines. (See Section II)."
+CG Range,"DC-10-30F: 
+ See the appropriate FAA Approved Airplane Flight Manual and Weight and Balance Manual. 
+ KC-10A: 
+ See the appropriate FAA Approved Airplane Flight Manual and ""Basic Weight Checklist and 
+ Loading Data"", Report No. T.O. 1C-10(K) A-5, Chg. 1, dated 15 March 1981. 
+ KDC-10: 
+ See the appropriate FAA Approved Airplane Flight Manual and Weight and Balance Manual."
+Maximum Weight,"565,000 pound Takeoff Weight 
+ 572,000 pound Takeoff Weight"
+See NOTE 10,"(See Serial Numbers Eligible) 
+ (See Serial Numbers Eligible) 
+ Center Main 
+ Center Main 
+ Center Main 
+ Center Main 
+ Gear Retracted 
+ Gear Extended 
+ Gear Retracted 
+ Gear Extended 
+ or Removed _"
+Taxi and Ramp,"568,000 lb. 
+ 463,000 lb. 
+ 575,000lb. 
+ 478,000lb."
+Takeoff 29,"565,000 lb. 
+ 460,000 lb. 
+ 572,000lb. 
+ 475,000lb."
+Landing 30,"424,000 lb. 
+ 400,000 lb. 
+ 424,000lb. 
+ 400,000lb."
+Zero Fuel 31,"401,000 lb. 
+ 391,000 lb. 
+ 401,000lb. 
+ 391,000lb."
+Gear Jacking Wt,"568,000 lb. 
+ 463,000 lb. 
+ 575,000lb. 
+ 478,000lb."
+Jack Weight,"508,000 lb. 
+ 463,000 lb. 
+ 508,000lb. 
+ 478,000lb. 
+ 580,000 pounds Takeoff Weight 
+ 590,000 pounds Takeoff Weight 
+ (See Serial Numbers Eligible) 
+ (See Serial Numbers Eligible) 
+ Center Main 
+ Center Main 
+ Center Main 
+ Gear Retracted 
+ Center Main 
+ Gear Retracted 
+ Gear Extended 
+ or Removed 
+ Gear Extended 
+ or Removed"
+Taxi and Ramp,"583,000 lb. 
+ 478,000 lb. 
+ 593,000 lb. 
+ 478,000 lb."
+Takeoff 29,"580,000 lb. 
+ 475,000 lb. 
+ 590,000 lb. 
+ 475,000 lb."
+Landing 30,"446,000 lb. 
+ 400,000 lb. 
+ 436,000 lb. 
+ 400,000 lb."
+Zero Fuel 31,"424000 lb. 
+ 391,000 lb. 
+ 414,000 lb. 
+ 400,000 lb."
+Gear Jacking Wt,"583,000 lb. 
+ 478,000 lb. 
+ 593,000 lb. 
+ 478,000 lb."
+Jack Weight,"508,000 lb. 
+ 478,000 lb. 
+ 508,000 lb. 
+ 478,000 lb. 
+ 29 For takeoff weights above 555,000 pounds, 28 ply main landing gear tires and modification per Douglas Service 
+ Bulletin 57-28 or equivalents are required. 
+ 30 Fuel dump valves required for operation in excess of maximum landing weight. See NOTE 1 (f). 
+ 31 All weight in airplane above this weight must be fuel. 
+ (KC-10A See NOTE 11 regarding certification) 
+ (KDC-10 See NOTE 19 regarding certification)"
+Minimum Crew,"For all Flights: Pilot, Copilot, and Flight Engineer."
+Passengers,"For DC-10-30F: See FAA approved exemption 6752 for the accommodation of up to four supernumeraries 
+ immediately aft of the cockpit on freighter aircraft equipped with a Class E cargo compartment. 
+ For KC-10A: The KC-10A is approved to operate in the “all cargo” or “combi” (combination passenger and 
+ cargo) configuration. For the “combi” configuration, a total of up to 75 passengers are allowed per FAA 
+ approved MDC interior schematic drawing number J015113, Revision V, or later FAA approved revisions."
+Baggage,(See Weight and Balance Manual).
+Fuel Capacity,"Fuel Tank Capacity (pounds) 
+ Usable 
+ Usable 32 
+ Location 
+ Structural 
+ (6.7 lb./gal.) 
+ (6.7 lb./gal.) 
+ Arm (inches) 
+ Main No. 1 
+ 43,202 
+ 40,203 
+ 40,704 
+ 1492.6 
+ Main No. 2 
+ 69,495 
+ 64,969 
+ 65,438 
+ 1296.0 
+ Main No. 3 
+ 43,202 
+ 40,203 
+ 40,704 
+ 1492.6 
+ Center Wing Auxiliary 
+ 104,141 
+ 97,409 
+ 98,111 
+ 1266.1 
+ Aft Aux.33 
+ 10,884 
+ N/A 
+ 10,280 
+ 1819.5 
+ Aft Aux.34 
+ 22,670 
+ N/A 
+ 21,618 
+ 1850.0 
+ Crossfeed Manifold & Lines 
+ 609 
+ 609 
+ 1420.5 
+ Fwd. Body (KC-10A only) 
+ 59,171 
+ 55,308 
+ N/A 
+ 959 
+ Aft. Body (KC-10A only) 
+ 70,294 
+ 66,149 
+ N/A 
+ 1641 
+ NOTE: The integrity of the transfer system must be demonstrated per Maintenance Manual, Chapter 28-21- 
+ 100, section titled ""Manifold Integrity Check"" whenever the system is disturbed for maintenance. 
+ Also, if the tank overfilled light is illuminated any time during fueling, comply with the caution 
+ note in Chapter 12-11-04, section titled ""Safety and Operating Precautions"", item pertaining to tank 
+ overfilled condition."
+Oil Capacity,"24.3 lb./engine usable at 8.1 lb./gal. with wing engines moment arm at 1125 in. and tail engine moment arm 
+ at 2200 in."
+Altitude,"42,000 feet"
+MAC,295.78 inches (Leading Edge of MAC St. 1311.95)
+Limits,"See NOTE 3. 
+ 32 When modified per Douglas Service Bulletins 28-27 and 28-32 or equivalents. 
+ 33 When modified per Douglas Service Bulletins 28-67, 28-111 and 28-114 or equivalent. 
+ 34 When modified per Douglas Service Bulletin 28-79 or equivalent. 
+ (KC-10A See NOTE 11 regarding certification) 
+ (KDC-10 See NOTE 19 regarding certification)"
+Eligible,"Maximum Takeoff Weight of 565,000 pounds"
+See NOTE 10,"46891, 46917, 46955, 46956, 46965, 46985, 47868, 47889, 47906 - 47908, 47921 - 47925, 47928, 47929. 
+ Maximum Takeoff Weight of 572,000 pounds 
+ 46540, 46541, 46590, 46836, 46921, 46931, 46932, 46936, 46937, 46949, 46975, 46976, 46978, 46986, 
+ 46987, 46998, 46999, 47816, 47818, 47819 47831, 47840, 47888. 
+ Maximum Takeoff Weight of 580,000 pounds 
+ 47811, 47813, 47841, 47842. 
+ Maximum Takeoff Weight of 590,000 pounds 
+ 47843, 47870, 48200, 48211, 48213 – 48251, 48298, 48299, 48303 – 48310."
+Information,"See ""Data Pertinent to All Models"""
+"V - Model DC-10-10F (Transport Aircraft), Approved February 1, 1974",
+Engines,"3 General Electric CF6-6D, CF6-6D1, CF6-6D1A, CF6-6K or CF6-6K2 Turbofan Engines. (CF6-6D and 
+ CF6-6K engines may be intermixed in accordance with Appendix XXII of applicable FAA Approved 
+ Airplane Flight Manual. CF6-6D1 and CF6-6D1A may be intermixed in accordance with page 2.1 of Section 
+ IV-B of applicable FAA Approved Airplane Flight Manual.)"
+Fuel,See NOTE 4.
+Oil,See NOTE 5.
+Engine Limits,Refer to Section I
+APU Limit,Refer to Section I
+Airspeed Limits,Refer to Section I
+CG Range,See the appropriate FAA Approved Airplane Flight Manual and Weight and Balance Manual.
+Maximum Weight,"440,000 pound Takeoff Weight 
+ 446,000 pound Takeoff Weight"
+See NOTE 10,"(See Serial Numbers Eligible) 
+ (See Serial Numbers Eligible) 
+ Taxi and Ramp 
+ 443,000 lb. 
+ 449,000 lb. 
+ Takeoff 
+ 440,000 lb. 
+ 446,000 lb. 
+ Landing 35 
+ 370,000 lb. 36 
+ 375,000 lb. 
+ Zero Fuel 37 
+ 350,000 lb. 38 
+ 355,000 lb. 
+ Gear Jacking Weight 
+ 443,000 lb. 
+ 449,000 lb. 
+ Fuselage and Wing Jack Weight 
+ 388,000 lb. 
+ 388,000 lb. 
+ 455,000 pound Takeoff Weight 
+ (See Serial Numbers Eligible) 
+ Taxi and Ramp 
+ 458,000 lb. 
+ Takeoff 
+ 455,000 lb. 
+ Landing 35 
+ 375,000 lb. 
+ Zero Fuel 37 
+ 355,000 lb. 
+ Gear Jacking Weight 
+ 449,000 lb. 
+ Fuselage and Wing Jack Weight 
+ 388,000 lb."
+Minimum Crew,"For all flights: Pilot, Copilot, and Flight Engineer."
+Passengers,"See FAA approved exemption number 6752 for the accommodation of up to four supernumeraries 
+ immediately aft of the cockpit on freighter aircraft equipped with a Class E cargo compartment."
+Baggage,(See Weight and Balance Manual).
+Fuel Capacity,"Fuel Tank Capacity (pounds) 
+ Usable 
+ Location 
+ Structural 
+ (6.7 lb./gal.) 
+ Arm (inches) 
+ Main No. 1 
+ 42,579 
+ 40,116 
+ 1488 
+ Main No. 2 
+ 68,998 
+ 64,969 
+ 1296 
+ Main No. 3 
+ 42,579 
+ 40,116 
+ 1488 
+ Crossfeed Manifold & Lines 
+ 609 
+ 1429 
+ Center Wing Auxiliary (if installed) 
+ 36,849 
+ 32,727 
+ 1279"
+Oil Capacity,"24.3 lb./engine usable at 8.1 lb./gal. with wing engines moment arm at 1125 in. and tail engine moment arm 
+ at 2200 in. 
+ 35 Fuel dump valves required for operation in excess of maximum landing weight. See NOTE 1(f). 
+ 36 370,000 pound landing weight is approved in freighter mode only, when Douglas Drawing SM10000001 and 
+ Douglas Service Bulletin 27-156 are incorporated and main landing gear Goodyear brakes 5000709-7 or later are"
+installed or production equivalent,"37 All weight in airplanes above this weight must be fuel. 
+ 38 350,000 pound zero fuel weight is approved in freighter mode only, when Douglas drawing SM10000001 and 
+ Douglas Service Bulletin 27-156 are incorporated and main landing gear Goodyear brakes 5000709-7 or later are"
+Altitude,"42,000 feet"
+MAC,300.682 inches (Leading Edge of MAC Station 1299.83)
+Limits,See NOTE 3
+Eligible,"Maximum Takeoff Weight of 440,000 pounds"
+See NOTE 10,"None 
+ Maximum Takeoff Weight of 446,000 pounds 
+ 46705, 46900 - 46903, 47801. 
+ Maximum Takeoff Weight of 455,000 pounds 
+ None"
+Information,"See ""Data Pertinent to All Models"""
+"VI - Model DC-10-40F (Transport Aircraft, Approved November 5, 1976",
+Engines,3 Pratt and Whitney Turbofan JT9D-59A Engines installed per Rohr STC SA3139WE.
+Fuel,See Note 4
+Oil,See NOTE 5
+Engine Limits,(See Section II)
+APU Limits,(See Section II)
+Limits,(See Section II) the airspeed limits are the same for airplanes with JT9D-59A engines.
+CG Range,See the appropriate FAA Approved Airplane Flight Manual and Weight and Balance Manual.
+Maximum Weight,"572,000 pound Takeoff Weight"
+See Note 10,"(See Serial Numbers Eligible) 
+ Center Main 
+ Center Main 
+ Gear Extended 
+ Gear Retracted 
+ Taxi and Ramp 
+ 575,000 lb. 
+ 478,000 lb. 
+ Takeoff 39 
+ 572,000 lb. 
+ 475,000 lb. 
+ Landing 40 
+ 424,000 lb. 
+ 400,000 lb. 
+ 39 For takeoff weights above 555,000 pounds, 28 ply main landing gear tires and modifications per Douglas Service 
+ Bulletin 57-28 or equivalents are required. 
+ 40 Fuel dump valves required for operation in excess of maximum landing weight. See NOTE 1(f)."
+DC1040F,"572,000 pound Takeoff Weight"
+See NOTE 10,"(See Serial Numbers Eligible) 
+ Center Main 
+ Center Main 
+ Gear Extended 
+ Gear Retracted 
+ Zero Fuel 41 
+ 401,000 lb. 
+ 391,000 lb. 
+ Gear Jacking Weight 
+ 575,000 lb. 
+ 478,000 lb. 
+ Fuselage & Wing Jacking Weight 
+ 508,000 lb. 
+ 478,000 lb."
+Minimum Crew,"For all flights: Pilot, Copilot, and Flight Engineer."
+Passenger,"See FAA approved exemption number 6752 for the accommodation of up to four supernumeraries 
+ immediately aft of the cockpit on freighter aircraft equipped with a Class E cargo compartment."
+Baggage,(See Weight and Balance Manual)
+Fuel Capacity,(See Section II)
+Oil Capacity,"77 lb./engine usable at 8.1 lb./gal. with wing engines moment arm at 1164.0 in. and tail engine moment arm 
+ at 2239.0 in."
+Altitude,"42,000 feet"
+MAC,295.78 inches (Leading Edge of MAC Station 1311.95)
+Limits,(See NOTE 3)
+Eligible,"Maximum Takeoff Weight of 572,000 lbs."
+See NOTE 10,"46920, 46661, 46966, 47823, 47855."
+Information,"See ""Data Pertinent to All Models"""
+"VII - Model DC-10-15 (Transport Aircraft), Approved June 12, 1981",
+Engines,3 General Electric CF6-50C2-F Turbofan Engines
+Fuel,See NOTE 4.
+Oil,"See NOTE 5. 
+ 41 All weight in airplane above this weight must be fuel."
+Engine Limits,"Takeoff Thrust, Sea Level, Static 
+ CF6-50C2-F 
+ (5 min. flat to 
+ Std. + 28.3oC) 
+ 45,600 lb. 
+ Maximum Continuous (flat to Std. + 15oC) 
+ 43,250 lb. 
+ Maximum permissible engine rotor operating speeds 
+ N1 (Low Compressor) 
+ 4,067.5 rpm (111.3%) 
+ N2 (High Compressor) 
+ 10,761 rpm (109.5%) 
+ Maximum permissible engine temperature 
+ Turbine exhaust gas temperatures at turbine outlet 
+ Takeoff (5 min.) 
+ 1,733oF (945oC) 
+ Maximum Continuous 
+ 1,670oF (910oC) 
+ Maximum for Acceleration (2 min.) 
+ 1,760oF (960oC) 
+ Starting 
+ (Max. Transient for 40 sec.) 
+ 1,652oF (900oC) 
+ (Max. no time limit) 
+ 1,382oF (750oC) 
+ Maximum permissible oil outlet temperature 
+ Continuous operation 
+ 320oF (160oC) 
+ Transient operation 42 
+ 347oF (175oC)"
+APU Limits,AiResearch TSCP700-4
+if installed,"Power Rating 
+ Maximum at sea level 
+ 189 hp 
+ Rotor Speeds 
+ Low pressure speed (N1) 
+ 31,570 rpm (110%) 
+ High pressure speed (N2) 
+ 38,830 rpm (110%) 
+ Exhaust Gas Temperature 
+ Maximum during operation 
+ 1085oF (585oC) 
+ Maximum indicated temperature during each starting cycle 
+ 1085oF (585oC)"
+Airspeed Limits,VMO/MMO (Maximum Operating)
+CAS,"At Sea Level 
+ 350K 
+ At 28,310 ft 
+ 350K (M = 0.88) 
+ At 42,000 ft 
+ 258K (M = 0.88) 
+ VA (Maneuvering) 
+ See FAA Approved Airplane Flight Manual 
+ VFE Flap Position (Inboard) 
+ 5o 
+ 260K (M = 0.51) 
+ 15o 
+ 250K (M = 0.51) 
+ 20o 
+ 233K (M = 0.51) 
+ 25o 
+ 214K (M = 0.51) 
+ 35o 
+ 187K (M = 0.51) 
+ 50o 
+ 171K (M = 0.51) 
+ 42 Transient operation above 320°F (160°C) is limited to 15 minutes."
+CAS,"VSLAT (Slat Operating) 
+ Takeoff and Approach 
+ Flap Position 
+ 5o 
+ 260K (M = 0.51) 
+ 15o 
+ 250K (M = 0.51) 
+ 25o 
+ 214K (M = 0.51) 
+ Landing 
+ Flap Position 
+ 35o 
+ 187K (M = 0.51) 
+ 50o 
+ 171K (M = 0.51) 
+ Autoslat 
+ Flap retracted 
+ 260K (M = 0.51) 
+ VLO (Landing Gear) 
+ Retraction 
+ 230K (M = 0.70) 
+ Extension 
+ 260K (M = 0.70) 
+ VLE (Landing Gear Extended)300K (M = 0.70) 
+ (3) No fuel limitation 
+ V (Landing light extension) - Maximum speed in 
+ extension, retraction, or extended position 
+ VMO/MMO 
+ V (Fuel Dump) 
+ 325K up to 28,000 feet 
+ M = 0.82 above 28,000 feet"
+CG Range,See the appropriate FAA Approved Airplane Flight Manual and Weight and Balance Manual.
+See NOTE 10,"455,000 pounds Takeoff Weight 
+ (See Serial Number Eligible) 
+ Taxi and Ramp 
+ 458,000 lb. 
+ Takeoff 
+ 455,000 lb. 
+ Landing 43 
+ 363,500 lb. 
+ Zero Fuel 44 
+ 335,000 lb. 
+ Gear Jacking Weight 
+ 443,000 lb. 
+ Fuselage and Wing Jack Weight 
+ 388,000 lb."
+Crew,"For all flights: Pilot, Copilot, and Flight Engineer."
+Passenger,"(See NOTE 6). 
+ 43 Fuel dump valves required for operation in excess of maximum landing weight. See NOTE 1(f). 
+ 44 All weight in airplane above this weight must be fuel."
+Baggage,(See Weight and Balance Manual).
+Fuel Capacity,"Fuel Tank Capacity (pounds) 
+ Usable 
+ Location 
+ Structural 
+ (6.7 lb./gal) 
+ Arm (inches) 
+ Main No. 1 
+ 43,202 
+ 40,203 
+ 1488 
+ Main No. 2 
+ 69,495 
+ 64,969 
+ 1296 
+ Main No. 3 
+ 43,202 
+ 40,203 
+ 1488 
+ Center Wing Auxiliary 
+ 36,849 
+ 32,727 
+ 1279 
+ Crossfeed Manifold & Lines 
+ 609 
+ 1429"
+Oil Capacity,"24.3 lb./engine usable at 8.1 lb./gal. with wing engines moment arm at 1125 in. and tail engine moment arm 
+ at 2200 in."
+Altitude,"42,000 feet"
+MAC,300.682 inches (Leading Edge of MAC Station 1299.83)
+Limits,See NOTE 3.
+Eligible,"Maximum Takeoff Weight of 455,000 lbs."
+See NOTE 10,"48258, 48259, 48275, 48276, 48289, 48294, 48295."
+Information,"See ""Data Pertinent to All Models"""
+"VIII - Model MD-11 (Transport Aircraft), Approved November 8, 1990",
+Engines,"3 General Electric CF6-80C2D1F high-bypass turbofan engines. 
+ or 
+ 3 Pratt & Whitney PW4460 high-bypass turbofan engines. 
+ or 
+ 3 Pratt & Whitney PW4462 high-bypass turbofan engines."
+Fuel,See NOTE 4.
+Oil,See NOTE 5.
+CF680C2D1F,"Takeoff thrust, sea level, static (5 min), lb 
+ 60,690 
+ Maximum continuous thrust, sea level, static thrust, lb. 
+ 56,210 
+ Flat rating ambient temperature: 
+ Takeoff 
+ 86o F (30o C) 
+ Maximum continuous 
+ 77o F (25o C)"
+CF680C2D1F,"Maximum permissible engine rotor speeds: 
+ Low pressure rotor (N1) 
+ 3,854 rpm (117.5%) 
+ High pressure rotor (N2) 
+ 11,055 rpm (112.5%) 
+ Maximum permissible exhaust gas temperatures: 
+ Takeoff (5 min) 
+ 1760o F (960o C) 
+ Maximum continuous 
+ 1697o F (925o C) 
+ Starting (Max. transient for 40 sec) 
+ 1598o F (870o C) 
+ Starting (Max. with no time limit) 
+ 1382o F (750o C) 
+ Maximum permissible oil outlet temperatures: 
+ Continuous operation 
+ 320o F (160o C) 
+ Transient operation 
+ 347o F (175o C) 
+ (Transient operation is limited to 15 minutes.) 
+ Fuel and Oil Pressure Limits: 
+ Fuel pressure limits apply at the engine fuel pump inlet. 
+ Ground Starting Air Starting and Operation. 
+ This limit is from a minimum fuel pressure of not less than 5.0 psia (34.46 kPa, absolute) above the true 
+ fuel vapor pressure to a maximum of 70 psig (482.6 kPa gage) (relative to atmosphere) with vapor/liquid 
+ ratio of zero at all conditions. 
+ Oil: Pressure Limit at Idle. 
+ The pressure limit at idle is 9.5 psid (65.5 kPa diff) minimum; varying from 26 to 120 psid (179.4 to 
+ 827.6 kPa diff) in the normal operating range."
+PW4460,"Takeoff thrust, sea level, static (5 min), lb. 
+ 60,000 
+ Maximum continuous thrust, sea level, static thrust, lb. 
+ 51,050 
+ Flat rating ambient temperature takeoff 
+ 86o F (30o C) 
+ Maximum continuous 
+ 86o F (30o C) 
+ Maximum permissible engine rotor speeds: 
+ Low pressure rotor (N1) 
+ 4,012 rpm (111.4%) 
+ High pressure rotor (N2) 
+ 10,450 rpm (100.0%) 
+ Maximum permissible exhaust temperatures: 
+ Takeoff (5 min) 
+ 1202o F (650o C) 
+ Maximum continuous 
+ 1157o F (625o C) 
+ Starting on ground 
+ 995o F (535o C) 
+ Starting in flight 
+ 1202o F (650o C) 
+ Maximum permissible oil outlet temperatures: 
+ Continuous operation 
+ 325o F (163o C) 
+ Transient operation 
+ 350o F (177o C) 
+ (Transient operation is limited to 20 minutes)"
+PW4460,"Fuel and Oil Pressure Limits: 
+ Fuel pressure limits apply at the engine fuel pump inlet: 
+ Minimum fuel pressure must be not less than 5 psig (34.46 kPa, gage) above the true vapor pressure of the 
+ fuel. 
+ Maximum fuel pressure must be not greater than 70 psig with a vapor-to-liquid ratio of zero. 
+ Oil pressure, minimum 70 psid 
+ (However, temporary interruption of oil pressure associated with negative ""g"" operation is limited to 30 
+ seconds maximum. Normal oil pressure will be restored rapidly once the negative ""g"" effect has been 
+ eliminated.)"
+PW4462,"Takeoff thrust, sea level, static (5 min), lb. 
+ 62,000 
+ Maximum continuous thrust, sea level, static thrust, lb. 
+ 51,050 
+ Flat rating ambient temperature takeoff 
+ 86o F (30o C) 
+ Maximum continuous 
+ 86o F (30o C) 
+ Maximum permissible engine rotor speeds: 
+ Low pressure rotor (N1) 
+ 4,012 rpm (111.4%) 
+ High pressure rotor (N2) 
+ 10,450 rpm (100.0%) 
+ Maximum permissible exhaust temperatures: 
+ Takeoff (5 min) 
+ 1202o F (650o C) 
+ Maximum continuous 
+ 1157o F (625o C) 
+ Starting on ground 
+ 995o F (535o C) 
+ Starting in flight 
+ 1202o F (650o C) 
+ Maximum permissible oil outlet temperatures: 
+ Continuous operation 
+ 325o F (163o C) 
+ Transient operation 
+ 350o F (177o C) 
+ (Transient operation is limited to 20 minutes) 
+ Fuel and Oil Pressure Limits: 
+ Fuel pressure limits apply at the engine fuel pump inlet: 
+ Minimum fuel pressure must be not less than 5 psig (34.46 kPa, gage) above the true vapor pressure of the 
+ fuel. 
+ Maximum fuel pressure must be not greater than 70 psig with a vapor-to-liquid ratio of zero. 
+ Oil pressure, minimum 70 psig 
+ (However, temporary interruption of oil pressure associated with negative ""g"" operation is limited to 30 
+ seconds maximum. Normal oil pressure will be restored rapidly once the negative ""g"" effect has been 
+ eliminated.)"
+APU Limits,AIResearch TSCP700-4E
+if installed,"Power Rating Maximum at sea level 
+ 189 hp"
+if installed,"Rotor Speeds 
+ Low pressure speed (N1) 
+ 31,570 rpm (110%) 
+ High pressure speed (N2) 
+ 38,830 rpm (110%) 
+ Exhaust Gas Temperature - 
+ Starting 1602o F (872o C) 
+ Continuous 1085o F (585o C)"
+CAS,"Vmo/Mmo (MAXIMUM OPERATING) 
+ ALTITUDE (feet) 
+ KEAS 
+ KCAS 
+ At sea level 
+ 350 
+ 350 
+ 10,000 
+ 359.6 
+ 365 
+ 25,670 
+ 345.54 
+ 365 
+ above 25,670 
+ .87 Mach 
+ .87 Mach 
+ For additional airspeed limits below 90% wing tip fuel, see FAA Approved Airplane Flight Manual. 
+ Va (maneuvering). See FAA Approved Airplane Flight Manual. 
+ FLAP AND SLAT SPEEDS: 
+ FLAP 
+ SLAT 
+ SPEED 
+ MACH 
+ GROSS WEIGHT 
+ 0 
+ ext 
+ 280 
+ .55 
+ MTOGW 
+ 15 
+ ext 
+ 255 
+ .51 
+ MTOGW 
+ 22 
+ ext 
+ 240 
+ .51 
+ MTOGW 
+ 25 
+ ext 
+ 229 
+ .51 
+ MTOGW 
+ 28 
+ ext 
+ 219 
+ .51 
+ MLW+3000 lb. 
+ 35 
+ ext 
+ 198 
+ .51 
+ MLW+3000 lb. 
+ 50 
+ ext 
+ 178 
+ .51 
+ MLW+3000 lb. 
+ Vlo (LANDING GEAR SPEEDS:) 
+ Gear Extension = 260 KCAS 
+ Gear Retraction = 230 KCAS to .7 MACH 
+ Vle Landing Gear Extended = 300 KCAS 
+ V (Landing Light Extension) 
+ Maximum Speed in Extension, Retraction, or Extended Position: 
+ Vmo/Mmo 
+ V (FUEL DUMP SPEED) 
+ No speed restriction is imposed upon the airplane during the time period in 
+ which fuel is being dumped."
+CG Range,See MD-11 Weight and Balance Manual Report No. MDC-K0032.
+Maximum Weight,"610,000pound 
+ 618,000pound 
+ 625, 500pound 
+ 630,500pound 
+ Takeoff Weight 
+ Takeoff Weight 
+ Takeoff Weight 
+ Takeoff Weight 
+ (See Serial Numbers Eligible) 
+ Center Main 
+ Gear Retracted"
+Taxi and Ramp,"613,000 lb. 
+ 621,000 lb. 
+ 628,000 lb. 
+ 633,000 lb. 
+ 448,000 lb."
+Takeoff45 46,"610,000 lb. 
+ 618,000 lb. 
+ 625,500 lb. 
+ 630,500 lb. 
+ 445,000 lb."
+Landing47,"458,000 lb. 
+ 458,000 lb. 
+ 458,000 lb. 
+ 458,000 lb. 
+ 400,000 lb."
+Zero Fuel48,"430,000 lb. 
+ 430,000 lb. 
+ 430,000 lb. 
+ 430,000 lb. 
+ 370,000 lb."
+Gear Jacking Weight 613000 lb,"621,000 lb. 
+ 628,000 lb. 
+ 633,000 lb."
+Jack Weight,"508,000 lb. 
+ 508,000 lb. 
+ 508,000 lb. 
+ 508,000 lb."
+Minimum Crew,"For all flights: pilot, copilot."
+Passengers,(See NOTE 6)
+Baggage,(See Weight and Balance Manual)
+Fuel Capacity,"FUEL TANK CAPACITY (lb.) 
+ CAPACITY 
+ 1 MAIN 
+ 2 MAIN 
+ 3 MAIN 
+ AUX 
+ FWD CARGO 
+ TAIL 
+ AUX 49 
+ MAX 
+ 42,908 
+ 67,863 
+ 42,908 
+ 103,968 
+ 21,724 
+ 13,908 
+ 7.1 lb./gal 
+ USABLE 
+ 40,491 
+ 64,040 
+ 40,491 
+ 98,111 
+ 20,500 
+ 13,124 
+ 6.7 lb./gal 
+ UNDUMPABLE 
+ 12,973 
+ 13,917 
+ 12,973 
+ 0 
+ 0 
+ 0 
+ 6.7 lb./gal 
+ Note: An additional 436 lb. (6.7 lb./gal) of useable fuel is available from manifold piping upon the completion of 
+ crossfeeding. 
+ This fuel is made available when the MANF DRAIN alert is displayed. 
+ An additional 173 lb. (6.7 lb./gal) usable fuel in the engine and lines is available to the engine on the fuel 
+ runout. No action is required to make this fuel available. 
+ 45 All MD-11 passenger aircraft are eligible for 618,000 pounds maximum takeoff weight when modified per Douglas 
+ Service Bulletin 103-1 or production equivalent. 
+ 46 All MD-11 airplanes are eligible for 630,500 pound maximum takeoff weight when modified in accordance with 
+ Douglas Service Bulletins MD11-28-079, MD11-31-073 (or equivalent chapter 31 FMC and FCC Program Option 
+ approved Service Bulletin), MD11-32-057, and MD11-57-032 or Service Modification Drawing Number SM11570020"
+Revision A or production equivalent,"47 Fuel dump valves required for operation in excess of maximum landing weight (See NOTE 1 (f)). 
+ 48 All weight in the airplane above this weight must be fuel. 
+ 49 Applicable when forward cargo auxiliary fuel tank is installed per Douglas Service Modification Drawing 
+ SM11280036 Revision E, or production equivalent."
+Oil Capacity,22 to 23 quarts Indicated 26 to 27 quarts (tank)
+Altitude,"43,200 feet"
+MAC,295.8 inches (Leading Edge of MAC Station 1312)
+Limits,See NOTE 3.
+Eligible,"Maximum Takeoff Weight of 610,000 lbs."
+See NOTE 10,"GE Powered: 
+ 48449, 48450, 48459, 
+ Maximum Takeoff Weight of 618,000 lbs.50 
+ GE Powered: 
+ 48555. 
+ P&W Powered: 48437, 48488, 48518, 48519, 48521 
+ Maximum Takeoff Weight of 625,500 lbs51 
+ GE Powered: 
+ 48556, 48557, 48558, 48559, 48560, 48561, 48562, 48563. 
+ P&W Powered: 48532, 48533 
+ Maximum Takeoff Weight of 630,500 lbs. 52 
+ GE Powered: 
+ 48564 
+ P&W Powered: 48623, 48743"
+Information,"See ""Data Pertinent to All Models"""
+"IX - Model MD-11F (Transport Aircraft), Approved November 8, 1990",
+Engines,See Section VIII (MD-11)
+Fuel,See NOTE 4.
+Oil,"See NOTE 5. 
+ 50 All MD-11 passenger airplanes are eligible for 618,000 pound maximum takeoff weight when modified in 
+ accordance with Douglas Service Bulletin 103-1 or production equivalent. 
+ 51 All MD-11 passenger airplanes are eligible for 625,500 pound maximum takeoff weight when modified in 
+ accordance with Douglas Service Bulletin 103-009 or production equivalent. 
+ 52 All MD-11 passenger airplanes are eligible for 630,500 pound maximum takeoff weight when modified in 
+ accordance with Douglas Service Bulletins MD11-28-079, MD11-31-073 (or equivalent chapter 31 FMC and FCC 
+ Program Option approved Service Bulletin), MD11-32-057, and MD11-57-032, or Service Modification Drawing 
+ Number SM11570020 Revision A, or production equivalent."
+Engine Limits,See Section VIII (MD-11)
+if installed,See Section VIII (MD-11)
+Airspeed Limits,See Section VIII (MD-11)
+CG Range,See MD-11 Weight and Balance Manual Report No. MDC-K5542.
+See NOTE 10,"610,000pound 
+ 618,000pound 
+ 625,500pound 
+ 630,500pound 
+ Takeoff Weight 
+ Takeoff Weight 
+ Takeoff Weight 
+ Takeoff Weight 
+ (See Serial Numbers Eligible) 
+ Center Main 
+ Gear Retracted 
+ Taxi and Ramp 
+ 613,000 lb. 
+ 621,000 lb. 
+ 628,000 lb. 
+ 633,000 lb. 
+ 448,000 lb. 
+ Takeoff 
+ 610,000 lb. 
+ 618,000 lb. 
+ 625,500 lb. 
+ 630,500 lb. 
+ 445,000 lb. 
+ Landing53 
+ 471,500 lb. 
+ 471,500 lb. 
+ 481,500 lb. 
+ 491,500 lb. 
+ 400,000 lb. 
+ Zero Fuel54 
+ 451,300 lb. 
+ 451,300 lb. 
+ 451,300 lb. 
+ 461,300 lb. 
+ 370,000 lb. 
+ Gear Jacking Weight 
+ 613,000 lb. 
+ 621,000 lb. 
+ 628,000 lb. 
+ 633,000 lb. 
+ Fuselage and 
+ Wing Jack Weight 
+ 508,000 lb. 
+ 508,000 lb. 
+ 508,000 lb. 
+ 508,000 lb."
+Minimum Crew,"For all flights: Pilot, Copilot."
+Passengers,"See FAA approved exemption number 6656 for the accommodation of up to two supernumeraries 
+ immediately aft of the cockpit. And crew rest facility immediately aft of the smoke barrier and crash net, on 
+ MD-11 freighter aircraft equipped with a Class E cargo compartment. 
+ See FAA approved exemption number 6753 for the accommodation of up to five supernumeraries 
+ immediately aft of the cockpit on MD-11 freighter aircraft equipped with a Class E cargo compartment"
+Baggage,(See Weight and Balance Manual)
+Fuel Capacity,See Section VIII MD-11
+Oil Capacity,See Section VIII MD-11
+Altitude,"43,200 feet"
+MAC,"295.8 inches (Leading Edge of MAC Station 1312) 
+ 53 Fuel dump valves required for operation in excess of maximum landing weight. (See NOTE 1(f)). 
+ 54 All weight in the airplane above this weight must be fuel."
+Limits,See NOTE 3
+Eligible,"Maximum Takeoff Weight of 610,000 lbs."
+See NOTE 10,"GE Powered: 
+ 48401, 48402, 48459, 48460, 48461, 48514, 48528, 48547, 48548, 48549, 48602, 48603, 
+ 48605. 
+ Maximum Takeoff Weight of 618,000 lbs. 55 
+ P&W Powered: 48408 
+ Maximum Takeoff Weight of 625,500 lbs. 56 
+ GE Powered: 
+ 48415, 48420, 48487, 48542, 48543, 48544, 48545, 48546, 48747, 48748, 48749, 48767 
+ P&W Powered: 48485, 48486, 48616, 48617, 48618, 48629, 48633. 
+ Maximum Takeoff Weight of 630,500 lbs. 57 
+ GE Powered: 
+ 48404, 48405, 48406, 48411 - 48412, 48413, 48414, 48416, 48417, 48418, 48421, 
+ 48426, 48427, 48428, 48429, 48430, 48431, 48434 - 48436, 48439, 48451, 48458, 
+ 48481, 48489 - 48491, 48499, 48500, 48501, 48502, 48503, 48504, 48505, 48512, 
+ 48513, 48527, 48544, 48550, 48551- 48553, 48581, 48596- 48598, 48630, 48744, 48745, 
+ 48753 – 48755, 48758, 48766, 48768, 48769, 48770, 48773, 48775, 48776, 48777, 
+ 48778, 48779, 48780, 48781 – 48787, 48789, 48790, 48794, 48798 – 48806. 
+ P&W Powered: 48407, 48410, 48443, 48444, 48445, 48446, 48447, 48452, 48453, 48454, 48455, 48456, 
+ 48457, 48458, 48461, 48469, 48470, 48471, 48472, 48473, 48474, 48475, 48476, 48477, 
+ 48478, 48479, 48480, 48484, 48495, 48496, 48497, 48498, 48520, 48523, 48538, 48539, 
+ 48540, 48541, 48565, 48566, 48571, 48572, 48573, 48574, 48575, 48576, 48577, 48578, 
+ 48579, 48600, 48601, 48623, 48624, 48631, 48632, 
+ 48634, 48746, 48756, 48757, 48774, 48788, 48791, 48792."
+Information,"See ""Data Pertinent to All Models"""
+"X – Model MD-10-10F (Transport Aircraft), Approved May 9, 2000",
+Engines,3 General Electric CF6-6D or CF6-6K Turbofan Engines
+Fuel,"See NOTE 4. 
+ 55 All MD-11F freighter airplanes are eligible for 618,000 pound maximum takeoff weight when modified in 
+ accordance with Douglas Service Bulletin 103-1 or production equivalent. 
+ 56 All MD-11F freighter airplanes are eligible for 625,500 pound maximum takeoff weight when modified in 
+ accordance with Douglas Service Bulletin 103-009 or009 or production equivalent. 
+ 57 All MD-11F Freighter airplanes are eligible for 630,500 pound maximum takeoff weight when modified in 
+ accordance with Douglas Service Bulletins MD11-28-079, MD11-31-073 (or equivalent chapter 31 FMC and FCC 
+ Program Option approved Service Bulletin), MD11-32-057, and MD11-57-032, or Service Modification Drawing 
+ Number SM11570020 Revision A, or production equivalent."
+Oil,See NOTE 5.
+Engine Limits,"CF6-6D/-6K 
+ Takeoff Thrust. Sea Level, 
+ Static (5 min) - flat to 88oF 
+ 39,300 lb. 
+ Maximum Continuous (flat to 77oF) 
+ 37,500 lb. 
+ Maximum permissible engine rotor operating speeds 
+ N1 (Low Compressor) 
+ 3810 rpm (111%) 
+ N2 (High Compressor) 
+ 9925 rpm (101%) 
+ Maximum permissible engine temperature 
+ Turbine exhaust gas temperatures at turbine outlet 
+ Take off (5 min.) 
+ 1670oF (910oC) 
+ Maximum Continuous 
+ 1616oF (880oC) 
+ Maximum Acceleration (2 min.) 
+ 1697oF (925oC) 
+ Starting (Max. Transient for 40 sec.) 
+ 1652oF (900oC) 
+ (Max. No Time Limit) 
+ 1382oF (750oC) 
+ Maximum permissible oil outlet temperature 
+ Continuous operation 
+ 320oF (160oC) 
+ Transient operation 58 
+ 347oF (175oC)"
+APU Limits,AiResearch TSCP700-4B
+if installed,"Power Rating Maximum at sea level 
+ 189 hp 
+ Rotor Speeds 
+ Low pressure speed (N1) 
+ 31,570 rpm (110%) 
+ High pressure speed (N2) 
+ 38,830 rpm (110%) 
+ Exhaust Gas Temperature 
+ Maximum during operation 
+ 1085oF (585oC) 
+ Maximum indicated temperature during each starting cycle 
+ 1085oF (585oC)"
+CAS,"VMO/MMO (Maximum Operating) 
+ At Sea Level 
+ 340K 
+ At 27,860 ft. 
+ 340K (M=0.85) 
+ At 42,000 ft. 
+ 248K (M=0.85) 
+ VA (Maneuvering) 
+ See FAA Approved Airplane Flight Manual 
+ VFE 
+ Flap Position (Inboard) 
+ 5o 
+ 260K (M = 0.51) 
+ 15o 
+ 250K (M = 0.51) 
+ 20o 
+ 233K (M = 0.51) 
+ 25o 
+ 214K (M = 0.51) 
+ 35o 
+ 187K (M = 0.51) 
+ 50o 
+ 171K (M = 0.51) 
+ 58 Transient operation above 320°F (160°C) is limited to 15 minutes."
+CAS,"VSLAT (Slat Operating) 
+ Takeoff and Approach: 
+ Flap Position (Inboard) 
+ 5o 
+ 260K (M = 0.51) 
+ 15o 
+ 250K (M = 0.51) 
+ 25o 
+ 214K (M = 0.51) 
+ Landing 
+ Flap Position (Inboard) 
+ 35o 
+ 187K (M = 0.51) 
+ 50o 
+ 171K (M = 0.51) 
+ Autoslat 
+ Flaps retracted 
+ 260K (M = 0.51) 
+ VLO (Landing Gear) 
+ Retraction 
+ 230K (M = 0.70) 
+ Extension 
+ 260K (M = 0.70) 
+ VLE (Landing Gear Extended) 
+ 300K (M = 0.70) 
+ V (Landing light extension) 
+ Maximum speed extension retraction, 
+ or extended position 
+ VMO/MMO 
+ V (Fuel Dump) 
+ 325K up to 28,000 feet 
+ M = 0.82 above 28,000 feet"
+CG Range,See the appropriate FAA Approved Airplane Flight Manual and Weight and Balance Manual.
+Maximum Weight,For Takeoff Weight
+See NOTE 10,"440,000 pounds 
+ (See Serial Numbers Eligible) 
+ Taxi and Ramp 
+ 443,000 lb. 
+ Takeoff 
+ 440,000 lb. 
+ Landing 59 
+ 375,000 lb. (374,500 lb. when carbon brakes are installed) 
+ Zero Fuel 60 
+ 355,000 lb. 
+ Gear Jacking Weight 
+ 443,000 lb. 
+ Fuselage and Wing Jack Weight 
+ 388,000 lb."
+Minimum Crew,"For all flights: Pilot, Copilot."
+Passengers,"(See NOTE 23). 
+ 59 Fuel dump valves required for operation in excess of maximum landing weight. See NOTE 1(f). 
+ 60 All weight in airplanes above this weight must be fuel."
+Baggage,(See Weight and Balance Manual).
+Fuel Capacity,"Fuel Tank Capacity (pounds) 
+ Usable 
+ Location 
+ Structural 
+ (6.7 lb./gal.) 
+ Arm (inches) 
+ Main No. 1 
+ 42,579 
+ 40,116 
+ 1488 
+ Main No. 2 
+ 68,998 
+ 64,969 
+ 1296 
+ Main No. 3 
+ 42,579 
+ 40,116 
+ 1488 
+ Crossfeed Manifold & Lines 
+ 609 
+ 1429"
+Oil Capacity,"24.3 lb./engine usable at 8.1 lb./gal. with wing engines moment arm at 1125 in. and tail engine moment arm 
+ at 2200 in."
+Altitude,"42,000 feet"
+MAC,300.682 inches (Leading Edge of MAC Station 1299.83)
+Limits,See NOTE 3
+Eligible,Conversion from DC-10-10 or –10F to MD-10-10F (See NOTE 24).
+See NOTE 10,"Maximum Takeoff Weight of 440,000 pounds 
+ 46521, 46601, 46602, 46605, 46606, 46607, 46608, 46609, 46610, 46611, 46612, 46613, 46615, 46616, 
+ 46617, 46619, 46620, 46621, 46622, 46623, 46624, 46625 - 46628, 46629, 46630, 46631, 46633 - 46636, 
+ 46708, 46710, 46907, 46930, 46938, 46939, 46947, 46948, 46970, 46973, 46984, 46989, 46994, 46996, 
+ 47803-47808, 47810, 47827, 47828, 47829, 47830, 47965, 48260 - 48262, 48263, 48264."
+Information,"See ""Data Pertinent to All Models"""
+"XI Model MD-10-30F (Transport Aircraft), Approved May 9, 2000",
+Engines,3 General Electric CF6-50C2 Turbofan Engines.
+Fuel,See NOTE 4.
+Oil,See NOTE 5.
+Engine Limits,"CF6-50C2 
+ Static Thrust, Sea Level 
+ Takeoff 61 
+ 51,800 lb. 
+ Maximum Continuous 
+ 46,300 lb. 
+ (flat to 86°F) 
+ 61 5 minutes flat to 86°F. 
+ CF6-50C2 
+ Maximum permissible engine rotor operating speeds 
+ N1 (Low Compressor) 
+ 4102 rpm (119.5%) 
+ N2 (High Compressor) 
+ 10761 rpm (109.5%) 
+ Maximum permissible engine temperature 
+ Turbine exhaust gas temperature at turbine outlet 
+ Takeoff (5 min.) 
+ 1733oF (945oC) 
+ Maximum Continuous 
+ 1670oF (910oC) 
+ Maximum for Acceleration (2 min.) 
+ 1760oF (960oC) 
+ Starting 
+ (Max. Transient for 40 sec.) 
+ 1652oF (900oC) 
+ (Max. no time limit) 
+ 1382oF (750oC) 
+ Maximum permissible oil outlet temperature 
+ Continuous Operation 
+ 320oF (160oC) 
+ Transient Operation 62 
+ 347oF (175oC)"
+APU Limits,AiResearch TSCP700-4B
+if installed,"Power Rating Maximum at sea level 
+ 189 hp 
+ Rotor Speeds 
+ Low pressure speed (N1) 
+ 31,570 rpm (110%) 
+ High pressure speed (N2) 
+ 38,830 rpm (110%) 
+ Exhaust Gas Temperature 
+ Maximum during operation 
+ 1085oF (585oC) 
+ Maximum indicated temperature during each starting cycle 
+ 1085oF (585oC)"
+Airspeed Limits,VMO/MMO (Maximum Operating)
+CAS,"At Sea Level 
+ 350K 
+ At 10,000 ft. 
+ 376K 
+ At 24,820 ft. 
+ 376K (M = 0.88) 
+ At 42,000 ft. 
+ 258K (M = 0.88) 
+ VA (Maneuvering) 
+ See FAA Approved Airplane Flight Manual 
+ 62 Transient operation above 320°F (160°C) is limited to 15 minutes."
+CAS,"For Takeoff Weight 
+ For Takeoff Weights 
+ VFE 
+ Flap Position 
+ 565,000 lb. 
+ 572,000 lb./580,000 lb. 
+ (Inboard) 
+ (See Serial Numbers Eligible) 
+ (See Serial Numbers Eligible) 
+ 5o 
+ 260K (M = 0.51) 
+ 270K (M = 0.55) 
+ 15o 
+ 255K (M = 0.51) 
+ 255K (M = 0.51) 
+ 20o 
+ 240K (M = 0.51) 
+ 240K (M = 0.51) 
+ 25o 
+ 221K (M = 0.51) 
+ 221K (M = 0.51) 
+ 35o 
+ 194K (M = 0.51) 
+ 194K (M = 0.51) 
+ 50o 
+ 178K (M = 0.51) 
+ 178K (M = 0.51) 
+ VSLAT (Slat Operating) 
+ Takeoff and Approach 
+ Flap Position 
+ 5o 
+ 260K (M = 0.51) 
+ 270K (M = 0.55) 
+ 15o 
+ 255K (M = 0.51) 
+ 255K (M = 0.51) 
+ 25o 
+ 221K (M = 0.51) 
+ 221K (M = 0.51) 
+ Landing 
+ Flap Position 
+ 35o 
+ 194K (M = 0.51) 
+ 194K (M = 0.51) 
+ 50o 
+ 178K (M = 0.51) 
+ 178K (M = 0.51) 
+ Autoslat 
+ Flaps retracted 
+ 260K (M = 0.51) 
+ 270K (M = 0.55) 
+ VLO Landing Gear 
+ Retraction 
+ 230K (M = 0.70) 
+ 230K (M = 0.70) 
+ Extension 
+ 260K (M = 0.70) 
+ 260K (M = 0.70) 
+ VLE (Landing Gear 
+ Extended) 
+ 300K (M = 0.70) 
+ 300K (M = 0.70) 
+ V (Landing light extension) - 
+ Maximum speed in extension, retraction, 
+ or extended position 
+ VMO/MMO 
+ V (Fuel Dump) 
+ 325K up to 28,000 feet 
+ M = 0.82 above 28,000 feet"
+CG Range,See the appropriate FAA Approved Airplane Flight Manual and Weight and Balance Manual.
+See NOTE 10,"For Takeoff Weight 
+ For Takeoff Weight 
+ 565,000 pound 
+ 572,000 pound 
+ (See Serial Numbers Eligible) 
+ (See Serial Numbers Eligible) 
+ Center Main 
+ Center Main 
+ Center Main 
+ Center Main 
+ Gear Retracted 
+ Gear Extended 
+ Gear Retracted 
+ Gear Extended 
+ or Removed _"
+Taxi and Ramp,"568,000 lb. 
+ 463,000 lb. 
+ 575,000 lb. 
+ 478,000 lb."
+Takeoff 63,"565,000 lb. 
+ 460,000 lb. 
+ 572,000 lb. 
+ 475,000 lb."
+Landing 64,"421,000 lb. 
+ 400,000 lb. 
+ 424,000 lb. 
+ 400,000 lb."
+Zero Fuel 65,"401,000 lb. 
+ 391,000 lb. 
+ 401,000 lb. 
+ 391,000 lb."
+Gear Jacking Wt,"568,000 lb. 
+ 463,000 lb. 
+ 575,000 lb. 
+ 478,000 lb."
+Jack Weight,"508,000 lb. 
+ 463,000 lb. 
+ 508,000 lb. 
+ 478,000 lb. 
+ For Takeoff Weight 
+ 580,000 pounds 
+ (See Serial Numbers Eligible) 
+ Center Main 
+ Center Main 
+ Gear Retracted 
+ Gear Extended 
+ or Removed"
+Taxi and Ramp,"583,000 lb. 
+ 478,000 lb."
+Takeoff 66,"580,000 lb. 
+ 475,000 lb."
+Landing 67,"424,000 lb. 
+ 400,000 lb."
+Zero Fuel 68,"401,000 lb. 
+ 391,000 lb."
+Gear Jacking Wt,"583,000 lb. 
+ 478,000 lb."
+Jack Weight,"508,000 lb. 
+ 478,000 lb."
+Minimum Crew,"For all Flights: Pilot, Copilot"
+Passengers,"(See NOTE 23). 
+ 63 For takeoff weights above 555,000 pounds, 28 ply main landing gear tires and modification per Douglas Service 
+ Bulletin 57-28 or equivalents are required. 
+ 64 Fuel dump valves required for operation in excess of maximum landing weight. See NOTE 1 (f). 
+ 65 All weight in airplane above this weight must be fuel. 
+ 66 For takeoff weights above 555,000 pounds, 28 ply main landing gear tires and modification per Douglas Service 
+ Bulletin 57-28 or equivalents are required. 
+ 67 Fuel dump valves required for operation in excess of maximum landing weight. See NOTE 1 (f). 
+ 68 All weight in airplane above this weight must be fuel."
+Baggage,(See Weight and Balance Manual).
+Fuel Capacity,"Fuel Tank Capacity (pounds) 
+ Usable 
+ Usable 69 
+ Location 
+ Structural 
+ (6.7 lb./gal.) 
+ (6.7 lb./gal.) 
+ Arm (inches) 
+ Main No. 1 
+ 43,202 
+ 40,203 
+ 40,704 
+ 1492.6 
+ Main No. 2 
+ 69,495 
+ 64,969 
+ 65,438 
+ 1296.0 
+ Main No. 3 
+ 43,202 
+ 40,203 
+ 40,704 
+ 1492.6 
+ Center Wing Auxiliary 
+ 104,141 
+ 97,409 
+ 98,111 
+ 1266.1 
+ Crossfeed Manifold & Lines 
+ 609 
+ 609 
+ 1420.5 
+ NOTE: The integrity of the transfer system must be demonstrated per Maintenance Manual, Chapter 28-21- 
+ 100, section titled ""Manifold Integrity Check"" whenever the system is disturbed for maintenance. 
+ Also, if the tank overfilled light is illuminated any time during fueling, comply with the caution 
+ note in Chapter 12-11-04, section titled ""Safety and Operating Precautions"", item pertaining to tank 
+ overfilled condition."
+Oil Capacity,"24.3 lb./engine usable at 8.1 lb./gal. with wing engines moment arm at 1125 in. and tail engine moment arm 
+ at 2200 in."
+Altitude,"42,000 feet"
+MAC,295.78 inches (Leading Edge of MAC St. 1311.95)
+Limits,See NOTE 3.
+Eligible,Conversion from DC-10-30 or –30F to MD-10-30F (See NOTE 24).
+See NOTE 10,"Maximum Takeoff Weight of 565,000 pounds 
+ 46800, 46801, 46802, 46871, 47835, 47836. 
+ Maximum Takeoff Weight of 572,000 pounds 
+ 46835, 46837, 46992, 47820, 
+ Maximum Takeoff Weight of 580,000 pounds 
+ 48287, 48291, 48297, 48300, 48311, 48312, 48313, 48314."
+Information,"See ""Data Pertinent to All Models"""
+Datum,"For DC-10: 239 inches forward of fuselage nose (Station 0) 
+ For MD-11: 139 inches forward of fuselage nose (Station 0) 
+ For MD-10: 239 inches forward of fuselage nose (Station 0) 
+ 69 When modified per Douglas Service Bulletins 28-27 and 28-32 or equivalents."
+DATA PERTINENT TO ALL MODELS,
+Leveling Means,"One of the following three systems in each airplane: 
+ (a) Two sets of lugs in nose wheel well 
+ (1) DC-10: Lateral at station 595 
+ MD-11: Lateral on centerline 2 inches forward of station 495. 
+ MD-10: Lateral at station 595 
+ (2) DC-10: Longitudinal 24 inches left of centerline, 20 inches and 40 inches forward of station 595. 
+ MD-11: Longitudinal 24 inches left of centerline, 20 inches and 40 inches forward of station 495. 
+ MD-10: Longitudinal 24 inches left of centerline, 20 inches and 40 inches forward of station 595. 
+ (b) Plumb bob and grid plate at station 1516 aft bulkhead, right hand main gear wheel well, if installed per 
+ Service Bulletin 53-52. 
+ (c) Set of lugs at station 1521 in right hand main gear wheel well. Lay flat plate on which to put level for 
+ either lateral or longitudinal."
+Control Surface,"To ensure proper operation of the airplane, the movement of the various control surfaces must be carefully 
+ controlled by proper rigging of the Flight Control Systems. The airplane must therefore be rigged in 
+ accordance with the following: 
+ For DC-10: 
+ Douglas Drawing NXH 6004, ""Rigging Procedures,"" and NXH-6005, ""Throws - 
+ Flight Controls."" 
+ For MD-11: 
+ Douglas Drawing NXH 6704, ""Rigging Instructions – Flight & Accessory 
+ Controls,"" and NXH-6705, ""Throws - Flight Controls."" 
+ For MD-10: 
+ Douglas Drawing SP10270016, ""Rigging Procedures,"" and NXH-6005, ""Throws - 
+ Flight Controls."""
+Basis,"For all Model DC-10 airplanes issuance of a Type Certificate is based upon compliance with the following: 
+ (1) FAR 25, dated February 1, 1965, with Amendments 1 through 22 ""Airworthiness Standards: 
+ Transport Category Airplanes,"" and FAR 25.471 of Amendment 25-23. 
+ (2) FAR Part 36 ""Noise Standards: Aircraft Type Certification."" 
+ (3) Special Conditions No. 25-18-WE-7 dated January 7, 1970 and Special Conditions No. 
+ 25-18-WE-7, Amendment No. 1 dated July 9, 1971. 70 
+ (4) Special Condition No. 25-46-WE-14 dated October 26, 1972. (Models DC-10-30, DC-10-30F, 
+ DC-10-40, and DC-10-40F)"
+Certification,"(5) Based on 14 CFR § 21.101(g) for changes to type certificates (TCs), applicable provisions of 
+ 14 CFR part 26 are included in this certification basis. For any future 14 CFR part 26 amendments, 
+ the holder of this TC must demonstrate compliance with the applicable sections. 
+ Compliance has been found for the following regulations: 14 CFR § 26.11 (Amdt. No. 26-0), 
+ 26.43 and 26.45 (Amdt.No. 26-1). 
+ Compliance with the following optional requirements has been established: 
+ Ditching Provisions 
+ 25.801 
+ (Overwater operation can be approved when the aircraft has been equipped and installation 
+ has been approved according to FAR 25.801) 
+ Ice Protection Provisions 
+ 25.1419 
+ In accordance with Title 14 CFR Part 21.21(b)(1), the following Equivalent Safety Findings (ESF) exist for 
+ the DC-10 with respect to the following regulations: 
+ §25.981(a)(3) at Amdt. 102 Fault Current Detectors 
+ The following exemptions are part of the DC-10 certification 
+ 1. 
+ Number 1573 issued April 28, 1972 - exemption from §25.807(c)(5) to permit evacuation with a 
+ passenger seating capacity of 80 for a pair of oversize Type I exits. 
+ 2. 
+ Number 2453 issued September 26, 1977 - exemption from §25.807(c)(1) to permit evacuation of 
+ passengers with either of the following exit-seat configurations: 
+ a. one oversize Type I emergency exit meeting the conditions specified in Exemption No. 
+ 1573 on each side of the fuselage with a passenger seating capacity of 50; or 
+ b. one Type A emergency exit on each side of the fuselage with a passenger seating capacity 
+ of 70. 
+ 3. 
+ Number 6752 dated April 18, 1997, - exemption from 14 CFR §§ 25.785(d), 25.807(c)(1), 
+ 25.857(e), and 25.1447(c)(1) for the accommodation of up to four supernumeraries immediately aft 
+ of the cockpit on freighter aircraft equipped with a Class E cargo compartment. 
+ 4. Number 10842 issued August 15, 2013, - exemptions from 14 CFR §§ 25.981(a)(3) and 25.901(c), 
+ for the installation of an improved fuel pump electrical connector independently of the improved 
+ fuel pump electrical connector until such time as both are required to be installed by AD 2013-08- 
+ 23. 
+ For all Model MD-11 airplanes issuance of a Type Certificate is based upon compliance with the following: 
+ (1) Part 25 of the Federal Aviation Regulations, as amended by Amendments 25-1 through 25-61, 
+ except for §§ 25.607, 25.631 71, and 25.1309 72 as amended by Amendment 25-22; §25.109 as 
+ amended by Amendment 25-41; and §25.832 73 and §25.858. 
+ 71 New structure will comply with Amendment 25-61. 
+ 72 New systems and systems with major changes will comply with Amendment 25-61. 
+ 73 The ozone converters are not required for MD-11F airplanes operated in all cargo configurations. 
+ (2) Special Federal Aviation Regulation (SFAR) 27, as amended by Amendments 27-1 through 27-6 
+ and any later amendments in existence at the time of certification. 
+ (3) Part 36 of the Federal Aviation Regulations, as amended by Amendments 36-1 through 36-16, and 
+ any later amendments in existence at the time of certification. McDonnell Douglas has elected to 
+ comply with the Stage 3 noise level requirements. 
+ (4) Special Condition No. 25-ANM-35 dated October 12, 1990. ""Lightning and External High Energy 
+ Radio Frequency (RF) Protection and Automatic Longitudinal and Lateral Stability Augmentation 
+ System"" (All MD-11 Models). 
+ (5) Based on 14 CFR § 21.101(g) for changes to type certificates (TCs), applicable provisions of 
+ 14 CFR part 26 are included in this certification basis. For any future 14 CFR part 26 amendments, 
+ the holder of this TC must demonstrate compliance with the applicable sections. 
+ Compliance has been found for the following regulations: 14 CFR § 26.11 (Amdt. No. 26-0), 
+ § 26.33 (Amdt. No 26-3), and § 26.43 and § 26.45 (Amdt.No. 26-1). 
+ Compliance with the following optional requirements has been established: 
+ Ditching Provisions 
+ 25.801 
+ (Overwater operation can be approved when the aircraft has been equipped and installation 
+ has been approved according to FAR 25.801) 
+ Ice Protection Provisions 
+ 25.1419 
+ In accordance with Title 14 CFR Part 21.21(b)(1), the following Equivalent Safety Findings (ESF) exist for 
+ the MD-11 with respect to the following regulations: 
+ §25.677(b) 
+ Trim Position Indicator 
+ §25.819 
+ Isolated Cabin Crew Rest module 
+ §25.981(a)(3) at Amdt. 102 Fault Current Detectors 
+ §25.1447(c)(1) & (c)(3) Lavatory oxygen installation 
+ §25.1459(a)(6) Flight Data Recorder time marking of SATCOM Transmissions 
+ The following exemptions are part of the MD-11 certification basis: 
+ (1) Number 1573 issued April 28, 1972 - exemption from §25.807(c)(5) to permit evacuation with a 
+ passenger seating capacity of 80 for a pair of oversize Type I exits. 
+ (2) Number 2453 issued September 26, 1977 - exemption from §25.807(c)(1) to permit evacuation of 
+ passengers with either of the following exit-seat configurations: 
+ a. 
+ one oversize Type I emergency exit meeting the conditions specified in Exemption No. 
+ 1573 on each side of the fuselage with a passenger seating capacity of 50; or 
+ b. 
+ one Type A emergency exit on each side of the fuselage with a passenger seating 
+ capacity of 70. 
+ (3) Number 5405 issued February 11, 1992, - exemption from §25.813(e) to permit installation of a 
+ door between passenger compartments. 
+ (4) Number 6656 dated December 4, 1996 and April 3, 1997, - exemption from 14 CFR §§ 25.785(d), 
+ 25.807(c)(1), 25.857(e), and 25.1447(c)(1) for the accommodation of up to two supernumeraries 
+ immediately aft of the cockpit. And crew rest facility immediately aft of the smoke barrier and 
+ crash net, on MD-11 freighter aircraft equipped with a Class E cargo compartment."
+Certification,"(5) Number 6753 April 21, 1998, - exemption from 14 CFR §§ 25.785(d), 25.807(c)(1), 25.857(e), and 
+ 25.1447(c)(1) for the accommodation of up to five supernumeraries immediately aft of the cockpit 
+ on MD-11 freighter aircraft equipped with a Class E cargo compartment 
+ (6) Number 10842 issued August 15, 2013, - exemptions from 14 CFR §§ 25.981(a)(3) and 25.901(c), 
+ for the installation of an improved fuel pump electrical connector independently of the improved 
+ fuel pump electrical connector until such time as both are required to be installed by AD 2013-08- 
+ 23. 
+ For all Model MD-10 airplanes issuance of a Type Certificate is based upon compliance with the following: 
+ (1) 14 CFR Part 25 of the Federal Aviation Regulations, dated February 1, 1965, with Amendments 1 
+ through 22 ""Airworthiness Standards: Transport Category Airplanes,"" and FAR 25.471 of 
+ Amendment 25-23, for all areas not affected by the change. 
+ (2) 14 CFR Part 25 of the Federal Aviation Regulations, dated February 1, 1965, including 
+ Amendments 25-1 through 25-89 for all areas affected by the change. The following list indicates 
+ the FAR’s that are complied with through Amendment Level 25-89. 
+ 25.103 
+ 25.603 
+ 25.683 
+ 25.831 
+ 25.1019 
+ 25.1323 
+ 25.1431 
+ 25.1529 
+ 25.125 
+ 25.605 
+ 25.685 
+ 25.841 
+ 25.1039 
+ 25.1325 
+ 25.1435 
+ 25.1541 
+ 25.145 
+ 25.607 
+ 25.689 
+ 25.843 
+ 25.1141 
+ 25.1326 
+ 25.1439 
+ 25.1543 
+ 25.149 
+ 25.609 
+ 25.693 
+ 25.855 
+ 25.1142 
+ 25.1327 
+ 25.1441 
+ 25.1545 
+ 25.207 
+ 25.611 
+ 25.699 
+ 25.857 
+ 25.1145 
+ 25.1329 
+ 25.1443 
+ 25.1549 
+ 25.301 
+ 25.613 
+ 25.703 
+ 25.858 
+ 25.1161 
+ 25.1331 
+ 25.1445 
+ 25.1551 
+ 25.303 
+ 25.615 
+ 25.729 
+ 25.863 
+ 25.1165 
+ 25.1333 
+ 25.1447 
+ 25.1553 
+ 25.305 
+ 25.619 
+ 25.733 
+ 25.901 
+ 25.1207 
+ 25.1335 
+ 25.1449 
+ 25.1555 
+ 25.307 
+ 25.621 
+ 25.771 
+ 25.903 
+ 25.1301 
+ 25.1337 
+ 25.1451 
+ 25.1563 
+ 25.397 
+ 25.623 
+ 25.773 
+ 25.943 
+ 25.1303 
+ 25.1351 
+ 25.1453 
+ 25.1581 
+ 25.399 
+ 25.625 
+ 25.777 
+ 25.952 
+ 25.1305 
+ 25.1353 
+ 25.1457 
+ 25.1583 
+ 25.405 
+ 25.629 
+ 25.779 
+ 25.954 
+ 25.1307 
+ 25.1355 
+ 25.1459 
+ 25.1585 
+ 25.561 
+ 25.671 
+ 25.783 
+ 25.961 
+ 25.1309 
+ 25.1357 
+ 25.1461 
+ 25.1587 
+ 25.571 
+ 25.672 
+ 25.789 
+ 25.991 
+ 25.1316 
+ 25.1363 
+ 25.1501 
+ 25.581 
+ 25.675 
+ 25.801 
+ 25.993 
+ 25.1321 
+ 25.1381 
+ 25.1525 
+ 25.601 
+ 25.677 
+ 25.812 
+ 25.1001 
+ 25.1322 
+ 25.1419 
+ 25.1527 
+ (3) Compliance as defined in McDonnell Douglas Report MDC 97K1097 where some equipment 
+ installations and equipment comply with §25.1309 as amended by Amendment 25-22 and others 
+ comply with §25.1309 as amended through Amendment 25-89. 
+ (4) 14 CFR Part 36 of the Federal Aviation Regulations ""Noise Standards: Aircraft Type Certification"", 
+ effective December 1, 1969, including Amendments 36-1 through 36-22. 
+ (5) 14 CFR Part 34 of the Federal Aviation Regulation “Fuel Venting and Exhaust Emissions 
+ Requirements” effective September 10, 1990, Amendment 34-1 through 34-3. 
+ (6) Special Conditions No. 25-18-WE-7 dated January 7, 1970 and Special Conditions No. 
+ 25-18-WE-7, Amendment No. 1 dated July 9, 1971. 74 
+ (7) Special Condition No. 25-46-WE-14 dated October 26, 1972. (Models DC-10-30, DC-10-30F, 
+ DC-10-40, and DC-10-40F.)"
+Certification,"(8) Special Condition “High Intensity radiated Fields (HIRF)” Special Condition No. 25-156-SC dated 
+ February 15, 2000. 
+ (9) Special Condition No. 25-ANM-35 dated October 12, 1990. ""Lightning and External High Energy 
+ Radio Frequency (RF) Protection"" (On components originally certified on MD-11 Models, see 
+ McDonnell Report MDC 97K1097 where some equipment installations and equipment comply.) 
+ (10) Based on 14 CFR § 21.101(g) for changes to type certificates (TCs), applicable provisions of 
+ 14 CFR part 26 are included in this certification basis. For any future 14 CFR part 26 amendments, 
+ the holder of this TC must demonstrate compliance with the applicable sections. 
+ Compliance has been found for the following regulations: 14 CFR § 26.11 (Amdt. No. 26-0), 
+ § 26.33 (Amdt. No 26-3), and § 26.43 and § 26.45 (Amdt.No. 26-1). 
+ Compliance with the following optional requirements has been established: 
+ Ditching Provisions 
+ 25.801 
+ (Overwater operation can be approved when the aircraft has been equipped and 
+ installation has been approved according to FAR 25.801.) 
+ Ice Protection Provisions 
+ 25.1419 
+ In accordance with Title 14 CFR Part 21.21(b)(1), the following Equivalent Safety Findings (ESF) exist for 
+ the MD-10 with respect to the following regulations: 
+ §25.677(b) 
+ Trim Position Indicator 
+ §25.981(a)(3) at Amdt. 102 Fault Current Detectors 
+ §25.1309(a)(1). 
+ Unwanted In-Flight Thrust Reversal Deployment 
+ The following exemption is part of the MD-10 certification basis: 
+ (1) Number 6873 issued March 23, 1999, - exemptions from 14 CFR §§ 25.785(d), 25.807(c)(1), 
+ 25.857(e), and 25.1447(c)(1) for the accommodations up to four supernumeraries in a “courier 
+ area” aft of the cockpit door and forward of a rigid cargo barrier. Or allow up to two 
+ supernumeraries in a “courier module” area aft of the cockpit door and forward of a 9g crash net 
+ MD-10 freighter aircraft equipped with a Class E cargo compartment. 
+ (2) Number 10842 issued August 15, 2013, - exemptions from 14 CFR §§ 25.981(a)(3) and 25.901(c), 
+ for the installation of an improved fuel pump electrical connector independently of the improved 
+ fuel pump electrical connector until such time as both are required to be installed by AD 2013-08- 
+ 23."
+Requirements,"DC-10 Certification Maintenance Requirements (CMR) are listed in FAA approved MDC Report No. 
+ MDC-03K1006, Revision NEW or later FAA approved revision and the engine Type Certificate Data Sheet. 
+ The more restrictive requirement from these two documents shall be in force. 
+ MD-11 Certification Maintenance Requirements (CMR) are listed in FAA approved MDC Report No. 
+ MDC-K4174, Revision Q or later FAA approved revision and the engine Type Certificate Data Sheet. The 
+ more restrictive requirement from these two documents shall be in force. 
+ MD-10 Certification Maintenance Requirements (CMR) are listed in FAA approved MDC Report No. 
+ MDC-99K1069, Revision B or later FAA approved revision and the engine Type Certificate Data Sheet. The 
+ more restrictive requirement from these two documents shall be in force."
+Basis,"Production Certificate No. 27, which transferred to production certificate No. 700, on 30 January 1998."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (See Certification 
+ Basis) must be installed in the aircraft for certification. All of the required equipment that must be installed 
+ as well as optional equipment installations approved by the FAA are contained in the following: 
+ DC-10-10 Report No. MDC-J0994, Chapter 2, ""Weight and Balance Manual"" 
+ DC-10-10F Report No. MDC-J0997, Chapter 2, ""Weight and Balance Manual"" 
+ DC-10-15 Report No. MDC-J0995, Chapter 2, ""Weight and Balance Manual"" 
+ DC-10-40 Report No. MDC-J0998, Chapter 2, ""Weight and Balance Manual"" 
+ DC-10-30 Report No. MDC-J1001, Chapter 2, ""Weight and Balance Manual"" 
+ DC-10-30F Report No. MDC-J1002, Chapter 2, ""Weight and Balance Manual"" 
+ DC-10-30F (KC-10A) T.O. 1C-10(K) A-5, Chg. 1 dated March 18, 1981, Section II. 
+ DC-10-30F (KDC-10) Report No. MDC-94K0295, Chapter 2, ""Weight and Balance Manual"" 
+ DC-10-40F Report No. MDC-J0999, Chapter 2, ""Weight and Balance Manual"" 
+ MD-11 Report No. MDC-K0032, Chapter 2, ""Weight and Balance Manual."" Model MD-11. 
+ MD-11 Report No. MDC-K5542, Chapter 2, ""Weight and Balance Manual."" Model MD-11F. 
+ MD-10-10F Report No. MDC 98K1080, Chapter 2, ""Weight and Balance Manual."" 
+ MD-10-30F Report No. MDC 99K1043, Chapter 2, ""Weight and Balance Manual."""
+Information,"McDonnell Douglas Model DC-10, MD-11 and MD-10 Structural Repair Manual, Volume I and Volume IV 
+ is FAA approved. 
+ All McDonnell Douglas Service Bulletins and other service information, when FAA approved will carry a 
+ statement to this effect."
+Limitations,See NOTE 8.
+NOTE 1,"(a) Current weight and balance report including list of equipment included in certificated empty weight, and 
+ loading instructions must be in each aircraft at the time of original certification and at all times thereafter 
+ except in the case of operators having an approved weight control system. The following Douglas 
+ Aircraft Company Report or Military Tech. order contains loading information for each airplane and 
+ interior arrangement configuration as delivered. This report contains, or refers to, information relative 
+ to location of all passenger and crew member seats, location and capacity of all cargo and baggage 
+ compartments, buffets, storage spaces and coat rooms, location and capacity of lounges and lavatories, 
+ and the required placards in the passenger compartment. 
+ Report No. MDC-J0994, ""Weight & Balance Manual"", Model DC-10-10. 
+ Report No. MDC-J0997, ""Weight & Balance Manual"", Model DC-10-10F. 
+ Report No. MDC-J0998, ""Weight & Balance Manual"", Model DC-10-40. 
+ Report No. MDC-J1001, ""Weight & Balance Manual"", Model DC-10-30. 
+ Report No. MDC-J1002, ""Weight & Balance Manual"", Model DC-10-30F. 
+ T.O. 1C-10(K) A-5, Chg. 1, dated 15 March 1981, ""Basic Weight Checklist and Loading Data,"" 
+ KC-10A. 
+ Report No. MDC-94K0295, ""Weight and Balance Manual"", Model DC-10-30F (KDC-10). 
+ Report No. MDC-J0999, “Weight & Balance Manual"", Model DC-10-40F. 
+ Report No. MDC-J0995, ""Weight & Balance Manual"", Model DC-10-15. 
+ Report No. MDC-K0032, ""Weight & Balance Manual"", Model MD-11. 
+ Report No. MDC-K5542, ""Weight & Balance Manual"", Model MD-11F. 
+ Report No. MDC-K5543, ""Weight & Balance Manual"", Model MD-11F (Combi) 
+ Report No. MDC-93K1163, Chapter 2, ""Weight & Balance Manual"", Model MD-11F (CF) 
+ Report No. MDC 98K1080, ""Weight & Balance Manual"", Model MD-10-10F 
+ Report No. MDC 99K1043, ""Weight & Balance Manual"", Model MD-10-30F 
+ (b) The airplane must be loaded so that the C.G. is within specified limits at all times, considering fuel 
+ loading and usage, gear retraction, and movement of crew and passengers from their assigned positions. 
+ The lateral loading limits contained in the weight and balance document listed above should not be 
+ exceeded. 
+ (c) The weight of system fuel and oil, as defined below and hydraulic fluid, all of which must be included in 
+ the airplane empty weight, is listed in Douglas Master Weight and Balance Manual or Military Tech. 
+ Order specified in paragraph (a) above, for each airplane. 
+ System Fuel: 
+ The weight of all fuel required to fill all lines and tanks up to the zero fuel point on the fuel gages in the most 
+ critical flight attitude. This includes the unusable tank fuel as defined by FAR Part 25.959. The DC-10-10, 
+ DC-10-10F, DC-10-15, DC-10-30, DC-10-30F, MD-11, MD-11F, MD-10-10F and MD-10-30F have 609 
+ pounds and the DC-10-40 and DC-10-40F have 622 pounds (based on 6.7 lb./gal fuel) of usable fuel in the 
+ cross feed manifold lines, manifolds, and engine that is not part of the system fuel and must be included in 
+ the total usable fuel to obtain correct weight and C.G. for takeoff. (See FAA Approved AFM for approved 
+ procedures.) 
+ System Oil: 
+ The weight of oil remaining in the engine, constant speed drive, lines and tanks after subtracting the oil in the 
+ tanks which is above the standpipe (zero gage) levels. The engine oil tank capacities shown elsewhere in this 
+ data sheet include only the usable oil for which the tanks must be placarded. 
+ (d) The ""Unusable” fuel is that amount of fuel in the tanks which is unavailable to the engines under critical 
+ flight conditions as defined in FAR Part 25.959. See Weight and Balance Manual for ""Unusable” fuel. 
+ This ""Unusable"" fuel is included in System Fuel as indicated in 1(c) above and need not be accounted 
+ for separately. 
+ (e) Fuel capacities shown in Sections I and II as well as fuel loading and usage procedures are dictated by 
+ structural design and to maintain airplane C.G. within approved limits. Fuel must be loaded 
+ symmetrically about the airplane centerline and in accordance with the following procedures and used as 
+ described below unless alternate procedures are approved and incorporated in the FAA Approved 
+ Airplane Flight Manual. The fuel system contains automatic transfer and quantity control features, 
+ which will permit main tank-to-engine utilization of all fuel without manual control. During engine-out 
+ conditions, symmetrical fuel distribution must be maintained by cross feed or transfer of fuel to the 
+ tanks being used. 
+ Fuel Loading - All Model MD-11, all Model MD-10 and all Model DC-10 (including DC-10-30F(KDC-10)) 
+ airplanes except DC-10-30F (KC-10A) 
+ Fill all main tanks equally until No. 1 and No. 3 tanks are full. Add additional fuel to No. 2 tank until full. 
+ Load remainder into center wing auxiliary fuel tank, if installed on DC-10 or MD-10. 
+ MD-11 only: After filling of center wing aux tank, load remainder of fuel into the horizontal tail fuel tank. 
+ Fuel Loading - (DC-10-30F (KC-10A)) 
+ Load fuel per T.O. 1C-10 (K) A-5, Chg. 1, dated 15 March 1981. 
+ Fuel Usage - All Model MD-11, all Model MD-10 and all Model DC-10 airplanes, except KC-10A and 
+ KDC-10: 
+ Each main tank feeds its respective engine. Additional fuel added to the lower center wing auxiliary fuel 
+ tank, if installed, and the upper center wing auxiliary fuel tank, if installed, is transferred to the three main 
+ tanks numbers 1, 2, and 3. Simultaneously as the upper auxiliary tank fuel is used, fuel is transferred to it 
+ from the lower auxiliary tank until the lower auxiliary is depleted and the transfer of the fuel from the upper 
+ auxiliary tank is continued until it is empty. Fuel transfer is then initiated from No. 2 main tank to main tanks 
+ No. 1 and 3 until fuel in all main tanks is equal. Then use fuel equally from each fuel tank. 
+ Fuel Usage - KC-10A Only: 
+ Fuel offloading is accomplished using fuel from the forward and aft fuselage fuel tanks, the center wing tanks 
+ and the main tanks as required. When off loading is complete, if the C.G. of the airplane, less usable fuel, is 
+ aft of 23.8 percent MAC, 15,000 pounds of fuel must remain in the forward fuel tank until the main fuel 
+ tanks are depleted to 5,000 pounds each. The 15,000 pounds in the forward fuselage fuel tanks may then be 
+ transferred equally to the main fuel tanks or off loaded. 
+ Fuel Usage - KDC-10 Only: 
+ Fuel off loading is accomplished using fuel from the center wing tanks and the main tanks as required. When 
+ off loading is complete, transfer center wing fuel to the three main tanks until the center wing tank is empty. 
+ Transfer the excess fuel from the No. 2 main tank to main tanks No. 1 and No. 3 until fuel in all main tanks is 
+ equal. Then use fuel equally from each fuel tank. 
+ (f) Fuel Dump 
+ Refer to FAA Approved Airplane Flight Manual for limitations to be observed during fuel dumping. The 
+ total undumpable fuel remaining in the fuel tanks after dumping is as follows for fuel weight based on 6.7 lb. 
+ /gal. fuel: 
+ All DC-10 Models 
+ All MD-10 Models 
+ All MD-11 Models 
+ No.1 Main Tank 
+ 12,973 lb. 
+ 12,973 lb. 
+ No.2 Main Tank 
+ 13,917 lb. 
+ 13,917 lb. 
+ No.3 Main Tank 
+ 12,973 lb. 
+ 12,973 lb. 
+ Center Wing Auxiliary Tank (if installed) 
+ 0 lb. 
+ 0 lb. 
+ AFT Auxiliary Tank (if installed) 
+ 0 lb. 
+ Manifold Piping 
+ 436 lb. 
+ 436 lb. 
+ Undumpable fuel not applicable to MD-11 tail tank."
+NOTE 2,Reserved.
+NOTE 3,"Life Limited Parts and Airworthiness Limitations: 
+ (a) DC-10 life limited components are listed in FAA approved Report MDC-J5752. 
+ (b) MD-11 life limited components and required structural inspections for damage tolerant structure, 
+ are listed in FAA approved Report MDC-K5225. 
+ (c) The DC-10/MD-11 FAA mandatory brake wear limits are contained in FAA Airworthiness 
+ Directives or McDonnell Douglas Report MDC-94K1158. 
+ (d) MD-10 life limited components are listed in the FAA approved Airworthiness Limitations 
+ Instructions (ALI) Report MDC-99K1082. 
+ (e) The MD-10 brake system was not affected by the DC-10 to MD-10 modification, therefore the 
+ FAA mandatory brake wear limits are identical to the DC-10 and are contained in the DC-10 
+ portion of McDonnell Douglas Report MDC-K1158. 
+ (f) DC-10, MD-11, and MD-10 non-structural components which are life limited, fuel system critical 
+ design configuration control limitations (CDCCL), and fuel system ALIs are listed in report MDC- 
+ 02K1003, “Trijet Special Compliance Item Report.” 
+ The life limited components must be replaced as indicated in the appropriate life limit report and revisions 
+ thereto. The MD-11 damage tolerance inspections must be conducted in accordance with Report MDC- 
+ K5225. The MD-10 damage tolerance inspections must be conducted in accordance with Report MDC- 
+ 99K1082. Copies of the reports may be obtained from the manufacturer: 
+ Boeing Commercial Airplane Group 
+ Data and Service Management (C1-L5A) 
+ Mail Code D800-0024 
+ 3855 Lakewood Blvd. 
+ Long Beach, CA 90846"
+NOTE 4,"(a) The following fuels are eligible provided and to the extent they are allowed by P&W Service 
+ Bulletin No. 2016 for PW engines, or they conform to GE Specification No. D50TF2 for GE 
+ engines: 
+ MD-11: 
+ Kerosene type fuels MIL-T-5624H (JP-5), MIL-T-83133 (JP-8) and ASTM D 1655-657 (Jet 
+ A and A-1). Russian fuels conforming to Specification GOST 10227 (RT and TS-1), 
+ Chinese fuel conforming to Specification SY1008-80 (RP-3/Number 3 Jet Fuel), and any 
+ fuel conforming to P&W Service Bulletin No. 2016 for PW engines, or any fuel conforming 
+ to GE Specification No. D50TF2 for GE engines, may be used separately or mixed in any 
+ proportions without adversely affecting the engine operation or power output. No fuel 
+ control adjustment is required when switching fuel types. 
+ To Use MIL-T-5624 (JP-4), Jet B, or any wide cut fuels in MD-11 and MD-11F airplanes, McDonnell 
+ Douglas Drawing PZV0007 or Production Equivalent must be installed and the following limitations 
+ found in the MD-11 AFM Appendix 14 must be applied. 
+ DC-10: 
+ Kerosene type fuels MIL-T-5624G (JP-4 and JP-5), ASTM D 1655-65T (Jet A, A-1 and 
+ B), and MIL-T-83133 (JP-8). Russian fuels conforming to Specification GOST 10227 (RT 
+ and TS-1), Chinese fuel conforming to Specification SY1008-80 (RP-3/Number 3 Jet Fuel), 
+ and any fuel conforming to P&W Service Bulletin No. 2016 for PW engines, or any fuel 
+ conforming to GE Specification No. D50TF2 for GE engines, may be used separately or 
+ mixed in any proportions without adversely affecting the engine operation or power output. 
+ No fuel control adjustment is required when switching fuel types. 
+ To use MIL-T-5624 (JP-4), Jet B, or any wide cut fuels in DC-10-10 and DC-10-10F airplanes that have 
+ not incorporated Service Bulletin No. 28-13, the following limitations must be applied. 
+ 1. 
+ A maximum altitude of 10,000 feet with a tank fuel temperature above 80° F. 
+ 2. 
+ A maximum altitude of 25,000 feet with a tank fuel temperature at 80° F or below. 
+ 3. 
+ A minimum of two aft tank pumps must be on for engine number 2 operation. 
+ 4. 
+ A minimum of one aft tank pump must be on for each wing engine. 
+ MD-10: 
+ Kerosene type fuels MIL-T-5624G (JP-4 and JP-5), ASTM D 1655-65T (Jet A, A-1 and 
+ B), and MIL-T-83133 (JP-8). Russian fuels conforming to Specification GOST 10227 (RT 
+ and TS-1), Chinese fuel conforming to Specification SY1008-80 (RP-3/Number 3 Jet Fuel), 
+ and any fuel conforming to GE Specification No. D50TF2 for GE engines may be used 
+ separately or mixed in any proportions without adversely affecting the engine operation or 
+ power output. No fuel control adjustment is required when switching fuel types. 
+ To use MIL-T-5624 (JP-4), Jet B, or any wide cut fuels in MD-10-10F and MD-10-30F airplanes the 
+ following limitations found in the MD-10 AFM Appendix 14 must be applied. 
+ (b) Additives that may be used (in addition to those authorized by GE specification D50TF2 or by 
+ P&WA Specification 522, for the respective engines) in the approved fuel are listed below. These 
+ additives may be used in combination. 
+ 1. 
+ Philips PFA-55MB or anti-icing additive to Specifications MIL-I-27686E at a concentration 
+ not in excess of 0.15 percent by volume. 
+ 2. 
+ Sohio Biobor JF biocide additive at a concentration not in excess of 20 ppm elemental boron 
+ (270 ppm total additive). 
+ 3. 
+ Shell ASA-3 anti-static additive at a concentration that will provide not in excess of 3000 
+ conductivity units, which is approximately equivalent to one ppm. 
+ (c) NALCO 5403 or DU PONT DCI-4A corrosion inhibitor fuel additive may be used if concentration 
+ delivered to airplane does not exceed 8 lb/1000bbl (23mg/l) of turbine fuel."
+NOTE 5,"The following oils are eligible for all CF6 engines: 
+ Synthetic type conforming to GE Specification D501F1, classes A or B. GE Service Bulletin No.79-1 lists 
+ approved brand oils. 
+ The following oils are eligible for all JT9D engines: 
+ Oil specified in P&WA Specification 521. (P&WA Service Bulletin 238)"
+NOTE 6,"(a) For DC-10 model airplanes, the maximum number of passengers demonstrated for emergency 
+ evacuation is 380. See FAA approved interior schematic drawing for maximum passenger capacities 
+ approved for each aircraft when delivered. 
+ (b) For MD-11 model airplanes, the maximum number of passengers approved for emergency evacuation is 
+ 410. Airplanes with a passenger configuration between 400 and 410 passengers require incorporation of 
+ MCDonnell Douglas Service Bulletin 25-145 or production equivalent. See FAA approved interior 
+ schematic drawing for the maximum passenger capacities approved for each aircraft when delivered."
+NOTE 7,"For purposes of administration, Special Airframe Conditions Numbers 5-17 contained in Special Conditions 
+ No. 25-18-WE-7, Amendment No. 1 dated 9 July 1971 (Docket No. 10058; Amendment No. 1) have been 
+ retitled and renumbered. Special Systems Condition No. 3 contained in the aforementioned Special 
+ Conditions has also been renumbered. These conditions are contained in the document entitled ""SPECIAL 
+ CONDITIONS RETITLED AND RENUMBERED BY THE WESTERN REGION"" dated 9 July 1971. 
+ Flammability requirements for compartment interior materials and electric wiring and cable insulation are 
+ also contained in FAR 25.853 and 25.1359(d) as revised by Amendment 25-32."
+NOTE 8,"Only those DC-10 model airplanes which meet, in addition to normal maintenance requirements, criteria of 
+ McDonnell Douglas Report No. MDC-J1221 dated October 21, 1975, are eligible for Category IIIa auto- 
+ landings. 
+ Only those MD-11 model airplanes which meet, in addition to normal maintenance requirements, the MD-11 
+ Certification Maintenance Requirements (CMR) listed in FAA approved report MDC-K4174, revision Q or 
+ later FAA approved revision and have incorporated MD-11 Service Bulletin 22-4 or production equivalent, 
+ are eligible for Category IIIb auto-landings. 
+ MD-10 model aircraft airplanes are eligible for Category IIIb auto-landings."
+NOTE 9,"Adding (CF) to the DC-10-10F, DC-10-30F or MD-11F model designation does not alter the aircraft. For 
+ example, a DC-10-10F airplane and DC-10-10F (CF) airplane are the same. The convertible freighter ""CF"" 
+ designator signifies that there is a FAA Approved passenger and freighter configuration, delivered by the 
+ manufacture, for the aircraft. The ""CF"" designator may be used in parentheses, but must be accompanied by 
+ the official designator (i.e., DC-10-10F (CF))."
+NOTE 10,"The identified serial numbers are eligible for these weights when appropriately configured. Specific 
+ airplanes may not attain these weights without structural, gear, and other changes. The Airplane Flight 
+ Manual (AFM) defines the actual weight approved for each serial number."
+NOTE 11,"KC-10A airplanes are tanker/cargo versions of the Model DC-10-30F. 
+ Prior to operation as a commercial aircraft, the following must be accomplished: 
+ (a) The maintenance, overhaul and modifications records of each aircraft must be reviewed for changes 
+ made by the military services that may affect the airworthiness of the aircraft. Modifications, 
+ changes of equipment and repairs, which affect the safety or performance of the aircraft, must be 
+ approved by the FAA. 
+ (b) All aircraft returned to civil operations must comply with all applicable Airworthiness Directives. 
+ (c) All items that are not FAA approved must be removed from the aircraft if they affect the safety or 
+ performance of the aircraft. 
+ (d) Each deviation from the FAA approved type design as listed on FAA Form 8130-2, ""Conformity 
+ Certificate - Military Aircraft” that is required for civil certification must be corrected per FAA 
+ approved data."
+NOTE 12,"The MD-11 incorporates a number of computer systems which feature ""option pins"" allowing easy selection 
+ of variable features (i.e., ""split"" flight director command bars versus ""single cue"" flight director command 
+ bars - selection of one or the other made by grounding the appropriate connector pin on the Flight Control 
+ Computer) Some features are required and are identified as follows: 
+ (a) On the Ground Proximity Warning System (GPWS) computer, 
+ ""Envelope Modulation"" must be disabled. 
+ After incorporation of Service Bulletin 34-16 and Service Bulletin 34-17, or production equivalent, 
+ ""Envelope Modulation"" may be enabled. 
+ (b) On the Automatic Flight System (AFS) computer, 
+ ""A/P Disconnect Aural warning"" must be enabled. 
+ ""G/S - LOC Capture No Priority"" must be disabled. 
+ After incorporation of Service Bulletin 22-05 or production equivalent, ""A/P Disconnect Aural 
+ Warning"" may be disabled. 
+ After incorporation of Service Bulletin 22-10 and Service Bulletin 31-42, or production equivalent, 
+ ""G/S - LOC Capture No Priority"" may be enabled. 
+ (c) On the Electronic Display System (EIS) DEU, 
+ ""Tape Engine Instrument"" must be disabled. 
+ ""Deletes Digital Altitude"" must be disabled. 
+ After incorporation of Service Bulletin 31-09, or production equivalent, ""Tape Engine Instrument"" 
+ may be enabled. 
+ (d) On the Flight Management System (FMS) computer, 
+ ""V Speed Inhibit"" must be enabled. 
+ ""Alternate T/O Thrust #1"" must be disabled. 
+ ""Install Fuel Dipstick 2"" must be disabled. 
+ ""Install BFE ACARS System"" must be disabled. 
+ ""Install Single Weight & Balance System"" must be disabled. 
+ After incorporation of Service Bulletin 34-16 or production equivalent, ""V Speed Inhibit"" may be 
+ disabled. 
+ After incorporation of Service Bulletin 34-16 or production equivalent and Collins ACARS P/N 
+ 622-9967-001, ""Install BFE ACARS System"" may be enabled. Also, this option pin maybe 
+ enabled when Teledyne Controls ACARS P/N 2231500-2 or 2231500-6A is installed. 
+ After installation of Service Bulletin 34-16 and Service Bulletin 31-30, or production equivalent 
+ ""Install Single Weight & Balance System"" may be enabled. 
+ After incorporation of Service Bulletin 34-33 or production equivalent, ""Alternate T/O Thrust #1"" 
+ may be enabled. 
+ After incorporation of Service Bulletin 34-33 or production equivalent, ""Install Fuel Dipstick 2"" 
+ may be enabled."
+NOTE 13,"McDonnell Douglas DC-10, MD-11 and MD-10 FAA Approved Maintenance Review Board Reports contain 
+ the initial minimum requirements used for development of a maintenance program that meets the 
+ requirements for continued airworthiness."
+NOTE 14,"Engine and APU life limited components are listed in the respective manufacturers overhaul manuals and 
+ engine and APU Type Certificate Data Sheets."
+NOTE 15,Reserved.
+NOTE 16,"MD-11F with 160” Aft Main Deck Cargo Door: 
+ (a) Factory Serial Numbers (FSN's) 48426, 48427, 48428, 48429 and 48430 are eligible to operate in 
+ the all-passenger configuration when the 160 inch main deck cargo door deactivated in accordance 
+ with Douglas Report No. MDC-91K0528. 
+ (b) Factory Serial Numbers (FSN's) 48426, 48427, 48428, 48429 and 48430 are eligible to operate in 
+ the Combi, 192 passenger/4 pallet configuration when: 
+ 1. 
+ Service Bulletin 25-109, Revision 1 or production equivalent is incorporated, and 
+ 2. 
+ Configured in accordance with Douglas Drawing NZZ6760-1. 
+ 3. 
+ The upper exterior surface of the fuselage forward of station 1821.0 between longerons 16R 
+ and 16L must be painted white. Any deviation to this requirement must be FAA approved. 
+ (c) Factory Serial Numbers (FSN's) 48426, 48427, 48428, 48429 and 48430 are eligible to operate in 
+ the main deck all-freight configuration when: 
+ 1. 
+ MDC drawing SP11251075 is installed, and 
+ 2. 
+ The upper exterior surface of the fuselage forward of station 1821.0 between longerons 16R 
+ and 16L must be painted white. Any deviation to this requirement must be FAA approved."
+NOTE 17,"The location of flight attendant seats demonstrated to comply with the direct view requirements of FAR 
+ 25.785(h)(1), for the MD-11, are shown on the manufacturers interior arrangement drawing, entitled, ""FAA 
+ Interior Schematic."""
+NOTE 18,"The number of required flight attendants which have been used to demonstrate compliance with the 
+ emergency evacuation requirements of FAR 25.803(c) or (d) is as follows: 
+ (a) For between one (1) and 306 passengers: 
+ One (1) flight attendant for every 50 passenger seats plus two (2) additional flight attendants, when the 
+ following slides are installed: 
+ Part Number 60289-101, or -103 at door 1, 
+ Part Number 60290-101, or -103 at doors 2 and 4 
+ Part Number 60291-101 through -104 at door 3. 
+ See note 18(e) 
+ (b) For between one (1) and 381 passengers and 165 passenger seats or less in Zone ""C"": 
+ One (1) flight attendant for every 50 passenger seats, when the following slides, or later FAA approved 
+ slides are installed: 
+ Part Number 60289-111, or -113 at door 1, 
+ Part Number 60290-111, or -113 at doors 2 and 4 
+ Part Number 60291-111 through -114 at door 3. 
+ See note 18(e) 
+ (c) For between one (1) and 381 passengers and more than 165 passenger seats in Zone ""C"": 
+ One (1) flight attendant for every 50 passenger seats plus one (1) additional flight attendants when the 
+ following slides, or later FAA approved slides are installed: 
+ Part Number 60289-111, or -113 at door 1, 
+ Part Number 60290-111, or -113 at doors 2 and 4 
+ Part Number 60291-111 through -114 at door 3. 
+ See NOTE 18(e) 
+ (d) For between 382 and 410 passengers: 
+ One (1) flight attendant for every 50 passenger seats plus one (1) additional flight attendant (total of 9 
+ flight attendants maximum), and the following slides, or later FAA approved slides must be installed: 
+ Part Number 60289-115, or -117 at door 1, 
+ Part Number 60290-115, or -117 at doors 2 and 4 
+ Part Number 60291-115 through -118 at door 3. 
+ If less than eight flight attendants are required for a particular passenger capacity, the flight attendants should 
+ be located at each overwing exit first, and then distributed equally throughout the cabin at the exit doors. 
+ If nine flight attendants are required, the ninth should be located at door 2. 
+ The number and location of flight attendants for compliance with FAR 25.803(c) or (d) shall not conflict with 
+ the requirements of NOTE 17, and may require additional attendants to meet both requirements. 
+ (e) AD 92-23-02 amendment 39-8402 effective November 25, 1992 requires upgraded slides to be installed."
+NOTE 19,"KDC-10 Airplanes Factory Serial Numbers 46956 and 46985 are tanker/cargo versions of the Model DC-10- 
+ 30F when modified in accordance with Douglas Aircraft Drawing SP10280012, Revision B, dated April 6, 
+ 1995. 
+ The KDC-10 is equipped with a Remote Aerial Refueling Operator (RARO) station in the main cabin. Only 
+ two RARO stations with the following Part Numbers (P/N) are approved for installation on the KDC-10 
+ aircraft: P/N 1D83300-1, Serial Numbers 0001 and 0002. 
+ Prior to operation as a commercial aircraft, the following must be accomplished: 
+ (a) The maintenance, overhaul and modifications records of each aircraft must be reviewed for changes 
+ made by the military services that may affect the airworthiness of the aircraft. Modifications, 
+ changes of equipment and repairs, which affect the safety or performance of the aircraft, must be 
+ approved by the FAA. 
+ (b) All aircraft returned to civil operations must comply with all applicable Airworthiness Directives. 
+ (c) All items that are not FAA approved must be removed from the aircraft if they affect the safety or 
+ performance of the aircraft."
+NOTE 20,"The DC-10 aircraft is qualified for operations within Reduced Vertical Separation Minimum (RVSM) 
+ airspace. See McDonnell Douglas Service Bulletin DC10-34-134 for establishing the basis for operational 
+ approval."
+NOTE 21,"The MD-11 aircraft is qualified for operations within Reduced Vertical Separation Minimum (RVSM) 
+ airspace. See McDonnell Douglas Service Bulletin MD11-34-065 for establishing the basis for operational 
+ approval."
+NOTE 22,"The MD-10 aircraft is qualified for operations within Reduced Vertical Separation Minimum (RVSM) 
+ airspace, when equipped with approved MD-10 Air Data Systems that are maintained in accordance with the 
+ MD-10 Maintenance Review Board Document."
+NOTE 23,"MD-10 Maximum Passengers: The following is applicable to crew and supernumeraries: 
+ For MD-10 model airplanes, a maximum of four supernumeraries in a “courier area” aft of the cockpit door 
+ and forward of a rigid cargo barrier, or two supernumeraries in a “courier module” area aft of the cockpit 
+ door and forward of a 9g crash net is permitted per FAA approved exemption number 6873."
+NOTE 24,"Conversion of a DC-10 to an MD-10-10F or –30F can be accomplished by either Douglas Aircraft Drawing 
+ SP10250349 or SP10250354, as appropriate, along with the requirement in NOTE 25."
+NOTE 25,"For MD-10 model airplanes, upon induction of a specific aircraft for modification, a review must be 
+ conducted to ensure that all DC-10 AD’s are accounted for per Report MDC 99K1087, Revision A or later."
+NOTE 26,"Upon completion of the modification from DC-10-10/-10F, DC-10-30/-30F to MD-10-10F, MD10-30F, 
+ respectively, in accordance with Douglas Aircraft Drawing SP10250349 or SP10250354, a data plate must be 
+ installed adjacent to the existing data plate in accordance with Douglas Aircraft Drawing No. SP10510226 or 
+ SP10530234."
+NOTE 27,"The MD-10 Anomalies are contained in the MD-10 Aircraft Fault Anomalies Report, Report No. 
+ MDC 00K1108."
+NOTE 28,"Each Aircraft modified to a MD-10-10F or -30F, must have an applicable FAA approved “Airplane Flight 
+ Manual”."
+NOTE 29,"For specific dimensional and weight limits, static unbalance, rated pressure, load rating, speed rating, etc., 
+ see the following McDonnell Douglas Tire Specification Drawing: 
+ Tire Spec. Dwg. 
+ Tire 
+ Max. Weight 
+ Airplane Series 
+ PS5914 
+ H54x21.0-24 
+ 325 lbs 
+ MD-10-10F (when carbon brakes are installed)"

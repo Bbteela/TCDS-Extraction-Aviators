@@ -1,0 +1,1158 @@
+Keyterm,Info
+"4H12 
+ Revision 33 
+ Schweizer RSG 
+ 269A 
+ 269A-1 
+ 269B,269C 
+ 269C-1, 269D 
+ April 29, 2020",
+TC Holder,"Schweizer RSG LLC 
+ 3901 N. Main St. 
+ Fort Worth, TX 76106"
+TC Holder Record,"Sikorsky Aircraft Corporation transferred TC 4H12 to 
+ Schweizer RSG LLC on January 25, 2018 
+ Schweizer Aircraft Corporation transferred TC 4H12 to 
+ Sikorsky Aircraft Corporation on September 26, 2011"
+"I - Model 269A Helicopter (Normal Category), Approved April 9, 1959",
+Engine,"Lycoming HO-360-B1A, HO-360-B1B, O-360-C2D, HIO-360-B1A or HIO-360-B1B"
+Fuel,91/96 Minimum grade aviation gasoline
+Engine Limits,"HP 
+ RPM 
+ MP IN HG 
+ Altitude Feet"
+HO360B1A B1B,"160 
+ 2900 
+ 26.0 
+ S.L. 
+ 160 
+ 2900 
+ 24.8 
+ 4000"
+Takeoff,"160 
+ 2900 
+ 25.0 
+ To 300 above terrain"
+Max power rating 5 min,"180 
+ 2900 
+ Full Throttle 
+ More than 300 above terrain"
+O360C2D,"160 
+ 2700 
+ 26.0 
+ S.L. 
+ 160 
+ 2700 
+ 24.8 
+ 4000"
+Takeoff 5 min,"165 
+ 2900 
+ 26.0 
+ S.L."
+HIO360B1A B1B,"160 
+ 2900 
+ 26.2 
+ S.L. 
+ 160 
+ 2900 
+ 25.2 
+ 3700 
+ Takeoff and Max. power (5 min.) 
+ 180 
+ 2900 
+ Full Throttle"
+Page,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17"
+Rev,"33 
+ 20 
+ 20 
+ 20 
+ 20 
+ 30 
+ 31 
+ 33 
+ 23 
+ 26 
+ 33 
+ 26 
+ 29 
+ 33 
+ 25 
+ 28 
+ 23"
+Page,"18 
+ 19 
+ 20"
+Rev,"29 
+ 28 
+ 32 
+ Power Off 
+ Power On 
+ (Rotor Tach) 
+ (Engine Tach) 
+ Rotor Limits and Engine Operating Speeds 
+ Max. 530 rpm 
+ (With 269B1145, 269B1145-1, 269B1145-25, or 269A1190 
+ Max. 2900 rpm 
+ Min. 2700 rpm"
+Main Rotor Blades,"Min. 400 rpm 
+ (With other than 269B1145, 269B1145-1, 269B1145-25, or 
+ Max. 530 rpm 
+ Max. 2900 rpm"
+269A1190 Main Rotor Blades,"Min. 400 rpm 
+ Min. 2500 rpm"
+Airspeed Limits IAS,"Vne (Never Exceed) S.L. 86 mph (75 knots)For reduction of Vne with altitude, RPM, 
+ and accessories installed - see Rotorcraft Flight Manual."
+Altitude Limits,Avoid operational areas as shown in the Rotorcraft Flight Manual.
+CG Range,Station (95) to (100)
+Longitudinal,For limits with accessories installed - see Rotorcraft Flight Manual.
+CG Range Lateral,See Loading Instructions in Rotorcraft Flight Manual.
+Leveling Means,Top of Main Rotor Hub
+Maximum Weight,"S/N --0001 through --0008 
+ 1550 lbs. 
+ S/N --0011 through --0314 
+ 1550 lbs. (Max. weight may be increased to 1600 lbs. if all 
+ the following components are installed): 
+ Component 
+ Part Number 
+ Blade Assembly - Main Rotor 
+ 269A1131, 269A1131-1, 269B1145, 269B1145-25 or 
+ 269B1145-1 
+ Blade Dampers - Main Rotor 
+ 269A1222, 269A1927 or 269A1927-3 
+ Engine 
+ Lycoming HO-360-B1A, HO-360-B1B, 
+ HIO-360-B1A, or HIO-360-B1B 
+ Landing Gear Assembly 
+ 269A3240 
+ S/N --0315 and up 
+ 1670 lbs. (See NOTE 1)"
+No Seats,"2, Station (84.9)"
+Maximum Cargo,See Loading Instructions to Rotorcraft Flight Manual.
+Fuel Capacity,"25 gal. 
+ Sta. (107) 
+ (S/N --0001 through--0314) 
+ 25 gal. or 30 gal. Sta. (107) 
+ (S/N --0315 and subsequent)"
+Oil Capacity,2 gal. (Sta. 91)
+Landing Gear,200 psi front and rear (S/N --0011 and subsequent)
+Oleo Pressure,"75 psi front, 150 psi rear (S/N --0001 through 0008)"
+Serial Nos Eligible,"--0001 through --0008, --0011 and up (See NOTE 6 for Serial Number Coding) Serial 
+ Numbers --0650 thru --1109 were manufactured under the Delegation Option 
+ Authorization provisions of FAR 21. 
+ Serial Numbers --0315 thru --1109 were delivered to the U.S. Army as TH-55A trainers. 
+ Prior to issuance of FAA Certificate of Airworthiness for these Helicopters, conformance 
+ with the FAA approved type design data must be established. In addition, all deviations 
+ listed on the ""Conformity Certificate - Military Aircraft"" FAA Form 8130-2 or prior FAA 
+ Form 970 for the particular serial number helicopter must be eliminated and FAA 
+ approved installations substituted therefore. 
+ The following serial numbered U.S. Army TH-55A Helicopters and their respective data 
+ plates have been destroyed: 
+ 0317, 0318, 0319, 0321, 0332, 0333, 0340, 0351, 0356, 
+ 0389, 0406, 0471, 0472, 0474, 0479, 0480, 0490, 0491, 0492, 0495, 0513, 0515, 0520, 
+ 0541, 0545, 0547, 0552, 0562, 0604, 0648, 0652, 0670, 0671, 0686, 0702 and 0709."
+"II - Model 269A-1 Helicopter (Normal Category), Approved August 23, 1963",
+Engine,Lycoming HIO-360-B1A or HIO-360-B1B
+Fuel,91/96 Minimum grade aviation gasoline
+Engine Limits,"HP 
+ RPM 
+ MP IN HG 
+ Altitude Feet 
+ 160 
+ 2900 
+ 26.2 
+ S.L. 
+ 160 
+ 2900 
+ 25.2 
+ 3700 
+ Takeoff and Max. power (5 min.) 
+ 180 
+ 2900 
+ Full Throttle 
+ Rotor Limits and Engine Operating Speeds 
+ Power Off(Rotor Tach) 
+ Power On (Engine Tach) 
+ Max. 530 rpm 
+ Max. 2900 rpm 
+ Min. 400 rpm 
+ Min. 2700 rpm"
+Airspeed Limits IAS,"Vne (Never Exceed) S.L. 86 mph (75 knots) 
+ For reduction of Vne with altitude, RPM, and accessories installed - see Rotorcraft Flight 
+ Manual."
+Altitude Limits,Avoid operational areas as shown in the Rotorcraft Flight Manual.
+CG Range,Station (95) to (100)
+Longitudinal,For limits with accessories installed - see Rotorcraft Flight Manual.
+CG Range Lateral,See Loading Instructions in Rotorcraft Flight Manual.
+Leveling Means,Top of Main Rotor Hub
+Maximum Weight,1670 lbs. (See NOTE 1)
+No Seats,"2, Station (84.9)"
+Maximum Cargo,See Loading Instructions in Rotorcraft Flight Manual
+Fuel Capacity,25 Gal. or 30 gal. Sta. (107)
+Oil Capacity,2 gal. (Sta. 91)
+Landing Gear,200 psi
+Serial Nos Eligible,--0001 and up (See NOTE 6 for Serial Number coding)
+"III - Model 269A-2 Helicopter (Normal Category), Approved October 10, 1966 
+ Deleted 15 May 1970 
+ IV - Model 269B Helicopter (Normal Category), Approved December 30, 1963 
+ Model 269B Helicopter (Restricted Category), Approved February 1, 1965",
+Engine,Lycoming HIO-360-A1A
+Fuel,100/130 Minimum grade aviation gasoline
+Engine Limits,"HP 
+ RPM 
+ MP IN HG 
+ Altitude Feet 
+ 160 
+ 2900 
+ 23.5 
+ S.L. 
+ 160 
+ 2900 
+ 22.0 
+ 7200"
+Takeoff,"180 
+ 2900 
+ 26.1 
+ S.L."
+Max power rating 5 min,"180 
+ 2900 
+ 25.0 
+ 3900 
+ Rotor Limits and Engine Operating Speeds 
+ Power Off (Rotor Tach) 
+ Power On (Engine Tach) 
+ Max. 530 rpm 
+ Max. 2900 rpm 
+ Min. 400 rpm 
+ Min. 2700 rpm"
+Airspeed Limits IAS,"Normal Category: Vne (Never Exceed) S.L. 87 mph (76 knots) 
+ Restricted Category: Vne (Never Exceed) S.L. 66 mph (57 knots) 
+ Maximum sideward speed, 10 mph. 
+ For reduction of Vne with altitude, RPM, and accessories installed - see Rotorcraft Flight 
+ Manual."
+Altitude Limits,Avoid operational areas as shown in the Rotorcraft Flight Manual.
+CG Range,Station (95) to (101)
+Longitudinal,For limits with accessories installed - see Rotorcraft Flight Manual.
+CG Range Lateral,See Loading Instructions in Rotorcraft Flight Manual.
+Leveling Means,Top of Main Rotor Hub
+Maximum Weight,1670 lbs. (See NOTE 1)
+No Seats,"(Normal Category): 3, (2 at Station 84.9; 1 at Station 78.5) 
+ (Restricted Category): 1, Station 84.9 Left Side"
+Maximum Cargo,See Loading Instructions in Rotorcraft Flight Manual
+Fuel Capacity,25 Gal. or 30 gal. Sta. (107)
+Oil Capacity,2 gal. (Sta. 91)
+Landing Gear,200 psi
+Serial Nos Eligible,"--0001 and up (See NOTE 6 for Serial Number coding) 
+ Serial Numbers --0236 thru --0457 were manufactured under the Delegation Option 
+ provisions of FAR 21."
+"V - Model 269C Helicopter (Normal Category), Approved 15 May 1970 
+ Model 269C Helicopter (Restricted Category), Approved March 14, 1973",
+Engine,Lycoming HIO-360-D1A
+Fuel,100/130 Minimum grade aviation gasoline
+Engine Limits,"HP 
+ RPM 
+ MP IN HG 
+ Altitude Feet 
+ For 1900 lbs. Configuration All Operations: 
+ 190 
+ 3200 
+ 25.6 
+ S.L. 
+ (Configuration - a or b of RFM) 
+ 190 
+ 3200 
+ 24.1 
+ 4850 
+ For 2050 lbs. Configuration Single RPM 
+ 190 
+ 3200 
+ 26.0 
+ S.L. 
+ Operations: ( Configuration - c of RFM) 
+ 190 
+ 3200 
+ 24.7 
+ 4200"
+For Dual Engine RPM Operation,"190 
+ 3200 
+ 26.0 
+ S.L. 
+ 190 
+ 3200 
+ 24.7 
+ 4200 
+ 154 
+ 2800-2900 
+ 24.5 
+ S.L. 
+ Rotor Limits and Engine Operating Speeds 
+ Power Off (Rotor Tach) 
+ Power On (Engine Tach) 
+ Max. 504 rpm 
+ Max. 3200 rpm 
+ Min. 390 rpm 
+ Min. 3000 rpm 
+ Min. 2800rpm for Dual RPM Operation"
+Airspeed Limits IAS,"Vne (Never Exceed) S.L. 109 mph (95 knots) 
+ For reduction on Vne with altitude with accessories installed, for dual rpm operation and 
+ for restricted category operation, see Rotorcraft Flight Manual."
+Altitude Limits,Avoid operational areas as shown in the Rotorcraft Flight Manual.
+CG Range,Sta. (95.0) to Sta. (101.0)
+Longitudinal,"For limits with accessories installed, see Rotorcraft Flight Manual."
+CG Range Lateral,See Loading Instructions in Rotorcraft Flight Manual.
+Leveling Means,Top Of Main Rotor Hub.
+Maximum Weight,"For reduction of maximum weight with accessories installed and for dual rpm operation 
+ see Rotorcraft Flight Manual. 
+ Normal Category: S/N --0004 through --0209 1900 lbs. (See NOTE 1). 
+ Maximum weight may be increased to 2050 lbs. if Modification M10078 is 
+ accomplished. 
+ S/N --0210 and up 2050 lbs. (See NOTE 1.) 
+ Restricted Category with Agricultural Kit No. 269A4153 and -3: 
+ S/N --0004 through -0209 
+ 1900 lbs. (See NOTE 1.) 
+ Maximum weight may be increased to 2150 lbs. if Modification M10078 is 
+ accomplished. 
+ S/N --0210 and up 2150 lbs. (See NOTE 1.) 
+ The landing gear and support structure S/N --0004 and up are not structurally 
+ substantiated for operation above 2050 lbs. The cross beams must be inspected 
+ following landing above 2050 lbs."
+No Seats,"3, (2 at Station 83.2; 1 at Station 80.0)"
+Maximum Cargo,See Loading Instructions and Limitations in Rotorcraft Flight Manual.
+Fuel Capacity,"30 gal 
+ Sta. (107) 
+ 49 gal with Optional Tank 
+ Sta. (107) 
+ SN: 1743, 1744, 1746 thru 1803. or if modified by incorporation of Kit SA-269K-089 
+ 30.0 gal 
+ Sta. (108.5) 
+ 65.2 gal with Optional Tank Sta. (108.5) 
+ SN: 1804 and Subseq. 
+ 33.0 gal 
+ Sta. (108.5) 
+ 66.0 gal with Optional Tank 
+ Sta. (108.5)"
+Oil Capacity,"2 gal. 
+ Sta. (91)"
+Landing Gear,269A3240 “Standard” Landing Gear
+Oleo pressure,"350 psi front (P/N 269A3150-5,-15,-19) 
+ 560 psi rear (P/N 269A3150-7) 
+ 725 psi rear (P/N 269A3150-9, -17, -21) 
+ 269A3260 “Extended Height” Landing Gear 
+ 350 psi front (P/N 269A3150-23) 
+ 560 psi rear (P/N 269A3150-27)"
+Serial Nos Eligible,"--0004 and up except Serial Number 1246, 1643 and 1660 (See NOTE 6 for Serial 
+ Number coding). Serial Numbers --0004 thru --0082 were manufactured under the 
+ Delegation Option provisions of FAR 21."
+"Data Pertinent for Models 269A, A-1, B, C 
+ Datum 
+ 100 inches forward of main rotor centerline 
+ Other Operating 
+ See Rotorcraft Flight Manual. See NOTE 2 for required placards. See NOTE 4 for 
+ Limitations 
+ maintenance. 
+ Main Rotor Blade 
+ (Relative to Rigging Position) 
+ Movements 
+ Collective travel (all models) 12o + 1o (low pitch stop to be established in accordance 
+ with HMI to obtain proper auto rotation RPM). 
+ Model 269A, 269A-1, 269B 
+ Cyclic, 
+ forward 
+ 7.5o to 9.4o 
+ aft 
+ 6.0o to 7.5o 
+ left 
+ 6.5o to 7.5o 
+ right 
+ 5.3o to 6.3o 
+ Model 269C 
+ Cyclic, 
+ forward 
+ 8.5o to 9.75o 
+ aft 
+ 6.5o to 7.5o 
+ left 
+ 6.5o to 7.5o 
+ right 
+ 4.5o to 6.5o 
+ Main Rotor Blade 
+ Friction Dampers (269A1222, 269A1927, 269A1927-3. 
+ Damper Setting 
+ Torque to move the damper shaft through the low load stage: 200 in-lb. minimum, 230 
+ in-lb. maximum. 
+ Tail Rotor Blade 
+ Models 269A, 269A-1, 269B with 269A6004 or 269A6003 Tail Rotor Assembly +20o 
+ Collective Pitch 
+ +1o (thrust to right); -10o +1o (thrust to left) 
+ Models 269A, 269A-1, 269B with 269A6034 or 269ASK16 Tail Rotor Assembly + 25o 
+ + 1o (thrust to right); -12o + 1o (thrust to left) 
+ Model 269C with 269A6034-7 Tail Rotor Assembly +26o +1o (thrust to right); -12o +1o 
+ (thrust to left) 
+ FAA/DOA APPROVED HELICOPTER FLIGHT MANUALS 
+ Model 269A (configuration ""a""), CSP-AA-1, dated April 7, 1964, revised 10/30/2003 
+ Model 269A-1, CSP-AA-2, dated May 13, 1964, revised 10/30/2003 
+ Model 269A (configuration ""b""), CSP-AB-1. dated April 8, 1964, revised 10/30/2003 
+ Model 269A (configuration ""c""), CSP-AC-1, dated July 9, 1964, revised 10/30/2003 
+ Model 269A (configuration ""d""), (U.S. Army TH-55A Primary Trainer), CSP-AD-1, dated 11/5/64, revised 
+ 10302003 
+ Model 269B (configuration ""a""), CSP-BA-1, December 30, 1963, revised 10/30/2003 
+ Model 269B (configuration ""b""), CSP-BA-2, February 5, 1968, revised 10/30/2003 
+ Model 269C, CSP-C-1, dated March 9, 1973, reissued September 21, 1988, revised December 7, 2012 
+ Service Life Limits 
+ See NOTE 3 for list of life limited components. 
+ Certification Basis 
+ Models 269A, 269A-1, 269B (Normal Category): 
+ CAR Part 6 dated January 15, 1951, including Amendments 6-1 through 6-7 and 6-8, 
+ except for CAR 6.604(c). In addition, compliance with CAR 6.401(b) effective May 17, 
+ 1958 and CAR 6.637 effective April 1, 1957 has been required, based on the conditions 
+ of Director, Bureau of Flight Standards letter dated March 27, 1959, granting extension 
+ of effectiveness of Application for Type Certificate until July 1, 1959. 
+ Model 269B (Restricted Category): CAR Part 8 dated October 11, 1950. 
+ Model 269C (Normal Category): CAR Part 6 dated 15 January 1951, including 
+ Amendments 6-1 through 6-7 and 6-8, except CAR 6.604(c). In addition, compliance 
+ with CAR 6.401(b) effective 17 May 1958, CAR 6.637 effective 1 April 1957 and FAR 
+ 27.1323 of Amendment 27-2 effective 25 February 1968 in lieu of CAR 6.612(a) has 
+ been required. Model 269C was approved under the Delegation Option Authorization 
+ Provisions of FAR21. 
+ Model 269C (Restricted Category): FAR 21.25 dated February 1, 1965. 
+ Type Certificate 4H12 issued April 9, 1959. 
+ Date of Application for Type Certificate, January 23, 1956. 
+ Production Basis 
+ FAA PC Number 22SW. 
+ CAAC PC Number PC0044A-HD. 
+ Equipment 
+ The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (See Certification Basis) must be installed in the helicopter for certification. All required 
+ equipment that must be installed as well as optional equipment installations are listed in 
+ the following Hughes/Schweizer reports: 
+ JW-00-1 
+ ""Equipment List, Model 269A Helicopter"" 
+ HTC-63-19 
+ ""Equipment List, Model 269A-1 Helicopter"" 
+ 269B-X-8001 
+ ""Equipment List, Model 269B Helicopter"" (including conversation 
+ instructions for Model 269B CAR Part 6 or Part 8 certification basis). 
+ JX-80-45 
+ ""Equipment List, Model 269C Helicopter"" Configuration a. 
+ JX-80-42 
+ ""Equipment List, Model 269C Helicopter"" Configuration b. 
+ JX-80-43 
+ ""Equipment List, Model 269C Helicopter"" Configuration c. 
+ SA-269C-22-4 
+ “Equipment List, Model 269C Helicopter S/N 1796 – Subseq.” 
+ VI - Model 269D Helicopter (Normal Category). Approved September 14, 1992 
+ See item VI(a) for optional Model 269D Configuration A",
+Engine,Rolls-Royce 250-C20W Gas Turbine
+Fuel,"Grade JP-4 or JP-5 per MIL-T-5624, 
+ Jet A, A-1, or B per ASTM D-1655, and 
+ Grade JP-8 per MIL-T-83133. 
+ Refer to Rotorcraft Flight Manual and/or Rolls-Royce Operation and Maintenance 
+ manual for limitation and special operating conditions."
+Engine Limits,"220 HP Maximum Continuous, 57.8 psi Torque, 
+ 738oC maximum TOT. 
+ Take off: 235 HP 5 min. Limit, 61.7 psi Torque 
+ 810oC maximum TOT. maximum N1 = 105% rpm 
+ N1 idle speed: 59% to 65% 
+ 100% N1 = 50,970 RPM 
+ TOT limits: Start up and shut down - 810 C to 927 C for 10 sec 
+ o 
+ o 
+ Installed Power Turbine Limit (91% N2) = 30,294 RPM 
+ Installed Power Output Shaft Limit (91% N2) = 5,475 RPM"
+Rotor Limits and,Normal Operating Range: 466 RPM to 471 RPM (90% N2 to 91% N2)
+Engine Operating,Max. RPM: Power On - 471 RPM (91% N2)
+Speeds,"Min. RPM: Power On - 466 RPM (90% N2) 
+ Max. RPM: Power Off - 504 RPM 
+ Min. RPM: Power Off - 410 RPM"
+Airspeed Limits,"Vne (Never Exceed) Sea Level 108 KIAS Power-On / 94 KIAS during Autorotations 
+ For reduction of Vne with altitude, see Rotorcraft Flight Manual 
+ Limits unchanged for any combination of cabin doors on or off"
+Altitude Limits,"Avoid operational areas shown in the Rotorcraft Flight Manual 
+ Max. Certified Pressure Altitude: - 10,000ft 
+ - 12,800ft. equip. with 269A1002-11 Main Rotor Inst. 
+ and 269D7100-3 ""ext. height"" Landing Gear"
+Longitudinal,"Fwd: 
+ 94.1 inches at 2230 lbs varying linearly to 92.0 inches at 1750 pounds and 
+ below. 
+ Aft: 
+ 96.0 inches at 2230 lbs varying linearly to 101.0 inches at 1750 lbs and below."
+Lateral,"Right: 
+ Buttline +2.4 inches at 2230 lbs varying linearly to +4.5 inches at 1750 lbs and 
+ below 
+ Left: 
+ Buttline -0.9 inches at 2230 lbs varying linearly to -3.0 inches at 1750 lbs and 
+ below"
+CG Range,"Equipped with 269A1002-11 Main Rotor Inst. and 269D7100-3 “extended height” 
+ Landing Gear"
+Longitudinal,"Fwd: 
+ 94.2 inches at 2260 lbs varying linearly to 92.0 inches at 1800 pounds and 
+ below. 
+ Aft: 
+ 96.0 inches at 2260 lbs varying linearly to 101.0 inches at 1800 lbs and below."
+Lateral,"Right: 
+ Buttline +2.4 inches at 2260 lbs varying linearly to +4.5 inches at 1800 lbs and 
+ below 
+ Left: 
+ Buttline -0.9 inches at 2260 lbs varying linearly to -3.0 inches at 1800 lbs and 
+ below 
+ Lateral ""+"" CG is right of aircraft centerline, ""-"" is left of aircraft centerline when looking 
+ forward."
+Leveling Means,Top of Main Rotor hub
+Datum,100 inches forward of main rotor HUB centerline
+Maximum Weight,"Normal Category Operations - 2230 lbs 
+ - 2260 lbs equip. with 269A1002-11 Main Rotor Inst. 
+ and 269D7100-3 ""ext. height"" Landing Gear"
+No of Seats,"3 Place Configuration (2 at Station 68.6, 1 at Station 78.6) 
+ 4 Place Configuration (2 at Station 68.6, 2 at Station 78.6)"
+Controls,"Solo flight & P.I.C. - Refer to rotorcraft flight manual. 
+ Refer to Rotorcraft Flight Manual when three sets of controls are installed."
+Max Cargo,"Stowage Area Behind R/H Seat sta. 84.0 - Limited to 50 lbs 
+ Stowage Area Behind L/H Seat sta. 84.0 - Limited to 50 lbs 
+ Optional Remote Baggage Compartment sta. 125.0 - Limited to 60 lbs"
+Fuel Capacity,"Standard Capacity - 60.8 U.S. Gallons (Station 104.20), (60.0 Gal usable) 
+ Unusable Fuel - 0.8 U.S. Gallons 
+ Extended Range Capacity - 74.1 U.S. Gallons (Station 104.20), (73.0 Gal usable) 
+ Unusable Fuel - 1.1 U.S. Gallons"
+Engine Oil Capacity,4.5 Quarts (Oil Tank Capacity 3.0 Quarts) (Station 114.40)
+Engine Oil Type,"MIL-L-7808 (reference Roll-Royce Maintenance Manual 10W2) 
+ MIL-L-23699"
+Engine Oil Limitations,"Continuous operating range 0oC to 107oC 
+ Oil Pressure 50 - 130 psi with following minimums: 
+ 90 psi at or above 79% N1 
+ 50 psi below 79% N1"
+Landing Gear,269A3240-9 Landing Gear
+Oleo Pressure,"350 psi Front (P/N 269A3150-15, -19) 
+ 725 psi Rear (P/N 269A3150-9, -17, -21) 
+ 269D7100-3 “extended height” Landing Gear 
+ 350 psi Front (P/N 269A3150-23) 
+ 725 psi Rear (P/N 269A3150-25)"
+StarterGenerator,150 amps maximum continuous operation.
+Limits,"Consecutive Cranking Limits: 
+ 60 seconds - ON 60 seconds - OFF 30 
+ seconds - ON 60 seconds - OFF 30 
+ seconds - ON 30 minutes - OFF"
+Operating Limitations,"If configured with external screened engine plenum inlet, Alternate Air must be selected 
+ for all operations in visible moisture at temperatures at or below 5oC. 
+ After alternate air door is selected for operation in visible moisture at or below 5oC, the 
+ door must remain open until after landing and the primary air inlet and the forward and 
+ aft bulkheads located at the rear station of the engine bellmouth are inspected and cleared 
+ of ice accumulation. 
+ Flight into known icing is prohibited. 
+ Instrument flight is prohibited. 
+ Refer to Rotorcraft Flight Manual for solo requirements."
+Other Operating,See Rotorcraft Flight Manual. See Note 2 for required placards. See Note 4 for
+Limitations,maintenance information.
+Serial Numbers Eligible,"-0001 and subsequent except Serial No. 0007, 0013, 0011, 0017, 0030 and all serial 
+ numbers containing the suffix “M” or “MB” (See note 11)."
+Main Rotor Blade,Collective Pitch:
+Movement,"Full Travel 12o +/- 1o 
+ At Down Stop 0.75 R, 2.5o +/- 1.5o (low pitch stop to be established in accordance with 
+ HMI to obtain proper auto rotation RPM). 
+ Cyclic, 
+ forward 
+ 8.5o to 9.5o 
+ aft 
+ 9.5o to 10.0o 
+ left 
+ 6.5o to 7.5o 
+ right 
+ 6.0o to 7.0o"
+Tail Rotor Blade,"Established at 3/4 radius,"
+Collective Pitch,"Right Pedal (thrust to left) 11o to 13o 
+ Left Pedal (thrust to right) 27o to 29o"
+Service Life Limits,See Note 8 for life limited Components
+Certification Basis,"The certification basis for the Model 269D includes that of the 269C CAR Part 6, dated 
+ January 15, 1951, including Amendment 6-1 through 6-7, and 6-8 except CAR 6.604(c). 
+ Compliance with CAR 6.401(b) effective 17 May 1958, CAR 6.637 effective 1 April 
+ 1957 and FAR 27.1323 Amendment 27-2 effective 25 February 1968 in lieu of CAR 
+ 6.612(a) has been shown. Applicable FAR requirements covering the turbine engine 
+ installation per FAR 27 thru Amendments 27-21 in effect at time of application 
+ (November 3, 1987) and noise standards per FAR 36 at time of certification are: 
+ FAR 21.35(b)(2) ; 27.73(a)(2)(ii); 27.361(a); 27.395; 27.397; 27.399; 27.671; 
+ 27.901(b)(4)(c); 27.903(c); 27.907; 27.931; 27.939; 27.951(c); 27.955; 27.959; 27.961; 
+ 27.963; 27.965; 27.969; 27.971; 27.973; 27.975; 27.977(a)(2)(b)(c)(d); 27.993; 27.995; 
+ 27.997; 27.999; 27.1013(c); 27.1015; 27.1019; 27.1091(d)(e); 27.1093(b); 27.1121; 
+ 27.1141(d); 27.1143(d); 27.1145(b); 27.1191(a); 27.1194; 27.1195; 27.1305(f)(g)(n 
+ thru s); 27.1323; 27.1353(f)(g); 27.1461; 27.1521(b)(5), (c)(3)(d thru f); 27.1529; 
+ 27.1557(c)(i)(iii); 27.1583(b)(1); FAR 36 Appendix J, Amendment 20."
+Production Basis,PC Number 22SW.
+Equipment,"The required equipment as prescribed in the applicable airworthiness regulations (see 
+ Certification Basis) must be installed in the helicopter for certification. All required 
+ equipment that must be installed as well as optional equipment installations are listed in 
+ Schweizer Report No. SA-269D-22-2. 
+ FAA APPROVED HELICOPTER FLIGHT MANUAL 
+ CSP-D-1 (60 gallon fuel system) 
+ Model 269D, dated September 14, 1992. Reissued July 28, 1993. 
+ Revision August 26, 2010. 
+ CSP-D-7 (73 gallon fuel system) 
+ Model 269D, dated November 16, 1993. Revision August 26, 2010."
+"VI (a) - Model 269D Configuration A Helicopter (Normal Category). Approved September 28, 2000 
+ data same as for standard configuration (item VI) except as shown 
+ Engine Limits 
+ 232 HP Maximum Continuous, 62.2 psi Torque, 738oC maximum TOT. 
+ Take off: 253 HP 5 min. Limit, 67.6 psi Torque (280 HP 5 min. Limit, 74.9 psi Torque 
+ for S/N 0043-A, 0045-A & Subs. and any other aircraft retrofitted by the SA-269DK-027 
+ Kit), 810oC maximum TOT. 
+ Transient Over Torque: 263 HP 15 sec. Limit, 70.3 psi Torque (290 HP 15 sec. Limit, 
+ 77.6 psi Torque for S/N 0043-A, 0045-A & Subs. and any other aircraft retrofitted by the 
+ SA-269DK-027 Kit), 810oC maximum TOT. 
+ Maximum N1 = 105% rpm 
+ N1 idle speed: 59% to 65% 
+ 100% N1 = 50,970 RPM 
+ TOT limits: Start up and shut down - 810 C to 927 C for 10 sec 
+ o 
+ o 
+ Installed Power Turbine Limit (90% N2) = 29,961 RPM 
+ Installed Power Output Shaft Limit (90% N2) = 5,414 RPM 
+ Rotor Limits and 
+ Normal Operating Range: 466 RPM to 471 RPM (89% N2 to 90% N2) 
+ Engine Operating 
+ Max. RPM: Power On - 471 RPM (90% N2) 
+ Speeds 
+ Min. RPM: Power On - 466 RPM (89% N2) 
+ Max. RPM: Power Off - 500 RPM 
+ Min. RPM: Power Off - 410 RPM 
+ Airspeed Limits 
+ Vne (Never Exceed) Sea Level: 
+ 110 kias Power-On (2301-2550 lbs G.W.) 
+ 120 kias Power-On (2300 lbs and below) 
+ 94 kias during Autorotations 
+ 110 kias Doors-Off Operation (any combination cabin door(s) off) 
+ For reduction of Vne with altitude, see Rotorcraft Flight Manual 
+ Altitude Limits 
+ Avoid operational areas shown in the Rotorcraft Flight Manual 
+ Max. Certified Pressure Altitude: - 13,000 ft 
+ CG Range 
+ Longitudinal 
+ Fwd: 
+ 94.0 inches at 2550 lbs varying linearly to 92.0 inches at 2000 lbs and 
+ below. 
+ Aft: 
+ 96.0 inches at 2550 lbs varying linearly to 101.0 inches at 2000 lbs and below. 
+ Lateral 
+ Right: 
+ Buttline +2.0 inches at 2550 lbs varying linearly to +4.0 inches at 2000 lbs and 
+ below 
+ Left: 
+ Buttline –1.0 inches at 2550 lbs varying linearly to -3.0 inches at 2000 lbs and 
+ below 
+ Lateral ""+"" CG is right of aircraft centerline, ""-"" is left of aircraft centerline when 
+ looking forward. 
+ Maximum Weight 
+ Normal Category Operations - 2550 lbs 
+ Take-Off and Landing above 4,000 ft density altitude limited to 2,500 lbs or less 
+ Landing Gear 
+ 350 psi Front (P/N 269A3150-23) 
+ 725 psi Rear (P/N 269A3150-25) 
+ Serial Numbers Eligible 
+ Optional configuration for production helicopters SN 0026 and subsequent and for all 
+ other helicopters incorporating Retrofit Kit no. SA-269D-K-20. Production 
+ Configuration A helicopters have “-A” at the end of S/N. Retrofit Configuration A 
+ helicopters have no “-A” at the end of S/N. Both production and retrofit helicopters 
+ have an additional “Configuration A” Data Plate affixed next to standard data plate. 
+ Certification Basis 
+ The certification basis for the Model 269D Configuration A is the same as the Model 
+ 269D along with the following FAR 27 compliance upgrades as of January 1, 1999: 
+ FAR 27.337; 27.339; 27.341; 27.547; 27.923 and 27.927. 
+ Tail Rotor Blade 
+ Established at 3/4 radius, 
+ Collective Pitch 
+ Right Pedal (thrust to left) 11o to 13o 
+ Left Pedal (thrust to right) 28o to 29o 
+ FAA APPROVED HELICOPTER FLIGHT MANUAL 
+ CSP-D-8 Model 269D Configuration A, dated September 28, 2000, Revised 
+ August 26, 2010. 
+ VII - Model 269C-1 Helicopter (Normal Category) Approved July 31, 1995",
+Engine,"Textron Lycoming HO-360-C1A, FAA Type Certificate E-286. 
+ Textron Lycoming HIO-360-G1A, FAA Type Certificate 1E10."
+Fuel,"Grade 100/130 (green) or 115/145 (purple) or 100LL (blue), MIL-F-5572; Minimum 
+ grade aviation gasoline."
+Engine Limits,"HP 
+ RPM 
+ MP IN HG 
+ Altitude Feet 
+ Max. Continuous 
+ 180 
+ 2700 
+ Full Throttle 
+ S.L."
+Operating Speeds,"Power Off (Rotor Tach) 
+ Power On (Engine Tach) 
+ Max. 504 rpm 
+ Max. 2700 rpm 
+ Min. 390 rpm 
+ Min. 2534 rpm"
+Airspeed Limits,"Vne(Never Exceed); S.L. 94 knots (108 mph) 
+ Vne with Doors-Off; 90 knots (104 mph) 
+ For reduction of Vne with altitude see Rotorcraft Flight Manual"
+Altitude Limits,"Takeoff/Landing - 
+ 8,000 ft density altitude 
+ Enroute - 
+ 10,000 ft density altitude"
+CG Range,Station (95.0) to Station (101.0)
+CG Range Lateral,See Loading instructions in Rotorcraft Flight Manual
+Leveling Means,Top of Main Rotor Hub
+Datum,100 inches forward of Main Rotor centerline
+Maximum Weight,1750 lbs
+No Seats,"2, (2 at station 83.2) Right Hand PIC 
+ 3, (2 at station 83.2, 1 at station 80.0) Left Hand PIC"
+Maximum Cargo,See Loading Instructions and Limitations in Rotorcraft Flight Manual.
+Fuel Capacity,"S/N 0001 thru 0105 
+ Standard 
+ Total Capacity 35.2 U.S. gallons, station 108.5 
+ Usable Capacity 35.0 U.S. gallons, station 108.5 
+ Standard + Auxiliary (optional) 
+ Total Capacity 65.2 U.S. gallons, station 108.5 
+ Usable Capacity 63.0 U.S. gallons, station 108.5 
+ S/N 0106 and Subsequent 
+ Standard 
+ Total Capacity 33.0 U.S. gallons, station 108.5 
+ Usable Capacity 32.5 U.S. gallons, station 108.5 
+ Standard + Auxiliary (optional) 
+ Total Capacity 66.0 U.S. gallons, station 108.5 
+ Usable Capacity 64.0 U.S. gallons, station 108.5"
+Oil Capacity,"2.0 gallons, station 91"
+Landing Gear,350 psi front (P/N 269A3150-19)
+Oleo Pressure,725 psi rear (P/N 269A3150-21)
+Serial Nos Eligible,"- 0001 and subsequent except Serial Nos. -0002, 0013, and -0255"
+Main Rotor Blade,(Relative to rigging position)
+Movements,"Collective Travel 12° ± 1° (low pitch stop to be established in accordance with HMI to 
+ obtain proper auto rotation RPM). 
+ Cyclic, forward 
+ 8.5o to 9.75o 
+ aft 
+ 6.5o to 7.5o 
+ left 
+ 6.5o to 7.5o 
+ right 
+ 4.5o to 6.5o"
+Tail Rotor Blade,+26° ± 1° (thrust to right); -12° ± 1° (thrust to left)
+Service Life Limits,See Note 9.
+Certification Basis,"(Normal Category): CAR Part 6 dated 15 January 1951, including Amendments 6-1 
+ through 6-7 and 6-8, except CAR 6.604(c). In addition, compliance with CAR 6.401(b) 
+ effective 17 May 1958, CAR 6.637 effective 1 April 1957, FAR 27.1323 of Amendment 
+ 27-2 effective 25 February 1968 in lieu of CAR 6.612(a), and noise standards per FAR 
+ Part 36 Appendix J, Amendment 20 has been shown."
+Other Operating,See Rotorcraft Flight Manual. See NOTE 2 for required placards. See NOTE 4 for
+Limitations,maintenance.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (See Certification Basis) must be installed in the helicopter for certification. All required 
+ equipment that must be installed as well as optional equipment installations are listed in 
+ the Schweizer Report SA-269C-22-5."
+Production Basis,"PC Number 22SW. 
+ FAA APPROVED HELICOPTER FLIGHT MANUAL 
+ CSP-C1-1 
+ Model 269C-1, dated July 31, 1995, revised 12/11/09."
+Note: Applicable To All Models Except When Specifically Indicated,
+NOTE 1,"Current weight and balance report, including list of equipment including certificated empty weight and 
+ loading instructions, must be provided for each helicopter at the time of original airworthiness 
+ certification and at all times thereafter (except in the case of operators having an appropriate weight 
+ control system). Ballast, when necessary, must be carried in accordance with the loading instructions 
+ in the Rotorcraft Flight Manual."
+NOTE 2,"The following placard must be installed in clear view of the pilot: 
+ ""This Helicopter must be operated in compliance with the operating limitations 
+ specified in the pertinent Rotorcraft Flight Manual."" 
+ For additional placards, see the pertinent Rotorcraft Flight Manual."
+NOTE 3,"(a) The retirement times of critical parts are listed in the following table. These values of retirement 
+ or service life cannot be increased without approval by FAA Engineering. (See NOTE 8 for Model 
+ 269D & Note 9 for Model 269C-1)): 
+ Model 269A 
+ S/N 0011 
+ & Subs. 
+ Model 269A 
+ Models269A-1 
+ Model 269C 
+ S/N 0001 
+ & 269B S/N 
+ S/N 0004 
+ thru 0008 
+ 0001 & Subs. 
+ & Subs. 
+ Hours 
+ Hours 
+ Hours"
+Description,Part Number
+Blade Assembly  MR,"269-1100 
+ 1366 
+ 269A1125 
+ 1366 
+ 269A1131 
+ 1366 
+ 1366 
+ 269A1131-1 
+ 1366 
+ 1366 
+ 269A1160 
+ 5500 
+ 269A1185-1,-7 
+ 5500 
+ 269A1185-9 
+ 3050 
+ 269A1190 
+ 5500 
+ 269A1190-1 
+ 5500 
+ 269B1145 
+ 1366 
+ 269B1145-1 
+ 1366 
+ 269B1145-25 
+ 1366"
+Pitch Brg Shaft  MR,"269A1240-7 
+ 3600 
+ Dampers-Elastomeric - M/R See Note 3(e) 
+ 269A1290-1, –3 
+ 6000 
+ 6000"
+Mast  MR,"269-2165 
+ 1900 
+ 269A2010-5, -15 
+ 13590"
+Thrust Bearing  MR,"269A5050-73 
+ 3000 
+ 269A5050-63, -95 
+ 3000 
+ 269A5050-50, -51 
+ 300 
+ 300 
+ Tail Boom Assy (when 269ASK16 or 
+ 269A2320 with 
+ 17370"
+269A6034 TR is installed,"269A2324 –13, -11 
+ center attach fitting 
+ installed 
+ 269A2320 with 
+ 4100 
+ 269A2324 Basic, -7 
+ center attach fitting 
+ installed"
+Tail Boom Assy,"269A2320-7 with 
+ 2100 
+ 269A2324-11 center 
+ attach fitting installed 
+ 269A2320-7 with 
+ 500 
+ 269A2324-7 center 
+ attach fitting installed 
+ 269A2320-9 
+ 17370 
+ 269A2320-11 
+ 2100 
+ 269A2320-17,-21 
+ 4200 
+ 269A2320-19 
+ 2100 
+ Tail Boom Struts (see note 3F ) 
+ 269A2015-5 
+ 500 
+ 269A2015-11, -13, -15, 
+ 10700 
+ -17, -113, -213, -215"
+Stab Assy  Vert,"269A2419-3 
+ 20540"
+Stab Assy  Horiz,"269-2500 
+ 2500 
+ 269A2511 
+ 2500 
+ (when 269A2516 zero time Stab. is 
+ 269A2516 
+ 2500"
+269A6034 TR,"269A2516 
+ 3070 
+ 269A2516-9 
+ 2500 
+ 269A2516-21 
+ 4200"
+Main Gear Box Pinion Assy,"269-5103 
+ 2250 
+ 269A5103 
+ 6000 
+ 6000 
+ 269A5103-9 
+ 6000 
+ 6000 
+ 269A5103-21 
+ 6000 
+ 6000 
+ 269A5103-31, -41, -51, 
+ 6000 
+ 6000 
+ -55"
+Main Rotor Drive Shaft,"269-5301 
+ 1195 
+ 269A5305-3, -103 
+ 3000 
+ 269A5305-11, -111 
+ 1900"
+Main Rotor Drive Shaft splined,"269A5326-1, -5 
+ 3200"
+Main Rotor Hub splined,"269A5325-1 
+ 8000 
+ Carrier Assembly-Ring Gear, see item 3h 
+ 269A5194 
+ 6000 
+ 6000 
+ 6000"
+Lower Pulley Coupling Shaft,"269-5412 
+ 1500"
+Lower Pulley Coupling Shaft,"269A5504-3 
+ 1500 
+ 1500"
+Lower Pulley Coupling Shaft,"269A5559-3 
+ 6000 
+ 6000"
+Idler Pulley Bearings,"269A5050-58 
+ 200 
+ 269A5050-62 
+ 600"
+Shaft  Input TR GB,"269-5609 
+ 1800 
+ 269A5609 
+ 3000"
+See NOTE 3d,"369A5406 
+ UNLIM. 
+ 8600"
+See NOTE 3d,"369A5425, -3, -5 
+ UNLIM. 
+ 8600 
+ 269A5626-3, -5 
+ 8600"
+Drive Spline  Aft End,"269-5607 
+ 1800"
+TR Drive Shaft,"269A5607 
+ 3000"
+Shaft Assy  TR Drive,"269-5701 
+ 3000"
+includes end fittings,"269A5701, -3 
+ 3000"
+Shaft Assy  TR Drive,"269A6040,-BSC M 
+ 3000 
+ 269A6040-5, -5M 
+ 3000 
+ 269A6040-7,-9, -9M 
+ 6000 
+ 269ASK09 
+ 3000"
+Spline Adapter Fitting,"269ASK04 
+ 20000"
+Blade Assy  TR,"269A6035, -17, -21 
+ 5000 
+ 269A6035M 
+ 5000 
+ 269ASK15 
+ 5000 
+ 269A6035-9, -19, -23 
+ 9000 
+ 269-6100 
+ 960 
+ 269A6124 
+ 960 
+ 269A6124-9 
+ 960"
+Retention Straps  TR,"369A1706 
+ 2800 
+ 3540 
+ 269A6065 
+ 2800 
+ 3540 
+ 269A6065-507 
+ 2800 
+ 5100 
+ 369A1706-505, -507 
+ 2800 
+ 5100 
+ Torsion Shaft - T/R Blade (Note 7) 
+ 269-6108 
+ 1200 
+ 269A6108 
+ 1200 
+ 269A6219 
+ 1200"
+Hub  TR,"269-6204 
+ 960 
+ 269A6221 
+ 960 
+ 269A6247 
+ 960"
+Bellcrank  Lat Pitch,"269-7506 
+ 900"
+Idler Mixer,"269A7506 
+ 900"
+NOTE 3,"(b) It is prohibited to interchange life limited components between different series of helicopters (i.e. 
+ 369/269). Components which have been interchanged between series of helicopters prior to revision 
+ 19 of this TCDS may continue in service to their respective retirement lives. Life limited components 
+ interchanged between Models, configurations, or previously between series must be restricted to the 
+ lowest service life indicated for the Models or configurations affected. Parts are applicable only on 
+ Models under which a service life is listed. Interchanged components with known service hours but 
+ without Model application identification may not exceed the lowest life listed for any applicable 
+ Model. If the service hours are not known, regardless of Model application, the component cannot be 
+ interchanged to Models that list the component as limited life. 
+ (c) Life limited components removed when life limit has been reached must be destroyed or 
+ permanently marked to prevent return to service. 
+ (d) Input Gearshaft assy. T/R, P/N 369A5406 (Input Only), 369A5425 and 369A5425-3 having 
+ accumulated any Military (OH-6A Model 369A) time in service must be limited to a total service life 
+ of 530 hours. 
+ (e) (Elastomeric Dampers) Mandatory inspection required in accordance with the 269 Series 
+ ""Helicopter Maintenance Instruction"" (HMI) requirements at 600-hour intervals for operation up to 
+ 4200 hours and at 300-hour intervals thereafter to a total damper operational service time of 6000 
+ hours. For Models 269A, 269A-1 and 269B Main Rotor Elastomeric Dampers P/N 269A1290 can 
+ only be used with Main Rotor Blades P/N 269A1190-1. 
+ (f) AD 76-18-01 required modifying 269A2015-5 to 269A2015-11 configuration within 500 hours or 
+ by September 7, 1977 in any case. 
+ (g) Alpha and/or numeric suffixes added to part numbers denote special manufacturing or handling 
+ procedures and do not alter the replacement requirements of the part. For example, 269A5305-11 and 
+ 269A5305-11M2 are subject to the same requirements. 
+ (h) 269A5193 Carrier is part of 269A5194 Carrier Assembly"
+NOTE 4,"Information essential to the proper maintenance of these helicopters is contained in the Manufacturer's 
+ Handbook of Maintenance Instructions, which is provided with each helicopter."
+NOTE 5,Deleted.
+NOTE 6,"Aircraft serial numbers are coded to show the month and year of manufacture sequence. 
+ EXAMPLES: 640103, 1150015 
+ 6 
+ 4 
+ 0103 
+ 11 
+ 5 
+ 0015 
+ Serial number in consecutive 
+ order from 0001 for each model 
+ Year of 
+ Manufacture 
+ 4 - 1964 
+ 5 - 1965 
+ Month of Manufacture 
+ 6 - June 
+ 11 - November"
+"Model 269C Helicopters, S/N 1065, S/N 1075 and subsequent will be delivered without the manufacturing date",
+NOTE 8,"(a) The retirement times of critical parts for Model 269D are listed in the Handbook of Maintenance 
+ Instructions, Appendix B, CSP-D-4, Airworthiness Limitations Section, dated 
+ March 11, 2010. These values of retirement or service life cannot be increased without approval by 
+ FAA Engineering. 
+ (b) The retirement times of critical parts for Model 269D Configuration “A” are listed in the 
+ Handbook of Maintenance Instructions, Appendix B, CSP-D-11, Airworthiness Limitations Section, 
+ dated March 11, 2010. These values of retirement or service life cannot be increased without approval 
+ by FAA Engineering. 
+ (d) It is prohibited to interchange life limited components between different series of helicopters (i.e. 
+ 369/269). Components which have been interchanged between series of helicopters prior to revision 
+ 19 of this TCDS may continue in service to their respective retirement lives. Life limited components 
+ interchanged between Models, configurations, or previously between series must be restricted to the 
+ lowest service life indicated for the Models or configurations affected. Parts are applicable only on 
+ Models under which a service life is listed. Interchanged components with known service hours but 
+ without Model application identification may not exceed the lowest life listed for any applicable 
+ Model. If the service hours are not known, regardless of Model application, the component cannot be 
+ interchanged to Models that list the component as limited life. 
+ (e) Life limited components removed when life limit has been reached must be destroyed or 
+ permanently marked to prevent return to service. 
+ (f) Alpha and/or numeric suffixes added to part numbers denote special manufacturing or handling 
+ procedures and do not alter the replacement requirements of the part. For example, 269A5305-11 and 
+ 269A5305-11M2 are subject to the same requirements."
+NOTE 9,"(a) The retirement times of critical parts for Model 269C-1 are listed in the following table. These 
+ values of retirement or service life cannot be increased without approval by FAA Engineering. 
+ (b) 
+ S/N 0001 & Subq 
+ Description 
+ Part Number 
+ Hours 
+ Main Rotor Blade 
+ 269A1185-1,-7 
+ 5,500 
+ 269A1185-9 
+ 3,050 
+ Pitch Bearing Shaft 
+ 269A1240-7 
+ 4,000 
+ Elastometic Dampers 
+ 269A1290-3 
+ 6,000 
+ M/R Input Pinion 
+ 269A5103-51, -55 
+ 8,000 
+ M/R Drive Shaft (bolted) 
+ 269A5305-111 
+ 2,000 
+ M/R Drive Shaft (splined) 
+ 269A5326-1 
+ 4,000 
+ M/R Hub (splined) 
+ 269A5325-1 
+ 8,000 
+ T/R Drive Shaft 
+ 269A6040-7,-9,-9M 
+ 6,000 
+ Shaft-Input T/R GB 
+ 269A5626-5 
+ 8,600 
+ T/R Blade 
+ 269A6035-23 
+ 9,000 
+ T/R T-T Straps 
+ 269A6065-507 
+ 5,100 
+ Main Rotor Mast 
+ 269A2010-5, -15 
+ 13,590 
+ Tail Boom Assy. 
+ 269A2320-13 
+ 2,100 
+ 269A2320-15 
+ 4,200 
+ Tail Boom Strut 
+ 269A2015-11,-13, 
+ 10,700 
+ -15,-17,-113,-213,-215 
+ Horizontal Stab. 
+ 269A2516-21 
+ 4,200 
+ Lower Pulley Coupling Shaft 
+ 269A5559-3 
+ 6,000 
+ Thrust Bearing-M/R 
+ 269A5050-63, -95 
+ 4,200 
+ Carrier Assy-Ring Gear see item 9(h) 
+ 269A5194 
+ 8,000 
+ (c) It is prohibited to interchange life limited components between different series of helicopters (i.e. 
+ 369/269). Components which have been interchanged between series of helicopters prior to revision 
+ 19 of this TCDS may continue in service to their respective retirement lives. Life limited components 
+ interchanged between Models, configurations, or previously between series must be restricted to the 
+ lowest service life indicated for the Models or configurations affected. Parts are applicable only on 
+ Models under which a service life is listed. Interchanged components with known service hours but 
+ without Model application identification may not exceed the lowest life listed for any applicable 
+ Model. If the service hours are not known, regardless of Model application, the component cannot be 
+ interchanged to Models that list the component as limited life. 
+ (d) Life limited components removed when life limit has been reached must be destroyed or 
+ permanently marked to prevent return to service. 
+ (e) The 269A2402 Vertical Stabilizer is part of the 269A2320-13 Tail Boom Assembly. The Vertical 
+ Stabilizer has the same service life (2,100 hours) as does the Tail Boom and therefore the vertical 
+ stabilizer shall be retired with the Tail Boom Assembly. 
+ (f) Some Parts may appear to be interchangeable between the Model 269C-1 and other 269 series 
+ helicopters. However due to differences in maintenance schedules, only the most current dash 
+ numbers as defined in Note 9(b) are applicable for installation on the Model 269C-1. 
+ (g) Alpha and/or numeric suffixes added to part numbers denote special manufacturing or handling 
+ procedures and do not alter the replacement requirements of the part. For example, 269A5305-11 and 
+ 269A5305-11M2 are subject to the same requirements. 
+ (h) 269A5193 Carrier is part of 269A5194 Carrier Assembly."
+NOTE 10,"Noise Substantiation: 
+ Although not part of the Certification Basis, the Model 269C Helicopter is compliant with the 
+ requirements of FAR Part 36 Appendix J, Amendment 20."
+NOTE 11,"Model 269D, Configuration M or MB: 
+ Helicopter serial numbers containing the suffix “M” or “MB” that have been delivered to a foreign 
+ customer as Model 269D, Configuration M or MB (military) helicopters. These aircraft are not eligible 
+ for issuance of an FAA Certificate of Airworthiness. Life limited components flown on Configuration 
+ M or MB aircraft are not eligible for installation on 269D, Configuration A or 269D helicopters."

@@ -1,0 +1,439 @@
+Keyterm,Info
+TCDS NUMBER: H4NE,
+US DEPARTMENT OF TRANSPORTATION,REVISION NUMBER: 6
+FEDERAL AVIATION ADMINISTRATION,"SIKORSKY AIRCRAFT 
+ MODELS:"
+TYPE CERTIFICATE DATA SHEET H4NE,"S-70C(M1) 
+ S-70C(M) 
+ REVISION DATE: February 27, 2017 
+ This data sheet, which is part of Type Certificate Number H4NE, prescribes conditions and limitations under which the product 
+ for which the Type Certificate was issued meets the airworthiness requirements of the Civil Air Regulations."
+Type Certificate TC Holder,"Sikorsky Aircraft Corporation 
+ 6900 Main Street 
+ Stratford, Connecticut 06615-9129"
+I  Model Number,S-70C(M1) (Restricted Category) Approved: 2/21/90 (See Note 3)
+ENGINES,"2 General Electric CT7-2D 
+ 2 General Electric T700-GE-401"
+FUEL,"Aviation Kerosene, JP4, JP5, Jet A, Jet A-1, Jet B or JP 8."
+ENGINE LIMITS,"FOR GENERAL ELECTRIC MODEL CT7-2D 
+ POWER 
+ TURBINE 
+ SHAFT HP 
+ GAS GEN. 
+ TURBINE 
+ GAS 
+ (S.L. STD) 
+ RPM / % 
+ RPM / % 
+ TEMP/ °C 
+ 2 1/2 min. Power 
+ 1,725 
+ 20,900 / 100 
+ 46,070 / 103 
+ 911 
+ (Contingency Power) 
+ 30 min. Power 
+ 1,625 
+ 20,900 / 100 
+ 45,430 / 102 
+ 873 
+ Maximum Continuous 
+ 1,595 
+ 20,900 / 100 
+ 45,240 / 101 
+ 858 
+ Power (MCP)"
+ENGINE LIMITS,"FOR GENERAL ELECTRIC MODEL T700-GE-401 
+ POWER 
+ TURBINE 
+ SHAFT HP 
+ GAS GEN. 
+ TURBINE 
+ GAS 
+ (S.L. STD) 
+ RPM / % 
+ RPM / % 
+ TEMP/ °C 
+ 2 1/2 min. Power 
+ 1,723 
+ 20,900 / 100 
+ 45,600 / 102 
+ 917 
+ (Contingency Power) 
+ 30 min. Power 
+ 1,690 
+ 20,900 / 100 
+ 45,600 / 102 
+ 867 
+ Maximum Continuous 
+ 1,437 
+ 20,900 / 100 
+ 43,800 / 98 
+ 801 
+ Power (MCP)"
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+6,"5 
+ 6 
+ 5 
+ 5 
+ 5 
+ 5"
+TRANSMISSION LIMITS,"Torque / % 
+ 2 Minute 
+ 120 OEI 
+ 115 Dual 
+ 30 Minute 
+ 120 OEI 
+ 106 Dual 
+ Continuous 
+ 120 OEI 
+ 106 Dual"
+ROTOR LIMITS,"Power On: 
+ Max. 101% (100% = 258 RPM) 
+ Min. 
+ 96% 
+ Power Off: 
+ Max. 121% 
+ Min. 
+ 90%"
+AIRSPEED LIMITS,"Maximum (red line) airspeed 180 KIAS 
+ C.G. RANGE 
+ 352.5 
+ 361.0 
+ 21,700 
+ 19,462 
+ 20,700 
+ 10,000 
+ 346.8 
+ 364.0"
+DATUM,341.2 inches forward of the main rotor centroid
+MAXIMUM WEIGHT,"21,700 lbs."
+MINIMUM CREW,"2 (pilot, copilot)"
+NUMBER OF SEATS,1 at Sta. 329; 1 at Sta. 366.
+FUEL CAPACITY,590 gallons; 2 tanks (LH & RH interchangeable)
+OIL CAPACITY,7.3 quarts each engine
+OTHER OPERATING,Sikorsky Publication Operator's Manual S-70C(M1) Helicopter RFM SA4047-70CM1-
+LIMITATIONS,NFM-000.
+SERIAL NUMBERS,None
+TYPE CERTIFICATION,"FAR 21.25(a)(2), effective January 6, 1975."
+BASIS,"Type Certification No. H4NE issued April 25, 1986, revised February 21, 1990, (See 
+ Note 3), for the purpose of: 
+ (1) Agricultural 
+ (2) External Cargo 
+ (3) Forest and wildlife conservation"
+PRODUCTION BASIS,Production Certificate No. 105.
+EQUIPMENT,"The following must be installed in each type helicopter for certification: 
+ (1) Sikorsky Publication Operator's Manual S-70C(M1) Helicopter RFM SA4047- 
+ 70CM1-NFM-000. 
+ (2) Removal of military equipment in accordance with the latest FAA approved 
+ Revision of Sikorsky Aircraft Kit Drawing No. 70080-00102, and replace with 
+ commercial equipment. Remove T700-GE-401 engines and replace with GE 
+ CT7-2D engines."
+II. Model Number: S-70C(M) (Restricted Category) Approved: 2/21/90. (See Note 3),
+ENGINES,"2 General Electric CT7-2D1 
+ 2 General Electric T700-GE-401 
+ 2 General Electric T700-GE-401C"
+FUEL,"Aviation Kerosene JP4, JP5, Jet A, Jet A-1, Jet B, or JP 8."
+ENGINE LIMITS,"FOR GENERAL ELECTRIC MODELS CT7-2D1 
+ POWER 
+ TURBINE 
+ SHAFT HP 
+ GAS GEN. 
+ TURBINE 
+ GAS 
+ (S.L. STD) 
+ RPM / % 
+ RPM / % 
+ TEMP/°C 
+ 2 1/2 min. Power 
+ 1,725 
+ 20,900 / 100 
+ 46,070 / 103 
+ 858 
+ (Contingency Power) 
+ 30 min. Power 
+ 1,625 
+ 20,900 / 100 
+ 45,430 / 102 
+ 858 
+ Maximum Continuous 
+ 1,595 
+ 20,900 / 100 
+ 45,240 / 101 
+ 841 
+ Power (MCP)"
+ENGINE LIMITS,"FOR GENERAL ELECTRIC MODEL T700-GE-401 
+ POWER 
+ TURBINE 
+ SHAFT HP 
+ GAS GEN. 
+ TURBINE 
+ GAS 
+ (S.L. STD) 
+ RPM / % 
+ RPM / % 
+ TEMP/°C 
+ 2 1/2 min. Power 
+ 1,723 
+ 20,900 / 100 
+ 45,600 / 102 
+ 917 
+ (Contingency Power) 
+ 30 min. Power 
+ 1,690 
+ 20,900 / 100 
+ 45,600 / 102 
+ 867 
+ Maximum Continuous 
+ 1,437 
+ 20,900 / 100 
+ 43,800 / 98 
+ 801 
+ Power (MCP) 
+ FOR GENERAL ELECTRIC MODEL T700-GE-401C 
+ POWER 
+ TURBINE 
+ SHAFT HP 
+ GAS GEN. 
+ TURBINE 
+ GAS 
+ (S.L. STD) 
+ RPM / % 
+ RPM / % 
+ TEMP/°C 
+ 2 1/2 min. Power 
+ 1,940 
+ 20,900 / 100 
+ 44,700 / 100 
+ 917 
+ (Contingency Power) 
+ 30 min. Power 
+ 1,690 
+ 20,900 / 100 
+ 44,700 / 102 
+ 839 
+ Maximum Continuous 
+ 1,662 
+ 20,900 / 100 
+ 43,800 / 98 
+ 810 
+ Power (MCP) 
+ Absolute torque limitations, regardless of atmospheric conditions for the T700-GE-401C. 
+ TORQUE 
+ DUAL ENGINE 
+ TORQUE 
+ (10 SEC. TRANSIENT) 
+ DA (FT) 
+ MAX. CONT. 
+ 0-4000 
+ 106% 
+ 127% 
+ 4000-5000 
+ 103% 
+ 127% 
+ 5000-6000 
+ 100% 
+ 127% 
+ 6000-8000 
+ 94% 
+ 127% 
+ 8000-10,000 
+ 88% 
+ 127% 
+ Single Engine 
+ 0-120% 
+ Continuous 
+ 10 min. max. 
+ 121-135% 
+ 10 sec. max. 
+ 136-144%"
+TRANSMISSION LIMITS,"TORQUE / % 
+ 10 Minute 
+ 135 OEI 
+ 106 Dual 
+ Continuous 
+ 120 OEI 
+ 106 Dual"
+ROTOR LIMITS,"Power On: 
+ Max. 120% (100% = 258 RPM) 
+ Min. 
+ 91% 
+ Power Off: 
+ Max. 120% 
+ Min. 
+ 90%"
+AIRSPEED LIMITS,Maximum (red line) airspeed 180 KIAS
+CG RANGE,"353.0 
+ 361.0 
+ 21,884 
+ 19,462 
+ 20,800 
+ 12,000 
+ 346.8 
+ 364.0"
+DATUM,341.2 inches forward of main rotor centroid.
+LEVELING MEANS,"Leveling plate on cabin floor, right side, BL 14.90 and plumb line from upper frame at 
+ station 346.65."
+MAXIMUM WEIGHT,"21,884 lbs."
+MINIMUM CREW,"2 (pilot, copilot)"
+NUMBER OF SEATS,1 at Sta. 311; 1 at Sta. 329; 1 at Sta. 366.
+FUEL CAPACITY,"With General Electric T700-GE-401 engines: 695 gallons; 2 tanks (LH & RH 
+ interchangeable), 590 gallons and 1 auxiliary tank LBL 41, sta. 295, 105 gallons. 
+ With General Electric CT7-2D1 and T700-GE-401 engines: 695 gallons; 2 tanks (LH & 
+ RH interchangeable) 590 gallons and 1 auxiliary tank LBL 41, sta. 295, 105 gallons."
+OIL CAPACITY,7.3 quarts each engine.
+OTHER OPERATING,With General Electric CT7-2D1 engines: Sikorsky Publication Flight Manual
+LIMITATIONS,"S70C(M) SA4047-H60FB-NFM-000(1). 
+ With General Electric T700-GE-401engines: Sikorsky Publication Flight Manual 
+ S70C(M) SA4047-H60FB-NFM-000. 
+ With General Electric T700-GE-401C engines: Sikorsky Publication Flight Manual 
+ S70C(M) SA4047-H60CA-NFM-000."
+SERIAL NUMBERS,Serial number will be assigned in conjunction with individual FAA airworthiness
+ELIGIBLE,certificate for the aircraft.
+TYPE CERTIFICATION,"FAR 21.25(a)(2), effective January 6, 1975."
+BASIS,"Type Certification No. H4NE issued April 25, 1986, revised February 21, 1990, 
+ (See Note 5) for the purpose of: 
+ (1) Agricultural 
+ (2) External Cargo 
+ (3) Firefighting"
+PRODUCTION BASIS,Production Certificate No. 105
+EQUIPMENT,"The following must be installed in each type helicopter for certification: 
+ With General Electric CT7-2D1 Engines: 
+ (1) Sikorsky Publication Flight Manual S70C(M) SA4047-H60FB-NFM-000(1). 
+ (2) Removal of military equipment and replacement with commercial equipment (if 
+ required) in accordance with the latest FAA approved revision of Sikorsky Aircraft 
+ Kit Drawing No. 70080-00112-012. 
+ With General Electric T700-GE-401 Engines: 
+ (1) Sikorsky Publication Flight Manual S70C(M) SA4047-H60FB-NFM-000. 
+ (2) Removal of military equipment and replacement with commercial equipment (if 
+ required) in accordance with the latest FAA approved revision of Sikorsky Aircraft 
+ Kit Drawing No. 70080-00112-011. 
+ With General Electric T700-GE-401C Engines: 
+ (1) Sikorsky Publication Flight Manual S70C(M) SA4047-H60CA-NFM-000. 
+ (2) Removal of military equipment and replacement with commercial equipment (if 
+ required) in accordance with the latest FAA approved revision of Sikorsky Aircraft 
+ Kit Drawing No. 70080-00112-013. 
+ NOTES"
+NOTE 1,"Current weight and balance report including list of equipment included in certificated empty weight, and 
+ loading instructions must be in each type helicopter at time of original airworthiness certification and at all 
+ times thereafter."
+NOTE 2,"The following placard must be prominently displayed in the cockpit in full view of the pilots: 
+ ""THIS ROTORCRAFT MUST BE OPERATED IN ACCORDANCE WITH THE RESTRICTED 
+ CATEGORY OPERATING LIMITATIONS OF FAR 91.39."""
+NOTE 3,"Model S-70C(M1) originally approved as Model S-70C(M) on April 25, 1986, and is the civil equivalent of 
+ U.S. Navy Model SH-60B. Revision 1 to TCDS H4NE, February 21, 1990 established Model S-70C(M) as 
+ the civil equivalent of U.S. Navy Model SH-60F, and established Model S-70C(M1) as the civil equivalent 
+ of U.S. Navy Model SH-60B."
+NOTE 4,"For Model S-70C(M1): Prior to the Civil Airworthiness Certification, compliance with the following must 
+ be accomplished: 
+ (a) 
+ Comply with U.S. Navy Airframe Bulletin No. AFB 017, Main Transmission Support Beam Inspection. 
+ (b) 
+ Comply with U.S. Navy Message No. 291913Z (January 86) Special Spindle Inspection. 
+ (c) 
+ Comply with U.S. Navy Message No. 291623Z (January 86) Main Rotor Damper/Maintenance 
+ procedure. 
+ (d) 
+ Comply with U.S. Navy Avionics Bulletin No. 399, Inspection of Stabilator Amplifier. 
+ (e) 
+ Comply with U.S. Navy Interim Airframe Change No. 004, Airframe and Landing Gear System, Tail 
+ Landing Gear Assembly. 
+ (f) 
+ Comply with U.S. Navy Interim Airframe Change No. 014, Installation of Cargo Hook Keeper and 
+ External Spring. 
+ Copies of the U.S. Navy Messages, Bulletins and Interim Changes may be obtained from Sikorsky Aircraft, 
+ Division of United Technologies, Attention Civil Aviation Requirements Office, North Main Street, 
+ Stratford Connecticut 06601. 
+ Information essential to the proper maintenance of the Model S-70C(M1) is contained in Sikorsky 
+ Publications: 
+ SA4047-S70CM1-110-300 
+ SA4047-S70CM1-140-300 
+ SA4047-S70CM1-150-300 
+ SA4047-S70CM1-220-300 
+ SA4047-S70CM1-240-300 
+ SA4047-S70CM1-260-300 
+ SA4047-S70CM1-410-300 
+ SA4047-S70CM1-420-300 
+ SA4047-S70CM1-450-300 
+ SA4047-S70CM1-460-300 
+ SA4047-S70CM1-490-300 
+ SA4047-S70CM1-510-300 
+ SA4047-S70CM1-560-300 
+ SA4047-S70CM1-690-300 
+ SA4047-S70CM1-710-300 
+ SA4047-S70CM1-720-300 
+ SA4047-S70CM1-740-300 
+ SA4047-S70CM1-750-300 
+ SA4047-S70CM1-GAI-000 
+ SA4047-S70CM1-GAI-010 
+ SA4047-S70CM1-MRC-100 
+ SA4047-S70CM1-MRC-200 
+ SA4047-S70CM1-MRC-000 
+ SA4047-S70CM1-MRC-300 
+ SA4047-S70CM1-SRM-000 
+ SA4047-S70CM1-WDM-000 
+ Information essential to the proper maintenance of the General Electric CT7-2D engines is contained in 
+ General Electric Publications SEI 569, 570 and 690. “Lines deleted here”"
+NOTE 5,"For model S-70C(M) with General Electric CT7-2D1 engines installed: Information essential to the proper 
+ maintenance is contained in Sikorsky Publications: 
+ SA4047-S70CM-110-300 
+ SA4047-S70CM-140-300 
+ SA4047-S70CM-150-300 
+ SA4047-S70CM-220-300 
+ SA4047-S70CM-240-300 
+ SA4047-S70CM-260-300 
+ SA4047-S70CM-410-300 
+ SA4047-S70CM-420-300 
+ SA4047-S70CM-450-300 
+ SA4047-S70CM-460-300 
+ SA4047-S70CM-490-300 
+ SA4047-S70CM-510-300 
+ SA4047-S70CM-560-300 
+ SA4047-S70CM-690-300 
+ SA4047-S70CM-710-300 
+ SA4047-S70CM-720-300 
+ SA4047-S70CM-740-300 
+ SA4047-S70CM-750-300 
+ SA4047-S70CM-GAI-000 
+ SA4047-S70CM-GAI-010 
+ SA4047-S70CM-MRC-100 
+ SA4047-S70CM-MRC-350 
+ SA4047-S70CM-MRC-400 
+ SA4047-S70CM-MRC-300 
+ SA4047-S70CM-SRM-000 
+ SA4047-S70CM-SRM-300 
+ SA4047-S70CM-WDM-000 
+ SA4047-S70CM-MRC-000 
+ Information essential to the proper maintenance of the General Electric CT7-2D1 engines is contained in 
+ General Electric Publications SEI 569, 570 and 690. “Lines deleted here”"
+NOTE 6,"For model S-70C(M) with General Electric T700-GE-401C engines installed Information essential to the 
+ proper maintenance is contained in Sikorsky Publications: 
+ SA4047-S70CM-110-300 
+ SA4047-S70CM-140-300 
+ SA4047-S70CM-140-300 
+ SA4047-S70CM-220-300 
+ SA4047-S70CM-240-300 
+ SA4047-S70CM-260-300 
+ SA4047-S70CM-410-300 
+ SA4047-S70CM-420-300 
+ SA4047-S70CM-450-300 
+ SA4047-S70CM-460-300 
+ SA4047-S70CM-490-300 
+ SA4047-S70CM-510-300 
+ SA4047-S70CM-560-300 
+ SA4047-S70CM-690-300 
+ SA4047-S70CM-710-300 
+ SA4047-S70CM-720-300 
+ SA4047-S70CM-740-300 
+ SA4047-S70CM-750-300 
+ SA4047-S70CM-GAI-000 
+ SA4047-S70CM-GAI-010 
+ SA4047-S70CM-MRC-100 
+ SA4047-S70CM-MRC-000 
+ Information essential to the proper maintenance of the General Electric T700-GE-401C engine is contacted"
+in,General Electric publication SEI-698.

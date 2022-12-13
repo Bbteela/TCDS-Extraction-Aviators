@@ -1,0 +1,216 @@
+Keyterm,Info
+"H9EA 
+ Revision 7 
+ Columbia Helicopters, Inc 
+ Model 234 
+ December 10, 2019",
+Type Certificate Holder,"Columbia Helicopters, Inc. 
+ 14452 Arndt Road NE 
+ Aurora, OR 97002"
+Type Certificate Holder Record,"Boeing Defense & Space Group transferred TC H9EA to 
+ Columbia Helicopters, Inc. on December 15, 2006"
+"Model 234 (Transport Helicopter - Category A), Approved June 19, 1981 
+ (See Note 5 for Model 234 Utility Helicopter)",
+Engine,Two AVCO Lycoming AL5512 (Type Certificate Data Sheet No. E4NE-2)
+Fuel,"MIL-DTL-5624, Grade JP-4 or JP-5*; MIL-DTL-83133, Grade JP-8; 
+ GOST 10227-86, Grade TS-1; and ASTM-1655 JET A*, A1*, or B 
+ *For operations below -23C (-10F), anti-ice additive required. 
+ See Note 4 
+ Engine Operating Limits - (Normal Operation) 
+ Torque 
+ Gas Gen 
+ Output Shaft 
+ Exhaust Gas Temp 
+ oC (oF) 
+ ft. - lbs (%) 
+ r.p.m. (%) 
+ r.p.m. (%) 
+ Takeoff (5 min) 
+ 1500 (94.5) 
+ 19500 (104.2) 
+ 14410 (100) 
+ 870 (1598) 
+ OEI (30 min) 
+ 1650 (103.9) 
+ 19770 (105.5) 
+ 14410 (100) 
+ 910 (1670) 
+ Max Continuous 
+ 1200 (75.6) 
+ 18280 (97.6) 
+ 14410 (100) 
+ 745 (1375) 
+ Start/Transient 
+ 1950 (123.0) 
+ 19770 (105.5) 
+ 16400 (113.8) 
+ 910 (1670)"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 237 r.p.m. 
+ Maximum 235 r.p.m. 
+ (Tach. reading 107%) 
+ (Tach. reading 100%) 
+ Minimum 205 r.p.m. 
+ Minimum 220 r.p.m. 
+ (Tach reading 91%) 
+ (Tach reading 98%)"
+Airspeed Limits,"Vne (never exceed) POWER ON: 150 Knots (CAS), 150 Knots (IAS). 
+ See Flight Manual for variations of Vne with rotor r.p.m., gross weight, pressure 
+ altitude and temperature 
+ Vne POWER OFF: 119 Knots (CAS), 120 Knots (IAS) 
+ Sideward Flight: 50 knots IAS to 6000 Ft. Density Altitude 30 kts IAS above 
+ Rearward Flight: 40 knots IAS to 6000 Ft. Density Altitude 30 kts IAS above"
+Page No,"1 
+ 2 
+ 3 
+ 4"
+Rev No,"7 
+ 2 
+ 7 
+ 7"
+CG Range,"Longitudinal Limits 
+ G.W. 
+ Lateral Limits 
+ Fwd - 309 in. 
+ 24000 lb. to 33500 lb. 7 inches either 
+ 315 in. 
+ 46000 lb. 
+ side of helicopter 
+ 320 in. 
+ 48500 lb. 
+ centerline at all 
+ Aft - 332 in. 
+ 48500 lb. 
+ gross weights. 
+ 335 in. 
+ 46000 lb. 
+ 345 in. 
+ 29000 to 24000 lb. 
+ Straight Line Variation between points given. 
+ Jettisonable w eight above 48,500 
+ See Note 5. 
+ 322 
+ 331 
+ 51,000 
+ 51,000 
+ 322 
+ 331 
+ 50,000 
+ 52000 
+ 49,600 
+ 315 
+ 332 
+ 46,000 
+ 48000 
+ 48,500 
+ 320 
+ Lateral C.G. Limit 
+ 335 
+ 48,500 
+ 44000 
+ is 7 inches either 
+ 46,000 
+ side of the helicopter 
+ centerline at all gross 
+ 40000 
+ w eights. 
+ 36000 
+ 309 
+ Gross Weight (Pounds) 
+ 32000 
+ 33,200 
+ 345 
+ 29,200 
+ 28000 
+ 309 
+ 345 
+ 24000 
+ 24,000 
+ 24,000 
+ 20000 
+ 300 
+ 310 
+ 320 
+ 330 
+ 340 
+ 350 
+ Longitudinal C.G. Station (Inches)"
+Empty weight CG Range,None
+Datum,Station 0 (datum is 5.5 inches forward of the most forward point of the nose section)
+Leveling Means,"Plumb bob hook at top of main cabin door interior trim (under cover plate) at 
+ Sta. 150. Plumb target under main cabin door sill at Sta. 150 and BL 48.3. 
+ Plumb line from upper hook to target."
+Maximum Weight,"48,500 lb. (see note 5) 
+ Note: The helicopter may be operated at weights up to 51,000 lb. All weight 
+ above 48,500 lbs must be jettisonable and retirement times of Chapter 4 of 
+ the 234 Maintenance Manual complied with."
+Minimum Crew,"2 (1 pilot, 1 copilot)"
+Maximum Passengers,44 (Not limited by emergency exit requirements)
+Maximum Baggage,"1700 lb. (aft baggage bins, 2 @ 850 lb.) 
+ 640 lb. (main cabin overhead baggage bins, 16 @ 40 lb.)"
+Fuel Capacity,2100 gal. (2 tanks - each of 1050 gal.)
+Usable Fuel,"(+310) 
+ 7.6 gal. total unusable. See Note 1 for system fuel."
+Oil Capacity,"3.0 gal. (+482) per engine. 
+ 2.7 gal. usable (included in cap.)"
+Maximum Operating,"15,000 ft. (enroute)"
+Rotor Blade and,For rigging information see Model
+Control Movements,234 Maintenance Manual
+Serial Nos Eligible,MJ001 and up
+Certification Basis,"FAR Part 29 dated February 1, 1965, 
+ (Transport Category A), Amendments 29-1 through 29-11 and portions of 29-12, 
+ specifically 29.25(c), 29.563, 29.801 and 29.865; 29-14, specifically 29.1351(d); 
+ and FAA letter dated June 1, 1981, regarding additional requirements. 
+ Equivalent safety findings have been made to the following certification requirements: 
+ FAR 29.351 Yawing Conditions 
+ FAR 29.865 External load attaching means 
+ FAR 29.807(e) Passenger emergency exits 
+ (Ramp Exits) 
+ FAR 29.927(c) Additional tests (Rotor drive system) 
+ FAR 29.1013(b)(3) Oil Tanks (Expansion Space) 
+ FAR 29.923(a)(2), (c) and (o) Rotor drive system and control mechanism tests 
+ National Environment Act of 1969 
+ Noise Control Act of 1972 
+ Compliance has been established with the ditching provisions of 29-563, 
+ 29.801 and 29.807(d) but excluding 29.1411, 29.1415 and 29.1561. 
+ For overwater operations compliance with the applicable Operating Rules 
+ and 29.1411, 29.1415 and 29.1561 must be shown."
+Production Basis,Production Certificate No. 109.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (See Certification Basis) must be installed in the helicopter for 
+ certification. In addition, the following items of equipment are required 
+ with each helicopter: 
+ Boeing 234 FAA Approved Rotorcraft Flight Manual up to and including 
+ Revision 21 dated September 20, 1994, or later FAA approved revisions. 
+ Supplement No. 1, is required when Flight Director - Sperry Flight System AD 650H 
+ with MS702 HELCISII Controls is installed dated June 19, 1981, Rev. 1 dated 
+ October 2, 1981. 
+ Supplement No. 2, dated October 2, 1981, is required with Boeing 234 
+ UTILITY - Modified Fuel System: External Fuel Tanks removed and 
+ two 500 gallon Internal Fuel Tanks are installed. (Refer to Note 5 for 
+ additional details regarding Utility Version of Model 234)."
+NOTE 1,"Current weight and balance report including list of equipment included in the certificated empty weight, 
+ and loading instructions, when necessary, must be provided for each helicopter at the time of original 
+ certification. 
+ For the Model 234 the system/unusable fuel which must be included in the empty weight is the 
+ amount of fuel required to fill the system plumbing up to the undrainable level 4.2 gal. (28.1 lb.) plus unusable 
+ fuel in the tanks -7.6 gal. (50.9 lb.). The total amount of system fuel therefore is 11.8 gal. (79 lb.) (+310) 
+ For the Model 234 (Utility Version - See Note 5). The undrainable fuel is 4.9 gal. (32.8 lb.) and the unusable 
+ fuel is 7.2 gal. (48.2 lb.) for a total system fuel of 12.1 gal. (81.0 lb.) (+272)"
+NOTE 2,"The following placard must be displayed in front of and in clear view of the pilot. ""This helicopter 
+ must be operated in compliance with the operating limitations specified in the Rotorcraft Flight Manual."""
+NOTE 3,"Information essential to the proper maintenance of the helicopter including retirement times and required 
+ inspections is contained in the Model 234 Maintenance Manual, Chapter 4 - Airworthiness Limitations Section 
+ provided with each helicopter. The values of the retirement times and inspection intervals cannot be changed 
+ without FAA Engineering Approval."
+NOTE 4,"For all operations below -23C (-10F) ambient temperature or, with engines operating at normal rotor r.p.m., 
+ fuel temperature gage indication is 0C or colder all fuel used in the Model 234 must contain Phillips 
+ PFA-55MB or MIL-I-27686 anti-icing additive in concentrations of not less than 0.035% nor more than 
+ 0.15% by volume. See the Rotorcraft Flight Manual."
+NOTE 5,"The Model 234 (Utility Version) is the Model 234 configured primarily for cargo and jettisonable external 
+ load operations. The external fuel tanks are removed and smaller internal tanks installed. The internal 
+ configuration may consist of passenger and/or cargo. The Maximum Gross Weight is 51000 lb. with external 
+ jettisonable cargo. Refer to Boeing Vertol Model 234 RFM Supplement No. 2 for all limitations regarding the 
+ UTILITY configuration of the Model 234. The Model 234 UTILITY is referenced on Boeing Vertol drawing 
+ entitled ""234X0001 Customer Helicopter Assembly - Complete."", as the 234X0001-4 assembly."

@@ -1,0 +1,2057 @@
+Keyterm,Info
+"2H3 
+ Revision 21 
+ Scott’s –Bell 47, Inc. 
+ 47G-2A 
+ 47G-5 
+ 47G-2A-1 
+ 47G-3B-2 
+ 47G-3 
+ 47G-5A 
+ 47G-3B 
+ 47G-3B-2A 
+ 47G-3B-1 
+ 47G-4 
+ 47G-4A 
+ March 19, 2018",
+Type Certificate Holder,"Scott’s-Bell 47, Inc. 
+ 100 Minnesota Ave. 
+ Le Sueur, Minnesota 56058"
+Type Certificate Holder Record,"Bell Helicopter Textron Inc. transferred TC 2H3 to Scotts-Bell 47 Inc. on June 3, 2010."
+"I - Model 47G-3, PCLH (Normal Category), Approved March 17, 1960",
+Engine,Aircooled Motors Franklin 6VS-335-A
+Fuel,100/130 minimum grade aviation gasoline
+Engine limits,"Maximum continuous, 
+ (Sea level) 
+ 34.3 in.Hg., 3200 r.p.m. (220 hp.) 
+ (13,300 ft.) 
+ 35.0 in.Hg., 3200 r.p.m. (220 hp.) 
+ Takeoff (2 minutes), 
+ 35.0 in.Hg., 3200 r.p.m. (225 hp.) 
+ (See NOTE 5 for manifold pressure variation with altitude and temperature) 
+ (See NOTE 6 for increased takeoff rating)"
+Carburetor ,Marvel MA6 (Setting 10-4206)
+Rotor limits  operations,"Power Off (Rotor Rach.) 
+ Power On (Engine Tach.)"
+engine speeds,"Maximum 
+ 370 
+ Maximum 3200 r.p.m. 
+ Minimum 
+ 322 
+ Minimum 3000 r.p.m. below 10,000 ft. 
+ Minimum 3100 r.p.m. above 10,000 ft."
+Airspeed limits,"S.L. to 10,000 ft. Vne = 105 m.p.h. (91.5K) with 3000 to 3200 r.p.m. 
+ Above 10,000 ft. decrease Vne 6 m.p.h./1000 ft. with 3100 to 3200 r.p.m."
+CG range,"2650 lb. 
+ (-3.0) to (+3.5) 
+ (See NOTE 6 for 
+ 2350 lb. 
+ (-3.0) to (+4.0) 
+ increased gross 
+ 2100 lb. 
+ (-3.0) to (+4.0) 
+ weight C.G. 
+ 26 50 
+ 25 50 
+ AF T 
+ L 
+ I M I T 
+ 24 50 
+ LB . 
+ 23 50 
+ F 
+ W D 
+ LIM 
+ IT 
+ 22 50 
+ 21 00 
+ -3 
+ -2 
+ -1 
+ 0 
+ 1 
+ 2 
+ 3 
+ 4 
+ I N CH E S"
+Empty weight CG range,"See Figure 
+ 1670 
+ A 
+ FT 
+ LI 
+ MIT 
+ 1650 
+ LB. 
+ 1630 
+ 1610 
+ 1590 
+ 1570 
+ FW 
+ D 
+ LIMI 
+ T 
+ 1550 
+ 6.2 
+ 6.3 6.4 
+ 6.5 
+ 6.6 
+ 6.7 
+ 6.8 
+ 6.9 
+ 7.0 
+ 7.1 
+ INCHES AFT of DATUM"
+Maximum weight,2650 lbs. (See NOTE 6 for 2850 lb.)
+No of seats,3 (Pilot and 2 passengers) (-30)
+Maximum baggage,See loading instructions in FAA Approved Helicopter Flight Manual.
+Fuel capacity,43 gals. (+5) (Usable 41 gals.) See NOTE 1 for unusable fuel.
+Oil capacity,"2 gals. (+12), (Usable 1 gal.) See NOTE 1 for undrainable oil."
+Serial Nos eligible,"2586 and up and 2554, 2555"
+"II - Model 47G-2A, 3 PCLH (Normal Category), Approved December 10, 1960",
+Engine,Lycoming VO-435-A1E or -A1F
+Fuel,80/87 minimum grade aviation gasoline
+Engine limits,"Maximum continuous, 
+ (Sea level) 
+ 24.6 in.Hg., 3200 r.p.m. (220 hp.) 
+ (4300 ft.) 
+ 23.3 in.Hg., 3200 r.p.m. (220 hp.) 
+ (Straight line manifold pressure variation with altitude) 
+ Takeoff (2 minutes), 26.3 in.Hg., 3200 r.p.m. (240 hp.)"
+carburetor setting,Marvel-Schebler MA4-5AA (10-4025-11)
+ operational,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.)"
+engine speeds,"Maximum 
+ 370 
+ Maximum 3200 r.p.m. 
+ Minimum 
+ 333 
+ Minimum 3000 r.p.m. below 10,000 ft."
+Airspeed limits,"S.L. to 6,000 ft., 105 m.p.h. (91.5K) 
+ 5 m.p.h. (4K) reduction per 1000 ft. above 6000 ft."
+CG range,(-3.0) to (+4.0)
+Empty wt CG range,"See figure. 
+ 1900 
+ A 
+ T 
+ F 
+ 1850 
+ LI MIT 
+ 1800 
+ LB. 
+ 1750 
+ 1700 
+ F 
+ WD 
+ L 
+ IMIT 
+ 1650 
+ 1600 
+ 4.6 
+ 5.0 
+ 5.4 
+ 5.8 
+ 6.2 
+ 6.6 
+ 7.0 
+ INCHES AFT OF DATUM"
+Maximum weight,2850 lbs.
+No of seats,3 (Pilot and 2 passengers) (-30)
+Maximum baggage,See loading instructions in FAA Approved Helicopter Flight Manual.
+Fuel capacity,43 gals. (+5) (Usable 41 gals.) See NOTE 1 for unusable fuel.
+Oil capacity,"3 gals. (+12), (Usable 1 gal.) See NOTE 1 for undrainable oil. 
+ For rigging information refer to the pertinent model"
+movements,Maintenance Manual.
+Serial Nos eligible,2657 and up (See NOTE 7 for conversion from 47G-2); Great Southwest S/N 23.
+"III - Model 47G-3B, 3 PCLH (Normal Category), Approved May 24, 1961",
+Engine,Lycoming TVO-435 A1A
+Fuel,100/130 minimum octane grade aviation gasoline
+Engine limits,"Maximum continuous, 
+ (Sea level to 20,000 ft.) 26.8 in.Hg., 3200 r.p.m. (220 hp.) 
+ Takeoff (2 min.) 
+ (Sea level to 15,000 ft.) 31.1 in.Hg., 3200 r.p.m. (260 hp.) 
+ (See NOTE 8 for power and manifold pressure variation with altitude and temperature)"
+Carburetor ,Marvel-Schebler MA-6 (Setting No. 10-4438) or
+carburetor settings,Marvel Schebler MA-6AA (Setting No. 10-4438-1)
+ operational,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.)"
+engine kimits,"Maximum 
+ 370 
+ Maximum 3200 r.p.m. 
+ Minimum 
+ 322 
+ Minimum 3000 below 10,000 ft. 
+ Minimum 3100 above 10,000 ft."
+Airspeed limits,"S.L. to 10,000 ft. Vne = 105 m.p.h. (91.5K) with 3000 to 3200 r.p.m. 
+ Above 10,000 ft. decrease Vne 7 mph./1000 ft. to 15,000 ft. (70 mph) 
+ Above 15,000 ft. decrease Vne 5 mph/1000 ft. to 20,000 ft. (45 mph) 
+ R.p.m. range 10,000 ft. to 20,000 ft.: 3100 to 3200."
+CG range,"2850 lb. 
+ (-3.0) to (+3.2) 
+ 2300 lb. 
+ (-3.0) to (+4.0) 
+ 2100 lb. 
+ (-3.0) to (+4.0) 
+ 2850 
+ 2650 
+ AFT 
+ LB. 
+ LIMI T 
+ 2450 
+ FWD 
+ LIMIT 
+ 2250 
+ 2050 
+ -3 
+ -2 -1 
+ 0 
+ 1 
+ 2 
+ 3 
+ 4 
+ INCHES"
+Empty weight CG range,"See Figure. 
+ 1900 
+ A 
+ FT 
+ 1850 
+ M 
+ LI 
+ IT 
+ 1800 
+ LB. 
+ 1750 
+ 1700 
+ F 
+ WD 
+ L 
+ IMIT 
+ 1650 
+ 1600 
+ 4.6 
+ 5.0 
+ 5.4 
+ 5.8 
+ 6.2 
+ 6.6 
+ 7.0 
+ INCHES AFT OF DATUM"
+Maximum weight,2850 lbs.
+No of seats,3 (Pilot and 2 passengers) (-30)
+Maximum baggage,See loading instructions in FAA Approved Helicopter Flight Manual.
+Fuel capacity,43 gals. (+5) (usable 41 gals.) See NOTE 1 for unusable fuel.
+Oil capacity,4.25 gals. (+12) (usable 2.5 gals.) See NOTE 1 for undrainable oil.
+Rotor blade and,For rigging information refer to pertinent model Maintenance Manual.
+Serial Nos eligible,"2634, 2638, 2641, and up."
+"IV - Model 47G-3B-1, 3 PCLM (Normal Category), Approved January 25, 1963",
+Engine,"Lycoming TVO-435-B1A or -B1B (See NOTE 11 for installation of 
+ Lycoming TVO-345-D1A engine)"
+Fuel,100/130 minimum grade aviation gasoline
+Engine limits,"Maximum continuous, 
+ (Sea level to 19,400 ft.) 26.8 in.Hg., 3200 r.p.m. (220 hp.) 
+ Takeoff (2 min.) (5 min. takeoff power eligible with Flight Manual Supplement 
+ dated February 3, 1966) 
+ (Sea level to 8,000 ft.) 32.8 in.Hg., 3200 r.p.m. (270 hp.) 
+ (See NOTE 9 for power and manifold pressure variation with altitude and temperature)"
+Carburetor ,Marvel-Schebler MA-6 (Setting 10-4438) or
+carburetor settings,Marvel Schebler MA-6AA (Setting 10-4438-1)
+ operational,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.)"
+engine limits,"Maximum 
+ 370 
+ Maximum 3200 r.p.m. 
+ Minimum 
+ 322 
+ Minimum 3000 below 10,000 ft. 
+ Minimum 3100 above 10,000 ft."
+Airspeed limits,"S.L. to 10,000 ft. Vne = 105 m.p.h. (91.5K) with 3000 to 3200 r.p.m. 
+ Above 10,000 ft. decrease Vne 7 mph./1000 ft. to 15,000 ft. (70 mph) 
+ Above 15,000 ft. decrease Vne 5 mph/1000 ft. to 20,000 ft. (45 mph) 
+ R.p.m. range 10,000 ft. to 20,000 ft.: 3100 to 3200."
+CG range,"2950 lb. 
+ (-3.0) to (+2.5) 
+ 2300 lb. 
+ (-3.0) to (+4.0) 
+ 2100 lb. 
+ (-3.0) to (+4.0) 
+ 2950 
+ 2850 
+ AF 
+ T 
+ 2650 
+ LIM IT 
+ 2450 
+ FWD 
+ LIMIT 
+ 2250 
+ 2050 
+ -3 -2 -1 
+ 0 
+ 1 
+ 2 
+ 3 
+ 4 
+ INCHES"
+Empty weight CG range,"See Figure. 
+ 1900 
+ AFT 
+ 1860 
+ LIMI T 
+ LB. 1820 
+ 1780 
+ FW 
+ D 
+ 1740 
+ LIMI T 
+ 1700 
+ 5.0 
+ 5.4 
+ 5.8 
+ 6.2 
+ 6.6 
+ INCHES AFT OF DATUM"
+Maximum weight,2950 lbs.
+No of seats,3 (Pilot and 2 passengers) (-30)
+Maximum baggage,See loading instructions in FAA Approved Helicopter Flight Manual.
+Fuel capacity,61.6 gals. (+5) (usable 57.5 gals.) (See NOTE 1 for unusable fuel.
+Oil capacity,4.25 gals. (+12) (usable 2 gals.) See NOTE 1 for undrainable oil.
+Rotor blade and,For rigging information refer to the pertinent model Maintenance
+control movements,Manual.
+Serial Nos eligible,"2754, 2797, and up."
+"V - Model 47G-2A-1, 3 PCLH (Normal Category), Approved December 28, 1962",
+Engine,Lycoming VO-435-A1E or A1F
+Fuel,80/87 minimum grade aviation gasoline
+Engine limits,"Maximum continuous, 
+ (Sea level) 24.6 in.Hg., 3200 r.p.m. (220 hp.) 
+ (4300 ft.) 23.3 in.Hg., 3200 r.p.m. (220 hp.) 
+ (Straight line manifold pressure variation with altitude) 
+ Takeoff (2 minutes), 26.3 in.Hg., 3200 r.p.m. (240 hp.)"
+Carburetor ,Marvel-Schebler MA-4-5AA (10-4025-11)
+Rotor limits  operational,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.)"
+engine limits,"Maximum 
+ 370 
+ Maximum 3200 r.p.m. 
+ Minimum 
+ 333 
+ Minimum 3000 r.p.m."
+Airspeed limits,"S.L. to 6000 ft., 105 m.p.h. (91.5K) 
+ 5 m.p.h. (4K) reduction per 1000 ft. above 6000 ft."
+CG range,(-3.0) to (+4.0)
+Empty weight CG range,"See Figure. 
+ 1900 
+ AF 
+ 1850 
+ T 
+ LIM 
+ IT 
+ LB. 1800 
+ FW 
+ D 
+ IT 
+ LIM 
+ 1750 
+ 1700 
+ 1650 
+ 4.6 
+ 5.0 
+ 5.4 
+ 5.8 
+ 6.2 
+ 6.6 
+ INCHES AFT OF DATUM"
+Maximum weight,2850 lbs.
+No of seats,3 (Pilot and 2 passengers) (-30)
+Maximum baggage,See loading instructions in FAA Approved Helicopter Flight Manual.
+Fuel capacity,61.6 gals. (+5) (usable 57.5 gals.) See NOTE 1 for unusable fuel.
+Oil capacity,3 gals. (+12) (usable 1.5 gals.) See NOTE 1 for undrainable oil.
+Rotor blade and,For rigging information refer to the pertinent model Maintenance
+control movements,Manual.
+Serial Nos eligible,2857 and up.
+"VI - Model 47G-4, 3 PCLH (Normal Category), Approved January 3, 1964",
+Engine,Lycoming VO-540-B1B3
+Fuel,80/87 minimum grade aviation gasoline
+Engine limits,"Maximum continuous,"
+See Flight Manual for,"(Sea level) 20.6 in.Hg., 3200 r.p.m. (220 hp.)"
+manifold pressure,"(9500 ft.) 19.3 in.Hg., 3200 r.p.m. (220 hp.)"
+variation with altitude,Takeoff (2 minutes)
+and temperature,"(Sea level) 23.6 in.Hg., 3200 r.p.m. (260 hp.)"
+Carburetor ,"Marvel-Schebler MA-6AA, Setting No. 10-4218 or 10-4975"
+ operational,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.)"
+engine speeds,"Maximum 
+ 370 
+ Maximum 3200 r.p.m. 
+ Minimum 
+ 333 
+ Minimum 3000 r.p.m."
+Airspeed limits,"S.L. to 6000 ft., 105 m.p.h. (91.5K) 
+ 5 m.p.h. (4K) reduction per 1000 ft. above 6000 ft."
+CG range,"2950 lb. 
+ (-3.0) to (+2.5) 
+ 2300 lb. 
+ (-3.0) to (+4.0) 
+ 2200 lb. 
+ (-3.0) to (+4.0) 
+ 2950 
+ 2850 
+ AFT 
+ 2750 
+ LI MIT 
+ 2650 
+ LB. 
+ F W 
+ D 
+ 2550 
+ LI MIT 
+ 2450 
+ 2350 
+ 2250 
+ -3 
+ -2 
+ -1 
+ 0 
+ 1 
+ 2 
+ 3 
+ 4 
+ INCHES"
+Empty weight CG range,"See Figure. 
+ 2150 
+ 2100 
+ AFT 
+ 2050 
+ L IMI T 
+ 2000 
+ LB. 
+ 1950 
+ F 
+ WD 
+ LI 
+ MIT 
+ 1900 
+ 1850 
+ 1800 
+ 1750 
+ 4.0 
+ 4.5 
+ 5.0 
+ 5.5 
+ 6.0 
+ 6.5 
+ INCHES AFT OF DATUM"
+Maximum weight,2950 lbs.
+No of seats,3 (Pilot and 2 passengers) (-30)
+Maximum baggage,See loading instructions in FAA Approved Helicopter Flight Manual.
+Fuel capacity,61.6 gals. (+5) (usable 57.5 gals.) (See NOTE 1 for unusable fuel.
+Oil capacity,3 gals. (+12) (usable 1.5 gals.) See NOTE 1 for undrainable oil.
+Rotor blade and,For rigging information refer to pertinent model Maintenance Manual.
+Serial Nos eligible,"2864, 3133, and up."
+"VII - Model 47G-4A, 3 PCLH (Normal Category), Approved January 3, 1966",
+Engine,Lycoming VO-540-B1B3
+Fuel,80/87 minimum grade aviation gasoline
+Engine limits,"Maximum continuous,"
+Standard day,"(Sea level) 20.6 in.Hg., 3200 r.p.m. (220 hp.)"
+temperature at,"(9500 ft.) 19.3 in.Hg., 3200 r.p.m. (220 hp.)"
+carburetor inlet,"Takeoff (5 minutes) 
+ (Sea level) 25.3 in.Hg., 3200 r.p.m. (280 hp.) 
+ (See Flight Manual for manifold pressure variation with altitude and temperature.)"
+Carburetor ,"Marvel-Schebler MA-6AA, Setting No. 10-4218 or 10-4975"
+ operational,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.)"
+engine speeds,"Maximum 
+ 370 
+ Maximum 3200 r.p.m. 
+ Minimum 
+ 333 
+ Minimum 3000 r.p.m."
+Airspeed limits,"S.L. to 6000 ft., 105 m.p.h. (91.5K) 
+ 5 m.p.h. (4K) reduction per 1000 ft. above 6000 ft."
+CG range,"2950 lb. 
+ (-3.0) to (+2.5) 
+ 2300 lb. 
+ (-3.0) to (+4.0) 
+ 2200 lb. 
+ (-3.0) to (+4.0) 
+ 2950 
+ 2850 
+ AF 
+ T 
+ 2650 
+ LIM IT 
+ 2450 
+ FWD 
+ LI MIT 
+ 2250 
+ 2050 
+ -3 -2 -1 
+ 0 
+ 1 
+ 2 
+ 3 
+ 4 
+ INCHES"
+Empty weight CG range,"See Figure 
+ 2150 
+ 2100 
+ AFT 
+ 2050 
+ L IMI T 
+ 2000 
+ LB. 
+ FW 
+ D 
+ 1950 
+ LIM IT 
+ 1900 
+ 1850 
+ 1800 
+ 1750 
+ 4.0 
+ 4.5 
+ 5.0 
+ 5.5 
+ 6.0 
+ 6.5 
+ INCHES AFT OF DATUM"
+Maximum weight,2950 lbs.
+No of seats,3 (Pilot and 2 passengers) (-30)
+Maximum baggage,See loading instructions in FAA Approved Helicopter Flight Manual.
+Fuel capacity,61.6 gals. (+5) (usable 57.5 gals.) See NOTE 1 for unusable fuel.
+Oil capacity,3 gals. (+12) (usable 1.5 gals.) See NOTE 1 for undrainable oil.
+Rotor blade and,For rigging information refer to pertinent model Maintenance Manual.
+Serial Nos eligible,7501 and up.
+"VIII - Model 47G-5, 2 PCLH (Normal Category), Approved January 21, 1966",
+Engine,Lycoming VO-435-B1A
+Fuel,100/130 minimum grade aviation gasoline
+Engine limits,"Maximum continuous,"
+Standard day,"(Sea level) 24.1 in.Hg., 3200 r.p.m. (220 hp.)"
+temperature at,"(5300 ft.) 22.9 in.Hg., 3200 r.p.m. (220 hp.)"
+carburetor inlet,"Takeoff (5 minutes) 
+ (Sea level) 27.7 in.Hg., 3200 r.p.m. (260 hp.) 
+ (See Flight Manual for manifold pressure variation with altitude and temperature.)"
+Carburetor ,Marvel-Schebler MA4-5AA (10-4025-12)
+ operational,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.)"
+engine speeds,"Maximum 
+ 370 
+ Maximum 3200 r.p.m. 
+ Minimum 
+ 333 
+ Minimum 3000 r.p.m."
+Airspeed limits,"S.L. to 6000 ft., 90 m.p.h. (78K) 
+ Above 6000 ft. decrease Vne 4 m.p.h. (35K) per 1000 ft."
+CG range,"2850 lb. 
+ (-2.0) to (+2.0) 
+ 2350 lb. 
+ (-2.0) to (+3.0) 
+ 2100 lb. 
+ (-2.0) to (+3.0) 
+ Straight line variation between points given. 
+ 2850 
+ AFT 
+ LIMI 
+ T 
+ 2650 
+ LB. 2450 
+ FWD 
+ LIMIT 
+ 2250 
+ 2050 
+ -3 
+ -2 
+ -1 
+ 0 
+ 1 
+ 2 
+ 3 
+ 4 
+ INCHES"
+Empty weight CG Range,"See Figure 
+ 1900 
+ AFT 1 
+ LIMIT 
+ TA 
+ NK 
+ 1850 
+ 1800 
+ LB. 
+ 1750 
+ FWD 
+ LIMI 
+ T 
+ 2 T 
+ ANK 
+ 1700 
+ 1650 
+ 1600 
+ 3.6 
+ 4.0 
+ 4.4 
+ 4.8 
+ 5.2 
+ 5.6 
+ 6.0 
+ INCHES AFT OF DATUM"
+Maximum weight,2850 lbs.
+No of seats,2 (Pilot and 1 passenger) (-30)
+Maximum baggage,See loading instructions in FAA Approved Helicopter Flight Manual.
+Fuel capacity,28 gals. (+5) (usable 26 gals.) See NOTE 1 for unusable fuel.
+Oil capacity,3 gals. (-42) (usable 1.5 gals.) See NOTE 1 for undrainable oil.
+Rotor blade and,For rigging information refer to pertinent model Maintenance Manual.
+Serial Nos eligible,7801 and up.
+"IX - Model 47G-3B-2, 3 PCLH (Normal Category), Approved January 17, 1968",
+Engine,Lycoming TVO-435-G1A
+Fuel,100/130 minimum grade aviation gasoline
+Engine limits,"Maximum continuous, 
+ (Sea level to 20,000 ft.) 26.6 in.Hg., 3200 r.p.m. (220 hp.) 
+ Takeoff (5 minutes) 
+ (Sea level to 4,000 ft.) 33.5 in.Hg., 3200 r.p.m. (280 hp.) 
+ (See NOTE 12 for power and manifold pressure variation with altitude and 
+ temperature.)"
+Carburetor ,Marvel-Schebler MA-6AA (setting 10-4438-1)
+ operational,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.)"
+engine limits,"Maximum 
+ 370 
+ Maximum 3200 r.p.m. 
+ Minimum 
+ 322 
+ Minimum 3000 r.p.m. 
+ Minimum 3100 above 10,000 ft."
+Airspeed limits,"S.L. to 10,000 ft., Vne - 105 mph (91.5K) with 3000 to 3200 r.p.m. 
+ Above 10,000 ft. decrease Vne 7 mph/1000 ft. to 15,000 ft. (70 mph) 
+ Above 15,000 ft. decrease Vne 5 mph/1000 ft. to 20,000 ft. (45 mph) 
+ R.p.m. range 10,000 ft. to 20,000 ft.: 3100 to 3200."
+CG range,"2950 lb. 
+ (-3.0) to (+2.5) 
+ 2300 lb. 
+ (-3.0) to (+4.0) 
+ 2100 lb. 
+ (-3.0) to (+4.0) 
+ 2950 
+ 2850 
+ AF 
+ T 
+ 2650 
+ LIM IT 
+ 2450 
+ FWD 
+ LI MIT 
+ 2250 
+ 2050 
+ -3 -2 
+ -1 
+ 0 
+ 1 
+ 2 
+ 3 
+ 4 
+ INCHES"
+Empty weight CG range,"See Figure 
+ 1900 
+ AFT 
+ 1860 
+ LIMI T 
+ LB. 1820 
+ 1780 
+ FW 
+ D 
+ 1740 
+ LIMI T 
+ 1700 
+ 5.0 
+ 5.4 
+ 5.8 
+ 6.2 
+ 6.6 
+ INCHES AFT OF DATUM"
+Maximum weight,2950 lbs.
+No of seats,3 (Pilot and 2 passengers) (-30)
+Maximum baggage,See loading instruction in FAA Approved Helicopter Flight Manual.
+Fuel capacity,61.6 gals. (+5) (usable 57.5 gals.) See NOTE 1 for unusable fuel.
+Oil capacity,4.25 gals. (+12) (usable 2.5 gals.) See NOTE 1 for undrainable oil.
+Rotor blade and,For rigging information refer to pertinent model Maintenance Manual.
+Serial Nos eligible,"6606, 6674, and up."
+"X - Model 47G-5A, 3 PCLH (Normal Category), Approved September 20, 1971",
+Engine,Lycoming VO-435-B1A
+Fuel,100/130 minimum grade aviation gasoline
+Engine limits,"Maximum continuous,"
+Standard day,"(Sea level) 24.1 in.Hg., 3200 r.p.m. (220 hp.)"
+temperature at,"(5300 ft.) 22.9 in.Hg., 3200 r.p.m. (220 hp.)"
+carburetor inlet,"Takeoff (5 minutes) 
+ (Sea level) 27.7 in.Hg., 3200 r.p.m. (260 hp.) 
+ (See Flight Manual for manifold pressure variation with altitude and temperature.)"
+Carburetor ,Marvel-Schebler MA4-5AA (10-4025-12)
+ operational,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.)"
+engine limits,"Maximum 
+ 370 
+ Maximum 3200 r.p.m. 
+ Minimum 
+ 333 
+ Minimum 3000 r.p.m."
+Airspeed limits,"S.L. to 6000 ft., 105 m.p.h. (91.5K) 
+ 5 m.p.h. (4K) reduction per 1000 ft. above 6000 ft."
+CG range,(-3.0) to (+4.0)
+Empty weight CG range,"See figure 
+ 2100 
+ 2050 
+ AFT 
+ LB. 1950 
+ LIMI 
+ T 
+ 1850 
+ WD 
+ F 
+ IT 
+ LIM 
+ 1750 
+ 1650 
+ 4.4 4.8 5.2 
+ 5.6 6.0 6.4 
+ 6.8 7.2 
+ INCHES AFT OF F.S.O"
+Maximum weight,2850 lbs.
+No of seats,3 (Pilot and 2 passengers) (-30)
+Maximum baggage,See loading instruction in FAA Approved Helicopter Flight Manual.
+Fuel capacity,61.6 gals. (+5) (usable 57.5 gals.) See NOTE 1 for unusable fuel.
+Oil capacity,3 gals. (-4.2) (usable 1.5 gals.) See NOTE 1 for undrainable oil.
+Rotor blade and,For rigging information refer to pertinent model Maintenance Manual.
+Serial Nos eligible,25051 and up.
+"XI - Model 47G-3B-2A, 3 PCLH (Normal Category), Approved February 22, 1972.",
+Engine,Lycoming TVO-435-F1A
+Fuel,100/130 minimum grade aviation gasoline
+Engine limits,"Maximum continuous, 
+ (Sea level to 20,000 ft.) 26.6 in.Hg., 3200 r.p.m. (220 hp.) 
+ Takeoff (5 minutes) 
+ (Sea level to 4000 ft.) 33.5 in.Hg., 3200 r.p.m. (280 hp.) 
+ (See NOTE 12 for power and manifold pressure variation with altitude and 
+ temperature)"
+Carburetor ,Marvel-Schebler MA-6AA (setting 10-4438-1)
+ operational,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.)"
+engine limits,"Maximum 
+ 370 
+ Maximum 3200 r.p.m. 
+ Minimum 
+ 322 
+ Minimum 3000 r.p.m. below 10,000 ft. 
+ Minimum 3100 r.p.m. above 10,000 ft."
+Airspeed limits,"S.L. to 10,000 ft., Vne - 105 m.p.h. (91.5K) with 3000 to 3200 rpm 
+ Above 10,000 ft. decrease Vne 7 mph/1000 ft. to 15,000 ft. (70 mph) 
+ Above 15,000 ft. decrease Vne 5 mph/1000 ft. to 20,000 ft. (45 mph) 
+ R.p.m. range 10,000 ft. to 20,000 ft.: 3100 to 3200."
+CG range,"2950 lb. 
+ (-3.0) to (+2.5) 
+ 2300 lb. 
+ (-3.0) to (+4.0) 
+ 2100 lb. 
+ (-3.0) to (+4.0) 
+ 2950 
+ 2850 
+ LB. 2650 
+ AF 
+ T 
+ 2450 
+ LIMI 
+ T 
+ F 
+ WD 
+ LI 
+ MIT 
+ 2250 
+ 2050 
+ -3 
+ -2 
+ -1 
+ 0 
+ 1 
+ 2 
+ 3 
+ 4 
+ INCHES"
+Empty weight CG range,"See Figure 
+ 2300 
+ AFT 
+ LIMI 
+ T 
+ 2200 
+ LB. 
+ 2100 
+ FWD 
+ 2000 
+ LIMIT 
+ 1900 
+ 1800 
+ 6.4 
+ 4.0 
+ 4.4 
+ 4.8 
+ 5.2 
+ 5.6 
+ 6.0 
+ INCHES AFT OF DATUM"
+Maximum weight,2950 lbs. (See NOTE 14 for external cargo limitations)
+No of seats,3 (Pilot and 2 passengers) (-30)
+Maximum baggage,See loading instruction in FAA Approved Helicopter Flight Manual.
+Fuel capacity,61.6 gals. (+5) (usable 57.5 gals.) See NOTE 1 for unusable fuel.
+Oil capacity,3 gals. (-4.2) (usable 1.5 gals.) See NOTE 1 for undrainable oil.
+Rotor blade and,For rigging information refer to pertinent model Maintenance Manual.
+Serial Nos eligible,6832 and up.
+DATA PERTINENT TO ALL MODELS,
+Datum,"Station ""O"" Centerline of weld cluster just forward of leveling lugs. 
+ Leveling lugs lower left-hand longeron aft of mast and adjacent cross tube."
+Certification basis,"CAR 6 effective December 20, 1956, Amendments 6-1, 6-2, 6-3, and 6-4. 
+ Type Certificate No. 2H3 issued March 17, 1960. 
+ Date of application for Type Certificate of November 24, 1959. 
+ Exemption No. 70 for 47G-3."
+Production basis,"None. See Note 15- for serial numbers produced under Bell Helicopter Textron Inc. 
+ Production Certificate No. 100"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see certification basis) must be installed in the helicopter for certification. In addition, 
+ the following items of equipment are required: 
+ 47G-3 
+ (a) 
+ FAA Approved Helicopter Flight Manual dated March 17, 1960, or FAA 
+ Approved Helicopter Flight Manual dated January 11, 1961. (Required with 
+ increased gross weight and horsepower in accordance with NOTE 6.) 
+ (b) 
+ AN5795-6 carburetor air and filter air temperature indicator 1.5 lbs. (-52). 
+ 47G-2A 
+ (a) 
+ FAA Approved Helicopter Flight Manual dated December 7, 1960. 
+ 47G-3B 
+ (a) 
+ FAA Approved Helicopter Flight Manual dated May 24, 1961, and Revision 3 
+ dated May 24, 1963. 
+ 47G-3B-1 
+ (a) 
+ FAA Approved Helicopter Flight Manual dated January 25, 1963. 
+ 47G-2A-1 
+ (a) 
+ FAA Approved Helicopter Flight Manual dated December 27, 1962. 
+ 47G-4 
+ (a) 
+ FAA Approved Helicopter Flight Manual dated October 15, 1963. 
+ 47G-4A 
+ (a) 
+ FAA Approved Helicopter Flight Manual dated December 28, 1965. 
+ 47G-5 
+ (a) 
+ FAA Approved Helicopter Flight Manual dated January 21, 1966. 
+ 47G-3B-2 
+ (a) 
+ FAA Approved Helicopter Flight Manual dated December 13, 1967. 
+ 47G-5A 
+ (a) 
+ FAA Approved Helicopter Flight Manual dated September 14, 1971. 
+ 47G-3B-2A 
+ (a) 
+ FAA Approved Helicopter Flight Manual dated February 11, 1972."
+NOTE 1,"Current weight and balance report, including list of equipment included in certificated empty weight, and loading 
+ instructions when necessary, must be in each helicopter at the time of original certification and at all times thereafter 
+ except in the case of operators having an approved weight control system. 
+ The certificated empty weight and corresponding center of gravity location must include the following: 
+ Model 47G-3 
+ Undrainable oil 
+ 8 lbs. 
+ (+12) 
+ (Not included in oil capacity) 
+ 11.7 lbs. 
+ (+ 5) 
+ Unusable fuel 
+ (Included in fuel capacity) 
+ Model 47G-2A 
+ Undrainable oil 
+ 2.3 lbs. 
+ (+15) 
+ (Included in oil capacity) 
+ Unusable fuel 
+ 11.7 lbs. 
+ (+ 5) 
+ (Included in fuel capacity) 
+ Model 47G-3B 
+ Undrainable oil 
+ 6 lbs. 
+ (+15) 
+ (Included in oil capacity) 
+ Unusable fuel 
+ 11.7 lbs. 
+ (+ 5) 
+ (Included in fuel capacity) 
+ Model 47G-3B-1 
+ Undrainable oil 
+ 6 lbs. 
+ (+15) 
+ (Included in oil capacity) 
+ Model 47G-3B-2 
+ Unusable fuel 
+ 11.7 lbs. 
+ (+ 5) 
+ (Included in fuel capacity) 
+ Model 47G-2A-1 
+ Undrainable oil 
+ 2.3 lbs. 
+ (+15) 
+ (Included in oil capacity) 
+ 11.7 lbs. 
+ (+ 5) 
+ Unusable fuel 
+ (Included in fuel capacity) 
+ Model 47G-4 
+ Undrainable oil 
+ 2.3 lbs. 
+ (+15) 
+ (Included in oil capacity) 
+ Unusable fuel 
+ 11.7 lbs. 
+ (+ 5) 
+ (Included in fuel capacity) 
+ Model 47G-4A 
+ Undrainable oil 
+ 2.3 lbs. 
+ (+15) 
+ (Included in oil capacity) 
+ Unusable fuel 
+ (Included in fuel capacity) 
+ 11.7 lbs. 
+ (+ 5) 
+ Model 47G-5 
+ Undrainable oil 
+ 3.4 lbs. 
+ (-4.2) 
+ (Included in oil capacity) 
+ Model 47G-5A 
+ Unusable fuel 
+ 11.7 lbs. 
+ (+ 5) 
+ (Included in fuel capacity) 
+ Model 47G-3B-2A"
+NOTE 2,"The following placard must be displayed on the instrument panel in full view of the pilot: ""THIS HELICOPTER 
+ MUST BE OPERATED IN COMPLIANCE WITH THE OPERATING LIMITATIONS SPECIFIED IN THE FAA 
+ APPROVED FLIGHT MANUAL."" 
+ All placards required in the approved helicopter flight manual must be installed in appropriate locations."
+NOTE 3,"The Tables below address life-limited parts for the various model 47 helicopters. 
+ TABLE 1 contains the life limits for models 47G-2A and 47G-2A-1. 
+ TABLE 2 contains the life limits for model 47G-3. 
+ TABLE 3 contains the life limits for models 47G-3B and 47G-3B-1. 
+ TABLE 4 contains the life limits for model 47G-3B-2. 
+ TABLE 5 contains the life limits for model 47G-3B-2A. 
+ TABLE 6 contains the life limits for models 47G-4 and 47G-4A. 
+ TABLE 7 contains the life limits for model 47G-5. 
+ TABLE 8 contains the life limits for model 47G-5A. 
+ COMMENT: 
+ The retirement times of critical parts are listed in the following tables (TABLE 1 through 
+ TABLE 8). These limitations may not be increased without FAA engineering approval. The list 
+ of Airworthiness Directives (ADs) referenced with the following replacement or service lives 
+ may not be all-inclusive. Additional ADs may also be applicable. 
+ MAIN ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Main Rotor Blade 
+ 47-110-250-11, /-21 
+ 5000 hrs 
+ Main Rotor Drag Brace 
+ 47-110-372-1 
+ 2500 hrs 
+ 1200 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-5, /-6 /-11 /-13 
+ /-15 /-17 
+ Main Rotor Gimbal Ring 
+ 47-120-014-23 
+ 4800 hrs 
+ Main Rotor Grip 
+ 47-120-252-1, /-7 /-11 /-115 
+ 1200 hrs (REF. AD 2001-17-17) 
+ Main Rotor Grip 
+ 47-120-252-5 
+ 300 hrs 
+ 5000 hrs 
+ 3600 hrs if ever used w/ wood blades on 
+ all other models except 47G-3, 
+ Main Rotor Yoke (Steel) 
+ 47-120-177-1 
+ 47G-3B, 47J, 47J-2 or 47J-2A 
+ 2500 hrs if ever used w/ wood blades on 
+ any model 47G-3, 47G-3B, 47J, 
+ 47J-2 or 47J-2A 
+ Main Rotor Pitch Horn 
+ 47-120-126-5 
+ 5000 hrs 
+ FLIGHT CONTROLS 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Collective Sleeve 
+ 47-150-117-13, /-21 
+ 5000 hrs 
+ Scissors Assembly 
+ 47-150-249-5 
+ 5000 hrs 
+ Tail Rotor Pitch Change 
+ Shaft Bearing 
+ 47-640-069-1, /-3 
+ 600 hrs (REF. AD 80-10-04 R1) 
+ TAIL ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Tail Rotor Yoke 
+ 47-641-104-5 
+ Not Eligible (REF. AD 80-10-04 R1) 
+ Tail Rotor Yoke 
+ 47-641-126-5 
+ 2500 hrs 
+ Tail Rotor Blade 
+ 47-642-102-(ALL) 
+ Not Eligible 
+ REF. AD 70-10-08 and AD 80-10-04 R1 
+ Tail Rotor Blade 
+ 47-642-117-1, /-105 
+ 2500 hrs 
+ Tail Rotor Drive Shaft 
+ 47-644-172-3 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-180-1, /-5 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-186-1 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-187-1, /-5 /-11 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-214-1 
+ Not Eligible (REF. AD 70-08-02) 
+ POWERPLANT 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Engine Mount 
+ 47-612-171-(ALL) 
+ 2500 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-1 through /-7 
+ 600 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-9 
+ 600 hrs - 5 year shelf life 
+ TRANSMISSION 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Shear Screw 
+ 47-620-485-9 
+ 1200 hrs 
+ TABLE 1: Life Limits for Models 47G-2A & 47G-2A-1 
+ MAIN ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Main Rotor Blade 
+ 47-110-250-11, /-21 
+ 5000 hrs 
+ Main Rotor Drag Brace 
+ 47-110-372-1 
+ 2500 hrs 
+ Main Rotor Pitch Horn 
+ 47-120-126-5 
+ 5000 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-5, /-6 /-11 /-13 
+ /-15 /-17 
+ 1200 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-23 
+ 4800 hrs 
+ Main Rotor Grip 
+ 47-120-252-1, /-7 /-11 /-115 
+ 1200 hrs (REF. AD 2001-17-17) 
+ Main Rotor Grip 
+ 47-120-252-5 
+ 300 hrs 
+ 5000 hrs 
+ 3600 hrs if ever used w/ wood blades on all 
+ other models except 47G-3, 47G- 
+ Main Rotor Yoke (Steel) 
+ 47-120-177-1 
+ 3B, 47J, 47J-2 or 47J-2A 
+ 2500 hrs if ever used w/ wood blades on 
+ any model 47G-3, 47G-3B, 47J, 
+ 47J-2 or 47J-2A 
+ FLIGHT CONTROLS 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Collective Sleeve 
+ 47-150-117-13, /-21 
+ 5000 hrs 
+ Scissors Assembly 
+ 47-150-249-1, /-5 
+ 5000 hrs 
+ Tail Rotor Pitch Change 
+ Shaft Bearing 
+ 47-640-069-1, /-3 
+ 600 hrs (REF. AD 80-10-04 R1) 
+ TAIL ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Tail Rotor Yoke 
+ 47-641-104-5 
+ Not Eligible (REF. AD 80-10-04 R1) 
+ Tail Rotor Yoke 
+ 47-641-126-5 
+ 2500 hrs 
+ Tail Rotor Blade 
+ 47-642-102-(ALL) 
+ Not Eligible 
+ REF. AD 70-10-08 and AD 80-10-04 R1 
+ Tail Rotor Blade 
+ 47-642-117-1, /-105 
+ 2500 hrs 
+ Tail Rotor Drive Shaft 
+ 47-644-172-3 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-180-1, /-5 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-186-1 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-187-1, /-5 /-11 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-214-1 
+ Not Eligible (REF. AD 70-08-02) 
+ POWERPLANT 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Engine Mount 
+ 47-612-171-(ALL) 
+ 2500 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-1 through /-7 
+ 600 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-9 
+ 600 hrs - 5 year shelf life 
+ TRANSMISSION 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Shear Screw 
+ 47-620-485-9 
+ 1200 hrs 
+ TABLE 2: Life Limits for Model 47G-3 
+ MAIN ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Main Rotor Blade (G-3B only) 
+ 47-110-250-11, /-21 
+ 5000 hrs 
+ Main Rotor Blade 
+ (G-3B-1 only)** 
+ 47-110-250-23 
+ 5000 hrs 
+ Main Rotor Drag Brace 
+ 47-110-372-1 
+ 2500 hrs 
+ Main Rotor Pitch Horn 
+ 47-120-126-5 
+ 5000 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-5, /-6 /-11 /-13 
+ /-15 /-17 
+ 1200 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-23 
+ 4800 hrs 
+ Main Rotor Grip 
+ 47-120-252-1, /-7 /-11 /-115 
+ 1200 hrs (REF. AD 2001-17-17) 
+ Main Rotor Grip 
+ 47-120-252-5 
+ 300 hrs 
+ 5000 hrs 
+ 3600 hrs if ever used w/ wood blades on all 
+ other models except 47G-3, 47G- 
+ Main Rotor Yoke (Steel) 
+ 47-120-177-1 
+ 3B, 47J, 47J-2 or 47J-2A 
+ 2500 hrs if ever used w/ wood blades on 
+ any model 47G-3, 47G-3B, 47J, 
+ 47J-2 or 47J-2A 
+ FLIGHT CONTROLS 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Collective Sleeve 
+ 47-150-117-13, /-21 
+ 5000 hrs 
+ Scissors Assembly 
+ 47-150-249-5 
+ 5000 hrs 
+ Scissors Assembly 
+ (G-3B only) 
+ 47-150-249-1 
+ 5000 hrs 
+ Tail Rotor Pitch Change Shaft 
+ Bearing 
+ 47-640-069-1, /-3 
+ 600 hrs (REF. AD 80-10-04 R1) 
+ TAIL ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Tail Rotor Yoke 
+ 47-641-104-5 
+ Not Eligible (REF. AD 80-10-04 R1) 
+ Tail Rotor Yoke 
+ 47-641-126-5 
+ 2500 hrs 
+ Tail Rotor Blade 
+ 47-642-102-(ALL) 
+ Not Eligible 
+ REF. AD 70-10-08 and AD 80-10-04 R1 
+ Tail Rotor Blade 
+ 47-642-117-1, /-105 
+ 2500 hrs 
+ Tail Rotor Drive Shaft 
+ 47-644-172-3 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-180-1, /-5 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-186-1 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-187-1, /-5 /-11 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-214-1 
+ Not Eligible (REF. AD 70-08-02) 
+ POWERPLANT 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Engine Mount 
+ 47-612-171-(ALL) 
+ 2500 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-1 through /-7 
+ 600 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-9 
+ 600 hrs - 5 year shelf life 
+ TRANSMISSION 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Shear Screw 
+ 47-620-485-9 
+ 1200 hrs 
+ TABLE 3: Life Limits for Models 47G-3B & 47G-3B-1 
+ MAIN ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Main Rotor Blade** 
+ 47-110-250-23 
+ 5000 hrs 
+ Main Rotor Drag Brace 
+ 47-110-372-1 
+ 2500 hrs 
+ Main Rotor Pitch Horn 
+ 47-120-126-5 
+ 5000 hrs 
+ 1200 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-5, /-6 /-11 /-13 
+ /-15 /-17 
+ Main Rotor Gimbal Ring 
+ 47-120-014-23 
+ 4800 hrs 
+ Main Rotor Grip 
+ 47-120-252-1, /-7 /-11 /-115 
+ 1200 hrs (REF. AD 2001-17-17) 
+ Main Rotor Grip 
+ 47-120-252-5 
+ 300 hrs 
+ 5000 hrs 
+ 3600 hrs if ever used w/ wood blades on all 
+ other models except 47G-3, 47G- 
+ Main Rotor Yoke (Steel) 
+ 47-120-177-1 
+ 3B, 47J, 47J-2 or 47J-2A 
+ 2500 hrs if ever used w/ wood blades on 
+ any model 47G-3, 47G-3B, 47J, 
+ 47J-2 or 47J-2A 
+ FLIGHT CONTROLS 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Collective Sleeve 
+ 47-150-117-13, /-21 
+ 5000 hrs 
+ Scissors Assembly 
+ 47-150-249-5 
+ 5000 hrs 
+ Tail Rotor Pitch Change 
+ Shaft Bearing 
+ 47-640-069-1, /-3 
+ 600 hrs (REF. AD 80-10-04 R1) 
+ Tail Rotor Pitch Change 
+ Shaft Bearing 
+ S3K or S3S 
+ 600 hrs (REF. AD 80-10-04 R1) 
+ TAIL ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Tail Rotor Yoke 
+ 47-641-104-5 
+ Not Eligible (REF. AD 80-10-04 R1) 
+ Tail Rotor Yoke 
+ 47-641-126-5 
+ 2500 hrs 
+ Tail Rotor Blade 
+ 47-642-102-(ALL) 
+ Not Eligible 
+ REF. AD 70-10-08 and AD 80-10-04 R1 
+ Tail Rotor Blade 
+ 47-642-117-1, /-105 
+ 2500 hrs 
+ Tail Rotor Drive Shaft 
+ 47-644-172-3 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-180-1, /-5 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-186-1 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-187-1, /-5 /-11 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-214-1 
+ Not Eligible (REF. AD 70-08-02) 
+ POWERPLANT 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Engine Mount 
+ 47-612-171-(ALL) 
+ 2500 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-1 through /-7 
+ 600 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-9 
+ 600 hrs - 5 year shelf life 
+ TABLE 4: Life Limits for Model 47G-3B-2 
+ MAIN ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Main Rotor Blade** 
+ 47-110-250-23 
+ 5000 hrs 
+ Main Rotor Drag Brace 
+ 47-110-372-1 
+ 2500 hrs 
+ Main Rotor Pitch Horn 
+ 47-120-126-5 
+ 5000 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-5, /-6 /-11 /-13 
+ /-15 /-17 
+ 1200 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-23 
+ 4800 hrs 
+ Main Rotor Grip 
+ 47-120-252-1, /-7 /-11 /-115 
+ 1200 hrs (REF. AD 2001-17-17) 
+ Main Rotor Grip 
+ 47-120-252-5 
+ 300 hrs 
+ 5000 hrs 
+ 3600 hrs if ever used w/ wood blades on all 
+ other models except 47G-3, 47G- 
+ Main Rotor Yoke (Steel) 
+ 47-120-177-1 
+ 3B, 47J, 47J-2 or 47J-2A 
+ 2500 hrs if ever used w/ wood blades on 
+ any model 47G-3, 47G-3B, 47J, 
+ 47J-2 or 47J-2A 
+ FLIGHT CONTROLS 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Collective Sleeve 
+ 47-150-117-13, /-21 
+ 5000 hrs 
+ Scissors Assembly 
+ 47-150-249-5 
+ 5000 hrs 
+ TAIL ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Tail Rotor Yoke 
+ 47-641-104-5 
+ Not Eligible (REF. AD 80-10-04 R1) 
+ Tail Rotor Yoke 
+ 47-641-126-5 
+ 2500 hrs 
+ Tail Rotor Blade 
+ 47-642-102-(ALL) 
+ Not Eligible 
+ REF. AD 70-10-08 and AD 80-10-04 R1 
+ Tail Rotor Blade 
+ 47-642-117-1, /-105 
+ 2500 hrs 
+ POWERPLANT 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Engine Mount* 
+ 47-612-171-(ALL) 
+ 2500 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-1 through /-7 
+ 600 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-9 
+ 600 hrs - 5 year shelf life 
+ TABLE 5: Life Limits for Model 47G-3B-2A 
+ MAIN ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Main Rotor Blade** 
+ 47-110-250-23 
+ 5000 hrs 
+ Main Rotor Drag Brace 
+ 47-110-372-1 
+ 2500 hrs 
+ Main Rotor Pitch Horn 
+ 47-120-126-5 
+ 5000 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-5, /-6 /-11 /-13 
+ /-15 /-17 
+ 1200 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-23 
+ 4800 hrs 
+ Main Rotor Grip 
+ 47-120-252-1, /-7 /-11 /-115 
+ 1200 hrs (REF. AD 2001-17-17) 
+ Main Rotor Grip 
+ 47-120-252-5 
+ 300 hrs 
+ 5000 hrs 
+ 3600 hrs if ever used w/ wood blades on all 
+ other models except 47G-3, 47G- 
+ Main Rotor Yoke (Steel) 
+ 47-120-177-1 
+ 3B, 47J, 47J-2 or 47J-2A 
+ 2500 hrs if ever used w/ wood blades on 
+ any model 47G-3, 47G-3B, 47J, 
+ 47J-2 or 47J-2A 
+ FLIGHT CONTROLS 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Collective Sleeve 
+ 47-150-117-13, /-21 
+ 5000 hrs 
+ Scissors Assembly 
+ 47-150-249-5 
+ 5000 hrs 
+ Tail Rotor Pitch Change 
+ Shaft Bearing 
+ 47-640-069-1, /-3 
+ 600 hrs (REF. AD 80-10-04 R1) 
+ Tail Rotor Pitch Change 
+ Shaft Bearing 
+ S3K or S3S 
+ 600 hrs (REF. AD 80-10-04 R1) 
+ TAIL ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Tail Rotor Yoke 
+ 47-641-104-5 
+ Not Eligible (REF. AD 80-10-04 R1) 
+ Tail Rotor Yoke 
+ 47-641-126-5 
+ 2500 hrs 
+ Tail Rotor Blade 
+ 47-642-102-(ALL) 
+ Not Eligible 
+ REF. AD 70-10-08 and AD 80-10-04 R1 
+ Tail Rotor Blade 
+ 47-642-117-1, /-105 
+ 2500 hrs 
+ Tail Rotor Drive Shaft 
+ 47-644-172-3 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-180-1, /-5 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-186-1 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-187-1, /-5 /-11 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-214-1 
+ Not Eligible (REF. AD 70-08-02) 
+ POWERPLANT 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Engine Mount 
+ 47-612-171-(ALL) 
+ 2500 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-1 through /-7 
+ 600 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-9 
+ 600 hrs - 5 year shelf life 
+ TRANSMISSION 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Shear Screw 
+ 47-620-485-9 
+ 1200 hrs 
+ TABLE 6: Life Limits for Models 47G-4 & 47G-4A 
+ MAIN ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Main Rotor Blade 
+ 47-110-250-11, /-21 
+ 5000 hrs 
+ Main Rotor Pitch Horn 
+ 47-120-126-5 
+ 5000 hrs 
+ Main Rotor Drag Brace 
+ 47-110-372-1 
+ 2500 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-5, /-6 /-11 /-13 
+ /-15 /-17 
+ 1200 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-23 
+ 4800 hrs 
+ Main Rotor Grip 
+ 47-120-252-1, /-7 /-11 /-115 
+ 1200 hrs (REF. AD 2001-17-17) 
+ Main Rotor Grip 
+ 47-120-252-5 
+ 300 hrs 
+ 5000 hrs 
+ 3600 hrs if ever used w/ wood blades on all 
+ other models except 47G-3, 47G- 
+ Main Rotor Yoke (Steel) 
+ 47-120-177-1 
+ 3B, 47J, 47J-2 or 47J-2A 
+ 2500 hrs if ever used w/ wood blades on 
+ any model 47G-3, 47G-3B, 47J, 
+ 47J-2 or 47J-2A 
+ FLIGHT CONTROLS 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Collective Sleeve 
+ 47-150-117-13, /-21 
+ 5000 hrs 
+ Scissors Assembly 
+ 47-150-249-5 
+ 5000 hrs 
+ Tail Rotor Pitch Change 
+ Shaft Bearing 
+ 47-640-069-1, /-3 
+ 600 hrs (REF. AD 80-10-04 R1) 
+ Tail Rotor Pitch Change 
+ Shaft Bearing 
+ S3K or S3S 
+ 600 hrs (REF. AD 80-10-04 R1) 
+ TAIL ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Tail Rotor Yoke 
+ 47-641-104-5 
+ Not Eligible (REF. AD 80-10-04 R1) 
+ Tail Rotor Yoke 
+ 47-641-126-5 
+ 2500 hrs 
+ Tail Rotor Blade 
+ 47-642-102-(ALL) 
+ Not Eligible 
+ REF. AD 70-10-08 and AD 80-10-04 R1 
+ Tail Rotor Blade 
+ 47-642-117-1, /-105 
+ 2500 hrs 
+ Tail Rotor Drive Shaft 
+ 47-644-172-3 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-180-1, /-5 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-186-1 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-187-1, /-5 /-11 
+ Not Eligible (REF. AD 70-08-02) 
+ Tail Rotor Drive Shaft 
+ 47-644-214-1 
+ Not Eligible (REF. AD 70-08-02) 
+ POWERPLANT 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Engine Mount 
+ 47-612-171-(ALL) 
+ 2500 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-1 through /-7 
+ 600 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-9 
+ 600 hrs - 5 year shelf life 
+ TRANSMISSION 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Shear Screw 
+ 47-620-485-9 
+ 1200 hrs 
+ TABLE 7: Life Limits for Model 47G-5 
+ MAIN ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Main Rotor Blade 
+ 47-110-250-23 
+ 5000 hrs 
+ Main Rotor Pitch Horn 
+ 47-120-126-5 
+ 5000 hrs 
+ Main Rotor Drag Brace 
+ 47-110-372-1 
+ 2500 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-5, /-6 /-11 /-13 
+ /-15 /-17 
+ 1200 hrs 
+ Main Rotor Gimbal Ring 
+ 47-120-014-23 
+ 4800 hrs 
+ Main Rotor Grip 
+ 47-120-252-1, /-7 /-11 /-115 
+ 1200 hrs (REF. AD 2001-17-17) 
+ Main Rotor Grip 
+ 47-120-252-5 
+ 300 hrs 
+ 5000 hrs 
+ 3600 hrs if ever used w/ wood blades on all 
+ other models except 47G-3, 47G- 
+ Main Rotor Yoke (Steel) 
+ 47-120-177-1 
+ 3B, 47J, 47J-2 or 47J-2A 
+ 2500 hrs if ever used w/ wood blades on 
+ any model 47G-3, 47G-3B, 47J, 
+ 47J-2 or 47J-2A 
+ FLIGHT CONTROLS 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Collective Sleeve 
+ 47-150-117-13, /-21 
+ 5000 hrs 
+ Scissors Assembly 
+ 47-150-249-5 
+ 5000 hrs 
+ Tail Rotor Pitch Change 
+ Shaft Bearing 
+ 47-640-069-1, /-3 
+ 600 hrs (REF. AD 80-10-04 R1) 
+ Tail Rotor Pitch Change 
+ Shaft Bearing 
+ S3K or S3S 
+ 600 hrs (REF. AD 80-10-04 R1) 
+ TAIL ROTOR SYSTEM 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Tail Rotor Yoke 
+ 47-641-104-5 
+ Not Eligible (REF. AD 80-10-04 R1) 
+ Tail Rotor Yoke 
+ 47-641-126-5 
+ 2500 hrs 
+ Tail Rotor Blade 
+ 47-642-102-(ALL) 
+ Not Eligible 
+ REF. AD 70-10-08 and AD 80-10-04 R1 
+ Tail Rotor Blade 
+ 47-642-117-1, /-105 
+ 2500 hrs 
+ POWERPLANT 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Engine Mount 
+ 47-612-171-(ALL) 
+ 2500 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-1 through /-7 
+ 600 hrs 
+ Fan Belt (Matched Sets) 
+ 47-661-041-9 
+ 600 hrs - 5 year shelf life 
+ TRANSMISSION 
+ NOMENCLATURE 
+ PART NUMBER 
+ AIRWORTHINESS LIFE 
+ Shear Screw 
+ 47-620-485-9 
+ 1200 hrs 
+ TABLE 8: Life Limits for Model 47G-5A 
+ *The 47-612-171-115 engine mount is not eligible on 47G-3B-2A 
+ **Tip Weight Rotor used on 47G-3B-1, 47G-3B-2, 47G-3B-2A, 47G-4, and 47G-4A at 2950 lbs. G.W."
+NOTE 4,"Information essential for proper maintenance is contained in the appropriate model Bell Helicopter Textron 
+ Maintenance or Overhaul Manual."
+NOTE 5,"The following chart indicates the limiting manifold pressures at the altitude and temperatures shown for which the 
+ Model 47G-3 helicopter has been certificated. 
+ MAXIMUM PRESSURE LIMITS - 3200 R.P.M. 
+ MAXIMUM CONTINUOUS POWER 
+ 225 BHP (2 MIN. LIMIT) 
+ PRESS. 
+ FILTER AIR TEMPERATURE oC 
+ FILTER AIR TEMPERATURE oC 
+ ALT. FT. 
+ -25 
+ -5 
+ +15 
+ +35 
+ +46 
+ -25 
+ -5 
+ +15 
+ +20 
+ 0 
+ 32.1 
+ 33.1 
+ 34.2 
+ 35.0 
+ 35.0 
+ 32.6 
+ 33.8 
+ 34.7 
+ 35.0 
+ 2000 
+ 31.6 
+ 32.7 
+ 33.9 
+ 34.7 
+ 35.0 
+ 32.2 
+ 33.4 
+ 34.4 
+ 34.7 
+ 4000 
+ 31.5 
+ 32.4 
+ 33.9 
+ 34.8 
+ 34.3 
+ 32.0 
+ 33.2 
+ 34.3 
+ 34.7 
+ 6000 
+ 31.6 
+ 32.6 
+ 34.0 
+ 35.0 
+ - 
+ 32.2 
+ 33.5 
+ 34.6 
+ 34.9 
+ 8000 
+ 31.9 
+ 33.1 
+ 34.3 
+ 33.3 
+ - 
+ 32.7 
+ 33.9 
+ 35.0 
+ - 
+ 10000 
+ 32.5 
+ 33.7 
+ 34.8 
+ 30.5 
+ - 
+ 33.2 
+ 34.4 
+ - 
+ - 
+ 12000 
+ 33.3 
+ 34.4 
+ 34.0 
+ 28.0 
+ - 
+ 33.8 
+ - 
+ - 
+ - 
+ 14000 
+ 33.8 
+ 33.9 
+ 31.1 
+ 25.7 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 16000 
+ 31.3 
+ 32.4 
+ 28.4 
+ 23.5 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 18000 
+ 29.2 
+ 30.1 
+ 26.0 
+ 22.5 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 20000 
+ 27.3 
+ 27.9 
+ 23.6 
+ 19.5 
+ - 
+ - 
+ - 
+ - 
+ -"
+NOTE 6,"Model 47G-3 helicopters are eligible for increased takeoff horsepower and gross weight as shown below when 
+ engine and helicopter markings are revised in accordance with Bell Service Memo No. 152, Revision A, and when 
+ equipped with FAA Approved Helicopter Flight Manual dated January 11, 1961. 
+ Engine Limits 
+ Takeoff (2 minutes), 36.3 in.Hg., 3200 r.p.m. (240 hp.) 
+ The following chart indicates the limiting manifold pressure at the altitude and 
+ temperature shown: 
+ MANIFOLD PRESSURE LIMITS - 3200 R.P.M. 
+ MAXIMUM CONTINUOUS POWER 
+ TAKEOFF PWR. (2 MIN. LIMIT) 
+ PRESS. 
+ FILTER AIR TEMPERATURE oC 
+ FILTER AIR TEMPERATURE oC 
+ ALT. FT. 
+ -25 
+ -5 
+ +10 
+ +30 
+ +45 
+ -25 
+ -5 
+ +15 
+ +35 
+ 0 
+ 32.1 
+ 33.1 
+ 33.8 
+ 34.5 
+ 35.4 
+ 34.5 
+ 35.2 
+ 36.2 
+ 36.3 
+ 2000 
+ 31.6 
+ 32.7 
+ 33.6 
+ 34.5 
+ 35.4 
+ 34.2 
+ 35.3 
+ 36.3 
+ 36.3 
+ 4000 
+ 31.5 
+ 32.2 
+ 33.6 
+ 34.6 
+ 32.9 
+ 34.2 
+ 35.5 
+ 36.3 
+ 36.3 
+ 6000 
+ 31.6 
+ 32.6 
+ 33.9 
+ 35.0 
+ 30.4 
+ 34.4 
+ 35.9 
+ 36.3 
+ 35.9 
+ 8000 
+ 31.9 
+ 33.1 
+ 34.4 
+ 32.8 
+ 28.0 
+ 34.9 
+ 36.3 
+ 36.3 
+ - 
+ 10000 
+ 32.5 
+ 33.7 
+ 35.1 
+ 30.0 
+ 25.7 
+ 35.7 
+ 36.3 
+ 36.3 
+ - 
+ 12000 
+ 33.1 
+ 34.4 
+ 33.4 
+ 27.7 
+ 23.4 
+ 34.7 
+ 36.3 
+ - 
+ - 
+ 14000 
+ 32.7 
+ 33.9 
+ 30.5 
+ 25.6 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 16000 
+ 30.8 
+ 32.0 
+ 28.2 
+ 23.5 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 18000 
+ 29.2 
+ 30.3 
+ 26.2 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 20000 
+ 27.8 
+ 27.9 
+ 24.2 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ C.G. range 
+ 2850 lb. 
+ (-3.0) to (+3.3) 
+ 2350 lb. 
+ (-3.0) to (+4.0) 
+ 2100 lb. 
+ (-3.0) to (+4.0) 
+ 2850 
+ 2750 
+ AFT 
+ L 
+ IMIT 
+ 2650 
+ LB. 2550 
+ F 
+ WD 
+ LI 
+ MIT 
+ 2450 
+ 2350 
+ 2250 
+ 2100 
+ -3 -2 -1 
+ 0 
+ 1 
+ 2 
+ 3 
+ 4 
+ INCHES 
+ Maximum weight 
+ 2850 lb."
+NOTE 7,"Bell Model 47G-2 helicopters, serial numbers 1459 through 1641, 1957 through 2476, 2556 through 2559, and 2560 
+ through 2570 are eligible for conversion to a configuration similar to the Model 47G-2A when modified in 
+ accordance with Bell Service Instruction No. 384SI. Model 47G-2A Helicopter Flight Manual dated December 10, 
+ 1960, is applicable and required with this conversion. Name Plate Requirements: The conversion plate furnished by 
+ Bell Helicopter Company should be permanently attached next to and just aft of the manufacturer's identification 
+ plate."
+NOTE 8,"Bell Model 47G-3B. Horsepower available corresponding to the manifold pressure of 26.8 and 31.1 listed under 
+ engine limits will vary with altitude with 220 and 260 horsepower as maximum, respectively. This variation is 
+ nonlinear. (See Lycoming Drawing 12814). Manifold pressure may be adjusted as prescribed in the Helicopter 
+ Flight Manual to correct for nonstandard ambient temperatures and to maintain takeoff horsepower above 10,000 
+ feet. Maximum cumulative manifold pressure is 34.5 in.Hg."
+NOTE 9,"Bell Model 47G-3B-1 with Lycoming TVO-435-B1A or -B1B engines. Horsepower available corresponding to the 
+ manifold pressure of 26.8 and 32.8 in Hg. listed under engine limits will vary with altitude with 220 and 270 
+ horsepower as maximums, respectively. This variation is nonlinear. Manifold pressure may be adjusted as 
+ prescribed in the Helicopter Flight Manual to correct for nonstandard ambient temperature and to maintain takeoff 
+ horsepower above 8000 feet. Maximum cumulative manifold pressure is 36.0 in.Hg."
+NOTE 10. Bell Model 47G-5 is a 3 PCLH (Normal Category) helicopter when Synchronized Elevator Kit P/N 47-267-485 is,
+NOTE 11. Lycoming engine Model TVO-435-D1A is eligible in helicopter Model 47G-3B-1 when installed in accordance with,
+NOTE 12. Bell Model 47G-3B-2 with Lycoming TVO-435-G1A engine. Horsepower available corresponding to the manifold,
+"NOTE 13. Prior to civil certification, the military Model TH-13T helicopters must be modified in accordance with Bell Report",
+NOTE 14. Model 47G-3B-2A helicopters equipped with the external cargo sling installed in accordance with Bell Drawing,
+"NOTE 15. Model 47G-2A S/N 2657-2681, 2694-2743 (Note S/N 2730 was removed and re-identified as S/N 2857 for model",

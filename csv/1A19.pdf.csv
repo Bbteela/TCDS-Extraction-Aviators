@@ -1,0 +1,409 @@
+Keyterm,Info
+"1A19 
+ Revision 6 
+ Bombardier 
+ (Caribou) DHC-4 
+ (Caribou) DHC-4A 
+ January 31, 2006",
+Type Certificate Holder,"Viking Air Limited 
+ 9574 Hampden Road 
+ Sidney, British Columbia 
+ Canada V8L 8V5"
+Type Certificate Holder Record,"Bombardier, Inc. 
+ Regional Aircraft 
+ 123 Garratt Boulevard 
+ Downsview, Ontario, Canada M3K 1Y5"
+"I - 
+ Model DHC-4 (Transport Category), FAA Approved December 23, 1961; Canadian approval July 24, 1959 
+ Model DHC-4A, FAA Approved July 11, 1961; Canadian approval May 19, 1961 
+ DHC-4A same as DHC-4 except for gross weight modifications, see NOTE 4.",
+Engines,"2 P&W R-2000-7M2 or D-5 
+ Propeller reduction gearing 2:1"
+Fuel,100/130 minimum grade aviation gasoline
+Engine limits,"MP 
+ HP 
+ RPM 
+ IN HG ALT 
+ Low impeller gear ratio 7.15:1 
+ Takeoff (5 minutes) 
+ 1450 
+ 2700 
+ 50.0 
+ S.L. 
+ 1450 
+ 2700 
+ 49.5 
+ 3500' 
+ Maximum continuous 
+ 1200 
+ 2550 
+ 42.5 
+ S.L. 
+ 1200 
+ 2550 
+ 41.4 
+ 7000' 
+ (Straight-line manifold-pressure variation with altitudes shown)."
+Propellers and,"2 Ham. Standard, hubs 43D50, blades 7107A-0 standard or 7107B-0 deiced."
+propeller limits,"Diameter: Max. 13' 7/8"", min. allowable for repairs 12' 9-3/4"". 
+ Pitch settings at 42 in. sta.: 
+ Low pitch 21°, feathered 88°"
+Airspeed Limits CAS,"DHC-4 
+ DHC-4A 
+ Altitude (ft.) 
+ MPH 
+ Knots 
+ MPH 
+ Knots 
+ Vne (never exceed) 
+ S.L. to 10,000 
+ 248 
+ 215 
+ 243 
+ 211 
+ Above 10,000 ft. speed is reduced 1 mph 
+ (1 knot) per 1000 ft. 
+ Vno (normal operating) 
+ S.L. to 10,000 
+ 199 
+ 173 
+ 193 
+ 168 
+ Above 10,000 ft. speed is reduced 3 mph 
+ (3 knots) per 1000 ft. 
+ Va (maneuvering) 
+ 140 
+ 122 
+ 139 
+ 121"
+1,"2 
+ 3 
+ 4 
+ 5"
+6,"- 
+ 3 
+ 5 
+ 3 
+ Vfe (flaps extended) 
+ 0° to 15° (all engine powers) 
+ 122 
+ 107 
+ 122 
+ 107 
+ 15° to 20° (all engine powers) 
+ 112 
+ 97 
+ 112 
+ 97 
+ 20° to 30° (all engine powers) 
+ 100 
+ 85 
+ 100 
+ 85 
+ 30° to 40° (all engine powers) 
+ 90 
+ 80 
+ 90 
+ 80 
+ Vlo (Landing gear operation) 
+ 140 
+ 122 
+ 140 
+ 122 
+ Vle (Landing gear extended) 
+ 140 
+ 122 
+ 140 
+ 122 
+ Vmc (Single engine min. control) 
+ 76 
+ 66 
+ 80 
+ 69"
+CG range,"Weight (lb.) 
+ Fwd. Limits 
+ Aft Limits 
+ DHC-4 
+ 26000* 
+ (347.4) 
+ (357.2) 
+ 21000* or less 
+ (341.4) 
+ (357.2) 
+ DHC-4A 
+ 28500* 
+ (347.4) 
+ (357.2) 
+ 21000* or less 
+ (341.4) 
+ (357.2) 
+ *Straight-line variation between these values 
+ NOTE: 
+ The above C.G. limits are for the landing-gear-extended condition. 
+ Loadings based on this condition which fall within these limits 
+ will be satisfactory with the landing gear retracted."
+Datum,"193.0 inches forward of jig point which is marked by a plate attached to the underside of 
+ the fuselage at the centerline. Values in parentheses ( ) are inches aft of datum."
+MAC,120.8 inches (L.E. of M.A.C. +310.00)
+Leveling means,"Plumb-bob suspension and target brackets are located on the port side of doorway in 
+ cabin forward bulkhead."
+Maximum weight,"DHC-4 
+ Takeoff 
+ 26,000 lb. 
+ Landing 
+ 26,000 lb. 
+ Zero fuel and oil 
+ 26,000 lb. 
+ DHC-4A Takeoff 
+ 28,500 lb. 
+ Landing 
+ 28,500 lb. 
+ Zero fuel and oil 
+ 27,000 lb."
+Minimum crew,2 (Pilot and copilot)
+Maximum passengers,"30 - See Approved Weight and Balance Handbook, DHC Report Aeroc 4.3.G.2 for 
+ actual numbers and location"
+Maximum baggage,"Main Cabin 
+ Max. Floor 
+ Capacity 
+ Total 
+ Section Location 
+ Centroid 
+ (lb./sq/ft.) 
+ (lb./in.run) 
+ (lb.) 
+ C-1 (193.0) to (233.0) 
+ (213.0) 
+ 200 
+ 100 
+ 4000 
+ C-2 (233.0) to (273.0) 
+ (253.0) 
+ 200 
+ 100 
+ 4000 
+ C-3 (273.0) to (313.0) 
+ (293.0) 
+ 200 
+ 100 
+ 4000 
+ C-4 (313.0) to (353.0) 
+ (333.0) 
+ 200 
+ 100 
+ 4000 
+ C-5 (353.0) to (393.0) 
+ (373.0) 
+ 200 
+ 100 
+ 4000 
+ C-6 (393.0) to (433.0) 
+ (413.0) 
+ 200 
+ 100 
+ 4000 
+ C-7 (433.0) to (473.0) 
+ (453.0) 
+ 200 
+ 100 
+ 4000 
+ C-8 (473.0) to (513.0) 
+ (493.0) 
+ 200 
+ 100 
+ 4000 
+ C-9 (513.0) to (538.0) 
+ (525.5) 
+ 200 
+ 100 
+ 2500"
+Fuel capacity,"See NOTE 1(b) regarding ""Unusable fuel and system oil."" 
+ Usable Fuel 
+ Imp. gal. 
+ lb. 
+ Port wing tank 
+ 345 
+ 2484 
+ Starboard wing tank 
+ 345 
+ 2484 
+ Totals 
+ 690 
+ 4968 
+ (Imperial gallon equals 1.201 U.S. gal.)"
+Oil capacity,"See NOTE 1(b) regarding ""Unusable fuel and system oil."" 
+ Usable Fuel 
+ Imp. gal. 
+ lb. 
+ Port tank 
+ 14.1 
+ 127 
+ Starboard tank 
+ 14.1 
+ 127 
+ Totals 
+ 28.2 
+ 254"
+Maximum operating,"25,000 ft. (When suitable supplemental breathing equipment is provided for"
+altitude,passengers and crew.)
+Other operating,Aircraft shall be operated in compliance with the operating
+limitations,limitations specified in the approved Airplane Flight Manual.
+Control surface movements,"Rudder 
+ Left 20° + 1° 
+ Right 20° + 1° 
+ Rudder spring tab 
+ Left 24° + 1° 
+ Right 24° + 1° 
+ Rudder trim tab 
+ Left 15° + 2° 
+ Right 15° + 2° 
+ - 1° 
+ - 1° 
+ Stabilizer - Flaps Up 
+ Up 1° + 10' 
+ Flaps Down 
+ Up 5° + 15' 
+ Elevators 
+ Up 21° + 1° 
+ Down 10° + 1° 
+ Elevator trim tab 
+ Up 10° + 1° 
+ Down 20° + 1° 
+ Elevator spring tab 
+ Up 29° + 1° 
+ Down 20° + 1° 
+ Ailerons (Flaps Fully Down) 
+ Mid Aileron 
+ Up 20° + 1° 
+ Down 14 1/2° + 1° 
+ Outboard Aileron 
+ Up 22 1/2° + 1° 
+ Down 22 1/2° + 1° 
+ Ailerons (Flaps Fully Up) 
+ Mid Aileron 
+ Up 9 1/2° + 1° 
+ Down 5° + 1° 
+ Outboard Aileron 
+ Up 21° + 1° 
+ Down 16 1/2° + 1° 
+ Aileron trim tab 
+ Up 15° + 1° 
+ Down 15° + 1° 
+ Aileron rubber - interconnect tab 
+ Up 13° + 1° 
+ Down 13° + 1° 
+ (Flaps up, aileron neutral, no 
+ rudder spring tab wind up) 
+ Aileron geared tabs (Flaps up) 
+ Aileron up 
+ Up 3° + 1° 
+ Aileron Down 
+ Up 24° + 1° 
+ Wing Flaps (Maximum) 
+ Root & Inboard fore flap 
+ Down 40° + 1° 
+ Root & Inboard trailing flap 
+ Down fore flap 
+ angle plus 22° + 1° 
+ Mid fore flap 
+ Down 31° + 1° 
+ Outboard fore flap 
+ Down 31° + 1° 
+ Mid trailing flap 
+ Down fore flap 
+ (Mid aileron) 
+ angle plus 2 1/2° + 1° 
+ Outboard trailing flap 
+ Down fore flap 
+ (Outboard aileron) 
+ angle + 1°"
+Serial Nos eligible,"2 and 13 and subsequent. The Canadian Department of Transport Certificate of 
+ Airworthiness for export endorsed as noted under ""Import Requirement"" must 
+ be submitted for each individual aircraft for which application for certification is made. 
+ See NOTE 4 regarding Model DHC-4A."
+Import requirements,"A U.S. Airworthiness Certificate may be issued on the basis of Canada Department of 
+ Transport ""Certificate of Airworthiness for Export"" signed by the Controller of Civil 
+ Aviation. A ""D.O.T. Canada Conformity Certificate - Military Aircraft"" form, signed by 
+ the Regional Airworthiness Inspector, Department of Transport, may be used in lieu of 
+ the ""Certificate of Airworthiness for Export"" if the deviations listed in the ""Conformity 
+ Certificate - Military Aircraft"" have been modified to conform to the Type Design of the 
+ DHC-4. These forms must contain the following statement: ""This certifies that the 
+ aircraft described below has been manufactured in conformity with data forming the 
+ basis for D.O.T. Type Approval No. 49 (FAA Type Certificate No. 1A19)."" This 
+ certification equivalent to CAR Part 4b dated December 31, 1953 and Amendments 4b-1, 
+ 4b-2, 4b-3 and 4b-5 thereto.)"
+Certification basis,"CAR 10. Type Certificate No. 1A19 issued December 23, 1960. 
+ Date of Application for Type Certificate January 16, 1957. 
+ In addition to the above, it shall be ascertained that the following Bombardier 
+ documents have been complied with on all affected DHC-4 Series aircraft, as indicated 
+ below, prior to the issuance of a U.S. Airworthiness Certificate: 
+ 1. 
+ Engineering Bulletin No. 11, dated May 31, 1961 
+ (Applies to DHC-4 Series aircraft Serial Nos. 2 through 17). 
+ 2. 
+ Engineering Bulletin No. 12, dated December 28, 1961 
+ (Applies to DHC-4 Series aircraft Serial Nos. 2 through 32). 
+ 3. 
+ Modification Bulletin No. 4/1099, Issue ""3"", dated February 23, 1962 (Applies to 
+ DHC-4 Series aircraft Serial Nos. 1 through 43, 45, 46, 47, 49, 50, 51, 53, 54, 55, 
+ 57, 58 and 59). 
+ 4. 
+ Modification Bulletin No. 4/1101, Issue ""4"", dated January 18, 1962 (Applies to 
+ DHC-4 Series aircraft Serial Nos. 2 through 22, 24, and 25). 
+ 5. 
+ Modification Bulletin No. 4/1143, Issue ""2"", dated January 11, 1962 (Applies to 
+ DHC-4 Series aircraft Serial Nos. 2 through 54, except Serial No. 23). 
+ 6. 
+ Modification Bulletin No. 4/1150, Issue ""3"", dated July 18, 1962 
+ (Applies to DHC-4 Series aircraft Serial Nos. 1 through 43, 45, 46, 47, 49, 50, 51, 
+ 53, 54, 55, 57, 58, and 59). 
+ 7. 
+ Modification Bulletin No. 4/1182, Issue ""2"", dated July 17, 1962 
+ (Applies to DHC-4 Series aircraft Serial Nos. 2 through 38, except Serial Nos. 23 
+ and 34). 
+ 8. 
+ Modification Bulletin No. 4/1203, Issue ""3"", dated November 8, 1962 (Applies to 
+ DHC-4 Series aircraft Serial Nos. 4 through 74, except Serial Nos. 40, 56, and 73). 
+ All procedures in these documents, or an FAA-approved equivalent, shall be considered 
+ mandatory."
+Equipment,"Propeller and Propeller Accessories: 
+ 2 Hamilton Standards, Hubs 43D50-651 
+ Blade 7107D-0 De-iced 
+ Diameter 13 ft. 7/8 in. (minimum allowable 
+ for repairs 12 ft. 9 3/4 in.) 
+ Pitch settings at 42 in. Station 
+ Reverse 
+ -8° 
+ Min. Low 
+ 21° 
+ Feathered 
+ 88° 
+ Approved equipment is shown in the Equipment List, DHC Report Aeroc 4.1.G.5. The 
+ basic required equipment as prescribed in the applicable airworthiness regulations (see 
+ Certification Basis) must be installed in the aircraft for certification. In addition, the 
+ following items of equipment are required: 
+ (a) Stall warning system to Modification No. 4/1069 
+ (b) Approved Airplane Flight Manual dated January 20, 1961, reissued April 28, 1961."
+NOTE 1,"(a) A current Weight and Balance Handbook, DHC Report Aeroc 4.3.G.2, shall be carried in the aircraft at all 
+ times. 
+ (b) Unusable fuel and system oil and all hydraulic fluid must be included in the empty weight. 
+ Unusable fuel is that quantity of fuel in the system and in the tanks which is unavailable to the engines 
+ under critical flight conditions as defined in CAR 4b.416. The total amount of fuel is as follows: 
+ Usable fuel 
+ Unusable fuel 
+ (lb. at 7.2 lb./Imp.gal.) 
+ 46 lb. 
+ 690 Imp. gal. (4968 lb.) 
+ System oil is that amount of oil required to fill the oil system and tanks to the tank outlets to the engines. 
+ The total amount of oil is as follows: 
+ Usable Oil 
+ System Oil 
+ (lb. at 9.0 lb./Imp.gal.) 
+ 166 lb. 
+ 28.2 Imp. gal. (254 lb.)"
+NOTE 2,"""All placards required in the approved airplane flight manual must be installed in the appropriate locations."""
+NOTE 3,"Reference-Department of Transportation Approved Tables AIII-1 and AIII-2 contained in Appendix III Part 7 
+ of the DHC-4 Maintenance Manual for retirement times of various aircraft components."
+NOTE 4,"Model DHC-4 is converted to Model DHC-4A by the embodiment of modifications 4/1015, 4/1016 and 
+ 4/1017. Modifications incorporated at time of production in serial No. 23 and subsequent; the equivalent 
+ retrofit action is listed in Engineering Bulletin Series DHC-4 No. 10."

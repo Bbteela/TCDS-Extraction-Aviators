@@ -1,0 +1,389 @@
+Keyterm,Info
+"A-734 
+ Revision 19 
+ Frakes Aviation 
+ G-44 (Army OA-14 
+ Navy J4F-2) 
+ G-44A 
+ SCAN Type 30 
+ March 4, 1981",
+Type Certificate Holder,"Frakes Aviation 
+ 2101 W. Kilpatrick Street 
+ Cleburne, Texas 76033"
+Type Certificate Holder Record,"Gulfstream American Corporation transferred to 
+ Frakes Aviation on March 4, 1981 
+ CORPORATION, P. O. BOX 2206, SAVANNAH, GEORGIA 31402."
+"I - Model G-44 (Army OA-14; Navy J4F-2), Widgeon, 5 PCL-AmFbM; Approved April 5, 1941; 
+ Model G-44A, Widgeon 5 PCL-Am-FbM, Approved October 4, 1945. 
+ (See Note 5 for French ""SCAN Type 30""). 
+ Prior to civil certification of J4F-2 aircraft, bomb rack, if installed, should be removed. The three through bolts in 
+ the front and rear wing beam flanges should be left in place or short bolts installed to preserve the fuel tight properties 
+ of the integral fuel tanks 
+ Model G-44A, Serial Nos. 1401 and up, identical to the Model G-44 except for revised hull bottom lines, relocation 
+ of the electrical distribution panel in the cockpit, relocation of airspeed pitot installation and other minor changes.",
+Engines,2 Rangers 6-440-C5 (See item 108 for optional engines)
+Fuel,87 minimum octane aviation gasoline (See items 5 & 6 for 91 octane).
+Engine limits,"For all operations, 2450 rpm (200 hp)"
+Airspeed limits,"Level flight or climb 
+ 175 mph (152 knots) True Ind. 
+ Glide or dive 
+ 210 mph (183 knots) True Ind. 
+ Flaps extended 
+ 104 mph ( 90 knots) True Ind."
+CG range,(+14.8) to (+22.5)
+Maximum weight,4525 lb. (See engine item 108(A) for increased weight)
+No seats,"5 (Two at (-6), one at (+19), two at (+52)"
+Maximum baggage,"Rear compartment - 400 lb. (+90) 
+ Bow compartment - miscellaneous seaplane equipment 20 lb. (-50)"
+Fuel capacity,108 gal. (Two tanks: 54 gal. each in center section) (+21)
+Oil capacity,7 gal. (+10). (Two tanks: 3 1/2 gal. each in nacelles)
+Control surface movements,"Wing flaps 
+ 38° down 
+ Elevator trim tab 
+ 10° up 
+ 33° down 
+ Elevator 
+ 31° up 
+ 21° down 
+ Aileron 
+ 20° up 
+ 21° down 
+ Rudder trim tab 
+ 25° right 
+ 25° left 
+ Rudder 
+ 30° right 
+ 27° left 
+ Stabilizer aux. tab 
+ 30° down"
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+19,"17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 17"
+Serial Nos eligible,"1201 and up for aircraft fabricated by Grumman. (1401 and up are Model G-44A.) 
+ (See NOTE 5 for ""SCAN Type 30"")"
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 4a, the following 
+ items of equipment must be installed: 1, 101, 102, 103, 104, 201(a), 202(a), 301, 302, 
+ and 401(a). (See NOTE 3 for operation as landplane or flying boat only.)"
+Specification Pertinent to All Models,
+Datum,Wing leading edge at center section
+Leveling means,"Leveling lugs on horizontal stringers left side of cockpit (Serial Nos. 1202 to 1207, 
+ inclusive.); built-in spirit level at right front seat (Serial Nos. 1208 and up.)"
+Certification basis,Type Certificate No. 734 (CAR 4a)
+Production basis,None.
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item of equipment indicates net weight change 
+ when that item is installed. 
+ Approval for the installation of all items of equipment listed herein has been obtained by the aircraft 
+ manufacturer except those items preceded by an asterisk (*). The asterisk denotes that approval has been 
+ obtained by someone other than the aircraft manufacturer. An item marked with an asterisk may not have 
+ been manufactured under a FAA monitored or approved quality control system. Conformity must be 
+ determined if the item is not identified by a Form FAA-8130-3, PMA or other evidence of FAA production 
+ approval."
+1,"Two fixed wood propellers which are rated for the engine 
+ (including hubs) 54 lb. (-47) 
+ power and speed and which meet the following limits: 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2085, not under 1985. 
+ No additional tolerance permitted. 
+ Diameter: Not over 82 in., not under 80 in."
+"2. 
+ Two Curtiss fixed pitch metal propellers, Model 55518-10 (62 in.)",
+3,+79 lb. (-45)
+R20121185T,"Low pitch static rpm at maximum permissible throttle setting: 
+ Not over 2230, not under 2130. 
+ No additional tolerance permitted. 
+ Pitch setting at 32 in. station: Low 12°, high 26°. 
+ Diameter: Not over 85 in., not under 83 in. 
+ Cylinder heat temp. gage connected to No. 6 cylinder of each engine 
+ and oil cooler fairings, Grumman Part No. 122702 required."
+"4. 
+ Two Kopper Aeromatic propellers, Model 220, blades O-82A",
+Parts list Assembly No 4300,"When this item is installed, airplane shall be operated in accordance 
+ with CAA Approved Operating Manual as prepared by J. L. Ashley Jr., 
+ Buck's Flying School, Lovell Field, Chattanooga, Tenn. and approved 
+ October 14, 1947. No change in parts list assembly is permitted"
+5,"Two Hartzell reversible propellers, hubs HC-12X20-2 or -3, blades 8428. 
+ 124 lb. (-47) 
+ Pitch setting at 30 in. station: High 20°, low 14°. 
+ Diameter: Not over 84 in., not under 82-5/16 in. 
+ accordance with Hatzell Propeller Co. Dwg. SK-108. 
+ Placard required: ""Warning, do not reverse propellers in flight 
+ or landing. Use reverse for taxi only. Reduce rpm below 1300"
+before reversing propellers,"Placard required on or near fuel filler cap: 
+ ""91 minimum octane fuel required."""
+6,"130 lb. (-47) 
+ Diameter: Not more than 84.5 in., not less than 82.5 in. 
+ Low pitch setting at 30 in sta.: 13°. 
+ Minimum clearance between propeller hub and jackplate determined 
+ with engine running and propeller in high pitch position to be 1/16 in. 
+ Installation to be accomplished in accordance with Hatzell Installation 
+ Instructions No. 3, dated October 26, 1951, and Hartzell Dwg. SK108, Rev. B. 
+ Additional required equipment: Cylinder head temperature indicators. 
+ 11 lb. (-8) 
+ Placard required on or near fuel filler cap: 
+ ""91 minimum octane fuel required."""
+7,"Two Hartzell propellers for use with Lycoming engines, Item 108 only."
+a Hubs HC12X209 blades 9333C0,"79 lb. (-42) 
+ Pitch setting at 30 in. station: Low 17.5°, high 37.5° 
+ Placard required: ""Avoid continuous operation between 1675 
+ and 2160 engine rpm and above 2900 rpm."""
+b Hubs HC82X202 blades 9333C3,"68 lb. (-42) 
+ (1) With item 108A engines 
+ Pitch setting at 30 in. station: Low 19° 
+ (2) With item 108B engines 
+ Pitch setting at 30 in. station: Low 18°, high auto. 
+ stop 23.5°, feather 89°."
+c,"Hubs HC-83X20-2A, blades 8433-0 
+ (1) With Item 108B engines 
+ Pitch setting at 30 in. station: Low 14°, high auto. 
+ stop 21.3°, feather 82.5°. 
+ Diameter: 84 in. No additional tolerance permitted. 
+ (2) With Item 108C engines 
+ Pitch setting at 30 in. station: Low 15.5°, high auto. 
+ top 22.8°, feather 84.0°. 
+ Diameter: 84 in. No additional tolerance permitted. 
+ Engines and Engine Accessories - Fuel and Oil Systems 
+ 101. Two starters (electric) (Eclipse Y-150) 
+ 79 lb. (-42)"
+aTwo enginedriven Pesco 227D,1 lb. (0)
+b Two wobble Type D2,"3 lb. (+5) 
+ 103. Two oil coolers (U.A.P. #3150, 5 in. diameter) 
+ 24 lb. (-1)"
+a One enginedriven Pesco 204A,"4 lb. (+3) 
+ (b) One hand (Air Associates HC-1077-1) 
+ 3 lb. (-15)"
+b Two wobble Type D2,No weight change
+b One hand Bowser 176,"No weight change 
+ 107. Two starters (electric) (Eclipse E-80) 
+ No weight change"
+108 Engines,"A. Two Lycoming GO-435-C2 or GO-435-C2B when modified in 
+ accordance with the drawings referred to on Master Dwg. 
+ No. SPD-712116 furnished by Link Aeronautical Corp., Endicott, 
+ New York (previously by Lockheed Aircraft Service, Inc.). 
+ The following revisions to existing limitations are applicable: 
+ Fuel 
+ 91/98 min. grade aviation gasoline 
+ Engine limits 
+ Take-off (2 Min.), 3400 rpm (260 hp) 
+ Maximum continuous, 
+ (With Item 7(a) prop.) 2900 rpm (235 hp) 
+ (With Item 7(b) prop.) 3000 rpm (240 hp) 
+ Maximum weight (Landplane) 
+ 5000 lb. 
+ (Flying boat) 4700 lb. 
+ Oil capacity 
+ 6 gal. (3 gal. per engine) (-12) 
+ Control surface 
+ Wing flaps 
+ 38° 
+ down 
+ Elevator 
+ 31° up 
+ 21° 
+ down 
+ Elevator tab 
+ 11° up 
+ 32° 
+ down 
+ Aileron 
+ 19.5° up 
+ 20.5° down 
+ Rudder 
+ 29.5° right 
+ 26.5° left 
+ Rudder trim tab 
+ 25° right 
+ 25° 
+ left 
+ Stabilizer aux. tab 
+ 30° 
+ down 
+ Required 
+ equipment: 
+ Items 7(a) or (b), 201(a), 202(a), 302, 401(a) and 
+ 401(c), and the following additional items: 
+ (1) 
+ Two starters (Eclipse 397-50 type E-80) 
+ 39 lb (+1.5) 
+ (2) 
+ Four fuel pumps 
+ (a) 
+ Two engine-driven (Thompson TFD 900-1) 
+ (-0.5) 
+ (b) 
+ Two boost pumps (Thompson TFD 900-1) 
+ (+10) 
+ (3) Two hydraulic pumps 
+ (a) 
+ One engine-driven (Pesco 1P-349-P-2) 
+ 4 lb. (+1) 
+ (b) 
+ One hand (Electrol 190)3 lb. (-15) 
+ (4) 
+ Two oil coolers (U-6005-DV-5), 5"" diameter 
+ 24 lb. (-1) 
+ (5) 
+ Generator (Leece-Neville E-7A), 50 amp. 
+ 23 lb. (+2)"
+B,"Two Lycoming GO-435-C2B 
+ When installed in accordance with instructions and with 
+ assemblies furnished with McKinnon-Hickman Co. (Portland Ore.) Kit 
+ No. 101270. The following revisions to existing limitations are applicable: 
+ Fuel 
+ 91/98 min. grade aviation gasoline with Item 7(b)(2) propellers. 
+ 80/87 min. grade aviation gasoline with Item 7(c)(1) propellers. 
+ Engine limits 
+ Take-off (2 Min.), 3400 rpm (260 hp) 
+ Maximum continuous, 3000 rpm (240 hp) 
+ Maximum weight (Landplane) 
+ 5000 lb. 
+ (Flying boat) 
+ 4700 lb. 
+ Oil capacity 
+ 6 gal. (3 gal. per engine) (-16) 
+ Required 
+ equipment: 
+ Items 7(b) or 7(c), 104(b), 201(a), 202(a), 302, 
+ 401(a), 401(d) and the following additional items: 
+ (1) Two starters (Eclipse 397-50 type E-80) 
+ 39 lb. (+6.5) 
+ (2) Four fuel pumps 
+ (a) 
+ Two engine-driven (AN4100 or AN4101) 
+ 4 lb. (-1) 
+ (b) 
+ Two auxiliary (AN4100 or AN4101) 
+ 4 lb. (+10) 
+ (3) One engine-driven hydraulic pump 
+ (Pesco 1P-349PB or 1P203LA) 
+ (4) Two oil coolers 
+ (a) 
+ Heat Exchangers Model 1100 
+ 16 lb. (-28) 
+ or (b) Heat Exchangers Model 1103 
+ 22 lb. (-28) 
+ (5) Generator (Leece-Neville E-7A, 50 amp.) 
+ 23 lb. (+4) 
+ (6) Two propeller governors 
+ 7 lb. (-35) 
+ (Hamilton Standard 1Q12-G1)"
+C,"Two Lycoming GO-480-B1 
+ When installed in accordance with instructions and assemblies furnished with 
+ McKinnon-Hickman Co. (Portland, Ore.) Kit No. 101270-480. 
+ Fuel 
+ 80/87 min. grade aviation gasoline 
+ Engine limits 
+ Take-off (2 Min.), 3400 rpm (270 hp) 
+ Maximum continuous, 3000 rpm (260 hp) 
+ Maximum weight 
+ (Landplane) 
+ 5000 lb. 
+ (Flying boat) 4700 lb. 
+ Oil capacity 
+ 6 gal. (3 gal. per engine) (-16) 
+ Required 
+ equipment: 
+ Items 7(c)(2), 104(b), 201(a), 202(a), 
+ 302, 401(a), 401(f), 406 and the following 
+ additional items: 
+ 39 lb. (+6.5) 
+ (1) Two starters (Eclipse 397-50 type E-80) 
+ (2) Four fuel pumps 
+ 4 lb. (-1) 
+ (a) 
+ Two engine-driven (AN4100 or AN4101) 
+ (b) Two auxiliary (AN4100 or AN4101) 
+ 4 lb. (+10) 
+ (3) One engine-driven hydraulic pump 
+ 4 lb. (+1.5) 
+ (Pesco 1P-349PB or 1P203LA) 
+ (4) Two oil coolers (Heat Exchangers Model 1103) 
+ 22 lb. (-28) 
+ (5) Generator (Leece-Neville E-7A, 50 amp.) 
+ 23 lb. (+4) 
+ (6) Two propeller governors (Hamilton 
+ 7 lb. (-35) 
+ Standard 1Q12-G1"
+Landing Gear,"201. Two main wheel-brake assemblies, 7.50-10, with 7.50-10, 6-ply HD tires"
+a,"Goodrich 753A, Assy. No. G-3-45A 
+ (Retracted) 80 lb. (+6)"
+b,"Goodrich 753A, Assy. No. G-3-175A 
+ No weight change 
+ 202. Tail wheel assembly, 10 in., with 10.5 in., 6-ply streamline tire"
+a Goodrich B14161,5 lb. (+164)
+b Goodrich B3127A,No weight change
+Electrical and Radio Equipment,"301. Generator, 10 amp. (Ranger NA-16621) 
+ 15 lb. (+2) 
+ 302. Battery, 38 amp. hr. (Exide 6 TAS-9-1) 
+ 36 lb. (+22)"
+303 Landing light Grimes ST250,4 lb. (+35)
+a,"Receiver and transmitter (Lear AMTR-12), dynamotor, 
+ 28 lb. (+1) 
+ and antenna reel 
+ (Receiver and transmitter on right side under wing beam. Dynamotor under 
+ right pilot's seat and antenna reel on panel over pilot's head)."
+b,"Alternate receiver and transmitter (Lear T30-RBCC) 
+ 36 lb. (-1)"
+c,"Equivalent radio equipment in same location 
+ 50 lb. (-1) 
+ 305. Extra landing light (Grimes ST-250) 
+ 4 lb. (+35) 
+ 306. Generator, 25 amp. (Eclipse 309-9) 
+ +6 lb. (+2) 
+ 307. Generator, 50 amp. (Eclipse 790-1) 
+ 24 lb. (+2)"
+Interior Equipment,"401. (a) CAA Approved Airplane Flight Manual (Airplane Operating Manual 
+ is the equivalent). 
+ (b) Supplement to Airplane Flight Manual dated April 5, 1951 
+ (Required with item 402.) 
+ (c) CAA Approved Airplane Flight Manual supplement for Grumman 
+ ""Widgeon"" with Lycoming GO-435-C2 engine, dated July 2, 1952, 
+ or CAA Approved Airplane Flight Manual supplement for Grumman 
+ G-44 and G-44A ""Widgeon"" with Lycoming GO-435-C2B engines, 
+ dated March 2, 1953. (Required with item 108A.) 
+ (d) CAA Approved Airplane Operating Manual for the Grumman G-44 
+ and G-44A ""Widgeon"" with Lycoming GO-435-C2B engines, dated 
+ March 23, 1953. (Required with item 108B.) (Revision (2) required 
+ when Item 7(c) propellers are installed.) 
+ (e) Supplement to Airplane Flight Manual dated June 9, 1954. 
+ (Required with Item 402(b). 
+ (f) CAA Approved Airplane Operating Manual for the Grumman G-44 and G-44A 
+ ""Widgeon"" with Lycoming GO-480-B1 engines, dated December 21, 1954."
+"*402. 
+ (a) Lear Model 1120B (L-2B) automatic pilot installed in accordance",
+Grumman Dwg 17819,"404. Pressure fire extinguisher (Lux, 2 engine type) 
+ 25 lb. (-40)"
+a,"Single arm (Throw-over type wheel) 
+ 3 lb. (-22)"
+b,"Double arm (""Y"" type wheel) 
+ 8 lb. (-22) 
+ *406.McKinnon-Hickman Co. (Portland, Ore.) Rudder trim boost system 
+ 8 lb. (-33) 
+ in accordance with Dwg. 11,000A, Rev. 1 and Installation"
+*407.Stewart Warner Model 940 heater when installed with assemblies,
+601 Anchor and rope Northill,"19 lb. (-87) 
+ NOTE 1. Current weight and balance report including list of equipment included in certificated weight 
+ empty, and loading instructions when necessary, must be in each aircraft at the time of original 
+ certification and at all times thereafter (except in the case of air carrier operators having an approved 
+ NOTE 2. The following placard shall be placed on the instrument panel in full view of the pilot in all configurations:"
+a,"""This airplane shall be operated in accordance with the CAA Approved Operating Manual for 
+ Grumman Model G-44 (G-44A), which shall be carried in the pilot's compartment at all times."" 
+ Additional required placards are indicated under pertinent items of equipment. 
+ NOTE 3. (a) Landplane - The wing tip floats may be removed provided the airplane is placarded for use as landplane only. The 
+ decrease in empty weight is approximately 45 lb."
+b,"Flying boat - The landing gear and tail wheel, their external retracting mechanism, and the brake operating system 
+ may be removed, provided the airplane is placarded as a flying boat, and the support tubes, attaching 
+ bolts, etc. are installed so as to maintain hull water tightness, and provided the unused hydraulic 
+ tubes are plugged. The decrease in weight empty is approx. 185 lb."
+"NOTE 4. (a) Model G-44A also eligible with main step vents on hull and step extension from station 15 and 15A installed. 
+ (b) Models G-44 and G-44A also eligible with main step vents on hull and step extension from station 15 to 15A",
+(c) Models G-44A and G-44 (Navy J4F-2) also eligible with alternate wing tip floats having redesigned lines above,
+"by Societe' Construction Airo-Navales, under license to Grumman Aircraft Engineering Corporation; Model :",

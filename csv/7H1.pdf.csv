@@ -1,0 +1,641 @@
+Keyterm,Info
+"7H1 
+ Revision 16 
+ Airbus Helicopters 
+ SE 3130-ALOUETTE II 
+ SE 313B-ALOUETTE II 
+ SA 3180-ALOUETTE ASTAZOU 
+ SA 318B-ALOUETTE ASTAZOU 
+ SA 318C-ALOUETTE ASTAZOU 
+ January 10, 2014",
+Type Certificate Holder,"Airbus Helicopters 
+ Aeroport International Marseille Provence 
+ 13725 - Marignane - Cedex 
+ France"
+TC Holder Record,"Eurocopter France changed name to Airbus Helicopters on January 1, 2014."
+"Section I. - Model SE 3130 Alouette II, approved 14 January 1958 
+ - Model SE 313B Alouette II, approved 28 August 1968",
+Engine,"Model SE 3130: Turbomeca Artouse 11B1, IIC, IIC1, IIC2, IIC5, IIC6 
+ Model SE 313B: Turbomeca Artouste IIC5, IIC6"
+FUEL,"SPECIFICATION (Latest Amendment) 
+ REMARKS 
+ FRENCH 
+ NATO 
+ USA 
+ UK 
+ AIR 3405 
+ F34 
+ D.eng.RD 2453 
+ (TRO) 
+ AVTUR/FA II 
+ F35 
+ D.eng.RD 2494 
+ AVTUR 
+ AIR 3407 
+ F40 
+ MIL-T-5624 
+ D.eng.RD 2486 
+ (TR4) 
+ (JP.4) 
+ AVTAG FA II 
+ F45 
+ D.eng.RD 2486 
+ AVTAG"
+AVIATION,"AIR 3404 
+ F42"
+FUELS,"(TR5) 
+ TR.5 
+ F44 
+ MIL-T-5624 
+ D.eng.RD 2498 
+ (JP.5) 
+ AVCAT 
+ F12 
+ MIL-G-5572 
+ 25 hr. maximum between overhauls 
+ Gasoline 
+ F18 
+ MIL-G-5572 
+ D. eng. RD 2485 
+ is is recommended to add 1% to 2 % 
+ AIR 3401 
+ F22 
+ oil, preferably mineral oil. 
+ 7120 STM 
+ F75 
+ MIL-F-16884 
+ DEF STAN 31-4 
+ Do not use below - 15°C"
+NAVY,Gas Oil = O
+FUELS,"7120 STM 
+ F76 
+ Gas Oil = 20 
+ Automotive 
+ 25 hr maximum between overhauls 
+ Gasoline 
+ F46 
+ DEF 2401 
+ it is recommended to add 1% to 2%"
+OTHER,"DCEA/2D 
+ oil; preferably mineral oil."
+FUELS,"MT 80 
+ Illuminating 
+ Sulfur: less than 02% 
+ oil (kerosene) 
+ F58 
+ V V K 211 
+ DEF 2403 
+ Flash point: not less than 38°C. 
+ DCEA/IIC 
+ Freezing point: not greater than 
+ -40°C."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+Rev No,"16 
+ - 
+ - 
+ 14 
+ 15 
+ - 
+ 16"
+FUEL,"SPECIFICATION (Latest Amendment) 
+ REMARKS 
+ FRENCH 
+ NATO 
+ USA 
+ UK"
+OTHER,"Automotive 
+ Sulfur: less than 1% Kinematic"
+FUELS,"Diesel oil 
+ F54 
+ V V F 800 
+ TS 10003 
+ viscosity at 20°C: less than 9 cst. 
+ 40 Dieso 
+ Class DF 2 
+ Do not use below O°C. 
+ DCEA/21C"
+ENGINE OIL,"SPECIFICATION (Latest Amendment) 
+ REMARKS 
+ FRENCH 
+ NATO 
+ USA 
+ UK"
+Normal,"AIR 3512 
+ 0.138 
+ Shell Turbine oil 
+ DED 2479 
+ Refer to instruction entitled ""OIL 
+ 9 
+ COLD"" in paragraphs 1.6.1 and 1.6.2 
+ Esso Aviation 
+ in Flight Manual 
+ oil 57 
+ Caltex Jet eng. 
+ oil heavy"
+For outside,"AIR 3515 
+ 0.135 
+ Aeroshell 
+ D.Eng.RD"
+temperature,"turbine oil 3 
+ 2490"
+below 10°C,"Esso Aviation 
+ utility oil F 
+ or 
+ Caltex Jet eng. 
+ oil medium 
+ DEF 2001 
+ heavy 
+ Caltex aircraft 
+ instrument oil"
+For outside,DED 2480
+Engine Limits,"Maximum speed 
+ 34,000 r.p.m. 
+ Maximum power 
+ 400 hp 
+ Maximum tail pipe temperature (t4) 
+ 550°C for a max. of 15 min. 
+ Maximum continuous tail pipe temp. 
+ 510°C"
+Rotor limits,"Maximum speed 
+ 420 r.p.m. 
+ Minimum speed 
+ 280 r.p.m. 
+ Constant speed, power-on flight 
+ 360 r.p.m."
+Maximum Weight,"Model SE 3130 : 3300 lb. 
+ Model SE 313B : 3500 lb. (See NOTE 8)"
+"Section II. - Model SA 3180 Alouette - Astazou, approved November 25, 1964 
+ - Model SA 318B Alouette - Astazou, approved August 28, 1968 
+ - Model SA 318C Alouette - Astazou, approved August 28, 1968",
+Engine,Turbomeca Astazou IIA power unit
+FUEL,"SPECIFICATION (Latest Amendment) 
+ REMARKS 
+ FRENCH 
+ NATO 
+ USA 
+ UK 
+ AIR 3405* 
+ F34 
+ D.eng.RD 2453 
+ (TRO) 
+ AVTUR/FS II 
+ F35 
+ D.eng.RD 2494 
+ AVTUR 
+ AIR 3407* 
+ F40 
+ MIL-T-5624 
+ D.eng.RD 2454"
+AVIATION,"(TR4) 
+ (JP.4) 
+ AVTAG FS II"
+FUELS,"F45 
+ D.eng.RD 2486 
+ AVTAG 
+ AIR 3404* 
+ F42 
+ (TR5) 
+ TR.5 * 
+ F44 
+ MIL-T-5624 
+ D.eng.RD 2498 
+ (JP.5) 
+ AVCAT 
+ F12 
+ MIL-G-5572 
+ 25 hr. maximum between overhauls 
+ Gasoline * 
+ F18 
+ it is recommended to add 1% to 2% 
+ AIR 3401 
+ F22 
+ MIL-G-5572 
+ D.eng.RD 2485 
+ oil. Preferably mineral oil. 
+ 7120 STM 
+ F75 
+ MIL-F-16884 
+ DEF STAN 31-4 
+ Do not use below -15°C For the 
+ Gas Oil =O 
+ normal use of this fuel the AZ 156"
+NAVY,"7120 STM 
+ F76 
+ unit containing one of the fuel"
+FUELS,"Gas Oil =20 
+ marked*: 
+ -is recommended in all cases. 
+ -is essential if the temperature is 
+ below 10°C. 
+ Automotive 
+ 25 hr. maximum between overhauls 
+ Gasoline 
+ F46 
+ DEF 2401 
+ it is recommended to add 1% to 2% 
+ DCEA/2D 
+ oil, preferably mineral oil. 
+ MT 80"
+OTHER,"Illuminating oil 
+ Sulfur: less than0.2%"
+FUELS,"(kerosene) 
+ F58 
+ V V K 211 
+ DEF 2403 
+ Flash point: not less than 38°C. 
+ DCEA/IIC 
+ Freezing point: not greater than -40°C 
+ Automotive 
+ Sulfur: less than 1% Kinematic 
+ Diesel Oil 
+ F54 
+ V V F 800 
+ TS 10003 
+ viscosity at 20°C less than 9 cst. 
+ 40 Dieso 
+ Class DF 2 
+ Do not use below 0°C. 
+ DCEA/21C 
+ For the normal use of this fuel the AZ 
+ 156 unit (SNIAS S.B. 28.14) 
+ containing one of the fuel marked*: 
+ - is recommended in all cases 
+ - is essential if the temperature is 
+ below 10°C."
+ENGINE OIL,"SPECIFICATION (Latest Amendment) 
+ REMARKS 
+ FRENCH 
+ NATO 
+ USA 
+ UK 
+ AIR 3513 
+ 0.148 
+ MIL-L-7808 
+ Aeroshell"
+NORMAL,"AIR 3515 
+ 0.135 
+ Turbine Oil 3. 
+ Esso Avn. 
+ D.Eng.RD 
+ Use of brands other than those shown 
+ Utility Oil F 
+ 2490 
+ opposite requires S.G.A.C. approval. 
+ Caltex jet engine 
+ oil medium 
+ heavy 
+ The mixing of oils AIR 3513 and AIR 3515 is not permitted. The system should be flushed when changing from one type to the"
+Engine Limits,"Engine speed : 43,500 r.p.m. held constant by governor (transient variations of + 1500 
+ r.p.m. are permissible when applying rapid collective - pitch variations) 
+ Maximum takeoff power : 523 hp. (See NOTE 6) 
+ Maximum continuous power: 473 hp. (See NOTE 6) 
+ Maximum tail pipe temperature for starting (30 seconds): 550°C peak value 
+ 630°C for period 
+ not exceeding 3 seconds (between 5,000 and 10,000 r.p.m.) 
+ Maximum for take off : 525°C (See NOTE 6) 
+ Maximum continuous tail pipe temperature : 500°C (See NOTE 6)"
+Rotor limits,"Maximum speed 
+ 420 r.p.m. 
+ Minimum speed 
+ 280 r.p.m. 
+ Constant speed, power-on flight 
+ 362 r.p.m."
+Maximum Weight,"Model SA 3180 : 3300 lb. 
+ Model SA 318B : 3500 lb. (See NOTE 8) 
+ Model SA 318C : 3650 lb. (See NOTE 8)"
+"Section III, Data Applicable to All Models",
+Airspeed Limits,"Never Exceed Speed: 105 kt for SE 3130, SE 313B ) 
+ See NOTE for 
+ SA 3180, SA 318B ) 
+ required placard 
+ 111 kt for SA 318C 
+ )"
+CG Range,"(107.1) to (120.9) for SE 3130, SE 313B 
+ (107.09) to (124.02) for SA 3180, SA 318B, and for SA 318C with speed limitation."
+Datum,118.11 forward of rotor centroid.
+Leveling Means,"Two leveling lugs on body structure LH lower corners and two leveling lugs on body 
+ structure RH lower corners."
+Number of Seats,"5. Pilot, co-pilot (51); 3 passengers (87)."
+Maximum baggage,"220 lb. under rear seat (86.6) (with 5 persons of 176 lb. ea. on board) or 507 lb. behind 
+ pilot's and front passenger's seats, with rear seat folded (74.8) (One pilot and one front 
+ passenger on board). (See NOTE 2 for required placard)."
+Fuel capacity,"153 gals. (120), usable 149 gals."
+Oil Capacity,"2 gals. (137 for model SE 3130 and SE 313B) 
+ (150 for model SA 3180, SA 318B and SA 318C)"
+Rotor Blade Movements,"For rigging information, refer to Alouette II or Alouette Astazou Maintenance Manual, 
+ as applicable."
+Serial Nos Eligible,"The French Government Certificate of Airworthiness for Export endorsed as noted under 
+ ""Import Requirements"" must be submitted for each individual helicopter for which 
+ application for certification is made. For applications for Standard Airworthiness 
+ Certificates made after May1, 2004, a review of historical records is needed to determine 
+ if the helicopter was delivered to and operated by the military. If the helicopter has 
+ military history, the helicopter is not eligible for a Standard Airworthiness Certificate 
+ unless a copy of a Standard Airworthiness Certificate issued at the time of delivery to the 
+ military is submitted."
+Certification Basis,"CAR 10. CAR 6 effective January 15, 1951 including Amendment 6-1 through 6-8, plus 
+ Special Conditions notified by the U.S. government to the Government of France in FAA 
+ letter of May 28, 1957. 
+ Type Certificate No. 7H1 issued January 14, 1958 
+ Date of Application October 11, 1955 
+ The French Direction Generale de l’Aviation Civile (DGAC) originally type 
+ certificated this rotorcraft under its type certificate TC 1. The FAA validated 
+ this product under U.S. Type Certificate Number 7H1. Effective September 28, 
+ 2003, the European Aviation Safety Agency (EASA) began oversight of this 
+ product on behalf of the DGAC."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on a National Aviation 
+ Authority (NAA) Export Certificate of Airworthiness (Export C of A) signed by 
+ a representative of the French Generale de l’Aviation Civile (DGAC) on behalf 
+ of the European Community. 
+ The Export C of A should contain the following statement: “The aircraft covered 
+ by this certificate has been examined, tested, and found to comply with the type 
+ design approved under U.S. Type Certificate Number 7H1 and to be in a 
+ condition for safe operation.”"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. In addition, the 
+ following item of equipment is required: 
+ (a) SGAC approved Alouette II or Alouette Astazou Flight Manual, as applicable."
+Service Information,"Each of the documents listed below must state that it is approved by the 
+ European Aviation Safety Agency (EASA) or – for approvals made before 
+ September 28, 2003 – by the French Generale de l’Aviation Civile (DGAC). 
+ Any such documents are accepted by the FAA and are considered FAA 
+ approved. 
+  
+ Service Bulletin, 
+  
+ Structural repair manuals, 
+  
+ Vendor manuals, 
+  
+ Aircraft flight manuals, and 
+  
+ Overhaul and maintenance manuals. 
+ This applies only to the acceptance of the type design data."
+NOTE 1,"Current weight and balance report, including list of equipment included in certificated empty weight, and 
+ loading instructions when necessary, must be provided for each helicopter at the time of original 
+ certification. In order to obtain the most consistent weight and balance results, all model helicopters should 
+ be weighed on jackpoints rather than on skids, wheels or floads. When changes are made to the helicopter 
+ which affect the weight and balance refer to the Flight Manual for instructions. 
+ The certificated empty weight and corresponding center of gravity location must include unusable fuel of 26 
+ lb. (120) and undrainable oil of 2.2 lb. (162.2 for models SE 3130, SE 313B and 172.5 for models SA 3180, 
+ SA 318B and SA 318C)."
+NOTE 2,"The following placards must be displayed: 
+ (1) In full view of the pilot: 
+ (a) ""This helicopter must be operated in compliance with the operating limitations specified in the 
+ SGAC approved helicopter Flight Manual"". 
+ (b) ""Never exceed speeds. Variation of Vne with altitude and weight"". 
+ (b) (1) SE 3130 Alouette II and SA 3180 Alouette Astazou. 
+ Altitude 
+ Sea Level 
+ 3,000 ft 
+ 6,000 ft 
+ 9,000 ft 
+ 12,000 ft 
+ 13,500 ft 
+ Weight (lb) 
+ kt 
+ kt 
+ kt 
+ kt 
+ kt 
+ kt 
+ 3,300 
+ 105 
+ 95 
+ 85 
+ 3,100 
+ 105 
+ 100 
+ 90 
+ 80 
+ 2,900 
+ 105 
+ 105 
+ 95 
+ 85 
+ 75 
+ 2,700 
+ 105 
+ 105 
+ 100 
+ 90 
+ 80 
+ 75 
+ 2,400 
+ 105 
+ 105 
+ 105 
+ 95 
+ 85 
+ 80 
+ 2,200 
+ 105 
+ 105 
+ 105 
+ 100 
+ 90 
+ 85 
+ (b) (2) SE 313B Alouette II and SA 318B Alouette Astazou. 
+ Altitude 
+ Sea Level 
+ 3,000 ft 
+ 6,000 ft 
+ 9,000 ft 
+ 12,000 ft 
+ 13,500 ft 
+ Weight (lb) 
+ kt 
+ kt 
+ kt 
+ kt 
+ kt 
+ kt 
+ 3,500 
+ 100 
+ 90 
+ 80 
+ 3,300 
+ 105 
+ 95 
+ 85 
+ 3,100 
+ 105 
+ 100 
+ 90 
+ 80 
+ 2,900 
+ 105 
+ 105 
+ 95 
+ 85 
+ 75 
+ 2,700 
+ 105 
+ 105 
+ 100 
+ 90 
+ 80 
+ 75 
+ 2,400 
+ 105 
+ 105 
+ 105 
+ 95 
+ 85 
+ 80 
+ 2,200 
+ 105 
+ 105 
+ 105 
+ 100 
+ 90 
+ 85 
+ (b) (3) SA 318C Alouette Astazou 
+ Altitude 
+ Sea Level 
+ 3,000 ft 
+ 6,000 ft 
+ 9,000 ft 
+ 12,000 ft 
+ 13,500 ft 
+ Weight (lb) 
+ kt 
+ kt 
+ kt 
+ kt 
+ kt 
+ kt 
+ 3,650 
+ 111 
+ 108 
+ 95 
+ 78 
+ 3,500 
+ 111 
+ 108 
+ 95 
+ 78 
+ 3,300 
+ 111 
+ 108 
+ 95 
+ 81 
+ 67 
+ 3,100 
+ 111 
+ 108 
+ 96 
+ 84 
+ 73 
+ 67 
+ 2,900 
+ 111 
+ 108 
+ 98 
+ 88 
+ 78 
+ 73 
+ 2,700 
+ 111 
+ 108 
+ 100 
+ 92 
+ 84 
+ 80 
+ 2,400 
+ 111 
+ 108 
+ 101 
+ 95 
+ 89 
+ 85 
+ (2) Secured to the floor in the rear right corner: 
+ ""Maximum baggage 220 pounds under rear seat (+86.6 in) with 5 persons of 176 pounds each on board, 
+ or 507 pounds behind pilot and front passenger seats, with rear seat folded (+74.8 in) and one pilot and 
+ one front passenger on board""."
+NOTE 3,"The retirement times of critical parts are listed in Alouette II Maintenance Manual, or Alouette Astazou 
+ Maintenance Manual, chapters 5, SGAC-approved."
+NOTE 4,"These helicopters must be serviced and maintained in conformance with the following manuals, as 
+ applicable, of which chapter 5 ""Periodic Inspection"" is SGAC approved: 
+ (a) Alouette II Maintenance Manual (airframe and engine) 
+ (b) Alouette - Astazou Maintenance Manual (airframe and engine)"
+NOTE 5,"The Siren Sling and Air Equipment rescue hoist are special purpose equipment and should be operated in 
+ accordance with the limitations described in CAR 8. Information concerning operation limitations is also 
+ contained in the helicopter Flight Manual."
+NOTE 6,"Maximum certificated horsepower for this installation is limited to 400 hp due to rotor transmission 
+ limitations. 
+ For the same reason, the maximum permissible exhaust gas temperatures are limited to: 
+ - Takeoff: 
+ 490°C (For OAT 15°C and below) and 515°C at OAT: 45°C; 
+ Straight line interpretation between 15°C and 45°C. 
+ - Maximum continuous : 460°C"
+NOTE 7,"To convert the model SE 3130 Alouette II to the Model SA 3180 Alouette-Astazou the following assemblies 
+ must be installed in place of the corresponding assemblies designed for the SE 3130 Alouette II in 
+ accordance with Sud Aviation modification AM 817: 
+ Assembly 
+ Drawing No. 
+ - Engine Astazou II A 
+ 3180-50-50.000 
+ - Oil system (engine and M.G.B.) 
+ 3180-54-10.000 
+ - Engine vent 
+ 3180-50-50.010 
+ - Clutch unit 
+ 3180-63-10.000 
+ - Rear engine mount 
+ 3180-21-03.100 
+ or 
+ 3180-21-03.200 
+ - Engine controls 
+ 3180-76-13.000 
+ - Fuel system 
+ 3180-52-00.000.1 
+ - Main gear box 
+ 3160-62-00.000.9 
+ - Main rotor shaft 
+ 3160.68.10.000.2 
+ - Starter wiring installation 
+ 3180.72.22.300 
+ - Spring actuator 
+ 3180-89-00.000 
+ - Instrument panel installation 
+ 3180-76.50.000 
+ - Firewall assembly 
+ 3180-59-10.000 
+ - Transmission support platform 
+ 3180-27-60.000 
+ (Stainless steel 
+ Further, the following equipment (optional on Alouette II) must mandatorily be installed. 
+ - Servo-unit installation 
+ 3130-73-71.000"
+NOTE 8,"(1) to convert the model SE.3130 Alouette II to the Model SE 313B or the model SA 3180 Alouette - 
+ Astazou to the Model SA 318B the following modifications are required: 
+ - High pitch stop adjusted for 15° 
+ - Reinforced main rotor blades P/N 3130-11-20.000 
+ - Body structure reinforced transversal bar P/N 3130-21-15.100 
+ - Artouste IIC5 or IIC6 engines must be installed for model SE 3130 Alouette II only. 
+ - Instruction plates P/N 3130-25-20.090, index marks on pitch indicator P/N 3130-90-00.144, instruction 
+ plates P/N 3180-76-26.011. 
+ - Modification of marking helicopter 318-00-10.006 (Alouette-Astazou) 313B-00-00.020 (Alouette II). 
+ - And the following tail rotor gear box/tail rotor hub modifications: 
+ Either: 
+ Reinforced tail rotor gear box P/N 3130-66-70.000 and tail rotor head P/N 3130-33-30.000.1. 
+ or 
+ Fork type rotor hub 3180-33-00.000 and tail rotor blades P/N 3160-34-10.000.6 
+ Tail rotor gear box P/N 3160-66-10.000.1 
+ The following modifications must be embodied before floats are installed: 
+ - Reinforced float type landing gear P/N 3130-73-54.500 
+ - Hydraulic dampers on float type landing gear P/N 3130-46-10.560 
+ (2) To convert the model SA 3180 Alouette-Astazou to the model SA 318C the following modifications are 
+ required in addition to the foregoing (except instruction plates P/N 3130-25-20.090 and P/N 3180-76- 
+ 26.011) 
+ - Landing gear reinforced transversal bar P/N 3180-46-10.010 or P/N 3180-46-10.015 
+ - Landing gear shock strut P/N 3180-46-10.100 
+ - Instruction plates P/N 3180-25-10.040 and P/N 3180-76-26.019 
+ - Marking on airspeed indicator P/N 3180-90-00.006"
+NOTE 9,"Effective January 1, 2014, Eurocopter France name was changed to Airbus Helicopters."

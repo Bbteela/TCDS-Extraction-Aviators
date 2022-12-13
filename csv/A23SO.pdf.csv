@@ -1,0 +1,798 @@
+Keyterm,Info
+"A23SO 
+ Revision 20 
+ Piper Aircraft, Inc 
+ PA-42 
+ PA-42-720 
+ PA-42-1000 
+ June 24, 2010",
+Type Certificate Holder,"Piper Aircraft, Inc. 
+ 2926 Piper Drive 
+ Vero Beach, Florida 32960"
+Type Certificate Holder Record,"The New Piper Aircraft, Inc transferred TC A23SO to Piper Aircraft, Inc on August 7, 
+ 2006."
+"I. - Model PA-42 (Cheyenne III), 6 - 11 PCLM (Normal Category), Approved December 18, 1979.",
+Engine,"2 United Aircraft of Canada, Ltd. or Pratt & Whitney PT6A-41 (turboprop)"
+Fuel,"JP-4, JP-5, commercial kerosene, Jet A, A-1 and B fuels conforming to Pratt & Whitney 
+ Specification 522, or Service Bulletin 3044. (Fuels shall conform to the specifications as 
+ listed or to subsequent revisions thereto). See NOTE 6 for emergency fuel."
+Oil engine  gearbox,UACL PT6 Engine Service Bulletin No. 3001 lists approved brand oils.
+Engine Limits,"Maximum 
+ Permissible 
+ Turbine 
+ Shaft 
+ Nl Gas 
+ Prop Shaft 
+ Interstage 
+ Horsepower 
+ Generator Speed 
+ Speed 
+ Temp. (° C) 
+ Takeoff & Max. continuous 
+ **720 
+ 101.5% 
+ 2000* 
+ 750 
+ Max. climb & cruise 
+ **720 
+ 101.5% 
+ 2000* 
+ 750 
+ Starting transient (5 sec.) 
+ ----- 
+ ----- 
+ ----- 
+ 1000 
+ Max. reverse (1 Min.) 
+ 200 
+ ----- 
+ 1900 
+ 750 
+ *See NOTE 4(a) 
+ **Available to ISA +37°C 
+ At most altitudes and low ambient temperatures the engines will produce more power at 
+ takeoff than that for which the airplane has been certificated. Under all conditions the 
+ placarded torquemeter limitations shall not be exceeded. 
+ Oil temperatures: - 40° C, minimum starting 
+ - 40° C to 99° C, low idle 
+ 10°C to 99°C, maximum continuous 
+ 104° C for 5 min. or 102° C for 10 min."
+Propeller and Propeller Limits,"2 Hartzell HC-B3TN-3B or 2 Hartzell HC-B3TN-3K hubs 
+ with Hartzell T10173AB-6Q and/or T10173ANB-6Q blades. 
+ Diameter: 95 inches. No reduction permitted. 
+ Pitch settings at 
+ Low Pitch Stop - See NOTE 5(a) 
+ Reverse - See NOTE 5(b) 
+ Feathered - See NOTE 5(c)"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ Rev. No. 20 11 12 15 13 20 20 12 
+ 19 
+ 15"
+Propeller Governor,2 Woodward 8210-027 or 8210-024 propeller governors
+Airspeed Limits,"KCAS 
+ KIAS 
+ VMO 
+ (Max. Operating) 
+ 246 
+ 245 
+ (Up to 17,400 ft. See VMO chart 
+ for speeds above 17,400 ft. in Flight 
+ Manual.) 
+ VA 
+ (Maneuvering) 
+ (Minimum Weight - 6,662 lb.) 
+ 142 
+ 140 
+ (Max. Weight - 11,200 lb.) 
+ 175 
+ 174 
+ VFE 
+ (Max. Flaps Extended) 
+ 10° Flaps 
+ 196 
+ 195 
+ 30° Full Flaps 
+ 152 
+ 151 
+ VLO 
+ (Max. Landing Gear Operating) 
+ (Extend) 
+ 174 
+ 173 
+ (Retract) 
+ 156 
+ 154 
+ VLE 
+ (Max. Landing Gear Extended) 
+ 174 
+ 173 
+ VMC 
+ (Minimum Control Speed) 
+ 98 
+ 97"
+C G Range,"(+126.0) 
+ to 
+ (+137.5) 
+ at 
+ 7,330 lb. or less 
+ (+130.3) 
+ to 
+ (+137.5) 
+ at 
+ 11,200 lb. 
+ Straight line variation between points given. 
+ Moment change due to retracting landing gear +1146 in.-lb."
+Empty Weight C G Range,None
+Maximum Weight,"Ramp: 
+ 11,285 lb. 
+ Takeoff: 
+ 11,200 lb. 
+ Landing: 
+ 10,330 lb. 
+ Zero Fuel: 
+ 9,350 lb. 
+ Centerline: 
+ 9,150 lb."
+Minimum Crew,One pilot
+Number of Seats,"Executive Configuration: 
+ 2 seats at +99.0 in. 
+ 2 seats at +137.7 in. 
+ 2 seats at +184.7 in. 
+ 2 seats at +218.7 in. 
+ 1 seat at +277.9 in. 
+ High Density Configuration: 
+ 2 seats at +99.0 in. 
+ 2 seats at +131.2 in. 
+ 2 seats at +167.7 in. 
+ 2 seats +201.7 in. 
+ 2 seats at +235.7 in. 
+ 1 seat at +270.7 in."
+Maximum Baggage,"Nose Baggage 
+ 300 lb. at +6.0 in. 
+ Aft Area 1 
+ 200 lb. at +291.0 in. (High Density Configuration) 
+ 200 lb. at +301.0 in. (Executive Configuration) 
+ Aft Area 2 
+ 100 lb. at +321.0 in. 
+ Wing Lockers 
+ 100 lb. each locker at +180.0 in."
+Fuel Capacity,"562 gallons 
+ See NOTE 1(a) for unusable fuel data"
+Oil Capacity,26 quart total at +86 in. (includes 12 quart usable in two integral engine tanks)
+Control Surface,"Aileron 
+ (+1.0°,-0°) 
+ 29° 
+ Up 
+ (+1.0°,-0°) 
+ 15° Down"
+Movements,"Aileron Tab 
+ (+1.0°,-0°) 
+ 18.5° Up 
+ (+1.0°,-0°) 
+ 18.5° Down"
+All measurements taken,(Aileron Neutral)
+at trailing edge from,"Elevator 
+ (+0.5°,-0°) 
+ 12° 
+ Up 
+ (+1.0°,-0°) 
+ 20° Down"
+neutral position for elevator,"Elevator Tab 
+ (+1.0°,-2.0°) 
+ 7° 
+ Up 
+ (+1.0°,-0°) 
+ 30° Down"
+and rudder neutral position,(Elevator Neutral)
+for aileron down 2°,"Rudder 
+ (+1.0°,-0°) 
+ 30° 
+ Right 
+ (+1.0°,-0°) 
+ 20° Left 
+ Rudder Tab 
+ (+1.0°,-0°) 
+ 10° 
+ Right 
+ (+1.0°,-0°) 
+ 20° Left 
+ (Rudder Neutral) 
+ Flaps 
+ (+1.0°,-0°) 
+ 0° 
+ Up 
+ (+1.0°,-0°) 
+ 30° Down"
+Maximum Operating Altitude,"33,000 feet"
+Serial Numbers Eligible,42-7800001 through 42-8001106 (See NOTE 9)
+"II. - Model PA-42-720 (Cheyenne IIIA), 6 - 11 PCLM (Normal Category), Approved March 24, 1983.",
+Engine,"2 United Aircraft of Canada, Ltd., or Pratt & Whitney PT6A-61 (turboprop)"
+Fuel,"JP-4, JP-5, commercial kerosene, Jet A, A-1 and B fuels conforming to Pratt & Whitney 
+ Specification 522, or Service Bulletin 3044. (Fuels shall conform to the specifications as 
+ listed or to subsequent revisions thereto). See NOTE 6(a) for emergency fuel."
+Oil engine  gearbox,UACL PT6 Engine Service Bulletin No. 13001 lists approved brand oils
+Engine Limits,"Maximum 
+ Permissible 
+ Turbine 
+ Shaft 
+ Nl Gas 
+ Prop Shaft 
+ Interstage 
+ Horsepower 
+ Generator Speed 
+ Speed 
+ Temp. (°C) 
+ Takeoff, Max. continuous, 
+ Max. Cruise, & Max. Climb 
+ **720 
+ 104.0% 
+ 2000* 
+ 800 
+ Starting transient (5 sec.) 
+ - - 
+ - - 
+ - - 
+ 1000 
+ Max. reverse (1 Min.) 
+ 200 
+ - - 
+ 1900 
+ 800 
+ *See NOTE 4(b) 
+ **Available to ISA + 37°C 
+ At most altitudes and low ambient temperatures the engines will produce more power at 
+ takeoff than that for which the airplane has been certificated. Under all conditions the 
+ placarded torquemeter limitations shall not be exceeded. 
+ Oil temperatures: - 40° C, minimum starting 
+ - 40° C to 99° C, low idle 
+ 10° C to 99° C, max. continuous 
+ 104° C for 10 min."
+Propeller and Propeller Limits,"2 Hartzell HC-B3TN-3B or 2 Hartzell HC-B3TN-3K hubs 
+ with Hartzell T10173AB-6Q and/or T10173ANB-6Q blades. 
+ Diameter: 95 inches. No reduction permitted. 
+ Pitch settings at 
+ Low Pitch Stop - See NOTE 5(a) 
+ Reverse - See NOTE 5(b) 
+ Feathered - See NOTE 5(d)"
+Propeller Governor,2 Woodward 8210-027 propeller governors
+Airspeed Limits,"KCAS 
+ KIAS 
+ VMO (Max. Operating) 
+ 246 
+ 244 
+ (Up to 22,200 ft. See VMO chart 
+ for speeds above 22,200 ft. in 
+ Flight Manual.) 
+ VA 
+ (Maneuvering) 
+ (Minimum Weight - 6,662 lb.) 
+ 142 
+ 140 
+ (Max. Weight - 11,200 lb.) 
+ 175 
+ 173 
+ VFE 
+ (Max. Flaps Extended) 
+ (10° Flaps) 
+ 196 
+ 194 
+ (30° Full Flaps) 
+ 152 
+ 150 
+ VLO 
+ (Max. Landing Gear Operating) 
+ (Extend) 
+ 174 
+ 172 
+ (Retract) 
+ 156 
+ 154 
+ VLE 
+ (Max. Landing Gear Extended) 
+ 174 
+ 172 
+ VMC (Minimum Control Speed 
+ 98 
+ 96 
+ without Autofeather) 
+ VMC (Minimum Control Speed - 
+ 93 
+ 91 
+ Autofeather Operation) 
+ See Note 10 for optional weight and maneuvering speed."
+C G Range,"(+126.0) 
+ to 
+ (+137.5) 
+ at 
+ 7,330 lb. or less 
+ (+130.3) 
+ to 
+ (+137.5) 
+ at 
+ 11,200 lb. 
+ Straight line variation between points given 
+ Moment change due to retracting landing gear +1146 in.-lb. 
+ See Note 10 for optional weight and C.G. range"
+Empty Weight C G Range,None
+Maximum Weight,"Ramp: 
+ 11,285 lb. 
+ Takeoff: 
+ 11,200 lb. 
+ Landing: 
+ 10,330 lb. 
+ Zero Fuel: 
+ 9,350 lb. 
+ Centerline: 
+ 9,150 lb. 
+ See Note 10 for optional weights."
+Minimum Crew,One pilot
+Number of Seats,"Executive Configuration: 
+ 2 seats at +99.0 in. 
+ 2 seats at +138.5 in. 
+ 2 seats at +187.3 in. 
+ 2 seats at +223.3 in. 
+ 2 seats at +279.0* in. 
+ *Alternate location +264.1 in. (side facing) 
+ High Density Configuration: 
+ 2 seats at +99.0 in. 
+ 2 seats at +131.3 in. 
+ 2 seats at +164.0 in. 
+ 2 seats at +199.5 in. 
+ 2 seats at +235.5 in. 
+ 1 seat at +265.2 in."
+Maximum Baggage,"Nose Baggage 
+ 300 lb. at +6.0 in. 
+ Aft Area 1 
+ 200 lb. at +291.0 in. (High Density Configuration) 
+ 200 lb. at +301.0 in. (Executive Configuration) 
+ Aft Area 2 
+ 100 lb. at +321.0 in. 
+ Wing Lockers 
+ 100 lb. each locker at +180.0 in."
+Fuel Capacity,"562 gallons 
+ See NOTE 1(a) for unusable fuel data"
+Oil Capacity,26 quart total at +86 in. (includes 12 quart usable in two integral engine tanks)
+Control Surface,"Aileron 
+ (+1.0°,-0°) 
+ 29° 
+ Up 
+ (+1.0°,-0°) 
+ 15° Down"
+Movements,"Aileron Tab 
+ (+1.0°,-0°) 
+ 18.5° Up 
+ (+1.0°,-0°) 
+ 18.5° Down"
+All measurements taken,(Aileron Neutral)
+at trailing edge from,"Elevator 
+ (+0.5°,-0°) 
+ 12° 
+ Up 
+ (+1.0°,-0°) 
+ 20° Down"
+neutral position for elevator,"Elevator Tab 
+ (+1.0°,-2.0°) 
+ 7° 
+ Up 
+ (+1.0°,-0°) 
+ 30° Down"
+and rudder neutral position,(Elevator Neutral)
+for aileron down 2°,"Rudder 
+ (+1.0°,-0°) 
+ 30° 
+ Right 
+ (+1.0°,-0°) 
+ 20° Left 
+ Rudder Tab 
+ (+1.0°,-0°) 
+ 10° 
+ Right 
+ (+1.0°,-0°) 
+ 20° Left 
+ (Rudder Neutral) 
+ Flaps 
+ (+1.0°,-0°) 
+ 0° 
+ Up 
+ (+1.0°,-0°) 
+ 30° Down"
+Maximum Operating Altitude,"35,000 feet"
+Serial Numbers Eligible,"42-8301001, 42-8301002, 42-5501003 through 42-5501060 
+ (except 42-5201024, 42-5501028, 42-5501032, 42-5501034 through 42-5501038)"
+"III. - Model PA-42-1000 (Cheyenne 400LS), 6 - 11 PCLM (Normal Category), Approved July 13, 1984.",
+Engine,"1 Garrett Turbine Engine Company TPE-331-14A 
+ 1 Garrett Turbine Engine Company TPE-331-14B"
+Fuel,"Aviation turbine fuels 
+ AiResearch Specification 
+ Type A 
+ EMS53111 
+ Type A-1 
+ EMS53112 
+ Type JP-5 
+ EMS53116 
+ (Fuel shall conform to the specifications as listed or to 
+ subsequent revisions thereof.) Cheyenne 400LS 
+ not approved for aviation gasoline or JP-4"
+Oil,"MIL-L-23699 conforming to AiResearch Manufacturing Company 
+ Specification EMS53110 Type II"
+Engine Limits,"Shaft 
+ Prop Shaft 
+ Temperature 
+ Horsepower 
+ Speed 
+ (EGT)°C 
+ Takeoff & Max. continuous 
+ **1000 
+ *1540 
+ VRL*** 
+ Starting Limit (1 sec.) 
+ ----- 
+ ----- 
+ 700 
+ Max. reverse 
+ ----- 
+ ----- 
+ VRL*** 
+ *See NOTE 4(c) 
+ **Available to ISA +66° F 
+ *** Variable redline dependent on engine operating conditions. During 
+ manual mode refer to POH for limits."
+Oil Temps,"- 40° C to 110° C (normal operations) 
+ - 40° C to 127° C (ground operations only)"
+Propeller and Propeller Limits,"Dowty Rotol - R339/4-123-F/8 
+ Eligible on TPE-331-14A 
+ Dowty Rotol R341/4-123-F/9 
+ Eligible on TPE-331-14B 
+ Diameter: 106 inches 
+ Pitch at 36.278 station 
+ Start locks: 
+ 0.9° ± 1° 
+ Flight idle: 
+ 10° ± 30' 
+ Feathered: 
+ 86° 25' ± 15"" 
+ Reverse: 
+ -10° ± 1°"
+Propeller Governor,"1 Woodward 8210-103 propeller governor (left engine) 
+ 1 Woodward 8210-265C propeller governor (right engine)"
+Airspeed Limits,"KCAS 
+ KIAS 
+ VMO (Max. Operating) 
+ 246 
+ 244 
+ (Up to 25,300 feet. See VMO Chart 
+ for speeds above 25,300 ft. in Flight 
+ Manual.) 
+ VA 
+ (Maneuvering) 
+ (Minimum Weight - 7,600 lb.) 
+ 157 
+ 155 
+ (Max. Weight - 12,050 lb.) 
+ 189 
+ 187 
+ VFE 
+ (Max. Flaps Extended) 
+ (10° Flaps) 
+ 196 
+ 194 
+ (30° Full Flaps) 
+ 169 
+ 167 
+ VLO 
+ (Max. Landing Gear Operating) 
+ (Extend) 
+ 172 
+ 170 
+ (Retract) 
+ 172 
+ 170 
+ VLE 
+ (Max. Landing Gear Extended) 
+ 172 
+ 170 
+ VMC (Minimum Control Speed) 
+ 101 
+ 99"
+C G Range,"(+126.5) 
+ to 
+ (+133.1) 
+ at 
+ 7,000 lb. 
+ (+126.5) 
+ to 
+ (+135.1) 
+ at 
+ 8,750 lb. 
+ (+127.4) 
+ to 
+ (+136.0) 
+ at 
+ 9,500 lb. 
+ (+130.3) 
+ to 
+ (+136.0) 
+ at 
+ 12,050 lb. 
+ Straight line variation between points given. 
+ Moment change due to retracting landing gear +1207 in.-lb."
+Empty Weight C G Range,None
+Maximum Weight,"Ramp: 
+ 12,135 lb. 
+ Takeoff: 
+ 12,050 lb. 
+ Landing: 
+ 11,100 lb."
+Minimum Crew,One pilot
+Number of Seats,"Executive Configuration: 
+ 2 seats at +99.0 in. 
+ 2 seats at +138.5 in. 
+ 2 seats at +187.3 in. 
+ 2 seats at +223.3 in. 
+ 1 seats at +265.2 in. (Std. Fwd. Facing)* 
+ *Alternate Locations +275.0 in. (Fwd. Facing) 
+ +264.1 in. (Side Facing)"
+Maximum Baggage,"Nose Baggage 
+ Area 1 
+ 150 lb. at +2.0 in. 
+ Nose Baggage 
+ Area 2 
+ 150 lb. at +34.0 in. 
+ Aft Area 1 
+ 200 lb. at +301.0 in 
+ Aft Area 2 
+ 100 lb. at +321.0 in."
+Fuel Capacity,"582 gallons 
+ See NOTE 1(b) for unusable fuel data"
+Oil Tank Capacity,14.9 quart total at (+63.1) (includes 13.26 quarts usable in two integral engine tanks)
+Control Surface,"Aileron 
+ (+1.0°,-0°) 
+ 26° 
+ Up 
+ (+1.0°,-0°) 
+ 15° Down"
+Movements,"Aileron Tab 
+ (+1.0°,-0°) 
+ 14° 
+ Up 
+ (+1.0°,-0°) 
+ 14° Down"
+All measurements taken,(Aileron Neutral)
+at trailing edge from,"Elevator 
+ (+0.5°,-0°) 
+ 12° 
+ Up 
+ (+1.0°,-0°) 
+ 20° Down"
+neutral position for elevator,"Elevator Tab 
+ (+1.0°,-2.0°) 
+ 7° 
+ Up 
+ (+1.0°,-0°) 
+ 30° Down"
+and rudder neutral position,(Elevator Neutral)
+for aileron down 2°,"Rudder 
+ (+1.0°,-0°) 
+ 25° 
+ Right 
+ (+1.0°,-0°) 
+ 25° Left 
+ Rudder Tab 
+ (+1.0°,-0°) 
+ 15° 
+ Right 
+ (+1.0°,-0°) 
+ 15° Left 
+ (Rudder Neutral) 
+ Flaps 
+ (+1.0°,-0°) 
+ 0° 
+ Up 
+ (+1.0°,-0°) 
+ 30° Down"
+Maximum Operating Altitude,"41,000 feet."
+Serial Numbers Eligible,42-5527002 through 42-5527044.
+DATA PERTINENT TO ALL MODELS,
+Datum,137 inches forward of the main spar centerline.
+Leveling Means,"Lateral: Seat tracks station 245 inside cabin doors. 
+ Longitudinal: Two rivnuts on right hand side of fuselage above and forward of the wing 
+ leading edge. 
+ MODELS"
+Certification Basis,"PA-42 
+ PA-42-720 
+ PA-42-1000 
+ X 
+ X 
+ X 
+ FAR Part 23, effective February 1, 1965,"
+effective February 14 1975,"X 
+ X 
+ X"
+And Paragraph 2345 2349 2365,"23.67, 23.77, and 23.1581 as amended 
+ by Amendment 23-21, effective March 1,"
+1978,"X 
+ X 
+ X"
+February 1 1977,"X 
+ X 
+ X 
+ And Paragraph 23.1145 as amended by"
+1977,"X 
+ X 
+ X"
+December 1 1978,"X 
+ X 
+ X"
+1980,"PA-42 
+ PA-42-720 
+ PA-42-1000"
+And Special Condition No 2390SO3,"X 
+ X 
+ X"
+Amendment 1 Docket No 19591,"And SFAR 23, Paragraph 55, effective 
+ X 
+ X 
+ X"
+And Special Condition No 23ACE27,"X 
+ X 
+ X"
+Docket No 027CE,"And fuel venting section of SFAR 27-1, 
+ X 
+ X 
+ X"
+effective January 1 1975,"X 
+ X"
+Engineering and Manufacturing Branch,"letter of August 7, 1980, showing the 
+ equivalent level of safety finding to"
+FAR 23201e,X
+And the FAA Atlanta Aircraft,"Certification Office letter of July 9, 1984, 
+ showing the equivalent level of safety 
+ findings to FAR 23.201, FAR 23.203,"
+FAR 23205 and FAR 23207,"And FAR Part 36, including Amend- 
+ X 
+ X 
+ ments 1 thru 6, effective January 25, 1977. 
+ And FAR Part 36, including Amend- 
+ X 
+ ments 1 thru 12, effective August 1, 1981. 
+ X 
+ X 
+ And Paragraph 23.1447(c) and (d) as"
+September 1 1977,"X 
+ And Paragraph 23.1111 as amended by"
+1977,X
+effective September 1 1977,"X 
+ X 
+ X 
+ Compliance with ice protection has been"
+Application for Type Certificate,"7/21/75 
+ 2/25/82 
+ 11/25/81"
+Type Certificate,"12/18/79 
+ 3/24/83 
+ 7/13/84"
+Production Basis,"Production Certificate No. 206 (See NOTE 8). 
+ Production Limitation Record issued and the manufacturer authorized to issue 
+ airworthiness certificate under the delegation option provisions of FAR 21."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (See Certification Basis) must be installed in the aircraft for certification. 
+ In addition, the following items of equipment are required: 
+ 1. 
+ FAA approved Airplane Flight Manual Piper Report No. LK-1221, Appendix B 
+ dated 12/18/79, for PA-42, S/N 42-7800001 through 42-8001011, unless modified 
+ in accordance with Piper Drawing No. 72722. 
+ 2. 
+ DOA No. SO-2 approved Pilot's Operating Handbook and FAA approved Airplane 
+ Flight Manual Report No. LK-1213. For PA-42, Serial Number 42-8001012 
+ through 42-8001106, and for S/N 42-7800001 through 42-8001011 if modified in 
+ accordance with Piper Drawing No. 72722. 
+ 3. 
+ DOA No. SO-2 approved Pilot's Operating Handbook and FAA approved Airplane 
+ Flight Manual Report No. LK-1394 for PA-42-720, Serial Number 42-8001001, 
+ 42-8301002, 42-5501003 through 42-5501060. 
+ 4. 
+ DOA No. SO-2 approved Pilot's Operating Handbook and FAA Approved Airplane 
+ Flight Manual Report No. LK-1414 for PA-42-1000, S/N 42-5527002 through42- 
+ 5527044. 
+ 5. 
+ DOA No. SO-1 approved Pilot's Operating Handbook and FAA approved Airplane 
+ Flight Manual Report No. VB-1314 for PA-42-720, S/N 42-5501041 through 
+ 42-5501047. POH supplement VB-1848 is required for aircraft with kit 767-366 
+ installed."
+NOTE 1,"(a) Models PA-42 and PA-42-720: 
+ Current weight and balance data, loading information, and a list of equipment included in empty 
+ weight must be provided for each airplane at the time of original certification. Basic empty weight 
+ includes unusable fuel of 13.4 lb. at (+132.5 in.). 
+ (b) Model PA-42-1000: 
+ Current weight and balance data, loading information, and a list of equipment included in empty 
+ weight must be provided for each airplane at the time of original certification. Basic empty weight 
+ includes unusable fuel of 67 lb. at (+132.5 in.)."
+NOTE 2,"All placards required in the FAA approved Airplane Flight Manual must be installed in the appropriate 
+ location."
+NOTE 3,"The life limits on components that were determined by a full scale fatigue test, are contained in the 
+ Maintenance Manual and are listed below: 
+ (a) Models PA-42 and PA-42-720 Component Life Limits: 
+ (1) Wing - 25,000 hrs. 
+ (2) Empennage - 25,000 hrs. 
+ (3) Fuselage - 15,000 hrs. 
+ (4) Fuselage (Serial Numbers 42-5501045 thru 42-5501047 while owned and operated by Alitalia 
+ Airlines training academy in accordance with operational profiles defined in Piper Report LK- 
+ 1141, Item 118) – 34,333 hours. 
+ (5) Fuselage (Serial Numbers 42-5501040, 42-5501053, 42-5501055, 42-5501057, 
+ and 42-5501049 while owned and operated by Lufthansa Airlines training academy in accordance 
+ with operational profiles defined in Piper report LK-1141, Item 109) – 36,848 hours. 
+ (6) Fuselage Serial Numbers 42-5501041 thru 42-5501044 while owned and operated Non-Trainer- 
+ Pressurized as defined in the Pilot’s Operating Handbook and inspected as defined in the PA-42- 
+ 720 (Advanced Trainer) Maintenance Manual (761-852) – 
+ Serial Numbers 42-5501041 & 42-5501042 – 28,257 hours 
+ Serial Number 42-5501043 – 26,994 hours 
+ Serial Number 42-5501044 – 26,678 hours 
+ (b) Model PA-42-1000 Component Life Limits: 
+ (1) Wing - 20,000 hrs. 
+ (2) Empennage - 20,000 hrs. 
+ (3) Fuselage - 15,000 hrs. 
+ Other life limited components are listed in the PA-42, PA-42-720 and PA-42-1000 Maintenance 
+ Manuals and Service Publications."
+NOTE 4,"(a) Model PA-42: 
+ The maximum propeller shaft overspeed limit for the PT6A-41 is 100% (2200 r.p.m.) of all 
+ ratings. 91% propeller shaft speed is defined as 2000 r.p.m. and is the normal steady state 
+ operating limit. Gas generator speeds up to 102.6% are permissible for 10 seconds and to 101.5% 
+ for unlimited periods subject to applicable temperature and other limits. 100% gas 
+ generator speed is defined as 37,500 r.p.m. 
+ (b) Model PA-42-720: 
+ The maximum propeller shaft overspeed limit for the PT6A-61 is 100% (2200 r.p.m.) of all 
+ ratings. 91% propeller shaft speed is defined as 2000 r.p.m. and is the normal steady state 
+ operating limit. Gas generator speeds up to 104.0% are permissible for unlimited periods 
+ subject to applicable temperature and other limits. 100% gas generator speed is defined at 
+ 39,000 r.p.m. 
+ (c) Model PA-42-1000: 
+ The maximum propeller shaft overspeed limit is 1,632 r.p.m. (106%) for 5 seconds and 1,563 r.p.m. 
+ (101.5%) for 5 minutes. 100% is defined as 1,540 r.p.m."
+NOTE 5,"(a) Models PA-42 and PA-42-720: 
+ Propeller low pitch is set so that at 1900 r.p.m. there shall be an indicated 1154 ± 30 ft.-lb. torque 
+ corrected to sea level standard day. 
+ (b) Models PA-42 and PA-42-720: 
+ Propeller reversed pitch setting is adjusted to provide reversed power of 180 SHP ± 20 
+ (SHP = torque x prop rpm x 0.00019). 
+ (c) Model PA-42: 
+ Feathered angle shall be adjusted to prevent rotation while feathered at 115 knots. 
+ (d) Model PA-42-720: 
+ Feathered angle shall be adjusted to prevent rotation while feathered at 119 knots."
+NOTE 6,"(a) Aviation Gasoline MIL-G-5572 Grades 80/87, 91/98, 100/130 and 115/145 are permitted for a total time 
+ period not to exceed 150 hours time between turbine hot section inspections. It is not necessary to purge the 
+ unused fuel from the system when switching fuel types. 
+ (b) MIL-I-27686 Fuel System Icing Inhibitor or equivalent may be used in the fuel in amount up to 0.15% 
+ by volume."
+NOTE 7,"Model PA-42-1000: 
+ Top and lower wing surfaces from front spar to rear spar between STA 87.5 and 109.5 and between STA 221 
+ and 239 are limited to a maximum of 2.5 mil. total paint thickness to maintain lightning protection integrity."
+NOTE 8,"Model PA-42: 
+ S/N 42-7800001 through 42-8001106 were manufactured under Production 
+ Certificate No. 4SO. 
+ Model PA-42-720: 
+ S/N 42-8001001, 42-8301002, 42-5501003 through 42-5501027, 42-5501029, 
+ 42-5501030 were manufactured under Production Certificate 4SO. 
+ Model PA-42-1000: 
+ S/N 42-5527003 through 42-5527029 were manufactured under Production 
+ Certificate No. 4SO."
+NOTE 9,"Model PA-42, S/N 42-8001059, and Model PA-42-1000, S/N 42-5527038, are not eligible for airworthiness 
+ certification in the United States."
+NOTE 10,"The following applies to aircraft incorporating Piper kit 767-366: 
+ (a) VA (Maneuvering) KCAS KIAS 
+ (Min. Weight - 6,662 lb.) 
+ 142 140 
+ (Max weight-11,020 lbs) 174 172 
+ (b) C.G. Range 
+ (+130.0) to (+137.5) at 11,020 lbs. 
+ (c) Maximum Weights 
+ Ramp: 11,105 lbs 
+ Takeoff: 11,020 lbs"

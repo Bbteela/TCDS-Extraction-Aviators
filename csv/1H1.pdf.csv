@@ -1,0 +1,223 @@
+Keyterm,Info
+"1H1 
+ Revision 6 
+ KAMAN 
+ K-190A 
+ K-225 
+ September 26, 1950",
+Manufacturer,"The Kaman Aircraft Corp. 
+ Bradley Field 
+ Windsor Locks, Conn."
+"I - Model K-190A, 2 POLH, Approved April 15, 1949",
+Engine,Lycoming O-435-C
+Fuel,73 min. octane aviation gasoline
+Engine limits,"Maximum rpm (for all operation) 2550 (190 hp) 
+ Minimum idle rpm 800"
+Rotor limits,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.) 
+ Maximum 250 rpm 
+ Maximum 2550 rpm 
+ Minimum 200 rpm 
+ Minimum 2375 rpm (Sea level to 3000 ft.) 
+ (Above 3000 ft. alt. increase 
+ minimum 20 rpm per thousand ft.)"
+Airspeed limits,Never exceed 65 mph True Ind. (Above 3000 ft. alt. decrease 3 mph per thousand ft.)
+CG range,(101.5) to (105.5)
+Empty weight CG range,None
+Maximum weight,2500 lbs.
+No of seats,2. Pilot at (40.5) and passenger at (80).
+Maximum Baggage,75 lbs. (40.5)
+Fuel capacity,38 gals. (109)
+Engine oil capacity,3 gals. (135)
+Transmission oil,1.5 gals. (109)
+Rotor blade travel,"Teetering (Flapping) (About axis perpendicular to shaft) 
+ 12° UP to 12° DOWN. 
+ Hunting (About axis parallel to shaft) 
+ 0° to +10° Autorotation 
+ 0° to -23° Starting 
+ Tolerance +2°"
+Rotor tab position,For rotor blade rigging information see applicable Service Manual.
+Page No,"1 
+ 2 
+ 3 
+ 4"
+Rev No,"4 
+ 4 
+ 6 
+ 6"
+Serial Nos eligible,2 and up
+Required equipment,"Items 1, 101(a), 102, 103, 104, 106, 201(a), 202, 205, 206, 301(a), 302(a), 303(a), 
+ 401(a)."
+"II - Model K-225, 3 POLH, Approved September 16, 1949",
+Engine,Lycoming O-435-A2
+Fuel,91 min. octane aviation gasoline
+Engine limits,"Maximum rpm (for all operation) 3000 (225 hp) 
+ Minimum idle rpm 900"
+Rotor limits,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.) 
+ Maximum 250 rpm 
+ Maximum 3000 rpm 
+ Minimum 200 rpm 
+ Minimum 2700 rpm"
+Airspeed limits,Never exceed 72 mph True Ind.
+CG range,(101.5) to (105.0)
+Empty weight CG range,None
+Maximum weight,2500 lbs.
+No of seats,3. Pilot at (40.5) and 2 passengers at (80).
+Maximum Baggage,75 lbs. (40.5)
+Fuel capacity,38 gals. (109)
+Engine oil capacity,3 gals. (135)
+Transmission oil,1.5 gals. (109)
+Rotor blade travel,"Teetering (Flapping) (About axis perpendicular to shaft) 
+ 12° UP to 12° DOWN. 
+ Hunting (About axis parallel to shaft) 
+ 0° to +10° Autorotation 
+ 0° to -23° Starting 
+ Tolerance +2°"
+Rotor tab position,"For rotor blade rigging information, see applicable Service Manual."
+Serial Nos eligible,2 and up
+Required equipment,"Items 1, 101(b), 102, 103, 104, 106, 201(a), 202, 205, 206, 301(b), 302(b), 303(b), 
+ 401(b)."
+Specifications Pertinent to All Models,
+Datum,129 in. forward of centerline main landing gear torque tube.
+Leveling means,"Leveling lugs on right longeron (97) Fore & Aft. 
+ Cross Tube, base of tower, between fuel tank straps, (95) (Lateral)."
+Certification basis,Type Certificate No. 1H1 (CAR 6)
+Production basis,"None. Prior to original certification a CAA Representative must perform a detailed 
+ instpection for workmanship, materials, and conformity with the approved technical 
+ data, and a check of the flight characteristics."
+Export eligibility,"Eligible for export to all countries subject to the provisions of ASR 312 (MOP 2-4 
+ contains the same information)."
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item indicates the net weight 
+ change when that item is installed."
+1,"Main Rotors (2) Kaman Dwg. R-30 and R-31 
+ 338 lbs. (109) 
+ (Forged rotor hubs and rotor blade retention ends)"
+2,"Weatherized Main Rotor Blades (2) 
+ Use actual wgt. change 
+ Kaman Dwgs. R33-12 and R32-8 
+ Engine and Engine Accessories - Fuel and Oil System"
+101,"(a) 
+ Starter (Eclipse E80, Type 397, Model 50) 
+ 18 lbs. (118) 
+ (b) Starter (Delco-Remy #1109652) 
+ 17 lbs. (119) 
+ (c) 
+ 24 Volt system 
+ Starter (Delco Remy 24V No. X10353) 
+ 17 lbs. (119)"
+102,"(2) Oil coolers (Young radiator No. 546922) 
+ 16 lbs. (158) 
+ (Mod. Kaman Dwg. L2-9 and 10)"
+103,"Main transmission assembly 
+ (Serial Nos. 3 and up) Dwg. D-30 
+ 207 lbs. (110) 
+ (Serial No. 2) Dwg. D-20 
+ 245 lbs. (110)"
+104,"Cooling fan and clutch (Dwg. D-19-2) 
+ 47 lbs. (157)"
+105,"Fuel filter (United Aircraft Prod. Type C-1A) 
+ 1 lb. 
+ (90)"
+106,"Oil filter (Air Maze Model 02FC07) 
+ 2 lbs. (123)"
+107,"Air Maze oil bath filter, Model F350S, Installation Dwg. P-6-6. 
+ 14 lbs. 
+ (18)"
+201,"Two main wheel assemblies, 5.00-5, Type III 
+ (a) 
+ Goodyear Model L5HBM Wheel Assembly No. 9520265 
+ 7 lbs. (129) 
+ (b) Goodyear type PD 371, Assy. No. 9520425 Wheel brakes 
+ 7 lbs. (111)"
+202,"Two main wheel, 4 ply rating tires, 5.00-5 Type III, with regular tubes. 
+ 14 lbs. (129)"
+205,"One nose wheel, 5.00-5, Type III 
+ (a) 
+ Goodyear Model L5NBD, Assembly No. 9520653 
+ 3 lbs. 
+ (26)"
+206,"One nose wheel, 4 ply rating tire, 5.00-5, Type III, with regular tube. 
+ 7 lbs. 
+ (26)"
+301,"(a) 
+ Battery (Reading 12 volt) Model S-24 
+ 22 lbs. 
+ (22) 
+ (b) Battery (Reading 12 volt) Model R-37 
+ 36 lbs. 
+ (19) 
+ (c) 
+ 24 volt system 
+ Batteries - Two (Reading 12V), Model S-24 
+ 44 lbs. 
+ (25)"
+302,"(a) 
+ Volt Reg. (Delco-Remy) 8 amp (1118209) 
+ 1 lb. 
+ (91) 
+ (b) Voltage Reg. (Delco-Remy 25 amp #1118263) 
+ 2 lbs. 
+ (91) 
+ (c) 
+ 24 Volt system 
+ Volt Reg. (Delco-Remy 24V No. X40093) 
+ 2 lbs. 
+ (91)"
+303,"(a) 
+ Generator (Champion E128, 8 amps at 12V) 
+ 8 lbs. (118) 
+ (b) Generator (Delco-Remy 12V, 25 amp #1101882) 
+ 14 lbs. (118) 
+ (c) 
+ 24 Volt system 
+ Generator (Delco-Remy 24 V No. X1296) 
+ 16 lbs. (118)"
+401,"(a) 
+ ""CAA approved Kaman Model K-190A Helicopter Flight Manual"", dated June 28, 1949. 
+ (b) ""CAA approved Kaman Model K-225 Helicopter Flight Manual"", dated 
+ September 16, 1949, Revision No. 3, dated May 3, 1950."
+601,"Crop dusting equipment, Dwg. M-13 
+ 116 lbs. (105)"
+602,"Baggage compartment, Dwg. M-19 (Maximum capacity 75 lbs.) 
+ 3 lbs. (189)"
+603,"Windshield, Dwg. M-20-1 
+ 27 lbs. 
+ (8)"
+604,"Dual controls. Installation Dwg. C-30 sh.2 
+ 14 lbs. 
+ (58)"
+605,"Steel spring control bungee Assy. Dwg. C-30-289 
+ 2 lbs. 
+ (30)"
+606,"Night flying equipment in accordance with Kaman Dwg. E-5 
+ Use actual wgt. change."
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight empty, and 
+ loading instructions must be in each aircraft at the time of original certification and at all times thereafter. 
+ When changes are made to the helicopter which affect weight and balance, see instructions in Section IV of 
+ Flight Manual."
+NOTE 2,"The following placards must be displayed in the locations noted: 
+ (a) 
+ In front of and in full view of the pilot: 
+ ""This aircraft must be operated in accordance with CAA Approved Kaman Helicopter Flight Manual."" 
+ ""Above 3000 feet altitude increase minimum engine RPM 20 per thousand feet"". (Applicable to 
+ Model K-190A only). 
+ ""Above 3000 feet altitude decrease never exceed speed (Vne) 3 MPH per thousand feet"". (Applicable 
+ to Model K-190A only). 
+ ""For continuous operation use only one light."" (Applicable to Model X-225 only when used for night 
+ flying operations) 
+ (b) Baggage compartment: 
+ ""Maximum capacity 75 lbs. For loading instructions see Flight Manual."" 
+ (c) 
+ Dust hoppers: 
+ ""Not approved for Sulfur Dust."" 
+ ""Maximum capacity 300 lbs. For loading instructions see Flight Manual."" 
+ (d) In front of and in full view of occupant of rear seat: 
+ ""Solo from front seat only."""
+NOTE 3,"These helicopters must be serviced and maintained in conformance with instructions given by Kaman 
+ Aircraft Corporation in their Service Manual dated April 15, 1949."
+NOTE 4,"Night flying prohibited unless in compliance with Helicopter Night Flying Requirements or unless Item 606 
+ is installed. Instrument and Acrobatic Flying prohibited."
+NOTE 5,Model K-225 is approved with either a fixed vertical tail surface or with a controllable rudder surface.
+NOTE 6,"Information essential to the proper maintenance of the helicopter including including retirement times of 
+ critical parts is included in the manufacturer's service instructions provided with each helicopter."

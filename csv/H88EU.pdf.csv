@@ -1,0 +1,1048 @@
+Keyterm,Info
+"H88EU 
+ Revision 13 
+ AIRBUS HELICOPTERS DEUTSCHLAND 
+ GmbH 
+ EC135P1 
+ EC135T1 
+ EC135P2 
+ EC135T2 
+ EC135P2+ 
+ EC135T2+/EC635T2+ 
+ EC135P3 
+ EC135T3 
+ January 27, 2021",
+Type Certificate Holder,"AIRBUS HELICOPTERS DEUTSCHLAND GmbH (AHD) 
+ D-86609 Donauwoerth 
+ Germany"
+"I. Model EC135P1 (Normal Category) Helicopter, Approved July 31, 1996",
+Engines,2 Pratt &Whitney Canada PW 206 B
+Fuel,See Rotorcraft Flight Manual
+Installed Engine Limits,"Gas Generator 
+ Output Shaft 
+ Measured Gas 
+ Output Shaft 
+ Speed N-1 
+ Speed N-2 
+ Temperature 
+ Torque % 
+ % (RPM) 
+ % (RPM) 
+ oC (oF) 
+ Normal Operation 
+ Takeoff power (5 min.) 
+ 75 
+ 98.7 (57250) 
+ 104 (6134) 
+ 854 (1569) 
+ Max Continuous 
+ 69 
+ 97.4 (56500) 
+ 104 (6134) 
+ 820 (1508) 
+ One Engine Inoperative 
+ 2.5 min. power 
+ 100 
+ 102.4 (59400) 
+ 104 (6134) 
+ 930 (1706) 
+ Max. Continuous 
+ 86 
+ 100.4 (58250) 
+ 104 (6134) 
+ 885 (1625) 
+ See Rotorcraft Flight Manual for other limitations including speed and temperature transients"
+Rotor Limits,"Power On % 
+ Power Off % 
+ Min. Continuous 
+ 95 
+ 80 for gross mass up to 1900 kg (4189 lb) 
+ 85 for gross mass above 1900 kg (4189 lb) 
+ Max. Continuous 
+ 104 
+ 106"
+Airspeed Limits IAS,"Max. vNE = 155 kts. See Rotorcraft Flight Manual for airspeed limit decrease 
+ with outside air temperature and altitude."
+CG Range,"Longitudinal C.G. Limits 
+ max. forward range: 
+ at 1840 kg (4057 lb): 4180 mm (164.6 in.) aft of datum 
+ at 2720 kg (5996 lb): 4219 mm (166.1 in.) aft of datum 
+ at 2835 kg (6250 lb): 4224 mm (166.3 in.) aft of datum 
+ max. rearward range: 
+ at 1500 kg (3307 lb): 4570 mm (179.90 in.) aft of datum 
+ at 2720 kg (5996 lb): 4387 mm (172.72 in.) aft of datum 
+ at 2835 kg (6250 lb): 4369 mm (172.0 in.) aft of datum 
+ Straight line variation between points given."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14"
+Rev No,"12 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 12 
+ 12 
+ 11 
+ 10 
+ 11 
+ 13 
+ 11 
+ 12 
+ Lateral C.G. Limits 
+ Max. deviation 100 mm (3.94 in.) left or right of the fuselage median plane."
+Empty Weight CG Range,None
+Max Weight,"2720 kg (5996 lb) (Max GW 2835 kg (6250 lb) with S/B EC135-11-003 incorporated. 
+ See FMS 9.1-3)"
+Min Crew,1 Pilot
+Passengers,6 (or 7 if the kit described in FMS 9.2-31 is installed and operated)
+Max Baggage,"Max. permissible floor loading: 600 kg/m2 (123 lb/sq. ft.) 
+ Max. loading: 1130 kg (2491 lb)"
+Fuel Capacity,"total: 680 liter (179.6 US gal.) (standard fuel tank) 
+ usable: 670.5 liter (177.1 US gal.) (standard fuel tank) 
+ total: 673.4 liter (177.9 US gal.) (self sealing fuel tank) 
+ usable: 664 liter (175.4 US gal.) (self sealing fuel tank)"
+Oil Capacity,Engine oil capacity: 4.5 liter (1.19 US gal.) included in minimum gross weight
+Max Operating Altitude,"6096 m (20000 ft) 
+ For rigging information refer to the EC135 Maintenance Manual."
+"II. Model EC135T1 (Normal Category) Helicopter, Approved September 17, 1996",
+Engines,2 Turbomeca ARRIUS 2B1/2B1A/2B1A1
+Fuel,"See Rotorcraft Flight Manual 
+ Installed Engine Limits (ARRIUS 2B1) – See NOTE 1 
+ Gas Generator 
+ Output Shaft 
+ Measured Gas 
+ Output Shaft 
+ Speed N-1 
+ Speed N-2 
+ Temperature 
+ Torque % 
+ % (RPM) 
+ % (RPM) 
+ oC (oF) 
+ Normal Operation 
+ Takeoff power (5 min.) 
+ 75 
+ 101.1 (54706) 
+ 104 (6134) 
+ 895 (1643) 
+ Max Continuous 
+ 69 
+ 98.7 (53406) 
+ 104 (6134) 
+ 855 (1571) 
+ One Engine Inoperative 
+ 2.5 min. power 
+ 100 
+ 103.7 (56113) 
+ 104 (6134) 
+ 945 (1733) 
+ Max. Continuous 
+ 86 
+ 101.1 (54706) 
+ 104 (6134) 
+ 895 (1643) 
+ See Rotorcraft Flight Manual for other limitations including speed and temperature transients 
+ Installed Engine Limits (ARRIUS 2B1A) – (After SB EC135-71-008. See FMS 9.2-57). 
+ Gas Generator 
+ Output Shaft 
+ Measured Gas 
+ Output Shaft 
+ Speed N-1 
+ Speed N-2 
+ Temperature 
+ Torque % 
+ % (RPM) 
+ % (RPM) 
+ oC (oF) 
+ Normal Operation 
+ Takeoff power (5 min.) 
+ 75 
+ 101.1 (54706) 
+ 104 (6134) 
+ 895 (1643) 
+ Max Continuous 
+ 69 
+ 98.7 (53406) 
+ 104 (6134) 
+ 855 (1571) 
+ One Engine Inoperative 
+ 2.5 min. power 
+ 119.8 
+ 103.7 (56113) 
+ 104 (6134) 
+ 945 (1733) 
+ Max. Continuous 
+ 86 
+ 101.1 (54706) 
+ 104 (6134) 
+ 895 (1643) 
+ See Rotorcraft Flight Manual for other limitations including speed and temperature transients 
+ Installed Engine Limits (ARRIUS 2B1A_1) – (S/N 0188 and Subsequent or After SB EC135-71-015. See FMS 9.2-62). 
+ Gas Generator 
+ Output Shaft 
+ Measured Gas 
+ Output Shaft 
+ Speed N-1 
+ Speed N-2 
+ Temperature 
+ Torque % 
+ % (RPM) 
+ % (RPM) 
+ oC (oF) 
+ Normal Operation 
+ Takeoff power (5 min.) 
+ 75 
+ 101.1 (54706) 
+ 104 (6134) 
+ 895 (1643) 
+ Max Continuous 
+ 69 
+ 98.7 (53406) 
+ 104 (6134) 
+ 855 (1571) 
+ One Engine Inoperative 
+ 2.5 min. power 
+ 128 
+ 103.7 (56113) 
+ 104 (6134) 
+ 945 (1733) 
+ Max. Continuous 
+ 86 
+ 101.1 (54706) 
+ 104 (6134) 
+ 895 (1643) 
+ See Rotorcraft Flight Manual for other limitations including speed and temperature transients"
+Rotor Limits,"Power On % 
+ Power Off % 
+ Min. Continuous 
+ 95 
+ 80 for gross mass up to 1900 kg (4189 lb) 
+ 85 for gross mass above 1900 kg (4189 lb) 
+ Max. Continuous 
+ 104 
+ 106"
+Airspeed Limits IAS,"Max. vNE = 155 kts. See Rotorcraft Flight Manual for airspeed limit 
+ decrease with outside air temperature and altitude."
+CG Range,"Longitudinal C.G. Limits 
+ max. forward range: 
+ at 1840 kg (4057 lb): 4180 mm (164.6 in.) aft of datum 
+ at 2720 kg (5996 lb): 4219 mm (166.1 in.) aft of datum 
+ at 2835 kg (6250 lb): 4224 mm (166.3 in.) aft of datum 
+ max. rearward range: 
+ at 1500 kg (3307 lb): 4570 mm (179.90 in.) aft of datum 
+ at 2720 kg (5996 lb): 4387 mm (172.72 in.) aft of datum 
+ at 2835 kg (6250 lb): 4369 mm (172.0 in.) aft of datum 
+ Straight line variation between points given. 
+ Lateral C.G. Limits 
+ Max. deviation 100mm (3.94 in.) left or right of the fuselage median plane."
+Empty Weight CG Range,None
+Maximum Weight,"2720 kg (5996 lb) (Max GW 2835 kg (6250 lb) with S/B EC135-11-003 R01 or higher 
+ incorporated. See FMS 9.1-3)"
+Minimum Crew,1 Pilot
+Passengers,6 (or 7 if the kit described in FMS 9.2-31 is installed and operated)
+Max Baggage,"Max. permissible floor loading: 600 kg/m2 (123 lb/sq. ft.) 
+ Max. loading: 1130 kg (2491 lb)"
+Fuel Capacity,"total: 680 liter (179.6 US gal.) (standard fuel tank) 
+ usable: 670.5 liter (177.1 US gal.) (standard fuel tank) 
+ total: 673.4 liter (177.9 US gal.) (self sealing fuel tank) 
+ usable: 664 liter (175.4 US gal.) (self sealing fuel tank)"
+Oil Capacity,Engine oil capacity: 4.85 liter (1.28 US gal.) included in minimum gross weight
+Maximum Operating Altitude,"6096 m (20000 ft) 
+ For rigging information refer to the EC135 Maintenance Manual."
+"III. Model EC135P2 (Normal Category) Helicopter, Approved September 6, 2001 
+ The Model EC 135 P2 is the same as the EC 135P1 except for the installation of the Pratt & Whitney PW206B2 engine 
+ which includes new OEI power ratings.",
+Engines,2 Pratt & Whitney Canada PW 206 B2
+Fuel,See Rotorcraft Flight Manual
+Installed Engine Limits,"Gas Generator 
+ Output Shaft 
+ Measured Gas 
+ Output Shaft 
+ Speed N-1 
+ Speed N-2 
+ Temperature 
+ Torque % 
+ % (RPM) 
+ % (RPM) 
+ oC (oF) 
+ Normal Operation 
+ Takeoff power (5 min.) 
+ 75 
+ 98.7 (57250) 
+ 104 (6165) 
+ 869 (1596) 
+ Max Continuous 
+ 69 
+ 97.4 (56500) 
+ 104 (6165) 
+ 835 (1535) 
+ One Engine Inoperative 
+ 30 sec. power 
+ 128 
+ 104.3 (60500) 
+ 104 (6165) 
+ 990 (1814) 
+ 2 min. power 
+ 125 
+ 102.6 (59500) 
+ 104 (6165) 
+ 950 (1742) 
+ Max. Continuous 
+ 86 
+ 100.4 (58250) 
+ 104 (6165) 
+ 900 (1652) 
+ See Rotorcraft Flight Manual for other limitations including speed and temperature transients"
+Rotor Limits,"Power On % 
+ Power Off % 
+ Min. Continuous 
+ 97 
+ 80 for gross mass up to 1900 kg (4189 lb) 
+ 85 for gross mass above 1900 kg (4189 lb) 
+ Max. Continuous 
+ 104 
+ 106"
+Airspeed Limits IAS,"Max. vNE = 155 kts. See Rotorcraft Flight Manual for airspeed limit decrease 
+ with outside air temperature and altitude."
+CG Range,"Longitudinal C.G. Limits 
+ max. forward range: 
+ at 1840 kg (4057 lb): 4180 mm (164.6 in.) aft of datum 
+ at 2835 kg (6250lb): 4224 mm (166.3 in.) aft of datum 
+ max. rearward range: 
+ at 1500kg (3307 lb): 4570mm (179.9 in.) aft of datum 
+ at 2835kg (6250lb): 4369mm (172.0 in.) aft of datum 
+ Straight line variation between points given. 
+ Lateral C.G. Limits 
+ Max. deviation 100 mm (3.94 in.) left or right of the fuselage median plane."
+Empty Weight CG Range,None
+Max Weight,2835 kg (6250 lb)
+Min Crew,1 Pilot
+Passengers,6 (or 7 if the kit described in FMS 9.2-31 is installed and operated)
+Max Baggage,"Max. permissible floor loading: 600 kg/m2 (123 lb/sq. ft.) 
+ Max. loading: 1130 kg (2491 lb)"
+Fuel Capacity,"total: 680 liter (179.6 US gal.) (standard fuel tank, up to S/N 249) 
+ usable: 670.5 liter (177.1 US gal.) (standard fuel tank, up to S/N 249) 
+ total: 673.4 liter (177.9 US gal.) (self sealing fuel tank, up to S/N 249) 
+ usable: 664 liter (175.4 US gal.) (self sealing fuel tank, up to S/N 249) 
+ total: 710 liter (187.6 US gal.) (standard fuel tank, S/N 250 and subsequent) 
+ usable: 700.5 liter (185.1 US gal.) (standard fuel tank, S/N 250 and subsequent) 
+ total: 701 liter (185.2 US gal.) (self sealing fuel tank, S/N 250 and subsequent) 
+ usable: 691.6 liter (182.7 US gal.) (self sealing fuel tank, S/N 250 and subsequent)"
+Oil Capacity,Engine oil capacity: 4.5 liter (1.19 US gal.) included in minimum gross weight
+Max Operating Altitude,"6096 m (20000 ft) 
+ For rigging information refer to the EC135 Maintenance Manual."
+"IV. Model EC135T2 (Normal Category) Helicopter, Approved November 25, 2002 
+ The Model EC 135 T2 is the same as the EC 135 T1 except for the installation of Tubomeca Arrius 2B2 engines which 
+ includes new OEI power ratings",
+Engines,2 Turbomeca ARRIUS 2B2
+Fuel,See Rotorcraft Flight Manual
+Installed Engine Limits ARRIUS 2B2,"Gas Generator 
+ Output Shaft 
+ Measured Gas 
+ Output Shaft 
+ Speed N-1 
+ Speed N-2 
+ Temperature 
+ Torque % 
+ % (RPM) 
+ % (RPM) 
+ oC (oF) 
+ Normal Operation 
+ Takeoff power (5 min.) 
+ 75 
+ 100 (54117) 
+ 104 (6134) 
+ 897 (1647) 
+ Max Continuous 
+ 69 
+ 99 (53576) 
+ 104 (6134) 
+ 879 (1614) 
+ One Engine Inoperative 
+ 30 second power 
+ 128 
+ 105 (56823) 
+ 104 (6134) 
+ 1024 (1875) 
+ 2.0 min. power 
+ 125 
+ 103.5 (56011) 
+ 104 (6134) 
+ 994 (1821) 
+ Max. Continuous 
+ 86 
+ 101.3 (54821) 
+ 104 (6134) 
+ 942 (1728) 
+ See Rotorcraft Flight Manual for other limitations including speed and temperature transients"
+Rotor Limits,"Power On % 
+ Power Off % 
+ Min. Continuous 
+ 97 
+ 80 for gross mass up to 1900 kg (4189 lb) 
+ 85 for gross mass above 1900 kg (4189 lb) 
+ Max. Continuous 
+ 104 
+ 106"
+Airspeed Limits IAS,"Max. vNE = 155 kts. See Rotorcraft Flight Manual for airspeed limit 
+ decrease with outside air temperature and altitude."
+CG Range,"Longitudinal C.G. Limits 
+ max. forward range: 
+ at 1840 kg (4057 lb): 4180 mm (164.6 in.) aft of datum 
+ at 2835 kg (6250 lb): 4224 mm (166.3 in.) aft of datum 
+ max. rearward range: 
+ at 1500 kg (3307 lb): 4570 mm (179.9 in.) aft of datum 
+ at 2835 kg (6250 lb): 4369 mm (172.0 in.) aft of datum 
+ Straight line variation between points given. 
+ Lateral C.G. Limits 
+ Max. deviation 100 mm (3.94 in.) left or right of the fuselage median plane."
+Empty Weight CG Range,None
+Maximum Weight,2835 kg (6250 lb)
+Minimum Crew,1 Pilot
+Passengers,6 (or 7 if the kit described in FMS 9.2-31 is installed and operated)
+Max Baggage,"Max. permissible floor loading: 600 kg/m2 (123 lb/sq. ft.) 
+ Max. loading: 1130 kg (2491 lb)"
+Fuel Capacity,"total: 680 liter (179.6 US gal.) (standard fuel tank, up to S/N 249) 
+ usable: 670.5 liter (177.1 US gal.) (standard fuel tank, up to S/N 249) 
+ total: 673.4 liter (177.9 US gal.) (self sealing fuel tank, up to S/N 249) 
+ usable: 664 liter (175.4 US gal.) (self sealing fuel tank, up to S/N 249) 
+ total: 710 liter (187.6 US gal.) (standard fuel tank, S/N 250 and subsequent) 
+ usable: 700.5 liter (185.1 US gal.) (standard fuel tank, S/N 250 and subsequent) 
+ total: 701 liter (185.2 US gal.) (self sealing fuel tank, S/N 250 and subsequent) 
+ usable: 691.6 liter (182.7 US gal.) (self sealing fuel tank, S/N 250 and subsequent)"
+Oil Capacity,Engine oil capacity: 4.85 liter (1.28 US gal.) included in minimum gross weight
+Maximum Operating Altitude,"6096 m (20000) ft 
+ For rigging information refer to the EC135 Maintenance Manual."
+"V. Model EC135P2+ (Normal Category) Helicopter, Approved October 19, 2006 
+ The Model EC135P2+ is the same as the EC135P2 except for maximum take off mass of 2910 kg / 2950 kg, and new 
+ power ratings AEO TOP & OEI MCP). See NOTE 5",
+Engines,2 Pratt & Whitney Canada PW 206 B2
+Fuel,See Rotorcraft Flight Manual
+Installed Engine Limits,"Gas Generator 
+ Output Shaft 
+ Measured Gas 
+ Output Shaft 
+ Speed N-1 
+ Speed N-2 
+ Temperature 
+ Torque % 
+ % (RPM) 
+ % (RPM) 
+ oC (oF) 
+ Normal Operation 
+ Takeoff power (5 min.) 
+ 78 
+ 98.7 (57250) 
+ 104 (6165) 
+ 869 (1596) 
+ Max Continuous 
+ 69 
+ 97.4 (56500) 
+ 104 (6165) 
+ 835 (1535) 
+ One Engine Inoperative 
+ 30 sec. power 
+ 128 
+ 104.3 (60500) 
+ 104 (6165) 
+ 990 (1814) 
+ 2 min. power 
+ 125 
+ 102.6 (59500) 
+ 104 (6165) 
+ 950 (1742) 
+ Max. Continuous 
+ 89.5 
+ 100.4 (58250) 
+ 104 (6165) 
+ 900 (1652) 
+ See Rotorcraft Flight Manual for other limitations including speed and temperature transients"
+Rotor Limits,"Power On % 
+ Power Off % 
+ Min. Continuous 
+ 97 
+ 80 for gross mass up to 1900 kg (4189 lb) 
+ 85 for gross mass above 1900 kg (4189 lb) 
+ Max. Continuous 
+ 104 
+ 106"
+Airspeed Limits IAS,"Max. vNE = 155 kts. See Rotorcraft Flight Manual for airspeed limit decrease 
+ with outside air temperature and altitude."
+CG Range,"Longitudinal C.G. Limits 
+ max. forward range: 
+ at 1840 kg (4057 lb): 4180.0 mm (164.6 in.) aft of datum 
+ at 2910 kg (6415 lb): 4227.3 mm (166.43 in.) aft of datum 
+ at 2950 kg (6504 lb): 4229.3 mm (166.51 in.) aft of datum 
+ max. rearward range: 
+ at 1500 kg (3307 lb): 4570.0 mm (179.9 in.) aft of datum 
+ at 2910 kg (5996 lb): 4369.0 mm (172.0 in.) aft of datum 
+ at 2950 kg (6504 lb): 4362.6 mm (171.75 in.) aft of datum 
+ Straight line variation between points given. 
+ Lateral C.G. Limits 
+ Max. deviation 100 mm (3.94 in.) left or right of the fuselage median plane."
+Empty Weight CG Range,None
+Maximum Weight,"2910 kg (6415 lb) / 2950 kg (6504 lb) 
+ Note: Operation of the aircraft with MTOW up to 2950 kg is only permitted in accordance 
+ with FMS 9.1-5, FMS 9.1-6 and FMS 9.1-7 from S/N 1055 and subsequent, or after SB 
+ EC135-62-028."
+Minimum Crew,1 Pilot
+Passengers,6 (or 7 if the kit described in FMS 9.2-31 is installed and operated)
+Max Baggage,"Max. permissible floor loading: 600 kg/m2 (123 lb/sq. ft.) 
+ Max. loading: 1130 kg (2491 lb)"
+Fuel Capacity,"total: 680 liter (179.6 US gal.) (standard fuel tank, up to S/N 249) 
+ usable: 670.5 liter (177.1 US gal.) (standard fuel tank, up to S/N 249) 
+ total: 673.4 liter (177.9 US gal.) (self sealing fuel tank, up to S/N 249) 
+ usable: 664 liter (175.4 US gal.) (self sealing fuel tank, up to S/N 249) 
+ total: 710 liter (187.6 US gal.) (standard fuel tank, S/N 250 and subsequent) 
+ usable: 700.5 liter (185.1 US gal.) (standard fuel tank, S/N 250 and subsequent) 
+ total: 701 liter (185.2 US gal.) (self sealing fuel tank, S/N 250 and subsequent) 
+ usable: 691.6 liter (182.7 US gal.) (self sealing fuel tank, S/N 250 and subsequent)"
+Oil Capacity,Engine oil capacity: 4.5 liter (1.19 US gal.) included in minimum gross weight
+Max Operating Altitude,"6096 m (20000 ft) 
+ For rigging information refer to the EC135 Maintenance Manual."
+"VI. Models EC135T2+ and EC635T2+ (Normal Category) Helicopter, EC135T2+ Approved October 19, 2006 and 
+ EC635T2 Approved October 30 2019 
+ Data pertinent to both models. The Models EC135T2+ and EC635T2+ are the same as the EC135T2 except for maximum 
+ take off mass of 2910 kg / 2950 kg, and new power ratings AEO TOP & OEI MCP). See NOTE 5",
+Engines,2 Turbomeca ARRIUS 2B2
+Fuel,See Rotorcraft Flight Manual
+Installed Engine Limits ARRIUS 2B2,"Gas Generator 
+ Output Shaft 
+ Measured Gas 
+ Output Shaft 
+ Speed N-1 
+ Speed N-2 
+ Temperature 
+ Torque % 
+ % (RPM) 
+ % (RPM) 
+ oC (oF) 
+ Normal Operation 
+ Takeoff power (5 min.) 
+ 78 
+ 100 (54117) 
+ 104 (6134) 
+ 897 (1647) 
+ Max Continuous 
+ 69 
+ 99 (53576) 
+ 104 (6134) 
+ 879 (1614) 
+ One Engine Inoperative 
+ 30 second power 
+ 128 
+ 105.0 (56823) 
+ 104 (6134) 
+ 1024 (1875) 
+ 2.0 min. power 
+ 125 
+ 103.5 (56011) 
+ 104 (6134) 
+ 994 (1821) 
+ Max. Continuous 
+ 89.5 
+ 101.3 (54821) 
+ 104 (6134) 
+ 942 (1728) 
+ See Rotorcraft Flight Manual for other limitations including speed and temperature transients"
+Rotor Limits,"Power On % 
+ Power Off % 
+ Min. Continuous 
+ 97 
+ 80 for gross mass up to 1900 kg (4189 lb) 
+ 85 for gross mass above 1900 kg (4189 lb) 
+ Max. Continuous 
+ 104 
+ 106"
+Airspeed Limits IAS,"Max. vNE = 155 kts. See Rotorcraft Flight Manual for airspeed limit 
+ decrease with outside air temperature and altitude."
+CG Range,"Longitudinal C.G. Limits 
+ max. forward range: 
+ at 1840 kg (4057 lb): 4180.0 mm (164.6 in.) aft of datum 
+ at 2910 kg (6415 lb): 4227.3 mm (166.43 in.) aft of datum 
+ at 2950 kg (6504 lb): 4229.3 mm (166.51 in.) aft of datum 
+ max. rearward range: 
+ at 1500 kg (3307 lb): 4570.0 mm (179.9 in.) aft of datum 
+ at 2910 kg (5996 lb): 4369.0 mm (172.0 in.) aft of datum 
+ at 2950 kg (6504 lb): 4362.6 mm (171.75 in.) aft of datum 
+ Straight line variation between points given. 
+ Lateral C.G. Limits 
+ Max. deviation 100 mm (3.94 in.) left or right of the fuselage median plane."
+Empty Weight CG Range,None
+Maximum Weight,"2910 kg (6415 lb) / 2950 kg (6504 lb) 
+ Note: Operation of the aircraft with MTOW up to 2950 kg is only permitted in accordance 
+ with FMS 9.1-5, FMS 9.1-6 and FMS 9.1-7 from S/N 1055 and subsequent, or after SB 
+ EC135-62-028."
+Minimum Crew,1 Pilot
+Passengers,6 (or 7 if the kit described in FMS 9.2-31 is installed and operated)
+Max Baggage,"Max. permissible floor loading: 600 kg/m2 (123 lb/sq. ft.) 
+ Max. loading: 1130 kg (2491 lb)"
+Fuel Capacity,"total: 680 liter (179.6 US gal.) (standard fuel tank, up to S/N 249) 
+ usable: 670.5 liter (177.1 US gal.) (standard fuel tank, up to S/N 249) 
+ total: 673.4 liter (177.9 US gal.) (self sealing fuel tank, up to S/N 249) 
+ usable: 664 liter (175.4 US gal.) (self sealing fuel tank, up to S/N 249) 
+ total: 710 liter (187.6 US gal.) (standard fuel tank, S/N 250 and subsequent) 
+ usable: 700.5 liter (185.1 US gal.) (standard fuel tank, S/N 250 and subsequent) 
+ total: 701 liter (185.2 US gal.) (self sealing fuel tank, S/N 250 and subsequent) 
+ usable: 691.6 liter (182.7 US gal.) (self sealing fuel tank, S/N 250 and subsequent)"
+Oil Capacity,Engine oil capacity: 4.85 liter (1.28 US gal.) included in minimum gross weight
+Maximum Operating Altitude,"6096 m (20000 ft) 
+ For rigging information refer to the EC135 Maintenance Manual."
+Additional Information,"SN 0858 was converted from an EC635T2+ to an EC135T2+ with the application of major modification E6065 via Airbus 
+ Helicopters SB-EC135-00-002. The aircraft has two data plates identifying it as a converted EC635T2+ and carries the same"
+"VII. Model EC135P3 (Normal Category) Helicopter, Approved September 3, 2015 
+ For Models EC135P3 equipped with avionics configuration HELIONIX (Mod E-2698), see Note 5.",
+Engines,2 Pratt & Whitney Canada PW 206 B3
+Fuel,See Rotorcraft Flight Manual
+Installed Engine Limits,"Gas Generator 
+ Output Shaft 
+ Measured Gas 
+ Output Shaft 
+ Speed N-1 
+ Speed N-2 
+ Temperature (TOT) 
+ Torque % 
+ % 
+ % 
+ oC (oF) 
+ Normal Operation 
+ Takeoff power (5 min.) 
+ 78 
+ 99.8 
+ 105.5 
+ 900 (1652) 
+ Max Continuous 
+ 69 
+ 97.4 
+ 105.5 
+ 835 (1535) 
+ One Engine Inoperative 
+ 30 sec. power 
+ 128 
+ 104.3 
+ 104.5 
+ 990 (1814) 
+ 2 min. power 
+ 125 
+ 102.6 
+ 104.5 
+ 950 (1742) 
+ Max. Continuous 
+ 89.5 
+ 99.8 
+ 104.5 
+ 900 (1652) 
+ See Rotorcraft Flight Manual for other limitations including speed and temperature transients"
+Rotor Limits,"Power On % 
+ Power Off % 
+ Min. Continuous 
+ 97 
+ 80 for gross mass up to 1900 kg (4189 lb) 
+ 85 for gross mass above 1900 kg (4189 lb) 
+ Max. Continuous 
+ 105.5 
+ 106"
+Airspeed Limits IAS,"Max. vNE = 130 kts. See Rotorcraft Flight Manual for airspeed limit decrease 
+ with outside air temperature and altitude."
+CG Range,"Longitudinal C.G. Limits 
+ max. forward range: 
+ at 2039 kg (4495 lb): 4152 mm (163.5 in.) aft of datum 
+ at 2980 kg (6569 lb): 4201 mm (165.4 in.) aft of datum 
+ max. rearward range: 
+ at 1600 kg (3527 lb): 4555 mm (179.3 in.) aft of datum 
+ at 2980 kg (6569 lb): 4369 mm (172 in.) aft of datum 
+ Straight line variation between points given. 
+ Lateral C.G. Limits 
+ Max. deviation 100 mm (3.94 in.) left or right of the fuselage median plane."
+Empty Weight CG Range,None
+Maximum Weight,2980 kg (6569 lb)
+Minimum Crew,1 Pilot
+Passengers,7
+Max Baggage,"Max. permissible floor loading: 600 kg/m2 (123 lb/sq. ft.) 
+ Max. loading: 1130 kg (2491 lb)"
+Fuel Capacity,"total: 680 liter (179.6 US gal.) 
+ usable: 670.5 liter (177.1 US gal.) 
+ total: 710 liter (187.6 US gal.) 
+ usable: 700.5 liter (185.1 US gal.)"
+Oil Capacity,Engine oil capacity: 4.5 liter (1.19 US gal.) included in minimum gross weight
+Max Operating Altitude,"6096 m (20000 ft) 
+ For rigging information refer to the EC135Maintenance Manual."
+"VIII. Model EC135T3 (Normal Category) Helicopter, Approved September 3, 2015 
+ For Models EC135T3 equipped with avionics configuration HELIONIX (Mod E-2698), see Note 5.",
+Engines,2 Turbomeca ARRIUS 2B2
+Fuel,See Rotorcraft Flight Manual
+Installed Engine Limits ARRIUS 2B2,"Gas Generator 
+ Output Shaft 
+ Measured Gas 
+ Output Shaft 
+ Speed N-1 
+ Speed N-2 
+ Temperature (TOT) 
+ Torque % 
+ % 
+ % 
+ oC (oF) 
+ Normal Operation 
+ Takeoff power (5 min.) 
+ 78 
+ 86.1-100 
+ 106 
+ 897 (1647) 
+ Max Continuous 
+ 69 
+ 85.3-99 
+ 106 
+ 879 (1614) 
+ One Engine Inoperative 
+ 30 second power 
+ 128 
+ 91.7-104.8 
+ 106 
+ 1024 (1875) 
+ 2.0 min. power 
+ 125 
+ 91.7-103.5 
+ 106 
+ 994 (1821) 
+ Max. Continuous 
+ 89.5 
+ 87.4-101.25 
+ 106 
+ 942 (1728) 
+ See Rotorcraft Flight Manual for other limitations including speed and temperature transients"
+Rotor Limits,"Power On % 
+ Power Off % 
+ Min. Continuous 
+ 97 
+ 80 for gross mass up to 1900 kg (4189 lb) 
+ 85 for gross mass above 1900 kg (4189 lb) 
+ Max. Continuous 
+ 105.5 
+ 106"
+Airspeed Limits IAS,"Max. vNE = 130 kts. See Rotorcraft Flight Manual for airspeed limit 
+ decrease with outside air temperature and altitude."
+CG Range,"Longitudinal C.G. Limits 
+ max. forward range: 
+ at 2039 kg (4495 lb): 4152 mm (163.5 in.) aft of datum 
+ at 2980 kg (6569 lb): 4201 mm (165.4 in.) aft of datum 
+ max. rearward range: 
+ at 1600 kg (3527 lb): 4555 mm (179.3 in.) aft of datum 
+ at 2980 kg (6569 lb): 4369 mm (172 in.) aft of datum 
+ Straight line variation between points given. 
+ Lateral C.G. Limits 
+ Max. deviation 100 mm (3.94 in.) left or right of the fuselage median plane."
+Empty Weight CG Range,None
+Maximum Weight,2980 kg (6569 lb)
+Minimum Crew,1 Pilot
+Passengers,7
+Max Baggage,"Max. permissible floor loading: 600 kg/m2 (123 lb/sq. ft.) 
+ Max. loading: 1130 kg (2491 lb)"
+Fuel Capacity,"total: 680 liter (179.6 US gal.) 
+ usable: 670.5 liter (177.1 US gal.) 
+ total: 710 liter (187.6 US gal.) 
+ usable: 700.5 liter (185.1 US gal.)"
+Oil Capacity,Engine oil capacity: 4.85 liter (1.28 US gal.) included in minimum gross weight
+Maximum Operating Altitude,"6096 m (20000 ft) 
+ For rigging information refer to the EC135Maintenance Manual."
+DATA PERTINENT TO ALL MODELS,
+Datum,2160 mm (85.04 in.) in front of alignment point in the frame of the front doors.
+Leveling Means,Alignment points are given in the EC135 Maintenance Manual
+Series Nos Eligible,"A German (Luftfahrt-Bundesamt, LBA) Certificate of Airworthiness endorsed as noted 
+ below under “Import Requirements” must be submitted for each individual rotorcraft for 
+ which application for FAA certification is made. For the Model EC135P1 serial numbers 
+ 0006 and subsequent. For the Model EC135T1 serial numbers 0005 and subsequent."
+Certification Basis,"- FAR 21.29 
+ - FAR 27, incl. Amdt. 31 
+ - FAR 29, incl. Amdt. 37, for engine isolation requirements 
+ - FAR 36 
+ - Special Condition defined in Issue Paper G-1 
+ - 14 CFR § 29.1557(d) Miscellaneous markings and placards (documented in ELOS 
+ Memo AT04289RD-R-C-1) 
+ For the model EC135T3/P3: 
+ Type Certificate No. H88EU amended: September 3, 2015. 
+ Date of application for amended Type Certificate: November 12, 2012 
+ FAR 21.29, FAR 27 effective February 1, 1965 with amendments 27-1 through 27-31 
+ For IFR certification: FAR 27 Appendix B through Amdt 27-44 requirements 
+ For Category A Certification: FAR 27 Appendix C through Amdt 27-33 
+ For all the changed areas compared to EC135T2+/P2+, FAR-27 through Amdt 27-44 
+ for the following requirements: 
+ 27.21 
+ 27.303 
+ 27.610 
+ 27.1091 
+ 27.1529 
+ 27.25 
+ 27.305 
+ 27.611 
+ 27.1093 
+ 27.1541 
+ 27.27 
+ 27.307 
+ 27.613 
+ 27.1141 
+ 27.1545 
+ 27.29 
+ 27.309 
+ 27.629 
+ 27.1143 
+ 27.1549 
+ 27.31 
+ 27.321 
+ 27.653 
+ 27.1187 
+ 27.1559 
+ 27.33 
+ 27.337 
+ 27.659 
+ 27.1193 
+ 27.1581 
+ 27.45 
+ 27.339 
+ 27.661 
+ 27.1301 
+ 27.1583 
+ 27.49 
+ 27.341 
+ 27.663 
+ 27.1305 
+ 27.51 
+ 27.351 
+ 27.671 
+ 27.1309 
+ 27.65 
+ 27.361 
+ 27.672 
+ 27.1317 
+ 27.67 
+ 27.391 
+ 27.681 
+ 27.1321 
+ 27.75 
+ 27.427 
+ 27.683 
+ 27.1323 
+ 27.79 
+ 27.471 
+ 27.691 
+ 27.1329 
+ 27.141 
+ 27.473 
+ 27.695 
+ 27.1351 
+ 27.143 
+ 27.501 
+ 27.771 
+ 27.1365 
+ 27.151 
+ 27.521 
+ 27.853 
+ 27.1381 
+ 27.161 
+ 27.547 
+ 27.865 
+ 27.1435 
+ 27.171 
+ 27.549 
+ 27.901 
+ 27.1501 
+ 27.173 
+ 27.561 
+ 27.903 
+ 27.1503 
+ 27.175 
+ 27.571 
+ 27.907 
+ 27.1505 
+ 27.177 
+ 27.601 
+ 27.931 
+ 27.1509 
+ 27.231 
+ 27.602 
+ 27.939 
+ 27.1519 
+ 27.241 
+ 27.603 
+ 27.1041 
+ 27.1521 
+ 27.251 
+ 27.607 
+ 27.1043 
+ 27.1525 
+ 27.301 
+ 27.609 
+ 27.1045 
+ 27.1527 
+ Environmental Standards: 
+ FAR 36 Appendix J at amendment 36-25 
+ The main differences between the EC135T2+/P2+ and the EC135T3/P3 are as 
+ follows: 
+ a. 
+ Increase of the maximum Take-off Weight from 2950kg to 2980kg 
+ b. 
+ Increase of main rotor blade geometry and length to improve the rotor blade 
+ efficiency 
+ c. 
+ Introduction of Lateral Engine Air Inlet to reduce the engine air intake losses 
+ d. 
+ Increase of engine performance through FADEC software change. 
+ e. 
+ MEGHAS software adaptation for the new dynamics of the helicopter and 
+ adaptation of 3-Axis autopilot software resulting from these changes. 
+ For Models EC135P3/T3 equipped with avionics configuration Helionix (Mod E-2698): 
+ EASA variant: EC 135 P3H / T3H 
+ Type Certificate Data Sheet H88EU amended: November 30, 2017 
+ The certification basis as established in Type Certificate Data Sheet (TCDS) H88EU for 
+ the EC135T3/P3 for areas unaffected by this change. 
+ For IFR certification: FAR 27 Appendix B through Amdt 27-46 requirements 
+ For all the changed areas compared to EC135T3/P3, FAR-27 through Amdt 27-47 for the 
+ following requirements: 
+ 27.610 
+ 27.1309 
+ 27.1316 
+ 27.1457 
+ 27.1459 
+ Equivalent Safety Findings: 
+ a. 
+ 14 CFR § 27.1305 Powerplant instruments (documented in ELOS Memo 
+ AT04292RD-R-P-1) 
+ b. 
+ 14 CFR § 27.1549 Powerplant instruments (documented in ELOS Memo 
+ AT04292RD-R-P-1) 
+ c. 
+ 14 CFR § 27.1305 Powerplant Instruments; 27.1321(a) Arrangement and 
+ Visibility; 27.1351(d)(1) Electrical Systems and Equipment, General; and 
+ Section C27.2 for 29.1305(a)(6) and (b)(1) Powerplant Instruments 
+ (documented in ELOS Memo AT04292RD-R-S-1) 
+ d. 
+ 14 CFR § 27.1545(b)(4) Airspeed indicator, and 27.1549(b) Powerplant 
+ instruments (documented in ELOS Memo AT04292RD-R-F-1) 
+ Main differences of the HELIONIX configuration to the basic configuration EC135P3/T3: 
+ a. 
+ 3 Liquid Crystal Displays for a Single Pilot / Dual Pilot Operational Capability 
+ b. 
+ 2 Aircraft Management Computers 
+ c. 
+ Primary flight and navigation sensors: 2 Attitude Heading Reference Unit, 2 
+ Magnetic Aircraft Sensor and 2 Air Data Computers 
+ d. 
+ 1 Multi-Purpose Control Panel including directional Gyro Mode control to activate 
+ the free steering mode 
+ e. 
+ 1 Data Transfer Device for uploading/downloading operations and to provide ground 
+ data communication 
+ f. 
+ 1 Integrated Standby Instrument System including backup SAS functionality 
+ g. 
+ 1 four-axis Automatic Flight Control System 
+ h. 
+ Autopilot Control Panel 
+ The German Authority Luftfahrt-Bundesamt (LBA) originally type certificated this under 
+ its type certificate number (LBA 3061). The FAA validated this product under U.S. Type 
+ Certificate Number (H88EU). Effective September 28, 2003, the European Aviation 
+ Safety Agency (EASA) began oversight of this product on behalf of the German LBA 
+ (EASA TC R.009)."
+Import Requirements,"To be considered eligible for operation in the United States, each aircraft manufactured under 
+ this type certificate must be accompanied by a certificate of airworthiness for export or 
+ certifying statement endorsed by the exporting foreign civil airworthiness authority which 
+ states (in the English language): “The aircraft covered by this certificate has been examined, 
+ test, and found to comply with the German LBA TC Number 3061 (or EASA TC Number 
+ R.009) approved under the U.S. Type Certificate Number H88EU and to be in a condition for 
+ safe operation.” 
+ The EC135 P3H or EC135 T3H is an EASA variant that corresponds to the FAA validated 
+ EC135P3 or EC135T3 model equipped with HELIONIX for SN 2001 and up. FAA 
+ documentation does not identify or distinguish between these variants."
+Equipment,"The minimum required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the respective helicopter for certification. 
+ For model EC135P1, LBA-approved EC135P1 Rotorcraft Flight Manual, dated 
+ 14.06.1996 Revision 0, or later approved revision, as required. LBA-approved EC135P1 
+ (CPDS) Rotorcraft Flight Manual (for helicopters with Central Panel Display System 
+ installed), dated November 6, 1998, Revision 0, or later approved revision. 
+ For model EC135T1, LBA-approved EC135T1 Rotorcraft Flight Manual, 
+ dated 14.06.1996 Revision 0, or later approved revision, as required. LBA-approved 
+ EC135T1 (CPDS) Rotorcraft Flight Manual (for helicopters with Central Panel Display 
+ System installed), dated May 26, 1999, Revision 0, or later approved revision. 
+ For model EC135P2, LBA-approved EC135P2(CPDS) Rotorcraft Flight Manual, 
+ dated July 10, 2001, Revision 0, or later approved revision, as required. 
+ For model EC135T2, LBA-approved EC135T2(CPDS) Rotorcraft Flight Manual, 
+ dated August 9, 2002, Revision 0, or later approved revision, as required. 
+ For model EC135P2+, EASA-approved EC135P2+ Rotorcraft Flight Manual, 
+ dated February 21, 2006, Revision 0, or later approved revision, as required. 
+ For model EC135T2+, EASA-approved EC135T2+ Rotorcraft Flight Manual, 
+ dated February 21, 2006, Revision 0, or later approved revision, as required. 
+ For model EC135P3, EASA-approved EC135P3(CPDS) Rotorcraft Flight Manual, dated 
+ March 18, 2015, Revision 0, or later approved revision, as required. For rotorcraft 
+ equipped with avionics configuration HELIONIX (Mod E-2698), EASA-approved 
+ EC135P3H Rotorcraft Flight Manual, dated October 4, 2017, Revision 4, or later 
+ approved revision, as required. 
+ For model EC135T3, EASA-approved EC135T3(CPDS) Rotorcraft Flight Manual, dated 
+ October 17, 2014, Revision 0, or later approved revision, as required. For rotorcraft 
+ equipped with avionics configuration HELIONIX (Mod E-2698), EASA-approved 
+ EC135T3H Rotorcraft Flight Manual, dated October 4, 2017, Revision 4, or later 
+ approved revision, as required. 
+ For Category A special operation, the configuration requirements as defined in section 
+ A.2.2 of the applicable 9.1-1 Rotorcraft Flight Manual Supplement must be met."
+Service Information,"Service bulletins, repair manuals, vendor manuals, rotorcraft flight manuals and 
+ maintenance manuals, which contain a statement that the document is approved by the 
+ European Aviation Safety Agency (EASA) or, for approvals made before September 28, 
+ 2003, by the German LBA, are accepted by the FAA and are considered FAA approved. 
+ These approvals pertain to the type design only."
+NOTE 1,"Turbomeca ARRIUS 2B1 engines installed in EC135T1 serial numbers 0036 and 
+ subsequent. ARRIUS 2B1 engine installation limitations apply if ECD Service Bulletin 
+ EC135-71-001 is incorporated on EC135T1 serial numbers 0035 and prior."
+NOTE 2,"The model EC-135 rotorcraft employs electronic engine controls, commonly named Full 
+ Authority Digital Engine Controls (FADEC) and is recognized to be more susceptible to 
+ Electromagnetic Interference (EMI) than rotorcraft that have only manual (non-electronic) 
+ controls. (EMI may be the result of radiated or conducted interference.) For this reason 
+ modifications that add or change systems that have the potential for EMI, must either be 
+ qualified to a standard acceptable to the FAA or tested at the time of installation for 
+ interference to the FADEC. This type of testing must employ the particular FADEC’s 
+ diagnostic techniques and external diagnostic techniques. The test procedure must be FAA 
+ approved."
+NOTE 3,"For the EC 135(CPDS) to be eligible for SPIFR-Cockpit with AFCS and AN Flight 
+ Displays the following RFM supplements are required; FMS 9.2-48, Revision 4, Automatic 
+ Flight Control System, LBA approved December 22, 2000, FMS 9.2-53, Revision 2, Single 
+ Flight Control Display System, LBA approved September 7, 2000, and FMS 9.2-56, 
+ Revision 3, SP/DPIFR Operation Kit, LBA approved August 17, 2000."
+NOTE 4,"Any changes to the type design of this helicopter by means of an amended type certificate 
+ (TC), supplemental type certificate (STC), or amended STC, requiring instructions for 
+ continued airworthiness (ICA's) must be submitted thru the project aircraft certification 
+ office (ACO) for review and acceptance by the Fort Worth -Aircraft Evaluation Group 
+ (FTW-AEG) Flight Standards District Office (FSDO) prior to the aircraft delivery, or 
+ upon issuance of the first standard airworthiness certificate for the affected aircraft, 
+ whichever occurs later as prescribed by Title 14 CFR 21.50. Type design changes (major 
+ repairs or alterations) by means of a FAA Form 337 (field approval) that require ICA's 
+ must have those ICA's reviewed by the field approving FSDO."
+NOTE 5,"EC135P2+ starts with S/N 505 or upgraded EC135P2 model according to Service Bulletin 
+ EC135-71-033. 
+ EC135T2+ starts with S/N 506 or upgraded EC135T2 model according to Service 
+ Bulletin EC135-71-033. 
+ EC135P3 starts with S/N 1178 or upgraded EC135P2+ model according to Service 
+ Bulletin EC135-71T-045. 
+ EC135P3 rotorcraft equipped with avionics configuration HELIONIX (Mod E-2698) 
+ starts with S/N 2006. 
+ EC135T3 starts with S/N 1155 or upgraded EC135T2+ model according to Service 
+ Bulletin EC135-71T-045. 
+ EC135T3 rotorcraft equipped with avionics configuration HELIONIX (Mod E-2698) 
+ starts with S/N 2001."
+NOTE 6,"EC135P3/T3 rotorcraft equipped with avionics configuration HELIONIX (Mod E-2698) 
+ must comply with Type Design Definition as defined in AH document, EC135 Type 
+ Design Definition for United States of America, L0000M01USA."
+NOTE 7,"The EC635T2+ mandatory continued operational safety requirements issued by EASA 
+ have not been addressed by the FAA; therefore, import of EC635T2+ models is limited to 
+ SN 0858. This aircraft was converted from an EC635T2+ to an EC135T2+ and has 
+ maintained its continued airworthiness by meeting regulatory requirements defined for 
+ the EC135T2+. No other serial numbers are eligible for conversion and import."

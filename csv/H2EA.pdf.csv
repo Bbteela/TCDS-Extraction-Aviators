@@ -1,0 +1,328 @@
+Keyterm,Info
+"H2EA 
+ Revision 4 
+ SIKORSKY 
+ S-61A (U.S. Navy SH-3A, HSS-2) 
+ (USAF CH-3B) 
+ S-61D (U.S. Navy SH-3D) 
+ S-61E (U.S. Navy RH-3A) 
+ S-61V (U.S. Navy VH-3A, HSS-22) 
+ December 7, 2012",
+Type Certificate Holder,"Sikorsky Aircraft Corporation 
+ 6900 Main Street 
+ Stratford, Connecticut 06615-9129"
+"I - Model S-61A (Restricted Category), approved April 13, 1967.",
+Engine,"2 General Electric T58-GE-8B (for SH-3A and HSS-2) 
+ 2 General Electric T58-GE-1 (for CH-3B)"
+Fuel,"Aviation Kerosene JP4 or JP5 (General Electric Co. Spec. No. D50TF2 or subsequent 
+ revisions thereto.)"
+Engine limits,"Shaft 
+ Power 
+ Gas 
+ Power Turbine 
+ HP 
+ Turbine R.P.M. 
+ Gen. R.P.M. 
+ Inlet (T5) 
+ Military Power 
+ 1250 
+ 21275 
+ 26300 
+ 677°C (1250°F) 
+ (30 min.) 
+ Normal Cont. 
+ 1050 
+ 21275 
+ 26300 
+ 635°C (1175°F) 
+ Cruise"
+Rotor Limits,"Maximum 238 r.p.m. (117%) 
+ Minimum 184 r.p.m. (91%)"
+Airspeed limits,Never exceed 144 knots IAS
+CG range,258.0 to 276.0
+Maximum weight,"19,100 lb."
+Maximum Crew,"2 (pilot, co-pilot)"
+Fuel capacity,"698 gal. (345 gal. fwd. tank, 353 gal. aft tank for Models SH-3A and HSS-2) 1,141 gal. 
+ (347 gal. fwd. tank, 353 gal. aft tank, 441 gal. auxiliary tank for CH-3B)"
+Oil capacity,"6 gal. (two tanks, 3 gal. each)"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"4 
+ 4 
+ 4 
+ 4 
+ 3 
+ 3"
+Other operating,Models SH-3A and HSS-2: Naval Air Training and Operating Procedures
+limitations,"Standardization (NATOPS) Flight Manual, Navy Model SH-3A Helicopters, NAVAIR 
+ 01-230HLC-1, dated 15 September 1966. Model CH- 3B: USAF Flight Manual, USAF 
+ Series CH-3B Helicopter, T.O. 1H- 3(C)B-1, dated 30 August 1966."
+Serial Nos eligible,See latest revision of FAA-approved Sikorsky Report SER-611975
+"II - Model S-61D (Restricted Category), approved April 13, 1967.",
+Engine,2 General Electric T58-GE-10
+Fuel,"Aviation Kerosene JP4 or JP5 (General Electric Co. Spec. No. D50TF2 or subsequent 
+ revisions thereto.)"
+Engine limits,"Shaft 
+ Power 
+ Gas 
+ Power Turbine 
+ HP 
+ Turbine R.P.M. 
+ Gen. R.P.M. 
+ Inlet (T5) 
+ Military Power 
+ 1400 
+ 21275 
+ 26300 
+ 696°C (1285°F) 
+ (30 min.) 
+ Normal Cont. 
+ 1250 
+ 21275 
+ 26300 
+ 660°C (1220°F) 
+ Cruise"
+Rotor Limits,"Maximum 238 r.p.m. (117%) 
+ Minimum 184 r.p.m. (91%)"
+Airspeed limits,Never exceed 144 knots IAS
+CG range,258.0 to 276.0
+Maximum weight,"19,100 lb."
+Minimum Crew,"2 (pilot, co-pilot)"
+Fuel capacity,"848 gal. (347 gal. fwd. tank, 148 gal. center tank, 353 gal. aft tank)"
+Oil capacity,"6 gal. (two tanks, 3 gal. each)"
+Other operating,Naval Air Training and Operating Procedures Standardization (NATOPS) Flight
+limitations,"Manual, Navy Model SH-3D Helicopters, NAVAIR 01-230-HLE-1, dated 15 September 
+ 1966"
+Serial Nos eligible,See latest revision of FAA-approved Sikorsky Report SER-611975
+"III - Model S-61E (Restricted Category), approved April 13, 1967.",
+Engine,2 General Electric T58-GE-8B
+Fuel,"Aviation Kerosene JP4 or JP5 (General Electric Co. Spec. No. D50TF2 or subsequent 
+ revisions thereto.)"
+Engine limits,"Shaft 
+ Power 
+ Gas 
+ Power Turbine 
+ HP 
+ Turbine R.P.M. 
+ Gen. R.P.M. 
+ Inlet (T5) 
+ Military Power 
+ 1250 
+ 21275 
+ 26300 
+ 677°C (1250°F) 
+ (30 min.) 
+ Normal Cont. 
+ 1050 
+ 21275 
+ 26300 
+ 635°C (1175°F) 
+ Cruise"
+Rotor Limits,"Maximum 238 r.p.m. (117%) 
+ Minimum 184 r.p.m. (91%)"
+Airspeed limits,Never exceed 144 knots IAS
+CG range,258.0 to 276.0
+Maximum weight,"19,100 lb."
+Minimum Crew,"2 (pilot, co-pilot)"
+Fuel capacity,"852 gal. (345 gal. fwd. tank, 353 gal. aft tank, 154 gal. auxiliary tank)"
+Oil capacity,"8.6 gal. (two tanks, 3 gal. each plus one auxiliary tank, 2.6 gal.)"
+Other operating,Naval Air Training and Operating Procedures Standardization (NATOPS) Flight
+limitations,"Manual, Navy Model RH-3A Helicopters, NAVAIR 01-230-HLCA-1, dated 1 November 
+ 1966"
+Serial Nos eligible,See latest revision of FAA-approved Sikorsky Report SER-611975
+"IV - Model S-61V (Restricted Category), approved April 13, 1967.",
+Engine,2 General Electric T58-GE-8C
+Fuel,"Aviation Kerosene JP4 or JP5 (General Electric Co. Spec. No. D50TF2 or subsequent 
+ revisions thereto.)"
+Engine limits,"Shaft 
+ Power 
+ Gas 
+ Power Turbine 
+ HP 
+ Turbine R.P.M. 
+ Gen. R.P.M. 
+ Inlet (T5) 
+ Military Power 
+ 1250 
+ 21275 
+ 26300 
+ 677°C (1250°F) 
+ (30 min.) 
+ Normal Cont. 
+ 1050 
+ 21275 
+ 26300 
+ 635°C (1175°F) 
+ Cruise"
+Rotor Limits,"Maximum 238 r.p.m. (117%) 
+ Minimum 184 r.p.m. (91%)"
+Airspeed limits,Never exceed 144 knots IAS
+CG range,258.0 to 276.0
+Maximum weight,"19,100 lb."
+Maximum Crew,"2 (pilot, co-pilot)"
+Fuel capacity,"698 gal. (345 gal. fwd. tank, 353 gal. aft tank)"
+Oil capacity,"6 gal. (two tanks, 3 gal. each)"
+Other operating,"Supplemental Handbook of Operation, Maintenance, and Repair Instructions with Parts"
+limitations,"Breakdown, Navy Models VH-3A and SH-3A (BuNos 147145 and 148037) Helicopters, 
+ NAVAIR 01-230HLY-23, dated 15 January 1967 and Naval Air Training and Operating 
+ Procedures Standardization (NATOPS) Flight Manual, Navy Model SH-3A Helicopters, 
+ NAVAIR 01-230-HLC-1, dated 15 September 1966"
+Serial Nos eligible,See latest revision of FAA-approved Sikorsky Report SER-611975
+Data Pertinent to All Models,
+Datum,267.4 inches forward of the main rotor centroid
+Certification Basis,"FAR 21.25 (a) 2 effective February 1, 1965 
+ Type Certificate No. H2EA issued April 13, 1967, for the special purpose of 
+ transportation of cargo in the furtherance of the operator's or lessee's business only. 
+ Date of Application for Type Certificate: February 27, 1967."
+Production Basis,None. No helicopters may be produced under this approval.
+Equipment,"Equipment necessary for the particular special purpose operation must be installed (See 
+ NOTE 3)."
+NOTE 1,"Current weight and balance report including a list of equipment included in the certificated empty weight, 
+ and loading instructions when necessary, must be in each helicopter at the time of original airworthiness 
+ certification and all times thereafter. Refer to Handbook of Weight and Balance NAVAIR 01-1B-40 for 
+ Models S-61D and S-61E and to Handbook of Weight and Balance NAVAIR 01-1B-50 for Models S-61A 
+ and S-61V."
+NOTE 2,"These helicopters must be serviced and maintained in compliance with Periodic Maintenance Requirements 
+ Manual NAVWEPS 01-230HLC-6 and with the following handbooks: Model S-61A: Handbook of 
+ Maintenance Instructions NAVAIR 01-230HLC-2; Model S-61D: Handbook of Maintenance Instructions 
+ 01-230HLE-2; Model S-61E: Handbook of Maintenance Instructions 01-230HLCA-2; Model S-61V: 
+ Handbook of Maintenance Instructions 01-230HLC-2 and Supplemental Handbook of Operation, 
+ Maintenance, and Repair Instructions with Parts Breakdown NAVAIR 01-230HLY-23."
+NOTE 3,"Modifications to these rotorcraft or special equipment will be necessary, reference FAR 21.25(a)(2), prior 
+ to civil airworthiness certification for the special purpose of transportation of cargo."
+NOTE 4,"See latest revision of FAA-approved Sikorsky Report SER-611975 for S-61A serial number eligibility 
+ information."
+NOTE 5,"Prior to the civil airworthiness certification, compliance with the latest revision of FAA-approved Sikorsky 
+ Report SER-611974 must be accomplished."
+NOTE 6,"Service life limited parts must be retired in accordance with the following schedule: 
+ Part No. 
+ Service Life (Hours) 
+ Main Rotor Blades 
+ S6115-20101 
+ 2000 
+ Tail Rotor Blades 
+ S6115-30001 
+ 3000 
+ S6115-30001-1 
+ 3000 
+ Tail Rotor Hub 
+ S6110-33003 
+ 2200 
+ Tail Rotor Spindle 
+ S6110-33006 
+ 850 
+ Primary Servo Trunnion 
+ Assembly 
+ S6165-20232 
+ 7700 
+ Swashplate Guide 
+ S6135-20553-1 
+ 5200 
+ Main Transmission 
+ S6135-20011-1 
+ 3600 
+ Upper Housing 
+ S6135-20011-6 
+ 3600 
+ Primary Servo Housing 
+ Assembly 
+ S6165-20202 
+ 8100 
+ Rotary Wing Head Damper 
+ S6110-26019-0 
+ 3400 
+ Piston Rod Assembly 
+ S6110-26019-1 
+ 3400"
+NOTE 7,"The following placard must be prominently displayed in the cockpit in full view of the pilots: 
+ ""This rotorcraft must be operated in accordance with the restricted category operating limitations of FAR 
+ 91.39."""
+NOTE 8,"Certain serial number aircraft listed in Sikorsky Report SER-611975 are also eligible with the 
+ accomplishment of certain applicable fuselage modifications (NOTE 5) and installation of 
+ optional engines listed below. 
+ Optional engines eligible for installation and the applicable limitations: (See NOTE 12) 
+ Engines (2): (a) General Electric CT58-140-1 (with Hamilton Standard Fuel Control JFC-26). 
+ Engines Limits: Sea Level Static - Standard Day 
+ Shaft 
+ Power 
+ Gas 
+ Power Turbine 
+ HP 
+ Turbine R.P.M. 
+ Gen. R.P.M. 
+ Inlet (T5) 
+ Takeoff (5 min.) 
+ 1400 
+ 21275 (112%Nf) 
+ 26300(100%Ng) 
+ 1285°F(696°C) 
+ One Engine Inoperative 
+ 1400 
+ 21275 (112%Nf) 
+ 26300(100%Ng) 
+ 1285°F(696°C) 
+ (30 min.) (See NOTE 11) 
+ One Engine Inoperative 
+ 1500 
+ 21275 (112%Nf) 
+ 26800(102%Ng) 
+ 1330°F(721°C) 
+ (2 1/2 min.) 
+ Maximum Continuous 
+ 1250 
+ 21275 (112%Nf) 
+ 26300(100%Ng) 
+ 1220°F(660°C) 
+ Maximum Transient 
+ 1545°F(840°C) 
+ (2 sec.) 
+ Starting (2 sec.) 
+ 1740°F(950C) 
+ Allowable Maximum 
+ Overspeed (15 sec.) 
+ 23100(122%Nf) 
+ 27600(105%Ng) 
+ Takeoff and Maximum continuous horsepower ratings are normally obtained at a power turbine speed 
+ of 18,966 r.p.m. (100%Nf). 
+ Total power for two engine operation is limited to 2,500 hp. for takeoff. Maximum continuous total 
+ power for two engine operation is limited to 2100 hp. 
+ See NOTE 9 for variations of sea level static power limit below 59°F. 
+ The use of engine Model CT58-140-1 is permitted only when: 
+ a. 
+ Main gearbox part number S6135-20600-27, -3, or -39 is installed. 
+ b. 
+ Left engine cowl inst., part number S6130-80140-3, is used. 
+ c. 
+ Tail pipe assembly, part number S6130-80169-1, is installed (bolt-on versus clamp). 
+ d. 
+ Tube installation - air bleed dump R.H., part number S6120-62342-6, is installed. 
+ e. 
+ Engine Inlet Duct Assy. S6130-80179-2 is installed."
+NOTE 9,"Below 59°F the sea level static power limits vary as follows: 
+ CT58-140-1 
+ 2 1/2 Min. Helicopter 
+ Increases linearly from 
+ 1500 hp. at 59°F to 
+ 1545 hp. at -65°F. 
+ Takeoff and 30 Min. 
+ Increases linearly from 
+ Helicopter 
+ 1400 hp. at 59°F to 
+ 1510 hp. at 22°F and to 
+ 1540 hp. at -65°F. 
+ Max. Continuous 
+ Increases linearly from 
+ 1250 hp. at 59°F to 
+ 1390 hp. at 39°F and 
+ flat rated at 1390 hp. 
+ at 39°F and below."
+NOTE 10,"Tail rotor blade S6117-30101-041, -042, and -043 are not usable on these models."
+NOTE 11,"If takeoff power is used in cumulative excess of five minutes during any one emergency, the engine must be 
+ inspected in accordance with G.E. Commercial Engine Service Memorandum CT58-110-1, Maintenance 
+ No. 19, April 17, 1962."
+NOTE 12,"If any ratings on the CT58-140 series engines are exceeded refer to G.E. Engine Maintenance Manual No. 
+ SEI-182, Revision 7, November 1979."

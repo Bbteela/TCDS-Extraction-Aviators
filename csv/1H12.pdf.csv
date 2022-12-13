@@ -1,0 +1,240 @@
+Keyterm,Info
+"1H12 
+ Revision 8 
+ VERTOL 
+ (H21B, H-21C) 42A, 
+ 42B 
+ 44A, 44B 
+ 15 May 1971",
+Type Certificate Holder,"The Boeing Company 
+ Vertol Division 
+ Boeing Center 
+ P.O. Box 16858 
+ Philadelphia, Pennsylvania 19142"
+"I - Model 42A, 42B, 17-21 PLCH, Approved April 10, 1957; Model 44A, 44B, 17-21 PLCH, Approved February 26, 1958. 
+ (See NOTE 7 for military versions and Items 207 and 208 for float gears) 
+ The Model 44 series is similar to the Model 42 series except for rotor system, powerplant installation and minor structural 
+ changes",
+Engine,Wright R1820-103 (See Item 101 for optional engines)
+Fuel,100/130 minimum grade aviation gasoline
+Engine limits,"Low Ratio Supercharger 
+ MP 
+ HP RPM IN HG ALT. 
+ 1275 
+ 2500 
+ 47.5 
+ S.L. 
+ 1275 
+ 2500 
+ 46.0 
+ 3300"
+TakeOff five min,"1425 
+ 2700 
+ 52.5 
+ S.L."
+TakeOff five min,"1425 
+ 2700 
+ 51.5 
+ 2300 
+ (Straight line manifold pressure variation with altitude shown)"
+Rotor Limits,"Maximum 330 
+ Minimum 237. See NOTE 3 for required placard."
+Airspeed limits,"Maximum never exceed speed 
+ Models 42A, 42B: 107 knots CAS (110 knots IAS) 
+ Models 44A, 44B: 108 knots CAS (110 knots IAS)"
+Center of Gravity,See NOTE 3 for required placard.
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5"
+Rev No,"8 
+ - 
+ - 
+ - 
+ -"
+CG range,"Models 42A, 42B: 
+ (319.0) to (348.0) at 14,000 lb. 
+ (319.0) to (360.5) at 11,500 lb. or less 
+ Models 44A, 44B: 
+ (319.0) to (350.0) at 14,350 lb. 
+ (Forward C.G. limit (318.0) at 13,400 lb. or less 
+ (318.0) to (360.5) at 11,500 lb. or less 
+ (Straight line variation between points given.) 
+ 14 3 5 0 
+ 1 40 0 0 
+ Aircr aft 
+ Air craft 
+ 13 4 0 0 
+ W eight 
+ W eight 
+ 42A, 
+ 42B 
+ 44A, 44B 
+ (lb. ) 
+ (lb. ) 
+ 11 5 0 0 
+ 1 15 0 0 
+ Inches Aft of Datum 
+ Inches A ft of D atum"
+Empty Weight CG Range,None
+Maximum weight,"Models 42A, 42B: 14,000 lb. 
+ Models 44A, 44B: 14,350 lb. 
+ See NOTE 3 for restrictions above 8000 ft."
+Number of Seats,"17-21 
+ Pilot and copilot (84.0) 
+ Passengers: 
+ 42A, 44A: See Item 402 
+ 42B, 44B: 1 at (121), 1 at (132), 2 at (170), 2 at (204), 
+ 2 at (238), 2 at (272), 2 at (306), 2 at (340), 
+ 1 at (353). 
+ Maximum Baggage800 lb. (432) (44B only). See NOTE 5 for cargo capacity."
+Fuel capacity,300 gal. (See NOTE 6 for usable fuel)
+Oil capacity,"42A, 42B: 26 gal. (540) 
+ 44A, 42B: 13 gal. (540)"
+Rotor Blade Movements,For rigging information refer to Maintenance Manual.
+Serial Nos Eligible,1 and up
+Required Equipment,"In addition to the pertinent required basic equipment specified in 
+ (CAR 6, the following items of equipment must also be installed: 
+ 102, 103, 104, 105, 106, 107, 201(a), 202(a), 205(a), 206(a), 
+ 301(a), 302(a), 303, 401(a) for 42A and B, 401(b) for 44A and B."
+Specifications Pertinent to All Models,
+Datum,100 Inches forward of forward rotor centerline
+Leveling Means,Plumb bob from top of main cabin door frame (rear) to plate on door sill.
+Certification Basis,"Type Certificate No. 1H12 (CAR 6, January 15, 1951 and Amendments 
+ 6-1 through 6-7) The Model 44B is eligible for scheduled air carrier 
+ operation subject to the operations specifications."
+Production basis,"None. Prior to original certification of each helicopter manufactured, 
+ a FAA representative must perform a detailed inspection for workmanship, 
+ materials, and conformity with the approved technical data and 
+ a check of flight characteristics."
+Equipment,Engine and Engine Accessories - Fuel and Oil System
+101 Engines,"(a) Wright 977C9HD1 (same limitations as for R1820-103) 
+ (Not eligible for high blower operation) 
+ (b) Wright 977C9HD2 (same limitations as for R1820-103) 
+ (Not eligible for high blower operation) 
+ (c) Wright 977C9HD3 (same limitations as for R1820-103 
+ (Not eligible for high blower operation)"
+102 Starter Model AN4116R3B,"28 lb. 
+ (509)"
+"103. Fuel pump, engine-driven, Model AN4101-1",
+"105. Oil cooler, engine, Harrison Radiator Model AP26AU24",
+Model AP22AU1104,"19 lb. 
+ (459)"
+"107. Hydraulic pump, New York Airbrake Model 68261",
+Landing Gear,"201. Two main wheel-brake assemblies, 24x7.7, Type VII"
+a Goodyear,"49 lb. 
+ (398) 
+ Wheel Assembly No. 531031 
+ Brake Assembly No. 9530721 
+ 202. (a) Two main wheel 10-ply rating tires, 24x7.7, 
+ Type VII, with regular tubes 
+ 50 lb. 
+ (398) 
+ 205. Nose wheel assembly, 7.50-10, Type III 
+ (a) Goodyear Wheel Assembly No. 53075IM 
+ 9 lb. 
+ (103) 
+ 206. (a) Nose wheel 6-ply rating tire, 7.50-10, 
+ Type III, with regular tubes 
+ 13 lb. 
+ (103) 
+ 207. Salvage flotation gear installation in accordance 
+ with Vertol Dwg. No. 22L3438. 
+ Item 401(e) required for this installation (44 only). 
+ 208. Fixed flotation gear installation in accordance"
+with Vertol Dwg No 04L3100A,"Use act. wt. change 
+ Item 401(f) or (k) required with this installation."
+301 Generator,"(a) 8 v, 400 amp. General Electric Type 121D882 
+ Model 2CM76C4 
+ 61 lb. 
+ (511)"
+"(a) 28V, 36 amp. hr. Model AN3150A",
+a 250 VA AN35321,"18 lb. 
+ (427)"
+b 500 VA AN35351,"24 lb. 
+ (427)"
+Interior Equipment,"401. (a) CAA Approved Helicopter Flight Manual dated July 1, 1957. (This issue supersedes issued dated April 10, 
+ 1957) 
+ Required for Models 42A and B. 
+ (b) CAA Approved Helicopter Flight Manual dated February 26, 1958 revised October 13, 1960. Required for 
+ Models 44A and B."
+"(c) Supplement No. 1 dated February 26, 1958, revised July 11, 1958 to CAA Approved Model 44 Helicopter Flight",
+"(d) Supplement No. 2 dated February 26, 1958, revised July 11, 1958 to CAA Approved Model 44 Helicopter Flight",
+"(e) Supplement No. 4 dated April 4, 1958 to CAA Approved Model 44 Helicopter Flight Manual. Required when",
+"(f) Supplement No. 3 dated April 25, 1958, revised May 2, 1958 to CAA Approved Model 44 Helicopter Flight",
+"(g) Supplement No. 5 dated July 11, 1958, revised January 29, 1959 to CAA Approved Model 44 Helicopter Flight",
+"(h) Supplement No. 6 dated December 5, 1958 to CAA Approved Model 44 Helicopter Flight Manual. Required",
+"(i) Supplement No. 2 dated January 29, 1959 to CAA Approved Model 42 Helicopter Flight Manual. Required",
+"(j) Supplement No. 7 dated June 9, 1960 revised August 31, 1960 to CAA Approved Model 44 Helicopter Flight",
+"(k) Supplement No. 3 dated November 25, 1960 to CAA Approved Model 42 Helicopter Flight Manual. Required",
+a Two place seat,"6 lb. 
+ (170)"
+b Three place seat,"9 lb. 
+ (200)"
+c Three place seat,"9 lb. 
+ (220)"
+d Three place seat,"9 lb. 
+ (260)"
+e Three place seat,"9 lb. 
+ (279)"
+f Three place seat,"9 lb. 
+ (319)"
+g Two place seat,"6 lb. 
+ (352)"
+Miscellaneous Equipment not listed above,601. Cargo sling installation (4500 lb.) in accordance with Vertol Dwg. No. 42E5501
+See NOTE 4 for operating limitations. (Model 42A only),
+See NOTE 4 for operating limitations. (Model 42A only),
+installation Use actual weight change,"607. Three (3) Axis Stability Augmentation System installed in accordance with Vertol Dwg. 04C0001. Item 401(j) 
+ required with this installation. (44 only). Use actual weight change. 
+ NOTE 1. Current weight and balance report, including list of equipment included in certificated weight empty, and loading 
+ instructions must be in each helicopter at the time of original certification and at all times thereafter. When 
+ changes are made to the helicopter which affect weight and balances, refer to the Flight Manual for instructions. 
+ NOTE 2. Information essential to the proper maintenance of the helicopter including retirement time of 
+ critical components 
+ is contained in the maintenance manual provided with each helicopter. The values of retirement or service life 
+ cannot be increased without FAA engineering approval. 
+ NOTE 3. The following placards must be displayed in the instrument panel in full view of the pilot: 
+ (a) 
+ ""This helicopter must be operated in compliance with the operating limitations specified in the CAA Approved 
+ Helicopter Flight Manual."" 
+ (b) ""Never exceed speeds. Variation of Vne with altitude and rpm. 
+ ALT 
+ Vne 
+ IAS Knots 
+ 2500 rpm 
+ 2400 rpm 
+ 2300 rpm 
+ S.L. 
+ 110 
+ 101 
+ 93 
+ 2000 
+ 97 
+ 89 
+ 81 
+ 4000 
+ 85 
+ 77 
+ 69 
+ 6000 
+ 73 
+ 65 
+ - 
+ 8000 
+ 60 
+ 60 
+ - 
+ 10,000 
+ 60 
+ 60 
+ - 
+ Maximum gross weight above 8000 ft. is 12,500 lbs."" 
+ NOTE 4. The cargo sling (Items 601, 603), hoist (Items 602, 604) and towing installation (Item 605) are special purpose 
+ equipment and are to be operated in accordance with the limitations described in CAR 8. Information concerning 
+ the operating limitations is also contained in the Helicopter Flight Manual. 
+ NOTE 5. The cabin floor area is structurally satisfactory for a uniformly distributed loading of 130 psf. when used for cargo 
+ purposes. 
+ NOTE 6. Fuel and oil capacities as indicated are total capacities. The fuel tank capacity includes unusable fuel of 3.6 gal. 
+ which must be included in the empty weight."
+NOTE 7. Prior to civil certification of any military version of the Model 42 series information regarding eligibility and,

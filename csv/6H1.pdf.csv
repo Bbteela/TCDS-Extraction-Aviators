@@ -1,0 +1,467 @@
+Keyterm,Info
+"6H1 
+ Revision 12 
+ SIAM HILLER 
+ UH-12 
+ UH-12A 
+ (Navy THE-1, 
+ Army H-23A) 
+ October 28, 2014",
+Type Certificate Holder,"Siam Hiller Holdings, Inc. 
+ 925 M. Street 
+ Firebaugh, California 93622-2234"
+Type Certification Ownership,Hiller Aircraft Corporation transferred to
+Record,"Fairchild Industries, Inc. on 10/2/1959 
+ Fairchild Industries, Inc. transferred to 
+ Heli-Parts, Inc. on 12/28/1972 
+ Heli-Parts, Inc. transferred to 
+ Hiller Aviation on 12/28/1972 
+ Hiller Aviation transferred to 
+ Rogerson Aircraft Corporation on 6/26/1984 
+ Rogerson Aircraft Corporation transferred to 
+ Hiller Helicopters, a wholly owned subsidiary of Rogerson Aircraft Corporation 
+ on 6/29/1984 
+ Hiller Helicopters, a wholly owned subsidiary of Rogerson Aircraft Corporation 
+ transferred to Rogerson Hiller Corporation on 11/14/1985 
+ Rogerson Hiller Corporation transferred to 
+ Siam Hiller Holdings, Inc. on 7/14/1994"
+"I. Model UH-12, 3 POCLSH, Approved October 14, 1948",
+Engine,Aircooled Motors Franklin 6V4-178-B33
+Fuel,80 min. octane aviation gasoline
+Engine limits,Maximum rpm 3000 (178 hp)
+Rotor limits and,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.)"
+engine operating speeds,"Maximum 350 rpm 
+ Maximum 3000 rpm 
+ Minimum 294 rpm 
+ Minimum (S.L. to 6000') 2800 rpm 
+ Minimum (7500') 2900 rpm 
+ Minimum (9000') 3000 rpm"
+Airspeed limits,"Never exceed speed-84 mph (73 knots) True Ind. 
+ (at Sea Level) (Reduce speed 2.5 mph for each 1000 ft. of altitude)."
+Altitude limits,"Avoid slow speed operation between 10 and 325 ft. 
+ Above ground surface (See CAA/FAA Approved Flight Manual)."
+CG range,(81.0) to (85.5)
+Empty weight CG range,None
+Maximum weight,2247 lbs. (For increased weight see NOTE under Sect. II for Model UH-12A)
+No of seats,3 (53)
+Maximum Baggage,None
+Fuel capacity,"27 gals. (85) (Usable fuel 23.5 gal.). (See NOTE 1 for data on ""System Fuel and 
+ Oil"")"
+Oil capacity,"10 quarts (92) (See NOTE 1 for data on ""System Fuel and Oil”)"
+Rotor blade movements,(Tolerances +1/2°)
+Collective pitch,"+10° to -1° (measured at retention plate) (Low setting is determined as the lowest 
+ setting which will preclude overspeeding in auto-rotation)."
+Teetering,+8°
+Neutral,9° incidence with wobble plate level.
+Cyclic pitch,+22-1/2° from neutral with main rotor normal to shaft.
+Flapping,+20° to -10°
+Collective pitch,+15° to -3°
+Horizontal stabilizer setting,"-9° to -19° (-19° is satisfactory for all configurations and is required for certain 
+ configurations as noted under the pertinent item of equipment)"
+Serial Nos eligible,103 through 295 except 210
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 6, the 
+ following items of equipment must be installed: Items 1(a), 2(a), 3(a), 101(a), 
+ 102, 103, 104, 105, 107, 108, 201(a), 202(a), 206, 207, 301, 302, 401."
+"II Model UH-12A (Navy HTE-1, Army H-23A), 3 POCLSH, Approved May 8, 1950 
+ (Model UH-12 may be converted to Model UH-12A by the addition of Items 4 and 109. Item 1(b) replaces Item 
+ 1(a) and Item 402 replaces Item 401. These changes make the UH-12 identical to the UH-12A and eligible for the 
+ UH-12A maximum weight and UH-12A approved equipment)",
+Engine,"Aircooled Motors Franklin 6V4-178-B33 (See Items 130 and 133 for optional 
+ engines)"
+Fuel,80 min. octane aviation gasoline
+Engine limits,Maximum rpm 3000 (178 hp)
+Rotor Limits and,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.)"
+engine operating speeds,"Maximum 350 rpm 
+ Maximum 3000 rpm 
+ Minimum 294 rpm 
+ Minimum (S.L. to 6000') 2800 rpm 
+ Minimum (7500') 2900 rpm 
+ Minimum (9000') 3000 rpm"
+Airspeed limits,"Never exceed speed-84 mph (73 knots) True Ind. (at Sea Level) 
+ (Reduce speed 2.5 mph for each 1000 ft. of altitude)."
+Altitude limits,"Avoid slow speed operation between 10 and 325 ft. 
+ above ground surface (See CAA/FAA Approved Flight Manual)."
+CG range,"8 Degree Hub 
+ (81.0) to (85.5) 
+ 12- 9 Degree Hub 
+ (80.1) to (84.6) 
+ (See Item 211 for C.G. range with skis installed)"
+Empty weight CG range,None
+Maximum weight,2400 lb. (For increased weight see Item 212)
+No of seats,3 (53)
+Maximum Baggage,None
+Fuel capacity,"27 gals. (85) (Usable fuel 23.5 gal.). (See NOTE 1 for data on ""System Fuel and 
+ Oil"")."
+Oil capacity,"10 quarts (92) (See NOTE 1 for ""System Fuel and Oil"")"
+Rotor blade movements,(Tolerances +1/2°)
+Collective pitch,"+10° to -1° (measured at retention plate) (Low setting is determined as the lowest 
+ setting which will preclude overspeeding in auto-rotation)."
+Teetering,+8°
+Neutral,9° incidence with wobble plate level.
+Cyclic pitch,+22-1/2° from neutral with main rotor normal to shaft.
+Flapping,+20° to -10°
+Collective pitch,+15° to -3°
+Horizontal stabilizer setting,"-9° to -19° (-19° is satisfactory for all configurations and is required for certain 
+ configurations as noted under the pertinent item of equipment)"
+Serial Nos eligible,103 through 295 except 210
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 6, the 
+ following items of equipment must be installed: Items 1(b), 2(a), 3(a), 4, 101(a), 
+ 102, 103, 104, 105, 107, 108, 109, 201(a), 202(a), 206, 207, 301, 302, 304, 402."
+Specifications Pertinent to All Models,
+Datum,107.25 in. fwd. of tail boom - fuselage upper face
+Leveling means,Lugs on brackets on left side at Sta. 66 and Sta. 100
+Certification basis,Type Certificate No. 6H1 (CAR 6)
+Production basis,"Production Certificate No. 423WE, Spare Parts Only"
+Equipment,"Values in inches shown in parenthesis after each item represent horizontal arms to 
+ the center of gravity of the item measured to the rear of the datum. 
+ A plus (+) or minus (-) sign preceding the weight of an item indicates the net 
+ weight change when that item is installed."
+1,"2 main rotor blades 
+ (a) 
+ United Helicopters Dwg. 53000-2 
+ 176 lb 
+ (85) 
+ (b) 
+ United Helicopters Dwg. 53001 
+ 176 lb 
+ (85) 
+ Each blade must have identification plate No. 53002 installed at the factory 
+ to indicate eligibility for installation on Model UH-12A. 
+ (c) 
+ Parsons Dwg. 40-001-5, -4, -3, or -2 with faired leading edge assembly. 
+ 176 lb 
+ (85) 
+ (These blades may be used as alternate equipment on UH-12A helicopters.)"
+2,"2 control blades 
+ (a) 
+ United Helicopters Dwg. 36203 
+ 30 lb 
+ (85)"
+3,"2 tail rotor blades 
+ (a) 
+ United Helicopters Dwg 55008 
+ 9 lb 
+ (327) 
+ (b) Hiller Dwg. 55064 
+ Use actual wt. ch. 
+ (Installed per Hiller S.B. 80)"
+4,"Collective pitch ballast system installed in accordance with 
+ +3 lb 
+ (85) 
+ United Helicopters Dwg. 30001"
+5,"Dual collective pitch control stick installed in accordance with United Helicopters 
+ +6 lb 
+ (67) 
+ Dwg. 31222"
+6,"Collective pitch bungee United Helicopters Dwg. 30002 
+ +1 lb 
+ (65)"
+7,"Cyclic control stick shield in conformance with United Helicopters Dwg. 64040 
+ Use actual wt. ch."
+8,"Cyclic floor stick installation with isolation linkage as per Hiller Dwg. No. 
+ Use actual wt. ch. 
+ 33100-5. With this item installed, the horizontal stabilizer setting must be 
+ changed to -19°."
+9,"Modified dual twist-grip throttle installation as per Hiller Dwg. 31259 
+ Use actual wt. ch."
+10,"Revised cyclic control trim system incorporating SCHWEIN actuators as per 
+ Use actual wt. ch. 
+ Hiller Dwg. No. 33190"
+11,"12-9° hub installed per Hiller Service Bulletin No. 51A (UH-12A, series 246 
+ Use actual wt. ch. 
+ through 295). When this item is installed the following changes apply: 
+ (a) C.G. of Items 1, 2 and 4 is at (84.2) 
+ (b) Rotor blade movements (measured with respect to the mast) 
+ (Note - when the mast is vertical the helicopter is 1° nose up) 
+ Main Blades: 
+ Collective pitch same as Basic UH-12A 
+ Teetering 
+ Control rotor +12°; Main rotor +9° 
+ Wobble Plate 
+ Lateral 
+ +7.7° to +8.3° 
+ Longitudinal 
+ +8.0° to +8.5° 
+ Control Blades 
+ Neutral 
+ +9° incidence (Rotor Hub & Wobble Plate perpendicular to mast) 
+ (c) Item 402(c) is required with this installation 
+ Engine and Engine Accessories - Fuel and Oil System"
+101,"Oil cooler 
+ (a) Clifford E36793 with thermostatic valve DV8-U3225-V 
+ 12 lb. 
+ (78) 
+ (b) Harrison Radiator Div. #AP-12AU09-01 
+ Use actual wt. ch."
+102,"Carburetor air heater - United Helicopters Dwgs. 76100 and 76110 
+ 4 lb. 
+ (96.5)"
+103,"Auxiliary fuel pump - Weldon 4013A 
+ 3 lb. 
+ (78)"
+104,"Fan - United Helicopters Dwg. 74301 
+ 3 lb. 
+ (78)"
+105,"Carburetor zone support bracket - United Helicopters Dwg. 76104 
+ 2 lb. 
+ (97)"
+106,"Starter - Delco Remy 1109661 or equivalent 
+ 18 lb. 
+ (78)"
+107,"System fuel and oil (See NOTE 1 for definition) 
+ 7 lb. 
+ (90)"
+108,"Unusable fuel (See NOTE 1 for definition) 
+ 21 lb. 
+ (85)"
+109,"Fuel pressure relief valve and pressure switch United Helicopters Dwg. 72200 
+ 2 lb 
+ (80) 
+ (When Item 132 is installed, Item 109 is not required)"
+110,"Long range fuel tank installation United Helicopters Dwg. 72127 
+ Use actual wt. ch."
+111,"Engine cowling installation in accordance with U.H. Dwg. 65000 
+ Use actual wt. ch."
+120,"Carburetor air filter, Vortex G80R (Special), installed per U.H. Dwg. 95000 
+ 13 lb 
+ (109)"
+130,"Engine 
+ Aircooled Motors Franklin 6V4-200-C33 
+ Use actual wt. ch. 
+ (0-335-6) or (YO-335-6) 
+ Fuel 
+ 91/96 Min. grade aviation gasoline 
+ Engine limits 
+ For all operations, Maximum rpm 3100 (200 hp) 
+ Rotor limits and 
+ Power Off (Rotor Tach.) 
+ Power On (Engine Tach.) 
+ engine operating speeds 
+ Maximum 360 
+ Maximum 3100 rpm 
+ Minimum 300 
+ Min (S.L. to 6000') 2900 rpm 
+ (Above 6000' increase min. rpm by 25 rpm 
+ for each additional 1000' of altitude) 
+ Approved only for UH-12A, Item 402(d) is required and Item 131 replaces Item 101. Installation to be per 
+ all following Hiller Service Bulletins: 
+ (a) No. 33 dated June 25, 1953 
+ (b) No. 28 dated August 5, 1953 
+ (c) No. 35 dated January 5, 1953 
+ (d) No. 37 dated June 25, 1953 
+ (e) No. 18B revised April 30, 1954 (No. 18 and 18A not approved for this installation)."
+131,"Oil Cooler - Harrison 8518115 
+ Use actual wt. ch."
+132,"Vane type main fuel pump installation per Hiller Service Bulletin No. 28 
+ Use actual wt. ch."
+133,"Engine 
+ Aircooled Motors Franklin 6V-335-B 
+ Use actual wt. ch. 
+ Installed per Hiller Service Bulletin No. 70 
+ Fuel 
+ 91/96 Min. grade aviation gasoline 
+ Engine Limits 
+ For all operations, Maximum rpm 3100 (210 hp) 
+ Rotor Limits and Engine Operating Speeds (Same as 6V4-200-C33 engine) (Approved only 
+ for UH-12A, Item 402 (g) is required and Items 131 and 134 replace Items 101 and 102)"
+134,"Engine air intake system per Hiller Service Bulletin No. 74 
+ Use actual wt. ch."
+135,"Automatic auxiliary fuel pump system - UH-12A (Item 402(h) required) 
+ 2 lb. 
+ (55)"
+201,"2 Main wheel-brake assemblies, 5.00-4 Type III 
+ 10 lb. 
+ (105.5) 
+ (a) Goodrich Model 451M 
+ Wheel assembly No. D-3-142M 
+ Brake assembly No. D-2-113"
+202,"2 main wheel tires, 5.00-4, Type III 
+ 10 lb. 
+ (105.5) 
+ (a) 4 ply tires with regular tubes 
+ 10 lb. 
+ (105.5) 
+ (b) 6 ply tires with regular tubes 
+ 11 lb. 
+ (105.5)"
+206,"Nose wheel, 10 in., Type I 
+ (a) Goodrich assembly No. B-3-41 
+ 3 lb. 
+ (32)"
+207,"Nose wheel 6 ply rating tire, 10.00, Type I, Channel Tread with regular tube. 
+ 3 lb. 
+ (32)"
+210,"Flotation gear installed in accordance with United Helicopters Dwg. 44000. 
+ +104 lb. 
+ (64) 
+ With this equipment installed, Item 4 (collective pitch ballast system) must 
+ also be installed and stabilizer setting must be changed to -19°. Reduce never 
+ exceed speed to 76 mph (66 knots) True Ind. (Sea Level). 
+ See CAA Approved Flight Manual."
+211,"Skis 
+ (a) 
+ Federal A2000A installed in accordance with Kenting Aviation Limited 
+ Use actual wt. ch. 
+ Dwgs. 501 and 502 
+ Approved only for Model UH-12A. When this item is installed the following changes apply: 
+ (1) C.G. range 
+ @2400 lbs. 
+ @2270 lbs. 
+ 8 degree hub 
+ (81.0) to (82.7) 
+ (81.0) to (85.5) 
+ 12-9 degree hub 
+ (80.1) to (81.8) 
+ (80.1) to (84.6) 
+ (Straight line variation between weights shown) 
+ (2) Horizontal stabilizer setting must be at -19° 
+ (3) Item 402(b) is required"
+212,"Skid type landing gear installation per Hiller Service Bulletin No. 47 
+ (a) 
+ UH-12A at 2400 lbs. maximum weight. Item 402(e) is required) 
+ Use actual wt. ch. 
+ (b) 
+ UH-12A at 2500 lbs. max. weight. (Items 402 (f) and 130 or 133 are 
+ Use actual wt. ch. 
+ required and the horizontal stabilizer must be set at -19°)"
+301,"Generator - Autolite GFU-4105-12V, or equivalent 
+ 11 lb. 
+ (88)"
+302,"Battery - Exide 6-TS-9F, or equivalent (See Loading Instructions in Flight 
+ 27 lb. 
+ (17) 
+ Manual regarding battery location.) 
+ or (125.5)"
+303,"Lighting system installed in accordance with United Helicopters Dwg. 
+ Use actual wt. ch. 
+ 87000. With this equipment installed, replace placard NOTE 2(d) with 
+ placard NOTE 2(1)."
+304,"Voltage Regulator, Autolite VRS-4010-B, installed with Item 301 only 
+ 1 lb. 
+ (66)"
+305,"Generator - 12V., 25 amp. (Delco - Remy 110/877 modified per United 
+ +3.5 lb. (88) 
+ Helicopters Dwg. 83008)"
+306,"Voltage Regulator, Delco - Remy 1118317, installed with Item 305 only 
+ + .5 lb. (66)"
+307,"Accessories electrical harness United Helicopters Dwg. 94016-1 
+ +1.0 lb. (54)"
+308,"24 volt electrical system as per Hiller Dwg. No. 83017 
+ Use actual wt. ch."
+401,"United Helicopters Model UH-12 CAA/FAA Approved Flight Manual dated 
+ April 19, 1949, revised November 7, 1949."
+402,"(a) 
+ United Helicopters Model UH-12A Approved Flight Manual dated April 26, 1950, 
+ revised September 20, 1954 (Required with all configurations) 
+ (b) 
+ UH-12A Flight Manual Revisions dated July 7, 1953 (Required with Item 211) 
+ (c) 
+ UH-12A Flight Manual Revision dated February 20, 1957 (Required with Item 11) 
+ (d) 
+ UH-12A Flight Manual Supplement A dated February 21, 1957 (Required with Item 130) 
+ (e) 
+ UH-12A Flight Manual Supplement B dated February 22, 1957 (Required with Item 212(a)) 
+ (f) 
+ UH-12A Flight Manual Supplement C dated February 25, 1957 (Required with Item 212(b)) 
+ (g) 
+ UH-12A Flight Manual Revision dated January 23, 1958 (Required with Item 133) 
+ (h) 
+ UH-12A Flight Manual Revision dated May 10, 1960 (Required with Item 135)"
+601,"Cockpit enclosure canopy, installed in accordance with United Helicopters 
+ Use actual wt. ch. 
+ Dwg. 64030. This converts the helicopter to a 3 PCLH."
+602,"Crop dusting and spraying equipment 
+ (a) 
+ Crop dusting equipment, installed in accordance with United 
+ Use actual wt. ch. 
+ Helicopters Dwg. 93000. Items 120, 305, and 306 must also be installed. 
+ With dusting equipment installed, reduce never exceed speed to 76 mph 
+ True Ind. (Sea Level). Minimum speed while dusting, 15 mph True Ind. 
+ For additional operating limitations including requirements for eligibility 
+ for sulphur dusting, see CAA Approved Flight manual. 
+ (b) 
+ Crop spraying equipment, installed in accordance with United 
+ Use actual wt. ch. 
+ Helicopters Dwg. 94000. With this equipment installed, stabilizer setting 
+ must be changed to -19°. Never exceed speed is reduced to 76 mph True Ind. 
+ (Sea Level). Minimum operating speed while spraying is 15 mph TrueInd. 
+ For further operating limitations as a sprayer, see CAA Approved Flight Manual. 
+ (c) 
+ Aerosol equipment installed in accordance with United Helicopters 
+ Use actual wt. ch. 
+ Dwg. 94500. With this equipment installed, reduce never exceed speed 
+ to 76 mph True Ind. (Sea Level); minimum speed while fogging is 15 mph 
+ True Ind. For further limitations see CAA Approved Flight Manual."
+603,"Litter installation in accordance with United Helicopters Dwg. 96100. Decrease 
+ Use actual wt. ch. 
+ never exceed speed to 76 mph True Ind. (Sea Level) Item 4 must also be installed."
+604,"Cabin heater installation in accordance with United Helicopters Dwg. 88000. 
+ Use actual wt. ch."
+605,"Flare installation in accordance with United Helicopters Dwg. 87004. 
+ Use actual wt. ch. 
+ This item must not be installed on helicopters equipped with the flotation gear, 
+ Item 210, due to possible interference."
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight empty, 
+ and loading instructions must be in each helicopter at the time of original certification and at all times 
+ thereafter (except in the case of air carrier operators having an approved weight control system). 
+ Ballast, when necessary, must be carried in accordance with Loading Instructions in the Approved 
+ Flight Manual. 
+ Fuel and oil capacities as indicated are total tank capacities over and above ""System Fuel and Oil"". 
+ The fuel tank capacity includes ""Unusable"" fuel of 3.5 gallons, which cannot be used safely in all 
+ flight attitudes, and which must be included in the empty weight. 
+ ""System Fuel and Oil"", which must be included in the empty weight, is that amount required to fill the 
+ fuel system and tank up to the tank outlet to the engine, plus the oil required to fill the oil cooler and 
+ lines."
+NOTE 2,"The following placards must be installed so as to be in full view of the pilot: 
+ (a) 
+ ""Decrease Vne 2.5 mph per 1000 ft."" 
+ (b) 
+ ""Above 6000 ft. see Operating Limitations."" 
+ (c) 
+ ""This helicopter to be operated in accordance with CAA/FAA Approved operating limitations."" 
+ (d) 
+ ""Night and instrument flight prohibited."" (Unless Item 303 is installed.) 
+ (e) 
+ ""No acrobatic maneuvers approved."" 
+ (f) 
+ ""See loading instructions in Flight Manual."" 
+ (g) 
+ ""Unsymmetrical loading must be to the left."" 
+ (h) 
+ ""Do not stand while rotor is turning."" 
+ (i) 
+ ""Avoid protracted rearward flight."" 
+ (j) 
+ On top of Battery Box: ""Caution, for proper location of battery, see loading instructions, 
+ Section IV, Flight Manual."" 
+ (k) 
+ On floor where Battery goes forward: ""Caution, for proper location of battery, see loading 
+ instructions, Section IV, Flight Manual."" 
+ (l) 
+ ""Instrument flight prohibited."" (Only when Item 303 is installed.) 
+ (m) 
+ Above fuel quantity gauge (if auxiliary fuel tank is installed.) ""Do not drain auxiliary fuel tank 
+ with main tank more than 1/4 full."" 
+ (n) 
+ On auxiliary fuel tank valve (if auxiliary fuel tank is installed) ""Do not drain auxiliary fuel tank 
+ with main tank more than 1/4 full."""
+NOTE 3,"Information essential to the proper maintenance of the rotorcraft (helicopter) including retirement 
+ times of critical parts is included in the manufacturer's maintenance instructions provided with each 
+ rotorcraft. 
+ These values of retirement or service life cannot be increased without CAA/FAA Engineering 
+ approval."
+NOTE 4,"These helicopters must be serviced and maintained in conformance with instructions given by Hiller 
+ Helicopters in Items 401 and 402 and the Service and Parts Handbook."
+NOTE 5,"Certain part numbers used on this model helicopter may be used on other model helicopters in which 
+ their use is life limited. These part numbers are listed in TCDS 4H11, H1WE, 4H10, 6H1, and 6H2 
+ and FAA approved Hiller Instructions for Continued Airworthiness. If a full and complete service 
+ history from manufacture forward is not available that demonstrates these parts were used only on a 
+ model helicopter for which the part is not life limited then those parts shall be life limited to the lowest 
+ number of hours given in those TCDS’s or ICAs. If a full and complete service history from the 
+ manufacturer forward is available, and any operating time has occurred in a life limited model 
+ helicopter, that part shall be considered life limited at the lowest life limit listed even if transferred and 
+ used on a helicopter model for which it is not life limited. Only those parts for which a full and 
+ complete service history from manufacture forward is available and which shows only operating time 
+ on a helicopter model for which it is not life limited are considered not life limited."

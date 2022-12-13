@@ -1,0 +1,1153 @@
+Keyterm,Info
+"H10EU 
+ Revision 21 
+ Airbus Helicopters 
+ SA-365C 
+ SA-365C1 
+ SA-365C2 
+ SA-365N 
+ SA-365N1 
+ AS-365N2 
+ SA-366G1 
+ AS 365 N3 
+ EC 155B 
+ EC155B1 
+ February 8, 2022",
+Type Certificate Holder,"Airbus Helicopters 
+ Aeroport International Marseille Provence 
+ 13725 - Marignane - Cedex 
+ France"
+TC Holder Record,"Eurocopter France changed name to Airbus Helicopters on January 1, 2014."
+"I. Model SA-365C “Dauphin” (Transport Helicopter, Category B), approved October 11, 1978. 
+ Model SA-365C “Dauphin” (Transport Helicopter, Category A), approved May 4, 1979.",
+Engine,2 Turbomeca Arriel 1A.
+Engine Limits,"(Sea level static - standard day conditions) 
+ Power shaft 
+ Gas generator 
+ Exhaust Gas Temp. 
+ T4 
+ 2½ min. power rating 
+ 651 shp (486 Kw) 
+ 52,700 rpm 
+ 840°C 
+ 30 min. power rating 
+ 625 shp (466 Kw) 
+ 52,000 rpm 
+ 810°C 
+ Takeoff (min.) 
+ 625 shp (466 Kw) 
+ 52,000 rpm 
+ 810°C 
+ Maximum continuous 
+ 576 shp (430 Kw) 
+ 50,750 rpm 
+ 775°C 
+ Starting (5 sec.max.) 
+ 840°C 
+ Starting (without limit) 
+ 775°C 
+ Eng. gearbox limitations 
+ 699 shp (521 Kw) @ 350 Rotor rpm 
+ 100% Ng = 51,800 rpm"
+Transmission Limits,"Maximum (one eng. inoperative) 
+ 701 shp (523 Kw)"
+at 350 Rotor rpm,"Maximum Takeoff (5 min.) 
+ 503 shp (375 Kw) per engine"
+See NOTE 5  6,"469 shp (350 Kw) per engine 
+ Maximum Continuous 
+ OR 
+ Maximum Takeoff (5 min.) 
+ 577 shp (430 Kw) per engine 
+ Maximum Continuous 
+ 532 shp (397 Kw) per engine"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17"
+Rev No,"21 
+ 13 
+ 13 
+ 13 
+ 13 
+ 14 
+ 16 
+ 18 
+ 17 
+ 18 
+ 16 
+ 17 
+ 19 
+ 21 
+ 18 
+ 18 
+ 20"
+Helicopter Limits,"Maximum (one eng. inoperative) 
+ 699 shp (521 Kw) 
+ (torque 109%)"
+at 350 Rotor rpm,"Maximum (Takeoff (5 min.) 
+ 503 shp (375 Kw) per engine (torque 78%)"
+See NOTE 5  6,"Maximum Continuous 
+ 469 shp (350 Kw) per engine (torque 73%) 
+ OR 
+ Maximum Takeoff (5 min.) 
+ 577 shp (430 Kw) per engine (torque 90%) 
+ Maximum Continuous 
+ 532 shp (397 Kw) per engine (torque 83%)"
+CG Range,"Longitudinal : 
+ + 151.1 in. to 161.4 in. 
+ Lateral 
+ : 
+ Right: 
+ 4.3 in. 
+ Left : 
+ 4.3 in."
+Maximum Weight,"7,500 lb."
+"II. Model SA-365C1 “Dauphin” (Transport Helicopter, Category B), approved August 9, 1979 (See NOTE 5). 
+ Model SA-365C1 “Dauphin” (Transport Helicopter, Category A), approved October 5, 1979 (See NOTE 5). 
+ The Model SA-365C1 is identical to the Model SA-365C except for engine model and engine limits.",
+Engine,2 Turbomeca Arriel 1A1.
+Engine Limits,"(Sea level static - standard day conditions) 
+ Power shaft 
+ Gas generator 
+ Exhaust Gas Temp. 
+ shp 
+ (Kw) 
+ rpm 
+ T4 
+ °C 
+ 2½ min. power rating 
+ 667 
+ (498) 
+ 52,900 
+ 840 
+ 30 min. power rating 
+ 643 
+ (480) 
+ 52,250 
+ 810 
+ Takeoff (min.) 
+ 630 
+ (470) 
+ 52,000 
+ 810 
+ Maximum continuous 
+ 579 
+ (432) 
+ 50,750 
+ 775 
+ Starting (5 sec.max.) 
+ 840 
+ Starting (without limit) 
+ 775 
+ Eng. gearbox limitations 
+ 699 shp (521 Kw) @ 350 Rotor rpm 
+ 100% Ng = 51,800 rpm"
+Transmission Limits,"Maximum (one eng. inoperative) 
+ 701 shp (523 Kw)"
+at 350 Rotor rpm,"Maximum Takeoff (5 min.) 
+ 503 shp (375 Kw) per engine"
+See NOTE 5  6,"Maximum Continuous 
+ 469 shp (350 Kw) per engine 
+ OR 
+ Maximum Takeoff (5 min.) 
+ 577 shp (430 Kw) per engine 
+ Maximum Continuous 
+ 532 shp (397 Kw) per engine"
+Helicopter Limits,"Maximum (one eng. inoperative) 
+ 699 shp (521 Kw) 
+ (torque 109%)"
+at 350 Rotor rpm,"Maximum Takeoff (5 min.) 
+ 503 shp (375 Kw) per engine (torque 78%)"
+See NOTE 6,"Maximum Continuous 
+ 469 shp (350 Kw) per engine (torque 73%) 
+ OR 
+ Maximum Takeoff (5 min.) 
+ 577 shp (430 Kw) per engine (torque 90%) 
+ Maximum Continuous 
+ 532 shp (397 Kw) per engine (torque 83%)"
+CG Range,"Longitudinal : 
+ + 151.1 in. to 161.4 in. 
+ Lateral 
+ : 
+ Right: 
+ 4.3 in. 
+ Left : 
+ 4.3 in."
+Maximum Weight,"7,500 lb."
+"III. Model SA-365C2 “Dauphin” (Transport Helicopter, Category A and B), approved April 24, 1980. 
+ The Model SA-365C2 differs from SA-365C1 in engine model and limits; gross weight and C.G. range; transmission rating and 
+ transmission and helicopter limits",
+Engine,2 Turbomeca Arriel 1A2.
+Engine Limits,"(Sea level static - standard day conditions) 
+ Power shaft 
+ Gas generator 
+ Exhaust Gas Temp. 
+ shp 
+ (Kw) 
+ rpm 
+ T4 
+ °C 
+ 2½ min. power rating 
+ 670 
+ (500) 
+ 52,900 
+ 840 
+ 30 min. power rating 
+ 657 
+ (490) 
+ 52,550 
+ 810 
+ Takeoff (min.) 
+ 630 
+ (470) 
+ 52,000 
+ 810 
+ Maximum continuous 
+ 579 
+ (432) 
+ 50,750 
+ 775 
+ Starting (5 sec.max.) 
+ 840 
+ Starting (without limit) 
+ 775 
+ Eng. gearbox limitations 
+ 699 shp (521 Kw) @ 350 Kw Rotor rpm 
+ 100% Ng = 51,800 rpm"
+Transmission Limits,"Maximum (one eng. inoperative) 
+ 701 shp (523 Kw)"
+at 350 Rotor rpm,"Maximum Takeoff (5 min.) 
+ 577 shp (430 Kw) per engine 
+ Maximum Continuous 
+ 532 shp (397 Kw) per engine"
+Helicopter Limits,"Maximum (one eng. inoperative) 
+ 699 shp (521 Kw) 
+ (torque 109%)"
+at 350 Rotor rpm,"Maximum Takeoff (5 min.) 
+ 577 shp (430 Kw) per engine (torque 90%) 
+ Maximum Continuous 
+ 532 shp (397 Kw) per engine (torque 83%)"
+CG Range,"Longitudinal: 
+ + 151.1 in. to + 161.4 in. up to 7500 lb. 
+ + 151.1 in. to + 159.8 in. from 7500 lb to 7715 lb. 
+ Lateral 
+ : 
+ Right: 
+ 4.3 in. 
+ Left: 
+ 4.3 in."
+Maximum Weight,"7,715 lb."
+"IV. Model SA-365N “Dauphin” (Transport Helicopter, Category A and B), approved November 20, 1981. 
+ The Model SA-365N differs from SA-365C2 in engine model and limits; gross weight and C.G. range; transmission 
+ rating and transmission and helicopter limits.",
+Engine,2 Turbomeca Arriel 1C
+Engine Limits,"(Sea level static - standard day conditions) 
+ Power shaft 
+ Gas generator 
+ Exhaus 
+ t Gas Temp. 
+ shp 
+ (Kw) 
+ rpm 
+ T4 
+ °C 
+ 53,199 
+ 860 
+ 2½ min. power rating 
+ 700 
+ (522) 
+ 30 min. power rating 
+ 686 
+ (512) 
+ 52,318 
+ 835 
+ Takeoff (min.) 
+ 659 
+ (492) 
+ 51,800 
+ 835 
+ Maximum continuous 
+ 586 
+ (437) 
+ 50,505 
+ 785 
+ Starting (5 sec.max.) 
+ 860 
+ Starting (without limit) 
+ 785 
+ Eng. gearbox limitations 
+ 739 shp (551.5 kw) @ 350 Rotor rpm 
+ 100% Ng = 51,800 rpm"
+Transmission Limits,"Maximum (one eng. inoperative) 
+ 737 
+ (523)"
+at 350 Rotor rpm,"Maximum Takeoff (5 min.) 
+ 603 
+ (450)"
+shp xxxKw per engine,"Maximum Continuous 
+ 567 
+ (423)"
+Helicopter Limits,"Maximum (one eng. inoperative) 
+ 737 
+ (550 Kw) (torque 1 or 2: 61%)"
+at 350 Rotor rpm,"Maximum Takeoff (5 min.) 
+ 603 
+ (450 Kw) (torque 1 + 2: 100%)"
+shp xxxKw per engine,"Maximum Continuous 
+ 567 
+ (423 Kw) (torque 1 + 2: 94%)"
+CG Range,"Longitudinal: 
+ a:IT'D ar ,w.vm cw 
+ l'.!E!I .... 
+ ... J 
+ &000 
+ ., .. -"
+I,"nae 
+ nee 
+ I 
+ - 
+ ·-... 
+ ,... 
+ nn 
+ JS,. 
+ 11H -"
+I,",_ 
+ noe 
+ ,._ 
+ l)N 
+ Lateral: Right 2.95 in. 
+ Left 2.95 in."
+Maximum Weight,"8,818 lbs"
+"V. Model SA-365N1 “Dauphin” (Transport Helicopter, Category A and B), approved December 1, 1986. 
+ The Model SA-365N1 differs from SA-365N in engine model and limits; gross weight and tail boom change.",
+Engine,2 Turbomeca Arriel 1C1.
+Engine Limits,"(Sea level static - standard day conditions) 
+ Power shaft 
+ Gas generator 
+ Exhaust Gas Temp. 
+ shp 
+ (Kw) 
+ rpm 
+ T4 
+ °C 
+ 2½ min. power rating 
+ 724 
+ (540) 
+ 52,940 
+ 865 
+ 30 min. power rating 
+ 705 
+ (526) 
+ 52,215 
+ 845 
+ Takeoff (min.) 
+ 705 
+ (526) 
+ 52,215 
+ 845 
+ Maximum continuous 
+ 586 
+ (437) 
+ 50,246 
+ 775 
+ Starting (5 sec.max.) 
+ 865 
+ Starting (without limit) 
+ 785 
+ Eng. gearbox limitations 
+ 739 shp (551.5 Kw) @ 350 Kw Rotor rpm 
+ 100% Ng = 51,800 rpm"
+Transmission Limits,"Maximum (one eng. inoperative) 
+ 737 
+ (550)"
+at 350 Rotor rpm,"Maximum Takeoff (5 min.) 
+ 603 
+ (450)"
+shp xxxKw per engine,"Maximum Continuous 
+ 567 
+ (423)"
+Helicopter Limits,"Maximum (one eng. inoperative) 
+ 737 
+ (550 Kw) (torque 1 or 2 : 61%) 
+ Maximum Takeoff (5 min.) 
+ 603 
+ (450 Kw) (torque 1 + 2: 100%) 
+ Maximum Continuous 
+ 567 
+ (423 Kw) (torque 1 + 2: 
+ 94%)"
+CG Range,Longitudinal:
+ ,"MM 
+ , .. - 
+ i"
+ ,"I 
+ """" I 
+ ,ooe"
+Maximum Weight,"9,038 lbs"
+"VI. Model AS-365N2 “Dauphin” (Transport Helicopter, Category A and B), approved October 31, 1990. 
+ The Model AS-365N2 differs from SA-365N1 in engine model and limits; gross weight and main gearbox torque.",
+Engine,2 Turbomeca Arriel 1C2.
+Engine Limits,"(Sea level static - standard day conditions) 
+ Power shaft 
+ Gas generator 
+ Exhaust Gas Temp. 
+ shp 
+ (Kw) 
+ rpm 
+ T4 
+ °C 
+ 2½ min. power rating 
+ 712 
+ (531) 
+ 52,328 
+ 885 
+ 30 min. power rating 
+ 712 
+ (531) 
+ 52,328 
+ 845 
+ Takeoff (min.) 
+ 712 
+ (531) 
+ 52,328 
+ 845 
+ Maximum continuous 
+ 632 
+ (471) 
+ 50,867 
+ 775 
+ Starting (5 sec.max.) 
+ 865 
+ Starting (without limit) 
+ 785 
+ Eng. gearbox limitations 
+ 739 shp (551.5 Kw) @ 350 Rotor rpm 
+ 100% Ng = 51,800 rpm"
+Transmission Limits,"Maximum (one eng. inoperative) 
+ 737 
+ (550)"
+at 350 Rotor rpm,"Maximum Takeoff (5 min.) 
+ 647 
+ (482,5)"
+shp xxxKw per engine,"Maximum Continuous 
+ 567 
+ (423)"
+Helicopter Limits,"Maximum (one eng. inoperative) 
+ 737 
+ (550 Kw) 
+ (torque 1 or 2 : 57%) 
+ Maximum Takeoff (5 min.) 
+ 647 
+ (482,5 Kw) (torque 1 + 2: 100%) 
+ Maximum Continuous 
+ 567 
+ (423 Kw) (torque 1 + 2: 98%)"
+CG Range,"Longitudinal: 
+ (tSt.aj 
+ 1 
+ CZNTl:Jt 01' aatavnv c 1n • 
+ - 
+ a -"
+,"w 
+ r,.osj 
+ Lateral: 
+ Right: 2.95 in. 
+ Up to 4100 Kg 
+ Left : 2.95 in. 
+ Right: 1.96 in. 
+ Beyond 4100 Kg 
+ Left : 1.96 in."
+Maximum Weight,"9,370 lbs"
+"VII. Model SA-366G1 “Dauphin” (Transport Helicopter, Category A and B), approved July 28, 1983.",
+Engine,2 Avco Lycoming LTS 101-750B-2 (See NOTE 10)
+Installed Engine Limits,"(See NOTE 9 & 10) 
+ Gas Generator 
+ Output Shaft 
+ Measured 
+ Output Shaft 
+ Speed-N1 
+ Speed-N2 
+ Gas Temperature 
+ Torque % (Ft-Lbs) 
+ % (RPM) 
+ % (RPM) 
+ °C (°F) 
+ Normal Operation: 
+ (Torque 1 + 2) 
+ Takeoff power (5 min.) 
+ 100 
+ (1056) 
+ 104.1 (49830) 
+ 102.3 (6138) 
+ 786 (1447) 
+ Max. Continuous 
+ 94 
+ ( 993) 
+ 102.9 (49255) 
+ 102.3 (6138) 
+ 765 (1409) 
+ One Engine Inoperative: 
+ (Torque 1 or 2) 
+ 2.5 min. power 
+ 100 
+ (643) 
+ 106.1 (50787) 
+ 102.3 (6138) 
+ 822 (1512) 
+ 30 min. power 
+ 95.5 
+ (614) 
+ 104.8 (50169) 
+ 102.3 (6138) 
+ 800 (1471) 
+ Max. Continuous 
+ 88.2 
+ (567) 
+ 102.9 (49255) 
+ 102.3 (6138) 
+ 765 (1409) 
+ See Rotorcraft Flight Manual for other limitations including speed and temperature transients."
+CG Range,"Longitudinal: 
+ + 151.1 in. to 157.5 in. 
+ Lateral 
+ : 
+ Right 5.62 in. 
+ Left 3.93 in."
+Maximum Operating Altitude,"18,000 feet pressure altitude."
+Maximum Weight,"8,950 lbs."
+"VIII. Model AS-365N3 “Dauphin” (Transport Helicopter, Category A and B), approved November 6, 1998. 
+ The Model AS-365N3 differs from AS 365N2 in engine model and limits.",
+Engine,2 Turbomeca Arriel 2C engines.
+Engine Limits,"(Sea level static - standard day conditions) 
+ Power shaft 
+ Gas generator 
+ Exhaust Gas Temp. 
+ shp 
+ (Kw) 
+ rpm 
+ T4 
+ °C 
+ 30 sec. OEI rating 
+ 944 
+ (704) 
+ 55,051 
+ 1000 
+ 2 min. OEI rating 
+ 851 
+ (635) 
+ 53,192 
+ 941 
+ Continuous OEI 
+ 818 
+ (610) 
+ 52,571 
+ 912 
+ Takeoff (5 min.) 
+ 779 
+ (581) 
+ 52660 
+ 912 
+ Maximum continuous 
+ 779 
+ (581) 
+ 51520 
+ 877 
+ Starting (10 sec.max.) 
+ 865 
+ Starting (without limit) 
+ 750 
+ 100% Ng = 52,110 rpm"
+Transmission Limits,"Maximum continuous (OEI) 
+ 815 
+ (608 Kw) 
+ (torque 1 or 2 : 63%)"
+ 350 rpm,"Maximum Takeoff (5 min.) 
+ 1294 
+ (965 Kw) (torque 1 + 2: 100%) 
+ Maximum Continuous 
+ 1138 
+ (849 Kw) (torque 1 + 2: 88%)"
+CG Range,"Longitudinal: 
+ 11s1.,j 
+ I 
+ CZNTl:Jt 01' altAVIT't C 1nJ 
+ .. 
+ GI -.. 
+ (wil 
+ r,.osj 
+ Lateral: 
+ Right: 2.95 in. 
+ Up to 4100 Kg 
+ Left : 2.95 in. 
+ Right: 1.96 in. 
+ Beyond 4100 Kg 
+ Left : 1.96 in."
+Maximum Weight,"9,370 lbs"
+"IX. Model EC 155B “Dauphin” (Transport Helicopter, Category A and B), approved December 14, 2000. 
+ The Model EC 155B is a derivative of the AS365N3 and incorporates an increase in gross weight, enlarged fuselage structure, a 
+ new 5-blade main rotor, a fenestron with RTM technology, and a new avionics and AFCS system.",
+Engine,2 Turbomeca Arriel 2C1 engines.
+Engine Limits,"(Sea level static - standard day conditions) 
+ Power shaft 
+ Gas generator 
+ Exhaust Gas Temp. 
+ shp 
+ (Kw) 
+ rpm 
+ T4 
+ °C 
+ 30 sec. OEI rating 
+ 962 
+ (718) 
+ 54,986 
+ 1000 
+ 2 min. OEI rating 
+ 865 
+ (646) 
+ 53,126 
+ 941 
+ Continuous OEI 
+ 833 
+ (622) 
+ 52,506 
+ 912 
+ Takeoff (5 min.) 
+ 779 
+ (581) 
+ 52,776 
+ 912 
+ Maximum continuous 
+ 779 
+ (581) 
+ 51,637 
+ 877 
+ Starting (10 sec.max.) 
+ 865 
+ Starting (without limit) 
+ 750 
+ 100% Ng = 52,110 rpm 
+ Transmission Limits. Refer to Rotorcraft Flight Manual"
+CG Range,"Longitudinal: 
+ N TE R OF GR A VITY ( in 
+ 4800 
+ 10582 
+ 4 500 
+ 10000 
+ ::e"
+Cl,"4000 
+ 9000 
+ I- 
+ 3800 
+ 8377 
+ :x:"
+x,"8000 
+ Q 
+ w"
+w,"3 5 00 
+ s::"
+s,"7000 
+ 3000 
+ 6614 
+ 6000 
+ 2500 
+ CE N T E R OF GRAVITY ( m"
+Lateral LH Limit –197 inches,"RH Limit +1.97 inches 
+ Datum: 157.5 inches (4 m forward of the main rotor center line) longitudinal 
+ Aircraft symmetry plane lateral 
+ Maximum Weight: 10,582 lbs (4800 kg) 
+ Maximum Altitudes: see rotorcraft flight manual 
+ Airspeed Limits: Power on - 175 KIAS (refer to flight manual for reduction as a function of altitude) 
+ Power off – 135 KIAS (refer to flight manual for reduction as a function of altitude) 
+ Rotor Speeds: Power on flight: 342-350 RPM (governed speed range) 
+ Power off flight: 
+ Maximum Transient: 
+ 390 RPM 
+ Maximum steady State: 
+ 375 RPM 
+ Minimum: 
+ 316 RPM 
+ Minumum Transient: 
+ 295 RPM 
+ Minimum Flight Crew: One Pilot in the Right Hand Seat 
+ Maximum Seating Capacity: 15 (including pilot seat) 
+ Emergency Exits: 3 Type IV exits on each side of fuselage 
+ Fuel: refer to rotorcraft flight manual 
+ Engine Oil: refer to rotorcraft flight manual 
+ MGB and TGB oil: MIL-L-6086 (Mineral oil) 
+ Fuel Capacity: Total 338 gallons (1280 litres) 
+ Usable 332 gallons (1256.5 litres) 
+ Unusable 6 gallons (23.5 litres) 
+ Oil Capacity: Engine oil 2 x 6.2 litres (normal level) 
+ MGB 9 litres (max) 
+ TGB 0.5 litres (max) 
+ Serial Numbers eligible: S/N 6544 and up (see note 12)"
+"X. Model EC 155B1 “Dauphin” (Transport Helicopter, Category A and B), approved June 3, 2003. 
+ The Model EC 155B1 is a derivative of the EC155B and incorporates the Turbomeca Arriel 2C2 engines.",
+Engine,2 Turbomeca Arriel 2C2 engines.
+Engine Limits,"(Sea level static - standard day conditions) 
+ Power shaft 
+ Gas generator 
+ Exhaust Gas Temp. 
+ shp 
+ (Kw) 
+ rpm 
+ T4 
+ °C 
+ 30 sec. OEI rating 
+ 1006 
+ (750) 
+ 55265 
+ 996 
+ 2 min. OEI rating 
+ 956 
+ (713) 
+ 53275 
+ 944 
+ Continuous OEI 
+ 858 
+ (640) 
+ 52764 
+ 926 
+ Takeoff (5 min.) 
+ 821 
+ (612) 
+ 53079 
+ 929 
+ Maximum continuous 
+ 821 
+ (612) 
+ 51922 
+ 891 
+ Starting (10 sec.max.) 
+ 840 
+ Starting (without limit) 
+ 100% Ng = 52,110 rpm 
+ Transmission Limits. Refer to Rotorcraft Flight Manual"
+CG Range,"Longitudinal: 
+ OF GRAVITY (In) 
+ ~"
+,"I- 
+ I"
+I,~
+I,w
+,3::
+3,CENTER OF GRAVITY ( m )
+Lateral LH Limit –197 inches,"RH Limit +1.97 inches 
+ Datum: 157.5 inches (4 m forward of the main rotor center line) longitudinal 
+ Aircraft symmetry plane lateral 
+ Maximum Weight: 10,692 lbs (4850 kg) 
+ Maximum Altitudes: see rotorcraft flight manual"
+Airspeed Limits,"Power on - 175 KIAS (refer to flight manual for reduction as a function of altitude) 
+ Power off – 135 KIAS (refer to flight manual for reduction as a function of altitude) 
+ Rotor Speeds: Power on flight: 342-350 RPM (governed speed range) 
+ Power off flight: 
+ Maximum Transient: 
+ 390 RPM 
+ Maximum steady State: 
+ 375 RPM 
+ Minimum: 
+ 316 RPM 
+ Minumum Transient: 
+ 295 RPM 
+ Minimum Flight Crew: One Pilot in the Right Hand Seat 
+ Maximum Seating Capacity: 15 (including pilot seat) 
+ Emergency Exits: 3 Type IV exits on each side of fuselage 
+ Fuel: refer to rotorcraft flight manual 
+ Engine Oil: refer to rotorcraft flight manual 
+ MGB and TGB oil: MIL-L-6086 (Mineral oil) 
+ Fuel Capacity: Total 338 gallons (1280 litres) 
+ Usable 332 gallons (1256.5 litres) 
+ Unusable 6 gallons (23.5 litres) 
+ Oil Capacity: Engine oil 2 x 6.2 litres (normal level) 
+ MGB 9 litres (max) 
+ TGB 0.5 litres (max) 
+ Serial Numbers eligible: S/N 6620 and up"
+DATA PERTINENT TO ALL MODELS,
+Fuel,See appropriate model Rotorcraft Flight Manual.
+Rotor Speed  rpm,"SA365C 
+ SA365N 
+ SA366G1 
+ AS365N2 
+ AS365N3 
+ SA365N1 
+ In autorotation 
+ Maximum transient 
+ - 
+ 420 
+ 420 
+ 420 
+ 420 
+ Maximum 
+ 420 
+ 395 
+ 395 
+ 395 
+ 395 
+ Minimum 
+ 320 
+ 320 
+ 320 
+ 320 
+ 320 
+ Minimum transient 
+ 285 
+ 295 
+ 295 
+ 295 
+ 295 
+ In power-on flight 
+ all engines operating 
+ 350± 10 
+ 350 +15 
+ 350 +8 
+ 350± 10 
+ 355-360 
+ - 10 
+ -10 
+ one engine inoperative 
+ 320 (min) 
+ 320 
+ 340 
+ 320 
+ 320 
+ Speed Warning 
+ Low speed 
+ 338 
+ 335 
+ 335 
+ 335 
+ 345 
+ (aural) 
+ High speed 
+ 400 
+ 380 
+ 380 
+ 380 
+ 380 
+ (See NOTE 10)"
+Airspeed Limits,"Never exceed speed VNE: 
+ 170* 
+ 175* 
+ 165* 
+ 175*"
+Kts  IAS,"(6614) 
+ (6614) 
+ (6614) 
+ (6614) 
+ * At sea level and gross weight (XXXX) lbs. 
+ See Helicopter Flight Manual for decrease with weight and altitude."
+Minimum Crew,"SA365C Series 
+ SA365N 
+ SA366G1 
+ AS365N3 
+ AS365N2 
+ SA365N1 
+ 1 pilot 
+ 1 
+ 1 
+ 1"
+Maximum Passengers,"SA365C Series 
+ SA365N 
+ SA366G1 
+ AS365N3 
+ AS365N2 
+ SA365N1 
+ 13 
+ 13 
+ 2 
+ 13"
+Maximum Baggage,See appropriate Model Rotorcraft Flight Manual.
+FuelOil Capacity,"SA365C Series 
+ SA365N 
+ SA366G1 
+ AS365N3 
+ AS365N2 
+ SA365N1"
+Fuel Maximum,"169/(147.6) 
+ 306/(156.1) 
+ 289.8 (156.3) 
+ 306/(156.3) 
+ usable 
+ 168.3 
+ 303 
+ 285.6 
+ 302.7 
+ unusable 
+ See NOTE 1 
+ See NOTE 1 
+ See NOTE 1 
+ See NOTE 1"
+Oil engine,"x 1.8 (232.3) 
+ 2 x 1.37 (160.5) 
+ 2 x 1.32 (160.5) 
+ 2 x 1.37 (160.5) 
+ transmission 
+ 2.8 (160.6) 
+ 2.4 (160.6) 
+ 2.4 (160.6) 
+ 2.8 (160.6) 
+ tailrotor 
+ 0.07 (407.9) 
+ 0.13 (410.6) 
+ 0.053 (417) 
+ 0.053 (417)"
+Empty Weight CG Range,"None 
+ None 
+ None 
+ None"
+Datum,"157.4* 
+ 157.4* 
+ 157.4* 
+ 157.4* 
+ * in forward of main rotor hub center."
+Leveling Means,Three plates on the left side of transmission support platform.
+Rotor Blades and,For rigging information refer to the Maintenance Manual appropriate to Model.
+Serial Numbers Eligible,"The French Government “Certificate de Navigabilite pour Exportation” and as noted 
+ below under “Import Requirements” must be submitted for each individual aircraft 
+ for which application for FAA certification is made."
+Certification Basis,"Model SA365C Series: 
+ FAR 21.29 and FAR 29 effective February 1, 1965 plus amendments 29-1 
+ through 29-11 plus FAA Special Conditions No.29-69-EU-21, dated April 6, 1976. 
+ The Airworthiness Criteria for Helicopter Instrument Flight, dated December 15, 
+ 1978 for IFR certification. 
+ Models SA365N, SA366G1, SA365N1, AS365N2: 
+ FAR 21.29 and FAR 29 effective February 11, 1965 plus amendments 29-1 
+ through 29-11. In addition applicant elected to comply with FAR 29 
+ amendments 29-12 through 29-16 except for FAR 29.397 as concerns rotorbrake. 
+ The Airworthiness Criteria for Helicopter Instrument Flight, dated December 15, 
+ 1978 for IFR certification. 
+ Model AS365N3: 
+ FAR 21.29 and FAR 29 effective February 11, 1965 plus amendments 29-1 
+ through 29-16. In addition FAA Special Condition number 29-002-SC for 
+ HIRF. 
+ Equivalent Safety Findings - 
+ For Model SA365N1 and AS365N2: Longitudinal Static Stability FAR 29.173 
+ For Model SA366G1: Plenum air intake meets the ice protection of FAR 
+ 29.1093(b) Amendment 29-22. 
+ Model EC 155B and Model EC155B1 
+ FAR 21.29 and FAR 29 Amendment 29-1 through Amendment 29-40 with the following 
+ exceptions: 
+ - 
+ Excluding Amendment 29-38 (Occupant Protection) 
+ - 
+ Excluding FAR 29.952 introduced at Amendment 29-35 (CRFS) 
+ - 
+ Excluding FAR 29.562 introduced at Amendment 29-29 
+ - 
+ Excluding FAR 29.631 introduced at Amendment 29-40 
+ - 
+ FAR 29.561(a), (b), and (d) at Amendment 29-1 
+ - 
+ FAR 29.561(c) at Amendment 29-29 
+ - 
+ FAR 29.571 at Amendment 29-20 
+ - 
+ FAR 29.571 at Amendment 29-28 fatigue evaluation Composites and new mettalics) 
+ - 
+ FAR 29.785 at Amendment 29-24 
+ - 
+ FAR 29.901 at Amendment 29-26 
+ - 
+ FAR 29.903 at Amendment 29-31 
+ - 
+ FAR’s 29.963, 29.973, and 29.975 at Amendment 29-26 
+ - 
+ FAR 29.1305(a)(4)(i) at Amendment 29-16 
+ - FAR 36 Appendix H through the latest amendment 36-20 
+ - Special Condition 29-007-SC for HIRF 
+ - Equivalent level of safety findings: 
+ FAR 29.723, 29.725, and 29.727 Landing Gear Drop Test 
+ FAR 29.807(c) Passenger Emergency Exits; other than side of fuselage 
+ FAR 29.173 and 29.175 Static Longitudinal Stability 
+ FAR 29, Appendix B Section IV Return to trim characteristics 
+ Type Certificate No. H10EU issued October 11, 1978. 
+ Date of application for Type Certificate: SA365C model, November 20, 1974. 
+ SA365C1 model, April 6, 1979. 
+ SA365C2 model, October 12, 1979. 
+ SA365N model, April 9, 1979. 
+ SA366G1 model, August 3, 1982. 
+ SA365N1 model, February 17, 1981. 
+ AS365N2 model, February 21, 1989. 
+ AS365N3 model, June 18, 1997. 
+ EC 155B model, September 1, 1998 
+ The French Direction Generale de l’Aviation Civile (DGAC) originally type 
+ certificated this rotorcraft under its type certificate TC 86. The FAA validated 
+ this product under U.S. Type Certificate Number H10EU. Effective September 
+ 28, 2003, the European Aviation Safety Agency (EASA) began oversight of this 
+ product on behalf of the DGAC."
+Noise Standards,"Models AS365N2 and AS365N3 
+ FAR 36 as amended by amendment 36.1 through 36.16."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on a National Aviation 
+ Authority (NAA) Export Certificate of Airworthiness (Export C of A) signed by 
+ a representative of the French Generale de l’Aviation Civile (DGAC) on behalf 
+ of the European Community. 
+ The Export C of A should contain the following statement: “The aircraft 
+ covered by this certificate has been examined, tested, and found to comply with 
+ the type design approved under U.S. Type Certificate Number H10EU and to be 
+ in a condition for safe operation.” 
+ Refer to the applicable bilateral agreement to verify eligibility for import into 
+ the United States of both new and used aircraft based on the scope of the 
+ agreement, to identify any required statements by the exporting authority on the 
+ export certificate of airworthiness (or equivalent document), and for procedures 
+ for coordinating exceptions to conformity statements on these documents. Refer 
+ to FAA Order 8130.2, Airworthiness Certification of Aircraft, for requirements 
+ for issuance of an airworthiness certificate for imported aircraft. 
+ The type designs approved under TC H10EU are defined by Aerospatiale 
+ Documents: 
+ 365A.04.3215 and 365A.05.0408 for model SA365C 
+ 365A.05.0416 for model SA365C1 
+ 365A.05.0426 for model SA365C2 
+ 365A.05.0430 for model SA365N 
+ 366A.04.3237 for model SA366G1 (See NOTE 10) 
+ 365ABN.0017 Issue a for model SA365N1 
+ 365ABN.0017 Issue b for model AS365N2 
+ 365ABN.0017 Issue C for model SA365N3 
+ 365ABN0104 for Model EC 155B 
+ 365A.04.6840 for Model Ec155B1"
+Service Information,"Each of the documents listed below must state that it is approved by the 
+ European Aviation Safety Agency (EASA) or – for approvals made before 
+ September 28, 2003 – by the French Generale de l’Aviation Civile (DGAC). 
+ Any such documents are accepted by the FAA and are considered FAA 
+ approved. 
+  
+ Service Bulletin, 
+  
+ Structural repair manuals, 
+  
+ Vendor manuals, 
+  
+ Aircraft flight manuals, and 
+  
+ Overhaul and maintenance manuals. 
+ This applies only to the acceptance of the type design data."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (See Certification Basis) must be installed in the helicopter for 
+ certification. 
+ Required and 
+ Optional Equipment 
+ SA365C 
+ SA365N/N1 
+ SA366G1 
+ AS365N2 
+ Aerospatiale Report: 
+ 365A04.3265 
+ 365A04.3983 
+ 366A04.3094 
+ 365A04.4689 
+ 365A04.3075 
+ Electronic and 
+ Navigation Equipment 
+ 365A04.3228 
+ 365A04.3422 
+ 366A04.3079 
+ 365A04.4693 
+ In addition, the following item of equipment is required: 
+ DGAC-approved Helicopter Flight Manual, Code B, approved December 12, 
+ 1978, for Model SA365C. 
+ DGAC-approved Helicopter Flight Manual, Code B, approved August 9, 1979, 
+ for Model SA365C1. 
+ DGAC-approved Helicopter Flight Manual, Code B, approved February 18, 
+ 1980, for Model SA365C2. 
+ DGAC-approved Helicopter Flight Manual, Code B, approved September 25, 
+ 1981, for Model SA365N. 
+ DGAC-approved Helicopter Flight Manual, Code B, Normal Revision, Approved 
+ July 20, 1983, or later approved revisions for Model SA366G1. 
+ DGAC-approved Helicopter Flight Manual, Code B, with RR2A(86-03) and 
+ RR2B(86-46) Approved December 1, 1986 or later approved revisions for model 
+ SA365N1. 
+ DGAC-approved Helicopter Flight Manual, Code B, approved October 31, 1990, 
+ for Model AS365N2. 
+ DGAC-approved Helicopter Flight Manual, Code B, approved December 18, 1997, 
+ for Model AS365N3. 
+ DGAC-approved Helicopter Flight Manual, Issue 4 plus Rush Revisions 5A and 5B, Code B, 
+ approved July 18, 2000, for Model EC 155B, or later approved revisions. 
+ DGAC-approved Helicopter Flight Manual, through Normal Revision RN3, Code B, approved 
+ May 5, 2003, for Model EC 155B1, or later approved revisions."
+NOTE 1,"Current weight and balance report including loading instructions and list of equipment included in the 
+ certificated empty weight, must be provided for each helicopter at the time of original certification. The 
+ certification empty weight and corresponding center of gravity location must include unusable fuel of 
+ 3.5 lb., at 147.6 in., for the SA365C series; 23.1 lb., at 151.6 in., for the SA365N; 35.2 lb., at 151.6 in., 
+ for the SA366G1; 51.8 lb., at 151.6 in., for the SA365N1, AS365N2 and AS365N3. 
+ In order to obtain the most consistent weight and balance results, all helicopters should be weighed on 
+ jackpoints rather than on wheels and floats. When changes are made to the helicopter which affect the 
+ weight and balance, refer to the Flight Manual Weight and Balance Appendix for instructions."
+NOTE 2,"Information essential to the proper maintenance of the helicopter is contained in the Manufacturer’s 
+ SA365C, C1, C2, N, N1, AS365N2,SA366G1, AS365N3, EC 155B, and EC155B1 Maintenance Manual provided 
+ with each helicopter."
+NOTE 3,"Life limited components and associated retirement times are presented in: 
+ 1. 
+ SA365C series Master Servicing Recommendations, Appendix 5.99 and titled “Airworthiness 
+ Limitations”. 
+ 2. 
+ SA365N, N1,AS365N2, and AS365N3 Master Servicing Recommendations, Appendix 5.99 
+ and titled “Airworthiness Limitations”. 
+ 3. 
+ SA366G1 Master Servicing Recommendations, Appendix 5.99 and titled “Airworthiness 
+ Limitations”. 
+ 4. 
+ EC 155B Master Servicing Manual, Chapter 4 titled “Airworthiness Limitations”. 
+ 5. 
+ EC 155B1 Master Servicing Manual, Chapter 4 titled “Airworthiness Limitations”. 
+ All parts and component listed there must be replaced in accordance therewith."
+NOTE 4,All placards indicated in the Rotorcraft Flight Manual must be installed in the appropriate location.
+NOTE 5,"A. 
+ The Model SA365C may be converted to the Model SA365C1 by compliance with 
+ Aerospatiale Service Bulletin No. 01.03 dated March 26, 1979. 
+ B. 
+ The models SA365C or SA365C1 may be converted to the Model SA365C2 by compliance 
+ with Aerospatiale Service Bulletin No. 01.07 dated June 5, 1990. 
+ C. 
+ Intermix of engine models is not permitted."
+NOTE 6,"Models SA365C or SA365C1 helicopters are eligible for operation at the higher limits when: 
+ 1. 
+ Aerospatiale modification No. AMS.365A.07.1665 is incorporated. 
+ 2. 
+ The torquemeter indicator changes described in Aerospatiale Service Bulletin No. 01.06, 
+ dated January 9, 1980, or later dated revision are accomplished; and 
+ 3. 
+ The DGAC approved Flight Manual revision specified by Service Bulletin 01.06 are 
+ included in the Rotorcraft Flight Manual."
+NOTE 7,"a) 
+ Hover Pressure Refueling system is not approved for installation in Model SA366G1 or 
+ any other model under this type certificate (H10EU) 
+ b) 
+ Fuel jettison system is approved for model SA366G1 only."
+NOTE 8,"Model SA366G1 operation is restricted to day, VFR only."
+NOTE 9,"For Model SA 366G1 only: The limits shown are installed limits. For computation purposes 100 
+ percent engine output shaft torque is 643 ft.-lb. and, 100 percent engine output shaft (N2) speed is 
+ 6000 rpm. Also 100% Gas Generator speed is 47,870 r.p.m."
+NOTE 10,"For Model SA366G1: - 
+ A. 
+ Engines - 2 installed Lycoming Model LTS-101-750B-2 with plenum air intake. 
+ B. 
+ Helicopter Modifications - 
+ The Aerospatiale modifications defined in Aerospatiale document No. 366A.04.3237 
+ must be incorporated. 
+ C. 
+ Flight Manual - 
+ The DGAC approved SA366G1 Helicopter Flight Manual, Code B, Normal Revision, 
+ approved July 20, 1983, or later approved revision , is required."
+NOTE 11,"The Models AS 365N3, EC 155B, and EC155B1 employ electronic engine controls that are recognized to be 
+ more susceptible to Electromagnetic Interference (EMI). EMI may be the result of radiated or conducted 
+ interference. Modifications that add or change systems that have a potential for EMI must either be qualified 
+ to an FAA acceptable standard or tested at the time of installation for interference to the engine controls. 
+ This type of testing must employ the particular engine control’s diagnostic techniques and external 
+ diagnostic techniques specified by the engine and helicopter manufacturers. This testing must be 
+ accomplished in accordance with an FAA approved test plan."
+NOTE 12,"Model EC 155B S/N’s 6544-6547, 6557-6559, 6562-6563, 6569, 6575-6577, 6580-6581, and 6583 are 
+ restricted to day/night VFR operation in the United States unless Mod 07-39B96, Mod 07-25C13, and Mod 
+ OP-26B17 are incorporated."
+NOTE 13,"Effective January 1, 2014, Eurocopter France name was changed to Airbus Helicopters."

@@ -1,0 +1,458 @@
+Keyterm,Info
+"A-728 
+ Revision 6 
+ AERONCA 
+ 50-TC 
+ 65-TC(Army L-3J) 
+ YO-58(Army L-3) 
+ 60-TF 
+ 65-TF 
+ 50-TL 
+ 65-TL 
+ 65-TAC(Army L-3E) 
+ 65-TAF(Army L-3D) 
+ 65-TAL 
+ April 8, 2014",
+Type Certificate Holder,"National Aeronca Association 
+ 806 Lockport Road 
+ P.O. Box 2219 
+ Terre Haute, IN 47802 
+ Name change from Aeronca to National Aeronca Association March 7, 2005."
+"I - Model 50-TC, 60-TF, 50-TL, 2 PCLM, Approved June 15, 1940. 
+ (All three models are the same except for engine installation).",
+Engine,"50-TC 
+ : Continental A-50-7"
+Fuel,Fuel : 73 minimum octane aviation gasoline
+Engine limits,"Limits : For all operations, 1900 rpm (50 hp) 
+ 60-TF 
+ : Franklin 4AC-150 Series A 
+ (Single Eisemann magneto) 
+ Fuel : 73 minimum octane aviation gasoline 
+ Limits : For all operations, 2400 rpm (60 hp) 
+ 50-TL 
+ : Lycoming O-145-A1 
+ Fuel : 65 minimum octane aviation gasoline 
+ Limits : For all operations, 2300 rpm (50 hp)"
+Airspeed Limits,"Level flight or climb 
+ 100 mph True Ind. 
+ Glide or dive 
+ 135 mph True Ind."
+Propeller limits,"50-TC 
+ : Static rpm at full throttle, not over 1950, 
+ not under 1750. 
+ No additional tolerance permitted. 
+ Diameter: Not over 77 in., 
+ not under 70 in. 
+ 60-TF 
+ : Static rpm at full throttle, 
+ not over 2450, 
+ not under 2150. 
+ No additional tolerance permitted. Diameter: 
+ Not over 77 in., 
+ not under 70 in. 
+ 50-TL 
+ : Static rpm at full throttle, 
+ not over 2315, 
+ not under 2050. 
+ No additional tolerance permitted. Diameter: 
+ Not over 77 in., 
+ not under 68 in."
+CG range,"(+13.4) to (+20.7) 
+ Empty weight C.G. range (+9.6) to (+15.5). When empty weight C.G. falls within this range, 
+ computations of critical fore and aft C.G. positions are unnecessary. 
+ This range not valid for non-standard arrangements."
+Maximum weight,1150 lbs.
+No seats,2 (+8 and +38)
+Maximum baggage,40 lbs. (+57.5)
+Fuel capacity,"12 gals. (One 2 gal. tank at -17, one 10 gal. tank at +21)."
+Oil capacity,"50-TC and 60-TF: 1 gal. (-38) 
+ 50-TL: 5 qts. (-38)"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+Rev No,"5 
+ 4 
+ - 
+ - 
+ 4 
+ 4 
+ 2"
+Serial Nos eligible,1010T and up
+Required equipment,"Items 101, 102, 103, 104. Not eligible for original certification with single 
+ ignition engine after Aug. 1, 1941."
+"II - Model 65-TC (Army L-3J), 2 PCLM, Approved June 15, 1940: 
+ Model YO-58 (Army L-3), 2 PCLM, Approved March 13, 1945. 
+ (Model 65-TC same as 50-TC except engine installation and trim tab area. Tab must be modified",
+Engine,"65-TC: Continental A-65-7 
+ YO-58: Continental A-65-8"
+Fuel,73 minimum octane aviation gasoline
+Engine limits,"For all operations, 2300 rpm (65 hp)"
+Airspeed Limits,"Level flight or climb 
+ 100 mph True Ind. 
+ Glide or dive 
+ 135 mph True Ind."
+Propeller limits,"Static rpm at full throttle 
+ Not over 2250, not under 2050.. No 
+ additional tolerance permitted. Diameter: 
+ Not over 77 in., not under 70 in."
+CG range,"(+13.4) to (+20.7) 
+ Empty weight C.G. range (+9.6) to (+15.5). When empty weight C.G. falls within this range, 
+ computations of critical fore and aft C.G. positions are unnecessary. 
+ This range not valid for non-standard arrangements."
+Maximum weight,1150 lbs.
+No seats,2 (+8 and +38)
+Maximum baggage,40 lbs. (+57.5)
+Fuel capacity,"12 gals. (One 2 gal. tank at -17, one 10 gal. tank at +21)."
+Oil capacity,1 gal. (-38)
+Serial Nos eligible,"65-TC: 1010T and up. 
+ YO-58: TCA 10291, 10301, 10311 and 10321 corresponding to AAF Nos. 42-456 to 42-459"
+Required equipment,"Items 101, 102, 103, 104. Not eligible for original certification with single ignition engine 
+ after Aug. 1, 1941. Prior to certification, each YO-58 must have a set of engine controls"
+"III - Model 65-TF, 2 PCLM, Approved October 9, 1940. 
+ (Same as 50-TC except engine installation).",
+Engine,Franklin 4AC-176-B2
+Fuel,73 minimum octane aviation gasoline
+Engine limits,"For all operations, 2200 rpm (65 hp)"
+Airspeed Limits,"Level flight or climb 
+ 100 mph True Ind. 
+ Glide or dive 
+ 135 mph True Ind."
+Propeller limits,"Static rpm at full throttle, 
+ Not over 2050, not under 1950. 
+ No additional tolerance permitted. 
+ Diameter: Not over 77 in., not under 70 in."
+CG range,(+13.4) to (+20.7)
+Empty weight CG range,"(+9.6) to (+15.5). When empty weight C.G. falls within this range, 
+ computation of critical fore and aft C.G. positions is unnecessary. 
+ This range not valid for non-standard arrangements."
+Maximum weight,1150 lbs.
+No seats,2 (+8 and +38)
+Maximum baggage,40 lbs. (+57.5)
+Fuel capacity,"12 gals. (One 2 gal. tank at -17, one 10 gal. tank at +21)."
+Oil capacity,5 qts. (-38)
+Serial Nos eligible,1010T and up
+Required equipment,"Items 101, 102, 103, 104. Not eligible for original certification with 
+ single ignition engine after Aug. 1, 1941."
+"IV - Model 65-TL, 2 PCLM, Approved June 15, 1940. 
+ (Same as Model 50-TC except engine installation).",
+Engine,Lycoming O-145-B1
+Fuel,73 minimum octane aviation gasoline
+Engine limits,"For all operations, 2550 rpm (65 hp)"
+Airspeed Limits,"Level flight or climb 
+ 100 mph True Ind. 
+ Glide or dive 
+ 135 mph True Ind."
+Propeller limits,"Static rpm at full throttle, 
+ Not over 2550, not under 2250.. No 
+ additional tolerance permitted. Diameter: 
+ Not over 77 in., not under 68 in."
+CG range,(+13.4) to (+20.7)
+Empty weight CG range,"(+9.6) to (+15.5). When empty weight C.G. falls within this range, computation 
+ of critical fore and aft positions is unnecessary. This range not valid for 
+ non-standard arrangements."
+Maximum weight,1150 lbs.
+No seats,2 (+8 and +38)
+Maximum baggage,40 lbs. (+57.5)
+Fuel capacity,"12 gals. (One 2 gal. tank at -17, one 10 gal. tank at +21)."
+Oil capacity,5 qts. (-38)
+Serial Nos eligible,1010T and up
+Required equipment,"Items 101, 102, 103, 104. Not eligible for original certification with single ignition 
+ engine after Aug. 1, 1941."
+"V - Model 65-TAC (Army L-3E), 2 PCLM, Approved NOVEMBER 24, 1941.",
+Engine,Continental A-65-8
+Fuel,73 minimum octane aviation gasoline
+Engine limits,"For all operations, 2300 rpm (65 hp)"
+Airspeed Limits,"Level flight or climb 
+ 95 mph True Ind. 
+ Glide or dive 
+ 129 mph True Ind."
+Propeller limits,"Static rpm at full throttle, 
+ Not over 2200, not under 1960.. No 
+ additional tolerance permitted. Diameter: 
+ Not over 75 in., not under 70 in."
+CG range,(+13.5) to (+19.9)
+Empty weight CG range,"(+9.9) to (+15.6). When empty weight C.G. falls within this range, 
+ computation of critical fore and aft C.G. positions is unnecessary. 
+ This range not valid for non-standard arrangements."
+Maximum weight,1200 lbs.
+No seats,2 (+8 and +38)
+Maximum baggage,"40 lbs. (+57.5) 
+ Placard required: ""23 lbs. maximum when flying solo"". 
+ Fuel capacity 12 gals. (One 2 gal. tank at -17, one 10 gal. tank at +21)."
+Serial Nos eligible,"C-1011TA to C-3162A, incl., C-4022TA and up and all AAF Nos. 
+ Use manufacturer's serial number, if available."
+Required equipment,"Items 101, 102, 103, 104. Not eligible for original certification with 
+ single ignition engine after Aug. 1, 1941."
+"VI - Model 65-TAF (Army L-3D), 2 PCLM, Approved November 24, 1941.",
+Engine,Franklin 4AC-176-B2
+Fuel,73 minimum octane aviation gasoline
+Engine limits,"For all operations, 2200 rpm (65 hp)"
+Airspeed Limits,"Level flight or climb 
+ 95 mph True Ind. 
+ Glide or dive 
+ 129 mph True Ind."
+Propeller limits,"Static rpm at full throttle, 
+ Not over 2160, not under 1975.. No 
+ additional tolerance permitted. Diameter: 
+ Not over 76 in., not under 70 in."
+CG range,(+13.5) to (+19.9)
+Empty weight CG range,"(+9.9) to (+14.7). When empty weight C.G. falls within this range, 
+ computation of critical fore and aft C.G. positions is unnecessary. 
+ This range not valid for non-standard arrangements."
+Maximum weight,1200 lbs.
+No seats,2 (+8 and +38)
+Maximum baggage,40 lbs. (+57.5)
+Fuel capacity,"12 gals. (One 2 gal. tank at -17, one 10 gal. tank at +21)."
+Oil capacity,1 gal. (-38)
+Serial Nos eligible,"F-1011TA and up and all AAF numbers. Use manufacturer's number if 
+ available."
+Required equipment,"Items 101, 102, 103, 104. Not eligible for original certification with 
+ single ignition engine after Aug. 1, 1941."
+"VII - Model 65-TAL, 2 PCLM, Approved February 12, 1942.",
+Engine,Lycoming O-145-B2
+Fuel,73 minimum octane aviation gasoline.
+Engine limits,"For all operations, 2550 rpm (65 hp)"
+Airspeed Limits,"Level flight or climb 
+ 95 mph True Ind. 
+ Glide or dive 
+ 129 mph True Ind."
+Propeller limits,"Static rpm at full throttle, 
+ Not over 2290, not under 2150. 
+ No additional tolerance permitted. 
+ Diameter: Not over 70 in., not under 68 in."
+CG range,(+13.5) to (+19.9)
+Empty weight CG range,"(+9.9) to (+16.8). When empty weight C.G. falls within this range, 
+ computation of critical fore and aft C.G. positions is unnecessary. 
+ This range not valid for non-standard arrangements."
+Maximum weight,1200 lbs.
+No seats,2 (+8 and +38)
+Maximum baggage,"40 lbs. (+57.5) 
+ Placard required: ""Zero pounds maximum baggage when flying solo."""
+Fuel capacity,"12 gals. (One 2 gal. tank at -17, one 10 gal. tank at +21)."
+Oil capacity,5 qts. (-38)
+Serial Nos eligible,L-1011TA and up
+Required equipment,"Items 101, 102, 103, 104. Not eligible for original certification with 
+ single ignition engine after Aug. 1, 1941."
+"Specifications Pertinent to All Models 
+ Datum 
+ Wing leading edge 
+ Leveling means 
+ Cabin floor 
+ Control surface movements 
+ Models 50-TC, 65-TC, 60-TF, 65-TF, 50-TL, 65-TL: 
+ Elevators 
+ 25° up 
+ 25° down 
+ Elevator tab 
+ 15.5° up 
+ 18.5° down 
+ Ailerons 
+ 24.5° up 
+ 24.5° down 
+ Rudder 
+ 30° right 
+ 30° left 
+ odels 65-TAC, 65-TAF, 65-TAL: 
+ M 
+ Elevators 
+ 18° up 
+ 24° down 
+ Elevator tab 
+ 28.5° up 
+ 16.5° down 
+ Right Aileron 
+ 29° up 
+ 15° down 
+ Left Aileron 
+ 26.5° up 
+ 17° down 
+ Rudder 
+ 29° right 
+ 32° left 
+ Certification basis 
+ T 
+ ype Certificate No. 728 (CAR 4a) 
+ Production basis 
+ None. Prior to original certification for each aircraft manufactured 
+ subsequent to August 24, 1949, a CAA Aircraft Engineering inspector 
+ must perform a detailed inspection for workmanship, materials, 
+ and conformity with the approved technical data, and a check of the 
+ flight characteristics. 
+ Export eligibility 
+ Eligible for export to all countries subject to the provisions of MOP 2-4, 
+ except as follows: 
+ Canada - 
+ Landplane - eligible 
+ Skiplane - not eligible. However, structure of Model T 
+ Series complies with Canadian requirements for ski 
+ installation when Item 310 is installed with tread not 
+ exceeding that with wheels and with a maximum ski 
+ pedestal height of 10 inches. 
+ Equipment: A Plus (+) or minus (-) sign preceding the weight of an item indicates net weight change when that item is installed. 
+ Propellers and Propeller Accessories 
+ 1. Propeller - Hartzell ground adjustable, hub HA-12U, blades 7414 to 
+ 18 lbs. (-57) 
+ 6814 or 7214M to 6814M. Eligible at diameter and static rpm limits 
+ shown for fixed pitch wood propellers. 
+ 101 
+ Propeller - wood (fixed or adjustable pitch) 
+ 13 lbs. (-57) 
+ 109 
+ Propeller - Sensenich fixed pitch metal. 
+ 21 lbs.(-57) 
+ (a) Model M74CK (Models A65TC, YO58, 65TAC, L3E) 
+ Static rpm at maximum permissible throttle setting: 
+ Not over 2250, not under 2050. 
+ No additional tolerance permitted. 
+ Diameter: Not over 74 in., not under 72 in. 
+ (b) Model M74CK-2 (Model 65TL, 65TAL) 
+ Static rpm at maximum permissible throttle setting: 
+ Not over 2550, not under 2250. 
+ No additional tolerance permitted. 
+ Diameter: Not over 72 in., not under 68 in. 
+ Engine and Engine Accessories - Fuel and Oil System 
+ 104 
+ Carburetor Air Heater 
+ 105. 
+ Continental air intake & filter (Model 65-TAC only) 
+ 1 lb. (-41) 
+ 106 
+ AC Air filter 1529265 (Aircooled Motors Dwg. SK-534-3) 
+ +2 lbs. (-49) 
+ (Models 65-TF and 65-TAF only) 
+ 108 
+ Oil filter, Fram PB-5, Weight includes 1 qt. of oil 
+ (a) For models 65-TF, 65-TAF: Kit No. 501, Fram installation 
+ 4 lbs. (-32) 
+ Dwg. 61554 
+ (b) For model 60-TF: Kit No. 500, Fram installation Dwg. 61552 
+ 4 lbs. (-19) 
+ 305. 
+ Carburetor air cleaner (Models 50-TC, 65-TC, and 65-TAC only) 
+ 1 lb. (-50) 
+ 306 
+ Cabin hater Model T Series 
+ 2 lbs. (-37) 
+ Model TA Series 
+ 1 lb. (-31) 
+ 307",
+Engines,"(1) A-50-8 
+ +10 lbs. 
+ (2) A-50-9 
+ +13 lbs. 
+ (1) A-65-8 
+ (2) A65-9"
+"C. Model 60-TF (Franklin 4AC-150, series A - per Engine Spec. No. 194) 
+ (1) Single Bendix magneto 
+ +3 lbs. 
+ (2) Dual Eisemann magnetos 
+ +8 lbs. 
+ (3) Dual Bendix magnetos 
+ +14 lbs. 
+ D. Model 50-TL (Lycoming - per Engine Spec No. 199) 
+ 1 O145A2 
+ +11 lbs. 
+ Engine limits - For all operations, 2300 rpm (55 hp) 
+ 2 O145A3 
+ +15 lbs. 
+ (Engine limits - Same as D (1)) 
+ E. 
+ Model 65-TL (Lycoming - per Engine Spec. No. 210) 
+ 1 O145B2 
+ +11 lbs. 
+ 2 O145B3 
+ +14 lbs. 
+ F. 
+ Model 65-TF (Franklin - per Engine Spec. No. 221) 
+ 1 4AC176BA2 
+ No weight change 
+ Engine limits: For all operations, 2300 rpm (65 hp) 
+ Propeller limits: 
+ Static rpm at full throttle: 
+ Not over 2250, not under 2050. 
+ No additional tolerance permitted 
+ Diameter: Not over 77 in., not under 70 in. 
+ 1 A658J 
+ +3 lbs. 
+ H. Model 65-TAF (Franklin - per Engine Spec. No. 221) 
+ 1 4AC176BA2 
+ No weight change 
+ Engine limits: For all operations, 2300 rpm (65 hp) 
+ Propeller limits: 
+ Static rpm at full throttle: 
+ Not over 2175, not under 1975. 
+ No additional tolerance permitted. 
+ Diameter: Not over 74 in., not under 70 in. 
+ Landing Gear and Floats 
+ 102 
+ 6.00-6 wheels (Shinn 6C5) and tires 
+ 23 lbs. (-4) 
+ 103 
+ Tail skid Dwg 4105 
+ 6 lbs. (+188) 
+ 301 
+ 6.00-6 brake type wheels (Shinn 6C5B or 6C5HB or Goodyear L6MBM) 
+ +5 lbs. (-4) 
+ 304 
+ Wheel streamlines 
+ 6 lbs. (-4) 
+ 308 
+ Tail wheel a Full swiveling 
+ +2 lbs. (+188) 
+ (b) Steerable 
+ +3 lbs. (+188) 
+ 310 
+ Shock strut special attachment bolt (Dwg. 1-875) 
+ No weight cha 
+ nge 
+ Model T Series only 
+ 311. 
+ Skis (Eligible on any airplane of these models provided the propeller installation meets the minimum 
+ 9 in. ground clearance. The maximum weight for the skiplane will be the same as for the corresponding 
+ landplane or that shown in parenthesis after each ski model, whichever is less) 
+ (a) Federal SA-1 (Maximum 1200 lbs.) Use actual weight change 
+ (b) Federal SC-1 (Maximum 1400 lbs.) Use actual weight change 
+ (c) Marston MFS-1600 (Maximum 1600 lbs.) Use actual weight change 
+ (d) Jennings TY-2 (Maximum 1200 lbs.) Use actual weight change 
+ (e) Federal SC-2 (Maximum 1650 lbs.) Use actual weight change 
+ (f) Heath 725 (Maximum 1450 lbs.) Use actual weight change 
+ (g) Piper S-1000 (Maximum 1200 lbs.) Use actual weight change 
+ (h) Wollman W-1650 (Maximum 1650 lbs.) Use actual weight change 
+ (i) Heath 725A (Maximum 1450 lbs.) Use actual weight change 
+ (j) Federal CA-1850-6 (Federal Instal. Dwg. 11R241) 48 lbs. (0) 
+ (k) Federal A-2000A (Federal Instal. Dwg. 11R241) 49 lbs. (0) 
+ (l) Federal A-2000 (Federal Instal. Dwg. 11R241) 41 lbs. (0) 
+ (m) Federal A-1850 (Federal Instal. Dwg. 11R241) 
+ 38 lbs. (0) 
+ (n) Federal A-1500 (Federal Instal. Dwg. 11R241) 
+ 37 lbs. (0) 
+ (o) Federal A-1500A (Federal Instal. Dwg. 11R241) 
+ 39 lbs. (0) 
+ 312 
+ Front brake pedals (For dual brake installation) 
+ TA Series only 
+ 2 lbs. (-14) 
+ 313 
+ 6.00-6 wheels and brakes (Cleveland Aircraft Products 6:00 MBA) 
+ and Aeronca 6.00-6 2-ply tires (TA series only) (Requires axle 3-180) 
+ +7 lbs. (-1) 
+ 201 
+ 6.00-6 Wheels & brakes (Cleveland Aircraft Products 6:00 DMB-2) 
+ TA series only 
+ +7 lbs. (-4) 
+ Electrical and Radio Equipment 
+ 302 
+ Battery 
+ 13 lbs. (-25) 
+ 309 
+ T antenna 
+ 1 lb. (+80) 
+ NOTE 1 
+ Required Placards: 
+ (a) All models - on instrument panel either: ""Occupy rear seat when flying solo.""",
+"(b) Model 65-TAC - at baggage compartment: ""23 lbs. maximum when flying solo."" 
+ (c) Model 65-TAL - at baggage compartment: ""Zero pounds maximum baggage when flying",

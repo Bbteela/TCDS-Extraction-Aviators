@@ -1,0 +1,988 @@
+Keyterm,Info
+"A12SO 
+ Revision 23 
+ COMMANDER 
+ 112 
+ 112TC 
+ 112B 
+ 112TCA 
+ 114 
+ 114A 
+ 114B 
+ 114TC 
+ October 3, 2013",
+Type Certificate Holder,"Commander Aircraft Corporation 
+ 2 Dorset Road 
+ Colonia, NJ 07067 
+ Type Certificate Holder Record: CPAC, Inc. transferred to Commander Aircraft Corporation on October 3, 2013; 
+ Commander Aircraft Company transferred to CPAC, Inc. on September 12, 2005; 
+ Gulfstream Aerospace Corporation transferred to Commander Aircraft Company on 
+ December 27, 1988; 
+ Gulfstream American Corporation transferred to Gulfstream Aerospace Corporation on 
+ February 3, 1981; 
+ Rockwell International, Commander Aircraft Division transferred to Gulfstream American 
+ Corporation"
+"I. 
+ Model 112, 4 PCLM (Normal and Utility Category), Approved June 1, 1972",
+Engine,Lycoming I0-360-C1D6
+Fuel,100/130 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2700 rpm (200 hp)"
+Propeller and,"Hartzell Constant Speed, Model HC-E2YR-1BF or HC-E2YR-1B Blade, Model F766A or"
+Propeller Limits,"7666A 
+ Pitch: High 28° - 30°, Low 13° ± 0.2° at Blade Station 30 inches 
+ Diameter: Not over 76”, not under 74” 
+ Governor: Edo-Aire 34-828-014 or Edo-Aire 34-828-014-2 
+ Spinner: Hartzell C-3533 or C-3533P or Aero Commander 46390-3 
+ Limitations: Do not exceed 24” Hg. manifold pressure below 2400 rpm"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17"
+Rev No,"23 
+ 19 
+ 19 
+ 19 
+ 19 
+ 19 
+ 19 
+ 19 
+ 19 
+ 19 
+ 19 
+ 20 
+ 21 
+ 21 
+ 21 
+ 21 
+ 21"
+Airspeed Limits,"Never exceed 
+ 180 Kts (207 mph) CAS 
+ Decrease speed 1 Kt per 1000 ft. above 10,000 ft. 
+ Max. structural cruising 2550 lbs. 
+ 148 Kts (170 mph) CAS 
+ Decrease speed 1 Kt per 1000 ft. above 10,000 ft. 
+ Max. structural cruising 2650 lbs. 
+ 143 Kts (165 mph) CAS 
+ Decrease speed 1 Kt per 1000 ft. above 10,000 ft. 
+ Maneuvering (Normal 2550 lbs) 
+ 111 Kts (128 mph) CAS 
+ Maneuvering (Normal 2650 lbs) 
+ 113 Kts (130 mph) CAS 
+ Maneuvering (Utility) 
+ 118 Kts (136 mph) CAS 
+ Flaps extended up to 20° 
+ 130 Kts (150 mph) CAS 
+ 20° to 35° 
+ 109 Kts (125 mph) CAS 
+ Max. gear extended 
+ 130 Kts (150 mph) CAS 
+ Max. gear operating 
+ 130 Kts (150 mph) CAS 
+ Max. cowl flaps open 
+ 130 Kts (150 mph) CAS 
+ Max. side window open 
+ 130 Kts (150 mph) CAS"
+CG Range,"Normal Category 
+ Forward: 
+ 103.5” aft of datum (18.8% MAC) at 2650 lbs. 
+ 101.4” aft of datum (15.0% MAC) at 2550 lbs. 
+ 97.0” aft of datum (7% MAC) at 2100 lbs. 
+ 97.0” aft of datum (7% MAC) at 1600 lbs. 
+ Aft: 
+ 110.5” aft of datum (31.5% MAC) at 2650 lbs. 
+ 110.5” aft of datum (31.5% MAC) at 1600 lbs. 
+ Utility Category 
+ Forward: 
+ 100.8” aft of datum (13.9% MAC) at 2488 lbs. 
+ 97.0” aft of datum (7% MAC) at 2100 lbs. 
+ 97.0” aft of datum (7% MAC) at 1600 lbs. 
+ Aft: 
+ 106.5” aft of datum (24.25% MAC) at 2488 lbs. 
+ 106.5” aft of datum (24.25% MAC) at 1600 lbs. 
+ Straight line variations between points."
+Empty Weight CG Range,None
+Datum,62.5” forward of firewall (front face)
+Leveling Means,"Bottom of fuselage, outer surface, from F.S. 62.5 to F.S. 97.6"
+Maximum Weight,"2550 lbs. takeoff; 2550 landing (S/N 3 thru 125). 
+ See Note 4 – Normal Category"
+No of Seats,2 Occupants at (+ 99.0); 2 Occupants at (+ 136.0) Normal Category Only
+Maximum Baggage,"200 lbs. (at + 164.0) Normal Category 
+ 0 lbs. Utility Category"
+Fuel Capacity,"64 gal. usable (2 wing tanks) at +108.6. 
+ (See Note 1 for unusable fuel)(S/N 3 thru 125) 
+ 68 gal. usable (2 wing tanks) at +108.6. 
+ (See Note 1 for unusable fuel)(S/N 126 thru 155) 
+ 48 gal. usable (2 wing tanks) at +108.6. 
+ (See Note 1 for unusable fuel)(S/N 156 and up – Std.) 
+ 68 gal. usable (2 wing tanks) at +108.6. 
+ (See Note 1 for unusable fuel)(S/N 156 and up – optional.)"
+Oil Capacity,8 qts. At +46.5 (6 qts. Usable) (See Note 1 for undrainable oil).
+Control Surface Movements,"Wing Flaps 
+ Up 0° ± ½° 
+ Down 40° ± 2° 
+ (Serial Numbers 1 thru 81) (See Note 5) 
+ Up 0° ± 1° 
+ Down 35° ± 2° 
+ (Serial Numbers 82 & up) 
+ Aileron 
+ Up 20° ± 27° 
+ Down 7° ± 11° 
+ (Max. up must be within 4° left to right) 
+ Rudder 
+ Left 22° ± 2° 
+ Right 28°* ± 2° 
+ Elevator 
+ Up 30° ± 2° 
+ Down 13° ± 2° 
+ Elevator 
+ Up 15° ± 2° 
+ Down 26° ± 1° 
+ *Front vertical stabilizer centerline"
+Nose Wheel Movement,"Steering ± 15° 
+ Castoring ± 30°"
+Serial Numbers Eligible,"1, 3 thru 489, and 13000"
+"II. 
+ Model 114, 4 PCLM, (Normal Category), Approved March 8, 1976, (Utility Category) Approved March 31, 1977",
+Engine,"Lycoming I0-540-T4A5D or I0-540-T4B5D (S/N 1400 thru 14149) 
+ Lycoming I0-540-T4B5D (S/N 14150 & Subs)"
+Fuel,100/130 minimum grade aviation gasoline
+Propeller and,"Hartzell Constant Speed, Model HC-C2YR-1BF/F8467-7R"
+Propeller Limits,"Blade: Model F8467-7R 
+ Pitch: High 30° - 32°, Low 14.2° ± 0.1° at Blade Station 30” 
+ Diameter: Not over 77”, no reduction allowed. 
+ Governor: Edo-Aire 34-828-014-7 
+ Spinner: 46390-3 
+ Limitations: None"
+Airspeed Limits,"Never exceed 
+ SL – 12,500 ft. 
+ 186 Kts (214 mph) CAS 
+ 16,000 ft. 
+ 175 Kts (201 mph) CAS 
+ 20,000 ft. 
+ 161 Kts (185 mph) CAS 
+ 24,000 ft. 
+ 147 Kts (169 mph) CAS 
+ Max. structural cruising 
+ SL – 12,500 ft. 
+ 148 Kts (170 mph) CAS 
+ 16,000 ft. 
+ 139 Kts (160 mph) CAS 
+ 20,000 ft. 
+ 128 Kts (147 mph) CAS 
+ 24,000 ft. 
+ 117 Kts (135 mph) CAS 
+ Maneuvering (Normal) 
+ 3140 lbs. 
+ 118 Kts (135 mph) CAS 
+ 2658 lbs. 
+ 109 Kts (125 mph) CAS 
+ 2023 lbs. 
+ 95 Kts (109 mph) CAS 
+ Straight line variation between points. 
+ Maneuvering (Utility) 
+ 2800 lbs. 
+ 120 Kts (138 mph) CAS 
+ 2250 lbs. 
+ 107 Kts (124 mph) CAS 
+ 2023 lbs. 
+ 102 Kts (117 mph) CAS 
+ Straight line variation between points."
+II,"Flaps extended 
+ Up to 20° 
+ 150 Kts (173 mph) CAS* 
+ 20° to 25° 
+ 120 Kts (138 mph) CAS 
+ 25° to 35° 
+ 109 Kts (125 mph) CAS 
+ Max. gear extended 
+ 186 Kts (214 mph) CAS* 
+ Max. gear operating 
+ 130 Kts (150 mph) CAS 
+ Max. cowl flaps open (S/N 14000 thru 14149) 
+ 130 Kts (150 mph) CAS 
+ Max. side window open 
+ 130 Kts (150 mph) CAS 
+ * Do not Exceed Vne Schedule"
+CG Range,"Normal Category 
+ Forward: 
+ 106.91” aft of datum (25.0% MAC) at 3140 lbs. 
+ 101.11” aft of datum (14.5% MAC) at 2658 lbs. 
+ 99.75” aft of datum (12.0% MAC) at 2250 lbs. 
+ 99.75” aft of datum (12.0% MAC) at 2023 lbs. 
+ Aft: 
+ 110.50” aft of datum (31.5% MAC) at 3140 lbs. 
+ 110.50” aft of datum (31.5% MAC) at 2503 lbs. 
+ Straight line variation between points. 
+ Utility Category 
+ Forward: 
+ 102.82” aft of datum (17.57% MAC) at 2800 lbs. 
+ 101.11” aft of datum (14.5% MAC) at 2658 lbs. 
+ 99.75” aft of datum (12.0% MAC) at 2250 lbs. 
+ 99.75” aft of datum (12.0% MAC) at 2023 lbs. 
+ Aft: 
+ 107.46” aft of datum (26.0% MAC) at 2800 lbs. 
+ 107.46” aft of datum (26.0% MAC) at 2266 lbs. 
+ Straight line variations between points."
+Empty Weight CG Range,None
+Datum,62.5” forward of firewall (front face)
+Leveling Means,"Bottom of fuselage, outer surface, from F.S. 62.5 to F.S. 97.6"
+Maximum Weight Normal,3140 lbs.
+Maximum Weight Utility,2800 lbs.
+Maximum Zero Fuel Weight,"Normal Category 
+ 2852 lbs. Station 106.74 
+ (24.69% MAC) to Sta. 110.50 (31.5% MAC) 
+ 2250 lbs. Sta. 99.75 (12.0% MAC) varying 
+ Linearly to 2852 lbs. Sta. 106.74 (24.69% MAC) 
+ Utility Category 
+ 2500 lbs. Station 102.66 
+ (17.27% MAC) to Sta. 107.46 (26.0% MAC) 
+ 2250 lbs. Sta. 99.75 (12.0% MAC) varying 
+ Linearly to 2500 lbs. Sta. 102.66 (17.27% MAC)"
+Minimum Weight,2023 lbs. at Sta. 99.75 (12.00% MAC) to
+Normal  Utility,"2028 lbs. at Sta. 101.24 (14.70% MAC) to 
+ 2266 lbs. at Sta. 107.46 (26.00% MAC) to 
+ 2503 lbs. at Sta. 110.50 (31.50% MAC) – Normal Category Only. 
+ Straight line variation between points."
+No of Seats,"2 Occupants at (+ 99.0) 
+ 2 Occupants at (+ 136.0) Normal Category Only"
+Maximum Baggage,200 lbs. (at + 164.0)
+Fuel Capacity,68 gal. usable (2 wing tanks) at 108.6 (See Note 1 for unusable fuel).
+Oil Capacity,8 qts. At +43.0 (6 qts. usable) (See Note 1 for data on unusable oil).
+Control Surface Movements,"Wing Flaps 
+ Up 0° ± 1° 
+ Down 35° + 0° - 2° 
+ Aileron 
+ Up 20° to 27° 
+ Down 7° to 11° 
+ (Max up must be within 4° left to right) 
+ Rudder 
+ Left 22° ± 2° 
+ Right 28°* ± 2° 
+ Elevator 
+ Up 30° ± 2° 
+ Down 13° + 2° -1° 
+ Elevator 
+ Up 15° ± 2° 
+ Down 26° ± 1° 
+ *Front vertical stabilizer centerline"
+Nose Wheel Movement,"Steering ± 15° 
+ Castoring ± 30°"
+Serial Nos Eligible,14000 thru 14459 (See Note 7)
+"III. 
+ Model 112TC, 4 PCLM (Normal Category), Approved April 27, 1976",
+Engine,Lycoming TO-360-C1A6D
+Fuel,100/130 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2575 rpm, 42” Hg. (210 hp) to 8,000 ft., 40” Hg. 8,001 ft. to 16,000 ft., 38” 
+ Hg. 16,001 ft. to 20,000 ft."
+Propeller and,"Hartzell Constant Speed, Model HC-E2YR-1BF/F8467-7R"
+Propeller Limits,"Blade: Model F8467-7R 
+ Pitch: High 29° - 32°, Low 15.0° ± 0.1° at Blade Station 30” 
+ Diameter: Not over 77”, not under 76.5” 
+ Governor: Edo-Aire 34-828-014-5 
+ Spinner: 46390-3 
+ Limitations: 
+ Continuous operation between 2250 and 2450 rpm with manifold pressure 
+ below 20” Hg. is prohibited. Continuous operation below 2350 rpm at manifold 
+ pressure above 34” Hg. is prohibited."
+Maximum Authorized Altitude,"20,000 ft."
+Airspeed Limits,"Never exceed 
+ 180 Kts (207 mph) CAS 
+ Max. structural cruising 
+ 143 Kts (165 mph) CAS 
+ *Maneuvering 
+ 110 Kts (127 mph) CAS @ 2850 lbs. 
+ 92 Kts (106 mph) CAS @ 1998 lbs. 
+ Flaps extended 
+ Up to 20° 
+ 150 Kts (173 mph) CAS 
+ 20° to 25° 
+ 120 Kts (138 mph) CAS 
+ 25° to 35° 
+ 109 Kts (125 mph) CAS 
+ Max. gear extended 
+ 180 Kts (207 mph) CAS 
+ Max. gear operating 
+ 130 Kts (150 mph) CAS 
+ Max. cowl flap open 
+ 130 Kts (150 mph) CAS 
+ Max. side window open 
+ 130 Kts (150 mph) CAS 
+ * Assume straight line variation between points."
+CG Range,"Forward: 
+ 105.05” aft of datum (24.84% MAC) at 2850 lbs. 
+ 102.20” aft of datum (20.07% MAC) at 2608 lbs. 
+ 101.00” aft of datum (18.07% MAC) at 2200 lbs. 
+ 101.00” aft of datum (18.07% MAC) at 2005 lbs. 
+ Aft: 
+ 109.20” aft of datum (31.77% MAC) at 2850 lbs. 
+ 109.20” aft of datum (31.77% MAC) at 2229 lbs. 
+ Straight line variation between points."
+Empty Weight CG Range,None
+Datum,62.5” forward of Firewall (front face)
+Leveling Means,"Bottom of fuselage, outer surface, from F.S. 62.5 to F.S. 97.6"
+Maximum Weight,2850 lbs.
+Max Zero Fuel Weight,"2720 lbs. Sta. 106.20 
+ (26.76% MAC) to Sta. 109.20 (31.77% MAC) 
+ 2200 lbs. Sta. 101.00 (18.07% MAC) varying 
+ Linearly to 2331 lbs. Sta. 101.38 (18.70% MAC) 
+ Varying linearly to 2720 lbs. Sta. 106.20 (26.76% MAC)"
+Minimum Weight,"2005 lbs. at Sta. 101.0” (18.07% MAC) to 
+ 1998 lbs. at Sta. 102.42” (20.44% MAC) to 
+ 2035 lbs. at Sta. 106.0” (26.42% MAC) to 
+ 2229 lbs. at Sta. 109.2” (31.77% MAC) 
+ Straight line variation between points."
+No of Seats,"2 Occupants at (+ 99.0) 
+ 2 Occupants at (+ 136.0)"
+Maximum Baggage,200 lbs. at (+ 164.0)
+Fuel Capacity,"48 gal. usable (2 wing tanks) at 108.6 (Std.) 
+ 68 gal. usable (2 wing tanks) at 108.6 (Opt.) 
+ (See Note 1 for unusable fuel)."
+Oil Capacity,8 qts. at +45.5 (6 qts. usable) (See Note 1 for undrainable oil).
+Control Surface Movements,"Wing Flaps 
+ Up 0° ± 1° 
+ Down 35° ± 2° 
+ Aileron 
+ Up 20° to 27° 
+ Down 7° to 11° 
+ (Max up must be within 4° left to right) 
+ Rudder 
+ Left 22° ± 2° 
+ Right 28°* ± 2° 
+ Elevator 
+ Up 30° ± 2° 
+ Down 13° + 2° -1° 
+ Elevator 
+ Up 15° ± 2° 
+ Down 26° ± 1° 
+ *Front vertical stabilizer centerline"
+Nose Wheel Movement,"Steering ± 15° 
+ Castoring ± 30°"
+Serial Nos Eligible,13001 thru 13108
+"IV. 
+ Model 112B, 4 PCLM (Normal Category), Approved October 5, 1976, (Utility Category), Approved March 31, 1977",
+Engine,Lycoming IO-360-C1D6
+Fuel,100/130 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2700 rpm (200 hp)"
+Propeller and,"Hartzell Constant Speed, Model HC-E2YR-1BF/F8467-7R or"
+Propeller Limits,"HC-E2YK-1BF/F8467-7R 
+ Blade: Model F8467-7R 
+ Pitch: High 29° - 32°, Low 11.6° ± 0.1° at Blade Station 30” 
+ Diameter: Not over 77”, not under 76.5” 
+ Governor: Edo-Aire 34-828-014-2 
+ Spinner: Hartzell C-3533 or C-3533P or Aero Commander 46390-3 
+ Limitations: Do not exceed 24” Hg. manifold pressure below 2350 rpm"
+Airspeed Limits,"Never exceed 
+ 180 Kts (207 mph) CAS 
+ Max. structural cruising 
+ 143 Kts (165 mph) CAS 
+ *Maneuvering (Normal) 
+ 109 Kts (125 mph) CAS @ 2800 lbs. 
+ 92 Kts (106 mph) CAS @ 1998 lbs. 
+ *Maneuvering (Utility) 
+ 115 Kts (133 mph) CAS @ 2700 lbs. 
+ 99 Kts (114 mph) CAS @ 1998 lbs. 
+ Flaps extended 
+ Up to 20° 
+ 150 Kts (173 mph) CAS 
+ 20° to 25° 
+ 120 Kts (138 mph) CAS 
+ 25° to 35° 
+ 109 Kts (125 mph) CAS 
+ Max. gear extended 
+ 180 Kts (207 mph) CAS 
+ Max. gear operating 
+ 130 Kts (150 mph) CAS 
+ Max. side window open 
+ 130 Kts (150 mph) CAS 
+ * Assume straight line variation between points."
+CG Range,"Normal Category 
+ Forward: 
+ 104.90” aft of datum (24.58% MAC) at 2800 lbs. 
+ 102.20” aft of datum (20.07% MAC) at 2608 lbs. 
+ 101.00” aft of datum (18.07% MAC) at 2200 lbs. 
+ 101.00” aft of datum (18.07% MAC) at 2005 lbs. 
+ Aft: 
+ 109.20” aft of datum (31.77% MAC) at 2800 lbs. 
+ 109.20” aft of datum (31.77% MAC) at 2229 lbs. 
+ Straight line variation between points. 
+ Utility Category 
+ Forward: 
+ 103.28” aft of datum (21.87% MAC) at 2700 lbs. 
+ 102.20” aft of datum (20.07% MAC) at 2608 lbs. 
+ 101.00” aft of datum (18.07% MAC) at 2200 lbs. 
+ 101.00” aft of datum (18.07% MAC) at 2005 lbs. 
+ Aft: 
+ 106.0” aft of datum (26.42% MAC) at 2700 lbs. 
+ 106.0” aft of datum (26.42% MAC) at 2035 lbs. 
+ Straight line variations between points."
+Empty Weight CG Range,None
+Datum,62.5” forward of Firewall (front face)
+Leveling Means,"Bottom of fuselage, outer surface, from F.S. 62.5 to F.S. 97.6"
+Maximum Weight,"Normal - 2800 lbs. 
+ Utility – 2700 lbs."
+Max Zero Fuel Weight,"Normal Category 
+ 2620 lbs. Sta. 107.00 
+ (28.09% MAC) to Sta. 109.20 (31.77% MAC) 
+ 2200 lbs. Sta. 101.00 (18.07% MAC) varying 
+ Linearly to 2620 lbs. Sta. 107.00 (28.09% MAC)"
+IV,"Utility Category 
+ 2292 lbs. Sta. 102.33 
+ (20.29% MAC) to Sta. 106.00 (26.42% MAC) 
+ 2200 lbs. Sta. 101.00 (18.07% MAC) varying 
+ Linearly to 2292 lbs. Sta. 102.33 (20.29% MAC)"
+Minimum Weight,"2005 lbs. at Sta. 101.0” (18.07% MAC) to 
+ 1998 lbs. at Sta. 102.42” (20.44% MAC) to 
+ 2035 lbs. at Sta. 106.0” (26.42% MAC) to 
+ 2229 lbs. at Sta. 109.2” (31.77% MAC) – Normal Category Only 
+ Straight line variation between points."
+No of Seats,"2 Occupants at (+ 99.0) 
+ 2 Occupants at (+ 136.0) – Normal Category Only"
+Maximum Baggage,200 lbs. at (+ 164.0)
+Fuel Capacity,"48 gal. usable (2 wing tanks) at 108.6 (Std.) 
+ 68 gal. usable (2 wing tanks) at 108.6 (Opt.) 
+ (See Note 1 for unusable fuel)."
+Oil Capacity,8 qts. At +46.5 (6 qts. usable) (See Note 1 for undrainable oil).
+Control Surface Movements,"Wing Flaps 
+ Up 0° ± 1° 
+ Down 35° ± 2° 
+ Aileron 
+ Up 20° to 27° 
+ Down 7° to 11° 
+ (Max up must be within 4° left to right) 
+ Rudder 
+ Left 23° ± 1° 
+ Right 28°* ± 2° 
+ Elevator 
+ Up 30° ± 2° 
+ Down 13° + 2° -1° 
+ Elevator 
+ Up 15° ± 2° 
+ Down 26° ± 1° 
+ *Front vertical stabilizer centerline"
+Nose Wheel Movement,"Steering ± 15° 
+ Castoring ± 30°"
+Serial Nos Eligible,"13000, 500 thru 544 (See Note 7)"
+"V. 
+ Model 112TCA, 4 PCLM (Normal Category), Approved December 7, 1976, (Utility Category), 
+ Approved March 31 1977",
+Engine,Lycoming TO-360-C1A6D
+Fuel,100/130 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2575 rpm, 42” Hg. (210 hp) to 8,000 ft., 40” Hg. 8,001 ft., 38” Hg. 16,001 
+ ft. to 20,000 ft."
+Propeller and,"Hartzell Constant Speed, Model HC-E2YR-1BF/F8467-7R"
+Propeller Limits,"Blade: Model F8467-7R 
+ Pitch: High 29° - 32°, Low 15.0° ± 0.1° at Blade Station 30” 
+ Diameter: Not over 77”, not under 76.5” 
+ Governor: Edo-Aire 34-828-014-5 
+ Spinner: 46390-3 
+ Limitations: 
+ Continuous operation between 2250 and 2450 rpm with manifold pressure 
+ below 20” Hg. is prohibited. Continuous operation below 2350 rpm at manifold 
+ pressure above 34” Hg. is prohibited."
+Max Authorized Altitude,"20,000"
+Airspeed Limits,"Never exceed 
+ 180 Kts (207 mph) CAS 
+ Max. structural cruising 
+ 143 Kts (165 mph) CAS 
+ *Maneuvering (Normal) 
+ 111 Kts (128 mph) CAS @ 2950 lbs. 
+ 98 Kts (113 mph) CAS @ 2300 lbs. 
+ 91 Kts (105 mph) CAS @ 1998 lbs. 
+ *Maneuvering (Utility) 
+ 117 Kts (135 mph) CAS @ 2800 lbs. 
+ 115 Kts (133 mph) CAS @ 2708 lbs. 
+ 99 Kts (114 mph) CAS @ 1998 lbs. 
+ Flaps extended 
+ Up to 20° 
+ 150 Kts (173 mph) CAS 
+ 20° to 25° 
+ 120 Kts (138 mph) CAS 
+ 25° to 35° 
+ 109 Kts (125 mph) CAS 
+ Max. gear extended 
+ 180 Kts (207 mph) CAS 
+ Max. gear operating 
+ 130 Kts (150 mph) CAS 
+ Max. side window open 
+ 130 Kts (150 mph) CAS 
+ * Assume straight line variation between points."
+CG Range,"Normal Category 
+ Forward: 
+ 106.29” aft of datum (26.91% MAC) at 2962 lbs. 
+ 102.20” aft of datum (20.07% MAC) at 2608 lbs. 
+ 101.00” aft of datum (18.07% MAC) at 2200 lbs. 
+ 101.00” aft of datum (18.07% MAC) at 2005 lbs. 
+ Aft: 
+ 109.20” aft of datum (31.77% MAC) at 2962 lbs. 
+ 109.20” aft of datum (31.77% MAC) at 2229 lbs. 
+ Straight line variation between points. 
+ Utility Category 
+ Forward: 
+ 104.44” aft of datum (23.82% MAC) at 2800 lbs. 
+ 102.20” aft of datum (20.07% MAC) at 2608 lbs. 
+ 101.00” aft of datum (18.07% MAC) at 2200 lbs. 
+ 101.00” aft of datum (18.07% MAC) at 2005 lbs. 
+ Aft: 
+ 107.0” aft of datum (28.09% MAC) at 2800 lbs. 
+ 107.0” aft of datum (28.09% MAC) at 2096 lbs. 
+ Straight line variations between points."
+Empty Weight CG Range,None
+Datum,62.5” forward of firewall (front face)
+Leveling Means,"Bottom of fuselage, outer surface, from F.S. 62.5 to F.S. 97.6"
+Maximum Weight,"Normal 
+ Maximum Ramp – 2962 lbs. 
+ Maximum Takeoff – 2950 lbs. 
+ Utility 
+ Maximum Gross – 2800 lbs."
+Max Zero Fuel Weight,"Normal Category 
+ 2720 lbs. Sta. 106.20 
+ (26.76% MAC) to Sta. 109.20 (31.77% MAC) 
+ 2200 lbs. Sta. 101.00 (18.07% MAC) varying 
+ Linearly to 2331 lbs. Sta. 101.38 (18.70% MAC) 
+ Varying linearly to 2720 lbs. Sta. 106.20 (26.76% MAC) 
+ Utility Category 
+ 2500 lbs. Sta. 103.48 
+ (22.20% MAC) to Sta. 107.0 (28.09% MAC) 
+ 2200 lbs. Sta. 101.00 (18.07% MAC) varying 
+ Linearly to 2331 lbs. Sta. 101.38 (18.70% MAC) 
+ Varying linearly to 2500 lbs. Sta. 103.48 (22.20% MAC)"
+Minimum Weight,2005 lbs. at Sta. 101.0” (18.07% MAC) to
+Normal and Utility,"1998 lbs. at Sta. 102.42” (20.44% MAC) to 
+ 2035 lbs. at Sta. 106.0” (26.42% MAC) to 
+ 2229 lbs. at Sta. 109.2” (31.77% MAC) – Normal Category Only 
+ Straight line variation between points."
+No of Seats,"2 Occupants at (+ 99.0) 
+ 2 Occupants at (+ 136.0) – Normal Category Only"
+Maximum Baggage,200 lbs. at (+ 164.0)
+Fuel Capacity,"48 gal. usable (2 wing tanks) at 108.6 (Std.) 
+ 68 gal. usable (2 wing tanks) at 108.6 (Opt.) 
+ (See Note 1 for unusable fuel)."
+Oil Capacity,8 qts. at +45.5 (6 qts. usable) (See Note 1 for undrainable oil).
+Control Surface Movements,"Wing Flaps 
+ Up 0° ± 1° 
+ Down 35° ± 2° 
+ Aileron 
+ Up 20° to 27° 
+ Down 7° to 11° 
+ (Max up must be within 4° left to right) 
+ Rudder 
+ Left 23° ± 1° 
+ Right 28°* ± 2° 
+ Elevator 
+ Up 30° ± 2° 
+ Down 13° + 2° -1° 
+ Elevator 
+ Up 15° ± 2° 
+ Down 26° ± 1° 
+ *Front vertical stabilizer centerline"
+Nose Wheel Movement,"Steering ± 15° 
+ Castoring ± 30°"
+Serial Nos Eligible,13150 thru 13309 (See Note 7)
+"VI. 
+ Model 114A, 4 PCLM (Normal Category), Approved January 22, 1979",
+Engine,Lycoming IO-540-T4B5D
+Fuel,100/130 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2700 rpm, (260 hp)"
+Propeller and,"McCauley Constant Speed, Model B3D34C405/90DFA-13"
+Propeller Limits,"Blade: Model 90DFA-13 
+ Pitch: High 33.0° ± .5°, Low 11.5° ± .2° at Blade Station 30” 
+ Diameter: Not over 77”, reduction allowed to 76” 
+ Governor: Woodward 210903 
+ Spinner: 46390-501 
+ Limitations: None"
+Airspeed Limits,"Never exceed 
+ SL – 12,500 ft. 
+ 186 Kts (214 mph) CAS 
+ 16,000 ft. 
+ 175 Kts (201 mph) CAS 
+ 20,000 ft. 
+ 161 Kts (185 mph) CAS 
+ 24,000 ft. 
+ 147 Kts (169 mph) CAS 
+ Max. structural cruising 
+ SL – 12,500 ft. 
+ 148 Kts (170 mph) CAS 
+ 16,000 ft. 
+ 139 Kts (160 mph) CAS 
+ 20,000 ft. 
+ 128 Kts (147 mph) CAS 
+ 24,000 ft. 
+ 117 Kts (135 mph) CAS"
+VI,"*Maneuvering (Normal) 
+ 3250 lbs. 
+ 118 Kts (135 mph) CAS 
+ 2658 lbs. 
+ 109 Kts (125 mph) CAS 
+ 2023 lbs. 
+ 95 Kts (109 mph) CAS 
+ Straight line variation between points. 
+ Flaps extended 
+ Up to 20° 
+ 150 Kts (173 mph) CAS* 
+ 20° to 25° 
+ 120 Kts (138 mph) CAS 
+ 25° to 35° 
+ 109 Kts (125 mph) CAS 
+ Max. gear extended 
+ 186 Kts (214 mph) CAS* 
+ Max. gear operating 
+ 130 Kts (150 mph) CAS 
+ Max. side window open 
+ 130 Kts (150 mph) CAS 
+ * Do not Exceed Vne Schedule"
+CG Range,"Forward: 
+ 106.97” aft of datum (25.1% MAC) at 3260 lbs. 
+ 101.11” aft of datum (14.5% MAC) at 2658 lbs. 
+ 99.75” aft of datum (12.0% MAC) at 2250 lbs. 
+ 99.75” aft of datum (12.0% MAC) at 2096 lbs. 
+ Aft: 
+ 110.50” aft of datum (31.5% MAC) at 3260 lbs. 
+ 110.50” aft of datum (31.5% MAC) at 2575 lbs. 
+ Straight line variation between points."
+Empty Weight CG Range,None
+Datum,62.5” forward of Firewall (front face)
+Leveling Means,"Bottom of fuselage, outer surface, from F.S. 62.5 to F.S. 97.6"
+Maximum Weight,"Ramp – 3260 lbs. 
+ Takeoff – 3250 lbs. 
+ Landing – 3140 lbs."
+Max Zero Fuel Weight,"3000 lbs. at Sta. 106.83 (24.9% MAC) to Sta. 110.50 (31.5% MAC) 
+ 2450 lbs. at Sta. 100.48 (13.3% MAC) varying linearly to 3000 lbs. at Sta. 106.83 (24.9% 
+ MAC)"
+Minimum Weight,"2095 lbs. at Sta. 99.75” (12.00% MAC) to 
+ 2100 lbs. at Sta. 101.24” (14.70% MAC) to 
+ 2338 lbs. at Sta. 107.46” (26.00% MAC) to 
+ 2575 lbs. at Sta. 110.50” (31.52% MAC) 
+ Straight line variation between points."
+No of Seats,"2 Occupants at (+ 99.0) 
+ 2 Occupants at (+ 136.0)"
+Maximum Baggage,200 lbs. at (+ 164.0)
+Fuel Capacity,"68 gal. usable (2 wing tanks) at 108.6 
+ (See Note 1 for unusable fuel)"
+Oil Capacity,8 qts. at +43.0 (6 qts. usable) (See Note 1 for undrainable oil).
+Control Surface Movements,"Wing Flaps 
+ Up 0° ± 1° 
+ Down 35° + 0° - 2° 
+ Aileron 
+ Up 20° - 27° 
+ Down 7° - 11° 
+ (Max up must be within 4° left to right) 
+ *Rudder 
+ Left 22° ± 2° 
+ Right 28° ± 2° 
+ Elevator 
+ Up 30° ± 2° 
+ Down 13° + 2° -1° 
+ Elevator 
+ Up 15° ± 2° 
+ Down 26° ± 1° 
+ *Front vertical stabilizer centerline"
+Nose Wheel Movement,"Steering ± 15° 
+ Castoring ± 30°"
+Serial Nos Eligible,14500 thru 14540
+"VII. Model 114B, 4 PCLM (Normal Category), Approved May 4, 1992",
+Engine,Lycoming IO-540-T4B5
+Fuel,100/130 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2700 rpm, (260 hp)"
+Propeller and,"McCauley Constant Speed, Model B3D32C419/82NHA-5"
+Propeller Limits,"Blade: Model 82NHA-5 
+ Pitch: High 33.0° ± .5°, Low 12.6° ± .2° at Blade Station 30” 
+ Diameter: Not over 77”, reduction allowed to 75.5” 
+ Governor: Woodward 210903 or McCauley D-20309-37 
+ Spinner: 615220-501 
+ Limitations: None"
+Airspeed Limits,"Never exceed 
+ SL – 12,500 ft. 
+ 186 Kts (214 mph) CAS 
+ 16,000 ft. 
+ 175 Kts (201 mph) CAS 
+ 20,000 ft. 
+ 161 Kts (185 mph) CAS 
+ 24,000 ft. 
+ 147 Kts (169 mph) CAS 
+ Max. structural cruising 
+ SL – 12,500 ft. 
+ 148 Kts (170 mph) CAS 
+ 16,000 ft. 
+ 139 Kts (160 mph) CAS 
+ 20,000 ft. 
+ 128 Kts (147 mph) CAS 
+ 24,000 ft. 
+ 117 Kts (135 mph) CAS 
+ *Maneuvering (Normal) 
+ 3250 lbs. 
+ 118 Kts (135 mph) CAS 
+ 2658 lbs. 
+ 109 Kts (125 mph) CAS 
+ 2023 lbs. 
+ 95 Kts (109 mph) CAS 
+ Straight line variation between points. 
+ Flaps extended 
+ Up to 20° 
+ 150 Kts (173 mph) CAS* 
+ 20° to 25° 
+ 120 Kts (138 mph) CAS 
+ 25° to 35° 
+ 109 Kts (125 mph) CAS 
+ Max. gear extended 
+ 186 Kts (214 mph) CAS* 
+ Max. gear operating 
+ 130 Kts (150 mph) CAS 
+ Max. side window open 
+ 130 Kts (150 mph) CAS 
+ * Do not Exceed Vne Schedule"
+CG Range,"Forward: 
+ 106.97” aft of datum (25.1% MAC) at 3260 lbs. 
+ 104.05” aft of datum (19.8% MAC) at 3194 lbs. 
+ 101.11” aft of datum (14.5% MAC) at 2658 lbs. 
+ 99.75” aft of datum (12.0% MAC) at 2250 lbs. 
+ 99.75” aft of datum (12.0% MAC) at 2096 lbs. 
+ Aft: 
+ 110.50” aft of datum (31.5% MAC) at 3260 lbs. 
+ 110.50” aft of datum (31.5% MAC) at 2575 lbs. 
+ Straight line variation between points."
+Empty Weight CG Range,None
+Datum,62.5” forward of Firewall (front face)
+Leveling Means,"Bottom of fuselage, outer surface, from F.S. 62.5 to F.S. 97.6"
+Maximum Weight,"Ramp – 3260 lbs. 
+ Takeoff – 3250 lbs. 
+ Landing – 3140 lbs."
+Max Zero Fuel Weight,"3000 lbs. at Sta. 106.83 (24.9% MAC) to Sta. 110.50 (31.5% MAC) 
+ 2450 lbs. at Sta. 100.48 (13.3% MAC) varying linearly to 3000 lbs. at Sta. 106.83 (24.9% 
+ MAC)"
+Minimum Weight,"2095 lbs. at Sta. 99.75” (12.00% MAC) to 
+ 2100 lbs. at Sta. 101.24” (14.70% MAC) to 
+ 2338 lbs. at Sta. 107.46” (26.00% MAC) to 
+ 2575 lbs. at Sta. 110.50” (31.52% MAC) 
+ Straight line variation between points."
+No of Seats,"2 Occupants at (+ 99.0) 
+ 2 Occupants at (+ 136.0)"
+Maximum Baggage,200 lbs. at (+ 164.0)
+Fuel Capacity,"68 gal. usable (2 wing tanks) at 108.6 
+ (See Note 1 for unusable fuel)"
+Oil Capacity,8 qts. at +43.0 (6 qts. usable). (See Note 1 for undrainable oil).
+Control Surface Movements,"Wing Flaps 
+ Up 0° ± 1° 
+ Down 35° + 0° - 2° 
+ Aileron 
+ Up 20° - 27° 
+ Down 7° - 11° 
+ (Max up must be within 4° left to right) 
+ *Rudder 
+ Left 22° ± 2° 
+ Right 28° ± 2° 
+ Elevator 
+ Up 30° ± 2° 
+ Down 13° + 2° -1° 
+ Elevator tab 
+ Up 15° ± 2° 
+ Down 26° ± 1° 
+ *Front vertical stabilizer centerline"
+Nose Wheel Movement,"Steering ± 15° 
+ Castoring ± 30°"
+Serial Nos Eligible,14541 and Subsequent
+"VIII. Model 114TC, 4 PCLM (Normal Category), Approved August 4, 1995",
+Engine,Lycoming TIO-540-AGIA
+Fuel,100/100LL minimum grade aviation gasoline
+Engine Limits,"For all operations, 2575 rpm, (270 hp)"
+Propeller and,"McCauley Constant Speed, Model B3D32C419/G-82NHA-5"
+Propeller Limits,"Blade: Model G-82NHA-5 
+ Pitch: High 33.9° ± .5°, Low 14.8° ± .2° at Blade Station 30” 
+ Diameter: Not over 77”, reduction allowed to 75.5” 
+ Governor: McCauley D-20309-40 
+ Spinner: 615220-501 
+ Limitations: None"
+Maximum Authorized Altitude,"25,000 ft."
+Airspeed Limits,"Never exceed 
+ SL – 12,500 ft. 
+ 186 KCAS 
+ 15,000 ft. 
+ 176 KCAS 
+ 17,500 ft. 
+ 167 KCAS 
+ 20,000 ft. 
+ 158 KCAS 
+ 22,500 ft. 
+ 150 KCAS 
+ 25,000 ft. 
+ 141 KCAS 
+ Max. structural cruising 
+ SL – 12,500 ft. 
+ 162 KCAS 
+ 15,000 ft. 
+ 153 KCAS 
+ 17,500 ft. 
+ 145 KCAS 
+ 20,000 ft. 
+ 138 KCAS 
+ 22,500 ft. 
+ 130 KCAS 
+ 25,000 ft. 
+ 122 KCAS 
+ Maneuvering 
+ 3305 lbs. 
+ 118 KCAS 
+ 3000 lbs. 
+ 112 KCAS 
+ 2491 lbs. 
+ 102 KCAS 
+ Flaps extended 
+ Up to 20° 
+ 150 KCAS* 
+ 20° to 25° 
+ 120 KCAS 
+ 25° to 35° 
+ 109 KCAS 
+ Max. gear extended 
+ 186 KCAS* 
+ Max. gear operating 
+ 130 KCAS 
+ Max. side window open 
+ 130 KCAS 
+ * Do not Exceed Vne Schedule"
+CG Range,"Forward: 
+ 100.5” aft of datum (13.4% MAC) at 2491 lbs. 
+ 101.1” aft of datum (14.5% MAC) at 2658 lbs. 
+ 103.0” aft of datum (17.8% MAC) at 3000 lbs. 
+ 103.7” aft of datum (19.2% MAC) at 3140 lbs. 
+ 104.6” aft of datum (20.8% MAC) at 3305 lbs. 
+ Aft: 
+ 110.50” aft of datum (31.5% MAC) at 3305 lbs. 
+ 110.50” aft of datum (31.5% MAC) at 2491 lbs. 
+ Straight line variation between points."
+Empty Weight CG Range,None
+Datum,62.5” forward of firewall (front face)
+Leveling Means,"Bottom of fuselage, outer surface, from F.S. 62.5 to F.S. 97.6"
+Maximum Weight,"Takeoff – 3305 lbs. 
+ Landing – 3140 lbs."
+Max Zero Fuel Weight,3000 lbs.
+Minimum Weight,2491 lbs.
+No of Seats,"2 Occupants at (+ 99.0) 
+ 2 Occupants at (+ 136.0)"
+Maximum Baggage,200 lbs. at (+ 164.0)
+Fuel Capacity,"88 gal. usable (2 wing tanks) at 108.6 
+ (See Note 1 for unusable fuel)"
+Oil Capacity,10 qts. at +43.0 (5.5 qts. usable). (See Note 1 for undrainable oil).
+Control Surface Movements,"Wing Flaps 
+ Up 0° ± 1° 
+ Down 35° + 0° - 2° 
+ Aileron 
+ Up 20° - 27° 
+ Down 7° - 11° 
+ (Max up must be within 4° left to right) 
+ *Rudder 
+ Left 22° ± 2° 
+ Right 28° ± 2° 
+ Elevator 
+ Up 30° ± 2° 
+ Down 13° + 2° -1° 
+ Elevator 
+ Up 15° ± 2° 
+ Down 26° ± 1° 
+ *Front vertical stabilizer centerline"
+Nose Wheel Movement,"Steering ± 15° 
+ Castoring ± 30°"
+Serial Nos Eligible,20001 and Subsequent
+SPECIFICATIONS PERTINENT TO ALL MODELS,
+Certification Basis,"FAR 23, effective February 1, 1965, including Amendments 1 thru 7. 
+ FAR 36, effective February 3, 1975, Models 112B, 112TC, 112TCA, 114, 114A, 114B, and 
+ 114TC"
+Production Basis,"Production Certificate No. 506 (Model 112 S/N 1 thru 220) 
+ Production Certificate No. 203 (Model 112 S/N 221, and Subs, Models 112B, 112TC, 
+ 112TCA, 114, and 114A). 
+ Delegation option Manufacturer No. SW-2 was authorized to issue airworthiness certificates 
+ under Delegation Option provisions of Part 21 of the Federal Aviation Regulations through the 
+ Model 114A. 
+ Production Certificate No. PC7SW (Model 114B and 114TC S/N 14541 and subsequent)."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see 
+ Certification basis) must be installed in the aircraft for certification. This equipment must 
+ include a current Airplane Flight Manual. In addition, the following item is required: 
+ Lift Detector, Safe Flight P/N 164-1, or 186-5 when installed in accordance with 
+ Drawing 48212."
+Note 1,"Current weight and balance report, including list of equipment included in certificated empty 
+ weight, and loading instructions when necessary must be provided for each aircraft at the time 
+ of original certification. The certificated empty weight and corresponding center of gravity 
+ locations must include undrainable oil (not included in the oil capacity) and unusable fuel as 
+ noted below: 
+ Model 112 (S/N 3 thru 125) 
+ Fuel (3 Gal. per tank) 36 lbs at (+112.2) 
+ Oil 4 lbs at (+48.6) 
+ Model 112 (S/N 126 thru 489) 
+ Fuel (1 Gal. per tank) 12 lbs at (+112.2) 
+ Oil 4 lbs at (+48.6) 
+ Model 112B, 112TC, 112TCA, 114, 114A, & 114B 
+ Fuel (1 Gal. per tank) 12 lbs at (+112.2) 
+ Oil 4 lbs at (+48.6) 
+ Model 114TC 
+ Fuel (1 Gal. per tank) 12 lbs at (+112.2) 
+ Oil 4.5 lbs at (+48.6)"
+Note 2,"(1) The following placards must be displayed in front of and in clear view of the pilot. 
+ Models 112, 112B, 112TCA and 114, “This airplane must be operated as a Normal or 
+ Utility Category airplane in compliance with operating limitations stated in the Airplane 
+ Flight Manual.” 
+ Model 112TC, 114A, 114B and 114TC “This airplane must be operated as a Normal 
+ Category airplane in compliance with operating limitations stated in Airplane Flight 
+ Manual.” See Approved Airplane Flight Manual/Pilots Operating Handbook for 
+ additional placards. “All placards required in the Approved Airplane Flight Manual must 
+ be installed in the appropriate location.”"
+Note 3,"Service Life – all categories 
+ Model 112, the service life of the wing and associated structure has been established as 6945 
+ hours maximum. 
+ Model 112B, the service life of the wing and associated structure has been established as 8878 
+ hours maximum. 
+ Model 112TC, the service life of the wing and associated structure has been established as 
+ 10908 hours maximum. 
+ Model 112TCA, the service life of the wing and associated structure has been established as 
+ 7947 hours maximum. 
+ Model 114, the service life of the wing and associated structure has been established as 19284 
+ hours maximum. 
+ Model 114A and 114B, the service life of the wing and associated structure has been 
+ established as 14812 hours maximum. 
+ Model 114TC, the service life of the wing and associated structure has been established as 
+ 10349 hours maximum."
+Note 4,"Serial Numbers 3 thru 125 may be operated at a maximum takeoff weight of 2650 and a 
+ landing weight of 2550 when Rockwell International Service Letter SL-112-4 has been 
+ complied with."
+Note 5,"If Service Letter SL-112-4 has been complied with, wing flap travel is limited to down 
+ 35° ± 2°."
+Note 6,CANCELLED
+Note 7,"The following Models and Serial Numbers may be operated as Utility Category Aircraft when 
+ modified per Rockwell Custom Kit CK-112-6 or CK-114-1. 
+ Model 112 B S/N 500 thru 544 
+ Model 112 TCA S/N 13150 thru 13175 
+ Model 114 S/N 14000 thru 14254"
+Note 8,"The following list of reports and drawings define the approved equipment for the applicable 
+ model. 
+ Model 
+ Report No. 
+ 112 
+ EG80-246 
+ 112TC 
+ EG80-247 
+ 112B 
+ EG80-263 
+ 112TCA 
+ EG80-264 (S/N 13001 thru 13299) 
+ EG80-299 (S/N 13000 thru 13999) 
+ 114 
+ EG80-248 
+ 114A 
+ EG80-297 
+ 114B 
+ Drawing No. 845001 Avionics/Instrument/Equipment Installations 
+ Drawing No. 105001 Aircraft Complete 
+ 114TC 
+ Drawing No. 845001 Avionics/Instrument/Equipment Installations 
+ Drawing No. 105001 Aircraft Complete"

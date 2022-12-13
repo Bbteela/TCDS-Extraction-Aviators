@@ -1,0 +1,341 @@
+Keyterm,Info
+"A38CE 
+ Revision 14 
+ Textron Aviation 
+ 2000 
+ November 27, 2017",
+Type Certificate Holder,"Textron Aviation Inc. 
+ One Cessna Boulevard 
+ Wichita, Kansas 67215"
+Type Certificate Holder Record,"Beech Aircraft Corporation transferred to 
+ Raytheon Aircraft Company on April 15, 1996 
+ Raytheon Aircraft Company transferred to 
+ Hawker Beechcraft Company on March 26, 2007 
+ Hawker Beechcraft Corporation transferred to 
+ Beechcraft Corporation on April 12, 2013 
+ Beechcraft Corporation transferred to 
+ Textron Aviation Inc. on October 12, 2016"
+"I. 
+ Model 2000, Starship 1 (Commuter Category), approved June 14, 1988",
+Engine,"Two (2) United Aircraft of Canada, Ltd., or Pratt & Whitney of Canada PT6A-67A 
+ (turboprop) per P&WC Specification No. 950."
+Fuel,"JET A, JET A-1, and JET B conforming to P&WC S.B. 132044(2)(3) or ASTM 
+ Spec. D-1655; JP-4, JP-5 (MIL-T-5624); JP-8 (MIL-T-83133). See FAA Approved 
+ Airplane Flight Manual (AFM) for emergency fuels. 
+ Fuel not containing icing inhibitors must have MIL-I-27686 fuel system icing 
+ inhibitor added in amounts of not less than 0.06%, or more than 0.15% by volume. 
+ The FAA Approved AFM contains procedures for blending icing inhibitor to fuel."
+Oil Engine  Gearbox,UACL PT6 Engine Service Bulletin No. 14001 lists approved brand oils.
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5"
+Rev No,"14 
+ 8 
+ 8 
+ 9 
+ 10"
+Engine limits,"N1 Gas 
+ Prop 
+ Max. Permissible 
+ Shaft 
+ Generator 
+ Shaft 
+ Turbine Interstage 
+ HP 
+ Torque 
+ Speed 
+ Speed 
+ Temp. (Deg. C) 
+ Takeoff (5 min.) 
+ 1200 
+ *100% 
+ 104% 
+ 1700 
+ 850° 
+ Max. cont. (1) 
+ 1200 
+ *100% 
+ 104% 
+ 1700 
+ 840° 
+ Max. cont. (2) 
+ 1193 
+ *100% 
+ 104% 
+ 1690 
+ 840° 
+ Starting transient 
+ (5 sec.) 
+ 1000° 
+ *100% torque - 3707 ft.-lb. 
+ (1) NC-4 thru NC-20 
+ (2) NC-21 and on and NC-4 thru NC-20 with Beech Kit 122-3003 
+ At low altitude and low ambient temperature, the engines may produce more power at 
+ takeoff than that for which the airplane has been certified. Under these conditions the 
+ displayed torque limitations shall not be exceeded. The AFM provides minimum torque 
+ settings for T.O. It must be possible to achieve these settings without exceeding ITT or 
+ N1 limits. 
+ Oil temperature: 
+ -40° C minimum starting 
+ -40° C to 110°C idle 
+ 0° C to 110° C max. continuous"
+Propeller and propeller limits,"Two (2) McCauley 5JFR36C1003 hubs, each with five (5) McCauley D-L104DSZ-0 
+ blades 
+ Diameter: 104 in. (maximum, no reduction permitted 
+ Pitch settings at: 
+ LH 
+ RH 
+ Flight idle stop 
+ -----See NOTE 4------- 
+ Ground idle stop 
+ -----See NOTE 5------- 
+ Feathered 
+ 90.9° 
+ 91.7° 
+ Continuous ground idle between 700 and 1000 rpm is prohibited. 
+ Continuous flight operation between 1450 and 1580 rpm is prohibited."
+Airspeed limits IAS,"S/N NC-4 thru NC-28 
+ Max. operating speed, VMO 
+ 250 knots up to 10,000 ft. 
+ Linear variation between 10,000 ft. and 
+ 12,000 ft. to 270 knots 
+ 270 knots from 12,000 ft. to 21,000 ft. 
+ Max. operating Mach No., MMO 
+ .60 (above 21,000 ft.) 
+ S/N NC-29 and on and NC-4 thru NC-28 with Beech Kit 122-9002 
+ Max. operating speed, VMO 
+ 245 knots up to 10,000 ft. 
+ Linear variation between 10,000 ft. and 
+ 12,000 ft. to 265 knots 
+ 265 knots from 12,000 ft. to 21,900 ft. 
+ Max. operating Mach No., MMO 
+ .60 (above 21,900 ft.) 
+ S/N NC-4 and on 
+ Maneuvering speed, VA 
+ 175 knots (S/N NC-4) 
+ Maneuvering speed, VA 
+ 181 knots (S/N NC-5 and on and NC-4 with 
+ Beech Service Bulletin No. 2343) 
+ Gust penetration speed, VB 
+ 192 knots 
+ Max. flap extension speed 
+ (100% position, 14°), VF 
+ 180 knots 
+ Landing gear extended, VLE 
+ 200 knots 
+ Landing gear operating, VLO 
+ 200 knots extending 
+ Landing gear operating, VLO 
+ 180 knots retracting"
+CG Range landing gear,S/N NC-4
+extended,"FS 314.6 to FS 320.0 at 14,400 lb. 
+ FS 308.0 to FS 320.0 from 13,575 lb. and below 
+ S/N NC-5 thru NC-20 and NC-4 with Beech Service Bulletin No. 2343 
+ FS 309.4 to FS 320.0 at 14,400 lb. 
+ FS 307.0 to FS 320.0 from 13,450 lb. and below 
+ S/N NC-21 thru NC-28 and NC-4 thru NC-20 with Beech Kit 122-3003 
+ FS 309.7 to FS 320.0 at 14,500 lb. 
+ FS 307.0 to FS 320.0 from 13,450 lb. and below 
+ S/N NC-29 and on and NC-4 thru NC-28 with Beech Kit 122-9002 
+ FS 310.9 to FS 320.0 at 14,900 lb. 
+ FS 307.0 to FS 320.0 from 13,450 lb. and below 
+ Straight line variation between given points 
+ Moment change due to flap/forward wing sweep and retraction of landing 
+ gear = +2316 in-lb."
+Empty Weight C G Range,None
+Datum,"86.2 inches forward of the center of the front jack point located at aft end of the nose 
+ gear door opening."
+Leveling Means,"The aircraft is leveled with a plumb bob using leveling points located at FS 176.40. 
+ The upper point is in the top main cabin door frame just forward of the top latch 
+ pin hole. The lower leveling point is in the bottom cabin door frame."
+Maximum Weight,"(1) 
+ (2) 
+ (3) 
+ Ramp 
+ 14,510 lb. 
+ 14,610 lb. 
+ 15,010 lb. 
+ Takeoff 
+ 14,400 lb. 
+ 14,500 lb. 
+ 14,900 lb. 
+ Landing 
+ 13,680 lb. 
+ 13,680 lb. 
+ 13,680 lb. 
+ Zero fuel 
+ 12,200 lb. 
+ 12,200 lb. 
+ 12,600 lb. 
+ (1) NC-4 thru NC-20 
+ (2) NC-21 through NC-28 and NC-4 thru NC-20 with Beech Kit 122-3003 
+ (3) NC-29 and On and NC-4 thru NC-28 with Beech Kit 122-9002"
+Minimum Crew,"One pilot; or one pilot and one copilot 
+ See NOTE 6 
+ No. of Seats & Cargo Landing 
+ Maximum 11 including crew at FS 143. See loading instructions in AFM for 
+ approved seating and cargo configurations."
+Maximum baggage,"160 lbs. at FS 182 (forward) 
+ 250 lbs. at FS 340 (folded aft couch) 
+ 525 lbs. at FS 386 (aft)"
+Fuel Capacity,"Tank 
+ Cap. (gal.) 
+ Usable (gal.) 
+ Arm 
+ S/N NC-4 thru NC-28 
+ Left side 
+ 269.0 
+ 267.0 
+ +322.2 
+ Right side 
+ 269.0 
+ 267.0 
+ +322.2 
+ S/N NC-29 and on and NC-4 thru NC-28 with Beech Kit 122-9002 
+ Left side 
+ 284.5 
+ 282.5 
+ +321.0 
+ Right side 
+ 284.5 
+ 282.5 
+ +321.0"
+Oil Capacity,"32 qt. total (29 quart drainable) at FS 447.4 (includes 12 qt. usable in two integral 
+ engine tanks)"
+Maximum Operating Altitude,"41,000 ft."
+Control Surface Movements,"Trailing Edge Position 
+ Surface 
+ Up/Outboard 
+ Neutral 
+ Down/Inboard 
+ Elevon tabs 
+ 10 
+ 2 TEU 
+ 6 
+ Right elevon 
+ Roll deflections 
+ Pitch full aft 
+ 33 
+ 9 TEU 
+ 9 
+ Pitch neutral 
+ 19 
+ 2 TED 
+ 16 
+ Pitch full fwd 
+ 15 
+ 5 TED 
+ 17 
+ Left elevon 
+ Roll deflections 
+ Pitch full aft 
+ 37 
+ 13 TEU 
+ 5 
+ Pitch neutral 
+ 23 
+ 2 TEU 
+ 12 
+ Pitch full fwd 
+ 19 
+ 1 TED 
+ 13 
+ Elevator tabs***(1) 
+ 18 
+ 0 
+ 2 
+ Elevator tabs***(2) 
+ 20.5 
+ 2.5 TEU 
+ -0.5 
+ Elevator** 
+ 13 
+ 0 
+ 28 
+ Rudder tabs 
+ 18 
+ 0 
+ 18 
+ Rudder 
+ 34 
+ 0 
+ 34 
+ Wing flap maximum 
+ 14 
+ Forward wing position 
+ (Sweep angle related 
+ Flaps down -4 (fwd sweep) 
+ to flap position) 
+ Flaps up 30 (aft sweep) 
+ * Nominal Values - See Model 2000 Maintenance Manual for rigging 
+ instructions, deflections, and corresponding tolerances. 
+ ** Elevator TEU = A/C pitch down; TED = A/C pitch up 
+ *** Initial rigging only. Final rigging is by flight test in accordance with the 
+ Model 2000 Maintenance Manual. 
+ (1) NC-4 thru NC-28 
+ (2) NC-29 and on and NC-4 thru NC-28 with Beech Kit 122-9002."
+Serial Nos eligible,NC-4 and On
+Certification Basis,"FAR Part 23, effective February 1, 1965, as amended by Amendments 23-1 through 
+ 23-34; Special FAR No. 27, effective February 1, 1974, as amended by Amendments 27- 
+ 1 through 27-5; FAR Part 36 as amended by Amendments 36-1 through 36-15; Special 
+ Conditions No. 23-ACE-11 and Exemption No. 4827 from compliance with Section 
+ 23.807(d)(1)(i), Exemption No. 5094 from compliance with Section 23.207(c) and 
+ Exemption 5411 from Sections 23.473(c) and 23.1001. Compliance with ice protection 
+ has been demonstrated in accordance with FAR 23.1419. 
+ Equivalent Safety Items 
+ (1) Landing Gear Warning 
+ FAR 23.729(f)(2) 
+ (2) RPM Control Knob 
+ FAR 23.781(b) 
+ (3) Fuel Pressure Gauge 
+ FAR 23.1305(g) 
+ (4) Powerplant Instrument 
+ Markings 
+ Torque/ITT 
+ FAR 23.1549(b) and (c) 
+ Application for Type Certificate dated February 2, 1987. Type Certificate No. A38CE 
+ issued June 14, 1988, obtained by manufacturer under Delegation Option Procedures."
+Production Basis,"S/N NC-5, NC-11 and On, Production Certificate No. 8 
+ S/N NC-4 and NC-6 through NC-10, prior to original certification of each aircraft, an 
+ FAA representative performed a detailed inspection for workmanship, materials, and 
+ conformity with the approved technical data, and a check of the flight characteristics. 
+ Delegation Option Manufacturer No. CE-2 authorized to issue airworthiness certificate 
+ under delegation provisions of Part 21 of the Federal Aviation Regulations."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. 
+ In addition, the following items of equipment are required. 
+ 1. 
+ Crew member oxygen mask, Beech P/N 101-384220-5, or EROS, 
+ P/N MC-10-15-10, or Beech P/N 101-384220-7, or SCOTT-EROS 
+ P/N MC-10-15-12, or Beech P/N 101-384220-9, or SCOTT-EROS 
+ P/N MC-10-15-18."
+Data Pertinent to All Models,
+NOTE 1,"Current weight and balance data, loading information, and a list of equipment included in empty weight must 
+ be provided for each airplane at the time of original certification. 
+ (a) Basic empty weight includes unusable fuel of 38.0 lbs. at (326.0 in.) with 10.5 lbs. being undrainable. 
+ (b) Basic empty weight includes engine oil of 58.5 lbs. at (447.4 in.)."
+NOTE 2,"All placards required in the FAA Approved Airplane Flight Manual (AFM) must be installed in the 
+ appropriate location. The following AFM’s are applicable: 
+ Beech Part Number 
+ 122-590013-3G (S/N NC-4 thru NC-20 only) 
+ Beech Part Number 
+ 122-590013-23 (S/N NC-21 thru NC-28; NC-4 thru NC-20 with Beech Kit 
+ 122-3003) 
+ Beech Part Number 
+ 122-590013-37 (S/N NC-29 and on; NC-4 thru NC-28 with Beech Kit 122-9002)"
+NOTE 3,"Mandatory retirement times and inspection times are contained in the Limitations Section, Chapter 4, of the 
+ FAA Approved Model 2000 Maintenance Manual. These limitations may not be changed without FAA 
+ Approval."
+NOTE 4,"The flight idle stop is set to absorb 17.5% torque at 1500 propeller rpm, sea level std. day."
+NOTE 5,"The ground idle stop is set to absorb 9.5% torque at 1500 propeller rpm, sea level std. day."
+NOTE 6,"Airplane S/N’s NC-4 through NC-22 must be modified by Beechcraft Kit P/N 122-3001 prior to operations 
+ with one pilot. Except where otherwise prescribed by the appropriate operating regulations: 
+ (a) One pilot with a BE2000S type rating. Pilot must adhere to single pilot equipment requirements 
+ contained in the AFM Kinds of Operations Equipment List; or 
+ (b) One pilot and one co-pilot. Pilot must have a BE-2000 or BE-2000S type rating."
+NOTE 7,"Single Pilot Operation under 14 CFR Part 135 is permitted for the Model 2000. The Kansas City Airplane 
+ Evaluation Group evaluated the Model 2000 and determined that it complies with 14 CFR Part 135.163(e). 
+ See FAA Policy memorandum dated February 17, 2000. ""INFORMATION: Alternate Static Source, SFS-1 
+ Memo of 12/13/99."""

@@ -1,0 +1,1227 @@
+Keyterm,Info
+"H1NE 
+ Revision No 48 
+ Sikorsky 
+ Models S-76A 
+ S-76B 
+ S-76C 
+ S-76D 
+ January 29, 2021",
+TYPE CERTIFICATE TC HOLDER,"Sikorsky Aircraft Corporation 
+ 6900 Main Street 
+ Stratford, CT 06497-9129"
+I MODEL NUMBER,"S-76A (Transport Helicopter, Category B), Approved November 21, 1978 
+ (Transport Helicopter, Category A), Approved January 9, 1979"
+ENGINES,"2 Allison Engine Company Model 250-C30, or 2 Model 250-C30S, 
+ or 1 each Model 250-C30 and Model 250-C30S. (See Note 11.)"
+FUEL,"PRIMARY: JP-4/JP-5**/JP-8/Jet A**/Jet A1**/Jet B/GB6537-94(RP-3)** 
+ ALTERNATE: 
+ **AVGAS/Jet A, A1, or JP5 mixture. 
+ Do not use above 4oC (40oF). (See Note 5.) 
+ ** For operations below 4oC (40oF), anti-ice additive 
+ required. (See Note 6.)"
+ENGINE LIMITS,"SEA LEVEL STATIC / STANDARD DAY 
+ TORQUE 
+ GAS GENERATOR 
+ POWER TURBINE 
+ LIMITS 
+ SPEED LIMITS (N1) 
+ INLET(T5)"
+Takeoff 5 minutes,"104.6% 
+ 53,550 (105.0%) 
+ 768 Deg C 
+ 104.6% 
+ 53,550 (105.0%) 
+ 768 Deg C"
+OEI 30 minutes,"104.6% 
+ 53,550 (105.0%) 
+ 798 Deg C"
+OEI 212 minutes,"111.2% 
+ 53,550 (105.0%) 
+ 826 Deg C"
+16 second transient OEI,"111.2% to 155.0% 
+ - - - 
+ - - -"
+10 second Transient Starting,"- - - 
+ 53,550 (105.0%) to 54,060 (106%) 
+ 826 to 927 Deg C"
+Normal Range,"95% to 107% 
+ Varies linearly from 114% at flight autorotation to 107.1% at 2½-minute 
+ power."
+Maximum 15second,"Varies linearly from 119% at flight autorotation to 109% at 2½-minute 
+ power."
+2,"3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23"
+20,"23 
+ 20 
+ 20 
+ 24 
+ 21 
+ 21 
+ 21 
+ 48 
+ 48 
+ 44 
+ 44 
+ 44 
+ 44 
+ 47 
+ 48 
+ 45 
+ 41 
+ 43 
+ 40 
+ 48 
+ 48"
+Engine torque,"100% = 564 foot-pounds 
+ See Flight Manual for T5 (power turbine inlet temperature) limits and power 
+ turbine (N2) speed limits."
+ROTOR LIMITS,"POWER OFF 
+ Maximum 115% Nr (336 r.p.m.) 
+ Minimum 87% Nr (255 r.p.m.) 
+ POWER ON 
+ Maximum 107% Nr (313 r.p.m.) 
+ Minimum 100% Nr (dual engine operation) 
+ Minimum 96% Nr (one engine inoperative) (OEI)"
+VNE never exceed Power On,"155 knots (CAS), 155 knots (IAS). See Flight Manual for variations of VNE 
+ with gross weight and density altitude."
+VLEVLO gear extended gear operating,"130 knots (CAS), 130 knots (IAS)."
+VNE Power Off,"135 knots (CAS), 141 knots (IAS). 
+ Below 80 lbs. fuel remaining per tank, reduce airspeed to 120 knots (CAS), 
+ 126 knots (IAS) or less."
+Weight lbs,"198.3 
+ 204.3 
+ 10,500 
+ 10,300 
+ 197.8 
+ 205.0 
+ SEE NOTE 10 
+ 8,750 
+ 8,750 
+ 8,500 
+ 6,900 
+ 6,900 
+ 6,500 
+ Minimum allowable weight (6,100 lbs.) 
+ 6,100 
+ 193 
+ 198 
+ 202 
+ 205 
+ 210 
+ Station - Inches 
+ For effect of landing gear position, refer to loading section of flight manual."
+LATERAL CG LIMITS,+ 3.5 inches maximum
+EMPTY WEIGHT CG RANGE,None
+DATUM,200 inches forward of main rotor centroid
+LEVELING MEANS,"Leveling plate at STA 176, BL 35, L.H. and plumb line from upper frame of 
+ the aft doorway"
+MAXIMUM WEIGHT,"10,500 lbs"
+MINIMUM CREW,"2 (IFR) 
+ 1 (IFR) when appropriately equipped and operating to approved flight manual 
+ or flight manual supplement. (See Note 15.) 
+ 1 (VFR)"
+NUMBER OF SEATS,"2 cockpit 
+ 13 cabin maximum"
+MAXIMUM BAGGAGE,600 lbs.
+FUEL CAPACITY,286.4 gals. (281.2 usable) at (216.7) (See Note 1.)
+OIL CAPACITY,1.27 gals. per engine at (231.0)
+Enroute,"15,000 feet"
+Takeoff and landing,"6,900 feet 
+ or 11,000 feet (for helicopters incorporating Sikorsky Kit P/N 76070-30005)"
+AMBIENT TEMPERATURE LIMITS,-34.4oC (-30oF) to ISA +36.7oC; not to exceed 48.9oC (120oF)
+MANUFACTURERS SERIAL NUMBERS,"76006, 76007, 760001 thru 760122, 760130 thru 760261, 760263 thru 760268, 
+ 760270 thru 760298, 760300 thru 760302, 760304, 760364, 760366, 760369 
+ thru 760371, 760373, 760374 are eligible."
+II MODEL NUMBER,"S-76B (Transport Helicopter, Category B), Approved October 31, 1985 
+ (Transport Helicopter, Category A), Approved February 3, 1987"
+ENGINES,"2 Pratt & Whitney Canada (PWC) Model PT6B-36 (Category B only, reference 
+ S-76B Flight Manual, Supplement No. 2) or 2 PWC Model PT6B-36A or 2 
+ PWC Model PT6B-36B (reference S-76B Flight Manual, Supplement No. 11)"
+FUEL,"JP-4***/ JP-5**/JP-8/Jet A*/Jet A1*/GB6537-94(RP-3)* 
+ Fuels with anti-ice additive can be used without temperature limitation. 
+ *Fuels without anti-ice additive shall be mixed with appropriate additive below 
+ +4oC (40oF ). (See Note 6.) 
+ ** Not to be used below -26oC (-15oF). 
+ *** JP4 not to be used above 10,000 feet pressure altitude."
+OIL,"PWA 521, Type I or II 
+ Low temperature limits for starting: 
+ Type I oil usable to -54oC (-65oF) 
+ Type II oil usable to -40oC (-40oF) 
+ For approved oil brands, see PWC Service Bulletin No. 11001"
+ENGINE AND TRANSMISSION LIMITS,"SEA LEVEL STATIC / STANDARD DAY 
+ ENGINE 
+ TRANSMISSION 
+ TORQUE 
+ TORQUE 
+ GAS GENERATOR 
+ POWER TURBINE 
+ LIMITS 
+ LIMITS 
+ SPEED LIMITS(N1) 
+ INLET (T5) 
+ FOR MODEL PWC PT6B-36"
+Takeoff 5 minutes,"133.0 % 
+ 100.0 % 
+ 100.0 % 
+ 816 deg C 
+ 120.0 % 
+ 100.0 % 
+ 100.0 % 
+ 776 deg C"
+OEI 212 minutes,"141.0 % * 
+ 136.0 % 
+ 101.6 % 
+ 850 deg C"
+OEI 30 minutes,"133.0 % 
+ 128.0 % 
+ 100.0 % 
+ 816 deg C"
+15 second Transient,"- - - 
+ - - - 
+ - - - 
+ 870 deg C"
+10 second Transient,"152.0 % * 
+ 105.0 % 
+ 101.8 % 
+ - - -"
+5 second Transient OEI,"- - - 
+ 150.0 % * 
+ - - - 
+ - - -"
+5 second Transient Starting,"- - - 
+ - - - 
+ - - - 
+ 940 deg C"
+2 second TransientStarting,"- - - 
+ - - - 
+ - - - 
+ 1090 deg C 
+ * EEC will limit available single-engine torque to 136 % 
+ FOR MODEL PWC PT6B-36A"
+Takeoff 5 minutes,"133.0 % 
+ 100.0 % ** 
+ 100.0 % 
+ 816 deg C 
+ 120.0 % 
+ 100.0 % ** 
+ 100.0 % 
+ 776 deg C"
+OEI 212 minutes,"- - - 
+ 136.0 % * 
+ - - - 
+ - - -"
+OEI 30 minutes,"141.0 % * 
+ 128.0 % 
+ 101.6 % 
+ 844 deg C"
+10 second Transient,"152.0 % * 
+ 115.0 % ** 
+ 101.8 % 
+ 870 deg C"
+5 second Transient OEI,"- - - 
+ 150.0 % * 
+ - - - 
+ - - -"
+5 second Transient Starting,"- - - 
+ - - - 
+ - - - 
+ 940 deg C"
+2 second Transient Starting,"- - - 
+ - - - 
+ - - - 
+ 1090 deg C 
+ * EEC will limit available single-engine torque to 136 % 
+ ** EEC will limit available dual-engine torque to total of 202 % 
+ FOR MODEL PWC PT6B-36B"
+Takeoff 5 minutes,"133.0 % 
+ 100.0 %** 
+ 102.6 % 
+ 816 deg C 
+ 120.0 % 
+ 100.0 %** 
+ 102.6 % 
+ 776 deg C"
+OEI 212 minutes,"- - - 
+ 136.0 %* 
+ - - - 
+ - - -"
+OEI 30 minutes,"141.0 %* 
+ 128.0 % 
+ 104.2 % 
+ 844 deg C"
+10 second Transient,"152.0 %* 
+ 115.0 %** 
+ 104.7 % 
+ - - -"
+10 second Transient,"- - - 
+ - - - 
+ - - - 
+ 870 deg C"
+5 second Transient OEI,"- - - 
+ 150.0 %* 
+ - - - 
+ - - -"
+5 second Transient Starting,"- - - 
+ - - - 
+ - - - 
+ 940 deg C"
+2 second TransientStarting,"- - - 
+ - - - 
+ - - - 
+ 1090 deg C 
+ * EEC will limit available single-engine torque to 136 % 
+ ** EEC will limit available dual-engine torque to total of 202 %"
+ROTOR LIMITS,"POWER OFF 
+ Maximum 115% Nr (336 r.p.m.) 
+ Minimum 91% Nr (266 r.p.m.) 
+ POWER ON 
+ Maximum 108% Nr (316 r.p.m.) except with torque below 26%, then 110% Nr 
+ Minimum 106% Nr (dual engine operation) 
+ Minimum 100% Nr (one engine inoperative) (OEI)"
+VNE never exceed Power On,"155 knots (IAS). See Flight Manual for variations of VNE with 
+ temperature and pressure altitude. 
+ With PT6B-36A, or PT6B-36B, VNE above 10,000 feet density altitude at 
+ actual gross weights greater than 11,000 pounds is BROC (best-rate-of- 
+ climb) airspeed."
+VLEVLO gear extendedgear operating,130 knots (IAS)
+VNE Power Off,"136 knots (IAS) 
+ Below 80 lbs. fuel remaining per tank, avoid sustained pitch down attitudes 
+ in excess of 5o nose low."
+CENTER OF GRAVITY CG RANGE,PWC Model PT6B-36A and PT6B-36B Engines
+GROSS,"199.2 
+ 204.3"
+WEIGHT lbs,205
+11700,"11,700"
+11400,"11,400 
+ 197"
+11000,"11,000 
+ 198.4 
+ PWC Model PT6B-36 Engines 
+ 210 
+ 9,500 
+ 9,250 
+ 9,250 
+ 8,500 
+ 7,500 
+ 7,500 
+ 7,350 
+ 7,350 
+ 199 
+ (minimum allowable weight) 
+ 194 
+ 197 
+ 198.4 
+ 204.3 
+ 205 
+ 208.2 
+ 210 
+ 199.2 
+ STATION - INCHES 
+ For effect of landing gear position, refer to loading section of flight manual."
+LATERAL CG LIMITS,"Up to 11,400 lbs: 
+ +3.5 inches maximum 
+ Above 11,400 lbs: +2.5 inches maximum"
+EMPTY WEIGHT CG RANGE,None
+DATUM,200 inches forward of main rotor centroid
+LEVELING MEANS,"Leveling plate at STA 176, BL 35, L.H. and plumb line from upper frame of 
+ the aft doorway"
+MAXIMUM WEIGHT,"With PWC PT6B-36 engines: 11,400 pounds 
+ With PWC PT6B-36A engines: 11,700 pounds 
+ With PWC PT6B-36B engines: 11,700 pounds"
+MINIMUM CREW,"2 (IFR) 
+ 1 (IFR) when appropriately equipped and operating to approved flight manual 
+ or flight manual supplement (See Note 15.) 
+ 1 (VFR)"
+NUMBER OF SEATS,"2 cockpit 
+ 13 cabin maximum"
+MAXIMUM BAGGAGE,600 lbs.
+FUEL CAPACITY,286.4 gals. (281.2 usable) at (216.7) (See Note 1.)
+OIL CAPACITY,2.0 gals. per engine
+MAXIMUM OPERATING DENSITY ALTITUDE,"PT6B-36 
+ PT6B-36A 
+ PT6B-36B"
+Enroute,"10,000 feet 
+ 15,000 feet 
+ 15,000 feet"
+Takeoff and Landing Cat B,"10,000 feet 
+ 15,000 feet 
+ 15,000 feet 
+ Cat. A: 
+ - - - 
+ 5,000 feet 
+ 5,000 feet"
+AMBIENT TEMPERATURE LIMITS,"-34.4oC (-30oF) to ISA +38oC not to exceed 49oC (120oF) 
+ with bleed air Environmental Control Unit (ECU) off or not installed. 
+ -34.4oC (-30oF) to ISA +35oC not to exceed 43oC (109oF) 
+ with bleed air ECU on."
+MANUFACTURERS SERIAL NUMBERS,"76005, 760262, 760299, 760303, 760310 thru 760363, 760365, 760367, 760368, 
+ 760372, 760379 thru 760382, 760387, 760391, 760393, 760395, 760399, 
+ 760403, 760404, 760409, 760410, 760413, 760414, 760416, 760425, 760427 
+ through 760430, 760433, 760437, 760439, 760441 through 760445, 760447 
+ through 760452, 760454, 760455, 760458, 760462, 760465, 760507, 762976 are 
+ eligible."
+III MODEL NUMBER,"S-76C (Transport Helicopter, Category B), Approved March 15, 1991 
+ (Transport Helicopter, Category A), Approved April 12, 1991"
+ENGINES,"2 Turbomeca Arriel 1S1 
+ or 
+ 2 Turbomeca Arriel 2S1 
+ or 
+ 2 Turbomeca Arriel 2S2 (See Note 16.)"
+FUEL,"JP-4***/JP-5**/JP-8/Jet A*/Jet A1*/Jet B*/GB6537-94(RP-3)* 
+ Fuels with anti-ice additive can be used without temperature limitation. 
+ * Fuels without anti-ice additive shall be mixed with appropriate additive 
+ below +4oC (40oF). (See Note 6.) 
+ ** Not to be used below -26oC (-15oF). 
+ *** Applicable to Arriel 1S1 only"
+OIL,"5 cst synthetic oil for normal use 
+ For approved types and brands, refer to S-76C Flight Manual, 
+ Sikorsky P/N SA 4047-76C-1 (W/Arriel 1S1 engine configuration) or S-76C 
+ Flight Manual, Sikorsky P/N SA 4047-76C-10 and SA 4047-76C-14 (W/Arriel 
+ 2S1 engine configuration), or SA 4047-76C-15 (W/Arriel 2S2 engine 
+ configuration)."
+ENGINE AND TRANSMISSION LIMITS,"Arriel 1S1 Configuration 
+ SEA LEVEL STATIC / STANDARD DAY 
+ ENGINE 
+ TRANSMISSION 
+ TORQUE 
+ TORQUE 
+ GAS GENERATOR 
+ POWER TURBINE 
+ LIMITS 
+ LIMITS 
+ SPEED LIMITS(N1) 
+ INLET (T5)"
+Takeoff,"104.0 % 
+ 100.0 % 
+ 100.0 % 
+ 845 deg C 
+ 104.0 % 
+ 100.0 % 
+ 100.0 % 
+ 845 deg C"
+OEI212 minutes,"127.0 % 
+ 136.0 % 
+ 102.7 %** 
+ 885 deg C 
+ 110.0 % 
+ 128.0 % 
+ 102.2 %* 
+ 868 deg C"
+20 second Transient OEI,"148.0 % 
+ - - - 
+ 105.35 %*** 
+ 920 deg C"
+20 second Transient,"- - - 
+ - - - 
+ 105.35 %*** 
+ - - -"
+10 second Transient,"- - - 
+ 115.0 % 
+ - - - 
+ - - -"
+5 second Transient OEI,"- - - 
+ 150.0 % 
+ - - - 
+ - - -"
+5 second TransientStarting,"- - - 
+ - - - 
+ - - - 
+ 865 deg C 
+ * Cockpit gauge biased to read 101.2 % 
+ ** Cockpit gauge biased to read 101.7 % 
+ *** Cockpit gauge biased to read 104.35 % 
+ Arriel 2S1 Configuration 
+ SEA LEVEL STATIC / STANDARD DAY 
+ ENGINE 
+ TRANSMISSION 
+ TORQUE 
+ TORQUE 
+ GAS GENERATOR 
+ POWER TURBINE 
+ LIMITS 
+ LIMITS 
+ SPEED LIMITS(N1) 
+ INLET (T5)"
+Takeoff 5 minutes,"103.7 % 
+ 100.0 % 
+ 101.2 %* 
+ 912 deg C"
+30 minute see Note 13,"103.7 % 
+ 100.0 % 
+ 101.2 %* 
+ 912 degC 
+ 103.7 % 
+ 100.0 % 
+ 99.0 %** 
+ 877 deg C"
+OEI 30 second,"134.6 % 
+ 136.0 % 
+ 105.8 %**** 
+ 1000 deg C"
+OEI 2 minutes,"126.7 % 
+ 136.0 % 
+ 102.4 %*** 
+ 941 deg C 
+ 116.7 % 
+ 128.0 % 
+ 101.2 %* 
+ 912 deg C"
+20 second Transient,"160.4 % 
+ - - - 
+ 102.3 %*** 
+ - - -"
+10 second Transient,"- - - 
+ 115.0 % 
+ - - - 
+ - - -"
+10 second Transient starting,"- - - 
+ - - - 
+ - - - 
+ 865 deg C"
+5 second TransientOEI,"- - - 
+ 150.0 % 
+ - - - 
+ - - - 
+ * Cockpit gauge biased to read 100.0 % 
+ ** Cockpit gauge biased to read 97.8 % 
+ *** Cockpit gauge biased to read 101.2 % 
+ **** Cockpit gauge biased to read 104.6 % 
+ Arriel 2S2 Configuration 
+ SEA LEVEL STATIC / STANDARD DAY 
+ ENGINE 
+ TRANSMISSION 
+ TORQUE 
+ TORQUE 
+ GAS GENERATOR 
+ POWER TURBINE 
+ LIMITS 
+ LIMITS 
+ SPEED LIMITS(N1) 
+ INLET (T5)"
+Takeoff 5 minutes,"103.7 % 
+ 100 % 
+ 101.88 %* 
+ 930 deg C"
+30 minute see Note 13,"103.7 % 
+ 100 % 
+ 101.88 %* 
+ 930 deg C 
+ 103.7 % 
+ 100 % 
+ 99. 71 %** 
+ 893 deg C"
+OEI 30 second,"134.9 % 
+ 136 % 
+ 105.89 %*** 
+ 996 deg C"
+OEI 2 minutes,"127.0 % 
+ 136 % 
+ 102.38 %**** 
+ 944 deg C 
+ 115.0 % 
+ 128 % 
+ 101.28 %***** 
+ 926 deg C"
+20 second Transient,"160.4 % 
+ - - - 
+ 102.98 %****** 
+ - - -"
+10 second Transient,"- - - 
+ 115.0 % 
+ - - - 
+ - - -"
+10 second Transient starting,"- - - 
+ - - - 
+ - - - 
+ 840 deg C"
+5 second TransientOEI,"- - - 
+ 150.0 % 
+ - - - 
+ - - - 
+ * Cockpit gauge biased to read 100.0 % 
+ ** Cockpit gauge biased to read 97.8 % 
+ *** Cockpit gauge biased to read 103.9 % 
+ **** Cockpit gauge biased to read 100.5 % 
+ ***** Cockpit gauge biased to read 99.4 % 
+ ****** Cockpit gauage biased to read 101.1%"
+Engine Torque,100% = 657.6 foot-pounds
+ROTOR LIMITS,"POWER OFF 
+ Maximum 115% Nr (336 r.p.m.) 
+ Minimum 91% Nr (266 r.p.m.) 
+ POWER ON 
+ Maximum 108% Nr (316 r.p.m.) except 109% for less than 20 seconds (w/2S1 engine only) 
+ Maximum 108% Nr (316 r.p.m.) except with torque below 26%, then 110% Nr (w/1S1 engine only) 
+ Minimum 106% Nr (dual engine operation) 
+ Minimum 100% Nr (one engine inoperative) (OEI)"
+VNE never exceed Power On,"155 knots (IAS). See Flight Manual for variations of VNE with 
+ temperature and pressure altitude."
+VLEVLOgear extendedgear operating,130 knots (IAS)
+VNE Power Off,"136 knots (IAS) 
+ Below 80 lbs. fuel remaining per tank, avoid sustained pitch down attitudes in 
+ excess of 5o nose low."
+Gross,"199.2 
+ 204.3"
+11700,"11,700 
+ 197"
+11000,"11,000 
+ 210 
+ 9,500 
+ 9,250 
+ 9,250 
+ 8,500 
+ 7,500 
+ 7,500 
+ 7,350 
+ 7,350 
+ 199 
+ (minimum allowable weight) 
+ 194 
+ 197 
+ 204.3 
+ 208.2 
+ 210 
+ 199.2 
+ STATION - INCHES 
+ For effect of landing gear position, refer to loading section of flight manual."
+LATERAL CG LIMITS,"Up to 11,400 lbs: 
+ +3.5 inches maximum 
+ Above 11,400 lbs: 
+ +2.5 inches maximum 
+ Below 10,800 lbs (w/hoist load, 
+ hover only): 
+ +4.5 inches maximum"
+EMPTY WEIGHT CG RANGE,None
+DATUM,200 inches forward of main rotor centroid
+LEVELING MEANS,"Leveling plate at STA 176, BL 35, L.H. and plumbline from upper frame of the 
+ aft doorway"
+MAXIMUM WEIGHT,"11,700 lbs."
+MINIMUM CREW,"2 (IFR) 
+ 1 (IFR) when appropriately equipped and operating to approved flight manual 
+ or flight manual supplement (See Note 15.) 
+ 1 (VFR)"
+NUMBER OF SEATS,"2 cockpit 
+ 13 cabin maximum"
+MAXIMUM BAGGAGE,600 lbs.
+FUEL CAPACITY,286.4 gals. (281.2 usable) at (216.7) (see Note 1)
+OIL CAPACITY,1.27 gals. per engine
+MAXIMUM OPERATING DENSITY ALTITUDE,With 1S1 Engine Configuration
+Enroute,"15,000 feet"
+Takeoff and landing,"Cat. B: 
+ 11,000 feet 
+ Cat. A: 
+ 5,000 feet 
+ With 2S1 or 2S2 Engine Configuration"
+Enroute,"15,000 feet"
+Takeoff and landing,"Cat. B: 
+ 15,000 feet 
+ Cat. A: 
+ 5,000 feet"
+AMBIENT TEMPERATURE LIMITS,-34.4oC (-30oF) to ISA +37oC; not to exceed 49oC (120oF)
+MANUFACTURERS SERIAL NUMBERS,"Sikorsky Aircraft Corporation under Production Certificate Number 105: 
+ 760269, 760375 through 760378, 760383 through 760386, 760388 through 
+ 760390, 760392, 760394, 760396 through 760398, 760400 through 760402, 
+ 760405 through 760408, 760411, 760412, 760415, 760417 through 760424, 
+ 760426, 760431, 760432, 760434 through 760436, 760438, 760440, 760446, 
+ 760453, 760456, 760457, 760459 through 760461, 760463, 760464, 760466 
+ through 760506, 760508 through 760634, 760636, 760637, 760639, 760641, 
+ 760643, 760645, 760647 through 760652, 760654 through 760657, 760659 
+ through 760685, 760687 through 760689, 760691 through 760693, 760695 
+ through 760700, 760702, 760703, 760705 through 760707, 760709, 760710, 
+ 760712, 760713, 760715, 760716, 760718, 760719, 760721, 760722, 760724, 
+ 760725, 760727, 760728, 760730, 760732, 760733, 760735, 760736, 760738, 
+ 760742, 760744, 760749, 760752, 760761, 760769, 760794, 760797, 760805 
+ through 760822 are eligible. 
+ Keystone Helicopter Corporation for Production under Type Certificate Only: 
+ 760635, 760638, 760640, 760642, 760644, 760646, 760653 and 760658 are 
+ eligible. 
+ Keystone Helicopter Corporation under Production Certificate Number 121NE: 
+ 760686*, 760690, 760694, 760701, 760704, 760708, 760711, 760714, 760717, 
+ 760720, 760723, 760726, 760729, 760731, 760734, 760737, 760739 through 
+ 760741, 760743, 760745 through 760748, 760750, 760751, 760753 through 
+ 760760, 760762 through 760768, 760770 through 760793, 760795, 760796, 
+ 760798 through 760804 are eligible. 
+ * 760686 originally designated as eligible for production by Keystone 
+ Helicopter Corporation under Type Certificate Only and redesignated upon 
+ issuance of Production Certificate Number 121NE."
+IV MODEL NUMBER,"S-76D (Transport Helicopter, Category B), Approved October 12, 2012 
+ (Transport Helicopter, Category A), Approved December 19, 2013"
+ENGINES,2 Pratt and Whitney Canada PW210S
+FUEL,"FUEL 
+ ISSUING"
+AUTHORITY,"TYPE (1) 
+ SPECIFICATION 
+ TEMPERATURE 
+ RANGE (2) 
+ Jet A 
+ ASTM D1655 
+ –40°C (–40°F) to 52°C 
+ (126°F)"
+Commercial,"Jet A-1 
+ ASTM D1655 
+ –40°C (–40°F) to 52°C 
+ (126°F) 
+ No. 3 Jet Fuel 
+ PRC GB6537 
+ –40°C (–40°F) to 52°C 
+ (126°F) 
+ JP-5 
+ MIL-DTL-5624 
+ –40°C (–40°F) to 52°C 
+ (126°F) 
+ Military 
+ JP-8 
+ MIL-DTL-83133 
+ –40°C (–40°F) to 52°C 
+ (126°F)"
+NOTES,1. Any approved fuel or mixture of approved fuels may be used. Refer to the Pratt & Whitney
+Canada,"PW210S 
+ Maintenance 
+ Manual 
+ for 
+ a 
+ complete 
+ list 
+ of 
+ acceptable 
+ and"
+alternateemergency fuels,2. Fuel anti-icing additive must be used below 4°C (40°F) for fuels supplied without anti-icing
+OIL,"Brand 
+ Supplier"
+AeroShell Turbine Oil 500,Shell Oil Company
+BP Turbo Oil 2380,Air BP
+Castrol 5000,Castrol Ltd.
+Mobil Jet Oil II,Exxon Mobil Chemical Company
+Turbonycoil 600 II,Nyco S.A.
+OPERATING,"TIME 
+ ENGINE 
+ ITT (C) 
+ NG (%) 
+ NP"
+CONDITION,"TORQUE LIMIT 
+ (%) 
+ (%)"
+TAKEOFF AEO,"5 MIN 
+ 100 (1) 
+ 932-924 (1)(2) 
+ 100.0 (1) 
+ 108"
+HIP AEO 3,"30 MIN 
+ 100 (1) 
+ 924 (1) 
+ 100.0 (1) 
+ 108"
+MAXIMUM,"-- 
+ 100 (1) 
+ 886 
+ 98.8 
+ 108"
+CONTINUOUS,AEO
+TRANSIENT,"20 SEC 
+ 136 
+ 980 
+ 101.8 
+ 118 
+ AEO"
+30 SEC OEI,"30 SEC 
+ 140 (1) 
+ 1006 (1) 
+ 102.7 (1) 
+ 108"
+2 MIN OEI,"2 MIN 
+ 136 (1) 
+ 980 (1) 
+ 101.8 (1) 
+ 108"
+MAXIMUM,"-- 
+ 128 (1) 
+ 924 (1) 
+ 100.0 (1) 
+ 108"
+CONTINUOUS,OEI
+TRANSIENT OEI,"5 SEC 
+ 145 
+ 1015 
+ 103.3 
+ 115 
+ (30 SEC OEI) 
+ (30 SEC OEI) 
+ (30 SEC 
+ OEI) 
+ 141 
+ 989 
+ 102.3 
+ (2 MIN OEI) 
+ (2 MIN OEI) 
+ (2 MIN 
+ OEI) 
+ 20 SEC 
+ 136 
+ 980 
+ 101.8 
+ 118 
+ (Max Cont OEI) 
+ (Max Cont 
+ (Max Cont 
+ OEI) 
+ OEI)"
+GROUND IDLE,"20 SEC 
+ -- 
+ 790 
+ -- 
+ -- 
+ -- 
+ -- 
+ 760 
+ -- 
+ --"
+OPERATING,"TIME 
+ ENGINE 
+ ITT (C) 
+ NG (%) 
+ NP"
+CONDITION,"TORQUE LIMIT 
+ (%) 
+ (%)"
+STARTING,"2 SEC 
+ -- 
+ 825 
+ -- 
+ -- 
+ 60 SEC 
+ -- 
+ 750 (4) 
+ -- 
+ --"
+NOTES,"will decrease from 932C to 924C over a 3 minute period. The limits increase back to 932C 
+ when the ITT decreases below 886C. 
+ 3. Hovering at Increased Power (HIP): Use of Takeoff limits during hover operations in excess"
+of 5 minutes,4. ITT limiting occurs at 740C. An automatic abort will be commanded (on ground only) if the
+ITT reaches 765C,5. Limit in parentheses refers to currently selected OEI limit.
+Engine Torque,100% = 657.6 foot-pounds
+APPROVED GEARBOX OILS,"TYPE 
+ LOW TEMPERATURE LIMIT 
+ BP Turbo Oil 25 (Preferred) 
+ –40°C / –40°F"
+Other Approved DODPRF85734 Oils,–40°C / –40°F
+MAIN GEARBOX TORQUE,ALL ENGINES OPERATING (AEO)
+MGB TORQUE ,"NO INSPECTION REQUIRED 
+ INSPECTION 
+ REQUIRED 
+ 0% to 100% 
+ Continuous 
+ 100% to 115% 
+ 10 SEC 
+ >10 SEC 
+ >115% 
+ Any Occurrence 
+ ONE ENGINE INOPERATIVE (OEI)"
+MGB TORQUE ,"NO INSPECTION REQUIRED 
+ INSPECTION 
+ REQUIRED 
+ 0% to 128% 
+ Continuous 
+ 128% to 136% 
+ 2 MIN 
+ >2 MIN 
+ 136% to 140% 
+ 30 SEC 
+ >30 SEC 
+ 140% to 150% 
+ 5 SEC 
+ >5 SEC 
+ >150% 
+ Any Occurrence"
+Maximum 120 PSI,"Cautionary: 90 PSI to 120 PSI 
+ Normal: 50 PSI to 90 PSI 
+ Cautionary: 20 PSI to 50 PSI"
+Minimum 20 PSI,MGB OIL TEMPERATURE (see Note 22)
+With v303 Software,With v400 Software
+Maximum 135°C,Maximum: 135°C
+Cautionary 120°C to 135°C,Cautionary: 115°C to 135°C
+Normal 15°C to 120°C,Normal: 15°C to 115°C
+Cautionary –20°C to 15°C,Cautionary: –20°C to 15°C
+Minimum –20°C,Minimum: –20°C
+Transient Minimum 74,Transient Minimum at touchdown while executing an autorotative landing: 68%
+Cautionary 108 to 115,Normal Operating Rotor Speed (AEO): 106% to 108%
+Cautionary AEO 91 to 106,"Normal Operating Rotor Speed (OEI above best rate of climb airspeed): 106% to 108% 
+ Normal Operating Rotor Speed (OEI up to best rate of climb airspeed): 100% to 108%"
+Transient Minimum 91,Transient Minimum at touchdown during an OEI landing: 68%
+VNE never exceed Power On,"155 knots (IAS). See Flight Manual for variations of VNE PWR ON with 
+ density altitude."
+VNEgear extendedgear operating,130 knots (IAS)
+VNE Power Off,"136 knots (IAS). See Flight Manual for variation of VNE PWR OFF with density 
+ altitude."
+CENTER OF GRAVITY CG RANGE,"Note: For the above charts, the effect of landing gear retraction on center of gravity need not be considered. The 
+ limits depicted in the diagrams are appropriate for flight with main landing gear extended or retracted."
+LATERAL CG LIMITS,"Up to 11,400 lbs: 
+ +3.5 inches maximum 
+ 11,400 lbs – 11,875 lbs 
+ +2.5 inches maximum 
+ 11,875 lbs – 12,000 lbs (Ground Only) +1.9 inches maximum 
+ SAR (Below 10,800 lbs, hover) 
+ +4.5 inches maximum"
+EMPTY WEIGHT CG RANGE,None
+DATUM,200 inches forward of main rotor centroid
+LEVELING MEANS,"Leveling plate at STA 176, BL 35, L.H. and plumbline from upper frame of the 
+ aft doorway"
+MAXIMUM WEIGHT,"11,875 lbs. (takeoff) 
+ 12,000 lbs. (ground operations)"
+MINIMUM CREW,"1 (IFR) 
+ 1 (VFR) 
+ 3 (SAR; 2 Pilots, 1 Hoist Operator)"
+NUMBER OF SEATS,"2 cockpit 
+ 12 cabin maximum"
+MAXIMUM BAGGAGE,600 lbs.
+FUEL CAPACITY,"Aircraft 761004 through 761036: 298 gals. (290 gals. usable) at (216.8) 
+ (See Note 1.) 
+ Aircraft 761037 and subsequent: 292 gals. (284 gals. usable) at (219.5) 
+ (See Note 1.)"
+OIL CAPACITY,1.281 gal/engine
+MAXIMUM OPERATING DENSITY ALTITUDE,"Enroute: 15,000 feet 
+ Takeoff and landing: Cat. B: 12,700 feet 
+ Cat. A: 3,000 feet Horizontal, 5,000 feet Vertical"
+AMBIENT TEMPERATURE LIMITS,"-35°C (-31°F) to ISA + 34°C (not to exceed 45°C / 113°F), see Note 22. 
+ -35°C (-31°F) to ISA + 37°C (not to exceed 52°C / 126°F), see Notes 22, 23 
+ For rigging information refer to Maintenance Manual."
+MANUFACTURERS SERIAL NUMBERS,"Sikorsky Aircraft Corporation under Production Certificate Number 105: 
+ 761004 and up are eligible. 
+ THE FOLLOWING DATA IS PERTINENT TO THE S-76A, B & C MODELS OF THIS 
+ SERIES"
+CERTIFICATION BASIS,"Type Certificate No. H1NE 
+ Model S-76A (Basic Certification Basis): 
+ FAR Part 29, February 1, 1965, and amendments 29-1 through 29-11; in addition, portions of 
+ amendments 29-12, specifically, 29.67, 29.71, 29.75, 29.141, 29.173, 29.175, 29.931, 
+ 29.1189(a)(2), 29.1555(c)(2), 29.1557(c), portions of amendment 29-13, specifically 29.965, and 
+ portions of amendment 29-21, specifically 29.1, 29.79, 29.1517, and 29.1587. 
+ Instrument flight criteria (interim) for S-76 dated February 10, 1977. 
+ Special Conditions 29-82-NE-3 (Docket No. 17721), dated March 27, 1978. 
+ Partial Grant of Exemption from FAR 29.811(h), Exemption No. 2542 (Docket No. 17403), 
+ dated January 9, 1979, for the Model S-76A;. 
+ Equivalent safety finding for FAR 29.173(b). 
+ National Environmental Act of 1969. 
+ Noise Control Act of 1972. 
+ Compliance with the following optional requirements has been established: Ditching provisions 
+ FAR 29.563 including 29.801 and 29.807(d) of amendment 29-12 and excluding 29.1411, 
+ 29.1415, and 29.1561 when emergency flotation gear, P/N 76076-02002, is installed. For over- 
+ water operations, compliance with the operating rules and FAR 29.1411, 29.1415, and 29.1561 
+ must be shown. 
+ Cargo hook FAR 29.865 including 29.25 of amendment 29-12, when cargo hook system, P/N 
+ 76255-02000, is installed. For external load operations, FAR 133, including Amendments 1-4. 
+ ---------------------------------------------------------------------------------------------------------------- 
+ In addition to the basic certification basis, for the Model S-76B: Portions of Amendment 29-24, 
+ specifically 29.1325(f); equivalent safety finding for FARs 29.1013(e), 29.1203(a), 29.1181(a) 
+ (6), and 29.1189(a). 
+ Partial Grant of Exemption from FAR 29.811(h), Exemption No. 2542 (Docket No. 17403), 
+ dated July 3, 1985. 
+ ---------------------------------------------------------------------------------------------------------------- 
+ In addition to the basic certification basis, for the Model S-76C (with Arriel 1S1 Engine 
+ Configuration): 29.1325 of amendment 29-24, amendment 29-26, specifically 
+ 29.67(a)(2)&(3)(b), 29.923(k), 29.1045(c), 29.1047(a)(4) and 29.1521(h); 29.811 of amendment 
+ 29-30, and amendment 36-14 of FAR 36, Appendix H. 
+ Special Condition No. 29-ASW-3 (Docket No. 91-ASW-1), dated January 30, 1992 
+ ---------------------------------------------------------------------------------------------------------------- 
+ In addition to the basic certification basis, for the Model S-76C (with Arriel 2S1 Engine 
+ Configuration): 29.1325 of amendment 29-24, amendment 29-26, specifically 
+ 29.67(a)(2)&(3)(b), 29.923(k), 29.1045(c), 29.1047(a)(4) and 29.1521(h); 29.811 of amendment 
+ 29-30, amendment 29-34, specifically 29.67(a)(1)(i), 29.923(a),(b)(1)&(3), 29.1143(f), 
+ 29.1305(a)(24)&(25), 29.1521(i)&(j) and 29.1549(e) and Amendment 36-20 of FAR 36, 
+ Appendix H. 
+ Special Conditions No. 29-ASW-16 (Docket No. 96-ASW-2), dated August 26, 1996 and 
+ No. 29-004-SC (Docket No. SW004) dated June 17, 1998. 
+ ---------------------------------------------------------------------------------------------------------------- 
+ In addition to the basic certification basis, for the Model S-76C (with Arriel 2S2 Engine 
+ Configuration): 29.1325 of amendment 29-24, amendment 29-26, specifically 
+ 29.67(a)(2)&(3)(b), 29.923(k), 29.1045(c), 29.1047(a)(4) and 29.1521(h); 29.811 of amendment 
+ 29-30, amendment 29-34, specifically 29.67(a)(1)(i), 29.923(a),(b)(1)&(3), 29.1143(f), 
+ 29.1305(a)(24)&(25), 29.1521(i)&(j) and 29.1549(e) and Amendment 36-20 of FAR 36, 
+ Appendix H. 
+ Special Conditions No. 29-ASW-16 (Docket No. 96-ASW-2), dated August 26, 1996 and 
+ No. 29-004-SC (Docket No. SW004), dated June 17, 1998. 
+ ---------------------------------------------------------------------------------------------------------------- 
+ THE FOLLOWING DATA IS PERTINENT TO THE S-76D MODEL OF THIS SERIES"
+"CERTIFICATION BASIS Model S-76D Certification Basis 
+ 14CFR 29 through Amendment 29-52 as follows: 
+ 29.2, 29.21, 29.25, 29.27, 29.29, 29.31, 29.33, 29.45, 29.49, 29.51, 29.53, 29.55, 29.59, 29.60, 
+ 29.61, 29.62, 29.63, 29.64, 29.65, 29.67, 29.71, 29.73, 29.75, 29.77, 29.79, 29.81, 29.83, 29.85, 
+ 29.87, 29.141, 29.143, 29.151, 29.161, 29.171, 29.173, 29.175, 29.177, 29.181, 29.231, 29.235, 
+ 29.239, 29.241, 29.251, 29.301, 29.303, 29.305, 29.307 (main and tail rotor blades only), 29.309, 
+ 29.321, 29.337, 29.339, 29.341, 29.351, 29.361, 29.395, 29.397, 29.399, 29.401, 29.403, 29.411, 
+ 29.413, 29.471, 29.473, 29.475, 29.477, 29.479, 29.481, 29.483, 29.485, 29.493, 29.547, 29.549, 
+ 29.551, 29.561(a)(d), 29.563, 29.571 (main and tail rotor blades only), 29.601, 29.602, 29.603, 
+ 29.605, 29.607, 29.609, 29.610, 29.611, 29.613, 29.619, 29.621, 29.623, 29.629, 29.653, 29.659, 
+ 29.661, 29.663, 29.672, 29.673, 29.674, 29.675, 29.681, 29.683, 29.685, 29.687, 29.691, 29.695, 
+ 29.723, 29.725, 29.727, 29.729, 29.731, 29.733, 29.735, 29.771, 29.773, 29.775, 29.777, 29.779, 
+ 29.783, 29.801, 29.803, 29.805, 29.807, 29.809, 29.811, 29.812(a)(c)(d)(e)(f), 29.813(c)(2), 
+ 29.831, 29.851, 29.853, 29.855, 29.861, 29.863, 29.865 (except (c)(6), see Special Condition), 
+ 29.871, 29.873, 29.877, 29.901, 29.903, 29.907, 29.917, 29.921, 29.931, 29.939, 29.951, 29.953, 
+ 29.954, 29.955, 29.959, 29.961, 29.965, 29.969, 29.971, 29.977, 29.993, 29.995, 29.997, 29.999, 
+ 29.1011, 29.1013, 29.1015, 29.1017, 29.1019, 29.1021, 29.1023, 29.1027, 29.1041, 29.1043, 
+ 29.1045, 29.1047, 29.1049, 29.1091, 29.1093, 29.1103, 29.1121, 29.1123, 29.1141, 29.1143, 
+ 29.1145, 29.1151, 29.1163, 29.1165, 29.1181, 29.1183, 29.1185, 29.1187, 29.1189, 29.1191, 
+ 29.1193, 29.1194, 29.1195, 29.1197, 29.1199, 29.1201, 29.1203, 29.1301, 29.1303, 29.1305, 
+ 29.1307, 29.1309 (new avionics, AFCS, and Electrical Power Generation and Distribution 
+ System only), 29.1317, 29.1321, 29.1322, 29.1323, 29.1325, 29.1327, 29.1329, 29.1331, 
+ 29.1333, 29.1335, 29.1337, 29.1351, 29.1353, 29.1355, 29.1357, 29.1359, 29.1363, 29.1381, 
+ 29.1383, 29.1385, 29.1387, 29.1389, 29.1391, 29.1393, 29.1395, 29.1397, 29.1401, 29.1411, 
+ 29.1413, 29.1415, 29.1431, 29.1435, 29.1457, 29.1459, 29.1461, 29.1501, 29.1503, 29.1505, 
+ 29.1509, 29.1517, 29.1519, 29.1521, 29.1523, 29.1525 ,29.1527, 29.1529, 29.1541, 29.1543, 
+ 29.1545, 29.1547, 29.1549, 29.1551, 29.1553 ,29.1555, 29.1557, 29.1559, 29.1561, 29.1565, 
+ 29.1581, 29.1583, 29.1585, 29.1587, 29.1589, A29.1, A29.2, A29.3, A29.4, B29.1, B29.2, 
+ B29.3, B29.4, B29.5, B29.6, B29.7, B29.8, B29.9, C29.1, E29.1 
+ Except: 
+ 29.1 at 29-21, 29.307 at 29-4 (all but main and tail rotor blades), 29.391 at 29-0, 29.561(b)(c) at 
+ 29-0, 29.561(c) at 29-29 (for engine installation only), 29.571 at 29-20 (all but main and tail 
+ rotor blades only), 29.625 at 29-0, 29.671 at 29-0, 29.785 at 29-0, 29.787 at 29-12, 29.865 at 29- 
+ 12 (External Cargo Hook only), 29.908 at 29-13, 29.923(a)(b1)(b3) at 29-34, 29.923(c) - (o) at 
+ 29-26, 29.927 at 29-3, 29.963 at 29-26, 29.967 at 29-0, 29.973 at 29-0, 29.975 at 29-26, 29.1309 
+ at 29-14 (all but new avionics, AFCS, and Electrical Power Generation and Distribution System) 
+ Not Adopted: 
+ 29.427, 29.497, 29.501, 29.505, 29.511, 29.519, 29.521, 29.562, 29.631, 29.679, 29.737, 29.751, 
+ 29.753, 29.755, 29.757, 29.812(b), 29.815, 29.833, 29.859, 29.935, 29.952, 29.957, 29.979, 
+ 29.991, 29.1001, 29.1025, 29.1101, 29.1105, 29.1107, 29.1109, 29.1125, 29.1142, 29.1147, 
+ 29.1157, 29.1159, 29.1399, 29.1419, 29.1433, 29.1439, 29.1522, D29.1 
+ Equivalent Safety Findings: 
+ Number TD1509BO-R-S-1 for 14CFR Part 29.1401(d) at amendment 29-11; Anticollision light 
+ system installed in accordance with Sikorsky Drawing 33776-92603. 
+ Number AT01847BO-R-P-1 for 14CFR Part 29.1305 at amendment 29-40 and 14CFR Part 
+ 29.1549 at amendment 29-34; Use of a Power Limit Indicator (PLI) as the primary means for 
+ indicating/setting power. 
+ Special Conditions: 
+ No. 29-004-SC (Docket No. SW004), dated June 17, 1998. 
+ No. 29-036-SC (Docket No. FAA-2011-1026), dated December 09, 2014. 
+ 14CFR 36 through Amendment 36-30 as follows: 
+ 36.801, 36.803, 36.805, H36.1 - H36.305 
+ Ditching: 
+ If emergency flotation gear, P/N 33776-92709, is installed, then compliance has also been shown 
+ to Amendment 29-52 of 29.563, 29.801 (b), (c), (d) and (e) and 29.807 (b) and (d). For over- 
+ water operations, compliance with the operating rules and 29.1411, 29.1415, and 29.1561 must 
+ be shown. 
+ --------------------------------------------------------------------------------------------------------- 
+ THE FOLLOWING DATA IS PERTINENT TO ALL MODELS OF THIS SERIES 
+ PRODUCTION BASIS 
+ Sikorsky Aircraft Corporation 
+ Production Certificate Number 105 
+ EQUIPMENT 
+ The basic required equipment, as prescribed in the applicable airworthiness regulations (see 
+ Certification Basis), must be installed in the helicopter for certification. In addition, the 
+ following items of equipment are required: 
+ (a) Model S-76A: FAA approved Rotorcraft Flight Manual, Model S-76A Helicopter 
+ (Publication SA 4047-76-1) 
+ Model S-76B: FAA approved Rotorcraft Flight Manual, Model S-76B Helicopter 
+ (Publication SA 4047-76B-1). 
+ In addition: 
+ For aircraft equipped with PT6B-36 engines, Supplement No. 2 (Publication SA 4047-76B-1) 
+ For aircraft equipped with PT6B-36B engines, Supplement No. 11 (Publication SA 
+ 4047-76B-1) 
+ Model S-76C equipped with Arriel 1S1 engines: FAA approved Rotorcraft Flight Manual, 
+ Model S-76C Helicopter (Publication SA 4047-76C-1). 
+ Model S-76C equipped with Arriel 2S1 engines: FAA approved Rotorcraft Flight Manual, 
+ Model S-76C Helicopter (Publication SA 4047-76C-10) for aircraft serial numbers prior to 
+ 760511. For aircraft serial numbers 760511 and subsequent FAA Approved Rotorcraft 
+ Flight Manual (Publication SA 4047-76C-14). 
+ Model S-76C equipped with Arriel 2S2 engines: FAA approved Rotorcraft Flight Manual, 
+ Model S-76C Helicopter (Publication SA 4047-76C-15) for aircraft serial numbers 760607 
+ and subsequent. 
+ Model S-76D: FAA approved Rotorcraft Flight Manual, Model S-76D Helicopter 
+ (Publication SA S76D-RFM-000). 
+ (b) DELETED 
+ (c) Special airspeed indicator approved: 
+ For use on S-76A only: 
+ Aero Mechanism Part No. 8502C-S20LW, or Aerosonic Part No. 20020-11190, or 
+ Aerosonic Part No. 20020-11293 airspeed indicator. 
+ For use on the S-76B and S-76C: 
+ Aerosonic Part No. 20020-11293 airspeed indicator. 
+ --------------------------------------------------------------------------------------------------------- 
+ N O T E S 
+ NOTE 1 
+ Current weight and balance report, including list of equipment included in certificated empty weight, and 
+ loading instructions, when necessary, must be provided for each helicopter at the time of original 
+ certification. 
+ See flight manual loading section for variations of fuel weight and moment-arm with variations of fuel and 
+ fuel quantity. 
+ NOTE 2 
+ All placards required in the approved rotorcraft flight manual must be installed in the appropriate locations. 
+ The following placard must be displayed in front of and in clear view of the pilot: 
+ ""THIS HELICOPTER MUST BE OPERATED IN ACCORDANCE WITH THE OPERATING 
+ LIMITS SPECIFIED IN THE FAA APPROVED ROTORCRAFT FLIGHT MANUAL. THE 
+ AIRWORTHINESS LIMITATIONS SECTION OF THE ROTORCRAFT MAINTENANCE 
+ MANUAL MUST BE COMPLIED WITH."" 
+ NOTE 3 
+ For Model S-76A: Information essential to the proper maintenance of the helicopter is contained in the 
+ Sikorsky S-76A Maintenance Manual, Publication SA 4047-76-2, and the Airworthiness Limitations and 
+ Inspection Requirements Manual SA 4047-76-2-1 provided with each helicopter. The values of retirement 
+ (service) life contained in Chapter 4 of the Airworthiness Limitations and Inspection Requirements Manual 
+ SA 4047-76-2-1 or inspection intervals cannot be increased without FAA engineering approval. See Note 10. 
+ For Model S-76A serial numbers 760295, 760296, 760297, 760298, 760300, and 760301: Information 
+ essential to proper maintenance of the helicopter is contained in the Sikorsky S-76A Maintenance Manual SA 
+ 4047-76AA-2 and the Airworthiness Limitations and Inspection Requirements Manual SA 4047-76-2-1 
+ provided with each helicopter. The values of retirement (service) life contained in Chapter 4 of the 
+ Airworthiness Limitations and Inspection Requirements Manual SA 4047-76-2-1 or inspection intervals 
+ cannot be increased without FAA engineering approval. (See Note 10.) 
+ For Model S-76B: Information essential to the proper maintenance of the helicopter is contained in the 
+ Sikorsky S-76B Maintenance Manual, Publication SA 4047-76B-2, and the Airworthiness Limitations and 
+ Inspection Requirements Manual SA 4047-76B-2-1 provided with each helicopter. The values of retirement 
+ (service) life contained in Chapter 4 of the Airworthiness Limitations and Inspection Requirements Manual 
+ SA 4047-76B-2-1 or inspection intervals cannot be increased without FAA engineering approval. (See Note 
+ 10.) 
+ For Model S-76C: Information essential to the proper maintenance of the helicopter is contained in the S- 
+ 76C Maintenance Manual, Publication SA 4047-76C-2, and the Airworthiness Limitations and Inspection 
+ Requirements Sections, Chapters 4 and 5, of SA 4047-76C-2-1, provided with each helicopter. The values of 
+ retirement (service) life contained in Chapter 4 of the Maintenance Manual or inspection intervals cannot be 
+ increased without FAA engineering approval. (See Note 10.) 
+ For Model S-76D: Information essential to the proper maintenance of the helicopter is contained in the S- 
+ 76D Maintenance Manual, Publication SA S76D-AMM-000, and the Airworthiness Limitations and 
+ Inspection Requirements Sections, Chapters 4 and 5, of SA S76D-AWL-000, provided with each helicopter. 
+ The values of retirement (service) life contained in Chapter 4 of the Maintenance Manual or inspection 
+ intervals cannot be increased without FAA engineering approval. (See Note 10.) 
+ NOTE 4 
+ DELETED 
+ NOTE 5 
+ For Model S-76A only: Mixture ratio: 1 part AVGAS, Grade 80/87, to 2 parts Jet Fuel (Jet A, Jet 1, or JP-5) 
+ by volume may be used for unrestricted periods of time. AVGAS, Grade 100/130 (100LL) with a maximum 
+ of 2.0 ml/gal lead content may be used in place of grade 80/87 in the same proportions with jet fuel for not 
+ over 300 hours during any overhaul period. Do not use above 4oC (40oF). Do not use AVGAS containing 
+ Tri-Cresyl-Phosphate (TCP). 
+ NOTE 6 
+ For Model S-76A only: MIL-T-5624 Grade JP-5 with anti-ice additive conforming to MIL-I-27686 (Philips 
+ Petroleum Company MB-55 or equivalent) in concentration of 0.035% to 0.15% by volume. ASTM D-1655 
+ Jet A, A1, or GB6537-94 (RP3) with anti-ice additive conforming to MIL-I-27686 (Philips Petroleum 
+ Company MB-55 or equivalent) in concentration of 0.035% to 0.15% by volume. If the AVGAS/Jet Fuel 
+ mixture is added to JP-4 or Jet B, add anti-ice additive in concentration of 0.035% to 0.15% based only on 
+ the AVGAS/Jet Fuel volume added. If the jet fuel to be mixed with AVGAS is JP-5, Jet A, or Jet A1, to 
+ which anti-ice additive has not been added, add anti-ice additive in concentration of 0.035% to 0.15% based 
+ on entire volume. 
+ For Model S-76B only: Anti-icing protection additives meeting MIL-D-27686 or equivalent must be present 
+ in concentrations of 0.035% to 0.15% by volume. 
+ For Model S-76C only: Anti-icing protection additives meeting MIL-D-27686 or equivalent must be present 
+ in concentrations of 0.10% to 0.15% by volume. 
+ For Model S-76D only: The following additives and concentrations are applicable: 
+ Anti-Icing Additives 
+ Additive (Trade Name) 
+ Max. Concentration Allowed (% by Volume) 
+ Diethylene Glycol Monomethyl Ether as defined in 
+ 0.15% 
+ MIL-DTL-85470 or ASTM D4171 Type III 
+ Ethylene Glycol Monoethyl Ether (Fluid I) as 
+ 0.15% 
+ defined in GOST 8313 
+ Mixture of 50% Ethylene Glycol Monoethyl Ether 
+ 0.3% 
+ (Fluid I) and 50% Methyl Alcohol (Fluid I-M) as 
+ defined in TU 6-10-1458 
+ NOTE 7 
+ DELETED 
+ NOTE 8 
+ Initial Type Certification Data Sheet No. H1NE for Model S-76A was not published. No airworthiness 
+ certificates were issued, based on Data Sheet No. H1NE (No Revision). 
+ NOTE 9 
+ Model S-76A helicopters have been approved for the Luftfahrt-Bundesamt (LBA). This LBA configuration 
+ must include a modification in accordance with Sikorsky Aircraft Drawing No. 76080-55007, Kit 
+ Modification, LBA, PL Sheet 1 of 1, Rev (-), FD Sheet 1 of 1, Rev (-). This is an LBA special requirement 
+ and is not approved for FAA airworthiness certification. 
+ NOTE 10 
+ Model S-76A: When operated at gross weights above 10,300 pounds, the helicopter must comply with 
+ Revision 14 of the Airworthiness Limitations section, dated May 14, 1985, or subsequent FAA-approved 
+ revisions of the Airworthiness Limitations and Inspection Requirements Manual SA 4047-76-2-1. 
+ Model S-76B: All helicopters must comply with Airworthiness Limitations section, dated June 7, 1988, or 
+ subsequent FAA-approved revisions of Airworthiness Limitations and Inspection Requirements Manual SA 
+ 4047-76B-2-1. 
+ Model S-76C: All helicopters must comply with the Airworthiness Limitations Section, Chapter 4, dated 
+ March 19, 1991, of Maintenance Manual SA 4047-76C-2-1, or subsequent FAA-approved revisions. 
+ Model S-76D: All helicopters must comply with the Airworthiness Limitations Section, Chapter 4, dated 
+ October 11, 2012, of Manual SA S76D-AWL-000, or subsequent FAA-approved revisions. 
+ NOTE 11 
+ Model S-76A: Alternate engine installations with Turbomeca Arriel 1S or 1S1 engines are approved under 
+ STC SH568NE (not in mixed engine configurations). 
+ NOTE 12 
+ Emissions control device Kit Part Number 76070-30603-011, installed in accordance with CSN 76-192, is 
+ approved for installation on the Model S-76C helicopter with the Turbomeca Arriel 1S1 engine installation. 
+ This device prevents the intentional discharge into the atmosphere of liquid fuel from the fuel nozzle 
+ manifolds resulting from the process of engine shutdown following normal flight or ground operations. The 
+ Model S-76B, and Model S-76C helicopter with Turbomeca Arriel 2S1 and 2S2 engines and the Model 
+ S-76D with Pratt & Whitney Canada PW210S engines, without modification preclude the intentional 
+ discharge into the atmosphere of liquid fuel from the nozzle manifolds resulting from the process of engine 
+ shutdown. 
+ NOTE 13 
+ The use of the 30 minute power rating requires Supplement No. 12 to the Model S76C Rotorcraft Flight 
+ Manual, document no. SA 4047-76C-10, or document no. SA 4047-76C-14. Approved procedures for the use 
+ of the 30 minute power rating for the Arriel 2S2 engine configuration must be published in the Model S76C 
+ Rotorcraft Flight Manual, document no. SA 4047-76C-15 prior to the use of this rating. Engine Airworthiness 
+ Limitations requirements are as specified in Type Certificate Data Sheet No. E00054EN. For the Model S- 
+ 76D, use of the 30 minute power rating is addressed in Rotorcraft Flight Manual SA S76D-RFM-000; Engine 
+ Airworthiness Limitations requirements are as specified in Type Certificate Data Sheet No. E00083EN. 
+ NOTE 14 
+ The Model S-76B (Pratt & Whitney PT6B-36 engine) and Model S-76C (Turbomeca Arriel 2S1 and Arriel 
+ 2S2 engines) rotorcraft installations employ electronic engine controls commonly named Full-Authority 
+ Digital Electronic Controls (FADEC), and are recognized to be potentially more susceptible to 
+ electromagnetic interference (EMI) than rotorcraft containing non-electronic controls. EMI may be the result 
+ of radiated or conducted interference. For this reason, aircraft modifications that add or change systems that 
+ have the potential for EMI must be either qualified to an FAA acceptable standard or tested at the time of 
+ installation for interference to the FADEC. This type of testing must employ the particular FADEC’s internal 
+ diagnostic monitoring equipment as well as external diagnostic monitoring equipment, and must be FAA 
+ approved. 
+ The Model S-76D (Pratt & Whitney Canada PW210S engines) rotorcraft employs electronic engine controls 
+ that are recognized to be more susceptible to Electromagnetic Interference (EMI) than manual (non- 
+ electronic) controls used on other rotorcraft. EMI may be the result of radiated or conducted interference. For 
+ this reason, modifications that add or change systems that have the potential for EMI, must either be qualified 
+ to an FAA acceptable standard or tested at the time of installation for interference to the engine controls. This 
+ type of testing must employ the particular engine control’s diagnostic techniques and external diagnostic 
+ techniques. This testing must be accomplished in accordance with an FAA Engineering approved alternate 
+ test plan. 
+ NOTE 15 
+ 1-pilot IFR is approved for Models S-76A, S-76B, S-76C, and S-76D when appropriately equipped and 
+ operating in accordance with a flight manual or flight manual supplement that allows such operation. For 
+ Models S-76A, S-76B, and S-76C, 1-pilot IFR operation requirements include installation of an SPZ-7000 
+ Digital Automatic Flight Control System by STC or an SPZ-7600 Digital Automatic Flight Control System 
+ by STC or as optional equipment. The following Honeywell Flight Manual Supplements relate to 1-pilot IFR 
+ operations with the SPZ-7000: 
+ Model S-76A SA 4047-76-1 Honeywell Supp No. 27-5130-14-03 
+ Model S-76A SA 4047-76-1 Honeywell Supp No. 27-5120-19-01 (S-76A Arriel) 
+ Model S-76B SA 4047-76B-1 Honeywell Supp No. 27-5120-10-01 
+ The following Sikorsky Flight Manuals and Supplements relate to 1-pilot IFR operations with the SPZ-7600: 
+ Model S76C Rotorcraft Flight Manual document no. SA 4047-76C-14 
+ Model S76C Rotorcraft Flight Manual document no. SA 4047-76C-15 
+ Model S-76A SA 4047-76-1 Supp S-38 
+ Model S-76C SA 4047-76C-1 Supp S-15 
+ Model S-76C+ SA 4047-76C-10 Supp S-15 
+ Model S-76C+ SA 4047-76C-10 Supp 88 
+ NOTE 16 
+ Installation of Turbomeca Arriel 2S2 engines requires barrier filter P/N 76302-07800 or FAA-approved 
+ alternate. 
+ NOTE 17 
+ DELETED 
+ NOTE 18 
+ DELETED 
+ NOTE 19 
+ DELETED 
+ NOTE 20 
+ Model S-76D, Serial Number 761004 through 761050: If an aircraft does not have Sikorsky drawing 76080- 
+ 70002 installed, Rotorcraft Flight Manual Supplement No. D01 is required. 
+ NOTE 21 
+ DELETED 
+ NOTE 22 
+ Model S76D: Refer to Rotorcraft Flight Manual, SA S76D-RFM-000 Revision 5 or later FAA approved 
+ revision, Part 1, Section 2 for Cold Weather Procedures. 
+ NOTE 23 
+ Model S-76D: High Temperature Kit Sikorsky drawing 33776-94664-011 must be installed for operation at 
+ ambient temperatures above 45°C (113°F)",

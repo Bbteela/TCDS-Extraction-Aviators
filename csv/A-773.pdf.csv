@@ -1,0 +1,209 @@
+Keyterm,Info
+"A-773 
+ Bellanca 
+ Revision 10 
+ 14-13 
+ 14-13-2 
+ 14-13-3 
+ 14-13-3W 
+ October 1, 1973",
+Type Certificate Holder,"Bellanca Aircraft Corporation 
+ New Castle, Delaware 19720"
+"I - Models 14-13, 4 PCLM, Approved September 25, 1946; 14-13-2, 4 PCLM, Approved June 2, 1947; 14-13-3, 4 PCLM and 
+ 14-13-3W, 2 pclm, Approved October 25, 1948. 
+ Model 14-13-2 same as 14-13 except for increased areas of stabilizer and elevators, decreased tip fin area, revised wood 
+ construction and revised elevator stops. Model 14-13-3 same as 14-13-2 except for dual landing lights in left wing leading edge, 
+ revised oleo struts and nut crackers, adjustable front seat backs and revised instrument panel. Model 14-13-3W same as 14-13-3 
+ except for removal of rear seats.",
+Engine,Franklin 6A4-150-B3
+Fuel,80 min. grade aviation gasoline.
+Engine limits,"For all operations, 2600 r.p.m. (150 hp)"
+Airspeed limits,"Level flight or climb 
+ 160 m.p.h. (139 knots)"
+True Ind,"Glide or dive 
+ 216 m.p.h. (187 knots) 
+ Flaps extended 
+ 85 m.p.h. ( 74 knots)"
+CG range landing gear,14-13: (+16.2) to (+23.6)
+extended,"14-13-2, 14-13-3, 14-13-3W: (+16.2) to (+24.5)"
+Empty weight CG range,None.
+Datum,Leading edge of wing at rib No. 1. Rib No. 1 is 24 .in. outboard from fuselage center line.
+Leveling means,"Horizontal lugs, sta. 1 and 2. Vertical lugs, sta. 3."
+Maximum weight,"14-13: 2100 lb. 
+ 14-13-2, 14-13-3, 14-13-3W: 2150 lb."
+No seats,"4 (Two at +18 or +20, Two at +50.5)."
+Maximum baggage,"60 lb. (+69). When baggage compartment per Dwg. 15086 is installed, maximum is 
+ 110 lb. (+80.5). In case of 14-13-3W station wagon compartment maximums are: 
+ Fwd. comp't: 260 lb. (+35) 
+ Aft. comp't: 413 lb. (+55)"
+Fuel capacity,40 gal. (+29)
+Oil capacity,2 gal. (-36)
+Control surface movements,"14:13 
+ Elevator - landing gear up 
+ 18° up 
+ 19° down 
+ - landing gear down 
+ 23° up 
+ 19° down 
+ Elevator trim tab 
+ 12° up 
+ 22° down 
+ Rudder 
+ 18° left 
+ 18° right 
+ Aileron 
+ 28° up 
+ 22° down 
+ Flaps 
+ 46° down 
+ 14-13-2, 14-13-3, and 14-13-3W: 
+ Elevator 
+ 19° up 
+ 19° down 
+ Elevator trim tab 
+ 12° up 
+ 22° down 
+ Rudder 
+ 18° right 
+ 18° left 
+ Aileron 
+ 25° up 
+ 19° down 
+ Flaps 
+ 46° down"
+Page No,"1 
+ 2 
+ 3 
+ 4"
+Rev No,"10 
+ 10 
+ 10 
+ -"
+Serial Nos eligible,"1060 and up. Serial numbers 1060 through 1385 are Model 14-13. 
+ Serial numbers 1386 through 1583 are Model 14-13-2. 
+ Serial numbers 1584 and up are Model 14-13-3 and 14-13-3W. 
+ Serial numbers 1060 through 1385 are eligible as Model 14-13-2 
+ providing they are revised to conform to Bellanca Dwgs. 9989, 9995, 
+ 9996 and 9918 and proper control surface movements."
+Required equipment,"In addition to the pertinent required basic equipment specified in 
+ CAR 4a, the following items of equipment must be installed: 
+ Landplane: Items 1, 103, 104, 105, 201(a), 202(a), 204(a). 
+ Skiplane: Items 1, 103, 104, 105, 208(a)."
+Specifications Pertinent to all Models,
+Certification basis,Type Certificate No. 773 (CAR 4a)
+Production basis,None.
+Equipment,"A Plus (+) or minus (-) sign preceding the weight of an item indicates net weight 
+ change when that item is installed."
+1,"Propeller-Sensenich 74RA or any other fixed pitch wood propeller rated for 
+ 20 lb. (-56) 
+ required hp and rpm and following limits: 
+ Static rpm at maximum permissible throttle setting: 
+ Not over 2100, not under 2000. No additional tolerance permitted. 
+ Diameter: Not over 74 in., not under 72.5 in."
+a,"Propeller-Koppers Aeromatic Hub F200, blades 00-74A, 00-74B or 00-74C. 
+ 31 lb. (-56) 
+ Parts List Assembly No. 4275. 
+ Low pitch setting 14° at 24 in. sta. 
+ Static rpm at maximum permissible throttle setting: 
+ Not over 2550, not under 2500. No additional tolerance permitted. 
+ Diameter: Not over 74 in., not under 72.5 in. 
+ Installation must be accomplished in accordance with Koppers 
+ ""Installation Procedure and Operating Limitation No. 1B"" 
+ (Without Altitude Control). 
+ 6 lb. (-44) 
+ must be made in accordance with Koppers Company Adjustment 
+ Instructions and Operating Limitations No. 54, Koppers Installation 
+ Dwg. No. 4275H and the engine must be modified in accordance with 
+ Aircooled Motors Corporation Dwgs. Nos. 18487, 18218 and SK-582-6."
+c,"Propeller - Kopper Aeromatic Hub F200, blades 00-74B or 00-74C 
+ 31 lb. (-56) 
+ Parts List Assembly No. 4275-1 
+ Low pitch setting 14° at 24 in. sta., High pitch setting 26° 
+ Static rpm at maximum permissible throttle setting: 
+ Not over 2650, not under 2600. No additional tolerance permitted. 
+ Diameter: Not over 74 in., not under 72.5 in. 
+ Installation must be accomplished in accordance with Koppers 
+ ""Installation Procedure and Operating Limitations No. 84"" 
+ (Without Altitude Control) 
+ Eligible only with item 110 engine. Tachometer must be red-lined at 2650 rpm."
+3.,
+4,"Propeller - Koppers Aeromatic; Hub F200H; Blades 00-74B 
+ 31 lb. (-56) 
+ Parts List Assembly No. 4275AH-1 
+ Altitude Control Parts List Assembly No. 4370 
+ 6 lb. (-44) 
+ Low pitch setting 14° at 24 in. sta. 
+ Static rpm at max. permissible throttle setting: 
+ Not over 2650, not under 2600. No additional tolerance permitted. 
+ Diameter: Not over 74 in., not under 72.5 in. 
+ Installation must be accomplished in accordance with Koppers, 
+ ""Adjustment Instructions and Operating Limitations No. 65"" 
+ (Eligible only with Item 110 engine. Tachometer must be red-lined at 2650 rpm). 
+ Engine and Engine Accessories - Fuel and Oil System"
+101,"Starter - Delco-Remy, part No. 10750 
+ 16 lb. (-26)"
+102,"Generator - Autolite, part No. 10119 (15 amp) 
+ 12 lb. (-24)"
+103,"Fuel pump - A.C. diaphragm type, part No. 11921 
+ 2 lb. (-31)"
+104,"Oil cooler - Fedders (1311H) or heat exchangers (102) 
+ 6 lb. (-30)"
+Carburetor heater,2 lb. (-30)
+107,"Two mufflers - Kay Industries - (Bellanca Dwg. 15062) 
+ +1 lb. ea. (-34)"
+108,"Generator - Delco-Remy 25 amp., part No. 1101887 
+ +4 lb. (-24)"
+109,"Oil filter - Fram PB5, kit No. K-501"
+Fram Installation Dwg 61627,5 lb. (-19)
+Engine  Franklin 6A4165B3,"(Negligible wt. change) 
+ Engine limits - 2800 rpm (165 hp) 
+ Fuel - 80 minimum octane aviation gasoline 
+ (Eligible with Item 2(c), 3 and 4 propellers only) 
+ Installation eligible only when original basic Franklin 
+ 6A4-150-B3 engine installation components utilized with"
+201,"Two main wheel-brake assemblies, 6.00-6, Type III,"
+a,"Goodyear Model 6 IBD, 
+ 15 lb. (+8) 
+ Wheel Assembly No. 511413-M 
+ Brake Assembly No. 511640-M"
+b Goodrich Model 605MD,"No weight change 
+ Wheel Assembly No. D-3-105-MD 
+ Brake Assembly No. D-2-524"
+c,"Firestone Model DFA207, 
+ -1 lb. (+8) 
+ Wheel Assembly No. DFA180 
+ Brake Assembly No. CFA252"
+(d) Goodyear Model CL6HBD (Castering wheels),
+202,"Two main wheel, 4-ply rating, Type III tires, with regular tubes,"
+a,"6.00-6 
+ 18 lb. (+8)"
+b 7006,+3 lb. (+8)
+Firestone Model CFA160 6x200,"2 lb. (+192) 
+ (b) Same as (a), steerable per Bellanca Dwgs. 15085 and 15091 
+ +4 lb. (+192)"
+"(c) 
+ Maule Hub and Axle Model SFS-P8",
+Two Main Skis,Use actual wt. change
+"(a) 
+ Federal Model A2500, Federal Installation Dwg. 11R185 
+ (b) Federal Model A2500A, Federal Installation Dwg. 11R185 
+ (c) 
+ Federal Model A3500, Federal Installation Dwg. 11R185 
+ (d) Federal Model A3500A, Federal Installation Dwg. 11R185",
+One Tail Ski,Use actual wt. change
+211,"Electric landing gear retraction installation per Bellanca 
+ +7 lb. (+18.5)"
+Battery  Reading R24L,24 lb. (-17)
+Radio equipment,12 lb. (-11)
+Antenna and mast,1 lb. (+6)
+Landing light  Grimes ST250,3 lb. (+21)
+305,"Dual landing light installation - G.E. No. 4509 
+ 2 lb. (+9)"
+Flares 5 oneminute International,17 lb.
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight 
+ empty, and 
+ loading instructions when necessary, must be in each aircraft at the time of original certification at all times"
+NOTE 2,The following placards must be installed in full view of the pilot:
+a,"""Intentional Spinning Prohibited."""
+b,"""Front seats must be occupied when used as three place."" 
+ (Applicable to Model 14-13)."

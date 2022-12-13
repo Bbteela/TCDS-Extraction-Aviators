@@ -1,0 +1,729 @@
+Keyterm,Info
+"A-724 
+ Revision 7 
+ FAIRCHILD 
+ M62A 
+ (Army PT-19, -19A, 
+ -19A-AE, -19A-SL, 
+ -19B, -19B-AE) 
+ M62A-3 or M62A-4 
+ (Army PT-26, -26A, -26B) 
+ M62B 
+ M62C 
+ (Army PT-23, -23-AE, 
+ -23-HO, -23-SL, 
+ -23A, -23A-SL) 
+ January 31, 1966",
+Type Certificate Holder,"Fairchild Hiller Corporation 
+ Hagerstown, Maryland"
+"I - Model M-62A (Army PT-19, -19A, -19A-AE, -19A-SL, -19B, -19B-AE), 2 PO-CLM, Approved April 3, 1940 
+ See NOTE 4(a) and (b) regarding modifications required for conversion of military models. 
+ See NOTE 5 regarding airplanes manufactured by other than Fairchild.",
+Engine,Ranger 6-440-C2. See Item 301(a) for optional engines.
+Fuel,65 minimum grade aviation gasoline.
+Engine limits,"For all operations, 2450 r.p.m. (175 hp.)"
+Airspeed limits CAS,"Level flight or climb 
+ 130 m.p.h. (113 knots) 
+ Glide or dive 
+ 187 m.p.h. (163 knots) 
+ Flaps extended 
+ 95 m.p.h. ( 83 knots) 
+ See NOTE 3(a) for different values when rudder and elevator control system springs (Item 602) 
+ are not installed."
+Propeller Limits,"Refer to pertinent item of equipment except for limits when rudder and elevator control system 
+ springs (Item 602) are not installed, see Note 3(a)."
+CG range,"(+18.6) to (+28.4). See NOTE 3(a) for different range when rudder and elevator control system 
+ springs (Item 602) are not installed."
+Empty weight CG range,"(+20.4) to (+23.0). When empty weight C.G. falls within this range, computation of critical fore 
+ and aft C.G. positions is unnecessary. Range is not valid when Buddy seat (Item 607) is installed 
+ or for any other non-standard arrangement."
+Maximum weight,"2800 lb. At weights over 2450 lb., placard as follows is required: 
+ ""INTENTIONAL SPINNING WITH FLAPS EXTENDED IS PROHIBITED."" 
+ Maximum weight restricted to 2450 lb. when rudder and elevator control system springs 
+ (Item 302) are not installed."
+No of seats,2 (One at +12 and one at +62)
+Maximum baggage,50 lb. (+98)
+Fuel capacity,"49 gal. (One 24 1/2 gal. tank in each wing) (+39) 
+ Usable capacity 45 gal. (22 1/2 gal. in each tank)"
+Oil capacity,4 gal. (-26)
+Control surface movements,"Ailerons 
+ 28° Up 
+ 16° Down 
+ Elevators 
+ 33° Up 
+ 25° Down 
+ Rudder 
+ 30° Right 
+ 30° Left 
+ Elevator trim tab 
+ 0° Up 
+ 25° Down 
+ Flaps 
+ 55° Down"
+Serial Nos eligible,"T40-101 to T40-428 inclusive; T41-429 to T41-1312 inclusive; 
+ T42-1313 to T42-1999 inclusive; T42-3000 to T42-3989 inclusive; 
+ T43-3990 to T43-3999 inclusive; T43-5000 to T43-5999 inclusive; 
+ T43-7000 to T43-7429 inclusive; and all AAF Nos. Use manufacturer's No. when available. 
+ See NOTE 5 regarding airplanes manufactured by other than Fairchild."
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 4a, the following items of 
+ equipment must be installed: 1, 102, 103, 104, 105, 106, 109, 602. See NOTE 3(a) regarding 
+ restrictions applicable when Item 602 is not installed."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9"
+Rev No,"7 
+ - 
+ 7 
+ 7 
+ - 
+ - 
+ - 
+ - 
+ -"
+"II - Model M-62A-3 and M-62A-4 (Army PT-26, -26A, -26B), 2 PO-CLM, Approved April 9, 1942 and February 19, 1947, respectively. 
+ See NOTE 4(a) and (c) for modifications required for conversion of military models. 
+ See NOTE 5 regarding airplanes manufactured by other than Fairchild. 
+ The M-62A-4 is identical to the M-62A-3 and both are the same as model M-62A except for engine.",
+Engine,Ranger 6-440-C5
+Fuel,87 minimum grade aviation gasoline.
+Engine limits,"For all operations, 2450 r.p.m. (200 hp.)"
+Airspeed limits CAS,"Level flight or climb 
+ 130 m.p.h. (113 knots) 
+ Glide or dive 
+ 187 m.p.h. (163 knots) 
+ Flaps extended 
+ 95 m.p.h. ( 83 knots) 
+ See NOTE 3(b) for other limits when rudder and elevator control system springs (Item 602) are 
+ not installed."
+Propeller Limits,"Refer to pertinent item of equipment except for limits when rudder and elevator control system 
+ springs (Item 602) are not installed, see Note 3(b)."
+CG range,"(+18.6) to (+28.4). See NOTE 3(b) for different range when rudder and elevator control system 
+ springs (Item 602) are not installed."
+Empty weight CG range,"(+20.4) to (+23.0). When empty weight C.G. falls within this range, computation of critical fore 
+ and aft C.G. positions is unnecessary. Range is not valid when Buddy seat (Item 607) is installed 
+ or for any other non-standard arrangement."
+Maximum weight,"2800 lb. At weights over 2450 lb., placard as follows is required: 
+ ""INTENTIONAL SPINNING WITH FLAPS EXTENDED IS PROHIBITED."" 
+ Maximum weight restricted to 2450 lb. when rudder and elevator control system springs (Item 
+ 602) are not installed."
+No of seats,2 (One at +12 and one at +62)
+Maximum baggage,50 lb. (+98)
+Fuel capacity,"49 gal. (One 24 1/2 gal. tank in each wing) (+39) 
+ Usable capacity 45 gal. (22 1/2 gal. in each tank)"
+Oil capacity,4 gal. (-26)
+Control surface movements,"Ailerons 
+ 28° Up 
+ 16° Down 
+ Elevators 
+ 33° Up 
+ 25° Down 
+ Rudder 
+ 30° Right 
+ 30° Left 
+ Elevator trim tab 
+ 0° Up 
+ 25° Down 
+ Flaps 
+ 55° Down"
+Serial Nos eligible,"T42-4000 to T42-4334 inclusive (M-62A-3 or M-62A-4); 
+ T43-4335 to T43-4669 inclusive (M-62A-3 or M-62A-4); 
+ and all AAF Nos. Use manufacturer's No. when available. 
+ See NOTES 5 and 6 regarding airplanes manufactured by other than Fairchild."
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 4a, the following items of 
+ equipment must be installed: 
+ 1, 102, 103, 104, 105, 106, 602. See NOTE 3(b) regarding restrictions applicable when Item 602 
+ is not installed."
+"III - Model M-62B, 2 PO-CLM, Approved May 14, 1941",
+Engine,"Warner Super Scarab 165 (Suffix ""E"")"
+Fuel,73 minimum grade aviation gasoline.
+Engine limits,"Maximum continuous, 2100 r.P.M. (165 hp.) 
+ Take-off (one minute), 2250 r.p.m. (175 hp.)"
+Airspeed limits CAS,"Level flight or climb 
+ 142 m.p.h. (124 knots) 
+ Glide or dive 
+ 203 m.p.h. (176 knots) 
+ Flaps extended 
+ 93 m.p.h. ( 81 knots)"
+Propeller Limits,Refer to pertinent item of equipment
+CG range,(+19.8) to (+27.6).
+Empty weight CG range,"(+20.4) to (+22.7). When empty weight C.G. falls within this range, computation of critical fore 
+ and aft C.G. positions is unnecessary. Range is not valid when Buddy seat (Item 607) is installed 
+ or for any other non-standard arrangement."
+Maximum weight,2450 lb.
+No of seats,2 (One at +12 and one at +62)
+Maximum baggage,50 lb. (+98)
+Fuel capacity,"49 gal. (24 1/2 gal. tank in each wing) (+39) 
+ Usable capacity 45 gal. (22 1/2 gal. in each tank)"
+Oil capacity,4 gal. (-26)
+Control surface movements,"Ailerons 
+ 28° Up 
+ 16° Down 
+ Elevators 
+ 33° Up 
+ 25° Down 
+ Rudder 
+ 30° Left 
+ 30° Right 
+ Elevator trim tab 
+ 0° Up 
+ 25° Down 
+ Flaps 
+ 55° Down"
+Serial Nos eligible,T41-2000 to T41-2046 inclusive
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 4a, the following items of 
+ equipment must be installed: 
+ 2, 102, 103, 104, 105, 107, 108, 109, 110, 602."
+"IV - Model M-62C (Army PT-23-, -23-AE, -23-HO, -23SL, -23A, -23A-SL), 2 PO-CLM, Approved March 26, 1945. 
+ See NOTE 4(a) and (d) regarding modifications required for conversion of military models. 
+ [ See NOTES 5, 6 and 8 regarding airplanes manufactured by other than Fairchild.",
+Engine,Continental W-670-6N. See Item 301(b) for optional engine.
+Fuel,65 minimum grade aviation gasoline.
+Engine limits,"For all operations, 2075 r.p.m. (220 hp.)"
+Airspeed limits CAS,"Level flight or climb 
+ 130 m.p.h. (113 knots) 
+ Glide or dive 
+ 187 m.p.h. (163 knots) 
+ Flaps extended 
+ 95 m.p.h. ( 83 knots)"
+Propeller Limits,Refer to pertinent item of equipment.
+CG range,(+18.6) to (+28.4).
+Empty weight CG range,"(+20.4) to (+23.0). When empty weight C.G. falls within this range, computation of critical fore 
+ and aft C.G. positions is unnecessary. Range is not valid when Buddy seat (Item 607) is installed 
+ or for any other non-standard arrangement."
+Maximum weight,"2900 lb. At weights over 2450 lb., placard as follows is required: ""INTENTIONAL SPINNING 
+ WITH FLAPS EXTENDED IS PROHIBITED."""
+No of seats,2 (One at +12 and one at +62)
+Maximum baggage,50 lb. (+98)
+Fuel capacity,"49 gal. (One 24 1/2 gal. tank in each wing) (+39) 
+ Usable capacity 45 gal. (22 1/2 gal. in each tank)"
+Oil capacity,4 gal. (-26)
+Control surface movements,"Aileron 
+ 28° Up 
+ 16° Down 
+ Elevators 
+ 33° Up 
+ 25° Down 
+ Rudder 
+ 30° Right 
+ 30° Left 
+ Elevator trim tab 
+ 0° Up 
+ 25° Down 
+ Flaps 
+ 55° Down"
+Serial Nos eligible,All AAF Nos. Use manufacturer's No. when available.
+¦,"See NOTES 5, 6 and 8 regarding airplanes manufactured by other than Fairchild."
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 4a, the following items of 
+ equipment must be installed: 
+ 3, 102, 103, 105(b), 109, 111, 112(a), 113, 602."
+Specifications Pertinent to All Models,
+Datum,Wing leading edge at root section.
+Leveling means,Leveling blocks welded on fuselage in rear cockpit
+Certification basis,Type Certificate No. 724 (CAR 4a)
+Production basis,"None. Prior to original certification an FAA agent must perform a detailed inspection for 
+ workmanship, materials, and conformity with the approved technical data, and a check of the 
+ flight characteristics."
+Export eligibility,"Eligible for export to all countries subject to the provisions of MOP 2-4, except as follows: 
+ Canada - Landplane - Eligible 
+ Skiplane - Not Eligible"
+Equipment,A Plus (+) or minus (-) sign preceding the weight of an item indicates net weight change when that item is installed.
+Propellers and Propeller Accessories,"Current 
+ M-62A"
+Superseded,"Item 
+ M-62A-3"
+Item No,"No. 
+ M-62A-4 
+ M-62B 
+ M-62C"
+101a,"1. 
+ Propeller - fixed pitch wood (incl. hub) with following limits: 
+ 40 lb. (-77) 
+ --- 
+ --- 
+ (Model M-62A) 
+ Static r.p.m. at max. permissible throttle setting: 
+ Not over 2075, not under 1900. No additional 
+ tolerance permitted. Diameter: Not over 86 in., 
+ not under 83 in. 
+ (Model M-62A-3 and M62A-4) 
+ Static r.p.m. at max. permissible throttle setting: 
+ Not over 2190, not under 1925. No additional 
+ tolerance permitted. Diameter: Not over 86 in., 
+ not under 83 in."
+101b,"2. 
+ Propeller - fixed pitch metal, Curtiss 55518-4, with following 
+ --- 
+ 48 lb. (-67) 
+ --- 
+ limits: 
+ Static r.p.m. at max. permissible throttle setting: Not 
+ over 1810, not under 1710. No additional tolerance 
+ permitted. Diameter: Not over 86 in., not under 83 in. 
+ --- 
+ --- 
+ 50 lb. (-59)"
+1,"3. 
+ Propeller - fixed pitch wood (incl. hub) with following limits: 
+ Static r.p.m. at max. permissible throttle setting. Not 
+ over 1850, not under 1750.. No additional tolerance 
+ permitted. 
+ Diameter: Not over 90 in., not under 87 in. 
+ Must be in the 90º position (blades at right angles to the 
+ crank throw) when installed on Continental W-670-6A 
+ or -6N engines."
+101c,"4. 
+ Propeller - fixed pitch metal, Curtiss 55518-10 (Models 
+ 50 lb. (-77) 
+ --- 
+ --- 
+ M-62A-3 and M-62A-4 only)"
+201,"5. 
+ Propeller - fixed pitch wood (incl. hub) with following limits: 
+ --- 
+ 48 lb. (-67) 
+ --- 
+ Static r.p.m. at max. permissible throttle setting: 
+ Not over 1920, not under 1750. No additional tolerance 
+ permitted. Diameter: Not over 86 in., not under 83 in."
+3,"6. 
+ Propeller - fixed pitch wood (less hub) Canadian built S&S, 
+ 30 lb. (-77) 
+ --- 
+ --- 
+ designation 220 issue ""D"" or Issue ""E""."
+4,"7. 
+ Propeller - Beech controllable, R203 with R203-100 hub and 
+ R201-211-88 or R201-237-88 blades 
+ With mechanical control 
+ 60 lb. (-78) 
+ --- 
+ --- 
+ With electrically operated mech. control 
+ 66 lb. (-75) 
+ --- 
+ --- 
+ Pitch setting at 33 in. sta. for M-62A: Low 9º, high 22º 
+ Static r.p.m. at low pitch setting for M-62A, M-62A-3, 
+ M-62A-4: Not over 2210, not uner 2110. No additional 
+ tolerance permitted. Diameter: Not over 88 in., not 
+ under 86 in. Index propeller in 0 degree position."
+5,"8. 
+ Propeller - Hartzell controllable, HC-12x20-1 with 8428-2 
+ 60 lb. 
+ --- 
+ --- 
+ (formerly 8628) blades (for M-62A only) 
+ Pitch setting at 30 in. sta.: 
+ Low 11.3º, high 20.1º. 
+ Static r.p.m. at max. permissible throttle setting (low 
+ pitch): Not over 2190, not under 2090. No additional 
+ tolerance permitted. Diameter: Not over 86 in., not 
+ under 84 in. 
+ Current 
+ M-62A"
+Superseded,"Item 
+ M-62A-3"
+Item No,"No. 
+ M-62A-4 
+ M-62B 
+ M-62C 
+ 30 lb. (-77) 
+ --- 
+ --- 
+ 9. 
+ Propeller - fixed pitch wood (less hub), Sensenich 82RS72 or 
+ any other fixed pitch wood propeller eligible for the engine 
+ power and speed which meets the following limits: 
+ (Models M-62A-3 and M-62A-4) 
+ Static r.p.m. at max. permissible throttle setting: Not 
+ over 2190, not under 2050. No additional tolerance 
+ permitted. Diameter: Not over 86 in., not under 82 in. 
+ Engines and Engine Accessories - Fuel and Oil System"
+104,"Starter (Manual) Eclipse 4H-6) 
+ 15 lb. (-30) 
+ 15 lb. (-39) 
+ ---"
+105,"Fuel pumps 
+ (a) Engine-driven (Pesco 227-D) 
+ 2 lb. (-32) 
+ 2 lb. ( -41) 
+ --- 
+ (B) Wobble (U.A.P. D-2) 
+ 3 lb. (+18) 
+ 3 lb. (+18) 
+ 3 lb. (+18)"
+106,"Oil cooler (U.A.P. U-3150-D5) 
+ 12 lb. (-44) 
+ --- 
+ ---"
+107,"NACA type ring cowl (Dwg. 684100) 
+ --- 
+ 24 lb. (-51) 
+ ---"
+108,"Exhaust manifold with itensifier tube (Dwg. 641115-A) 
+ --- 
+ 27 lb. (-45) 
+ ---"
+110,"Carburetor air maze (Dwg. 641147-1) 
+ --- 
+ 8 lb. (-40) 
+ ---"
+111,"Starter (manual) - Fairchild Dwg. 64100 
+ --- 
+ --- 
+ 29 lb. (-23)"
+112,"Fuel pump 
+ (a) Engine-driven (Type F-10) 
+ --- 
+ --- 
+ 2 lb. (-31)"
+113,"Carburetor air filter (air maze) 
+ --- 
+ --- 
+ 12 lb. (-30)"
+114,"Starter (electric) (Bendix EF-80) 
+ 19 lb. (-30) 
+ --- 
+ --- 
+ (M-62A-3 and M-62A-4 only)"
+115,"Rawdon cabin heater, installation and control (M-62A only) 
+ 7 lb. (-33) 
+ --- 
+ ---"
+202,"Carburetor air maze (Dwg. 68633-E) 
+ 5 lb. (-58) 
+ --- 
+ ---"
+301,"Engines 
+ (a) 
+ Ranger 6-440-C3 (M-62A only) 
+ No wt. 
+ --- 
+ --- 
+ Engine limits (73 min. grade fuel) 
+ change 
+ For all operations, 2450 r.p.m. (180 hp.) 
+ (b) 
+ Continental W-670-6A 
+ --- 
+ --- 
+ -5 lb. (-45)"
+303,"Starter (electric) (Eclipse Y-150) 
+ 21 lb. (-30) 
+ --- 
+ ---"
+308,"Oil cooper (U.A.P. U-3160-D5) 
+ +6 lb. (-44) 
+ --- 
+ ---"
+102,"7.50-10 wheels (Hayes 752M) with brakes and 6.50-10 tires 
+ 55 lb. ( + 9) 
+ 55 lb. (+ 9) 
+ 55 lb. (+ 9)"
+103,"8 in. streamline tail wheel and 6-ply cotton fabric tire 
+ 4 lb. (+216) 
+ 4 lb.(+216) 
+ 4 lb.(+216)"
+209,"10 in. smooth contour tail wheel and 6-ply tire 
+ +2 lb. (+216) 
+ +2 lb. (+216) 
+ +2 lb. (+216)"
+210,"7.50-10 wheels (Hayes 752A) with brakes and 6.50-10 cactus-proof 
+ tires 
+ +11 lb. (+9) 
+ +11lb, (+9) 
+ +11 lb. (+9)"
+211,"8 in. smooth contour tail wheel with 6-ply cotton fabric tire (a 4-ply cotton 
+ fabric tire may be used when airplane maximum weight is not over 2450 
+ lb.) 
+ Neglect Wt. 
+ Change"
+212,"Skis (eligible on any airplane of these models provided the propeller 
+ installation meets the minimum 9 in. ground clearance. The maximum 
+ weight for the skiplane will be the same as for the corresponding landplane 
+ or that shown in parenthesis after each ski model, whichever is (less) 
+ (a) 
+ Federal SC-4 (Maximum 2850 lb.) 
+ (b) 
+ Federal A-2500 (Maximum 2500 lb.), 
+ Federal Installation Dwg. 11G264 
+ (c) 
+ Federal A-2500A (Maximum 2500 lb.) 
+ Federal Installation Dwg. 11G264 
+ (d) 
+ Federal A-3500 (maximum 3500 lb.), 
+ Federal Installation Dwg. 11G264 
+ (e) 
+ Federal A-3500A (maximum 3500 lb.), 
+ Federal Installation Dwg. 11G264"
+213,"8 in. smooth contour or streamline tail wheel and 4-ply smooth contour or 
+ nylon fabric tire. 
+ Current 
+ M-62A"
+Superseded,"Item 
+ M-62A-3"
+Item No,"No. 
+ M-62A-4 
+ M-62B 
+ M-62C"
+204,"Six volt position light installation (reading 324L battery and box 15 lb. (- 
+ 22 lb. (0) 
+ 22 lb. (0) 
+ --- 
+ 16), Dwg. 68676) 
+ Following placard required in rear cockpit: 
+ ""NIGHT SOLO FLYING FROM FRONT SEAT ONLY."""
+205,"Twelve volt position light installation Dwg. 68650-3. 
+ 10 lb. (+39) 
+ 10 lb. (+39) 
+ --- 
+ Following placard required in rear cockpit: 
+ ""NIGHT SOLO FLYING FROM FRONT SEAT ONLY."""
+206,"Battery and box (Reading R-24) 
+ 28 lb. (+31) 
+ 28 lb. (+31) 
+ ---"
+208,"Landing lights 
+ --- 
+ (a) One Grimes ST-250 (Dwg. 68650-1) 
+ +6 lb. (+25) 
+ +6 lb. (+25) 
+ (b) Two Grimes ST-250 (Dwg. 68650-2) 
+ +12 lb. (+25) 
+ +12 lb. (+25) 
+ ---"
+302,"Generator (Elec. Spec. Co NA-1) 
+ 16 lb. (-27) 
+ --- 
+ ---"
+305,"Shielding (Air Associates) 
+ +5 lb. (-50) 
+ --- 
+ ---"
+309,"Generator (Bendix Model 8A Type 309) 
+ (M-62A-3 and M-62A-4 only) 
+ 21 lb. (-27) 
+ --- 
+ ---"
+109,"Windshields, etc., for open cockpit (Dwg. 60574) 
+ 30 lb. (+37) 
+ 30 lb. (+37) 
+ 30 lb. (+37)"
+203,"Cockpit enclosure (replacing item 109) (Dwg. 68400J) 
+ +45 lb. (+53) 
+ --- 
+ +45 lb. (+53) 
+ See Note 2(b) regarding placard required."
+601,"Irving model B acrobatic safety belt 
+ 3½ lb. ea. 
+ 3½ lb. ea. 
+ --- 
+ (+12, +62) 
+ (+12, +62)"
+602,"Rudder and elevator control system springs (Fairchild Dwg. 62177) 
+ x 
+ x 
+ x"
+603,"Cockpit enclosure (Radon Dwg. No. PT-1001) (Glide or dive speed 
+ +30 lb. 
+ +30 lb. 
+ +30 lb. 
+ limited to 187 mph CAS) 
+ (+49.5) 
+ (+49.5) 
+ (+49.5)"
+604,"Cockpit enclosures, front and rear. (RAD Air Devices, Inc. drawings 24, 
+ 25, and 26) (Formerly Robertson) (Glide or dive speed limited to 
+ 12 lb. (+12) 
+ 12 lb. (+12) 
+ 12 lb. (+12) 
+ 187 mph CAS) 
+ 12 lb. (+62) 
+ 12 lb. (+62) 
+ 12 lb. (+62)"
+605,"Top hatch cockpit enclosure (Service Equipment Co.) See Note 2(b) 
+ regarding placard required. 
+ 68 lb. (+47) 
+ 68 lb. (+47) 
+ 68 lb. (+47)"
+606,"Cockpit enclosure, front and rear. (Holme-Shaw Products drawing 
+ D-101) 
+ 5 lb. (+12 
+ 5 lb. (+12) 
+ 5 lb. (+12) 
+ (Glide or dive speed limited to 187 m.p.h. CAS) 
+ 5 lb. (+62) 
+ 5 lb. (+62) 
+ 5 lb. (+62)"
+607,"Buddy Seat (Service Equipment Co's dwgs. 1100, 1101, and 1102) 
+ (Not eligible unless airplane is also equipped with cockpit enclosure) 
+ 14 lb. (+45) 
+ --- 
+ 14 lb. (+45)"
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight empty, and loading 
+ instructions when necessary, must be in each aircraft at the time of original certification and at all times thereafter 
+ (except in the case of air carrier operators having an approved weight control system)."
+NOTE 2,"(a) 
+ The following placard should be added adjacent to each fuel tank filler opening: 
+ ""ACTUAL CAPACITY 24 1/2 GAL. USABLE CAPACITY 22 1/2 GAL."" 
+ (b) 
+ With cockpit enclosure Item 203 or 605 installed, the following placard(s) is (are) required in both cockpits: 
+ (1) 
+ On all airplanes: ""COCKPIT ENCLOSURE TO BE OPEN ON ALL TAKE-OFFS AND LANDINGS."" 
+ (2) 
+ On M-62A, M-62A-3 and M-62A-4 airplanes on which control system bungees have not 
+ been installed, and on all M-62B airplanes: ""FLY SOLO FROM FRONT SEAT ONLY."" 
+ (c) 
+ With position lights installed, the following placard is required in the rear cockpit: 
+ ""NIGHT SOLO FLYING FROM FRONT SEAT ONLY."" 
+ (d) 
+ The following placard is required for all models with maximum weight of more than 2450 lb.: 
+ ""INTENTIONAL SPINNING WITH FLAPS EXTENDED PROHIBITED."""
+NOTE 3,"(a) 
+ Model M-62A and corresponding Army models are eligible without Item 602 at a maximum weight 
+ of 2450 lb. provided the C.G. range is restricted to (+19.8) to (+27.6) and a placard is installed 
+ which states, ""INTENTIONAL SPINNING PROHIBITED"". This spin placard may be removed provided 
+ the C.G. range is further restricted to (+19.8) to (+26.1). In either case, the following limitations apply: 
+ Airspeed limits: 
+ Level flight or climb 
+ 142 m.p.h. 
+ (CAS) 
+ Glide or dive 
+ 191 m.p.h. 
+ Flaps extended 
+ 95 m.p.h. 
+ Propeller limits: 
+ Static r.p.m. at maximum permissible throttle setting - not over 2075, not under 1900. 
+ No additional tolerance permitted. 
+ Diameter - not more than 94 in.; not less than 83 in. 
+ (b) 
+ Model M-62A-3 and M-62A-4 and corresponding Army and Canadian built models are eligible without 
+ Item 602 at a maximum weight of 2450 lb. provided the C.G. range is restricted to (+19.8) to (+27.6) 
+ and a placard is installed which states: ""INTENTIONAL SPINNING PROHIBITED"". 
+ This spin placard may be removed provided the C.G. range is further restricted to (+19.8) to (+26.1). 
+ In either case the following limitations apply: 
+ Airspeed limits: 
+ Level flight or climb 
+ 142 m.p.h. 
+ (CAS) 
+ Glide or dive 
+ 203 m.p.h. 
+ Flaps extended 
+ 95 m.p.h. 
+ Propeller limits: Static r.p.m. at maximum permissible throttle setting - with fixed pitch metal: not over 2080, 
+ not under 1980. With fixed pitch wood: Not over 2190, not under 1925. No additional 
+ tolerance permitted. Diameter (metal or wood): Not over 86 in.; not under 83 in."
+NOTE 4,"(a) 
+ Prior to civil certification of Army models equivalent to all M62 series models, the following shall be 
+ accomplished in addition to requirements previously noted: 
+ (1) 
+ Rework the control sticks to safety the sticks in their sockets in accordance with Fairchild Service 
+ Bulletin No. 44-62-2. 
+ (2) 
+ Provide boots around the base of the control sticks in accordance with Fairchild Service Bulletin NO. 44-62-2. 
+ (3) 
+ Reinforce the forward attachment of vertical fin in accordance with Fairchild Service Bulletin No. 44-62-1. 
+ (b) 
+ Prior to civil certification of Army models equivalent to model M-62A, the following work must be 
+ accomplished in addition to requirements previously noted: 
+ (1) 
+ Revise airspeed pitot mast installation in accordance with Fairchild Service Bulletin NO. 45-62-9. 
+ Pitot installations emanating from the wing center section are considered satisfactory without modification. 
+ (2) 
+ In order to be eligible for night operation, any PT-19 Series airplane having uncertificated position 
+ lights should have them replaced with approved types. If Air Force Type A-9 wing tip lights are installed, 
+ they may be used provided the sand-blasted surface on the inside of the cover glass is painted black. 
+ (c) 
+ Prior to civil certification of Army models equivalent to Model M-62A-3 or M-62A-4, the following 
+ must be accomplished in addition to requirements previously noted: 
+ (1) 
+ Revise airspeed pitot mast installation in accordance with Fairchild Service Bulletin No. 45-62-9. Pitot 
+ installations emanating from the wing center section are considered satisfactory without modification. 
+ (2) 
+ Replace the aluminum alloy cockpit heat control valve box and valve with a valve and box made of ferrous 
+ metal at least .018 inch thick. If ordinary steel is used, it should be suitably protected against corrosion. 
+ In lieu of the foregoing, it will be satisfactory to remove the valve box and to seal the opening in the firewall 
+ with an overlapping sheet of ferrous metal secured with the present bolts and nuts. 
+ (3) 
+ Relocate the generator fuse and its spare so that they are accessible to the pilot. 
+ (d) 
+ Prior to civil certification of Army models equivalent to model M-62C, the following work must be 
+ accomplished in addition to requirements previously noted. 
+ (1) 
+ Carburetor hot air duct to be lagged with asbestos over entire length. 
+ (2) 
+ Revise airspeed pitot mast installation in accordance with Fairchild Service Bulletin No. 45-62-9. Pitot 
+ installations emanating from the wing center section are considered satisfactory without modification. 
+ (3) 
+ Install cone type rubber engine mounts in accordance with Fairchild Aircraft Service Bulletin No. 45-62-11 
+ dated September 4, 1945."
+NOTE 5,"The following aircraft were fabricated by the Aeronca Aircraft Corporation, Howard Aircraft Corporation or St. Louis 
+ Aircraft Corporation as licensees and are identical to those manufactured by Fairchild Aircraft Corporation. 
+ They are distinguished by the suffix ""AE"", ""HO"" or ""SL"" to the model designation and serial number. 
+ AIRCRAFT FABRICATED BY AERONCA AIRCRAFT CORPORATION 
+ Model Serial Nos. 
+ PT-19A-AE 
+ 4763-AE to 4833-AE, inclusive 
+ PT-19B-AE 4843-AE to 6263-AE, inclusive 
+ PT-19A-AE 6273-AE to 10954-AE, inclusive 
+ PT-23-AE 
+ 1012-AE to 4753-AE, inclusive 
+ AIRCRAFT FABRICATED BY HOWARD AIRCRAFT CORPORATION 
+ Model Serial Nos. 
+ PT-23-HO 
+ 101-HO to 450-HO, inclusive 
+ AIRCRAFT FABRICATED BY ST. LOUIS AIRCRAFT CORPORATION 
+ Model Serial Nos. 
+ PT-19A-SL 
+ 224-SL, 235-SL, 238-SL, 251-SL, 254-SL, 280-SL, 282-SL, 284-SL, 286- SL, 288-SL, 
+ 290-SL to 304-SL, inclusive, 306-SL, 308-SL, 310-SL, 312- SL, 314-SL, 316-SL, 318-SL, 
+ 320-SL, 322-SL, 324-SL, 326-SL, 328-SL, 330-SL, 332-SL, 334-SL, 336-SL, 338-SL, 340-SL, and 342-SL. 
+ PT-23-SL 
+ 1-SL TO 200-SL, inclusive. 
+ PT-23A-SL 
+ 201-SL to 223-SL, inclusive, 225-SL to 234-SL, inclusive, 236-SL, 237- SL, 239-SL, to 250-SL, 
+ inclusive, 252-SL, 253-SL, 255-SL to 279-SL, inclusive, 281-SL, 283-SL, 285-SL, 287-SL, 
+ 289-SL, 305-SL, 307-SL, 309-SL, 311-SL, 313-SL, 315-SL, 317-SL, 319-SL, 321-SL, 323-SL, 
+ 325- SL, 327-SL, 329-SL, 331-SL, 333-SL, 335-SL, 337-SL, 339-SL, 341-SL, 343-SL to 350-SL, inclusive."
+NOTE 6,"The following aircraft which were either fabricated or modified by Fleet Aircraft, Ltd., Fort Erie, Canada, are also eligible: 
+ Model Serial Nos. 
+ PT-23 
+ FE-1 to FE-93, inclusive 
+ PT-26A 
+ FC-1 to FC-250, inclusive 
+ PT-26B 
+ FZ-198 to FZ-426, inclusive 
+ PT-26B 
+ FZ-699 to FZ-718, inclusive 
+ PT-26A 
+ FV-100 to FV-899, inclusive 
+ PT-26A 
+ FT-542 to FT-830, inclusive 
+ PT-26A 
+ FW-881 to FW-998, inclusive 
+ PT-26A 
+ FX-100 to FX-197, inclusive"
+NOTE 7,"It is recommended that the following limitations which were included in both AAF and RCAF operating 
+ instructions, be adhered to: 
+ MANEUVERS PROHIBITED 
+ (1) 
+ Outside loops, 
+ (2) 
+ Any maneuvers which might impose excessive negative loads on the airplane, 
+ (3) 
+ Snap rolls in excess of 100 m.p.h., 
+ (4) 
+ Immelman turns in excess of 170 m.p.h., 
+ (5) 
+ Slow rolls in excess of 150 m.p.h., 
+ (6) 
+ Indicated airspeed in excess of 191 m.p.h."
+NOTE 8,"The following aircraft which were fabricated by D. D. Funk Aviation Company, Tulsa, Oklahoma are eligible for 
+ the model M-62C: 
+ Funk F-23A, Serial Nos. 1 and up when modified in accordance with Supplemental Type Certificate SA333SW."

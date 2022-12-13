@@ -1,0 +1,390 @@
+Keyterm,Info
+"A33EU 
+ Revision 4 
+ DASSAULT AVIATION 
+ Falcon 10 
+ March 2, 2010",
+Type Certificate Holder,DASSAULT AVIATION
+See NOTE 6,"9 Rond Point des Champs Elysees 
+ 75008 Paris 
+ France"
+"I - MODEL FALCON 10 (Transport Category Airplane), Approved September 20, 1973",
+Engines,"2 - Airesearch Manufacturing Company of Arizona, Model TPE731-2-1C 
+ (FAA Engine Type Certificate E6WE-1)"
+Fuel,"Fuels conforming to Airesearch Manufacturing Company of Arizona specifications: 
+ EMS 53111 (Type JET A) 
+ EMS 53112 (Type JET A 1) 
+ EMS 53113 (Type Jet B and JP4) 
+ EMS 53116 (Type JP5) 
+ Aviation gasoline, MIL-G-5572D, grades 80/87, 100/130 and 115/145, not in excess of 
+ 500 gallons per 100 hours of operation, may be used in emergencies. 
+ Shall ASA-3, anti-static additive, or equivalent, in amounts to bring fuel up to 300 
+ conductivity units, is permissible except that in no event shall the additive exceed 1 ppm. 
+ MIL-I-27686E inhibitor, icing, fuel system, or equivalent, is approved for use in fuel in 
+ amounts up to 0.15 percent by volume. 
+ If a different type of fuel is used, or a mixture of fuels is used, the engine computer must 
+ be adjusted (to adapt the computer to the density of the fuel used) in order to preserve 
+ both the starting characteristics and the acceleration and deceleration characteristics of 
+ the engine."
+Oil,"Oils conforming to Airesearch Manufacturing Company of Arizona Specification EMS 
+ 53110, Class B. 
+ (Service Information letters of the Airesearch Manufacturing Company of Arizona give 
+ brand names of oils conforming to the above specification)."
+Page No 1,"2 
+ 3 
+ 4 
+ 5"
+RevNo,"4 
+ 2 
+ 2 
+ 3 
+ 3"
+Engine Limits,"Maximum takeoff static thrust, up to 86°F 
+ Sea level conditions (5 minutes) 
+ lb. 3,230 
+ Maximum continuous static thrust, up to 86°F 
+ Sea level conditions 
+ lb. 2,966 
+ Maximum permissible engine operating speeds 
+ (Takeoff and maximum continuous) 
+ Low pressure rotor (N1) RPM 
+ 20,688 
+ Percent 100% 
+ High pressure rotor (N2) RPM 
+ 29,692 
+ Percent 100% 
+ Maximum permissible interstage turbine temperature (ITT) 
+ During starting 
+ 860°C (1,580°F) 
+ Takeoff (5 minutes) 
+ 860°C (1,580°F) 
+ Maximum continuous 
+ 832°C (1,530°F) 
+ Oil pressure limits 
+ At idle, psig 
+ 25 to 46 
+ Takeoff and maximum continuous psig 
+ 38 to 46 
+ Oil temperature 
+ Maximum from sea level up to 30,000 ft. 
+ 113°C (235°F) 
+ Maximum above 30,000 ft. 
+ 132°C (270°F) 
+ Minimum 
+ -40°C ( -40°F) 
+ Fuel pressure 
+ Minimum fuel pressure warning, psi 4.5"
+Airspeed Limits,"VMO (Maximum Operating 
+ 350 kts at sea level; 370 kts at 10,000 ft., with straight line variation 
+ between those points. 
+ 370 kts from 10,000 ft. to 25,000 ft. 
+ MMO (Maximum Operating) 
+ M = 0.87 above 25,000 ft. 
+ VA (Maneuvering) 
+ 220 kts 
+ VFE (Slat and Flap Speed) 
+ Slats 
+ 200 kts 
+ Slats + Flaps 15° 
+ 190 kts 
+ Slats + Flaps 30° 
+ 165 kts 
+ Slats + Flaps 52° 
+ 165 kts 
+ VLO (Landing Gear Operation) 
+ 190 kts 
+ VLE (Landing Gear Extended) 
+ 220 kts 
+ Windshield Wiper Operation 
+ 190 kts 
+ VMC (Minimum Control Speed) 
+ In flight 
+ 97 kts 
+ On ground 
+ 100 kts"
+CGRange Gear Extended,"Forward limit % MAC 
+ Weight(lb) 
+ Aft limit % MAC 
+ Takeoff 
+ En Route 
+ Landing 
+ 18,300 
+ 25 
+ 25 
+ -- 
+ 31 
+ 17,200 
+ 21.2 
+ 21.2 
+ 21.2 
+ 31 
+ 15,720 
+ 16 
+ 16 
+ 16 
+ 31 
+ 13,230 
+ 16 
+ 14 
+ 14 
+ 31 
+ 9,920 
+ 16 
+ 14 
+ 14 
+ 31 
+ Straight-line variation between points shown. 
+ Gear retraction moment is + 1750 in.lb."
+Datum,"Datum is 25% of mean aerodynamic chord (MAC) which is marked on aircraft and 
+ coincides with Fuselage Station (FS) + 268.28 inches. 
+ (Fuselage station +0 is the forward end of the aircraft nose cone.)"
+Mean Aerodynamic Chord,"Length 
+ 80.54 in. 
+ Zero % MAC is at FS +248.15 in."
+Leveling Means,"A bubble-type level, when placed on the top of bolt heads (with locknuts) on the floor of 
+ the fuselage rear compartment, facilitates leveling of the airplane in the longitudinal and 
+ lateral directions."
+Weight Limitations,"Maximum Weights 
+ Maximum ramp 
+ 18,300 lb. 
+ Maximum takeoff (brake release) 
+ 18,300 lb.(See NOTE 3 and 4) 
+ Maximum landing 
+ 17,200 lb. 
+ Maximum zero fuel 
+ 12,460 lb (See NOTE 3) 
+ Minimum weight 
+ 9,920 lb"
+Minimum Crew,2 - Pilot and co-pilot
+Maximum Passengers,"9 with appropriate approved passenger provisions for cabin interior and approved 
+ seating arrangement. 
+ (AMD Production Memo No. 1908 identifies approved passenger provisions 
+ and seating arrangement for a maximum of 7 passengers). 
+ 0 - without passenger provisions for cabin interior but incorporating AMD 
+ Ferry Kit per Production Memo No. 751."
+Maximum Baggage,"Compartment 
+ Weight (lb) 
+ Arm*(in) 
+ In the coat rack 
+ - without galley, with retainer 
+ 180 
+ -110.0 
+ - with galley 
+ 90 
+ -102.5 
+ On the rear tank 
+ 500 
+ +44.5 
+ On the folded back of the 
+ three-people divan 
+ 500 
+ + 9.5 
+ * Arm is taken from 25% MAC."
+Fuel Capacity,"(Average - Refer to weight and balance report of each individual airplane for exact capacity). 
+ U.S. Gallons 
+ Pounds 
+ Arm (in) 
+ USABLE FUEL 
+ in both wings 
+ 470.0 
+ 3,150 
+ -7 
+ in both fuselage tanks 
+ 412.0 
+ 2,762 
+ +47 
+ TOTAL USABLE 
+ 882.0 
+ 5,912 
+ +18 
+ UNUSABLE FUEL 
+ - Drainable unusable fuel 
+ in both wings 
+ 1.0 
+ 7 
+ -7 
+ in both fuselage tanks 
+ 3.5 
+ 24 
+ -47 
+ - Tank trapped fuel 
+ in both wings 
+ 1.0 
+ 7 
+ -7 
+ in both fuselage tanks 
+ - 
+ - 
+ - 
+ - Line trapped fuel 
+ 0.5 
+ 4 
+ +50 
+ - Engine trapped fuel 
+ 1.5 
+ 10 
+ +55 
+ TOTAL FUEL 
+ in both wings 
+ 472 
+ 3,164 
+ -7 
+ in both fuselage tanks 
+ 415.5 
+ 2,786 
+ +47 
+ in lines and engines 
+ 2.0 
+ 14 
+ +54 
+ TOTAL 
+ 889.5 
+ 5,964 
+ +18 
+ Pressure Fueling 
+ Maximum pressure for pressure fueling is 50 psi."
+Oil Capacity,"Usable, 0.5 U.S. gallon (at Arm + 75 in.)"
+each engine,"Unusable, 2.25 U.S. gallon (at Arm + 75 in.)"
+Maximum Operating Altitude,"45,000 feet"
+Control Surface Movements,"Elevator 
+ Up 18°30’(±10’) 
+ Down 12° (± 10’) 
+ Rudder 
+ Right 35° (± 10’) 
+ Left 35° (± 10’) 
+ Aileron 
+ Up 15°30’ (+0°10’ -0°30’) 
+ Down 13°30’(+0°10’-0°30’) 
+ Flaps 
+ Down 52° (±30’) 
+ Airbrakes 
+ Up 50° 
+ Wing slats 
+ Internal 20° (+30’ -0) 
+ External 31°10’ (+30’ -0) 
+ Stabilizer: 
+ Electrical stops: 
+ Nose down 0°14’ (±10’) 
+ Nose up 12°16’ (±10’) 
+ Mechanical stops: Nose down (max) 0°35’ 
+ Nose up (max) 12°55’ 
+ Structural stops: 
+ Nose down (min) 1° 
+ Nose up (min) 13°15’"
+Serial Numbers Eligible,"A French “Certificat de navigabilite pour Exportation” endorsed as noted under “Import 
+ Requirements”, must be submitted for each individual aircraft for which application for 
+ U.S. Certification is made."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on an NAA Export Certificate 
+ of Airworthiness (Export C of A) signed by a representative of the Direction Générale de 
+ l'Aviation Civile (DGAC) of France on behalf of the European Community. The Export 
+ C of A should contain the following statement: ‘The aircraft covered by this certificate 
+ has been examined, tested, and found to conform with Type Design approved under U.S. 
+ Type Certificate No. A33EU and to be in a condition for safe operation.’"
+Certification Basis,"FAR Part 25 dated February 1, 1964, including Amendment Nos. 25-1 through 
+ 25-20. 
+ FAR Part 36, including Amendment 36-1. 
+ FAA Special Conditions No. 25-49-EU-14, dated April 16, 1973. 
+ Type Certificate A33EU issued September 20, 1973. 
+ Date of Application for Type Certificate: June 18, 1969. 
+ The Direction Générale de l'Aviation Civile (DGAC) of France originally type 
+ certificated this aircraft under its type certificate Number 142. The FAA validated this 
+ product under U.S. Type Certificate Number A33EU. Effective September 28, 2003, the 
+ European Aviation Safety Agency (EASA) began oversight of this product on behalf of 
+ the Direction Générale de l'Aviation Civile (DGAC) of France."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed on the aircraft for Certification. The 
+ equipment list for Falcon 10 contains lists of all equipment as well as optional 
+ equipment approved by Secretariat General a l’Aviation Civile (SGAC) of France. 
+ In addition, the following is required: 
+ (a) SGAC or FAA-approved Falcon 10 Airplane Flight Manual, approved 
+ October 17, 1973 
+ (b) Nose wheel must be equipped with a chined tire."
+Service Information,"Each of the documents listed below that contain a statement that it is approved by the 
+ European Aviation Safety Agency (EASA) - or for approvals made before September 28, 
+ 2003 - by the Direction Générale de l'Aviation Civile (DGAC) of France, are accepted by 
+ the FAA and are considered FAA approved. Additionally, approvals issued by Dassault 
+ Aviation under the authority of EASA approved Design Organization EASA.21J.051 - 
+ or for approvals made before September 28, 2003 - under the authority of DGAC Design 
+ Organization Approval No. F.JA.03 are considered FAA approved. These approvals 
+ pertain to the type design only. 
+ • Dassault Aviation Service Bulletins, except as noted below, 
+ • Structural repair manuals, 
+ • Vendor manuals referenced in Dassault Aviation service bulletins 
+ • Aircraft flight manuals, 
+ • Repair Instructions. 
+ Note: Design changes that are contained in Dassault Aviation Service Bulletins and that 
+ are classified as Level 1 Major in accordance with either the US/France or US/EASA 
+ Bilateral Aviation Safety Agreement Implementation Procedures for Airworthiness must 
+ be approved by the FAA."
+NOTE 1,"Weight and Balance. 
+ a. 
+ Current weight and balance report, including list of equipment in certificated empty weight and loading 
+ instructions must be provided for each aircraft at delivery. 
+ b. 
+ The airplane must be loaded so that the CG is within the specified limits at all times with the effect of 
+ fuel used and a movement of crew and passengers from their assigned position being considered. 
+ c. 
+ The following must be included in the airplane empty weight: 
+ The total Unusable Fuel (52 lb.) listed under Fuel Capacity, plus unusable oil (36 lb. at 
+ +75 inches), plus hydraulic fluid (77 lb. at +45 inches)."
+NOTE 2,"Service Life Limits. 
+ Service life limits for airframe structural components which are fatigue critical, if any, are listed in the FAA- 
+ approved Airplane Flight Manual for Falcon 10."
+NOTE 3,"Airplane S/N 55 and subsequent, and prior serial numbers incorporating AMD/BA Modification No. 150 or 
+ Service Bulletin No. F10-0052, are eligible for operation at a maximum takeoff weight of 18,743 lbs. 
+ (8500 kg) in accordance with SGAC-approved Falcon 10 Airplane Flight Manual Revision No. 7 and at 
+ maximum zero fuel weight of 13,560 lbs (6150 kg) in accordance with DGAC-approved Falcon 10 Airplane 
+ Flight Manual Revision 10 on behalf of FAA."
+NOTE 4,"Airplane S/N 212 and subsequent, and prior serial numbers incorporating AMD-BA Modification M151 or 
+ Service Bulletin No. F10-238, are eligible for operation with the following maximum weights, in accordance 
+ with DGAC-approved Falcon 10 Airplane Flight Manual Revision 23 on behalf of FAA. 
+ Maximum ramp 
+ 19,405 lb 
+ Maximum takeoff (brake release) 
+ 19,305 lb 
+ Maximum landing 
+ 17,640 lb 
+ Maximum zero fuel 
+ 14,420 lb 
+ Minimum flight weight 
+ 9,920 lb 
+ The associate CG range (gear extended) is then as follows: 
+ Forward limit % MAC 
+ Weight(lb) 
+ Takeoff 
+ En Route 
+ Landing 
+ Aft limit % MAC 
+ 9,920 
+ 16 
+ 14 
+ 14 
+ 31 
+ 13,230 
+ 16 
+ 14 
+ 14 
+ 31 
+ 15,720 
+ 16 
+ 16 
+ 16 
+ 31 
+ 17,640 
+ 21.8 
+ 21.8 
+ 21.8 
+ 31 
+ 19,305 
+ 26.6 
+ 26.6 
+ 31 
+ 19,405 
+ 27 
+ 31"
+NOTE 5,"Airplanes incorporating AMD-BA Service Bulletin No. F10-0082 are eligible for operation on unpaved 
+ runways in accordance with DGAC approved Falcon 10 Airplane Flight Manual Supplement No 1 and F10 
+ Flight Manual Revision 9, on behalf of FAA."
+NOTE 6,"Effective June 19, 1990 the name of AVIONS MARCEL DASSAULT-BREGUET AVIATION changed to 
+ DASSAULT AVIATION. The new name will appear as of this date on all documents and nameplates. 
+ However, documents bearing the old name remain valid and will be updated when and where necessary."

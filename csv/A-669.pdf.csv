@@ -1,0 +1,1608 @@
+Keyterm,Info
+"A-669 
+ Revision 32 
+ BOEING 
+ DC3A-SCG 
+ DC3A-SC3G 
+ DC3A-S1CG 
+ DC3A-S1C3G 
+ (Army C-41, C-41A, C-48, C-48A, 
+ C-52, C-52A, C-52B, C-52C, 
+ C-53, C-53B, C-53C, C-53D, C-68; 
+ Navy R4D-3, R4D-4) 
+ DC3A-S4C4G 
+ DC3C-SC3G 
+ DC3C-S1C3G, -S4C4G 
+ (Army C-47, C-47A; 
+ Navy R4D-1, R4D-5) 
+ DC3C-R-1830-90C 
+ (Army C-47B, Navy R4D-6) 
+ DC3D-R-1830-90C 
+ (Army C-117A) 
+ September 27, 2010",
+Type Certificate Holder,"The Boeing Company 
+ 4000 Lakewood Boulevard 
+ Long Beach, California 90808"
+Type Certificate Holder Record,"McDonnell Douglas Corporation, Long Beach, California merged with The Boeing 
+ Company in 1997. Transferred Type Certificate to the Boeing Company on 
+ September 27, 2010. 
+ Douglas Aircraft Company, Inc., Long Beach, California merged with McDonnell 
+ Aircraft Corporation August 25, 1967"
+"I - Model DC3A-SCG-app. 9 Feb. 1940 or DC3A-SC3G app. 1 May 1939. 
+ Models DC3A-SCG and DC3A-SC3G become models DC3A-S1CG and DC3A-S1C3G, respectively or vice versa, 
+ depending only upon the grade of the fuel used. Pertinent aircraft and engine model designations and engine ratings apply 
+ without changing the nameplates. Ignition timings should be 20° BTC with 87 grade fuel and 25° BTC with 91 grade fuel.",
+Engines,"2 P&W Twin Wasps SCG or SC3G, geared 16:9, with one 3-1/2 N damper"
+Fuel,87 min. grade aviation gasoline
+Engine limits,"Maximum continuous, 
+ (Sea level) 36.0 in. Hg, 2550 rpm (900 hp) 
+ (Straight line manifold pressure variation with altitude to 
+ 12,000 ft.) 34.0 in. Hg, 2550 rpm (900 hp) 
+ Take-off (one minute), 
+ 42.0 in. Hg, 2700 rpm (1050 hp)"
+Airspeed limits,"(a) For weights up to and including 24,800 lbs.: 
+ Level flight or climb 
+ 217 mph (189 knots) True Ind. 
+ Glide or dive 
+ 262 mph (228 knots) True Ind. 
+ Flaps extended 
+ 112 mph ( 97 knots) True Ind."
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22"
+32,"31 
+ 31 
+ 31 
+ 31 
+ 29 
+ 31 
+ 31 
+ 29 
+ 29 
+ 31 
+ 29 
+ 29 
+ 29 
+ 29 
+ 29 
+ 29 
+ 29 
+ 29 
+ 29 
+ 29 
+ 29 
+ (See NOTE 11 for partial flap speeds) 
+ (b) For weights between 24,800 lbs. and 25,200 lbs.: 
+ Level flight or climb 
+ 211 mph (184 knots) True Ind. 
+ Glide or dive 
+ 257 mph (224 knots) True Ind. 
+ Flaps extended 
+ 112 mph ( 97 knots) True Ind. 
+ (See NOTE 11 for partial flap speeds)"
+Usable ceiling,"May be realized under conditions shown. See Items 502(f), (g), (h), (i) and NOTE 6 for 
+ reduction necessitated by de-icing equipment. 
+ Propellers 
+ installed 
+ T.I.A.S. 
+ Manifold 
+ (items) 
+ L.E. De-Icers 
+ mph - knots 
+ Pressure"
+Ceiling ft,"Weight (lbs.) 
+ RPM"
+c,"24,400 
+ 2550 
+ Full throttle 
+ 117 - 102 
+ 1(a) or 1(b) 
+ Yes but not operating"
+10000,"25,200 
+ 2559 
+ METO 
+ 117 - 102 
+ 1(a) or 1(b) 
+ Yes but not operating 
+ Additional conditions: (1) Standard air 
+ (2) Either engine inoperative 
+ (3) Inoperative prop. fully feathered 
+ (4) Carburetor air intake on ""Cold Air"" 
+ (5) Fuel 87 grade."
+CG range,(+47.1) to (+70.6)
+Max Occupants,See 14 CFR § 91.607
+Maximum weights,(a) For Air Carrier operation under the non-transport category
+See NOTE 13 for,performance operation limitations of 14 CFR § 121.
+certification,"Landing 
+ 25,200 lbs."
+under SR407,"Take-off 
+ 25,200 lbs. 
+ (b) For passenger operation other than Air Carrier: 
+ Landing 
+ 25,200 lbs. 
+ Take-off 
+ 25,200 lbs. 
+ (c) For cargo operation under the non-transport category performance operation 
+ (limitations FAR 121. 
+ Landing 
+ 25,200 lbs. 
+ Take-off 
+ 25,200 lbs. 
+ See NOTE 5 for increased weights when de-icers are installed."
+Maximum baggage,"Maximum capacity of compartments: 
+ 2 adjacent compts. fwd. of cabin, right 
+ 1250 lbs. (-63) 
+ 2 adjacent compts. fwd. of cabin, left 
+ 700 lbs. (-45) 
+ Aft of cabin 
+ 1500 lbs. (+354) 
+ See NOTE 1 for additional restrictions and placards."
+Fuel capacity,"822 gals. (4 tanks in CS wing: 2 main, including fuel system, 210 
+ gals. each (+48) and 2 aux. 201 gals. each at (+83.5)). 
+ See NOTE 2 regarding fuel loading procedures."
+Oil capacity,"66-1/2 gals. (One tank in each nacelle at 33-1/4 gals. each (-8), including capacity of oil 
+ system)"
+Serial Nos eligible,"1900 and up 
+ (See NOTE 14)"
+Required equipment,"Items 1(a), 2(a), (e) and (j), 103(a), 104(a), 108, 201(a), 202(a), 203(a), 204, 205(a), 206, 
+ 207(a), 208(a), 301(a) and 302(a)."
+"II - Model DC3A-S1CG or DC3A-S1C3G (Army C-41, C-41A, C-48, C-48A, C-52, C-52A, C-52B, C-52C, C-53, 
+ C-53B, C-53C, C-53D, C-68; Navy R4D-3, R4D-4), approved October 31, 1937 and May 1, 1939, respectively. 
+ See NOTE 7 for modifications required for conversion of military models. Models DC3A-S1CG and DC3A-S1C3G 
+ become models DC3A-SCG and DC3A-SC3G, respectively or vice versa, depending only upon the grade of the fuel used. 
+ Pertinent aircraft and engine model designations and engine ratings apply without changing the nameplate. Ignition 
+ timings should be 20° BTC with 87 grade fuel and 25° BTC with 91 grade fuel.",
+Engines,"2 P&W Twin Wasps S1CG or S1C3G, geared 16:9, with one 3-1/2 N damper 
+ See Item 101.(a) and (c) for optional engines."
+Fuel,91 min. grade aviation gasoline
+Engine limits,"Maximum continuous, 
+ (Sea level) 41.5 in. Hg, 2550 rpm (1050 hp) 
+ (Straight line manifold pressure variation with altitude to 
+ 7500 ft.) 
+ 39.5 in. Hg, 2550 rpm (1050 hp) 
+ Take-off (one minute), 
+ 48.0 in. Hg, 2700 rpm (1200 hp), or 
+ 47.0 in. Hg, 2750 rpm (1200 hp)"
+Airspeed limits TIAS,"Between 25,200 lbs. 
+ and 26,900 lbs. 
+ Between 24,800 lbs. 
+ Up to and including 
+ (cargo only) 
+ and 25,200 lbs. 
+ 24,800 lbs. 
+ Level flight or climb 
+ 217 mph (189 knots) 
+ 211 mph (184 knots) 
+ 200 mph (174 knots) 
+ Glide or dive 
+ 262 mph (228 knots) 
+ 257 mph (224 knots) 
+ 241 mph (210 knots) 
+ Flaps extended 
+ 112 mph ( 97 knots) 
+ 112 mph ( 97 knots) 
+ 112 mph ( 97 knots) 
+ See Note 11 for partial flap speeds."
+Usable ceiling,"May be realized under conditions shown. See Items 502(f), (g), (h), (i) and NOTE 6 for 
+ reductions necessitated by de-icing equipment. 
+ Propellers 
+ L.E. 
+ Fuel 
+ installed 
+ T.I.A.S. 
+ Manifold 
+ De-Icers 
+ grade 
+ (items) 
+ mph - knots 
+ Pressure"
+Ceiling ft,"Weight (lbs.) 
+ RPM"
+11600,"25,200 
+ 2550 
+ Full throttle 
+ 112 - 97 
+ 1(a), (b) or (d) 
+ 91 
+ Yes"
+10000,"25,200 
+ 2550 
+ Full throttle 
+ 103 - 90 
+ 1(c) 
+ 91 
+ No"
+9500,"26,900 
+ 2550 
+ Full throttle 
+ 112 - 97 
+ 1(a), (b) or (d) 
+ 91 
+ Yes"
+7900,"26,900 
+ 2550 
+ Full throttle 
+ 103 - 90 
+ 1(c) 
+ 91 
+ Mp 
+ Additional conditions: (1) Standard air 
+ (2) Either engine inoperative 
+ (3) Inoperative propeller fully feathered 
+ (4) Carburetor air intake on ""Cold Air"" 
+ (5) Where L.E. De-icers are installed, they are not being 
+ operated."
+CG range,(+47.1) to (+70.6)
+Max Occupants,See 14 CFR § 91.607
+Maximum weights,(a) For Air Carrier operation under the non-transport category
+See NOTE 13 for,performance operation limitations of FAR 121.
+certification,"Landing 
+ 25,200 lbs."
+under SR407,"Take-off 25,200 lbs. 
+ (b) For passenger operation other than Air Carrier: 
+ Landing 
+ 25,200 lbs. 
+ Take-off 25,200 lbs. 
+ (c) For operation under the conditions set forth in NOTE 12: 
+ Landing 
+ 26,000 lbs. 
+ Take-off 26,200 lbs. (dump valves not required) 
+ (d) For cargo operation under the non-transport category performance operation 
+ limitations (of FAR 121 and the conditions set forth in Note 10: 
+ Landing 
+ 26,900 lbs. 
+ Take-off 26,900 lbs. 
+ (e) For cargo operation under conditions other than those set forth 
+ in NOTES 10, 12, 13: 
+ Landing 
+ 25,200 lbs. 
+ Take-off 25,200 lbs. 
+ See NOTE 5 for increased weights when de-icers are installed."
+Maximum baggage,"Maximum capacity of compartments: 
+ 2 adjacent compts. fwd. of cabin, right 1250 lbs. (-63) 
+ 2 adjacent compts. fwd. of cabin, left 
+ 700 lbs. (-45) 
+ Aft of cabin 
+ 1500 lbs. (+354) 
+ See NOTE 1 for additional restrictions and placards."
+Fuel capacity,"822 gals. (4 tanks in CS wing: 2 main, including fuel system, 210 
+ gals. each (+48) and 2 auxiliary, 201 gals. each at (+83.5)). 
+ See NOTE 2 regarding fuel loading restrictions."
+Oil capacity,"66-1/2 gals. (One tank in each nacelle at 33-1/4 gals. each (-8), 
+ including capacity of oil system)"
+Serial Nos eligible,1900 and up. And C-41 S/N 2053; C-41A S/N 2145 (see NOTE 14).
+Required equipment,"Items 1(a), 2(a), (e) and (j) or (l); or (b), (e) and (j) or (l); or (b), (f) and (k); or (c), (f) 
+ and (k); 103(a), 104(a) or (b), 108, 201(a), 202(a), 203(a), 204, 205(a), 206, 207(a), 
+ 208(a), 301(a) or (b), and 302(a)."
+"III - Model DC3A-S4C4G, approved February 18, 1942",
+Engines,"2 P&W Twin Wasps S4C4G, geared 16:9, with one 3-1/2 N damper. 
+ NOTE: 
+ These engines are equipped with 2 speed superchargers. The supercharger 
+ speed controls must be positively safetied for operation in low gear ratio 
+ only. (See Item 101.(b) and (c) for optional engines)."
+Fuel,91 min. grade aviation gasoline
+Engine limits,"Maximum continuous, 
+ (Sea level) 41.5 in. Hg, 2550 rpm (1050 hp) 
+ (Straight line manifold pressure variation with altitude to 
+ 7500 ft.) 39.5 in. Hg, 2550 rpm (1050 hp) 
+ Take-off (one minute), 
+ 48.0 in. Hg, 2700 rpm (1200 hp), or 
+ 47.0 in. Hg, 2750 rpm (1200 hp)"
+Airspeed limits TIAS,"Between 25,200 lbs. 
+ and 26,900 lbs. 
+ Between 24,800 lbs. 
+ Up to and including 
+ (cargo only) 
+ and 25,200 lbs. 
+ 24,800 lbs. 
+ Level flight or climb 
+ 217 mph (189 knots) 
+ 211 mph (184 knots) 
+ 200 mph (174 knots) 
+ Glide or dive 
+ 262 mph (228 knots) 
+ 257 mph (224 knots) 
+ 241 mph (210 knots) 
+ Flaps extended 
+ 112 mph ( 97 knots) 
+ 112 mph ( 97 knots) 
+ 112 mph ( 97 knots) 
+ See NOTE 11 for partial flap speeds."
+Usable ceiling,"May be realized under conditions shown. See Items 502(f), (g), (h), and (i) and 
+ NOTE 6 for reductions necessitated by de-icing equipment. 
+ Propellers 
+ L.E. 
+ Fuel 
+ installed 
+ T.I.A.S. 
+ Manifold 
+ De-Icers 
+ grade 
+ (items) 
+ mph - knots 
+ Pressure"
+Ceiling ft,"Weight (lbs.) 
+ RPM"
+11600,"25,200 
+ 2550 
+ Full throttle 
+ 112 - 97 
+ 1(a) or (b) 
+ 91 
+ Yes but not 
+ operating"
+9500,"26,900 
+ 2550 
+ Full throttle 
+ 112 - 97 
+ 1(a) or (b) 
+ 91 
+ Yes but not 
+ operating 
+ Additional conditions: (1) Standard air 
+ (2) Either engine inoperative 
+ (3) Inoperative propeller fully feathered 
+ (4) Carburetor air intake on ""Cold Air"""
+CG range,(+47.1) to (+70.6)
+Max Occupants,See 14 CFR § 91.607
+Maximum weights,(a) For Air Carrier operation under the non transport category
+See NOTE 13 for,performance operation limitations of FAR 121.
+certification,"Landing 
+ 25,200 lbs."
+under SR407,"Take-off 25,200 lbs. 
+ (b) For passenger operation other than Air Carrier: 
+ Landing 
+ 25,200 lbs. 
+ Take-off 25,200 lbs. 
+ (c) For operation under the conditions set forth in NOTE 12: 
+ Landing 
+ 26,000 lbs. 
+ Take-off 26,200 lbs. (dump valves not required) 
+ (d) For cargo operation under the non-transport category 
+ performance operation limitations of FAR 121 and the 
+ conditions set forth in Note 10: 
+ Landing 
+ 26,900 lbs. 
+ Take-off 26,900 lbs. 
+ (e) For cargo operation under conditions other than those set forth 
+ in NOTES 10, 12, 13: 
+ Landing 
+ 25,200 lbs. 
+ Take-off 25,200 lbs. 
+ See NOTE 5 for increased weights when de-icers are installed."
+Maximum baggage,"Maximum capacity of compartments: 
+ 2 adjacent compts. fwd. of cabin, right 
+ 1250 lbs. (-63) 
+ 2 adjacent compts. fwd. of cabin, left 
+ 700 lbs. (-45) 
+ Aft of cabin 
+ 1500 lbs. (+354) 
+ See NOTE 1 for additional restrictions and placards."
+Fuel capacity,"822 gals. (4 tanks in CS wing: 2 main, including fuel system, 210 
+ gals. each (+48) and 2 aux. 201 gals. each at (+83.5) See NOTE 2 
+ regarding fuel loading procedures."
+Oil capacity,"66-1/2 gals. (1 tank in each nacelle at 33-1/4 gals. each (-8), 
+ including capacity of oil system)"
+Serial Nos eligible,1900 and up. (See NOTE 14).
+Required equipment,"Items 1(a), 2(a), (e) and (j), 103(a), 104(a), 108, 201(a), 202(a), 203(a), 204, 205(a), 
+ 206, 207(a), 208(a), 301(a), and 302(a)."
+"IV - Model DC3C-SC3G and DC3C-S1C3G, app. 10 July 1944 or DC3C-S4C4G (Army C-47, C-47A; Navy R4D- 1, 
+ R4D5 Approved 16 Jan 1948 
+ See NOTE 8 for modifications required for conversion of military models. Model DC3C-SC3G becomes model DC3C- 
+ S1C3G and vice versa, depending only upon grade of fuel used. Pertinent aircraft and engine model designations and 
+ engine ratings apply without changing the nameplate. Ignition timing should be 20° BTC with 87 grade fuel and 25° BTC 
+ with 91 grade fuel",
+Engines,"2 P&W Twin Wasps SC3G, S1C3G or S4C4G, geared 16:9, with one 3-1/2 N 
+ damper. (See Item 101.(a), (b) and (c) for optional engines.) 
+ NOTE: 
+ S4C4G engines are equipped with 2 speed superchargers. The supercharger 
+ speed controls must be positively safetied for operation in low gear only."
+Fuel,"87 min. grade aviation gasoline (DC3C-SC3G). 
+ 91 min. grade aviation gasoline (DC3C-S1C3G & DC3C-S4C4G)."
+Engine limits,"DC3C-SC3G 
+ Maximum continuous, 
+ (Sea level) 36.0 in. Hg, 2550 rpm (900 hp) 
+ (Straight line manifold pressure variation with altitude to 
+ 12,000 ft.) 34.0 in. Hg, 2550 rpm (900 hp) 
+ Take-off (one minute), 
+ 42.0 in. Hg, 2700 rpm (1050 hp) 
+ DC3C-S1C3G (limits covered in ""(a)"" are for manual mixture control only. 
+ Those covered in ""(b)"" are for automatic rich operation with PD12H1 or PD12H4 
+ carburetors with either -1 or -11 settings). 
+ Maximum continuous, 
+ (a) (Sea level) 
+ 41.5 in. Hg, 2550 rpm (1050 hp) 
+ (Straight line manifold pressure variation with altitude to 7500 ft.) 
+ 39.5 in. Hg, 
+ 2550 rpm (1050 hp) 
+ (b) (Sea level) 
+ 42.0 in. Hg, 2550 rpm (1050 hp) 
+ (Straight line manifold pressure variation with altitude to 7000 ft.) 41.0 in. Hg, 
+ 2550 rpm (1050 hp) or (10,000 ft.) 
+ 38.0 in. Hg, 
+ 2700 rpm (1000 hp) 
+ Take-off (one minute) 
+ 48.0 in. Hg, 
+ 2700 rpm (1200 hp) or 
+ 47.0 in. Hg, 
+ 2750 rpm (1200 hp) 
+ DC3C-S4C4G 
+ Maximum continuous, 
+ (Sea level) 41.5 in. Hg, 2550 rpm (1050 hp) 
+ (Straight line manifold pressure variation with altitude to 
+ 7500 ft.) 
+ 39.0 in. Hg, 2550 rpm (1050 hp) 
+ Take-off (one minute), 
+ 48.0 in. Hg, 2700 rpm (1200 hp) or 
+ 47.0 in. Hg, 2750 rpm (1200 hp)"
+Airspeed limits TIAS,"Models DC3C-S1C3G 
+ Models DC3C-SC3G, 
+ Models DC3C-SC3G, 
+ and DC3C-S4C4G 
+ DC3C-S1C3G and 
+ DC3C-S1C3G and 
+ only between 
+ DC3C-S4C4G 
+ DC3C-S4C4G 
+ 25,200 lbs. 
+ Between 24,800 lbs. 
+ up to and including 
+ and 26,900 lbs. 
+ and 25,200 lbs. 
+ 24,800 lbs. 
+ (cargo only) 
+ Level flight or climb 
+ 217 mph (189 knots) 
+ 211 mph (184 knots) 
+ 200 mph (174 knots) 
+ Glide or dive 
+ 262 mph (228 knots) 
+ 257 mph (224 knots) 
+ 241 mph (210 knots) 
+ Flaps extended 
+ 112 mph ( 97 knots) 
+ 112 mph ( 97 knots) 
+ 112 mph ( 97 knots) 
+ See NOTE 11 for partial flap speeds."
+Usable ceiling,"May be realized under conditions shown. See Items 502(f), (g), (h), (i) and NOTE 6 for 
+ reductions necessitated by de-icing equipment. 
+ Propellers 
+ L.E. 
+ Fuel 
+ installed 
+ T.I.A.S. 
+ Manifold 
+ De-Icers 
+ grade 
+ (items) 
+ mph - knots 
+ Pressure"
+Ceiling ft,"Weight (lbs.) 
+ RPM 
+ DC3C-SC3G"
+12000,"24,400 
+ 2550 
+ Full throttle 
+ 117 - 102 
+ 1(a) 
+ 87 
+ Yes but not 
+ operating"
+10000,"25,200 
+ 2550 
+ M.E.T.O. 
+ 117 - 102 
+ 1(a) or (b) 
+ 87 
+ Yes but not 
+ operating 
+ Propellers 
+ L.E. 
+ Fuel 
+ installed 
+ T.I.A.S. 
+ Manifold 
+ De-Icers 
+ grade 
+ (items) 
+ mph - knots 
+ Pressure"
+Ceiling ft,"Weight (lbs.) 
+ RPM 
+ DC3C-S1C3G"
+11600,"25,200 
+ 2550 
+ Full throttle 
+ 112 - 97 
+ 1(a), (b) 
+ 91 
+ Yes but not 
+ or (d) 
+ operating"
+10000,"25,200 
+ 2550 
+ Full throttle 
+ 103 - 90 
+ 1(c) 
+ 91 
+ No"
+9500,"26,900 
+ 2550 
+ Full throttle 
+ 112 - 97 
+ 1(a), (b) 
+ 91 
+ Yes but not 
+ or (d) 
+ operating"
+7900,"26,900 
+ 2550 
+ Full throttle 
+ 103 - 90 
+ 1(c) 
+ 91 
+ No 
+ DC3C-S4C4G"
+11600,"25,200 
+ 2550 
+ Full throttle 
+ 112 - 97 
+ 1(a) or (b) 
+ 91 
+ Yes but not 
+ operating"
+9500,"26,900 
+ 2550 
+ Full throttle 
+ 112 - 97 
+ 1(a) or (b) 
+ 91 
+ Yes but not 
+ operating 
+ Additional conditions: (1) Standard air 
+ (2) Either engine inoperative 
+ (3) Inoperative propeller fully feathered 
+ (4) Carburetor air intake on ""Cold Air"""
+CG range,(+47.1) to (+70.6)
+Maximum Occupants,See 14 CFR § 91.607.
+Maximum weights,(a) For Air Carrier operation under the non-transport category
+See NOTE 13 for,performance operation limitations of FAR 121.
+certification,"Landing 
+ 25,200 lbs."
+under SR407,"Take-off 
+ 25,200 lbs. 
+ (b) For passenger operation other than Air Carrier: 
+ Landing 
+ 25,200 lbs. 
+ ake-off 
+ 25,200 lbs. 
+ (c) For operation under the conditions set forth in NOTE 12: 
+ Landing 
+ 26,000 lbs. 
+ Take-off 
+ 26,200 lbs. (dump valves not required) 
+ (d) For cargo operation under the non-transport category performance 
+ operation limitations of FAR 121 and the conditions set forth in Note 10: 
+ Landing 
+ 26,900 lbs. 
+ Take-off 
+ 26,900 lbs. 
+ (e) For cargo operation under conditions other than those set forth in NOTES 10, 
+ 12, 13: 
+ Landing 
+ 25,200 lbs. 
+ Take-off 
+ 25,200 lbs. 
+ See NOTE 5 for increased weights when de-icers are installed."
+Maximum baggage,"L.H. (Nav.) compartment 
+ 650 lbs. (-45) 
+ R.H. compartment 
+ 400 lbs. (-77) 
+ Cabin (See approved loading schedule)"
+Fuel capacity,"804 gals. (4 tanks in CS wing: 2 front incl. fuel system, 202 
+ gals. each (+48) and 2 rear 200 gals. each (+83.5)) 
+ See NOTE 2 regarding fuel loading restrictions."
+Oil capacity,"58 gals. (1 tank in each nacelle at 29 gals. each (-8), including capacity of system)"
+Serial Nos eligible,C-47(R4D-1); 4200 thru 4799; 6000 thru 6258; 7365 thru 7386;
+See NOTE 15,"9000 thru 9149 
+ C-47A(R4D-5); 9150 thru 10269; 11779 thru 13912; 18899 thru 20598; 
+ 25224 thru 25523; 43073 thru 43092 and 43154"
+Required equipment,"Items 1(a), 2(a), (e) and (j) or (l); or (b), (e) and (j) or (l); or (b), (f) and (k); or (c), (f) 
+ and (k); 103(e), 104(b), (d) or (e); 108, 201(f), 202(a), 203(a), 204, 205(b), 206, 207(b), 
+ 208(b), 301(e), (f) or (g), and 302(a) or (b)."
+"V - Model DC3C-R-1830-90C (Army C-47B, Navy R4D-6), approved November 13, 1945; Model DC3D-R-1830- 90C 
+ (Army C-117A), 25 PCLM, Approved January 15, 1946. Models are the same except for interior arrangement and 
+ equipment. The DC3D-R-1830-90C has a light weight cabin floor and small main cabin door. See NOTE 8 (DC3C-R- 
+ 1830-90C) and 9 (DC3D-R-1830-90C) for modifications required for the conversion of military models.",
+Engines,"2 P&W Twin Wasps R-1830-90C spline coupled, 16:9, reduction gear 
+ with one 3-1/2 N damper 
+ (See Item 101.(b) and (c) for optional engines.) 
+ NOTE: 
+ These engines are equipped with two speed superchargers. The supercharger 
+ speed controls must be positively safetied for operation in low gear only."
+Fuel,"91 min. grade aviation gasoline (ignition timing must be modified to 20° to use 91 min. 
+ grade fuel)."
+Engine limits,"Maximum continuous, 
+ (Sea level) 41.5 in. Hg, 2550 rpm (1050 hp) 
+ (Straight line manifold pressure variation with altitude to 
+ 7500 ft.) 
+ 39.0 in. Hg, 2550 rpm (1050 hp) 
+ Take-off (one minute), 
+ 48.0 in. Hg, 2700 rpm (1200 hp), or 
+ 47.0 in. Hg, 2750 rpm (1200 hp)"
+Airspeed limits TIAS,"Between 25,200 lbs. 
+ and 26,900 lbs. 
+ Between 24,800 lbs. 
+ Up to and including 
+ (cargo only) 
+ and 25,200 lbs. 
+ 24,800 lbs. 
+ Level flight or climb 
+ 217 mph (189 knots) 
+ 211 mph (184 knots) 
+ 200 mph (174 knots) 
+ Glide or dive 
+ 262 mph (228 knots) 
+ 257 mph (224 knots) 
+ 241 mph (210 knots) 
+ Flaps extended 
+ 112 mph ( 97 knots) 
+ 112 mph ( 97 knots) 
+ 112 mph ( 97 knots) 
+ See NOTE 11 for partial flap speeds."
+Usable ceiling,"May be realized under conditions shown. See Items 502(f), (g), (h), and (i) and NOTE 6 
+ for reductions necessitated by de-icing equipment. 
+ Propellers 
+ L.E. 
+ Fuel 
+ installed 
+ T.I.A.S. 
+ Manifold 
+ De-Icers 
+ grade 
+ (items) 
+ mph - knots 
+ Pressure"
+Ceiling ft,"Weight (lbs.) 
+ RPM"
+11600,"25,200 
+ 2550 
+ Full throttle 
+ 112 - 97 
+ 1(a) or (b) 
+ 91 
+ Yes but not 
+ operating"
+9500,"26,900 
+ 2550 
+ Full throttle 
+ 112 - 97 
+ 1(a) or (b) 
+ 91 
+ Yes but not 
+ operating 
+ Additional conditions: (1) Standard air 
+ (2) Either engine inoperative 
+ (3) Inoperative propeller fully feathered 
+ (4) Carburetor air intake on ""Cold Air"""
+CG range,(+47.1) to (+70.6)
+Max Occupants,See 14 CFR § 91.607
+Maximum weights,(a) For Air Carrier operation under the non-transport category
+See NOTE 13 for,performance operation limitations of FAR 121.
+certification,"Landing 
+ 25,200 lbs."
+under SR407,"Take-off 
+ 25,200 lbs. 
+ (b) For passenger operation other than Air Carrier: 
+ Landing 
+ 25,200 lbs. 
+ Take-off 
+ 25,200 lbs. 
+ (c) For operation under the conditions set forth in NOTE 12: 
+ Landing 
+ 26,000 lbs. 
+ Take-off 
+ 26,200 lbs. (dump valves not required) 
+ (d) For cargo operation under the non-transport category 
+ performance operation limitations of FAR 121 and the 
+ conditions set forth in Note 10: 
+ Landing 
+ 26,900 lbs. 
+ Take-off 
+ 26,900 lbs. 
+ (e) For cargo operation under conditions other than those set forth 
+ in NOTES 10, 12, or 13: 
+ Landing 
+ 25,200 lbs. 
+ Take-off 
+ 25,200 lbs. 
+ See NOTE 5 for increased weights when de-icers are installed."
+Maximum baggage,"DC3C-R-1830-90C 
+ L.H. (Nav.) compartment 
+ 650 lbs. (-45) 
+ R.H. compartment 
+ 400 lbs. (-77) 
+ Cabin (see approved loading schedule) 
+ DC3D-R-1830-90C 
+ 2 adjacent compartments fwd of cabin, right 
+ 1,250 lbs. (-63) 
+ 1 compartment fwd of cabin, left 
+ 500 lbs. (-35½) 
+ Aft of cabin 
+ 1,070 lbs. (+368)"
+Fuel capacity,"804 gals. (4 tanks in CS wing: 2 main tanks located fwd of center 
+ spar, 202 gals. ea. (+48) and 2 auxiliary tanks aft of center spar 
+ 200 gals. each at (+83.5)). 
+ See NOTE 2 regarding fuel loading restrictions."
+Oil capacity,"58 gals. (One tank in each nacelle at 29 gals. each (-8), 
+ including capacity of system)"
+Serial Nos eligible,"DC3C-R-1830-90C: 20599 thru 20898, 25524 thru 27223, 32527 thru"
+See NOTE 15,"33626, 34134, 34135, 34137 thru 34144, 34146 thru 
+ 34167, 34169 thru 34190, 34192 thru 34211, 34213 
+ thru 34233, 34235 thru 34249, 34251 thru 34263, 
+ 34265 thru 34277, 34279 thru 34290, 34292 thru 
+ 34304, 34306 thru 34317, 34319 thru 34409. 
+ DC3D-R-1830-90C: 18548 thru 18564, 34129 thru 34133, 34136, 34145, 
+ 34168, 34191, 34212, 34234, 34250, 34264, 34278, 
+ 34291, 34305, 34318, 42954 thru 42981."
+Required equipment,"DC3C-R-1830-90C: Items 1(a) or (d), 2(c), (f) and (k), 103(e), 
+ 104(b), (d) or (e), 108, 201(f), 202(a), 203(a), 204, 205(b), 206, 
+ 207(b), 208(b), 301(e), (f), or (g), and 302(b). 
+ DC3D-R-1830-90C: Items 1(a) or (d), 2(c), (f) and (k), 103(f), 
+ 104(b) or (e), 108, 201(f), 202(a), 203(a), 204, 205(b), 206, 
+ 207(b), 208(b) and 302(b)."
+Specifications Pertinent to All Models,
+Datum,Leading edge of center section of wing.
+Leveling means,Pins at (+198) and (+219)
+Certification basis,Type Certificate No. 669 (Aero. Bulletin 7A requirements)
+Production basis,Production Certificate No 27.
+Export eligibility,"Eligible for export to all countries subject to the provisions of MOP 2-4 except as 
+ follows: 
+ Canada: 
+ Landplane eligible 
+ Skiplane not eligible"
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item indicates no weight change when that item is 
+ installed. 
+ Approval for the installation of equipment listed herein has been obtained by the aircraft manufacturer 
+ except those items preceded by an asterisk (*). The asterisk denotes that approval has been obtained by 
+ someone other than the aircraft manufacturer. An item marked with an asterisk may not have been 
+ manufactured under a FAA monitored or approved quality control system, and therefore attention should 
+ be paid to workmanship and conformity with pertinent data called for in this specification. 
+ Propellers and Propeller Accessories (Except De-icing Equipment)"
+a 241 a,"Ham. Std., hubs 23E50, blades 6153-18. 
+ Use actual wt. change 
+ (Douglas Dwgs. 5073247 or 5081682 or UAL 
+ Dwg. 15U-63) For interchangeable blade models see 
+ Prop. Spec. No. 603 (NOTE 6). 
+ Dia.: Max. 11'6-3/8"", min. allowable for repairs 
+ 11'3-3/8"". No further reduction permitted. 
+ Min. low pitch getting 16° at 42 in. sta. 
+ Placard required: ""Avoid continuous operation between 1900 
+ and 2050 rpm."" 
+ Additional placard required unless engines equipped with spline 
+ type reduction gears: 
+ ""Avoid continuous operation between 1550 and 1650 rpm and 
+ avoid take-off operation between 2450 and 2700 rpm."" 
+ Eligible with molded shank fairings per NOTE 6."
+b 241 f,"Ham. Std., hubs 33D50, blades 6495-18. 
+ 337 lbs. ea. (-83) 
+ For interchangeable blade models see Prop. Spec. No. 749 (NOTE 6). 
+ Min. Low pitch setting 16° at 42 in. Sta. 
+ Dia.: Max. 11'7"", min. allowable for repairs 11'4"". 
+ No further reduction permitted. 
+ Placard required unless engines are equipped with spline type gears: 
+ ""Avoid take-off operation between 2450 and 2700 rpm."""
+c 241 g,"Ham. Std., hubs 23E50, blades 6519-18. 
+ 455 lbs. ea. (-83) 
+ For interchangeable blade models see Prop. Spec. No. 603 (NOTE 6). 
+ Dia.: Max. 11'6-3/8"", min. allowable for repairs 11'3-3/8"". 
+ No further reduction permitted. 
+ Min. Low pitch setting 16° at 42 in. sta. 
+ For P&W S1C3G engines with 16:9 spline coupled reduction gears and 
+ with 3 1/2 N dynamic damper."
+d 241 h,"Ham. Std. hubs 23E50, blades 6477-0. 
+ 446 lbs. ea. (-83) 
+ For interchangeable blade models see Prop. Spec. No. 603 (NOTE 6). 
+ Dia.: Max. 11'6-3/8"", min. allowable for repairs 11'3-3/8"". 
+ No further reduction permitted. 
+ Min. Low pitch setting 16° at 42 in. sta. 
+ Eligible only on engines with 16:9 spline coupled reduction gears. 
+ Item 2(c) is required when this item is installed."
+e 241 i,"Ham. Std., hubs 33D50, blades 6571-0. 
+ 332 lbs. ea. (-83) 
+ Dia.: Max. 11'7"", min. allowable for repairs 11'4"". 
+ No further reduction permitted. 
+ Min. low pitch setting 18.5° at 42 in. sta. 
+ For P&W S1C3G engines with 16:9 spline coupled reduction gears."
+f 241 j,"Ham. Std., hubs 23E50, blades 6565-18. 
+ Use actual wt. change 
+ Dia.: Max. 11'6-3/8"", min. allowable for repairs 
+ 11'3-3/8"". 
+ No further reduction permitted. 
+ Min. Low pitch setting 16° at 42 in. sta. 
+ Placard required unless engines are equipped with spline type 
+ reduction gears: ""Avoid continuous operation between 1550 and 
+ 1650 rpm and avoid take-off operation between 2450 and 2700 rpm."" 
+ Eligible with molded shank fairings per NOTE 6."
+a 111 a,"Constant speed propeller control (12 volt) 
+ 18 lbs. (-74.0)"
+b 111 d,"Constant speed propeller control (24 volt) 
+ 18 lbs. (-74.0)"
+c 111 h,"Constant speed propeller control - Ham. Std. 4G8 (double capacity) 
+ 19 lbs. (-74.0)"
+d 241 d,"Propeller constant speed controls (5073247) 
+ 22 lbs. (-67.5)"
+e 111 b,"Propeller feathering controls, switches, fittings, tubing, wiring, 
+ 14 lbs. (-40.5) 
+ and conduits (12 volt)"
+f 111 e,"Propeller feathering controls, switches, fittings, tubing, wiring, 
+ 14 lbs. (-40.5) 
+ and conduits (24 volt)"
+g 241 b,"Propeller feathering controls, tubing, wiring, brackets, etc. (12 volt) 
+ 21 lbs. (-40.5)"
+h 241 e,"Acrotorque propeller feathering system (including 
+ 49 lbs. (-79.5) 
+ residual hydraulic fluid of 6 lbs. (5073247 and 5077566-500)"
+i 241 c,"2 oil pumps (12 volt) (for feathering propellers) 
+ 45 lbs. (-21.5)"
+j 111 c,"2 feathering oil pumps and brackets (Pesco 280, 12 volt) 
+ 48 lbs. (-21.5)"
+k 111 f,"2 feathering oil pumps and brackets (Ham. Std. 54772-2, 24 volt) 
+ 48 lbs. (-21.5)"
+l 111 g,"2 feathering oil pumps and brackets (Ham. Std. 53235-2, 12 volt) 
+ 48 lbs. (-21.5) 
+ Engines and Engine Accessories - Fuel and Oil Systems"
+101. Optional Engines (Installation of optional engines does not require a change of the aircraft model designation).,
+a 292,"Interchangeable with the S1C3G engines. Ratings are same as S1C3G. 100 min. 
+ grade fuel must be used unless carburetor setting is revised to permit use of 91 
+ grade fuel. All must have 16:9 reduction gearing: 
+ (1) R-1830-49 
+ (4) R-1830-57 
+ (2) R-1830-82 
+ (5) R-1830-96 
+ (3) R-1830-92"
+b 293,"Interchangeable with the S4C4G engine at identical ratings. Ignition timing 
+ must be modified to 20° for 91 grade fuel. All must have 16:9 reduction gearing: 
+ (1) S3C4G 
+ (4) R-1830-90C 
+ (7) R-1830-65 
+ (2) R-1830-43 
+ (5) R-1830-90D 
+ (8) R-1830-86M2 
+ (3) R-1830-67 
+ (6) R-1830-43A 
+ Note: Except for minor installation details because of the longer rear case, optional 101.(b) engines are interchangeable with"
+c 305,"P&W R-1830-75 or R-1830-94 with 16:9 splined coupled reduction gearing. Eligible 
+ when installed in conjunction with prop. item 1(a), 1(d) or 1(f). 
+ Placard deleted. 
+ Fuel - Grade 100/130 
+ Engine Limits: 
+ MP 
+ Low Blower 
+ HP 
+ RPM 
+ IN.HG 
+ ALT. 
+ Take-off (2 min.) 
+ 1200 
+ 2700 
+ 47.0 
+ S.L. 
+ Max. continuous 
+ 1100 
+ 2600 
+ 43.5 
+ S.L. 
+ Max. continuous 
+ 1100 
+ 2600 
+ 42.7 
+ 7400 
+ High Blower** 
+ Max. continuous 
+ 1000 
+ 2600 
+ 42.2 
+ 10000 
+ Max. continuous 
+ 1000 
+ 2600 
+ 41.5 
+ 14250 
+ **(R-1830-75 has low blower only. When high blower operation is desired on the -94 engine, contact the 
+ FAA Engineering & Manufacturing Branch, P.O. Box 90007, Los Angeles 9, California, for the ""Single 
+ Engine Determination"" curve which is required for this operation. The new single engine ceiling of the 
+ airplane with high blower is 10,300 ft.) 
+ (Note:To obtain approval for utilization of 1350 hp at 2800 rpm and 52.0 in. Hg., for take-off which is 
+ available for either of these engines, see NOTE 13.)"
+ d,"P&W R-2000-7M2 or -D5 
+ Propellers - Ham. Std., hubs 43D50, blades 6863-1 or 7033-1. (Blades 6863 and 7033 may be installed in 
+ same hub.) Diameter: Max. 11'6"", min. allowable for repairs 11'3"". No further reduction permitted. 
+ Placard required: 
+ ""Avoid Continuous Ground Operation of Engines in Range of 2100 to 2250 rpm. 
+ Avoid Continuous Operation of Engines between 2310 and 2510 rpm."" 
+ Fuel - Grade 100/130 
+ Engine Limits: 
+ MP 
+ HP 
+ RPM 
+ IN.HG 
+ ALT. 
+ Take-off (2 min.) 
+ 1450 
+ 2700 
+ 50.0 
+ S.L. 
+ Max. continuous 
+ 1100 
+ 2550 
+ 39.3 
+ S.L. 
+ Max. continuous 
+ 1100 
+ 2550 
+ 37.5 
+ 9800 
+ Installation must be made in accordance with PAA Report #462 and airplane must be modified to comply 
+ with all structural, airspeed and weight limitations of NOTE 13 of this specification. FAA Approved 
+ Airplane Flight Manual dated September 15, 1954, which is contained in PAA Report #462, is also 
+ required."
+102 a 294,Deleted.
+103 Oil Coolers,"(a) (103) Two oil radiator, 11"" dia. (UAP U-2050), scoops, etc. 
+ 101 lbs. (-22)"
+b 257 a,"Two oil radiator, scoops, etc. AiResearch 11"" 2D301 
+ 101 lbs. (-22)"
+c 257 b,"Two oil regulators, AiResearch 12"", No. 1E-587 
+ 115 lbs. (-22)"
+d 257 c,"Two oil regulators, AiResearch 11"", No. 19632 
+ 58 lbs. (-22) 
+ (e) (269) Two oil radiators, 11"" dia., (Doug. Dwg. 1119784), and scoops, etc. 
+ 111 lbs. (-23.5) 
+ (f) (288) Two oil temperature regulators (Doug. Dwg. 1204274) 
+ 90 lbs. (-24.0)"
+a 104 a,"Two Eclipse Type E-160, 12 volt, and brackets 
+ 67 lbs. (-38.5)"
+b 104 b,"Two AAF Spec. 95-32304, Type G-6, 24 volt, and brackets 
+ 67 lbs. (-38.5)"
+c 263,"Two combination starters and feathering pumps (12 volt) 
+ 80 lbs. (-40)"
+d 270 a,"Two Type C-21 (12 volt) and brackets 
+ 74 lbs. (-38.5)"
+e 270 c,"Two Type JH-3R (24 volt) and brackets 
+ 72 lbs. (-38.5)"
+a 215,"Dump valve chute installation per Doug. Dwg. No. 5044285. 
+ 12 lbs. (+115) 
+ See NOTE 3 for restriction on dump valves."
+b 222,"Extendible dump valve chute installation in accordance with 
+ 22 lbs. (+141.5) 
+ Douglas Dwg. No. 5080140. See NOTE 3 for restrictions on dump valves."
+c 302,"Extendible dump valve chute installation in accordance with 
+ 22 lbs. (+141.5) 
+ Doug. Dwg. No. 5315914, (DC3C, C-47 series and DC3D, C117 series). 
+ See NOTE 3 for restrictions on dump valves."
+a 306 a,"Two tanks in each wing totalling approximately 400 gals. 
+ Use actual wt. chg. 
+ of fuel per AiResearch Dwg. #4900-11-E. (AiResearch 
+ Aviation Service Co., 5907 West Imperial Blvd., Los Angeles, 45, Calif."
+b 306 b,"Two tanks in each wing totalling approximately 400 gals. 
+ Use actual wt. chg. 
+ of fuel per Grand Central Dwg. #10878 or Dwg. #20458. 
+ (Grand Central Aircraft Company, 1314 Airways, Glendale, California."
+c 306 c,"Multi-cell fuel tanks (34 gals. to 400 gals.) per Executive 
+ Use actual wt. chg. 
+ Aircraft Service Dwg. #35267NS. (Executive Aircraft Service, Inc., 
+ P.O. Box 7307, Dallas, Texas)"
+107 239,"Dual fuel system including weight increase of pressure carburetors 
+ +85 lbs. (+3) 
+ Stromberg PD12-B6 or PD12-B8 (2 at +15 lbs. each) (Douglas 
+ Dwgs. 4085318 and 5081756)."
+108 123,"Residual fuel and oil in drained system (Oil 32 lbs., fuel 19 lbs.) 
+ 51 lbs. (-17.5)"
+109 233,"Two 29 gal. oil tanks constructed in accordance with 
+ -8 lbs. (-8) 
+ Douglas Dwg. No. 4077559, replacing standards 33-1/4 gal. tanks."
+110 307,"Two sets, cowl flap linkage, Miner's Aircraft & Engine 
+ +6.3 lbs. (-51) 
+ Service, Inc., P/N 3-892, installed per Dwg. 3-892-1A."
+Landing Gear,201. Main Wheel and Brake Assemblies
+a 116,"Two 17:00-16 wheels (Bendix mag.) with expander tube brakes 
+ 243 lbs. (+28) 
+ (Goodrich G-1430 or Hayes)"
+b 226,"Two 45 x 20-10 wheels (Goodyear, with L.P. disc type brakes - 
+ 216 lbs. (+28) 
+ 7, 9, or 11 discs)"
+c 254,"Two 17.00-16 Bendix wheels with cast drums and expander 
+ 229 lbs. (+28) 
+ tube brakes (Goodrich H-2-445 or H-2-449)"
+d 259,"Two 17.00-16 wheels, (Bendix mag. TC34) 
+ 254 lbs. (+28)"
+e 265,"Two 45 x 20-10 Goodyear wheels with high pressure disc 
+ 230 lbs. (+28) 
+ types brakes (7 or 9 discs)"
+f 274,"Two 17.00-16 Bendix B-3 wheels and duo-servo brakes 
+ 263 lbs. (+28)"
+g 304,"Two Goodyear Model CL16HBM (Cross Wind) 
+ +173 lbs. (+28) 
+ Wheel Assembly No. 9560031 
+ Brake Assembly No. 9540307 
+ (Installation per Goodyear Dwg. No. 283AX50-500, Rev. D.) 
+ (Note: When this item is installed, airplane is approved for cross wind landings 
+ in wind components up to 40 mph.)"
+h,"Two 17.00-16 Goodrich wheels H-3-269M-1 and Brakes H-2-415, 
+ 252 lbs. (+28) 
+ H-2-445 or H-2-449"
+i,"Two 17.00-16 Goodyear wheels 530975M and Brakes 530961, 
+ 216 lbs. (+28) 
+ 9540137, 9540356 or 9540363"
+j,"Two 17.00-16 Goodyear wheels 9540547 and Brakes 9540385 
+ 273 lbs. (+28)"
+a 117,"Two 17.00-16, 10-ply H.D. (treaded) 
+ 257 lbs. (+28)"
+b 227,"Two 45x20-10, 10-ply (treaded) 
+ 296 lbs. (+28)"
+c 243,"Two 45x20-10, 10-ply (smooth) 
+ 268 lbs. (+28)"
+d 282,"Two 17.00-16, Vaned (Goodrich) 
+ 260 lbs. (+28)"
+e,"Two 17.00-16, 10-ply (treaded) 
+ 239 lbs. (+28)"
+f,"Two 17.00-16, treaded 12-ply (ribbed safety) 
+ 275 lbs. (+28)"
+g,"Two 45x20-10, 12 ply 
+ 310 lbs. (+28)"
+a 118,"17.00-16 plain 
+ 38 lbs. (+28)"
+b 228,"45 x 20-10 plain 
+ 40 lbs. (+28)"
+c 260,"Two 17.00-16, cactus-proof 
+ 56 lbs. (+28)"
+a 120,"9.00-6 
+ 9 lbs. (+455.5)"
+a 121,"9.00-6 8-ply 
+ 18 lbs. (+455.5)"
+b 231,"9.00-6 8-ply (treaded) 
+ 24 lbs. (+455.5)"
+c 253,"19.00 streamline 8-ply 
+ 12 lbs. (+455.5)"
+206 122,"9.00-6 tail wheel tire tube, cactus-proof 
+ 5 lbs. (+455.5)"
+a 115,"Four Bendix, Nos. 53420 or 53585 
+ 223 lbs. (+28)"
+b 273,"Four Bendix, (No. 65900) 
+ 228 lbs. (+28)"
+a 119,"(Doug. Dwg. 3006620 or Cleveland Dwg. A-6356) 
+ 12 lbs. (+449)"
+a 220,"(Doug. Dwg. 5044046 or 5115222) 
+ 23 lbs. (+449)"
+a 105 a,"One 50-amp. (Eclipse Type E-5 or E-7, 12-volt) 
+ 31 lbs. (-38.5)"
+b 105 b,"Two 50-amp. (Type M-2, 24 volt) 
+ 37 lbs. (-38.5)"
+c 224,"Two 50-amp. (Eclipse M-3400) (12 volt) 
+ 62 lbs. (-38.5)"
+d 264,"Two 100-amp. and generator supports and increase for 
+ 98 lbs. (-37.5) 
+ control boxes and wire (12 volt)"
+e 271 a,"Two 50-amp. 12 volt (Eclipse 310-5) 
+ 63 lbs. (-38.5)"
+f 271 b,"Two 50-amp. 24 volt (Eclipse 314-15) 
+ 68 lbs. (-38.5)"
+g 271 c,"Two 100-amp. 24 volt (AAF Type 0-1) 
+ 64 lbs. (-38.5)"
+h 271 d,"Two 200-amp. 28 volt (P-1 or equivalent) 
+ 88 lbs. (-31.5) 
+ (Reference FAA Aeronautical Center Standardization Dwg.Wiring Diagram Page No. 34)"
+a 106,"Two 65 amp. (6-TX-19) (12 volt) 
+ 126 lbs. (-65)"
+b 225,"Two 88 amp. (Exide 6-FHM-13) (12 volt) 
+ 155 lbs. (-65)"
+c 248,"One 50 amp. (Exide 6-X-9) (12 volt) 
+ 63 lbs. (-65)"
+d 251,"Two Presto-O-Lite 105 amp. (R-1213G) (12 volt) 
+ 182 lbs. (-65)"
+e 258,"One 88 amp. (Exide 6-FHM-13) (12 volt) 
+ 78 lbs. (-65)"
+401 Reserved,402. Automatic Pilot (See NOTE 13(g) for Aircraft Certificated under provisions of SR-407)
+a 210,"Hydraulic Servo unit model No. C-8-D3-B 
+ 65 lbs. (-140)"
+b 303 a,"Sperry type A-12 
+ 205 lbs. (+93) 
+ Main Servo Units: 
+ Aileron: 
+ Servo unit model NR. 656542 (S-1-180-60-D) 
+ Pulley size: 4.25"" drum pitch diameter. 
+ Rudder: 
+ Servo unit model NR. 656542 (S-1-148-40-D) 
+ Pulley size: 4.25"" drum pitch diameter. 
+ Elevator: 
+ Servo unit Model NR. 656542 (S-1-104-20-D) 
+ Pulley size: 4.25"" drum pitch diameter. 
+ Elevator Trim Tab Servo Unit: 
+ Servo unit model NR. 661202 (S-3-2000-3.5-E) 
+ Pulley size: 4.25"" drum pitch diameter. 
+ (Sperry Dwg. Nos. 5245-90052B, -90053D and -90029B) 
+ (1) Servo stall force installation values (+0 or -3%) at the pilot's controls: 
+ Rudder 70 pounds, elevator 40 pounds, aileron 23 pounds. 
+ (2) The following placard should be installed in a conspicuous place near the 
+ automatic pilot controller: ""When using auto-pilot in normal operation 
+ (except approach), minimum terrain clearance is 500 feet. When using auto- 
+ pilot during an approach, minimum altitude is 200 feet, pilot's seat belt 
+ fastened and hand on control wheel. Minimum altitude for each case does 
+ not override any higher minimum operational altitudes."""
+c 303 b,"Lear 
+ (1) Model L-5 automatic pilot, altitude controller and 
+ 92 lbs. (+113.0) 
+ approach coupler installed in accordance with Lear Dwg. 82784.. 
+ (2) Model L-2C automatic pilot and altitude controller 
+ 68 lbs. (+147.5) 
+ (optional equipment) installed in accordance with Lear Dwg. 91326. 
+ The following placard should be installed in a conspicuous place near the 
+ automatic pilot controller: 
+ ""When using autopilot in normal operation (except approach) minimum terrain 
+ clearance is 500 feet. When using auto-pilot during an approach, minimum 
+ altitude is 200 feet, pilot's seat belt fastened and hand on control wheel. 
+ Minimum altitude for each case does not overrride any higher minimum 
+ operational altitude."" 
+ Servo stall torques measured at rudder, aileron and elevator 
+ Servos: 150 in. lbs. minimum, 200 in. lbs. maximum. 
+ Servo drum pitch diameters for all three axes ware 2.67 inches."
+d 303 c,"Pioneer PB-10 (three main servo units 15601, one elevator tab 
+ Use actual wt. change 
+ servo unit 15602 and two throttle servo units 15602). 
+ (Reference Pioneer Pub. No. 95-14, 511-18, 05-8G, 88-31 and 
+ FAA Aeronautical Center Standardization Drawings.) 
+ (1) Servo stall forces measured in pounds at the pilot's controls: 
+ Rudder 
+ 75 
+ Elevator 
+ 39 
+ Aileron 
+ 23 
+ These forces are satisfactory for automatic approach. 
+ (2) When using autopilot in cruise configuration the minimum 
+ terrain clearance is 500 feet. When using auto-pilot in approach 
+ configuration the minimum terrain clearance is 200 feet, pilot's seat 
+ belt fastened and hand on control wheel. The minimum altitude 
+ for each case does not overrride any higher minimum operational altitude."
+e 303 d,"Minneapolis-Honeywell Model MH-6 (3 servos MG7001A1; 
+ 189 lbs. (+31.5) 
+ 1 servo MG7009A3) installed in accordance with Minneapolis- 
+ Honeywell drawing ET-1924. 
+ (1) Servo stall forces at pilot's controls: 
+ Rudder 
+ 120 + or - 5 lbs. 
+ Aileron 
+ 40 + or - 5 lbs. 
+ Elevator 
+ 30 + or - 5 lbs. 
+ (These forces are satisfactory for automatic approach.) 
+ (2) The following should be included on a placard installed near the automatic 
+ pilot controller: 
+ ""Pilot's Operating Manual dated April 21, 1953, for the MH-6 automatic 
+ pilot is required. Maximum speed demonstrated for use of automatic 
+ pilot is 165 mph. Do not use automatic pilot below 300 feet above the terrain 
+ for cruise configurations or 200 feet for approach."""
+403 109,"Two flares (3-min.) Type III Wiley A-8 (including brackets, etc. 15 lbs.) 
+ 53 lbs. (+389)"
+404 238,"Buffet compartment structure and fittings 
+ 38 lbs. (+331.5) 
+ (Capacity 200 lbs. at +331.5) 
+ When this item is installed, rear baggage capacity must be reduced to 1070 lbs. (+368)."
+405 249,"Radio operator's seat and table installation and rework 
+ 25 lbs. (-91.5) 
+ of left front compartment, Douglas Dwgs. 5072972 and 5072964. 
+ When this item installed, forward left front baggage 
+ compartment capacity must be reduced from 200 lbs. to 140 lbs. 
+ De-Icer Equipment (Propeller, Wing and Windshield)"
+501 a 209 a,"Fixed portion wing and fuselage lines 
+ 54 lbs. (+17)"
+b 209 b,"Fixed portion controls, brackets, etc., and lines in nacelles 
+ 14 lbs. (+23)"
+c 209 c,"Removable portion tail surface boots and attachment 
+ 16 lbs. (+466.5)"
+d 209 d,"Optional wing and fuselage lines 
+ 43 lbs."
+e 209 e,"Optional arrangement pumps, controls, valves, lines, 
+ 30 lbs. 
+ clips and brackets forward of firewalls (12 volt) 
+ 502. Additional de-icer equipment as follows:"
+a 211 a,"Carburetor and windshield system 
+ 11 lbs. (-72)"
+b 211 b,"Propeller slinger rings (two) 
+ 4 lbs. (-76)"
+c 211 c,"Propeller system 
+ 20 lbs. (-60.5)"
+d 211 d,"Windshield defroster fan (12 volt) 
+ 2 lbs. (-113)"
+e 211 e,"Provision for propeller slinger rings (Doug. Dwg. 5082021) 
+ 15 lbs. (-97) 
+ including 4 gal. tank and lines"
+f 211 f,"Goodrich No. 37572 propeller fluid feed strips. Goodrich No. 36889 feed 
+ rings may be used on round shank blades. With S1CG, S1C3G, S4C4G, 
+ R-1830-90C or equivalent engines, the strips shall not extend beyond the 
+ 45 in. sta. on the propeller blades, and the usable ceiling must be reduced by 
+ 200 feet when installed. Strips and rings should be installed on the blades in 
+ accord with Goodrich Installation Manual furnished with the strips."
+g 211 g,"Goodrich No. 37572 propeller fluid feed strips. Goodrich No. 36889 feed 
+ rings may be used on round shank blades. With SCG or SC3G engines 
+ the strips shall not extend beyond the outside diameter of the engine cowl 
+ on the propeller blades and the usable ceiling must be reduced by 1,000 feet when 
+ installed. Strips and rings should be installed on the blades in accord with 
+ Goodrich Installation Manual furnished with the strips."
+h 211 h,"Firestone No. YRE-75J99 propeller fluid feed strips. With S1CG, 
+ S1C3G, S4C4G, R-1830-90C or equivalent engines, the strips 
+ shall not extend beyond the 45 in. sta. on the propeller blades 
+ and the usable ceiling must be reduced by 200 feet when installed. 
+ Strips should be installed in accord with Firestone instructions furnished with the strips."
+i 211 i,"Firestone No. YRE-75J99 propeller fluid feed strips. With SCG 
+ or SC3G engines the strips shall not extend beyond the outside 
+ diameter of the engine cowl on the propeller blades and the 
+ usable ceiling must be reduced by 1,000 feet when installed. 
+ Strips should be installed in accord with Firestone instructions furnished with the strips."
+j 278,"Propeller system including 4 gal. alcohol tank (Dwg. 5110551, 
+ 16 lbs. (-93) 
+ 5110519, 5110574)"
+k 279,"Windshield system including 6 1/2 gal. alcohol tank (Dwg. 5110552) 
+ 14 lbs. (-85.5)"
+l 280,"Carburetor system (Dwg. 5139641, 5139642, 5139643) 
+ 30 lbs. (-63)"
+m 295,"Wing (Goodrich Type 12, model 149) 
+ 54 lbs. (+17)"
+n 301,"Removable portion wing boots and attachment valve 
+ 82 lbs. (+47)"
+a 113,"Steam system and 7 qts. water 
+ 107 lbs. (-29.5)"
+b 272,"Steam system and 4 qts. water 
+ 87 lbs. (-10)"
+c 267,"Stewart-Warner heater (Douglas Dwg. 5144982) 
+ 54 lbs. (-30) 
+ (Replaces item 601-a when installed)"
+d 289,"Hot air heating and ventilating system (Douglas Dwg. 
+ 186 lbs. (+35.5) 
+ 5188282, 5189184, 5188763, 5188318, 5188354) and carbon 
+ monoxide indicator unit (Mines 42516) (Douglas 5188491)"
+e 291,"Hot air heating and ventilating system (Douglas Dwgs. 
+ 157 lbs. (+3.0) 
+ 5202279, 5141467, 5142300, 5141983 and 5141551 - less 
+ flame dampener)"
+a 308 a,"AiResearch Dwg. No. C-7100-19 ""Instal-Geared Rudder 
+ Use actual wt. change 
+ Tab"", Airesearch Aviation Service Company, 
+ 5907 W. Imperial Blvd., Los Angeles, 45, California"
+b 308 b,"Executive Aircraft Service Dwg. No. 35283, 
+ Use actual wt. change 
+ Executive Aircraft Service, Inc., P.O. Box 7307, 
+ Dallas, Texas"
+603 309,"Windshield Inst., Dwg. No. 352544GDA Executive 
+ Use actual wt. change 
+ Aircraft Service, Inc."
+NOTE 1,"(a) Current weight and balance report including list of equipment included in certificated weight empty, and 
+ loading instructions when necessary, must be in each aircraft at the time of original certification and at all 
+ times thereafter (except in the case of air carrier operators having an approved weight control system). 
+ (b) When item 238 is installed, the rear baggage compartment capacity must be reduced to 1070 lbs. at (+368) 
+ and so placarded. 
+ (c) When item 249 is installed, the forward left front baggage compartment capacity must be reduced from 
+ 200 lbs. to 140 lbs. and so placarded."
+NOTE 2,"Fuel must be loaded in front tanks and then in rear tanks and used in the reverse order except for take-off and 
+ landing, unless the carburetor overflow return line is routed to the rear tanks, in which case, the fuel loading 
+ and usage procedure must be reversed."
+NOTE 3,"Fuel Dumping. Fuel dump valves (Items 105(a), 105(b) or 105(c)) must be installed for operation of the 
+ airplane at weights in excess of the maximum landing weight, unless otherwise noted in this specification."
+NOTE 4,"(a) Stewardess' or steward's seat not to be occupied by passengers. Placard accordingly. 
+ (b) Placard lavatory door as follows: ""THESE ROOMS NOT TO BE OCCUPIED DURING TAKE-OFF OR 
+ LANDING."""
+NOTE 5,"Maximum landing (and maximum take-off) weight may be increased 146 lbs. when complete de- icer is 
+ installed, except that no allowance may be made for de-icers that will result in take-off or landing weights 
+ higher than 25,346 lbs."
+NOTE 6,"Hamilton Standard propeller blades 6153-18 or equivalent (See NOTE 6 of Propeller Specification No. 603) are 
+ eligible with molded shank fairings. Blades with fairings will be indicated by a letter and a dash preceding the 
+ model designation. On S1CG, S1C3G, S4C4G, R-1830-90C and equivalent engines only, fairings may 
+ incorporate de-icing fluid grooves and grooved extension strip. (The complete assembly shall not extend 
+ beyond 45 in. station on the blade.) Reduce usable ceiling by 200 ft. when fairings are grooved."
+"NOTE 7. Military models C-53, C-53B, C-53C, C-53D and R4D-3 are the same as model DC3A-S1C3G except for the",
+listed,"under model DC3A-S1C3G were originally built as commercial aircraft but were converted for military use 
+ prior to delivery from the factory. 
+ Prior to certification as a civil aircraft, the following must be accomplished: 
+ (a) Each airplane must satisfactorily pass an inspection for conformity, possible hidden damage, and for 
+ workmanship and materials used in making any repairs and/or alterations. All Airworthiness Directive 
+ Notes must be complied with. 
+ (b) Instrument markings and placards must be installed as required by this specification and commercial DC-3 
+ practice. Attention should be given to the windshield equipment and it should be determined that a 
+ satisfactory windshield wiper is installed. 
+ (c) The following military equipment should be removed: Winterization (except oil dilution system and 
+ hopper oil tanks), propane priming, glider tow mechanism in the tail cone, litter boxes, litters, and 
+ supporting structure. Such brackets and supporting structure as will not interfere with the safe operation 
+ of the aircraft may, at the operator's discretion, be left in the aircraft as long as the equipment has been 
+ rendered inoperative. 
+ (d) Each airplane must be weighed to determine its weight and balance and an approved loading chart or 
+ device installed. If any changes have been made which would adversely affect the flight characteristics, 
+ the particular airplane must be flight tested. 
+ (e) If bullet sealing fuel cells are installed, the following must be complied with: 
+ (1) Inspect the installation to ascertain that tanks are adequately supported, i.e., that tank when empty, 
+ retains approximately its full shape and such that the weight of the fuel or cell will not cause sagging 
+ or pulling on any connections. 
+ (2) Check tank capacities and gauges. Tanks of this type are known to vary considerably in volume and 
+ the main cells may vary from 180 to 200 gallons capacity while the auxiliary cells may vary from 165 
+ to 180 gallons capacity. Gauges and pertinent placards must show correct capacity for cells actually 
+ installed. Upon completion of the conversion to certificated status, the manufacturer's nameplate on 
+ the aircraft should be altered to include the date of conversion and the new commercial model 
+ designation. In case the original nameplate is not sufficiently large to include this additional 
+ information, a similar plate should be installed near the original plate. Under no circumstances 
+ should the original or any succeeding nameplate be removed from the aircraft."
+NOTE 8,"Models DC3C-SC3G, DC3C-S1C3G and DC3C-S4C4G (Army C-47, C-47A; Navy R4D-1, R4D-5) are 
+ basically the same as models DC3A-SC3G, DC3A-S1C3G and DC3A-S4C4G, respectively. The DC3C-R- 
+ 1830-90C (C-47B, Navy R4D-6) is basically the same as the C-47A (Navy R4D-5) except for engine 
+ installation. Certain production changes have been made in some of the aircraft such as forged engine mounts, 
+ forged landing gear trusses, rear brace struts, etc., all of which is interchangeable, are structurally satisfactory 
+ for use on any DC3 aircraft. If an operator is doubtful as to the interchangeability of a part, he should contact 
+ the manufacturer for his recommendations. 
+ All C-47 or R4D-1 and C-47A or R4D-5 aircraft were constructed with a large fuselage door in the side to 
+ permit loading of large pieces of cargo and the floors and floor beams were strengthened to support greater 
+ loads than those in the standard DC3. The essential difference in the C-47 (R4D-1) and C-47A (R4D-5) is that 
+ the latter model has a 24 volt electrical system instead of the 12 volt system which was standard on the C-47 
+ (R4D-1) and other DC3 aircraft. All of the C-47 (R4D-1) and part of the C-47A (R4D-5) aircraft have the 
+ steam heating system similar to the commercial DC3 aircraft, while the remainder of the C-47A (R4D-5) and 
+ all of the C-47B (R4D-6) aircraft have a hot air heating system installed. 
+ Prior to certification as a civil aircraft, the following must be accomplished: 
+ (a) Each airplane must satisfactorily pass on inspection for conformity, possible hidden damage, and for 
+ workmanship and materials used in making any repairs and/or alterations. All Airworthiness Directive 
+ Notes must be complied with. It should also be determined that the production reinforced wing tips are 
+ installed. The reinforced tip was installed at the factory on serial No. 9000 of the C-47 (R4D-1) aircraft 
+ and all of the C-47A (R4D-5) aircraft (Serial No. 9150 and up) but no rework of the aircraft already in 
+ service was ever required. The reinforced tip can be identified from the standard tip since the revisions 
+ consisted in changing all stringers in the top surface from 1/2 x 7/16 x .040 to 7/8 x 1/2 x .051. All of the 
+ short stringers on the top surface which originally ended in the bays between the ribs in many cases, have 
+ been increased in length so that they will end at the rib. The five-inch doubler at the tip joint which was 
+ originally .032 has been increased to .051 material. These changes became effective on the ""F"" change of 
+ Douglas Dwg. 5115201. If the wing tips installed are not reinforced, they should be reworked as outlined 
+ in Douglas Service Bulletin No. 215 dated September 14, 1943 and Supplement No. 1 dated November 
+ 30, 1943 and Douglas Service Letter to operators dated October 19, 1943. The reinforcement used in the 
+ production tip is considered too difficult to accomplish in the field and should not be resorted to unless 
+ satisfactory tooling is utilized. 
+ Douglas Service Bulletins Nos. C-47-44, C-47-50, C-47-53, C-47-54, C-47-56 and C-47- 75 must be 
+ complied with as well as all other applicable Airworthiness Directive NOTES not specifically mentioned 
+ herein. In addition to the Service Bulletins mentioned above, Army Technical Orders 01-40NC-82 and 
+ 01-40NC-86 must be complied with on the Model C-47B (Navy R4D-6). 
+ Some C-47 wing tips have been reinforced by installing .040 skin on the top surface from the wing tip 
+ joint to station 398, and an .020 doubler over the .040 skin from the tip joint to station 368. The .020 
+ doubler is outside the skin, and a tip reinforced in this manner can be easily recognized by inspection 
+ without removing any inspection covers. Because of the tooling necessary to perform this rework, it is 
+ recommended that this method of reinforcement not be done in the field. 
+ (b) Instrument markings and placards must be installed as required by this specification and commercial DC3 
+ practice. Attention should be given to the windshield equipment and it should be determined that a 
+ satisfactory windshield wiper is installed. 
+ (c) The following military equipment should be removed: Winterization (except oil dilution system and 
+ hopper oil tanks), propane priming, glider tow mechanism in the tail cone, litter boxes, litters, and 
+ supporting structure. Such brackets and supporting structure as will not interfere with the safe operaiton 
+ of the aircraft may, at the operator's discretion, be left in the aircraft as long as the equipment has been 
+ rendered inoperative. 
+ (d) The non-ram air intake system, if installed, must be made inoperative and must be revised in accordance 
+ with Douglas Dwg. 5115226 so as not to interfere with the carburetor hot air intake. 
+ (e) If the aircraft is to be used in scheduled air carrier service, an approved flashing tail light system must be 
+ installed. If certification is desired for night operations, all position lights should be approved type lights. 
+ (f) A vacuum gauge or warning system equivalent to that used in commercial DC3 aircraft must be installed 
+ in the instrument vacuum system. 
+ (g) Flares and flare system as required for the particular operation must be installed. 
+ (h) If the aircraft is to be used in air carrier service, the acceptability and airworthiness of any radio equipment 
+ installed in the particular aircraft must be determined by the pertinent FAA offices. 
+ (i) 
+ NOTES 1, 2, 3, 5 and 6 are pertinent to the operation of the airplane. 
+ (j) 
+ Any interior or exterior changes made to the primary structure or equipment must be made either 
+ according to approved drawings for DC3 type aircraft or satisfactorily substantiated. 
+ (k) Each airplane must be weighed to determine its weight and balance and an approved loading chart or 
+ device must be installed. If any changes have been made which would adversely affect the flight 
+ characteristics, the particular airplane must be flight tested. 
+ (l) 
+ On C-47A (R4D-5), C-47B (R4D-6) and C-117A aircraft having the hot air heating system installed, it 
+ must be determined that the duct which carries hot air for cabin heating is insulated within the engine 
+ nacelles. The following placard shall be installed near the heater warning light: ""Operate emergency 
+ valves to spill hot air overboard when light is on."" 
+ (m) If bullet sealing fuel cells are installed, the following must be complied with: 
+ (1) Inspect the installation to ascertain that tanks are adequately supported, i.e., that tank, when empty, 
+ retains approximately its full shape and such that the weight of the fuel or cell will not cause sagging 
+ or pulling on any connections. 
+ (2) Check tank capacities and gauges. Tanks of this type are known to vary considerably in volume and 
+ the main cells may vary from 180 to 200 gallons capacity while the auxiliary cells may vary from 165 
+ to 180 gallons capacity. Gauges and pertinent placards must show correct capacity for cells actually 
+ installed. 
+ Upon completion of the conversion to certificated status, the manufacturer's nameplate on the aircraft should 
+ be altered to include the date of conversion and the new commercial model designation. In case the original 
+ nameplate is not sufficiently large to include this additional information, a similar plate should be installed near 
+ the original plate. Under no circumstances should the original or any succeeding nameplate be removed from 
+ the aircraft."
+NOTE 9,"The DC3D-R-1830-90C (Army C-117A) model aircraft is basically the same as the DC3C (Army C-47A) 
+ aircraft except for the engine installation and cabin interiors, cabin floors and passenger entrance door similar 
+ to the commercial DC3 aircraft, which have been installed. A 24-volt electrical system and a hot air heating 
+ system are also incorporated instead of the 12-volt system and the steam heating system which were standard 
+ on the commercial DC3 aircraft. 
+ Prior to certification as a civil aircraft, the following must be accomplished: All modifications and inspections 
+ detailed under NOTE 8(a) (first and second paragraphs only), (b), (c), (d), (e), (f), (g), (h), (j), (k), (l) and (m). 
+ All applicable Airworthiness Directive notes not specifically mentioned herein must be complied with. Upon 
+ completion of the conversion to certificated status, the manufacturer's nameplate on the aircraft should be 
+ altered to include the date of conversion and the new commercial model designation. In case the original 
+ nameplate is not sufficiently large to include this additional information, a similar plate should be installed near 
+ the original plate. Under no circumstances should the original or any succeeding nameplate be removed from 
+ the aircraft."
+NOTE 10,"(a) All DC3C and DC3D aircraft are eligible for cargo operation at a maximum take-off and landing weight 
+ of 26,900 lbs., when engines having 1050 hp Max. continuous and 1200 hp for take-off are installed, 
+ provided the cabin floor is structurally adequate. 
+ (b) All DC3A aircraft are eligible for cargo operation at a maximum take-off and landing weight of 26,900 
+ lbs., when engines having 1050 hp maximum continuous and 1200 hp for take-off are installed, provided 
+ the cabin floor is structurally adequate and when the landing weight exceeds 25,200 lbs. and/or the take- 
+ off weight exceeds 26,200 lbs., the following structural reinforcements are accomplished: 
+ (1) Install C-47 type upper main landing gear truss in accordance with Douglas Dwg. No. 5110569 or 
+ 5141775. 
+ (2) Install C-47 type landing gear retracting strut and mechanical lock in accordance with Douglas Dwg. 
+ Nos. 5110586, 5114203, 2114381, 5140045 and 5341742. 
+ (3) Add an .040 doubler plate to each front spar upper landing gear attach point as shown on Douglas 
+ Dwg. No. 5116763-18. 
+ (4) It must be determined that the main landing gear wheels and tires have static ratings of at least 13,450 
+ lbs. Wheels listed under Items 201(e), (f), (h), (i) and (j) are satisfactory at the 26,900 lbs. cargo 
+ weight. Similarly, the tires listed under the following items are satisfactory for 26,900 lbs. gross 
+ weight: 
+ Item No. 
+ Inflation Pressure 
+ 202(a) 
+ 48 p.s.i. 
+ 202(b) 
+ 38 p.s.i. 
+ 202(c) 
+ 38 p.s.i. 
+ 202(g) 
+ 38 p.s.i. 
+ In case other wheels and tires have been approved for particular installations, the approved static 
+ ratings for the wheels (refer to wheel specifications), and tires (refer to Tire and Rim Association 
+ Airplane Handbook) should be determined to be at least 13,450 lbs. before authorizing operation at a 
+ weight of 26,900 lbs. 
+ (5) The following Douglas DC-3 axles are satisfactory for maximum weights as indicated: 
+ Axle Assembly 
+ Weight 
+ 5007396 
+ 25,200 lbs. 
+ 5007162 with 5007390 torque collar 
+ 25,200 lbs. 
+ 5007162 with 5007390RW torque collar 
+ 26,900 lbs. 
+ 5007162 with changes per Douglas S.B. 
+ 26,900 lbs. 
+ #242 including 5203324 or 
+ 5111575 collar and C-47 type 
+ keys and lower oleo caps. 
+ 5116596 with 5203324 or 5111575 collar 
+ 26,900 lbs. 
+ 5367124 
+ 26,900 lbs. 
+ Douglas Service Bulletin DC-3 No. 261 contains information relative to the identifying characteristics of the 
+ above listed axle assemblies. 
+ (c) A flap setting of 15 degrees is required to meet the take-off and climb requirements at weights in excess of 
+ 25,200 lbs. at sea level except for those aircraft operated in accordance with a FAA Approved Airplane 
+ Flight Manual or those aircraft eligible for operation in accordance with the take-off limitations of FAR 
+ 121, in which case a retracted flap position may be used for take-off. 
+ (d) The drawing referenced under (b) are not available to FAA representatives and, in each case, it will be 
+ necessary for the applicant to supply the necessary proof of compliance to satisfy the FAA representative 
+ that the changes have been incorporated in the individual airplane. (Douglas Service Bulletin No. 242 
+ describes in detail how to complete the rework covered by the drawings listed in parts (1), (2) and (3) 
+ above."
+NOTE 11,"The following partial flap settings and corresponding airspeeds may be used during approach procedures: 
+ Flap Setting 
+ Maximum Speed 
+ 1/4 
+ 155 mph (135 knots) True Ind. 
+ 1/2 
+ 114 mph ( 99 knots) True Ind. 
+ 3/4 
+ 112 mph ( 97 knots) True Ind. 
+ Full (45°) 
+ 112 mph ( 97 knots) True Ind."
+NOTE 12,"Models DC3A, DC3C, and DC3D aircraft with engines installed that are rated at 1050 hp maximum continuous 
+ and 1200 hp for take-off and authorized to be operated in accordance with the performance requirements of 
+ CAR 4a-T or CAR 4b as specified in FAR 121, are eligible for maximum landing and take-off weights of 
+ 26,000 lbs. and 26,200 lbs. respectively, when the conditions as set forth in Items (a), (b) and (d) of NOTE 10 
+ are complied with. For airplanes of U.S. Registry, this applies only to airplanes operated by certificated air 
+ carriers. The following airspeed limits are applicable for weights between 25,200 lbs. and 26,200 lbs.: 
+ Level flight or climb 
+ 205 mph (178 knots) True Ind. 
+ Glide or dive 
+ 251 mph (218 knots) True Ind. 
+ Flaps extended 
+ 112 mph ( 97 knots) True Ind. 
+ See NOTE 11 for partial flap speeds. 
+ An FAA Approved Airplane Flight Manual will be required for airplanes of U.S. Registry operating at these 
+ weights."
+NOTE 13,"The following is applicable to airplanes certificated under the provisions of CAB Special Regulation SR-407: 
+ Models DC3A, DC3C and DC3D aircraft have been determined to meet the structural requirements of CAR 4a 
+ as amended April 7, 1950, for a maximum landing and take-off weight of 26,900 lbs., and may be certificated 
+ for passenger carrying at weights up to and including 26,900 lbs., when P&W R-1830 series engines are 
+ installed whose maximum continuous hp does not exceed 1100 and whose T.O. hp does not exceed 1350, 
+ provided that the total weight of the engine-propeller installation forward of the firewall does not exceed 2500 
+ lbs. and the following are accomplished: 
+ (a) The structural modifications and installation of tires and wheels in accordance with NOTE 10(b) are 
+ required if the landing weight exceeds 25,200 lbs. or the take-off weight exceed 26,200 lbs. 
+ (b) If not already accomplished, the center wing spars, the tank covers on the bottom of the center wing and 
+ the nacelle to wing attach angles must be reworked in accordance with Douglas Project Sketches 10826, 
+ 10827, 10828 and 10829 and Douglas Dwg. No. 5162328 on the following aircraft: All serial numbers up 
+ to and including 1976, 1979 through 2003, 2009, 2011 through 2016 and 2019 through 2028. 
+ (c) P&W R-1830 type engines having a maximum continuous hp not to exceed 1100 and a T.O. hp not to 
+ exceed 1350 are installed. A forged engine mount per Douglas Dwg. No. 5110599 or welded engine 
+ mount per Douglas Dwg. No. 5141024, is required. Except for the R-1830-94 which has been determined 
+ to be satisfactory, engines incorporating two-speed supercharges must be locked in low blower unless 
+ satisfactory cooling tests are conducted and any modifications found necessary to permit high blower 
+ operation are incorporated. 
+ (d) Any increase in power above 1200 hp must not adversely affect the flight characteristics of the airplane. It 
+ has been determined that the directional controllability and stability of the DC-3 series aircraft is 
+ inadequate in the one-engine out condition if engines having more than 1200 hp for take-off are installed. 
+ Therefore, suitable modifications must be made to the airplane in a manner acceptable to the 
+ Administrator, which will maintain flight characteristics equivalent to those previously approved. One 
+ such modification which has been approved for a maximum of 1350 hp for take-off is a geared rudder tab 
+ installation which is referred to in Item 602. 
+ (e) An Airplane Flight Manual approved by the FAA is required and must be carried in the airplane at all 
+ times. For airplanes using a maximum of 1200 hp for take-off, a maximum weight of 26,200 lbs. has been 
+ established and may be approved without further tests. For airplanes using over 1200 hp up to 1350 hp 
+ for take-off, if it is desired to increase the maximum weight above 26,200 lbs. to a maximum of 26,900 
+ lbs., performance substantiation is required. 
+ (f) The following airspeed (TIAS) limits are applicable: 
+ Up to and including 
+ Between 24,800 lbs. 
+ Between 25,200 lbs. 
+ 24,800 lbs. 
+ and 25,200 lbs. 
+ and 26,900 lbs. 
+ V1 (Level flight or climb) 
+ 201 mph (175 knots) 
+ 195 mph (170 knots) 
+ 183 mph (159 knots) 
+ Vne (Never exceed) 
+ 241 mph (210 knots) 
+ 233 mph (202 knots) 
+ 219 mph (190 knots) 
+ Vf (Flaps 1/4) 
+ 155 mph (135 knots) 
+ 155 mph (135 knots) 
+ 155 mph (135 knots) 
+ (Flaps 1/2) 
+ 114 mph ( 99 knots) 
+ 114 mph ( 99 knots) 
+ 114 mph ( 99 knots) 
+ (Flaps 3/4) 
+ 112 mph ( 97 knots) 
+ 112 mph ( 97 knots) 
+ 112 mph ( 97 knots) 
+ (Flaps full) (45°) 
+ 112 mph ( 97 knots) 
+ 112 mph ( 97 knots) 
+ 112 mph ( 97 knots) 
+ (g) The DC-3 series aircraft is not structurally satisfactory for take-off weight in excess of 26,900 lbs. 
+ Therefore, if take-off weight, up to a maximum of 26,900 lbs., does not exceed the landing weight by 
+ more than 105%, dump valves are not required. No allowance for de-icer installation will be permitted at 
+ any weight. If an automatic pilot is installed in the airplane, satisfactory flight tests must be completed to 
+ determine the effects upon the automatic pilot servo forces of any modification made to the airplane to 
+ maintain its flight characteristics. The forces shown in Items 402(b) and (d) of this specification for the 
+ Sperry A-12 and Pioneer PB-10 have been demonstrated to be satisfactory when a ""geared Rudder Tab"" 
+ (See Item 602) is installed provided the maximum speed for operation of the automatic pilot is limited to 
+ 180 mph."
+NOTE 14,"The following aircraft models are also eligible for an airworthiness certificate under this specification; DSTA- 
+ SCG, -SC3G, -S1CG, -S1C3G and -S4C4G, serial numbers 1900 and up; DSTA-SB3G and -SBG, Serial 
+ Numbers 1951 and up; DC3A-SB3G and -SBG, Serial Numbers 1600 and up."
+NOTE 15,"Correct serial number for a particular airplane may be obtained from the manufacturer if suitable 
+ information can be provided relative to its military identification, including military serial number. Page 13 of 
+ Douglas Service Magazine for July 1946 contains a list of incorrect serial numbers versus Air Force numbers 
+ and correct serial numbers for certain C47A, C47B and C117A aircraft."

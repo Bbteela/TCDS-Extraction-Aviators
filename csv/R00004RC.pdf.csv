@@ -1,0 +1,302 @@
+Keyterm,Info
+"R00004RC 
+ Revision 3 
+ JJASPP Engineering Services, LLC 
+ UH-1H 
+ October 18, 2019",
+Type Certificate Holder,"JJASPP Engineering Services, LLC. 
+ 511 Harmon Terrace 
+ Arlington, Texas 76010"
+"I – Model UH-1H (Restricted Category Military Surplus Helicopter), Approved February 25, 2013",
+Engine,Lycoming T53-L-13B (See NOTE 12. for approved alternate engines)
+Fuel,"MIL-T-5624 (JP-4) 
+ Alternate Fuels: MIL-T-5624 (JP-5), MIL-T-83133 (JP-8)"
+Engine Limits,"Torque 
+ Output Shaft 
+ Exhaust 
+ Pres. (psi) 
+ Speed (rpm) 
+ Gas Temp. (deg. C) 
+ Takeoff 
+ 50.0 
+ 6,600 
+ 625oC 
+ (30 min.) 
+ (1100 SHP) 
+ (100%) 
+ Maximum 
+ 50.0 
+ 6,600 
+ 610oC 
+ Cont. 
+ (1100 SHP) 
+ (100%) 
+ (See NOTES 2. and 3.)"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 339 rpm 
+ Maximum 324 rpm 
+ Minimum 294 rpm 
+ Minimum 294 rpm 
+ Continuous Operation 294 - 324 rpm"
+Airspeed Limits,"Roof Mounted Pitot Static: 
+ Vne (never exceed speed) 124 knots (143 mph) up to and including 7500 lbs. 
+ G.W. sea level to 2000 feet (See NOTE 4. for specific airspeed operating 
+ limitations). 
+ Nose Mounted Pitot Static: 
+ Vne (never exceed speed) 119 knots (137 mph) up to and including 7500 lbs. 
+ G.W. sea level to 2000 feet (See NOTE 4. for specific airspeed operating 
+ limitations)."
+1,"2 
+ 3 
+ 4 
+ 5"
+3,"3 
+ 3 
+ 3 
+ 3"
+CG Range,"Longitudinal C.G. Limits 
+ (+134) to (+143) at 9,500 lbs. 
+ (+130) to (+144) at 8,600 lbs. and below 
+ Lateral C.G. Limits 
+ 4.7 in. left from centerline of fuselage 
+ 6.5 in. right from centerline of fuselage 
+ See center of gravity charts in U.S. Army UH-1H Operator’s Manual TM 55- 
+ 1520-210-10 for specific loading."
+Empty Weight,See U.S. Army UH-1H Operator’s Manual TM55-1520-210-10.
+Datum,"Station 0 (datum is located 7.60 inches aft of the most forward point of the 
+ fuselage nose section). See U.S. Army UH-1H Operator’s Manual TM 55- 
+ 1520-210-10."
+Leveling Means,"Plumb line from top of left main door frame to index plate on floor (see NOTE 
+ 1.)."
+Maximum Weight,"9,500 lbs."
+Minimum Crew,One (1) pilot
+No of Seats,"See NOTE 10. (See U.S. Army UH-1H Operator’s Manual TM-55-1520-210- 
+ 10 for seat locations)."
+Fuel Capacity,"208.5 gallons (+151.6) 
+ Usable fuel 206.5 gallons"
+Oil System,"3.25 gallons (+173) 
+ Usable oil 1.5 gallons (included in capacity) 
+ See NOTE 1. for data on undrainable oil."
+Rotor Blade and,For rigging information refer to U.S. Army UH-1H Maintenance Manual
+Control Movements,TM 55-1520-210-23.
+Serial No’s Approved,"U.S. Military Surplus UH-1H Helicopters as identified in JJASPP Engineering, 
+ LLC Report No. JJASPP-RC-001, dated September 21, 2012, or later FAA 
+ approved revisions. A current copy in on file at the Fort Worth Rotorcraft 
+ Certification Office, ASW-170."
+Certification Basis,"14 CFR § 21.25(a)(2) effective February 1, 1965, including Amendments 21-1 
+ through 21-42. 
+ Type Certificate R00004RC issued February 14, 2013, for the special purpose 
+ of: 
+ 1) 
+ Agricultural Operations under § 21.25(b)(1). 
+ Note: In accordance with § 36.1(a)(4), compliance with the noise 
+ requirements was not shown. Therefore, aircraft certified under this type 
+ certificate are only eligible for agricultural operations excepted by § 
+ 36.1(a)(4) and defined under § 137.3. 
+ 2) 
+ Forest and Wildlife Conservation under § 21.25(b)(2). 
+ Note: In accordance with § 36.1(a)(4), compliance with the noise 
+ requirements was not shown. Therefore, aircraft certified under this type 
+ certificate are only eligible for dispensing of fire fighting materials, as 
+ excepted by § 36.1(a)(4). 
+ 3) 
+ External Load Operations under 14 CFR § 21.25(b)(7). 
+ Note: In accordance with 14 CFR § 36.1(a)(4), compliance with noise 
+ requirements was not shown. Therefore, aircraft certificated under this type 
+ certificate are only eligible for external load operations excepted by 14 CFR § 
+ 36.1(a)(4) and defined under 14 CFR § 133.1(b). 
+ Any alteration to the aircraft for special purposes not identified above require 
+ further FAA approval and in addition may require noise and/or flight testing. 
+ General Note: Any subsequent modifications to the helicopters type certified 
+ under this type certificate are to have the certification basis for that 
+ modification established under 14 CFR § 21.101 published June 7, 2000 which 
+ became effective June 10, 2003. Otherwise non-significant modifications are 
+ to meet the requirements of 14 CFR part 29 Airworthiness Standards, 
+ Transport Category, Amendment 1, effective August 12, 1965 and 14 CFR § 
+ 29.1529, Instructions for Continued Airworthiness, Amendment 20, effective 
+ September 11, 1980."
+Production Basis,"None. No helicopter may be manufactured under this approval. Prior to 
+ adding serial numbers to this type certificate, each candidate helicopter must 
+ undergo a conformity inspection. The conformity inspection will be conducted 
+ in accordance with a Type Inspection Authorization, Part 1, or request for 
+ conformity using the conformity inspection guidelines contained in FAA Order 
+ 8110.56."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see certification basis) must be installed in the helicopter prior to 
+ original airworthiness certification. In addition, the following items or 
+ equipment are required with each helicopter as specified: 
+ (a) 
+ Outside air temperature gauge 
+ (b) 
+ Engine tail pipe temperature gauge 
+ (c) 
+ The U.S. Army UH-1H Operator’s Manual TM 55-1520-210-10, dated 15 
+ February 1988 or later FAA approved revisions."
+NOTE 1,"A current weight and balance report including list of equipment included in the certificated empty 
+ weight, and loading instructions when necessary, must be provided for each helicopter at the time 
+ of original airworthiness certification. Refer to Chapter 6 of UH-1H Operator’s Manual TM 55- 
+ 1520-210-10 and Maintenance Manual TM 55-1520-210-23, paragraph 1-36 for leveling means 
+ and weight and balance determination."
+NOTE 2,"Torque pressure output by the engine sensing system varies with individual engines. A calibration 
+ of this value is required of each engine and the value corresponding to take-off power is stamped 
+ on the engine data plate."
+NOTE 3,"Gas producer speeds, as shown under “Engine Limits”, are maximum permissible speeds. The gas 
+ producer speed for rated power outputs varies with individual engines and must be determined 
+ during engine calibration and is stamped on the engine data plate. The rated gas producer speed 
+ shown on the temperature limit placard installed on the instrument panel must correspond to the 
+ engine data plate gap producer speed. Gas producer speed limits also vary with outside air 
+ temperature in accordance with the schedule as shown on the Temperature Limit (GO-NO-GO 
+ TAKE-OFF) placard on the instrument panel."
+NOTE 4,"The following placards must be prominently displayed in the cockpit on the instrument panel and in 
+ full view of the pilot: 
+ (a) 
+ UH-1H airspeed limitation placard as follows: 
+ CALIBRATED AIRSPEED – KNOTS 
+ with Roof Mounted Pitot Static Tube 
+ WEIGHT 
+ Up to 7,500 lbs. 
+ 8,500 lbs. 
+ 9,500 lbs. 
+ DENSITY 
+ ALTITUDE (FT) 
+ SL to 2000 
+ 124 
+ 119 
+ 114 
+ 3000 
+ 121 
+ 116 
+ 111 
+ 6000 
+ 112 
+ 107 
+ 102 
+ 9000 
+ 102 
+ 97 
+ 92 
+ 12000 
+ 92 
+ 87 
+ 83 
+ 15000 
+ 81 
+ 76 
+ - 
+ 18000 
+ 69 
+ 65 
+ - 
+ Up to 7500 lbs. gross weight use 6000 to 6600 rpm range 
+ Over 7500 lbs. gross weight use 6400 to 6600 rpm range 
+ REDUCE AIRSPEED WHEN VIBRATION IS EXCESSIVE 
+ CALIBRATED AIRSPEED – KNOTS 
+ with Nose Mounted Pitot Static Tube 
+ WEIGHT 
+ Up to 7,500 lbs. 
+ 8,500 lbs. 
+ 9,500 lbs. 
+ DENSITY 
+ ALTITUDE (FT) 
+ SL to 2000 
+ 112 
+ 107 
+ 103 
+ 3000 
+ 109 
+ 104 
+ 100 
+ 6000 
+ 100 
+ 95 
+ 91 
+ 9000 
+ 91 
+ 86 
+ 82 
+ 12000 
+ 82 
+ 77 
+ 73 
+ 15000 
+ 70 
+ 65 
+ - 
+ 18000 
+ 58 
+ - 
+ - 
+ Up to 7500 lbs. gross weight use 6000 to 6600 rpm range 
+ Over 7500 lbs. gross weight use 6400 to 6600 rpm range 
+ REDUCE AIRSPEED WHEN VIBRATION IS EXCESSIVE 
+ (b) 
+ External Loads: ""External load operations Vne will be determined for each proposed external 
+ load application."" 
+ (c) 
+ “VFR OPERATIONS ONLY” 
+ (d) 
+ Operating Limits: ""This helicopter must be operated in compliance with the operating 
+ limitations specified in the operator's manual."" 
+ (e) 
+ Restricted Category Operations: ""This helicopter must be operated in accordance with the 
+ restricted category operating limitations of 14 CFR § 91.313 in addition to the limitations noted in 
+ the operator's manual."""
+NOTE 5,"These helicopters must be serviced, maintained, inspected, repaired and overhauled in accordance 
+ with the documents specified in JJASPP Engineering, LLC Instructions for Continued 
+ Airworthiness Report No. JJASPP-ICA-12-005, Rev. IR, or later FAA accepted revision, or 
+ inspected in accordance with other FAA accepted inspection program. The TC Holder’s 
+ Instructions for Continued Airworthiness Report is part of the TC Holder’s Instructions for 
+ Continued Airworthiness. 
+ Other maintenance methods, techniques and practices maybe used as an alternative to these 
+ manuals, provided the maintenance methods, techniques, and practices have been determined to be 
+ acceptable to the FAA."
+NOTE 6,"The following helicopter configuration and condition requirements must be met prior to original 
+ airworthiness certification of each UH-1H helicopter: 
+ (a) Each helicopter must pass a conformity inspection in accordance with JJASPP Engineering, 
+ LLC Engineering Configuration Report No. JJASPP-RC-12-001, dated September 19, 2012, or 
+ later FAA approved revision. The configuration report identifies the military maintenance work 
+ orders associated with each helicopter and provides a description of the modifications 
+ accomplished on each helicopter. In addition, each helicopter must pass an inspection for any 
+ possible hidden damage and the military records reviewed for acceptability of any repairs or 
+ alterations. 
+ (b) The maintenance, overhaul and modification records of each helicopter must be reviewed for 
+ military changes that may affect the airworthiness of the helicopter. 
+ (c) After the required inspections, the helicopter must be found to be in a good state of 
+ preservation, repair, and in a condition for safe operation. 
+ (d) An FAA representative must perform a detailed inspection for workmanship, materials and 
+ conformity with the approved technical data following a check by the type certificate holder, of the 
+ flight characteristics in accordance with all applicable portions of Section II of the U.S. Army 
+ Technical Manual TM 55-1520-242-MTF Maintenance Test Flight Manual, Army Model UH-1, 
+ EH-1 Helicopter, Change 1, dated December 19, 1986, as appropriate for each helicopter, or other 
+ FAA approved revisions."
+NOTE 7,"This helicopter is prohibited from carrying cargo for compensation or hire. Carriage of cargo is 
+ limited to such cargo that is incidental to the helicopter owner’s/operator’s business which is other 
+ than air transportation."
+NOTE 8,"Restricted category aircraft may not operate be operated in a foreign country without express 
+ written approval of that country."
+NOTE 9,"This helicopter has not been shown to meet the requirements of the applicable comprehensive and 
+ detailed airworthiness code as provided by Annex 8 to the Convention on International Civil 
+ Aviation."
+NOTE 10,"No person may be carried in this helicopter during flight unless that person is essential to the 
+ purpose of the flight."
+NOTE 11,"Engine changes are allowed provided the replacement engine is of the same make and model as 
+ identified in this TCDS. The replacement engine must have proper military records and have 
+ applicable FAA Airworthiness Inspection accomplished and is a condition for safe operation."
+NOTE 12,"Honeywell (Lycoming) engine models T53-L-13, T53-L-13A and T53-L-13BA are approved for 
+ use as alternate engines under this type certificate. The alternate engine must have proper military 
+ records and have the applicable FAA Airworthiness Inspection accomplished and is a condition for 
+ safe operation."
+NOTE 13,"An acceptable method of determining engine cycle counts from engine total operating time is 
+ contained in JJASPP Engineering, LLC Report No. JJASPP-RC-12-002, dated September 19, 2012, 
+ or later FAA approved revision. This method may be used to convert military operating hours to 
+ commercial equivalent cycles prior to original airworthiness certification."
+NOTE 14,"The airworthiness directives listed in JJASP Engineering, LLC Report No. JJASPP-RC-12-003, 
+ Rev. IR, dated September 19, 2012, or later FAA approved revisions must be complied with as a 
+ prerequisite to original airworthiness certification."
+NOTE 15,"Any alteration to the type design of this aircraft my require Instructions for Continued 
+ Airworthiness (ICA’s). Changes to the type design by means of a Supplemental Type Certificate 
+ (STC) requiring ICA’s or changes to existing ICA’s must be submitted and reviewed by the Fort 
+ Worth Aircraft Evaluation Group (FTW-AEG). Type design changes by means of a Field 
+ Approval that require ICA’s must have those ICA’s reviewed by the Flight Standards District 
+ (Office) managing the Field Approval or the FTW-AEG."

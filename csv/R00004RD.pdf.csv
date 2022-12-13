@@ -1,0 +1,919 @@
+Keyterm,Info
+"R00004RD 
+ REVISION 3 
+ Leonardo S.p.a. 
+ AW189 
+ February 08, 2022",
+Type Certificate Holder,"Leonardo S.p.a. 
+ Helicopter Division 
+ Piazza Monte Grappa, 4 
+ 00195 – Rome, Italy"
+Type Certificate Holder Record,"AgustaWestland S.p.A. was previous name of TC holder. The company name change 
+ history is presented below. 
+ Type Certificate Holder 
+ Period 
+ AgustaWestland S.p.A. Via Giovanni Agusta, 520; 21017 
+ 1 June 2011 - 
+ Cascina Costa di Samarate (VA) – Italy 
+ 30 July 2014 
+ AgustaWestland S.p.A. Piazza Monte Grappa, 4; 00195 
+ 31 July 2014 - 
+ Roma - Italy 
+ 31 December 2015 
+ Finmeccanica S.p.A., Helicopter Division Piazza Monte 
+ 1 January 2016 - 
+ Grappa, 4; 00195 Roma - Italy 
+ 14 July 2016 
+ Leonardo S.p.A., Helicopters Piazza Monte Grappa, 4; 
+ since 15 July 2016 
+ 00195 Roma - Italy"
+"I. Model AW189 (Transport Helicopter: Category A and Category B), Approved 27 February 2015",
+Engine,"Two (2) General Electric CT7-2E1 
+ FAA Engine Type Certificate Data Sheet No E8NE 
+ Free turbine turboshaft engines with FADEC 
+ For Limitations Ref. to GE Operating Instructions No. GEK112766"
+Auxiliary Power Unit APU,"One (1) Microturbo model e-APU60 model 342 (FAA TSO C77b) 
+  
+ Max. Continuous = 41.9 hp (31.25 kW) at APU gearbox. 
+  
+ See e-APU60 for AW189 Installation Manual No. 0342/09/012, 
+ issue /Ed. 06, dated 5/21/14 or later approved issue for detail"
+Fuel,"JET A, JET A1, JP5, JP8, JP8+100, No. 3 Jet Fuel (for code no. specification and 
+ more details refer to Rotorcraft Flight Manual) 
+ Fuel icing inhibitors are mandatory for ambient temperatures below -15°C 
+ See Section I of the Rotorcraft Flight Manual for fuel mixture and fuel temperature 
+ limitations"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ I I I I I I I I I I I"
+Rev No,"3 
+ 1 
+ 2 
+ - 
+ 2 
+ 3 
+ 2 
+ 2 
+ 2 
+ 2"
+Oil,"MIL-PRF-83282; MIL-PRF-5606, as alternative in low temperature environments 
+ Hydraulics 
+ below -20° C (See NOTE 7) 
+ Transmissions 
+ AEROSHELL TURBO OIL 555 (DoD-L-85734). No different specification or brand 
+ is allowed 
+ Engine 
+ Ref. to GE Operating Instructions No. GEK112766 
+ APU 
+ MIL-PRF-23699, MIL-PRF-7808 
+ Additives 
+ Kathon FP 1.5, MIL-DTL-27686, MIL-DTL-85470, MIL-I-25017, Biobor JF 
+ Coolant 
+ R134a 
+ See Section I of the Rotorcraft Flight Manual for detailed information"
+Fluid capacities,"Fuel 
+ Total A/C capacity 
+ Unusable 
+ litres [kg (lb) (*)] 
+ litres [kg (lb) (*)] 
+ Two main fuel tanks (LH and RH) 
+ 1303 [1042 (2297.2)] 
+ 24 [19 (41.9)] 
+ Two main fuel tanks (LH and RH) 
+ 1541 [1233 (2718.3)] 
+ 28 [22 (48.5)] 
+ plus Forward Tanks 
+ Two main fuel tanks (LH and RH) 
+ 1825 [1460 (3216.5)] 
+ 30 [24 (52.9)] 
+ plus Auxiliary Central Tank 
+ Two main fuel tanks (LH and RH) 
+ 2063 [1650 (3637.6)] 
+ 34 [27 (59.5)] 
+ plus Forward Tanks plus Auxiliary 
+ Central Tank 
+ Extended Range (See Note 11) 
+ 2569 [2055 (4530.0)] 
+ 9 [7 (15.4)] 
+ Two main fuel tanks (LH and RH) 
+ Plus underbelly tanks 
+ (*) Considering a medium density between different fuels of 0.8kg/l 
+ Oil 
+ Quantity 
+ litres [kg (lb)] 
+ ENGINE (each) 
+ min 3.6 [3.59 (7.91)] - max 5.5 [5.49 (12.10)] 
+ MAIN GEARBOX (min/max) 
+ min 21.5 [21.46 (47.31)] - max 27 [26.95 (59.41)] 
+ (24.5 + 2.5 for oil cooler, oil ducts and filter) 
+ INTERMEDIATE GEARBOX 
+ 1.22 [1.217 (2.683)] 
+ TAIL GEARBOX 
+ 1.87 [1.866 (4.114)] 
+ HYDRAULIC 
+ (per each Power Control Module) 
+ 3.20 [2.72 (6.00)] 
+ Coolant system capacity 2.9kg"
+Installed Engine Limits,"Max Gas 
+ Max. Torque 
+ Max ITT 
+ Generator Speed 
+ Lb-ft 
+ °C (°F) 
+ % (RPM) 
+ OEI 
+ 30 sec. 
+ 575 
+ (1972.4) 
+ 1078 
+ 105.0 (46935) 
+ 2 min. 
+ 575 
+ (1972.4) 
+ 1078 
+ 105.0 (46935) 
+ Continuous 
+ 515 
+ (1774.4) 
+ 968 
+ 102.7 (45907) 
+ AEO 
+ Take Off (5 min.) 
+ 515 
+ 968 
+ (1774.4) 
+ 102.7 (45907) 
+ Maximum Continuous 
+ 490 
+ 942 
+ (1727.6) 
+ 102.7 (45907)"
+Transmission Limits,"Max torque 
+ Power (SHP) 
+ % (Lb-ft) 
+ @ 102% NR 
+ OEI 
+ 30 sec. 
+ 1 x 164% 
+ (1 x 502.66) 
+ 2050.07 
+ 2 min. 
+ 1 x 155% 
+ (1 x 475.08) 
+ 1937.59 
+ Continuous 
+ 1 x 135% 
+ (1 x 413.78) 
+ 1687.58 
+ AEO 
+ 30 min. (below 90 KIAS) 
+ 2 x116% 
+ (2 x 355.54 ) 
+ 1450.05 
+ 30 min. (above 90 KIAS) 
+ 2 x112% 
+ (2 x 343.28 ) 
+ 1400.05 
+ Maximum Continuous 
+ 2 x100% 
+ (2 x 306.5 ) 
+ 1250.04 
+ See Note 15 for Improved OEI Transmission Limits"
+Rotor Limits,"POWER ON AEO 
+ CONDITION 
+ (RPM) 
+ (%) 
+ Minimum Continuous 
+ 284.75 
+ 100.0 
+ Maximum Continuous 
+ 296.14 
+ 104.0 
+ POWER ON OEI 
+ CONDITION 
+ (RPM) 
+ (%) 
+ Minimum Cautionary 
+ 256.28 
+ 90.0 
+ Minimum Continuous 
+ 284.75 
+ 100.0 
+ Maximum Continuous 
+ 296.14 
+ 104.0 
+ POWER OFF 
+ CONDITION 
+ (RPM) 
+ (%) 
+ Minimum Continuous 
+ 270.51 
+ 95.0 
+ Maximum Continuous 
+ 313.23 
+ 110.0"
+Air Speed Limits,"VNE Power On AEO = 169 KIAS 
+ VNE Power On OEI = 139 KIAS 
+ VNE Power Off = 120 KIAS 
+ VLE/VLO (gear extended/gear operating) = 150 KIAS/150 KIAS 
+ See approved Rotorcraft Flight Manual for variations with altitude, OAT and 
+ weight. 
+ A IRSPEED L IMITATION 
+ PRESSURE: Al 11TU OE (m X 100) 
+ · l 
+ ,. 
+ 21 
+ 27 
+ ,,·-?' / 
+ / 
+ V 
+ V 
+ I\ 
+ ' ' I'\ '~ ' 
+ r,.. 
+ ' 
+ ' 
+ ~ 
+ r. 
+ .,;J '/ 
+ / / / V / 
+ II\ 
+ ' 
+ ., 
+ ~ 
+ ..»""-'., rr> / 
+ / / 
+ / 
+ / 
+ / 
+ o,', '.7' / vv /v / 
+ / 
+ / 
+ / 
+ / 
+ I\ 
+ ' 
+ ~ 
+ <> 
+ ,V /,, vv vv ,,,v V 
+ V V V 
+ \ 
+ ,: 0 ' 
+ / 
+ ·""/ V / 
+ V 
+ V 
+ V ,,V V V 
+ / 
+ / 
+ '\ 
+ I\ 
+ \ ~. 
+ ' 
+ , I\ ' 
+ , I\ 
+ 177"" 7 17 y 
+ l)1/ y 
+ :JY r ;Y JY 
+ ' 
+ ' 
+ ' 
+ / / V V IV V V / 
+ / 
+ v/ / 
+ vv /v V 
+ / 
+ / 
+ V 
+ / 
+ V 
+ / 
+ / 
+ V 
+ ', 
+ / 
+ V 
+ •• 
+ ' ' 
+ / 
+ V 
+ V 
+ V 
+ V 
+ V 
+ / 
+ / 
+ / 
+ / 
+ / 
+ / 
+ / 
+ / 
+ le 
+ --""1\ 
+ C 
+ i 
+ / 
+ / 
+ / 
+ / 
+ / 
+ ~ 
+ 1- -- ~, 
+ / 
+ / 
+ V 
+ / 
+ / 
+ ' \ 1 
+ I 
+ I ' 
+ // 
+ V 
+ / 
+ / 
+ / 
+ / 
+ I 
+ I 
+ I 
+ I 
+ / 
+ / 
+ 1 1 
+ I 
+ I 
+ 1 1 
+ ., 
+ ,-- / 
+ , , 
+ y"" 
+ I 
+ I 
+ 110 
+ 120 
+ 130 
+ 140 
+ , .. 
+ , .. 
+ 170 
+ l 
+ 5 
+ 7 
+ PRESSURE ALTIT\J0E [ft X HIGO) 
+ VH [klAS) 
+ IICH-llM-1~1000.0.JOil&-CUIOJ.. .... CQ.1 1 
+ ltll901!i!OA.001Rw<'C I 
+ Center of Gravity (C. G.) Range 
+ E ]' I 
+ ~ J 
+ I I I 
+ :~ --( v 
+ ~o 
+ I 
+ ),-..... 
+ I E~ 
+ :~ 
+ Oo 
+ ...., t-..... 
+ ~~ E ]' 
+ I I 
+ I' 
+ I 
+ 8000 
+ -0.09 m 
+ ~ 
+ +0.106 j 
+ 8400 
+ t 
+ 8300 kd 
+ 8300 kg 
+ l: o 
+ I 
+ :~ 
+ I 
+ I 
+ I 
+ 1 
+ I 
+ 8200 
+ I I 
+ I 
+ I 
+ 8000 
+ I 
+ I 
+ 7800 
+ + 
+ ➔ + - 
+ ~ 
+ ~ 
+ 7000 
+ t 
+ I 
+ + 
+ ~ 
+ ~ 
+ + 
+ ~ 
+ ~ 
+ ·~ 
+ 7400 
+ I 
+ I 
+ I 
+ + 
+ I 
+ .... l- 
+ I 
+ I 
+ t 
+ I 
+ + 
+ 7200 
+ E]' 
+ ~ g 
+ I 
+ I 
+ ~7000 
+ I 
+ I 
+ ::( 
+ ---+ 
+ I 
+ +-0.122 rn - 
+ I 
+ I 
+ 6843 kg - 
+ I 
+ I 
+ I 
+ + 
+ - - 
+ 8000 
+ ~ 
+ f- -0.097 m 
+ I 
+ l 
+ \ 
+ ~ 
+ kg 
+ I 
+ I 
+ A' I 
+ 8400 
+ r 
+ t 
+ ~ 
+ I ' 
+ I 
+ I/ 
+ I 
+ 8200 
+ ~ g 
+ E ]' ', 
+ \ 
+ I 
+ 8000 
+ I 
+ \ 
+ I 
+ ~:;; 
+ I""-r 
+ + I + 
+ I 
+ I 
+ ~1 ~i 
+ ;;J;. ..... 
+ 1\ 
+ \ 
+ 1 
+ I 
+ T 
+ ~ - 
+ I 
+ 5800 
+ I 
+ , 
+ .,... 
+ W"") r;-, 
+ ~ ~ I 
+ I 
+ . ,.. . ...,. 
+ ..., .,.,.. 
+ .I. 
+ ~~ 
+ - 1 
+ . =r 
+ t;; 
+ 5000 
+ <I:· 
+ I 
+ I 
+ I I I I 
+ I 
+ +- 
+ ::E 
+ 5400 
+ \ 
+ / I 
+ I 
+ :0.026 - MAST - 
+ +0.048m 
+ I 
+ 5400 kg 
+ j 
+ 5400kg 
+ 5200 
+ -0.12 
+ ..0.08 
+ -0.D4 
+ 0.D4 
+ 0.08 
+ 0.12 
+ I t89G1.560A001 Ill A I 
+ Weight And Longitudinal Cg Envelope 
+ Weight And Lateral Cg Envelope"
+Ambient Temperature Limitations,"AW1 89 
+ FLIGHT' ENVELOPE 
+ OAT - [° F] 
+ -50-40 -30-20-10 0 10 .20 30 40 50 60 70 80 
+ 100 
+ 120 
+ 140, 
+ 10000 
+ 3000 
+ Minimum GW 
+ 2800 
+ permitted 
+ 9000 
+ for area A 
+ 2600 
+ 6000 kg 
+ (13:22B lb) 
+ 8000 
+ 2400 
+ 22.00 
+ 7000 
+ 2000 
+ 6000 
+ 1800 I 
+ ,., 
+ 1600 ., 
+ 'l:l 
+ -0 = 
+ 5000 
+ T ,KE C lfF a ,d 
+ .3 
+ :2 
+ 1400 E 
+ LAN )ING 
+ ,:i: e = 
+ ,.,, ,.,, ,., 
+ ,:i: ., 
+ ~ 
+ OPI 
+ 4000 
+ 12.00 ~ .. 
+ - 
+ tt 
+ ~ 
+ 1000 £ 
+ 3000 
+ ' 
+ 800 
+ 2000 
+ 600 
+ ~ 
+ r. 
+ 400 
+ 1000 
+ - 
+ ~ 
+ .IJ 
+ ~ 
+ :200 
+ 0 
+ ~ ~ '-~ r1' ~ , 
+ ""1\ 
+ -200 
+ -50 
+ ,-40 
+ -30 
+ -20 
+ -10 
+ 0 
+ 10 
+ :20 
+ 30 
+ 40 
+ 50 
+ 60 
+ OAT'- [°C] 
+ l189G1560A001 Rev.C I 
+ rl IC_N-8 
+ _ S-_A __ ,-5,-ooo- -G--i\ll- ,-=--ll04- -A- -02--,~I"
+Maximum Operating Altitude and Temperature,"Altitude 
+ Maximum operating altitude 10000 ft (pressure/density altitude whichever 
+ occurs first) 
+ Maximum Take-off and Landing altitude 8000 ft (pressure/density altitude 
+ whichever occurs first) 
+ Temperature 
+ -40°C ÷ +55°C (ISA+40°C) 
+ For variation of Temperature limitations with altitude, see the Rotorcraft Flight 
+ Manual and applicable supplement"
+Datum,"Longitudinal Datum (STA 0) is located at 2830 mm forward to the 
+ front jack point 
+ On the Extended Range configuration (see Note 11) 
+ the longitudinal datum line (STA 0) is located at 
+ 3009 mm forward to the front jack point. 
+ Lateral Datum (BL 0) is located at +/- 275 mm inboard of LH/RH front jack 
+ points"
+Leveling Means,"Plumb line from ceiling reference point to index plate on floor of passenger 
+ cabin"
+Maximum weights,"- Taxi and Towing 
+ 8350 kg (See Note 12) 
+ - Take-off and Landing 8300 kg (See Note 12)"
+Minimum Crew,"One (1) for VFR; 
+ Two (2) for IFR. 
+ (See also “Equipment” and NOTE 5.) 
+ For Cat. A operations, two (2) pilots are required if take-off and landing is to 
+ be carried out from the left seat. 
+ For NVG operations, two (2) pilots or one (1) pilot and one (1) crew member 
+ are required. Both pilot and crew member must be equipped with NVGs (see 
+ NOTE 10)."
+Number of Seats,21 (2 crew – 19 passengers maximum)
+Maximum Baggage,"300 kg (660 lb) located in the Baggage compartment (See Note 13) 
+ Baggage compartment max pressure load 
+ 550 kg/m2 (110 lb/sq. ft) 
+ Baggage compartment max load height 
+ 600 mm (2 ft) (See Note 13) 
+ For rigging information, refer to the AW189 Maintenance 
+ Manual."
+Import Requirements,"To be considered eligible for operation in the United States, each aircraft 
+ manufactured under this Type Certificate must be accompanied by a 
+ Certificate of Airworthiness for Export or certifying statement endorsed by the 
+ exporting foreign civil airworthiness authority which states the following (in 
+ the English language): 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the 
+ United States of both new and used aircraft based on the scope of the agreement, to 
+ identify any required statements by the exporting authority on the export certificate of 
+ airworthiness (or equivalent document), and for procedures for coordinating exceptions 
+ to conformity statements on these documents. Refer to FAA 
+ Order 8130.2, Airworthiness Certification of Aircraft, for requirements for issuance of 
+ an airworthiness certificate for imported aircraft. 
+ “The rotorcraft covered by this certificate has been examined, tested and 
+ found to conform to the type design approved under FAA Type Certificate 
+ No. R00004RD and to be in condition for safe operation.” 
+ The only aircraft eligible for import into the United States are those aircraft 
+ with the configuration defined in Leonardo S.p.a. Report No. 189G0000P005, 
+ “AW189 - FAA Type Design Definition,” dated 26 February 2015 or latest 
+ issue.."
+Certification Basis,"(1) 14 CFR Part 21.29. 
+ (2) 14 CFR Part 29 Amendment 29-1 through 29-52, dated 30 March 2010 
+ (See Note 16) 
+ (3) 14 CFR Part 36 Appendix H, Amendment 36-1 through 36-29 dated 11 
+ March 2013. 
+ (4) Special Condition: 
+  
+ 30 Minute All Engines Operating (AEO) Power Rating: 14 CFR 
+ 29.1049, 29.1305, 29.1521 
+ (5) Equivalent Level of Safety Findings issued against: 
+  
+ 14 CFR § 29.807(c) Passenger emergency exits 
+ (documented in ELOS Memo TC4265RD-R-C-01). 
+  
+ 14 CFR § 29.813(c) Passenger access to each emergency 
+ exit (documented in ELOS Memo TC4265RD-R-C-02). 
+  
+ 14 CFR § 29.807 (d)(2) & (d)(3) Ditching emergency exits 
+ for passengers (documented in ELOS Memo TC4265RD- 
+ R-C-04). 
+  
+ 14 CFR § 29.815 Main aisle width (documented in ELOS 
+ Memo TC4265RD-R-C-05). 
+  
+ 14 CFR § 29.1545(b) Airspeed indicator (documented in 
+ ELOS Memo TC4265RD-R-F-01). 
+  
+ 14CFR §29.1305 and §29.1549 Power Index (documented in ELOS 
+ Memo TC4265RD-R-F-03)"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (See Certification Basis) must be installed in the helicopter for 
+ certification. 
+ The installation of the followings is mandatory for Ditching Operations (see 
+ Supplement 6 of the RFM): 
+  
+ Life rafts (life rafts P/N 8G2560F00511 have been approved for use by 
+ Leonardo S.p.a. The use of other life raft installations must be in 
+ accordance with CS/FAR 29 and must be approved) 
+  
+ Survival type Emergency Locator Transmitter 
+  
+ Life preservers (the following life preservers installations have been 
+ approved by Leonardo S.p.a: 8G2560F00611, 8G2560F00711, 
+ 8G2560F00811. Different life preserver installations must be in 
+ accordance with CS/FAR 29 and must be approved). 
+ The installation of the followings is mandatory for Night Vision Goggles 
+ Operations (see Supplement 14 of the RFM): 
+  
+ Aviator’s Night Vision Goggles as specified in 189G3360A001 
+ “AW189 NVG Compatibility Reference Handbook” 
+  
+ Helmet with NVG mount suitable for NVG Model being used 
+  
+ Cockpit/Cabin physical separation device as defined in 189G3360A001 
+ “AW189 NVG Compatibility Reference Handbook”. 
+ The installation of the following is mandatory for operations in Full Icing 
+ Conditions: 
+  
+ Kit Full Ice Protection System P/N 8G3000F00111 with DGCU 
+ P/N 8G2420V00351 (see RFM Supplement 44 or 49, according to 
+ the relevant aircraft configuration) 
+ The aircraft configuration approved for use in full icing condition is described 
+ in the Report 189G3000A001”AW189 Icing Compatibility Reference 
+ Handbook” 
+ Refer to Rotorcraft Flight Manual and related supplements for other approved 
+ mandatory and optional equipment. 
+ Refer to Kit Compatibility Handbook 189G0000A002 for incompatibilities and 
+ restrictions between optional equipment. 
+ AW189 Software Configuration is managed within the Software Handbook 
+ 189G0000X007. 
+ Leonardo S.p.a. Service bulletins, structural repair manuals, vendor manuals, 
+ Service information 
+ aircraft flight manuals, and overhaul and maintenance manuals, which contain 
+ a statement that the document is EASA approved, are accepted by the FAA 
+ and are considered FAA approved. These approvals pertain to the approved 
+ type design only."
+Flight Manual,"EASA approved on behalf of FAA Rotorcraft Flight Manual, 189G0290X002, 
+ Issue 1 Revision 3 or later approved revision (See NOTE 5)."
+Maintenance Manual,"Maintenance Planning Information 89-B-AMPI-00-P 
+ Maintenance Publication 89-A-AMP-00-X."
+NOTE 1,"A current weight and balance report, including a list of equipment included in the certificated empty weight, must be 
+ provided for each helicopter at the time of original airworthiness certification in accordance with 14 CFR 29.25, 29.27 
+ and 29.29."
+NOTE 2,"All placards required by either FAA Approved Rotorcraft Flight Manual, the applicable operating rules, or the 
+ Certification Basis must be installed in the helicopter."
+NOTE 3,"Information essential to the proper maintenance of the helicopter is contained in the Manufacturer’s Maintenance 
+ Manual provided with each helicopter. Life limited components and associated retirement times are presented in 
+ Chapter 4 and must be replaced accordingly."
+NOTE 4,"The model AW189 rotorcraft employs electronic engine controls, commonly named Full authority Digital Engine 
+ Controls (FADEC), that are recognized to be more susceptible to Electromagnetic Interference (EMI) than rotorcraft 
+ that have non-electronic controls. (EMI may be the result of radiated or conducted interference.) For this reason 
+ modifications that add or change systems that have the potential for EMI, must either be qualified to a standard 
+ acceptable to the FAA or tested at the time of installation for interference with the FADEC. This type of testing must 
+ employ the particular FADEC diagnostic techniques and external diagnostic techniques. The test procedure must be 
+ FAA approved."
+NOTE 5,"The FAA Rotorcraft Flight Manual (RFM) is identical to the EASA approved RFM; any exceptions unique for FAA 
+ are presented on yellow pages marked “EASA approved on behalf of FAA” or “FAA Approved”. They must be 
+ included in the FAA manual to reflect the differences noted below: 
+ 1. Section 1, LIMITATIONS, MINIMUM FLIGHT CREW: 
+ Requires two pilots for IFR 
+ 2. Section 4, Performance Data, NOISE CHARACTERISTICS: 
+ Model: AW189 General Electric GE CT7-2E1 Gross Weight 8300 kg 
+ Configuration 
+ Level Flyover EPNL 
+ Take Off EPNL 
+ Approach EPNL 
+ (EPNdB) 
+ (EPNdB) 
+ (EPNdB) 
+ 102% NR 
+ 102% NR 
+ 102% NR 
+ Clean aircraft 
+ No external kits installed 
+ 95.2 
+ 91.3 
+ 99.1"
+NOTE 6,"The Leonarod S.p.a. Model AW189 incorporates an integrated avionics system using software-based line replaceable 
+ units (LRU) which share a digital signal transmission bus. The software configuration of the AW189, as delivered 
+ from production, is critical to the proper operation of the avionics and cockpit instrumentation system. Modification 
+ to the LRU software supplied with the AW189, replacement of an LRU with a different LRU, addition of new LRU, 
+ or alteration of an LRU interface could adversely affect the airworthiness of the certified software. No changes to the 
+ integrated avionics system should be made without coordination with the FAA Aircraft Certification Office (ACO) 
+ having jurisdiction over the modifier."
+NOTE 7,"The hydraulic fluids must conform to MIL-PRF-83282 or MIL-PRF-5606 which is an alternate for low Temperature 
+ operation - see LIMITATIONS Section of the approved Rotorcraft Flight Manual."
+NOTE 8,"Any changes to the type design of this helicopter by means of a amended type certificate (TC), supplemental type 
+ certificate (STC), or amended STC, requiring instructions for continued airworthiness (ICA's) must be submitted thru 
+ the project aircraft certification office (ACO) for review and acceptance by the Fort Worth -Aircraft Evaluation Group 
+ (FTW-AEG) Flight Standards District Office (FSDO) prior to the aircraft delivery, or upon issuance of the first 
+ standard airworthiness certificate for the affected aircraft, whichever occurs later as prescribed by Title 14 CFR 21.50. 
+ Type design changes by means of a field approval that require ICA's must have those ICA's reviewed by the field 
+ approving FSDO."
+NOTE 9,"The AW189 name identifies production batches manufactured in conformity with the same Type Design. Applicable 
+ serial numbers: 
+  
+ S/N 49007: and subsequent, manufactured by AgustaWestland S.p.A. or Finmeccanica S.p.A., or Leonardo 
+ S.p.a. in Italy. 
+  
+ S/N 89001: and subsequent, manufactured by AgustaWestland S.p.A. or Finmeccanica S.p.A., or Leonardo 
+ S.p.a. in Italy. (See Note 11) 
+  
+ S/N 91001: and subsequent, manufactured by AgustaWestland S.p.A or Finmeccanica S.p.A., or Leonardo 
+ S.p.a. in UK. 
+  
+ S/N 92001 and subsequent, manufactured by AgustaWestland S.p.A. or Finmeccanica S.p.A.,or Leonaardo 
+ S.p.a. in UK. (See Note 11). It should be noted that S/N 92001 and 92003 have been manufactured by 
+ AgustaWestland Ltd in UK."
+NOTE 10,"Night Vision Goggle operations may be granted by the local civil aviation authority if the rotorcraft is operated 
+ according to the limitations and procedures of RFM 189G0290X002 Supplement 14. The rotorcraft configuration 
+ involving internal and external light emitting and reflecting equipment approved for use with NVGs is described in 
+ Report 189G3360A001 “AW189 NVG Compatibility Reference Handbook”. Subsequent modifications and 
+ deviations to the NVG helicopter configuration shall be managed in accordance with AgustaWestland document 
+ 189G3360E001 “AW189 Helicopter NVG Policy”"
+NOTE 11,"Applicable to the extended range configuration when installed in accordance with Drawing 8G0000X00831 and 
+ Drawing 8G0000X00931. For detailed information, refer to Supplement 22 of the Rotorcraft Flight Manual."
+NOTE 12,"Operation of the aircraft with a maximum weight up to 8600 kg is permitted provided kit P/N 8G0000F00111 is 
+ installed, and the limitation and procedures within RFM 189G0290X002 Supplement 21 are adhered to."
+NOTE 13,"The installation of Vertical Cargo Net restrain system P/N 8G2550F00311 permits the maximum load to be carried 
+ in the baggage compartment to be increased to 360 Kg, and the maximum cargo height to be extended up to 700 mm 
+ (2 ft 3 ins). For detailed information, refer to Rotorcraft Flight Manual Section 1 – Baggage Compartment 
+ Limitations. 
+ The installation of the Heavy Duty Baggage Compartment Kit p/n 8G5010F00411, according to RFM Supplement 
+ 46, permits the maximum load in the baggage compartment to be increased to 460 kg. 
+ The installation of the Heavy Duty Baggage Compartment Kit p/n 8G5010F00511, according to RFM Supplement 
+ 46, permits maximum load in the baggage compartment of 280 kg."
+NOTE 14,Removed.
+NOTE 15,"MGB OEI Limits: 
+ For Aircraft equipped with Core Avionics Phase 4.0 SW release as defined in 189G0000X007 the MGB OEI Rating 
+ is increased as per the following table: 
+ Rating 
+ Max Torque 
+ Input speed 
+ [%] 
+ [RPM] 
+ OEI 
+ Max continuous 
+ 2.5 min 
+ 1 x 172 (**) 
+ 1 x 142 
+ 21420 
+ (**) Between 164% and 175% allowed for 30 sec and once per 2.5 min event"
+NOTE 16,"Kit Rescue Hoist and FIPS: 
+ For Kit Single Rescue Hoist (P/N 8G2591F00111), Kit Double Rescue Hoist (P/N 8G2591F00311) and Kit Full Ice 
+ Protection System (P/N 8G3000F00111) design changes compliance to 14 CFR Part 29 Amendment 29-1 through 
+ 29-55, dated 31 January 2012 has been provided for the following requirements: 
+  
+ 29.571 Amdt.55 – Fatigue Tolerance Evaluation of Metallic Structure 
+  
+ 29.573 Amdt.54 – Damage Tolerance and Fatigue Evaluation of Composite Rotorcraft Structures. 
+  
+ Appendix A, A 29.4 Amdt.54 – Airworthiness Limitations Section 
+ Comparison between 14 CFR Part 29 Amendment 29-1 through 29-55 (dated 31 January 2012) and CS 29 Amdt.3 
+ (dated 11 December 2012) is provided in LH report 189G0274A001."
+Acronyms and Abbreviations,"AEO 
+ All Engines Operative 
+ CS 
+ Certification Specification 
+ CFR 
+ Code of Federal Regulations 
+ Doc. 
+ Document 
+ EASA 
+ European Aviation Safety Agency 
+ FAA 
+ Federal Aviation Administration 
+ GE 
+ General Electric 
+ ICA 
+ O International Civil Aviation Organisation 
+ IFR 
+ Instrument Flight Rules 
+ ISA 
+ International Standard Atmosphere 
+ LH 
+ Left Hand 
+ min. 
+ minute 
+ No. 
+ Number 
+ NVG 
+ Night Vision Goggle 
+ OAT 
+ Outside Air Temperature 
+ OEI 
+ One Engine Inoperative 
+ RFM 
+ Rotorcraft Flight Manual 
+ RH 
+ Right Hand 
+ sec. 
+ second 
+ SL 
+ Sea Level 
+ STA 
+ Station 
+ VNE 
+ Velocity Never Exceed 
+ VFR 
+ Visual Flight Rules"

@@ -1,0 +1,1564 @@
+Keyterm,Info
+"A1WI 
+ Revision 30 
+ Textron Aviation Inc. 
+ 525 
+ 525A 
+ 525B 
+ 525C 
+ April 16, 2021",
+Type Certificate Holder,"Textron Aviation Inc. 
+ One Cessna Boulevard 
+ Wichita, Kansas 67215"
+Type Certificate Holder Record,"Cessna Aircraft Company transferred to 
+ Textron Aviation Inc. on July 29, 2015"
+"I. Model 525 (Normal Category) S/N 525-0001 through 525-0359 Approved October 15, 1992; S/N 525- 
+ 0360 through 525-0599 Approved February 16, 2000; S/N 525-0600 through 525-0684 and 525-0686 
+ through 525-0701 Approved June 17, 2005; S/N 525-0685 and 525-0800 and On Approved December 20, 
+ 2013",
+Engines,"Two Williams International, L.L.C. FJ44-1A turbofans (525-0001 through 525-0599) 
+ Two Williams International, L.L.C. FJ44-1AP (P/N 72100-200) turbofans 
+ (0600 through 525-0684 and 525-0686 through 525-0701) 
+ Two Williams International, L.L.C. FJ44-1AP (P/N 72100-201) turbofans 
+ (525-0685 and 525-0800 and On)"
+Fuel,"(525-0001 through 525-0599) 
+ Fuel Type 
+ Specification 
+ Jet A 
+ ASTM D1655 
+ Jet A1 
+ ASTM D1655 
+ Jet B 
+ ASTM D6615 
+ JP-4 
+ MIL-DTL-5624 
+ Jet 3 
+ GB6537 
+ JP-5 
+ MIL-DTL-5624 
+ JP-8 
+ MIL-DTL-83133 
+ RT 
+ GOST 10227 
+ TS-1 
+ GOST 10227"
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15"
+30,"22 
+ 22 
+ 27 
+ 22 
+ 30 
+ 24 
+ 30 
+ 24 
+ 25 
+ 25 
+ 25 
+ 25 
+ 25 
+ 30"
+16,"17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29"
+25,"27 
+ 25 
+ 25 
+ 25 
+ 30 
+ 25 
+ 24 
+ 28 
+ 29 
+ 30 
+ 25 
+ 27 
+ 30"
+I,"(525-0600 through 525-0684 and 525-0686 through 525-0701) 
+ Fuel Type 
+ Specification 
+ Jet A 
+ ASTM D1655 
+ Jet A1 
+ ASTM D1655 
+ Jet 3 
+ GB6537 
+ JP-5 
+ MIL-DTL-5624 
+ JP-8 
+ MIL-DTL-83133 
+ RT 
+ GOST 10227 
+ TS-1 
+ GOST 10227 
+ (525-0685 and 525-0800 and On) 
+ Fuel Type 
+ Specification 
+ Jet A 
+ ASTM D1655 
+ Jet A1 
+ ASTM D1655 
+ Jet 3 
+ GB6537 
+ JP-5 
+ MIL-DTL-5624 
+ JP-8 
+ MIL-DTL-83133 
+ RT 
+ GOST 10227 
+ RT 
+ GSTU 320.00149943.007 
+ TS-1 
+ GSTU 320.00149943.011 
+ TS-1 
+ GOST 10227 
+ Engine Limits Static thrust standard day, sea level: 
+ Takeoff (525-0001 through 525-0599) 1900 lb. 
+ Takeoff (525-0600 through 525-0701 and 525-0800 and On) 
+ 1965 lb."
+N1fan 5250001 through 5250599,"104.4% (100% = 17,245 rpm) 
+ N2 (Gas Gen.) (525-0001 through 525-0599) 
+ 99.3% (100% = 41,200 rpm) 
+ N1(fan) (525-0600 through 525-0684 and 525-0686 
+ 102.64% (100% = 17,245 rpm) 
+ through 525-0701) 
+ N1(fan) (525-0685 and 525-0800 and On) 
+ 104.7% (100% = 17,245 rpm) 
+ N2 (Gas Gen.) (525-0600 through 525-0701 and 525-0800 and On) 
+ 100.0% (100% = 41,200 rpm)"
+Takeoff 5250001 through 5250599,"820 Degrees C 
+ 796 Degrees C 
+ Transient (starting 5 sec.) (525-0001 through 525-0599) 
+ 1000 Degrees C 
+ Takeoff (525-0600 through 525-0701 and 525-0800 and On) 
+ 855 Degrees C (5 min, 10 min"
+OEI,"835 Degrees C 
+ 525-0800 and On) 
+ Transient (starting 15 sec.) (525-0600 through 525-0701 
+ 1000 Degrees C 
+ and 525-0800 and On)"
+Vmo maximum operating,"Sea level to 30,500 ft. 
+ 263 KIAS (260 KCAS) 
+ Mmo above 30,500 ft. 
+ 0.71 MI (0.70 Mach calibrated)"
+Va maneuvering sea level,"10,400 lb. (525-0001 through 525-0359) 
+ 199 KIAS (198 KCAS) 
+ 10,600 lb. (525-0360 through 525-0599) 
+ 201 KIAS (200 KCAS) 
+ See AFM for variations with weight and altitude. 
+ 10,700 lb. (525-0600 through 525-0701 and 525-0800 and On) 
+ 202 KIAS (201 KCAS) 
+ See AFM for variations with weight and altitude. 
+ Vb (speed for max. gust intensity) 
+ 217 KIAS (215 KCAS)"
+VFE Flaps extended,"15 degrees (takeoff & approach) 
+ 200 KIAS (198 KCAS) 
+ 35 degrees (landing) 
+ 161 KIAS (160 KCAS) 
+ 60 degrees (ground flaps) 
+ prohibited in flight 
+ (525-0001 through 525-0599) 
+ 92 KIAS (91 KCAS) 
+ (525-0600 through 525-0701 and 525-0800 and On) Flaps 0 deg. 
+ 86 KIAS (86 KCAS) 
+ (525-0600 through 525-0701 and 525-0800 and On) Flaps 15 deg. 
+ 77 KIAS (77 KCAS) 
+ 525-0001 through 525-0359 
+ 95 KIAS (93 KCAS) 
+ 525-0360 through 525-0599 
+ 93 KIAS (93 KCAS) 
+ 525-0600 through 525-0701 and 525-0800 and On 
+ 89 KIAS (92 KCAS)"
+VLO landing gear operating,"Extending (525-0001 and On) 
+ 186 KIAS (185 KCAS) 
+ Retracting (525-0001 through 525-0457) 
+ 186 KIAS (183 KCAS) 
+ Retracting (525-0458 through 525-0701 and 525-0800 and On) 
+ 175 KIAS (172 KCAS)"
+VLE landing gear extended,186 KIAS (183 KCAS)
+VSB speed brakes extended,Any speed with or without flaps
+Maximum autopilot operating speed,"Sea level to 30,500 ft. 
+ 263 KIAS (260 KCAS) 
+ Above 30,500 ft. 
+ 0.71 MI (0.70 Mach calibrated)"
+Maximum tire ground speed,"165 knots 
+ C.G. Range (Landing Gear Extended) Design C.G. Limits: 
+ Applicable to airplanes S/N 525-0001 through 525-0359: 
+ Forward Limits: 
+ Linear variation from 244.14 in. aft of datum (22.29% MAC) at 10,500 lb. to 
+ 244.04 in. aft of datum (22.14% MAC) at 10,400 lb. to 242.43 in. aft of datum 
+ (19.81% MAC) at 8,800 lb.; Linear variation from 242.43 in. aft of datum 
+ (19.81% MAC) at 8,800 lb. to 240.14 in. aft of datum (16.50% MAC) at 7,700 
+ lb.; 240.14 in. aft of datum (16.50% MAC) at 7,700 lb. to 6,000 lb. 
+ Aft Limits: 
+ 248.78 in. aft of datum (29.00 % MAC) at 10,500 lb. to 6,000 lb."
+I,"Applicable to airplanes S/N 525-0360 through 525-0599: 
+ Forward Limits: 
+ Linear variation from 244.34 in. aft of datum (22.58% MAC) at 10,700 lb. to 
+ 244.24 in. aft of datum (22.43% MAC) at 10,600 lb. to 242.43 in. aft of datum 
+ (19.81% MAC) at 8,800 lb.; Linear variation from 242.43 in. aft of datum 
+ (19.81% MAC) at 8,800 lb. to 240.14 in. aft of datum (16.50% MAC) at 7,700 
+ lb.; 240.14 in. aft of datum (16.50% MAC) at 7,700 lb. to 6,000 lb. 
+ Aft Limits: 
+ 248.78 in. aft of datum (29.00 % MAC) at 10,700 lb. to 6,000 lb. 
+ Applicable to airplanes S/N 525-0600 through 525-0701 and 525-0800 and On: 
+ Forward Limits: 
+ Linear variation from 244.44 in. aft of datum (22.72% MAC) at 10,800 lb. to 
+ 244.34 in. aft of datum (22.58% MAC) at 10,700 lb. to 242.43 in. aft of datum 
+ (19.81% MAC) at 8,800 lb.; Linear variation from 242.43 in. aft of datum 
+ (19.81% MAC) at 8,800 lb. to 240.14 in. aft of datum (16.50% MAC) at 7,700 
+ lb.; 240.14 in. aft of datum (16.50% MAC) at 7,700 lb. to 6,000 lb. 
+ Aft Limits: 
+ 248.43 in. aft of datum (28.50 % MAC) at 10,800 lb. to 6,000 lb. 
+ Landing Gear retracting moment (+632.65) in-lb."
+Empty Wt CG Range,None
+MAC,69.077 in. (L.E. of MAC at +228.745 in. aft of datum)
+Maximum Weight,"S/N 525-0600 through 
+ S/N 525-0685 and 
+ S/N 525-0001 
+ S/N 525-0360 
+ 525-0684 & 525-0686 
+ 525-0800 & On 
+ through 525-0359 
+ through 525-0599 
+ through 525-0701"
+Takeoff,"10,400 lb. 
+ 10,600 lb. 
+ 10,700 lb. 
+ 10,700 lb."
+Landing,"9,700 lb. 
+ 9,800 lb. 
+ 9,900 lb. 
+ 9,900 lb."
+Zero Fuel,"8,400 lb. 
+ 8,400 lb. 
+ 8,400 lb. 
+ 8,500 lb."
+Ramp,"10,500 lb. 
+ 10,700 lb. 
+ 10,800 lb. 
+ 10,800 lb."
+Minimum Crew,(See NOTE 5 for cockpit equipment/arrangement restrictions): One pilot (in the left
+for all Flights,"pilot seat) plus additional equipment as specified in the Kinds of Operations 
+ Equipment List (KOEL) contained in the Limitations Section of the FAA Approved 
+ Airplane Flight Manual (AFM) 
+ OR 
+ One pilot and one copilot"
+No of Seats,"Maximum 8 occupants. Airplane must be equipped as required by operating rules, 
+ appropriate to the number of passenger seats."
+Maximum Baggage,"(525-0001 through 525-0599) 
+ Nose compartment 
+ 400 lb. ( + 74.0 in. aft of datum) 
+ Aft cabin 
+ 100 lb. ( +270.70 in. aft of datum) 
+ Tailcone 
+ 325 lb. ( +356.50 in. aft of datum) 
+ (525-0600 through 525-0701 and 525-0800 and On) 
+ Nose compartment 
+ 400 lb. ( + 74.0 in. aft of datum) 
+ Tailcone 
+ 325 lb. ( +356.50 in. aft of datum)"
+Fuel Capacity usable,"(525-0001 through 525-0684 and 525-0686 through 525-0701) 
+ Total usable fuel 3,220 lb. (477 gal). Two wing tanks with 1,610 lb. (238.5 gal) 
+ usable each (see NOTE 1 for unusable); +252.99 in. aft of datum 
+ (525-0685 and 525-0800 and On) 
+ Total usable fuel 3,296 lb. (492 gal). Two wing tanks with 1,648 lb. (246 gal) usable 
+ each (see NOTE 1 for unusable); +253.0 in. aft of datum"
+Oil Capacity usable,"(525-0001 through 525-0599) Tank mounted on each engine: 2.0 quarts usable each 
+ engine; +312.30 in. aft of datum; (see NOTE 1) 
+ (525-0600 through 525-0701 and 525-0800 and On) Tank mounted on each engine: 
+ 3.4 quarts usable each engine; +314.74 in. aft of datum; (see NOTE 1)"
+Altitude,"41,000 ft."
+Elevator,"Up 
+ 20 +0/-1 degrees (525-0001 through 525-0599) 
+ Up 
+ 18.5 +0/-0.5 degrees (525-0600 through 525-0701 
+ and 525-0800 and On) 
+ Down 
+ 15 +/-1 degrees"
+Elevator Trim Tab,"Up 
+ 12 +/-1 degrees 
+ Down 
+ 20 +/-1 degrees"
+Rudder,"Right 
+ 30 +/-1 degrees 
+ Left 
+ 30 +/-1 degrees"
+Rudder Trim Tab,"Right 
+ 20 +/-1 degrees 
+ Left 
+ 20 +/-1 degrees"
+Aileron,"Up 
+ 23.5 +/-1 degrees 
+ Down 
+ 20.5 +/-1 degrees"
+Aileron Trim Tab,"Up 
+ 20 +/-1 degrees 
+ Down 
+ 18 +/-1 degrees"
+Wing Flap,"Up 
+ 0 +/-1 degrees 
+ T.O./Appr. 
+ 15 +1/-1 degrees 
+ Land 
+ 35 +/-1 degrees 
+ Ground 
+ 60 +/-1 degrees"
+Speed Brakes  Upper,"Up 
+ 0 to 49 +/-2 degrees"
+Speed Brakes  Lower,"Down 
+ 0 to 68 +/-2 degrees"
+Thrust Attenuators,"Stow 
+ -6 +/-1 degrees (525-0001 through 525-0599) 
+ (Ref to Engine Long. axis)"
+Thrust Attenuators,"Deploy 
+ 54 +/-1 degrees (525-0001 through 525-0599) 
+ (Ref to Engine Long. axis) 
+ Thrust Attenuators not applicable (525-0600 through 525-0701 and 525-0800 and On) 
+ See Airplane Maintenance Manual for rigging instructions."
+Serial Nos Eligible,525-0001 through 525-0701 and 525-0800 and On
+Datum,94.0 in. forward of the front face of the forward pressure bulkhead.
+Leveling Means,"Longitudinal: Left hand upper floorboard aft of FS 151.00. 
+ Lateral: Left hand and right hand upper floorboard aft of FS 152.00."
+1,"(a) 525-0001 through 525-0599: 
+ 14 CFR Part 23 effective February 1, 1965, as amended by Amendments 23-1 through 23-38, 
+ and 23-40 
+ (b) 525-0600 through 525-0684 and 525-0686 through 525-0701: 
+ 14 CFR Part 23 effective February 1, 1965, as amended by Amendments 23-1 through 23-38, 
+ and 23-40; except the following paragraphs applicable for Engines and FADECs: 
+ 14 CFR §§ 23.611, 23.777, 23.779, 23.781, 23.865, 23.867, 23.901, 23.903, 23.939, 23.943, 
+ 23.951, 23.955, 23.961, 23.973, 23.1011, 23.1013, 23.1019, 23.1021, 23.1041, 23.1043, 23.1045, 
+ 23.1091, 23.1093, 23.1103, 23.1111, 23.1121, 23.1123, 23.1141, 23.1143, 23.1145, 23.1163, 
+ 23.1181, 23.1182, 23.1183, 23.1189, 23.1191, 23.1193, 23.1195, 23.1203, 23.1301, 23.1305, 
+ 23.1309, 23.1337, 23.1521, 23.1549, 23.1583 as amended through Amendment 23-1 through 23- 
+ 38, and 23-40 through 23-54. 
+ (c) 525-0685 and 525-0800 and On: 
+ 14 CFR Part 23 effective February 1, 1965, as amended by Amendments 23-1 through 23-38, 
+ and 23-40; except the following paragraphs applicable for Engines and FADECs: 
+ 14 CFR §§ 23.611, 23.777, 23.779, 23.781, 23.865, 23.867, 23.901, 23.903, 23.939, 23.943, 
+ 23.951, 23.955, 23.961, 23.973, 23.1011, 23.1013, 23.1019, 23.1021, 23.1041, 23.1043, 23.1045, 
+ 23.1091, 23.1093, 23.1103, 23.1111, 23.1121, 23.1123, 23.1141, 23.1143, 23.1145, 23.1163, 
+ 23.1181, 23.1182, 23.1183, 23.1189, 23.1191, 23.1193, 23.1195, 23.1203, 23.1301, 23.1305, 
+ 23.1309, 23.1337, 23.1521, 23.1549, 23.1583 as amended through Amendment 23-1 through 23- 
+ 38, and 23-40 through 23-54."
+Additions,"Amendment 
+ Comments"
+Reg No,"Title 
+ Level"
+23441,"Maneuvering loads 
+ 23-48 
+ Winglets only"
+23443,"Gust loads 
+ 23-48 
+ Winglets only"
+23445,"Outboard fins 
+ 23-42 
+ Winglets only"
+23575,"Inspections and other procedures 
+ 23-48 
+ Winglets only"
+23621,"Casting factors 
+ 23-45 
+ Entire aircraft"
+23867,"Lightning protection of structure 
+ 23-49 
+ Winglets only"
+23929,"Engine installation ice protection 
+ 23-51 
+ Entire aircraft"
+23953,"Fuel system independence 
+ 23-43 
+ Entire aircraft"
+23957,"Flow between interconnected tanks 
+ 23-43 
+ Entire aircraft"
+23959,"Unusable fuel supply 
+ 23-51 
+ Entire aircraft"
+23971,"Fuel tank sump 
+ 23-43 
+ Entire aircraft"
+23975,"Fuel tank vents and carburetor vapor vents 
+ 23-51 
+ Entire aircraft"
+23977,"Fuel tank outlet 
+ 23-43 
+ Entire aircraft"
+23991,"Fuel pumps 
+ 23-43 
+ Entire aircraft"
+23993,"Fuel system lines and fitting 
+ 23-43 
+ Entire aircraft"
+23997,"Fuel strainer or filter 
+ 23-43 
+ Entire aircraft"
+23999,"Fuel system drains 
+ 23-43 
+ Entire aircraft"
+231001,"Fuel jettisoning system 
+ 23-51 
+ Entire aircraft"
+231306,"Lightning protection 
+ 23-61 
+ For changed systems only 
+ High-Intensity Radiated 
+ 23-57 
+ For changed systems only"
+231308,Fields (HIRF) protection
+231543,"Instrument markings: general 
+ 23-50 
+ Entire aircraft"
+231553,"Fuel quantity indicator 
+ 23-50 
+ Entire aircraft"
+231555,"Control markings 
+ 23-62 
+ Entire aircraft"
+231557,"Miscellaneous markings and placards 
+ 23-45 
+ Entire aircraft"
+231559,"Operating limitations placard 
+ 23-50 
+ Entire aircraft"
+231563,"Airspeed placards 
+ 23-50 
+ Entire aircraft"
+231567,"Flight maneuver placard 
+ 23-50 
+ Entire aircraft"
+2,"(a) 525-0001 through 525-0599 
+ 14 CFR Part 36 effective December 1, 1969, Noise standards, as amended by Amendments 36-1 
+ through 36-18 
+ (b) 525-0600 through 525-0701 and 525-0800 and On 
+ 14 CFR Part 36 effective December 1, 1969, Noise standards, as amended by Amendments 36-1 
+ through 36-28"
+3,"(a) 525-0001 through 525-0599 
+ 14 CFR Part 34 effective September 10, 1990, Fuel Venting and Exhaust Emission Requirements 
+ for Turbine Engine Powered Airplanes, Amendment Original. 
+ (b) 525-0600 through 525-0684 and 525-0686 through 525-0701 
+ 14 CFR Part 34 effective September 10, 1990, Fuel Venting and Exhaust Emission Requirements 
+ for Turbine Engine Powered Airplanes, as amended by Amendments 34-1 through 34-3. 
+ (c) 525-0685 and 525-0800 and On 
+ 14 CFR Part 34 effective September 10, 1990, Fuel Venting and Exhaust Emission Requirements 
+ for Turbine Engine Powered Airplanes, as amended by Amendments 34-1 through 34-5."
+4,Compliance with the Noise Control Act of 1972;
+5,"Special Conditions as follows: 
+ (a) 23-ACE-55, additional requirements for: 
+ Smoke evacuation, protection of electronic systems from lightning and high intensity radiated 
+ electromagnetic fields (HIRF), electronic flight instrument displays, thrust attenuating systems 
+ (thrust attenuating systems not applicable 525-0600 and On), engine fire extinguishing system, 
+ performance, including takeoff, takeoff speeds, accelerate-stop, takeoff path, takeoff distance and 
+ takeoff run, takeoff flight path, climb one engine inoperative, landing, balked landing, climb, 
+ minimum control speed, trim, static longitudinal stability, demonstration of static longitudinal 
+ stability, static directional and lateral stability, wings level stall, turning flight and accelerated 
+ stalls, stall warning, vibration and buffeting, high speed characteristics, airspeed indicating 
+ system, static pressure system, maximum operating speed limit, minimum flight crew, operating 
+ limitations, operating procedures, performance information, airspeed indicator, effects of 
+ contamination on Natural Laminar Flow airfoils, definitions, and AFM approved information."
+6,"Exemption as follows: 
+ (a) Exemption No. 5759 granted to use a relaxed “Dutch Roll” damping criteria above 18,000 ft. in 
+ lieu of damping criteria of 14 CFR § 23.181(b)."
+7,"Equivalent Level of Safety (ELOS) as follows (applicable to airplanes S/N 525-0360 through 525- 
+ 0701 equipped with Collins Proline 21 electronic displays of engine instruments): 
+ (a) Number ACE-00-01: 14 CFR §§ 23.1305(c)(2)(5) and 23.1549(a) through (d), direct reading, 
+ digital only displays for the high-pressure turbine speed (N2), and fuel flow indications. 
+ (Applicable to airplanes S/N 525-0685 and 525-0800 and On equipped with Garmin G3000): 
+ (a) Number ACE-13-09: 14 CFR § 23.841(b)(6), Cabin Pressurization – High Altitude Takeoff and 
+ Landing Operations. 
+ (b) Number ACE-00-05C: 14 CFR § 23.841(a), to allow small temporary cabin altitude excursions 
+ above 15,000 ft. in the event of any probable pressurization system failure. 
+ (c) Number ACE-13-17: 14 CFR § 23.1549(a) through (c), direct reading, digital only displays for 
+ the high-pressure turbine speed (N2), oil pressure, oil temperature and fuel flow indications."
+8,"Compliance with ice protection has been demonstrated in accordance with 14 CFR §§ 23.1416 and 
+ 23.1419. 
+ Application for type certificate dated February 14, 1990. Type Certificate A1WI issued October 15, 1992, obtained 
+ by the manufacturer using Delegation Option Authorization (DOA) Procedures of Part 21 of Title 14 of the Code of"
+"Federal Regulations. The Model 525 is defined by Cessna Airplane Assembly Drawing Number 6300000. 
+ Production Basis 
+ Production Certificate No. 4 issued and DOA No. DOA-230428-CE (CE-3) authorized to issue Airworthiness 
+ Certificates under DOA Procedures of Part 21 of Title 14 of the Code of Federal Regulations through January 4, 
+ 2009 
+ Production Certificate No. 4 issued and Organization Designation Authorization (ODA) No. ODA-100129-CE 
+ authorized to issue Airworthiness Certificates under ODA procedures of Part 21 of Title 14 of the Code of Federal 
+ Regulations effective January 5 2009 
+ Equipment 
+ The Basic required equipment as prescribed in the applicable airworthiness regulations (see Certification Basis) 
+ must be installed in the airplane for certification. 
+ I 
+ NOTE 1 
+ Current weight and balance information, including list of equipment included in certificated empty 
+ weight, and loading instructions are provided for each airplane in the FAA Approved Airplane 
+ Flight Manual (AFM) at the time of original certification. 
+ The certificated empty weight must include: 
+ Unusable fuel (525-0001 and On) 
+ 30.64 lb. 
+ Full oil (525-0001 through 525-0599) 
+ 15.5 lb. 
+ Full oil (525-0600 through 525-0701 and 525-0800 and On) 
+ 15.6 lb. 
+ Hydraulic Fluid (525-0001 through 525-0599) 
+ 27.5 lb. 
+ Hydraulic Fluid (525-0600 through 525-0701 and 525-0800 and On) 
+ 16.78 lb. 
+ Anti-ice Fluid (525-0001 and On) 
+ 3.4 lb. 
+ NOTE 2 
+ Airplanes must be operated according to the FAA Approved AFM, part number 525FM-00 (or 
+ later approved revision for serials 0001 through 0359), 525FMA-00 (or later approved revision for 
+ serials 0360 through 0599), 525FMB-00 (or later approved revision for serials 0600 through 0684 
+ and 0686 through 0701), 525FMC-00 (or later approved revision for serials 0685 and 0800 and 
+ On). All placards required by either the FAA Approved AFM, the applicable operating rules, or 
+ the certification basis, must be installed as specified for this Type Certificate via Parts List 
+ 6300000, Airplane Assembly. A useful placard reference is the Textron Aviation Illustrated Parts 
+ Catalogue (IPC). Any discrepancies identified between the IPC and an aircraft under inspection 
+ needs to be reconciled using the previously stated parts list. 
+ NOTE 3 
+ See Maintenance Manual, Chapter 4, ""Airworthiness Limitations"" for inspections, mandatory 
+ retirement life information, and other requirements for continued airworthiness. 
+ NOTE 4 
+ All replacement seats (crew and passenger), although they may comply with TSO C39, must also be 
+ demonstrated to comply with 14 CFR §§ 23.321, 23.395, 23.561, 23.562 and 23.785. 
+ The foam cushion buildup of all seats (crew and passenger) may not be altered. Any deviations in 
+ the foam construction or stiffness must be demonstrated by test to comply with the listed 14 CFR 23 
+ paragraphs. 
+ NOTE 4 
+ The RH side facing seat lap belt shall have a buckle which opens from right to left and the LH side 
+ facing belted toilet lap belt shall have a buckle which opens from left to right, thereby preventing the 
+ buckle's own inertia from causing it to open. Any other configuration must be verified by dynamic 
+ test. 
+ NOTE 5 
+ Approval for operation with a minimum crew of one pilot is based upon the cockpit equipment 
+ installation and arrangement evaluated during FAA certification testing. No significant changes 
+ may be made to the installed cockpit equipment or arrangement (EFIS, autopilot, avionics, etc.), 
+ except as permitted by the approved MMEL, without prior approval from the responsible 
+ Aircraft Certification Office. 
+ I 
+ NOTE 6 
+ Certain airplane serial numbers meet the initial airworthiness requirements for operation in Reduced 
+ Vertical Separation Minimum (RVSM) airspace. 
+ SN 5250001 
+ Airplanes that have accomplished Cessna Service Bulletin SB525-34-41. 
+ through 5250358 
+ SN 5250359 
+ Received factory installation of Dual Ametek AM-250 altimeters. 
+ Airplanes that have received factory installation* of optional Ametek AM-250 copilot’s 
+ altimeter; or Airplanes that have received factory installation* of optional Collins 
+ SN 5250360 
+ Pro Line 21 copilot’s Air Data Computer and Primary Flight Display; or 
+ through 5250599 
+ Airplanes that have accomplished Cessna Service Bulletin SB525-34-40. 
+ SN 5250600 through 
+ All airplanes are equipped with Collins Pro Line 21 dual Air Data Computers and pilot’s 
+ 5250684 and 5250686 
+ and copilot’s Primary Flight Displays as standard equipment. 
+ through 5250701 
+ SN 5250685 and 
+ All airplanes are equipped with Garmin G3000. 
+ 5250800  On 
+ * Equipment installed by the Cessna factory will be identified in the individual airplane equipment 
+ list. 
+ Each operator must obtain RVSM operating approval directly from the FAA. 
+ NOTE 7 
+ The Model 525 (S/N 525-0600 through 525-0684 and 525-0686 through 525-0701 with engine P/N 
+ 72100-200) is approved for One Engine Inoperative 10 minutes thrust capability with the Williams 
+ International FJ44-1AP engine, per FAA Policy Memo “Guidance of Engine Operation at Takeoff 
+ Thrust/Power for Ten-Minutes in a One-Engine Inoperative Situation for Cessna Model 525 
+ Airplane” Project TD4020WI-A, dated April 27, 2005, from Standards Office, Small Airplane 
+ Directorate and Standards Office, Engine and Propeller Directorate 
+ NOTE 8 
+ The following serials are manufactured under the name Cessna Aircraft Company: 525-0001 
+ through 525-0874, 525-0876, 525-0879 and 525-0880. 
+ NOTE 9 
+ Company name change effective 7/29/15. The following serials are manufactured under the name 
+ Textron Aviation Inc.: 525-0875, 525-0877, 525-0878, 525-0881 and On. 
+ II. Model 525A (Normal Category) S/N 525A0001 through 525A0299 Approved June 21, 2000; 
+ S/N 525A0300 and On Approved September 30, 2005",
+Engines,"Two Williams International L.L.C. FJ44-2C turbofans (525A0001 through 525A0299) 
+ Two Williams International, L.L.C. FJ44-3A-24 turbofans (525A0300 and On)"
+Fuel,"Commercial kerosene Jet A, Jet A-1, Jet B, JP-4, JP-5, JP-8, RT or TS-1. (525A0001 
+ through 525A0299) 
+ Commercial kerosene Jet A, Jet A-1, JP-5, JP-8, Jet 3, RT or TS-1. (525A0300 and On) 
+ Engine Limits Static thrust standard day, sea level"
+Takeoff 525A0001 through 525A0299,"2,400 lb."
+Takeoff 525A0300 and On,"2,490 lb."
+N1 fan 525A0001 through 525A0299,"105.2% (100% = 17,245 r.p.m.) 
+ N2 (Gas Gen.) (525A0001 through 525A0299) 
+ 98.8% (100% = 41,200 r.p.m.)"
+N1fan 525A0300 and On,"102.78% (100% = 18,000 rpm) 
+ N2 (Gas Gen.) (525A0300 and On) 
+ 100.00% (100% = 41,200 rpm)"
+Takeoff 525A0001 through 525A0299,"820 Degrees C 
+ 805 Degrees C 
+ Transient (starting 15 sec.) (525A0001 through 525A0299) 
+ 1000 Degrees C"
+Takeoff 525A0300 and On,"877 Degrees C (5 min, 10 min"
+OEI,"840 Degrees C 
+ Transient (starting 15 sec.) (525A0300 and On) 
+ 1000 Degrees C"
+Vmo maximum operating,"Sea level to 8,000 ft. (525A0001 and On) 
+ 260 KIAS (260 KCAS) 
+ 8,000 ft. to 29,300 ft. (525A0001 through 525A0299) 
+ 275 KIAS 
+ (Varies linearly between 274 KCAS and 272 KCAS) 
+ 8,000 ft. to 29,124 ft. (525A0300 and On) 
+ 278 KIAS 
+ (Varies linearly between 277 KCAS and 275 KCAS) 
+ Mmo above 29,300 ft. (525A0001 through 525A0299) 
+ 0.72 MI (0.707 Mach calibrated) 
+ Mmo above 29,124 ft. (525A0300 and On) 
+ 0.737 MI (0.722 Mach calibrated) 
+ Va (maneuvering sea level, 12,375 lb.) 
+ (525A0001 through 525A0299) 
+ 197 KIAS (197 KCAS) 
+ Va (maneuvering sea level, 12,500 lb.) (525A0300 and On) 
+ 196 KIAS (196 KCAS) 
+ See AFM for variations with weight and altitude. 
+ Vb (speed for max. gust intensity) 
+ 217 KIAS (217 KCAS)"
+VFE Flaps extended,"15 degrees (takeoff & approach) 
+ 200 KIAS (200 KCAS) 
+ 35 degrees (landing) 
+ 161 KIAS (161 KCAS) 
+ 60 degrees (ground flaps) 
+ prohibited in flight 
+ Maximum speed with flaps failed to 60 degrees 
+ 140 KIAS (140 KCAS) 
+ (ground flaps) (Emergency Only) 
+ 0 degrees (takeoff) (525A0001 through 525A0299) 
+ 89 KIAS (90 KCAS) 
+ 15 degrees (takeoff & approach) (525A0001 through 525A0299) 
+ 81 KIAS (82 KCAS) 
+ 0 degrees (takeoff) (525A0300 and On) 
+ 83 KIAS (84 KCAS) 
+ 15 degrees (takeoff & approach) (525A0300 and On) 
+ 76 KIAS (77 KCAS) 
+ 89 KIAS (90 KCAS) 
+ 79 KIAS (80 KCAS)"
+VLO landing gear operating,"Extend 
+ 200 KIAS (200 KCAS) 
+ Retract 
+ 200 KIAS (199 KCAS) 
+ VLE (landing gear extended) (525A0001 through 525A0299) 
+ 200 KIAS (199 KCAS) 
+ VLE (landing gear extended) (525A0300 and On) 
+ 200 KIAS (199 KCAS)"
+VSB speed brakes extended,Any speed with or without flaps
+Maximum autopilot operating speed,Any normal operating speed
+Maximum tire ground speed,"165 knots 
+ C.G. Range (Landing Gear Extended) Design C.G. Limits 
+ Applicable to airplanes S/N 525A0001 through 525A0299: 
+ Forward Limits: 
+ Linear variation from 277.03 in. aft of datum (19.66% MAC) at 12,500 lb. to 
+ 276.89 in. aft of datum (19.46% MAC) at 12,375 lb. to 273.33 in. aft of datum 
+ (14.50% MAC) at 9,200 lb.; 273.33 in. aft of datum (14.50% MAC) at 9,200 lb. 
+ to 8,500 lb.; Linear variation from 273.33 in. aft of datum (14.50% MAC) at 
+ 8,500 lb. to 277.99 in. aft of datum (21.00% MAC) at 7,500 lb. 
+ Aft Limits: 
+ 283.72 in. aft of datum (29.00% MAC) at 12,500 lb. to 7,500 lb. 
+ Applicable to airplanes S/N 525A0300 and On: 
+ Forward Limits: 
+ Linear variation from 277.17 in. aft of datum (19.86% MAC) at 12,625 lb. to 
+ 277.03 in. aft of datum (19.66% MAC) at 12,500 lb. to 273.33 in. aft of datum 
+ (14.50% MAC) at 9,200 lb.; 273.33 in. aft of datum (14.50% MAC) at 9,200 lb. 
+ to 8,500 lb.; Linear variation from 273.33 in. aft of datum (14.50% MAC) at 
+ 8,500 lb. to 277.99 in. aft of datum (21.00% MAC) at 7,500 lb.; 277.99 in. aft of 
+ datum (21.00% MAC) at 7,500 lb. 
+ Aft Limits: 
+ 283.73 in. aft of datum (29.00% MAC) at 12,625 lb. to 7,500 lb. 
+ Landing Gear retracting moment (+687.27) in-lb."
+Empty Wt CG Range,None
+MAC,71.720 in (L.E. of MAC at +262.926 in. aft of datum)
+Maximum Weights,"525A0001 
+ 525A0300 
+ through 525A0299 
+ and On 
+ Takeoff 
+ 12,375 lb. 
+ 12,500 lb. 
+ Landing 
+ 11,500 lb. 
+ 11,525 lb. 
+ Zero Fuel 
+ 9,300 lb. 
+ 9,700 lb. 
+ Ramp 
+ 12,500 lb. 
+ 12,625 lb. 
+ Minimum Crew for all Flights (see NOTE 5 for cockpit equipment/arrangement restrictions): 
+ One pilot (in the left pilot seat) plus additional equipment as specified in the 
+ Kinds of Operations Equipment List (KOEL) contained in the Limitations 
+ Section of the FAA Approved AFM 
+ OR 
+ One pilot and one copilot"
+No of Seats,Maximum ten (two crew plus eight passenger seats)
+Maximum Baggage,"525A0001 through 525A0299: 
+ Nose compartment 
+ 400 lb. ( + 74.0 in. aft of datum) 
+ Aft cabin 
+ 100 lb. ( +301.7 in. aft of datum) 
+ Tailcone 
+ 600 lb. ( +384.60 in. aft of datum) 
+ 525A0300 and On: 
+ Nose compartment 
+ 400 lb. ( + 74.0 in. aft of datum) 
+ Tailcone 
+ 600 lb. ( +384.60 in. aft of datum)"
+Fuel Capacity usable,"Total usable fuel 3,961 lb. (586.8 gal). 
+ Two wing tanks with 1,980.5 lb. (293.4 gal) usable each; 
+ +288.68 in. aft of datum (see NOTE 1 for unusable)"
+Oil Capacity usable,"(525A0001 through 525A0299) Tank mounted on each engine: 2.0 quarts 
+ usable each engine; +364.3 in. aft of datum (see NOTE 1) 
+ (525A0300 and On) Tank mounted on each engine: 3.75 quarts usable each 
+ engine; +371.44 in. aft of datum (see NOTE 1)"
+Elevator,"Up 
+ 18.5 +/- 0.5 degrees 
+ Down 
+ 15 +/- 1 degrees"
+Elevator Trim Tab,"Up 
+ 9 +/- 1 degrees 
+ Down 
+ 23 +/- 1 degrees"
+Rudder,"Right 
+ 35 +/- 1 degrees 
+ Left 
+ 35 +/- 1 degrees"
+Rudder Trim Tab,"Right 
+ 20 +/- 1 degrees 
+ Left 
+ 20 +/- 1 degrees"
+Aileron,"Neutral position (TE Up) 
+ 2.0 +/- 0.5 degrees 
+ Up from neutral 
+ 23.5 +/- 1 degrees 
+ Down from neutral 
+ 20.5 +/- 1 degrees"
+Aileron Trim Tab,"Up 
+ 20 +/- 1 degrees 
+ Down 
+ 18 +/- 1 degrees"
+Wing Flap,"Up 
+ 0 +/- 1 degrees 
+ T.O./Appr. 
+ 15 +/- 1 degrees 
+ Landing 
+ 35 +/- 1 degrees 
+ Ground 
+ 60 +/- 2 degrees"
+Speed Brakes  Upper,"Up 
+ 0 to 49 +/- 2 degrees"
+Speed Brakes  Lower,"Down 
+ 0 to 68 +/- 2 degrees"
+Thrust Attenuators,"Stow 
+ -4.5 +/- 0.3 degrees (525A0001 through 525A0299) 
+ (Ref. to Engine Long. axis)"
+Thrust Attenuators,"Deploy 
+ 65 +/ 1 degrees (525A0001 through 525A0299) 
+ (Ref. to Engine Long. axis) 
+ Thrust Attenuators not applicable (525A0300 and On) 
+ See Airplane Maintenance Manual for rigging instructions"
+Serial Nos Eligible,525A0001 and On
+Datum,94.0 in. forward of the front face of the forward pressure bulkhead.
+Leveling Means,"Lateral: Place 525 Leveling Tool across inboard crew seat rails at 
+ approximately FS 148. Ensure Leveling Tool is parallel to fuselage station 
+ plane and is resting solidly on seat rails. Position inclinometer on Leveling Tool 
+ with base parallel to the long axis of the Leveling Tool. 
+ Longitudinal: Place 525 Leveling Tool across inboard crew seat rails at 
+ approximately FS 148. Ensure Leveling Tool is parallel to fuselage station 
+ plane and is resting solidly on seat rails. Position inclinometer on Leveling Tool 
+ with base perpendicular to the long axis of the Leveling Tool at BL 0."
+1,"(a) 525A0001 and On 
+ 14 CFR Part 23 effective February 1, 1965, as amended by Amendments 23-1 through 23-40; 
+ except for additional paragraphs listed, and for paragraphs for Engines and FADECs only as 
+ amended by Amendments 23-1 through 23-54: 
+ (b) Additions (525A0001 and On): 
+ 14 CFR §§ 23.331, 23.351, 23.421, 23.423, 23.425, 23.427, 23.939, and 23.1163 as amended by 
+ Amendments 23-1 through 23-42; 
+ 14 CFR §§ 23.943, 23.951, 23.957, 23.961, 23.967, 23.991, 23.993, 23.997, 23.999, 23.1001, 
+ 23.1011, 23.1019, 23.1041, 23.1061, 23.1189, 23.1322, 23.1357, 23.1391, 23.1393, 23.1395, 
+ 23.1443, and 23.1445 as amended by Amendments 23-1 through 23-43; 
+ 14 CFR §§ 23.179, 23.305, 23.321, 23.361, 23.397, 23.479, 23.485, 23.613, 23.615, 23.621, 
+ 23.731 and 23.1549 as amended by Amendments 23-1 through 23-45; 
+ 14 CFR §§ 23.335, 23.337, 23.341, 23.343, 23.345, 23.347, 23.371, 23.393, 23.399, 23.415, 
+ 23.441, 23.443, 23.455, 23.457, 23.473, 23.499, 23.561, 23.571, 23.572, 23.611, 23.629, 23.673, 
+ and 23.725 as amended by Amendments 23-1 through 23-48; 
+ 14 CFR §§ 23.677, 23.723, 23.785, 23.787, 23.791, 23.853, 23.855, 23.1303, 23.1307, 23.1321, 
+ 23.1351, 23.1353, 23.1361, and 23.1401 as amended by Amendments 23-1 through 23-49; 
+ 14 CFR §§ 23.233, 23.235, 23.1555, and 23.1589 as amended by Amendments 23-1 through 
+ 23-50; 
+ 14 CFR §§ 23.901, 23.903, 23.929, 23.963, 23.965, 23.1013, 23.1043, 23.1143, 23.1183, 
+ 23.1191, and 23.1337 as amended by Amendments 23-1 through 23-51; 
+ (c) Addition for Engines and FADECs installation only (525A0300 and On): 
+ 14 CFR §§ 23.777, 23.779, 23.865, 23.867, 23.901, 23.903, 23.955, 23.973, 23.1041, 
+ 23.1045, 23.1091, 23.1093, 23.1103, 23.1121, 23.1123, 23.1141, 23.1145, 23.1181, 23.1193, 
+ 23.1305, 23.1309, 23.1521, and 23.1583, as amended by Amendments 23-1 through 23-54."
+2,"(a) 525A0001 through 525A0299: 
+ 14 CFR Part 36 effective December 1, 1969, Noise Standards, as amended by Amendments 36-1 
+ through 36-22. 
+ (b) 525A0300 and On: 
+ 14 CFR Part 36 effective December 1, 1969, Noise Standards, as amended by Amendments 36-1 
+ through 36-28."
+3,"14 CFR Part 34 effective September 10, 1990, Fuel Venting and Exhaust Emission Requirements 
+ for Turbine Engine Powered Airplanes, as amended by Amendments 34-1 through 34-3."
+4,"Special Conditions as follows: 
+ (a) 23-ACE-55, additional requirements for: 
+ Smoke evacuation, protection of electronic systems from lightning and High Intensity Radiated 
+ Electromagnetic Fields (HIRF), electronic flight instrument displays, thrust attenuating 
+ systems(thrust attenuating systems not applicable 525A0300 and On), engine fire extinguishing 
+ system, performance, including takeoff, takeoff speeds, accelerate-stop, takeoff path, takeoff 
+ distance and takeoff run, takeoff flight path, climb one engine inoperative, landing, balked 
+ landing, climb, minimum control speed, trim, static longitudinal stability, demonstration of static 
+ longitudinal stability, static directional and lateral stability, wings level stall, turning flight and 
+ accelerated stalls, stall warning, vibration and buffeting, high speed characteristics, airspeed 
+ indicating system, static pressure system, maximum operating speed limit, minimum flight crew, 
+ operating limitations, operating procedures, performance information, airspeed indicator, effects 
+ of contamination on Natural Laminar Flow airfoils, definitions, and AFM approved information. 
+ (b) 23-102-SC, High Altitude Operation (45,000 ft.). 
+ Additional requirements for ventilation, air conditioning, pressurized cabins, oxygen equipment 
+ and supply, supplemental oxygen, oxygen distribution and equipment. (See NOTE 6.)"
+5,"Exemption Number 5759 granted to use a relaxed “Dutch Roll” damping criteria above 18,000 ft. in 
+ lieu of damping criteria of 14 CFR § 23.181(b)."
+6,"Equivalent level of safety as follows: 
+ (a) Number ACE-00-01: 14 CFR §§ 23.1305(c)(2)(5) and 23.1549(a) through (d), direct reading, 
+ digital only displays for the high-pressure turbine speed (N2), and fuel flow indications. 
+ (b) Number ACE-99-07: 14 CFR § 23.841(b)(6), Cabin Pressurization – High Altitude Takeoff and 
+ Landing Operations. 
+ (c) Number ACE-00-05; 14 CFR § 23.841(a), to allow small temporary cabin altitude excursions 
+ above 15,000 ft. in the event of any probable pressurization system failure.”"
+7,"Compliance with ice protection has been demonstrated in accordance with 14 CFR §§ 23.1416 and 
+ 23.1419. 
+ Application to amend type certificate dated May 14, 1998. Type Certificate A1WI amended June 21, 2000, 
+ obtained by the manufacturer using Delegation Option Authorization Procedures of Part 21 of Title 14 of the Code"
+"of Federal Regulations. The Model 525A is defined by Cessna Airplane Assembly Drawing Number 6300001. 
+ Production Basis 
+ Production Certificate No. 4 issued and Delegation Option Authorization (DOA) No. DOA-230428-CE (CE-3) 
+ authorized to issue Airworthiness Certificates under DOA Procedures of Part 21 of Title 14 of the Code of Federal 
+ Regulations through January 4 2009 
+ Production Certificate No. 4 issued and Organization Designation Authorization (ODA) No. ODA-100129-CE 
+ authorized to issue Airworthiness Certificates under ODA procedures of Part 21 of Title 14 of the Code of Federal 
+ Regulations effective January 5 2009 
+ Equipment 
+ The basic required equipment as prescribed in the applicable airworthiness regulations (see Certification Basis) 
+ must be installed in the airplane for certification. 
+ NOTE 1 
+ Current weight and balance information, including list of equipment included in certificated empty 
+ weight, and loading instructions are provided for each airplane in the FAA Approved AFM at the time 
+ of original certification. 
+ The certificated empty weight must include: 
+ Unusable fuel (525A0001 and On) 
+ 76.7 lb. 
+ Full oil (525A0001 through 525A0299) 
+ 15.07 lb. 
+ Full oil (525A0300 and On) 
+ 18.40 lb. 
+ Hydraulic Fluid (525A0001 through 525A0299) 
+ 18.9 lb. 
+ Hydraulic Fluid (525A0300 and On) 
+ 25.9 lb. 
+ Anti-ice Fluid (525A0001 and On) 
+ 3.4 lb. 
+ NOTE 2 
+ Airplanes must be operated according to the FAA Approved AFM, part number 525AFM-04 (or later 
+ approved revision for Serials 525A0001 through 525A0299), 525AFMA-00 (or later approved 
+ revision for Serials 525A0300 and On). All placards required by either the FAA Approved AFM, the 
+ applicable operating rules, or the certification basis, must be installed as specified for this Type 
+ Certificate via Parts List 6300001, Airplane Assembly. A useful placard reference is the Textron 
+ Aviation Illustrated Parts Catalogue (IPC). Any discrepancies identified between the IPC and an 
+ aircraft under inspection needs to be reconciled using the previously stated parts list. 
+ NOTE 3 
+ See Maintenance Manual Chapter 4, ""Airworthiness Limitations"" for mandatory component retirement 
+ life information. 
+ NOTE 4 
+ All replacement seats (crew and passenger), although they may comply with TSO C39, must also be 
+ demonstrated to comply with 14 CFR §§ 23.321, 23.395, 23.561, 23.562, and 23.785. 
+ The foam cushion buildup of all seats (crew and passenger) may not be altered. Any deviations in 
+ the foam construction or stiffness must be demonstrated by test to comply with the listed 14 CFR Part 
+ 23 paragraphs. 
+ The RH side facing seat lap belt shall have a buckle which opens from right to left and the LH side 
+ facing belted toilet lap belt shall have a buckle which opens from left to right, thereby preventing the 
+ buckle's own inertia from causing it to open. Any other configuration must be verified by dynamic 
+ test. 
+ NOTE 5 
+ Approval for operation with a minimum crew of one pilot is based upon the cockpit equipment 
+ installation and arrangement evaluated during FAA certification testing. No significant changes 
+ may be made to the installed cockpit equipment or arrangement (EFIS, autopilot, avionics, etc.), 
+ except as permitted by the approved MMEL, without prior concurrence from the responsible 
+ Aircraft Certification Office. 
+ NOTE 6 
+ Model 525A airplanes have been approved for high altitude operations (altitudes above 41,000 ft.), by 
+ Special Conditions. Any modifications to the pressure vessel must be approved in accordance with the 
+ requirements as shown in the certification basis. This includes modifications which could result in a 
+ pressure vessel opening, either through crack-growth or antenna loss, greater than 3.00 sq. in. 
+ NOTE 7 
+ Certain airplane serial numbers meet the initial airworthiness requirements for operation in RVSM 
+ airspace. 
+ Airplanes that have received factory installation * of optional Ametek AM-250 copilot's 
+ 525A0001 
+ altimeter or; Airplanes that have received factory installation * of optional Collins 
+ through 
+ Pro Line 21 copilot's Air Data Computer and Primary Flight Display; 
+ 525A0299 
+ Or Airplanes that have accomplished Cessna Service Bulletin SB525A-34-01. 
+ All airplanes are equipped with Collins Pro Line 21 dual Air Data Computers 
+ 525A0300 and On 
+ and pilot’s and copilot’s Primary Flight Displays as standard equipment. 
+ *Equipment installed by the Cessna factory will be identified in the individual airplane equipment list. 
+ Each operator must obtain RVSM operating approval directly from the FAA. 
+ NOTE 8 
+ The Model 525A (525A0300 And On) is approved for One Engine Inoperative 10 minutes thrust 
+ capability with the Williams International FJ44-3A-24 engine, per FAA Policy Memo “Guidance of 
+ Engine Operation at Takeoff Thrust/Power for Ten-Minutes in a One-Engine Inoperative Situation for 
+ Cessna Model 525A Airplane” Project AT4141WI-A, dated September 8, 2005, from Standards 
+ Office, Small Airplane Directorate and Standards Office, Engine and Propeller Directorate. 
+ NOTE 9 
+ The following serials are manufactured under the name Cessna Aircraft Company: 
+ 525A0001 through 525A0524. 
+ NOTE 10 
+ Company name change effective 7/29/15. The following serials are manufactured under the name 
+ Textron Aviation Inc.: 525A0525 and On. 
+ III. Model 525B (Commuter Category) S/N 525B0001 through 525B0056 and 525B0058 through 525B0450 
+ Approved October 15 2004 
+ S/N 525B0057 and 525B0451 and On Approved September 4, 2014",
+Engines,"Two Williams International, L.L.C. FJ44-3A turbofans"
+Fuel,"Commercial kerosene Jet A, Jet A-1, JP-5, JP-8, Jet 3, RT or TS-1. 
+ Engine Limits Static thrust standard day, sea level"
+Takeoff,"2,820 lb."
+N1fan,"102.78% 
+ (100% = 18,000 r.p.m.)"
+N2 Gas Gen,"100.00% 
+ (100% = 41,200 r.p.m.)"
+Takeoff,"877 Degrees C (5 min, 10 min OEI) 
+ 840 Degrees C"
+Transient starting 15 sec,1000 Degrees C
+Sea level to 8000 ft,260 KIAS (257 KCAS)
+8000 ft to 29300 ft,278 KIAS (275 KCAS)
+Mmo above 29300 ft,"0.737 MI (0.72 Mach calibrated) 
+ Va (maneuvering sea level at 13,870 lb.) 
+ 207 KIAS (205 KCAS) 
+ See AFM for variations with weight and altitude. 
+ Vb (speed for max. gust intensity) 
+ 230 KIAS (228 KCAS)"
+VFE Flaps extended,"15 degrees (takeoff & approach) 
+ 200 KIAS (198 KCAS) 
+ 35 degrees (landing) 
+ 161 KIAS (158 KCAS) 
+ 55 degrees (ground flaps) 
+ prohibited in flight 
+ Maximum speed with flaps failed to 55 degrees 
+ 140 KIAS (138 KCAS) 
+ (ground flaps) (Emergency Only) 
+ 0 degrees (takeoff) 
+ 88 KIAS (88 KCAS) 
+ 15 degrees (takeoff & approach) 
+ 81 KIAS (81 KCAS) 
+ 89 KIAS (88 KCAS)"
+VLO landing gear operating,"Extend 
+ 200 KIAS (198 KCAS) 
+ Retract 
+ 200 KIAS (195 KCAS)"
+VLE landing gear extended,200 KIAS (195 KCAS)
+VSB speed brakes extended,Any speed with or without flaps
+Maximum autopilot operating speed,Any normal operating speed
+Maximum tire ground speed,"165 knots 
+ C.G. Range (Landing Gear Extended) Design C.G. Limits:"
+Forward Limits,"Linear variation from 298.90 in. aft of datum (21.20% MAC) at 14,070 lb. to 293.90 
+ in. aft of datum (14.50% MAC) at 9,700 lb.; 293.90 in. aft of datum (14.50% MAC) 
+ at 9,700 lb. to 9,000 lb.; linear variation from 293.90 in. aft of datum (14.50% MAC) 
+ at 9,000 lb. to 298.70 in. aft of datum (21.00% MAC) at 8,000 lb."
+Aft Limits,"304.70 in. aft of datum (29.00% MAC) at 14,070 lb. to 13,000 lb.; linear variation 
+ from 304.70 in. aft of datum (29.00% MAC) at 13,000 lb. to 302.50 in. aft of datum 
+ (26.00% MAC) at 8,000 lb. 
+ Landing Gear retracting moment +518.64 in-lb."
+Empty Wt CG Range,None
+MAC,74.817 in. (L.E. of MAC at +283.01 in. aft of datum)
+Maximum Weight,"S/N 525B0001 through 
+ S/N 525B0057 & 
+ 525B0056 & 525B0058 
+ 525B0451 & On 
+ through 525B0450 
+ Takeoff 
+ 13,870 lb. 
+ 13,870 lb. 
+ Landing 
+ 12,750 lb. 
+ 12,750 lb. 
+ Zero Fuel 
+ 10,510 lb. 
+ 10,675 lb. 
+ Ramp 
+ 14,070 lb. 
+ 14,070 lb. 
+ Minimum Crew for all Flights (see NOTE 5 for cockpit equipment/arrangement restrictions): 
+ One pilot (in the left pilot seat) plus additional equipment as specified in the Kinds 
+ of Operations Equipment List (KOEL) contained in the Limitations Section of the 
+ FAA Approved AFM 
+ OR 
+ One pilot and one copilot"
+No of Seats,Maximum ten (two crew plus eight passenger seats)
+Maximum Baggage,"(525B0001 through 525B0207) 
+ Nose Compartment 
+ 400 lb. ( +74.00 in. aft of datum) 
+ Aft cabin 
+ 100 lb. ( +330.20 in. aft of datum) 
+ Tailcone 
+ 600 lb. ( +414.60 in. aft of datum) 
+ (525B0208 and On) 
+ Nose Compartment 
+ 400 lb. ( +74.00 in. aft of datum) 
+ Tailcone 
+ 600 lb. ( +414.60 in. aft of datum)"
+Fuel Capacity usable,"Total usable fuel 4,710 lb. (703 gal) 
+ Two wing tanks with 2,355 lb. (351 gal) usable each; +310.10 in. aft of datum 
+ (see NOTE 1 for unusable)"
+Oil Capacity usable,"Tank mounted on each engine: 3.75 US quarts usable each engine; +401.44 in. aft 
+ of datum; (see NOTE 1)"
+Altitude,"45,000 ft."
+Control Surface Movements,"Elevator 
+ Up 
+ 20.5 ± 0.5 degrees 
+ Down 
+ 15.0 ± 1.0 degrees 
+ Elevator Trim Tab 
+ Up 
+ 9.0 ± 1.0 degrees 
+ Down 
+ 17.0 ± 1.0 degrees 
+ Rudder 
+ Right 
+ 27.0 ± 1.0 degrees 
+ Left 
+ 27.0 ± 1.0 degrees 
+ Rudder Trim Tab 
+ Right 
+ 20.0 ± 1.0 degrees 
+ Left 
+ 20.0 ± 1.0 degrees 
+ Aileron 
+ Up 
+ 23.5 ± 1.0 degrees 
+ Down 
+ 20.5 ± 1.0 degrees 
+ Aileron Trim Tab 
+ Up 
+ 20.0 ± 1.0 degrees 
+ Down 
+ 18.0 ± 1.0 degrees 
+ Wing Flap 
+ U 
+ 0 ± 1.0 degrees 
+ T.O./Appr. 
+ 15 ± 1.0 degrees 
+ Land 
+ 35 ± 1.0 degrees 
+ Ground 
+ 55 ± 2.0 degrees 
+ Speed Brakes 
+ – Upper 
+ Up 
+ 0 to 49.0 ± 2.0 degrees 
+ – Lower 
+ Down 
+ 0 to 68.0 ± 2.0 degrees 
+ See Airplane Maintenance Manual for rigging instructions."
+Serial Nos Eligible,525B0001 and On
+Datum,94.0 in. forward of the front face of the forward pressure bulkhead.
+Leveling Means,"Lateral: Place 525 Leveling Tool across inboard crew seat rails at approximately FS 
+ 148. Ensure Tool is parallel to fuselage station plane and is resting solidly on seat 
+ rails. Position inclinometer on Leveling Tool with base parallel to the long axis of 
+ the Leveling Tool. Adjust the main gear jack to level aircraft. 
+ Longitudinal: Place 525 Leveling Tool across inboard crew seat rails at 
+ approximately FS 148. Ensure Tool is parallel to fuselage station plane and is 
+ resting solidly on seat rails. Position inclinometer on Leveling Tool with base 
+ perpendicular to the long axis of the Leveling Tool. Adjust the nose gear jack to 
+ level aircraft."
+1,"14 CFR Part 23 effective February 1, 1965, as amended by Amendments 23-1 through 23-54;"
+a,"Exceptions: 
+ 14 CFR §§ 23.773, 23.775, 23.807(e), 23.865, 23.933, 23.1309, 23.1311, 23.1419, 23.1431, 
+ 23.1441, and 23.1453 as amended through Amendment 23-40; 
+ 14 CFR § 23.1451 as amended through Amendment 23-40 for 525B0001 through 525B0056 and 
+ 525B0058 through 525B0450; 
+ § 23.1309 as amended through Amendment 23-49 for the engine FADEC installation only; 
+ § 23.562 as amended through Amendment 23-54 for emergency landing dynamic conditions for 
+ each seat/restraint system as required by Exemption No. 7981 
+ (b) Additions (for 525B0057 and 525B0451 and On): 
+ Regulation No. 
+ Title 
+ Amendment Level 
+ 23.1306 
+ Lightning Protection 
+ 23-62 
+ High-Intensity Radiated 
+ 23-62 
+ 23.1308 
+ Fields (HIRF) Protection 
+ 23.1451 
+ Fire Protection for Oxygen Equipment 
+ 23-62 
+ 23.1555 
+ Control Markings 
+ 23-62"
+2,"14 CFR Part 34 of the Code of Federal Regulations effective September 10, 1990, as amended by"
+3,"14 CFR Part 36 of the Code of Federal Regulations effective December 1, 1969, as amended by"
+Special Conditions as follows,"(a) 23-ACE-55, paragraphs 2, 3, 4, and 37. 
+ (b) 23-102-SC, High Altitude Operation (45,000 ft.). Additional requirements for ventilation, air 
+ conditioning, pressurized cabins, oxygen equipment and supply, supplemental oxygen, oxygen 
+ distribution and equipment. (See NOTE 6.) 
+ (c) 23-145-SC, Flight Performance, Flight Characteristics, and Operating Limitations. 
+ Special Conditions SC 23.51 Takeoff speeds; SC 23.63 Climb: General; SC 23.67 Climb: One 
+ engine inoperative; SC 23.149 Minimum control speed; SC 23.161 Trim; SC 23.173 Static 
+ longitudinal stability; SC 23.177 Static directional and lateral stability; SC 23.201 Wings level stall; 
+ SC 23.203 Turning flight and accelerated turning stalls; SC 23.251 Vibration and buffeting; SC 
+ 23.253 High speed characteristics; SC 23.1505 Airspeed limitations; SC 23.1545 Airspeed indicator; 
+ SC 23.1583 Operating limitations; and SC 23.1585 Operating procedures."
+Exemption as follows,"(a) Exemption No. 7981 to permit certification in the Commuter category. 
+ (b) Exemption No. 8323 for use of a relaxed “Dutch Roll” damping criteria above 18,000 ft. in lieu of 
+ damping criteria of 14 CFR § 23.181(b)."
+6,"Equivalent level of safety as follows: 
+ (a) 525B0001 through 525B0056 and 525B0058 through 525B0450: 
+ Number ACE-00-01A: 14 CFR §§ 23.1305(c)(2)(5) and 23.1549(a) through (d), direct reading, 
+ digital only displays for the high-pressure turbine speed (N2), and fuel flow indications. 
+ 525B0057 and 525B0451 and On: 
+ Number ACE-14-12: 14 CFR §§ 23.1549(a)(b)(c), Electronic Display of the Engine Parameters; 
+ N2, Oil Pressure, Oil Temperature, and Fuel Flow, on a Garmin 3000 Integrated Flight Deck. 
+ (b) Number ACE-99-07A: 14 CFR § 23.841(b)(6), Cabin Pressurization – High Altitude Takeoff and 
+ Landing Operations. 
+ (c) Number ACE-00-05A: 14 CFR § 23.841(a), to allow small temporary cabin altitude excursions 
+ above 15,000 ft. in the event of any probable pressurization system failure. 
+ (d) Number ACE-02-18: 14 CFR § 23.783(f)(1), Passenger Entry Door Opening Dimensions. 
+ (e) Number ACE-02-20: 14 CFR § 23.815(b), Cabin Aisle Width. 
+ (f) Number ACE-03-07: 14 CFR § 23.853(d)(2) No Smoking Placard Lettering Size. 
+ (g) Number ACE-04-06: 14 CFR § 23.1447(e) Passenger Oxygen Dispensing Units. 
+ (h) Number ACE-11-07: 14 CFR § 23.855(c)(3) Cargo and Baggage Compartment Fire Protection. 
+ Note: No Model 525B Aircraft will be configured to meet ELOS ACE-11-07. 
+ 14 CFR § 23.1311 Electronic display instrument systems not complied with. This requirement is addressed in"
+Special Condition 23ACE55 Paragraph 4,Compliance with ice protection has been demonstrated in accordance with 14 CFR §§ 23.1416 and 23.1419.
+See NOTE 9,"Application to amend type certificate was dated February 7, 2002. Type Certificate A1WI amended October 15, 
+ 2004, obtained by the manufacturer using Delegation Option ‘Authorization Procedures of Part 21 of Title 14 of"
+"Code of Federal Regulations. The Model 525B is defined by Cessna Assembly Drawing Number 6300300. 
+ Production Basis 
+ Production Certificate No. 4 issued and Delegation Option Authorization (DOA) Manufacturer No. DOA-230428- 
+ CE (CE-3) authorized to issue Airworthiness Certificates under DOA Procedures of Part 21 of the Federal Aviation 
+ Regulations through January 4 2009 
+ Production Certificate No. 4 issued and Organization Designation Authorization (ODA) No. ODA-100129-CE 
+ authorized to issue Airworthiness Certificates under ODA procedures of Part 21 of Title 14 of the Code of Federal 
+ Regulations effective January 5 2009 
+ Equipment 
+ The Basic required equipment as prescribed in the applicable airworthiness regulations (see Certification Basis) 
+ must be installed in the airplane for certification. 
+ NOTE 1 
+ Current weight and balance information, including list of equipment included in certificated empty 
+ weight, and loading instructions are provided for each airplane in the FAA AFM at the time of original 
+ certification. 
+ The certificated empty weight must include: 
+ Unusable fuel 
+ 49.68 lb. 
+ Full oil 
+ 17.48 lb. 
+ Hydraulic Fluid 
+ 15.90 lb. 
+ Anti-ice Fluid 
+ 3.40 lb. 
+ NOTE 2 
+ Airplanes must be operated according to the FAA Approved AFM, part number 525BFM-00 (or later 
+ approved revision for 525B0001 through 525B0056 and 525B0058 through 525B0450) or 
+ 525BFMA-00 (or later approved revision for 525B0057 and 525B0451 and On). All placards 
+ required by either the FAA Approved AFM, the applicable operating rules, or the certification basis, 
+ must be installed as specified for this Type Certificate via Parts List 6300300, Airplane Assembly. A 
+ useful placard reference is the Textron Aviation Illustrated Parts Catalogue (IPC). Any discrepancies 
+ identified between the IPC and an aircraft under inspection needs to be reconciled using the 
+ previously stated parts list. 
+ NOTE 3 
+ See Maintenance Manual, Chapter 4, ""Airworthiness Limitations"" for mandatory component 
+ retirement life information. 
+ NOTE 4 
+ All replacement seats (crew and passenger), although they may comply with TSO C39, must also be 
+ demonstrated to comply with 14 CFR §§ 23.321, 23.395, 23.561, 23.562, and 23.785. 
+ The foam cushion buildup of all seats (crew and passenger) may not be altered. Any deviations in the 
+ foam construction or stiffness must be demonstrated by test to comply with the listed 14 CFR 23 
+ paragraphs. 
+ The RH side facing seat lap belt shall have a buckle which opens from right to left and the LH side 
+ facing belted toilet lap belt shall have a buckle which opens from left to right, thereby preventing the 
+ buckle’s own inertia from casing it to open. Any other configuration must be verified by dynamic test. 
+ NOTE 5 
+ Approval for operation with a minimum crew of one pilot is based upon the cockpit equipment 
+ installation and arrangement evaluated during FAA certification testing. No significant changes may 
+ be made to the installed cockpit equipment or arrangement (EFIS, autopilot, avionics, etc.), except as 
+ permitted by the approved MMEL, without prior concurrence from the responsible Aircraft 
+ Certification Office. 
+ NOTE 6 
+ Model 525B airplanes have been approved for high altitude operations (altitudes above 41,000 ft.), by 
+ Special Conditions. Any modifications to the pressure vessel must be approved in accordance with the 
+ requirements as shown in the certification basis. This includes modifications which could result in a 
+ pressure vessel opening, either through crack-growth or antenna loss, greater than 3.00 sq. in. 
+ NOTE 7 
+ Airplane Serial Numbers identified below meet the airworthiness requirements for operation in 
+ Reduced Vertical Separation Minimum (RVSM) airspace. 
+ All airplanes are equipped with Collins Pro Line 21 
+ S/N 525B0001 through 
+ dual Air Data Computers and pilot’s and copilot’s 
+ 525B0056 and 525B0058 
+ Primary Flight Displays as standard equipment. 
+ through 525B0450 
+ S/N 525B0057 and 
+ All airplanes are equipped with Garmin G3000. 
+ 525B0451 and On 
+ Each operator must obtain RVSM operating approval directly from the FAA. 
+ NOTE 8 
+ The Model 525B is approved for One Engine Inoperative 10 minutes thrust capability with the 
+ Williams International FJ44-3A engine, per FAA Policy Memo “Guidance of Engine Operation at 
+ Takeoff Thrust/Power for Ten-Minutes in a One-Engine Inoperative Situation for Cessna Model 525B 
+ Airplane (Project AT3268WI-A)”, dated April 14, 2004, from Standards Office, Small Airplane 
+ Directorate and Standards Office, Engine and Propeller Directorate. 
+ NOTE 9 
+ Flight into known icing is approved for the following Serial Number effectivity: 
+ S/N 525B0001, 525B0002 thru 525B0012 incorporating Cessna Service Bulletin SB525B-30-01, and 
+ 525B0013 and On. 
+ NOTE 10 
+ The following serials are manufactured under the name Cessna Aircraft Company: 
+ 525B0001 through 525B0473. 
+ NOTE 11 
+ Company name change effective 7/29/15. The following serials are manufactured under the name 
+ Textron Aviation Inc.: 525B0474 and On. 
+ IV. Model 525C (Commuter Category) Approved March 12, 2010",
+Engines,"Two Williams International, L.L.C. FJ44-4A turbofans"
+Fuel,"Commercial kerosene Jet A, Jet A-1, JP-5, JP-8, Jet 3, RT or TS-1. 
+ Engine Limits Static thrust standard day, sea level 
+ Takeoff 
+ 3,621 lb. 
+ N1(fan) 
+ 104.76% 
+ (100% = 16,360 r.p.m.) 
+ Transient (2 minute operational limit) 
+ 105.76% 
+ N2 (Gas Gen.) Max continuous 
+ 100.86% 
+ (100% = 37,450 r.p.m.) 
+ Transient (2 minute operational limit) 
+ 101.59%"
+Max permissible interturbine gas temperatures,"Takeoff 
+ 855 Degrees C (5 min, 10 min OEI) 
+ Max. continuous 
+ 835 Degrees C 
+ Transient (starting 15 sec.) 
+ 1000 Degrees C 
+ Transient (starting 30 sec.) 
+ 900 Degrees C"
+Airspeed limitations,"Vmo (maximum operating) 
+ Sea level to 8,000 ft. 
+ 260 KIAS (261 KCAS) 
+ 8,000 ft. to 28,000 ft. 
+ 305 KIAS (306 KCAS) 
+ Mmo above 28,000 ft. 
+ 0.77 MI (0.774 Mach calibrated) 
+ Vo (maximum operating maneuvering 
+ sea level at 16,950 lb.) 
+ 185 KIAS (185 KCAS) 
+ See AFM for variations with weight and altitude. 
+ Vb (speed for max. gust intensity) 
+ 232 KIAS (233 KCAS up to 40,060 ft) 
+ 0.77 MI (0.774 Mach calibrated) above 40,060 ft 
+ VFE (Flaps extended) 
+ 15 degrees (takeoff & approach) 
+ 200 KIAS (200 KCAS) 
+ 35 degrees (landing) 
+ 160 KIAS (160 KCAS) 
+ VMCA (Minimum control speed) Air 
+ 0 degrees (takeoff) 
+ 94 KIAS (94 KCAS) 
+ 15 degrees (takeoff & approach) 
+ 85 KIAS (85 KCAS) 
+ VMCG (Minimum control speed) Ground 
+ 88 KIAS (88 KCAS) 
+ VLO (landing gear operating) 
+ Extend 200 KIAS (200 KCAS) 
+ Retract 200 KIAS (199 KCAS) 
+ VLE (landing gear extended) 
+ 200 KIAS (199 KCAS) 
+ VSB (speed brakes extended) 
+ Any speed with or without flaps 
+ Maximum autopilot operating speed 
+ Any normal operating speed up to 
+ 305 KIAS or 0.7 MI 
+ Maximum tire ground speed 
+ 165 knots 
+ C.G. Range (Landing Gear Extended) Design C.G. Limits: 
+ Forward Limits: Linear from 312.06 in. aft of datum (21.0% MAC) at 9,500 lb. to 306.65 in. aft 
+ of datum (14.5% MAC) at 10,500 lb. to 306.65 in. aft of datum (14.5% MAC) 
+ at 13,250 lb. to 307.31 in. aft of datum (15.3% MAC) at 14,500 lb. to 307.98 in. 
+ aft of datum (16.1% MAC) at 15,250 lb. to 309.23 in. aft of datum (17.6% 
+ MAC) at 16,250 lb. to 311.02 in. aft of datum (19.47% MAC) at 17,230 lb 
+ Aft Limits: 
+ Linear from 317.06 in. aft of datum (27.0% MAC) at 9500 lb. to 317.06 in. aft 
+ of datum (27.0% MAC) at 12,150 lb. to 316.23 in. aft of datum (26.0% MAC) 
+ at 13,000 lb. to 316.23 in. aft of datum (26.0% MAC) at 14,500 lb. to 317.89 in. 
+ aft of datum (28.0% MAC) at 15,750lb. to 317.89 in. aft of datum (28.0% 
+ MAC) at 17,230 lb. 
+ Landing Gear retracting moment -3386 in-lb."
+Empty Wt CG Range,None
+MAC,83.290 in. (L.E. of MAC at +294.571 in. aft of datum)
+Maximum weights,"Takeoff 
+ 17,110 lb. 
+ Landing 
+ 15,660 lb. 
+ Zero Fuel 
+ 12,500 lb. 
+ Ramp 
+ 17,230 lb. 
+ Minimum Crew for all Flights (see NOTE 5 for cockpit equipment/arrangement restrictions): 
+ One pilot (in the left pilot seat) with equipment as specified in the Kinds of 
+ Operations Equipment List (KOEL) contained in the Limitations Section of the 
+ FAA Approved AFM 
+ OR 
+ One pilot and one copilot"
+No of Seats,Maximum 11 (two crew plus nine passenger seats)
+Maximum Baggage,"Nose Compartment 
+ 400 lb. ( +76.14 in. aft of datum) 
+ Tailcone 
+ 600 lb. ( +431.70 in. aft of datum)"
+Fuel Capacity usable,"Total usable fuel 5,828 lb. (869.8 gal) 
+ Two wing tanks with 2914 lb. (434.9 gal) usable each. 
+ +319.30 in. aft of datum (see NOTE 1 for unusable)"
+Oil Capacity usable,"Tank mounted on each engine: 4.8 US quarts usable each engine; +424.64 in. 
+ aft of datum (see NOTE 1)"
+Control Surface Movements,"Elevator 
+ Up 
+ 25.5 ± 0.5 degrees 
+ Down 
+ 12.0 ± 1.0 degrees 
+ Elevator Trim Tab 
+ Up 
+ 6.0 ± 1.0 degrees 
+ Down 
+ 14.0 ± 1.0 degrees 
+ Rudder 
+ Right 
+ 32.0 ± 1.0 degrees 
+ Left 
+ 32.0 ± 1.0 degrees 
+ Rudder Trim Tab 
+ Right 
+ 20.0 ± 1.0 degrees 
+ Left 
+ 20.0 ± 1.0 degrees 
+ Aileron 
+ Up 
+ 23.5 ± 1.0 degrees 
+ Down 
+ 20.5 ± 1.0 degrees 
+ Aileron Trim Tab 
+ Up 
+ 19.0 ± 1.0 degrees 
+ Down 
+ 19.0 ± 1.0 degrees 
+ Wing Flap 
+ Up 
+ 0 ± 1.0 degrees 
+ T.O./Appr. 
+ 15 ± 1.0 degrees 
+ Land 
+ 35 ± 1.0 degrees 
+ Speed Brakes (In-Air) 
+ – Upper 
+ Up 
+ 0 to 40.0 ± 2.0 degrees 
+ – Lower 
+ Down 
+ 0 to 35.4 ± 2.5 degrees 
+ Ground Spoilers 
+ – Inboard 
+ Up 
+ 55.0 ± 2.0 degrees 
+ – Center 
+ Up 
+ 55.0 ± 2.0 degrees 
+ – Outboard 
+ Up 
+ 55.0 ± 2.0 degrees 
+ See Airplane Maintenance Manual for rigging instructions."
+Serial Nos Eligible,525C0001 and On
+Datum,94.0 in. forward of the front face of the forward pressure bulkhead.
+Leveling Means,"Lateral: Place 525 Leveling Tool across inboard crew seat rails at 
+ approximately FS 145.5. Ensure Tool is parallel to fuselage station plane and is 
+ resting solidly on seat rails. Position inclinometer on Leveling Tool with base 
+ parallel to the long axis of the Leveling Tool. Adjust the main gear jack to level 
+ aircraft. 
+ Longitudinal: Place 525 Leveling Tool across inboard crew seat rails at 
+ approximately FS 145.5. Ensure Tool is parallel to fuselage station plane and is 
+ resting solidly on seat rails. Position inclinometer on Leveling Tool with base 
+ perpendicular to the long axis of the Leveling Tool. Adjust the nose gear jack 
+ to level aircraft."
+1,"14 CFR Part 23 of the Commuter Category as amended by Amendments 23-1 through 23-57, with 
+ exceptions addressed in Special Conditions, ELOS’s, and Exemptions. 
+ In addition, the installation of the Full Authority Dual-Channel Electronic Control (FADEC) system 
+ must comply with the requirements of 14 CFR § 23.1309 (a) through (e) as amended through 
+ Amendment 23-57. 
+ 14 CFR § 23.1306(b) as amended by Amendments 23-1 through 23-61, is applicable to Global 
+ Positioning System Sensor(s) for S/N 525C0267 and on. 
+ 14 CFR § 23.1457(a)(6) as amended by Amendments 23-1 through 23-58, is applicable to Controller- 
+ Pilot Data Link Communications."
+2,"14 CFR Part 34 effective September 10, 1990, as amended by amendment 34-1 through 34-4;"
+3,"14 CFR Part 36 effective December 1, 1969, as amended by amendment 36-1 through 36-31;"
+4,"Special Conditions as follows: 
+ (a) 23-102-SC, High Altitude Operation (45,000 ft). Additional requirements for ventilation, air 
+ conditioning, pressurized cabins, oxygen equipment and supply, supplemental oxygen, oxygen 
+ distribution and equipment. (See NOTE 6.) 
+ (b) 23-145-SC, Flight Performance, Flight Characteristics, and Operating Limitations. 
+ (c) 23-234-SC, Single Point Refuel/Defuel System. 
+ (d) 23-236-SC, Lithium Ion Battery Installation. 
+ (e) 23-239-SC, High Fuel Temperature. 
+ (f) 23-240-SC, Flight special conditions in lieu of 14 CFR §23.161(b)(2), Trim and §23.181(a)(d), 
+ Dynamic Stability."
+5,"Exemptions as follows: 
+ (a) Exemption No. 9495 to permit modification of the airplane landing gear loads and associated 
+ airframe loads in lieu of 14 CFR §§ 23.473, 23.477, 23.479, 23.481, 23.483, 23.493, 23.723, 
+ 23.725, 23.726, 23.727, and C23.1 Appendix C of Title 14, Code of Federal Regulation. 
+ (b) Exemption No. 9593 to permit for the installation of a multi-place side-facing couch, in lieu of 14 
+ CFR §23.562(a)."
+5,"Exemptions as follows (cont’d): 
+ (c) Exemption No. 9906 to permit certification without a warning system indicating a failure of the 
+ pressure refueling automatic shutoff system as specified in the rule until August 1, 2010, in lieu of 
+ 14 CFR §23.979(b)(2). Exemption No. 9906A extends Exemption No. 9906 to February 1, 2011, 
+ and Exemption No. 9906B extends Exemption No. 9906A to May 1, 2011. In order to conduct 
+ operations after May 1, 2012, airplanes prior to S/N 525C0025 that do not have a warning system 
+ indicating the failure of the pressure refueling automatic shutoff system must comply with Service 
+ Bulletin SB525C-28-01. 
+ (d) Exemption No. 9920 for use of a relaxed “Dutch Roll” damping criteria above 18,000 ft. in lieu of 
+ damping criteria of 14 CFR §23.181(b). 
+ (e) Exemption No. 9534 to permit certification in the commuter category, in lieu of 14 CFR §23.3(d). 
+ (f) Exemption No. 9997 to allow type certification with the current engine low pressure rotary group 
+ shaft speed (N1) and interstage turbine temperature (ITT) displays until April 30, 2011, in lieu of 
+ 14 CFR §23.1549(a), (b), and (c). In order to conduct operations after April 30, 2012, airplanes 
+ prior to S/N 525C0025 must comply with Service Bulletin SB525C-34-02. 
+ (g) Exemption No. 9998 to allow type certification with the current engine oil pressure and 
+ temperature displays until April 30, 2011, in lieu of 14 CFR §§ 23.1321(b), 23.1549(a)(b)(c). In 
+ order to conduct operations after April 30, 2012, airplanes prior to S/N 525C0025 must comply 
+ with Service Bulletin SB525C-34-02."
+6,"Equivalent Level of Safety (ELOS) as follows: 
+ (a) ELOS No. ACE-00-05B: 14 CFR §23.841(a), to allow small temporary cabin altitude excursions 
+ above 15,000 ft. in the event of any probable pressurization system failure. 
+ (b) ELOS No. ACE-08-01: 14 CFR §23.1555(d)(1), Useable Fuel Capacity Marking. 
+ (c) ELOS No. ACE-08-03A: 14 CFR §23.841(b)(6), Cabin Pressurization - High Altitude Takeoff 
+ and Landing Operation. 
+ (d) ELOS No. ACE-08-04: 14 CFR §23.815(b), Cabin Aisle Width 
+ (e) ELOS No. ACE-08-07: 14 CFR §23.853(d)(2) No Smoking Placard Lettering Size. 
+ (f) ELOS No. ACE-08-08: 14 CFR §23.807(e), Emergency Exit Water Barrier. 
+ (g) ELOS No. ACE-09-07: 14 CFR §23.1303(c) for a Direction Indicator (non-stabilized magnetic 
+ compass) applicable to airplanes S/N 525C0001 through 525C0263. 
+ (h) ELOS No. ACE-09-13: 14 CFR §§ 23.1305(a)(1)(2)(3)(c)(1)(2)(5), 23.1549(a)(b)(c), 23.1553, 
+ Digital Displays of Powerplant and Fuel System Instrumentation, Fuel Flow, N2 Indication and 
+ Fuel Quantity. 
+ (i) ELOS No. ACE-10-06: 14 CFR §23.1236(b), Pitot Heat Indication System. 
+ (j) ELOS No. TXTAV-015771-SE-5: 14 CFR §23.1303(c) for a Direction Indicator (non-stabilized 
+ magnetic compass) applicable to airplanes S/N 525C0264 and on."
+7,"Compliance with ice protection has been demonstrated in accordance with 14 CFR §23.1416 and 
+ 23.1419. 
+ Application for Type Certificate was first dated August 9, 2006, with a six month extension of the application 
+ period to February 9, 2010, requested and subsequently granted. This was followed by an additional extension 
+ request on January 11, 2010, to go with a new application date of May 31, 2007. An extension until May 31, 2010 
+ was granted via FAA Memo dated January 22, 2010, and documented in FAA Letter L115W-10-161 dated"
+February 19 2010,"Type Certificate A1WI, amended March 12, 2010, was obtained by the manufacturer using Organization 
+ Designation Authorization (ODA) Procedures of Part 183 Subpart D of Title 14 of Code of Federal Regulations."
+"The Model 525C is defined by Cessna Assembly Drawing Number 7100000. 
+ Production Basis 
+ Production Certificate No. 4 issued and ODA No. ODA-100129-CE authorized to issue Airworthiness Certificates 
+ under ODA Procedures of Part 21 of the Federal Aviation Regulations. 
+ Until the Model 525C is added to the Production Limitation Record (PLR) for PC No. 4, the FAA Wichita 
+ Manufacturing Inspection District Office (MIDO) must issue the original airworthiness certification of each aircraft. 
+ Equipment 
+ The Basic required equipment as prescribed in the applicable airworthiness regulations (see Certification Basis) 
+ must be installed in the airplane for certification. 
+ NOTE 1 
+ Current weight and balance information, including list of equipment included in certificated empty 
+ weight, and loading instructions are provided for each airplane in the FAA Approved Airplane 
+ Flight Manual (AFM) at the time of original certification. 
+ The certificated empty weight must include: 
+ Unusable fuel 
+ 33.6 lb. 
+ Full oil 
+ 24.16 lb. 
+ Hydraulic Fluid 
+ 25.12 lb. 
+ NOTE 2 
+ Airplanes must be operated according to the FAA Approved AFM, part number 525CFM-00 (or 
+ later approved revision). All placards required by either the FAA Approved AFM, the applicable 
+ operating rules, or the certification basis, must be installed as specified for this Type Certificate via 
+ Parts List 7100000, Airplane Assembly. A useful placard reference is the Textron Aviation 
+ Illustrated Parts Catalogue (IPC). Any discrepancies identified between the IPC and an aircraft 
+ under inspection needs to be reconciled using the previously stated parts list. 
+ NOTE 3 
+ See Maintenance Manual, Chapter 4, ""Airworthiness Limitations"" for mandatory component 
+ retirement life information. 
+ NOTE 4 
+ All replacement seats (crew and passenger), although they may comply with TSO C127, must also 
+ be demonstrated to comply with the installation requirements of 14 CFR §§ 23.561, 23.562, and 
+ 23.785. 
+ The seat cushion foam buildup of all seats (crew and passenger) may not be altered, unless the 
+ deviations in the foam construction or stiffness are shown to comply with the requirements of 14 
+ CFR §§ 23.562. 
+ The cabinets that are installed forward of the RH forward side-facing seat and of the LH aft belted 
+ toilet are an integral part of the certified seat and restraint system. These cabinets may not be 
+ structurally altered, unless the changes are shown to comply with the requirements of 14 CFR 
+ §§ 23.561, 23.562, and 23.785. 
+ NOTE 5 
+ Approval for operation with a minimum crew of one pilot is based upon the cockpit equipment 
+ installation and arrangement evaluated during FAA certification testing. No significant changes 
+ may be made to the installed cockpit equipment or arrangement (EFIS, autopilot, avionics, etc.), 
+ except as permitted by the approved MMEL, without prior concurrence from the responsible 
+ Aircraft Certification Office. 
+ NOTE 6 
+ Model 525C airplanes have been approved for high altitude operations (altitudes above 41,000 ft.), 
+ by Special Conditions. Any modifications to the pressure vessel must be approved in accordance 
+ with the requirements as shown in the certification basis. This includes modifications which could 
+ result in a pressure vessel opening, either through crack-growth or antenna loss, greater than 3.00 sq. 
+ in. 
+ NOTE 7 
+ RVSM: Per the approved Type Design, S/N 525C0001 and On are considered to be compliant with 
+ the applicable RVSM aircraft approval requirements contained in 14 CFR Part 91, Appendix G. 
+ However, operational approval to fly in RVSM airspace must still be granted by the cognizant Flight 
+ Standards organization and each operator must obtain RVSM operating approval directly from the 
+ FAA. 
+ NOTE 8 
+ The Model 525C is approved for One Engine Inoperative 10 minutes thrust capability with the 
+ Williams International FJ44-4A engine, per FAA Policy Memo Policy Statement on Approval for 
+ 10-Minute Rated Takeoff Thrust/Power during Takeoff with One-Engine Inoperative (OEI) under 
+ 14 CFR Part 23 and 14 CFR Part 33 [PS-ANE33-ACE23-2006-1], dated August 30, 2006. 
+ NOTE 9 
+ The System Safety Assessment process has identified mandatory maintenance actions, which must 
+ be performed at specific intervals to compensate for latent failures. A list of those actions is 
+ contained in report RL-525C-176, and cannot be changed without participation from the 
+ certificating ACO. This document has influenced certain maintenance actions documented in 
+ Airworthiness Limitations section (Chapter 4) of the maintenance manual. Those particular items 
+ cannot be changed without participation from the certificating ACO. 
+ NOTE 10 
+ Deleted. 
+ NOTE 11 
+ The Model 525C shall not be eligible for operations under 14 CFR Part 121 (Reference: Exemption 
+ No. 9534). 
+ NOTE 12 
+ The following serials are manufactured under the name Cessna Aircraft Company: 525C0001 
+ through 525C0192. 
+ NOTE 13 
+ Company name change effective 7/29/15. The following serials are manufactured under the name 
+ Textron Aviation Inc.: 525C0193 and On.",

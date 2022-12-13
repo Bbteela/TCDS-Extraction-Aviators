@@ -1,0 +1,3405 @@
+Keyterm,Info
+"3A20 
+ Revision 82 
+ Textron Aviation 
+ 65 (L-23F) 
+ 65-A90-1 (JU-21A) 
+ A65 
+ (U-21A) 
+ A-65-8200 
+ (RU-21A) 
+ 65-80 
+ (RU-21D) 
+ 65-A80 
+ (U-21G) 
+ 65-A80-8800 
+ (RU-21H) 
+ 65-B80 
+ 65-A90-2 (RU-21B) 
+ 65-88 
+ 65-A90-3 (RU-21C) 
+ 65-90 
+ 65-A90-4 (RU-21E) 
+ 65-A90 
+ (RU-21H) 
+ 70 
+ C90 
+ B90 
+ C90A 
+ E90 
+ C90GT 
+ H90 (T-44A) 
+ C90GTi 
+ September 5, 2019",
+Type Certificate Holder,"Textron Aviation Inc. 
+ One Cessna Boulevard 
+ Wichita, KS 67215"
+Type Certificate Holder Record,"Beech Aircraft Corporation transferred to 
+ Raytheon Aircraft Company on April 15, 1996 
+ Raytheon Aircraft Company transferred to 
+ Hawker Beechcraft Corporation on March 26, 2007 
+ Hawker Beechcraft Corporation transferred to 
+ Beechcraft Corporation on April 12, 2013 
+ Beechcraft Corporation transferred to 
+ Textron Aviation Inc. on October 12, 2016."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20"
+Rev No,"82 
+ 32 
+ 70 
+ 70 
+ 65 
+ 70 
+ 36 
+ 70 
+ 70 
+ 42 
+ 70 
+ 36 
+ 36 
+ 70 
+ 36 
+ 70 
+ 70 
+ 57 
+ 70 
+ 47"
+Page No,"21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 32 
+ 33 
+ 34 
+ 35 
+ 36 
+ 37 
+ 38 
+ 39"
+Rev No,"70 
+ 57 
+ 70 
+ 70 
+ 70 
+ 62 
+ 70 
+ 70 
+ 70 
+ 70 
+ 66 
+ 77 
+ 82 
+ 78 
+ 66 
+ 82 
+ 73 
+ 73 
+ 81"
+"I. Model 65, Queen Air (Military L-23F), 7 or 9 PCLM (Normal Category), Approved February 4, 1959",
+Engines,"2 Lycoming IGSO-480-A1A6 or IGSO-480-A1B6 
+ 2 Lycoming IGSO-480-A1E6 (See NOTE 6 (a))"
+Fuel,100/130 min. grade aviation gasoline
+Engine Limits,"Straight line manifold pressure variation with altitude shown 
+ HP 
+ RPM 
+ MP 
+ Alt 
+ Takeoff 
+ 340 
+ 3400 
+ 48.0 
+ S.L. 
+ Takeoff 
+ 340 
+ 3400 
+ 44.0 
+ 11,000 
+ Takeoff 
+ 340 
+ 3400 
+ 43.5 
+ 11,000 (See NOTE 6 (a)) 
+ Max continuous 
+ 320 
+ 3200 
+ 45.0 
+ S.L. 
+ Max continuous 
+ 320 
+ 3200 
+ 41.5 
+ 11,000"
+Propeller and Propeller Limits,"2 Hartzell, full-feathering, three-bladed 
+ (a) HC-93Z20-2C1 or HC-B3Z20-2A hub with 10151-8R or 10151B-8R 
+ aluminum alloy blades and 836 spinner. (see NOTE 6(b)). 
+ Pitch settings at 30 in. sta.: low 16, high 87 
+ Diameter: not over 93 in., not under 90 in. 
+ (b) Woodward hydraulic governor 210190 or 210635. (see NOTE 6(b))"
+Airspeed Limits,"Never exceed 
+ 270 mph (234 knots) 
+ Maximum structural cruising 
+ 205 mph (178 knots) 
+ Maneuvering 
+ 195 mph (169 knots) 
+ Flaps extended 
+ 150 mph (130 knots) 
+ Maximum landing gear operating speed: Extension 
+ 180 mph (156 knots) 
+ Retraction 
+ 150 mph (130 knots) 
+ Maximum landing gear extended speed 
+ 180 mph (156 knots)"
+CG Range Landing,(+149.9) to (+158.4) at 7700 lb.
+Gear Extended,"(+147.6) to (+158.4) at 6720 lb. or less 
+ Straight line variation between points given 
+ Moment change due to retracting landing gear -2500 in. -lb. 
+ 8000 
+ 7800 
+ 7600 
+ REAR 
+ 7400 
+ LIMIT 
+ 7200 
+ LB. 
+ 7000 
+ 6800 
+ FWD 
+ LIMIT 
+ 6600 
+ 6400 
+ 6200 
+ 6000 
+ 146 
+ 148 
+ 150 
+ 152 
+ 154 
+ 156 
+ 158 
+ 160 
+ IN."
+Empty Wt CG Range,None
+Maximum Weight,"Takeoff - 7700 lbs. 
+ Landing - 7350 lbs. or 7700 lbs. S/N LC-203 and up, and LC-168 thru LC-202 
+ when modified per Beech Kit dwg. 65-4012."
+No of Seats,Maximum 9 (2 crew at +129). See loading instructions for passenger loading.
+Maximum Baggage,"350 lbs. (300 lbs. at +267, 50 lbs. at +288) (aft compartment)."
+Structural Limit,350 lbs. (+70) (optional nose compartment).
+Fuel Capacity,"Tank 
+ Cap. Gal 
+ Usable Gal 
+ Arm 
+ L & R Main 
+ 44 ea. 
+ 44 ea. 
+ +174 
+ L & R Aux 
+ 47 ea. 
+ 45 ea. 
+ +162 
+ or 
+ L & R Aux 
+ 72 ea. 
+ 71 ea. 
+ +165 
+ or 
+ L & R Aux 
+ 89 ea. 
+ 88 ea. 
+ +163 
+ See NOTE 1 for data on unusable fuel."
+Oil Capacity,"Left nacelle tank, 16 qts (+138), right nacelle tank, 16 qts. (+138). 
+ See NOTE 1 for data on unusable (undrainable) oil."
+Control Surface Movements,"Wing Flaps 
+ Maximum 31 ½  
+ Aileron tabs 
+ Up 
+ 7 ½  
+ Down 
+ 7 ½  (LH only) 
+ Aileron tab anti-servo 
+ Up 
+ 14 
+ Down 
+ 8 
+ Aileron 
+ Up 
+ 20 
+ Down 
+ 20 
+ Elevator tab 
+ Up 
+ 10 
+ Down 
+ 21 
+ Elevator tab anti-sevo 
+ Up 
+ 12 
+ Down 
+ 8 
+ Elevator 
+ Up 
+ 25 
+ Down 
+ 15 
+ Rudder tab 
+ Right 
+ 30 
+ Left 
+ 30 
+ Rudder 
+ Right 
+ 25 
+ Left 
+ 25 
+ Rudder tab servo 
+ Right 
+ 1 
+ Left 
+ 1"
+Serial No’s Eligible,"L-1, L-2, L-6, LF-7 and up, and LC-1 thru LC-239. (L-3, L-4, L-5 eligible when 
+ modified per Beech dwg. 50-002017). Prior to civil certification, LF-23F airplanes 
+ which have been operated by the military must be modified per BEECH dwg. 
+ 50-002016. Type Certificate issued and Delegation Option Manufacturer No. 
+ DOA-230339-CE authorized to issue airworthiness certificates under delegation 
+ option provisions of Part 21 of the Federal Aviation Regulations."
+"II. Model 65-80, 7 or 9 PCLM (Normal Category), Approved February 20, 1962",
+Engines,2 Lycoming IGSO-540-A1A
+Fuel,100/130 min. grade aviation gasoline
+Engine Limits,"(Straight line manifold pressure variation with altitude shown) 
+ HP 
+ RPM 
+ MP 
+ Alt 
+ Takeoff 
+ 380 
+ 3400 
+ 47.0 
+ S.L. 
+ Takeoff 
+ 380 
+ 3400 
+ 43.5 
+ 10,500 
+ Max. continuous 
+ 360 
+ 3200 
+ 45.0 
+ S.L. 
+ Max. continuous 
+ 360 
+ 3200 
+ 41.7 
+ 10,500"
+Propeller and Propeller Limits,"2 Hartzell, full-feathering, three-bladed 
+ (a) HC-B3Z30-2 hub with 10151-8 or 10151B-8 or 10151-8R 
+ or 10151B-8R aluminum alloy blades and 836 spinner. 
+ Pitch settings at 30 in sta: Low 18 1/4,  1/4, high 87,  1/2 
+ Diameter: not over 93 in., not under 90 in. 
+ (b) Woodward hydraulic governor A210390"
+Airspeed Limits,"Never exceed 
+ 270 mph (234 knots) 
+ Maximum structural cruising 
+ 205 mph (178 knots) 
+ Maneuvering 
+ 195 mph (169 knots) 
+ Flaps extended 
+ 150 mph (130 knots) 
+ Maximum Landing Gear Operating Speed: Extension 
+ 180 mph (156 knots) 
+ Retraction 
+ 150 mph (130 knots) 
+ Maximum Landing Gear Extended Speed: 
+ 180 mph (156 knots)"
+CG Range Landing,(+152.8) to (+158.4) at 8000 lb
+Gear Extended,"(+147.6) to (+158.4) at 7060 lb or less 
+ Straight line variation between points given 
+ Moment change due to retracting landing gear -2500 in. -lb. 
+ 8200 
+ 8000 
+ 7800 
+ REAR 
+ 7600 
+ LIMIT 
+ 7400 
+ LB. 
+ FWD 
+ 7200 
+ LIMIT 
+ 7000 
+ 6800 
+ 6600 
+ 6400 
+ 6200 
+ 146 
+ 148 
+ 150 
+ 152 
+ 154 
+ 156 
+ 158 
+ 160 
+ IN."
+Empty Wt CG Range,None
+Maximum Weight,"Takeoff - 8000 lb 
+ Landing - 7600 lb. or 8000 lb. (See NOTE 8)"
+No of Seats,Maximum 9 (2 crew at +129). See loading instructions for passenger loading.
+Maximum Baggage,"350 lb. (300 lb. at +267, 50 lb. at +288)"
+Fuel Capacity,"Tank 
+ Cap Gal 
+ Usable Gal 
+ Arm 
+ L & R Main 
+ 44 ea. 
+ 44 ea. 
+ +174 
+ L & R Aux 
+ 47 ea. 
+ 45 ea. 
+ +162 
+ or 
+ L & R Aux 
+ 72 ea. 
+ 71 ea. 
+ +165 
+ See NOTE 1 for data on unusable fuel"
+Oil Capacity,"Left nacelle tank, 16 qt. (+138), right nacelle tank, 16 qt. (+138) 
+ See NOTE 1 for data on unusable (undrainable) oil."
+Control Surface Movements,"Wing Flaps 
+ Maximum 31 ½  
+ Aileron tabs 
+ Up 
+ 7 ½  
+ Down 
+ 7 ½  (LH only) 
+ Aileron tab anti-servo 
+ Up 
+ 14 
+ Down 
+ 8 
+ Aileron 
+ Up 
+ 20 
+ Down 
+ 20 
+ Elevator tab 
+ Up 
+ 10 
+ Down 
+ 21 
+ Elevator tab anti-servo 
+ Up 
+ 12 
+ Down 
+ 8 
+ Elevator 
+ Up 
+ 25 
+ Down 
+ 15 
+ Rudder tab 
+ Right 
+ 30 
+ Left 
+ 30 
+ Rudder 
+ Right 
+ 24 
+ Left 
+ 26"
+Serial No’s Eligible,LD-1 thru LD-150 (except LD-34 and LD-46)
+"III. 
+ Model 65-A80, 7 to 11 PCLM (Normal Category), Approved March 26, 1964 
+ Model 65-A80-8800, 7 to 11 PCLM (Normal Category), Approved October 22, 1965",
+Engine,2 Lycoming IGSO-540-A1A or IGSO-540-A1D
+Fuel,100/130 min. grade aviation gasoline
+Engine Limits,"(Straight line manifold pressure variation with altitude shown) 
+ HP 
+ RPM 
+ MP 
+ Alt 
+ Takeoff 
+ 380 
+ 3400 
+ 47.0 
+ S.L. 
+ Takeoff 
+ 380 
+ 3400 
+ 43.5 
+ 10,500 
+ Max. continuous 
+ 360 
+ 3200 
+ 45.0 
+ S.L. 
+ Max. continuous 
+ 360 
+ 3200 
+ 41.7 
+ 10,500"
+Propeller and Propeller Limits,"2 Hartzell, full-feathering, three-bladed 
+ (a) HC-B3Z30-2 hub with 10151-8R or 10151B-8R aluminum alloy blades 
+ and spinner. 
+ Pitch settings at 30 in. sta.: low 18 1/4,  1/4, high 87,  1/2 
+ Diameter: not over 93 in., not under 90 in. 
+ (b) Woodward hydraulic governor A210390; use 210498 with propeller synchronizer"
+Airspeed Limits,"Never exceed 
+ 270 mph (234 knots) 
+ Maximum structural cruising 
+ 205 mph (178 knots) 
+ Maneuvering 
+ 195 mph (169 knots) 
+ Flaps extended 
+ 150 mph (130 knots) 
+ Maximum landing gear operating speed: Extension 
+ 180 mph (156 knots) 
+ Retraction 
+ 150 mph (130 knots) 
+ Maximum landing gear extended speed: 
+ 180 mph (156 knots)"
+CG Range Landing,"Model 65-A80 
+ Model 65-A80-8800"
+Gear Extended,"(+149.8) to (+158.4) at 8500 lb. 
+ (+150.7) to (+160.4) at 8800 lb. 
+ (+147.6) to (+158.4) at 7750 lb. or less 
+ (+147.6) to (+160.4) at 7750 lb. or less 
+ Straight line variation between points given. 
+ Straight line variation between points given 
+ Moment change due to retracting landing 
+ Moment change due to retracting 
+ gear -2500 in. -lb. 
+ landing gear -2500 in. -lb. 
+ 8600 
+ 9000 
+ 8200 
+ 8600 
+ REAR 
+ LIMIT 
+ REAR 
+ 7800 
+ 8200 
+ LIMIT"
+LB,"LB. 
+ 7400 
+ 7800 
+ FWD 
+ FWD 
+ LIMIT 
+ LIMIT 
+ 7000 
+ 7400 
+ 146 
+ 148 
+ 150 
+ 152 
+ 154 
+ 156 
+ 158 
+ 160 
+ 146 
+ 148 
+ 150 
+ 152 
+ 154 
+ 156 
+ 158 
+ 160 
+ INCHES 
+ INCHES"
+Empty Wt CG Range,None
+Maximum Weight,"Model 65-A80 
+ Model 65-A80-8800 
+ Takeoff 8500 lb. 
+ 8800 lb (see NOTE 9) 
+ Landing 8500 lb. 
+ 8800 lb."
+No of Seats,Maximum 11 (2 crew at +129). See loading instructions for passenger loading.
+Maximum Baggage,"350 lb. (+275, aft compartment, except LD-34 and LD-46)"
+Structural Limit,"350 lb. (300 lb. at +267, 50 lb. at +288, LD-34 only) 
+ (Standard aft compartment) 
+ 300 lb. (+267, LD-46 only) (Standard aft compartment) 
+ 250 lb. (+309) (Optional aft compartment) (65-A80-8800) 
+ (450 lb. max in both compartments) 
+ 350 lb. (+70) (Optional nose compartment)"
+Fuel Capacity,"Tank 
+ Cap Gal 
+ Usable Gal 
+ Arm 
+ L & R Main 
+ 44 ea. 
+ 44 ea. 
+ +174 
+ L & R Aux. 
+ 47 ea. 
+ 45 ea. 
+ +162 
+ or 
+ L & R Aux. 
+ 64 ea. 
+ 63 ea. 
+ +160 
+ or 
+ L & R Aux. 
+ 72 ea. 
+ 71 ea. 
+ +165 
+ or 
+ L & R Aux. 
+ 89 ea. 
+ 88 ea. 
+ +163 
+ See NOTE 1 for data on unusable fuel."
+Oil Capacity,"Left nacelle tank, 16 qt. (+138), right nacelle tank, 16 qt. (+138) 
+ See NOTE 1 for data on unusable (undrainable) oil."
+Control Surface Movements,"Wing flaps 
+ Maximum 31 ½  
+ Aileron tabs 
+ Up 
+ 7 ½  
+ Down 
+ 7 ½  (LH only) 
+ Aileron tab anti-servo 
+ Up 
+ 14 
+ Down 
+ 8 
+ Aileron 
+ Up 
+ 20 
+ Down 
+ 20 
+ Elevator tab 
+ Up 
+ 10 
+ Down 
+ 21 
+ Elevator tab anti-servo 
+ Up 
+ 12 
+ Down 
+ 8 
+ Elevator 
+ Up 
+ 25 
+ Down 
+ 15 
+ Rudder tab 
+ Right 
+ 30 
+ Left 
+ 30 
+ Rudder 
+ Right 
+ 24 
+ Left 
+ 26"
+Serial No’s Eligible,"LD-34, LD-46, LD-151 through LD-269"
+"IV. Model 65-90, 10 PCLM (Normal Category), Approved May 19, 1964",
+Engines,"2 United Aircraft of Canada, Ltd. PT6A-6 (Turboprop) or 
+ 2 United Aircraft of Canada, Ltd. or Pratt & Whitney PT6A-20 (Turboprop) 
+ See NOTE 11."
+Fuel,"JP-4, JP-5 (MIL-T-5624); JP-8 (MIL-T-83133); JET A, JET A-1, and JET B 
+ conforming to P&WC S.B. 1244 or ASTM Spec. D1655. 
+ See NOTE 5 for emergency fuels."
+Oil Engine and Gearbox,UACL PT6 Service Bulletin No. 1 lists approved brand oils.
+Engine Limits,"Static Sea Level Ratings PT6A-6 
+ Equivalent 
+ Prop 
+ Max. Permissible 
+ Shaft 
+ Jet 
+ Shaft 
+ Shaft 
+ Turbine Inlet 
+ Horsepower 
+ Thrust 
+ Horsepower 
+ Speed 
+ Temp. (Deg. C.) 
+ Takeoff (5 minutes) 
+ 500 
+ 62 
+ 525 
+ 2200* 
+ 994 
+ Max. Continuous 
+ 500 
+ 62 
+ 525 
+ 2200* 
+ 952 
+ Strtg. Trans. (2 seconds) 
+ 1038 
+ Max Reverse (1 minute) 
+ 300 
+ 2100* 
+ 750 
+ Static Sea Level Ratings PT6A-20 
+ Shaft 
+ Jet 
+ Equivalent 
+ Prop 
+ Max. Permissible 
+ Horsepower 
+ Thrust 
+ Shaft 
+ Shaft 
+ Turbine Inlet 
+ Horsepower 
+ speed 
+ Temp. (Deg. C.) 
+ Takeoff (5 minutes) 
+ 500 
+ 68 
+ 527 
+ 2200* 
+ 750 
+ Max. Continuous 
+ 500 
+ 68 
+ 527 
+ 2200* 
+ 750 
+ Strtg. Trans. (2 seconds) 
+ 1090 
+ Max Reverse ( 1 minute) 
+ 300 
+ 2100* 
+ 750 
+ See NOTE 4 
+ At low altitude and low ambient temperature the engines may produce more 
+ power at takeoff than the airplane has been certificated for. Under these 
+ conditions, the placarded torquemeter limitations shall not be exceeded. 
+ Oil Temperature 
+ PT6A-6 
+ Plus 32F to 185F max continuous 
+ Maximum 195F not to exceed 5 minutes 
+ Minus 40F minimum starting 
+ PT6A-20 
+ Plus 50 F to 200 F max. continuous 
+ Minus 40F to 200F low idle 
+ Maximum 210F not to exceed 5 minutes 
+ Minus 40F minimum starting"
+Propeller and Propeller Limits,Non Reversing Propeller:
+See NOTES 12  13,"2 Hartzell HC-B3TN-2/T10173B-8 or HC-B3TN-2(B)/T10173B-8 or 
+ HC-B3TN-2M/ T10173NB-8 with three blades each. 
+ Diameter: 93.5 in. (nominal) Min. allowable for repair 91.5 in. 
+ (No further reduction permitted). 
+ Pitch settings at 30 in. sta.: low 19, feathered 87 
+ Reversing Propeller: 
+ 2 Hartzell HC-B3TN-3B/T10173E-8 or HC-B3TN-3M/T10173NB-8 
+ with three blades each 
+ Diameter: 93-3/8 in. (nominal). Min. allowable for repair 90-3/8 in. 
+ (No further reduction permitted) 
+ Flight idle stop (See NOTE 10) 
+ Secondary flight idle stop (See NOTE 10) 
+ Reverse 
+ -11 
+ Feather 
+ -87"
+Airspeed Limits,"Maximum operating speed 
+ 240 mph (208 knots) 
+ Maneuvering 
+ 195 mph (169 knots) 
+ Flaps extended 
+ 150 mph (130 knots) 
+ Maximum landing gear operating speed : Extension 
+ 180 mph (156 knots) 
+ Retraction 
+ 150 mph (130 knots) 
+ Maximum landing gear extended speed 
+ 180 mph (156 knots)"
+CG Range Landing,(+152.2) to (+158.4) at 9300 lb. (See NOTE 7)
+Gear Extended,"(+151.3) to (+158.4) at 9000 lb. 
+ (+147.6) to (+158.4) at 7750 lb. or less 
+ Straight line variation between points given 
+ Moment change due to retracting landing gear -3530 in. -lb. 
+ 9500 
+ 9300 
+ 9100 
+ 8900 
+ 8700 
+ REAR 
+ LIMIT 
+ LB. 
+ 8500 
+ 8300 
+ FWD 
+ 8100 
+ LIMIT 
+ 7900 
+ 7700 
+ 7500 
+ 147 
+ 149 
+ 151 
+ 153 
+ 155 
+ 157 
+ 159 
+ IN."
+Empty Wt CG Range,None
+Maximum Weight,"Takeoff 9000 or 9300 lb. (See NOTE 7) 
+ Landing 8550 or 8835 lb. (See NOTE 7)"
+No of Seats,Maximum 10 (2 crew at +129). See loading instructions for passenger loading.
+Maximum Baggage,350 lb. (+275)
+Fuel Capacity,"Tank 
+ Cap Gal 
+ Usable Gal 
+ Arm 
+ L & R Nacelle 
+ 61 ea. 
+ 61 ea. 
+ +131 
+ L & R Wing 
+ 131 ea. 
+ 131 ea. 
+ +167 
+ See NOTE 1 for data on unusable fuel."
+Oil Capacity,"18.4 qt. total (+101) 
+ See NOTE 1 for data on unusable oil."
+Max Oper Limit,"30,000 ft. pressure altitude"
+Control Surface Movements,"Wing flaps 
+ Maximum 44 
+ Aileron Tab 
+ Up 
+ 7 ½  
+ Down 
+ 7 ½  (LH only) 
+ Aileron tab anti-servo 
+ Up 
+ 14 
+ Down 
+ 8 
+ Aileron 
+ Up 
+ 20 
+ Down 
+ 20 
+ Elevator Tab 
+ Up 
+ 10 
+ Down 
+ 21 
+ Elevator Tab anti-servo 
+ Up 
+ 12 
+ Down 
+ 8 
+ Elevator 
+ Up 
+ 25 
+ Down 
+ 15 
+ Rudder Tab 
+ Right 
+ 30 
+ Left 
+ 30 
+ Rudder 
+ Right 
+ 24 
+ Left 
+ 26"
+Serial No’s Eligible,LJ-1 thru LJ-113 (except LJ-76)
+"V. Model 65-88, 10 PCLM (Normal Category), Approved September 21, 1965",
+Engines,2 Lycoming IGSO-540-A1D
+Fuel,100/130 minimum grade aviation gasoline
+Engine Limits,"(Straight line manifold pressure variation with altitude shown) 
+ HP 
+ RPM 
+ MP 
+ Alt 
+ Takeoff 
+ 380 
+ 3400 
+ 47.0 
+ S.L. 
+ Takeoff 
+ 380 
+ 3400 
+ 43.5 
+ 10,500 
+ Max. continuous 
+ 360 
+ 3200 
+ 45.0 
+ S.L. 
+ Max. continuous 
+ 360 
+ 3200 
+ 41.7 
+ 10,500"
+Propeller and Propeller Limits,"2 Hartzell, full-feathering, three-bladed 
+ (a) HC-B3Z30-2 hub with 10151-8R or 10151B-8R aluminum alloy 
+ blades and 836 spinner. 
+ Pitch settings at 30 in. sta.: low 18 1/4  1/4 
+ high 87  1/4 
+ Diameter: not over 93 in., not under 90 in. 
+ (b) Woodward hydraulic governor A210390 (use 210498 with propeller 
+ synchronizer)"
+Airspeed Limits,"Never exceed 
+ 270 mph (234 knots) 
+ Maximum structural cruising 
+ 205 mph (178 knots) 
+ Maneuvering 
+ 195 mph (169 knots) 
+ Maximum flap extension speed 
+ Approach position - 50% 
+ 200 mph (174 knots) 
+ Full down flap psn. - 100% 
+ 150 mph (130 knots) 
+ Maximum landing gear operating speed: Extension 
+ 180 mph (156 knots) 
+ Retraction 
+ 150 mph (130 knots) 
+ Maximum landing gear extended speed 
+ 180 mph (156 knots)"
+CG Range Landing,(+150.7) to (+160.4) at 8800 lb.
+Gear Extended,"(+147.6) to (+160.4) at 7750 lb. or less 
+ Straight line variation between points given 
+ Moment change due to retracting landing gear -2050 in. -lb. 
+ 9500 
+ 9300 
+ 9100 
+ 8900 
+ 8700 
+ LB. 
+ 8500 
+ REAR 
+ 8300 
+ LIMIT 
+ 8100 
+ 7900 
+ FWD 
+ 7700 
+ LIMIT 
+ 7500 
+ 161 
+ 147 
+ 149 
+ 151 
+ 153 
+ 155 
+ 157 
+ 159 
+ IN."
+Empty Wt CG Range,None
+Maximum Weight,"Takeoff 8800 lb 
+ Landing 8800 lb"
+No of Seats,Maximum 10 (2 crew at +129). See loading instructions for passenger loading.
+Maximum Baggage,350 lb. (+275)
+Fuel Capacity,"Tank 
+ Cap Gal 
+ Usable Gal 
+ Arm 
+ L & R Main 
+ 44 ea. 
+ 44 ea. 
+ +174 
+ L & R Aux 
+ 89 ea. 
+ 88 ea. 
+ +162 
+ or 
+ L & R Wing 
+ 134.5 ea. 
+ 132 ea. 
+ +166 
+ See NOTE 1 for data on unusable fuel"
+Oil Capacity,"Left nacelle tank, 16 qt. (+138), right nacelle tank, 16 qt. (+138). 
+ See NOTE 1 for data on unusable (undrainable) oil."
+Control Surface Movements,"Wing flaps 
+ Maximum 31 ½  
+ Aileron Tab 
+ Up 
+ 7 ½  
+ Down 
+ 7 ½  (LH only) 
+ Aileron tab anti-servo 
+ Up 
+ 14 
+ Down 
+ 8 
+ (S/N LP-1 thru LP-45) 
+ Aileron 
+ Up 
+ 20 
+ Down 
+ 20 
+ Elevator Tab 
+ Up 
+ 10 
+ Down 
+ 21 
+ Elevator tab anti-servo 
+ Up 
+ 12 
+ Down 
+ 8 
+ Elevator 
+ Up 
+ 25 
+ Down 
+ 15 
+ Rudder tab 
+ Right 
+ 30 
+ Left 
+ 30 
+ Rudder 
+ Right 
+ 24 
+ Left 
+ 26"
+Serial No’s Eligible,LP-1 thru LP-47 (except LP-27 and LP-29)
+"VI. Model 65-B80, Queen Air, 13 PCLM (Normal Category), Approved October 22, 1965",
+Engines,2 Lycoming IGSO-540-A1A or 2 Lycoming IGSO-540-A1D
+Fuel,100/130 minimum grade aviation gasoline
+Engine Limits,"(Straight line manifold pressure variation with altitude shown) 
+ HP 
+ RPM 
+ MP 
+ Alt 
+ Takeoff 
+ 380 
+ 3400 
+ 47.0 
+ S.L. 
+ Takeoff 
+ 380 
+ 3400 
+ 43.5 
+ 10,500 
+ Max. continuous 
+ 360 
+ 3200 
+ 45.0 
+ S.L. 
+ Max. continuous 
+ 360 
+ 3200 
+ 41.7 
+ 10,500"
+Propeller and Propeller Limits,"2 Hartzell, full-feathering, three-bladed 
+ (a) HC-B3Z30-2 hub with 10151-8R or 10151B-8R aluminum alloy blades 
+ and 836 spinner. 
+ Pitch settings at 30 in. sta.: low 18 1/4  1/4, high 87  1/2 
+ Diameter: not over 93 in., not under 90 in. 
+ (b) Woodward hydraulic governor A210390 (use 210498 with propeller 
+ synchronizer)"
+Airspeed Limits,"Never exceed 
+ 270 mph (234 knots) 
+ Maximum structural cruising 
+ 205 mph (178 knots) 
+ Maneuvering 
+ 195 mph (169 knots) 
+ Maximum flap extension speed 
+ Approach position - 50% 
+ 200 mph (174 knots) 
+ Full down position - 100% 
+ 150 mph (130 knots) 
+ Maximum landing gear operating speed: Extension 
+ 180 mph (156 knots) 
+ Retraction 
+ 150 mph (130 knots) 
+ Maximum landing gear extended speed 
+ 180 mph (156 knots)"
+CG Range Landing,(+150.7) to (+160.4) at 8800 lb.
+Gear Extended,"(+147.6) to (+160.4) at 7750 lb. or less 
+ Straight line variation between points given 
+ Moment change due to retracting landing gear -2500 in. -lb. 
+ For diagram see Section V."
+Empty Wt CG Range,None
+Maximum Weight,"Takeoff 8800 lb. 
+ Landing 8800 lb."
+No of Seats,Maximum 13 (2 crew at +125). See loading instructions for passenger loading.
+Maximum Baggage,350 lb (+275) (standard aft compartment)
+Structural Limit,"250 lb. (+309) (optional aft compartment) 
+ (450 lb. maximum in both compartments) 
+ 350 lb. (+70) (nose compartment) 
+ 300 lb. (+161) (optional cargo pod) (See NOTE 20)"
+Fuel Capacity,"(1) 
+ (2) 
+ Tank 
+ Cap Gal 
+ Usable Gal 
+ Usable Gal 
+ Arm"
+LD270 thru LD279,"L & R Main 
+ 44 ea. 
+ 44 ea. 
+ 39 ea. 
+ +174 
+ L & R Aux 
+ 64 ea. 
+ 63 ea. 
+ 61 ea. 
+ +160 
+ or 
+ L & R Aux 
+ 89 ea. 
+ 88 ea. 
+ 85 ea. 
+ +162 
+ L & R Wing 
+ 19.5 ea. 
+ 107 ea. 
+ +166 
+ or 
+ L & R Wing 
+ 107.5 ea. 
+ 100 ea. 
+ +166 
+ or 
+ L & R Wing 
+ 134.5 ea. 
+ 132 ea. 
+ 127 ea. 
+ +166 
+ See NOTE 1 for data on unusable fuel 
+ (1) Prior to incorporation of S.I. 0539-381 
+ (2) After incorporation of S.I. 0539-381"
+Oil Capacity,"Left nacelle tank, 16 qt. (+138), right nacelle tank, 16 qt. (+138) 
+ See NOTE 1 for data on unusable (undrainable) oil."
+Control Surface Movements,"Wing Flaps 
+ Maximum 31 ½  
+ Aileron Tab 
+ Up 
+ 7 ½  
+ Down 
+ 7 ½  (LH only) 
+ Aileron tab anti-servo 
+ Up 
+ 14 
+ Down 
+ 8 
+ (S/N LD-270 thru LD-368) 
+ Aileron 
+ Up 
+ 20 
+ Down 
+ 20 
+ Elevator tab 
+ Up 
+ 10 
+ Down 
+ 21 
+ Elevator tab anti-servo 
+ Up 
+ 12 
+ Down 
+ 8 
+ Elevator 
+ Up 
+ 25 
+ Down 
+ 15 
+ Rudder tab 
+ Right 
+ 30 
+ Left 
+ 30 
+ Rudder 
+ Right 
+ 24 
+ Left 
+ 26"
+Serial No’s Eligible,LD-270 thru LD-511
+"VII. Model 65-A90, King Air, 10 PCLM (Normal Category), Approved March 7, 1966",
+Engines,"2 United Aircraft of Canada, Ltd. or Pratt & Whitney, PT6A-20 (Turboprop)"
+Fuel,"JP-4, JP-5 (MIL-T-5624); JP-8 (MIL-T-83133); Jet A, Jet A-1, and Jet B 
+ conforming to P&WC S.B. 1244 or ASTM Spec. D1655. 
+ See NOTE 5 for emergency fuels."
+Oil Engine and Gearbox,UACL PT6 Service Bulletin No. 1 lists approved brand oils.
+Engine Limits,"Static Sea Level Ratings 
+ Max. Permissible 
+ Equivalent 
+ Prop. 
+ Turbine 
+ Shaft 
+ Jet 
+ Shaft 
+ Shaft 
+ Interstage Temp. 
+ Horsepower 
+ Thrust 
+ Horsepower 
+ Speed 
+ (Deg. C.) 
+ Takeoff (5 minutes) 
+ 500 
+ 68 
+ 527 
+ 2200* 
+ 750 
+ Max Continuous 
+ 500 
+ 68 
+ 527 
+ 2200* 
+ 750 
+ Strtg. Trans. (2 seconds) 
+ 1090 
+ Max. Reverse (1 minute) 
+ 300 
+ 2100 
+ 750 
+ Static Sea Level Ratings (See NOTES 17 & 19) 
+ Max. Permissible 
+ Equivalent 
+ Prop. 
+ Turbine 
+ Shaft 
+ Jet 
+ Shaft 
+ Shaft 
+ Interstage Temp. 
+ Horsepower 
+ Thrust 
+ Horsepower 
+ Speed 
+ (Deg. C.) 
+ Takeoff (5 minutes) 
+ 550 
+ 72 
+ 579 
+ 2200* 
+ 750 
+ Max. Continuous 
+ 550 
+ 72 
+ 579 
+ 2200* 
+ 750 
+ Strtg. Trans. (2 seconds) 
+ 1090 
+ Max. Reverse (1 minute) 
+ 300 
+ 2100 
+ 750 
+ *See NOTE 4 
+ At low altitudes and low ambient temperature, the engines may produce more 
+ power at takeoff that for which the airplane has been certificated. Under 
+ these conditions the placarded torquemeter limitations shall not be exceeded. 
+ Oil Temperatures: -40F 
+ minimum starting 
+ -40F to 200F 
+ low idle 
+ 50F to 200F 
+ max continuous 
+ 210F 
+ max oil temperature not to exceed 
+ 5 minutes. 
+ Oil Temperatures: -40F 
+ minimum starting 
+ (see NOTES 
+ -40F to 210F 
+ low idle 
+ 17 & 19) 
+ 50F to 210F 
+ max continuous"
+Propeller and Propeller Limits,"Non Reversing Propeller: 
+ 2 Hartzell HC-B3TN-2 (b)/T10173B-8 or HC-B3TN-2M/T10173NB-8 
+ Diameter: 93 3/8 in. (Nominal) minimum allowable for repair 90 3/8 in. 
+ (no further reduction permitted) 
+ Pitch settings at 30 in. Sta.: Low 19, Feather 87 
+ Reversing Propeller: 
+ 2 Hartzell HC-B3TN-3 or HC-B3TN-3B or HC-B3TN-3M hubs with 
+ T10173E8 or T10173B8 or T10173NB-8 blades. 
+ Diameter: 93-3/8 in. (nominal) minimum allowable for repair 90-3/8 in 
+ (no further reduction permitted) 
+ Pitch Settings at 30 in. Sta.: 
+ Flight idle stop (See NOTE 10) 
+ Secondary flight idle stop (See NOTE 10) 
+ Reverse 
+ -11 
+ Feather 
+ 87"
+Airspeed Limits,"Max Operating Speed 
+ 240 mph (208 knots) 
+ Maneuvering Speed 
+ 195 mph (169 knots) 
+ Flaps extended speed 
+ 150 mph (130 knots) 
+ Maximum landing gear operating speed: Extension 
+ 180 mph (156 knots) 
+ Retraction 
+ 150 mph (130 knots) 
+ Maximum landing gear extended speed 
+ 180 mph (156 knots)"
+CG Range Landing,(+153.2) to (+160.4) at 9650 lb. (See NOTE 17)
+Gear Extended,"(+152.2) to (+160.4) at 9300 lb. 
+ (+147.6) to (+160.4) at 7750 lb. or less 
+ Straight line variation between points given 
+ Moment change due to retracting landing gear -3411 in. -lb. 
+ 9800 
+ 9600 
+ 9400 
+ 9200 
+ 9000 
+ LB. 
+ 8800 
+ 8600 
+ REAR 
+ 8400 
+ LIMIT 
+ 8200 
+ 8000 
+ FWD 
+ 7800 
+ LIMIT 
+ 7600 
+ 162 
+ 146 
+ 148 
+ 150 
+ 152 
+ 154 
+ 156 
+ 158 
+ IN. 
+ (+152.2) to (+160.4) at 9300 lb. 
+ (+144.7) to (+160.4) at 7400 lb. or less (See NOTE 18) 
+ Straight line variation between points given. 
+ Moment change due to retracting landing gear -3825 in. -lb. 
+ 9400 
+ 9200 
+ 9000 
+ REAR 
+ 8800 
+ LIMIT 
+ 8600 
+ LB. 
+ 8400 
+ 8200 
+ 8000 
+ 7800 
+ FWD 
+ 7600 
+ LIMIT 
+ 7400 
+ 7200 
+ 144 
+ 148 
+ 152 
+ 156 
+ 158 
+ 162 
+ IN. 
+ (+153.2) to (+160.4) at 9650 lb. (See NOTE 19) 
+ (+144.7) to (+160.4) at 7400 lb. or less (See NOTE 19) 
+ Straight line variation between points given. 
+ Moment change due to retracting landing gear -3825 in. -lb. 
+ 9800 
+ 9600 
+ 9400 
+ 9200 
+ 9000 
+ REAR 
+ LIMIT 
+ 8800 
+ 8600 
+ LB. 
+ 8400 
+ 8200 
+ 8000 
+ FWD 
+ 7800 
+ LIMIT 
+ 7600 
+ 7400 
+ 7200 
+ 7000 
+ 144 
+ 146 
+ 148 
+ 150 
+ 152 
+ 154 
+ 156 
+ 158 
+ 160 
+ 162 
+ INCHES"
+Empty Wt CG Range,None
+Maximum Weight,"Takeoff 9300 lb. 
+ Takeoff 9650 lb. (See NOTE 17 & 19) 
+ Landing 8835 lb. 
+ Landing 9168 lb. (See NOTE 17 & 19)"
+No of Seats,Maximum 10 (2 crew at +129). See loading instructions for passenger loading.
+Maximum Baggage Structural limit,350 lb. (+275)
+Fuel Capacity,"Tank 
+ Cap. Gal. 
+ Usable Gal 
+ Arm 
+ L & R Nacelle 
+ 61 ea. 
+ 61 ea. 
+ +131 
+ L & R Wing 
+ 131 ea. 
+ 131 ea. 
+ +167 
+ See NOTE 1 for data on unusable fuel"
+Oil Capacity,"18.4 qt. total (+101) 
+ See NOTE 1 for data on unusable oil"
+Max Oper Limit,"30,000 ft. pressure altitude"
+Control Surface Movements,"Wing flaps 
+ Maximum 44 
+ Aileron tab 
+ Up 
+ 7 ½  
+ Down 
+ 7 ½  (LH only) 
+ Aileron tab 
+ Up 
+ 15 
+ Down 
+ 15 (LH only) 
+ (See NOTE 18 & 19) 
+ Aileron tab (anti-servo) 
+ Up 
+ 14 
+ Down 
+ 8 
+ Aileron 
+ Up 
+ 20 
+ Down 
+ 20 
+ Elevator tab 
+ Up 
+ 10 
+ Down 
+ 21 
+ Elevator tab (anti-servo) 
+ Up 
+ 12 
+ Down 
+ 8 
+ Elevator 
+ Up 
+ 25 
+ Down 
+ 15 
+ Rudder tab 
+ Right 
+ 30 
+ Left 
+ 30 
+ Rudder 
+ Right 
+ 24 
+ Left 
+ 26 
+ Rudder 
+ Right 
+ 24 
+ Left 
+ 19 
+ (See NOTES 17 & 19)"
+Serial No’s Eligible,"LJ-76, LJ-114 thru LJ-317"
+"VIII. Model A65, Queen Air, 7 to 9 PCLM (Normal Category), Approved November 3, 1966 
+ Model A65-8200, Queen Air, 11 PCLM (Normal Category), Approved October 9, 1967 
+ Model 70, Queen Air, 11 PCLM (Normal Category), approved November 27, 1968",
+Engines,"2 Lycoming IGSO-480-A1E6 or IGSO-480-A1B6 (Model A65) 
+ 2 Lycoming IGSO-480-A1E6 (Models A65-8200 and 70)"
+Fuel,100/130 min. grade aviation gasoline
+Engine Limits,"(Straight line manifold pressure variation with altitude shown) 
+ HP 
+ RPM 
+ MP 
+ Alt 
+ Takeoff 
+ 340 
+ 3400 
+ 48.0 
+ S.L. 
+ Takeoff 
+ 340 
+ 3400 
+ 43.5 
+ 11,000 
+ Max continuous 
+ 320 
+ 3200 
+ 45.0 
+ S.L. 
+ Max continuous 
+ 320 
+ 3200 
+ 41.5 
+ 11,000"
+Propeller and Propeller Limits,"2 Hartzell, full-feathering, three-bladed 
+ (a) HC-B3Z20-2A hub with 10151-8R or 10151B-8R aluminum alloy blades 
+ and 836 spinner. 
+ Pitch settings at 30 in. Sta.: low 16, high 87 
+ Diameter: not over 93 in., not under 90 in. 
+ (b) Woodward hydraulic governor 210365 or 210433"
+Airspeed Limits,"Never exceed 
+ 270 mph (234 knots) 
+ Maximum structural cruising 
+ 205 mph (178 knots) 
+ Maneuvering 
+ 195 mph (169 knots) 
+ Maximum flap extension speed 
+ Approach position - 50% 
+ 200 mph (174 knots) 
+ (LC-325 & up - Model A65) 
+ (LB-1 & up - Model 70) Full down position - 100% 
+ 150 mph (130 knots) 
+ Maximum landing gear operating speed: Extension 
+ 180 mph (156 knots) 
+ Retraction 
+ 150 mph (130 knots) 
+ Maximum landing gear extended speed 
+ 180 mph (156 knots)"
+CG Range Landing Gear,(+151.1) to (+160.4) at 8200 lb. (see NOTE 16)
+Extended,"(+149.9) to (+160.4) at 7700 lb. 
+ (+147.6) to (+160.4) at 6720 lb. or less 
+ Straight line variation between points given 
+ Moment change due to retracting landing gear -2500 in. -lb. 
+ 8400 
+ 8200 
+ 8000 
+ 7800 
+ REAR 
+ 7600 
+ LIMIT 
+ 7400 
+ LB. 
+ 7200 
+ 7000 
+ FWD 
+ 6800 
+ LIMIT 
+ 6600 
+ 6400 
+ 6200 
+ 144 
+ 148 
+ 152 
+ 156 
+ 160 
+ IN."
+Empty Wt CG Range,None
+Maximum Weight,"Takeoff 7700 or 8200 lb. (See NOTE 16) 
+ Landing 7700 or 8200 lb (See NOTE 16)"
+No of Seats,"Maximum 9 or 11 (2 crew at +129). See NOTE 16. 
+ See loading instructions for passenger loading."
+Maximum Baggage,"350 lb. (300 lb. at +267, 50 lb. at +288) (aft compartment)"
+Structural Limits,350 lb. (+70) (nose compartment)
+Maximum Baggage,350 lb. (+275) (standard aft compartment)
+Structural Limits,250 lb. (+309) (optional aft compartment)
+LC325 and up,350 lb. (+ 70) (nose compartment)
+Fuel Capacity,"Tank 
+ Cap Gal 
+ Usable Gal 
+ Arm 
+ (A) L & R Wing 
+ 92.5 ea. 
+ 90 ea. 
+ +168 
+ or 
+ (B) L & R Wing 
+ 109.5 ea. 
+ 107 ea. 
+ +166 
+ or 
+ (C) L & R Wing 
+ 117.5 ea. 
+ 115 ea. 
+ +168 
+ or 
+ (D) L & R Wing 
+ 134.5 ea. 
+ 132 ea. 
+ +166 
+ Fuel system applicability: 
+ Model 
+ Serial No. 
+ Systems 
+ A65 
+ LC-240 through LC-324 
+ A,C,D 
+ A65 
+ LC-325 and up 
+ B,D 
+ A65-8200 
+ LC-273 through LC-324 
+ A,B,D 
+ 70 
+ LB-1 and up 
+ B,D 
+ See NOTE 1 for data on unusable fuel"
+Oil Capacity,"Left nacelle tank, 16 qt. (+138), right nacelle tank, 16 qt. (+138). 
+ See NOTE 1 for data on unusable (undrainable) oil."
+Control Surface Movements,"Wing flaps 
+ Maximum 31 ½  
+ Aileron tabs 
+ Up 
+ 7 ½  
+ Down 
+ 7 ½  (LH only) 
+ Aileron tabs anti-servo 
+ Up 
+ 14 
+ Down 
+ 8 
+ (S/N LC-240 thru LC-283) 
+ Aileron 
+ Up 
+ 20 
+ Down 
+ 20 
+ Elevator tab 
+ Up 
+ 10 
+ Down 
+ 21 
+ Elevator tab anti-servo 
+ Up 
+ 12 
+ Down 
+ 8 
+ Elevator 
+ Up 
+ 25 
+ Down 
+ 15 
+ Rudder tab 
+ Right 
+ 30 
+ Left 
+ 30 
+ Rudder 
+ Right 
+ 24 
+ Left 
+ 26"
+Serial No’s Eligible,"Model A65 LC-240 through LC-335 
+ Model A65-8200 LC-273 through LC-324 (see NOTE 16) 
+ Model 70 LB-1 through LB-35"
+"IX. 
+ Model 65-A90-1 (Military U-21A, RU-21A, RU-21D, JU-21A, U-21G, RU-21H (GR V)), 12 PCLM (Normal 
+ Category Approved April 27 1966 
+ Model 65-A90-4 (Military RU-21E, RU-21H (GR II & IV), RU-21H (GR V)), 12 PCLM (Normal Category), 
+ Approved December 10 1971",
+Engines,"2 United Aircraft of Canada, Ltd., or Pratt & Whitney, PT6A-20 (Turboprop)"
+Fuel,"JP-4, JP-5 (MIL-T-5624); JP-8 (MIL-T-83133); Jet A, Jet A-1, and Jet B 
+ conforming to P&WC S.B. 1244 or ASTM Spec. D1644. 
+ See NOTE 5 for emergency fuels."
+Oil Engine and Gearbox,Use MIL-L-7808 or MIL-L-23699
+Engine Limits,"Static Sea Level Ratings 
+ Equivalent 
+ Prop 
+ Max Permissible 
+ Shaft 
+ Jet 
+ Shaft 
+ Shaft 
+ Turbine Interstage 
+ Horsepower 
+ Thrust 
+ Horsepower 
+ Speed 
+ Temp. (Deg. C.) 
+ Takeoff (5 minutes) 
+ 550 
+ 68 
+ 579 
+ 2200* 
+ 750 
+ Max. Continuous 
+ 550 
+ 68 
+ 579 
+ 2200* 
+ 750 
+ Strtg. Trans. (2 seconds) 
+ 1090 
+ Max. Reverse (1 minute) 
+ 300 
+ 2100 
+ 750 
+ *See NOTE 4. 
+ At low altitudes and low ambient temperature, the engines may produce more 
+ power at takeoff than the airplane has been certificated for. Under these 
+ conditions, the placarded torquemeter limitations shall not be exceeded. 
+ Oil Temperatures: -40F 
+ minimum starting 
+ -40F to 210F 
+ low idle 
+ 50F to 210F 
+ maximum continuous 
+ 210F 
+ maximum oil temperature 
+ not to exceed 5 minutes."
+Propeller and Propeller Limits,"2 Hartzell HC-B3TN-3B/T10173E-8 or HC-B3TN-3/T10173E-8 or 
+ HC-B3TN-3/T10173B-8 or HC-B3TN-3M/T10173NB-8 with three blades each. 
+ Diameter: 93 3/8 in. (Nominal) 
+ Minimum allowable for repair 90 3/8 in. (no further reduction permitted) 
+ Pitch settings at 30 in. Sta.: 
+ Reversing Propeller 
+ Flight idle stop (See NOTE 10) 
+ Secondary flight idle stop (See NOTE 10) 
+ Reverse 
+ -11 
+ Feather 
+ 87"
+Airspeed Limits,"Max. operating speed 
+ 240 mph (208 knots) 
+ Maneuvering speed 
+ 195 mph (169 knots) 
+ Flaps extended speed 
+ 150 mph (130 knots) 
+ Maximum landing gear operating speed: Extension 
+ 180 mph (156 knots) 
+ Retraction 
+ 150 mph (130 knots) 
+ Maximum landing gear extended speed: 
+ 180 mph (156 knots)"
+CG Range Landing,(+153.2) to (+160.4) at 9650 lb.
+Gear Extended,"(+144.7) to (+160.4) at 7400 lb. or less 
+ Straight line variation between points given 
+ Moment change due to retracting landing gear -3825 in. -lb. 
+ For diagram see third one of Section VII."
+Empty Wt CG Range,None
+Maximum Weight,"Takeoff 9650 lb. (See NOTE 24) 
+ Landing 9168 lb."
+No of Seats,Maximum 12 (2 crew at +129). See loading instructions for passenger loading.
+Fuel Capacity,"Tank 
+ Cap Gal 
+ Usable Gal 
+ Arm 
+ L & R Nacelle 
+ 57 ea. 
+ 57 ea. 
+ +131 
+ L & R Wing 
+ 128 ea. 
+ 128 ea. 
+ +167 
+ See NOTE 1 for data on unusable fuel"
+Oil Capacity,"18.4 qt. total (+101) 
+ See NOTE 1 for data on unusable oil."
+Max Oper Limits,"30,000 ft. pressure altitude"
+Control Surface Movements,"Wing flaps 
+ Maximum 44 
+ Aileron Tab (left only) 
+ Up 
+ 7 ½  
+ Down 
+ 7 ½  
+ Aileron tab anti-servo 
+ Up 
+ 14 
+ Down 
+ 8 
+ Aileron 
+ Up 
+ 20 
+ Down 
+ 20 
+ Elevator tab 
+ Up 
+ 10 
+ Down 
+ 21 
+ Elevator tab anti-servo 
+ Up 
+ 12 
+ Down 
+ 8 
+ Elevator 
+ Up 
+ 25 
+ Down 
+ 15 
+ Rudder tab 
+ Right 
+ 30 
+ Left 
+ 30 
+ Rudder 
+ Right 
+ 24 
+ Left 
+ 26"
+Serial No’s Eligible,"LM-1 and up. Prior to civil certification, 65-A90-1 airplanes that have been operated by 
+ the military must be modified per Beech dwg. 50-002018 (U21A, U-21G, and RU-21A) 
+ or 50-002083 (RU-21D) or 50-002084 (JU-21A) or 91-002052 (RU-21H, GR V). 
+ LU-1 and up. Prior to civil certification, 65-A90-4 airplanes that have been 
+ operated by the military must be modified per Beech dwg. 91-002050 (RU-21E) 
+ or 91-002051(RU-21H, GR II & IV) or 91-002052 (RU-21H, GR V)."
+"X. Model B90, King Air, 10 PCLM (Normal Category), Approved November 14, 1967 
+ Model C90, King Air, 10 PCLM (Normal Category), Approved October 23, 1970",
+Engines,"2 United Aircraft of Canada, Ltd., or Pratt & Whitney, PT6A-20 (Turboprop) 
+ (Model B90) 
+ 2 United Aircraft of Canada Ltd. or Pratt & Whitney, PT6A-20 (Turboprop), 
+ PT6A-6/20 (Turboprop), PT6A-20A (Turboprop), or PT6A-21 (Turboprop) 
+ (Model C90). See NOTE 21."
+Fuel,"JP-4, JP-5 (MIL-T-5624); JP-8 (MIL-T-83133); Jet A, Jet A-1, and Jet B 
+ conforming to P&WC S.B. 1244 or ASTM Spec. D1655. 
+ See NOTE 5 for emergency fuels."
+Oil Engine and Gearbox,UACL PT6 Engine Service Bulletin No. 1 lists approved brand oils.
+Engine Limits,"Static Sea Level Ratings (PT6A-20, PT6A-6/C20, PT6A-20A) 
+ Max. Permissible 
+ Equivalent 
+ Prop 
+ Turbine 
+ Shaft 
+ Jet 
+ Shaft 
+ Shaft 
+ Interstage Temp. 
+ Horsepower 
+ Thrust 
+ Horsepower 
+ Speed 
+ (Deg. C) 
+ Takeoff (5 minutes) 
+ 550 
+ 72 
+ 579 
+ 2200* 
+ 750 
+ Max. Continuous 
+ 550 
+ 72 
+ 579 
+ 2200* 
+ 750 
+ Strtg. Trans. (2 seconds) 
+ 1090 
+ Max Reverse (1 minute) 
+ 300 
+ 2100 
+ 750 
+ Static Sea Level Ratings (PT6A-21) 
+ Max Permissible 
+ Equivalent 
+ Prop 
+ Turbine 
+ Shaft 
+ Jet 
+ Shaft 
+ Shaft 
+ Interstage Temp. 
+ Horsepower 
+ Thrust 
+ Horsepower 
+ Speed 
+ (Deg. C) 
+ Takeoff (5 minutes) 
+ 550 
+ 75 
+ 580 
+ 2200* 
+ 695 
+ Max. Continuous 
+ 550 
+ 75 
+ 580 
+ 2200* 
+ 695 
+ Strtg. Trans. (2 seconds) 
+ 1090 
+ Max Reverse (1 minute) 
+ 300 
+ 2100 
+ 695 
+ * See NOTE 4 
+ At low altitudes and low ambient temperature, the engines may produce more power at takeoff 
+ than that for which the airplane has been certificated. Under these conditions, the placarded 
+ torquemeter limitations shall not be exceeded. 
+ Oil Temperatures: -40F 
+ minimum starting 
+ -40F to 210 F 
+ low idle 
+ 50F to 210F 
+ max continuous"
+Propeller and Propeller Limits,"Non Reversing Propeller: 
+ 2 Hartzell HC-B3TN-2(B)/T10173B-8 or HC-B3TN-2M/T10173NB-8 
+ Diameter: 93-3/8 in. (Nominal) Minimum allowable for repair 90-3/8 in. 
+ (no further reduction permitted) 
+ Pitch settings at 30 in. Sta.: Low 19, Feather 87 
+ Reversing Propeller (For Model C90 Only, See Note 30.) 
+ 2 Hartzell HC-B3TN-3 or HC-B3TN-3B or HC-B3TN-3M hubs with 
+ T10173E8 or T10173B8 or T10173NB-8 blades 
+ (For Model C90 S/N LJ-954 and after) 
+ 2 Hartzell HC-B3TN-3 or HC-B3TN-3B or HC-B3TN-3M hubs with Hartzell 
+ T10173K-8 or T10173NK-8 aluminum alloy blades, and Hartzell C-3065-8P 
+ or C-3065-10P or C-3065-12P or C-3065-13P spinner assembly. 
+ Diameter: 93-3/8 in. (Nominal) Minimum allowable for repair 90-3/8 in. 
+ (no further reduction permitted) 
+ Pitch settings at 30 in. Sta.: 
+ Flight idle stop 
+ (See NOTE 10) 
+ Secondary flight idle stop 
+ (See NOTE 10) 
+ Reverse 
+ -11 
+ Feather 
+ 87"
+Airspeed Limits,"Maximum operating speed 
+ 240 mph (208 knots) 
+ Maneuvering speed 
+ 195 mph (169 knots) 
+ Flaps extended speed 
+ 150 mph (130 knots) 
+ Maximum landing gear operating speed: Extension 
+ 180 mph (156 knots) 
+ Retraction 
+ 150 mph (130 knots) 
+ Maximum landing gear extended speed 
+ 180 mph (156 knots)"
+CG Range Landing,(+153.2) to (+160.4) at 9650 lb.
+Gear Extended,"(+144.7) to (+160.4) at 7400 lb. 
+ For Model B90 
+ For Model C90 aircraft with PT6A-20, PT6A-6/C20, or PT6A-20A engines 
+ (See NOTE 21) 
+ (+153.2) to (+160.0) at 9650 lb. 
+ (+144.7) to (+160.0) at 7400 lb. 
+ For Model C90 aircraft with PT6A-21 engines (See NOTE 21) 
+ Straight line variation between points given 
+ Moment change due to retracting landing gear -3825 in. -lb."
+Empty Wt CG Range,None
+Maximum Weight,"Takeoff: 9650 lb. 
+ Landing: 9168 lb."
+No of Seats,Maximum 10 (2 crew at +129). See loading instructions for passenger loading.
+Maximum Baggage,350 lb (+275)
+Fuel Capacity,"Tank 
+ Cap Gal 
+ Usable Gal 
+ Arm 
+ L & R Nacelle 
+ 61 ea. 
+ 61 ea. 
+ +131 
+ L & R Wing 
+ 131 ea. 
+ 131 ea. 
+ +167 
+ See NOTE 1 for data on unusable fuel."
+Oil Capacity,"18.4 qt. total (+101) for PT6A-20 engine, 22.4 qt. total (+101) for PT6A-21 engine. 
+ See NOTE 1 for data on unusable oil."
+Max Oper Limit,"30,000 ft. pressure altitude"
+Control Surface Movements,"Wing flaps 
+ Maximum 44 
+ Aileron tab (left only) 
+ Up 
+ 15 
+ Down 
+ 15 
+ Aileron 
+ Up 
+ 20 
+ Down 
+ 20 
+ Elevator tab 
+ Up 
+ 10 
+ Down 
+ 21 
+ Ele. tab anti-servo 
+ Up 
+ 12 
+ Down 
+ 8 
+ Elevator 
+ Up 
+ 25 
+ Down 
+ 15 
+ Rudder tab 
+ Right 
+ 30 
+ Left 
+ 30 
+ Rudder 
+ Right 
+ 24 
+ Left 
+ 19"
+Serial No’s Eligible,"Model B90: LJ-318 thru LJ-501 
+ Model C90: LJ-502 thru LJ-1062"
+"XI. Model 65-A90-2 (Military RU-21B) and 65-A90-3 (Military RU-21C), 5 PCLM (Normal Category), 
+ Approved March 20 1969",
+Engines,"2 United Aircraft of Canada, Ltd. or Pratt & Whitney PT6A-29 (turboprop), 
+ or 2 United Aircraft of Canada, Ltd. or Pratt & Whitney PT6A-34 (turboprop)"
+Fuel,"JP-4, JP-5 (MIL-T-5624); JP-8 (MIL-T-83133); Jet A, Jet A-1, and Jet B 
+ conforming to P&WC S.B. 1244 or ASTM Spec. D1655. 
+ See NOTE 5 for emergency fuels."
+Oil Engine and Gearbox,"PT6A-29 Engine Service Bulletin No. 1 lists approved brand oils. 
+ PT6A-34 Engine Service Bulletin No. 1 lists approved brand oils."
+Engine Limits PT6A29,"Static Sea Level Ratings 
+ Equivalent 
+ Prop. 
+ Max. Permissible 
+ Shaft 
+ Jet 
+ Shaft 
+ Shaft 
+ Turbine Interstage 
+ Horsepower 
+ Thrust 
+ Horsepower 
+ Speed 
+ Temp. (Deg. C) 
+ Takeoff (5 minutes) 
+ 620 
+ 70 
+ 648 
+ 2200* 
+ 750 
+ Max. Continuous 
+ 620 
+ 70 
+ 648 
+ 2200* 
+ 750 
+ Strtg. Trans. (2 seconds) 
+ 1090 
+ Max Reverse (1 minute) 
+ 470 
+ 2068 
+ 750 
+ *See NOTE 4 
+ At low altitude and low ambient temperature the engines may produce more 
+ power at takeoff than that for which the airplane has been certificated. Under 
+ these conditions, the placarded torquemeter limitations shall not be exceeded. 
+ Oil Temperatures: -40F 
+ minimum starting 
+ -40F to 200F 
+ low idle 
+ 50F to 200F 
+ max continuous 
+ 210F 
+ max oil temperature 
+ not to exceed 5 min."
+Engine Limits PT6A34,"Static Sea Level Ratings 
+ Shaft 
+ Jet 
+ Equivalent 
+ Prop. 
+ Max. Permissible 
+ Horsepower 
+ Thrust 
+ Shaft 
+ Shaft 
+ Turbine Interstage 
+ Horsepower 
+ Speed 
+ Temp. (deg. C) 
+ Takeoff (5 minutes) 
+ 620 
+ 82 
+ 648 
+ 2200* 
+ 790 
+ Max Continuous 
+ 620 
+ 82 
+ 648 
+ 2200* 
+ 790 
+ Strtg. Trans. (2 seconds) 
+ 1090 
+ Max Reverse (1 minute) 
+ 470 
+ 2068 
+ 790 
+ *See NOTE 4 
+ At low altitude and low ambient temperature, the engines may produce more 
+ power at takeoff than that for which the airplane has been certificated. Under 
+ these conditions, the placarded torquemeter limitations shall not be exceeded. 
+ Oil temperatures: -40F 
+ minimum starting 
+ -40F to 210F 
+ low idle 
+ 50F to 210F 
+ max. continuous 
+ 210F 
+ max oil temperature 
+ not to exceed 5 minutes"
+Propeller and Propeller Limits,"2 Hartzell HC-B3TN-3B/T10173E-8 or HC-B3TN-3/T10173E-8 or 
+ HC-B3TN-3/T10173B-8 or HC-B3TN-3M/T10173NB-8 with three blades each. 
+ Diameter: 93-3/8 in. (Nominal) 
+ Minimum allowable for repair: 90-3/8 in. (no further reduction permitted) 
+ Pitch settings at 30 in. Sta.: 
+ Reversing Propeller 
+ Flight idle stop 
+ (see NOTE 10) 
+ Secondary flight idle stop 
+ (see NOTE 10) 
+ Reverse 
+ -11 
+ Feather 
+ 87"
+Airspeed Limits,"Maximum operating speed 
+ 240 mph (208 knots) 
+ Maneuvering speed 
+ 195 mph (169 knots) 
+ Maximum flap extended speed 
+ Approach position 35% 
+ 200 mph (174 knots) 
+ Full down flap position - 100% 
+ 164 mph (143 knots) 
+ Maximum landing gear operating speed: Extension 
+ 180 mph (156 knots) 
+ Retraction 
+ 150 mph (130 knots) 
+ Maximum landing gear extended speed 
+ 180 mph (156 knots)"
+CG Range Landing Gear,"(+155.2) to (+160.4) at 10,900 lb."
+Extended,"(+144.7) to (+160.4) at 7400 lb or less 
+ Straight line variation between points given 
+ Moment change due to retracting landing gear -4500 in. -lb. 
+ 11000 
+ 10600 
+ 10200 
+ 9800 
+ LB. 
+ 9400 
+ 9000 
+ 8600 
+ 8200 
+ 7800 
+ 7400 
+ 7000 
+ 144 
+ 148 
+ 152 
+ 156 
+ 160 
+ 164 
+ IN."
+Empty Wt CG Range,None
+Maximum Weight,"Takeoff: 10,900 lb. 
+ Landing: 10,900 lb."
+No of Seats,Maximum 5 (2 crew at +129). See loading instructions for passenger loading.
+Fuel Capacity,"Tank 
+ Cap. Gal 
+ Usable Gal 
+ Arm 
+ L & R Nacelle 
+ 53 ea. 
+ 53 ea. 
+ +131 
+ L & R Wing 
+ 145 ea. 
+ 145 ea. 
+ +165 
+ See NOTE 1 for data on unusable fuel."
+Oil Capacity,"22.4 qt. total (+101) 
+ See NOTE 1 for data on unusable oil."
+Control Surface Movements,"Wing flaps 
+ Maximum 44 
+ Aileron tab (left only) 
+ Up 
+ 7 ½  
+ Down 
+ 7 ½  
+ Aileron tab anti-servo 
+ Up 
+ 14 
+ Down 
+ 8 
+ Aileron 
+ Up 
+ 20 
+ Down 
+ 20 
+ Elevator tab 
+ Up 
+ 10 
+ Down 
+ 21 
+ Elevator tab anti-servo 
+ Up 
+ 12 
+ Down 
+ 8 
+ Elevator 
+ Up 
+ 25 
+ Down 
+ 15 
+ Rudder tab 
+ Right 
+ 30 
+ Left 
+ 30 
+ Rudder 
+ Right 
+ 24 
+ Left 
+ 19"
+Serial No’s Eligible,"LS-1 and up. Prior to civil certification, 65-A90-2 airplanes that have been 
+ operated by the military must be modified per Beech dwg. 50-002081. 
+ LT-1 and up. Prior to civil certification 65-A90-3 airplanes that have been 
+ operated by the military must be modified per Beech dwg. 50-002082."
+"XII. Model E90, King Air, 10 PCLM (Normal Category), Approved April 13, 1972",
+Engines,"2 United Aircraft of Canada, Ltd., or Pratt & Whitney, PT6A-28 (turboprop)"
+Fuel,"JP-4, JP-5 (MIL-T-5624); JP-8 (MIL-T-83133); Jet A, Jet A-1, and 
+ Jet B conforming to P&WC S.B. 1244 or ASTM Spec. D1655. 
+ See NOTE 5 for emergency fuels."
+Oil Engine and Gearbox,UACL PT6 Engine Service Bulletin No. 1 lists approved brand oils.
+Engine Limits,"Static Sea Level Ratings 
+ Equivalent 
+ Prop. 
+ Max. Permissible 
+ Shaft 
+ Jet 
+ Shaft 
+ Shaft 
+ Turbine Interstage 
+ Horsepower 
+ Thrust 
+ Horsepower 
+ Speed 
+ Temp. (deg. C) 
+ Max. cont. and takeoff 
+ 550** 
+ 76 
+ 580 
+ 2200* 
+ 750 
+ Strtg. Trans (2 seconds) 
+ 1090 
+ Max Reverse (1 minute) 
+ 300 
+ 2100 
+ 750 
+ *See NOTE 4 
+ **Flat rated 
+ At low altitudes and low ambient temperature, the engines may produce more 
+ power at takeoff than that for which the airplane has been certificated. Under 
+ these conditions, the placarded torquemeter limitations shall not be exceeded. 
+ Oil Temperature: 
+ -40F 
+ minimum starting 
+ -40F to 210F 
+ low idle 
+ 50F to 210F 
+ maximum continuous"
+Propeller and Propeller Limits,"Non Reversing Propeller: 
+ 2 Hartzell HC-B3TN-2(B)/T10173B-8 
+ Diameter: 93-3/8 in. (Nominal) Minimum allowable for repair: 90-3/8 in. 
+ (no further reduction permitted) 
+ Pitch settings at 30 in. Sta.: Low 19, Feather 87 
+ Reversing Propeller (See NOTE 30.) 
+ 2 Hartzell HC-B3TN-3 or HC-B3TN-3B or HC-B3TN-3M hubs with T10173E8 or 
+ T10173B8 or T10173NB-8 blades. 
+ (For Model E90 S/N LW-348 and after only): 2 Hartzell HC-B3TN-3 or 
+ HC-B3TN-3B or HC-B3TN-3M hubs with Hartzell T10173K-8 or T10173NK-8 
+ aluminum alloy blades, and Hartzell C-3065-8P or C-3065-10P or C-3065-12P or 
+ C-3065-13P spinner assembly. 
+ Diameter: 93-3/8 in. (Nominal) Minimum allowable for repair: 90-3/8 in. 
+ (no further reduction permitted) 
+ Pitch settings at 30 in. sta.: 
+ Flight idle stop 
+ (See NOTE 10) 
+ Secondary flight idle stop 
+ (See NOTE 10) 
+ Reverse 
+ -11 
+ Feather 
+ 87"
+Airspeed Limits,"Maximum Operating Speed 
+ 260 mph (226 knots) 
+ Maneuvering 
+ 202 mph (175 knots) 
+ Flaps extended speed 
+ 150 mph (130 knots) 
+ (S/N LW-1 through LW-42) 
+ 161 mph (140 knots) 
+ (S/N LW-43 and after) 
+ Maximum Landing Gear Operating Speed: Extension 
+ 180 mph (156 knots) 
+ Retraction 
+ 150 mph (130 knots) 
+ (S/N LW-1 through LW-42) 
+ 168 mph (146 knots) 
+ (S/N LW-43 and after) 
+ Maximum Landing Gear Extended Speed: 
+ 180 mph (156 knots)"
+CG Range Landing,"(+152.0) to (+160.0) at 10,100 lb."
+Gear Extended,"(+144.7) to (+160.0) at 7850 lb. or less 
+ Straight line variation between points given 
+ Moment change due to retracting landing gear -3825 in. -lb."
+Empty Wt CG Range,None
+Maximum Weight,"Takeoff: 10,100 lb. 
+ Landing: 9,700 lb."
+No of Seats,Maximum 10 (2 crew at +129). See loading instructions for passenger loading.
+Maximum Baggage,350 lb. (+275)
+Fuel Capacity,"Tank 
+ Cap Gal 
+ Usable Gal 
+ Arm 
+ L & R Aux 
+ 41 ea. 
+ 41 ea. 
+ +174 
+ L & R Main 
+ 196 ea. 
+ 196 ea. 
+ +153 
+ See NOTE 1 for data on unusable fuel."
+Oil Capacity,"18.4 qt. total (+101). 
+ See NOTE 1 for data on unusable oil."
+Control Surface Movements,"Wing flaps 
+ Maximum 44 
+ Aileron tab (left only) 
+ Up 
+ 15 
+ Down 
+ 15 
+ Aileron 
+ Up 
+ 20 
+ Down 
+ 20 
+ Elevator tab 
+ Up 
+ 10 
+ Down 
+ 21 
+ Elevator tab anti-servo 
+ Up 
+ 12 
+ Down 
+ 8 
+ Elevator 
+ Up 
+ 25 
+ Down 
+ 15 
+ Rudder Tab 
+ Right 
+ 30 
+ Left 
+ 30 
+ Rudder 
+ Right 
+ 24 
+ Left 
+ 19"
+Serial No’s Eligible,Model E90: LW-1 and up
+"XIII. Model H90, King Air (T-44A), 10 PCLM (Normal Category), Approved March 23, 1977",
+Engines,"2 United Aircraft of Canada, Ltd., or Pratt & Whitney, PT6A-34B (Turboprop)"
+Fuel,"JP-4, JP-5 (MIL-T-5624); JP-8 (MIL-T-83133); Jet A, Jet A-1, and Jet B 
+ conforming to P&WC S.B. 1244 or ASTM Spec D1655. 
+ See NOTE 5 for emergency fuels."
+Oil Engine and Gearbox,UACL PT6 Engine Service Bulletin No. 1 lists approved brand oils.
+Engine Limits,"Static Sea Level Ratings 
+ Max. 
+ Permissible 
+ Equivalent 
+ Prop. 
+ Turbine 
+ Shaft 
+ Jet 
+ Shaft 
+ Shaft 
+ Interstage Temp 
+ Horsepower 
+ Thrust 
+ Horsepower 
+ Speed 
+ (Deg. C) 
+ Max Cont & Takeoff 
+ 550** 
+ 74 
+ 579 
+ 2200* 
+ 790 
+ Strtg. Trans (2 seconds) 
+ 1090 
+ Max. Reverse (1 minute) 
+ 300 
+ 2100 
+ 790 
+ *See NOTE 4 
+ **Flat rated 
+ At low altitude and low ambient temperature, the engines may produce more power at 
+ takeoff than that for which the airplane has been certificated. Under these conditions, 
+ the placarded torquemeter limitations shall not be exceeded. 
+ Oil Temperatures: 
+ -40F 
+ minimum starting 
+ -40F to 210F 
+ low idle 
+ 50F to 210F 
+ maximum continuous"
+Propeller and Propeller Limits,"Reversing Propeller (See NOTE 30.) 
+ 2 Hartzell HC-B3TN-3B or HC-B3TN-3M hubs with T10173B8 or 
+ T10173NB-8 blades. 
+ Diameter: 93-3/8 in. (Nominal) Minimum allowable for repair 90-3/8 in. 
+ (no further reduction permitted) 
+ Pitch settings at 30 in. Sta.: 
+ Flight idle stop 
+ (See NOTE 10) 
+ Reverse 
+ -11 
+ Feather 
+ 87"
+Airspeed Limits,"Maximum operating speed 
+ 260 mph (226 knots) 
+ Maneuvering 
+ 203 mph (175 knots) 
+ Flaps extended speed 
+ 161 mph (140 knots) 
+ Maximum landing gear operating speed: Extension 
+ 180 mph (156 knots) 
+ Retraction 
+ 168 mph (146 knots) 
+ Maximum landing gear extended speed 
+ 180 mph (156 knots) 
+ See NOTE 23"
+CG Range Landing Gear,"(+152.4) to (+160.0)at 10,200 lb."
+Extended,"(+144.7) to (+160.0) at 7,850 lb. 
+ Straight line variation between points given 
+ Moment change due to retracting landing gear -3825 in.-lb."
+Empty Wt CG Range,None
+Maximum Weight,"Takeoff 10,200 lb. 
+ Landing 9,700 lb."
+No of Seats,Maximum 10 (2 crew at +129). See loading instructions for passenger loading.
+Maximum Baggage,350 lb. (+277)
+Fuel Capacity,"Tank 
+ Cap Gal 
+ Usable Gal 
+ Arm 
+ L & R Aux. 
+ 61 ea. 
+ 61 ea. 
+ +135 
+ L & R Main 
+ 131 ea. 
+ 131 ea. 
+ +165 
+ See NOTE 1 for data on unusable fuel."
+Oil Capacity,"22.4 qt. total (+101) 
+ See NOTE 1 for data on unusable oil."
+Maximum Operating Limit,"31,000 ft. pressure altitude"
+Control Surface Movements,"Wing flaps 
+ Maximum 44 
+ Aileron tab (left only) 
+ Up 
+ 15 
+ Down 
+ 15 
+ Aileron 
+ Up 
+ 20 
+ Down 
+ 20 
+ Elevator Tab 
+ Up 
+ 10 
+ Down 
+ 21 
+ Elevator tab anti-servo 
+ Up 
+ 12 
+ Down 
+ 8 
+ Elevator 
+ Up 
+ 25 
+ Down 
+ 15 
+ Rudder tab 
+ Right 
+ 30 
+ Left 
+ 30 
+ Rudder 
+ Right 
+ 24 
+ Left 
+ 19"
+Serial No’s Eligible,Model H90 (T-44A): LL-1 and up
+"XIV. Model C90A, King Air (Normal Category), Approved December 1, 1983",
+Engines,"2 Pratt & Whitney Aircraft of Canada, Ltd. PT6A-21 (Turboprop)"
+Fuel,"JP-4, JP-5 (MIL-T-5624); JP-8 (MIL-T-83133); Jet A, Jet A-1, and Jet B 
+ conforming to P&WC S.B. 1244 or ASTM Spec D1655. 
+ See NOTE 5 for emergency fuels."
+Oil Engine and Gearbox,P&WC PT6 Engine Service Bulletin No. 1 lists approved brand oils
+Engine Limits,"N1 Gas 
+ Prop 
+ Max. Permissible 
+ Shaft 
+ Generator 
+ Shaft 
+ Turbine Interstage 
+ Horsepower 
+ Speed 
+ Speed 
+ Temp. (Deg. C) 
+ Takeoff (5 minutes) 
+ 550 
+ 101.5 
+ 2200* 
+ 695 
+ Max Continuous 
+ 550 
+ 101.5 
+ 2200* 
+ 695 
+ Starting Transient (2 seconds) 
+ 102.6 
+ 1090 
+ Max Reverse (1 minute) 
+ 300 
+ 88.0 
+ 2100 
+ 695 
+ * See NOTE 4 
+ At low altitude and low ambient temperature, the engines may produce more power 
+ at takeoff than that for which the airplane has been certificated. Under these conditions, 
+ the placarded torquemeter limits shall not be exceeded. 
+ Oil temperatures: -40F 
+ minimum starting 
+ -40F to 210F 
+ low idle 
+ 50F to 210F 
+ max. continuous"
+Propeller and Propeller Limits,"Reversing Propeller (See Note 30.) 
+ 2 Hartzell HC-B3TN-3M or HC-B3TN-3B hubs with T10173K-8 or 
+ T10173NK-8 blades. 
+ Diameter: 93-3/8 in. (Nominal) Minimum allowable for repair 90-3/8 in. 
+ (no further reduction permitted) 
+ Pitch settings at 30 in. Sta.: 
+ Flight idle stop 
+ (See NOTE 10) 
+ Secondary flight idle stop 
+ (See NOTE 10) 
+ Reverse 
+ -11 
+ Feather 
+ 87"
+Propeller and Propeller Limits,Non Reversing Propeller
+SN LJ1063 thru LJ1287,2 Hartzell HC-B3TN-2(B)/T10173B-8
+LJ1288 thru LJ1294,Diameter: 93-3/8 in. (Nominal) Minimum allowable for repair 90-3/8 in.
+LJ1296 thru LJ1299,"(no further reduction permitted) 
+ Pitch settings at 30 in. Sta.: Low 19, Feather 87"
+SN LJ1288 LJ1295,Reversing Propeller
+LJ1302 LJ1303 LJ1305,2 McCauley 4HFR34C768 hubs with 94LMA-4 blades
+thru LJ1308 LJ1311 LJ1312,Diameter: 90 in. (Nominal) Minimum allowable for repair
+LJ1314 thru LJ1316 LJ1318,89 in. (no further reduction permitted)
+LJ1320 thru LJ1366 LJ1368,Pitch settings at 30 in. sta.:
+thru LJ1372 LJ1374 thru,"Flight Idle Stop 
+ (See NOTE 27)"
+LJ1376 LJ1378 thru,"Reverse 
+ -10  .2"
+LJ1383 LJ1385 LJ1387,"Feather 
+ 85.8  .2"
+LJ1388 LJ1390 thru LJ1393,"minimum idle speed 
+ 1100 rpm (See NOTE 33)"
+Airspeed Limits,"CAS 
+ CAS 
+ IAS"
+SN LJ1063 thru,"Maximum operating speed 
+ 260 mph 
+ (226 knots) 
+ 226 knots"
+LJ1137 and LJ1146,"Maneuvering 
+ 176 mph 
+ (153 knots) 
+ 153 knots 
+ Flaps extended speed 
+ 161 mph 
+ (140 knots) 
+ 148 knots 
+ Maximum landing gear operating speed 
+ Extension 
+ 209 mph 
+ (182 knots) 
+ 182 knots 
+ Retraction 
+ 189 mph 
+ (164 knots) 
+ 163 knots 
+ Maximum landing gear extended speed 
+ 209 mph 
+ (182 knots) 
+ 182 knots"
+SN LJ1138 thru LJ1145,"Maximum operating speed 
+ 260 mph 
+ (226 knots) 
+ 226 knots 
+ Maneuvering 
+ 195 mph 
+ (169 knots) 
+ 169 knots"
+LJ1147 thru LJ1726,"Flaps extended speed 
+ 161 mph 
+ (140 knots) 
+ 148knots"
+LJ1728 thru LJ1753 LJ1755,"Maximum landing gear operating speed 
+ Extension 
+ 209 mph 
+ (182 knots) 
+ 182 knots 
+ Retraction 
+ 189 mph 
+ (164 knots) 
+ 163 knots 
+ Maximum landing gear extended speed 
+ 209 mph 
+ (182 knots) 
+ 182 knots"
+CG Range Landing,(+153.2) to (+160.0) at 9650 lb.
+Gear Extended,(+144.7) to (+160.0) at 7400 lb. or less
+SN LJ1063 thru,Straight line variation between points given
+LJ1137 and LJ1146,Moment change due to retracting landing gear -3825 in. -lb.
+CG Range Landing,"(+152.0) to (+160.0) at 10,100 lb."
+Gear Extended,"(+151.7) at 9999 lbs. (Note 28) 
+ (+144.7) to (+160.0) at 7850 lb or less"
+SN LJ1138 thru LJ1145,Straight line variation between points given
+LJ1147 thru LJ1726 and after,Moment change due to retracting landing gear -3825 in. -lb.
+Empty Wt CG Range,None
+Maximum Weight,"Ramp: 
+ 9710 lb. 
+ Landing: 
+ 9168 lb."
+SN LJ1063 thru,"Takeoff: 
+ 9650 lb."
+Maximum Weight,"Ramp: 
+ 10,160 lb. 
+ Landing: 
+ 9600 lb."
+SN LJ1138 thru,"Takeoff: 
+ 10,100 lb."
+No of Seats,Maximum 13 (including 2 at +129). See loading instructions for passenger loading.
+Maximum Baggage,350 lb. (+275)
+Structural Limit,350 lb. (+70) (Baggage and Avionics)
+Fuel Capacity,"Tank 
+ Cap Gal 
+ Usable Gal 
+ Arm 
+ L & R Nacelle 
+ 61 ea. 
+ 61 ea. 
+ +131 
+ L & R Wing 
+ 131 ea. 
+ 131 ea. 
+ +167 
+ See NOTE 1 for data on unusable fuel."
+Oil Capacity,"22.4 qt. total (+101) 
+ See NOTE 1 for data on unusable oil."
+Max Oper Limit,"30,000 ft. pressure altitude"
+Control Surface Movements,"Wing flaps 
+ Maximum 44 
+ Aileron tab (left only) 
+ Up 
+ 15 
+ Down 
+ 15 
+ Aileron 
+ Up 
+ 20 
+ Down 
+ 20 
+ Elevator tab 
+ Up 
+ 10 
+ Down 
+ 21 
+ Elevator tab anti-servo 
+ Up 
+ 12 
+ Down 
+ 8 
+ Elevator 
+ Up 
+ 25 
+ Down 
+ 15 
+ Rudder tab 
+ Right 
+ 30 
+ Left 
+ 30 
+ Rudder 
+ Right 
+ 24 
+ Left 
+ 19"
+Serial No’s Eligible,"LJ-1063 thru LJ-1726, LJ-1728 thru LJ-1753 and LJ-1755 
+ See NOTE 29."
+"XV. Model C90GT, King Air (Normal Category), Approved December 16, 2005",
+Engines,"2 Pratt & Whitney Aircraft of Canada, Ltd. PT6A-135A (Turboprop) 
+ Per Hawker Beechcraft Corporation Specification BS184061."
+Fuel,"JP-4, JP-5 (MIL-T-5624); JP-8 (MIL-T-83133); Jet A, Jet A-1, Jet B conforming 
+ to P&WC S.B. 1244 or ASTM Spec D1655; and Chinese Jet Fuel No. 3. 
+ See NOTE 5 for emergency fuels."
+Oil Engine and Gearbox,P&WC PT6 Engine Service Bulletin No. 1001 lists approved brand oils
+Engine Limits,"N1 Gas 
+ Prop 
+ Max. Permissible 
+ Shaft 
+ Generator 
+ Shaft 
+ Turbine Interstage 
+ Horsepower 
+ Speed 
+ Speed 
+ Temp. (Deg. C) 
+ Takeoff (5 minutes) 
+ 550 
+ 101.5 
+ 1900* 
+ 805 
+ Max Continuous 
+ 550 
+ 101.5 
+ 1900* 
+ 805 
+ Starting Transient (2 seconds) 
+ 102.6 
+ 1090 
+ Max Reverse (1 minute) 
+ 300 
+ 88.0 
+ 1825 
+ 805 
+ * See NOTE 31 
+ At low altitude and low ambient temperature, the engines may produce more power 
+ at takeoff than that for which the airplane has been certificated. Under these conditions, 
+ the placarded torquemeter limits shall not be exceeded. 
+ Oil temperatures: -40F 
+ minimum starting 
+ -40F to 210F 
+ low idle 
+ 50F to 210F 
+ max. continuous"
+Propeller and Propeller Limits,"Reversing Four Bladed Propeller (See Note 30.) 
+ 2 Hartzell HC-E4N-3N hubs with D8990SK blades per 
+ Hawker Beechcraft Corporation Specification BS186497. 
+ Diameter: 90.00 in. (Nominal) Minimum allowable for repair 89.00 in. 
+ (no further reduction permitted) 
+ Pitch settings at 30 in. Sta.: 
+ Flight idle stop 
+ (See NOTE 32) 
+ Reverse 
+ -10  .5 
+ Feather 
+ 85.8  .5 
+ Minimum idle speed 
+ 1100 RPM (See Note 33)"
+Airspeed Limits,"CAS 
+ CAS 
+ IAS 
+ Maximum operating speed 
+ 260 mph 
+ (226 knots) 
+ 226 knots 
+ Maneuvering 
+ 195 mph 
+ (169 knots) 
+ 169 knots 
+ Flaps extended speed (full down) 
+ 161 mph 
+ (140 knots) 
+ 148 knots 
+ Maximum landing gear operating speed 
+ Extension 
+ 209 mph 
+ (182 knots) 
+ 182 knots 
+ Retraction 
+ 189 mph 
+ (164 knots) 
+ 163 knots 
+ Maximum landing gear extended speed 
+ 209 mph 
+ (182 knots) 
+ 182 knots"
+CG Range Landing Gear,"(+152.0) to (+160.0) at 10,100 lb."
+Extended,"(+144.7) to (+160.0) at 7850 lb or less 
+ Straight line variation between points given 
+ Moment change due to retracting landing gear -3825 in. -lb."
+Empty Wt CG Range,None
+Maximum Weight,"Ramp: 
+ 10,160 lb. 
+ Takeoff: 
+ 10,100 lb. 
+ Landing 
+ 9,600 lb."
+No of Seats,Maximum 13 (including 2 at +129). See loading instructions for passenger loading.
+Maximum Baggage,350 lb. (+275)
+Structural Limit,350 lb. (+70) (Baggage and Avionics)
+Fuel Capacity,"Tank 
+ Cap Gal 
+ Usable Gal 
+ Arm 
+ L & R Nacelle 
+ 61 ea. 
+ 61 ea. 
+ +131 
+ L & R Wing 
+ 131 ea. 
+ 131 ea. 
+ +167 
+ See NOTE 1 for data on unusable fuel."
+Oil Capacity,"18.4 qt. total (+101) 
+ See NOTE 1 for data on unusable oil."
+Max Oper Limit,"30,000 ft. pressure altitude"
+Control Surface Movements,"Wing flaps 
+ Maximum 44 
+ Aileron tab (left only) 
+ Up 
+ 15 
+ Down 
+ 15 
+ Aileron 
+ Up 
+ 20 
+ Down 
+ 20 
+ Elevator tab 
+ Up 
+ 10 
+ Down 
+ 21 
+ Elevator tab anti-servo 
+ Up 
+ 12 
+ Down 
+ 8 
+ Elevator 
+ Up 
+ 25 
+ Down 
+ 15 
+ Rudder tab 
+ Right 
+ 30 
+ Left 
+ 30 
+ Rudder 
+ Right 
+ 24 
+ Left 
+ 19"
+Serial No’s Eligible,"LJ-1727, LJ-1754, LJ-1756 thru LJ-1846, and LJ-1848 thru LJ-1852. 
+ See NOTE 29."
+"XVI. Model C90GTi, King Air (Normal Category), Approved December 13, 2007",
+Engines,"2 Pratt & Whitney Aircraft of Canada, Ltd. PT6A-135A (Turboprop) 
+ Per Hawker Beechcraft Corporation Specification BS184061."
+Fuel,"JP-4, JP-5 (MIL-T-5624); JP-8 (MIL-T-83133); Jet A, Jet A-1, Jet B conforming 
+ to P&WC S.B. 1244 or ASTM Spec D1655; and Chinese Jet Fuel No. 3. 
+ See NOTE 5 for emergency fuels."
+Oil Engine and Gearbox,P&WC PT6 Engine Service Bulletin No. 1001 lists approved brand oils
+Engine Limits,"N1 Gas 
+ Prop 
+ Max. Permissible 
+ Shaft 
+ Generator 
+ Shaft 
+ Turbine Interstage 
+ Horsepower 
+ Speed 
+ Speed 
+ Temp. (Deg. C) 
+ Takeoff (5 minutes) 
+ 550 
+ 101.5 
+ 1900* 
+ 805 
+ Max Continuous 
+ 550 
+ 101.5 
+ 1900* 
+ 805 
+ Starting Transient (2 seconds) 
+ 102.6 
+ 1090 
+ Max Reverse (1 minute) 
+ 300 
+ 88.0 
+ 1825 
+ 805 
+ * See NOTE 31 
+ At low altitude and low ambient temperature, the engines may produce more power 
+ at takeoff than that for which the airplane has been certificated. Under these conditions, 
+ the placarded torquemeter limits shall not be exceeded. 
+ Oil temperatures: -40F 
+ minimum starting 
+ -40F to 210F 
+ low idle 
+ 50F to 210F 
+ max. continuous"
+Propeller and Propeller Limits,"Reversing Four Bladed Propeller (See Note 30.) 
+ 2 Hartzell HC-E4N-3N hubs with D8990SK blades per 
+ Hawker Beechcraft Corporation Specification BS186497. 
+ Diameter: 90.00 in. (Nominal) Minimum allowable for repair 89.00 in. 
+ (no further reduction permitted) 
+ Pitch settings at 30 in. Sta.: 
+ Flight idle stop 
+ (See NOTE 32) 
+ Reverse 
+ -10  .5 
+ Feather 
+ 85.8  .5 
+ Minimum idle speed 
+ 1100 RPM (See Note 33)"
+Airspeed Limits,"CAS 
+ CAS 
+ IAS 
+ Maximum operating speed 
+ 260 mph 
+ (226 knots) 
+ 226 knots 
+ Maneuvering 
+ 195 mph 
+ (169 knots) 
+ 169 knots 
+ Flaps extended speed (full down) 
+ 161 mph 
+ (140 knots) 
+ 148 knots 
+ Maximum landing gear operating speed 
+ Extension 
+ 209 mph 
+ (182 knots) 
+ 182 knots 
+ Retraction 
+ 189 mph 
+ (164 knots) 
+ 163 knots 
+ Maximum landing gear extended speed 
+ 209 mph 
+ (182 knots) 
+ 182 knots"
+CG Range Landing Gear,"(+152.0) to (+160.0) at 10,100 lb."
+Extended,"(+144.7) to (+160.0) at 7850 lb or less 
+ Straight line variation between points given 
+ Moment change due to retracting landing gear -3825 in. -lb."
+Empty Wt CG Range,None
+Maximum Weight,"Ramp: 
+ 10,160 lb. 
+ Takeoff: 
+ 10,100 lb. 
+ Landing 
+ 9,600 lb."
+No of Seats,Maximum 13 (including 2 at +129). See loading instructions for passenger loading.
+Maximum Baggage,350 lb. (+275)
+Structural Limit,350 lb. (+70) (Baggage and Avionics)
+Fuel Capacity,"Tank 
+ Cap Gal 
+ Usable Gal 
+ Arm 
+ L & R Nacelle 
+ 61 ea. 
+ 61 ea. 
+ +131 
+ L & R Wing 
+ 131 ea. 
+ 131 ea. 
+ +167 
+ See NOTE 1 for data on unusable fuel."
+Oil Capacity,18.4 qt. total (+101). See NOTE 1 for data on unusable oil.
+Max Oper Limit,"30,000 ft. pressure altitude"
+Control Surface Movements,"Wing flaps 
+ Maximum 44 
+ Aileron tab (left only) 
+ Up 
+ 15 
+ Down 
+ 15 
+ Aileron 
+ Up 
+ 20 
+ Down 
+ 20 
+ Elevator tab 
+ Up 
+ 10 
+ Down 
+ 21 
+ Elevator tab anti-servo 
+ Up 
+ 12 
+ Down 
+ 8 
+ Elevator 
+ Up 
+ 25 
+ Down 
+ 15 
+ Rudder tab 
+ Right 
+ 30 
+ Left 
+ 30 
+ Rudder 
+ Right 
+ 24 
+ Left 
+ 19"
+Serial Nos Eligible,"LJ-1847, LJ-1853 and after."
+"Data Pertinent to All Models 
+ Datum 
+ Located 160 in. forward of wing main (forward) spar centerline. 
+ Leveling Means 
+ 2 external screws on left side of fuselage forward or aft of entrance door. 
+ Certification Basis 
+ Applicable to Model 65 (L-23F), 65-80, 65-A80, 65-88, 65-A80-8800; A65; A65-8200; and 70: 
+ CAR 3, Effective May 15, 1956, (Amdt. 3-1, 3-2, 3-8); 14 CFR 23.1385(c) (Amdt. Original). 23.1387(a), 23.1387(e) (Amdt. 12). 
+ Applicable to Model 65B80 
+ CAR 3, Effective May 15, 1956, (Am. 3-1, 3-2, 3-8); 3.705 (Amdt. 3-7); 14 CFR 23.1385(c) (Amdt. Original). 23.1387(a), 
+ 231387e Amdt 12 
+ Applicable to Model 6590 
+ CAR 3, Effective May 15, 1956, (Amdt. 3-1, 3-2, 3-8), CAR 3 (Amdt. 3-6); 14 CFR 23.1385(c) (Amdt. Original). 23.1387(a), 
+ 23.1387(e) (Amdt. 12). Special Conditions outlined by FAA letters to Beech dated January 21, 1963, February 15, 1963 and 
+ February 27 1963 
+ Applicable to Models 65-A90, 65-A90-1 (U-21A, RU-21A, RU-21D, JU-21A, RU-21H, (GR V, U-21G)), 65-A90-4 (RU-21E, 
+ RU-21H (GR II & IV), RU-21H (GR V)), and B90: 
+ CAR 3, Effective May 15, 1956, (Amdt. 3-1, 3-2, 3-8); CAR 3 (Amdt. 3-6); 3.705 (Amdt. 3-7); 14 CFR 23.1385(c) (Amdt. 
+ Original). 23.1387(a), 23.1387(e) (Amdt. 12). Special Conditions outlined by FAA letters to Beech dated January 21, 1963, 
+ February 15, 1963, February 27, 1963 and May 5, 1965. 
+ Applicable to Models 65-A90-2 (RU-21B) and 65-A90-3 (RU-21C): 
+ CAR 3, Effective May 15, 1956, (Amdt. 3-1, 3-2, 3-8); CAR 3 (Amdt. 3-6); 3.705 (Amdt. 3-7); 14 CFR 23.1385(c) (Amdt. 
+ Original). 23.1387(a), 23.1387(e) (Amdt. 12). Special Conditions outlined by FAA letters to Beech dated January 21, 1963, 
+ February 15, 1963, February 27, 1963, May 5, 1965, and November 8, 1961. 
+ Applicable to Model C90 
+ CAR 3, Effective May 15, 1956, (Amdt. 3-1, 3-2, 3-8); CAR 3 (Amdt. 3-6); 3.705 (Amdt. 3-7); 14 CFR Part 23 §23.1385(c) 
+ (Amdt. Original); 23.1111 (Amdt. 23-7). 23.1387(a), 23.1387(e) (Amdt. 12). Special Conditions outlined by FAA letters to 
+ Beech dated January 21, 1963, February 15, 1963, February 27, 1963 and May 5, 1965. FAA Exemption No. 1554A, issued 
+ March 4, 1977 from CAR 3 §3.115(a). 
+ Data Pertinent to All Models 
+ Applicable to Model E90 
+ CAR 3, Effective May 15, 1956, (Amdt. 3-1, 3-2, 3-8); CAR 3 (Amdt. 3-6); 3.705 (Amdt. 3-7). 14 CFR 23.1385(c) (Amdt. 
+ Original). 23.954, 23.959, 23.1111 (Amdt. 23-7). 23.1387(a), 23.1387(e) (Amdt. 23-12). Special Conditions outlined by FAA 
+ letters to Beech dated January 21, 1963, February 15, 1963, February 27, 1963, and May 5, 1965. FAA Exemption No. 1554 
+ issued March 31, 1972 from CAR 3 3.115(a). 
+ Applicable to Model H90 T44A 
+ CAR 3, Effective May 15, 1956, (Amdt. 3-1, 3-2, 3-8); CAR 3 (Amdt. 3-6). 3.705 (Amdt. 3-7). 14 CFR 23.1385(c) (Amdt. 
+ Original). 23.954, 23.959, 23.1111 (Amdt. 23-7). 23.1387(a), 23.1387(e) (Amdt. 23-12). Special Conditions outlined by FAA 
+ letters to Beech dated January 21, 1963, February 15, 1963, February 27, 1963 and May 5, 1965. FAA Exemption No. 1554A, 
+ issued March 4, 1977 from CAR 3 §3.115(a). 
+ Applicable to Model C90A 
+ CAR 3, Effective May 15, 1956, (Amdt. 3-1, 3-2, 3-8); CAR 3 (Amdt. 3-6). 3.705 (Amdt. 3-7). 14 CFR 23.1385(c) (Amdt. 
+ Original). 23.959, 23.1111, 23.1583(a) (Amdt. 23-7). 23.1387(a), 23.1387(e) (Amdt. 23-12). Special Conditions outlined by 
+ FAA letters to Beech dated January 21, 1963, February 15, 1963, February 27, 1963 and May 5, 1965. 23.143(a), 23.145(d), 
+ 23.153, 23.161(c)(3), 23.173(a) (Amdt. 23-14). 23.175 (Amdt. 23-17). 23.967(a)(5) (Amdt. 23-18). 23.1545(a) (Amdt. 23-23). 
+ 23.729 (Amdt. 23-26). 25.831(d) (Amdt. 25-41). 14 CFR Part 36, December 1, 1969 thru Amendment 36-10; SFAR 27, February 
+ 1 1974 thru Amendment 274 
+ Applicable to Model C90A with EFIS: 
+ CAR 3, Effective May 15, 1956, (Amdt. 3-1, 3-2, 3-8); CAR 3 (Amdt. 3-6). 3.705 (Amdt. 3-7). 14 CFR 23.1385(c) (Amdt. 
+ Original). 23.959, 23.1111, 23.1583(a) (Amdt. 23-7). 23.1387(a), 23.1387(e) (Amdt. 23-12). Special Conditions outlined by 
+ FAA letters to Beech dated January 21, 1963, February 15, 1963, February 27, 1963 and May 5, 1965. 23.143(a), 23.145(d), 
+ 23.153, 23.161(c)(3), 23.173(a) (Amdt. 23-14). 23.175 (Amdt. 23-17). 23.967(a)(5) (Amdt. 23-18). 23.1545(a) (Amdt. 23-23). 
+ 23.729 (Amdt. 23-26). Effective April 17, 1992, Electronics Flight Instrument Systems shall meet the requirements of 23.1301, 
+ 23.1309, 23.1311, 23.1321, 23.1322 and 23.1335 (Amdt. 23-41). Effective January 20, 1994, 23.1457 (Amdt. 23-35). 14 CFR 
+ 25.831(d) (Amdt. 25-41). 14 CFR Part 36, December 1, 1969 thru Amendment 36-10; SFAR 27, February 1, 1974 thru 
+ Amendment 274 
+ Applicable to Model C90GT 
+ CAR 3, Effective May 15, 1956, (Amdt. 3-1, 3-2, 3-8); CAR 3 (Amdt. 3-6). 3.705 (Amdt. 3-7). 14 CFR 23.1385(c) (Amdt. 
+ Original). 23.959, 23.1111, 23.1583(a) (Amdt. 23-7). 23.1387(a), 23.1387(e) (Amdt. 23-12). Special Conditions outlined by 
+ FAA letters to Beech dated January 21, 1963, February 15, 1963, February 27, 1963 and May 5, 1965. 23.143(a), 23.145(d), 
+ 23.153, 23.161(c)(3), 23.173(a) (Amdt. 23-14). 23.175 (Amdt. 23-17). 23.967(a)(5) (Amdt. 23-18). 23.1545(a) (Amdt. 23-23). 
+ 23.729, 23.1529 (Amdt. 23-26). Effective April 17, 1992, Electronics Flight Instrument Systems shall meet the requirements of 
+ 23.1301, 23.1309, 23.1311, 23.1321, 23.1322 and 23.1335 (Amdt. 23-41). Effective January 20, 1994, 23.1457 (Amdt. 23-35). 
+ 23.201, 23.203, 23.207 (Amdt. 23-50). 14 CFR 25.831(d) (Amdt. 25-41). 14 CFR 34.11(a)(b)(c), 34.21(e), 34.71, 34.89 (Amdt. 
+ 34-3). 14 CFR Part 36, December 1, 1969 thru Amendment 36-25; SFAR 27, February 1, 1974 thru Amendment 27-4. 
+ Additional Requirements for IHAS 800 Installation on Model C90A/C90GT: 
+ 14 CFR 23.301(a), 23.303, 23.305(a)(b), 23.307(a), 23.321, 23.331, 23.333, 23.335, 23.337, 23.341, 23.347, 23.349, 23.351, 
+ 23.365(a)(b)(c), 23.425, 23.441, 23.471, 23.473, 23.571, 23.573, 23.609(b), 23.613(a)(b), 23.615, 23.619, 23.621, 23.623, 
+ 23.625, 23.627, 23.629, 23.1331(a)(b), 23.1365(a)(d)(e), 23.1367(a)(b)(c)(d) (Amdt.Original). 23.611, 23.617, 23.777(a)(b), 
+ 23.867(a)(b), 23.561(a)(b), 23.1351(b) (Amdt. 23-7). 23.1581 (Amdt. 23-13); 23.1322(a)(b)(c)(d) (Amdt. 23-17). 
+ 23.1301(a)(b)(d), 23.1321(a)(b)(c)(d)(e), 23.1357(a)(b)(c)(d) (Amdt. 23-20). 23.1541 (Amdt. 23-21). 23.1307(b) (Amdt. 23-23). 
+ 23.1529 (Amdt. 23.26). 23.1583(m), 23.1585(j), 23.1587 (Amdt. 23-34). 23.1311(a)(b), 23.1331(c), 23.1359(c) (Amdt. 23-35). 
+ 231309ab Amdt 2341 
+ Data Pertinent to All Models 
+ Additional Requirements for RDR2100/KDM850 Installation on Model C90A/C90GT: 
+ 14 CFR 23.301(a), 23.303, 23.305(a)(b), 23.307(a), 23.321, 23.331, 23.333, 23.335, 23.337, 23.341, 23.347, 23.349, 23.351, 
+ 23.365(a)(b)(c), 23.421, 23.423, 23.425, 23.441, 23.471, 23.473, 23.571, 23.573, 23.601, 23.603(a)(b), 23.605(a), 23.607, 
+ 23.609(a)(b), 23.613(a)(b), 23.615, 23.619, 23.621, 23.623, 23.625, 23.627, 23.629, 23.1331(a)(b), 23.1365(a)(d)(e), 
+ 23.1367(a)(b)(c)(d) (Amdt.Original). 23.611, 23.617, 23.777(a)(b), 23.867(a)(b), 23.561(a)(b), 23.959, 23.1111, 23.1351(a) 
+ (Amdt. 23-7). 23.1581 (Amdt. 23-13). 23.1322(a)(b)(c)(d) (Amdt. 23-17). 23.1301(a)(b)(d), 23.1321(a)(b)(c)(d)(e), 
+ 23.1357(a)(b)(c)(d) (Amdt. 23-20). .23.1307(b) (Amdt. 23-23). 23.1529 (Amdt. 23.26). 23.1583(m), 23.1585(j), 23.1587 (Amdt. 
+ 23-34). 23.1311(a)(b), 23.1331(c), 23.1359(c) (Amdt. 23-35). 23.1309(a)(b) (Amdt. 23-41). 
+ Additional Requirements for GPS 400 Installation on Model C90A/C90GT: 
+ 14 CFR 23.301(a), 23.303, 23.305(a)(b), 23.307(a), 23.321, 23.331, 23.333, 23.335, 23.337, 23.341, 23.347, 23.349, 23.351, 
+ 23.365(a)(b)(c), 23.421, 23.423, 23.425, 23.441, 23.471, 23.473, 23.571, 23.573, 23.601, 23.603(a)(b), 23.605(a), 23.607, 
+ 23.609(a)(b), 23.613(a)(b), 23.615, 23.619, 23.621, 23.623, 23.625, 23.627, 23.1331(a)(b), 23.1365(a)(d)(e), 23.1367(a)(b)(c)(d), 
+ 23.1431(a)(b)(c) (Amdt.Original). 23.611, 23.617, 23.777(a)(b), 23.867(a)(b). 23.561(a)(b), 23.1351(b) (Amdt. 23-7); 23.1581 
+ (Amdt. 23-13); 23.1322(a)(b)(c)(d) (Amdt. 23-17). 23.1301(a)(b)(c)(d), 23.1321(a)(b)(c)(d)(e), 23.1357(a)(b)(c)(d) (Amdt. 23- 
+ 20). 23.1307(b) (Amdt. 23-23). 23.1529 (Amdt. 23.26). 23.1583(m), 23-1585(j), 23.1587 (Amdt. 23-34). 23.1329(h), 23.1331(c), 
+ 23.1359(c) (Amdt. 23-35). 23.1309(a)(b) (Amdt. 23-41). 
+ Applicable to Model C90GTi 
+ CAR 3, Effective May 15, 1956, (Amdt. 3-1, 3-2, 3-8); CAR 3 (Amdt. 3-6). 3.705 (Amdt. 3-7). 14 CFR 23.1385(c) (Amdt. 
+ Original). 23.959, 23.1111, 23.1583(a) (Amdt. 23-7). 23.1387(a)(e) (Amdt. 23-12). Special Conditions outlined by FAA letters 
+ to Beech dated January 21, 1963, February 15, 1963, February 27, 1963 and May 5, 1965. 23.143(a), 23.145(d), 23.153, 
+ 23.161(c)(3), 23.173(a) (Amdt. 23-14). 23.175 (Amdt. 23-17). 23.967(a)(5) (Amdt. 23-18). 23.1545(a) (Amdt. 23-23). 23.729, 
+ 23.1529 (Amdt. 23-26). 23.201, 23.203, 23.207 (Amdt. 23-50). 25.831(d) (Amdt. 25-41). SFAR 27, February 1, 1974 thru 
+ Amendment 27-4. 34.11(a)(b)(c), 34.21(e), 34.71, 34.89 (Amdt. 34-3). 
+ Additional Requirements for Rockwell Collins Pro Line 21 Avionics Installation on Model C90GTi: 
+ 14 CFR 23.601, 23.1367(a)(b)(c)(d), 23.1381(a)(b)(c) (Amdt. Original). 23.1301(a)(b)(c)(d), 23.1335 (Amdt. 23-20). 23.1501(a) 
+ (Amdt. 23-21). 23.1457(a)(c) (Amdt. 23-35). 23.1322(a)(b)(c)(d), 23.1357 (Amdt. 23-43). 23.1549 (Amdt. 23-45). 
+ 23.1309(a)(b)(c)(d)(e), 23.1311(a)(b)(c), 23.1321(a)(b)(c)(d)(e), 23.1329(a)(b)(d)(e)(f), 23.1359(c), 23.1365(a)(b)(c)(d)(e), 
+ 23.1431(a)(b)(c) (Amdt. 23-49). 23.1521(b)(c), 23.1543(c), 23.1545(a)(b)(c), 23.1555(a) (Amdt. 23-50). 
+ 23.1305(a)(2)(3)(c)(1)(2)(5)(e)(1) (Amdt. 23-52). 23.901(e)(1) (Amdt. 23-53). 
+ 14 CFR Part 36, through Amendment 36-28. 
+ Special Condition 
+ 23-108-SC 
+ “Protection of Systems for High Intensity Radiated Fields (HIRF)” 
+ Equivalent Level of Safety ACE0706 
+ “Installing Electronic Engine Indicating Systems (EIS)” 
+ Additional Requirements for Rockwell Collins Pro Line Fusion Avionics Installation on Model C90GTi (See NOTE 37): 
+ 14 CFR 23.601, 23.1367, 23.1381(a)(b) (Amdt. Original). 23.937(a) (Amdt. 23-7). 23.1301(a)(b)(c)(d), 23.1327(a)(1)(2)(b), 
+ 23.1335, 23.1547(a)(b)(c)(d)(e) (Amdt. 23-20). 23.1501(b) (Amdt. 23-21). 23.853(a) (Amdt. 23-34). 23.1322(a)(b)(c)(d)(e), 
+ 23.1331(b)(c), 23.1357(a)(b)(c)(d) (Amdt. 23-43). 23.613, 23.773(a)(1)(2), 23.1525, 23.1549(d), (Amdt. 23-45). 23.867(a)(b)(1), 
+ 23.1303(a)(b)(c)(e)(f), 23.1309(a)(1)(3)(b)(c)(1)(2)(i)(iii)(3)(d)(e), 23.1311(a)(b)(c), 23.1321, 23.1323(a)(c), 23.1329(c)(h), 
+ 23.1351(a)(1)(2)(i), 23.1353(h), 23.1359(c), 23.1365(a)(b)(c)(d)(e), 23.1431(a)(b)(c)(e) (Amdt. 23-49). 
+ 23.1521(a)(b)(1)(3)(4)(c)(1)(3), 23.1543(b)(c), 23.1545(d), 23.1555(a), 23.1581(a)(2)(b)(1)(3)(c)(d)(f), 23.1583(b)(h)(m), 
+ 23.1585(a)(j) (Amdt 23-50). 23.777(a)(b), 23.1141(g)(2), 23.1203(a)(d) (Amdt. 23-51). 23.1305(c)(1)(3)(6)(7)(e)(1) 
+ (Amdt. 23-52). 23.901(a)(1)(2)(e)(1) (Amdt. 23-53). 23.1308(a)(b)(c)(d) (Amdt. 23-57). 23.1306(a)(b) (Amdt. 23-61). 
+ 23.251(b), 23.903(b)(2) (Amdt. 23-62). Equivalent Level of Safety ACE-15-18 for 23.1305(a)(2)(3)(c)(2)(5) (Amdt 23-52), 
+ 23.1311(a)(6)(7) (Amdt 23-49). 23.1549(a)(b)(c) (Amdt 23-45). Effective at Serial Numbers LJ-2129 and on. 
+ Additional Requirements for GPS-4000S Installation on Model C90GTi (See NOTE 38): 
+ 14 CFR 23.867(a)(b) (Amdt. 23-49). 23.1301(a)(b)(c)(d) (Amdt. 23-20). 23.1306(b) (Amdt. 23-61). 23.1308(b) (Amdt. 23-57). 
+ 23.1309(a)(1)(3)(b)(c)(1)(2)(i)(iii)(3)(d)(e), 23.1351(a)(1)(2)(i), 23.1431(a)(b) (Amdt. 23-49). 23.1529 (Amdt 23-26). Effective 
+ at Serial Numbers LJ-2151 and on. 
+ Application for Type Certificate dated May 1, 1958 
+ Type Certificate No. 3A20 issued February 4, 1959, obtained by the manufacturer under delegation option procedures. 
+ Data Pertinent to All Models 
+ Production Basis: Production Certificate No. 8. Delegation Option Manufacturer No. DOA-230339-CE authorized to issue 
+ airworthiness certificates under delegation option provisions of Part 21 of the Federal Aviation Regulations. 
+ Serial Numbers LJ-2125 through LJ-2133: 
+ Manufactured under Production Certificate No. 4 by Textron Aviation, Inc., under license agreement between 
+ Beechcraft Corporation and Textron Aviation, Inc. 
+ Serial Numbers LJ-2134 and after: 
+ Manufactured under Production Certificate No. 4 by Textron Aviation Inc. 
+ Organization Delegation Authorization No. ODA-100129-CE is authorized to issue airworthiness certificates 
+ under the provisions of 14 CFR Part 21 and Part 183 of the Federal Aviation Regulations. 
+ Data Pertinent to All Models 
+ Equipment 
+ The basic required equipment as prescribed in the applicable airworthiness regulations (see Certification 
+ Basis) must be installed in the aircraft for certification. In addition, the following items of equipment are 
+ required: 
+ 1. 
+ Pre-stall warning indicator, Safe Flight Corp., P/N 168-2 or P/N 168-3, to be used if deicing 
+ equipment is installed per Beech Dwg. 50-369100 and 50-361100. 
+ 2. 
+ Pre-stall warning indicator, Safe Flight Instrument Corp., P/N 793-1 or P/N 795-3, to be used if deicing 
+ equipment is installed per Beech Dwg. 50-369100 and 50-361100 for Model s 65-A90 and B90. 
+ 3. 
+ Pre-stall warning indicator, Safe Flight Instrument Corp., P/N 168-3 to be used if deicing 
+ equipment is installed per Beech dwg. 50-970103 and 50-361104 or 91-361001 for Models 
+ 65-A90-1, 65-A90-2, 65-A90-3, 65-A90-4. 
+ 4. 
+ Pre-stall warning indicator, Safe Flight Instrument Corp., P/N 795-1 for Model C90, P/N 795-13 for 
+ Models C90A, C90GT, C90GTi. 
+ 5. 
+ Pre-stall warning indicator, Safe Flight Instrument Corp., P/N 795-5 for Model E90. 
+ 6. 
+ Pre-stall warning system, Rosemount P/N 92AT for Model H90 (T-44A). 
+ 7. 
+ FAA Approved Airplane Flight Manual or Pilot’s Operating Handbook 
+ (a) Model 65-90* 
+ S/N LJ-1 thru LJ-113 
+ Model 65-A90* 
+ S/N LJ-114 thru LJ-317, LJ-317, LJ-76, LJ-178A 
+ *Model 65-90 and 65-A90 aircraft were delivered in and/or are modified by Beech kits to 
+ various configurations with non-reversing and reversing propellers: with PT6A-6, -20, -20A, 
+ and -21 engines, and at 9300 and 9650 lbs. An FAA Approved Airplane Flight Manual 
+ appropriate to the aircraft configuration is required. Refer to the Limitations Section of FAA 
+ Approved Airplane Flight Manual Supplement, P/N 131044, for equipment requirements for 
+ flight into known icing conditions. 
+ (b) Model B90 
+ P/N 65-001123-31 
+ S/N LJ-318 thru LJ-501 
+ Model C90 
+ P/N 90-590010-5 
+ S/N LJ-502 thru LJ-624 
+ Model C90 
+ P/N 90-590010-53 
+ S/N LJ-625 thru LJ-667 and LJ-670 
+ Refer to the Limitations Section of FAA Approved Airplane Flight Manual Supplement, 
+ P/N 131044, for equipment requirements for flight into known icing conditions. 
+ Data Pertinent to All Models 
+ (c) Model E90 
+ P/N 90-590012-5 
+ S/N LW-1 thru LW-347 
+ Model C90 
+ P/N 90-590010-61 
+ S/N LJ-668 thru LJ-1010 except LJ-670, LJ-986 
+ and LJ-996 
+ Model C90 
+ P/N 90-590010-87 
+ S/N LJ-986, LJ-996, LJ-1011 thru LJ-1062 
+ Model C90A 
+ P/N 90-590024-5 
+ S/N LJ-1063 thru LJ-1137 and LJ-1146 
+ Model C90A 
+ P/N 90-590024-23 
+ S/N LJ-1138 thru LJ-1145, LJ-1147 thru 
+ LJ-1287, LJ-1289 thru LJ-1294, LJ-1296 
+ thru LJ-1299 
+ Model C90A 
+ P/N 90-590024-35 
+ S/N LJ-1288, LJ-1295, LJ-1302, LJ-1303, 
+ LJ-1305 thru LJ-1308, LJ-1311, LJ-1312, LJ-1314 
+ thru LJ-1316, LJ-1318, LJ-1320 thru LJ-1352 
+ Model C90A 
+ P/N 90-590024-43 
+ S/N LJ-1300, LJ-1301, LJ-1304, LJ-1309, LJ-1310 
+ LJ-1313, LJ-1317 and LJ-1319 
+ Model C90A 
+ P/N 90-590024-61 
+ S/N LJ-1367, LJ-1373, LJ-1377, LJ-1384, LJ-1386, 
+ LJ-1389, LJ-1394 and LJ-1397, LJ-1403, LJ-1411, 
+ LJ-1425, LJ-1431 and LJ-1435 
+ Model C90A 
+ P/N 90-590024-69 
+ S/N LJ-1353 through LJ-1726, LJ-1728 thru LJ-1753 
+ and LJ-1755, except –61 manual serial. 
+ Model C90GT 
+ P/N 90-590024-111 
+ S/N LJ-1727, LJ-1754, LJ-1756 thru LJ-1846, and 
+ LJ-1848 thru LJ-1852. 
+ Model C90GTi P/N 90-590024-163 
+ S/N LJ-1847, LJ-1853 thru LJ-1963, LJ-1965, LJ-1967, 
+ LJ-1969 thru LJ-1971and LJ-1973 thru LJ-1976. 
+ Model C90GTi P/N 90-590024-217 
+ S/N LJ-1964, LJ-1966, LJ-1968, LJ-1972, LJ-1977 
+ thru LJ-2128. 
+ Model C90GTi P/N 434-590171-0003 S/N LJ-2129 and after. 
+ Refer to the Limitations Section of the FAA Approved Airplane Flight Manual or Pilot’s 
+ Operating Handbook for equipment requirements for flight into known icing conditions. 
+ NOTE 1 
+ At the time of original certification, the following must be provided for each aircraft: current weight and 
+ balance data; loading information; list of equipment included in the empty weight. 
+ The Certificated Empty Weight must include unusable fuel and unusable (undrainable) oil 
+ as shown below: 
+ Fuel 15 lbs. (+162 in.) and oil 21 lbs. (+111 in.) for Models 65 (L-1 and up, LF-1 and up, and LC-1 through 
+ LC-229), 65-80, 65-A80, 65-A80-8800, 65-88 (except LP-28), 65-B80 (LD-270 through LD279 unless S.I. 
+ 0539-281 is incorporated). 
+ Fuel 30 lbs. (+170 in.) and oil 21 lbs. (+111in.) for Models 65 (LC-230 and up), 65-88 (LP-28 only), A65, 
+ A65-8200, 70, 65-B80 (LD-280 through LD-467 unless S.I. 0539-281 is incorporated). 
+ Fuel 96 lbs. (+168 in.) and oil 21 lbs. (+111 in.) for Model65-B80 (prior to LD-468 that have S.I. 0539-281 
+ incorporated. 
+ Fuel 24 lbs. (+140 in.) and oil 16 lbs. (+101 in.) for Model 65-90. Fuel 24 lbs. (+140 in.) and oil 28 lbs. 
+ (+101 in.) for Models 65-A90. Fuel 24 lbs. (+140 in.) and oil 32 lbs. (+101 in.) for Models 65-A90-1, 
+ 65-A90-2, 65-A90-3, 65-A90-4, and B90. 
+ The Basic Empty Weight must include unusable fuel and engine oil (includes capacity oil and undrainable, 
+ where applicable) as shown below: 
+ Fuel 96 lbs. (+168) and oil 81 lbs. (+131) for Model 65-B80 (LD-468 and up). Fuel 24 lbs. (+140) and oil 
+ 56 lbs. (+101) for Model C90, C90A, C90GT, H90 (T-44A) and C90GTi. Fuel 40 lbs. (+140) and oil 56 lbs. 
+ (+101) for Model E90. 
+ NOTE 2 
+ The following placard must be displayed in full view of the pilot: 
+ “This airplane must be operated as a normal category airplane in compliance with the operation limitations 
+ stated in the form of placards, markings, and manuals.” 
+ Data Pertinent to All Models 
+ NOTE 3 
+ Mandatory retirement time for all fuselage structural components of Models 65-88, 65-90, 65-A90, B90, and 
+ C90 (prior to LJ-1011 except LJ-986 and LJ-996) is 20,000 hours time in service. However, the Fuselage 
+ Life may be unlimited if the airplane is maintained and inspected at the required intervals in both Chapter 5 
+ of the Airplane’s Maintenance Manual and Airworthiness Limitations Manual P/N 90-590024-187, latest 
+ revision. 
+ For the Model C90 (LJ-986, LJ-996, LJ-1011 and after), the retirement limit is 13,500 hours time in service. 
+ However, the Fuselage Life may be unlimited if the airplane is maintained and inspected at the required 
+ intervals in both Chapter 5 of the Airplane’s Maintenance Manual and Airworthiness Limitations Manual P/N 
+ 90-590024-187, latest revision. 
+ For the E90 and H90 fuselage pressure vessel structural life limit, refer to the latest revision of the airplane 
+ flight manual for mandatory retirement time. 
+ For the Model C90A and C90GT, the retirement limit is 13,500 hours time in service. However, the Fuselage 
+ Life may be unlimited if the airplane is maintained and inspected at the required intervals in both Chapter 5 
+ of the Airplane’s Maintenance Manual and Airworthiness Limitations Manual P/N 90-590024-187, latest 
+ revision. 
+ Mandatory replacement time for the model 65-90, 65-A90, B90, C90, C90A and E90; serials LJ-1 through 
+ LJ-1084, LJ-1085, LJ-1087, LW-1 thru LW-347, for all wing attach bolts and nuts, is as required in Chapter 
+ 4-00-00 of the Airworthiness Limitations Manual P/N 90-590024-187, latest revision. 
+ Mandatory replacement time for Model C90A and C90GT; serials LJ-1086, LJ-1088 and after for upper and 
+ lower forward attach bolt, upper and lower aft wing attach bolt and nuts is as required in Chapter 4-00-00 of 
+ the Airworthiness Limitations Manual P/N 90-590024-187, latest revision. 
+ Mandatory replacement time for Model C90GTi, serials LJ-1847 and LJ-1853 and after for upper and lower 
+ forward attach bolt, upper and lower aft wing attach bolt and nuts is as required in Chapter 4-00-00 of the 
+ Airworthiness Limitations Manual P/N 90-590024-187, latest revision. 
+ NOTE 4 
+ The maximum propeller shaft overspeed limits for Models 65-90, 65-A90, 65-A90-1, 65-A90-2, 65-A90-3, 
+ 65-A90-4, B90, C90, E90, and H90 (T-44A) is 104 percent at all ratings and may be employed for sustained 
+ periods in emergencies. 100 percent propeller shaft speed is defined as 2200 rpm and is the normal steady 
+ state operating limit. Gas generator speeds up to 102.7 percent are permissible for 10 seconds and to 101.6 
+ percent for unlimited periods subject to applicable temperature and other limits. 100 percent gas generator 
+ speed is defined as 37,500 rpm. 
+ NOTE 5 
+ Emergency use of MIL-G-5572: 
+ Grades 80/87, 91/98, 100/130, and 115/145 are permitted on Models 65-90, 65-A90, 65-A90-1, 65-A90-2, 
+ 65-A90-3, 65-A90-4, B90, C90, C90A, C90GT, E90, H90 (T-44A) and C90GTi for a total time period not to 
+ exceed 150 hours during any overhaul period. It is not necessary to purge the unused fuel from the system 
+ when switching fuel types. 
+ NOTE 6 
+ Required for Model 65, S/N LC-163 through LC-239: 2 Lycoming IGSO-480-A1E6 engines. Aircraft prior 
+ to S/N LC-163 eligible for IGSO-480-A1E6 engines provided FAA approval related equipment is installed; 
+ such as, Bendix fuel injector, cockpit and engine control system, higher pressure engine and boost pumps, 
+ induction air modification, etc. 
+ Required for Model 65, S/N LC-163 thru LC-239: Hartzell HC-B3Z20-2A hub with 10151-8R or 10151B-8R 
+ aluminum alloy blades and 210365 Woodward governor. 
+ NOTE 7 
+ Model 65-90 (S/N LJ-1 thru LJ-22) eligible for maximum landing weight of 8835 lb. and a maximum takeoff 
+ weight of 9300 lb. when modified per Beech Kit No. 90-4001. Subsequent serials are eligible for these 
+ weights. 
+ NOTE 8 
+ Model 65-80 (S/N LD-1 thru LD-150, except LD-34) eligible for a maximum landing weight of 8000 lb. 
+ when modified per Beech Mod. C.O. C00766. 
+ Data Pertinent to All Models 
+ NOTE 9 
+ Model 65-A80 (S/N LD-151 thru LD-269) eligible for a maximum landing and takeoff gross weight of 8800 
+ lb. when modified per Beech dwg. 80-4004 which defines Modification Kit No. 80-4004-1 (S/N LD-254 thru 
+ LD-269) and Kit No. 80-4004-3 (S/N LD-151 thru LD-253). Upon completion of this modification, the 
+ aircraft is eligible for designation as a Model 65-A80-8800. 
+ NOTE 10 
+ Flight idle at 2000 propeller rpm shall be an indicated 600  60 ft. -lb. torque corrected for sea level standard 
+ day. Secondary flight idle stop when installed shall be 210  40 propeller rpm higher than flight idle stop 
+ with a gas generator speed of 70%. 
+ NOTE 11 
+ Model 65-90 (S/N LJ-1 thru LJ-113) (except LJ-76) are eligible for installation of PT6A-20 engines when 
+ modified in accordance with Beech Kit 90-9027 or 90-9027 and 90-9029. For airplane LJ-9, use Beech Kit 
+ 90-9007. For airplane LJ-24, use Beech dwgs. 90-9016 and 90-9023 for PT6A-20 engine installation. 
+ NOTE 12 
+ Model 65-90 (S/N LJ-24) eligible for full feathering, three-bladed Hartzell HC-B3TN-3B/T10173E-8 
+ reversing propeller installation when modified per Beech dwgs. 90-9016 and 90-9023. 
+ NOTE 13 
+ Model 65-90 (S/N LJ-1 thru LJ-113) equipped with PT6A-6 engines eligible for full-feathering, three 
+ bladed Hartzell HC-B3TN-3B/T10173E-8 or HC-B3TN-3B/T10173B-8 reversing propeller installation 
+ when modified per Beech dwg. 90-9028. 
+ NOTE 14 
+ Models A65 and A65-8200 (S/N LC-240 thru LC-335), 65-80, 65-A80, 65-A80-8800, 65-B80 
+ (S/N LD-1 and up), and 70 (S/N LB-1 thru LB-35) eligible to operate with cabin door removed when 
+ operated as prescribed in Approved Airplane Flight Manual Supplement No. 130758. 
+ NOTE 15 
+ Model 65, A65, 65-80, 65-A80, 65-A80-8800, 65-B80, 70 eligible for installation of cargo door when 
+ modified per Beech Kit No. 65-4014. 
+ NOTE 16 
+ Model A65-8200 (S/N LC-273 thru LC-324) when manufactured per Beech dwg. 50-000200 and 
+ Model 70 (S/N LB-1 thru LB-35) are eligible for a maximum weight of 8200 lbs. and 11 place 
+ seating capacity. 
+ NOTE 17 
+ Model 65-A90 (S/N LJ-76 and LJ-114 thru LJ-301) when modified per Beech Kit No. 90-4032, and 
+ Model 65-A90 (S/N LJ-302 thru LJ-317) when modified per Beech Kit No. 90-4032-1 eligible for 
+ maximum landing weight of 9168 lb. and a maximum takeoff weight of 9650 lb. 
+ NOTE 18 
+ Model 65-A90 (S/N LJ-76 and LJ-114 thru LJ-317) when modified per Beech Kit No. 90-4035 
+ eligible to move forward center of gravity limit 2.9 in. forward. 
+ NOTE 19 
+ Model 65-A90 (S/N LJ-76 and LJ-114 thru LJ-301) when modified per Beech Kit Nos. 90-4031 or 
+ 90-4032 and 90-4035, and 65-A90, (S/N LJ-302 thru LJ317) when modified per Beech Kit Nos. 
+ 90-4031-1 or 90-4032-1 and 90-4035 eligible for maximum landing weight of 9168 lb., maximum takeoff 
+ weight of 9650 lb., and to move forward center of gravity limit 2.9 in. forward. 
+ NOTE 20 
+ Model 65-B80 eligible for optional Cargo Baggage Pod installation when modified per Beech Kit No. 
+ 80-4013. 
+ NOTE 21 
+ Model C90 aircraft, LJ-670 and LJ-584 thru LJ-667 except LJ-585, LJ-590, LJ-592, LJ-593, LJ-601, 
+ LJ-604, LJ-612, LJ-619, LJ-620, LJ-622, and LJ-652 are equipped with PT6A-20A engines. Model C90 
+ Aircraft LJ-668, LJ-669, LJ-671 and after are equipped with PT6A-21 engines. Model C90 aircraft with 
+ PT6A-20A engines are eligible for installation of PT6A-21 engines when modified per Beech Kit Drawing 
+ No. 90-9066. 
+ NOTE 22 
+ Model H90 (T-44A) airplanes are eligible for FAA certification as Model H90 aircraft when modifed as 
+ required by Beech Aircraft Corporation Drawing 90-005004. 
+ NOTE 23 
+ Model H90 (T-44A) airplanes are licensed at gross weight of 9650 lb. and gross weight C.G. range of 150.6 
+ to 160.0 inches at 9650 lb., and C.G. range of 144.7 to 160.0 inches at 7850 lb. or less. 
+ Data Pertinent to All Models 
+ NOTE 24 
+ The following U-21 series aircraft are eligible for maximum takeoff weight of 10,200 lbs. and maximum 
+ landing weight of 9,700 lbs., when modified with Beech Kit 91-5002-1: 
+ a. 
+ 65-A90-1 (RU-21A) aircraft serial numbered LM-108 through LM-111. 
+ b. 
+ 65-A90-1 (RU-21H, GUARDRAIL V) aircraft serial numbered LM-101, LM-107, LM-115, LM-125, 
+ LM-127 thru LM-129, LM-132, LM-133, and LM-136 thru LM-138. 
+ c. 
+ 65-A90-4 (RU-21H, GUARDRAIL V) aircraft serial numbered LU-1 thru LU-15. 
+ These aircraft must be equipped with wingtip H.F. antenna pods and wingtip extensions, or equivalent 
+ ballast, as specified on Drawing 91-5001, in order to operate at the increased weights. 
+ NOTE 25 
+ Export: 
+ a. 
+ The Beech Model C90 is eligible for export to United Kingdom when modified in accordance with 
+ Modification Drawing 90-005000. 
+ b. 
+ The Beech Model C90A is eligible for export to United Kingdom when modified in accordance with 
+ Modification Drawing 90-005006. 
+ The above models are eligible for return to U.S. certification when the modifications incorporated by 
+ the above drawings have been removed. 
+ NOTE 26 
+ Models 65-90, 65-A90, B90, C90, C90A, C90GT, E90 and C90GTi are eligible for flight into known icing 
+ conditions when the required equipment is installed and operational. 
+ NOTE 27 
+ Flight idle propeller low pitch stop is set so that at 2000 rpm the engine torque is 608  40 ft. lb. torque 
+ corrected to sea level standard day conditions. Ground idle low pitch stop is set so that at 58% to 60% 
+ N1, prop rpm is not less than 1100 rpm. 
+ NOTE 28 
+ Model C90A Airplanes which incorporate MOD Drawing MOD005147-1 are limited to a maximum ramp 
+ weight of 10,059 lbs., a maximum takeoff weight of 9,999 lbs., and a maximum landing weight of 9,600 lbs. 
+ MOD Drawing MOD005147-1 requires an AFM and POH supplement PN 90-590024-81 and an operating 
+ weight limitation placard, MOD005147-3. Eligible Serial Numbers are LJ-1469 thru LJ-1726, LJ-1728 thru 
+ LJ-1753, and LJ-1755. 
+ NOTE 29 
+ Company name change effective April 15, 1996. The following serial numbers are manufactured under the 
+ name of Raytheon Aircraft Company: C90A and C90GT: LJ-1437 through LJ-1826. 
+ NOTE 30 
+ By model, any combination of reversing hub and blade part numbers listed is acceptable. It is permissible to 
+ mix blade part numbers on the same hub. 
+ NOTE 31 
+ The maximum propeller shaft overspeed limit for the Model C90GT and C90GTi is 110 percent (2090 rpm). 
+ 100 percent propeller shaft speed is defined as 1900 rpm and is the normal steady state operating limit. Gas 
+ generator speeds up to 102.6 percent are permissible for 2 seconds and to 101.5 percent for unlimited periods 
+ subject to applicable temperature and other limits. 100 percent gas generator speed is defined as 37,500 rpm. 
+ NOTE 32 
+ Flight idle propeller low pitch stop is set so that at 1800 rpm the engine torque is 545 -0/+40 ft. lb. torque 
+ corrected to sea level standard day conditions. 
+ NOTE 33 
+ The following warning concerning propeller operation is in both the AFM and Maintenance Manual: 
+ “Stabilized ground operation within the propeller restricted RPM range can generate high propeller stresses 
+ and result in fatigue damage to the propeller. This damage can lead to a reduced propeller fatigue life, 
+ propeller, propeller failure and loss of control of the aircraft”. 
+ NOTE 34 
+ Company name change effective 3-26-07. The following serial numbers are manufactured under the name of 
+ Hawker Beechcraft Corporation: LJ-1827 through LJ-2069. 
+ Data Pertinent to All Models",
+NOTE 35,"Company name change effective 4-12-13. The following serial numbers are manufactured under the name of 
+ Beechcraft Corporation: C90GTi: LJ-2070 through LJ-2124."
+NOTE 36,"Company name change effective 10/12/16. The following serials are manufactured under the name Textron 
+ Aviation Inc.: C90GTi: LJ-2134 and after."
+NOTE 37,STC SA10747SC must be installed with the Rockwell Collins Pro Line Fusion® installation.
+NOTE 38,"Installation of GPS-4000S due to in-draw of Rockwell Collins STC SA01848WI, which addressed the use of 
+ a multi-core processor and upgrading of the GPS-4000S receiver."

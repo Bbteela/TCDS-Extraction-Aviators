@@ -1,0 +1,670 @@
+Keyterm,Info
+"A-306 
+ Revision 12 
+ Monocoupe 
+ 90 
+ 90A 
+ 90AF 
+ 90AF-100 
+ 90AL-115 
+ October 25, 2011",
+Type Certificate Holder,"Monocoupe Corporation 
+ 2211 South Grand Blvd 
+ Unit #302 
+ St. Louis, MO 63104"
+"I. Model 90, 2-PCL-SM, Approved April 2, 1930",
+Engine,Lambert R-266
+Engine Limits,"For all operations, 2375 r.p.m. (90 hp)"
+Airspeed Limits,Not available
+Propeller Limits,Not available
+CG Range,(+15) to (+17.8)
+Empty Weight CG Range,None
+Maximum Weight,"Landplane: 1585 lbs. 
+ Seaplane: 
+ 1580 lbs."
+No Seats,2 (+27)
+Maximum Baggage,"Landplane: 52 lbs. (+47) 
+ Seaplane: 
+ 12 lbs. (+47)"
+Fuel Capacity,28 gal (+22) (14–gal. tank in each wing)
+Oil Capacity,2½ gal (-11)
+Serial No Eligible,"Landplane: 500 to 661, inclusive 
+ Seaplane: 
+ 547 to 661, inclusive"
+Required Equipment,"Landplane: Items 4, 201(a), 203, 205(b) 
+ Seaplane: 
+ Items 4, 207(a)"
+"II. Model 90A, 2-PCL-SM, Approved April 2, 1930",
+Engine,Lambert R-266
+Engine Limits,"For all operations, 2375 r.p.m. (90 hp)"
+Airspeed Limits,Flaps extended: 100 m.p.h. CAS
+Propeller Limits,"Landplane: Maximum permissible diameter: 81 in. 
+ Seaplane: 
+ Not available"
+CG Range,"Landplane: (+15.2) to (+21.7) 
+ Seaplane: 
+ (+17.6) to (+19.5)"
+Empty Weight CG Range,"Landplane: (+14.0) to (+19.4) 
+ Seaplane: 
+ (+17.1) to (+17.5) 
+ When Empty Weight C.G. falls within this range, computation of critical 
+ fore-and-aft C.G. positions is unnecessary. Range is not valid for non-standard 
+ arrangements."
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+12,"8 
+ 8 
+ 8 
+ 8 
+ 8 
+ 8"
+Maximum Weight,"Landplane: 1610 lbs. 
+ Seaplane: 1771 lbs."
+No Seats,2 (+25)
+Maximum Baggage,"Landplane: 76 lbs. 
+ Seaplane: 35 lbs."
+Fuel Capacity,28 gal (+22) (14–gal. tank in each wing)
+Oil Capacity,2½ gal (-17)
+Serial No Eligible,A-662 and up
+Required Equipment,"Landplane: Items 4, 101(b) or (c), 201(a), 203, 205(a) 
+ Seaplane: Items 4, 101(b), 102(b), 207(b), 301(a) 
+ (Seaplane type also must have control stops per Edo Dwg. 47-S-029 
+ installed in addition to fuselage reinforcements. Elevator up movement 
+ 15 degrees and rudder movement 16 degrees from centerline of airplane)."
+"III. Model 90AF, 2-PCLM, Approved 1942",
+Engine,Franklin 4AC-199-E3
+Engine Limits,"For all operations, 2500 r.p.m. (90 hp)"
+Airspeed Limits CAS,"Level flight or climb 
+ 130 m.p.h. 
+ Glide or dive 
+ 156 m.p.h. 
+ Flaps extended 
+ 100 m.p.h."
+Propeller Limits,"Static r.p.m. at maximum permissible throttle setting: 
+ Not more than 2100, not less than 2000 
+ (No additional tolerance permissible) 
+ Diameter: Not more than 74 inches, not less than 72 inches"
+CG Range,(+16.5) to (+18.6) (Rearmost C.G. limit with baggage is +20)
+Empty Weight CG Range,"(+15.5) to (+16.7) (with or without baggage) 
+ When Empty Weight C.G. falls within this range, computation of critical 
+ fore-and-aft C.G. positions is unnecessary. Range is not valid for non-standard 
+ arrangements."
+Maximum Weight,1610 lbs.
+No Seats,2 (+25)
+Maximum Baggage,76 lbs. (+47)
+Fuel Capacity,28 gal (+22) (14–gal. tank in each wing)
+Oil Capacity,2 gal (-28)
+Serial No Eligible,A-816 and up
+Required Equipment,"Items 4, 101(d), 102(c), 103(a), 104, 106(a), 201(b), 204(a) or (b), 205(d), 
+ 301(c), 302(b)"
+"IV. Model 90AF-100, 2-PCLM, Approved September 17, 1948 
+ (Similar to Model 90AF except engine installation, cowling, main landing gear wheels and minor changes)",
+Engine,Franklin 4A4-100-B3
+Fuel,80 minimum-octane aviation gasoline
+Engine Limits,"For all operations, 2550 r.p.m. (100 hp)"
+Airspeed Limits CAS,"Level flight or climb 
+ 130 m.p.h. 
+ Glide or dive 
+ 156 m.p.h. 
+ Flaps extended 
+ 100 m.p.h."
+CG Range,"(+15.8) to (+19.2) or 
+ (+15.8) to (+21.7) provided airplane is placarded: 
+ “INTENTIONAL SPINS PROHIBITED”"
+Empty Weight CG Range,None
+Maximum Weight,1610 lbs.
+No Seats,2 (+25)
+Maximum Baggage,76 lbs. (+47)
+Fuel Capacity,28 gal (+22) (14–gal. tank in each wing)
+Oil Capacity,2 gal (-29.5)
+Control Surface Movements,"Elevator 
+ 22 degrees up 
+ 26.5 degrees down 
+ Aileron 
+ 16 degrees up 
+ 20 degrees down 
+ Rudder 
+ 22 degrees right and left 
+ Flaps 
+ 27 degrees down"
+Serial No Eligible,861 and up
+Required Equipment,"Items 1, 201(d), 202, 204(c)"
+"V. Model 90AL-115, 2-PCLM, Approved September 17, 1948 
+ (Similar to Model 90AF except engine installation, cowling, main landing gear wheels and minor changes)",
+Engine,Lycoming O-235-C1
+Fuel,80 minimum-octane aviation gasoline
+Engine Limits,"Maximum continuous 
+ 2600 r.p.m. (108 hp) 
+ Take-off (One minute) 
+ 2800 r.p.m. (115 hp)"
+Airspeed Limits CAS,"Level flight or climb 
+ 130 m.p.h. 
+ Glide or dive 
+ 156 m.p.h. 
+ Flaps extended 
+ 100 m.p.h."
+CG Range,"(+15.8) to (+18.7) or 
+ (+15.8) to (+21.7) provided airplane is placarded: 
+ “INTENTIONAL SPINS PROHIBITED”"
+Empty Weight CG Range,None
+Maximum Weight,1610 lbs.
+No Seats,2 (+25)
+Maximum Baggage,76 lbs. (+47)
+Fuel Capacity,28 gal (+22) (14–gal. tank in each wing)
+Oil Capacity,2 gal (-24.5)
+Control Surface Movements,"Elevator 
+ 22 degrees up 
+ 26.5 degrees down 
+ Aileron 
+ 16 degrees up 
+ 20 degrees down 
+ Rudder 
+ 22 degrees left 
+ 22 degrees right 
+ Flaps 
+ 27 degrees down"
+Serial No Eligible,861 and up
+Required Equipment,"Items 1, 201(d), 202, 204(c)"
+SPECIFICATIONS PERTINANT TO ALL MODELS,
+Datum,Wing leading edge
+Leveling means,"Lower surface of wing between spars, 12 inches outboard of root section"
+Certification basis,"Type Certificate 306 (Models 90, 90A and 90AF based on Aeronautics 
+ Bulletin 7-A, Models 90AF-100 and 90AL-115 based on Aeronautics 
+ Bulletin 7-A and CAR 4a)"
+Production basis,None
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item indicates net weight 
+ change when that item is installed"
+Propellers and Propeller Accessories,"Lbs. 
+ 90 
+ 90A 
+ 90AF 
+ 90-AF-100 
+ 90-AL-115"
+1,"Propeller: Sensenich 72TM50 or any other 
+ 11 
+ --- 
+ --- 
+ --- 
+ (-42) 
+ (-43) 
+ fixed-pitch wood propeller rated for required 
+ hp and r.p.m. with following limits:"
+over 2110 not under 2010,"Diameter: not over 72 in., not under 70 in."
+over 2050 not under 1950,"Diameter: not over 72 in., not under 70 in. 
+ (No additional tolerance on static r.p.m. limits permitted.) 
+ Lbs. 
+ 90 
+ 90A 
+ 90AF 
+ 90-AF-100 
+ 90-AL-115"
+2,"21 
+ --- 
+ --- 
+ --- 
+ (-43) 
+ ----"
+Koppers Aeromatic F2000074E Parts list,"and assem. No. 4283. Low-pitch setting 
+ 11.4 at 24-in sta. Static r.p.m. at max. 
+ permissible throttle setting: not over 2550, 
+ not under 2450. No additional tolerance 
+ permitted. Diameter: not over 74 in., not 
+ under 72.5 in. (Adjustment of counter-weights 
+ and flight r.p.m. must be done as stipulated"
+Operating Limitations” Compliance with,"paragraph ‘E’ of above is mandatory for 
+ operation below base elevation for which"
+3,"18 
+ --- 
+ --- 
+ --- 
+ ---- 
+ (-45)"
+Sensenich C2FM4PC276A62,"Pitch setting measured at 27.75 in. sta.: 
+ Low 9.7 degrees, high 15 degrees. 
+ Diameter: not over 74 in., not under 72.5 in."
+Propeller fixedpitch wood,"22 
+ eligible eligible --- 
+ ---- 
+ ---- 
+ 11 
+ --- 
+ --- 
+ (-43) 
+ ---- 
+ ----"
+5,"Propeller: adj. metal (Ham. std. hub 7029, 
+ 13 
+ eligible eligible --- 
+ ---- 
+ ----"
+Propeller adj wood FreedmanBurnham,"8 
+ --- 
+ eligible --- 
+ ---- 
+ ----"
+Propeller fixedpitch metal,"19 
+ --- 
+ --- 
+ --- 
+ ---- 
+ (-43)"
+McCauley 1S110GF7650,"Static r.p.m. at max, permissible throttle 
+ setting: not over 2150, not under 2050."
+No additional tolerance permitted,"Diameter: not over 76 in., not under 74.5 in."
+Propeller McCauley fixedpitch metal,"13 
+ --- 
+ --- 
+ --- 
+ ---- 
+ (-43)"
+Model 1090LM,"Static r.p.m. at max, permissible throttle 
+ setting: not over 2200, not under 2150."
+No additional tolerance permitted,"Diameter: not over 72 in., not under 70.5 in. 
+ Engine and Engine Accessories: Fuel and Oil System 
+ Lbs, 
+ 90 
+ 90A 
+ 90AF 
+ 90-AF-100 
+ 90-AL-115"
+a Plain,"9 
+ eligible --- 
+ --- 
+ ---- 
+ ----"
+b Cup type,"15 
+ --- 
+ eligible --- 
+ ---- 
+ ---- 
+ c) Tunnel type (for serial nos. below A-699) 
+ 15 
+ --- 
+ eligible --- 
+ ---- 
+ ----"
+d Dwg 367,"15 
+ --- 
+ --- 
+ (-28) 
+ ---- 
+ ---- 
+ Lbs. 
+ 90 
+ 90A 
+ 90AF 
+ 90-AF-100 
+ 90-AL-115"
+a Electric,"19 
+ eligible --- 
+ --- 
+ ---- 
+ ----"
+b Eclipse Y  150,"19 
+ --- 
+ (-14) 
+ --- 
+ ---- 
+ ----"
+c Autolite MBG 4009,"15 
+ --- 
+ --- 
+ (18) 
+ ---- 
+ ----"
+d DelcoRemy 1109651,"16 
+ --- 
+ --- 
+ --- 
+ (-17) 
+ eligible"
+e DelcoRemy 1109657,"17 
+ --- 
+ --- 
+ --- 
+ ---- 
+ (-27)"
+Carburetor Heater,"5 
+ --- 
+ --- 
+ (-28) 
+ ---- 
+ ----"
+a Dwg 367 right,"5 
+ --- 
+ --- 
+ (-28) 
+ ---- 
+ ----"
+b Dwg 2002A 2005A,"--- 
+ --- 
+ --- 
+ --- 
+ eligible 
+ ----"
+c Dwg 3002 3005,"--- 
+ --- 
+ --- 
+ --- 
+ eligible 
+ ----"
+Oil Cooler Harrison HE 212,"5 
+ --- 
+ --- 
+ (-28) 
+ ---- 
+ ----"
+Engine compartment ventilator tube,"1 
+ --- 
+ eligible --- 
+ ---- 
+ ----"
+Cabin Heater,"2 
+ --- 
+ eligible --- 
+ ---- 
+ ----"
+a Dwg 367 left,"4 
+ --- 
+ --- 
+ (-28) 
+ ---- 
+ ----"
+107,"2 
+ --- 
+ eligible --- 
+ ---- 
+ ---- 
+ 30 gal. fuel capacity (15 gal. tank in ea wing) 
+ --- 
+ eligible --- 
+ --- 
+ ---- 
+ ---- 
+ 14.5 gal. auxiliary fuel tank installation 
+ 11 
+ --- 
+ --- 
+ (+47) 
+ ---- 
+ ---- 
+ (Rearward C.G. of +20 may be used and"
+following placard required,"a) Use in level flight only 
+ b) No baggage may be carried 
+ c) Tank valve ‘OFF’ when not in use"
+e No intentional acrobatics,f) Drain daily through sediment bowl
+Landing Gear,"Lbs. 
+ 90 
+ 90A 
+ 90AF 
+ 90-AF-100 
+ 90-AL-115"
+Wheels,"a) 6.50 – 10 with brakes and 6.50 – 10 tires 
+ 60 
+ eligible (+5) 
+ --- 
+ ---- 
+ ---- 
+ b) 18x18 – 3 with brakes 
+ 29 
+ eligible (+5) 
+ --- 
+ ---- 
+ ----"
+and tires,"36 
+ --- 
+ --- 
+ (+5) 
+ ---- 
+ ---- 
+ c) 21 in. streamline with brakes and tires 
+ 54 
+ --- 
+ (+5) 
+ --- 
+ ---- 
+ ----"
+d) 6.00 – 6 Type III Firestone Model,
+2 mainwheel 4ply rating tires,"18 
+ --- 
+ --- 
+ --- 
+ (+5) 
+ (+5) 
+ 6.00 – 6 Type III, with regular tubes"
+Tail Skid,"--- 
+ eligible eligible --- 
+ ---- 
+ ----"
+Tail Wheels,"a) 3 3/8 in. diameter – fixed 
+ 1 
+ eligible eligible eligible ---- 
+ ----"
+or swivel,"3 
+ --- 
+ --- 
+ --- 
+ (+180) 
+ (+180)"
+b Steerable 3 38 inch,"2 
+ --- 
+ eligible eligible ---- 
+ ----"
+diameter,"3 
+ --- 
+ --- 
+ --- 
+ (+180) 
+ (+180) 
+ c) 6 in. full-swiveling – steerable (Maule Co.) 
+ 2 
+ --- 
+ --- 
+ (+192) (+192) 
+ (+192) 
+ Lbs. 
+ 90 
+ 90A 
+ 90AF 
+ 90-AF-100 
+ 90-AL-115"
+Landing Gears,"a) ‘Type F’ (Cantilever with shock cord 
+ 14 
+ eligible eligible --- 
+ ---- 
+ ---- 
+ and tread of approx. 66 in.) 
+ b) With oleo shock struts (approx. 66 in. 
+ --- 
+ eligible --- 
+ --- 
+ ---- 
+ ----"
+tread,"c) ‘Optional Type F’ (Cantilever with shock 
+ 7 
+ --- 
+ eligible --- 
+ ---- 
+ ---- 
+ cord and wide tread of approx. 78 in.). 
+ For use with 21 in. streamline or 6.50 –"
+10 wheels only,"d) ‘Type C’ (similar to ‘Optional Type F’ 
+ 7 
+ --- 
+ eligible eligible ---- 
+ ---- 
+ except for special axle – for use with"
+Wheel Streamlines,"25 
+ eligible --- 
+ --- 
+ ---- 
+ ---- 
+ a) For use with item 205(c) only 
+ 22 
+ --- 
+ eligible --- 
+ ---- 
+ ---- 
+ b) For use with item 205(d) only 
+ 17 
+ --- 
+ eligible --- 
+ ---- 
+ ----"
+c Per Dwg F30520,"15 
+ --- 
+ --- 
+ (+5) 
+ (+5) 
+ (+5)"
+Floats,"a) Edo H. Large – type tail surfaces 
+ --- 
+ eligible --- 
+ --- 
+ ---- 
+ ---- 
+ required with this item. Large fin has 
+ two brace wires on each side, rudder 
+ has overall height of 54 3/8 in. and 
+ stabilizer has no sweepback of leading edge. 
+ b) Edo 47 – 1965, with water rudder. 
+ 273 
+ --- 
+ eligible --- 
+ ---- 
+ ---- 
+ Seaplane fin (+2 lb) under fuselage is"
+a Washington Aircraft 1625,"--- 
+ --- 
+ eligible --- 
+ ---- 
+ ----"
+b Alaska Airmotive 3,"--- 
+ --- 
+ eligible --- 
+ ---- 
+ ----"
+Electrical Equipment,"Lbs. 
+ 90 
+ 90A 
+ 90AF 
+ 90-AF-100 
+ 90-AL-115"
+Batteries,"35 
+ (-10) 
+ --- 
+ --- 
+ ---- 
+ ----"
+a Exide 6AC71,"17 
+ --- 
+ (-10) 
+ --- 
+ ---- 
+ ----"
+b Exide 6TS71,"27 
+ --- 
+ (-10) 
+ --- 
+ ---- 
+ ----"
+c Reading R24L,"24 
+ --- 
+ --- 
+ (-13) 
+ (-14) 
+ (-18)"
+a Winddriven mounted under fuselage,"7 
+ --- 
+ (+7) 
+ --- 
+ ---- 
+ ----"
+b Autolite GDY4106 10 amp,"12 
+ --- 
+ --- 
+ (-18) 
+ ---- 
+ ----"
+c DelcoRemy 17556,"16 
+ --- 
+ --- 
+ --- 
+ (-17) 
+ ----"
+d DelcoRemy 110878,"10 
+ --- 
+ --- 
+ --- 
+ ---- 
+ (-29)"
+Landing Lights,"a) Pyle National, LAN605, one or two 
+ 7 
+ --- 
+ (+3) 
+ (+3) 
+ ---- 
+ ----"
+in wing leading edge,"each 
+ b) Grimes ST-250, one or two 
+ each 
+ 4 
+ --- 
+ (+14) 
+ (+14) 
+ ---- 
+ ----"
+c Two Grimes ST250,"9 
+ --- 
+ --- 
+ --- 
+ (+14) 
+ (+14)"
+Interior Equipment,"Lbs. 
+ 90 
+ 90A 
+ 90AF 
+ 90-AF-100 
+ 90-AL-115"
+401,"Three 1 ½ min. flares, International MK-1 
+ 17 
+ --- 
+ (+72) 
+ (+72) 
+ (+72) 
+ (+72)"
+Golf Compartment opening into baggage,"3 
+ --- 
+ (+60) 
+ (+60) 
+ ---- 
+ ----"
+compartment Max capacity 20 lbs,"Weight of baggage carried in golf compartment 
+ must be included in total baggage as"
+403,"--- 
+ --- 
+ eligible --- 
+ ---- 
+ ----"
+Extra door on left side,"--- 
+ --- 
+ eligible --- 
+ ---- 
+ ----"
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight empty, and 
+ loading instructions when necessary, must be in each aircraft at the time of original certification and at 
+ all times thereafter."
+NOTE 2,"The following placards must be displayed on models indicated: 
+ (a) On all models, on instrument panel in full view of the pilot: 
+ “INTENTIONAL ACROBATICS WITH BAGGAGE PROHIBITED” 
+ (b) On Models 90AF-100 and 90AL-115 at each fuel valve: 
+ “WHEN THIS VALVE IN ON, OTHER VALVE MUST BE TURNED OFF” 
+ (c) On Models 90AF-100 and 90AL-115 at fuel tank drain valves: 
+ “DRAIN SEDIMENT DAILY” 
+ (d) On Models 90AF-100 and 90AL-115 on instrument panel in full view of pilot when C.G. range of 
+ (+15.8) to (+21.7) is utilized: 
+ “INTENTIONAL SPINS PROHIBITED”"

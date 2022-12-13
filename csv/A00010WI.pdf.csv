@@ -1,0 +1,333 @@
+Keyterm,Info
+"A00010WI 
+ Revision 11 
+ Textron Aviation 
+ 390 
+ June 16, 2020",
+Type Certificate Holder,"Textron Aviation Inc. 
+ One Cessna Boulevard 
+ Wichita, Kansas 67215"
+Type Certificate Holder Record,"Raytheon Aircraft Company transferred to 
+ Hawker Beechcraft Corporation on March 26, 2007 
+ Hawker Beechcraft Corporation transferred to 
+ Beechcraft Corporation on April 12, 2013. 
+ Beechcraft Corporation transferred to 
+ Textron Aviation Inc. on October 12, 2016."
+"I. 
+ MODEL 390 (PREMIER I) (NORMAL CATEGORY) APPROVED MARCH 23, 2001",
+Engine,"Two Williams-Rolls, Inc. International FJ44-2A Turbofans"
+Fuel,"Commercial kerosene JET A, JET A-1, per ASTM -D-1655, or JP-8 per MIL-T-83133 
+ (Limited use Av-gas 100LL per ASTM D910. Limited to 5,000 gallons per engine 
+ between major periodic inspections. Operation is limited to 10,000 feet and below with 
+ the electric boost pumps on per AFM procedures). 
+ Fuels not containing icing inhibitors must have MIL-I-27686 or MIL-I-85470 fuel system 
+ icing inhibitor added in amounts of not less than 0.10% nor more than 0.15% by volume. 
+ Minimum fuel icing inhibitor content during refueling is 0.10% by volume. 
+ Dupont Stadis 450 anti-static additive or equivalent is permitted to bring fuel up to 300 
+ conductive units, but not to exceed 1 part per million. 
+ SOHIO Biobor JF biocide additive or equivalent is permitted at a concentration not to 
+ exceed 20 parts per million (270 ppm total additive) of elemental boron."
+Static Sea Level,"Takeoff (5 minutes) static thrust, sea level 
+ 2300 lbs."
+Standard Day,"Maximum Continuous static thrust, se level 
+ 2300 lbs. 
+ Maximum permissible engine rotor (Operating speed) 
+ Low pressure rotor, N1 (30 seconds) 
+ 106.4% 
+ Low pressure rotor, N1 
+ 105.2% 
+ Low pressure rotor, N2 
+ 98.8%"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+Rev No,"11 
+ 4 
+ 5 
+ 11 
+ 7 
+ 9 
+ 9"
+Engine Limits,Maximum permissible Interstage Turbine Temperature
+Static Sea Level,"(ITT) 
+ Take-off (10 second) 
+ 835°C 
+ Take-off (5 minutes) 
+ 820°C 
+ Maximum Continuous 
+ 805°C 
+ Engine Starting 
+ 805°C 
+ Engine Starting (30 second) 
+ 900°C 
+ Engine Starting (15 seconds) 
+ 1000°C"
+Airspeed Limits,"Vmo (Maximum Operating Speed) 
+ 320"
+KCAS,"Sea Level to 27,600 feet 
+ Mmo (Maximum Operating Mach No.) 
+ .80 
+ (above 27,600 feet) 
+ VF (Flap Extension Speed) 
+ Flaps 10 ° 
+ 200 
+ Flaps 20 ° 
+ 200 
+ RB-4 through RB-69 and aircraft not 
+ modified per kit 390-3203 
+ RB-2, RB-3, RB-70 and after and aircraft 
+ modified per kit 390-3203 
+ Flaps 30 ° 
+ 170 
+ VLO (Retraction) 
+ 180 
+ VLO (Extension) RB-4 thru RV-69 
+ 200 
+ and aircraft not modified per kit 390-3203 
+ RB-2, RB-3, RB-70 and after 
+ 201 
+ and aircraft modified per kit 390-3203 
+ VLE RB-4 thru RB-69 and aircraft 
+ 200 
+ not modified per kit 390-3203 
+ VO Operating Maneuvering Speed 
+ 200 
+ VMCA (Min. Control Speed ) 
+ Flaps UP 
+ 102 
+ Flaps 10 
+ 97 
+ Flaps 20 
+ 93 
+ VMCL (Flaps 30) 
+ 91"
+Datum,F.S. 0.00 is located 34.00 inches forward of the nose of the aircraft.
+Mean Aerodynamic Chord,"66.24 inches. The leading edge of the mean aerodynamic chord is 278.471 inches aft of 
+ the datum."
+CG Range Gear and Flaps,"Allowable Forward C.G. up to 12,500 lbs 
+ F.S. 294.37"
+Extended,"Aft C.G. Up To 10,000 lbs 
+ F.S. 303.97 
+ Aft C.G. Up To 12,500 lbs 
+ F.S. 300.14 
+ Straight line variation between given points."
+Leveling Means,Level is determined with a level gauge placed on the cabin door floor longeron.
+Maximum Weights,"Ramp 
+ 12,591 LBS 
+ Takeoff 
+ 12,500 LBS 
+ Landing 
+ 11,600 LBS 
+ Zero Fuel 
+ 10,000 LBS"
+Minimum Crew,One Pilot
+No of Seats,"2 Crew 
+ 6 Passengers"
+Maximum Baggage,"Nose Baggage 
+ 150 lbs. 
+ Aft Cabin Baggage 
+ 140 lbs. 
+ Aft Fuselage Baggage – Forward 
+ 200 lbs. 
+ Aft Fuselage Baggage – Aft 
+ 200 lbs."
+Fuel Capacity,"U.S. 
+ U.S."
+Total Airplane,"CAP. GAL. 
+ USABLE GAL 
+ ARM 
+ Gravity Fill 
+ 552.8 
+ 539 
+ 290.8 
+ Single Point 
+ 541.8 
+ 528 
+ 289.8 
+ For aircraft serial numbers RB-75 and after, or prior aircraft that embody Kit No. 390- 
+ 9200: 
+ Gravity Fill 
+ 552.8 
+ 547.8 
+ 290.5 
+ Single Point 
+ 541.8 
+ 537.0 
+ 289.5 
+ See Note 1 for data on unusable and undrainable fuel."
+Oil Capacity,"2.5 Quarts usable per engine – ARM 390.5 
+ See Note 1 for data on undrainable oil."
+Maximum Operating Altitude,"41,000 Feet"
+Serial Numbers Eligible,RB-2 and after
+Control Surface Movements,"Rudder 
+ Right 
+ 25° + 1°/-0° 
+ Left 
+ 25° + 1°/-0° 
+ Rudder Trim 
+ Right 
+ 20 +1/-0 
+ Left 
+ 20 +1/-0 
+ Elevators 
+ Up 
+ 20 +1/-0 
+ Down 
+ 9.6 +1/-0 
+ Horiz. Tail 
+ Leading Edge Up 
+ 1.4  0.2 
+ Incidence 
+ Leading Edge Down 
+ 7  0.2 
+ Elevator Trim 
+ Up 
+ 3.06  0.5 
+ Down 
+ 12.6  0.5 
+ Ailerons 
+ Up 
+ 15.5 +0.5/-0 
+ Down 
+ 12.5 + 0/-0.5 
+ Aileron Trim 
+ LH Up 
+ 20  1 
+ Down 
+ 20  1 
+ Wing Flap 
+ Takeoff 
+ 0º, 10º, 20 *Multiple tolerances 
+ Landing 
+ 30 *Multiple tolerances"
+I,"Roll Spoiler 
+ Outboard Panels 
+ 9.0º  0.7º 
+ Flaps > 20° 
+ Mid panels 
+ 8.05º  1.05 
+ Roll Spoiler 
+ Outboard Panels 
+ 4.3º  0.4 
+ Flaps down 
+ Mid panels 
+ 3.55º  0.75 
+ Speedbrake 
+ Outboard Panels 
+ 23  0.3 
+ Mid panels 
+ 23 + 0/-1.8 
+ Lift Dump 
+ Inboard Panels 
+ 60  4 
+ Outboard Panels 
+ 45 +1/-1.5 
+ Mid Panels 
+ 45 +0/-3.1 
+ *See Specification BS25190, BS25191 and BS25192 or maintenance manual for rigging 
+ tolerances."
+Certification Basis,"(1) 
+ 14 CFR Part 23, effective February 1, 1965, as amended by Amendments 23-1 through 
+ 23-52. 
+ (2) 
+ 14 CFR Part 36, effective December 1, 1969, as amended by Amendments 36-1 through 
+ 36-22. 
+ (3) 
+ 14 CFR Part 34 as amended by Amendments 34-1 through 34-3. 
+ (4) 
+ Title 49 U.S.C. Section 44715 
+ (5) 
+ Special Conditions as follows: 
+ (a) 23-096-SC and 23-096A-SC-additional requirements for: 
+ Performance, stalling speed, takeoff speeds, takeoff performance, accelerate-stop 
+ distance, takeoff path, takeoff distance and takeoff run, takeoff flight path, climb, 
+ climb all engines operating, takeoff climb one engine inoperative, climb one engine 
+ inoperative, reference landing approach speed, landing distance, balked landing, 
+ longitudinal control, minimum control speed, control during landings, trim, stability, 
+ static longitudinal stability, demonstration of static longitudinal stability, static 
+ directional and lateral stability, dynamic stability, wings level stall, turning flight 
+ and accelerated turning stalls, stall warning, vibration and buffeting, high speed 
+ characteristics, out-of-trim characteristics, flutter, takeoff warning system, engine 
+ fire extinguishing system, fire extinguishing agents, extinguishing agent containers, 
+ fire extinguishing system materials, airspeed indicating system, static pressure 
+ system, operating limitations and information, airspeed limitations, minimum 
+ control speed, minimum flight crew, markings and placards, airspeed indicator, 
+ airplane flight manual and approved manual material, operating limitations, 
+ operating procedures, and performance information. Effects of Contamination on 
+ Natural Laminar Flow Airfoils.inoperative, reference landing approach speed, 
+ landing distance, balked landing, longitudinal control, minimum control speed, 
+ minimum flight crew, markings and placards, airspeed indicator, airplane flight 
+ manual and approved manual material, operating limitations, operating procedures, 
+ and performance information. Effects of Contamination on Natural Laminar Flow 
+ Airfoils. 
+ (b) 23-122-SC-HIRF"
+I,"(6) 
+ Exemptions as follows: 
+ (a) No. 6558 for landing gear loads from §§ 23.25, 23.29, 23.235, 23.235, 23.471, 
+ 23.473, 23.477, 23.479, 23.481, 23.483, 23.485, 23.493, 23.499, 23.723, 23.725, 
+ 23.726, 23.727, 23.959, 23.1583(c)(1) and (2), Appendix C23.1, Appendix D23.1. 
+ Compliance has been shown for the additional requirements as specified in the 
+ exemption and identified as paragraphs 1 through 25. Any change in type design 
+ much also show compliance with these additional requirements. 
+ (b) No. 7190 partial exemption from the requirements of 23.181(b). 
+ (7) 
+ Equivalent Level of Safety Findings as follows: 
+ (a) No. ACE-99-11 §23.853(a) for small parts that would not contribute significantly to 
+ the propagation of fire. The compensating feature for this equivalent level of safety 
+ was compliance with the vertical burn requirements of CFR 14 Part 23, Appendix F 
+ for larger interior furnishings and panels. 
+ (b) No. ACE-00-02 §§23.1305(a)(2)(3)(c)(2)(5) and 23.1549 (a) through for direct 
+ reading digital only displays. 
+ (c) No. ACE-05-04 to use 1-g stall speeds rather than traditional Vsmin stall speed as 
+ the reference datum for regulatory compliance. 
+ (8) 
+ Compliance with ice protection has been demonstrated in accordance with 14 CFR 
+ 23.1419. 
+ Application for type certificate May 6, 1996. Type Certificate A00010WI issued March 
+ 23, 2001, obtained by the manufacturer using Delegation Option Authorization 
+ Procedures of Part 21 of the Federal Aviation Regulations. 
+ Production Certificate No. PC-8 Delegation Option Manufacturing No. 
+ DOA-230339-CE."
+Equipment,"The basic required equipment as prescribed in applicable airworthiness regulations (see 
+ Certification Basis) must be installed in the aircraft for certification (See Limitations 
+ Section of FAA Approved Airplane Flight Manual for Kinds of Operation Equipment 
+ List)."
+NOTE 1,"Current weight and balance data, loading information and a list of equipment included in empty 
+ weight must be provided for each airplane at the time of original certification. 
+ Basic empty weight includes unusable fuel of 105.2 lbs for gravity fill (12.5 lbs undraindable); 
+ 109.2 for single point refueling (16.5 lbs undrainable). 
+ For aircraft serial numbers RB-75 and after, or prior aircraft that embody Kit No. 390-9200: 
+ (a) Basic empty weight includes unusable fuel of 45.4 lbs for gravity fill (14.4 lbs undrainable); 
+ 49.4 lbs for single point refueling (18.4 lbs undrainable). 
+ (b) Basic empty weight includes engine oil of 17.2 lbs. 
+ (c) Basic empty weight includes hydraulic fluid of 18.1 lbs."
+NOTE 2,"All placards required in the FAA Approved Flight Manual P/N 390-590001-3A-1 or later FAA 
+ Approved version must be installed in the appropriate location."
+NOTE 3,"The aircraft must be operated in accordance with FAA Approved Airplane Flight Manual P/N 390- 
+ 590001-3A1 or later FAA Approved version."
+NOTE 4,"The Model 390 is approved for the single seating installation shown in the AFM. Removal, 
+ alteration or relocation of seats, restraint systems, cabinets or tables is subject to approval by the 
+ Wichita ACO."
+NOTE 5,"See Model 390 Maintenance Manual, P/N 390-590001-15, Chapter 4, “Airworthiness Limitations” 
+ for inspections, mandatory life information and other requirements for continued airworthiness. 
+ These requirements may not be changed without approval by the Wichita ACO."
+NOTE 6,"The Model 390 has been approved for Group Reduced Vertical Separation Minimum (RVSM) as 
+ described below: 
+ (a) Serials RB-70 and after. 
+ (b) Serials RB-2, RB-3, RB-46, RB-51, RB-60, RB-66 when modified by kit 390-3205. 
+ (c) Serials RB-4 through RB-69 with Kits 390-3205 and 390-3203 installed, exceptions are 
+ outlined in notes 2., 4., and 5. 
+ (d) Currently non-group RVSM approved serials RB-27, RB-35, which have been modified by kit 
+ 390-3203 and 390-3205. 
+ (e) Currently non-group RVSM approved serials RB-21, RB-29, RB-48, and RB-10, which have 
+ been modified by kit 390-3205. 
+ Final certification for RVSM operations must be obtained by the operator from the local FAA 
+ Flight Standards District Office (FSDO) or Certificate Management Office (CMO)."
+NOTE 7,"The following serial numbers were manufactured under Raytheon Aircraft Corporation: RB-1 
+ through RB-188."
+NOTE 8,"The following serial numbers were manufactured under the Hawker Beechcraft Corporation: RB- 
+ 189 through RB-295."

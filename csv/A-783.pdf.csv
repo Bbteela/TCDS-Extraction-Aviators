@@ -1,0 +1,208 @@
+Keyterm,Info
+"A-783 
+ Revision 10 
+ Frakes Aviation 
+ G-73 
+ June 11, 2012",
+Type Certificate Holder,"Frakes Aviation 
+ Claburne Airport 
+ Route 3, Box 229-B 
+ Cleburne, Texas 76031"
+Type Certificate Holder Record,"Grumman Aircraft Engineering Corp. transferred TC A-783 to 
+ Grumman American Aviation Corporation on April 1, 1975 
+ Grumman American Corporation transferred TC A-783 to 
+ Gulfstream American Corporation on June 1, 1979 
+ Gulfstream American Corporation transferred TC A-783 to 
+ Frakes Aviation on April 1, 1981"
+I,"Model G-73, 12 PCAmM, Mallard, approved September 8, 1947"
+Engines,"2 P & W Wasps S3H1 or Military R-1340-36, -47, -49, -51 or -AN-1 
+ (See also Item 109 for optional engines.)"
+Fuel,91 min. octane aviation gasoline
+Engine limits,"MP 
+ HP 
+ RPM 
+ In.Hg. 
+ ALT 
+ Takeoff (1 minute) 
+ 600 
+ 2,250 
+ 36.0 
+ - 
+ Max. continuous 
+ 550 
+ 2,200 
+ 34.0 
+ S.L. 
+ 550 
+ 2,200 
+ 32.5 
+ 5,000' 
+ (Straight line manifold pressure variation with altitude shown)"
+Airspeed limits CAS,"Level flight or climb 
+ 220 mph (191 knots) 
+ Glide or dive 
+ 270 mph (235 knots) 
+ Flaps extended 
+ 125 mph (109 knots)"
+CG range,"(-17.3) to (-7.4). Moment change due to retraction of landing gear 
+ (nose and main) is +1,032 in. lb."
+Datum,Rear face of main wing beam (Sta. 233.65).
+Leveling means,Fore and aft leveling lugs located in left or right wheel pocket.
+Maximum weight,"12,750 lbs."
+No seats,"Two cockpit (-108.65); 10 cabin. (See Approved Airplane Flight Manual 
+ for arrangement.)"
+Maximum baggage,"Forward compartment 460 lb. (Sta. 53 to 93, max. floor loading 50 lb./sq. ft.). 
+ Aft compartment 540 lbs. (Sta. 384 to 428, max. floor loading 75 lb./sq.ft.)"
+1,"2 
+ 3 
+ 4"
+10,"8 
+ 8 
+ 8"
+No,Rev 10: Added Type Certificate holder record and reformatted all pages.
+Fuel capacity,"360 gal. (180 gal. in 7 cells in right and left wing at (-14) for airplane serial 
+ nos. J-49 and up. Original fuel capacity for airplane serial nos. J-1 through 
+ J-4 and J-9, J-10 and J-11 is 330 gal. consisting of 165 gal. in one integral 
+ tank in each wing. Original fuel capacity for airplanes J-8, J-12 through J-48 
+ is 380 gal. consisting of 190 gallons in one integral tank in each wing. J-1 
+ through J-48 also eligible for bladder-type fuel cell installation in accordance 
+ with Grumman data. See Notes 1B and 1C regarding ""System Fuel and Oil."""
+Oil capacity,"20 gal. (Two tanks, 10 gal. each in nacelles) (-16)"
+Control surface movements,"Wing flaps 
+ Up - 
+ Down 45° 
+ Elevator trim tab 
+ Up 70° 
+ Down 25° 
+ Elevator 
+ Up 30° 
+ Down 10° 
+ Aileron 
+ Up 21° 
+ Down 18° 
+ Rudder trim tab 
+ Right 20° 
+ Left 20° 
+ Rudder 
+ Right 25° 
+ Left 25°"
+Serial nos eligible,J-1 and up
+Required equipment,"Items 1, 102, 103, 104(a) or (b), 201, 202, 302 and 401. Item 302, battery 
+ required since electrical power is required for auxiliary electric fuel pumps."
+Specifications Pertinent to All Models,
+Certification basis,"Type Certificate No. 783 (Transport Category, CAR 4a)."
+Production basis,None
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item indicates net 
+ weight change when that item is installed. 
+ Propellers and Propeller Accessories, except De-Icing Equipment 
+ 1. Two Hamilton Standard propellers, hubs 23 D40-51, blades 6533A-18 or 6533A-18S. 
+ 252 lb. each (-79) 
+ Diameter: 8'6-5/16"" max., 8'4-5/16"" min. allowable for repairs. For interchangeable"
+blade models see Propeller spec. no. 719 (Note 6). Low pitch setting 12° at 42 in. sta.,
+propeller hub,"2. Hamilton Standard Propeller Governor 4K11. 
+ 6 lb. each (071) 
+ Engine and Engine Accessories - Fuel and Oil System 
+ 101. Two starters, Eclipse Type 1416-15 
+ 27 lb. each (-42) 
+ 102. Two oil coolers, Clifford Mfg. Co. 10"" Diamond X 
+ 18 lb. each (-49) 
+ 9 in. Long No. B-36690 with UAP 4 port valve UD-4785. 
+ 103. System fuel and oil (see Note 1A for definition). 
+ (a) Unusable fuel and oil is 15 lb./engine and 42 lb./engine respectively. 
+ 114 lb. (-39) 
+ (b) On J-8 and J-12 through J-26 unusable fuel and oil/engine is 27 lb. and 42 lb."
+respectively,"138 lb. (-39) 
+ (c) On J-27 and subsequent usable fuel and oil/engine is 9 lb. and 42 lb. respectively. 
+ 102 lb. (-39)"
+104 Fuel pumps,"(a) Pesco 2E-207, electric-driven fuel booster pump (Serial Nos. J-1, J-2, and J-3) 
+ 6 lb. each (-29) 
+ (b) Thompson Product TFD-10300, electric-driven fuel booster pump"
+Serial No J4 and up,7 lb. each (-29)
+105 Surface combustion heater ADS100N041G,"90 lb. each (+206) 
+ 106. Integral auxiliary fuel tanks (50 gal. each) in wing tip float, including pump and line 
+ 19 lb. each (+10)"
+"107. Two vacuum pumps, Type B-2B or Aero Model A505-DD, for de-icer installation only.",
+108 Oil dilution system,"3 lb. (-39) 
+ 109. Engine - Pratt and Whitney WASP S1H1 
+ Use actual weight increase"
+LIMITS,"HP 
+ RPM 
+ HP In.Hg. 
+ ALT"
+Takeoff 1 minute,"600 
+ 2,250 
+ 36.5 
+ - 
+ 550 
+ 2,200 
+ 35.0 
+ S.L. 
+ 550 
+ 2,200 
+ 33.0 
+ 8,000' 
+ (Straight line MP variation with altitude) 
+ In order to provide adequate engine cooling, when P & W S1H1 engine is installed, cowling and 
+ intercylinder duct must be modified per Grumman Drawings 108335B, 108344, 109050B, and 109051C. 
+ Flight Manual revised pages 1, 2, 5, 6, 9, 11, 26, 30, and 35, approved May 18, 1950, required."
+Landing Gear and Floats,"201. Two 9.50-16 main wheels, Goodyear L 9.50-16HBA, with brakes and"
+95016 6ply nylon tires,"120 lb. each (+4) 
+ 202. 19x6.89-10 nose wheel, Bendix Type B-1, Assembly No. 145308A and 
+ 19x6.80-10 6-ply rayon tire (tire to be placarded for 80 psi inflation pressure). 
+ 37 lb. each (-174)"
+Electric Equipment,"301. Two generators, Eclipse Type 1273-3, installed on J-1, J-2, and J-3. 
+ 32 lb. each (-58) 
+ Leece & Neville 2471-G12, installed on J-4 through J-9 
+ Leece & Neville 2473-G12, installed on J-10 and subsequent"
+302 Battery Exide 12TS9L,"73 lb. (-4) 
+ 303. Two landing lights, Grimes G-3801-1 or G-3801-3 
+ 7 lb. each ((+18)"
+Interior Equipment,"401. CAA Approved Airplane Flight Manual revised June 30, 1947. 
+ (The manual may be carried as part of or bound with the operator's ""Approved 
+ Operations Manual"" but must remain in the airplane and must retain its"
+identity as an individual manual,"402. Two 3- minute parachute flares, International 
+ 23 lb. each (+221) 
+ 403. Two windshield wipers, Kearfoot Type 
+ 2 lb. each (-134) 
+ 404. Safety belt and harness assembly, NAF 1201-1 (cockpit)"
+405. Sperry Model A-12 automatic pilot installation,
+406 Lear L2C automatic pilot,"To be installed in accordance with Lear Drawing No. 95600. 
+ 62 lb. (- 7) 
+ The following placards to be installed: 
+ (1) On autopilot master switch, ""AUTOPILOT MASTER SWITCH ON,"" 
+ (2) On quick disconnect switch, ""AUTOPILOT DISCONNECT ON-OFF,"" 
+ (3) In plain view of the pilot, ""DO NOT USE AUTOPILOT BELOW 450 FEET ABOVE 
+ TERRAIN IN CRUISE CONFIGURATION,"" ""DO OT USE AUTOPILOT BELOW 
+ 300 FEET ABOVE TERRAIN IN APPROACH CONFIGURATION."" Servo 
+ slipclutch settings measured on the ground: rudder 175 lb., aileron 50"" lb., 
+ elevator 75"" lb. (Approach coupler not investigated; therefore, not eligible.) 
+ Airplane Flight Manual Supplement dated January 14, 1952, is required equipment. 
+ De-Icing Equipment (Propellers, Wing and Windshield)"
+"501. Surface de-icers, Goodrich Type II, Model 705",
+a Two wing boots removable,24 lb. each ( -23)
+b Stabilizer boot removable,8 lb. each (+272)
+c Fin boot removable,"7 lb. (+300) 
+ (d) De-icer installation general equipment (fixed portion)"
+1 Mechanically cycled installation,60 lb. (+17)
+2 Electronically cycled installation,74 lb. (+37)
+502 Propeller antiicer,"(a) Propeller lines and Hamilton Standard slinger rings 
+ 4 lb. (- 79) 
+ (b) 7.5 gal. alcohol tank, pump and accessories (fluid weight 50 lb.) 
+ 62 lb. (+ 7)"
+503 Windshield antiicer,"(Utilizes fluid from propeller anti-icer tank) 
+ 2 lb. (- 19)"
+Miscellaneous not listed above,"601. Installation of revised wing leading edge in accordance with Grumman Drawing 
+ No. 106930. (Not eligible with Item 501 installed.) 
+ 30 lb. (- 19)"
+NOTE 1,"A. Current weight and balance report including list of equipment included in 
+ certificated empty weight, and loading instructions when necessary, must be 
+ in each aircraft at the time of original certification and at all times thereafter 
+ (except in the case of air carrier operators having an approved weight control system)."
+B,"""System Fuel and Oil"" is that amount required to fill both systems and the tanks up 
+ to the tank outlets to the engines, when the airplane is in the level attitude. ""System 
+ Fuel and Oil"" and all hydraulic fluid must be included in the certificated weight empty."
+C,"Fuel and oil tank capacities do not include any ""System Fuel and Oil."""
+NOTE 2,"The following placard shall be placed in the instrument panel in full view of the pilot. 
+ ""THIS AIRPLANE SHALL BE OPERATED IN ACCORDANCE WITH SECTION 1 
+ 'OPERATING LIMITATIONS' OF FLIGHT MANUAL WHICH SHALL BE CARRIED 
+ IN THE PILOT'S COMPARTMENT AT ALL TIMES."""

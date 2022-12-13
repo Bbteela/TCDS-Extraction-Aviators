@@ -1,0 +1,2967 @@
+Keyterm,Info
+"6A5 
+ Revision 25 
+ LOCKHEED 
+ 1049-54 
+ 1049B-55 
+ (Navy R7V-1) 
+ 1049C-55 
+ 1049D-55 
+ 1049E-55 
+ 1049F-55 
+ (USAF C-121C) 
+ 1049G-82 
+ 1049H-82 
+ July 23, 2012",
+Type Certificate Holder,"Lockheed Martin Aeronautics Company 
+ 86 South Cobb Drive 
+ Marietta, GA 30063"
+Type Certificate Holder Record,"Lockheed Aircraft Corporation 
+ Burbank, California"
+"I - Model 1049-53 deleted June 9, 1953. All 1049-53 aircraft converted to Model 1049-54. 
+ II - Model 1049-54, Approved May 14, 1952",
+Engines,4 Wright Cyclones 975C18CB-1 with 16:7 reduction gear ratio
+Fuel,AN grade 115/145 (See NOTE 15 for engine limits when using low grade fuel)
+Engine limits,"Low impeller ratio 6.46:1 
+ Maximum continuous: 
+ (Sea level) 48.0 in.hg., 2600 rpm (2400 hp) 
+ (Straight line manifold pressure variation with altitude to 5300 ft.) 
+ 46.0 in. hg., 2600 rpm (2400 hp) 
+ Take-off (2 minutes): 
+ (Sea level) 54.5 in.hg., 2900 rpm (2800 hp) 
+ (Straight line manifold pressure variation with altitude to 4500 ft.) 
+ 52.5 in.hg., 2900 rpm (2800 hp). 
+ High impeller ratio 8.67:1 
+ Maximum continuous: 
+ (10,800 ft.) 47.5 in.hg., 2600 rpm (2000 hp) 
+ (Straight line manifold pressure variation with altitude to 
+ 16,000 ft.) 46.0 in.hg., 2600 rpm (2000 hp)."
+Airspeed limits,"Vno (Normal Operation) 
+ 300 mph (260 knots) True Ind. 
+ (Above 11,000' reduce speed 
+ 10 mph ( 9 knots) for each 
+ additional 2000') 
+ Vne (Never Exceed) 
+ 338 mph (293 knots) True Ind. 
+ (Above 11,000' reduce speed 
+ 12 mph ( 11 knots) for each 
+ additional 2000') 
+ Va (Maneuvering) 
+ 208 mph (180 knots) True Ind. 
+ Vf (Takeoff position-60%) 
+ 212 mph (184 knots) True Ind."
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15"
+25,"- 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 24 
+ - 
+ - 
+ - 
+ - 
+ - 
+ -"
+16,"17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31"
+,"24 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 24 
+ Vf (Approach position-66%) 
+ 186 mph (161 knots) True Ind. 
+ Vf (80%) 
+ 177 mph (153 knots) True Ind. 
+ Vf (Landing position-100%) 
+ 171 mph (148 knots) True Ind. 
+ Vlo (Landing Gear Operation) 
+ 190 mph (165 knots) True Ind. 
+ Vle (Landing Gear Extension) 
+ 190 mph (165 knots) True Ind. 
+ Mach No. - Never Exceed .54"
+CG range,"See NOTE 1(b) for required loading and gear retraction moment. 
+ Condition 
+ Weight 
+ Landing 
+ Fwd. 
+ Limit 
+ Aft. 
+ Limit 
+ lbs. 
+ gear 
+ sta. 
+ %MAC 
+ sta. 
+ %Mac 
+ Take-off 
+ 120,000* 
+ Down 
+ 665.8* 
+ 21.0 
+ 685.2 
+ 32.0 
+ 98,500* Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Landing 
+ 98,500 
+ Down 
+ 660.5 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Cruising 
+ 120,000* 
+ Up 
+ 661.5* 
+ 18.6 
+ 688.7 
+ 34.0 
+ Flight 
+ 98,500* Up 
+ 655.2* 
+ 15.0 
+ 688.7 
+ 34.0 
+ or less 
+ * Straight line variation between these values."
+Weight limits,"Landing 98,500 lbs. See NOTE 8 for higher weight"
+See NOTE 15 for,"Take-off 120,000 lbs. (Dump valves are required)"
+limits when using,"Maximum zero fuel weight 93,500 lbs. See NOTES 1(e) for fuel loading and 8 for"
+low grade fuel,"higher weight. 
+ 3-engine ferrying 100,000 lbs. See FAA Approved Airplane Flight Manual for 
+ applicable restrictions."
+Minimum crew,3. Pilot and Copilot at +190 and Flight Engineer at +226.
+Passengers,"Maximum 88 (CAR 4b.433). See Approved Weight and Balance Report for actual 
+ number and location."
+Baggage,"Maximum capacity of internal baggage and storage compartments: 
+ Vol. 
+ Max. Floor 
+ Cap. 
+ Compt. 
+ (cu. ft.) 
+ loading psf 
+ (lbs.) 
+ C.G. 
+ Fwd. cargo compartment, 
+ fwd. portion F.S. 333.6 to 482 
+ 72 
+ 70 
+ 1440 
+ (+407.8) 
+ Fwd. cargo compartment, 
+ aft portion F.S. 482 to 638 
+ 194 
+ 70 
+ 3880 
+ (+560) 
+ Aft cargo compartment, 
+ fwd. portion F.S. 750 to 932 
+ 230 
+ 70 
+ 4600 
+ (+841) 
+ Aft cargo compartment, 
+ aft portion F.S. 932 to 1139.8 
+ 160 
+ 70 
+ 3200 
+ (+1036) 
+ -67 interior 
+ Left hand fwd. 
+ 450 
+ (+ 497) 
+ Right hand fwd. 
+ 700 
+ (+ 497) 
+ Left hand aft 
+ 600 
+ (+1150) 
+ Wash water, -67 interiors 
+ 209 
+ (+1075) 
+ Galley water, -67 interiors 
+ 125 
+ (+ 380) 
+ Galley installation and supplies, 67 interiors 
+ 45 (a) 
+ (a) Galley areas between Stations 260 and 343.5 are structurally satisfactory for a 
+ uniformly distributed load over the entire area of 45 psf or a uniformly distributed 
+ load of 55 psf on each side of the 20 inch aisle. Galley installations and their 
+ contents shall not exceed these loadings. Fixed equipment such as galleys shall be 
+ listed on the Approved Equipment List together with pertinent weights and arms."
+Fuel capacity,"See NOTE 1(c) regarding ""Usable fuel and System Oil."" 
+ Tanks 2 and 3 (inboard) 
+ ( 790 gal. ea.) 9,480 lbs. (+692) 
+ Tanks 1 and 4 (middle) 
+ (1555 gal. ea.) 18,660 lbs. (+689) 
+ Tanks 2a and 3a (outboard) ( 565 gal. ea.) 6,780 lbs. (+687) 
+ Tank 5 (center section 
+ ( 730 gallons) 4,380 lbs. (+694) when installed)"
+Oil capacity,"See NOTE 1(c) regarding ""Unusable Fuel and System Oil."" 
+ (a) (2 inboard tanks (with aux. tank) and (58 gal.ea.) 870 lbs. (+584) 
+ (2 outboard tanks (with aux. tank); or (58 gal.ea.) 870 lbs. (+603). 
+ (b) (2 inboard tanks (without aux. tank) and (55 gal.ea.) 825 lbs. (+584) 
+ (2 outboard tanks (without aux. tank) (55 gal.ea.) 825 lbs. (+603)."
+Serial Nos eligible,1049/4001 through 1049/4024 (See Equipment Item 400)
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 4b, the following 
+ items of equipment must be installed: 
+ Items 1(a) or (c); 101(a) or (b); 103(a); 104(a); 105(a); 107(a) or (b); 200(a) or (b); 
+ 201(a); 202(a)(1), (2) or (3); 203(a) or (b); 204(a)(1), (a)(2) or (b)(1); 205(a) or (b); 
+ 206(a) or (b); 300(a); 301(a); 303(a) or (b); 400; 440; 441(a) or (b); 508(a)."
+"III - Model 1049B-55 (Navy R7V-1), Approved October 28, 1953. (Same as Model 1049-54 except engines, design weights, 
+ and certain structural changes. This airplane is basically a cargo rather than passenger carrier) (See NOTE 5 for modifications 
+ necessary for civil conversion of R7V-1).",
+Engines,"4 Wright Cyclones 972TC18DA1 with 16:7 reduction gear ratio and 6.52:1 Turbo 
+ drive 
+ ratio."
+Fuel,AN grade 115/145 (See NOTE 16 for engine limits when using low grade fuel)
+Engine limits,"Low impeller ratio 6.46:1 
+ Maximum continuous: 
+ (Sea level) 47.5 in.hg., 2600 rpm (2600 hp) 
+ (Straight line manifold pressure variation with altitude to 6500 ft.) 45.0 in. hg., 
+ 2600 rpm (2650 hp) 
+ Takeoff (2 minutes): 
+ (Sea level) 56.5 in.hg., 2900 rpm (3250 hp) 
+ (Straight line manifold pressure variation with altitude to 5000 ft.) 53.0 in.hg., 
+ 2900 rpm (3250 hp). 
+ High impeller ratio 8.67:1 
+ Maximum continuous: 
+ (9,550 ft.) 48.5 in.hg., 2600 rpm (2400 hp) 
+ (Straight line manifold pressure variation with altitude to 16,400 ft.) 47.0 in.hg., 
+ 2600 rpm (2450 hp)."
+Airspeed limits,"Vno (Normal Operation) 
+ 300 mph (260 knots) True Ind. 
+ (Above 12,500' reduce speed 
+ 11 mph ( 10 knots) for ea. additional 2000') 
+ Vne (Never Exceed) 
+ 338 mph (293 knots) True Ind. 
+ (Above 12,500' reduce speed 
+ 13 mph ( 11 knots) for ea. additional 2000') 
+ Va (Maneuvering) 
+ 218 mph (189 knots) True Ind. 
+ Vf (Takeoff position-60%) 
+ 220 mph (191 knots) True Ind. 
+ Vf (Approach position-66%) 
+ 200 mph (174 knots) True Ind. 
+ Vf (80%) 
+ 200 mph (174 knots) True Ind. 
+ Vf (Landing position-100%) 
+ 180 mph (156 knots) True Ind. 
+ Vlo (Landing Gear Operation) 
+ 190 mph (165 knots) True Ind. 
+ Vle (Landing Gear Extension) 
+ 190 mph (165 knots) True Ind. 
+ Mach No. - Never Exceed .56"
+CG range,"See NOTE 1(b) for required loading and gear retraction moment. 
+ Condition 
+ Weight 
+ Landing 
+ Fwd. 
+ Limit 
+ Aft. 
+ Limit 
+ lbs. 
+ gear 
+ sta. 
+ %MAC 
+ sta. 
+ %Mac 
+ Take-off 
+ 135,000* 
+ Down 
+ 667.2* 
+ 21.0 
+ 685.2 
+ 32.0 
+ 105,000* 
+ Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Landing 
+ 110,000* 
+ Down 
+ 661.6 
+ 18.0 
+ 685.2 
+ 32.0 
+ 105,000* 
+ Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Cruising 
+ 133,000* 
+ Up 
+ 665.8* 
+ 21.0 
+ 688.7 
+ 34.0 
+ Flight 
+ 90,000* Up 
+ 655.2* 
+ 15.0 
+ 688.7 
+ 34.0 
+ or less 
+ * Straight line variation between these values."
+Weight limits,"Landing 110,000 lbs."
+See NOTE 16 for,"Takeoff 133,000 lbs. # with auto-feathering (Dump valves are required.) See"
+limits when using,"Equipment Item 1 (b), or (c) or (d) for takeoff weight"
+low grade fuel,"with auto feathering inoperative. 
+ #130,000 lbs. for serial Nos. 4101 through 4139 unless modified in 
+ accordance with NOTE 6. 
+ Maximum zero fuel weight 105,000 lbs. See NOTE 1(e) for fuel loading. 
+ 3-engine ferrying 100,000 lbs. See FAA Approved Airplane Flight Manual for 
+ applicable restrictions."
+Minimum crew,3. Pilot and Co-pilot at +190 and Flight Engineer at +226.
+Passengers,"All Serial Numbers originally certificated as cargo carriers. See NOTE 9 for 
+ conversion to passenger configuration."
+Maximum cargo,"Maximum 
+ Maximum Floor 
+ Compartment 
+ Station 
+ Cap. (lbs.) loading psf 
+ Arm 
+ C (Main Cabin) 
+ 260-287 
+ 1000** 
+ 300 
+ 274 
+ D (Main Cabin) 
+ 287-370 
+ 3900 
+ 300 
+ 329 
+ E (Main Cabin) 
+ 370-444 
+ 6100 
+ 300 
+ 408 
+ F (Main Cabin) 
+ 444-509 
+ 5400 
+ 300 
+ 477 
+ G (Main Cabin) 
+ 509-583 
+ 6100 
+ 300 
+ 546 
+ H (Main Cabin) 
+ 583-656 
+ 6100 
+ 300 
+ 620 
+ I (Main Cabin) 
+ 656-732 
+ 6300 
+ 300 
+ 694 
+ J (Main Cabin) 
+ 732-806 
+ 6100 
+ 300 
+ 769 
+ K (Main Cabin) 
+ 806-879 
+ 6100 
+ 300 
+ 842 
+ L (Main Cabin) 
+ 879-953 
+ 6100 
+ 300 
+ 916 
+ M (Main Cabin) 
+ 953-1026 
+ 6100 
+ 300 
+ 989 
+ N (Main Cabin) 
+ 1026-1158 
+ 7200 
+ 300 
+ 1089 
+ O (Main Cabin) 
+ 1158-1258 
+ 2900 
+ 300 
+ 1198 
+ Q (Lower Cargo Compt) 
+ 334-482 
+ 2800 
+ 70 
+ 402 
+ R (Lower Cargo Compt) 
+ 482-638 
+ 5040 
+ 70 
+ 558 
+ S (Lower Cargo Compt) 
+ 750-932 
+ 5950 
+ 70 
+ 821 
+ T (Lower Cargo Compt) 
+ 932-1140 
+ 6370 
+ 70 
+ 1004 
+ Maximum combined accumulated load of both cabin and lower cargo compartments 
+ from extremities of cabin toward main frames: 
+ Forebody 
+ Afterbody 
+ From Sta. 260 to 
+ From Sta. 1258 forward to: 
+ Sta. 287 
+ 300 lbs. 
+ Sta. 1158 2,900 lbs. 
+ Sta. 370 
+ 3,900 lbs. 
+ Sta. 1026 7,200 lbs. 
+ Sta. 444 
+ 6,900 lbs. 
+ Sta. 953 
+ 9,800 lbs. 
+ Sta. 509 
+ 9,700 lbs. 
+ Sta. 879 14,100 lbs. 
+ Sta. 583 14,700 lbs. 
+ Sta. 806 18,300 lbs. 
+ Sta. 656 20,800 lbs. 
+ Sta. 732 23,500 lbs. 
+ ** Including radio and galley equipment (700#) in compartment C. 
+ All cargo loading must be secured with the tie-downs provided since there are no 
+ restraining or crash bulkhead provisions."
+Fuel capacity,"See NOTE 1(c) regarding ""Unusable Fuel & System Oil."" 
+ Tanks 2 and 3 
+ (inboard) 
+ ( 790 gal. ea.) 9,480 lbs. (+692). 
+ Tanks 1 and 4 
+ (middle) 
+ (1555 gal. ea.) 18,660 lbs. (+689) 
+ Tanks 2a and 3a (outboard) 
+ ( 565 gal. ea.) 6,780 lbs. (+687). 
+ Tank 5 
+ (center section) 
+ ( 730 gallons) 4,380 lbs. (+694)"
+Oil capacity,"See NOTE 1(c) regarding ""Unusable Fuel & System Oil."" 
+ 2 inboard tanks 
+ (40 gal. ea.) 600 lbs. (+634) 
+ 2 outboard tanks 
+ (40 gal. ea.) 600 lbs. (+636) 
+ 1 auxiliary cell (center section) 
+ (67 gallons) 502 lbs. (+674)"
+Serial Nos eligible,"1049B/4101 through 1049B/4111; 1049B/4122 through 1049B/4130; 1049B/4133 
+ through 1049B/4150; 1049B/4152 through 1049B/4160; and 1049B/4167 through 
+ 1049B/4169."
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 4b, the following 
+ items of equipment must be installed: 
+ Items 1(b), (c) or (d); 101(c), (d), (e), (f), (g) or (h); 103(b) or (c); 104(b) or (c); 
+ 105(a); 107(b); 200(b); 201(a); 202(a)(2) or (3); 203(b); 204(a)(1), (a)(2) or (b)(1); 
+ 205(a) or (b); 206(a) or (b); 300(b); 301(a); 303(c) or (e); 400; 440; 441(e); 508(a)."
+"IV - Model 1049C-55, Approved June 9, 1953, and Model 1049E-55, Approved May 26, 1954. 
+ (Same as Model 1049-54 except engines, design weights, structural changes of wings, fuselage, nacelles and landing gear, and 
+ installation of sealed ""Class D"" lower cargo compartments. The Model 1049E-55 is the same as the Model 1049C-55 with 
+ miscellaneous structural revisions",
+Engines,"4 Wright Compound 972TC18DA1 with 16:7 reduction gear ratio and 6.52:1 Turbo 
+ drive ratio. (Also eligible with 972TC18DA3, 988TC18EA3, and 988TC18EA6. See 
+ Item 111 for engine limits with these engines)"
+Fuel,AN grade 115/145 (See NOTE 16 for engine limits when using low grade fuel)
+Engine limits,"Low impeller ratio 6.46:1 
+ Maximum continuous: 
+ (Sea level) 47.5 in.hg., 2600 rpm (2600 hp) 
+ (Straight line manifold pressure variation with altitude to 6500 ft.) 45.0 in. hg., 
+ 2600 rpm (2650 hp) 
+ Takeoff (2 minutes at sea level; 5 minutes at 7500 ft.; straight line variation of takeoff 
+ power time with altitude to 7500 ft.): 
+ (Sea level) 56.5 in.Hg., 2900 rpm (3250 hp) 
+ (Straight line manifold pressure variation with altitude to 5000 ft.) 53.0 in.Hg., 
+ 2900 rpm (3250 hp) 
+ High impeller ratio 8.67:1 
+ Maximum continuous: 
+ (9550 ft.) 48.5 in.hg., 2600 rpm (2400 hp) 
+ (Straight line manifold pressure variation with altitude to 16,400 ft.) 47.0 in.hg., 
+ 2600 rpm (2450 hp)."
+Airspeed limits,"Vno (Normal Operation) 
+ 300 mph (260 knots) True Ind. 
+ (Above 12,500' reduce speed 11 mph ( 10 knots) for each additional 2000') 
+ Vne (Never Exceed) 
+ 338 mph (293 knots) True Ind. 
+ (Above 12,500' reduce speed 13 mph ( 11 knots) for each additional 2000') 
+ Va (Maneuvering) 
+ 218 mph (189 knots) True Ind. 
+ Vf (Takeoff position-60%) 
+ 220 mph (191 knots) True Ind. 
+ Vf (Approach position-66%) 
+ 200 mph (174 knots) True Ind. 
+ Vf (80%) 
+ 200 mph (174 knots) True Ind. 
+ Vf (Landing position-100%) 
+ 180 mph (156 knots) True Ind. 
+ Vlo (Landing Gear Operation) 
+ 190 mph (165 knots) True Ind. 
+ Vle (Landing Gear Extension) 
+ 190 mph (165 knots) True Ind. 
+ Mach No. - Never Exceed .56"
+CG range,"See NOTE 1(b) for required loading and gear retraction moment. 
+ Condition 
+ Weight 
+ Landing 
+ Fwd. Limit 
+ Aft.Limit 
+ lbs. 
+ gear 
+ sta. 
+ %MAC 
+ sta. 
+ %Mac 
+ Take-off 
+ 133,000* 
+ Down 
+ 670.3* 
+ 23.5 
+ 685.2 
+ 32.0 
+ 90,000* Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Landing 
+ 110,000* 
+ Down 
+ 664.9 
+ 20.5 
+ 685.2 
+ 32.0 
+ 90,000* Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Cruising 
+ 133,000* 
+ Up 
+ 665.8* 
+ 21.0 
+ 688.7 
+ 34.0 
+ Flight 
+ 90,000* Up 
+ 655.2* 
+ 15.0 
+ 688.7 
+ 34.0 
+ or less 
+ * Straight line variation between these values."
+Weight limits,"Landing 
+ 110,000 lbs. See NOTE 13 for higher landing weight."
+See NOTE 16 for,"Takeoff 
+ 133,000 lbs. with autofeathering (Dump valves are required."
+limits when using,"See Equipment Item 1(b), (c), (d), (e) or (f)"
+low grade fuel,"for takeoff weight with autofeathering inoperative, 
+ and NOTE 7 for takeoff weight when oil transfer 
+ system is not installed. See NOTE 12 for higher 
+ takeoff weight. 
+ Maximum zero fuel weight 103,500 lbs. See NOTE 1(e) for fuel loading. 
+ 3-engine ferrying 100,000 lbs. See FAA Approved Airplane Flight 
+ Manual for applicable restrictions."
+Minimum crew,"3. 
+ Pilot and Co-pilot at +190 and Flight engineer at +226."
+Passengers,"Maximum 99 occupants (passengers plus crew) (CAR 4b.433 and SR 389 effective 
+ October 27, 1952.) See Approved Weight and Balance Report for actual number and 
+ location."
+Baggage,"Maximum capacity of internal baggage and storage compartments: 
+ Vol. 
+ Max. Floor 
+ Cap. 
+ Compt. 
+ (cu. ft.) 
+ loading psf 
+ (lbs.) 
+ C.G. 
+ (A) Fwd. cargo compartment, 
+ fwd. portion F.S. 334 to 482 
+ 77 
+ 70 
+ 1500 
+ (+402) 
+ (B) Fwd. cargo compartment, 
+ aft portion F.S. 482 to 638 
+ 194 
+ 70 
+ 3880 
+ (+558) 
+ (C) Aft cargo compartment, 
+ fwd. portion F.S. 750 to 932 
+ 230 
+ 70 
+ 4600 
+ (+821) 
+ (D) Aft cargo compartment, 
+ aft portion F.S. 932 to 1140 
+ 194 
+ 70 
+ 3880 
+ (+1004) 
+ Coat closet 
+ 200 
+ (+1000) 
+ Coat closets L. & R. 
+ 400 
+ (+1165) 
+ Wash water 
+ 500 
+ (+ 980) 
+ Galley areas between Stations 930 and 1014 and 10"" from airplane centerline R.H. side is structurally 
+ satisfactory for a maximum total load of 2,300 pounds, with a maximum unit floor loading of 70 pounds 
+ per square foot. 
+ Galley storage area between Stations 930 and 950 and 10"" from airplane centerline L.H. side is structurally 
+ satisfactory for a maximum total load of 500 pounds with a maximum unit floor loading of 90 pounds per 
+ square foot. 
+ Cabin Cargo Compartment A (optional) Fus. Sta. 260-339 R.H. 
+ 900 (+309) 
+ Cabin Cargo Compartment B (optional) Fus. Sta. 339-467.5 
+ 5200* (+403) 
+ *With lower cargo Compartment A empty. Maximum capacity must be decreased by the amount of any 
+ load carried in lower cargo Compartment A."
+Fuel capacity,"See NOTE 1(c) regarding ""Usable fuel and System Oil."" 
+ Tanks 2 and 3 
+ (inboard) 
+ ( 790 gal. ea.) 9,480 lbs. (+692) 
+ Tanks 1 and 4 
+ (middle) 
+ (1555 gal. ea.) 18,660 lbs. (+689) 
+ Tanks 2a and 3a (outboard) 
+ ( 565 gal. ea.) 6,780 lbs. (+687) 
+ Tank 5 (center section) 
+ ( 730 gal. ea.) 4,380 lbs. (+694)"
+Oil capacity,"See NOTE 1(c) regarding ""Unusable Fuel and System Oil."" 
+ 2 inboard tanks 
+ (40 gal. ea.) 600 lbs. (+634) 
+ 2 outboard tanks 
+ (40 gal. ea.) 600 lbs. (+636). 
+ 1 auxiliary cell (center sect.) 
+ (67 gal. ea.) 502 lbs. (+674)"
+Serial Nos eligible,"1049C/4501 through 1049C/4548; 1049E/4549 through 1049E/4665, 1049E/4573, 
+ 1049E/4574; 1049E/4578 through 1049E/4581; 1049E/4606, 1049E/4607; 1049E/4613 
+ through 1049E/4615."
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 4b, the following 
+ items of equipment must be installed: 
+ Items 1(b), (c), (d), (e) or (f); 101(c), (d), (e), (f), (g) or (h); 103(b) or (c); 104(b) or 
+ (c); 105(a); 107(b); 200(b); 201(a); 202(a)(2) or (3); 203(b); 204(a)(1), (a)(2) or (b)(1); 
+ 205(a) or (b); 206(a) or (b); 300(b); 301(a); 303(c) or (e); 400; 440; 441(c), (d) or (f); 
+ 508(a)."
+"V - Model 1049D-55, Approved August 12, 1954. (Same as Model 1049B-55 except for passenger seat installation, additional 
+ emergency exits are installed, and the lower cargo compartments are Class D per CAR 4b-383(d).)",
+Engines,"4 Wright Compound 972TC18DA1 with 16:7 reduction gear ratio and 6.52:1 Turbo 
+ drive ratio. (Also eligible with 972TC18DA3, 988TC18EA3 and 988TC18EA6. See 
+ Item 111 for engine limits with these engines)"
+Fuel,AN grade 115/145 (See NOTE 16 for engine limits when using low grade fuel)
+Engine limits,"Low impeller ratio 6.46:1 
+ Maximum continuous: 
+ (Sea level) 47.5 in.hg., 2600 rpm (2600 hp) 
+ (Straight line manifold pressure variation with altitude to 6500 ft.) 45.0 in. hg., 
+ 2600 rpm (2650 hp) 
+ Takeoff (2 minutes at sea level; 5 minutes at 7500 ft.; 
+ straight line variation of takeoff power time with altitude to 7500 ft.): 
+ (Sea level) 56.5 in.hg., 2900 rpm (3250 hp) 
+ (Straight line manifold pressure variation with altitude to 5000 ft.) 53.0 in.hg., 
+ 2900 rpm (3250 hp). 
+ High impeller ratio 8.67:1 
+ Maximum continuous: 
+ (9550 ft.) 48.5 in.hg., 2600 rpm (2400 hp) 
+ (Straight line manifold pressure variation with altitude to 16,400 ft.) 
+ 47.0 in.hg., 2600 rpm (2450 hp)."
+Airspeed limits,"Vno (Normal Operation) 
+ 300 mph (260 knots) True Ind. 
+ (Above 12,500' reduce speed 11 mph ( 10 knots) for each additional 2000') 
+ Vne (Never Exceed) 
+ 338 mph (293 knots) True Ind. 
+ (Above 12,500' reduce speed 13 mph ( 11 knots) for each additional 2000') 
+ Va (Maneuvering) 
+ 218 mph (189 knots) True Ind. 
+ Vf (Takeoff position-60%) 
+ 220 mph (191 knots) True Ind. 
+ Vf (Approach position-66%) 
+ 200 mph (174 knots) True Ind. 
+ Vf (80%) 
+ 200 mph (174 knots) True Ind. 
+ Vf (Landing position-100%) 
+ 180 mph (156 knots) True Ind. 
+ Vlo (Landing Gear Operation) 
+ 190 mph (165 knots) True Ind. 
+ Vle (Landing Gear Extension) 
+ 190 mph (165 knots) True Ind. 
+ Mach No. - Never Exceed .56"
+CG range,"See NOTE 1(b) for required loading and gear retraction moment. 
+ (A) Passenger or Mixed Cargo-Passenger Loading 
+ Condition 
+ Weight 
+ Landing 
+ Fwd. Limit 
+ Aft.Limit 
+ lbs. 
+ gear 
+ sta. 
+ %MAC 
+ sta. 
+ %Mac 
+ Take-off 
+ 133,000* 
+ Down 
+ 670.23* 23.5 
+ 685.2 
+ 32.0 
+ 90,000* Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Landing 
+ 110,000* 
+ Down 
+ 661.6* 
+ 20.5 
+ 685.2 
+ 32.0 
+ 105,000* 
+ Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Cruising 
+ 133,000* 
+ Up 
+ 665.8* 
+ 21.0 
+ 688.7 
+ 34.0 
+ Flight 
+ 90,000* Up 
+ 655.2* 
+ 15.0 
+ 688.7 
+ 34.0 
+ or less 
+ *Straight line variation between these values. 
+ (B) All Cargo Loading 
+ Condition 
+ Weight 
+ Landing 
+ Fwd. Limit 
+ Aft.Limit 
+ lbs. 
+ gear 
+ sta. 
+ %MAC 
+ sta. 
+ %Mac 
+ Take-off 
+ 133,000* 
+ Down 
+ 670.23* 21.8 
+ 685.2 
+ 32.0 
+ 105,000* 
+ Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Landing 
+ 110,000* 
+ Down 
+ 661.6* 
+ 18.6 
+ 685.2 
+ 32.0 
+ 105,000* 
+ Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Cruising 
+ 133,000* 
+ Up 
+ 665.8* 
+ 21.0 
+ 688.7 
+ 34.0 
+ Flight 
+ 90,000* Up 
+ 655.2* 
+ 15.0 
+ 688.7 
+ 34.0 
+ or less 
+ *Straight line variation between these values."
+Weight limits,"Landing 
+ 110,000 lbs."
+See NOTE 11 for,"Takeoff 
+ 133,000 lbs. with autofeathering (Dump valves are required."
+higher weights,"See Equipment Item 1(b), (c), (d), (e) or (f)"
+NOTE 16 for weight,"for takeoff weight with autofeathering inoperative,"
+limits when using low,and NOTE 7 for takeoff weight when oil transfer
+grade fuel NOTE 19,system is not installed. Maximum zero fuel weight
+for application of SR411A,"105,000 lbs. See NOTE 1(e) for fuel loading. 
+ 3-engine ferrying 100,000 lbs. See FAA Approved Airplane Flight Manual for 
+ applicable restrictions."
+Minimum crew passengers,"3. 
+ Pilot and Copilot at +190 and Flight Engineer at +226. Maximum 112 occupants 
+ (passengers plus crew) (CAR 4b.433 and SR 389 effective October 27, 1952.) 
+ See approved Weight and Balance Report for actual number and location."
+Maximum cargo,"Maximum 
+ Maximum Floor 
+ Compartment 
+ Station 
+ Cap. (lbs.) loading psf 
+ Arm 
+ A (Main Cabin) 
+ 260-339 
+ 2900 
+ 300 
+ 300 
+ B (Main Cabin) 
+ 339-444 
+ 7200 
+ 300 
+ 392 
+ C (Main Cabin) 
+ 444-509 
+ 5400 
+ 300 
+ 477 
+ D (Main Cabin) 
+ 509-583 
+ 6100 
+ 300 
+ 546 
+ E (Main Cabin) 
+ 583-656 
+ 6100 
+ 300 
+ 620 
+ F (Main Cabin) 
+ 656-732 
+ 6300 
+ 300 
+ 694 
+ G (Main Cabin) 
+ 732-806 
+ 6100 
+ 300 
+ 769 
+ H (Main Cabin) 
+ 806-879 
+ 6100 
+ 300 
+ 842 
+ I (Main Cabin) 
+ 879-953 
+ 6100 
+ 300 
+ 916 
+ J (Main Cabin) 
+ 953-1026 
+ 6100 
+ 300 
+ 989 
+ K (Main Cabin) 
+ 1026-1158 
+ 7700 
+ 300 
+ 1089 
+ L (Main Cabin) 
+ 1158-1258 
+ 3400 
+ 300 
+ 1198 
+ A (Lower Cargo Compt) 
+ 334-482 
+ 2800 
+ 70 
+ 402 
+ B (Lower Cargo Compt) 
+ 482-638 
+ 5040 
+ 70 
+ 558 
+ C (Lower Cargo Compt) 
+ 750-932 
+ 5950 
+ 70 
+ 821 
+ D (Lower Cargo Compt) 
+ 932-1140 
+ 6370 
+ 70 
+ 1004 
+ Maximum combined accumulated load of both cabin and lower cargocompartments 
+ from extremities of cabin toward main frames: 
+ Forebody 
+ Afterbody 
+ From Sta. 260 to: 
+ From Sta. 1258 forward to: 
+ Sta. 339 
+ 2,900 lbs. 
+ Sta. 1158 3,400 lbs. 
+ Sta. 444 
+ 7,200 lbs. 
+ Sta. 1026 7,700 lbs. 
+ Sta. 509 10,000 lbs. 
+ Sta. 953 10,300 lbs. 
+ Sta. 583 15,000 lbs. 
+ Sta. 879 14,600 lbs. 
+ Sta. 656 21,100 lbs. 
+ Sta. 806 18,800 lbs. 
+ Sta. 732 24,000 lbs. 
+ All cargo loading must be secured with the tie-downs provided since there are no 
+ restraining or crash bulkhead provisions."
+Fuel capacity,"See NOTE 1(c) regarding ""Unusable Fuel & System Oil."" 
+ Tanks 2 and 3 
+ (inboard) 
+ ( 790 gal. ea.) 9,480 lbs. (+692). 
+ Tanks 1 and 4 
+ (middle) 
+ (1555 gal. ea.) 18,660 lbs. (+689) 
+ Tanks 2a and 3a (outboard) 
+ ( 565 gal. ea.) 6,780 lbs. (+687). 
+ Tank 5 
+ (center section) 
+ ( 730 gallons) 4,380 lbs. (+694)"
+Oil capacity,"See NOTE 1(c) regarding ""Unusable Fuel & System Oil."" 
+ 2 inboard tanks 
+ (40 gal. ea.) 600 lbs. (+634) 
+ 2 outboard tanks 
+ (40 gal. ea.) 600 lbs. (+636) 
+ 1 auxiliary cell (center section) 
+ (67 gallons) 502 lbs. (+674)"
+Serial Nos eligible,1049D/4163 through 1049D/4166
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 4b, the following 
+ items of equipment must be installed: 
+ Items 1(b), (c), (d), (e) or (f); 101(c), (d), (e), (f), (g) or (h); 103(b) or (c); 104(b) or 
+ (c); 105(a); 107(b); 200(b); 201(a); 202(a)(2) or (3); 203(b); 204(a)(1), (a)(2) or (b)(1); 
+ 205(a) or (b); 206(b); 300(b); 301(a); 303(c) or (e); 400; 440; 441(g); 508(a)."
+"VI - Model 1049G-82, Approved January 14, 1955. 
+ (Same as Model 1049C except engines, propellers, brakes, provisions for tip tanks and structural reinforcements.)",
+Engines,"4 Wright Compound 972TC18DA3 with 16:7 reduction gear ratio and 6.52:1 turbo 
+ drive ratio. (Also elig. with 988TC18EA3 & 988TC18EA6. See Item 111 for engine 
+ limits with these engines.)."
+Fuel,AN grade 115/145. (See NOTE 17 for engine limits when using low grade fuel)
+Engine limits,"Low impeller ratio 6.46:1 
+ Maximum continuous: 
+ (Sea level) 49.0 in.hg., 2600 rpm (2700 hp) 
+ (Straight line manifold pressure variation with altitude to 5800 ft.) 47.0 in. hg., 
+ 2600 rpm (2750 hp) 
+ Takeoff (2 minutes at sea level; 5 minutes at 7500 ft.; 
+ straight line variation of takeoff power time with altitude to 7500 ft.): 
+ (Sea level) 56.5 in.hg., 2900 rpm (3250 hp). 
+ (Straight line manifold pressure variation with altitude to 5500 ft.) 
+ 53.5 in.Hg., 2900 rpm (3250 hp) 
+ High impeller ratio 8.67:1 
+ Maximum continuous: 
+ (10,050 ft.) 48.5 in.hg., 2600 rpm (2400 hp) 
+ (Straight line manifold pressure variation with altitude to 16,400 ft.) 47.0 in.hg., 
+ 2600 rpm (2450 hp)."
+Airspeed limits,"Vno (Normal Operation) 
+ 300 mph (261 knots) True Ind. 
+ (Above 12,500' reduce speed 11 mph ( 10 knots) for each additional 2000') 
+ Vne (Never Exceed) 
+ 338 mph (294 knots) True Ind. 
+ (Above 12,500' reduce speed 13 mph ( 11 knots) for each additional 2000') 
+ Va Maneuvering) 
+ 222 mph (193 knots) True Ind. 
+ Vf Takeoff position-60%) 
+ 224 mph (195 knots) True Ind. 
+ Vf (Approach position-66%) 
+ 200 mph (174 knots) True Ind. 
+ Vf (80%) 
+ 200 mph (174 knots) True Ind. 
+ Vf (Landing position-100%) 
+ 182 mph (158 knots) True Ind. 
+ Vlo (Landing Gear Operation) 
+ 190 mph (165 knots) True Ind. 
+ Vle (Landing Gear Extension) 
+ 190 mph (165 knots) True Ind. 
+ Mach No. - Never Exceed .56"
+CG range,"See NOTE 1(b) for required loading and gear retraction moment. 
+ Condition 
+ Weight 
+ Landing 
+ Fwd. Limit 
+ Aft.Limit 
+ lbs. 
+ gear 
+ sta. 
+ %MAC 
+ sta. 
+ %Mac 
+ Take-off 
+ 137,500* 
+ Down 
+ 671.3* 
+ 24.1 
+ 685.2 
+ 32.0 
+ 90,000* Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Landing 
+ 113,000* 
+ Down 
+ 665.8 
+ 21.0 
+ 685.2 
+ 32.0 
+ 90,000* Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Cruising 
+ 137,500* 
+ Up 
+ 667.0* 
+ 21.7 
+ 688.7 
+ 34.0 
+ Flight 
+ 90,000* Up 
+ 655.2* 
+ 15.0 
+ 688.7 
+ 34.0 
+ or less 
+ * Straight line variation between these values."
+Weight limits,"Landing 
+ 113,000 lbs."
+See NOTE 17 for,"Takeoff 
+ 137,500 lbs. with autofeathering (Dump valves are"
+weights using low,"required). See Equipment Item 1(b), (e) or (f) for takeoff weight with autofeathering"
+grade fuel,"autofeathering inoperative. 
+ Maximum zero fuel weight 103,500 lbs. (tip tanks off) 104,200 lbs. (tip tanks on) 
+ See NOTE 1(e) for fuel loading. 
+ 3-engine ferrying 100,000 lbs. See FAA Approved Airplane Flight Manual for 
+ applicable restrictions."
+Minimum crew,3. Pilot and Co-pilot at +190 and Flight Engineer at +226.
+Passengers,"Maximum 112, 104 or 96 occupants (passengers plus crew) with 11, 10 or 9 usable 
+ passenger exits, respectively. (CAR 4b.433 and SR 389 effective October 27, 1952.) 
+ See approved Weight and Balance Report for actual number and location."
+Baggage,"Maximum capacity of internal baggage and storage compartments: 
+ Vol. 
+ Max. Floor 
+ Cap. 
+ Compt. 
+ (cu. ft.) 
+ loading psf 
+ (lbs.) 
+ C.G. 
+ (A) Fwd. cargo compartment, 
+ fwd. portion F.S. 334 to 482 
+ 75 
+ 70 
+ 1500 
+ (+402) 
+ (B) Fwd. cargo compartment, 
+ aft portion F.S. 482 to 638 
+ 194 
+ 70 
+ 3880 
+ (+558) 
+ (C) Aft cargo compartment, 
+ fwd. portion F.S. 750 to 932 
+ 230 
+ 70 
+ 4600 
+ (+821) 
+ (D) Aft cargo compartment, 
+ aft portion F.S. 932 to 1140 
+ 194 
+ 70 
+ 3880 
+ (+1004) 
+ Coat closet 
+ 200 
+ (+1000) 
+ Coat closets L. & R. 
+ 400 
+ (+1165) 
+ Wash water 
+ 500 
+ (+ 980) 
+ Galley areas between Stations 930 and 1014 and 10"" from airplane centerline R.H. side is structurally 
+ satisfactory for a maximum total load of 2,300 pounds, with a maximum unit floor loading of 70 pounds 
+ per square foot. 
+ Galley storage area between Stations 930 and 950 and 10"" from airplane centerline L.H. side is structurally 
+ satisfactory for a maximum total load of 500 pounds with a maximum unit floor loading of 90 pounds per 
+ square foot."
+Fuel capacity,"See NOTE 1(c) regarding ""Unusable Fuel & System Oil."" 
+ Tanks 2 and 3 (inboard) 
+ (790 gal. ea.) 
+ 9480 lbs. (+692). 
+ Tanks 1 and 4 (middle) 
+ (1555 gal. ea.) 18660 lbs. (+689) 
+ Tanks 2a and 3a (outboard) 
+ (565 gal. ea.) 
+ 6780 lbs. (+687). 
+ Tank 5 (center section) 
+ (730 gallons) 
+ 4380 lbs. (+694) 
+ Tanks 1a and 4a (wing tips) 
+ (609 gal. ea.) 
+ 7308 lbs. (+688)"
+Oil capacity,"See NOTE 1(c) regarding ""Unusable Fuel and Oil System Oil."" 
+ 2 inboard tanks 
+ (42.5 gal. ea.) 
+ 638 lbs. (+634) 
+ 2 outboard tanks 
+ (42.5 gal. ea.) 
+ 638 lbs. (+636) 
+ 1 auxiliary cell (center section) (67 gallons) 
+ 502 lbs. (+674)"
+Serial Nos eligible,"1049G/4572, 1049G/4575 through 1049G/4577, 1049G/4582 through 1049G/4605; 
+ 1049G/4608 through 1049G/4612, 1049G/4616 through 1049G/4699."
+Required equipment,"In addition to the pertinent required basic equipment specified in 
+ CAR 4b, the following items of equipment must be installed: 
+ Items 1(b), (e) or (f); 101(i), (j), (k), or (l); 
+ 103(b) or (c); 104(b), (c), or (d); 105(a); 107(b); 200(d); 201(a); 
+ 202(a)(3) or (a)(4); 203(b); 204(a)(1), (a)(2), (a)(3) or (b)(1); 
+ 205(a) or (b); 206(c); 300(b) or (c); 301(a); 303(c), (d) or (e); 
+ 400; 440; 441(h) or (i); 508(c) or (d)."
+"VII - Model 1049F-55 (USAF C121C), Approved October 10, 1955. (Same as Model 1049B-55 except 34 rectangular 
+ windows replace 17 round windows, Class D lower cargo compartments replace Class C compartments, Solar APU replaces 
+ AiResearch APU, and heater is added to nose radome. This airplane is basically a cargo rather than a passenger carrier). (See 
+ NOTE 5 for modifications necessary for civil conversion of C121C).",
+Engines,"4 Wright Compound 972TC18DA1 with 16:7 reduction gear ratio and 6.52:1 Turbo 
+ drive ratio."
+Fuel,Grade 115/145 (See NOTE 16 for engine limits when using low grade fuel)
+Engine limits,"Low impeller ratio 6.46:1 
+ Maximum continuous: 
+ (Sea level) 47.5 in.hg., 2600 rpm (2600 hp) 
+ (Straight line manifold pressure variation with altitude to 6500 ft.) 45.0 in. hg., 
+ 2600 rpm (2650 hp) 
+ Takeoff (2 minutes at sea level; 5 minutes at 7500 ft.; 
+ straight line variation of takeoff power time to 7500 ft.): 
+ (Sea level) 56.5 in.hg., 2900 rpm (3250 hp) 
+ (Straight line manifold pressure variation with altitude to 5000 ft.) 53.0 in.hg., 
+ 2900 rpm (3250 hp). 
+ High impeller ratio 8.67:1 
+ Maximum continuous: 
+ (9550 ft.) 48.5 in.hg., 2600 rpm (2400 hp) 
+ (Straight line manifold pressure variation with altitude to 16,400 ft.) 47.0 in.hg., 
+ 2600 rpm (2450 hp)."
+Airspeed limits,"Vno (Normal Operation) 
+ 300 mph (260 knots) True Ind. 
+ (Above 12,500' reduce speed 11 mph ( 10 knots) for each additional 2000') 
+ Vne (Never Exceed) 
+ 338 mph (293 knots) True Ind. 
+ (Above 12,500' reduce speed 13 mph ( 11 knots) for each additional 2000') 
+ Va (Maneuvering) 
+ 218 mph (189 knots) True Ind. 
+ Vf (Takeoff position-60%) 
+ 220 mph (191 knots) True Ind. 
+ Vf (Approach position-66%) 
+ 200 mph (174 knots) True Ind. 
+ Vf (80%) 
+ 200 mph (174 knots) True Ind. 
+ Vf (Landing position-100%) 
+ 180 mph (156 knots) True Ind. 
+ Vlo (Landing Gear Operation) 
+ 190 mph (165 knots) True Ind. 
+ Vle (Landing Gear Extension) 
+ 190 mph (165 knots) True Ind. 
+ Mach No. - Never Exceed .56"
+CG range,"See NOTE 1(b) for required loading and gear retraction moment. 
+ Condition 
+ Weight 
+ Landing 
+ Fwd. Limit 
+ Aft.Limit 
+ lbs. 
+ gear 
+ sta. 
+ %MAC 
+ sta. 
+ %Mac 
+ Take-off 
+ 133,000* 
+ Down 
+ 677.2* 
+ 21.1 
+ 685.2 
+ 32.0 
+ 105,000* 
+ Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Landing 
+ 110,000* 
+ Down 
+ 661.6 
+ 18.6 
+ 685.2 
+ 32.0 
+ 105,000* 
+ Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Cruising 
+ 133,000* 
+ Up 
+ 665.8* 
+ 21.0 
+ 688.7 
+ 34.0 
+ Flight 
+ 90,000* Up 
+ 665.2* 
+ 15.0 
+ 688.7 
+ 34.0 
+ or less 
+ * Straight line variation between these values."
+Weight limits,"Landing 
+ 110,000 lbs."
+See NOTE 16 for,"Takeoff 
+ 133,000 lbs. with autofeathering (Dump valves are required.)"
+weights when using,"See Equipment Item 1(b), (e) or (f) for takeoff weight with autofeathering"
+low grade fuel,"inoperative. 
+ Maximum zero fuel weight 105,000 lbs. See NOTE 1(e) for fuel loading. 
+ 3-engine ferrying 100,000 lbs. See FAA Approved Airplane Flight Manual for 
+ applicable restrictions."
+Minimum crew,3. Pilot and Co-pilot at +190 and Flight Engineer at +226.
+Passengers,"All serial numbers originally certificated as cargo carriers. 
+ See Note 9 for conversion to passenger configuration."
+Maximum cargo,"Maximum 
+ Maximum Floor 
+ Compartment 
+ Station 
+ Cap. (lbs.) loading psf 
+ Arm 
+ C (Main Cabin) 
+ 260-287 
+ 1000** 
+ 300 
+ 274 
+ D (Main Cabin) 
+ 287-420 
+ 5900 
+ 300 
+ 355 
+ E (Main Cabin) 
+ 420-509 
+ 7400 
+ 300 
+ 465 
+ F (Main Cabin) 
+ 509-583 
+ 6100 
+ 300 
+ 546 
+ G (Main Cabin) 
+ 583-656 
+ 6100 
+ 300 
+ 620 
+ H (Main Cabin) 
+ 656-732 
+ 6300 
+ 300 
+ 694 
+ I (Main Cabin) 
+ 732-806 
+ 6100 
+ 300 
+ 769 
+ J (Main Cabin) 
+ 806-879 
+ 6100 
+ 300 
+ 842 
+ K (Main Cabin) 
+ 879-953 
+ 6100 
+ 300 
+ 916 
+ L (Main Cabin) 
+ 953-1026 
+ 6100 
+ 300 
+ 989 
+ M (Main Cabin) 
+ 1026-1158 
+ 7200 
+ 300 
+ 1089 
+ N (Main Cabin) 
+ 1158-1258 
+ 2900 
+ 300 
+ 1198 
+ P (Lower Cargo Compt) 
+ 334-482 
+ 2800 
+ 70 
+ 402 
+ Q (Lower Cargo Compt) 
+ 482-638 
+ 5040 
+ 70 
+ 558 
+ R (Lower Cargo Compt) 
+ 750-932 
+ 5950 
+ 70 
+ 821 
+ S (Lower Cargo Compt) 
+ 932-1140 
+ 6370 
+ 70 
+ 1004 
+ Maximum combined accumulated load of both cabin and lower cargocompartments 
+ from extremities of cabin toward main frames: 
+ Forebody 
+ Afterbody 
+ From Sta. 260 to: 
+ From Sta. 1258 forward to: 
+ Sta. 287 
+ 300 lbs. 
+ Sta. 1158 2,900 lbs. 
+ Sta. 420 
+ 5,900 lbs. 
+ Sta. 1026 7,200 lbs. 
+ Sta. 509 
+ 9,700 lbs. 
+ Sta. 953 
+ 9,800 lbs. 
+ Sta. 583 14,700 lbs. 
+ Sta. 879 14,100 lbs. 
+ Sta. 656 20,800 lbs. 
+ Sta. 806 18,300 lbs. 
+ Sta. 732 23,500 lbs. 
+ **Including radio and galley equipment (700#) in compartment C. 
+ All cargo loading must be secured with the tie-downs provided since there are no 
+ restraining or crash bulkhead provisions."
+Fuel capacity,"See NOTE 1(c) regarding ""Unusable Fuel & System Oil."" 
+ Tanks 2 and 3 
+ (inboard) 
+ ( 790 gal. ea.) 9,480 lbs. (+692) 
+ Tanks 1 and 4 
+ (middle) 
+ (1555 gal. ea.) 18,660 lbs. (+689) 
+ Tanks 2a and 3a (outboard) 
+ ( 565 gal. ea.) 6,780 lbs. (+687) 
+ Tank 5 
+ (center section) 
+ ( 730 gallons) 4,380 lbs. (+694)"
+Oil capacity,"See NOTE 1(c) regarding ""Unusable Fuel & System Oil."" 
+ 2 inboard tanks 
+ (42.5 gal. ea.) 638 lbs. (+634) 
+ 2 outboard tanks 
+ (42.5 gal. ea.) 638 lbs. (+636) 
+ 1 auxiliary cell (center section) 
+ (67 gallons) 502 lbs. (+674)"
+Serial Nos eligible,1049F/4170 through 1049F/4202.
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 4b, the following 
+ items of equipment must be installed: 
+ 1(c); 101(d); 103(b) or (c); 104(b), (c) or (d); 105(a) and (b); 107(b); 200(b), (c) or 
+ (d); 
+ 201(a); 202(a)(2), (a)(3) or (a)(4); 203(b); 204(a)(1), (a)(2) or (b)(1); 205(a) or (b); 
+ 206(b) or (d); 300(b); 301(a); 303(d) or (e); 400; 440; 441(j); 508(a) or (b)."
+"VIII - Model 1049H-82, Approved October 9, 1956. 
+ (Same as Model 1049D/01-55, except for engines of higher power rating, higher takeoff weight; and other minor changes.)",
+Engines,"4 Wright Compound 972TC18DA3 with 16:7 reduction gear ratio and 6.52:1 turbo 
+ drive ratio. (Also eligible with 988TC18EA3 and 988TC18EA6. See Item 111 for 
+ engine limits with these engines.)"
+Fuel,Grade 115/145. (See NOTE 17 for engine limits when using low grade fuel)
+Engine limits,"Low impeller ratio 6.46:1 
+ Maximum continuous: 
+ (Sea level) 49.0 in.hg., 2600 rpm (2700 hp) 
+ (Straight line manifold pressure variation with altitude to 5800 ft.) 47.0 in. hg., 
+ 2600 rpm (2750 hp) 
+ Take-off (2 minutes at sea level; 5 minutes at 7500 ft.; straight line variation of takeoff 
+ power time with altitude to 7500 ft.): 
+ (Sea level) 56.5 in.hg., 2900 rpm (3250 hp). 
+ (Straight line manifold pressure variation with altitude to 5500 ft.) 53.5 in.Hg., 
+ 2900 rpm (3250 hp) 
+ High impeller ratio 8.67:1 
+ Maximum continuous: 
+ (10,050 ft.) 48.5 in.hg., 2600 rpm (2400 hp) 
+ (Straight line manifold pressure variation with altitude to 16,400 ft.) 47.0 in.hg., 
+ 2600 rpm (2450 hp)."
+Airspeed limits,"Vno (Normal Operation) 
+ 300 mph (261 knots) True Ind. 
+ (Above 12,500' reduce speed 11 mph ( 10 knots) for each additional 2000') 
+ Vne (Never Exceed) 
+ 338 mph (294 knots) True Ind. 
+ (Above 12,500' reduce speed 13 mph ( 11 knots) for each additional 2000') 
+ Va (Maneuvering) 
+ 222 mph (193 knots) True Ind. 
+ Vf (Takeoff position-60%) 
+ 224 mph (195 knots) True Ind. 
+ Vf (Approach position-66%) 
+ 200 mph (174 knots) True Ind. 
+ Vf (80%) 
+ 200 mph (174 knots) True Ind. 
+ Vf (Landing position-100%) 
+ 182 mph (158 knots) True Ind. 
+ Vlo (Landing Gear Operation) 
+ 190 mph (165 knots) True Ind. 
+ Vle (Landing Gear Extension) 
+ 190 mph (165 knots) True Ind. 
+ Mach No. - Never Exceed .56"
+CG range,"See Note 1(b) for required loading and gear retraction moment. 
+ (A) Passenger or Mixed Cargo-Passenger Loading 
+ Condition 
+ Weight 
+ Landing 
+ Fwd. Limit 
+ Aft.Limit 
+ lbs. 
+ gear 
+ sta. 
+ %MAC 
+ sta. 
+ %Mac 
+ Take-off 
+ 137,500* 
+ Down 
+ 671.3* 
+ 24.1 
+ 685.2 
+ 32.0 
+ 90,000* Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Landing 
+ 113,000* 
+ Down 
+ 665.8* 
+ 21.0 
+ 685.2 
+ 32.0 
+ 90,000* Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Cruising 
+ 137,500* 
+ Up 
+ 667.0* 
+ 21.7 
+ 688.7 
+ 34.0 
+ Flight 
+ 90,000* Up 
+ 655.2* 
+ 15.0 
+ 688.7 
+ 34.0 
+ or less 
+ (B) All Cargo Loading 
+ Condition 
+ Weight 
+ Landing 
+ Fwd. Limit 
+ Aft.Limit 
+ lbs. 
+ gear 
+ sta. 
+ %MAC 
+ sta. 
+ %Mac 
+ Take-off 
+ 137,500* 
+ Down 
+ 668.4* 
+ 22.4 
+ 685.2 
+ 32.0 
+ 105,000* 
+ Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Landing 
+ 113,000* 
+ Down 
+ 662.3* 
+ 19.0 
+ 685.2 
+ 32.0 
+ 105,000* 
+ Down 
+ 660.5* 
+ 18.0 
+ 685.2 
+ 32.0 
+ or less 
+ Cruising 
+ 137,000* 
+ Up 
+ 667.0* 
+ 21.7 
+ 688.7 
+ 34.0 
+ Flight 
+ 90,000* Up 
+ 655.2* 
+ 15.0 
+ 688.7 
+ 34.0 
+ or less 
+ *Straight line variation between these values."
+Weight limits,"Landing 
+ 113,000 lbs. See NOTE 14 for higher landing weight."
+See NOTE 17 for,"Takeoff 
+ 137,500 lbs. with autofeathering (Dump valves are required."
+limits when using,"See Equipment Item 1(b), (e) or (f) for takeoff"
+low grade fuel and,"weight with autofeathering inoperative, and"
+Note 19 for,and NOTE 14 for for higher takeoff weight.
+application of SR411A,"Maximum zero fuel weight 108,000 lbs. (tip tanks off) 
+ 104,200 lbs. *tip tanks on) 
+ See NOTE 1(e) for fuel loading. 
+ 3-engine ferrying 100,000 lbs. See FAA Approved Airplane Flight Manual for 
+ applicable restrictions."
+Minimum crew passengers,"3. 
+ Pilot and Copilot at +190 and Flight Engineer at +226."
+Passengers,"Maximum 112 occupants (passengers plus crew) (CAR 4b.433 and SR 389 effective 
+ October 27, 1952.) See approved Weight and Balance Report for actual number and 
+ location."
+Maximum cargo,"Maximum 
+ Maximum Floor 
+ Compartment 
+ Station 
+ Cap. (lbs.) loading psf 
+ Arm 
+ A (Main Cabin) 
+ 260-339 
+ 2900 
+ 300 
+ 300 
+ B (Main Cabin) 
+ 339-444 
+ 7200 
+ 300 
+ 392 
+ C (Main Cabin) 
+ 444-509 
+ 5400 
+ 300 
+ 477 
+ D (Main Cabin) 
+ 509-583 
+ 6100 
+ 300 
+ 546 
+ E (Main Cabin) 
+ 583-656 
+ 6100 
+ 300 
+ 620 
+ F (Main Cabin) 
+ 656-732 
+ 6300 
+ 300 
+ 694 
+ G (Main Cabin) 
+ 732-806 
+ 6100 
+ 300 
+ 769 
+ H (Main Cabin) 
+ 806-879 
+ 6100 
+ 300 
+ 842 
+ I (Main Cabin) 
+ 879-953 
+ 6100 
+ 300 
+ 916 
+ J (Main Cabin) 
+ 953-1026 
+ 6100 
+ 300 
+ 989 
+ K (Main Cabin) 
+ 1026-1158 
+ 7700 
+ 300 
+ 1089 
+ L (Main Cabin) 
+ 1158-1258 
+ 3400 
+ 300 
+ 1198 
+ A (Lower Cargo Compt) 
+ 334-482 
+ 2800 
+ 70 
+ 402 
+ B (Lower Cargo Compt) 
+ 482-638 
+ 5040 
+ 70 
+ 558 
+ C (Lower Cargo Compt) 
+ 750-932 
+ 5950 
+ 70 
+ 821 
+ D (Lower Cargo Compt) 
+ 932-1140 
+ 6370 
+ 70 
+ 1004 
+ Maximum combined accumulated load of both cabin and lower cargo compartments 
+ from extremities of cabin toward main frames: 
+ Forebody 
+ Afterbody 
+ From Sta. 260 to: 
+ From Sta. 1258 forward to: 
+ Sta. 339 
+ 2,900 lbs. 
+ Sta. 1158 3,400 lbs. 
+ Sta. 444 
+ 7,200 lbs. 
+ Sta. 1026 7,700 lbs. 
+ Sta. 509 10,000 lbs. 
+ Sta. 953 10,300 lbs. 
+ Sta. 583 15,000 lbs. 
+ Sta. 879 14,600 lbs. 
+ Sta. 656 21,100 lbs. 
+ Sta. 806 18,800 lbs. 
+ Sta. 732 24,000 lbs. 
+ All cargo loading must be secured with the tie-downs provided since there are no 
+ restraining or crash bulkhead provisions."
+Fuel capacity,"See NOTE 1(c) regarding ""Unusable Fuel & System Oil."" 
+ Tanks 2 and 3 
+ (inboard) 
+ ( 790 gal. ea.) 9,480 lbs. (+692). 
+ Tanks 1 and 4 
+ (middle) 
+ (1555 gal. ea.) 18,660 lbs. (+689) 
+ Tanks 2a and 3a (outboard) 
+ ( 565 gal. ea.) 6,780 lbs. (+687). 
+ Tank 5 
+ (center section) 
+ ( 730 gallons) 4,380 lbs. (+694) 
+ Tanks 1a and 4a (wing tips) 
+ (609 gal. ea) 
+ 7,308 lbs. (+688)"
+Oil capacity,"See NOTE 1(c) regarding ""Unusable Fuel & System Oil."" 
+ 2 inboard tanks 
+ (42.5 gal. ea.) 638 lbs. (+634) 
+ 2 outboard tanks 
+ (42.5 gal. ea.) 638 lbs. (+636) 
+ 1 auxiliary cell (center section) 
+ (67 gallons) 502 lbs. (+674)"
+Serial Nos eligible,1049H/4801 through 1049H/4853
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 4b, the following 
+ items of equipment must be installed: 
+ Items 1(b), (e) or (f); 101(i), (j), (k), or (l); 103(b) or (c); 104(b), (c), or (d); 
+ 105(a); 107(b); 200(d); 201(a); 202(a)(3) or (a)(4); 203(b); 204(a)(1), (a)(2) 
+ (a)(3), or (b)(1); 205(a) or (b); 206(c); 300(b) or (c); 301(a); 303(c), (d) or (e); 400; 
+ 440; 441(g) or (k); 508(c) or (d)."
+SPECIFICATIONS PERTINENT TO ALL MODELS,
+Datum,"730.2 in. forward of jig point. (Screwhead on bottom surface of wing 1.8 in. fwd. of 
+ center line of rearbeam and 3.5 in inboard of wing sta. 80)."
+MAC,176 inches. Leading edge of MAC Sta. 628.8.
+Leveling means,Leveling plate under fuselage floor at ref. Sta. 657.
+Control surface movements,"Main surfaces (booster pressure on) - Elevator 
+ 40° up 
+ 20° down 
+ Aileron 
+ 25° up 
+ 10° down 
+ Rudder 
+ 30° right 
+ 30° left 
+ Tabs (main surfaces in neutral) 
+ - Elevator 
+ 22° up 
+ 22° down 
+ Aileron 
+ 12° up 
+ 12° down 
+ Rudder 
+ 25° right 
+ 25° left 
+ Flaps - 41° total angular travel."
+Certification basis,"Type Certificate No. 6A5 (CAR 4b - as amended to October 1, 1949.) 
+ All 1049 Series Models have been examined and found to comply with the Standards of 
+ Transport Category A of Annex 8 to the Convention on International Civil Aviation, 
+ entitled ""Airworthiness of Aircraft,"" as amended to December 1949 with the following 
+ exception: 
+ 1. 2.4.4 Stalling, Symmetrical Power. 
+ Compliance with the ditching requirements of CAR 4b has been demonstrated. 
+ Maximum approved operational altitude 25,000 ft."
+Production basis,Production Certificate No. 600.
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item of equipment indicates net weight change when 
+ that item is installed. 
+ Approval for the installation of all items of equipment listed herein has been obtained by the aircraft 
+ manufacturer except those items preceded by an asterisk (*). The asterisk denotes that approval has been 
+ obtained by someone other than the aircraft manufacturer. An item marked with an asterisk may not have been 
+ manufactured under a FAA monitored or approved quality control system, and therefore conformity must be 
+ determined if the item is not identified by a Form FAA-186, PMA or other evidence of FAA production 
+ approval. 
+ Propellers and Propeller Accessories (Except De-Icing Equipment) 
+ 1a. (1) 4 Propellers - Ham. Std. hubs 43E60, blades 6901-02 
+ 2281 lb. (+509)"
+including slingers and shoes,"Diameter: Max. 15' 1-5/16"", min. allowable for repairs 14' 9-3/16"". 
+ No further reduction permitted. 
+ Pitch settings at 72 in. sta.: Low fwd. 12°, low reverse -21.5°, propeller 
+ feathering setting must prevent engine windmilling (Approximately 81.5°) Propellers and 
+ (2) 4 Propeller spinners - Ham. Std. 76832 
+ 80 lbs. (+509) 
+ (3) 4 Feathering pumps - Pesco 1E-777-ML-1 (Mod.) 
+ 58 lbs. (+604) 
+ (4) 4 Propeller governors Ham. Std. Type 5AA-22-8 or 5U18 (See NOTE 20) 
+ 56 lbs. (+531) 
+ (5) 4 Master Synchronizer Generators Kollsman 1135GH-0120304 
+ 17 lbs. (+578) 
+ 40 lbs. (+193) 
+ b. (1) 4 Propellers - Curtiss Electric hubs C634S-S, blades 
+ 2586 lbs. (+509) 
+ 858-5C4-0 (including slingers and shoes) with or without trailing edge extension. 
+ (G & H Series Models equipped with this propeller must use trailing edge extension). 
+ Diameter 15'0"". 
+ Pitch settings at 54 in. sta.: low fwd. 23.7° low reverse -11.8°, 
+ propeller feathering pitch setting must prevent engine windmilling (approximately 91.2°). 
+ Placard required in full view of flight engineer: 
+ ""Do not operate propellers in flight below 1500 engine rpm."" 
+ Max. takeoff wt. auto-feathering inoperative - 129,800 lbs. 
+ (2) 4 spinners - Curtiss Type 145491 
+ 84 lbs. (+509) 
+ (3) 4 Alternators - Curtiss Type 124512 
+ 16 lbs. (+545) 
+ (4) 1 Synchronizer Master Unit - Curtiss Type 119778-20 
+ 40 lbs. (+195) 
+ (5) 2 Voltage boosters Curtiss Type 116285-231 
+ 40 lbs. (+252) 
+ (6) 1 Master Unit Filter Curtiss Type 112148-9 
+ 6 lbs. (+171) 
+ (7) 4 Nacelle Filters Curtiss Type 111872 
+ 10 lbs. (+590) 
+ c. (1) 4 Propellers - Ham. Std. hubs 43E60, blades 6903B-0 
+ 2372 lbs. (+509)"
+including slingers and shoes,"Diameter: Max. 15' 1-1/16"", min. allowable for repairs 14' 9-7/16"". 
+ No further reduction permitted. 
+ Pitch settings at 72 in. sta.: Low fwd. 14°, low reverse -21.5°, propeller feathering 
+ pitch setting must prevent engine windmilling (Approximately 80.5°). 
+ Placard required in full view of flight engineer: 
+ ""Airplane shall be headed into the wind during static 
+ run-up when engine speeds exceed 2600 rpm."" 
+ Max. takeoff wt. with auto-feathering inoperative - 131,500 lbs., 
+ or maximum weight with auto feathering operative whichever is less. 
+ (2) 4 Propeller spinners - Ham. Std. 83772 
+ 84 lbs. (+509)"
+a Pesco 11257702101,"92 lbs. (+617) 
+ (4) 4 Propeller Governors Ham. Std. Type 5AA-22-8 or 5U18 (See NOTE 20) 
+ 56 lbs. (+532) 
+ (5) 4 Synchronizing Generators Kollsman Type 1492-0120304 
+ 17 lbs. (+579) 
+ 40 lbs. (+193) 
+ d. (1) 4 Propellers - Curtiss electric hubs C634S-C500, blades 
+ 2610 lbs. (+509)"
+Diameter 151,"Pitch settings at 54 in. sta.: low fwd. 22.3° low reverse 
+ -16°, propeller feathering pitch setting must prevent engine"
+windmilling approximately 905°,"Placard required in full view of flight engineer: 
+ ""Do not operate propellers in flight below 1500 engine rpm."" 
+ Max. takeoff wt. autofeathering inoperative - 129,800 lbs. 
+ (2) 4 spinners - Curtiss Type 145491 
+ 84 lbs. (+509) 
+ (3) 4 Alternators - Curtiss Type 124512 
+ 16 lbs. (+545) 
+ (4) 1 Synchronizer Master Unit - Curtiss Type 119778-20 
+ 40 lbs. (+195) 
+ (5) 2 Voltage boosters - Curtiss Type 116285-231 
+ 40 lbs. (+252) 
+ (6) 1 Master Unit Filter - Curtiss Type 112148-9 
+ 6 lbs. (+171) 
+ (7) 4 Nacelle Filters - Curtiss Type 11872 
+ 10 lbs. (+590) 
+ (e) (1) 4 Propellers - Ham. Std. hubs 43H60, blades 6959B-0 or blades 
+ 2598 lbs. (+509) 
+ 6967-0 (nickel plated) (including slingers and shoes) 
+ Diameter: Max. 15' 1-5/16"", min. allowable for repairs 
+ 14' 9-3/16"". No further reduction permitted. 
+ Pitch settings at 72 in. sta.: Low fwd. 14°, reverse -21.5° 
+ Propeller feathering pitch setting must prevent engine 
+ windmilling (approximately 80.5°) 
+ Max. takeoff wt. with autofeathering inoperative - 134,600 lbs. 
+ or maximum weight with autofeathering operative whichever is less. 
+ (2) 4 Propeller spinners - Hamilton Standard 97197 
+ 70 lbs. (+509) 
+ (3) 4 Feathering pumps - Hamilton Standard 112577-041 or 112577-021 
+ 92 lbs. (+617) 
+ (4) 4 Propeller Governors - Hamilton Standard 5AA-22-8 
+ 56 lbs. (+532) 
+ (5) 4 Synchronizing Generators - Kollsman 1492-0120304 or 1492B-0120304 
+ 17 lbs. (+579) 
+ 40 lbs. (+193) 
+ (f) (1) 4 Propellers - Curtiss electric (Dural) 
+ (a) Hubs C634D-A2, Blades 109652-12 (including blade heaters) 
+ 2988 lbs. (+509) 
+ (b) Hubs C634D-A4, Blades 109652-12 (including slingers & shoes) 
+ 2934 lbs. (+509) 
+ Diameter: 15'0"", min. allowable for repairs 
+ 14' 8-3/8"". No further reduction permitted. 
+ Pitch settings at 54 in. sta.: low fwd. 23°, reverse -10° 
+ Propeller feathering pitch setting must prevent engine"
+windmilling approximately 886°,"Placard required in full view of flight engineer: 
+ ""Do not operate propellers in flight below 1400 engine rpm."" 
+ Max. takeoff wt. autofeathering inoperative - 130,700 lbs. 
+ (2) 4 Propeller Spinners - Curtiss type 152331 or 153121 
+ 158 lbs. (+509) 
+ (3) 4 Alternators - Curtiss type 124512 
+ 16 lbs. (+545) 
+ (4) 1 Synchronizer Master Unit - Curtiss type 152923 
+ 40 lbs. (+195) 
+ (5) 2 Voltage boosters - Curtiss type 116285 
+ 40 lbs. (+252) 
+ (6) 1 Master Unit Filter - Curtiss type 112148-9 
+ 6 lbs. (+171) 
+ Engines and Engine Accessories - Fuel and Oil System 
+ 100. Fuel dump valves (See NOTE 3 regarding use of dump valves) 
+ (a) Parker types 8-3046-75 (Mod. 2) and 9-946-75 (Mod. 2) 
+ (b) Parker types 8-3046-75 M3 and 9-946-75 M3 
+ (c) Parker types 9-946-75-M3 and 1.319-54637M 
+ 101. Unusable fuel and system oil (See NOTE 1 for definition)."
+Airplane,"Prop. Item 
+ Center Section 
+ Center Section 
+ Model 
+ Installed 
+ Fuel Cells 
+ Aux. Oil Tank 
+ Installed 
+ Installed"
+a 104954,"1(a) 
+ No 
+ n/a 
+ 876 lbs. (+633)"
+b,"1(a) 
+ Yes 
+ n/a 
+ 945 lbs. (+633)"
+c 1049B55,"1(b) or (d) 
+ Yes 
+ Yes 
+ 940 lbs. (+642)"
+d 1049C55,"1(c) 
+ Yes 
+ Yes 
+ 1073 lbs. (+631)"
+e 1049D55,"1(b) or (d) 
+ No 
+ No 
+ 860 lbs. (+638)"
+f 1049E55,"1(c) 
+ No 
+ No 
+ 993 lbs. (+627)"
+g or,"1(b) or (d) 
+ Yes 
+ No 
+ 929 lbs. (+638)"
+h 1049F55,"1(c) 
+ Yes 
+ No 
+ 1062 lbs. (+627)"
+i 1049G82,"1(e) 
+ Yes 
+ Yes 
+ 1113 lbs. (+630)"
+j or,"1(e) 
+ No 
+ No 
+ 1033 lbs. (+626)"
+k 1049H82,"1(f) 
+ Yes 
+ Yes 
+ 975 lbs. (+641)"
+l,"1(f) 
+ No 
+ No 
+ 895 lbs. (+637)"
+(a) Jack and Heintz Type JH6 ER - Model 1049-54 installation,
+(b) Eclipse Type 36E00-4 - Model 1049-54 installation,
+(c) Jack and Heintz Type JH6 ER - Models 1049B and 1049C,
+(d) Eclipse Type 36E00-4 - Models 1049-B and 1049-C,
+(e) AN 4116R6 - Model 1049B,
+g Bendix Type 36E004B,121 lbs. (+596)
+(a) AiResearch Type 86909-23 - Model 1049-54,
+(b) AiResearch Type 87162-24 - Models 1049B and 1049C,
+(c) AiResearch Type 87242-24 - Models 1049B and 1049C,
+(a) Thompson Type TF-2100 - Model 1049-54,
+(b) Pesco Type 2P-771-CE-1 - Models 1049B and 1049C,
+c AN41021  Model 1049B,17 lbs. (+583)
+d Thompson Type TF2100,17 lbs. (+583)
+105 Auxiliary fuel pumps,"(a) 6 for tanks 1, 2, 3, 4, 2a, 3a"
+1 Thompson TF523001,"48 lbs. (+712) 
+ (b) 1 for tank No. 5 (center section) (See NOTE 7)"
+1 Thompson Type TF423001,"8 lbs. (+692) 
+ 106. 4 De-icer or vacuum pumps"
+(a) Pesco Type 3P-485 - Model 1049-54 installation,
+(b) Pesco Type 3P-485 - Models 1049B and 1049C,
+(a) Vickers Type AA20511 - Model 1049-54 installation,
+(b) Vickers Type AA20510 - Models 1049B and 1049C,
+c Vickers Type AA20513,"112 lbs. (+595) 
+ 108. Auxiliary Oil pumps (See NOTE 7) 
+ (a) Pesco Type 012634-010 - hydraulic 
+ 12 lbs. (+642) 
+ (b) Pesco Type 112127-010 - electric 
+ 40 lbs. (+650) 
+ 109. Tip tank installation, consisting of: 
+ Two tip tank assemblies per LAC Drawing 316076 including 
+ 521 lbs. (+704) 
+ Undrainable Fuel (29 lbs.) and Unusable Fuel (34 lbs.) 
+ NOTE: When operating without tip tanks, it is necessary to 
+ correct for the addition of wing tips as follows: 
+ Two wing tips - removable (including deicer boots) 
+ 57 lbs. (+711)"
+111 Optional Engines,"(a) 4 Wright Compound 988TC18EA3 or 988TC18EA6 with 16:7 reduction 
+ gear ratio and 6.52:1 turbo drive ratio. (When these 
+ EA3: 14,580 lbs. (+554) 
+ optional engines are installed, the dash number on 
+ EA6: 14,700 lbs. (+554) 
+ the airplane model designation becomes -03 or -06 
+ respectively) 
+ Engine limits: (With fuel grade 115/145) (See NOTE 17 for engine 
+ limits when using low grade fuel)"
+Low impeller ratio 6461,"Maximum continuous: 
+ (Sea level) 51.0 in.Hg., 2650 rpm (2860 hp) 
+ (Straight line manifold pressure variation with 
+ altitude to 4800 ft.) 
+ 49.5 in.Hg., 2650 rpm (2920 hp) 
+ Takeoff (2 minutes at sea level; 5 minutes at 7500 ft.; 
+ straight line variation of takeoff power time with altitude 
+ to 7500 ft.) 
+ (Sea level) 58.5 in.Hg., 2900 rpm (3400 hp) 
+ (Straight line manifold pressure variation with altitude 
+ to 4000 ft.) 
+ 56.0 in.Hg., 2900 rpm (3400 hp)"
+High impeller ratio 8671,"Maximum continuous: 
+ (10,000 ft.) 48.5 in.Hg., 2600 rpm (2410 hp) 
+ (Straight line manifold pressure variation with altitude 
+ to 16,400 ft.) 
+ 47.0 in.Hg., 2600 rpm (2450 hp) 
+ NOTE: Installation to be in accordance with Lockheed Service Bulletin No. 2939. 
+ When Propeller Item 1(c) is used in conjunction with the above engines, 
+ the power of ratings of the Wright 972TC18DA1 engine must be used. 
+ (b) 4 Wright Compound 972TC18DA3 with 16:7 reduction gear ratio 
+ 14,200 lbs. (+554)"
+Low impeller ratio 6461,"Maximum continuous: 
+ (Sea level) 49.0 in.Hg., 2600 rpm (2700 hp) 
+ (Straight line manifold pressure variation with altitude 
+ to 5500 ft.) 
+ 53.5 in.Hg., 2900 rpm (3250 hp)"
+High impeller ratio 8671,"Maximum continuous: 
+ (10,050 ft.) 48.5 in.Hg., 2600 rpm (2400 hp) 
+ (Straight line manifold pressure variation with 
+ altitude to 16,400 ft.) 
+ 47.0 in.Hg., 2600 rpm (2450 hp) 
+ NOTE: Installation to be in accordance with Lockheed Service Bulletin No. 1049/SB-2514."
+Landing Gear,200. 2 main gear shock struts
+(a) Cleveland Type 9040 - Model 1049-54,
+(b) Cleveland Type 9106 - Models 1049B and 1049C,
+c Cleveland Type 9106A,1048 lbs. (+713)
+d Cleveland Type 9291B,1048 lbs. (+713)
+a Cleveland Type 9054,480 lbs. (+195)
+(1) Goodyear Model LF20DHBM Wheel Assembly No. 9540552,
+(2) Goodrich Model 1754M Wheel Assembly No. H-3-735M,
+3 Goodyear,"Wheel Assembly No. 9540753 
+ 554 lbs. (+708) 
+ Brake Assembly No. 9540754 (outboard) 
+ 249 lbs. (+708) 
+ Brake Assembly No. 9540755 (inboard) 
+ 457 lbs. (+708)"
+4 Goodrich,"Wheel Assembly No. H-3-772 
+ 884 lbs. (+708) 
+ Brake Assembly No. G-2-639 (2 per wheel) 
+ 264 lbs. (+708) 
+ 203. 4 main wheel tires and tubes Type III"
+a 170020 20ply rating nylon,"(Use actual weight) Maximum, incl. air 
+ 884 lbs. (+708)"
+b 170020 22ply rating nylon,"(Use actual weight) Maximum, incl. air 
+ 884 lbs. (+708)"
+a 4x99 Type VII,"(1) Goodrich Assembly No. H-3-592M-1 (no fairing) 
+ 68 lbs. (+184) 
+ (2) Goodrich Assembly No. H-3-592M (with fairing) 
+ 74 lbs. (+184) 
+ (3) Goodrich Assembly No. H-3-753 (no fairing) 
+ 73 lbs. (+184)"
+1 Bendix Assembly No 57608M,"62 lbs. (+184) 
+ 205. 2 Nose wheel 10-ply rating nylon tires 
+ (a) 34x9.9, Type VII B (with regular tubes) Use actual weight) 
+ (+184) 
+ (b) 33"", S.C., Type I (with regular tubes) Use actual weight 
+ (+184) 
+ 206. 2 Main gear drag strut dampers"
+a LAC Dwg No 307503,176 lbs. (+701)
+b LAC Dwg No 310618,180 lbs. (+701)
+c LAC Dwg No 469080,185 lbs. (+701)
+(a) 4 D.C. Eclipse Type 30E02 - Model 1049-54 installation,
+(b) 4 D.C. Eclipse Type 30E02 - Model 1049B and 1049C,
+301 Batteries,"(a) 2 24 Volt, 36 A.H. 
+ 152 lbs. (+283)"
+a 2 Pioneer Type 16317,19 lbs. (+588)
+b 2 Pioneer Type 16321,12 lbs. (+588)
+c 2 Eclipse Type 28E04,21 lbs. (+601)
+d 2 Eclipse Type 28E04,21 lbs. (+582)
+e Inverter Bendix Model K2496,13 lbs. (+130)
+Interior Equipment,"may be carried in lieu thereof in aircraft operated under the provisions of Parts 40, 41 and 42 of the Civil Air 
+ Regulations.) The following table identifies the airplane flight manuals and revisions thereto currently approved for"
+each airplane,"Lockheed 
+ Date of 
+ Serial 
+ Report 
+ Latest 
+ For Aircraft"
+Model,"Number 
+ Number 
+ Revision 
+ with Item:"
+104954,"4001 thru 4024 
+ 7787 
+ 4-14-58"
+1049B55,"4101 thru 4111 
+ (All of these serial numbered aircraft delivered 
+ 4122 thru 4130 
+ as Model R7V-1 or C121C. Approved Manuals must 
+ 4133 thru 4150 
+ be provided at time of conversion to Model 1049B-55 
+ 4152 thru 4160 
+ or 1049F-55 per NOTE 5(d).) 
+ 4167 thru 4169"
+1049F55,4170 thru 4202
+1049C55,"4503, 4504, 4506 
+ 9153 
+ 6-27-58 
+ 1(b) or 1(d)"
+1049E55,"4507, 4509 thru 
+ 9154 
+ 5-29-58 
+ 1(c)"
+1049E0255 4557 4561 thru,"4565, 4573, 4574 
+ 4578 thru 4581, 
+ 4606, 4607, 4613 
+ thru 4615 
+ ."
+1049G82,"4572, 4575 thru 
+ 10051 (with 
+ 10-1-58 
+ 1(f) 
+ 4577 
+ Log of Pages i) 
+ 4553, 4558, 4559, 4560, 
+ 10051 (with 
+ 4629, 4630, 4631, 4635 
+ Log of Pages Ai) 
+ 4641, 4643 
+ 10051 (with 
+ Log of Pages Bi) 
+ 4682, 4683 
+ 10051 (with 
+ Log of Pages Ci) 
+ 4679, 4680 
+ 10051 (with 
+ Log of Pages Di)"
+1049C55,"4501, 4502, 4505, 
+ 10051 (with"
+Modified to,"4508 
+ Log of Pages Ei)"
+1049G82,"4582 thru 4601, 
+ 10052 (with 
+ 10-1-58 
+ 1(e) 
+ 4648 thru 4652, 
+ Log of Pages i) 
+ 4654, 4656, 4658 
+ 4602 thru 4605, 
+ 10052 (with 
+ 4637, 4640, 4642, 
+ Log of Pages Ai) 
+ 4647 
+ 4610 thru 4612 
+ 10052 (with 
+ Log of Pages Bi) 
+ 4620 thru 4627, 
+ 10052 (with 
+ 4668 thru 4671, 
+ Log of Pages Ci) 
+ 4634, 4639 
+ Lockheed 
+ Date of 
+ Serial 
+ Report 
+ Latest 
+ For Aircraft"
+Model,"Number 
+ Number 
+ Revision 
+ with Item: 
+ 4616 thru 4618 
+ 10052 (with 
+ Log of Page Di) 
+ 4628, 4646, 4666, 
+ 10052 (with 
+ 4667, 4686, 4687 
+ Log of Pages Ei) 
+ 4619 
+ 10052 (with 
+ Log of Pages Fi) 
+ 4636, 4674 
+ 10052 (with 
+ Log of Pages Gi) 
+ 4644, 4645 
+ 10052 (with 
+ Log of Pages Hi) 
+ 4653, 4655, 4657, 
+ 10052 (with 
+ 4659 thru 4665 
+ Log of Pages Ji) 
+ 4673, 4676 
+ 10052 (with 
+ Log of Pages Ki) 
+ 4672, 4677, 4678 
+ 10052 (with 
+ Log of Pages Li) 
+ 4681, 4684, 4685 
+ 10052 (with 
+ Log of Pages Mi) 
+ 4632, 4633, 4675 
+ 10052 (with 
+ Log of Pages Ni)"
+1049D0182 4165 4166,"11020 (with 
+ 1-12-59 
+ 1(b) 
+ Log of Page i)"
+1049H,"4801, 4803 
+ 11020 (with 
+ 10-1-58 
+ 1(f) 
+ Log of Pages Ai) 
+ 4802, 4805 thru 
+ 11020 (with 
+ 1-12-59 
+ 1(b) 
+ 4808 
+ Log of Pages Bi) 
+ 4828, 4829, 4831, 
+ 11020 (with 
+ 10-1-58 
+ 1(c) or 1(e) 
+ 4832 
+ Log of Pages Fi)"
+1049H0103 4839 4842 4844,"11020 (with 
+ 10-23-58"
+or,"4845 
+ Log of Pages Ci)"
+1049H0103 4804 4809 thru 4812,11020 (with
+Modified to,"4814, 4815, 4816, 
+ Log of Pages Di)"
+1049H0603 4813 4817 4818 4820,"11020 (with 
+ 4821, 4823 thru 4826 
+ Log of Pages Ei) 
+ 4830 
+ 11020 (with 
+ Log of Pages Gi) 
+ 4833, 4834, 4837, 
+ 11020 (with 
+ 4838 
+ Log of Pages Hi) 
+ 4835, 4836 
+ 11020 (with 
+ 1(f) 
+ Log of Pages Ji) 
+ 4840, 4841, 4843 
+ 11020 (with 
+ 1(c) or 1(e) 
+ Log of Pages Li) 
+ 4846, 4847 
+ 11020 (with 
+ Log of Pages Mi)"
+1049D0182 4163 4164,"11020 (with 
+ 1-12-59 
+ 1(b)"
+Modified to,Log of Pages Ki)
+1049H0203 4850 4851,"11020 (with 
+ 1-12-59"
+Modified to,Log of Pages Ni)
+a Automatic pilot,"(1) Pioneer PB-10 (3 servos 15601-1A, 1 servo 15620-2A) 
+ 141 lbs. (+700)"
+NOTE: The following information may be used with Model 1049 only.,
+420 2 cabin superchargers,"(a) AiResearch Type 56930 (with snood) 
+ 187 lbs. (+634)"
+b Airesearch Type 57910,193 lbs. (+634)
+c AiResearch Type 57910B,202 lbs. (+642)
+d Airesearch Type 57970,"421. 2 Supercharger drive shaft and disconnect assemblies 
+ (a) LAC 31145 shaft assembly and guard installation per LAC"
+Dwg No 308479,"109 lbs. (+613) 
+ (b) LAC 311442 shaft assembly and guard installation per LAC"
+Dwg No 311441,"100 lbs. (+617) 
+ (c) LAC 315908 shaft assembly and guard installation per LAC"
+Dwg No 315904,"82 lbs. (+620) 
+ (d) LAC 329552 shaft assembly and guard installation per LAC"
+Dwg No 315904,"82 lbs. (+620) 
+ (e) L.A.C. 469864 shaft assembly and guard installation per LAC"
+Dwg No 470286,"82 lbs. (+620) 
+ (f) L.A.C. 470093 shaft assembly and guard installation per LAC"
+Dwg No 470286,"82 lbs. (+620) 
+ (g) AiResearch 205400 shaft and guard installation per LAC Dwg. No. RR1393 
+ 80 lbs. (+620)"
+a Surface combustion Type A77A63,42 lbs. (+800)
+a Dynamic Air Type 8862B8B,74 lbs. (+800)
+b Joy Type X702164,70 lbs. (+800)
+424 Cabin refrigeration installation,"(a) 2 Cooling units, AiResearch Type 56910-1 and 2 
+ 47 lbs. (+744) 
+ (b) 2 Heat exchange cooling blowers, AiResearch Type 30980 
+ 45 lbs. (+759) 
+ (c) 2 Primary heat exchangers, AiResearch Type 19658 
+ 70 lbs. (+740) 
+ (d) 2 Secondary heat exchangers, AiResearch Type 81118 
+ 82 lbs. (+747) 
+ (e) 2 Water separators, AiResearch Type 81148-3 and -4 
+ 39 lbs. (+730) 
+ 440. Emergency ladder or emergency chute 
+ See Approved Master Equipment List for approved locations, 
+ types, weights and arms for various configurations."
+"(a) Model 1049-54 installed in accordance with LAC Dwg. No. 309287, including:",
+(b) Model 1049-54 installed in accordance with LAC,
+Dwg No 311142 including,"(1) 3 Kidde Type 870326 cylinders LAC Dwg. No. 654112 
+ 177 lbs. (+254)"
+2 3 Masks TWA 1459811,Negligible
+(c) Model 1049C-55-81 installed in accordance with LAC Dwg. No.,
+313262 including,"(1) 2 Kidde Type 870275 cylinders LAC Dwg. No. 654092 
+ 68 lbs. (+218)"
+(d) Model 1049C-55-81 installed in accordance with LAC Dwg.,
+No 318611 including,"(1) One Kidde Type 870326 cylinder LAC Dwg. No. 654112 
+ 63 lbs. (+218)"
+(e) Model 1049B-55-75 installed in accordance with LAC Dwg.,
+No 311168 including,"(1) 3 Kidde Type 870557 cylinders LAC Dwg. No. 654114 
+ 69 lbs. (+224)"
+(f) Model 1049C-55-94 installed in accordance with LAC Dwg. No.,
+321501 including,"(1) One Kidde Type 870 cylinder (LAC Dwg. NO. 654092) 
+ 34 lbs. (+231)"
+(g) Model 1049D-55-85 installed in accordance with LAC Dwg. No.,
+(h) Model 1049G-82-101 installed in accordance with LAC Dwg. No.,
+465081 including,"(1) 2 Kidde Type 870326 cylinders LAC Dwg. No. 654112 
+ 125 lbs. (+215)"
+(i) Model 1049G-82-102 installed in accordance with LAC Dwg.,
+No 328201 including,"(1) 2 Kidde Type 870275 cylinders LAC Dwg. No. 654092 
+ 68 lbs. (+218)"
+(j) Model 1049F-55-96 installed in accordance with LAC Dwg.,
+No 315939 including,"(1) Three Kidde Type 870275 cylinders (LAC Dwg. No. 654114) 
+ 69 lbs. (+224)"
+(k) Model 1049H-82-133 installed in accordance with LAC Dwg.,
+No 496938 including,"(1) Two Kidde Type 870275 cylinders LAC Dwg. No. 654092 
+ 64 lbs. (+219)"
+a Goodrich Type 21 Pneumatic,150 lbs. (+642)
+b Goodrich Type 22 Pneumatic,165 lbs. (+640)
+a Goodrich Type 21 Pneumatic,68 lbs. (+1345)
+b Goodrich Type 22 Pneumatic,76 lbs. (+1345)
+a Goodrich Type 21 Pneumatic,39 lbs. (+1365)
+508 Windshield wipers,"(a) 1 Dual Marquette (electric) installed in accordance with 
+ 17 lbs. (+189)"
+LAC Dwg No 309368,"(b) 1 Dual Marquette installed in accordance with LAC Drawing No. 325296 
+ 18 lbs. (+189) 
+ (c) 1 Dual Alco installed in accordance with LAC Dwg. No. 326072 
+ 13 lbs. (+183) 
+ (d) 2 wipers Alco installed in accordance with LAC Dwg. No. 327329 
+ 11 lbs. (+163) 
+ NOTE 1. (a) Current weight and balance report including list of equipment included in certificated weight empty, and loading 
+ instructions, must be in each aircraft at the time of original certification and at all times thereafter (except in the 
+ case of air carrier operators having an approved weight control system). See approved Master Equipment List 
+ (LAC Report 8097) for list of approved items of equipment in addition to those items listed in this specification. 
+ (b) The airplane must be loaded so that the C.G. is within the specified limits at all times, with the effects of fuel 
+ use, gear retraction, and movement of crew and passengers from their assigned positions being considered 
+ (retraction of the main and nose gears causes the C.G. to move forward, a value of 186,000 in. lbs. is a 
+ satisfactory approximation of the change in moment for all approved wheel items). At takeoff, the airplane shall 
+ be loaded so that, due to fuel use, the C.G. cannot move forward of 18% MAC. A 34% aft C.G. limit (gear 
+ retracted) for cruising flight may be used when the effect of passenger and crew movements from their assigned 
+ positions has been taken into account. 
+ (c) ""Unusable Fuel and System Oil"" and all hydraulic fluid must be included in the certificated weight empty. (See 
+ Item 101) 
+ Unusable fuel is that quantity of fuel in the system and in the tanks which is unavailable to the engines under 
+ critical flight conditions as defined in CAR 4b.494. Thus unusable fuel, includes ""system fuel"" which is defined 
+ as the quantity required to fill the system and tanks to the tank outlet level when the airplane is in the ground 
+ level attitude. The fuel gages are calibrated with the unusable fuel level as the zero datum. The total amount of 
+ fuel (Unusable included in Item 101) is as follows: 
+ Center Section Fuel 
+ Usable Fuel 
+ Unusable Fuel 
+ Model 
+ Cells Installed 
+ (lbs.) 
+ (lbs.) 
+ 1049-54 
+ Yes 
+ 39,300 
+ 491 
+ No 
+ 34,920 
+ 422 
+ 1049B-55** 
+ or 
+ 1049C-55** 
+ Yes 
+ 39,300* 
+ 457 
+ or 
+ 1049D-55** 
+ No 
+ 34,920* 
+ 388 
+ or 
+ 1049E-55** 
+ or 
+ 1049F-55** 
+ or 
+ 1049G-82** 
+ or 
+ 1049H-82** 
+ 1049G-82, 10498-82 
+ with tip tanks 
+ Yes 
+ 46,608 
+ 520 
+ *The total usable fuel must be limited to 28,800 lbs. when the oil transfer system is not installed (See NOTE 7). 
+ ** No tip tanks (See ITEM 109). 
+ System oil is that amount of oil required to fill the oil systems and tanks to the tank outlets to the engines. 
+ The propeller feathering oil is not considered usable oil, and, when applicable, is included in ""System oil."" 
+ The oil tank capacities shown in this specification include only the usable oil for which the tanks are placarded. 
+ Dipstick readings indicate the amount of usable oil. 
+ With Oil 
+ Usable 
+ System Oil 
+ With Aux. 
+ Transfer 
+ Prop. Item 
+ Oil (lbs.) 
+ (lbs.) 
+ Oil Tanks 
+ System 
+ Installed 
+ Model 
+ or 
+ 1049-54 
+ Yes 
+ --- 
+ 1(a) 
+ 1740 
+ 454 
+ No 
+ --- 
+ 1(a) 
+ 1650 
+ 454 
+ 1049B-55 
+ --- 
+ Yes 
+ 1(b) or (d) 
+ 1702 
+ 483 
+ or 
+ 1049C-55 
+ --- 
+ Yes 
+ 1(c) 
+ 1702 
+ 616 
+ or 
+ 1049D-55 
+ --- 
+ No 
+ 1(b) or (d) 
+ 1200 
+ 472 
+ or 
+ 1049E-55 
+ --- 
+ No 
+ 1(c) 
+ 1200 
+ 605 
+ or 
+ 1049F-55 
+ --- 
+ 1049G-82 
+ --- 
+ Yes 
+ 1(e) 
+ 1702 
+ 656 
+ or 
+ 1049H-82 
+ --- 
+ Yes 
+ 1(f) 
+ 1702 
+ 518 
+ No 
+ 1(e) 
+ 1200 
+ 645 
+ No 
+ 1(f) 
+ 1200 
+ 507 
+ (d) Fuel dumping. When fuel dump valves (Item 100) are installed per NOTE 3, the amount of usable fuel, over 
+ and above the unusable fuel listed in Item 101, remaining after dumping is as follows: 
+ Gallons Remaining in Tanks"
+A Model,"Tanks 
+ Tanks 
+ Tanks 
+ Tanks 
+ Tank 5 
+ 2 & 3 
+ 1 & 4 
+ 2a & 3a 
+ 1a & 4a 
+ Remarks"
+104954,"- 
+ 45 ea. 
+ 139 ea. 
+ 152 ea. 
+ -"
+1049B55,"45 ea. 
+ 145 ea. 
+ 149 ea. 
+ - 
+ No standpipes in Tanks 
+ See 
+ 2 & 3 - 4"" connector"
+1049C55,"145 ea. 
+ 145 ea. 
+ 149 ea. 
+ - 
+ (D) 
+ Standpipes installed in Tanks 
+ Foot- 
+ 2 & 3 - 4"" connector"
+1049D55,"174 ea. 
+ 145 ea. 
+ 149 ea. 
+ - 
+ (D) 
+ Standpipes installed in Tanks 
+ note 
+ 2 & 3 - 2-1/2"" connector"
+1049E55,"71 ea. 
+ 145 ea. 
+ 149 ea. 
+ - 
+ No standpipes in Tanks"
+or,"Below 
+ 2 & 3 - 2-1/2"" connector"
+1049G82,"45 ea. 
+ (C) 175 ea. 
+ (C) 175 ea. 
+ - 
+ No Standpipes in Tanks 
+ 2 & 3 - 4"" connector"
+1049H82,"145 ea. 
+ (C) 175 ea. 
+ (C) 175 ea. 
+ - 
+ (D) 
+ Standpipes installed in Tanks 
+ 2 & 3 - 4"" connector"
+1049G82,"45 ea. 
+ (C) 175 ea. 
+ (C) 175 ea. 
+ 15 ea. 
+ No Standpipes in Tanks 
+ 2 & 3 - 4"" connector"
+1049H82,"145 ea. 
+ (C) 175 ea. 
+ (C) 175 ea. 
+ 15 ea. 
+ (D) 
+ Standpipes installed in Tanks 
+ 2 & 3 - 4"" connector"
+The indicated combinations of undumpable fuel and the corresponding standpipe arrangement apply to any model within a,
+given block,"(Same as amount prior to dumping (no dump valves in this tank). 
+ Standpipe height increased to accommodate EA-3 engines. 
+ Operational zero fuel weight must not exceed the design landing weight minus the total undumpable fuel weight (including fuel 
+ in tank No. 5 at take-off), but in any case must not exceed design zero fuel weight. (The above undumpable fuel quantities at 6 
+ lbs. per gallon should be used in this determination)."
+e Fuel loading and usage,"(1) Fuel must be distributed and used in a manner that will permit compliance with the lateral balance 
+ limitations in the FAA Approved Airplane Flight Manual. 
+ (2) For minimum fuel at any takeoff weight, refer to fuel loading and usage chart in the pertinent Approved 
+ Operating Manual. 
+ (3) Fuel loaded in Tank No. 5 will affect the maximum zero fuel gross weight as follows: 
+ Model 
+ Maximum Zero Fuel Weight 
+ 1049-54 
+ 93,500 lbs. less weight of fuel in Tank 5 
+ or 
+ 95,500 lbs. less weight of fuel in Tank 5 (see Note 6) 
+ 1049B-55 
+ 105,000 lbs. less weight of fuel in Tank 5 
+ or 
+ 1049F-55 
+ 1049C-55 
+ 103,500 lbs. less weight of fuel in Tank 5 in excess of 1500 lbs. 
+ or 
+ 1049E-55 
+ or 
+ 1049G-82 
+ 1049D-55 
+ 105,000 lbs. less weight of fuel in Tank 5 
+ or 
+ 1049D/01-55 
+ 108,000 lbs. less weight of fuel in Tank 5 
+ or 
+ 1049H-82 
+ (See Note 11) 
+ 1049G-82 
+ 104,200 lbs. less weight of fuel in Tank 5 
+ with tip tanks 
+ (4) By reason of structural limitations, the following fuel quantities shall not be exceeded during landing 
+ operations: 
+ Model 
+ Tank 5 
+ Tanks 2 & 3 
+ Tanks 1 & 4 
+ Tanks 2a & 3a 
+ Tanks 1a & 4a 
+ 1049-54 
+ 730 gal. 
+ 790 gal. ea. 
+ 1200 gal. ea. 
+ 515 gal. ea 
+ ---- 
+ 1049-55 
+ or 
+ 1049C-55 
+ No limitations. 
+ ----- 
+ or 
+ 1049D-55 
+ (Tanks 2a and 4a not installed) 
+ ----- 
+ or 
+ 1049E-55 
+ ----- 
+ or 
+ 1049F-55 
+ or 
+ 1049G-82 
+ or 
+ 1049H-82 
+ ----- 
+ 1049G-82 
+ 730 gal. 
+ 790 gal. ea. 
+ 1555 gal. ea 
+ 565 gal. ea. 
+ 200 gal. ea. 
+ NOTE 2. The following placards must be installed: 
+ (a) In full view of the pilots and flight engineer: 
+ (1) ""This airplane must be fueled and the fuel used in accordance with instructions contained in the FAA 
+ approved Airplane Flight Manual."" 
+ (2) ""This airplane shall be operated in accordance with the Operating Limitations specified in the FAA 
+ Approved Airplane Flight Manual."" 
+ (b) On the forward side of door at Station 303.5 for the -67 interior, or door at Station 339 for -81 interior: 
+ ""This door must be locked open during all take-offs and landings."" 
+ NOTE 3. Fuel dump valves (Item 100) must be installed for operation of the airplane at weights in excess of maximum landing 
+ weight. Refer to CAA Approved Airplane Flight Manual for limitations and cautionary procedures to be observed"
+during the dumping of fuel,"of the airplane, may be retained or removed at the option of the operator."
+"NOTE 5. Prior to civil certification of each military R7V-1 or C121-C aircraft of the Model 1049B-55 or 1049F-55 series, the",
+following modifications will be required,"(a) The position and fuselage lights installation must be modified to conform to FAA requirements. 
+ (b) On R7V-1 aircraft, fire detecting and extinguishing equipment must be installed in the lower baggage 
+ compartments in accordance with CAR 4b.383(c). 
+ (c) All military special equipment must be removed. 
+ (d) FAA approved operating manual (Airplane Flight Manual) (Item 400) must be provided. 
+ (e) Airplanes bearing manufacturer's numbers 4102, 4103, 4104 and 4106 must be inspected for corrosion of the 
+ integrally stiffened machined plates of the inner wing lower surface. In order to accomplish this, the sealing of 
+ integral fuel tanks in this area must be removed. If detrimental corrosion is found, contact Lockheed Aircraft 
+ Corporation for corrective measures. 
+ (f) Parachute flares must be installed. 
+ (g) Airspeed placards limiting Vno and Vne in accordance with airspeed limits of Part III of this specification must 
+ be installed in full view of the pilots. 
+ (h) Placards must be installed in the cabin which will insure that an aisle way will be maintained throughout the 
+ entire length of the cabin to: 
+ (1) Provide access to an emergency exit over the wing for smoke evacuation purposes. 
+ (2) Provide access to all cargo in the cabin area to facilitate fire fighting with a hand extinguisher. 
+ (i) Placards must be installed to warn ground and flight personnel that the airplane must not be flown with the 
+ cargo 
+ doors removed or unlatched."
+(j) Revise the engine nameplate to include the corresponding civil model designation (972TC18DA1) and Type,
+NOTE 6. Lockheed Serial Nos. 4101 through 4139 of Model 1049B (Navy R7V-1) are eligible for certification at,
+following items must be accomplished,"(1) Fuel loading and usage procedure must be in accordance with that described in Lockheed Report No. 9154. 
+ (2) Reinforce fuselage main frame and fuselage skin in accordance with Lockheed Rapid Revision Dwg. No. 173."
+"NOTE 7. When auxiliary oil tank and oil transfer systems are not used on Model 1049B-55 and 1049C-55, total usable fuel",
+"NOTE 8. Model 1049-54 aircraft are eligible for certification at a landing weight of 101,500 lbs. and a maximum zero fuel",
+NOTE 9. If cargo aircraft (Model 1049B-55 or 1049F-55) are converted for passenger operation or combination passenger-,
+"NOTE 11. Model 1049D-55 is eligible for landing weight of 113,000 lbs., takeoff weight of 135,400 lbs., and maximum zero",
+"NOTE 12. Models 1049C-55 and 1049E-55 are eligible for a takeoff weight of 135,400 lbs. when stronger main landing gear",
+"those modifications required for Model 1049C. Service Bulletins 2500, 2508, 2509 and 2599 describe those 
+ required for Model 1049E. Upon completion of all of these items, the airplane is re-designated as Model",
+"NOTE 13. Model 1049E/01-55 (See NOTE 12) is eligible for a landing weight of 113,000 lbs. when the landing gear",
+"NOTE 14. Model 1049H-82 is eligible for increased takeoff, landing and zero fuel weights when certain specific modifications 
+ are incorporated. Upon completion of the required items the aircraft model is redesignated. The redesignated",
+A Model 1049H0103 or 1049H0106,"This model is basically a 1049H with the wing structure reinforced according to Lockheed Drawing 
+ No. 329998-505 ""Wing Group Installation"" and Item 111 (a) optional engines and propeller Item 1(e) are 
+ installed. 
+ Tip Tanks Off 
+ Tip Tanks On 
+ Gross Weight 
+ 140,000 
+ 140,000 
+ Landing Weight 
+ 113,000 
+ 113,000 
+ Zero Fuel Weight 
+ 109,500 
+ 106,700"
+B Model 1049H0203 or 1049H0206,"This model is a 1049H/01 modified in accordance with Lockheed Service Bulletin No. 3041. This results 
+ in a change in landing weight to 114,500 lbs. for both tip tanks on or off configurations."
+C. Model 1049H/03. See NOTE 18.,
+D Model 1049H0482,"This model is basically a 1049H modified in accordance with Lockheed Service Bulletin No. 3041 making this 
+ model eligible for the following landing and zero fuel weights: 
+ Tip Tanks Off 
+ Tip Tanks On 
+ Landing Weight 
+ 114,500 
+ 114,500 
+ Zero Fuel Weight 
+ 109,500 
+ 104,200"
+E Model 1049H0503 or 1049H0506,"This model is basically a 1049H/01 modified in accordance with Lockheed Service Bulletin No. 3060 
+ rendering this model eligible for the following weights: 
+ Tip Tanks Off 
+ Tip Tanks On 
+ Takeoff Weight 
+ 142,100 
+ 142,100 
+ Landing Weight 
+ 113,000 
+ 113,000 
+ Zero Fuel Weight 
+ 108,000 
+ 108,000"
+F Model 1049H0603 or 1049H0606,"This model is basically a 1049H/06 modified in accordance with Lockheed Service Bulletin No. 3060 
+ rendering this model eligible for the following weights: 
+ Tip Tanks Off 
+ Tip Tanks On 
+ Takeoff Weight 
+ 142,100 
+ 142,100 
+ Landing Weight 
+ 114,500 
+ 114,500 
+ Zero Fuel Weight 
+ 109,500 
+ 109,500"
+G Model 1049H0703 or 1049H0706,"This model is basically a 1049H/06 with the takeoff weight limited because of the substitution of propeller 
+ Item 1(b) for Item 1(e). The operational weights are as follows: 
+ Tip Tanks Off 
+ Tip Tanks On 
+ Takeoff Weight 
+ 141,700 
+ 141,700 
+ Landing Weight 
+ 114,500 
+ 114,500 
+ Zero Fuel Weight 
+ 109,500 
+ 109,500 
+ NOTE 15. The 975C18CB1 engine is eligible for use with grade 100/130 or 108/135 fuel at the following ratings: 
+ Lower impeller ratio 6.46:1 
+ Maximum continuous: 
+ (Sea level) 43.5 in.Hg., 2600 rpm (2150 hp) 
+ (Straight line manifold pressure variation with altitude to 8700 ft.) 
+ 40.5 in.Hg., 2600 rpm (2150 hp) 
+ Takeoff (2 minutes): 
+ (Sea level) 47.0 in.Hg., 2600 rpm (2350 hp) 
+ (Straight line manifold pressure variation with altitude to 5900 ft.) 
+ 45.0 in.Hg., 2600 rpm (2350 hp) 
+ High impeller ratio 8.67:1 
+ Maximum continuous: 
+ (14,000 ft.) 42.0 in.Hg., 2600 rpm (1800 hp) 
+ (Straight line manifold pressure variation with altitude to 18,800 ft.) 
+ 41.0 in.Hg., 2600 rpm (1800 hp) 
+ When using the above grade fuel and power ratings, the airplane weight limitations are as follows: 
+ Landing: 
+ 91,000 lbs. 
+ Takeoff 
+ 100,000 lbs. (Dump valves are required) 
+ Maximum zero fuel weight: 87,332 lbs. 
+ NOTE 16. The 972TC18CDA1 engine is eligible for use with grade 100/130 or 108/135 fuel at the following ratings with 
+ automatic rich mixture settings only for all operations including cruise:: 
+ Lower impeller ratio 6.46:1 
+ Maximum continuous: 
+ (Sea level) 43.5 in.Hg., 2600 rpm (2380 hp) 
+ (Straight line manifold pressure variation with altitude to 9100 ft.) 
+ 41.0 in.Hg., 2600 rpm (2450 hp) 
+ Takeoff (2 minutes at sea level; 5 minutes at 7500 ft. 
+ (Straight line variation of takeoff power time with altitude to 7500 ft.) 
+ (Sea level) 51.0 in.Hg., 2900 rpm (2880 hp) 
+ (Straight line manifold pressure variation with altitude to 8100 ft.) 
+ 47.5 in.Hg., 2900 rpm (2950 hp) 
+ High impeller ratio 8.67:1 
+ Operation with grade 100/130 fuel not permitted. 
+ When using the above grade fuel and power ratings, the airplane weight limitations are as follows: 
+ Landing: 
+ 101,500 lbs. 
+ Takeoff 
+ 120,000 lbs. (Dump valves are required) 
+ Maximum zero fuel weight: 95,884 lbs. (with 2-1/2 inch connector tubes) 
+ 95,560 lbs. (with 4 inch connector tubes) 
+ NOTE 17. The 972TC18DA3, 988TC18EA3 and 988TC18EA6 engines are eligible for use with grade 100/130 or 108/135"
+fuel,"at the following ratings with automatic rich mixture settings only for all operations including cruise:: 
+ Lower impeller ratio 6.46:1 
+ Maximum continuous: 
+ (Sea level) 44.0 in.Hg., 2600 rpm (2380 hp) 
+ (Straight line manifold pressure variation with altitude to 9400 ft.) 
+ 41.5 in.Hg., 2600 rpm (2450 hp) 
+ Takeoff (2 minutes at sea level; 5 minutes at 7500 ft.; 
+ straight line variation of takeoff power time with altitude to 7500 ft.): 
+ (Sea level) 51.0 in.Hg., 2900 rpm (2880 hp) 
+ (Straight line manifold pressure variation with altitude to 8500 ft.) 
+ 48.0 in.Hg., 2900 rpm (2950 hp) 
+ High impeller ratio 8.67:1 
+ Operation with grade 100/130 fuel not permitted. 
+ When using the above grade fuel and power ratings, the airplane weight limitations are as follows: 
+ Landing: 
+ 101,500 lbs. 
+ Takeoff 
+ 120,000 lbs. (Dump valves are required) 
+ Maximum zero fuel weight: 
+ 96,750 lbs. (Tip tanks off) Standard configuration) 
+ 96,580 lbs. (Tip tanks on) 
+ 95,560 lbs. (Tip tanks off and stand pipe in tanks 2 and 3) 
+ 95,380 lbs. (Tip tanks on and stand pipe in tanks 2 and 3)"
+NOTE 18. Model 1049D/01 may be modified to Model 1049H when modified in accordance with Lockheed Service Bulletin,
+Tip Tanks,"Landing Weight 
+ Zero Fuel Weight 
+ ON 
+ OFF 
+ ON 
+ OFF"
+Hamilton Standard Propellers,(Equipment Items 1(c) and 1(e))
+Model 1049C  ,"(1) 
+ 115,210 
+ 115,175 
+ 109,410 
+ 108,675"
+1049E  1049E01,"(2) 
+ 115,210 
+ 115,175 
+ 109,090 
+ 108,675"
+1049E02,"(1) 
+ 117,200 
+ 117,200 
+ 109,410 
+ 108,675 
+ (2) 
+ 117,200 
+ 117,200 
+ 109,410 
+ 108,675"
+1049G equip item 1e only,"118,210 
+ 118,175 
+ 109,410 
+ 108,675"
+1049H,"118,210 
+ 118,400 
+ 109,410 
+ 113,400"
+1049H01,"118,335 
+ 118,400 
+ 112,035 
+ 113,400"
+1049H02,"119,835 
+ 119,975 
+ 112,035 
+ 114,975"
+1049H05,"118,400 
+ 118,400 
+ 113,400 
+ 113,400"
+1049H06,"119,975 
+ 119,975 
+ 114,975 
+ 114,975 
+ Landing Weight 
+ Zero Fuel Weight 
+ ON 
+ OFF 
+ ON 
+ OFF"
+Dural Propellers,(Equipment Item 1(f))
+Model 1049C  ,"(1) 
+ 115,210 
+ 115,175 
+ 109,410 
+ 108,675"
+1049E  1049E01,"(2) 
+ 115,210 
+ 115,175 
+ 109,090 
+ 108,675"
+1049E02,"(1) 
+ 116,600 
+ 116,600 
+ 109,410 
+ 108,675 
+ (2) 
+ 116,600 
+ 116,600 
+ 109,410 
+ 108,675"
+1049G,"117,600 
+ 117,600 
+ 109,410 
+ 108,675"
+1049H,"117,600 
+ 117,600 
+ 109,410 
+ 112,860"
+1049H01,"118,335 
+ 118,400 
+ 112,035 
+ 113,400"
+1049H02,"119,835 
+ 119,975 
+ 112,035 
+ 114,975"
+1049H05,"118,400 
+ 118,400 
+ 113,400 
+ 113,400"
+1049H06,"119,975 
+ 114,975 
+ 114,975 
+ 114,975"
+858 TE Propellers,(Equipment Item 1(b))
+Model 1049C ,"(1) 
+ 115,210 
+ 115,175 
+ 109,410 
+ 108,675"
+1049E  1049E01,"(2) 
+ 115,210 
+ 115,175 
+ 109,090 
+ 108,675"
+1049E02,"(1) 
+ 115,600 
+ 115,600 
+ 109,410 
+ 108,675 
+ (2) 
+ 115,600 
+ 115,600 
+ 109,410 
+ 108,675"
+1049D01,"115,600 
+ 115,600 
+ 109,410 
+ 111,220"
+1049H,"116,850 
+ 116,850 
+ 109,410 
+ 112,110"
+1049H03,"116,850 
+ 116,850 
+ 109,410 
+ 112,110"
+1049H07,"118,800 
+ 118,800 
+ 113,880 
+ 114,060 
+ (1) Standpipes in tanks 2 and 3 with 2-1/2"" connecting tube. 
+ (2) Standpipes in tanks 2 and 3 with 4"" connecting tube. 
+ In addition to the operator's normal inspection program, aircraft operated in accordance with SR-411A must be 
+ inspected with the ""Inspection Procedures for Cargo Aircraft Operated at Gross Weights Above Certificated Gross 
+ Weights"" (Lockheed Report No. 11414, Pages 27 and 28) as revised and approved by the FAA. Requests for 
+ changes in the inspection procedure must be forwarded to the manufacturer for his recommendations and submittal"
+to the FAA for approval,The increased weights authorized in accordance with SR-411A do not apply to foreign operators when the aircraft is
+operated in the United States,"FAA Approved Airplane Flight Manual revision, including performance information for operation at the increased 
+ weights, should be obtained from the manufacturer or from the organization performing the modifications for cargo 
+ operation and submitting the corresponding Manual Supplement for FAA approval. 
+ NOTE 20. Propeller governor Type 5U18 is eligible for use only on aircraft equipped with Wright 975C18CB-1 engines."

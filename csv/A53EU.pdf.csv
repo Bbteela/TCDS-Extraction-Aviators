@@ -1,0 +1,2491 @@
+Keyterm,Info
+"A53EU 
+ Revision 31 
+ ATR 
+ ATR42-200 
+ ATR42-300 
+ ATR42-320 
+ ATR42-500 
+ ATR72-101 
+ ATR72-201 
+ ATR72-102 
+ ATR72-202 
+ ATR72-211 
+ ATR72-212 
+ ATR72-212A 
+ July 9, 2021",
+Type Certificate Holder,"ATR – GIE Avions de Transport Régional 
+ 1, Allée Pierre Nadot 
+ 31712 Blagnac Cedex 
+ France 
+ I. ATR42-200 (Transport Category Airplane) approved October 25, 1985."
+Engines,"Two Pratt and Whitney Aircraft of Canada, Ltd., PW120 turboprops."
+Fuel,"(a) 
+ The following fuels are eligible for engines 
+ MIL-T-5624 
+ Grade JP5 
+ AST-MD-1655 
+ Grades JET A, JET A1 
+ (PWC Service Bulletin No. 20 004 details approval conditions) 
+ (b) 
+ The following type of additives may be used in approved fuels: 
+ - oxidation inhibitors, 
+ - corrosion inhibitors, 
+ - thermal stability additives, 
+ - metal deactivators, 
+ - anti icing additives, 
+ - anti stating additives, 
+ - biocide additives. 
+ List of approved additives, approved concentrations and conditions of use 
+ are identified in PWC Service Bulletin no 20.004."
+Page,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17"
+Rev,"31 
+ 30 
+ 6 
+ 29 
+ 27 
+ 29 
+ 27 
+ 12 
+ 29 
+ 27 
+ 22 
+ 21 
+ 24 
+ 27 
+ 28 
+ 31 
+ 31"
+Page,"18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 32 
+ 33 
+ 34"
+Rev,"22 
+ 27 
+ 29 
+ 26 
+ 27 
+ 27 
+ 29 
+ 30 
+ 30 
+ 30 
+ 24 
+ 27 
+ 28 
+ 26 
+ 30 
+ 31 
+ 31"
+Oil,"The following oils are eligible for engines: 
+ - Synthetic type conforming to PWC specification PWA 521, Type II. 
+ PWC Service Bulletin 20 001 lists approved brand oils."
+Engine Limits PW120,"Operating limits with no unscheduled maintenance action required. 
+ Beyond these limits refer to maintenance manual."
+POWER SETTING,"TIME LIMIT 
+ TO 
+ ITT 
+ NH 
+ NP 
+ OIL PRESS 
+ OIL TEMP 
+ (%) 
+ (ºC) 
+ (%) 
+ (%) 
+ (PSI) 
+ (ºC)"
+OFF,"5 minutes 
+ 105 
+ 816 
+ 100 
+ 101 
+ 55 to 65 
+ 0 to 125 (1)"
+TAKE OFF,"5 minutes 
+ 92 
+ 785 
+ (4) 
+ 101 
+ 55 to 65 
+ 0 to 125 (1)"
+CONTINUOUS,"NONE 
+ 90 
+ 785 
+ 100 
+ 101 
+ 55 to 65 
+ 0 to 125 (1)"
+GROUND IDLE,"62 
+ 40 min 
+ -40 to 125 (1) 
+ min"
+HOTEL MODE,"785 
+ 40 min (2) 
+ 0 to 125 (1)"
+STARTING,"5 seconds 
+ 950 
+ -40 min (3)"
+TRANSIENT,"10 mn 
+ 105 
+ 20 S 
+ 125 
+ 850 
+ 102 
+ 110 
+ 40 to 100 
+ 20 S 
+ 145.6 
+ 850 
+ 102 
+ 110 
+ 40 to 100 
+ (5) 
+ (1) Temperature up to 115ºC (120ºC in Hotel mode) is authorized without time limitation. 20 mn are authorized between 
+ 115ºC (120ºC in Hotel mode) and 125ºC. 
+ (2) For NH below 75%. NH above 75% requires 55 to 65 psi. 
+ (3) It may be assumed that before the first start of the day the oil temperature is the minimum temperature observed during"
+the night,"(4) Refer to AFM 2.04 p1A for NH limitation at take off. 
+ (5) If gearboxes incorporate SB 20316 or 20380. 
+ NOTE: Oil temperature must be maintained above 45ºC to ensure intake strut de-icing. Oil temperature must be maintained 
+ above 71ºC to ensure fuel anti-icing protection in absence of the low fuel temperature indication."
+Propellers,"2 Hamilton Sundstrand, four-bladed, 14 SF 5 (FAA TCDS P7NE). 
+ Blade: SFA 13( ) (see FAA TCDS P7NE)"
+Propeller Limits,"Diameter: 13 Ft. (+ 1/4 in., -3/16 in. manufacturing tolerance 
+ permissible) 
+ Pitch Setting at 42. in. of the axis: 
+ Feather: 86 degrees 
+ Flight Fine: 20 degrees 
+ Ground Fine: 7 degrees 
+ Full Reverse: -10 degrees 
+ Propeller (Np) – Take off 
+ 1200 R.P.M. 
+ Max. Continuous 
+ 1200 R.P.M."
+Airspeed Limits IAS,"Maximum operating speed Vmo 
+ : 250 KIAS 
+ Maximum operating mach Mmo 
+ : 0.55 
+ VA manoeuvering speed 
+ : 160 KIAS 
+ VFE Flaps 15o 
+ : 160 KIAS (170 KIAS with MOD. 1790) 
+ Flaps 30o 
+ : 145 KIAS (150 KIAS with MOD. 1790) 
+ Flaps 45o 
+ : 130 KIAS (Emergency only) 
+ VLO Gear extension 
+ : 160 KIAS 
+ Gear retraction 
+ : 160 KIAS 
+ VLE Landing gear extended : 160 KIAS (170 KIAS with MOD. 1790) 
+ VMC (Minimum control speed with the critical engine inoperative) 
+ - In flight - VMCA : 88.5 KIAS 
+ - Take Off - VMCG: 83 KIAS 
+ Tire speed limit (ground speed limit) 165 KIAS"
+Gear Extended,"Forward Limit 
+ AFT Limit 
+ (% MAC) 
+ (% MAC) 
+ Take off and landing 
+ 15 
+ 36 
+ Flight 
+ 12 
+ 38 
+ Gear retraction has negligible effect on C.G. range."
+Maximum Weights,"kg 
+ lb 
+ Taxi weight 
+ 15,770 
+ 34,770 
+ Take Off weight 
+ 15,750 
+ 34,725 
+ Landing weight 
+ 15,500 
+ 34,170 
+ Zero Fuel weight 
+ 14,500 
+ 31,965 
+ For aircraft incorporating ATR Modification 0863, weight limitations are 
+ modified as follows: 
+ kg 
+ lb 
+ Taxi weight 
+ 15,770 
+ 34,770 
+ Take Off weight 
+ 15,750 
+ 34,725 
+ Landing weight 
+ 15,500 
+ 34,170 
+ Zero Fuel weight 
+ 15,200 
+ 33,510"
+Minimum Crew,2 (pilot and co-pilot).
+Maximum Passengers,"46: 
+ 48 passenger capacity is approved with incorporation of 
+ modification 0481. 
+ 34: 
+ in COMBI configuration, with modification 0244 and with 
+ modification 0755 associated with the application of 
+ modifications 1073 and 1044."
+Maximum Baggage,"Forward compartment - Maximum load 
+ 960 kg (2116 lb) 
+ 508 kg (1119 lb) with Mod 0481 
+ Rear compartment - Maximum load 
+ 384 kg (846 lb) 
+ 768 kg (1693 lb) with Mod 0639"
+Fuel Capacity,"Density 6,55 lb/US Gallon 
+ Usable 
+ Unusable 
+ lb 
+ US Gal 
+ 46.7 lb 
+ 2 x 4,960 
+ 2 x 757"
+Fuel Unbalance,"Maximum fuel unbalance: 
+ 550 kg (1,212 lb)"
+Oil Capacity,"Engine oil capacity 
+ Usable 
+ 1,0 US Gallon/engine 
+ Total 
+ 4,7 US Gallon/engine"
+Maximum Operating Altitude,"25,000 ft. 
+ II. ATR42-300 (Transport Category Airplane) approved October 25, 1985."
+Engines,"Two Pratt and Whitney Aircraft of Canada, Ltd, PW120 turboprops."
+Fuel,"(a) The following fuels are eligible for engines 
+ MIL-T-5624 
+ Grade JP5 
+ AST-MD-1655 
+ Grades JET A, JET A1 
+ (PWC Service Bulletin no 20 004 details approval conditions) 
+ (b) The following types of additives may be used in approved fuels: 
+ - oxidation inhibitors, 
+ - corrosion inhibitors, 
+ - thermal stability additives, 
+ - metal deactivators, 
+ - anti icing additives, 
+ - anti stating additives, 
+ - biocide additives. 
+ List of approved additives, approved concentrations and conditions 
+ of use are identified in PWC Service Bulletin no 20.004."
+Oil,"The following oils are eligible for engines: 
+ - Synthetic type conforming to PWC specification PWA 521, Type II. 
+ PWC Service Bulletin 20 001 lists approved brand oils."
+Engine Limits PW120,"Operating limits with no unscheduled maintenance action required. 
+ Beyond these limits refer to maintenance manual."
+POWER SETTING,"TIME LIMIT 
+ TO 
+ ITT 
+ NH 
+ NP 
+ OIL PRESS 
+ OIL TEMP 
+ (%) 
+ (ºC) 
+ (%) 
+ (%) 
+ (PSI) 
+ (ºC)"
+OFF,"5 minutes 
+ 105 
+ 816 
+ 100 
+ 101 
+ 55 to 65 
+ 0 to 125 (1)"
+TAKE OFF,"5 minutes 
+ 92 
+ 785 
+ (4) 
+ 101 
+ 55 to 65 
+ 0 to 125 (1)"
+CONTINUOUS,"NONE 
+ 90 
+ 785 
+ 100 
+ 101 
+ 55 to 65 
+ 0 to 125 (1)"
+GROUND IDLE,"62 
+ 40 min 
+ -40 to 125 (1) 
+ min"
+HOTEL MODE,"785 
+ 40 min (2) 
+ 0 to 125 (1)"
+STARTING,"5 seconds 
+ 950 
+ -40 min (3)"
+TRANSIENT,"10 mn 
+ 105 
+ 20 S 
+ 125 
+ 850 
+ 102 
+ 110 
+ 40 to 100 
+ 20 S 
+ 145.6 
+ 850 
+ 102 
+ 110 
+ 40 to 100 
+ (5) 
+ (1) Temperature up to 115ºC (120ºC in Hotel mode) is authorized without time limitation. 20 mn are authorized between 
+ 115ºC (120ºC in Hotel mode) and 125ºC. 
+ (2) For NH below 75%. NH above 75% requires 55 to 65 psi. 
+ (3) It may be assumed that before the first start of the day the oil temperature is the minimum temperature observed during"
+the night,"(4) Refer to AFM 2.04 p1A for NH limitation at take off. 
+ (5) If gearboxes incorporate SB 20316 or 20380. 
+ NOTE: Oil temperature must be maintained above 45ºC to ensure intake strut de-icing. Oil temperature must be maintained 
+ above 71ºC to ensure fuel anti-icing protection in absence of the low fuel temperature indication."
+Propellers,"2 Hamilton Sundstrand, four-bladed, 14 SF 5 (FAA TCDS P7NE). 
+ Blade: SFA 13( ) (see FAA TCDS P7NE)"
+Propeller Limits,"Diameter: 13 FT. (+ 1/4 in., -3/16 in. manufacturing tolerance permissible.) 
+ Pitch Setting at 42 in. of the axis: 
+ Feather : 86 degrees 
+ Flight Fine: 20 degrees 
+ Ground Fine: 7 degrees 
+ Full Reverse: -10 degrees 
+ Propeller (Np) – Take off 
+ 1200 R.P.M. 
+ Max. Continuous 
+ 1200 R.P.M."
+Airspeed Limits IAS,"Maximum operating speed VMO 
+ : 250 KIAS 
+ Maximum operating mach VMO 
+ : 0.55 
+ VA manoeuvering speed 
+ : 160 KIAS 
+ VFE Flaps 15o 
+ : 160 KIAS (170 KIAS with MOD.1790) 
+ Flaps 30o 
+ : 145 KIAS (150 KIAS with MOD.1790) 
+ Flaps 45o 
+ : 130 KIAS (Emergency only) 
+ VLO Gear extension 
+ : 160 KIAS 
+ Gear retraction 
+ : 160 KIAS 
+ VLE Landing gear extended 
+ : 160 KIAS (170 KIAS with MOD.1790) 
+ VMC (Minimum control speed with the critical engine inoperative) 
+ - In flight - VMCA 
+ : 88.5 KIAS 
+ - Take off - VMCG 
+ : 83 KIAS 
+ Tire speed limit (ground speed limit) 
+ : 165 KIAS"
+Gear Extended,"Forward Limit 
+ AFT Limit 
+ (% MAC) 
+ (% MAC) 
+ Take off and landing 
+ 15 
+ 36 
+ Flight 
+ 12 
+ 38 
+ For aircraft incorporating ATR Modification 0951 (Service Bulletin 
+ No. ATR42-08-0001), C.G. range is modified as follows: 
+ Forward Limit 
+ AFT Limit 
+ (% MAC) 
+ (% MAC) 
+ Take off: 
+ 16,150 kg. G.W. 
+ 15 
+ 36 
+ 16,700 kg. G.W 
+ 17 
+ 32 
+ Landing: 
+ 16,000 kg. G.W. 
+ 15 
+ 36 
+ 16,400 kg. G.W. 
+ 17 
+ 32 
+ Flight: 
+ 12 
+ 38 
+ (Straight line variation between points). 
+ Gear retraction has negligible effect on C.G. range."
+Maximum Weights,"kg 
+ lb 
+ Taxi weight 
+ 16,170 
+ 35,645 
+ Take Off weight 
+ 16,150 
+ 35,605 
+ Landing weight 
+ 16,000 
+ 35,270 
+ Zero Fuel weight 
+ 14,800 
+ 32,625 
+ For aircraft incorporating ATR Modification 0863, weight limitations 
+ are modified as follows: 
+ Taxi weight 
+ 16,170 
+ 35,645 
+ Take Off weight 
+ 16,150 
+ 35,605 
+ Landing weight 
+ 16,000 
+ 35,270 
+ Zero Fuel weight 
+ 15,200 
+ 33,510 
+ For aircraft incorporating ATR Modification 0951 (ATR Service Bulletin 
+ No. ATR42-08-0001), weight limitations are modified as follows: 
+ Taxi weight 
+ 16,720 
+ 36,870 
+ Take Off weight 
+ 16,700 
+ 36,825 
+ Landing weight 
+ 16,400 
+ 36,160 
+ Zero Fuel weight 
+ 15,200 
+ 33,510"
+Minimum Crew,2 (pilot and co-pilot).
+Maximum Passengers,"46: 
+ 48 passenger capacity is approved with incorporation of 
+ modification 0481. 
+ 34: 
+ in COMBI configuration, with modification 0244 and with 
+ modification 0755 associated with the application of 
+ modifications 1073 and 1044."
+Maximum Baggage,"Forward compartment - Maximum load 2,045 lb 
+ Rear compartment - Maximum load 952 lb."
+Fuel Capacity,"Density 6.55 lb/US Gallon 
+ Usable 
+ Unusable 
+ lb 
+ US Gal 
+ 46.7 lb 
+ 2 x 4,960 
+ 2 x 757"
+Fuel Unbalance,"Maximum fuel unbalance: 
+ 550 kg (1,212 lb)"
+Oil Capacity,"Engine oil capacity 
+ Usable 
+ 1.0 US Gallon/engine 
+ Total 
+ 4.7 US Gallon/engine"
+Maximum Operating Altitude,"25,000 ft. 
+ III. ATR42-320 (Transport Category Airplane) approved August 25, 1988."
+Engines,"Two Pratt and Whitney Aircraft of Canada, Ltd, PW121 turboprops."
+Fuel,"(a) The following fuels are eligible for engines 
+ MIL-T-5624 
+ Grade JP5 
+ AST-MD-1655 
+ Grades JET A, JET A1 
+ (PWC Service Bulletin no 20 004 details approved conditions)."
+Fuel,"(cont'd) 
+ (b) The following types of additives may be used in approved fuels: 
+ - oxidation inhibitors, 
+ - corrosion inhibitors, 
+ - thermal stability additives, 
+ - metal deactivators, 
+ - anti icing additives, 
+ - anti stating additives, 
+ - biocide additives. 
+ List of approved additives, approved concentrations and conditions of 
+ use are identified in PWC Service Bulletin no 20.004."
+Oil,"The following oils are eligible for engines: 
+ - Synthetic type conforming to PWC specification PWA 521, Type II. 
+ PWC Service Bulletin 20 001 lists approved brand oils."
+Engine Limits PW121,"Operating limits with no unscheduled maintenance action required. Beyond 
+ these limits refer to maintenance manual."
+POWER SETTING,"TIME LIMIT 
+ TO 
+ ITT 
+ NH 
+ NP 
+ OIL PRESS 
+ OIL TEMP 
+ (%) 
+ (ºC) 
+ (%) 
+ (%) 
+ (PSI) 
+ (ºC)"
+OFF,"5 minutes 
+ 107,2 
+ 816 
+ 100 
+ 101 
+ 55 to 65 
+ 0 to 125 (1)"
+TAKE OFF,"5 minutes 
+ 92,9 
+ (5) 
+ (4) 
+ 101 
+ 55 to 65 
+ 0 to 125 (1)"
+CONTINUOUS,"NONE 
+ 92,9 
+ 800 
+ 100 
+ 101 
+ 55 to 65 
+ 0 to 125 (1)"
+GROUND IDLE,"62 
+ 40 min 
+ -40 to 125 (1) 
+ min"
+HOTEL MODE,"785 
+ 40 min (2) 
+ -40 to 125 (1)"
+STARTING,"5 seconds 
+ 950 
+ -40 min (3)"
+TRANSIENT,"10 mn 
+ 107,2 
+ 20 S 
+ 119.7 
+ 850 
+ 102 
+ 110 
+ 40 to 100 
+ 20 S 
+ 138,7 
+ 850 
+ 102 
+ 110 
+ 40 to 100 
+ (6) 
+ (1) Temperature up to 115ºC (120ºC in Hotel mode) is authorized without time limitation. 20 mn are authorized between 
+ 115ºC (120ºC in Hotel mode) and 125ºC. 
+ (2) For NH below 75%. NH above 75% requires 55 to 65 psi. 
+ (3) It may be assumed that before the first start of the day the oil temperature is the minimum temperature observed during"
+the night,"(4) Refer to AFM 2.04 p1A for NH limitation at take off. 
+ (5) If gearboxes incorporate SB 20316 or 20380. 
+ NOTE: Oil temperature must be maintained above 45ºC to ensure intake strut de-icing. Oil temperature must be maintained 
+ above 71ºC to ensure fuel anti-icing protection in absence of the low fuel temperature indication."
+Propellers,"2 Hamilton Sundstrand, four-bladed, 14 SF 5 (FAA TCDS P7NE). 
+ Blade: 
+ SFA 13( ) (see FAA TCDS P7NE)"
+Propeller Limits,"Diameter: 13 FT. (+ 1/4 in., -3/16 in. manufacturing tolerance permissible) 
+ Pitch Setting at 42. in. of the axis: 
+ Feather: 86 degrees 
+ Flight Fine: 20 degrees 
+ Ground Fine: 7 degrees 
+ Full Reverse: -10 degrees 
+ Propeller (Np) – Take off 
+ 1200 R.P.M. 
+ Max Continuous 
+ 1200 R.P.M."
+Airspeed Limits IAS,"Maximum operating speed VMO 
+ : 250 KIAS 
+ Maximum operating mach VMO 
+ : 0.55 
+ VA manoeuvering speed 
+ : 160 KIAS 
+ VFE Flaps 15o 
+ : 160 KIAS (170 KIAS with MOD.1790) 
+ Flaps 30o 
+ : 145 KIAS (150 KIAS with MOD.1790) 
+ Flaps 45o 
+ : 130 KIAS (Emergency only) 
+ VLO Gear extension 
+ : 160 KIAS 
+ Gear retraction 
+ : 160 KIAS 
+ VLE Landing gear extended 
+ : 160 KIAS (170 KIAS with MOD.1790) 
+ VMC (Minimum control speed with the critical engine inoperative) 
+ - In flight - VMCA : 90.5 KIAS 
+ - Take off - VMCG: 84.5 KIAS 
+ Tire speed limit (ground speed limit): 165 KIAS"
+Gear Extended,"Forward Limit 
+ AFT Limit 
+ (% MAC) 
+ (% MAC) 
+ Take off and landing 
+ 15 
+ 36 
+ Flight 
+ 12 
+ 38 
+ For aircraft incorporating ATR Modification 0951 (Service Bulletin 
+ No. ATR42-08-0001), C.G. range is modified as follows: 
+ Forward Limit 
+ AFT Limit 
+ (% MAC) 
+ (% MAC) 
+ Take off: 
+ 16,150 kg. G.W. 
+ 15 
+ 36 
+ 16,700 kg. G.W 
+ 17 
+ 32 
+ Landing: 
+ 16,000 kg. G.W. 
+ 15 
+ 36 
+ 16,400 kg. G.W. 
+ 17 
+ 32 
+ Flight: 
+ 12 
+ 38 
+ (Straight line variation between points). 
+ Gear retraction has negligible effect on C.G. range."
+Maximum Weights,"kg 
+ lb 
+ Taxi weight 
+ 16,170 
+ 35,645 
+ Take Off weight 
+ 16,150 
+ 35,605 
+ Landing weight 
+ 16,000 
+ 35,270 
+ Zero Fuel weight 
+ 14,800 
+ 32,625 
+ For aircraft incorporating ATR Modification 0863, weight limitations 
+ are modified as follows: 
+ kg 
+ lb 
+ Taxi weight 
+ 16,170 
+ 35,645 
+ Take Off weight 
+ 16,150 
+ 35,605 
+ Landing weight 
+ 16,000 
+ 35,270 
+ Zero Fuel weight 
+ 15,200 
+ 33,510 
+ For aircraft incorporating ATR Modification 0951 (ATR Service Bulletin 
+ No. ATR42-08-0001), weight limitations are modified as follows: 
+ kg 
+ lb 
+ Taxi weight 
+ 16,720 
+ 36,870 
+ Take Off weight 
+ 16,700 
+ 36,825 
+ Landing weight 
+ 16,400 
+ 36,160 
+ Zero Fuel weight 
+ 15,200 
+ 33,510"
+Minimum Crew,2 (pilot and co-pilot).
+Maximum Passengers,"46: 
+ 48 passenger capacity is approved with incorporation of 
+ modification 0481. 
+ 34: 
+ in COMBI configuration, with modification 0244 and with 
+ modification 0755 associated with the application of 
+ modifications 1073 and 1044."
+Maximum Baggage,"Forward compartment - Maximum load 2,045 lb. 
+ Rear compartment - Maximum load 952 lb."
+Fuel Capacity,"Density 6.55 lb/US Gallon 
+ Usable 
+ Unusable 
+ lb 
+ US Gal 
+ 46.7 lb 
+ 2 x 4,960 
+ 2 x 757"
+Fuel Unbalance,"Maximum fuel unbalance: 
+ 550 kg (1,212 lb)"
+Oil Capacity,"Engine oil capacity 
+ Usable 
+ 1.0 US Gallon/engine 
+ Total 
+ 4.7 US Gallon/engine"
+Maximum operating altitude,"25,000 ft. 
+ IV. ATR42-500 (Transport Category Airplane) approved May 13, 1996."
+Engines,"Two Pratt and Whitney Aircraft of Canada, Ltd, PW127E turboprops or PW127F by SB 
+ ATR42-72-0008 or PW127M by SB ATR42-72-0010 or in production line from aircraft 
+ serial number 675 (inclusive)."
+Fuel,"(a) The following fuels are eligible for engines 
+ MIL-T-5624 
+ Grade JP5 
+ AST-MD-1655 
+ Grades JET A, JET A1 
+ (PWC Service Bulletin No. 20 004 details approved conditions). 
+ (b) The following types of additives may be used in approved fuels: 
+ - oxidation inhibitors, 
+ - corrosion inhibitors, 
+ - thermal stability additives, 
+ - metal deactivators, 
+ - anti icing additives, 
+ - anti stating additives, 
+ - biocide additives. 
+ List of approved additives, approved concentrations and conditions of use 
+ are identified in PWC Service Bulletin No. 20.004."
+Oil,"The following oils are eligible for engines: 
+ - Synthetic type conforming to PWC specification PWA 521, Type II. 
+ PWC Service Bulletin 20 001 lists approved brand oils."
+Engine Limits PW127E,"Operating limits with no unscheduled maintenance action required. Beyond 
+ these limits refer to maintenance manual."
+Engine,"Time 
+ Torque 
+ ITT 
+ NH 
+ NL 
+ NP 
+ Oil Pressure 
+ Oil temperature (1)"
+rating,"limit 
+ % 
+ % 
+ % 
+ % 
+ (Psi) 
+ (°C) 
+ (°C)"
+Reserve,"10 mn* 
+ 100** 
+ 800 
+ 103.2 
+ 104.2 
+ 101 
+ 55 to 65 
+ 0 to 125"
+Take off,"5 mn 
+ 90** 
+ 740 
+ 101.9 
+ 101.4 
+ 101 
+ 55 to 65 
+ 0 to 125 
+ to 
+ 765"
+Maximum,"- 
+ 100** 
+ 800 
+ 103.2 
+ 104.2 
+ 101 
+ 55 to 65 
+ 0 to 125"
+Ground idle,"66 
+ 40 mini 
+ -40 to 125 
+ mini 
+ ***"
+Hotel mode,"715 
+ 55 to 65 
+ 0 to 125"
+Starting,"5 sec. 
+ 950 
+ -54 mini"
+Transient,"20 sec. 
+ 137.5 
+ 840 
+ 104.3 
+ 106.5 
+ 106 
+ 40 to 100 
+ **** 
+ 5 sec. 
+ 120 
+ 20 mn 
+ 140"
+,Time beyond 5 mn is linked to actual single engine operations only.
+,Value linked 100% NP.
+,Associated with NH ratings lower than 75 %.
+,"Permissible for completion of flight provided torque does not exceed 85% during climb and 84 % during cruise 
+ (1) Oil temperature must be maintained above 45°C to ensure protection for the engine air inlet against ice accumulation."
+Propellers,"2 Hamilton Sundstrand, six-bladed, 568 F -1 (FAA TCDS P8BO). 
+ Blade: R 815 505( ) (see FAA TCDS P8BO)"
+Propeller Limits,"Diameter: 13 FT. (+ 1/4 in., -3/16 in. manufacturing tolerance permissible) 
+ Pitch Setting at 58 in. of the axis: 
+ Feather : 
+ 78.5 degrees 
+ Flight Fine: 
+ 14 degrees 
+ Ground Fine: 
+ 0 degrees 
+ Full Reverse: 
+ -14 degrees 
+ Propeller (Np) - Take off 
+ 1200 R.P.M. 
+ Max Continuous 
+ 1200 R.P.M."
+Airspeed Limits IAS,"Maximum operating speed VMO 
+ : 
+ 250 KIAS 
+ Maximum operating mach VMO 
+ : 
+ 0.55 
+ VA manoeuvering speed 
+ : 
+ 160 KIAS 
+ VFE Flaps 15° 
+ : 
+ 170 KIAS/180 KIAS (*) 
+ Flaps 25° 
+ : 
+ 160 KIAS 
+ Flaps 35° 
+ : 
+ 150 KIAS 
+ VLO Gear extension 
+ : 
+ 170 KIAS 
+ Gear retraction 
+ : 
+ 160 KIAS 
+ VLE Landing gear extended 
+ : 
+ 180 KIAS 
+ VMC (Minimum control speed with the critical engine inoperative) 
+ - In flight - VMCA 
+ : 
+ 98.5 KIAS (SL, ISA) 
+ - Take off - VMCG 
+ : 
+ 95 KIAS (SL, ISA) 
+ Tire speed limit (ground speed limit) 
+ : 
+ 165 KIAS 
+ (*) 
+ with embodiment of modification 4462"
+Gear Extended,"Forward Limit 
+ AFT Limit 
+ (% MAC) 
+ (% MAC) 
+ Take off 
+ 16,150 kg. G.W. 
+ 15 
+ 34 
+ 18,600 kg. G.W. 
+ 21 
+ 34 
+ Landing: 
+ 16,150 kg. G.W. 
+ 15 
+ 34 
+ 18,300 kg. G.W. 
+ 20.3 
+ 34 
+ Flight: 
+ 16,150 kg. G.W. 
+ 12 
+ 36 
+ 18,600 Kg. G.W. 
+ 18 
+ 36 
+ (Straight line variation between points). 
+ Gear retraction has negligible effect on C.G. range."
+Maximum Weights,"kg 
+ lb 
+ Taxi weight 
+ 18,770 
+ 41,380 
+ Take Off weight 
+ 18,600 
+ 41,005 
+ Landing weight 
+ 18,300 
+ 40,344 
+ Zero Fuel weight 
+ 16,700 
+ 36,817"
+Minimum Crew,2 (pilot and co-pilot).
+Maximum Passengers,60 as limited by emergency exits configuration.
+Maximum Baggage,"Forward compartment - Maximum load 928 kg (2,046 lb) 
+ Rear compartment - Maximum load 768 kg (1,693 lb)"
+Fuel Capacity,"Density 6.55 lb/US Gallon 
+ Usable 
+ Unusable 
+ lb 
+ US Gal 
+ 46.7 lb 
+ 2 x 4,960 
+ 2 x 757"
+Fuel Unbalance,"Maximum fuel unbalance: 
+ 550 kg (1,212 lb)"
+Oil Capacity,"Engine oil capacity 
+ Usable 
+ 1.0 US Gallon/engine 
+ Total 
+ 4.7 US Gallon/engine"
+Maximum Operating Altitude,"25,000 ft. 
+ (a) ATR42-500 “600 version” Definition (Approved April 4, 2013)"
+"The ATR42-500 “600 version” designation does not correspond to a model designation. This is only a commercial designation 
+ for an ATR42-500 on which Major modifications 5948, 6521, 6230, and 6233 have been embodied during production. 
+ modifications 
+ • 
+ Integrated Avionics Display – 5 IADs including FMS and RMS functions 
+ • 
+ Core Avionics Cabinet – CAC (including AFCS, DCA, FWS & CMA functions) (x2) 
+ • 
+ AFCS servo motors + Power Trim Box 
+ • 
+ AHRS (x2) 
+ • 
+ ADC (x2) 
+ • 
+ GPS (x1), a 2nd GPS is optional 
+ • 
+ Radio Altimeter (x1) 
+ • 
+ T²CAS (ACAS + TAWS) (x1) 
+ • 
+ Transponders (x2) 
+ • 
+ Control panels 
+ • 
+ MCDU (x2) 
+ • 
+ Integrated Electronic Stand-by Instrument (x1) 
+ • 
+ Radio Com (VHF, HF wiring provision) (x2) 
+ • 
+ Radio Nav (VOR, ILS, MKR, ADF, DME) (x2) (2nd ADF and 2nd DME are optional) 
+ • 
+ Clocks (x2) 
+ • 
+ Ambient Pressure Sensor (x1) 
+ Modification 6521 adds NAS software version L2B2 
+ Modification 6230 adapts the NAS on the ATR42-500 
+ Modification 6233 installs a new fuel gauging system in kilograms 
+ DATA PERTINENT TO ATR42-200, -300, -320, -500 MODELS 
+ Datum 
+ Station 0 (93 inches forward of fuselage nose). 
+ MAC 
+ 90 inches (leading edge of MAC: STA 450) 
+ Leveling Means 
+ Inclinometer on the cabin seat track rails. 
+ ATR 42-200/-300/-320 
+ ATR 42-500 
+ UP 
+ DOWN 
+ UP 
+ DOWN 
+ Aileron 
+ 14° ± 0.5° 
+ 14° ± 0.5° 
+ 14° ± 0.5° 
+ 14° ± 0.5° 
+ 14° ± 0.25° *** 
+ 14° ± 0.25° *** 
+ Aileron trim 
+ 13.75° ± 0.7° 
+ 10.15° ± 0.5° 
+ 4.5° ± 0.4° 
+ 4.5° ± 0.4° 
+ 6.7° ± 0.4° *** 
+ 6.7° ± 0.4° *** 
+ + 1° 
+ + 1° 
+ + 1° 
+ + 1° 
+ Elevator 
+ 25° 
+ 15° 
+ 23° 
+ 13° 
+ + 0° 
+ - 0.6° 
+ + 0° 
+ - 0.6° 
+ Elevator trim 
+ 5.2° ± 0.3° 
+ 8.4° ± 0.4° 
+ 4° ± 0.3° 
+ 9° ± 0.4° 
+ Rudder : 
+ + 1.5° 
+ structural stops (damper removed) 
+ ± 31.5° 
+ - 0° 
+ stop included in damper 
+ ± 30° ± 1° 
+ Rudder trim: 
+ + 3.4 
+ +0° 
+ on either side of the tab ± 18° (-200/-300/-320): ±16.7° (-500) 
+ - 2.9° 
+ -3.4° 
+ +1° 
+ Spoilers : 
+ mini: spoiler deflection as from 2.5° ± 0.5° aileron / 2.5° aileron *** 
+ -0° 
+ maxi: 57° ± 2° for 14° aileron 
+ Flaps 
+ : 
+ ATR 42-200/-300/-320 
+ ATR 42-500 
+ 0°; 15°; 30°; 45°** deflections 
+ 0°; 15°; 25°; 35°* 
+ manoeuvre time from 0° to 45° : 13s from 0° to 35° : 10s 
+ 45° to 0° : 23s from 35° to 0° : 18s 
+ * Flaps 35 configuration corresponds to an effective flap deflection of 33°. 
+ ** Flaps 45 configuration is authorized for emergency only. 
+ *** ATR42-500 model with modification 4372 (aileron spring tab) 
+ Serial Numbers Eligible 
+ A French ""Certificat de Navigabilité pour Exportation"" endorsed as noted 
+ under ""Import Requirement"" must be submitted for each individual aircraft 
+ for which application for US certification is made. 
+ Certification Basis ATR42200300320 models 
+ FAR 25, effective February 1, 1965, including amendments 25-1 through 25-54, which the FAA considers equivalent to 1, 2 and 
+ 3 below 
+ 1 
+  
+ JAR 25 change 8 and amendment 81-2 including French national variants in effect on February 2, 1982, and 
+ 2 
+  
+ French ATR-42 Special Conditions, and 
+ 3 
+  
+ 14 CFR Section 21.29 and the following sections of Part 25 of the FAR as amended by amendments 25-1 
+ through 25-54: 
+ FAR 25.2 
+ FAR 25.777(e),(g) 
+ FAR 25.1309(a),(b) 
+ FAR 25.107(d)(e) 
+ FAR 25.781 
+ FAR 25.1331(a)(3) 
+ FAR 25.125 
+ FAR 25.785(g) 
+ FAR 25.1353(c)(6) 
+ FAR 25.201(d) 
+ FAR 25.787(a) 
+ FAR 25.1401(b),(f) 
+ FAR 25.331(c) 
+ FAR 25.803(c)(7) 
+ FAR 25.1411(a)(2) 
+ FAR 25.351(a)(1) 
+ FAR 25.809(j) 
+ FAR 25.1415 
+ FAR 25.361 
+ FAR 25.903(a) 
+ FAR 25.1438 
+ FAR 25.491 
+ FAR 25.901 
+ FAR 25.1501 
+ FAR 25.511(b)(c) 
+ FAR 25.905(a) 
+ FAR 25.1513 
+ FAR 25.571(b)(6),(e)(2) 
+ FAR 25.994 
+ FAR 25.1521(b)(c) 
+ FAR 25.613 
+ FAR 25.1013 
+ FAR 25.1547(c) 
+ FAR 25.615 
+ FAR 25.1015 
+ FAR 25.1549 
+ FAR 25.621 
+ FAR 25.1019 
+ FAR 25.1583 
+ FAR 25.631 
+ FAR 25.1093(b)(1),(b)(2) 
+ FAR 25.1585(a) 
+ FAR 25.671(c)(1) 
+ FAR 25.1141(f)(2) 
+ FAR 25.1587(a) 
+ FAR 25.693 
+ FAR 25.1303(b)(4) 
+ FAR 25.773(b)(2) 
+ FAR 25.1305(c)(6)(7) 
+ Item (1), (2), and (3) above have been examined and found to be equivalent to Part 25 of the FAR through 
+ Amendment 25-54. 
+ 4 
+  
+ Special conditions in accordance with § 21.16: 
+ a. 
+ FAA Special Conditions for ATCPS dated July 11, 1985 (FAR 25.904, Amendment 25-62 for the ATR42-320) 
+ b. 
+ FAA Special conditions issued for “Seats with Non-Traditional, Large, Non-Metallic Panels”, published in the 
+ Federal Register July 29, 2016, Docket No. FAA-20 16-8246, Special Conditions No. 25-624–SC. 
+ 5 
+  
+ SFAR 27, Amendments 1 thru 5 
+ 6 
+  
+ FAR 36, Amendments 1 thru 12 for the ATR42-200 and -300 (Amendments 1 thru 15 for the ATR42-320) 
+ 7 
+  
+ FAA Exemption No. NM 104 regarding 25.571 (e) (2), granted April 19, 1984 (Propeller debris) 
+ 8 
+  
+ In addition voluntary compliance with FAR 25.832, Amendment 25-56 has been demonstrated. 
+ 9 
+  
+ A finding of regulatory adequacy pursuant to the ""Noise Control Act of 1972"" 
+ 10  
+ FAA findings of Equivalent safety for the following rules: 
+ FAR 25.773(b)(2), 
+ FAR 25.807(c) and (d) 
+ FAR 25.865 
+ 11  
+ Compliance with the following optional requirements has been established: 
+ Ice protection provisions JAR 25.1419. 
+ Structural Provisions for ditching: JAR 25.801 (a)(b)(c)(d)(e) 
+ 12  
+ Compliance with the following optional requirements has been established: 
+ Ditching Provisions JAR 25.1411 (a)(b)(d)(e)(f)(g)(1) and JAR 25.1415 (a)(b)(c)(d)(e) 
+ When requested by the operational rules, the life rafts must be installed in accordance with the locations defined in 
+ document 421.054/92, issue 5. 
+ 13  
+ For precision approach and landing, the applicable technical requirements are complemented by JAR AWO - Subpart 2 
+ Type Certificate No. A53EU, issued October 25, 1985, amended August 25, 1988. 
+ Date of application for Type Certificate: February 26, 1982. 
+ 14  
+ Compliance with the requirement of FAR 25.856 at amendment 25-111 for thermal/acoustic insulation has been 
+ demonstrated to meet operational requirements. 
+ 15 - Compliance with the requirements of the following paragraphs of FAR 25.562 at amendment 25-64 for Geven Classic and 
+ Prestige passenger seats are demonstrated though ATR modification 6594 for ATR42-200/-300/-320 models: 
+ FAR 25.562(a) 
+ FAR 25.562(b) 
+ FAR 25.562(c)(2) 
+ FAR 25.562(c)(4) 
+ FAR 25.562(c)(5) 
+ FAR 25.562(c)(6) 
+ FAR 25.562(c)(7) 
+ FAR 25.562(c)(8) 
+ Based on 14 CFR § 21.29(a) for new import TCs, (or § 21.101(g) for changes to TCs), applicable provisions of 14 CFR part 26 
+ are included in the certification basis. For any future 14 CFR part 26 amendments, the holder of this TC must demonstrate 
+ compliance with the applicable sections 
+ Certification Basis ATR42500 Model 
+ No later regulations or special conditions are recognized at time as being necessary to 
+ provide an adequate TC basis for this amendment of TC project. The VSIG project will 
+ involve an equivalent safety finding to a number of sections and/or paragraphs in Part 1 
+ and Part 25 of the FAR’s. Issue Paper F-2, applicable to the VSIG project, addresses this 
+ equivalent safety finding issue. The equivalent safety finding approach has been used on 
+ previously accomplished 1-G stall speed (VSIG) projects. Therefore, the certification 
+ basis established at the time of the original type certification of the ATR42 and ATR72 
+ series airplanes shown on TCDS A53EU, with an additional equivalent safety finding for 
+ the VSIG project, will provide an acceptable TC basis for this Amendment of TC project. 
+ Modification 4626 is required for ditching approval. 
+ The Direction Générale de l'Aviation Civile (DGAC) of France originally type 
+ certificated this aircraft under its type certificate Number 176. The FAA validated this 
+ product under U.S. Type Certificate Number A53EU. Effective September 28, 2003, the 
+ European Aviation Safety Agency (EASA) began oversight of this product on behalf of 
+ the Direction Générale de l'Aviation Civile (DGAC) of France. 
+ Based on 14 CFR § 21.29(a) for new import TCs, (or § 21.101(g) for changes to TCs), applicable provisions of 14 CFR part 26 
+ are included in the certification basis. For any future 14 CFR part 26 amendments, the holder of this TC must demonstrate 
+ compliance with the applicable sections 
+ Compliance with the requirements of FAR 25.856 at amendment 25-111 for thermal/acoustic insulation has been demonstrated to 
+ meet operational requirements 
+ Compliance with the requirements of FAR 25.562 at amendment 25-64 for rear 16G Sicma cabin attendant seat through 
+ modification 6524 and forward 16G Sicma cabin attendant seat though ATR modification 6525 has been demonstrated to meet 
+ operational requirements for ATR42500 model 
+ Compliance with the requirements of the following paragraphs of FAR 25.562 at amendment 25-64 for Geven Classic and 
+ Prestige passenger seats are demonstrated through modification ATR 6594 for ATR42-500 model: 
+ FAR 25.562(a) 
+ FAR 25.562(b) 
+ FAR 25.562(c)(2) 
+ FAR 25.562(c)(4) 
+ FAR 25.562(c)(5) 
+ FAR 25.562(c)(6) 
+ FAR 25.562(c)(7) 
+ FAR 25.562(c)(8) 
+ Compliance with the requirements of the following paragraphs of the following FARs are demonstrated through modification 
+ ATR 7932 (Installation of Flame Arrestor) for ATR42-500 model: 
+ • 
+ FAR 25.899 at amendment 25-123 
+ • 
+ FAR 25.975(a)(7) at amendment 25-143 
+ • 
+ FAR 25.981(a)(1), (a)(2) & (a)(3) at amendment. 25-102 
+ Equivalent Safety Findings as applicable in accordance with Part 21 of the FAR will apply to this airplane. 
+ Equivalent Safety Findings 
+ (1) Section 25.811(g), 25.812(b)(1) (i), 25.812(b)(1)(ii), Emergency Exit Marking Requirements (documented in FAA 
+ ELOS Memo ATI0740IBTCSl 
+ (2) Section 25.1457(d)(5), Cockpit Voice Recorders Requirements ( documented in FAA ELOS Memo SP0778IB-T-SE- 
+ 101 
+ Certification Basis. (ATR42-500 “600 version” Model) 
+ The final FAA type certification basis, for the ATR-GIE ATR 42-500 incorporating modification 5948 (commercially called the 
+ ATR 42-500 “600 version”) is as follows: 
+ Airworthiness & Environmental Standards for components and areas not affected by the change 
+ Unchanged from the basic ATR 42-500 certification basis. 
+ Airworthiness and Environmental Standards for components and areas affected by the change 
+ 14 CFR part 25, effective February 1, 1965, including Amendments 25-1 through 25-123. The following sections are 
+ applicable 
+ SUBPART B – Flight 
+ 25255a2 
+ SUBPART C – STRUCTURE 
+ 25581 
+ SUBPART D – DESIGN AND CONSTRUCTION 
+ 25.671(b),(c), 25.672(a), 25.677(b), 25.679(a)(2), 25.685, 25.699(a),(b), 25.703, 25.729(e),(f)(3), 25.735(d), 25.771(a),(c),(e), 
+ 25.773(a), 25.777(f), 25.783(e), 25.841(b)(5),(b)(6),(b)(8), 25.843(b)(3), 25.853(a),(d),(e), 25.854(a), 25.855(h), 25.857(b)(3), 
+ 25869a 25899 
+ SUBPART E  POWERPLANT 
+ 251141f 251165g 251203ab2b3 
+ SUBPART F  EQUIPMENT 
+ 25.1301, 25.1303, 25.1305, 25.1307(c),(d),(e), 25.1309, 25.1316, 25.1317, 25.1321, 25.1322, 25.1323, 25.1325(a),(d),(e),(f), 
+ 25.1326(a), 25.1327, 25.1329, 25.1331, 25.1333, 25.1337, 25.1351(a),(b)(6),(c),(d), 25.1353(a),(b),(c)(6),(d),(e), 25.1355, 
+ 25.1357, 25.1360, 25.1381, 25.1419(c), 25.1431, 25.1435(b)(1), 25.1459 
+ SUBPART G – OPERATING LIMITATIONS AND OPERATIONS 
+ 25.1501, 25.1523, 25.1525, 25.1527, 25.1529, 25.1541, 25.1543, 25.1545, 25.1547, 25.1549, 25.1555, 25.1563, 25.1581, 
+ 251583 251585 251587 
+ SUBPART H – ELECTRICAL WIRING INTERCONNECTION SYSTEMS 
+ 25.1701, 25.1703, 25.1705, 25.1707, 25.1709, 25.1711, 25.1713, 25.1715, 25.1717, 25.1719, 25.1721, 25.1729 
+ FAA Special Condition 25-473-SC “Aircraft Electronic System Security Protection from Unauthorized External Access” 
+ Service Information 
+ Each of the documents listed below that contain a statement that it is approved by the 
+ European Aviation Safety Agency (EASA) - or for approvals made before September 28, 
+ 2003 - by the Direction Générale de l'Aviation Civile (DGAC) of France, are accepted by 
+ the FAA and are considered FAA approved. Additionally, approvals issued by ATR 
+ under the authority of EASA approved Design Organization EASA.21J.044 - or for 
+ approvals made before September 28, 2003 - under the authority of DGAC Design 
+ Organization Approval No. F.JA.12 are considered FAA approved. These approvals 
+ pertain to the type design only. 
+ • ATR Service Bulletins, except as noted below, 
+ • Structural repair manuals, 
+ • Vendor manuals referenced in ATR service bulletins 
+ • Aircraft flight manuals, 
+ • Repair Instructions. 
+ Note: Design changes that are contained in ATR Service Bulletins and that are classified 
+ as Level 1 Major or Non-Basic in accordance with either the US/France or US/EASA 
+ Bilateral Aviation Safety Agreement Implementation Procedures for Airworthiness must 
+ be approved by the FAA. 
+ Equipment 
+ The basic required equipment as prescribed in the applicable Federal Aviation 
+ Regulations must be installed in the aircraft. ATR equipment list, document GATR/C 
+ No 422.204/85 (ATR42-200/-300/-320 models) or A/RT/C No. 425.0469/95 
+ (ATR42-500 model) identifies all required equipment and all optional equipment 
+ approved by the Direction Générale de l'Aviation Civil (DGAC) of France. In addition, 
+ the following is required: 
+ (1) DGAC/EASA approved FAA Airplane Flight Manual - 
+ Import Requirements 
+ The FAA can issue a U.S. airworthiness certificate based on an NAA Export Certificate 
+ of Airworthiness (Export C of A) signed by a representative of the Direction Générale de 
+ l'Aviation Civile (DGAC) of France on behalf of the European Community. The Export 
+ C of A should contain the following statement: ‘The aircraft covered by this certificate 
+ has been examined, tested, and found to conform with Type Design approved under U.S. 
+ Type Certificate No. A53EU and to be in a condition for safe operation. Compliance with 
+ Airworthiness Directives (ADs) has been checked only for ADs issued by EASA, ADs 
+ adopted by EASA and ADs published by FAA.’ 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United 
+ States of both new and used aircraft based on the scope of the agreement, to identify any 
+ required statements by the exporting authority on the export certificate of airworthiness 
+ (or equivalent document), and for procedures for coordinating exceptions to conformity 
+ statements on these documents. Refer to FAA Order 8130.2, Airworthiness Certification 
+ of Aircraft, for requirements for issuance of an airworthiness certificate for imported 
+ aircraft. 
+ NOTES 
+ NOTE 1 - Weight and Balance 
+ a 
+ Current weight and balance report including list of equipment, entitled ""Aircraft Inspection 
+ Report"", included in certificated empty weight, and loading instructions, must be in each aircraft 
+ at the time of original certification and at all times thereafter except in the case of operators 
+ having an approved weight control systems. ATR Report, ""Weight and Balance Manual"", contains 
+ loading information for each airplane and interior arrangement configuration as delivered. This 
+ report contains, or refers to, information relative to location and capacity of all cargo and 
+ baggage compartments, buffets, storage spaces and coat rooms, location and capacity of lounges, 
+ lavatories, and the required placards in the passenger compartment. 
+ b 
+ The airplane must be loaded so that the C.G. is within specified limits at all times, considering 
+ fuel loading and usage, gear retraction and movement of crew and passengers from their assigned 
+ positions. 
+ c 
+ The weights of system fuel and oil, as defined below, and hydraulic fluid, all of which must be 
+ included in the airplane empty weight, are listed for each airplane in the Weight and Balance Manual 
+ specified in paragraph (a) above. 
+ d 
+ System fuel is the weight of all fuel required to fill all lines and tanks up to zero-fuel point on the fuel gages in the 
+ most critical flight attitude, including the unusable tank fuel as defined by FAR Part 25.959. (The usable fuel in the 
+ crossfeed manifold lines, manifolds, and engine that is not part of the system, fuel must be included in the total usable 
+ fuel to obtain correct weight and C.G. for take off). 
+ e 
+ The unusable fuel is that amount of fuel in the tanks which is unavailable to the engines under critical flight conditions 
+ as defined in FAR Part 25.959. This ""unusable"" fuel is included in System Fuel as indicated in (d) above and need not 
+ be accounted for separately. 
+ f 
+ System oil is the weight of oil remaining in the engine, lines and tanks after subtracting the oil in the tanks which is 
+ above the standpipe (zero gauge) levels. The engine oil capacities shown elsewhere in this data sheet include only the 
+ useable oil for which the tanks must be placarded. 
+ NOTE 2 
+ The aircraft must be operated in accordance with the DGAC-Approved FAA Airplane Flight Manual. 
+ (""DGAC approved"" is considered equivalent to ""FAA Approved""). 
+ NOTE 3 
+ The required Airworthiness limitations including structural inspections and retirements times for safe life 
+ parts are covered by the ""Time Limits"" document Revision 9, dated January 15, 2018 for ATR 42-200/-300/-320 
+ models and “Time Limits” document Revision 14 , dated July 7, 2020 for ATR 42-500 model, approved by EASA. 
+ NOTE 4 Cabin Equipment 
+ Seats and galleys must be designed in accordance with ATR Specifications 419.282/82 and 
+ 419.464/82 for ATR 42-200/-300/-320 models, with ATR Specifications 419.0008/95 issue 4 
+ and 421.614/94 for ATR 42-500 model. 
+ NOTE 5 
+ The list of modifications permitting use of the ATR42 for Category II approach is 
+ contained in Service Letter ATR42-22-5001 for ATR42-200/-300/-320 models. The modification 
+ permitting use of the ATR 42-500 model for Category II approach is 1112. 
+ NOTE 6 
+ The basic definition for US import certification is contained in Document GATR/C 422.627/85 (ATR42- 
+ 200/-300/-320 models) or A/RT/C 425.0985/95 (ATR42-500 model), initial issue or later approved revision. 
+ NOTE 7 
+ ATR Modification 0885 (ATR 42 Service Bulletin ATR42-30-0005) is a required part of the United 
+ States approved Type Design A53EU and must be incorporated on all U.S. registered aircraft. 
+ NOTE 8 
+ Operation on narrow runway is approved for ATR42-500 with incorporation of modification 4718. 
+ V. ATR72-101/-201 (Transport Category Airplane) approved November 15, 1989 
+ ATR72-102/-202 (Transport Category Airplane) approved January 18, 1991.",
+Engines,"Two Pratt and Whitney Aircraft of Canada, Ltd., 124B PW turboprops."
+Fuel,"(a) The following fuels are eligible for engines 
+ MIL-T-5624 
+ Grade JP5 
+ AST-MD-1655 
+ Grades JET A, JET A1 
+ Conforming to PWC Specification PN A204. 
+ (PWC Service Bulletin No. 20.004 details approval conditions). 
+ (b) The following types of additives may be used in approved fuels: 
+ - oxidation inhibitors, 
+ - corrosion inhibitors, 
+ - thermal stability additives, 
+ - metal deactivators, 
+ - anti icing additives, 
+ - anti stating additives, 
+ - biocide additives. 
+ List of approved additives, approved concentrations and conditions of use 
+ are identified in PWC Service Bulletin No. 20.004"
+Oil,"The following oils are eligible for engines: 
+ - Synthetic type conforming to PWC specification PWA 521, Type II. 
+ PWC Service Bulletin 20.001 lists approved brand oils."
+Engine Limit,"Operating limits with no unscheduled maintenance action required. 
+ Beyond these limits refer to maintenance manual."
+ENGINE,"DURATION 
+ TORQUE 
+ ITT 
+ NH 
+ NL 
+ NP 
+ OIL PRESS 
+ OIL TEMP"
+RATINGS,"% 
+ ( C) 
+ % 
+ % 
+ % 
+ (PSI) 
+ ( C)"
+Take off,"5 mn 
+ 800 
+ 102.7 
+ 104 
+ 55 to 65 
+ 0 to 125 (3)"
+with,"106,3 
+ 101"
+Take off,"5 mn 
+ 90 
+ (1) 
+ 101 
+ 101.7 
+ 101 
+ 55 to 65 
+ 0 to 125 (3)"
+Maximum,"-------- 
+ 89.6 
+ 800 
+ 102 
+ 102.9 
+ 101 
+ 55 to 65 
+ 0 to 125 (3)"
+Continuous,"102,5* 
+ 102.7* 
+ 104* 
+ 101 
+ 55 to 65"
+Ground,"66 
+ 40 min 
+ -40 to 125"
+Idle,"min 
+ (3)"
+Hotel,"715 
+ 55 to 65 
+ -40 to 125"
+mode,(3)
+Starting,"5 s 
+ 950 
+ -54 min"
+Other,"102,3 
+ 800 
+ (2)"
+Transient,"20 s 
+ 124.5 
+ 840 
+ 103.7 
+ 104.3 
+ 115 
+ 40 to 100 
+ 10 mn 
+ 106.3 
+ * Limitation for engine fitted with mod. 2735 
+ (1) 
+ ITT limits depend on outside air temperature. 
+ (2) 
+ When NP is below 86%"
+NOTE,"Using a reduced NP, TQ may exceed 100% but not 102.3% 
+ (3) 
+ Temperature up to 115ºC (120ºC in hotel mode) is authorized without time limitation. 
+ 20 mn are authorized between 115ºC (120ºC in hotel mode) and 125ºC."
+NOTE,"Oil temperature must be maintained above 45ºC to ensure intake strut de-icing. 
+ Oil temperature must be maintained above 71ºC to ensure fuel anti-icing protection in 
+ absence of the low fuel temperature indication. 
+ 780 
+ ITT TG 
+ ( C) 
+ o 
+ 775 
+ 770 
+ 765 
+ OAT 
+ ( C) 
+ o 
+ 0 
+ 20 
+ 40 
+ 54 60"
+Propellers,"2 Hamilton Sundstrand, four-bladed, 14 SF 11 (FAA TCDS P7NE) 
+ Blade: SFA 13( ) (see FAA TCDS P7NE)"
+Propeller Limits,"Diameter: 13 Ft. (+ 1/4 in., -3/6 in. manufacturing tolerance permissible) 
+ Pitch Setting at 42. in. of the axis: 
+ Feather: 86 degrees 
+ Flight Fine: 20 degrees 
+ Ground Fine: 7 degrees 
+ Full Reserve:-10 degrees 
+ Propeller (NP) – Take off 
+ 1200 R.P.M. 
+ Max Continuous 
+ 1200 R.P.M."
+Airspeed Limits IAS,"VMO Maximum operating speed 
+ 250 kt 
+ MMO Maximum operating speed 
+ 0.55 
+ VA Design manoeuvering speed 
+ 175 kt 
+ VFE 15º flaps 
+ 185 kt 
+ 30º flaps 
+ 150 kt 
+ VLO L/G extension 
+ 170 kt 
+ VLO L/G extension 
+ 160 kt 
+ VLE Landing gear extension speed 
+ 185 kt 
+ Tyre limit speeds (ground speed) 
+ 165 kt"
+Center of Gravity CG Range,(Gear extended) **
+Models 101102,"Forward Limit 
+ AFT Limit 
+ % MAC 
+ % MAC"
+Take off and Landing,"up to 18000 kg (39690 lbs) 
+ 13.7 
+ 37 
+ 19990 kg (44078 lbs) 
+ 17.1 
+ 37"
+,"Flight 
+ up to 18000 kg (39690 lbs) 
+ 10 
+ 39 
+ 19990 kg (44078 lbs) 
+ 13.7 
+ 39"
+Models 201202,"Forward Limit 
+ AFT Limit 
+ % MAC 
+ % MAC"
+Take off and Landing,"up to 18000 kg (39690 lbs) 
+ 14 
+ 37 
+ 21500 kg (47408 lbs) 
+ 19 
+ 37"
+,"Flight 
+ up to 18000 kg (39690 lbs) 
+ 10 
+ 39 
+ 21500 kg (47408 lbs) 
+ 16 
+ 39"
+,"* (Straight line variation between points). 
+ ** Gear Extension has negligible effect on CG Range."
+Maximum Weights,"ATR 72-101/-102 
+ ATR 72-201/-202 
+ ATR 72-201/202 
+ Basic 
+ Basic 
+ Mod. 3651"
+At taxiing,"20020 kg (44136 lbs) 
+ 21530 kg (47465 lbs) 
+ 22030 (48667 lbs)"
+At take off,"19990 kg (44070 lbs) 
+ 21500 kg (47400 lbs) 
+ 22000 (48501 lbs)"
+At Landing,"19900 kg (43871 lbs) 
+ 21350 kg (47068 lbs) 
+ 21350 (47068 lbs)"
+With no fuel,"19350 kg (42659 lbs) 
+ 19700 kg (43430 lbs) 
+ 19700 (43430 lbs)"
+Mod 3849,"N/A 
+ 20000 kg (44071 lbs) 
+ 20000 kg (44071 lbs)"
+Minimum Crew,2 (pilot and co-pilot)
+Maximum Passengers,74 passengers
+Maximum Baggage,"-101/-201: 
+ - Forward compartment - Maximum load 624 kg. (1376 lb) 
+ -102/-202: 
+ - Forward compartment - Maximum load 928 kg. (2046 lb) 
+ - Rear compartment - Maximum load 768 kg. (1693 lb) 
+ - Mod. 2059: 
+ - RH Rear compartment - Maximum load 512 kg. (1129 lb)"
+Fuel Capacity,"Density 6.55 lb/US Gallon 
+ UNUSABLE 
+ USABLE FUEL 
+ FUEL 
+ Normal refueling 
+ Refueling with high 
+ (kg) 
+ level cut-off 
+ 30 
+ 5000 kg 
+ 5050 kg 
+ 6360 l."
+Fuel Unbalance,"Maximum fuel unbalance: 
+ 730 kg (1609 lb)"
+Oil Capacity,"Engine oil capacity 
+ Usable 
+ 1.0 US Gallon/engine 
+ Total 
+ 4.7 US Gallon/engine"
+Maximum Operating Altitude,"25,000 ft. 
+ VI. ATR72-211/-212 (Transport Category Airplane) approved December 15, 1992."
+Engines,"Two Pratt and Whitney Aircraft of Canada, Ltd., PW127 or PW127F turboprops. 
+ through SB ATR72-72-1004"
+Fuel,"(a) The following fuels are eligible for engines 
+ MIL-T-5624 
+ Grade JP5 
+ AST-MD-1655 
+ Grades JET A, JET A1 
+ Conforming to PWC Specification PN A204. 
+ (PWC Service Bulletin No. 20.004 details approval conditions). 
+ (b) The following types of additives may be used in approved fuels: 
+ - oxidation inhibitors, 
+ - corrosion inhibitors, 
+ - thermal stability additives, 
+ - metal deactivators, 
+ - anti icing additives, 
+ - anti stating additives, 
+ - biocide additives. 
+ List of approved additives, approved concentrations and conditions of use 
+ are identified in PWC Service Bulletin No. 20.004 R3."
+Oil,"The following oils are eligible for engines: 
+ - Synthetic type conforming to PWC specification PWA 521, Type II. 
+ PWC Service Bulletin 20.001 R3 lists approved brand oils."
+Engine Limit,"Operating limits with no unscheduled maintenance action required. 
+ Beyond these limits refer to maintenance manual."
+ENGINE,"DURATION 
+ TORQUE 
+ ITT 
+ NH 
+ NL 
+ NP 
+ OIL PRESS 
+ OIL TEMP"
+RATINGS,"% 
+ ( C) 
+ % 
+ % 
+ % 
+ (PSI) 
+ ( C)"
+Take off,"5 mn 
+ 800 
+ 103.2 
+ 104.2 
+ 55 to 65 
+ 0 to 140 (3)"
+with,"106,3 
+ 101"
+Take off,"5 mn 
+ 90 
+ (1) 
+ 101.9 
+ 101.4 
+ 101 
+ 55 to 65 
+ 0 to 140 (3)"
+Maximum,"------- 
+ 90.9 
+ 800 
+ 103.2 
+ 104.2 
+ 101 
+ 55 to 65 
+ 0 to 140 (3)"
+Ground,"66 
+ 40 min 
+ -40 to 140"
+Idle,"min 
+ (3)"
+Hotel,"715 
+ 55 to 65 
+ -40 to 140"
+mode,(3)
+Starting,"5 s 
+ 950 
+ -54 min."
+Other,"800 
+ 106 
+ (2)"
+Transient,"20 s 
+ 109.6 
+ 840 
+ 104.3 
+ 106.5 
+ 5 s 
+ 120 
+ 10 mn 
+ 106.3 
+ (1) ITT limits depend on outside air temperature 
+ (2) TQ not to exceed 75% 
+ (3) Temperature up to 125º is authorized without time limitation. 
+ 20 mn are authorized between 125ºC and 140º C."
+NOTE,"Oil temperature must be maintained above 45ºC to ensure intake strut de-icing. 
+ Oil temperature must be maintained above 71ºC to ensure fuel anti-icing protection in 
+ absence of the low fuel temperature indication."
+LIMITATION IN APPROACH,"During final approach, if SAT is greater than ISA, do not maintain NH under 78%. 
+ (1) The ITT Limits depend on the exterior temperature. 
+ ITT T6 
+ ( C) 
+ o 
+ 780 
+ 765 
+ 760 
+ 740 
+ 720 
+ -50 
+ -40 
+ -30 
+ -20 
+ -10 
+ 0 
+ 10 
+ 15 
+ 30 
+ OAT ( C) 
+ o"
+Propellers,"a) Basic Installation 
+ 2 Hamilton Sundstrand, four-bladed, 247F-1 (FAA TCDS P1BO) or 
+ 2 Hamilton Sundstrand, four-bladed, 247F-1E (FAA TCDS P1BO) 
+ Blade: R810640( ) or R817370( ) (see FAA TCDS P1BO)"
+Propeller Limits,"Diameter: 13 FT. (+ 1/4 in., -3/6 in. manufacturing tolerance permissible) 
+ Pitch Setting at 60. in. of the axis: 
+ Feather: 78.5 degrees 
+ Flight Fine: 12.6 degrees 
+ Ground Fine: -3 degrees 
+ Full Reserve: -15.2 degrees 
+ Propeller (Np) – Take off 
+ 1200 R.P.M. 
+ Max Continuous 
+ 1200 R.P.M."
+Propellers,"b) Second Source (embodiment of modification 3560). 
+ 2 Hamilton Sundstrand, four-bladed, 14 SFL-11 (FAA TCDS P7NE) 
+ Blade: 
+ SFA 13( ) (see FAA TCDS P7NE)"
+Propeller Limits,"Diameter: 13 Ft. (+ 1/4 in., -3/6 in. manufacturing tolerance permissible). 
+ Pitch Setting at 42. in . of the axis: 
+ Feather: 86 degrees 
+ Flight Fine: 20 degrees 
+ Ground Fine: 7 degrees 
+ Full Reserve: -10 degrees 
+ Propeller (NP) - Take off 
+ 1200 R.P.M. 
+ Max Continuous 
+ 1200 R.P.M."
+Airspeed Limits IAS,"VMO Maximum operating speed 
+ 250 kt 
+ MMO Maximum operating speed 
+ 0.55 
+ VA Design manoeuvering speed 
+ 175 kt 
+ VFE 15º flaps 
+ 185 kt 
+ 30º flaps 
+ 150 kt 
+ VLO L/G extension 
+ 170 kt 
+ VLO L/G retraction 
+ 160 kt 
+ VLE Landing gear extended speed 
+ 185 kt 
+ Tire limit speeds (ground speed) 
+ 165 kt"
+Center of Gravity CG Range,(Gear extended) **
+Models 211212,"Forward Limit 
+ AFT Limit 
+ % MAC 
+ % MAC"
+Take off and Landing,"up to 18000 kg (39690 lbs) 
+ 14 
+ 37 
+ 21500 kg (47408 lbs) 
+ 19 
+ 37"
+,"Flight 
+ up to 18000 kg (39690 lbs) 
+ 10 
+ 39 
+ 21500 kg (47408 lbs) 
+ 16 
+ 39"
+,"* (Straight line variation between points). 
+ ** Gear Extension has negligible effect on CG Range."
+Maximum Weights,"ATR 72-211/-212 
+ ATR 72-211/-212 
+ Basic 
+ Mod. 3651"
+At taxiing,"21530 kg (47465 lbs) 
+ 22030 kg (48567 lbs)"
+At take off,"21500 kg (47400 lbs) 
+ 22000 kg (48501 lbs)"
+At Landing,"21350 kg (47068 lbs) 
+ 21350 kg (47068 lbs)"
+With no fuel,"19700 kg (43430 lbs) 
+ 19700 kg (43430 lbs)"
+Mod 3849,"20000 kg (44091 lbs) 
+ 20000 kg (44091 lbs)"
+Minimum Crew,2 (pilot and co-pilot).
+Maximum Passengers,74 passengers.
+Maximum Baggage,"-211 
+ : - Forward compartment - Maximum load 624 kg. (1376 lb) 
+ -212 
+ : - Forward compartment - Maximum load 928 kg. (2046 lb) 
+ - Rear compartment - Maximum load 768 kg. (1693 lb) 
+ -Mod.2059:- LH Rear compartment - Maximum load 512 kg. (1129 lb)"
+Fuel Capacity,"Density 6.55 lb/US Gallon 
+ UNUSABLE 
+ USABLE FUEL 
+ FUEL 
+ Normal refueling 
+ Refueling with high 
+ (kg) 
+ level cut-off 
+ 30 
+ 5000 kg 
+ 5050 kg 
+ 6360 l."
+Fuel Unbalance,"Maximum fuel unbalance: 
+ 730 kg (1609 lb)"
+Oil Capacity,"Engine oil capacity 
+ Usable 
+ 1.0 US Gallon/engine 
+ Total 
+ 4.7 US Gallon/engine"
+VII,"ATR72-212A (Transport Category Airplane) approved June 19, 1997."
+Engines,"Two Pratt and Whitney Aircraft of Canada, Ltd, PW127F turboprops 
+ or PW127M by SB ATR72-72-1006 or from production line from aircraft serial number 
+ 779 (inclusive)."
+Fuel,"(a) The following fuels are eligible for engines 
+ MIL-T-5624 
+ Grade JP5 
+ AST-MD-1655 
+ Grades JET A, JET A1 
+ (PWC Service Bulletin No. 20 004 details approved conditions). 
+ (b) The following types of additives may be used in approved fuels: 
+ - oxidation inhibitors, 
+ - corrosion inhibitors, 
+ - thermal stability additives, 
+ - metal deactivators, 
+ - anti icing additives, 
+ - anti stating additives, 
+ - biocide additives. 
+ List of approved additives, approved concentrations and conditions of use are 
+ identified in PWC Service Bulletin No. 20.004. 
+ The following oils are eligible for engines: 
+ - Synthetic type conforming to PWC specification PWA 521, Type II. 
+ PWC Service Bulletin 20 001 lists approved brand oils."
+VII,ATR72--212A (Continued)
+Engine Limits PW127F,"Operating limits with no unscheduled maintenance action required. Beyond 
+ these limits refer to maintenance manual."
+Engine,"Time 
+ Torque 
+ ITT 
+ NH 
+ NL 
+ NP 
+ Oil Pressure 
+ Oil Temperature (1)"
+Rating,"limit 
+ % 
+ (°C) 
+ % 
+ % 
+ % 
+ (Psi) 
+ (°C)"
+Reserve,"10 mn* 
+ 100** 
+ 800 
+ 103.2 
+ 104.2 
+ 101 
+ 55 to 65 
+ 0 to 125"
+Take off,"5 mn 
+ 90** 
+ 740 
+ 101.9 
+ 101.4 
+ 101 
+ 55 to 65 
+ 0 to 125 
+ to 
+ 765"
+Maximum,"- 
+ 90.9** 
+ 800 
+ 103.2 
+ 104.2 
+ 101 
+ 55 to 65 
+ 0 to 125"
+Ground idle,"66 mini 
+ 40 mini 
+ -40 to 125 
+ ***"
+Hotel mode,"715 
+ 55 to 65 
+ 0 to 125"
+Starting,"5 sec. 
+ 950 
+ -54 mini"
+Transient,"20 sec. 
+ 120 
+ 840 
+ 106.4 
+ 106.8 
+ 106 
+ 40 to 100 
+ **** 
+ 5 sec. 
+ 120 
+ 20 mn 
+ 140"
+,Time beyond 5 mn is linked to actual single engine operations only.
+,Value linked 100% NP.
+,Associated with NH ratings lower than 75%.
+,Permissible for completion of flight provided torque does not exceed 75.2 % during climb and 73.13 % during cruise.
+1,Oil temperature must be maintained above 45°C to ensure protection for the engine air inlet against ice accumulation.
+Propellers,"2 Hamilton Sundstrand, six-bladed, 568 F-1 (FAA TCDS P8BO). 
+ Blade: R 815 505( ) (see FAA TCDS P8BO)"
+Propeller Limits,"Diameter: 13 FT. (+ ¼ in., -3/16 in. manufacturing tolerance permissible) 
+ Pitch Setting at 58 in. of the axis: 
+ Feather: 
+ 78.5 degrees 
+ Flight Fine: 
+ 14 degrees 
+ Ground Fine: 
+ 0 degrees 
+ Full Reverse: 
+ -14 degrees 
+ Propeller (Np) – Take off 
+ 1200 R.P.M. 
+ Max Continuous 
+ 1200 R.P.M."
+Airspeed Limits,"VMO Maximum operating speed 
+ 250 kt 
+ MMO Maximum operating speed 
+ 0.55 
+ VA Design manoeuvering speed 
+ 175 kt 
+ VFE 15° flaps 
+ 185 kt 
+ 30° flaps 
+ 150 kt 
+ VLO L/G extension 
+ 170 kt 
+ VLO L/G retraction 
+ 160 kt 
+ VLE Landing gear extended speed 
+ 185 kt 
+ Tire limit speeds (ground speed) 
+ 165 kt"
+VII,ATR72-212A (Continued)
+Gear extended 2,"Forward Limit 
+ AFT Limit 
+ % MAC 
+ % MAC"
+Take off and Landing,"up to 18000 kg (39690 lbs) 
+ 14 
+ 37"
+22000 kg 48501 lbs,"19.5 
+ 37 
+ 20.2 
+ 37"
+3 22500 kg 49603 lbs,"20.6 
+ 37"
+4 22800 kg 50265 lbs,"20.9 
+ 37"
+Flight,"up to 18000 kg (39690 lbs) 
+ 10 
+ 39"
+22000 kg 48501 lbs,"16.6 
+ 39 
+ 17.4 
+ 39"
+3 22500 kg 49603 lbs,"17.9 
+ 39"
+4 22800 kg 50265 lbs,"18.25 
+ 39"
+5 23000 kg 50706 lbs,"(1) (Straight line variation between points). 
+ (2) Gear Extension has negligible effect on CG Range. 
+ (3) With embodiment of modification 4671 
+ (4) With embodiment of modification 5555 
+ (5) With embodiment of modification 6219"
+Maximum Weights ,"ATR 72-212A 
+ ATR 72-212A 
+ ATR 72-212A Mod. 
+ Basic 
+ Mod. 4671 
+ 4671 + 5213 
+ At taxiing 
+ 22180 kg(48898 lbs) 
+ 22670 kg (49978 lbs) 
+ 22670 kg (49978 lbs) 
+ At take off 
+ 22000 kg (48501 lbs) 
+ 22500 kg (49603 lbs) 
+ 22500 kg (49603) 
+ At landing 
+ 21850 kg (48170 lbs) 
+ 22350 kg (49273) 
+ 22350 kg (49273 lbs) 
+ With no fuel 
+ 20000 kg (44092 lbs) 
+ 20300 kg (44753 lbs) 
+ 20500 (45194 lbs) 
+ ATR 72-212A Mod. 
+ ATR 72-212A Mod. 
+ ATR 72-212A Mod. 
+ 5555 
+ 6219 
+ 6404 operations on dry 
+ unpaved runways 
+ At taxiing 
+ 22970 kg (50640 lbs) 
+ 23170 kg (51080 lbs) 
+ 21670 kg (47674 lbs) 
+ At take off 
+ 22800 kg (50265 lbs) 
+ 23000 (50706 lbs) 
+ 21500 kg (47300 lbs) 
+ At landing 
+ 22350 kg (49273 lbs) 
+ 22350 kg (49273 lbs) 
+ 21350 kg (46970 lbs) 
+ With no fuel 
+ 20800 kg (45856 lbs) 
+ 21000 kg (46296 lbs) 
+ 19700 kg (43340 lbs)"
+Minimum Crew,2 (pilot and co-pilot).
+Maximum Passengers,74 passengers (not applicable to ATR 72-212A “600F version” (full cargo))
+Maximum Baggage,"- Forward compartment - Maximum load 928 kg. (2046 lb) 
+ - Rear compartment - Maximum load 768 kg. (1693 lb) 
+ Note: both Maximum baggage configurations are not applicable to ATR 72-212A “600F 
+ version” (full cargo)."
+Fuel Capacity,"Density 6.55 lb/US Gallon 
+ UNUSABLE 
+ USABLE FUEL 
+ FUEL 
+ Normal refueling Refueling with high 
+ level cut-off 
+ (kg) 
+ 30 
+ 5000 kg 
+ 5050 kg 
+ 6360 l."
+VII,ATR72-212A (Continued)
+Fuel Unbalance,Maximum fuel unbalance: 730 kg (1609 lb)
+Oil Capacity,"Engine oil capacity 
+ Usable 
+ 1.0 US Gallon/engine 
+ Total 
+ 4.7 US Gallon/engine"
+Maximum Operating Altitude,"25,000 ft. 
+ (a) ATR72-212A “600 version” Definition (Approved April 4, 2013)"
+"The ATR72-212A “600 version” designation does not correspond to a model designation. This is only a commercial designation 
+ for an ATR72-212A on which Major modifications 5948, 6521, and 5977 have been embodied during production. 
+ modifications 
+ • 
+ Integrated Avionics Display – 5 IADs including FMS and RMS functions 
+ • 
+ Core Avionics Cabinet – CAC (including AFCS, DCA, FWS & CMA functions) (x2) 
+ • 
+ AFCS servo motors + Power Trim Box 
+ • 
+ AHRS (x2) 
+ • 
+ ADC (x2) 
+ • 
+ GPS (x1) 
+ • 
+ Radio Altimeter (x1) 
+ • 
+ T²CAS (ACAS + TAWS) (x1) 
+ • 
+ Transponders (x2) 
+ • 
+ Control panels 
+ • 
+ MCDU (x2) 
+ • 
+ Integrated Electronic Stand-by Instrument (x1) 
+ • 
+ Radio Com (VHF, HF wiring provision) (x2) 
+ • 
+ Radio Nav (VOR, ILS, MKR, ADF, DME) (x2) (1 ADF and 1 DME are optional) 
+ • 
+ Clocks (x2) 
+ • 
+ Ambient Pressure Sensor (x1) 
+ Modification 6521 adds NAS software version L2B2 
+ Modification 5977 installs a new fuel gauging system in kilograms 
+ (b) ATR72-212A “600F version” (full cargo) Definition (Approved March 3, 2021) 
+ ATR72-212A “600F version” designation does not correspond to a model designation. This is only a commercial designation for 
+ an ATR72-212A, with New Avionics Suite (NAS), on which Major modification 7900 has been embodied during production. 
+ Another allowable commercial designation is ATR72-600F. 
+ Modification 7900 design change consists of the full cargo conversion with the following main modifications: 
+ • 
+ A Large Cargo Door (LCD) in replacement of the standard forward LH cargo door, based on FAA ST01761 NY 
+ technical solutions, 
+ • 
+ An upper hinged rear cargo door of the same opening size as the passenger door, 
+ • 
+ A structural tube for class-E cargo operations, based on the same STC technical solutions, 
+ • 
+ A windowless fuselage, without type III doors nor the aft RH service door, 
+ • 
+ Removal of thermo-acoustics blankets, except for section 11 (Flight deck area), 
+ • 
+ Removal of passenger oxygen and air conditioning distribution and other passengers systems and features. 
+ • 
+ A fire protection system and cargo interiors compatible with class-E cargo operations, 
+ • 
+ A cockpit door ""western"" type not secured (made from ATR 42-500 standard version one), 
+ • 
+ Reinforcement of floor panels at 488Kg/m2 [100lbs/ft2], 
+ • 
+ A basic MTOW = 22800 kg (50265 lbs) and MZFW = 20800 kg (45856 lbs), with an option to reach MTOW = 23000 
+ kg (50706 lbs) and MZFW = 21000 kg (46296 lbs). 
+ • 
+ An enhanced corrosion protection, 
+ • 
+ A lower surround skin protection plates for each cargo door. 
+ DATA PERTINENT TO ATR72-101/-201, -102/-202, -211/-212 AND -212A MODELS. 
+ Datum 
+ Station 0 (93 inches forward of fuselage nose). 
+ MAC 
+ 93,5 inches (leading edge of MAC: STA 535,6). 
+ Leveling Means 
+ Clinometer on the main landing gear fairing. 
+ Deflection 
+ UP 
+ DWN 
+ Aileron 
+ 14º ± 0.5º 
+ 14º ± 0.5º 
+ + 14° ± 0.25°* 
+ + 14° ± 0.25°* 
+ Aileron Trim 
+ 4º ± 0.35º 
+ 4º ± 0.35º 
+ 6.7° ± 0.4°* 
+ 6.7° ± 0.4°* 
+ Pitch 
+ 23° +1° 
+ 13° +1° 
+ +0° 
+ -0.6° 
+ Pitch Trim 
+ + 5º ± 0.25° 
+ - 1.5º ± 0.1° 
+ * ATR 72-212A model 
+ Rudder 
+ : Structural stops (damper removed) ± 28.5o + 1.5o 
+ - 0o 
+ Stops included in damper 
+ ± 27o ± 1o 
+ Rudder Trim 
+ : On either side of the tab ± 16.7o + 0o 
+ - 3.4o 
+ Spoilers 
+ : Min. spoiler actuation for -2.5o ± 0.25o aileron 
+ : Max.: 57om± 2o for -14o aileron 
+ Flaps 
+ : Deflection 0o; 15o; 28o (-101/-201 and -102/-202 models) 
+ : Deflection 0o; 15o; 33o (-211/-212/-212A models) 
+ Operating time from 0o to 28o 
+ Operating time from 0o to 33o 
+ Extension 0o to 15o : 4s 
+ Extension 0o to 15o : 4s 
+ 15o to 28o : 4s 
+ 15o to 33o : 5s 
+ Retraction 28o to 15o: 7s 
+ Retraction 33o to 15o: 8s 
+ 15o to 0o: 6s 
+ 15o to 0o: 6s 
+ Serial Number Eligible 
+ A French ""Certificat de Navigabilité pour Exportation"" endorsed as noted 
+ under ""Import Requirements"" must be submitted for each individual aircraft 
+ for which application for US certification is made. 
+ Certification Basis. (ATR 72-101/-102, -201/-202, -211/-212 models) 
+ 1. - JAR 25 Change 8 and Amendment 81-2 including French national variants in effect on February 2, 1982. 
+ 2. - French ATR-42 Special Conditions. 
+ 3. - French ATR-72 Special Condition B6 and B7. 
+ 4. - The following Sections of Part 25 of the FAR, as amended by Amendments 25-1 through 25-54: 
+ 25.2 
+ 25.777(e),(g) 
+ 25.1309(a),(b) 
+ 25.107(d)(e) 
+ 25.781 
+ 25.1331(a)(3) 
+ 25.125 
+ 25.785(g) 
+ 25.1353(c)(6) 
+ 25.201(d) 
+ 25.787(a) 
+ 25.1401(b),(f) 
+ 25.331(c) 
+ 25.803(c)(7) 
+ 25.1411(a)(2) 
+ 25.351(a)(1) 
+ 25.809(j) 
+ 25.1415 
+ 25.361 
+ 25.903(a) 
+ 25.1438 
+ 25.491 
+ 25.901 
+ 25.1501 
+ 25.511(b)(c) 
+ 25.905(a) 
+ 25.1513 
+ 25.571(b)(6),(e)(2) 
+ 25.994 
+ 25.1521(b)(c) 
+ 25.613 
+ 25.1013 
+ 25.1547(c) 
+ 25.615 
+ 25.1015 
+ 25.1549 
+ 25.621 
+ 25.1019 
+ 25.1583 
+ 25.631 
+ 25.1093(b)(1),(b)(2) 
+ 25.1585(a) 
+ 25.671(c)(1) 
+ 25.1141(f)(2) 
+ 25.1587(a) 
+ 25.693 
+ 25.1303(b)(4) 
+ 25.773(b)(2) 
+ 25.1305(c)(6)(7) 
+ 5. - The applicant has volunteered to comply with the following Sections: 
+ 25.832 as amended by Amendment 25-56. 
+ 25.812 as amended by Amendment 25-58. 
+ 25.853 as amended by Amendment 25-59. 
+ The combined requirements shown in 1, 2, 3, and 4 above have been determined to provide a certification basis equivalent to 
+ FAR Part 25, effective February 1, 1965, as amended by Amendments 25-1 through 25-54. 
+ 6. - Section 25.904, as amended by Amendment 25-1 through 25-62, in place of FAA Special Conditions dated 
+ July 11, 1985, for the ATPCS. 
+ 7. - SFAR 27, including all amendments, effective on or before the ATR-72 TC date. This is expected to be SFAR 27-6. 
+ 8. - Part 36 of the FAR, including all amendments effective on or before the ATR-72 TC date. These are Amendments 36-1 
+ through 3614 
+ 9. - FAA Exemption 4385 (NM104) regarding Section 25.571(e)(2), granted April 19, 1984, (propeller debris). 
+ 11. - FAA findings of equivalent safety for Section 25.773(b)(2). 
+ 12. - Compliance with the following optional requirements has been established: 
+ Ice protection provisions JAR 251419 
+ 13. - Compliance with the following optional requirements has been established: 
+ Ditching provisions JAR 25.1411(a)(b)(c)(d)(e)(f)(g)(1) and JAR 25.1415(b)(c)(d)(e). 
+ JAR 25.801(a)(b)(c)(d)(e). When requested by the operational rules, the life rafts must be installed in accordance with the 
+ locations defined in document 421.0178/96 issue 2. 
+ 14. - For precision approach and landing, the applicable technical requirements are complemented by the 
+ following FAA Advisory Circulars AC 
+ AC 2513291A for the autopilot 
+ AC 2057A for autoland 
+ AC 12029 for Category II 
+ AC 120-28C with applicable Appendices for Category III. 
+ 15. – FAA Special conditions issued for “Seats with Non-Traditional, Large, Non-Metallic Panels”, published in the Federal 
+ Register July 29, 2016, Docket No. FAA-20 16-8246, Special Conditions No. 25-624–SC 
+ 16 - Compliance with the requirements of the following paragraphs of FAR 25.562 at amendment 25-64 for Geven Classic and 
+ Prestige passenger seats are demonstrated through ATR modification 6594 for ATR 72-102/-202/-212/-212A models: 
+ FAR 25.562(a) 
+ FAR 25.562(b) 
+ FAR 25.562(c)(2) 
+ FAR 25.562(c)(4) 
+ FAR 25.562(c)(5) 
+ FAR 25.562(c)(6) 
+ FAR 25.562(c)(7) 
+ FAR 25.562(c)(8) 
+ Based on 14 CFR § 21.29(a) for new import TCs, (or § 21.101(g) for changes to TCs), applicable provisions of 14 CFR part 26 
+ are included in the certification basis. For any future 14 CFR part 26 amendments, the holder of this TC must demonstrate 
+ compliance with the applicable sections 
+ Compliance with the requirements of FAR 25.856 at amendment 25-111 for thermal/acoustic insulation has been demonstrated to 
+ meet operational requirements 
+ Certification Basis ATR 72212A model 
+ The TC basis for the baseline airplane is Part 25 of the Federal Aviation Regulations dated February 1, 1965 as amended by 
+ Amendments 25-1 through and including Amendment 25-54 plus specified Special Conditions, Exemptions, and Equivalent 
+ Level of Safety Findings. The design changes introduced by ATR 72-212A model are not considered extensive enough to 
+ require evaluation in accordance with the derivative procedures discussed in FAA Order 8110.4A. Therefore, no later 
+ regulations or special conditions are recognized at this time as being necessary to provide an adequate TC basis for this 
+ amendment of TC project, except as noted below. 
+ While installation of a new-look interior may not require re-substantiation of interior components or compliance to later 
+ airworthiness standards under the guidance FAA Order 8110.4A, it has been shown that installation of seats meeting Amendment 
+ 25-64 significantly enhances safety. In accordance with agreements reached between FAA, DGAC, and Aerospatiale during 
+ certification of the Model ATR-42-500, Aerospatiale has agreed to comply with FAR 25 Amendment 25-64. A discussion of this 
+ Occasionally, Part 121 is amended to require compliance with newly adopted standards of Part 25 on a retroactive basis. In order 
+ to facilitate US operator compliance with Part 121 and to provide a consistent certification basis with the latest operating rules, 
+ any Part 121 requirement for which the Aerospatiale ATR72-212A complies and which has a corresponding Part 25 requirement, 
+ should be included in the certification basis. Additional Part 121 requirements, with a corresponding Part 25 requirement, 
+ published after closure of this issue paper will not be required to be included in the certification basis. 
+ The FAA has raised the issue of Structural Design Stall Speeds, and a discussion of this issue as it applies to this airplane is 
+ contained in Issue Paper A1 
+ The FAA has raised the issue of Supercooled Large Droplets (SLD) Icing Effects on ATR-42/72 New Ailerons, and a discussion 
+ Compliance with the requirements of FAR 25.562 at amendment 25-64 for rear 16G Sicma cabin attendant seat through 
+ modification 6524 and forward 16G Sicma cabin attendant seat though ATR modification 6525 has been demonstrated to meet 
+ operational requirements for ATR72212A model 
+ Compliance with the requirements of the following paragraphs of the following FARs are demonstrated through modification 
+ ATR 7928 (Installation of Flame Arrestor) for ATR72-212A model: 
+ • 
+ FAR 25.899 at amendment 25-123 
+ • 
+ FAR 25.975(a)(7) at amendment 25-143 
+ • 
+ FAR 25.981(a)(1), (a)(2) & (a)(3) at amendment. 25-102 
+ In accordance with § 21.16 of the FAR the special conditions listed on TCDS A53EU are part of the Aerospatiale ATR72-211/- 
+ 212 certification basis and will also be part of the Aerospatiale ATR72-212A (Reference Type Certificate Data Sheet No. 
+ A53EU 
+ Part 34 of the FAR as amended at the time of certification will apply to this airplane. 
+ Part 36 of the FAR as amended at the time of certification will apply to this airplane. 
+ Exemptions granted in accordance with Part 11 of the FAR will apply to this airplane. 
+ Equivalent Safety Findings as applicable in accordance with Part 21 of the FAR will apply to this airplane. 
+ Equivalent Safety Findings 
+ (1) Section 25.811(g), 25.812(b)(1) (i), 25.812(b)(1)(ii), Emergency Exit Marking Requirements (documented in FAA ELOS 
+ Memo ATI0740IBTCSl 
+ (2) Section 25.1457(d)(5), Cockpit Voice Recorders Requirements ( documented in FAA ELOS Memo SP0778IB-T-SE- 
+ 101 
+ Certification Basis. (ATR72-212A “600 version” Model) 
+ The final FAA type certification basis, for the ATR 72-212A incorporating modification 5948 (commercially called the ATR72- 
+ 212A “600 version”) is as follows: 
+ Airworthiness & Environmental Standards for components and areas not affected by the change 
+ Unchanged from the basic ATR 72-212A certification basis. 
+ Airworthiness and Environmental Standards for components and areas affected by the change 
+ 14 CFR part 25, effective February 1, 1965, including Amendments 25-1 through 25-123. The following sections are 
+ applicable 
+ SUBPART B – Flight 
+ 25255a2 
+ SUBPART C – STRUCTURE 
+ 25581 
+ SUBPART D – DESIGN AND CONSTRUCTION 
+ 25.671(b),(c), 25.672(a), 25.677(b), 25.679(a)(2), 25.685, 25.699(a),(b), 25.703, 25.729(e),(f)(3), 25.735(d), 25.771(a),(c),(e), 
+ 25.773(a), 25.777(f), 25.783(e), 25.841(b)(5),(b)(6),(b)(8), 25.843(b)(3), 25.853(a),(d),(e), 25.854(a), 25.855(h), 25.857(b)(3), 
+ 25869a 25899 
+ SUBPART E  POWERPLANT 
+ 251141f 251165g 251203ab2b3 
+ SUBPART F  EQUIPMENT 
+ 25.1301, 25.1303, 25.1305, 25.1307(c),(d),(e), 25.1309, 25.1316, 25.1317, 25.1321, 25.1322, 25.1323, 25.1325(a),(d),(e),(f), 
+ 25.1326(a), 25.1327, 25.1329, 25.1331, 25.1333, 25.1337, 25.1351(a),(b)(6),(c),(d), 25.1353(a),(b),(c)(6),(d),(e), 25.1355, 
+ 25.1357, 25.1360, 25.1381, 25.1419(c), 25.1431, 25.1435(b)(1), 25.1459 
+ SUBPART G – OPERATING LIMITATIONS AND OPERATIONS 
+ 25.1501, 25.1523, 25.1525, 25.1527, 25.1529, 25.1541, 25.1543, 25.1545, 25.1547, 25.1549, 25.1555, 25.1563, 25.1581, 
+ 251583 251585 251587 
+ SUBPART H – ELECTRICAL WIRING INTERCONNECTION SYSTEMS 
+ 25.1701, 25.1703, 25.1705, 25.1707, 25.1709, 25.1711, 25.1713, 25.1715, 25.1717, 25.1719, 25.1721, 25.1729 
+ FAA Special Condition 25-473-SC “Aircraft Electronic System Security Protection from Unauthorized External Access” 
+ The Direction Générale de l'Aviation Civile (DGAC) of France originally type certificated this aircraft under its type certificate 
+ Number 176. The FAA validated this product under U.S. Type Certificate Number A53EU. Effective September 28, 2003, the 
+ European Aviation Safety Agency (EASA) began oversight of this product on behalf of the Direction Générale de l'Aviation 
+ Civile DGAC of France 
+ Based on 14 CFR § 21.29(a) for new import TCs, (or § 21.101(g) for changes to TCs), applicable provisions of 14 CFR part 26 
+ are included in the certification basis. For any future 14 CFR part 26 amendments, the holder of this TC must demonstrate 
+ compliance with the applicable sections 
+ Compliance with the requirements of FAR 25.856 at amendment 25-111 for thermal/acoustic insulation has been demonstrated to 
+ meet operational requirements 
+ Certification Basis. (ATR72-212A “600 version” Full Cargo Model (ATR72-600F)) 
+ The final FAA type certification basis, for the ATR 72-212A “600 version” incorporating modification 7900 –full cargo 
+ conversion – (commercially called the ATR72-600F) is as follows: 
+ Airworthiness & Environmental Standards for components and areas not affected by the change: 
+ Unchanged from the basic ATR 72-212A certification basis. 
+ Airworthiness and Environmental Standards for components and areas affected by the change: 
+ 14 CFR part 25, effective February 1, 1965, including Amendments 25-1 through 25-144. The following sections are applicable: 
+ Equivalent Safety Finding 
+ ESF IP C-1 - Freighter Embedded Crew Door installed on ATR72-212A (version 600F). (ELOS Memo AT10903IB-T-C-1) 
+ SUBPART B – Flight 
+ 2525 
+ SUBPART C – STRUCTURE 
+ 25.301, 25.303, 25.305 (a), (b), 25.307 (a) (for Equipment and furnishings), 25.365, 25.519, 25.561 
+ Note 
+ 25.305, 25.307 at Amendment 25-54 for Loads structure 
+ SUBPART D – DESIGN AND CONSTRUCTION 
+ 25.601, 25.603, 25.605, 25.607, 25.609, 25.613, 25.619, 25.621, 25.623, 25.625, 25.631, 25.777 (a), (c), 25.783 all except 
+ (b),(c), (g), (h), 25.803 (a), 25.807 (j), 25.851 ((a) except a(1)), 25.855 (a), (b)(1), (d,), (f), (h)(2), 25.857(e), 25.858, 25.869 
+ a1 25899 
+ Note 
+ 25.783 (c) at original Amendment 25-54 For rear door 
+ 25.855(e1),(e2) at Amendment 25-116 for Electrical & Electronic common installation 
+ SUBPART F  EQUIPMENT 
+ 25.1301(a)(1), (a)(2), (a)(3), (a)(4), 25.1302, 25.1309 (a), (b), (c) (for cargo lights, equipment and furnishing), 25.1317, 
+ 25.1351 (a)(1), (d)(1), (d)(3), 25.1353(a) (for EMH, Air Conditioning, Fire Protection, Cargo Light and Doors), 25.1357 (a), 
+ (b), (c), (d), (f), 25.1360, 25.1431 (a), (c), (d) 
+ Note 
+ 25.1309 (a), (b), (d), (g) at original Amendment 25-54 for Air conditioning, doors, oxygen, wing light and landing gear 
+ 25.1353(a) at original amendment 25-54 for wing light) 
+ SUBPART G – OPERATING LIMITATIONS AND OPERATIONS 
+ 25.1519, 25.1529, 25.1541, 25.1557 (a), 25.1581, 25.1583, 25.1585 
+ Service Information 
+ Each of the documents listed below that contain a statement that it is approved by the 
+ European Aviation Safety Agency (EASA) - or for approvals made before September 28, 
+ 2003 - by the Direction Générale de l'Aviation Civile (DGAC) of France, are accepted by 
+ the FAA and are considered FAA approved. Additionally, approvals issued by ATR 
+ under the authority of EASA approved Design Organization EASA.21J.044 - or for 
+ approvals made before September 28, 2003 - under the authority of DGAC Design 
+ Organization Approval No. F.JA.12 are considered FAA approved. These approvals 
+ pertain to the type design only. 
+ • ATR Service Bulletins, except as noted below, 
+ • Structural repair manuals, 
+ • Vendor manuals referenced in ATR service bulletins 
+ • Aircraft flight manuals, 
+ • Repair Instructions. 
+ Note: Design changes that are contained in ATR Service Bulletins and that are classified 
+ as Level 1 Major or Non-Basic in accordance with either the US/France or US/EASA 
+ Bilateral Aviation Safety Agreement Implementation Procedures for Airworthiness must 
+ be approved by the FAA. 
+ Equipment 
+ The basic required equipment as prescribed in the applicable Federal Aviation 
+ Regulations must be installed in the aircraft. ATR equipment list, document GATR/C 
+ No. 425.892/89 identifies all required equipment and all optional equipment approved by 
+ the Direction Générale de l'Aviation Civile (DGAC) of France. In addition, the 
+ following is required: 
+ (1) DGAC/EASA Approved FAA Airplane Flight Manual - 
+ Import Requirements 
+ The FAA can issue a U.S. airworthiness certificate based on an NAA Export Certificate 
+ of Airworthiness (Export C of A) signed by a representative of the Direction Générale de 
+ l'Aviation Civile (DGAC) of France on behalf of the European Community. The Export 
+ C of A should contain the following statement: ‘The aircraft covered by this certificate 
+ has been examined, tested, and found to conform with Type Design approved under U.S. 
+ Type Certificate No. A53EU and to be in a condition for safe operation. Compliance with 
+ Airworthiness Directives (ADs) has been checked only for ADs issued by EASA, ADs 
+ adopted by EASA and ADs published by FAA.’ 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United 
+ States of both new and used aircraft based on the scope of the agreement, to identify any 
+ required statements by the exporting authority on the export certificate of airworthiness 
+ (or equivalent document), and for procedures for coordinating exceptions to conformity 
+ statements on these documents. Refer to FAA Order 8130.2, Airworthiness Certification 
+ of Aircraft, for requirements for issuance of an airworthiness certificate for imported 
+ aircraft. 
+ NOTE 1 - Weight and Balance 
+ a 
+ Current weight and balance report including list of equipment, entitled ""Aircraft Inspection ""Report"", included in 
+ certificated empty weight, and loading instructions, must be in each aircraft at the time of original certification and at 
+ all times thereafter except in the case of operators having an approved weight control system. ATR Report, ""Weight 
+ and Balance Manual"", contains loading information for each airplane and interior arrangement configuration as 
+ delivered. This report contains, or refers to, information relative to location and capacity of all cargo and 
+ baggage compartments, buffets, storage spaces and coat rooms, location and capacity of lounges, lavatories, and the 
+ required placards in the passenger compartment. 
+ b 
+ The airplane must be loaded so that the C.G. is within specified limits at all times, considering fuel loading and usage, 
+ gear retraction and movement of crew and passengers from their assigned positions. 
+ c 
+ The weights of system fuel and oil, as defined below, and hydraulic fluid, all of which must be included in the airplane 
+ empty weight, are listed for each airplane in the Weight and Balance Manual specified in paragraph (a) above. 
+ d 
+ System fuel is the weight of all fuel required to fill all lines and tanks up to zero-fuel point on the fuel pages in the 
+ most critical flight attitude, including the unusable tank fuel as defined by FAR Part 25.959. (The usable fuel in the 
+ crossfeed manifold lines, manifolds, and engine that is not part of the system, fuel must be included in total usable fuel 
+ to obtain correct weight and C.G. for take off). 
+ e 
+ The unusable fuel is that amount of fuel in the tanks which is unavailable to the engines under critical flight conditions 
+ as defined in FAR Part 25.959. This ""unusable"" fuel is included in System Fuel as indicated in (d) above and need not 
+ be accounted for separately. 
+ f 
+ System oil is the weight of oil remaining in the engine, lines and tanks after subtracting the oil in the tanks which is 
+ above the standpipe (zero gauge) levels. The engine oil capacities shown elsewhere in this data sheet include only the 
+ useable oil for which the tanks must be placarded. 
+ NOTE 2 
+ The aircraft must be operated in accordance with the DGAC/EASA-Approved FAA Airplane Flight Manual. 
+ (""DGAC/EASA approved"" is considered equivalent to ""FAA Approved""). 
+ NOTE 3 
+ The required Airworthiness limitations including structural inspections and retirements times for safe life parts are 
+ covered by the ""Time Limits"" document, Revision 18, dated October 09, 2020, for ATR 72, approved by EASA. 
+ NOTE 4 Cabin Equipment 
+ Galleys and seats must be designed in accordance with ATR Specifications 419.464/82 and 
+ 419.282/82 (ATR72-101/-102, -201/-202, -211/-212 models) or 421.614/94 and 
+ 419.0008/95, issue 4 (ATR 72-212A model). 
+ NOTE 5 
+ The modification permitting use of the ATR-72 for Category II approach is: 1112. 
+ NOTE 6 
+ The basic definition for US import certification is contained in Documents: 
+ * GATR/C 422.174/89 for ATR72-101/-201 models 
+ * GATR/C 425.731/90 for ATR72-102/-202 models 
+ * GATR/C 425.839/92 for ATR72-211 model 
+ * GATR/C 425.840/92 for ATR72-212 model 
+ * A/RT/C 540.0410/97 for ATR72-212A model 
+ Initial issue or later approved revision. 
+ NOTE 7. Modification whose retrofit is mandatory. 
+ 1) Modification included in the type definition 2334 - Engine debris deflectors to be retrofitted before 
+ 10,000 flight hours on the following A/C: 108 - 126 - 140 - 145 - 147 - 150 - 154 - 157 - 162 - 164 - 167 - 
+ 171 - 174 - 177 - 180 - 183 - 186 - 189 - 192 - 195 - 198 - 201 - 204 -207 - 210 - 212 - 215 
+ 2) Modification 1931 or 8019 related to the center wing box must be embodied on A/C: 108 - 126 - 140 - 
+ 145 - 147 - 150 before 10000 flight hours. 
+ NOTE 8. For Interior arrangement limitations, see Aerospatiale Document GATR/C 425.776/89, Substantiation Report. 
+ NOTE 9 
+ Operation on narrow runway is approved for ATR72-201/-202/-211/-212 and -212A with incorporation of 
+ modification 4406.",

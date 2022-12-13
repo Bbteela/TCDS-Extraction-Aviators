@@ -1,0 +1,142 @@
+Keyterm,Info
+"H6SW 
+ Revision 8 
+ Erickson 
+ 214B 
+ 214B-1 
+ July 7, 2021",
+Type Certificate Holder,"Erickson 214 Holdings, LLC 
+ 3100 Willow Springs Road 
+ Central Point, Oregon 97502-0010"
+Type Certificate Holder Record,"Bell Textron Inc. transferred TC H10SW to Erickson 214 Holdings, LLC on 
+ September 8, 2020 
+ Renamed from “Bell Helicopter Textron Inc.” to “Bell Textron Inc.” 
+ on July 1, 2019."
+"I - Model 214B (Transport Helicopter - Category B), Approved January 27, 1976 - Model 214B-1, (Transport 
+ Helicopter - Category B), approved February 3, 1976.",
+Engine,Lycoming T5508D (Type Certificate Data Sheet No. E4NE)
+Fuel,"MIL-T-5624, Grade I, (JP-4), or MIL-T-5624 Grade II (JP-5) (See Note 9) (See 
+ Flight Manual for approved vendors)"
+,"Output Shaft 
+ Output Shaft 
+ Exhaust Gas 
+ Gas Gen. Speed 
+ Torque Percent 
+ Speed RPM, % 
+ Temp F 
+ RPM, %"
+5 minutes,"100 (2050 SHP) 
+ 14,695 (100%) 
+ 1,330 (at 
+ 18,832 (100.6%) 
+ 130F AMB)"
+Continuous,"90 (1850 SHP) 
+ 14,695 (100%) 
+ 1,278 (at 
+ 18,327 (97.9%) 
+ 130F AMB)"
+Rotor limits,"Power Off 
+ Power On 
+ Maximum 315 rpm 
+ Maximum 300 rpm 
+ (Tach reading 105%) 
+ (Tach reading 100%) 
+ Minimum 257 rpm 
+ Minimum 294 rpm 
+ (Tach reading 86%) 
+ (Tach reading 98%)"
+Airspeed limits,"See Placard P/N 214-075-256 
+ (Vne (IAS) varies with pressure altitude and temperature)"
+CG range,"(a) Longitudinal C.G. limits 
+ (+137.0) to (+141) at 13,800 lbs. 
+ (+132.5) to (144.3) at 12,250 lbs. 
+ (+132.5) to (+147) at 11,000 lbs. 
+ (+132.5) to (+147) at 10,250 lbs. 
+ (+135.4) to (+147) at 8,500 lbs. 
+ (+137) to (+145) at 7,500 lbs. 
+ Straight line variation between points 
+ given. See figure: 
+ (b) Lateral C.G. limits 
+ 4.0 inches left of centerline 
+ 4.7 inches right of centerline"
+Empty Weight CG range,"See Chapter 8, Model 214B series Maintenance Manual"
+Maximum weight,"12,500 lbs. for 214B-1 (See Note 10) 
+ 13,800 lbs. for 214B 
+ 16,000 lbs. for 214B and 214B-1 external cargo operations (See Note 4)"
+Minimum crew,1 (pilot)
+Maximum passengers,15 (Not limited by emergency exit requirements)
+Maximum baggage,None (No baggage compartment)
+Fuel capacity,204 gal. (+153.8) usable. See Note 1 for data on unusable fuel.
+Oil capacity,"3.75 gals. (+195.0) 1.85 gal. usable (included in cap). See Note 1 for 
+ undrainable oil."
+Rotor blade and,For rigging information refer to the Model 214B series Maintenance
+control movements,Manual.
+Serial Nos eligible,27001 and 28001 and up
+Datum,"Station 0 datum is located 20 inches aft of the most forward point of the 
+ fuselage nose section."
+Leveling means,Plumb line from top of left main door frame.
+Certification basis,"FAR Part 29 dated February 1, 1965 (Transport Category B) Amendments 29-1 
+ through 29-9 and Amendment 29-11. Special conditions No. 29-65-SW-5. 
+ No exemptions. 
+ Type Certificate No. H6SW issued January 27, 1976. 
+ Date of application for Type Certificate October 26, 1972."
+Production basis,Production Certificate No. 100
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (See Certification basis) must be installed in the helicopter for 
+ certification. In addition, the following items of equipment are required with 
+ each helicopter as specified: 
+ FAA approved Helicopter Flight Manual 
+ (1) Model 214B dated January 27, 1976 
+ (2) Model 214B-1 dated February 2, 1976"
+NOTE 1,"Current weight and balance report including list of equipment included in the certificated empty weight 
+ and loading instructions when necessary must be provided for each helicopter at the time of original 
+ certification. 
+ The certificated empty weight and corresponding C.G. locations must include a total undrainable oil of 
+ 9.2 lb. (+195.0) and unusable fuel of 25.2 lb. (+140.0)."
+NOTE 2,"The following placard must be displayed in front of and in clear view of the pilot: “This Helicopter 
+ must be operated in compliance with the operating limitations specified in the FAA Approved 
+ Rotorcraft Flight Manual. The Airworthiness Limitations Section of the Rotorcraft Maintenance 
+ Manual must be complied with.” 
+ All placards required in the Approved Helicopter Flight Manual must be installed in the appropriate 
+ locations. Chapter 11 of the Maintenance Manual includes information about other placards and their 
+ locations."
+NOTE 3,"The retirement times of certain parts and inspection requirements are listed in Airworthiness 
+ limitations, Chapter 4, of the Model 214B/B-1 series Maintenance Manual. These limitations may not 
+ be changed without FAA engineering approval. In addition, information essential for proper 
+ maintenance of the helicopter is contained in the Bell Helicopter Company Model 214B/B-1 
+ Maintenance Manual and in the 214B/B-1 series Component Repair and Overhaul Manual."
+NOTE 4,"Model 214B/B-1 helicopters equipped with the external cargo suspension installation completed in 
+ accordance with Bell Drawing 214-706-002 meet the structural and design requirements of the 
+ certification basis when operated to 16,000 pounds gross weight in accordance with the limits of FAA 
+ Approved Model 214B Helicopter Flight Manual dated January 27, 1976, and Model 214B-1 Manual 
+ dated February 2, 1976. The retirement times referenced in Note 3 are not changed. Gross weights 
+ above 13,800 lbs. must not be imposed on the landing gear."
+NOTE 5,"A partition must not be installed between the passenger and crew compartments that will obstruct the 
+ pilot’s view of the passenger large sliding doors and hinged panels. Interior linings must not be 
+ installed that obstruct the view of the crew/passenger front doors latch engagement with the fuselage."
+NOTE 6,"VHF navigation installations are limited to Collins Radio Type VIR31H, P/N 622-2819-004 due to 
+ rotor modulation interference. Other VHF navigation installations must be coordinated through FAA, 
+ Southwest Region, Engineering and Manufacturing Branch, ASW-210."
+NOTE 7,"Engine gas producer speed shown under “engine limits” is the absolute maximum permissible rotation 
+ speed. Equal or lower speeds are established for each engine during engine calibration and are 
+ stamped on the engine data plate. Maximum usable (limiting) gas producer speeds for takeoff and for 
+ maximum continuous power vary with ambient temperature and are shown on the engine limitations 
+ placard on the instrument panel. This placard includes information on engine data plate speeds which 
+ must agree with the actual engine installed in the helicopter."
+NOTE 8,"Maximum usable (limiting) exhaust gas temperature for takeoff and maximum continuous engine 
+ operation varies with ambient temperature and is shown on the placard described in Note 7 above."
+NOTE 9,"For all operations below 40F ambient temperature, all fuel used in Model 214B helicopters must 
+ contain Phillips PFA-55MB anti-icing additive in concentrations of not less than 0.035% nor more than 
+ 0.15% by volume. Blending this additive into the fuel and checking its concentration must be 
+ conducted in the manner prescribed by the Rotorcraft Flight Manual."
+NOTE 10,"Except for a difference in maximum weight, the Model 214B and 214B-1 are identical to each other."
+NOTE 11,"Composite (fiberglass) main rotor blades (215-015-500 or 214-018-402) must have conductive paint (a 
+ minimum resistance required) for lightning protection."
+NOTE 12,"Any changes to the type design of this helicopter by means of amended type certificate (TC), 
+ supplemental type certificate (STC), or amended STC, requiring instructions for continued 
+ airworthiness (ICA’s) must be submitted thru the project aircraft certification office (ACO) for review 
+ and acceptance by the Fort Worth-Aircraft Evaluation Group (FTW-AEG) Flight Standards district 
+ Office (FSDO) prior to the aircraft delivery, or upon issuance of the first standard airworthiness 
+ certificate for the affected aircraft, whichever occurs later as prescribed by Title 14 CFR 21.50. Type 
+ design changes by means of a FAA Form 337 (field approval) that require ICA’s must have those 
+ ICA’s reviewed by the field approving FSDO."

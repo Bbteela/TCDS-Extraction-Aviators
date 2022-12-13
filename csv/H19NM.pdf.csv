@@ -1,0 +1,639 @@
+Keyterm,Info
+"H19NM 
+ Revision 9 
+ MDHI 
+ MD900 
+ December 10, 2013",
+Type Certificate Holder,"MD Helicopters, Inc. (MDHI) 
+ 4555 East McDowell Road 
+ Mesa, Arizona 85215-9734 U.S.A."
+Type Certificate Holder Record,"McDonnell Douglas Helicopter Company (MDHC), a wholly owned 
+ subsidiary of the Boeing Company, transferred ownership of TC H19NM 
+ to MD Helicopters, Inc. (MDHI) on February 18, 1999."
+"I – Model MD900 (Normal Category Rotorcraft), Approved December 2, 1994 
+ Two MD900 configurations are approved; a basic configuration, marketed by MDHI as the MD900, 
+ and an enhanced version with Category A approval, marketed by MDHI as the MD902. See Note 5.",
+Engines,"2 Pratt and Whitney Canada, Inc. PW206A (TC No. E42NE), or 
+ 2 Pratt and Whitney Canada, Inc. PW206E (TC No. E42NE), or 
+ 2 Pratt and Whitney Canada, Inc. PW207E (TC No. E42NE)"
+Fuel,"Type 
+ Country and Specifications 
+ USA 
+ Canada 
+ UK 
+ France 
+ People’s 
+ Russian & 
+ Republic 
+ CIS Countries 
+ of China 
+ Kerosene 
+ Jet A 
+ ASTM D1655 
+ CAN/CGSB 
+ DEF STAN 
+ AIR 
+ RP-3 
+ R.T. 
+ 3.23 
+ 91-87 
+ 3405D 
+ (GB 6537-94) 
+ TS-1 ** 
+ Jet A-1 
+ MIL-T-83133 
+ (GOST 
+ JP-8 
+ 10227-86) 
+ Wide Cut * 
+ Jet B 
+ ASTM D1655 
+ CAN/CGSB 
+ DEF STAN 
+ AIR 
+ MIL-T-5624 
+ 3.22 
+ 91-88 
+ 3407B 
+ JP-4 
+ High Flash 
+ JP-5 
+ MIL-T-5624 
+ CAN/CGSB 
+ DEF STAN 
+ AIR 
+ 3.GP-24Ma 
+ 91-86 
+ 3404C 
+ * Secondary fuel for helicopters with PW206E or PW207E engines. 
+ ** Secondary fuel limited by PWC to 100 hours of use, either continuous or 
+ intermittently between engine overhauls. 
+ See Rotorcraft Flight Manual (RFM) for additional limitations."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10"
+Rev No,"8 
+ 5 
+ 8 
+ 8 
+ 8 
+ 9 
+ 8 
+ 8 
+ 8 
+ 9 
+ Requirements for anti-icing additives 
+ An approved fuel anti-icing additive is required when the ambient temperature is 
+ at or below 13ºF (-10ºC). See RFM for additional limitations."
+Fuel Capacity,"Helicopters with PW206A engines 
+ Capacity 
+ Usable 
+ Unusable 
+ Arm 
+ Fuel System 
+ (gal) 
+ ( l ) 
+ (gal) 
+ ( l ) 
+ (gal) 
+ ( l ) 
+ (in) 
+ Standard 
+ 149.0 
+ 564.0 
+ 146.2 
+ 553.4 
+ 2.8 
+ 10.6 
+ 190.8 
+ Range Extender 
+ 161.3 
+ 610.6 
+ 158.5 
+ 600.0 
+ 2.8 
+ 10.6 
+ 190.9 
+ Helicopters with PW206E or PW207E engines 
+ Capacity 
+ Usable 
+ Unusable 
+ Arm 
+ Fuel System 
+ (gal) 
+ ( l ) 
+ (gal) 
+ ( l ) 
+ (gal) 
+ ( l ) 
+ (in) 
+ Standard 
+ 161.3 610.6 158.5 600.0 
+ 2.8 
+ 10.6 190.9 
+ See RFM, Section 6, Weight and Balance Data, for variations of fuel weight and 
+ moment-arm with variations of fuel type and fuel quantity. Empty weight of the 
+ helicopter includes weight of unusable fuel."
+Fluids,"Engine Oil 
+ Engine oils conforming to MIL-PRF-23699 are approved for use. 
+ See the latest revision of Pratt & Whitney Canada Installation Manual 
+ Turboshaft Engine PW206A, PW206E, or PW207E for approved oil 
+ manufacturers. 
+ Transmission Oil 
+ See RFM for approved oils. Observe servicing instructions on placard on 
+ transmission oil filler. 
+ Hydraulic Fluid 
+ Hydraulic fluids conforming to MIL-PRF-83282 are approved for use."
+Fluid Capacity,"Fluid 
+ Capacity 
+ Component 
+ Type 
+ or System 
+ (gal) 
+ ( l ) 
+ Oil 
+ Engine (each) 
+ 1.04 
+ 3.93 
+ Main Transmission 
+ 2.50 
+ 9.46 
+ System 1, Total 
+ 0.25 
+ 0.95 
+ Hydraulic 
+ System 2, Total 
+ 0.30 
+ 1.14 
+ Fluid 
+ Rotor Brake, Total 
+ 0.03 
+ 0.11"
+Engine Limits,"Pratt and Whitney Canada, Inc. PW206A 
+ All Engines Operating Limits 
+ Max Torque Max MGT 
+ Max NG 
+ NP (Nominal) 
+ Rating 
+ (ft-lb) 
+ (%) 
+ (ºC) 
+ (RPM) 
+ (%) 
+ (RPM) 
+ (%) 
+ Takeoff (5 min) 
+ 438 
+ 100 
+ 863 
+ 57,250 
+ 98.7 6,000 
+ 100 
+ 6,240* 104* 
+ Max Continuous 
+ 438 
+ 100 
+ 820 
+ 57,250 
+ 98.7 6,000 
+ 100 
+ 6,240* 104* 
+ One Engine Inoperative Limits (see Note 10) 
+ Max Torque Max MGT 
+ Max NG 
+ NP (Nominal) 
+ Rating 
+ (ft-lb) 
+ (%) 
+ (ºC) 
+ (RPM) 
+ (%) 
+ (RPM) 
+ (%) 
+ 2.5 Minute 
+ 569 
+ 130 
+ 902 
+ 58,600 
+ 101 6,000 
+ 100 
+ 6,240* 104* 
+ Continuous 
+ 438 
+ 100 
+ 863 
+ 57,250 
+ 98.7 6,000 
+ 100 
+ 6,240* 
+ 104* 
+ * NP operation at 6,240 RPM (104%) is limited to airspeed of 100 KIAS or less. 
+ Pratt and Whitney Canada, Inc. PW206E 
+ All Engines Operating Limits 
+ Max Torque 
+ Max MGT 
+ Max NG 
+ NP (Nominal) 
+ Rating 
+ (ft-lb) 
+ (%) 
+ (ºC) 
+ (RPM) 
+ (%) 
+ (RPM) 
+ (%) 
+ Takeoff (5 min) 
+ 482 
+ 110 
+ 863 
+ 57,250 
+ 98.7 
+ 6,000 
+ 100 
+ Max Continuous 
+ 438 
+ 100 
+ 820 
+ 56,500 
+ 97.4 
+ 6,000 
+ 100 
+ One Engine Inoperative Limits 
+ Max Torque 
+ Max MGT 
+ Max NG 
+ NP (Nominal) 
+ Rating 
+ (ft-lb) 
+ (%) 
+ (ºC) 
+ (RPM) 
+ (%) 
+ (RPM) 
+ (%) 
+ 2.5 Minute 
+ 569 
+ 130 
+ 930 
+ 59,400 
+ 102.4 
+ 6,000 
+ 100 
+ Continuous 
+ 544 
+ 124 
+ 885 
+ 58,250 
+ 100.4 
+ 6,000 
+ 100 
+ Pratt and Whitney Canada, Inc. PW207E 
+ All Engines Operating Limits 
+ Max Torque Max MGT 
+ Max NG 
+ NP (Nominal) 
+ Rating 
+ (ft-lb) 
+ (%) 
+ (ºC) 
+ (RPM) 
+ (%) 
+ (RPM) (%) 
+ Takeoff (5 min) 
+ 482 
+ 110 
+ 900 
+ 57,900 
+ 99.8 
+ 6,000 
+ 100 
+ Max Continuous 
+ 438 
+ 100 
+ 850 
+ 56,400 
+ 97.2 
+ 6,000 
+ 100 
+ One Engine Inoperative Limits 
+ Max Torque Max MGT 
+ Max NG 
+ NP (Nominal) 
+ Rating 
+ (ft-lb) 
+ (%) 
+ (ºC) 
+ (RPM) 
+ (%) 
+ (RPM) (%) 
+ 2.5 Minute 
+ 591 
+ 135 
+ 970 
+ 59,750 
+ 103 
+ 6,000 
+ 100 
+ Continuous 
+ 544 
+ 124 
+ 900 
+ 57,900 
+ 99.8 
+ 6,000 
+ 100"
+Rotor Speed Limits,"Helicopters with PW206A engines 
+ Minimum NR 
+ Maximum NR 
+ Condition 
+ (RPM) 
+ (%) 
+ (RPM) 
+ (%) 
+ Power-On (more than 100 KIAS) 
+ 388 
+ 99 
+ 396 
+ 101 
+ Power-On (100 KIAS or less) * 
+ 388 
+ 99 
+ 412 
+ 105 
+ Power-Off 
+ 345 
+ 88 
+ 424 
+ 108 
+ * When airspeed is 47 KIAS or less, the nominal NR is 104% 
+ Helicopters with PW206E or PW207E engines 
+ Minimum NR 
+ Maximum NR 
+ Condition 
+ (RPM) 
+ (%) 
+ (RPM) 
+ (%) 
+ Power-On 
+ 388 
+ 99 
+ 396 
+ 101 
+ Power-Off 
+ 345 
+ 88 
+ 424 
+ 108"
+Transmission Torque Limits,"Max Torque at 100% NR 
+ PW206A 
+ PW206E 
+ PW207E 
+ Rating 
+ (ft-lb) (%) (ft-lb) (%) (ft-lb) (%) 
+ Takeoff (5 min) 
+ 876 
+ 100 
+ 964 
+ 110 
+ 964 
+ 110 
+ Max Continuous 
+ 876 
+ 100 
+ 876 
+ 100 
+ 876 
+ 100 
+ OEI, 2.5 Minute 
+ 569 
+ 130 
+ 569 
+ 130 
+ 591 
+ 135 
+ OEI Continuous 
+ 438 
+ 100 
+ 544 
+ 124 
+ 544 
+ 124"
+Airspeed Limits,"Power On and Power Off VNE 
+ Power On and Power Off VNE when lateral C.G. exceeds +2 in. 
+ 60 KIAS 
+ Power On VNE with cargo hook installed 
+ 90 KIAS with no load on cargo hook 
+ 100 KIAS with a load on cargo hook. See RFM for VNE above 5,500 ft HD"
+Center of Gravity CG Range,"Lateral C.G. Range 
+ Longitudinal C.G. Range 
+ When the lateral C.G. is in the Expanded C.G. Limits area, depicted by the 
+ dashed lines on Chart A, above, the longitudinal C.G. must not be aft of the 
+ dashed line in the longitudinal C.G. chart, Chart B, above."
+Empty Weight CG Range,None.
+Maximum Weight,"6,500 lb 
+ 6,770 lb for helicopters modified in accordance with MDHI Technical 
+ Bulletin No. TB900-044R1 or later FAA approved revision. (See Note 11)"
+Minimum Crew,"1 pilot, seated in the right crew seat."
+Number of Passenger Seats,"7 seats, located as follows: 
+ Location 
+ No. of Seats 
+ Arm 
+ (in) 
+ Crew Compartment 
+ 1 
+ 130.7 
+ Cabin, Forward 
+ 3 
+ 173.0 
+ Cabin, Aft 
+ 3 
+ 213.0 
+ See RFM for other approved cabin configurations."
+Maximum Compartment Weight,"Cargo deck 
+ 1,500 lb, not to exceed floor loading density of 115 lb per square foot. 
+ Baggage compartment 
+ 500 lb, not to exceed floor loading density of 115 lb per square foot."
+Maximum Operating Altitude,"Weights of 6,250 lb or less 
+ Helicopters with PW206A engines: 20,000 feet density altitude 
+ Helicopters with PW206E or PW207E engines and using – 
+ Primary fuels: 
+ 20,000 feet density altitude, or 
+ Secondary fuels: 10,000 feet density altitude 
+ Weights from 6,251 lb. to 6,500 lb 
+ 14,000 feet density altitude 
+ Weights from 6501 lb to 6,770 lb 
+ 3,000 feet density altitude"
+Manufacturer Serial Numbers,"S/N 900-00008, 900-00010, and subsequent. 
+ S/N 900-00052 and subsequent are produced as enhanced versions. See Note 5."
+Certification Basis,"14 CFR part 27 as amended by Amendment 27-1 through Amendment 27-26. 
+ 14 CFR part 36 as amended by Amendment 36-1 through Amendment 36-20, 
+ Appendix J for initial certification at a maximum weight of 6,000 lb with P&W 
+ 206A engines. 
+ 14 CFR part 36 as amended by Amendment 36-1 through Amendment 36-21, 
+ Appendix H (See Exemption No. 6505.) for certification at: 
+ A maximum weight of 6,500 lb with P&W 206A engines, and 
+ Maximum weights of 6,250 lb and 6,500 lb with P&W 207E engines. 
+ The FAA determined that the noise characteristics of the MD900 at a maximum 
+ weight of 6,250 lb with P&W 206E engines were equivalent to the 
+ characteristics approved in the initial certification. 
+ The FAA determined that the noise characteristics of the MD900 at a maximum 
+ weight of 6,500 lb with P&W 206E engines were equivalent to the 
+ characteristics approved for the MD900 at a maximum weight of 6,500 lb with 
+ P&W 206A engines. 
+ The FAA determined that the noise characteristics of the MD900 incorporating 
+ the thruster extension kit with P&W 206A, 206E, or 207E engines were 
+ equivalent to the previously approved noise characteristics. 
+ 14 CFR part 36 as amended by Amendment 36-1 through Amendment 36-25, 
+ Appendix J for certification at a maximum weight of 6,770 lb with P&W 207E 
+ engines. 
+ MDHI requested certification of the MD900 (902 configuration) to the proposed 
+ Category A requirements for part 27 rotorcraft in Docket No. 28008; Notice No. 
+ 94-36, “Rotorcraft Regulatory Changes Based on European Joint Airworthiness 
+ Requirements Proposals,” The FAA concurred with MDHI’s request and 
+ subsequently certificated the MD900 for Category A operations. The Category 
+ A requirements in NPRM 94-36, with minor changes, were incorporated into 
+ part 27 as Appendix C – Criteria for Category A by Amendment 27-33. 
+ Special Condition 
+ Docket No. 91-ASW-2; Special Condition 29-ASW-2, “McDonnell Douglas 
+ Model MD-900 Helicopter, Critical Functioning Electrical/Electronic Systems.” 
+ Issued December 26, 1991. This special condition addresses protection for 
+ electrical/electronic systems from High Intensity Radiated Fields (HIRF). See 
+ http://rgl.faa.gov for the full text of this special condition. 
+ Equivalent Level of Safety (ELOS) Findings 
+ ELOS No. TD9369LA-R/F-2, “MD Helicopters, Incorporated (MDHI), 
+ Equivalent Level of Safety (ELOS) Finding to 14 CFR 27.143(c)(4) and 
+ 27.1587(a)(2)(ii).” This ELOS addresses low speed controllability and the 
+ associated presentation of information in the RFM. 
+ Equivalent Level of Safety (ELOS) finding for compliance to 29.1181(a) and 
+ 29.1191(a)(1) for the engine forward firewall. 
+ Exemptions 
+ Exemption No. 6505, “In the matter of the petition of McDonnell Douglas 
+ Helicopter Systems for an exemption from Section 27.1(a) of Title 14, Code of 
+ Federal Regulations,” issued on September 5, 1996. This exemption allowed 
+ McDonnell Douglas Helicopter Systems to increase the maximum gross weight 
+ of the MD900 from 6,000 lb to 7,000 lb. Title 14 CFR 27.1(a) was amended in 
+ 1999 to expand the maximum weight limit for normal category rotorcraft to 
+ 7,000 lb. 
+ Exemption No. 7360, “In the matter of the petition of MD Helicopters Inc. for 
+ an exemption from Section C36.105(c)(1) of Title 14, Code of Federal 
+ Regulations” issued on September 27, 2000. (The section cited in the exemption 
+ title is incorrect. The correct section, H36.105(c)(1), is discussed in the body of 
+ the exemption.) This exemption allowed an alternative level flyover airspeed of 
+ 90 percent of the never-exceed airspeed (0.9VNE) for use in the 14 CFR part 36 
+ noise certification of the MD900 at weights above 6,250 lb since at those 
+ weights MDHI defined the VNE as 100 KTAS, a speed less than the true VH. 
+ This exemption expired on July 2, 2004 when Appendix H was amended to 
+ include this criteria. 
+ Type Certificate 
+ Date of application: April 25, 1989 
+ Type Certificate No. H19NM, issued on December 2, 1994 
+ TC reissued on February 8, 1999 to replace certificate reported lost. 
+ TC reissued on February 18, 1999 to MD Helicopters, Inc. 
+ Kinds of Operation 
+ The MD900 (all versions) is eligible for the following operations when the 
+ appropriate equipment and instruments required by the airworthiness and 
+ operating regulations are installed, approved, and in an operable condition: 
+ • 
+ Day and night operation under visual flight rules (VFR) 
+ • 
+ Day and night operation under instrument flight rules (IFR), see 
+ requirements in Note 9."
+Datum,199.3 inches forward of the main rotor hub centerline.
+Leveling Means,"Plumb line from aft inside top of left cabin door frame, Fuselage Station 215.43."
+Control Surface Movements,"For rigging information refer to the MDHI Model MD900 Maintenance Manual, 
+ publication no. CSP-900RMM-2"
+Production Basis,"Production Certificate No. PC 410NM was issued to McDonnell Douglas 
+ Helicopter Company (MDHC), the original holder of TC H19NM. MDHC built 
+ helicopter serial numbers 900-00065 and prior under this PC. 
+ Production Certificate No. PC 714NM was issued to McDonnell Douglas 
+ Helicopter Company (MDHC) on February 19, 1999. MDHC, under license 
+ from MDHI, built helicopter serial numbers 900-00066 and 900-00067 under 
+ this PC. 
+ Production Certificate No. PC 715NM. This PC was issued to MDHI on 
+ November 5, 1999. Helicopters manufactured under this PC include serial 
+ numbers 900-00068 and subsequent."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the helicopter for 
+ certification. In addition, the following FAA Approved Rotorcraft Flight 
+ Manuals (RFM) or FAA Approved RFM Supplements are required: 
+ MD900 (Basic RFM, 6,500 LB) 
+ Helicopters with PW206A engines: RFM No. CSP-900RFM206A-1 
+ Helicopters with PW206E engines: RFM No. CSP-900RFM206E-1 
+ Helicopters with PW207E engines: RFM No. CSP-900RFM207E-1 
+ MD900 (902 Configuration) (Basic RFM, 6,500 LB ) 
+ Helicopters with PW206E engines: RFM No. CSP-902RFM206E-1 
+ Helicopters with PW207E engines: RFM No. CSP-902RFM207E-1 
+ MD900 with PW207E engines (RFM Supplements, 6,770 LB) 
+ 900 Configuration: CSP-900RFM207E-S-3 
+ 902 Configuration: CSP-902RFM207E-S-3"
+Note 1,"A current Basic Weight and Balance Record, and MD900 Required/Optional 
+ Equipment List must be provided for each aircraft at the time of original 
+ certification."
+Note 2,See FAA Approved Rotorcraft Flight Manual for required placards.
+Note 3,"The retirement times of certain parts and inspection requirements are listed in 
+ Airworthiness Limitations Section (ALS), Section 04-00-00, of the Model 
+ MD900 Maintenance Manual (CSP-900RMM-2). These values of retirement of 
+ service lives and inspection cannot be increased without FAA approval. See 
+ http://www.mdhelicopters.com/publications/pdf/pubs_index/900index.pdf to 
+ determine the current revision of level of CSP-900RMM-2."
+Note 4,"For initial type certification, MDHS elected to incorporate engine isolation 
+ features that comply with engine isolation requirements in §§ 27.79(b)(2), 
+ 27.141(b)(1) and 27.143(d)(1). Compliance was shown by applying the limited 
+ time period method presented in Advisory Circular AC 27-1. This method was 
+ presented in paragraph 780 of the AC revision in effect when the MD900 was 
+ initially certificated, but now resides in paragraph AC 27 MG 3 of the current 
+ revision. This method was applied to the multiengine Category A engine 
+ isolation requirements in part 29 as amended through Amendment 29-29."
+Note 5,"On February 11, 1998, the FAA approved an enhanced version of the MD900 
+ for Category A operations. The enhanced version, designated MD902 by 
+ MDHI, is referred to by the FAA as the MD900 (902 Configuration). The 
+ MD900 (902 Configuration) incorporated a number of changes, including 
+ additional engine isolation features, changes to the Integrated Instrument 
+ Display System (IIDS), and a separate RFM. These changes allowed the 
+ MD900 (902 Configuration) to comply fully with Category A certification 
+ requirements."
+Note 6,"The MD900 rotorcraft employs electronic engine controls, commonly referred to 
+ as Full Authority Digital Engine Controls (FADEC). Engines with FADEC are 
+ recognized to be more susceptible to Electromagnetic Interference (EMI) than 
+ engines with manual (non-electronic) controls. For this reason, modifications 
+ that add or change electrical systems that have the potential for EMI must be 
+ qualified to an FAA acceptable standard. For guidance refer to section MG-4 of 
+ Advisory Circular AC 27-1B Change 2, or later revision. See MDHI Service 
+ Bulletin SB900-067R1 “Electromagnetic Compatibility Test” or latest approved 
+ revision."
+Note 7,"Any changes to the type design of this helicopter by means of an amended type 
+ certificate (TC), supplemental type certificate (STC), or amended STC, 
+ requiring instructions for continued airworthiness (ICA) must be submitted 
+ through the project aircraft certification office (ACO) for review and acceptance 
+ by the Fort Worth -Aircraft Evaluation Group (FTW-AEG) Flight Standards 
+ District Office (FSDO) prior to the aircraft delivery, or upon issuance of the first 
+ standard airworthiness certificate for the affected aircraft, whichever occurs later 
+ as prescribed by Title 14 CFR 21.50. Type design changes (major repairs or 
+ alterations) by means of a FAA Form 337 (field approval) that require ICA’s 
+ must have those ICA’s reviewed by the field approving FSDO."
+Note 8,"MD900 serial numbers 900-00008 through 900-00051 are eligible for 
+ conversion to the enhanced version (902 configuration). Each eligible 
+ helicopter, after conversion to the enhanced version in accordance with MDHI 
+ Report No. 900R000378 Rev - or MDHI Technical Bulletin TB900-28, fully 
+ complies with Category A certification requirements (See Certification Basis 
+ and Note 5). The conversion includes replacement of the original Rotorcraft 
+ Flight Manual with the Rotorcraft Flight Manual for the enhanced version, 
+ MDHI Publication No. CSP-902RFM207E-1."
+Note 9,"Model MD900 helicopters, S/N 900-00010 and subsequent, are eligible for day 
+ and night IFR operations, when modified in accordance with MD Helicopters 
+ Inc. STC SR00436WI-D. The STC addresses Single Pilot, Dual Pilot, and 
+ Category A operations."
+Note 10,"MD900s S/N 900-00010 through 900-00051 with PW 206A engines may 
+ operate with increased One Engine Inoperative (OEI) torque limits with the 
+ incorporation of Technical Bulletin TB900-010R1 or later approved revision."
+Note 11,"MD900s certificated for a maximum weight of 6,770 lbs. are limited to those 
+ aircraft that have been modified in accordance with MDHI Technical Bulletin 
+ TB900-044R1 or later FAA approved revision and identified by serial number in 
+ FAA Approved RFM Supplement specified by the technical bulletin."

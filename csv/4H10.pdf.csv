@@ -1,0 +1,293 @@
+Keyterm,Info
+"4H10 
+ REV 7 
+ SIAM HILLER 
+ UH-12D 
+ (ARMY H-23D) 
+ October 28, 2014",
+Type Certificate Holder,"Siam Hiller Holdings, Inc. 
+ 925 M. Street 
+ Firebaugh, California 93622-2234"
+Type Certification Ownership Record,"Hiller Aircraft Corporation transferred to 
+ Fairchild Industries, Inc. on 10/2/1959 
+ Fairchild Industries, Inc. transferred to 
+ Heli-Parts, Inc. on 12/28/1972 
+ Heli-Parts, Inc. transferred to 
+ Hiller Aviation on 12/28/1972 
+ Hiller Aviation transferred to 
+ Rogerson Aircraft Corporation on 6/26/1984 
+ Rogerson Aircraft Corporation transferred to 
+ Hiller Helicopters, a wholly owned subsidiary of 
+ Rogerson Aircraft Corporation on 6/29/1984 
+ Hiller Helicopters, a wholly owned subsidiary of 
+ Rogerson Aircraft Corporation transferred to 
+ Rogerson Hiller Corporation on 11/14/1985 
+ Rogerson Hiller Corporation transferred to 
+ Siam Hiller Holdings, Inc. on 7/14/1994"
+"1. MODEL UH-12D (Army H-23D), UTILITY CATEGORY, APPROVED DECEMBER 23, 1957",
+Engine,Lycoming VO-435-A1C
+Fuel,80/87 Min. grade aviation gasoline
+Engine limits,Maximum RPM 3200 (250 HP)
+for all operations,"Power Off (Rotor Tach) 
+ Power on (Engine Tach.)"
+Rotor limits and,"Maximum 395 
+ Maximum 3200 RPM"
+engine operating,"Minimum 314 
+ Minimum (S.L. to 6000 ft.) 2900 RPM"
+speeds,"(Above 6000 ft., increase minimum RPM 
+ by 33 RPM for each additional 1000 ft. of 
+ altitude)."
+Airspeed limits,"Configuration 
+ VNE (Never Exceed) IAS 
+ Skid Gear 
+ 83 Knots 
+ Skid and Litters 
+ 66 Knots 
+ Note: The above airspeeds apply from S.L. to 2000 ft. Decrease Vne 2.0 knots 
+ per 1000 ft. of altitude above 2000 ft. For limits with other accessories, see FAA 
+ approved Rotorcraft Flight Manual."
+Altitude limits,Avoid operation areas as shown in approved Flight Manual.
+CG range,"Configuration 
+ Skid Gear 
+ (79.5) to (84.8) 
+ Skid & Litters 
+ (79.5) to (84.8) 
+ For range with other accessories see FAA Approved Rotorcraft Flight Manual"
+Empty weight CG range,None
+Datum,107.25 in. fwd. of tail boom-fuselage upper mounting face.
+Leveling means,Top face of flanges under seat
+Maximum weight,2750 LBS.
+Number of seats,3 (53)
+Maximum Baggage,None
+Fuel capacity,Main tank 46 gals. (82.9) (45.8 usable)
+Oil capacity,2.3 gals (94)
+Rotor blade movements,"(Measured with respect to the mast) (NOTE: When the mast is vertical, the 
+ helicopter is 1° nose up)"
+Collective pitch,"Low setting +1.0°, Total travel 10.5° (Measured at Retention Plate) (Low 
+ setting is determined as the lowest which will preclude overspeeding in 
+ autorotation)"
+Teetering,"Control rotor ±12°, Main rotor ± 9°"
+Lateral,±7.7° to ±8.3°
+Longitudinal,"Fwd. 8.0° to 8.5°, Aft. 9.0° to 9.2°"
+Neutral,+9° incidence (Rotor hub and wobble plate perpendicular to mast)
+Flapping,+17° to -17°
+Collective pitch,+15° to -3°
+Horizontal stabilizer setting,"Configuration 
+ (with Helicopter level) 
+ Skid Gear 
+ 0° 
+ Skid and Litters 
+ 0° 
+ (For setting with other accessories installed, see FAA approved Rotorcraft Flight 
+ Manual)"
+Mfr’s Serial Nos eligible,"UH-12D: None. H-23D: 938 through 1034 and 1046 through 1438 except 942 
+ and 954. In order for individual Model H-23D helicopters procured under 
+ military cognizance and not having been issued a Form ACA-970, “Conformity 
+ Certificate - Military Aircraft,” to be eligible for airworthiness certification as a 
+ Model UH-12D, it must be determined in each case that the helicopter conforms 
+ to the type design. The manufacturer’s serial number should be used in each 
+ case."
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 6, the 
+ following items of equipment must be installed: 1, 2, 3, 4, 6, 101, 102, 103, 104, 
+ 105, 106, 107, 108, 109, 110, 111, 205, 206, 301, 302, 303, 304, 309, 405, 602."
+Specifications Pertinent to All Models,
+Certification basis,"Type Certificate No. 4H10 (CAR 6 as amended August 25, 1955)"
+Production basis,"Production Certificate No. 423WE, Spare Parts Only"
+1,"2 main rotor blades 
+ (a) Parsons Dwg. 2253-1101-02, 
+ (b) 2253-1101-03, 
+ (c) 2253-1101-04 
+ 158 lbs. (84)"
+2,"2 control blades 
+ 33lbs. 
+ (84) 
+ (a) Hiller Dwg. 36123"
+3,"2 tail rotor blades 
+ (a) Hiller Dwg. 55073 
+ 6 lbs. 
+ (328)"
+4,"Collective pitch ballast system 
+ (a) Hiller Dwg. 30026 
+ 5 lbs. 
+ (84)"
+5,"Dual control kit installation 
+ (a) Hiller Dwg. 30020 
+ 13 lbs. 
+ (50)"
+6,"2 Vibration absorbers 
+ (a) Hiller Dwg. 33023-3 
+ 3 lbs. 
+ (73)"
+7,"2 Control rotor spar fairings 
+ (a) Hiller Dwg. 36003 
+ 2 lbs. 
+ (84)"
+8,"Rotor brake installation (Item 405 (b) required) 
+ (a) Hiller Dwg. 22000 
+ 8 lbs. 
+ (74) 
+ ENGINE AND ENGINE ACCESSORIES - FUEL AND OIL SYSTEMS"
+101,"Oil cooler 
+ (a) Harrison No. 8526134 
+ 5 lbs. 
+ (76)"
+102,"Engine air intake system 
+ (a) Hiller Dwg. 76259 and 76190 
+ 3 lbs. 
+ (102)"
+103,"Fuel pump 
+ (a) Lear Romec RD7430-5A, RG15980E 
+ 1 lb. 
+ (85)"
+104,"Auxiliary fuel pump 
+ (a) Lear Romec RG15150-B, or H 
+ 3 lbs. 
+ (78)"
+105,"Fan, Hiller Dwg. 74150 
+ 3 lbs. 
+ (78)"
+106,"Carburetor zone support bracket, Hiller Dwg. 75060 
+ 1 lb. 
+ (97)"
+107,"Starter 
+ (a) AN4116R1A or equivalent 
+ 20 lbs. 
+ (84)"
+108,"Unusable fuel (See Note 1 for definition) 
+ 1 lb. 
+ (70)"
+109,"Trapped fuel (when drained in normal ground attitude from tank) 
+ 6 lbs. 
+ (84)"
+110,"Trapped oil (when drained in normal ground attitude from tank) 
+ 4 lbs. 
+ (94)"
+111,"2 Tachometer generators 
+ 3 lbs. 
+ (78)"
+205,"Skid type gear, less scuff plates, handling wheels and axles 
+ (a) Hiller Dwg. 32036 
+ 84 lbs. 
+ (73)"
+206,"Tail skid, Hiller Dwg. 42202-7 
+ 1 lb. 
+ (303)"
+207,"Skid gear scuff plates installation 
+ (a) Hiller Dwg. 43015 and 43016 
+ 4 lbs. 
+ (44)"
+208,"Float gear installation (Item 405 (b) required) 
+ (a) Hiller Dwg. 44012 
+ 154 lbs. 
+ (81)"
+301,"Generator 
+ (a) Eclipse Pioneer 30B24-1-A or equivalent 
+ 14 lbs. 
+ (85)"
+302,"Battery 
+ (a) Standard (AN-3151-2) 
+ 52 lbs. 
+ (75)"
+303,"Voltage regulator, G.E. CR2795E-100AL 
+ 5 lbs. 
+ (91)"
+304,"Generator cutout, Hartman No. A-718AP 
+ 3 lbs. 
+ (82)"
+306,"Landing and navigation light kit 
+ (a) Hiller Dwg. 83217 
+ 2 lbs. 
+ (45)"
+309,"Standard battery rack installation, Hiller Dwg. 61417, less battery 
+ 1 lb. 
+ (75)"
+310,"Alternator 
+ (a) Jasco 7555-1-72 per Hiller Dwg. 83230 (alternate for Items 301(a), 303 and 
+ 13 lbs. 
+ (85) 
+ 304)"
+405,"(a) Hiller Helicopter Model UH-12D FAA Approved Flight Manual dated December 23, 1957. 
+ (b) Hiller Helicopter Model UH-12D FAA Approved Flight Manual Revision dated October 2, 1959 or 
+ subsequent FAA Approved Revisions. (Required with Items 8, 208, 605 and 608). 
+ (c) Hiller Helicopter Model UH-12D FAA Approved Flight Manual Revision dated March 25, 1960 or 
+ subsequent FAA Approved Revisions. (Required with Items 609, 610 and 611)."
+601,"Cabin heater installation 
+ (a) Hiller Dwg. 88044 
+ 1 lb. 
+ (63)"
+602,"Ballast bar 
+ (See loading instructions in Flight Manual regarding Ballast location and necessity for its use) 
+ (a) Hiller Dwg. 62244 
+ 9 lbs"
+605,"Litter installation (2) Hiller Dwg. 96190 with skid gear (Item 606 must also be 
+ installed - installation of litters must be in pairs only on skid gear - right hand litter 
+ may be removed on float gear - right hand litter may be removed on float gear 
+ installation - Heater Installation, Hiller Dwg. 88018 is optional - Item 405 (b) 
+ required) 
+ 60 lbs. 
+ (75)"
+606,"Litter shoulder harness (2), Hiller Dwg. 96191 
+ 6 lbs. 
+ (68)"
+607,"Shoulder harness installation Hiller Dwg. 85053 or 85067. (If this item is removed, 
+ 14 lbs. 
+ (63) 
+ the seat back support cables are to be retained)"
+608,"Cargo rack installation with skid gear & float gear (Item 405 (b) required) 
+ (a) Hiller Dwg. 98003 
+ 34 lbs. 
+ (66)"
+609,"Rescue hoist installation - operation involving use of rescue hoist permitted in restricted category only 
+ (Item 405 (c) required) 
+ (a) Hiller Dwg. 96140 
+ 66 lbs. 
+ (72)"
+610,"Cargo hook installation - operation with load on cargo hook permitted in restricted category only (Item 405 
+ (c) required) 
+ (a) Hiller Dwg. 91012 
+ 9 lbs. 
+ (73)"
+611,"Auxiliary fuel tank installation (Item 405 (c) required) 
+ (a) Hiller Dwg. 72025 
+ 48 lbs. 
+ (85)"
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight empty, 
+ and loading instructions must be in each helicopter at the time of original certification and at all 
+ times thereafter (except in the case of air carrier operators having an approved weight control 
+ system). Ballast, when necessary, must be carried in accordance with Loading Instructions in the 
+ Approved Flight Manual. 
+ Fuel and oil capacities as indicated are total tank capacities over and above “Trapped Fuel and Oil.” 
+ The fuel tank capacity includes “Unusable” fuel of 0.2 gallons, which cannot be used safely in all 
+ flight attitudes, and which must be included in the empty weight."
+NOTE 2,"The following placards must be installed so as to be in full view of the pilot : 
+ (a) Below airspeed indicator: “Decrease Vne 2.0 knots per 1000 feet of altitude above 2000 feet.” 
+ (b) Below tachometer: “Above 6000 ft, see operating limitations.” 
+ (c) On cabin heater outlet: “Use cabin heat in cruise and climb only.” 
+ (d) On pilot’s checklist: 
+ (1) If ash tray is not installed: “No smoking.” 
+ (2) “This helicopter must be operated in compliance with the operating limitations in the FAA 
+ approved Rotorcraft Flight Manual.” 
+ (3) “Instrument flight prohibited” 
+ (4) “No acrobatic maneuvers approved.” 
+ (5) “Unsymmetrical loading must be to the left.” 
+ (6) “Avoid protracted rearward flight.” 
+ (7) “See Loading Instructions in Flight Manual.” 
+ (e) On removable ballast weight: “See Loading Instructions in Flight Manual for proper usage."
+NOTE 3,"Information essential to the proper maintenance of the rotorcraft (helicopter) including retirement 
+ times of critical parts is included in the manufacturer’s maintenance instructions provided with each 
+ rotorcraft. These values of retirement or service life cannot be increased without FAA Engineering 
+ approval."
+NOTE 4,"These helicopters must be serviced and maintained in conformance with instructions given by Hiller 
+ Helicopters in the pertinent model inspection guide, repair handbook, and service and overhaul 
+ manuals."
+NOTE 5,"Certain part numbers used on this model helicopter may be used on other model helicopters in which 
+ their use is life limited. These part numbers are listed in TCDS 4H11, H1WE, 4H10, 6H1, and 6H2 
+ and FAA approved Hiller Instructions for Continued Airworthiness. If a full and complete service 
+ history from manufacture forward is not available that demonstrates these parts were used only on a 
+ model helicopter for which the part is not life limited then those parts shall be life limited to the 
+ lowest number of hours given in those TCDS’s or ICAs. If a full and complete service history from 
+ the manufacturer forward is available, and any operating time has occurred in a life limited model 
+ helicopter, that part shall be considered life limited at the lowest life limit listed even if transferred 
+ and used on a helicopter model for which it is not life limited. Only those parts for which a full and 
+ complete service history from manufacture forward is available and which shows only operating time 
+ on a helicopter model for which it is not life limited are considered not life limited."

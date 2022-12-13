@@ -1,0 +1,118 @@
+Keyterm,Info
+"A-792 
+ ALL AMERICAN 
+ 10A 
+ October 11, 1954",
+Manufacturer,"All American Aircraft, Inc. 
+ 1311 West Pacific Coat Highway 
+ Harbor City, California"
+"I - Model 10A, 2 PCLM (Normal Category), Approved June 14, 1954",
+Engine,Continental C-85-12FJ
+Fuel,80 min. grade aviation gasoline
+Engine limits,"For all operations, 2575 rpm (85 hp)"
+Airspeed limits,"Maneuvering 
+ 104 mph ( 90 knots) True Ind. 
+ Maximum structural cruising 
+ 130 mph (113 knots) True Ind. 
+ Never exceed 
+ 164 mph (143 knots) True Ind."
+CG range,(+93.7) to (+97.5)
+Empty weight CG range,"(+93.1) to (+96.2). When empty weight C.G. falls within this range, 
+ computation of critical fore and aft positions is unnecessary. 
+ See NOTE 1 for further C.G. information."
+Datum,"Fuselage Sta. 0, 100 in. fwd. of jig point (No. 40 hole on lower center 
+ line of airplane at fwd. face of front spar). Ref. All American Dwg. 100010."
+Leveling means,"Leveling lugs furnished with airplane to replace the two screws on 
+ left side of fuselage below canopy ledge on fuselage frames at 
+ (+100) and (+121.6). Ref. All American Dwg. 100010."
+Maximum weight,1575 lbs.
+No seats,2. (+96)
+Maximum baggage,50 lbs. (+114)
+Fuel capacity,20 gals. (One tank) (+111) (See NOTE 1 for unusable fuel)
+Oil capacity,4.5 qts. (+44)
+Control surface movements,"Elevator 
+ (Primary control) 
+ Up 
+ 28 degrees 
+ Down 
+ 11 degrees 
+ (Bungee trim control) 
+ Up 
+ 12 degrees 
+ Down 
+ 8 degrees 
+ Ailerons 
+ Up 
+ 15 degrees 
+ Down 
+ 15 degrees 
+ Rudder 
+ Right 
+ 25 degrees 
+ Left 
+ 25 degrees"
+Serial Nos eligible,3 and up
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 3, 
+ the following items of equipment must be installed: 
+ 1, 101, 102, 103, 201(a), 202, 206(a), 207, 210, 301, 302 and 401."
+Specifications Pertinent to All Models,
+Certification basis,Type Certificate No. 792 (CAR 3).
+Production basis,"None. Prior to original certification a CAA agent must perform a 
+ detailed inspection for workmanship, materials, and conformity 
+ with the approved technical data and a check of the flight characteristics."
+Export eligibility,"Eligible for export to all countries subject to the provisions of 
+ MOP 2-4, except as follows: 
+ (a) Canada - Landplane - eligible 
+ Skiplane - not eligible"
+Page No,"1 
+ 2"
+Rev No,"- 
+ -"
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item of equipment indicates net 
+ weight change when that item is installed.Approval for the installation of all items of 
+ equipment listed herein has been obtained by the aircraft manufacturer except those 
+ items preceded by an asterisk (*). The asterisk denotes that approval has been obtained 
+ by someone other than the aircraft manufacturer. An item marked with an asterisk may 
+ not have been manufactured under a CAA monitored or approved control system, and 
+ therefore attention should be paid to workmanship and conformity with pertinent data 
+ called for in this specification."
+Propeller  Sensenich M76AK2,"24 lbs. (+24) 
+ Static rpm with maximum permissible throttle setting: 
+ Not over 2350, not under 2250."
+No additional tolerance permitted,"Diameter: Not over 74 in., not under 72 .5 in. 
+ Engine and Engine Accessories - Fuel and Oil Systems"
+Generator DelcoRemy,10 lbs. (+50.0)
+Voltage regulator DelcoRemy,1 lb. (+54.5)
+103,5 lbs. (+39.5)
+Starter DelcoRemy,16 lbs. (+50.0)
+201,"Two main wheel-brake assemblies, 6.00-6, Type III"
+a Firestone Model CFA224,"14 lbs. (+107.0) 
+ Wheel Assembly No. DFA178 
+ Brake Assembly No. CFA271"
+202,"Two main wheel 4-ply rating tires, 6.00-6, Type III, with regular tubes 
+ 19 lbs. (+107.0)"
+206,"One nose wheel, 5.00-4, Type III"
+a Firestone Model 5C2M1,3 lbs. (+47.0)
+207,"One nose wheel 6-ply rating tire, 5.00-4, Type III, with regular tube 
+ 6 lbs. (+47.0)"
+"210. 
+ Shimmy damper, Houdaille-Hershey Model O1A-18045 shock",
+Battery Willard SYW76 12V,16 lbs. (+54.0)
+302,"Battery vent installation, All American Dwg. 108020, E.O. 2 
+ 1 lb. (+54.0)"
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight empty 
+ must be in each aircraft at the time of original certification and at all times thereafter. Satisfactory loading 
+ instructions, placards, or corrective ballast must be provided when necessary. (All American Aircraft 
+ Dwg. 103221 E.O. #2 provides an approved method for installing ballast weights up to 10 lbs. on the fwd. 
+ face of the aft bulkhead at Sta. 246.25. The C.G. of ballast weight should be used.) 
+ The certificated weight empty and corresponding C.G. location must include 0.4 gal. unusable fuel."
+NOTE 2,"The following placards must be displayed on the instrument panel in full view of the pilot: 
+ (a) ""This airplane must be operated in compliance with the limitations in the CAA 
+ Approved Airplane Flight Manual."" 
+ (b) ""No acrobatic maneuvers, including spins, approved."" 
+ (c) ""No smoking."" 
+ (d) ""Canopy must be closed during flight."" 
+ (e) ""Solo from left seat only."" 
+ (f) Placard on Master Switch to read: 
+ PULL ""Pos. 1 - Battery"" 
+ ""Pos. 2 - Bat. - Gen."""

@@ -1,0 +1,283 @@
+Keyterm,Info
+"3A11 
+ Revision 7 
+ Textron Aviation Inc. 
+ 321 
+ (Navy OE-2) 
+ July 29, 2015",
+Type Certificate Holder,"Textron Aviation Inc. 
+ One Cessna Boulevard 
+ Wichita, Kansas 67215"
+Type Certificate Holder Record,"Cessna Aircraft Company transferred to 
+ Textron Aviation Inc. on July 29, 2015"
+"I. 
+ Model 321 (NAVY OE-2), 2 PCLM (Utility Category), Approved May 13, 1955",
+Engine,Continental O-470-2
+Fuel,"100/130 Min. grade aviation gasoline 
+ (See NOTE 4 for alcohol-based fuels warning.)"
+Engine Limits,"HP 
+ RPM 
+ MP IN.HG. 
+ ALT. 
+ Takeoff (one minute) 
+ 265 
+ 2600 
+ 36.0 
+ S.L. 
+ Takeoff (one minute) 
+ 265 
+ 2600 
+ 32.4 
+ 8,500' 
+ Maximum continuous 
+ 250 
+ 2600 
+ 34.0 
+ S.L. 
+ Maximum continuous 
+ 250 
+ 2600 
+ 30.5 
+ 10,000' 
+ (Straight line manifold pressure variation with altitude between 
+ points shown)."
+Airspeed Limits,"Maneuvering 
+ 134 mph (116 knots) 
+ Maximum structural cruising 
+ 155 mph (135 knots) 
+ Never exceed 
+ 200 mph (174 knots) 
+ Flaps extended 
+ 105 mph ( 91 knots)"
+CG Range,"(+33.6) to (+42.3) at 2150 lbs. 
+ (+36.0) to (+42.3) at 2650 lbs. 
+ Straight line variation between points shown."
+1,"2 
+ 3 
+ 4 
+ 5"
+7,"5 
+ 6 
+ 6 
+ 7"
+I,"2700 
+ 2600 
+ 2500 
+ 2400 
+ LBS. 
+ REAR 
+ 2300 
+ LIMIT 
+ FRONT 
+ 2200 
+ LIMIT 
+ 2100 
+ 2000 
+ 33 
+ 34 
+ 35 
+ 36 
+ 37 
+ 38 
+ 39 
+ 40 
+ 41 
+ 42 
+ 43 
+ INCHES"
+Empty Weight CG Range,None
+Maximum Weight,2650 lbs.
+No Seats,"2 (1 at +36, 1 at +76)"
+Maximum Baggage,100 lbs. (+100)
+Fuel Capacity,"52 gal. total, 44 gal. usable (two 26 gal. tanks in wings) (+45) 
+ (See NOTE 1 for weight of unusable fuel.)"
+Oil Capacity,4 gal. (-15) (Unusable - 1.5 gal.) (See NOTE 1 for data on undrainable oil)
+Control Surface,"Wing flaps - 
+ Maximum Takeoff 
+ - 0 to 20°"
+Movements,"Landing 
+ - 40° 
+ Ailerons 
+ Up 20° 
+ Down 14° 
+ Stabilizer 
+ Up 1.0° 
+ Down 9.0° 
+ Elevators 
+ Up 28° 
+ Down 22° 
+ With Stabilizer Full Down 
+ Rudder 
+ Right 22° 
+ Left 22°"
+Serial Nos Eligible,"611 and 37000 through 37999. Prior to civil certification, OE-2 airplanes 
+ must be modified in accordance with Cessna Dwg. No. 1000003 which may 
+ be obtained from Cessna Aircraft Company, Wichita, Kansas. An appropriate 
+ representative of the Administrator, upon determination of compliance with 
+ the above-mentioned modification drawing, may issue an airworthiness 
+ certificate."
+Required Equipment,"In addition to the pertinent required basic equipment specified in CAR 3, the 
+ following items of equipment must be installed: 
+ Items 1(a), (b), and (c), 101(a) and (b), 102, 103, 106, 107, 108, 201(a), 
+ 202(a), 204(a), 301, 302, 402, 601, 602 and 603."
+Specifications Pertinent to all Models,
+Datum,Front face of firewall
+Leveling means,Horizontal control stick torque tube
+Type Certificate No 3A11,"(CAR 3 dated November 1, 1949, and Amendments through 3-10)"
+Production Basis,"(a) Production Certificate No. 4 for Serial Nos. 611, 37,000 through 37,024. 
+ (b) All other and/or subsequent serial Nos.: None. Prior to original certification of each aircraft a FAA representative must 
+ perform a detailed inspection for workmanship, materials, and conformity with the approved technical data, and a check of flight"
+Export eligibility,Eligible for export to all countries subject to the provisions of MOP 2-4.
+Equipment,A plus (+) or minus (-) sign preceding the weight of an item of equipment indicates net weight change when that item is installed.
+McCauley constant speed propeller,"(a) McCauley hub 2A36C1, blade 90M-0 
+ 64 lbs. (-40) 
+ Diameter: Not over 90 in., not under 88 in. 
+ Pitch settings at 36 in. sta.: Low 9.5°, high 23° 
+ (b) Propeller spinner (Cessna Dwg. 1052004) 
+ 4 lbs. (-40)"
+c Propeller governor Woodward 210105,"4 lbs. (-34.5) 
+ Engine and Engine Accessories - Fuel and Oil System"
+Fuel pumps,"(a) Engine-driven, Lear-Romec (RG-9080) Type G-18 
+ 1 lb. (-5)"
+b Electric Adel 29924,4 lbs. (+15)
+Oil cooler Harrison AP13AU1001,6 lbs. (-34)
+103,"Carburetor air filter, Air Maze P/N 120310 
+ 1 lb. (-28)"
+104,"Starter, Eclipse Type J-1 (AN 4116R1) 
+ 16 lbs. (-6.5)"
+105,"Vacuum pump, Pesco 3P-194-F, Type B-11 
+ 5 lbs. (-5.5)"
+106,"Flexible fuel and oil hose assemblies MS28741 (Mil-H-5511) 
+ 2 lbs. (-5)"
+107,"Carburetor air heater (Cessna Dwg. 12321-79) 
+ 3 lbs. (-20)"
+108,"(filter wt. included in engine wt.) 
+ Installation per Cessna Dwg/ No. 1050000 
+ 1 lb. (-2)"
+201,"2 Main wheel-brake assemblies, 6.00-6, Type III"
+a Goodyear Model LF6HBD,"13 lbs. (+17.5) 
+ Wheel assembly No. 511960-S 
+ Brake assembly No. 9530839"
+202,"(a) 2 Main wheel 4-ply-rating tires, 7.00-6, Type III 
+ 22 lbs. (+17.5) 
+ (with regular tubes)"
+204,"Tail wheel assembly - 8"" pneumatic"
+"(a) Scott Model 3400, steerable, swiveling (Goodrich B-3 - 166AP",
+Generator 24V50 amp Eclipse 13453A,14 lbs. (-6.5)
+302,"Battery 24 Volt, 11 Amp. Hr. (AN 3154-1A) 
+ 34 lbs. (+4.5)"
+303,"Two landing lights, G. E. 4591 
+ 2 lbs. (+25)"
+401,"Cabin heater valve assembly (Cessna Dwg. 1013035) 
+ 1 lb. (-2)"
+402,"Pilot Check List, Cessna Dwg. 1000007"
+601,"Safe Flight stall warning indicator (Cessna Dwg. 12305-129) 
+ 1 lb. (+21)"
+602,"Two rudder return springs (Cessna Dwg. 1033010) 
+ 2 lbs. (+55)"
+603,"Elevator down spring (Cessna Dwg. 1060281) 
+ 1 lb. (+179)"
+604,"Installation shoulder harness (Cessna Dwgs. 1010008 and 0610007) 
+ Use actual weight"
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight empty, 
+ and loading instructions, when necessary, must be in each aircraft at the time of original certification 
+ and at all times thereafter (except in the case of air carrier operators having an approved weight 
+ control system). 
+ The certificated weight empty and corresponding center of gravity location must include unusable 
+ fuel of 44.0 lbs. at (+45), (included in total fuel capacity), and undrainable oil of 1.5 lbs. at (-15), 
+ (not included in oil capacity)."
+NOTE 2,"The following placards must be displayed in the locations noted: 
+ A. 
+ In front of and in clear view of the pilot: 
+ ""(1) This airplane must be operated as a utility category airplane in compliance 
+ with the operating limitations as stated in the form of placards, markings and 
+ manuals (pilot's check list)."" 
+ ""(2) No acrobatic maneuvers including spins approved. See pilot's check list for 
+ approved maneuvers."" 
+ ""(3)Maximum flap extended speed 91 knots (105 mph)."" 
+ ""(4) 
+ POWER CHART - 2600 RPM 
+ 100/130 Grade Fuel 
+ Take-off Power Limit One Minute 
+ Continental O-470-2 Engine - McCauley 2A36C1/90M-0 Propeller 
+ Altitude 
+ S.L. 
+ 2,000 
+ 4,000 
+ 6,000 
+ 8,000 
+ 10,000 
+ M.C. Power 
+ 34.0 
+ 33.3 
+ 32.5 
+ 31.9 
+ 31.3 
+ F.T. 
+ T.O. Power 
+ 36.0 
+ 34.5 
+ 33.6 
+ 33.0 
+ 32.5 
+ - - - -"" 
+ ""(5)Solo front seat only."" 
+ B. 
+ On Left and Right rear windows: 
+ ""Do Not Open Window Above 126 knots (145 mph)"" 
+ C. 
+ On Left and Right front windows: 
+ ""Do Not Open Window Above 104 Knots (120 mph)"" 
+ D. 
+ In baggage compartment: ""Maximum Baggage 100 Pounds"" 
+ E. 
+ Adjacent to fuel selector valve: 
+ ""Usable Fuel Left Tank - 22.0 gallons"" 
+ ""Usable Fuel Right Tank - 22.0 gallons"" 
+ ""With full tanks take-off on left tank"""
+NOTE 3,"The following information shall be provided in the form of placards, markings, or manuals 
+ (pilot's check list): 
+ A. 
+ Maximum Weight - 2,650 lbs. 
+ C.G. limits 
+ (+33.6) to (+42.3) at 2,150 lbs. 
+ (+36.0) to (+42.3) at 2,650 lbs. 
+ Straight line variation between points. 
+ Datum - Forward face of firewall. 
+ B. 
+ The following limited acrobatic maneuvers are approved: 
+ Maneuvers 
+ Safe Entry Speeds 
+ Stalls 
+ Slow Deceleration 
+ Steep Turns 
+ 116 knots (134 mph) 
+ Spins 
+ Intentional spins prohibited 
+ Lazy Eights 
+ 116 Knots (134 mph) 
+ Chandelle 
+ 116 Knots (134 mph) 
+ C. 
+ Maximum Take-Off Flap Setting 20°. 
+ D. 
+ Airspeed and Load Factor Limitations: 
+ Never Exceed Speed 
+ 173.5 Knots (200 mph) 
+ Maximum Structural Cruise Speed 
+ 134.6 Knots (155 mph) 
+ Maneuvering Speed 
+ 116 Knots (134 mph) 
+ Flap Extended Speed 
+ 91 Knots (105 mph) 
+ Maximum Load Factors 
+ 0° Flaps - +4.4 to -1.8 
+ Flaps Extended - +3.5 
+ E. 
+ Fuel in tanks when gauges register ""Empty"" cannot be used safely in flight. 
+ F. 
+ With full fuel tanks, take off and operate on left tank for 30 minutes. 
+ G. 
+ Red arc on fuel gauge indicates no take-off."
+NOTE 4,"WARNING: Use of alcohol-based fuels can cause serious performance degradation and fuel 
+ system component damage, and is therefore prohibited on Cessna airplanes."

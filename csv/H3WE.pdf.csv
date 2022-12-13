@@ -1,0 +1,2958 @@
+Keyterm,Info
+"H3WE 
+ Page 1",
+"H3WE 
+ Revision 28 
+ MDHI (HUGHES) 
+ 369 (Army YOH-6A) 
+ 369A (Army OH-6A) 
+ 369H, 369HM, 369HS, 369HE 
+ 369D, 369E, 369F, 369FF 
+ 500N, 600N 
+ Date: September 30, 2020",
+Type Certificate Holder,"MD Helicopters Inc. (MDHI) 
+ 4555 E. McDowell Road 
+ Mesa, Arizona 85215-9734 USA 
+ Phone: (480) 346-6300"
+Type Certificate Ownership Record,"McDonnell Douglas Helicopter Systems transferred ownership of TC H3WE to MD 
+ Helicopters Inc. on February 18, 1999."
+List of Effective Pages,"Page 
+ . No. 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ Rev. 
+ No. 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ Page 
+ . No. 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 32 
+ 33 
+ 34 
+ 35 
+ 36 
+ 37 
+ 38 
+ 39 
+ 40 
+ Rev. 
+ No. 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ 28 
+ Page 
+ No. 
+ 41 
+ Rev 
+ No. 
+ 28"
+I,"Model 369 (Army YOH-6A) (Normal Category Helicopter), Approved June 30, 1964 
+ See NOTE 4 regarding modifications required for conversion of Military Models."
+Engine,Rolls-Royce Corporation (formerly Allison Engine Company) 250-C10 (T63-A-5)
+Fuel,"MIL-DTL-5624, Grade JP-4, and JP-5 Aviation Fuels MIL-DTL-83133 Grade JP-8 
+ Aviation Fuel 
+ ASTM D-1655 Jet A, A-1 or Jet B ASTM D-6615 Jet B 
+ Chinese Specification GB6537-94 Grade RP-3 See “Rotorcraft Flight Manual” for 
+ alternate fuels. 
+ See “NOTE 4.e)” for FAA Approved Rotorcraft Flight Manual. 
+ See “NOTE 7” for Anti-Icing additive. 
+ See “Engine TCDS E4CE Note #9” for emergency use mixtures and limits. 
+ Note: Fuels containing Tri-cresyl-phosphate additives shall not be used."
+Engine Limits,"Ratings 
+ Takeoff (5 min) 
+ Max. Continuous 
+ Shaft Horsepower 
+ 250 
+ 212 
+ Torque 
+ 219 ft - lb (91%) 
+ 186 ft - lb (77%) 
+ Gas Producer rpm, N1 
+ 52,142 (102%) 
+ 52,142 (102%) 
+ Output Shaft rpm, N2 
+ 6,180 (103%) 
+ 6,180 (103%) 
+ Measured Gas Temp. 
+ 1,360°F (738°C) 
+ 1,280°F (693°C) 
+ Transient Limits 
+ Measured Gas Temp. (6 sec. limit) 
+ 1,550°F (843°C) 
+ Measured Gas Temp. During Start (6 sec. limit) 
+ 1,700°F (927°C) 
+ Gas Producer rpm, N1 (15 Sec. limit) 
+ 52,654 (103%) 
+ Output Shaft rpm, N2 (15 Sec. limit) 
+ 6,600 (110%) at Idle to 
+ 6,300 (105%) at Takeoff 
+ Note: Adequate cooling has been demonstrated to a 117°F day. Power and torque 
+ ratings and limits are indicated values. Actual values are 2.5 hp higher."
+Rotor Limits and Engine Operating,"Power-Off (Rotor) 
+ Power-On (Engine)"
+Speeds,"Maximum: 514 rpm 
+ Maximum: 103% N2 
+ Minimum: 400 rpm 
+ Minimum: 99% N2"
+Airspeed Limits,VNE (Never Exceed Speed) at sea level is 128 knots (148 mph) CAS.
+Center of Gravity CG Range,"Longitudinal: Sta. 97 to 104 
+ Lateral: 3 inches right and left of helicopter centerline"
+Leveling Means,Plumb bob at Sta. 92.16
+Maximum Weight,"2,100 lb. 
+ See NOTE 1 for weight and balance report."
+Number of Seats,"2 at Sta. 73.5, 2 at Sta. 105"
+Maximum Cargo,"1,350 lb. at 115 lb/sq.ft, Sta. 78.5 to 125"
+I,"Model 369 (Army YOH-6A) (Normal Category Helicopter), Approved June 30, 1964 (cont.)"
+Fuel Capacity,"Fuel 
+ Total Tank 
+ Trapped 
+ Total 
+ Usable 
+ Tank 
+ System 
+ Capacity 
+ Fuel * 
+ Unusable 
+ Fuel 
+ Sump 
+ (lbs.) 
+ (lbs.) 
+ Fuel ** 
+ Capacity 
+ Location 
+ (lbs.) 
+ (lbs.) 
+ (Sta.) 
+ 369-8100 
+ 383 
+ 0.56 
+ 3.10 
+ 380 
+ 98.2 
+ * Fuel which cannot be drained from the tanks, through the drain provided, with the 
+ helicopter in the normal ground attitude. 
+ ** Fuel which cannot be used safely in all flight attitudes, and which must be 
+ included in the empty weight. This includes trapped fuel 
+ Note: Fuel capacities are total tank capacities over and above unusable fuel. Fuel 
+ weights are based on JP-4 fuel."
+Oil Capacity,"Engine Oil (lb. at Sta. 122.5) 
+ Transmission Oil (lb. at Sta. 103.5) 
+ 11.25 
+ 6.94 
+ Note: Oil capacities are total tank capacities over and above trapped oil."
+Maximum Operating Altitude,"20,000 ft."
+Main Rotor Blade Movements,"Collective Pitch at 0.75R (Relative to rigging position): 
+ Up and Down 
+ 6.5° 
+ (± 0.5°) 
+ Cyclic pitch (Relative to rigging position): 
+ Forward 
+ 16° 
+ (± 1°) 
+ Aft 
+ 8° 
+ (± 1°) 
+ Left 
+ 7.25° 
+ (± 0.75°) 
+ Right 
+ 6.25° 
+ (± 0.75°)"
+Main Rotor Blade Damper Setting,"Torque to move the damper shaft through the low load stage: 240 in-lb. minimum, 
+ 300 in-lb. maximum."
+Tail Rotor Blade Movements,"Collective pitch 
+ Thrust to right 
+ +27° 
+ Thrust to left 
+ -12°"
+Manufacturer’s Serial Numbers,"0011 through 0015. 
+ See “NOTE 4” for configuration and eligibility requirements applicable to the 
+ Hughes Model 369 (YOH-6A) helicopter. 
+ See “NOTE 6” for serial number coding."
+Certification Basis,"CAR 6 dated December 20, 1956, including Amendments 6-1 through 6-4 and 
+ Special Conditions, ""Conditions Establishing Compensating Factors Providing an 
+ Equivalent Level of Safety Under Civil Air Regulations, Section 6.10, for Light 
+ Turbine Powered Helicopters,"" dated October 2, 1962, except Condition 15a. 
+ Type Certificate H3WE issued June 30, 1964. 
+ Date of Application for Type Certificate: November 13, 1961."
+I,"Model 369 (Army YOH-6A) (Normal Category Helicopter), Approved June 30, 1964 (cont.)"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the aircraft for certification. 
+ All required equipment that must be installed as well as optional equipment 
+ installations are listed in the following reports. 
+ Model 
+ Report Number 
+ Title 
+ 369 
+ 369-E-5001 
+ Model 369 Equipment List 
+ For a list of model 369 critical parts and life limits contact: Federal Aviation 
+ Administration Manager Los Angeles Aircraft Certification Office, 3960 Paramount 
+ Boulevard, Lakewood, California 90712-4137"
+II,"- Model 369A (Army OH-6A) (Normal Category Helicopter), Approved August 24, 1966 
+ See NOTE 4 regarding modifications required for conversion of Military Helicopters."
+Engine,"Rolls-Royce Corporation (formerly Allison Engine Company) 250-C10B (T63-A- 
+ 5A)"
+Fuel,"MIL-DTL-5624, Grade JP-4, and JP-5 Aviation Fuels MIL-DTL-83133 Grade JP-8 
+ Aviation Fuel 
+ ASTM D-1655 Jet A, A-1 or Jet B ASTM D-6615 Jet B 
+ Chinese Specification GB6537-94 Grade RP-3 See “Rotorcraft Flight Manual” for 
+ alternate fuels. 
+ See “NOTE 4.e)” for FAA Approved Rotorcraft Flight Manual. See “NOTE 7” for 
+ Anti-Icing additive. 
+ See “Engine TCDS E4CE Note #9” for emergency use mixtures and limits. Note: 
+ Fuels containing Tri-cresyl-phosphate additives shall not be used."
+II,"- Model 369A (Army OH-6A) (Normal Category Helicopter), Approved August 24, 1966 (cont.)"
+Engine Limits,"Ratings Applicable to S/N 0001 through 1445 
+ Takeoff (5 min) 
+ Max. Continuous 
+ Shaft Horsepower* 
+ 250 
+ 212 
+ Torque* 
+ 219 ft-lb (75 psi) 
+ 186 ft-lb (63.5 psi) 
+ Gas Producer rpm, N1 
+ 53,165 (104%) 
+ 53,165(104%) 
+ Output Shaft rpm, N2 
+ 6,180 (103%) 
+ 6,180 (103%) 
+ Measured Gas Temp. 
+ 1,380°F (749°C) 
+ 1,280°F (693°C) 
+ * Power and torque ratings and limits are indicated valued. Actual values are 2.5 hp 
+ higher. 
+ Ratings applicable to S/N 1446 and up, or S/N 0001 through 1445 when modified 
+ per NOTE 8 
+ Takeoff (5 min) 
+ Max. Continuous 
+ Shaft Horsepower* 
+ 278 
+ 243 
+ Torque* 
+ 236 ft-lb 
+ 208 ft-lb 
+ (80.3 psi) 
+ (70 psi) 
+ Gas Producer rpm, N1 
+ 53,165 (104%) 
+ 53,165 (104%) 
+ Output Shaft rpm, N2 
+ 6,240 (104%) 
+ 6,240 (104%) 
+ Measured Gas Temp. 
+ 1,380°F (749°C) 
+ 1,280°F (693°C) 
+ Transient Limits applicable to S/N 0001 and up 
+ Measured Gas Temp. (6 sec. limit) 
+ 1550°F (843°C) 
+ Measured Gas Temp. During Start (10 
+ 1700°F (927°C) 
+ sec. limit) 
+ Gas Producer rpm, N1 (15 Sec. limit) 
+ 53676 (105%) 
+ Note: Adequate cooling has been demonstrated to at 117°F day."
+Rotor Limits and Engine Operating,S/N 0001 through 1445
+Speeds,"Power Off (Rotor) 
+ Power On (Engine) 
+ Maximum: 514 rpm 
+ Maximum: 103% N2 
+ Minimum: 400 rpm 
+ Minimum: 100% N2"
+II,"- Model 369A (Army OH-6A) (Normal Category Helicopter), Approved August 24, 1966 (cont.)"
+Rotor Limits and Engine Operating,"S/N 1446 and up, or S/N 0001 through 1445 when modified per NOTE 8 
+ Power Off (Rotor) 
+ Power On (Engine) 
+ Maximum: 514 rpm 
+ Maximum: 104% N2 
+ Minimum: 400 rpm 
+ Minimum: 103% N2"
+Airspeed Limits,"For S/N 0001 through 1445, VNE (Never Exceed Speed) at sea level is 124 knots 
+ (143 mph) CAS. 
+ For S/N 1446 and up, or S/N 0001 through 1445 when modified per NOTE 8, VNE at 
+ sea level is 130 knots (150 mph) CAS. 
+ For reduction of VNE with altitude and temperature, and doors off, see “NOTE 
+ 4.e)” for FAA Approved Rotorcraft Flight Manual."
+Center of Gravity CG Range,"Longitudinal: Sta. 97 to 104 
+ Lateral: 3 inches right and left of helicopter centerline"
+Leveling Means,Plumb bob at Sta. 92.64
+Maximum Weight,"S/N 0001 through 1445: 2,400-lb. 
+ S/N 1446 and up: 2,550 lb. 
+ S/N 0001 through 1445 when modified per NOTE 8: 2,550 lb. 
+ See NOTE 1 for weight and balance report."
+Number of Seats,"2 at Sta. 73.5, 2 at Sta. 105"
+Maximum Cargo,"950 lb. at 115 lb./sq. ft., Sta. 78.5 to 124"
+Fuel Capacity,"Fuel 
+ Total Tank 
+ Trapped 
+ Total 
+ Usable 
+ Tank 
+ System 
+ Capacity 
+ Fuel** 
+ Unusable 
+ Fuel 
+ Sump 
+ (lbs) 
+ (lbs) 
+ Fuel *** 
+ Capacity 
+ Location 
+ (lbs) 
+ (lbs) 
+ (Sta) 
+ 369A8100 
+ 402 
+ 0.16 
+ 1.50 
+ 400 
+ 98.2 
+ M30273 
+ 359 
+ 0.73 
+ 2.91 
+ 356 
+ 98.3 
+ (Gravity 
+ filled) 
+ M30273 
+ 329 
+ 0.73 
+ 2.91 
+ 326 
+ 98.0 
+ (Pressure 
+ filled.)* 
+ * Pressure refueling not permitted on civil helicopters 
+ ** Fuel, which cannot be drained from the tank through the drain, provided - with 
+ the helicopter in the normal ground attitude. 
+ *** Fuel which cannot be used safely in all flight attitudes, and which must be 
+ included in the empty weight. This includes trapped fuel. 
+ Note: Fuel capacities are total tank capacities over and above unusable fuel. Fuel 
+ weights are based on JP-4 fuel."
+II,"- Model 369A (Army OH-6A) (Normal Category Helicopter), Approved August 24, 1966 (cont.)"
+Oil Capacity,"Engine Oil 
+ Transmission Oil 
+ (lb. at Sta. 138.2) 
+ (lb. at Sta. 105) 
+ 5.90 
+ 7.00 
+ Note: Oil capacities are total tank capacities over and above trapped oil."
+Maximum Operating Altitude,See “NOTE 4.e)” for FAA Approved Rotorcraft Flight Manual.
+Main Rotor Blade Movements,"Collective pitch (Relative to rigging position): 
+ Up and Down 
+ 15.5° 
+ (±1.25°) 
+ Cyclic pitch (Relative to rigging position): 
+ Forward 
+ 16° 
+ (±1°) 
+ Aft 
+ 8.5° 
+ (±0.5°) 
+ Left 
+ 8.25° 
+ (±1.25°) 
+ Right 
+ 6.25° 
+ (±0.75°) 
+ Note: Collective low pitch stop to be established in accordance with RFM or HMI 
+ to obtain proper autorotation rpm."
+Main Rotor Blade Damper Setting,"Torque to move the damper shaft through the low load stage: 265 in-lb., minimum; 
+ 325 in-lb. maximum."
+Tail Rotor Blade Movements,"Collective pitch 
+ Thrust to right 
+ +28° (+2°, -0°) 
+ Thrust to left 
+ -13° (±1°)"
+Manufacturer’s Serial Numbers,"0001 and up 
+ Model 369A helicopters serial numbers 1100 through 1445 and 1079A through 
+ 1080A have been manufactured under the Delegation Option Authorization 
+ provisions of FAR 21. Acting as Delegation Option Manufacturer Number WE-1, 
+ Hughes Tool Company, Aircraft Division, was authorized to issue Airworthiness 
+ Certificates for serial numbers noted above under the Delegation Option 
+ Authorization provisions of FAR 21. 
+ See NOTE 4 for configuration and eligibility requirements applicable to the Hughes 
+ Model 369A (OH-6A) helicopter. 
+ See NOTE 6 for serial number coding."
+Certification Basis,"CAR 6 dated December 20, 1956, including Amendments 6-1 through 6-4 and 
+ Special Conditions, ""Conditions Establishing Compensating Factors Providing an 
+ Equivalent Level of Safety Under Civil Air Regulations, Section 6.10, for Light 
+ Turbine Powered Helicopters,"" dated October 2, 1962, as revised February 8, 1966. 
+ Type Certificate H3WE amended August 24, 1966. 
+ Date of Application for Amended Type Certificate: August 19, 1965."
+II,"- Model 369A (Army OH-6A) (Normal Category Helicopter), Approved August 24, 1966 (cont.)"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the aircraft for certification. 
+ All required equipment that must be installed as well as optional equipment 
+ installations are listed in the following reports. 
+ Model 
+ Report Number 
+ Title 
+ 369A 
+ 369-E-5002 
+ Model 369A Equipment List 
+ See Limited Life Schedule of this TCDS."
+III,"Model 369H (Normal Category Helicopter), Approved November 15, 1966"
+"Model 369HM (Normal Category Helicopter), Approved April 8, 1968 
+ Model 369HS (Normal Category Helicopter), Approved January 3, 1969 
+ Model 369HE (Normal Category Helicopter), Approved May 21, 1969",
+Engine,"Rolls-Royce Corporation (formerly Allison Engine Company) 250-C18A or 250- 
+ C18C 
+ Alternate engine: Rolls-Royce Corporation (formerly Allison Engine Company) 
+ 250-C20 
+ Note: Model 369HM, 369HS, and 369HE helicopters, S/N 0101 and up, are eligible 
+ for installation of the alternate engine when modified in accordance with Hughes 
+ Drawing M50031, Revision A, or later approved revision, including M50033."
+Fuel,"MIL-DTL-5624, Grade JP-4, and JP-5 Aviation Fuels MIL-DTL-83133 Grade JP-8 
+ Aviation Fuel 
+ ASTM D-1655 Jet A, A-1 or Jet B ASTM D-6615 Jet B 
+ Chinese Specification GB6537-94 Grade RP-3. 
+ See “Rotorcraft Flight Manual” for alternate fuels. 
+ See “NOTE 7” for Anti-Icing additive. 
+ See “Engine TCDS E4CE Note #9” for emergency use mixtures and limits. Note: 
+ Fuels containing Tri-cresyl-phosphate additives shall not be used."
+Engine Limits,"Ratings for 250-C18A or 250C18C 
+ Takeoff (5 min) 
+ Max. Continuous 
+ Shaft Horsepower 
+ 278 
+ 243 
+ Torque 
+ 236 ft-lb 
+ 208 ft-lb 
+ (80.3 psi) 
+ (70 psi) 
+ Gas Producer rpm, N1 
+ 53,165 (104%) 
+ 53,165 (104%) 
+ Output Shaft rpm, N2 
+ 6,240 (104%) 
+ 6,240 (104%) 
+ Measured Gas Temp. 
+ 1,380°F (749°C) 
+ 1,280°F (693°C)"
+III,"Model 369H (Normal Category Helicopter), Approved November 15, 1966"
+"Model 369HM (Normal Category Helicopter), Approved April 8, 1968 
+ Model 369HS (Normal Category Helicopter), Approved January 3, 1969 
+ Transient Limits for 250-C18 or 250-C18C 
+ Measured Gas Temp. (6 sec. limit) 
+ 1,550°F (843°C) 
+ Measured Gas Temp. During Start (10 sec. limit) 
+ 1,700°F (927°C) 
+ Gas Producer rpm, N1 (15 Sec. limit) 
+ 53,676 (105%) 
+ Output Shaft rpm, N2 (15 Sec. limit) 
+ 6,600 (110%) at 
+ Idle to 
+ 6,340 (105.7%) at 
+ Takeoff 
+ Torque: 
+ 90 psi for 10 sec. 
+ 100 psi for 3 sec. 
+ Ratings for 250-C20 
+ Takeoff (5 min) 
+ Max. Continuous 
+ Shaft Horsepower 
+ 278 
+ 243 
+ Torque 
+ 236 ft-lb 
+ 208 ft-lb 
+ (64.5 psi) 
+ (56 psi) 
+ Gas Producer rpm, N1 
+ 53,000 (104%) 
+ 53,000 (104%) 
+ Output Shaft rpm, N2 
+ 6,240 (104%) 
+ 6,240 (104%) 
+ Measured Gas Temp. 
+ 1,460°F (793°C) 
+ 1,358°F (737°C) 
+ Transient Limits for 250-C20 
+ Measured Gas Temp. (6 sec. limit) 
+ 1,550°F (843°C) 
+ Measured Gas Temp. During Start (10 sec. limit) 
+ 1,700°F (927°C) 
+ Gas Producer rpm, N1 (15 Sec. limit) 
+ 53,518 (105%) 
+ Output Shaft rpm, N2 (15 Sec. limit) 
+ 6,798 (113%) at 
+ Idle to 
+ 6,497 (108.7%) at 
+ Takeoff 
+ Torque 
+ 72 psi for 10 sec. 
+ 80 psi for 3 sec. 
+ Rotor Limits and Engine Operating 
+ Limits and Speeds for 250-C18A or 250-C18C 
+ Speeds 
+ Power Off (Rotor) 
+ Power On (Engine) 
+ Maximum: 514 rpm 
+ Maximum: 104% N2 
+ Minimum: 400 rpm 
+ Minimum: 103% N2 
+ Limits and Speeds for 250-C20 
+ Power Off (Rotor) 
+ Power On (Engine) 
+ Maximum: 523 rpm 
+ Maximum: 104% N2 
+ Minimum: 400 rpm 
+ Minimum: 103% N2 
+ Airspeed Limits 
+ VNE (Never Exceed Speed) at sea level is 130 knots (150 mph) CAS. For reduction 
+ of VNE with altitude, and temperature, see Rotorcraft Flight Manual. 
+ III 
+ Model 369H (Normal Category Helicopter), Approved November 15, 1966 
+ Model 369HM (Normal Category Helicopter), Approved April 8, 1968 
+ Model 369HS (Normal Category Helicopter), Approved January 3, 1969 
+ Center of Gravity CG Range 
+ 369H, 369HM, and 369HS; S/N 0001 through 0100 
+ Longitudinal: Sta. 97 to 104 
+ Lateral: 3 inches right and left of helicopter centerline 
+ 369HM, 369HS, and 369HE; S/N 0101 and up 
+ Longitudinal 
+ Lateral 
+ Gross Weight (lb.) 
+ Forward (Sta.) 
+ Aft (Sta.) 
+ Left (in.) 
+ Right (in.) 
+ 2401 to 2550 
+ 99 
+ 104 
+ -3 
+ +3 
+ 2201 to 2400 
+ 97 
+ 104 
+ -3 
+ +3 
+ 2001 to 2200 
+ 97 
+ 104 
+ -3 
+ +4 
+ 2001 to 2200 
+ 97 
+ 105 
+ -1 
+ +3 
+ 2000 or Below 
+ 97 
+ 104 
+ -3 
+ +5 
+ 2000 or Below 
+ 97 
+ 106 
+ -1 
+ +3 
+ Note: Facing forward, + indicates right, and – indicates left of helicopter centerline. 
+ Leveling Means 
+ Plumb bob at Sta. 92.64 
+ Maximum Weight 
+ 369H, 369HM, and 369HS; S/N 0001 through 0100: 2,400 lb. 
+ 369HM, 369HS, and 369HE; S/N 0101 and up: 2,550 lb. 
+ See NOTE 1 for weight and balance report. 
+ See NOTE 9 for external cargo information. 
+ Number of Seats 
+ 369H, 369HS, and 369HE: 1 at Sta. 71.5, 2 at Sta. 73.5, 2 at Sta. 105. 
+ 369HM: 2 at Sta. 73.5, 2 at Sta. 105. 
+ Maximum Cargo 
+ 50 lb. evenly distributed in utility storage compartment at Sta. 55. 
+ 369H, 369HM, and 369HS; S/N 0001 through 0100: 
+ 950 lb. at 115 lb./sq. ft., Sta. 78.5 to 124 
+ 369HM, 369HS, and 369HE; S/N 0101 and up: 
+ 1300 lb. at 115 lb./sq. ft., Sta. 78.5 to 124 
+ Fuel Capacity 
+ Model and 
+ Total Tank 
+ Trapped 
+ Total 
+ Usable Fuel 
+ Applicable Serial 
+ Capacity 
+ Fuel * 
+ Unusable 
+ Capacity 
+ Numbers 
+ (lbs.) 
+ (lbs.) 
+ Fuel ** 
+ (lbs.) 
+ (lbs.) 
+ 369H - All S/Ns 
+ 416 
+ 1.40 
+ 3.40 
+ 413 
+ 369HM 0001 thru 
+ 402 
+ 0.16 
+ 1.50 
+ 400 
+ 0100M 
+ 0101M and up 
+ 402 
+ 0.16 
+ 2.50 
+ 399 
+ 369HS 0001S thru 
+ 416 
+ 1.40 
+ 3.40 
+ 413 
+ 0100S 
+ 0101S and up 
+ 416 
+ 1.40 
+ 3.70 
+ 412 
+ 369HE 0101E and 
+ 416 
+ 1.40 
+ 3.70 
+ 412 
+ up 
+ III 
+ Model 369H (Normal Category Helicopter), Approved November 15, 1966 
+ Model 369HM (Normal Category Helicopter), Approved April 8, 1968 
+ Model 369HS (Normal Category Helicopter), Approved January 3, 1969 
+ *Fuel which cannot be drained from the tank through the drain provided - with the 
+ helicopter in the normal ground attitude 
+ **Fuel which cannot be used safely in all flight attitudes, and which cannot be 
+ included in the empty weight. This includes trapped fuel. 
+ Note: Fuel capacities are total tank capacities over and above unusable fuel. Fuel 
+ weights are based on JP-4 fuel. 
+ Oil Capacity 
+ Engine Oil 
+ Transmission Oil 
+ (lb. at Sta. 138.2) 
+ (lb. at Sta. 105.0) 
+ 5.90 
+ 7.00 
+ Note: Oil capacities are total tank capacities over and above trapped oil. 
+ Maximum Operating Altitude 
+ See Rotorcraft Flight Manual. 
+ Main Rotor Blade Movements 
+ Collective pitch (Relative to rigging position): 
+ Up and Down 
+ 15.5° 
+ (±1.25°) 
+ Cyclic pitch (Relative to rigging position): 
+ Forward 
+ 16° 
+ (±1°) 
+ Aft 
+ 8.5° 
+ (±0.5°) 
+ Left 
+ 8.25° 
+ (±1.25°) 
+ Right 
+ 6.25° 
+ (±0.75°) 
+ Note: Collective low pitch stop to be established in accordance with RFM or HMI 
+ to obtain proper autorotation rpm. 
+ Main Rotor Blade Damper Setting 
+ Torque to move the damper shaft through the low load stage: 
+ P/N 
+ Minimum Torque 
+ Maximum Torque 
+ (in - lb) 
+ (in - lb) 
+ 369A1400 
+ 265 
+ 325 
+ 369A1417 
+ 190 
+ 200 
+ 369ASK1939 
+ 190 
+ 200 
+ 369A1423 
+ 190 
+ 200 
+ Tail Rotor Blade Movements 
+ 369A1620 Tail Rotor Assembly (aluminum blades) 
+ Collective pitch 
+ thrust to right 
+ +27° 
+ (±1°) 
+ thrust to left 
+ -15° 
+ (±1°) 
+ 369A1600 Tail Rotor Assembly (fiberglass blades) 
+ Collective pitch 
+ thrust to right 
+ +28° 
+ (+2°, -0°) 
+ thrust to left 
+ -13° 
+ (±1°) 
+ III 
+ Model 369H (Normal Category Helicopter), Approved November 15, 1966 
+ Model 369HM (Normal Category Helicopter), Approved April 8, 1968 
+ Model 369HS (Normal Category Helicopter), Approved January 3, 1969 
+ Manufacturer’s Serial Numbers 
+ 369H 
+ 0001 through 0005 
+ 369HM 
+ 0001 through 0004, 
+ 0005M and up 
+ 369HS 
+ 0001S and up 
+ 369HE 
+ 0001E and up 
+ The following helicopters have been manufactured under Delegation Option 
+ Authorization provisions of FAR 21. Acting as Delegation Option Manufacturer 
+ Number WE-1, Hughes Tool Company, Aircraft Division, was authorized to issue 
+ Airworthiness Certificates for the following helicopters under the Delegation Option 
+ Authorization provisions of FAR 21. 
+ 369H 
+ 0001 through 0005 
+ 369HE 
+ 0101E through 0110E 
+ 0201E through 0215E 
+ 369HM 
+ 0001 through 0004 
+ 0005M through 0021M 
+ 0030M through 0054M 
+ 0201M through 0204M 
+ 369HS 
+ 0001S through 0002S 
+ 0101S through 0130S 
+ 0201S through 0215E 
+ See NOTE 6 for serial number coding. 
+ Certification Basis 
+ CAR 6 dated December 20, 1956, including Amendments 6-1 through 6-4 and 
+ Special Conditions, ""Conditions Establishing Compensating Factors Providing an 
+ Equivalent Level of Safety Under Civil Air Regulations, Section 6.10, for Light 
+ Turbine Powered Helicopters,"" dated October 2, 1962, as revised February 8, 1966. 
+ Models 369H, 369HM, 369HS, and 369HE were approved under the Delegation 
+ Option Authorization provisions of FAR 21. 
+ Type Certificate H3WE Amended: 
+ 369H 
+ November 15, 1966 
+ 369HS 
+ January 3, 1969 
+ 369HM 
+ April 8, 1968 
+ 369HE 
+ May 21, 1969 
+ Dates of Application for Amended Type Certificate: 
+ 369H 
+ September 8, 1965 
+ 369HS 
+ August 12, 1968 
+ 369HM 
+ February 16, 1968 
+ 369HE 
+ August 12, 1968 
+ Equipment 
+ The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the aircraft for certification. 
+ All required equipment that must be installed as well as optional equipment 
+ installations are listed in the following reports. 
+ Model 
+ Report Number 
+ Title 
+ 369H 
+ 369-E-5003 
+ Model 369H Equipment List 
+ 369HM 
+ 369-E-5005 
+ Model 369HM Equipment List 
+ (S/N 0001 through 0004) 
+ III 
+ Model 369H (Normal Category Helicopter), Approved November 15, 1966 
+ Model 369HM (Normal Category Helicopter), Approved April 8, 1968 
+ Model 369HS (Normal Category Helicopter), Approved January 3, 1969 
+ Model 
+ Report Number 
+ Title 
+ 369HM 
+ 369-E-5006 
+ Model 369HM Equipment List 
+ (S/N 0005M and subsequent) 
+ Model 
+ Report Number 
+ Title 
+ 369HS 
+ 369-E-0004 
+ Model 369HS Equipment List 
+ 369HE 
+ 369-E-5007 
+ Model 369HE Equipment List 
+ Approved Publications 
+ Rotorcraft Flight Manuals 
+ Model 
+ Configuration 
+ Date 
+ 369HM 
+ A 
+ September 13, 1973 
+ 369HM 
+ B 
+ May 3, 1974 
+ 369HM 
+ C 
+ October 5, 1793 
+ 369HS 
+ A 
+ December 21, 1977 
+ 369HS 
+ B 
+ December 21, 1977 
+ 369HE 
+ A 
+ August 14, 1973 
+ 369HE 
+ B 
+ August 14, 1973 
+ IV 
+ Model 369D (Normal Category Helicopter), Approved 8 December 1976 
+ Model 369D (Restricted Category Helicopter), Approved 28 November 1979 
+ Model 369E (Normal Category Helicopter), Approved 15 December 1982 
+ See NOTE 14 for noise characteristics. 
+ See NOTE 15 for conversion of model 369E to Model 369FF.",
+Engine,"Rolls-Royce Corporation (formerly Allison Engine Company) 250-C20B with 
+ Bendix fuel control 
+ Alternate engine: Rolls-Royce Corporation (formerly Allison Engine Company) 
+ 250-C20R/2 
+ Note: Model 369D and 369E helicopters are eligible for installation of the alternate 
+ engine when modified in accordance with drawing 369D298000, Revision C, or 
+ later FAA approved revisions. 
+ Refer to MDHI Drawing 369D28702 for engine configuration. The MDHI part 
+ number and ship effectivity are shown in the HMI IPC as reference."
+IV,"Model 369D (Normal Category Helicopter), Approved 8 December 1976"
+"Model 369D (Restricted Category Helicopter), Approved 28 November 1979 
+ Fuel 
+ MIL-DTL-5624, Grade JP-4, and JP-5 Aviation Fuels 
+ MIL-DTL-83133 Grade JP-8 Aviation Fuel 
+ ASTM D-1655 Jet A, A-1 or Jet B 
+ ASTM D-6615 Jet B 
+ Chinese Specification GB6537-94 Grade RP-3 
+ See “Rotorcraft Flight Manual” for alternate fuels. 
+ See “NOTE 7” for Anti-Icing additive. 
+ See “Engine TCDS E4CE Note #9” for emergency use mixtures and limits. 
+ Note: Fuels containing Tri-cresyl-phosphate additives shall not be used. 
+ Engine Limits 
+ Ratings for 250-C20B 
+ Takeoff (5 min) 
+ Max. Continuous 
+ Shaft Horsepower 
+ 375 
+ 350 
+ Torque 
+ 318 ft. - lb. (87.2 psi) 
+ 297 ft. - lb.(81.3 psi) 
+ Gas Producer rpm, N1 
+ 53,519 (105%) 
+ 53,519 (105%) 
+ Output Shaft rpm, N2 
+ 6,196 (103%) 
+ 6,196 (103%) 
+ Measured Gas Temp. 
+ 1,490°F (810°C) 
+ 1,360°F (738°C) 
+ Ratings for 250-C20R/2 
+ Takeoff (5 min) 
+ Max. Continuous 
+ Shaft Horsepower 
+ 375 
+ 350 
+ Torque 
+ 318 ft. - lb. (87.2 psi) 
+ 297 ft.- lb. (81.3 psi) 
+ Gas Producer rpm, N1 
+ 53,519 (105%) 
+ 53,519 (105%) 
+ Output Shaft rpm, N2 
+ 6,196 (103%) 
+ 6,196 (103%) 
+ Measured Gas Temp. 
+ 1,490°F (810°C) 
+ 1,385°F (752°C) 
+ Transient Limits for 250-C20B or 250-C20R/2 
+ Measured Gas Temp. (6 sec. limit) 
+ 1,490°F (810°C) 
+ 1,550°F (843°C) - C20B only 
+ 1,650°F (899°C) - C20R/2 only 
+ Measured Gas Temp. 
+ 1,490°F (810°C) to 
+ During Start (10 sec. 
+ 1,700°F (927°C) 
+ limit) 
+ (1 Sec. 1700°F) 
+ Gas Producer rpm, N1 (15 Sec. limit) 
+ 54,028 (106%) 
+ Output Shaft rpm, N2 (15 Sec. limit) 
+ 6,798 (113%) at Idle to 
+ 6,316 (105%) at Takeoff 
+ Rotor Speed and Engine Operating 
+ Limits and Speeds for 250C20B or 250-C20R2 
+ Speeds 
+ Power Off (Rotor) 
+ Power Off (Rotor) 
+ Maximum: 523 rpm 
+ Maximum: 492 rpm/103 % N2 
+ Minimum: 410 rpm* 
+ Minimum: 487 rpm / 102% N2 
+ * Minimum with 4-bladed tail rotor installed: 415 rpm. 
+ IV 
+ Model 369D (Normal Category Helicopter), Approved 8 December 1976 
+ Model 369D (Restricted Category Helicopter), Approved 28 November 1979 
+ Airspeed Limits 
+ VNE (Never Exceed Speed) at sea level is 152 knots (175 mph) CAS. For reduction 
+ of VNE with altitude and temperature: 
+ The 369D autorotation VNE at sea level is 127 knots (146 mph) CAS. 
+ The 369E autorotation VNE at sea level is 130 knots (150 mph) CAS. 
+ Center of Gravity CG Range 
+ Longitudinal 
+ Lateral 
+ Gross Weight (lb.) 
+ Forward (Sta.) 
+ Aft* (Sta.) 
+ Left (in.) 
+ Right (in.) 
+ 3000 
+ 99 
+ 103 
+ -3 
+ +3 
+ 1538 
+ 99 
+ 107.4 
+ -3 
+ +3 
+ * Varies linearly between points shown. 
+ NOTE: Facing forward, + indicates right and – indicates left of helicopter 
+ centerline. 
+ Leveling Means 
+ Plumb bob at Sta. 92.64 
+ Maximum Weight 
+ 3,000 lb. 
+ See NOTE 1 for weight and balance report. 
+ See NOTE 9 for maximum weight of 369D (Restricted Category Helicopter). 
+ Number of Seats 
+ 1 at Sta. 71.5, 2 at Sta. 73.5, 2 at Sta. 105 for basic configuration only. 
+ Maximum Cargo 
+ 1,300 lb. at 115 lb/sq-ft, Sta. 78.5 to 124. 
+ See NOTE 9 for external cargo information 
+ Fuel Capacity 
+ Fuel System 
+ Total Tank 
+ Trapped 
+ Total 
+ Usable 
+ Capacity 
+ Fuel * 
+ Unusable 
+ Fuel 
+ (lbs.) 
+ (lbs.) 
+ Fuel ** 
+ Capacity 
+ (lbs.) 
+ (lbs.) 
+ 369A8100 
+ 416 
+ 0 
+ 12.5 
+ 403 
+ 369H90029 
+ (self sealing) 
+ 402 
+ 0 
+ 12.5 
+ 389 
+ *Fuel which cannot be drained from the tanks through the drain provided - with the 
+ helicopter in the normal ground attitude. 
+ **Fuel which cannot be used safely in all flight attitudes, and which must be 
+ included in the empty weight. This includes trapped fuel. 
+ Note: Fuel capacities are total tank capacities over and above unusable fuel. Fuel 
+ weights are based on JP-4 fuel. 
+ Oil Capacity 
+ Engine Oil 
+ Transmission Oil 
+ (lb. at Sta. 133.3) 
+ (lb. at Sta. 105.0 
+ 6.00 
+ 11.60 
+ Note: Oil capacities are total tank capacities over and above trapped oil. 
+ IV 
+ Model 369D (Normal Category Helicopter), Approved 8 December 1976 
+ Model 369D (Restricted Category Helicopter), Approved 28 November 1979 
+ Maximum Operating Altitude 
+ 16,000 ft. density altitude. 
+ Main Rotor Blade Movements 
+ Collective pitch (Relative to rigging position): 
+ Up and Down 
+ 14.25° to 18.0° 
+ Cyclic pitch (Relative to rigging position): 
+ Forward 
+ 17° to 18.5° 
+ Aft 
+ 7° to 9.3° 
+ Left 
+ 7° to 9.3° 
+ Right 
+ 5.5° to 8.5° 
+ Tail Rotor Blade Movements 
+ 369D21600 Tail Rotor Assembly (2-bladed) 
+ Collective pitch 
+ thrust to right 
+ 27° to 27° 
+ thrust to left 
+ -13° to -15° 
+ 369D21620 Tail Rotoro Assembly (4-bladed) 
+ Collective pitch 
+ thrust to right 
+ 31° to 32° 
+ thrust to left 
+ -13° to -15° 
+ Horizontal Stabilizer Incidence 
+ 8.92° to 9.42° measured relative to a line perpendicular to the main rotor mast 
+ centerline. 
+ Manufacturer’s Serial Numbers 
+ 369D 
+ 0003 and up 
+ 369E 
+ 0001 and up 
+ See NOTE 5 for serial numbers not eligible. 
+ See NOTE 6 for serial number coding. 
+ Certification Basis 
+ CAR 6 dated December 20, 1956, including Amendments 6-1 through 6-4 and 
+ Special Conditions, ""Conditions Establishing Compensating Factors Providing an 
+ Equivalent Level of Safety Under Civil Air Regulations, Section 6.10, for Light 
+ Turbine Powered Helicopters,"" dated October 2, 1962, as revised February 8, 
+ 1966. 
+ Type Certificate H3WE amended: 
+ 369D 
+ December 8, 1976 
+ 369D 
+ (Restricted Category): November 28, 1979 
+ 369E 
+ December 15, 1982 
+ Dates of Application for amended Type Certificate: 
+ 369D 
+ May 30, 1974 
+ 369D 
+ (Restricted Category): November 26, 1979 
+ 369E 
+ December 10, 1982 
+ Equipment 
+ The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the aircraft for certification. 
+ All required equipment that must be installed as well as optional equipment 
+ installations are listed in the following reports. 
+ IV 
+ Model 369D (Normal Category Helicopter), Approved 8 December 1976 
+ Model 369D (Restricted Category Helicopter), Approved 28 November 1979 
+ 369D 
+ 369-E-5008 
+ Model 369D Equipment List 
+ 369E 
+ 369-E-5009 
+ Model 369E Equipment List 
+ Approved Publications 
+ Rotorcraft Flight Manuals 
+ 369D 
+ CSP-D-1 
+ Dated December 8, 1976 
+ 369E 
+ CSP-E-1 
+ Dated November 23, 1982 
+ V 
+ Model 369F (Normal Category Helicopter), Approved July 29, 1983 
+ Model 369FF (Normal Category Helicopter), Approved July 11, 1985 
+ See NOTE 12 for conversion of 369F to 369FF. 
+ See NOTE 14 for noise characteristics. 
+ See NOTE 15 for conversion of Model 369E to Model 369FF.",
+Engine,"Rolls-Royce Corporation (formerly Allison Engine Company) 250-C30. 
+ Refer to MDHI Drawing 369D28640 for engine configuration used in production 
+ (S/N 0128FF and prior). RRC P/N 23062052 used in production effective S/N 
+ 0129FF and subs and earlier S/N if Technical Bulletin TB369F-004 is incorporated."
+Fuel,"MIL-DTL-5624, Grade JP-4, and JP-5 Aviation Fuels 
+ MIL-DTL-83133 Grade JP-8 Aviation Fuel 
+ ASTM D-1655 Jet A, A-1 or Jet B ASTM D-6615 Jet B 
+ Chinese Specification GB6537-94 Grade RP-3. 
+ See “Rotorcraft Flight Manual” for alternate fuels 
+ See “NOTE 7” for Anti-Icing additive. 
+ See Engine TCDS E1GL Note #10 for emergency use mixtures and limits. 
+ Note: Fuels containing Tri-cresyl-phosphate additives shall not be used."
+Engine Limits,"Ratings for 369F 
+ Takeoff (5 min) 
+ Max. Continuous 
+ Shaft Horsepower 
+ 375 
+ 350 
+ Torque 
+ 327.4 ft-lb (52.5 psi) 
+ 305.6 ft-lb (48.9 psi) 
+ Gas Producer rpm, N1 
+ 53,550 (105%) 
+ 53,550 (105%) 
+ Output Shaft rpm, N2 
+ 6,016 (100%) 
+ 6,016 (100%) 
+ Measured Gas Temp. 
+ 1,414°F (768°C) 
+ 1,281°F (694°C)"
+V,"Model 369F (Normal Category Helicopter), Approved July 29, 1983 
+ Ratings for 369FF 
+ Takeoff (5 min) 
+ Max. Continuous 
+ Shaft Horsepower 
+ 425* 
+ 350 
+ Torque 
+ 371.0 ft-lb* (59.6 psi) 
+ 305.6 ft-lb (48.9 psi) 
+ Gas Producer rpm, N1 
+ 53,550 (105%) 
+ 53,550 (105%) 
+ Output Shaft rpm, N2 
+ 6,016 (100%) 
+ ,6016 (100%) 
+ Measured Gas Temp. 
+ 1,414°F (768°C) 
+ 1,281°F (694°C) 
+ * 0 to 50 KIAS. 
+ Transient Limits for 369F and 369FF 
+ Measured Gas Temp. During Start and 
+ 1,518°F (826°C) to1,700°F (927°C) (1 
+ shutdown 
+ sec. at 1,700 F) 
+ (10 sec. limit) 
+ During Power Change in Flight 
+ 1,518°F (826°C) to 1,625°F (885°C) 
+ Gas Producer rpm, N1 (10 sec. limit) 
+ 54,060 (106%) 
+ Output Shaft rpm, N2 (10 sec. limit) 
+ 6,377 (106%)"
+Rotor Limits and Engine Operating,"Power Off (Rotor) 
+ Power On (Engine)"
+Speeds,"Maximum: 508 rpm 
+ Maximum: 477 rpm / 100% N2 
+ Minimum: 410 rpm 
+ Minimum: 473 rpm / 99% N2"
+Airspeed Limits,"VNE (Never Exceed Speed) at sea level is 152 knots (175 mph) CAS. For reduction 
+ of VNE with altitude and temperature: 
+ Rotorcraft Flight Manual Autorotation VNE at sea level is 127 knots (146 mph) CAS."
+Center of Gravity CG Range,"Longitudinal 
+ Lateral 
+ Gross 
+ Forward *(Sta.) 
+ Aft** 
+ Gross Weight 
+ Left 
+ Right 
+ Weight 
+ (Sta.) 
+ (lb.) 
+ *** 
+ *** 
+ (lb.) 
+ (in.) 
+ (in.) 
+ 3,100 
+ 99 
+ 103.3 
+ 3,100 
+ -3 
+ +3 
+ 2,600 
+ 99 
+ 104.8 
+ 2,000 
+ -3 
+ +3 
+ 1,700 
+ 101.7 
+ 107.5 
+ 1,700 
+ -1.7 
+ +1.7 
+ *Varies linearly between 2600 lb. and 1700 lbs. 
+ **Varies linearly between 3100 lb. and 1700 lbs. 
+ ***Varies linearly between 2000 lb. and 1700 lbs."
+Leveling Means,Plumb bob at Sta.92.64.
+Maximum Weight,"3,350 lb. 
+ Serial numbers 0340FF and subsequent. Serial numbers with 
+ TB369F-015 applied. 
+ 3,100 lb. 
+ All other serial numbers. 
+ See NOTE 1 for weight and balance report."
+Number of Seats,"1 at Sta. 71.5, 2 at Sta. 73.5, 2 at Sta. 105 for basic configuration only."
+Maximum Cargo,"1,300 lb. at 115 lb./sq-ft, Sta. 78.5 to 124. 
+ See NOTE 9 for external cargo information."
+V,"Model 369F (Normal Category Helicopter), Approved July 29, 1983"
+Fuel Capacity,"Fuel System 
+ Total Tank 
+ Trapped Fuel 
+ Total 
+ Usable Fuel 
+ Capacity (lb.) 
+ * (lb.) 
+ Unusable 
+ Capacity (lb.) 
+ Fuel ** (lb.) 
+ 369A8100 
+ 416 
+ 0 
+ 12.5 
+ 403 
+ 369H90029 
+ (self sealing) 
+ 402 
+ 0 
+ 12.5 
+ 389 
+ * Fuel, which cannot be drained from the tanks, through the drain, provided, with 
+ the helicopter in the normal ground attitude. 
+ ** Fuel which cannot be used safely in all flight attitudes, and which must be 
+ included in the empty weight. This includes trapped fuel. 
+ Note: Fuel capacities are total tank capacities over and above unusable fuel. Fuel 
+ weights are based on JP-4 fuel."
+Oil Capacity,"Engine Oil 
+ Transmission Oil 
+ (lb. at Sta. 133.3) 
+ (lb. at Sta. 105.0 
+ 6.00 
+ 11.60 
+ Note: Oil capacities are total tank capacities over and above trapped oil."
+Maximum Operating Altitude,"16,000 ft. density altitude"
+Main Rotor Blade Movements,"Collective Pitch (relative to rigging position): 
+ Up and Down 
+ 14.25° to 18.0° 
+ Cyclic Pitch (relative to rigging position): 
+ Forward 
+ 17° to 18.5° 
+ Aft 
+ 7° to 9.3° 
+ Left 
+ 7° to 9.3° 
+ Right 
+ 5.5° to 8.5°"
+Tail Rotor Blade Movements,"369D21600 Tail Rotor Assembly (2-blades) 
+ Collective Pitch 
+ Thrust to Right 
+ 27° to 29° 
+ Thrust to Left 
+ -13° to -15°"
+Horizontal Stabilizer Incidence,"7.50° to 8.00° measured relative to a line perpendicular to the main rotor mast 
+ centerline."
+Manufacturer’s Serial Numbers,"369F 
+ 0003 and up. 
+ 369FF 
+ 0001 through 0599 
+ 0600 through 0699 (369E conversion with pre-generic wiring) 
+ 0700 and up (369E conversion with generic wiring) 
+ See NOTE 5 for serial numbers not eligible. 
+ See NOTE 6 for serial number coding."
+V,"Model 369F (Normal Category Helicopter), Approved July 29, 1983"
+Certification Basis,"Basic Aircraft 
+ CAR 6 dated December 20, 1956, including Amendments 6-1 through 6-4 and 
+ Special Conditions, ""Conditions Establishing Compensating Factors Providing an 
+ Equivalent Level of Safety Under Civil Air Regulations, Section 6.10, for Light 
+ Turbine Powered Helicopters,"" dated October 2, 1962, as revised February 8, 1966, 
+ and FAR 21.21 providing for equivalent level of safety in lieu of CAR 6.412. 
+ 14 CFR Part 36, amendment 36-30, Appendix J. 
+ Glass Cockpit Installations 
+ All basic aircraft requirements with the glass cockpit required installations certified 
+ under 14 CFR Part 27 Amendment 27-1 through 27-47, dated 30 January 2012. 
+ Type Certificate H3WE amended 
+ 369F 
+ July 26, 1983 
+ 369FF 
+ July 11, 1985 
+ Dates of Application for amended Type Certificate 
+ 369F 
+ January 7, 1983 
+ 369FF 
+ June 6, 1985"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the aircraft for certification. 
+ All required equipment that must be installed as well as optional equipment 
+ installations are listed in following reports: 
+ 369F 
+ 369-E-5010 
+ Model 369F Equipment List 
+ 369FF 
+ 369-E-5011 
+ Model 369FF Equipment List"
+Approved Publications,"Rotorcraft Flight Manuals 
+ 369F 
+ CSP-F-1 
+ Dated July 29, 1983 
+ 369FF (Basic) 
+ CSP-FF-1 
+ Dated July 11, 1985 
+ Reissued October 25, 1985 
+ 369FF (Glass) 
+ CSP-FF-2 
+ Dated June 14, 2018"
+VI,"Model 500N (Normal Category Helicopter), Approved September 12, 1991 
+ See NOTE 14 for noise characteristics."
+Engine,"Rolls-Royce Corporation (formerly Allison Engine Company) 250-C20R/2. 
+ Refer to MDHI Drawing 369D28702 for engine configuration. The MDHI part 
+ number and ship effectivity are shown in the HMI IPC as reference."
+VI,"Model 500N (Normal Category Helicopter), Approved September 12, 1991 (cont.)"
+Fuel,"MIL-DTL-5624, Grade JP-4, and JP-5 Aviation Fuels 
+ MIL-DTL-83133 Grade JP-8 Aviation Fuel 
+ ASTM D-1655 Jet A, A-1 or Jet B ASTM D-6615 Jet B 
+ Chinese Specification GB6537-94 Grade RP-3. 
+ See “Rotorcraft Flight Manual” for alternate fuels. 
+ See “NOTE 7” for Anti-Icing additive. 
+ See Engine TCDS E1GL Note #10 for emergency use mixtures and limits. 
+ Note: Fuels containing Tri-cresyl-phosphate additives shall not be used."
+Engine Limits,"Ratings 
+ Takeoff (5 min) 
+ Max. Continuous 
+ Shaft Horsepower 
+ 425 
+ 375 
+ Torque 
+ 371.0 ft. - lb. (101.8 psi) 
+ 327.4 ft .- lb. (89.8 psi) 
+ Gas Producer rpm, N1 
+ 53,519 (105%) 
+ 53,519 (105%) 
+ Output Shaft rpm, N2 
+ 6,016 (100%) 
+ 6,016 (100%) 
+ Measured Gas Temp. 
+ 1,490°F (810°C) 
+ 1,385°F (752°C) 
+ Transient Limits for 250-C20R/2 
+ Takeoff (5 min) 
+ Shaft Horsepower 
+ 425 
+ Torque 
+ 371.0 ft. - lb. (101.8 psi) 
+ Gas Producer rpm, N1 
+ 53,519 (105%) 
+ Output Shaft rpm, N2 
+ 6,016 (100%)"
+Rotor Limits and Engine Operating,"Power Off (Rotor) 
+ Power On (Engine)"
+Speed,"Maximum: 508 rpm 
+ Maximum: 477 rpm / 100% N2 
+ Minimum: 410 rpm 
+ Minimum: 473 rpm / 99% N2"
+Airspeed Limits,"VNE (Never Exceed Speed) at sea level is 152 knots (175 mph) CAS. For reduction 
+ of VNE with altitude, and temperature see Rotorcraft Flight Manual. 
+ Autorotation VNE at sea level is 130 knots (149 mph) CAS."
+Center of Gravity CG Range,"Longitudinal 
+ Lateral 
+ Gross 
+ Forward 
+ Aft** 
+ Gross 
+ left*** 
+ Right*** 
+ Weight (lb.) 
+ * (Sta.) 
+ (Sta.) 
+ Weight 
+ (in.) 
+ (in.) 
+ Weight 
+ 3350 
+ 99 
+ 105.5 
+ 3350 
+ -3 
+ +3 
+ 2600 
+ 99 
+ 107.8 
+ 2000 
+ -3 
+ +3 
+ 1796 
+ 101.4 
+ 110.3 
+ 1796 
+ -2.2 
+ +2.2 
+ *Varies linearly between 2600 lbs. and 1796 lbs. 
+ **Varies linearly between 3350 lbs. and 1796 lbs. 
+ ***Varies linearly between 2000 lbs. and 1796 lbs. 
+ Note: Facing forward, + indicates right, and - indicates left of helicopter 
+ centerline."
+VI,"Model 500N (Normal Category Helicopter), Approved September 12, 1991 (cont.)"
+Leveling Means,Plumb bob at Sta. 92.64.
+Maximum Weight,"3,350 lb. 
+ See NOTE 1 for weight and balance report."
+Number of Seats,"1 at Sta. 71.5, 2 at Sta. 73.5, 2 at Sta. 105"
+Maximum Cargo,"1,300 lb. at 115 lb/sq-ft, Sta. 78.5 to 124. 
+ See NOTE 9 for external cargo information."
+Fuel Capacity,"Fuel System 
+ Total Tank 
+ Trapped 
+ Total 
+ Usable Fuel 
+ Capacity (lb.) 
+ Fuel* (lb.) 
+ Unusable 
+ Capacity (lb.) 
+ Fuel** (lb.) 
+ 369A8100 
+ 416 
+ 0 
+ 12.5 
+ 403 
+ 369H90029 
+ 402 
+ 0 
+ 12.5 
+ 389 
+ (self sealing) 
+ * Fuel which cannot be drained from the tanks, through the drain provided, 
+ with the helicopter in the normal ground attitude. 
+ ** Fuel which cannot be used safely in all flight attitudes and which must be 
+ included in the empty weight. This includes trapped fuel. 
+ Note: Fuel capacities are total tank capacities over and above usable fuel. Fuel 
+ weights are based on JP-4 fuel."
+Oil Capacity,"Engine Oil 
+ Transmission Oil (lb. at Sta. 
+ (lb. at Sta. 133.3) 
+ 105.0) 
+ 6.00 
+ 11.60 
+ Note: Oil capacities are total tank capacities over and above trapped oil."
+Maximum Operating Altitude,"20,000 ft. density altitude."
+Main Rotor Blade Movements,"Collective Pitch (relative to rigging position): 
+ Up and Down 
+ 14.25° to 18.0° 
+ Cyclic Pitch (relative to rigging position): 
+ forward 
+ 17° to 18.5º 
+ aft 
+ 7º to 9.3° 
+ left 
+ 7º to 9.3°"
+Fan Blade Movements,"500N5010 NOTAR Fan Installation 
+ Minimum 
+ 26º ±1º (Rig Position) 
+ Full Right Pedal 
+ 52º ±2º 
+ Full Left Pedal 
+ 71º ±2º"
+Horizontal Stabilizer Incidence,-1.9° nose down with respect to waterline plane.
+VI,"Model 500N (Normal Category Helicopter), Approved September 12, 1991 (cont.)"
+Vertical Stabilizer Movements,"Left Vertical* 
+ Right Vertical** 
+ Leading Edge Left*** 
+ -6.5º ± 0.5º 
+ -4.0º ± 0.5º 
+ Leading Edge Right*** 
+ +22.5º ± 0.5º 
+ +8.0º ± 0.5º 
+ Travel, minimum linear in. at trailing 
+ 6.46 
+ 2.70 
+ edge 
+ *Connected to directional control system. 
+ **Connected to yaw SAS. 
+ ***Relative to rigging position"
+Manufacturer’s Serial Numbers,"LN001 and up 
+ See NOTE 6 for serial number coding."
+Certification Basis,"CAR 6 dated December 20, 1956, including Amendments 6-1 through 6-4 and 
+ Special Conditions, ""Conditions Establishing Compensating Factors Providing an 
+ Equivalent Level of Safety Under Civil Air Regulations, Section 6.10, for Light 
+ Turbine Powered Helicopters,"" dated October 2, 1962, as revised February 8, 1966. 
+ In addition, height velocity testing is required to 7000 feet, in accordance with 
+ paragraphs 6.111 and 6.116, as amended by Amendment 6-7, issued October 8, 
+ 1963. 
+ 14 CFR Part 36, amendments 36-1 through 36-18, Appendix J. 
+ 14 CFR Part 27 sections listed below are applicable to the NOTAR system 
+ Regulations 
+ Amendments 
+ 27.143* (a), (b), (c), (d), (e) 
+ 27-21 
+ 27.399 
+ 27-1 
+ 27.571 
+ 27-18 
+ 27.605 (b) 
+ 27-16 
+ 27.672** 
+ 27-21 
+ 27.927 (b) 
+ 27-12 
+ 27.1529 
+ 27-18 
+ * Replaces CAR 6.121 (a), (b), (c), (e) 
+ ** Applicable to the yaw stability augmentation system. 
+ Type Certificate H3WE amended 
+ 500N 
+ September 12, 1991 
+ Dates of Application for amended Type Certificate 
+ 500N 
+ July 11, 1988"
+VI,"Model 500N (Normal Category Helicopter), Approved September 12, 1991 (cont.)"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the aircraft for certification. 
+ All required equipment that must be installed as well as optional equipment 
+ installations are listed in following reports: 
+ 500N 
+ 500N-CE-0059 
+ Model 500N Basic Weight Checklist"
+Approved Publications,"Rotorcraft Flight Manuals 
+ 500N 
+ CSP-520N-1 
+ Dated September 12, 1991"
+VII,"Model 600N (Normal Category Helicopter) Approved May 15, 1997"
+Aircraft Type Designator,HU60
+Engine,Rolls Royce Corporation (formerly Allison Engine Company) 250-C47M
+Fuel,"MIL-DTL-5624, Grade JP-4, and JP-5 Aviation Fuels 
+ MIL-DTL-83133 Grade JP-8 Aviation Fuel 
+ ASTM D-1655 Jet A, A-1 or Jet B ASTM D-6615 Jet B 
+ Chinese Specification GB6537-94 Grade RP-3 
+ See “Rotorcraft Flight Manual” for alternate fuels. 
+ See “NOTE 7” for Anti-Icing additive. 
+ See “Engine TCDS E1GL Note #10” for emergency use mixtures and limits. 
+ Note: Fuels containing Tri-cresyl-phosphate additives shall not be used."
+Engine Oil,"Engine oil conforming to MIL-PRF-7808 or MIL-PRF-23699 and subsequent 
+ revisions are authorized for use. See Rolls-Royce Corporation (formerly Allison 
+ Engine Company) Operation and Maintenance Manual, CSP21004 (latest revision), 
+ for approved oil manufacturers."
+VII,"Model 600N (Normal Category Helicopter) Approved May 15, 1997 (cont.)"
+Engine Limits,"Ratings 
+ Takeoff (5 min.) 
+ Max. Continuous 
+ Shaft Horsepower 
+ 600 shp 
+ 530 shp 
+ Torque 
+ 524 ft-lb. 
+ 463 ft-lb. 
+ (600 Q(3) ) 
+ (530 Q(3) ) 
+ Gas Producer rpm (N1) 
+ 53,550 (105%) 
+ 53,550 (105%) 
+ Output Shaft and Power 
+ (Same as Continuous.) 
+ 6858 rpm output shaft, 
+ Turbine rpm (N2) 
+ 34,941 rpm power 
+ turbine (114%)(2) at 
+ autorotation torque 
+ varying linearly to 6443 
+ rpm output shaft, 32,826 
+ rpm power turbine 
+ (107.1%) at 590(1) ft-lbs 
+ torque. 
+ Turbine Outlet Temp. 
+ 1435oF (779oC) 
+ 1,340oF (727oC) less 
+ than 10,000 ft. pressure 
+ altitude. 
+ ,1256oF (680 oC) 10,000 
+ ft. 
+ pressure altitude or 
+ greater. 
+ Transient Ratings 
+ Condition 
+ Time Limit 
+ Parameter Limit 
+ Torque 
+ 10 seconds 
+ 576 ft-lbs (660 Q(3) ) 
+ Turbine Outlet Temperature 
+ Start and Shutdown 
+ 10 seconds 
+ 1,550oF (843oC) to but 
+ not including 1700oF 
+ (927oC) 
+ Start and Shutdown 
+ 1 second 
+ 1,700oF (927oC) 
+ During Power Change in 
+ 12 seconds 
+ 1,435oF (779oC) to 
+ Flight 
+ 1,662oF (905oC) 
+ Gas Producer rpm, N1 
+ 10 seconds 
+ 54,060 rpm, 106 % 
+ Output Shaft and Power 
+ 15 seconds 
+ 7,159 rpm output shaft, 
+ Turbine rpm, N2 
+ 36,474 rpm power 
+ turbine (119%)(2) at 
+ autorotation torque 
+ varying linearly to 6,557 
+ rpm output shaft, 33,409 
+ rpm power turbine 
+ (109%) at 590(1) ft-lbs 
+ torque. 
+ (1)Note: Aircraft torque limit is 524 ft-lb. 
+ (2)Note: Aircraft Rotor RPM limit is 106.4%. 
+ (3)Note: Torque unit."
+VII,"Model 600N (Normal Category Helicopter) Approved May 15, 1997 (cont.)"
+Rotor Limits and Engine Operating,"Power Off (Rotor/Engine) 
+ Power On (Rotor/Engine)"
+Speeds,"Maximum - 506 rpm (106.4%) 
+ Maximum - 480.1 rpm/101%(3) N2 
+ Minimum - 428 rpm (90%) 
+ Minimum - 470.6 rpm/99%(3) N2 
+ (3)Note: ECU Governs Rotor RPM between 99.25% and 100.75%."
+Airspeed Limits,"VNE (Never Exceed Speed) power-on at sea level is 155 knots (178 mph) IAS for 
+ 3,600 lbs. or less internal gross weight; 145 knots (167 mph) IAS for 3,601 lbs. to 
+ 3,800 lbs. internal gross weight; 135 knots (156 mph) IAS for 3801 lbs or more 
+ internal gross weight. VNE power-off (autorotation) at sea level is 115 knots (132 
+ mph) IAS. For reduction of VNE with altitude and temperature, see FAA approved 
+ Rotorcraft Flight Manual."
+Center of Gravity,"See FAA approved Rotorcraft Flight Manual for variation of CG limit with gross 
+ weight, nominal limits are 91.0 to 100.0 longitudinal, -5.0 to +5.0 lateral."
+Leveling Means,Plumb bob at station 81.54.
+Maximum Weight,"4,100 lbs. (1860 kg) at sea level. See RFM for variation of maximum weightwith 
+ density altitude. See NOTE 16 for weight and balance report."
+Minimum Crew,1 (pilot)
+Maximum Occupants,8 (includes crew)
+Maximum Cargo,"1350 lbs. at 115 lb. / sq. ft., sta. 48.5 to 124.0. 
+ 612 kg at 561.5 kg / sq. meter, sta 48.5 to 124.0"
+Outside Air Temperature Limits,"-40° to + 51.9° C (-40° to +125°F) 
+ (OAT at Sea Level See RFM for variation at altitude)"
+Engine Cold Start Limits,-40°C (-40°F)
+Fluid Capacity,"Liters 
+ Imp. Gal. 
+ U.S. Gal. 
+ Fuel 
+ Usable 
+ 433.8 
+ 95.5 
+ 114.6 
+ Unusable 
+ 6.1 
+ 1.3 
+ 1.6 
+ Total 
+ 439.9 
+ 96.8 
+ 116.2 
+ Main Trans. Oil 
+ Total 
+ 6.62 
+ 1.46 
+ 1.75 
+ Hydraulic Fluid (Rotor Brake) 
+ Total 
+ 0.118 
+ 0.026 
+ 0.031 
+ Engine Oil 
+ Total 
+ 2.95 
+ 0.65 
+ 0.78"
+Maximum Operating Altitude,"20,000-ft density altitude, 18.700-ft pressure altitude with JP-4 or Jet-B, or 20,000-ft 
+ pressure altitude with Jet-A, Jet-A1, JP-5, or JP-8; whichever is lower."
+Main Rotor Blade Movements,"Collective Pitch (relative to rigging position) 
+ Up to Down 
+ 17.1° to 21.6°"
+VII,"Model 600N (Normal Category Helicopter) Approved May 15, 1997 (cont.) 
+ Cyclic (relative to rigging position) 
+ Forward 
+ 18.2° to 19.7° 
+ Aft 
+ 11.5° to 13.5° 
+ Left 
+ 7.6° to 9.6° 
+ Right 
+ 5.2° to 7.2°"
+Fan Blade Movements,"Minimum 
+ 26° ± 1° 
+ Full Right Pedal 
+ 54° ± 2° 
+ Full Left Pedal 
+ 73° ± 2°"
+Horizontal Stabilizer Incidence,1.9° nose down with respect to waterline plane.
+Vertical Stabilizer Movements,"Vertical Stabilizer (relative to rigging position) 
+ Left 
+ Right 
+ Leading Edge Left 
+ -10.5° ± 0.5° 
+ -14.5° ± 0.5° 
+ Leading Edge Right 
+ +23.5o ± 1o 
+ +19.5o ± 1o 
+ Travel, minimum linear 
+ 7.1 inches 
+ 7.1 inches 
+ inches at trailing edge"
+Certification Basis,"Basic Aircraft 
+ 14 CFR Part 27 dated October 2, 1964, through Amendment 27-30 with the 
+ following deviations: 
+ 27.562 and 27.863 excluded (earlier models did not have these requirements); 
+ 27.561 at Amendment 27-24; 
+ 27.607 at Amendment 27-3; 
+ 27.785 at Amendment 27-20; 
+ 27.1325 at Amendment 27-12; 
+ 14 CFR Part 36, amendments 36-1 through 36-21, Appendix J. 
+ Special Condition 
+ High-Intensity Electromagnetic Radiation Fields (H.I.R.F.) protection per 14 CFR 
+ 21.16 effective January 29, 1997, as published in the Federal Register FR 66, Page 
+ No. 4134, dated January 29, 1997. 
+ Equivalent Level of Safety 
+ The N1 gauge has shown compliance to 27.1549(b) through an alternate means. 
+ Glass Cockpit Installations 
+ 14 CFR Part 27 Amendments 27-1 through 27-47, dated January 30, 2012."
+VII,"Model 600N (Normal Category Helicopter) Approved May 15, 1997 (cont.)"
+Manufacturer’s Serial Numbers,"S/N RN003 and subsequent 
+ See “NOTE 6” for serial number coding."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the aircraft for certification. 
+ All required equipment that must be installed."
+Approved Publications,"Rotorcraft Flight Manuals 
+ 600N (Basic) 
+ CSP-600RFM-1 
+ Dated May 15, 1997 
+ 600N (Glass) 
+ CSP-600RFM-2 
+ Dated July 26, 2017 
+ Airworthiness Limitations Section (ALS) 
+ CSP-600HMI-2, Section 04-00-00 of the MDHI Model Helicopters Model 600N 
+ Basic Handbook of Maintenance Instructions"
+VIII,Data Pertinent to all Models
+Service Life Limits,"See NOTE 3 for list of life limited components for 369, 369A, 369H, 369HM, 
+ 369HS, 369HE, 369D, 369E, 369F, and 369FF aircraft manufactured on or before 
+ June 20, 1991. 
+ See Airworthiness Limitations Section (ALS) of Handbook of Maintenance 
+ Instruction (HMI) for the life limited components for 369D, 369E, 369F, and 369FF 
+ aircraft manufactured after June 20, 1991. 
+ See Airworthiness Limitations Section of HMI for the life-limited components for 
+ 500N and 600N aircraft. 
+ The HMI ALS and the Life Limit Schedule (NOTE 3 of the TCDS) specify that 
+ Service Life Limited parts are retired according to an FAA approved schedule. 
+ These values of retirement or service life cannot be increased without approval by 
+ FAA engineering."
+Production Basis,"Production Certificate No. 410NM was utilized through February 18, 1999 for the 
+ 369, 369A, 369H, 369HM, 369HS, 369HE, 369D, 369E, 369F, 369FF, 500N, and 
+ 600N helicopters. 
+ Effective February 18, 1999 the Type Certificate (TC) No. H3WE was transferred to 
+ MD Helicopters Inc. (MDHI), the new TC holder. MDHI has licensed back to 
+ McDonnell Douglas Helicopter Company (MDHC) to build the 369E, 369FF, 500N, 
+ and 600N helicopters under a new Production Certificate No. 714NM. Effective 
+ February 19, 1999 the following serial number helicopters were built under PC 
+ 714NM. 
+ 369E 
+ 0542 and 0543 
+ 369FF 
+ 0134 through 0137 
+ 500N 
+ LN086 through LN089 
+ 600N 
+ RN047, RN052 and RN054"
+VIII,"Data Pertinent to all Models (cont.) 
+ On November 5, 1999 MD Helicopters, Inc. received Production Certificate PC 
+ 715NM under which MDHI was authorized to manufacture the 369E, 369FF, 
+ 500N and 600N helicopters. Effective November 5, 1999 the following serial 
+ number helicopters and subsequent will be built under PC715NM. 
+ 369E 
+ 0544 and subsequent 
+ 369FF 
+ 0138 and subsequent 
+ 500N 
+ LN090 and subsequent 
+ 600N 
+ RN053, RN055 and subsequent"
+NOTE 1,"A current weight and balance report, including a list of equipment included in certificated empty weight 
+ and loading instructions, must be provided for each helicopter at the time of original airworthiness 
+ certification and at all times thereafter, except in the case of operators having an approved weight 
+ control system."
+NOTE 2,"The following placard must be installed in clear view of the pilot: 
+ ""This Helicopter must be operated in compliance with the operating limitations specified in the 
+ Rotorcraft Flight Manual.” 
+ For additional placards, see Rotorcraft Flight Manual."
+NOTE 3,"Information essential to the proper maintenance of these helicopters is contained in the Manufacturer's 
+ Handbook of Maintenance Instructions (HMI) which is provided with each civil helicopter at the time of 
+ delivery to the operator. These handbooks specify that Service Life Limited parts are retired according 
+ to an FAA approved schedule. These values of retirement or service life cannot be increased without 
+ approval by FAA engineering. 
+ For Models 369D, 369E, 369F, and 369FF aircraft manufactured after June 20, 1991, see the 
+ Airworthiness Limitations Section of the HMI for the Limited Life Schedule. 
+ For Model 500N and 600N aircraft see the Airworthiness Limitations Section of the HMI for the 
+ Limited Life Schedule. 
+ Model Applicability Codes for Aircraft Manufactured on or Prior to June 20, 1991 
+ A 
+ Model 369 
+ For a list of critical parts and life limits 
+ contact: Federal Aviation Administration 
+ Manager Los Angeles Aircraft Certification 
+ Office 3960 Paramount Boulevard 
+ Lakewood, California 90712-4137 
+ B 
+ Model 369 
+ For a list of critical parts and life limits 
+ contact: Federal Aviation Administration 
+ Manager Los Angeles Aircraft Certification 
+ Office 3960 Paramount Boulevard 
+ Lakewood, California 90712-4137"
+VIII,"Data Pertinent to all Models (cont.) 
+ C 
+ Model 369A; S/N 1446 and up or S/N 0001 through 1445 with M30242 Kit; and 
+ Models 369HM, 369HS, and 369HE; S/N 0001 and up with Rolls-Royce Corporation 
+ (formerly Allison Engine Company) 250-C18A or 250-C18C engine, unless otherwise 
+ noted. 
+ D 
+ Model 369H, 369HM, 369HS; S/N 0101 and up with Rolls-Royce Corporation 
+ (formerly Allison Engine Company) 250-C20 engine, unless otherwise noted. 
+ E 
+ Model 369D; S/N 003 and up, Model 369E S/N 0001 and up, Model 369F S/N 0003 
+ and up and Model 369FF S/N 0001and up, unless otherwise noted. 
+ Limited Life Schedule 
+ B, C, D 
+ B 
+ C 
+ D 
+ E 
+ E"
+Applicability,"Part Number 
+ Hours 
+ Hours 
+ Hours 
+ Part Number (5) 
+ Hours"
+Component see Note 1,"/TE (11) 
+ /TE (11) 
+ /TE (11) 
+ /TE (11) 
+ (5)"
+Folding pin main rotor,"369A1004 
+ 5760 
+ 5760 
+ 5760 
+ 369A1004-BSC 
+ 2850 
+ 369A1004-3 
+ 2850 
+ 369A1004-5 
+ 7600"
+Applicability Component,"B, C, D 
+ B 
+ C 
+ D 
+ E 
+ E"
+see Note 1,"Part Number 
+ Hours 
+ Hours 
+ Hours 
+ Part Number (5) 
+ Hours 
+ (5) 
+ /TE (11) 
+ /TE (11) 
+ /TE (11) 
+ /TE (11)"
+Blade main rotor7 SN,"369A1100-501 
+ 1655 
+ 1570 
+ 1570"
+0001 to 3499,"S/N 3500 & Sub A000 & 
+ 369A1100-501 
+ 2440 
+ 2440 
+ 2440"
+Sub,"S/N 3500 & Sub A000 & 
+ 369A1100-503 
+ 2440 
+ 2440 
+ 2440"
+Sub,"S/N 3500 & Sub A000 & 
+ 369A1100-505 
+ 2440 
+ 2440 
+ 2440"
+SN D139 thru D203 D209,"369A1100-507 
+ 1,750 
+ 1,750 
+ 1,750"
+thru D223,"/10,600 
+ /10,600 
+ /10,600 
+ TE (11) 
+ TE (11) 
+ TE (11)"
+SN 3500  Sub,"369A1100-511 
+ 3500 
+ 3500 
+ 3500"
+Blade main rotor 369D ,"369D21100 
+ 3530"
+SN H664 H665 H667,"369D21100-517 
+ 2,500"
+H669 H671 H672 H674,"/15,000"
+H676 H679 H680 H683,TE (11)
+thru J039 J041 thru J055,"B, C, D 
+ B 
+ C 
+ D 
+ E 
+ E"
+Applicability,"Part Number 
+ Hours 
+ Hours 
+ Hours 
+ Part Number (5) 
+ Hours"
+Component see Note 1,"/TE (11) 
+ /TE (11) 
+ /TE (11) 
+ /TE (11) 
+ (5)"
+Blade main rotor 369F ,"369D21102 
+ 3430"
+SN 1976 thru 2100 2106,"369D21102-517 
+ 2500"
+thru 2115,"/15,000 
+ TE (11)"
+Hub subassy main rotor,"369A1201 
+ 8900 
+ 8900 
+ 8900 
+ 369D21201 
+ 8,900"
+Pitch housing main rotor,"369A1300 
+ 6200 
+ 6200 
+ 6200 
+ 369D21300 
+ 9100"
+369A Military use only,"369D21300- 
+ 6200 
+ 6200 
+ 501"
+Retention straps main,"369A1210 
+ 2774(2) 
+ 2774(2) 
+ 2774(2) 
+ 369D21210(2) 
+ 2770(2)"
+Vertical hinge pin main,"369A1220 
+ 5490 
+ 4220 
+ 4220 
+ 369A1220 
+ 6120"
+rotor,"369D21220 
+ 5490 
+ 4220 
+ 4220 
+ 369D21220 
+ 6120"
+Vertical hinge links main,"369A1234 
+ 2860 
+ 2650 
+ 2650"
+rotor,"369H1203- 
+ 6396 
+ 6396 
+ 6396 
+ 369H1203-BSC, - 
+ 5762 
+ BSC, -21, and - 
+ 21, and -31 
+ 31 
+ 369H1203-51, 
+ 10600 
+ 10600 
+ 10600 
+ 369H1203-51, and 
+ 11080 
+ and -61 
+ -61"
+Mast assy main rotor,"369A2014 
+ 5710 
+ 5710 
+ 5710 
+ 369D22014 
+ 10450 
+ 369D22014 
+ 5710 
+ 5710 
+ 5710"
+LeadLag Damper,"369D21400-501 
+ 6060 
+ 369D21400-503 
+ (9) 
+ M50452 
+ (9)"
+369A Military use only,"369D21400- 
+ *(9) 
+ (9)"
+With 369D21300501,503
+Long Idler bellcrank,"369A7301 
+ 6500"
+Long mixer bellcrank,"369A7603 
+ 13600 
+ B, C, D 
+ B 
+ C 
+ D 
+ E 
+ E"
+Applicability,"Part Number 
+ Hours 
+ Hours 
+ Hours 
+ Part Number (5) 
+ Hours"
+Component see Note 1,"/TE (11) 
+ /TE (11) 
+ /TE (11) 
+ /TE (11) 
+ (5)"
+Driveshaft main rotor,"369A5500 
+ 6500 
+ 3960 
+ 3960 
+ 369A5520 
+ 1990 
+ 1740 
+ 1300"
+369D  369E,"369D25510 
+ 5020"
+369F  369FF,"369D25510 
+ 3675"
+Driveshaft Main trans,"369A5510 
+ 3700 
+ 3700 
+ 3700 
+ 369A5510 
+ 3790"
+Driveshaft coupling main,"369H5660 
+ 4300"
+Blade tail rotor fiberglass 369A1710,"2861 
+ 2861 
+ 369A1607 
+ 2861 
+ 2861"
+Blade tail rotor,"369A1613- 
+ 5600 
+ 5600 
+ 5600"
+Aluminum 10,"BSC, -3, -501, 
+ -503, -505, -"
+369D  369E,"369D21613 
+ 5200 
+ 369D21613-11 
+ 5140 
+ -31, -41, & -51"
+369F  369FF,"369D21606 
+ 5140"
+Blade tail rotor,"369D21615 
+ 10000"
+Driveshaft tail rotor 369F,"369A5518 
+ 8730 
+ 8730 
+ 8730 
+ 369D25518 
+ 13900"
+369FF,"369DSK152-11 
+ 13900 
+ 369D25518-503 
+ 14610"
+Gearshaft tail rotor input,"369A5406 
+ 1800 
+ 1800 
+ 1800"
+Gearshaft tail rotor output,"369A5406 
+ 2940 
+ 2940 
+ 2940"
+Input Gearshaft assembly,"369A5425* 
+ 1800 
+ 1800 
+ 1800 
+ 369D25434 
+ 12000"
+tail rotor1,"*Except 
+ 369A5425-5, 
+ which is 
+ replaced ""on"
+369F 369FF,"369D25434 
+ 3365 
+ condition""."
+Output Gearshaft,"369D25430 
+ 7290"
+assembly tail rotor,"B, C, D 
+ B 
+ C 
+ D 
+ E 
+ E"
+Applicability,"Part Number 
+ Hours 
+ Hours 
+ Hours 
+ Part Number (5) 
+ Hours"
+Component see Note 1,"/TE (11) 
+ /TE (11) 
+ /TE (11) 
+ /TE (11) 
+ (5)"
+Strap assembly tail rotor,"369A1706 
+ 5100 
+ 5100 
+ 5100 
+ 369A1706 
+ 5100"
+When installed with,"369A1706* 
+ 3250 
+ 3250 
+ 3250"
+Hub assy tail rotor,"369A1725 
+ 3450"
+Tailboom6,"369A3500 
+ 2674 
+ 2450 
+ 369D3500 
+ 10300"
+369A  369HM,"2674 
+ 2177"
+Except 369A  369HM,"1800 
+ 1800 
+ 1800"
+369HS  369HE,"2030 
+ 2030 
+ 2030"
+369H 369H 369HM,"369A3500-619 
+ 1880 
+ 1880 
+ 1880"
+Tailboom attach bolts6,"NAS625-14 
+ 2598 
+ 2504"
+369A  369HM Except,"MS21250- 
+ 2598 
+ 2504 
+ MS21250-06014 
+ 21950"
+369A 369HM,"05014 
+ 2598 
+ 2400"
+369HS  369A1620 tail,"2400 
+ 2400 
+ 2400"
+Horizontal Stab6 369A,"369A3600 
+ 3,150 
+ 3,050"
+369A  369HM with,"3,050 
+ 3,050 
+ 3,050"
+369H 369HE  369HS,"3,450 
+ 3,450 
+ 3,450"
+tail rotor,"369D23601 
+ 7,700"
+369D,"421-087-505 
+ 7,700"
+369E,"421-087-905 
+ 7,700 
+ 421-087-503 
+ 7,700"
+369F  369FF,"421-087-903 
+ 7,700"
+369E,"369D23600 
+ 12,700"
+369F  369FF,"369D23600-505 
+ 3,300 
+ B, C, D 
+ B 
+ C 
+ D 
+ E 
+ E"
+Applicability,"Part Number 
+ Hours 
+ Hours 
+ Hours 
+ Part Number (5) 
+ Hours"
+Component see Note 1,"/TE (11) 
+ /TE (11) 
+ /TE (11) 
+ /TE (11) 
+ (5)"
+Upper Vertical Stab6,369A3625
+369A  369H 369HE,"3,840 
+ 3,840"
+369A  369HM with,"3,280"
+369A1620 aluminum tail,"3,280 
+ 3,280"
+rotor,"3,840"
+369H 369HS  369HE,"3,840 
+ 3,840"
+Coupling tail rotor shaft,"369A5501 
+ 7080 
+ 7080 
+ 7080 
+ 369A5501 
+ 4980 
+ 369H925643 
+ 7080 
+ 7080 
+ 369H925643 
+ 4980"
+Damper assy Landing,"369A6300 
+ (4) 
+ (4)"
+For 369A only,"369A6350 
+ (4)"
+Emergency Float Option,"369H90121 
+ (8) 
+ (8) 
+ (8) 
+ 369D292473-5 
+ (8)"
+369H 369HM 369HS ,"-6, -9, -10, -11,"
+369HE,and -12
+Utility Float Kit,"369DSK66 
+ 3190"
+Kit Option Stabilizer,"369D292036 
+ 3190"
+Support 369DE only,"Footnotes to the Limited Life Schedule 
+ (1) Life limited components interchanged between models or configurations, including Model 369 
+ series where applicable, must be restricted in the lowest service life indicated for the models or 
+ configurations affected. Life limited components removed at retirement are to be destroyed or 
+ conspicuously marked to prevent inadvertent return to service. Parts are applicable only on 
+ models under which a service is listed. 
+ (2) The service life for the strap retention system is a calculated maximum. In actual fact, the 
+ strap retention system is an on-condition replacement in accordance with MDHI Service 
+ Bulletin HN- 214/DN-154/EN-44/FN-33. 
+ (3) Used with 369H90123 Rotor Brake Kit. (Not applicable on Model 369A). 
+ (4) Must be overhauled at 1200 hour intervals per manufacturer's instructions. 
+ (5) Service life shown for basic part number applies to all dash-numbered versions unless 
+ otherwise indicated. 
+ (6) Applicable to all models and configurations except as noted. 
+ (7) Blade serialization sequence as follows: 0001 - 9999, A001 - Z999, AA01 - ZZ99 
+ (8) A life limit of five (5) years from date of manufacture has been established for the Holex, Inc., 
+ P/N 12552-1 (Walter Kidde P/N 281993) and Holex, Inc., P/N12754-1 (TAVCO P/N 5003527) 
+ SQUIB CARTRIDGES. 
+ (9) The 369D21400-503 and 50452 damper assemblies are to continue being inspected for 
+ deterioration every 600 hours up to a total time of 4200 hours and every 300 hours thereafter 
+ until deterioration is sufficient to retire assembly. Allowable deterioration is denoted in the 
+ Handbooks of Maintenance Instructions for the Model 369D, 369E, 369F, and 369FF 
+ helicopters. 
+ (10) The 369A1613-7, -9, and -11 tail rotor blades are for military use only (OH-6A) and are not 
+ FAA certified for Model 369H series helicopters. 
+ (11) These Blades are Subject Flight Hour Factoring. See applicable Service Bulletin SB369H-243R3, 
+ SB369D-195R3, SB369E-088R3 or SB369F-075R3, SB500N-015R3, SB600N-007R2 dated July 
+ 13, 1998 and FAA AD 98-15-26. TE = Torque Events is defined as the transition to a hover from 
+ forward flight. For this definition of TE, Forward Flight is considered to be flight at any airspeed 
+ after attaining transitional lift."
+NOTE 4,"The following information applies to the U.S. standard and export airworthiness certification of Hughes 
+ Model 369 (YOH-6A) and 369A (OH-6A) helicopters: 
+ a) 
+ The Hughes Model 369 (YOH-6A) and 369A (OH-6A) helicopters were only produced for and 
+ delivered to military customers. To meet the basic eligibility requirements for a U.S. standard 
+ and export airworthiness certificate, Hughes Model 369 (YOH-6A) and 369A (OH-6A) 
+ helicopters must have been issued an FAA Form 8130-2 (previously FAA Form 970), “FAA 
+ Conformity Certificate – Military Aircraft”, prior to delivery to the U.S. Army. Civil 
+ conversion of these helicopters requires certain modifications to be made in accordance with 
+ the applicable FAA approved type design data which forms the basis of Type Certificate 
+ H3WE. 
+ b) 
+ Government furnished equipment identified in Hughes Report No. 369-X-0008, dated June 24, 
+ 1964 must be removed from Hughes Model 369 (YOH-6A) helicopters to be eligible for a U.S. 
+ standard and export airworthiness certificate. 
+ c) 
+ The FAA approved parts and equipment identified as required in Hughes Report No. 369-E- 
+ 5002, dated April 15, 1966 must be installed on Hughes Model 369A (OH-6A) helicopters to be 
+ eligible for a U.S. standard and export airworthiness certificate. 
+ d) 
+ Information essential to the proper maintenance of the Hughes Model 369A (OH-6A) 
+ helicopters is contained in the latest version of U.S. Army Technical Manual TM 55-1520-214- 
+ 23 and is applicable to civil converted Hughes Model 369A (OH-6A) helicopters. However, 
+ civil conversion of these helicopters in accordance with the applicable NOTE 4.a) above will 
+ result in configuration changes to these helicopters which are not included in TM 55-1520-214- 
+ 23. 
+ Maintenance information associated with the configuration changes does not exist and must be 
+ furnished and submitted, by the applicant for an airworthiness certificate, to the FAA Ft. Worth 
+ Aircraft Evaluation Group (FTW-AEG) for review and acceptance prior to issuance of a U.S. 
+ standard and export airworthiness certificate. See NOTE 3 and Service Life Limits section of 
+ this TCDS above for maintenance information and a list of life limited components for civil 
+ converted Hughes Model 369 (YOH-6A) and 369A (OH-6A) helicopters."
+VIII,"Data Pertinent to all Models (cont.) 
+ e) 
+ Operational information and operating limitations essential for the proper operation of the 
+ Hughes Model 369 (YOH-6A) helicopters is contained in the FAA approved Flight Manual 
+ for the Hughes Model 369 (YOH-6A) Helicopter, dated July 17, 1968, or later FAA approved 
+ revision and is applicable to civil converted Hughes Model 369 (YOH-6A) helicopters. 
+ However, civil conversion of these helicopters in accordance with the applicable NOTE 4.a) 
+ above will result in configuration changes to these helicopters which may effect the operation 
+ of these helicopters. 
+ Operational information and operating limitations essential for the proper operation of the 
+ Hughes Model 369A (OH-6A) helicopters is contained in the FAA approved Owners Manual 
+ for the Hughes Model 369A (OH-6A) Helicopter, dated June 16, 1975, or later FAA approved 
+ revision and is applicable to civil converted Hughes Model 369A (OH-6A) helicopters. 
+ However, civil conversion of these helicopters in accordance with the applicable NOTE 4.a) 
+ above will result in configuration changes to these helicopters which may effect the operation 
+ of these helicopters. 
+ Helicopter operational and operating limitation information associated with configuration 
+ changes must be furnished and submitted, by the applicant for an airworthiness certificate, to 
+ the FAA Los Angeles Aircraft Certification Office (LAACO) in the form of a Rotorcraft Flight 
+ Manual (RFM) for review and FAA approval prior to issuance of a U.S. standard and export 
+ airworthiness certificate. 
+ f) 
+ Historical records must be made available and evaluated to determine if any major repairs and 
+ alterations, including the installation of various U.S. Army replacement parts, were performed 
+ on Hughes Model 369 (YOH-6A) and 369A (OH-6A) helicopters by the U.S. Army. Any 
+ major repairs and alterations, including the installation of U.S. Army replacement parts, must 
+ be removed unless FAA approved in order for helicopters to be eligible for a U.S. standard and 
+ export airworthiness certificate. 
+ g) 
+ The use of a rotorcraft operating or flight manual other than the FAA approved manual 
+ identified in the applicable NOTE 4.e), must be FAA approved in order for helicopters to be 
+ eligible for a U.S. standard and export airworthiness certificate. 
+ h) 
+ Hughes Model 369 (YOH-6A) and 369A (OH-6A) helicopters surplused from other than U.S. 
+ Armed Forces of the United States are not eligible for issuance of a U.S. standard and export 
+ airworthiness certificate or issuance of an FAA restricted category type certificate."
+NOTE 5,"The following list of aircraft serial numbers are those used for foreign military helicopters and/or special 
+ production, and are not eligible for a U.S. standard airworthiness certificate."
+VIII,"Data Pertinent to all Models (cont.) 
+ 369D Derivative Serial Numbers Not Eligible 
+ 0026 
+ 0046 
+ 0056 
+ 0186 
+ 0194 
+ 0202 
+ 0210 
+ 0278 
+ 0279 
+ 0280 
+ 0281 
+ 0322 
+ 0323 
+ 0324 
+ 0325 
+ 0340 
+ 0366 
+ 0367 
+ 0368 
+ 0369 
+ 0402 
+ 0407 
+ 0408 
+ 0409 
+ 0410 
+ 0411 
+ 0418 
+ 0425 
+ 0426 
+ 0427 
+ 0428 
+ 0430 
+ 0435 
+ 0443 
+ 0468 
+ 0469 
+ 0470 
+ 0504 
+ 0508 
+ 0511 
+ 0520 
+ 0523 
+ 0550 
+ 0551 
+ 0552 
+ 0553 
+ 0569 
+ 0570 
+ 0571 
+ 0597 
+ 0598 
+ 0599 
+ 0608 
+ 0615 
+ 0616 
+ 0617 
+ 0618 
+ 0620 
+ 0642 
+ 0643 
+ 0644 
+ 0645 
+ 0666 
+ 0667 
+ 0668 
+ 0669 
+ 0682 
+ 0684 
+ 0685 
+ 0686 
+ 0687 
+ 0712 
+ 0713 
+ 0722 
+ 0723 
+ 0740 
+ 0741 
+ 0760 
+ 0761 
+ 0781 
+ 0782 
+ 0783 
+ 0802 
+ 0803 
+ 0804 
+ 0805 
+ 0948 
+ 0956 
+ 0965 
+ 0972 
+ 0977 
+ 0989 
+ 1001 
+ 1005 
+ 1047 
+ 1056 
+ 1061 
+ 1071 
+ 1081 
+ 1093 
+ 1107 
+ 1116 
+ 1222 
+ 1235 
+ 1236 
+ 1237 
+ 1241 
+ 1242 
+ 1243 
+ 1244 
+ 1245 
+ 1246 
+ 1247 
+ 1248 
+ 1249 
+ 1250 
+ 1251 
+ 1252 
+ 1253 
+ 1256 
+ 1257 
+ 1266 
+ 1267 
+ 1276 
+ 1277 
+ 1287 
+ 1288 
+ 369E Derivative Serial Numbers Not Eligible 
+ 0081 
+ 0102 
+ 0103 
+ 0104 
+ 0112 
+ 0113 
+ 0114 
+ 0124 
+ 0125 
+ 0131 
+ 0132 
+ 0137 
+ 0138 
+ 0139 
+ 0142 
+ 0153 
+ 0154 
+ 0158 
+ 0159 
+ 0160 
+ 0161 
+ 0162 
+ 0163 
+ 0164 
+ 0171 
+ 0172 
+ 0173 
+ 0174 
+ 0175 
+ 0176 
+ 0183 
+ 0184 
+ 0185 
+ 0186 
+ 0212 
+ 0213 
+ 0214 
+ 0254 
+ 0257 
+ 0263 
+ 0264 
+ 0265 
+ 0269 
+ 0272 
+ 0271 
+ 0273 
+ 0274 
+ 0275 
+ 0277 
+ 0278 
+ 0279 
+ 0283 
+ 0284 
+ 0285 
+ 0286 
+ 0289 
+ 0290 
+ 0291 
+ 0294 
+ 0295 
+ 0296 
+ 0297 
+ 0298 
+ 0299 
+ 0300 
+ 0305 
+ 0306 
+ 0307 
+ 0308 
+ 369F AND 369FF Derivative Serial Numbers Not Eligible 
+ 0007 
+ 0008 
+ 0016 
+ 0017 
+ 0018 
+ 0019 
+ 0020 
+ 0021 
+ 0022 
+ 0024 
+ 0025 
+ 0026 
+ 0027 
+ 0028 
+ 0029 
+ 0030 
+ 0031 
+ 0032 
+ 0033 
+ 0034 
+ 0035 
+ 0036 
+ 0037 
+ 0038 
+ 0039 
+ 0040 
+ 0043 
+ 0045 
+ 0047 
+ 0048 
+ 0051 
+ 0053 
+ 0054 
+ 0055 
+ 0057 
+ 0059 
+ 0069 
+ 0070 
+ 0071 
+ 0072 
+ 0073 
+ 0074 
+ 0084 
+ 0085 
+ 0090 
+ 0091 
+ 0118 
+ 0132 
+ 0179 
+ 0180 
+ 0181 
+ 0182 
+ 0183 
+ 0184 
+ 0214 
+ 0215 
+ 0216 
+ 0217 
+ 0218 
+ 0219 
+ 0220 
+ 0221 
+ 0222 
+ 0223 
+ 0224 
+ 0225 
+ 0252 
+ 0256 
+ 0257 
+ 0258 
+ 0259 
+ 0260 
+ 0261 
+ 0262 
+ 0263 
+ 0264 
+ 0265 
+ 0266 
+ 0267 
+ 0268 
+ 0271 
+ 0272 
+ 0273 
+ 0274 
+ 0275 
+ 0276 
+ 0277 
+ 0278 
+ 0278 
+ 0280 
+ 0281 
+ 0282 
+ 0283 
+ 0284 
+ 0285 
+ 0286 
+ 0287 
+ 0288 
+ 0289 
+ 0290 
+ 0291 
+ 0292 
+ 0293 
+ 0294 
+ 0295 
+ 0296 
+ 0297 
+ 0298 
+ 0299 
+ 0300 
+ 0301 
+ 0302 
+ 0303 
+ 0304 
+ 0305 
+ 0306 
+ 0307 
+ 0308 
+ 0309 
+ 0310 
+ 0311 
+ 0312 
+ 0313 
+ 0314 
+ 0315 
+ 0316 
+ 0319 
+ 0700 
+ 0701 
+ 0702 
+ 0703 
+ 0704 
+ 0705 
+ 0706 
+ 0707 
+ 0708"
+VIII,Data Pertinent to all Models (cont.)
+NOTE 6,"Aircraft serial numbers are coded to show the month and year of manufacture in that sequence. 
+ Examples: 640103, 1150015E 
+ 6 
+ 4 
+ 0103 
+ 11 
+ 5 
+ 0015 
+ E 
+ Month of Manufacture 
+ Year of Manufacture 
+ Serial Number in Consecutive 
+ Additional 
+ 6 - June 
+ 4 - 1964 
+ order from 0001 for each model 
+ designation as 
+ 11 - November 
+ 5 - 1965 
+ (this is the number used for S/N 
+ noted below 
+ applicability requirements) 
+ Model 369A helicopters, S/N 1079 through 1099, utilize an alpha numeric serialization system. The 
+ letters used are A, B, C, D, E, F, G, J, K, L, N, P, R, T, U, W, and Y. First aircraft of the block is S/N 
+ 1079A, the second is 1079B, etc. 
+ Model 369HM helicopters carry the letter M following the serial number. This was effective with Ship 
+ S/N 0004M. 
+ Model 369HE helicopters carry the letter E following the serial number. This was effective with Ship 
+ S/N 0101E. 
+ The helicopters listed below have been or will be delivered without the manufacturing date coding as 
+ part of the serial number: 
+ 369D 
+ S/N 1068, 1087, 1095; S/N 1100 and subsequent. 
+ 369E 
+ S/N 0001 and subsequent 
+ 369F 
+ S/N 0003 and subsequent 
+ 369FF 
+ S/N 0001 and subsequent 
+ 500N 
+ S/N LN001 and subsequent 
+ 600N 
+ S/N RN003 and subsequent"
+NOTE 7,"For all operations below 40º F ambient temperature all fuel, except MIL-G-5572 (Aviation Gasoline), 
+ must contain anti-icing additive conforming to MIL-I-27686 in concentrations of 0.035 per cent by 
+ volume minimum 0.15 percent by volume maximum. See Rotorcraft Flight Manual for checking 
+ concentrations and blending."
+NOTE 8,"For Model 369A the maximum weight may be increased to 2550 pounds when the M30242 ""OH-6A 
+ revised operating limits-kit, modification"" is incorporated. For additional limitations when this kit is 
+ installed see Fuel, Engine Limits, Transient Limits, Rotor Limits, and Engine Operating Speeds, and 
+ NOTE 3."
+VIII,Data Pertinent to all Models (cont.)
+NOTE 9,"Model 369H Series aircraft, Serial No. 0101 and up, with the 369H90065 or 369H90072 Cargo Hook 
+ installed meet the structural and design requirements of the certification basis provided the weight in 
+ excess of the normal category gross weight is not imposed on the landing gear, when operated at 
+ 3000 pounds gross weight in accordance with the limits of the approved Rotorcraft Flight Manual 
+ Supplement for the cargo hook. The retirement times listed in NOTE 3 are not changed. 
+ Model 369D Series aircraft, Serial No. 003 and up, and Model 369E Series aircraft, Serial No. 0001 
+ and up, with 369H90072 Cargo Hook installed, meet the structural and design requirements of the 
+ certification basis, provided the weight in excess of the normal category gross weight is not imposed 
+ on the landing gear, when operated at 3550 pounds gross weight in accordance with the limits of the 
+ approved Rotorcraft Flight Manual Supplement for the Cargo Hook. The retirement times listed in 
+ NOTE 3 are not changed 
+ Model 369D Series Aircraft operated in the Restricted Category with the 429-4537 Jettisonable Load Kit 
+ installed meet the structural and design requirements of the certification basis, provided the weight in 
+ excess of 3000 pounds must be external jettisonable. Maximum takeoff and power-on landing gross 
+ weight is 3550 pounds. The retirement times listed in NOTE 3 are not changed. 
+ Model 369F Series aircraft, Serial No. 0003 and up, and Model 369FF Series aircraft, Serial No. 0001 
+ and up, with Cargo Hook installed, meet the structural design requirements of the certification basis, 
+ provided the weight in excess of the normal category gross weight is not imposed on the landing gear, 
+ when the Model 369F is operated at 3550 pounds gross weight or when Model 369FF is operated at 
+ 3750 pounds gross weight in accordance with the limits of the approved Rotorcraft Flight Manual 
+ Supplement (as applicable to the Model 369F or 369FF) for Cargo Hook. The retirement times listed in 
+ NOTE 3 are not changed 
+ Model 500N aircraft, Serial No. LN0001 and up, with Cargo Hook installed, meet the structural design 
+ requirements of the certification basis, provided the weight in excess of the normal category gross 
+ weight is not imposed on the landing gear, when the Model 500N is operated at 3850 pounds gross 
+ weight in accordance with the limits of the approved Rotorcaraft Flight Manual. The retirement times 
+ listed in the Airworthiness Limitations Section of the HMI are not changed."
+NOTE 10,"Inspect the P/N 369A5364 Sprag Assembly, 369A5352 Outer Race, and 369A5353 Inner Race of P/N 
+ 369A5350-603 Overrunning Clutch Assembly in Model 369E, 369F, and 369FF helicopters for wear in 
+ the cages and sprags of the sprag assembly, inner and outer race every 300 hours and replace the sprag 
+ assembly every 1800 hours of total service time in accordance with MDHI Service Bulletin EN-3 or FN- 
+ 3, as appropriate."
+NOTE 11,"Inspect the main rotor drive shaft, P/N 369D25510, in Model 369E, 369F, and 369FF for cracks and 
+ damage every 300 hours in accordance with MDHI Service Bulletin EN-4 or FN-4, as appropriate."
+NOTE 12,"The Model 369F Series aircraft may be converted to a Model 369FF Series aircraft with the installation 
+ of those parts called out on Drawing 369D290100."
+NOTE 13,"Models 369D and 369E with alternate engine (Rolls-Royce Corporation - formerly Allison Engine 
+ Company) 250-C20R/2) are approved with the kits/options identified on 369D290000, Revision G, or 
+ later approved revisions and Kit Compatibility Substantiation Report No. 369-CE-195, dated March 28, 
+ 1989, or latest approved revision."
+VIII,Data Pertinent to all Models (cont.)
+NOTE 14,"NOISE CHARACTERISTICS. Model 369D and 369E helicopters with the Rolls-Royce Corporation 
+ (formerly Allison Engine Company) 250-C20B engine installed have not been tested for noise in 
+ accordance with the requirements of FAR Part 36. Therefore, they are Stage 1 helicopters. Substitution 
+ of Rolls-Royce Corporation 250-C20R/2 engine results in no acoustic change. Thus, Model 369D and 
+ 369E aircraft with the 250-C20R/2 engine installed are also Stage 1 helicopters. Model 369FF 
+ helicopter with the Rolls-Royce Corporation 250-C30 engine has not been tested for noise in accordance 
+ with the requirements of FAR Part 36, therefore, the Model 369FF is a Stage 1 helicopter. 
+ The Model 500N has demonstrated compliance with FAR Part 36, Appendix H, through Amendment 
+ 36-18, for Stage 2 helicopters. 
+ The Model 600N has demonstrated compliance with FAR part 36, Appendix J, through Amendment 36- 
+ 21."
+NOTE 15,"The Model 369E helicopter may be converted to Model 369FF helicopter with the installation of those 
+ parts called out on Drawing 369D292202, Revision A, dated 7/29/94, or later FAA approved revision, 
+ and in accordance with MDHS Report No. 369-CE-293, “E-FF Conversion Report”, Revision N/C, 
+ dated 9/94, or later FAA approved revision. 
+ The following is a list of 369Es converted to 369FFs: 
+ Was: 
+ Became: 
+ Date of Certificate of 
+ 369E S/N 
+ 369FF S/N 
+ Airworthiness as 369FF 
+ 0292 
+ 0075FF 
+ April 29, 1993 
+ 0228 
+ 0600FF 
+ January 31, 1996 
+ 0287E 
+ 0601FF 
+ May 01, 1998 
+ 0128E 
+ 0602FF 
+ October 8, 1998 
+ 0095E 
+ 0603FF 
+ September 22, 2015 
+ 0247E 
+ 0604FF 
+ December 03, 2015 
+ 0343E 
+ 0605FF 
+ September 20, 2017 
+ 0311E 
+ 0606FF 
+ July 31, 2020 
+ BT890001* 
+ 0700FF 
+ (1) 
+ 0422 
+ 0701FF 
+ (1) 
+ 0369E 
+ 0702FF 
+ (1) 
+ 0052E 
+ 0703FF 
+ (1) 
+ 0094E 
+ 0704FF 
+ (1) 
+ 0468E 
+ 0705FF 
+ (1) 
+ 0381E 
+ 0706FF 
+ (1) 
+ 0391E 
+ 0707FF 
+ (1) 
+ 0355E 
+ 0708FF 
+ (1) 
+ 0242E 
+ 0709FF 
+ March 16, 2009 
+ 0545E 
+ 0710FF 
+ April 28, 2010 
+ 0481E 
+ 0711FF 
+ February 17, 2012 
+ 0573E 
+ 0712FF 
+ September 9, 2015 
+ 0595E 
+ 0713FF 
+ September 9, 2015 
+ 0575E 
+ 0714FF 
+ January 8, 2016 
+ 0581E 
+ 0715FF 
+ January 9, 2016 
+ 0571E 
+ 0716FF 
+ July 17, 2017 
+ 0606E 
+ 0717FF 
+ July 27, 2017 
+ 0601E 
+ 0718FF 
+ September 25, 2020"
+VIII,"Data Pertinent to all Models (cont.) 
+ (1) These helicopters were built for foreign military and are not eligible for an FAA Certificate of 
+ Airworthiness (See NOTE 5)."
+NOTE 16,"For Model 600N, a current Weight and Balance Report (MDHS’ Basic Weight and Balance Record) 
+ listing the helicopter certificated empty (basic) weight and loading instructions including a List of 
+ Equipment (MDHS’ MD-600N Required/Optional Equipment List is provided as a separate document) 
+ must be provided for each helicopter at the time the helicopter’s original airworthiness certification is 
+ issued. This Basic Weight and Balance Record shall be kept current as the configuration, affecting the 
+ helicopter’s weight and balance, is changed. The MDHS Basic Weights Checklist Record (Chart A) and 
+ Basic Weight Checklist Supplement for the Model 600N contains needed reference data for the Weight 
+ and Balance Record. A copy of the current MDHS Basic Weight and Balance Record shall be kept in the 
+ helicopter. The certificated basic weight and corresponding center of gravity locations includes all 
+ transmission, hydraulic and engine oil/fluids as well as trapped/unusable fuel."
+NOTE 17,"The model 600N rotorcraft employs electronic engine controls, commonly named Full Authority Digital 
+ Engine Controls (FADEC) and is recognized to be more susceptible to Electromagnetic Interference 
+ (EMI) than rotorcraft that have only manual (non-electronic) controls (EMI may be the result of radiated 
+ or conducted interference.) For this reason modifications that add or change systems that have the 
+ potential for EMI, must either be qualified to an FAA acceptable standard or tested at the time of 
+ installation for interference to the FADEC. This type of testing must employ the particular FADEC’s 
+ diagnostic techniques and external diagnostic techniques. The test procedure must be FAA approved."
+NOTE 18,"Extension of the basic fuel capacity over 148.1 US gal. (Main Fuel Tank – 114.6 US Gal, plus Fuel Tank 
+ - 33.5 US Gal) for the Model 600N may require reevaluation of the FADEC control system reliability 
+ due to time limited exposure determinations made during certification."
+NOTE 19,"The Model 600N is prohibited from flying in falling or blowing snow with the standard engine inlet 
+ screen installed."
+NOTE 20,"Any changes to the type design of this helicopter by means of an amended type certificate (TC), 
+ supplemental type certificate (STC), or amended STC, requiring instructions for continued airworthiness 
+ (ICA) must be submitted through the project aircraft certification office (ACO) for review and 
+ acceptance by the Fort Worth -Aircraft Evaluation Group (FTW-AEG) Flight Standards District Office 
+ (FSDO) prior to the aircraft delivery, or upon issuance of the first standard airworthiness certificate for 
+ the affected aircraft, whichever occurs later as prescribed by Title 14 CFR § 21.50. Type design changes 
+ (major repairs or alterations) by means of a FAA Form 337 (field approval) that require ICA’s must 
+ have those ICA’s reviewed by the field approving FSDO."

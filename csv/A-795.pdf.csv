@@ -1,0 +1,848 @@
+Keyterm,Info
+"A-795 
+ Revision 19 
+ MARTIN 
+ 202 
+ 202A 
+ February 27, 1963",
+Manufacturer,"Martin-Marietta Corporation 
+ Baltimore 3, Maryland"
+"I - Model 202, Approved September 3, 1947",
+Engines,"2 P&W Double Wasp CA3, CA15 or CA18 (Item 101)"
+Fuel,Aviation Gasoline: Minimum grade 100/130 for all engines.
+Engine limits,(See Item 101)
+Airspeed limits,"Vno (Normal Operating) 
+ Variable, see table below"
+TIAS,"Vp (Maneuvering) 
+ 170 m.p.h. (148 knots) 
+ Vne (Never exceed) 
+ Variable, see table below 
+ Vf (Flaps down) 
+ 150 m.p.h. (130 knots) 
+ Vle (Landing Gear Extended) 
+ 190 m.p.h. (165 knots) 
+ Vlo (Landing Gear Operation) 
+ (Ext.) 
+ 190 m.p.h. (165 knots) 
+ (Ret.) 
+ 180 m.p.h. (157 knots) 
+ Maximum Weight 
+ (Zero fuel), lb. 
+ 35,000 
+ 35,500 
+ 35,700 
+ 35,900 
+ 36,000 
+ 36,200 
+ Vne (Never exceed) 
+ (mph, knots) 
+ 292,254 
+ 292,254 
+ 292,254 
+ 284,247 
+ 278,242 
+ 269,234 
+ Vno (Normal operating) 
+ (mph, knots) 
+ 255,222 
+ 250,218 
+ 247,215 
+ 245,213 
+ 240,209 
+ 228,198"
+CG range,"Takeoff and Landing (Gear Extended) 
+ (435.0) to (460.8) 
+ Climb and Cruise 
+ Gear Extended: 
+ (433.0) to (460.8) 
+ Gear Retracted: 
+ (431.3) to (460.8) 
+ Effect of Retracting Landing Gear 
+ -64,556 in.lb."
+Maximum weight,"(Eligible for takeoff weight in excess of 38,000 lbs. and landing weight in excess of 
+ 36,500 lb. only when landing gear equipment Items 202(a) and 206(a) or (c) are 
+ installed.) 
+ (a) 
+ The following maximum weights are permitted when the 30° Approach and 45° 
+ Landing Flaps settings are used and the automatic propeller feathering system is 
+ operative. 
+ Takeoff (Antidetonant Power) 
+ 39,900 lb. 
+ Takeoff (Dry Power) 
+ 39,100 lb. 
+ Landing (Antidetonant Power) 
+ 38,000 lb. 
+ Landing (Dry Power) 
+ 37,200 lb. 
+ (b) 
+ The following maximum weights are permitted when the 18° Approach and 28° 
+ Landing Flap settings are used and the automatic propeller system is operative. See 
+ NOTE 3 regarding required revisions for the flight manual. 
+ Takeoff (Antidetonant Power) 
+ 39,900 lb. 
+ Takeoff (Dry Power) 
+ 39,900 lb. 
+ Landing (Antidetonant Power) 
+ 38,000 lb. 
+ Landing (Dry Power) 
+ 38,000 lb."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10"
+Rev No,"19 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (c) 
+ The following maximum weights are permitted when the automatic propeller 
+ feathering system is not utilized or is inoperative. See NOTE 8 regarding required 
+ revisions for the Flight Manual. 
+ Takeoff (Antidetonant Power) 
+ 39,900 lb. 
+ Takeoff (Dry Power) 
+ 36,150 lb. 
+ Landing (Antidetonant Power) 
+ 38,000 lb. 
+ Landing (Dry Power) 
+ 36,150 lb. 
+ (d) 
+ The maximum zero fuel weights vary from 35,000 to 36,200 pounds. See 
+ ""Airspeed Limits"" for zero fuel weights and corresponding Vne and Vno speeds."
+Minimum crew,2 - Pilot and Co-pilot (203)
+Maximum passengers,"40 (CAR 4b.432 prior to October 1, 1949)"
+Maximum baggage,"Maximum 
+ Capacity 
+ Compartment Station (Lb.) Arm 
+ Fwd. Cabin-R.H. 
+ 225-316 
+ 1150 
+ 270 
+ Fwd. Cabin-R.H. 
+ 225-304 
+ 1000 
+ 268 
+ Fwd. Cabin-R.H. 
+ 225-343 
+ 1500 
+ 285 
+ Fwd. Cabin-L.H. 
+ 268-343 
+ 1000 
+ 306 
+ Fwd. Cabin-L.H. 
+ 268-304 
+ 500 
+ 286 
+ Aft-Cabin 
+ 676-753 
+ 800 
+ 715 
+ Aft-Cabin 
+ 704-773 
+ 600 
+ 739 
+ Aft-Cabin 
+ 753-832 
+ 1500 
+ 793 
+ Fwd. Belly 
+ 325-385 
+ 300 
+ 355 
+ Aft-Belly 
+ 580-637 
+ 400 
+ 608 
+ Aft-Belly 
+ 580-697 
+ 950 
+ 638"
+Fuel Capacity,"1010 gal. (458) (505 gal. in 4 interconnected wing fuel cells in right and in left wing) 
+ (See NOTE 1(c) for ""System Fuel"""
+Oil capacity,"39.5 gal. (408) (One 19.75 gal. tank in each nacelle) 
+ See NOTE 1(c) for ""System Oil"""
+Serial Nos eligible,9122 and up. For Serial No. 9123-A see NOTE 11.
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 4b, the following 
+ items of equipment must be installed: 
+ Items 1, 2, 101, 102(a), 103, 104(a), 105, 106, 107, 201, 202, 205, 206. 301(a), 302, 303, 
+ 401, 403, 502."
+"II - Model 202A, Approved July 10, 1950 
+ (Same as Model 202 except for reinforced fuselage and wing, increased fuel capacity, power plant and miscellaneous system 
+ changes",
+Engines,2 P&W Double Wasp CB16 (Item 109)
+Fuel,Aviation Gasoline: Minimum grade 100/130
+Engine limits,(See Item 109)
+Airspeed limits,"Vno (Normal Operating) 
+ Variable, see table below"
+TIAS,"Vp (Maneuvering) 
+ 176 m.p.h. (153 knots) 
+ Vne (Never exceed) 
+ Variable, see table below 
+ Vf (Flaps down) 
+ (12 1/2° Takeoff) 190 m.p.h. (165 knots) 
+ (Landing) 
+ 150 m.p.h. (130 knots) 
+ Vle (Landing Gear Extended) 
+ 190 m.p.h. (165 knots) 
+ Vlo (Landing Gear Operation) 
+ (Ext.) 
+ 190 m.p.h. (165 knots) 
+ (Ret.) 
+ 180 m.p.h. (157 knots) 
+ Maximum Weight 
+ (Zero fuel), lb. 
+ 35,300 
+ 35,800 
+ 36,000 
+ 36,200 
+ 36,300 
+ 36,500 
+ Vne (Never exceed) 
+ (mph, knots) 
+ 292,254 
+ 292,254 
+ 292,254 
+ 284,247 
+ 278,242 
+ 269,234 
+ Vno (Normal operating) 
+ (mph, knots) 
+ 255,222 
+ 250,218 
+ 247,215 
+ 245,213 
+ 240,209 
+ 228,198"
+CG Range,"Gear Position 
+ Max Weight 
+ C.G. Range 
+ Takeoff 
+ Extended 
+ 43,000 lb. 
+ (442.8) to (460.8) 
+ Takeoff and Landing 
+ Extended 
+ 41,000 lb. 
+ (438.6) to (460.8) 
+ Takeoff and Landing 
+ Extended 
+ 34,500 lb. 
+ (435.0) to (460.8) 
+ Climb and Cruise 
+ Retracted 
+ 43,000 lb. 
+ (431.3) to (460.8) 
+ (Straight line C.G. variation with weights shown.) 
+ Effect of retracting landing gear 
+ -72,700 in. lb."
+Maximum weight,"Takeoff (Antidetonant Power) 
+ 43,000 lb. 
+ Takeoff (Dry Power) 
+ 40,000 lb. 
+ Landing (Antidetonant Power) 
+ 41,000 lb. 
+ Landing (Dry Power) 
+ 40,000 lb. 
+ Zero-Fuel 
+ Variable between 35,300 and 36,500 pounds. 
+ See ""Airspeed Limits"" for zero fuel weights 
+ and corresponding Vne and Vno speeds."
+Minimum crew,2 - Pilot and Co-pilot (203)
+Maximum passengers,"40 (CAR 4b.432 prior to October 1, 1949)"
+Maximum baggage,"Maximum 
+ Capacity 
+ Compartment Station (Lb.) Arm 
+ Fwd. Cabin-R.H. 
+ 225-304 
+ 1000 
+ 268 
+ Fwd. Cabin-L.H. 
+ 269-304 
+ 500 
+ 286 
+ Aft Cabin704-773 
+ 600 
+ 739 
+ Fwd. Belly 
+ 325-385 
+ 300 
+ 355 
+ Aft. Belly 580-697 950 638"
+Fuel Capacity,"1350 gal. (458) (675 gal. in 6 interconnected wing fuel cells in right and in left wing) 
+ (See NOTE 1(c) for ""System Fuel"")"
+Oil capacity,"49 gal. (408) (One 24.5 gal. tank in each nacelle.) 
+ (See NOTE 1(c) for ""System Oil"".)"
+Serial Nos eligible,14071 and up
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 4b, the following 
+ items of equipment must be installed: 
+ Items 1, 2, 102(c), 103, 104(c), 105, 106, 107, 109, 201(b), 202, 205, 206, 301(c), 302, 
+ 303, 401(e), 403, 502."
+Specifications Pertinent to All Models,
+Datum,100 inches forward nose of fuselage
+Leveling means,"Longitudinal: Left side, fuselage stations 459 and 485, 3 inches below windows. 
+ Lateral: Lower surface of wing rear spar"
+Control surface movements,"Elevator trim tab 
+ 10° 
+ Up 
+ 20° 
+ Down 
+ Elevator (Flaps 0°) 
+ 30° 
+ Up 
+ 16° 
+ Down 
+ Aileron trim tab 
+ 12° 
+ Up 
+ 12° 
+ Down 
+ Aileron 
+ 30° 
+ Up 
+ 15° 
+ Down 
+ Rudder 
+ 25° 
+ Left 
+ 25° 
+ Right 
+ Rudder trim tab 
+ 17 1/2° 
+ Left 
+ 17 1/2° 
+ Right 
+ Flaps 
+ 45° 
+ Down"
+Certification basis,Type Certificate No. 795 (CAR 4b)
+Production basis,Production Certificate No. 106.
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item indicates net weight change 
+ when that item is installed."
+Except Deicing Equipment,"Eligible on Model 
+ 202 
+ 202 
+ 202A 
+ Basic 
+ Uptilted 
+ Nacelle 
+ Nacelle"
+1,(See NOTE 6 of Prop. No. P-853 for interchangeable blades)
+a,"Deleted December 19, 1958"
+b,"Deleted April 17, 1950"
+c,"2H17K3-48R; Diameter 157 in. (13'1"") 
+ Use act. wt. change 
+ (304) 
+ (301) 
+ (301)"
+d,"2H17K3-50R; Diameter 155 in. (12'11"") 
+ Use act. wt. change 
+ (304) 
+ (301) 
+ (301)"
+e,"2H17U3-48R or 2H17AA3-48R; 
+ Use act. wt. change 
+ (304) 
+ (301) 
+ (301) 
+ Diameter 157 in. (13'1"")"
+f,"2H17U3-50R or 2H17AA3-50R; 
+ Use act. wt. change 
+ (304) 
+ (301) 
+ (301) 
+ Diameter 155 in. (12'11"")"
+g,"2H17AC3-48R, Diameter 157 in. (13'1"") 
+ Use act. wt. change 
+ (304) 
+ (301) 
+ (301) 
+ Pitch settings at 72 in. Sta.: Low +13°, 
+ High +80°, Feathered +80°, Reverse -27°. 
+ (See NOTE 4 regarding airplane flight manual revisions required.)"
+2,"2 Propeller governors Hamilton Standard 4U18 18 lb. 
+ (325) 
+ (322) 
+ (322)"
+a,"6895A-12 1106 lb. 
+ (304) 
+ (301) 
+ (301) 
+ Diameter: Max. 13' 1-5/16"", min. allowable for repairs 12'9-5/8"" 
+ Pitch settings at 42 in. Sta.: Low +30.5°, 
+ High +95°, Feathered +95°, Reverse -13°. 
+ (See NOTES 4 and 9 regarding airplane flight manual revisions required)."
+a,"6899A-12 1040 lb. 
+ (304) 
+ (301) 
+ --- 
+ Diameter 158 in. (13'2"") 
+ Pitch settings at 42 in. Sta.: Low +30.5° 
+ High +95°, Feathered +93°, 
+ (This propeller not reversible). (See NOTE 9 regarding airplane flight manual 
+ revision required). 
+ Engines and Engine Accessories - Fuel and Oil Systems"
+(Model 202 is eligible with 1 1/2 uptilted nacelle and engine,
+installation. See NOTE 6 for details. Model 202A incorporates,
+uptilted nacelle,"Basic 
+ Uptilted 
+ Nacelle Nacelle"
+101 a,"2 P&W Double Wasp CA3 Engines 
+ 4654 lb. 
+ (342) 
+ (339) 
+ - - -"
+with GE Ignition,"+23.5 lb. 
+ (342) 
+ (339) 
+ - - -"
+Engine Limits,"Alt. 
+ H.P. 
+ R.P.M. 
+ Mp. In.Hg."
+Takeoff dry to 5 minutes,"S.L. to 3000 
+ 2100 
+ 2800 
+ 53.5"
+5 minutes,"S.L. 
+ 2400 
+ 2800 
+ 56.5 
+ S.L. 
+ 1800 
+ 2600 
+ 45.0 
+ 6500 
+ 1800 
+ 2600 
+ 44.0 
+ (Straight line manifold pressure variation with altitudes shown) 
+ When this item is installed, the flight manual Item 401 must be revised to reflect the installation and the 
+ applicable performance. This revision material must be supplied by the applicant."
+b,"Two P&W Double Wasp CA15 Engines 
+ + 66 lb. 
+ (342) 
+ (339) 
+ - - -"
+Engine Limits,"Alt. 
+ H.P. 
+ R.P.M. 
+ Mp. In.Hg."
+Takeoff dry to 5 minutes,"S.L. to 3000 
+ 2100 
+ 2800 
+ 53.5"
+5 minutes,"S.L. 
+ 2400 
+ 2800 
+ 56.5 
+ S.L. 
+ 1800 
+ 2600 
+ 45.0 
+ 6500 
+ 1800 
+ 2600 
+ 44.0"
+High impeller gear ratio 9451,"10000 
+ 1600 
+ 2600 
+ 46.5 
+ 16200 
+ 1600 
+ 2600 
+ 45.0 
+ (Straight line manifold pressure variation with altitudes shown) 
+ When this item is installed, the flight manual Item 401(c) only is applicable. 
+ Eligible on Model 
+ 202 
+ 202 
+ 202A 
+ Basic 
+ Uptilted 
+ Nacelle Nacelle"
+c,"Two P&W Double Wasp CA18 Engines 
+ No weight change 
+ (342) 
+ (339) 
+ - - -"
+with GE Ignition,"-10 lb. 
+ (342) 
+ (339) 
+ - - -"
+Engine Limits,"Alt. 
+ H.P. 
+ R.P.M. 
+ Mp. In.Hg."
+Takeoff dry to 5 minutes,"S.L. to 3000 
+ 2100 
+ 2800 
+ 53.5"
+5 minutes,"S.L. 
+ 2400 
+ 2800 
+ 56.5 
+ S.L. 
+ 1800 
+ 2600 
+ 45.0 
+ 6500 
+ 1800 
+ 2600 
+ 44.0"
+High impeller gear ratio 911,"8000 
+ 1675 
+ 2600 
+ 49.0 
+ 13500 
+ 1675 
+ 2600 
+ 47.0 
+ (Straight line manifold pressure variation with altitudes shown) 
+ When this item is installed, the flight manual Item 401(b) and (d) only are applicable. 
+ Eligible on Model 
+ 202 
+ 202 
+ 202A 
+ Basic 
+ Uptilted 
+ Nacelle Nacelle"
+102 a,"2 Starters (Jack and Heintz JH-6ER12) 
+ 53 lb. 
+ (383) 
+ (380) 
+ - - -"
+2 Starters Eclipse 141612,"55 lb. 
+ (383) 
+ (380) 
+ - - -"
+c,"2 Starters (Jack and Heintz JH-6ES12) 
+ 55 lb. 
+ - - - 
+ - - - 
+ (381)"
+103,"2 Feathering pumps (Ham. Std. 66166) 
+ 27 lb. 
+ (397) 
+ (397) 
+ (397)"
+104 a,"2 Oil Coolers (Airesearch 19233, 16"" Dia.) 
+ 68 lb. 
+ (373) 
+ (370) 
+ - - -"
+b,"2 Oil Coolers (Clifford 37984, 16"" Dia.) 
+ 64 lb. 
+ (373) 
+ (370) 
+ - - -"
+c,"2 Oil Coolers (Airesearch 19519, 16"" Dia.) 
+ 69 lb. 
+ - - - 
+ - - - 
+ (370) 
+ 105. 2 Fuel Pumps, Engine Driven (Pesco 2P-771-A or -C) 
+ 9 lb. 
+ (379) 
+ (376) 
+ (379) 
+ 106. 2 Fuel Booster Pumps, Electrically Driven 
+ 14 lb. 
+ (478) 
+ (478) 
+ (478)"
+Submerged in fuel tanks,107. System fuel and oil (See NOTE 1(c) for definition)
+System fuel,"37 lb. 
+ (450) 
+ (450) 
+ (450)"
+System oil,"196 lb. 
+ (393) 
+ (393) 
+ (393)"
+108 Antidetonant system installation including,"215 lb. 
+ (404) 
+ (404) 
+ (404) 
+ 15 gal. of fluid at 8 lb. per gallon"
+"(See NOTE 2(d)(I) and 2(d)(II) for required placards - Model 202 only) 
+ (See NOTE 2(d)(III) for required placard - Model 202A only) 
+ (See NOTE 5 for required changes in Flight Manual - Model 202 only)",
+Engine Limits,"Alt. 
+ H.P. 
+ R.P.M. 
+ Mp. In.Hg."
+Takeoff dry 2 minutes,"S.L. 
+ 2050 
+ 2700 
+ 55.0"
+Critical Altitude,"6900 
+ 2050 
+ 2700 
+ 53.0"
+2 minutes,"S.L. 
+ 2400 
+ 2800 
+ 59.5"
+Critical Altitude,"5000 
+ 2400 
+ 2800 
+ 58.5 
+ S.L. 
+ 1800 
+ 2600 
+ 48.5 
+ 9200 
+ 1800 
+ 2600 
+ 46.5"
+High impeller gear ratio 8581,"10000 
+ 1700 
+ 2600 
+ 48.5 
+ 16800 
+ 1700 
+ 2600 
+ 47.5 
+ (Straight line manifold pressure variation with altitudes shown) 
+ When this item is installed, Flight Manual Item 401(e) only is applicable."
+Landing Gear,"201. 4 Main wheel-brake assemblies, 12.50-16, Type III,"
+Goodyear Model L125016HBM Wheel Assembly,"292 lb. 
+ (474) 
+ (474) 
+ --- 
+ No. 9530250, Brake Assembly No. 9540036"
+"(b) 
+ Goodyear Model L12.50-16 HBMG, Wheel Assembly",
+a,"10-ply rating (this is required for take-off weights 
+ 292 lb. 
+ (474) 
+ (474) 
+ (474) 
+ over 38,000 lb. and landing weights over 36,500 lb."
+8ply rating,"(474) 
+ (474) 
+ (474) 
+ Eligible on Model 
+ 202 
+ 202 
+ 202A 
+ Basic 
+ Uptilted 
+ Nacelle Nacelle 
+ 205. 1 Nose wheel, 32 x 8.8, Type VIIB, Goodrich 
+ 37 lb. 
+ (218) 
+ (218) 
+ (218)"
+Model 6103M. Wheel assembly No. H-3-575-M,
+a,"32 x 8.8, Type VIIB, 10-ply rating 
+ 43 lb. 
+ (218) 
+ (218) 
+ (218)"
+b,"32 x 8.8, Type VIIB, 8-ply rating 
+ 40 lb. 
+ (218) 
+ (218) 
+ - - -"
+95016 Type III 8ply rating,"47 lb. 
+ (218) 
+ (218) 
+ (218)"
+301 a,"2 Generators (Westinghouse TY-D30 or TY-DA30) 
+ 118 lb. 
+ (383) 
+ (380) 
+ - - -"
+"(b) 
+ 2 Generators (Eclipse Model 1547-1 or 1547-3)",
+2 Generators General Electric 2CM75C13,"123 lb. 
+ - - - 
+ - - - 
+ (377)"
+302 Battery Exide Model 12TAS11,"83 lb. 
+ (413) 
+ (413) 
+ (413) 
+ 303. 2 Landing Lights (Grimes G3800A-5) 
+ 12 lb. 
+ (438) 
+ (438) 
+ (438)"
+Interior Equipment,"401. One of the following FAA Approved Airplane Flight Manuals including any pertinent revisions indicated in NOTES 3, 4, 5 
+ and 8. (The Manual may be carried as part of, or bound with, the operator's ""Approved Operator's Manual"", but must 
+ remain in the airplane and must retain its identity as an individual manual.) Revisions shown are not necessarily mandatory 
+ but only reflect the latest revision to the current manuals."
+Basic,"Model 202 - Discontinued, not eligible"
+NW,Model 202 - Rev. 20 dated 6/3/52
+LAN,Model 202 - Rev. 10 dated 10/6/51
+LAV,Model 202 - Rev. 9 dated 12/11/51
+e,Model 202A- Rev. 9 dated 5/15/54
+402 Automatic Pilot Sperry A12,"110 lb. 
+ (414) 
+ (414) 
+ ---"
+a,"Elevator: Maximum 45 lb., Minimum 21 lb. 
+ Aileron: Maximum 38 lb., Minimum 20 lb. 
+ Rudder: Maximum 115 lb., Minimum 65 lb."
+clearance is 450 feet,(Minimum terrain clearance does not override
+any higher minimum operational altitudes,"(See NOTE 10 regarding Airplane Flight Manual revision required.) 
+ 403. Windshield Wiper installation (Kearfott 2068-5, 
+ 5 lb. 
+ (170) 
+ (170) 
+ (170)"
+404 a,"Cabin Combustion Heater (Stewart Warner 921-B) 
+ 30 lb. 
+ (256) 
+ (256) 
+ ---"
+Combustion S200,"34 lb. 
+ --- 
+ --- 
+ (257) 
+ Eligible on Model 
+ 202 
+ 202 
+ 202A 
+ Basic 
+ Uptilted 
+ Nacelle Nacelle"
+405 Oxygen System Variable,"406. Auxiliary Vacuum System (GLM Dwg. No. 2021C23909) 
+ 21 lb. 
+ (462) 
+ (462) 
+ - - - 
+ 407. Name Plates - Flap Lever - Pilots Pedestal (GLM"
+Dwgs No 2021C33729 and 2021C33699,No wt. change
+Stewart Warner 921B,"118 lb. 
+ (462) 
+ (462) 
+ - - -"
+Surface Combustion S200,"135 lb. 
+ - - - 
+ - - - 
+ (461)"
+503 Propeller Electric AntiIcing System,"31 lb. 
+ (380) 
+ (377) 
+ - - - 
+ 504. Generator Air Scoop Anti-Icing System 
+ 3 lb. 
+ (380) 
+ (377) 
+ - - -"
+GLM Dwg No 2021C24106,"505. Alcohol Deicing System (15 gal. at 7 lb. per gallon 
+ - - - 
+ - - - 
+ (434)"
+"(a) 
+ Propeller deicing equipment: Hamilton Standard boots Model 74467, length 52 in.",
+NOTE 1 a,"Current weight and balance report including list of equipment included in certificated weight empty, and loading 
+ instructions when necessary, must be in each aircraft at the time of original certification and at all times thereafter 
+ (except in the case of air carrier operators having an approved weight control system)."
+b,"Refer to Martin Engineering Reports ""Actual Weight and Balance Model 202(A) (Airline)"" and ""Weight and 
+ Balance Loading Schedule Model 202(A) (Airline)"" for interior arrangement, equipment list, weight and balance 
+ and loading schedule for any particular airplane."
+c,"""System Fuel and Oil"" is that amount required to fill both systems and the tanks up to the tank outlets to the 
+ engines, when the airplane is in the level attitude. ""System Fuel and Oil"" and all hydraulic fluid must be included 
+ in the certificated weight empty. (See Item 107 for fuel and oil quantities.)"
+d,"Fuel and Oil Tank capacities do not include any ""System Fuel and Oil"". Oil tank does include propeller 
+ feathering oil (2 gal.). 
+ NOTE 2. The following placards must be displayed on the instrument panel in full view of the pilot (except as noted in (c)"
+a,"""This airplane must be operated in compliance with operating limitations specified in F.A.A. approved airplane 
+ operating manual."""
+b,"Automatic Propeller Feathering: 
+ I. ""Lights ON for all take-off operation"" (Model 202) or 
+ II. ""Lights ON for all take-off operations. When lights are off see Appendix A in flight manual"" (Model 202) 
+ III. ""Switch and lights ON for all take-off conditions"" (Model 202A)"
+c,"""Do not lower landing gear by emergency release above 130 m.p.h."". (Located inside emergency gear control 
+ access door)"
+d,"When Item 108 is installed the following placards must be included: 
+ I. Two minute wet take-off power limit (Model 202 only) 
+ ""1. 
+ Water tank must be full before each take-off 
+ 2. 
+ Do not exceed 53.5 inches M.P. unless flow lights are ON 
+ 3. 
+ Do not use water injection longer than 2 minutes on take-off, except for single engine emergency 
+ operation when 5 minutes may be used."""
+NOTE 2. (d) II. One-minute wet take-off power limit (Model 202 only),
+III,"Two-minute wet take-off power limit (Model 202A only): 
+ ""1. 
+ Minimum water for take-off - 11.2 gallons. 
+ 2. 
+ If flow lights do not come on discontinue WET take-off."" 
+ or 
+ ""1. 
+ Minimum water for take-off - 11.2 gallons. 
+ 2. 
+ If A.D.I. pressure falls below 20 psi discontinue WET take-off."""
+e,"""Do not exceed 200 m.p.h. TIAS with either propeller feathered."" (This placard not required if Martin Service 
+ Bulletin 55 has been complied with) (Model 202 only)"
+f,"""Do not use nose wheel steering for take-off or landing."" (This placard not required if Martin Service Bulletin 46 
+ has been complied with) (Model 202 only)"
+g,"Cabin Heater Fire: ""Cabin heater switch must be OFF before firing Co2 to heater compartment. Do not fire 
+ second shot until a minimum of 2 minutes have elapsed."""
+h,"When reverse thrust propeller operation is provided the following placard must be installed: 
+ ""Exercise caution in using reverse thrust on runways covered with dust, snow, or other matter which may reduce 
+ visibility"". 
+ NOTE 3. When wing flap setting of 18° Approach and 28° Landing are used, Item 407 must be installed and the Airplane Flight 
+ Item 401(a) - Discontinued, not eligible 
+ Item 401(b) - Revision No. 8 and/or 9 
+ Item 401(c) - Revision No. 6 
+ Item 401(d) - Revision No. 4 
+ Item 401(e) - Not eligible 
+ NOTE 4. When reversible thrust propeller operation is provided (see NOTE 2(h) for required placard) according to G.L.M. 
+ Item 401(a) - Discontinued, not eligible 
+ Item 401(b) - Revision No. 12 
+ Item 401(c) - Revision No. 6 
+ Item 401(d) - Revision No. 6 
+ Item 401(e) - (No revision required)"
+a,"Two-minute wet take-off power limit 
+ Item 401(a) - Discontinued, not eligible 
+ Item 401(b) - Revision Nos. 6A and 7 
+ Item 401(c) - Revision No. 1 
+ Item 401(d) - Not revised, therefore not eligible 
+ Item 401(e) - Revision No. 6"
+b,"One-minute wet take-off power limit 
+ Item 401(a) - Discontinued, not eligible 
+ Item 401(b) - Revision Nos. 6A, 7 and 11 
+ Item 401(c) - Not revised, therefore not eligible 
+ Item 401(d) - Not revised, therefore not eligible 
+ Item 401(e) - Not eligible, deleted by revision 6"
+"NOTE 6. Model 202 eligible for 1 1/2° uptilted nacelle and engine installation, in accordance with Martin Dwg. No.",
+(e.g. Serial Number 0000-A). (Model 202A incorporates uptilted nacelle and engine installation).,
+Model 202 only,"Outer Wing Installation 
+ 2021C01201 Supplement No. 1 
+ 2021C01201 Supplement No. 2 
+ Outer Flap Assembly 
+ 2021C13395 Supplement No. 1 
+ 2021C13395 Sheet 2 
+ NOTE 8. Operation with the automatic propeller feathering system off or inoperative is permitted provided the Airplane Flight 
+ following revisions (See NOTE 2(b) II for required placard): 
+ Item 401(a) - Discontinued, not eligible 
+ Item 401(b) - Revision No. 16 
+ Item 401(c) - Not revised, therefore not eligible 
+ Item 401(d) - Not revised, therefore not eligible 
+ Item 401(e) - Not eligible"
+Model 202 aircraft certificated only with the automatic propeller feathering system operative (see Items 401(c) or,
+"NOTE 9. When Item 3 or 4 is installed on the Model 202, the Airplane Flight Manual, Item 401, must be revised as follows:",
+"NOTE 10.When Item 402 is installed on the Model 202, the Airplane Flight Manual, Item 401, must be revised as follows:",
+NOTE 11,"For configuration, performance and FAA Approved Airplane Flight Manual for modified Serial No. 9123-A see 
+ Martin Report ""Substantiation of Model 202 (9123-A)."" This airplane is the same as the basic Model 202 except 
+ for CB-16 engines, fuselage length, flight control configuration, aileron boost, oleo drag strut landing gear and 
+ miscellaneous system and equipment changes."

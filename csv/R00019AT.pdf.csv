@@ -1,0 +1,362 @@
+Keyterm,Info
+"R00019AT 
+ Revision 2 
+ Delta Enterprise 
+ UH-60A 
+ EH-60A 
+ October 1, 2019",
+TYPE CERTIFICATE TC,Delta Enterprise
+HOLDER,"209 South Jefferson Street 
+ Winchester, Tennessee 37398"
+"I. MODEL UH-60A – (Restricted Category Rotorcraft) Approved September 23, 2016.",
+ENGINES,"(2) General Electric T700-GE-700 Original 
+ (2) General Electric T700-GE-701C Alternate 
+ (2) General Electric T700-GE-701D/CC Alternate"
+FUEL,"Aviation Kerosene JP-4, JP-5, JP-8, Jet A, Jet A-1 or Jet B."
+ENGINE LIMITS T700GE700,"SHAFT 
+ POWER TURBINE 
+ GAS GEN 
+ POWER TURBINE 
+ HP 
+ RPM 
+ RPM 
+ INLET (TGT)"
+Military Power 30 min,"1,561 
+ 20,900 
+ 44,700 
+ 850º C 
+ 1,318 
+ 20,900 
+ 44,700 
+ 775º C"
+ENGINE LIMITS T700GE701C,"SHAFT 
+ POWER TURBINE 
+ GAS GEN 
+ POWER 
+ HP 
+ RPM/% 
+ RPM/% 
+ TURBINE"
+Contingency Rated Power CRP,"INLET (TGT) 
+ 1,940 
+ 20,900/100 
+ 44,700/102 
+ 903º C"
+Maximum Rating 10 Min dual,"1,890 
+ 20,900/100 
+ 44,700/102 
+ 878º C 
+ Intermediate Rated Power (IRP) (30 min 
+ 1,800 
+ 20,900/100 
+ 44,700/102 
+ 851º C"
+dual,"1,662 
+ 20,900/100 
+ 44,700/102 
+ 810º C"
+ENGINE LIMITS T700GE701DCC,"SHAFT 
+ POWER TURBINE 
+ GAS GEN 
+ POWER 
+ HP 
+ RPM/% 
+ RPM/% 
+ TURBINE"
+Contingency Rated Power CRP,"INLET (TGT) 
+ 1,940 
+ 20,900/100 
+ 44,700/102 
+ 903º C"
+Maximum Rating 10 Min dual,"1,890 
+ 20,900/100 
+ 44,700/102 
+ 878º C 
+ Intermediate Rated Power (IRP) (30 min 
+ 1,800 
+ 20,900/100 
+ 44,700/102 
+ 851º C"
+dual,"1,662 
+ 20,900/100 
+ 44,700/102 
+ 810º C"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8"
+Rev No,"2 
+ 2 
+ 2 
+ 2 
+ 2"
+TRANSMISSION LIMITS,TORQUE:
+UH60A,"110% Single Engine (No time 
+ limit) 100% Dual Engine (No 
+ time limit)"
+ROTOR LIMITS,"Max. 258 
+ RPM Min. 
+ 232 RPM"
+AIRSPEED LIMITS,"Vne Power on: 193 knots IAS, (221 MPH). See document DE-TM 1-1520-237-10, 
+ Operator’s Manual for the Restricted Category Aircraft Model DE H60 Helicopter for 
+ variations of Vne with gross weight, pressure altitude, and temperature. 
+ Refer to document no. DE-TM 1-1520-237-10, Operator’s Manual for the Restricted 
+ Category Aircraft Model DE UH-60A Helicopter (Sikorsky UH-60A BLACKHAWK 
+ Helicopter), Rev. IR, dated June 20, 2016, or later FAA approved revisions for additional 
+ limitation data."
+DATUM,341.2 inches forward of the main rotor centroid.
+MAXIMUM WEIGHT,"22,000 lbs."
+EMPTY WEIGHT CG RANGE None,"LEVELING MEANS: Plumb bob in L/H cabin door frame to leveling plate on cabin floor or electronic leveling 
+ means in accordance with Work Package 1727 contained in DE-TM 1-1520-237-23."
+MINIMUM CREW,"2 (pilot, copilot) 
+ NUMBER. OF PASSENGERS None. *See NOTE 14 for information on personnel carrying restrictions."
+NUMBER OF SEATS,"2 at Sta. 227.1; 1 at Sta. 262.0; 3 at Sta. 282.0; 3 at Sta. 320.7; 4 at Sta. 339.8; 4 at Sta. 
+ 387.2."
+FUEL CAPACITY,"361.5 gallons; 2 tanks (LH & RH interchangeable). 
+ 359.7 gallons; 2 tanks (LH &RH interchangeable) (with fuel boost pumps installed)."
+OIL CAPACITY,7 quarts each engine.
+OTHER LIMITS,"Refer to approved document no. DE-TM 1-1520-237-10, Operator’s Manual for the 
+ Restricted Category Aircraft Model DE UH-60A Helicopter (Sikorsky UH-60A 
+ BLACKHAWK Helicopter), Rev. IR, dated June 20, 2016, or later FAA approved 
+ revisions. Flight hours are counted from takeoff to landing."
+SERIAL NO APPROVED,"U.S. military surplus Sikorsky UH-60A Blackhawk helicopters as identified in DE 
+ Enterprises Serial Number Approved Report Number DE-1101, Rev. IR dated June 1, 
+ 2016, or later FAA approved revision."
+CERTIFICATION BASIS,"Title 14 CFR Part 21 § 21.25(a)(2) effective February 1, 1965, including Amendments 
+ 21-1 through 21-42 for the special purposes listed in FAR 21.25 (b)(1)(2)(7). 
+ § 21.25(b)(1) Agriculture Operations 
+ § 21.25(b)(2) Forest & Wildlife Conservation 
+ § 21.25(b)(7) External Loads 
+ Any alteration to the aircraft for Special Purposes not identified above require further 
+ FAA approval and in addition, may require noise and/or flight testing. 
+ General Note: Any subsequent modifications to the helicopters type certified under this 
+ Type Certificate are to have the certification basis for that modification established under 
+ 14 CFR part 21 § 21.101 published June 7, 2000 which became effective June 10, 2003. 
+ Otherwise non-significant modifications are to meet the requirements of 14 CFR 29 
+ airworthiness standards, transport category, Amendment 1 through Amendment 17, 
+ effective December 1, 1978, and 14 CFR part 29 § 29.1529, Instructions for Continued 
+ Airworthiness, Amendment 20, effective September 11, 1980."
+DATE OF APPLICATION,"February 29, 2016"
+PRODUCTION BASIS,"None. No helicopters may be produced under this approval. Each helicopter must pass 
+ a conformity inspection in accordance with this TCDS, plus any additional special 
+ instructions attached to the Request for conformity, FAA 8120-10. In addition, a check 
+ by the Type Certificate holder or its agent, of the flight characteristics in accordance 
+ with applicable portions of DE-TM 1-1520-237-MTF: Maintenance Test Flight Manual 
+ for UH-60A Helicopter, IR, dated April 10, 2016, or later approved revision for model 
+ DE UH-60A helicopters."
+EQUIPMENT,"The basic required equipment necessary for the particular special purpose operation must 
+ be installed for certification."
+"II. MODEL EH-60A – (Restricted Category Rotorcraft) Approved October 1, 2019.",
+ENGINES,"(2) General Electric T700-GE-700 Original 
+ (2) General Electric T700-GE-701C Alternate 
+ (2) General Electric T700-GE-701D/CC Alternate"
+FUEL,"Aviation Kerosene JP-4, JP-5, JP-8, Jet A, Jet A-1 or Jet B."
+ENGINE LIMITS T700GE700,"SHAFT 
+ POWER TURBINE 
+ GAS GEN 
+ POWER TURBINE 
+ HP 
+ RPM 
+ RPM 
+ INLET (TGT)"
+Military Power 30 min,"1,561 
+ 20,900 
+ 44,700 
+ 850º C 
+ 1,318 
+ 20,900 
+ 44,700 
+ 775º C"
+ENGINE LIMITS T700GE701C,"SHAFT 
+ POWER TURBINE 
+ GAS GEN 
+ POWER 
+ HP 
+ RPM/% 
+ RPM/% 
+ TURBINE"
+Contingency Rated Power CRP,"INLET (TGT) 
+ 1,940 
+ 20,900/100 
+ 44,700/102 
+ 903º C"
+Maximum Rating 10 Min dual,"1,890 
+ 20,900/100 
+ 44,700/102 
+ 878º C 
+ Intermediate Rated Power (IRP) (30 min 
+ 1,800 
+ 20,900/100 
+ 44,700/102 
+ 851º C"
+dual,"1,662 
+ 20,900/100 
+ 44,700/102 
+ 810º C"
+ENGINE LIMITS T700GE701DCC,"SHAFT 
+ POWER TURBINE 
+ GAS GEN 
+ POWER 
+ HP 
+ RPM/% 
+ RPM/% 
+ TURBINE"
+Contingency Rated Power CRP,"INLET (TGT) 
+ 1,940 
+ 20,900/100 
+ 44,700/102 
+ 903º C"
+Maximum Rating 10 Min dual,"1,890 
+ 20,900/100 
+ 44,700/102 
+ 878º C 
+ Intermediate Rated Power (IRP) (30 min 
+ 1,800 
+ 20,900/100 
+ 44,700/102 
+ 851º C"
+dual,"1,662 
+ 20,900/100 
+ 44,700/102 
+ 810º C"
+TRANSMISSION LIMITS,TORQUE:
+EH60A,"110% Single Engine (No time limit) 
+ 100% Dual Engine (No time limit)"
+ROTOR LIMITS,"Max. 258 
+ RPM Min. 
+ 232 RPM"
+AIRSPEED LIMITS,"Vne Power on: 193 knots IAS, (221 MPH). See document DE-TM 1-1520-237-10, 
+ Operator’s Manual for the Restricted Category Aircraft Model DE H-60 Helicopter for 
+ variations of Vne with gross weight, pressure altitude, and temperature. 
+ Refer to document no. DE-TM 1-1520-237-10, Operator’s Manual for the 
+ Restricted Category Aircraft Model DE UH-60A Helicopter (Sikorsky UH-60A 
+ UH-60L EH-60A BLACKHAWK Helicopter), Rev. IR, dated June 20, 2016, or 
+ later FAA approved revisions for additional limitation data."
+DATUM,341.2 inches forward of the main rotor centroid.
+MAXIMUM WEIGHT,"22,000 lbs."
+EMPTY WEIGHT CG RANGE,None
+LEVELING MEANS,"Plumb bob in L/H cabin door frame to leveling plate on cabin floor or electronic leveling 
+ means in accordance with Work Package 1727 contained in DE-TM 1-1520-237-23."
+MINIMUM CREW,"2 (pilot, copilot)"
+NUMBER OF PASSENGERS,None. *See NOTE 14 for information on personnel carrying restrictions.
+NUMBER OF SEATS,"2 at Sta. 227.1; 1 at Sta. 262.0; 3 at Sta. 282.0; 3 at Sta. 320.7; 4 at Sta. 339.8; 4 at Sta. 
+ 387.2."
+FUEL CAPACITY,"361.5 gallons; 2 tanks (LH & RH interchangeable). 
+ 359.7 gallons; 2 tanks (LH &RH interchangeable) (with fuel boost pumps installed)."
+OIL CAPACITY,7 quarts each engine.
+OTHER LIMITS,"Refer to approved document no. DE-TM 1-1520-237-10, Operator’s Manual for the 
+ Restricted Category Aircraft Model DE UH-60A Helicopter (Sikorsky UH-60A 
+ UH-60L EH-60A BLACKHAWK Helicopter), Rev. IR, dated June 20, 2016, or 
+ later FAA approved revisions. Flight hours are counted from takeoff to landing."
+SERIAL NO APPROVED,"U.S. military surplus Sikorsky EH-60A Blackhawk helicopters as identified in DE 
+ Enterprises Serial Number Approved Report Number DE-1101, Rev. 5 dated 
+ August 5, 2019, or later FAA approved revision."
+CERTIFICATION BASIS,"Title 14 CFR Part 21 § 21.25(a)(2) effective February 1, 1965, including Amendments 
+ 21-1 through 21-42 for the special purposes listed in FAR 21.25 (b)(1)(2)(7). 
+ § 21.25(b)(1) Agriculture Operations 
+ § 21.25(b)(2) Forest & Wildlife Conservation 
+ § 21.25(b)(7) External Loads 
+ Any alteration to the aircraft for Special Purposes not identified above require 
+ further FAA approval and in addition, may require noise and/or flight testing. 
+ General Note: Any subsequent modifications to the helicopters type certified under 
+ this Type Certificate are to have the certification basis for that modification 
+ established under 14 CFR part 21 § 21.101 published June 7, 2000 which became 
+ effective June 10, 2003. Otherwise non-significant modifications are to meet the 
+ requirements of 14 CFR 29 airworthiness standards, transport category, Amendment 1 
+ through Amendment 17, effective December 1, 1978, and 14 CFR part 29 § 29.1529, 
+ Instructions for Continued Airworthiness, Amendment 20, effective September 11, 
+ 1980."
+DATE OF APPLICATION,"April 2, 2019"
+PRODUCTION BASIS,"None. No helicopters may be produced under this approval. Each helicopter must pass 
+ a conformity inspection in accordance with this TCDS, plus any additional special 
+ instructions attached to the Request for conformity, FAA 8120-10. In addition, a 
+ check by the Type Certificate holder or its agent, of the flight characteristics in 
+ accordance with applicable portions of DE-TM 1-1520-237-MTF: Maintenance Test 
+ Flight Manual for UH-60A EH-60A Helicopter, IR, dated April 10, 2016, or later 
+ approved revision for model DE EH-60A helicopters."
+NOTE 1,"A current weight and balance report including a list of equipment included in the 
+ certified empty weight, and loading instructions when necessary, must be provided for 
+ each helicopter at the time of original airworthiness certification."
+NOTE 2,"The following placards must be prominently displayed in the cockpit in full view of the 
+ pilots: 
+ Placard No. 1 
+ THIS HELICOPTER MUST BE OPERATED IN COMPLIANCE WITH THE 
+ OPERATING LIMITATIONS SPECIFIED IN THE APPROVED HELICOPTER 
+ OPERATIONS MANUAL. 
+ Placard No. 2 
+ THIS ROTORCRAFT MUST BE OPERATED IN ACCORDANCE WITH THE 
+ RESTRICTED CATEGORY OPERATING LIMITATIONS OF 14 CFR PART 91.313. 
+ Placard No. 3 
+ EXTERNAL LOADS OPERATIONS: Vne WILL BE DETERMINED FOR EACH 
+ PROPOSED EXTERNAL LOAD APPLICATION."
+NOTE 3,"The builder’s data plate required by part 45 § 45.13 must be installed in accordance with 
+ Delta Enterprise Drawing DE-DWG-1201, Rev. IR, dated April 20, 2016, or later FAA 
+ approved revisions."
+NOTE 4,"The helicopter(s) must be serviced, maintained, inspected, repaired and overhauled in 
+ accordance with the requirements specified in Delta Enterprise document no. DE- 
+ 1103 “Instructions for Continued Airworthiness” Rev. C dated August 1, 2016, or 
+ later FAA accepted revision, or inspected in accordance with other FAA accepted 
+ inspection programs. The service life limited parts overhaul and retirement intervals 
+ for these helicopters is specified in Delta Enterprise no. DE-1103 “Instructions for 
+ Continued Airworthiness” Rev. C, dated August 1, 2016, or later FAA approved 
+ revisions. A FAA approved/accepted copy must accompany each helicopter on 
+ delivery."
+NOTE 5,"This helicopter must be operated in accordance with the Operator Manual comprised of 
+ the following: 
+ (1) DE-TM 1-1520-237-10, Operator’s Manual for the Restricted Category Aircraft 
+ Model DE UH-60A Helicopter (Sikorsky UH-60A BLACKHAWK Helicopter), 
+ Rev. IR, Dated June 20, 2016, or later FAA approved revisions."
+NOTE 6,"Prior to obtaining an original Airworthiness Certificate: 
+ A. Each helicopter must pass a conformity inspection in accordance with Delta 
+ Enterprise document no. DE 1104 “Engineering Configuration”, Rev. IR dated 
+ June 8, 2016, or later FAA approved revision. The Engineering Configuration 
+ Report identifies the U.S. Army airframe changes, and special purpose 
+ modifications accomplished on that particular helicopter. 
+ B. 
+ Each helicopter must pass an inspection for any possible hidden damage and the 
+ Military records reviewed for acceptability of any repairs or alterations. 
+ C. 
+ The maintenance, overhaul, and modification records of each helicopter must be 
+ reviewed for military changes that may affect the airworthiness of the helicopter. 
+ Modifications and changes of equipment that affect the safety or performance of the 
+ helicopter must be approved by the Federal Aviation administration. 
+ D. After the required inspections, the aircraft must be found to be in a good state of 
+ preservation, repair, and in a condition for safe operation."
+NOTE 7,"A Restricted Category helicopter may not be operated in a foreign country without the 
+ express written approval of that country."
+NOTE 8,"This helicopter has not been shown to meet the requirements of the applicable 
+ comprehensive and detailed airworthiness code as provided by Annex 8 to the 
+ Convention on International Civil Aviation."
+NOTE 9,"Military to Civil or Military to Military engine changes are allowed provided the 
+ replacement engine is conformed to Delta Enterprise document no. DE-1103 
+ “Instructions for Continued Airworthiness” Rev. C dated August 1, 2016, or later 
+ approved FAA revision. The military or civil replacement engine must have proper 
+ military or civil records and have the applicable FAA Airworthiness Inspection 
+ accomplished and is in an airworthy condition."
+NOTE 10,"The Safety of Flight Compliance Report for the helicopter contained in Delta Enterprise 
+ document no. DE-1106 “Airworthiness & Military Safety Messages”, Rev. IR, dated 
+ May 20, 2016, or later FAA Approved revisions, must be complied with prior to original 
+ airworthiness certification."
+NOTE 11,"Alternative and emergency fuels are listed in Delta Enterprise document no. DE-TM 1- 
+ 1520-237-10, Operator’s Manual for the Restricted Category Aircraft Model DE UH- 
+ 60A Helicopter (Sikorsky UH-60A BLACKHAWK Helicopter), Rev. IR, Dated April 
+ 20, 2016, or later FAA approved revisions."
+NOTE 12,"Any alteration to the type design of this aircraft may require Instructions for Continued 
+ Airworthiness. These instructions must be submitted and accepted by the Administrator, 
+ prior to approval for return to service."
+NOTE 13,"The certification life limits for the helicopter, its engine and appliances were based on 
+ satisfactory service history as designed and operated by the military. Therefore, to 
+ operate and maintain the aircraft to the original acceptance criteria, and maintain it’s safe 
+ for intended use requirement, cycle counting and operational time tracking is required on 
+ certain critical components. Ref. Delta Enterprise document no. DE-1103 “Instructions 
+ for Continued Airworthiness” Rev. C dated August 1, 2016, or later FAA approved 
+ revisions."
+NOTE 14,"No person may be carried onboard this aircraft unless that person is a flight crewmember; 
+ is a flight crewmember trainee; performs an essential function in connection with a 
+ special purpose operation for which the aircraft is certificated; or is necessary to 
+ accomplish the work activity directly associated with that special purpose. Reference 14 
+ CFR §91.313(d)."

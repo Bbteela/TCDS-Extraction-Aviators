@@ -1,0 +1,93 @@
+Keyterm,Info
+"A-2-599 
+ FAIRCHILD 
+ M-84-C 
+ December 19, 1949",
+Manufacturer,"Fairchild Engine and Airplane Corporation 
+ Hagerstown, Maryland"
+"I - Model M-84-C, 4 PCLM, Approved September 12, 1949",
+Engine,Continental W-670-6N
+Fuel,80 minimum octane aviation gasoline
+Engine limits,"For all operations, 2075 rpm (220 hp)"
+Airspeed limits,"Level flight or climb 
+ 150 mph True Ind. 
+ Glide or dive 
+ 202 mph True Ind. 
+ Flaps extended 
+ 106 mph True Ind."
+CG range,"(+18.1) to (+25.2) at 2900 lbs. 
+ (+21.1) to (+25.2) at 3300 lbs. 
+ Straight line variation between points given. 
+ Effect of retracting landing gear 0 in, lbs. 
+ Forw'd 
+ Limit 
+ 3300 
+ 3100 
+ Aft 
+ Gross Wt. in Lbs. 
+ Limit 
+ 2900 
+ 18 
+ 20 
+ 22 
+ 24 
+ 26 
+ Inches Aft 
+ of Datum"
+Empty weight CG range,None
+Datum,Leading edge of wing at root section
+Leveling means,"Lugs on front and rear stabilizer attachment belts, left side."
+Maximum weight,3300 lbs.
+No seats,"4 (2 at +12, 2 at +62)"
+Maximum baggage,50 lbs. (+86)
+Fuel capacity,48 gals. (+39)
+Oil capacity,4.1 gals. (-26)
+Control surface movements,"Aileron 
+ 34° up 
+ 25.5° down 
+ Flaps 
+ 55° down 
+ Elevator 
+ 26° up 
+ 25° down 
+ Elevator trim tabs 3° up 
+ 26° down 
+ Rudder 34° left 
+ 31° right"
+Serial Nos eligible,6200 only
+Required equipment,"Items 1, 2, 201, 202, 204, 301, 302, 303"
+Page No,"1 
+ 2"
+Rev No,"- 
+ -"
+Specifications Pertinent to All Models,
+Certification basis,Airworthiness Certificate only (CAR 4a.031)
+Export eligibility,"Eligible for export to all countries except as follows, subject to the provisions of ASR 
+ No. 312 (MOP 2-4 contains same information): 
+ Canada - landplane - eligible 
+ skiplane - not eligible. 
+ Equipment: A Plus (+) or minus (-) preceding an item of equipment indicates net weight change when that item is installed."
+Propellers and Propeller Accessories,56 lbs. (-62)
+1.,
+2,6 lbs. (-28)
+Landing Gear,26 lbs. (+9)
+201,"Two main wheel-brake assemblies, 7.50-10, Type III. 
+ (a) Goodrich Model 752M 
+ Wheel Assembly No. G-3-73M 
+ Brake Assembly No. G-2-122"
+202,"Main wheel 4-ply-rating tires, 6.50-10, Type III with tubes 
+ 32 lbs. (+9)"
+204,"Tail wheel assembly, 10 in. Type I 
+ (a) Variety Model VGC-10-10, full swiveling steerable, with 6-ply-rating tire and tube 
+ 6 lbs. (+216)"
+301,"Generator-Eclipse Type 308, Model 4 
+ 16 lbs. (-34)"
+302,"Battery-Reading Model R-24-L 
+ 25 lbs. (+85)"
+303,"Starter-Eclipse Model E-801 
+ 8 lbs. (-33)"
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight empty, and loading 
+ instructions when necessary, must be in the aircraft at the time of original certification and at all times thereafter."
+NOTE 2,"The following placards must be displayed in front of and in clear view of the pilots: 
+ ""Intentional spinning prohibited."" 
+ ""Use 80 minimum octane aviation gasoline."""

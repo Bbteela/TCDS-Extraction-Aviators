@@ -1,0 +1,323 @@
+Keyterm,Info
+"1A7 
+ Revision No. 10 
+ MARTIN 
+ 404 
+ June 1, 1978",
+Type Certificate Holder,"Martin-Marietta Corporation 
+ Baltimore, Maryland 21220"
+"I - Model 404, Approved October 5, 1951",
+Engines,2 P&W Double Wasp CB3 or CB16 (Item 101(a) or (b))
+Fuel,Aviation gasoline: Minimum grade 100/130 for all engines
+Engine limits,"P&W Double Wasp CB3 (Low Blower only) and CB16: 
+ m.p. 
+ Alt. 
+ h.p. 
+ r.p.m. 
+ in.-hg. 
+ Low impeller gear ratio 7.29:1 
+ (CB3 and CB16) 
+ Takeoff (dry) (2 minutes) 
+ S.L. 
+ 2050 
+ 2700* 
+ 55.0 
+ Critical altitude 
+ 6900 
+ 2050 
+ 2700* 
+ 53.0 
+ *(See NOTE 3 for propeller governor 
+ re-setting prior to ""dry"" takeoff.) 
+ Takeoff (antidetonant 
+ S.L 
+ 2400 
+ 2800 
+ 59.5 
+ injection) (2 minutes) 
+ Critical altitude 
+ 5000 
+ 2400 
+ 2800 
+ 59.0 
+ Maximum continuous 
+ S.L. 
+ 1800 
+ 2600 
+ 48.5 
+ Maximum continuous 
+ 9200 
+ 1800 
+ 2600 
+ 46.5 
+ High impeller gear ratio 8.58:1 
+ (CB16 only) 
+ Maximum continuous 
+ 10000 
+ 1700 
+ 2600 
+ 48.5 
+ Maximum continuous 
+ 16800 
+ 1700 
+ 2600 
+ 47.5 
+ (Straight line manifold pressure 
+ variation with altitudes shown.)"
+Airspeed limits,"Vno (Normal Operation) 
+ Variable, see table below"
+CAS,"Vne (Never exceed) 
+ Variable, see table below 
+ Vp (Maneuvering) 
+ 180 m.p.h. (150 knots) 
+ Vf (Flaps down 0° to 12 1/2°) 
+ 190 m.p.h. (165 knots) 
+ Vf (Flaps down 12 1/2° to 45°) 
+ 150 m.p.h. (130 knots) 
+ Vle (Landing Gear Extended) 
+ 190 m.p.h. (165 knots) 
+ Vlo (Landing Gear Operation) 
+ (Ext.) 
+ 190 m.p.h. (165 knots) 
+ (Ret.) 
+ 180 m.p.h. (156 knots) 
+ Max. Wt. (Zero fuel), lb. 41,000 42,500 
+ Vne (Never exceed) 
+ m.p.h. 
+ 301* 
+ 285 
+ Knots 261* 247 
+ Vno (Normal Operating) 
+ m.p.h. 
+ 265* 
+ 247 
+ Knots 230* 214 
+ *Above 20,000 ft. reduce maximum values of Vne and Vno 
+ 6 m.p.h. (5.22 knots) per 1000 ft."
+1,"2 
+ 3 
+ 4 
+ 5"
+10,"9 
+ 9 
+ 10 
+ 9"
+CG range,"Condition 
+ Max. Weight, lb. 
+ Gear Position 
+ C.G. Range 
+ Takeoff 
+ 44,900 
+ Down 
+ 440.2 - 461.4 
+ Takeoff & 
+ 43,000 
+ Down 
+ 439.2 - 461.4 
+ Landing 
+ 38,000 & less 
+ Down 
+ 436.8 - 461.4 
+ Flight All Weight Up 432.6 - 461.4 
+ (Straight line C.G. variation with weights shown) 
+ Effect of retracting landing gear 
+ -75,121 in.-lb. (Item 203(a)) 
+ -72,636 in.-lb. (Item 203(b))"
+Datum,87 inches forward nose of fuselage
+Leveling means,"Longitudinal: Left side, fuselage stations 389.5 and 411 at water level 19.75 (Battery 
+ hatch area) 
+ Lateral: Fuselage station 389.5 at water level 4.76 (Battery hatch area)"
+Maximum weights,"Takeoff (Antidetonant Power) 
+ 44,900 lb. 
+ Takeoff (Dry Power) 
+ 41,500 lb. 
+ Landing (Antidetonant Power) 
+ 43,000 lb. 
+ Landing (Dry Power) 
+ 40,200 lb. 
+ Zero-Fuel 
+ Variable between 41,000 and 
+ 42,500 lb. See ""Airspeed 
+ Limits"" for zero fuel weights 
+ and corresponding Vne and Vno speeds."
+Minimum crew,2 - Pilot and Co-pilot (190)
+Maximum passengers,50 (CAR 4b.43)
+Maximum baggage,"Compartment 
+ Station 
+ Max. Capacity (Lb.) 
+ Arm 
+ Fwd. Cabin-R.H. 
+ 212-243 
+ 900 
+ 228 
+ Fwd. Cabin-R.H. 
+ 212-330 
+ 1700 
+ 273 
+ Fwd. Cabin-L.H. 
+ 255-290 
+ 800 
+ 273 
+ Fwd. Cabin-L.H. 
+ 255-330 
+ 2000 
+ 293 
+ Aft cabin 
+ 730-799 
+ 600 
+ 766 
+ Aft belly 
+ 536-723 
+ 1600 
+ 643"
+Fuel capacity,"1370 gal. (458) (685 gal. in 6 interconnected wing fuel cells in each wing) See 
+ NOTE 1(c) for ""System Fuel."""
+Oil capacity,"54 gal. (408) (One 27 gal. tank in each nacelle.) 
+ See NOTE 1(c) for ""System Oil""."
+Control surface movements,"Elevator trim tab 
+ 10° 
+ Up 
+ 20° 
+ Down 
+ Elevator (flaps 0°) 
+ 30° 
+ Up 
+ 18° 
+ Down 
+ Aileron trim tab 
+ 12° 
+ Up 
+ 12° 
+ Down 
+ Aileron 
+ 30° 
+ Up 
+ 15° 
+ Down 
+ Rudder 
+ 25° 
+ Left 
+ 25° 
+ Right 
+ Rudder trim tab 
+ 17 1/2° 
+ Left 
+ 17 1/2° 
+ Right 
+ Flaps 
+ 45° 
+ Down"
+Serial Nos eligible,"14101 and up, except U.S. Coast Guard aircraft Nos. 14290 and 14291. 
+ (Refer to pertinent ACA Forms 317 or 970 for non-conformity items on Coast Guard 
+ Aircraft.)"
+Required equipment,"In addition to the pertinent required basic equipment specified in CAR 4b, the following 
+ items of equipment must be installed: 
+ Items 1, 2, 101(a) or (b), 102(a) or (b), 103, 104, 105, 106, 107, 201(a), 202(a), 203(a) or 
+ (b), 205(a), 206(a), 301, 302, 303, 304, 401(a) or (b), 402, 404, 501, 502, 503(b)."
+SPECIFICATIONS PERTINENT TO ALL MODELS,
+Certification basis,"Type Certificate No. 1A7 (CAR 4b, as amended to October 1, 1949 and Amendment 
+ 4b-6 effective March 5, 1952, Paragraph 4b.120 only)"
+Production basis,Production Certificate No. 106
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item indicates net weight change when that item 
+ is installed. 
+ Propellers and Propeller Accessories (except Deicing Equipment)"
+6895A12,"1205 lb. (302) 
+ Diameter: Max. 13'1-5/16"", min. allowable for repairs 12'9-5/8"". 
+ Pitch settings at 42 in. Sta.: Low +30 1/2, feathered +95°, reverse -11°. 
+ The maximum time to automatically feather an engine from take-off r.p.m. at V2 speed is 10 seconds."
+2,"2 Propeller governors (Hamilton Standard 5U18) 
+ 26 lb. (317) 
+ Engines and Engine Accessories - Fuel and Oil Systems"
+a,"2 P&W Double Wasps CB3 (Airplane Flight Manual) 
+ 4687 lb. (340)"
+b,"2 P&W Double Wasps CB16 (Airplane Flight Manual 
+ 4751 lb. (340)"
+a,"2 Starters (Jack & Heintz JH6ER-12) 
+ 55 lb. (385)"
+2 Starters EclipsePioneer 36E004,55 lb. (385)
+103,"2 Feathering pumps (Ham. Std. 66166) 
+ 29 lb. (395)"
+104,"2 Oil coolers (Airesearch 19519 or 86687, 16"" dia.) 
+ 63 lb. (379)"
+105,"2 Fuel pumps, engine-driven (Thompson TF2100 or TFD2100 
+ 8 lb. (381)"
+106,"2 Fuel submerged fuel pumps, electrically driven 
+ 14 lb. (470) 
+ (Thompson TFD-27900-10 or -15, Type B5C)"
+107,System fuel and oil (See NOTE 1(c) for definition)
+System fuel,37 lb. (463)
+System oil,196 lb. (409)
+108,"Antidetonant system installation (including 16 gal. of fluid at 8 lb. per gallon) 
+ 250 lb. (417)"
+201,"4 Main wheel-brake assemblies, 12.50-16, Type III,"
+"(a) 
+ Goodyear Model L12.50-16 HBM, Wheel Assembly No. 9540512,",
+a,"4 Main wheel tires, 12.50-16, Type III, 10-ply rating, with regular tubes 
+ 312 lb. (473)"
+203,2 Main gear shock strut assemblies
+a,"Menasco 527000 (Martin Dwg. No. E-100007) 
+ 570 lb. (481)"
+b,"Menasco 511001 (Martin Dwg. No. 404-4900135) 
+ 518 lb. (481)"
+a,"1 nose wheel, 9.50-16, Type III, Goodyear Wheel Assembly No. 9530759 
+ 31 lb. (205)"
+a,"1 nose wheel tire, 9.50-16, Type III, 10-ply rating, with regular tube 
+ 53 lb. (205)"
+301,"2 Generators (Eclipse-Pioneer 30E02-11B or -11C) 
+ 130 lb. (387)"
+Battery Exide 12TAS11,83 lb. (400)
+2 Landing Lights Grimes G3800A6,12 lb. (445)
+2 Inverters EclipsePioneer 15181F,73 lb. (375)
+401,"One of the following FAA Approved Airplane Flight Manuals. (The Manual may be carried as 
+ part of, or bound with, the operator's ""Approved Operator's Manual"", but must remain in the 
+ airplane and must retain its identity as an individual manual.)"
+"(a) 
+ EAL Model 404, Revision 4 dated 9/4/62 
+ (b) 
+ TWA Model 404, Revision 5 dated 10/15/52",
+402,"Windshield wiper installation (Marquette Motor D1600-1 with Marquette 16-2E6-1/64 Rev. C 
+ valve or Alco Motor XW2068-5 or XW2069-2 with valve XW2331-2)"
+403,"2 cabin combustion heaters (Surface Combustion 77A63) 
+ 55 lb. (358)"
+404,Oxygen system (Includes both protective and supplemental)
+a,"EAL Maint. Manual (Vol. V) Series 20-2 Page 1. 
+ 53 lb. (332)"
+b,"TWA Maint. Manual Series 20-2 Page 1. 
+ 100 lb. (302)"
+501,"4 wing combustion heaters (Surface Combustion (Janitrol) 99A50) 
+ 158 lb. (467)"
+502,"Carburetor heat anti-icing system26 lb. (358) 
+ (GLM Dwg. No. 404-5051100 or 404-5051200)"
+503,"Alcohol deicing system (including 16 gal. at 7 lb. per gallon) 
+ 212 lb. (521) 
+ (EAL Maintenance Manual Vol. V Series 18-2 pages 11 and 13; TWA 
+ Maintenance Manual Series 18-2 pages 11 and 13)."
+"Hamilton Standard Boots Model 74467, length 52 inches.",
+a,"Current weight and balance report including list of equipment included in certificated weight empty, and 
+ loading instructions when necessary, must be in each aircraft at the time of original certification and at all times 
+ thereafter (except in the case of air carrier operators having an approved weight control system)."
+b,"Refer to Martin Engineering Reports ""Actual Weight and Balance Model 404 (Airline)"" and ""Weight and 
+ Balance Loading Schedule Model 404 (Airline)"" for interior arrangement, equipment list, weight and balance 
+ and loading schedule for any particular airplane."
+c,"""System Fuel and Oil"" is that amount required to fill both the systems and the tanks up to the tank outlets to the 
+ engines, when the airplane is in the level attitude. ""System Fuel and Oil"" and all hydraulic fluid must be 
+ included in the certificated weight empty. (See Item 107 for fuel and oil quantities)."
+d,"Fuel and Oil capacities listed do not include any ""System Fuel and Oil"". Oil tank does include propeller 
+ feathering oil (2 gal.)."
+NOTE 2,"The following placards must be displayed on the instrument panel in full view of the pilot (except as noted in (c), (e)"
+a,"""This airplane must be operated in compliance with operating limitations specified in F.A.A. approved airplane 
+ operating manual."""
+b,"Automatic Propeller Feathering: 
+ ""Lights ON for all take-off operations""."
+c,"""Emergency gear extension - Do not lower above 130 m.p.h."". 
+ (Located inside emergency gear control access door.)"
+d,"Landing gear control handle: 
+ ""Caution: Lever must return to neutral after each operation""."
+e,"Forward Cabin Door: 
+ ""This door to be open during all take-offs and landings"". 
+ (Located on forward side of cabin inner door at Sta. 330.)"
+f,"Forward entrance door restraining bar (EAL only): 
+ ""Warning - Bar must not be across doorway during take-off and landing"". 
+ (Installed on restraining bar)."
+NOTE 3,"When antidetonant injection is not used for takeoff, the propeller governors must be reset prior to takeoff in order to 
+ limit the dry takeoff engine r.p.m. to 2700."

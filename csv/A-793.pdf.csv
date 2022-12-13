@@ -1,0 +1,1904 @@
+Keyterm,Info
+"A-793 
+ Revision 26 
+ General Dynamics 
+ 240 Series 
+ USAF T-29A, VT-29A, 
+ T-29B, T-29C, T-29D, 
+ & C-131A 
+ January 2, 2001",
+Manufacturer,"Kelowna Flightcraft R & D Ltd. 
+ #1 5855 Kelowna Airport 
+ Kelowna, BC, Canada V1V 1S1"
+"I - Model 240-0 Approved December 7, 1948 
+ This Section deleted. All Model 240-0 airplanes have been revised to allow their operation in accordance with the provisions of 
+ Section II 
+ II - Model 240-0, -1, -2, -3, -4, -5, -6, -7, -8, -10, -11, -12, -13, -14, -15, -17, -19, -26 
+ Model 240-6 approved December 7, 1948 
+ Model 240-17 approved December 28, 1978 
+ NOTE 8 for explanations of model designations 
+ NOTE 14 for required changes to the military T-29A and VT- 29A for operation as a Model 240-17",
+Engines,"2 P&W Double Wasps CA3, CA15, CA18, or R2800-83AM3, -83AM4A or -83AM9 
+ (20:9 propeller reduction gearing); or CB3, CB16, R2800-83AM5, -52WM1 or -99W 
+ (20:9 propeller reduction gearing). Note: R2800-97W is equivalent to R2800 CA-18."
+Fuel,100/130 grade aviation gasoline
+Engine Limits,"(Straight line manifold pressure variation with altitudes shown) 
+ MP 
+ In. Hg. 
+ Alt. 
+ HP. 
+ R.P.M. 
+ P&W Double Wasp CA3, CA15, 
+ R2800-83AM3 & -83AM4A 
+ Low impeller gear ratio 7.29:1 
+ Takeoff (two minutes) (dry) 
+ 2100 
+ 2800 
+ 53.5* 
+ S.L. 
+ Takeoff (two minutes) (wet) 
+ 2400 
+ 2800 
+ 56.5 
+ S.L. 
+ Maximum continuous 
+ 1800 
+ 2600 
+ 45.0 
+ S.L. 
+ Maximum continuous 
+ 1800 
+ 2600 
+ 44.0 
+ 6500' 
+ or (for CA3, CA15 & -83AM4A only) 
+ Maximum continuous 
+ 1900 
+ 2600 
+ 47.5 
+ S.L. 
+ Maximum continuous 
+ 1900 
+ 2600 
+ 46.5 
+ 4900' 
+ High impeller gear ratio 9.45:1 
+ (CA15, R2800-83AM3, & -83AM4 only) 
+ Maximum continuous 
+ 1600 
+ 2600 
+ 46.5 
+ 10000' 
+ Maximum continuous 
+ 1600 
+ 2600 
+ 45.0 
+ 16200'"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21"
+Rev No,"26 
+ 23 
+ 26 
+ 23 
+ 25 
+ 25 
+ 23 
+ 26 
+ 26 
+ 26 
+ 26 
+ 26 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23"
+Page No,"22 
+ 23 
+ 24"
+Rev No,"23 
+ 25 
+ 25 
+ MP 
+ In. Hg. 
+ Alt. 
+ HP. 
+ R.P.M. 
+ P&W Double Wasp CA18 & R2800-83AM9 
+ Low impeller gear ratio 7.29:1 
+ Takeoff (two minutes) (dry) 
+ 2100 
+ 2800 
+ 53.5* 
+ S.L. 
+ Takeoff (two minutes) (wet) 
+ 2400 
+ 2800 
+ 56.5 
+ S.L. 
+ Maximum continuous 
+ 1800 
+ 2600 
+ 45.0 
+ S.L. 
+ Maximum continuous 
+ 1800 
+ 2600 
+ 44.0 
+ 6500' 
+ Maximum continuous 
+ 1900 
+ 2600 
+ 47.5 
+ S.L. 
+ Maximum continuous 
+ 1900 
+ 2600 
+ 46.5 
+ 4500' 
+ High impeller gear ratio 9.1:1 
+ Maximum continuous 
+ 1675 
+ 2600 
+ 49.0 
+ 8000' 
+ Maximum continuous 
+ 1675 
+ 2600 
+ 47.0 
+ 13500' 
+ P&W Double Wasp CB3, CB16, 
+ R2800-83AM5, -52WM1 & -99W 
+ Low impeller gear ratio 7.29:1 
+ Takeoff (two minutes) (dry) 
+ 2050 
+ 2700 
+ 55.0 
+ S.L. 
+ Takeoff (two minutes) (dry) 
+ 2050 
+ 2700 
+ 53.0 
+ 6900' 
+ Takeoff (two minutes) (dry) 
+ 1950 
+ 2800 
+ 53.0 
+ S.L. 
+ Takeoff (two minutes) (dry) 
+ 1950 
+ 2800 
+ 51.0 
+ 9800' 
+ Takeoff (two minutes) (wet) 
+ 2400 
+ 2800 
+ 59.5 
+ S.L. 
+ Takeoff (two minutes) (wet) 
+ 2400 
+ 2800 
+ 59.0 
+ 5000 
+ Maximum continuous 
+ 1800 
+ 2600 
+ 48.5 
+ S.L. 
+ Maximum continuous 
+ 1800 
+ 2600 
+ 46.5 
+ 9200' 
+ High impeller gear ratio 8.58:1 
+ (CB16, R2800-83AM5, -52WM1 & 
+ -99W only) 
+ Maximum continuous 
+ 1700 
+ 2600 
+ 48.5 
+ 10000' 
+ Maximum continuous 
+ 1700 
+ 2600 
+ 47.5 
+ 16800' 
+ *54 In. Hg. for R2800-83AM3, -83AM4A, and -83AM9"
+Airspeed Limits,"280 m.p.h. 
+ (244 knots) 
+ True Ind. 
+ VC 
+ (Maximum cruising) (S.L. to 7600') 
+ 6 m.p.h. 
+ ( 5 knots) 
+ per 1000' 
+ (Above 7600' reduce speed) 
+ See NOTE 9 for alternate values 
+ 315 m.p.h. 
+ (274 knots) 
+ True Ind. 
+ VNE 
+ (Never exceed) (S.L. to 7600') 
+ 6 m.p.h. 
+ ( 5 knots) 
+ per 1000' 
+ (Above 7600' reduce speed) 
+ See NOTE 9 for alternate values 
+ VP 
+ (Maneuvering) 
+ 180 m.p.h. 
+ (157 knots) 
+ True Ind. 
+ VF 
+ (Flaps down) 15° maximum 
+ 215 m.p.h. 
+ (187 knots) 
+ True Ind. 
+ VF 
+ (Flaps down) 20° maximum 
+ 200 m.p.h. 
+ (174 knots) 
+ True Ind. 
+ VF 
+ (Flaps down) 30° maximum 
+ 178 m.p.h. 
+ (155 knots) 
+ True Ind. 
+ VF 
+ (Flaps down) 40° full 
+ 160 m.p.h. 
+ (139 knots) 
+ True Ind. 
+ VLE 
+ (Landing gear extended) 
+ 200 m.p.h. 
+ (174 knots) 
+ True Ind. 
+ VLO 
+ (Landing gear operation) (Retracted) 
+ 150 m.p.h. 
+ (131 knots) 
+ True Ind. 
+ VLO 
+ (Landing gear operation) (Extended) 
+ 200 m.p.h. 
+ (174 knots) 
+ True Ind."
+C G Range,"Takeoff and landing (351.4) (17% MAC) to (367.7) (31% MAC) with landing gear 
+ extended. Normal enroute operation (346.8) (13% MAC) to (370.1) (33% MAC) with 
+ landing gear retracted. 
+ Effect of retracting landing gear: -69,160 in. lbs. 
+ See NOTE 5 for modifications accomplished."
+Maximum Weight,"Takeoff 40,500 lbs. 
+ (See NOTE 11 for 41,200 lbs. with fuel dump system) 
+ (See NOTE 5 for modifications accomplished) 
+ (See NOTE 18 for 41,200 lbs. or 41,790 lbs. without outer panel tanks) 
+ (See NOTE 19 for 41,790 lbs. with outer panel tanks) 
+ (See NOTE 20 for 42,500 lbs. or 42,400 lbs. with fuel dump installation (with or without 
+ outer panel tanks)) 
+ Landing 38,600 lbs. 
+ (See NOTES 18, 19, and 20 for 39,800 lbs.) 
+ Zero fuel 37,400 lbs. 
+ (See NOTE 18 for 38,900 lbs. or 38,600 lbs. without outer panel tanks) 
+ (See NOTE 19 for 38,900 lbs. with outer panel tanks) 
+ (See NOTE 20 for 38,100 lbs., 38,400 lbs., or 38,170 lbs. with fuel dump installation)"
+Minimum Crew,2 - Pilot and Copilot (Sta. 84)
+Maximum Passengers,40 (CAR 4b.381)
+Maximum Baggage,(See NOTE 4)
+Fuel Capacity,1000 gal. (one 500 gal. tank in each wing) (Sta.375)
+Oil Capacity,"41 gal. with Item 1(b), (c), or (d) installed (one 20.5 gal. tank in each nacelle) (Sta. 323) 
+ 45 gal. with Item 1(a) installed (one 22.5 gal. tank in each nacelle) (Sta. 323)"
+Serial Numbers Eligible,1 and up (566 aircraft were produced)
+Required Equipment,"1.(a), (b), (d), (e), (f), or (g); 111.(a); 115.(a) or (b); 116.(a) or (b); 201.(a) or (b); 202.(b) 
+ or (c); 204.(a); 205.(a); 207.(a), (b), or (c); 208.(a) or (b); 209.(a) or (b); 210.(a); 211.(a) 
+ or (b); 415."
+"III -Models 240-23, -24, -25, -27, -52, and -53 
+ Model 240-23 Approved September 1, 1950 
+ Model 240-27 Approved July 8, 1963, & June 5, 1979 
+ Models 240-52, 240-53 Approved June 12, 1980 
+ NOTE 10 for eligibility of additional models 
+ NOTE 13 for required changes to the Military T29B for operation as a Model 240-27 
+ NOTE 15 for required changes to the Military T-29C for operation as a Model 240-27 
+ NOTE 16 for required changes to the Military T-29D for operation as a Model 240-52 
+ NOTE 17 for required changes to the Military C-131A for operation as Model 240-53 
+ Fuel 
+ 100/130 grade aviation gasoline. 
+ Engine Limits 
+ Same as Section II 
+ Airspeed Limits 
+ 270 m.p.h. 
+ (235 knots) 
+ True Ind. 
+ VC 
+ (Maximum cruising) (S.L. to 16500') 
+ 6 m.p.h. 
+ ( 5 knots) 
+ per 1000') 
+ (Above 16500' reduce speed 
+ See NOTE 10 for alternate values 
+ 306 m.p.h. 
+ (266 knots) 
+ True Ind. 
+ VNE 
+ (Never exceed) (S.L. to 16500') 
+ 6 m.p.h. 
+ ( 5 knots) 
+ per 1000') 
+ (Above 16500' reduce speed 
+ See NOTE 10 for alternate values 
+ VP 
+ (Maneuvering) 
+ 180 m.p.h. 
+ (157 knots) 
+ True Ind. 
+ VF 
+ (Flaps down) 15° maximum 
+ 215 m.p.h. 
+ (187 knots) 
+ True Ind. 
+ VF 
+ (Flaps down) 20° maximum 
+ 200 m.p.h. 
+ (174 knots) 
+ True Ind. 
+ VF 
+ (Flaps down) 30° maximum 
+ 178 m.p.h. 
+ (155 knots) 
+ True Ind. 
+ VF 
+ (Flaps down) 40° full 
+ 160 m.p.h. 
+ (139 knots) 
+ True Ind. 
+ VLE 
+ (Landing gear extended) 
+ 200 m.p.h. 
+ (174 knots) 
+ True Ind. 
+ VLO 
+ (Landing gear operation) (Retracted) 
+ 150 m.p.h. 
+ (131 knots) 
+ True Ind. 
+ VLO 
+ (Landing gear operation) (Extended) 
+ 200 m.p.h. 
+ (174 knots) 
+ True Ind. 
+ C G Range 
+ Takeoff and landing (351.4) (17% MAC) to (367.7) (31% MAC) with landing gear 
+ extended. Normal enroute operation (346.8) (13% MAC) to (370.1) (33% MAC) with 
+ landing gear retracted. 
+ Effect of retracting landing gear: -69,160 in. lbs. 
+ See NOTE 5 for modifications accomplished. 
+ Maximum Weights 
+ (3) 
+ (3) 
+ (1)(2)",
+Engines,"(1) 
+ CA3, CA15, CA18, 
+ CA3, CA15, CA18, 
+ CA3, CA15, CA18, 
+ CA3, CA15, CA18, 
+ CB3, CB16, 
+ CB3, CB16, 
+ CB3, CB16, 
+ CB3, CB16, 
+ R2800-83AM4A, 
+ R2800-83AM4A, 
+ R2800-83AM4A, 
+ R2800-83AM3; 
+ -83AM5, -83AM9, 
+ -83AM5, -83AM9, 
+ -83AM5, -83AM9, 
+ -83AM4A, -83AM5, 
+ -52WM1, -99W 
+ -52WM1, -99W 
+ -52WM1, -99W 
+ -83AM9, -52WM1, 
+ -99W 
+ Curtiss 
+ Curtiss 
+ Curtiss"
+Propellers,"Curtiss 
+ C632S-B/740-6C2-0 
+ C632S-B/740-6C2-0 
+ C632S-B/740-9C2-0 
+ C632S-B/740-9C2-0 
+ C632S-B/740-9C2-0 
+ C632S-B/740-9C2-0 
+ Hamilton Standard 
+ Hamilton Standard 
+ Hamilton Standard 
+ Hamilton Standard 
+ 23260/2H17K3-48R 
+ 23260/2H17K3-48R 
+ 43E60/6895A-12 
+ 23260/2H17K3-48R 
+ 23260/2H17U3-48R 
+ 23260/2H17U3-48R 
+ 23260/2H17U3-48R 
+ or /2H17AA3-48R 
+ or /2H17AA3-48R 
+ or /2H17AA3-48R 
+ or /2H17AC3-48R 
+ or /2H17AC3-48R 
+ or /2H17AC3-48R 
+ 43E60/6895A-12 
+ 43E60/6895A-12 
+ 43E60/6895A-12"
+TO Gross Wt,"41200 
+ 41790 
+ 42400 
+ 42500"
+Zero Fuel Wt,"38900 
+ 38600/38900(4) 
+ 38160/38460(4) 
+ 38100/38400(4)"
+Landing Weight,"39800 
+ 39800 
+ 39800 
+ 39800"
+1,For airplanes modified in accordance with CVAC Service Bulletin 240-377 not incorporating outer panel fuel tanks.
+2,For airplanes modified in accordance with CVAC Service Bulletin 240-376A incorporating outer panel fuel tanks.
+3,For airplanes modified in accordance with CVAC Service Bulletin 240-308B and 240-426.
+4,Upper figure Zero Fuel Wt. without outer panel fuel tanks. Lower figure Zero Fuel Wt. with outer panel fuel tanks.
+Minimum Crew,2 - Pilot and Copilot (Sta. 84)
+Maximum Passengers,40 (CAR 4b.381) (32 for Model 240-23)
+Maximum Baggage,(See NOTE 4)
+Fuel Capacity,"1000 gal. (one 500 gal. tank in each wing) (Sta. 375) 
+ 1550 gal. with outer fuel tanks, CVAC 240-1406001 (one 500 gal. and one 275 gal. tank 
+ in each wing) (Sta. 375) 
+ (Tanks in each wing are interconnected to function as a single 775 gal. tank)"
+Oil Capacity,"41 gal. with Item 1(b) or (d) installed (one 20.5 gal. tank in each nacelle ) (Sta.323) 
+ 45 gal. with Item 1(a) installed (one 22.5 gal. tank in each nacelle) (Sta. 323) 
+ 5 gal. in fuselage (required when outer wing fuel tanks are installed) (Sta. 126)"
+Serial Numbers Eligible,1 and up (566 aircraft were produced)
+Required Equipment,"1.(a), (b), (d), (e), (f), or (g); 111.(a) or (b); 115.(a), (b), (c), or (d); 116.(b); 201.(a) or 
+ (b); 202.(b) or (c); 204.(a); 205.(a); 207.(b), or (c); 208.(a) or (b); 209.(a),(b), or (c); 
+ 210.(a) or (b); 211.(b); 415."
+Specifications Pertinent to All Models,
+Datum,Station 0 (Fuselage Nose). (Distance from data to centerline rear main wheel 393.1 in.)
+MAC,116.6 in. L.E. MAC Sta. 331.6
+Leveling Means,Leveling lugs inside nose wheel well L.H. side.
+Control Surface Movements,"Main Surfaces: 
+ Elevators 
+ 25° Up 
+ 12° Down 
+ Rudder 
+ 18° Left 
+ 18° Right 
+ Ailerons 
+ 17° Up 
+ 20° Down 
+ (Rig 1½° Drooped on Ground) 
+ Flight (Spring) Tabs: 
+ Elevator 
+ 12° Up 
+ 12° Down 
+ (Rig 7° Up from Chord at Neutral)* 
+ Rudder 
+ 14° Left 
+ 10° Right 
+ (Rig 2° to Left of Chord Neutral) 
+ Servo and Trim Tabs (Main Surfaces in Neutral): 
+ Elevator, Servo-Trim 
+ 3° Up 
+ 17° Down 
+ (Rig 5° Down from chord at Neutral) 
+ Rudder Trim 
+ 9° Left 
+ 9° Right 
+ Aileron Servo-Trim 
+ 8½° Up 
+ 5½° Down 
+ (Rig 1½° Up from Chord at Neutral) 
+ Flaps 
+ 39° Total Angular Travel 
+ *With control column counter-balance and elevator bungee spring disconnected. This 
+ up-rigging becomes 9½° with counter-balance and spring connected."
+Certification Basis,"Type Certificate No. A-793 (Transport Category, CAR 4b, effective November 9, 1945, 
+ and Amendment 4b-1, effective November 1, 1946) (Model 240-8, certified under the 
+ combined requirements of CAR 4b, effective November 9, 1945, and Amendment 4b-1, 
+ effective November 1, 1946, and CAR 3, effective November 13, 1945.)"
+Production Basis,"None at this time. 
+ General Dynamics, Convair Division, produced 566 Model 240 aircraft and parts under 
+ FAA Production Certificate (PC) Number 605 in San Diego, California, until 1995. PC 
+ 605 became invalid when the Type Certificate (TC) was transferred to Tracor Flight 
+ Systems, Inc. Tracor was issued FAA Production Certificate 708NM for the production 
+ of spare parts and type design changes for the Model 240. The Tracor PC was 
+ surrendered in 1998 when the TC was endorsed to Kelowna Flightcraft, Kelowna, BC, 
+ Canada"
+Export Eligibility,"Eligible for export to all countries subject to the provisions of MOP 2-4 except as 
+ follows: 
+ Canada - Landplane only eligible."
+AntiIcing Equipment,"1. (a) 
+ 2 Curtiss-Wright, hubs C632SB with 740-6C2-0 
+ 926 lbs. 
+ (Sta. 220) 
+ blades 
+ Diameter: 13'1"" 
+ Pitch settings at 42"" sta., for use with engines 
+ having 2100 hp. dry takeoff power rating only: 
+ Reverse -13.5°, minimum low 24°, feathered 
+ 91.7° 
+ Pitch settings at 42"" sta., for use with engines 
+ having 2400 hp. wet takeoff power rating: 
+ Reverse -17.5°, minimum low 26.5°, feathered 
+ 91.7° 
+ Following placards required: 
+ (1) ""Avoid continuous operation in flight below 
+ 1500 engine rpm."" 
+ (2) ""Avoid continuous operation on ground 
+ between 1250 & 1500 engine r.p.m.."" 
+ (b) 
+ 2 Hamilton Standard, hubs 23260 with 2H17K3- 
+ 882 lbs. 
+ (Sta. 224) 
+ 48R blades 
+ Diameter: 13'1"" 
+ Pitch settings at 72"" sta.: 
+ Reverse -23°, or -25°, minimum low 14°, 
+ feathered 81°. 
+ Some airplanes incorporate restricted throttle"
+Propellers and Propeller,"travel in reverse, limiting reverse power to"
+Accessories Except,"approximately 75% of the 2400 hp. takeoff rating 
+ of the engines. These airplanes have a reverse 
+ blade angle of -23°. Airplanes with full power 
+ available in reverse have a reverse blade angle of -25° 
+ (c) 
+ Deleted June 26, 1953 
+ 888 lbs. 
+ (Sta. 224) 
+ (d) 
+ 2 Hamilton Standard, hubs 23260 with 2H17U3- 
+ 48R or 2H17AA3-48R blades (See Prop. Spec. 
+ P-853 (NOTE 6) for interchangeable blades) 
+ Diameter: 13'1"" 
+ Pitch settings at 72"" sta.: 
+ Reverse -23°, or -25°, minimum low 14°, 
+ feathered 81° 
+ Some airplanes incorporate restricted throttle 
+ travel in reverse, limiting reverse power to 
+ approximately 75% of the 2400 hp takeoff rating 
+ of the engines. These airplanes have a reverse 
+ blade angle of -23°. Airplanes with full power 
+ available in reverse have a reverse blade angle of -25°. 
+ 3. 
+ 2 Curtiss-Wright, hubs C632SB with 740-9C2-0 
+ 980 lbs. 
+ (Sta. 220) 
+ blades 
+ Diameter: 13'1"" 
+ Pitch settings at 42"" sta., for use with engines 
+ having 2100 hp. dry takeoff rating only: 
+ Reverse -13.5°, minimum low 24°, feathered 
+ 91.7° 
+ Pitch settings at 42"" sta., for use with engines 
+ having 2400 hp. wet takeoff power rating: 
+ Reverse -17.5°, minimum low 26.5°, feathered 
+ 91.7° 
+ Following placards required: 
+ (1) ""Avoid continuous operation in flight below 
+ 1500 engine rpm."" 
+ (2) ""Avoid continuous operation on ground 
+ between 1250 & 1500 engine rpm."" 
+ (f) 
+ 2 Hamilton Standard, hubs 43E60 with 6895-12 
+ 1080 
+ (Sta. 224) 
+ blades 
+ lbs. 
+ Diameter: Max. 13’1-5/16”, minimum allowable 
+ for repairs 12’9-5/8” 
+ No further tolerance permitted 
+ Pitch setting at 42” sta.: 
+ Reverse –13°; minimum low 29°; feathered 95° 
+ 906 lbs. 
+ (Sta. 224) 
+ (g) 
+ 2 Hamilton Standard hubs 23260 with blades"
+Propellers and Propeller,2H17AC3-48R (See Prop. Spec. P-853 (NOTE 6)
+Accessories Except,"for interchangeable blades) 
+ Diameter: 13'1"" 
+ Pitch settings at 72"" sta.: 
+ Reverse -23° or -25°, minimum low 14°, 
+ feathered 81° 
+ Some airplanes incorporate restricted throttle 
+ travel in reverse, limiting reverse power to 
+ approximately 75% of the 2400 hp. takeoff rating 
+ of the engines. These airplanes have a reverse 
+ blade angle of -23°. Airplanes with full power 
+ available in reverse have a reverse blade angle of 
+ -25°. 
+ 111. 
+ (a) 
+ System fuel 
+ 47 lbs. 
+ (Sta. 375) 
+ (b) 
+ System fuel (with outer wing tanks installed) 
+ 53 lbs. 
+ (Sta. 375) 
+ 115. 
+ (a) 
+ System oil (with Item 1(a) or (e) installed) 
+ 133 lbs. 
+ (Sta. 275) 
+ (b) 
+ System oil (with Item 1(b), (d), (f), or (g) 
+ 204 lbs. 
+ (Sta. 274) 
+ installed) 
+ (c) 
+ System oil (with Item 1(a) or 1(e) and 
+ 145 lbs. 
+ (Sta. 275) 
+ auxiliary oil installed) 
+ (d) 
+ System oil (with Item 1(b), (d), (f), or (g) and 
+ 216 lbs. 
+ (Sta. 274) 
+ auxiliary oil installed) 
+ 116. 
+ 4 engine augmenters 
+ (a) 
+ Deleted December 12, 1950 
+ (b) 
+ Muff type augmenters: 
+ (1) CVAC Part No. 240-6220195 with any of the following forward 
+ augmenter sections: 
+ 240-6221107, -0, -168, -172, -182, -190, -202, -250, -252, -260, 
+ -262, -264, -268, -280, -290, -300, -314, -360 
+ 117. 
+ Fuel dump system (See CVAC Service Bulletin 240-426 for part numbers, 
+ weight and basic moment changes.)"
+Landing Gear,"201. 
+ 2 Main Gear Shock Struts 
+ (a) 
+ Bendix 155370 (Left) and 155371 (Right) 
+ 450 lbs. 
+ (Sta 396) 
+ (b) 
+ Bendix 155150 (Left) and 155151 (Right) 
+ 444 lbs. 
+ (Sta. 396) 
+ 455 lbs. 
+ (Sta. 396) 
+ (c) 
+ For Model 240-17, -27, -52, and -53 only 
+ Bendix 160570 (Left) and 160570 (Right) 
+ (See Notes) 
+ 440 lbs. 
+ (Sta. 396) 
+ (d) 
+ Bendix 159695 (Left) and 159696 (Right) 
+ (155370/155371 Shock Struts modified per 
+ Bendix Service Bulletin No. L.G. 516. 
+ Required for 41,200 lbs. and higher maximum 
+ take-off weight. Ref. CVAC S.B. 240-308A) 
+ 454 lbs. 
+ (Sta. 396) 
+ (e) 
+ Bendix 159589 (Left) and 159590 (Right) 
+ (155150/155151 Shock Struts modified per 
+ Bendix Service Bulletin No. L.G. 516 
+ Required for 41,200 lbs. and higher maximum 
+ take-off weight. Ref. CVAC S.B. 240-308A) 
+ Notes: 
+ 1. 
+ Must be used in pairs. 
+ Not to be used on other 240 aircraft (use only on 240-17, -27, 
+ -52, and -53) 
+ 2. 
+ Parts in Bendix 155150/155151, 155370/155371, 
+ 159589/159590, and 159695/159696 Commercial Gears and 
+ Bendix 160570 Military Gears are not interchangeable. 
+ 3. 
+ The Bendix 160570 Strut can be used in R.H. or L.H. 
+ installations depending on component assembly. 
+ 202. 
+ 4 Main Wheel Brake Assemblies (34 x 9.9) 
+ Type VII-B (E.H.P.) 
+ (a) 
+ Deleted - December 12, 1950 
+ 332 lbs. 
+ (Sta. 393) 
+ 202 
+ (b) 
+ Goodyear Model L34 x 9.9 HBM 
+ Wheel Assembly No. 9540082 
+ Brake Assembly No. 9540245 
+ Brake Assembly No. 9540485 
+ Brake Assembly No. 9530222* 
+ 334 lbs. 
+ (Sta. 393) 
+ (c) 
+ Goodyear Model L34d x 9.9 HBM 
+ Wheel Assembly No. 9540316 
+ Brake Assembly No. 9540245 
+ Brake Assembly No. 9540485 
+ Brake Assembly No. 9530222* 
+ 334 lbs. 
+ (Sta. 393) 
+ (d) 
+ Goodyear Model L34 x 9.9 for 240-17 
+ Wheel Assembly No. 9540316 
+ Wheel Assembly No. 9540316 M-1 
+ Brake Assembly No. 9540245 
+ Brake Assembly No. 9540245M 
+ 334 lbs. 
+ (Sta. 393) 
+ (e) 
+ Goodyear Model L34 x 9.9 for 240-27, 
+ -52, -53 
+ Wheel Assembly No. 9540591 
+ Wheel Assembly No. 9540316 M-1 
+ Brake Assembly No. 9540485 
+ *Note: Brake assembly must be reworked per 
+ S.B. 240-22A II 
+ 204. 
+ (a) 
+ 4 Main Wheel 12 Ply Rating Tires (34 x 9.9) 
+ 209 lbs. 
+ (Sta. 393) 
+ Type VII B (Inflation Pressure = 95 PSI) 
+ (b) 
+ 4 Main Wheel 14 Ply Rating Tires (34 x 9.9) 
+ 209 lbs. 
+ (Sta. 393) 
+ Type VII B (Inflation Pressure = 109 PSI) 
+ The maximum permissible weight of a tire and 
+ tube is 73.016 lbs. Either new or retreaded, the 
+ total weight of a tire and tube must not exceed 
+ this limit. 
+ 205. 
+ 4 Main Wheel Tubes (34 x 9.9) Type VII B, 
+ 31 lbs. 
+ (Sta. 393) 
+ Plain with TR-150 Valve 
+ 207. 
+ Nose Gear Shock Strut 
+ (a) 
+ Bendix 
+ 155155 
+ 131 lbs. 
+ (Sta. 92) 
+ (b) 
+ Menasco 
+ 523500 
+ 187 lbs. 
+ (Sta. 92) 
+ (Required for 41,200 lbs. and higher maximum 
+ take-off weight. Ref. CVAC S.B. 240-308A. 
+ Required for Model 240-17, -27, -52, and -53) 
+ (c) 
+ For Model 240-0, -10, and -26 only 
+ 183 lbs. 
+ (Sta. 92) 
+ Bendix 
+ 159845 
+ (Ref. American Airlines E.A. C.732A. 
+ Alternate for Menasco 523500. Requires E.A. 
+ C.825 for 41,200 lbs. maximum take-off 
+ weight) 
+ 208. 
+ 2 Nose Wheels (26 x 6) Type II Tire (Model 240) 
+ (a) 
+ Goodrich Model 2665-M (Includes Fairings) 
+ 36 lbs. 
+ (95) 
+ Mag 
+ (b) 
+ Goodrich Model 2665-M1 (Without Fairings) 
+ 36 lbs. 
+ (95) 
+ Mag 
+ (c) 
+ Goodrich Assy. No. G-3-615-M Tube Type 
+ (d) 
+ Goodrich Assy. No. G-3-615-M1 Tube Type 
+ (e) 
+ Goodrich Assy. No. G-3-701M Tube Type 
+ (f) 
+ Goodrich Assy. No. G-3-701M1 Tube Type 
+ (g) 
+ Goodrich Assy. No. G3-677M1 Tube Type 
+ (T-29A only) 240-17 
+ (h) 
+ Goodrich Assy. No. G3-704M Tube Type 
+ (i) 
+ Goodrich Assy. No. G3-704M1 Tube Type 
+ 2 Nose Wheels (26 x 6.6) Type VII Tire (Model T-29) 
+ (See note at end of paragraph 209. for limitations) 
+ (j) 
+ Goodrich Assy. No. G3-725M Tube Type 
+ (T-29A, B, C, D, C-131A) 
+ (k) 
+ Goodrich Assy. No. G3-725M1 Tube Type 
+ (T-29A, B, C, D, C-131A) 
+ 2 Nose Wheels (7.50 x 14) Type III with S.B. 240-308B or S.B. 240-397. 
+ Requires Menasco Nose Gear Shock Strut (Ref. 207.(b)) and 
+ 240-5210103-104 Nose Gear Drag Strut (Ref. 211.(b)). 
+ (l) 
+ Goodrich Assy. No. G3-902 Tube or Tubeless 
+ (m) 
+ Goodrich Assy. No. G3-904 Tube Type 
+ 209. 
+ 2 Nose Wheel Tires (See NOTE 5 regarding Item 209.a) 
+ 44 lbs. 
+ (Sta. 95) 
+ (a) 
+ Goodrich Pre Rotating 
+ 10 Ply Rating Rotovane 
+ (26 x 6) Type II Tube Type 
+ Inflation Pressure = 97 PSI 
+ (b) 
+ 10 Ply Rating (26 x 6) Type II Tube Type 
+ 44 lbs. 
+ (Sta. 95) 
+ Inflation Pressure = 97 PSI 
+ (c) 
+ 8 Ply Ratings (7.50 x 14) Type III Tube Type 
+ 46 lbs. 
+ (Sta. 95) 
+ with S.B. 240-308B or S.B. 240-397. Requires 
+ Menasco Nose Gear Shock Strut (Ref. 207.(b)) 
+ and 240-5210103-104 Nose Gear Drag Strut 
+ (Ref. 211.(b)). Inflation Pressure = 54 PSI 
+ (May be used on 26.6 wheel) 8 Ply Tire Only 
+ (d) 
+ 12 Ply Rating (26 x 6.6) Type VII Tube Type 
+ for G3-725M and M1 Only (240-17, -27, -52, 
+ -53) 
+ Inflation Pressure = 117.5 PSI 
+ (e) 
+ 12 Ply Rating (7.50 x 14) Type III for G3-902 
+ Only (with S. B. 240-397 installed) 
+ Inflation Pressure = 82 PSI 
+ Notes: 
+ (1) 
+ 26 x 6.6 Tires, Tubes, and Wheels must be used only in pairs 
+ on nose wheel installations and the 26 x 6.6 Tires, Tubes, and 
+ Wheels are not interchangeable with the 26 x 6 items used on 
+ other models of the 240 aircraft. 
+ The 7.50 x 14 8 Ply Tires may be used on the 26 x 6 Wheels 
+ (Ref. 209.(c)). 
+ The 7.50 x 14 8 Ply Tires may be installed provided the 
+ Menasco Nose Gear Shock Strut (Ref. 207.(b)) and the 
+ 240-5210103-104 Nose Gear Drag Strut (Ref. 211.(b)) have 
+ been installed per S.B. 240-308B or S.B. 240-397. 
+ Notes 
+ (2) 
+ The tire pressures shown are nominal. 
+ (3) 
+ The maximum permissible weight of a tire and tube is 30.8 lbs. 
+ Either new or retreaded, the total weight of a tire and tube must 
+ not exceed this limit. 
+ 210. 
+ 2 Nose Wheel Tubes 
+ 9 lbs. 
+ (Sta. 95) 
+ (a) 
+ (26 x 6) Type II Plain 
+ with 2.5 inch TR-150 Valve 
+ Bent 70° 
+ (b) 
+ (7.50 x 14) Type III Plain 
+ 9 lbs. 
+ (Sta. 95) 
+ (c) 
+ (26 x 6.6) Type VII for 
+ 10 lbs. 
+ (Sta. 95) 
+ Wheel G3-725 Only (240-17, -27, -52, and -53) 
+ 211. 
+ Nose Gear Drag Strut 
+ (a) 
+ CVAC 240-5210101 Assy. 
+ 46 lbs. 
+ 48 lbs. 
+ (b) 
+ CVAC 240-5210101 Assy. (including 
+ 240-5210103 -104 LH Upper Drag Strut) 
+ (Required for 41,200 lbs. and higher maximum 
+ take-off weight. Ref. CVAC S.B. 240-308A. 
+ Required to permit use of 7.50 x 14 Nose 
+ Wheel Tires. Ref. CVAC S.B. 240-397) 
+ (c) 
+ CVAC 240-5210101-815 Assy. 
+ (For 240-17, -27, -52, -53 only)"
+Electrical Equipment,"340. 
+ 2 landing lights 
+ 13 lbs. 
+ (Sta. 335) 
+ (a) Grimes 3800-3 
+ 342. 
+ 1 taxi light 
+ 3 lbs. 
+ (Sta. 2) 
+ ( a) General Electric 4560 
+ 344. 
+ 1 forward position light 
+ 2 lbs. 
+ (Sta. 8) 
+ (a) General Electric 4541 
+ 345. 
+ 2 generators 
+ (a) 
+ General Electric 2CM75C4 (300 a.) 
+ 120 lbs. 
+ (Sta. 299) 
+ (b) 
+ General Electric 2CM82C1 (375 a.) 
+ 120 lbs. 
+ (Sta. 299)"
+Interior Equipment,"415. 
+ FAA Approved Model 240 Airplane Flight Manual. (The Manual may be 
+ carried as part of, or bound with, the operator's ""Approved Operations Manual"", 
+ but must retain its identity as an individual manual.) 
+ 416. 
+ (a) 
+ Cabin Supercharger, AiResearch Part No. 
+ 50 lbs. 
+ (Sta. 408) 
+ 52351 
+ (b) 
+ Cabin Supercharger, AiResearch Part No. 
+ 52851, Serial Nos. eligible for (a) and (b), 
+ 7-300 and up. 
+ (c) 
+ Cabin Supercharger, Stratos Model S60-5, 
+ installed in accordance with American 
+ Airlines' Drawing FYC 1800A. 
+ (d) 
+ Cabin Supercharger, Stratos Model S60-11, 
+ installed in accordance with Pan American 
+ World Airways' Report No. LA-442 
+ 417. 
+ Sperry A-12 Autopilot installed per pages APW-1 through APW-23 of Convair 
+ Parts Catalog - Autopilot Section as revised June 15, 1950, and as modified by 
+ Sperry Drawing SK No. 5232-65381E 
+ (1) 
+ Servo Motor Cable Forces Limits 
+ 130 lbs. max. 
+ 89 lbs. min. 
+ Elevator 
+ 89 lbs. max. 
+ 70 lbs. min 
+ Aileron 
+ 71 lbs. max 
+ 50 lbs. min. 
+ Rudder 
+ (2) 
+ Power Gear Ratios 
+ 148:1 
+ Elevator 
+ 104:1 
+ Aileron 
+ 104:1 
+ Rudder 
+ (3) 
+ Maximum speed (TIAS) for autopilot operation: 234 knots 
+ The maximum altitude loss during actual Automatic Pilot hard-over 
+ malfunctions are listed below: 
+ (a) 
+ Cruise configuration 
+ 350 ft. 
+ (b) 
+ Approach configuration 
+ 100 ft. 
+ Note: A FAA Approved Airplane Flight 
+ Manual Supplement must be supplied"
+AntiIcing Equipment,"(See NOTE 6 regarding operation in icing conditions.) 
+ 506. 
+ (a) 
+ 2 Propeller Deicing Installation (Curtiss propellers), CVAC Drawing 
+ No. 240-0060906. 
+ (b) 
+ 2 Propeller Deicing Installation (Hamilton Standard), CVAC Drawing 
+ No. 240-0061906. 
+ (c) 
+ 2 Propeller Deicing Installation (Hamilton Standard), CVAC Drawing 
+ No. 240-0062906. 
+ (d) 
+ 2 Propeller Deicing Installation (Hamilton Standard), American Airlines 
+ E.A. No. C.875 (with manual control inoperative)"
+Miscellaneous,"601. 
+ Stall Warning Indicator Installation (No longer required equipment)"
+NOTE 1,"(a) 
+ Current weight and balance report including list of equipment included in 
+ certificated weight empty, and loading instructions when necessary, must be in each 
+ aircraft at the time of original certification and at all times thereafter (except in the 
+ case of air carrier operators having an approved weight control system). See 
+ Approved Master Equipment List CVAC Report No. ZL-240-002 for Approved 
+ Alternate or Additional Items of Equipment. 
+ (b) 
+ The airplane must be loaded so that the C.G. is within the specified limits at all 
+ times, with the effects of fuel use, gear retraction, and the movement of the crew and 
+ passengers from their assigned positions being considered. (Retraction of the main 
+ and nose gears causes the C.G. to move forward, the change in moment due to this 
+ retraction being -69,160 in. lbs.). At takeoff, the airplane shall be loaded so that, 
+ due to fuel use, the C.G. cannot move forward of Sta. 351.4 (17% MAC). 
+ (c) 
+ (1) ""System Fuel and Oil"" is that amount required to fill both systems and the tanks 
+ up to the tank outlets to the engines when the airplane is in the level attitude. 
+ ""System Fuel and Oil"" and all hydraulic fluid must be included in the 
+ certification weight empty. 
+ (2) 
+ Fuel and oil tank capacities do not include any ""System Fuel and Oil"". 
+ Propeller feathering oil is not included as usable oil in installations with 
+ Hamilton Standard propellers. 
+ (d) 
+ For passengers and extra crew members seat locations, see Approved Weight and 
+ Balance Report for the particular model airplane."
+NOTE 2,"(a) 
+ The following placards must be displayed on the instrument panel in full view of the 
+ pilot: 
+ (1) 
+ ""This airplane must be operated in compliance with the operating limitations 
+ specified in FAA Approved Airplane Flight Manual."" 
+ (2) 
+ Fuel Valves. ""Fuel transfer from tank to tank is prohibited. When operating 
+ with the crossfeed system, turn off fuel valve for tank not being used."" 
+ (b) 
+ The following placards must be installed in the cabin: 
+ (1) 
+ Placards restricting use during takeoff and landing and limiting the number of 
+ occupants at any time, as follows: 
+ ""Lavatory - 1 person"""
+NOTE 3,"Deleted - December 12, 1950. All aircraft converted to incorporate Equipment Item 
+ 116.(b)."
+NOTE 4,"Maximum 
+ Floor 
+ Loading 
+ Capacity 
+ Moment 
+ Compartment 
+ (psf) 
+ (pounds) 
+ Arm 
+ (a) 
+ Baggage for Model 240-0, -3, -10, 
+ -11, -12, -13, -14: 
+ 1800 
+ 150 R.H. 
+ (196) 
+ Forward (Models 240-0, -3, -10, 
+ -13, -14) 
+ (Models 240-11) 
+ 1200 
+ 100 L.H. 
+ (Models 240-12) 
+ 1550 
+ 1500 
+ 65 
+ (233) 
+ Lower 
+ Total capacity of forward and 
+ lower compartments not to 
+ exceed 2500 lbs. 
+ Maximum 
+ Floor 
+ Loading 
+ Capacity 
+ Moment 
+ (psf) 
+ Compartment 
+ (pounds) 
+ Arm 
+ Aft 
+ 1500 
+ 150 
+ (715) 
+ 620 
+ (682) 
+ Buffet 
+ Total capacity of aft compartments 
+ (including buffet) not to exceed 
+ 1830 lbs.) 
+ (b) 
+ Baggage for Model 240-1, -7: 
+ Forward 
+ 1550 
+ 150 R.H. 
+ (157) 
+ 100 L.H. 
+ 1500 
+ 65 
+ (225) 
+ Lower 
+ Total capacity of forward and 
+ lower compartments not to 
+ exceed 2500 lbs. 
+ Aft 
+ 200 
+ 50 
+ (705) 
+ (c) 
+ Baggage for Model 240-2: 
+ 1150 
+ 100* 
+ (170) 
+ Forward 
+ *Left front portion of forward 
+ compartment, 40 lbs. psf 
+ 1500 
+ 65 
+ (225) 
+ Lower 
+ Total capacity of forward and 
+ lower compartments not to 
+ exceed 2500 lbs. 
+ Aft 
+ 1500 
+ 150 
+ (715) 
+ 1240 
+ 35 
+ (265) 
+ Auxiliary Passenger Compartment 
+ (To be used when first two rows of 
+ seats are removed) 
+ (d) 
+ Baggage for Model 240-4: 
+ Forward 
+ 350 
+ 150 
+ (196) 
+ 1500 
+ 65 
+ (225) 
+ Lower 
+ Total capacity of forward and 
+ lower compartments not to 
+ exceed 1700 lbs. 
+ Aft 
+ 1500 
+ 150 
+ (715) 
+ 1240 
+ 35 
+ (265) 
+ Auxiliary Passenger Compartment 
+ (To be used when first two rows of 
+ seats are removed) 
+ (e) 
+ Baggage for Model 240-5: 
+ Forward 
+ 1900 
+ 150 R.H. 
+ (153) 
+ 100 L.H. 
+ 1500 
+ 65 
+ (225) 
+ Lower 
+ Total capacity of forward and 
+ lower compartments not to 
+ exceed 2500 lbs. 
+ Aft 
+ 1000 
+ 150 
+ (707) 
+ Maximum 
+ Floor 
+ Capacity 
+ Moment 
+ Loading 
+ (pounds) 
+ Arm 
+ Compartment 
+ (psf) 
+ (f) 
+ Baggage for Model 240-6: 
+ Forward Cargo 
+ 1000 
+ 50 
+ (196) 
+ Forward Coat 
+ 150 
+ (133) 
+ 1500 
+ 65 
+ (233) 
+ Lower 
+ Total capacity of forward and 
+ lower compartments not to 
+ exceed 2300 lbs. 
+ Aft 
+ 1500 
+ 150 
+ (715) 
+ (g) 
+ Baggage for Model 240-8: 
+ Forward 
+ 580 
+ 125 
+ (193) 
+ 1350 
+ 65 
+ (233) 
+ Lower 
+ Total capacity of forward and 
+ lower compartments not to 
+ exceed 1930 lbs. 
+ (h) 
+ Baggage for Model 240-23: 
+ Forward 
+ 3350 
+ 55 
+ (244) 
+ 1500 
+ 55 
+ (233) 
+ Lower 
+ Total capacity of forward and 
+ lower compartments not to 
+ exceed 4410 lbs. 
+ Aft 
+ 1500 
+ 150 
+ (715) 
+ Buffet 
+ 620 
+ (682) 
+ Total capacity of aft compartments 
+ (including buffet) not to exceed 
+ 1830 lbs."
+NOTE 5,"All aircraft have been modified to include provisions of CVAC Service Bulletin No. 240- 
+ 22A, Bendix Bulletin No. L.G. 500, and Equipment Item 202.(b). Weight and C.G. 
+ Range Limitations previously listed under NOTE 5 are now shown under the 
+ corresponding limitations of Section II. 
+ For operation of the airplane at altitude airports, incorporation of Equipment Item 209.(a) 
+ may be necessary. Consult FAA Approved Airplane Flight Manual for determination of 
+ specific requirements. With airplanes incorporating Item 207.(b), prerotation type tires 
+ are not required."
+NOTE 6,"Model 240 aircraft are presently approved for operation in ""light icing"" conditions when 
+ either Equipment Items 116.(a) or (b) are installed (provided Equipment Item 506.(a), 
+ (b), or (c), and other pertinent anti-icing equipment are installed) under the following 
+ provision: 
+ (a) 
+ Deleted July 15, 1963. 
+ (b) 
+ When Equipment Item 116.(b) is installed, the airplane, to be eligible for operation 
+ into ""light icing"" conditions, must incorporate Convair Service Bulletins 240-21, 
+ 240-143, 240-200, and Convair Service Information Letter 389. Convair Service 
+ Bulletin 240-21 covers incorporation of the muff type augmenters and other 
+ miscellaneous changes. Service Bulletin 240-143 specifies incorporation of 
+ stainless steel augmenter troughs. Service Bulletin 240-200 incorporates the 
+ installation of thermo-override switches in the heater ducts adjacent to the 
+ augmenter tubes. Service Information Letter 389 requires the relocation of the wing 
+ anti-icing temperature pick-up bulbs to the respective wing tips. Service Bulletin 
+ 240-143 need not be incorporated on aircraft incorporating the long augmenter 
+ stacks which extend to a position at least flush with the end of the engine nacelle. 
+ Before aircraft revised in accordance with the above technical data can be operated 
+ under the terms of this icing approval, it will be necessary that a flight check be 
+ accomplished to determine that the revised anti-icing installation meets the 
+ following minimum standard: With the airplane operating in level flight, two 
+ engine, 1000 horsepower per engine at 10,000 feet augmenter vanes in trail position, 
+ at least the following minimum temperatures above outside air temperature must 
+ appear on the pilot's instruments: 
+ Wing tips 
+ 93°C. 
+ Tail 
+ 100°C."
+NOTE 7,"Ferry permits may be issued to Model 240 series aircraft on which the automatic 
+ feathering system is inoperative. See FAA Approved Airplane Flight Manual for 
+ pertinent limitations."
+NOTE 8,"The various dash numbers listed under Section I and II are actually versions of the basic 
+ Model 240 series aircraft, the certification basis for which is Type Certificate No. A-793. 
+ These dash numbers were selected by CVAC primarily for contractual and clerical 
+ purposes and should not be considered to define different models of airplanes. Any one 
+ version may be converted to another by incorporation of pertinent required equipment 
+ and complete conformity with corresponding approved drawings. 
+ It should be noted, however, that the identification plate in the cockpit indicates the 
+ specific airplane version and that different FAA Approved Airplane Flight Manuals, 
+ dependent primarily upon the propellers installed, are applicable to different groups of 
+ versions. Accordingly, when any version of a 240 series aircraft is converted to another, 
+ an additional identification plate should be installed adjacent to the manufacturer's plate. 
+ It should include the name of the agency accomplishing the conversion, the date of the 
+ conversion, and the new version number. It should be determined that the FAA 
+ Approved Airplane Flight Manual pertinent to the new version is installed."
+NOTE 9,"To airplanes certificated for a maximum takeoff weight of 40,500 lbs., the following 
+ airspeed limits are applicable upon incorporation, in their entirety, of CVAC Service 
+ Bulletins 240-56A, -176A, -205, -219, -225, -247A, -268, and CVAC Service 
+ Information Letter No. 415 and, if applicable, CVAC Service Difficulties and Parts 
+ Failures Report No. 245: 
+ Airspeed limits: 
+ VC 
+ (Maximum cruising) 280 m.p.h. (244 knots) True Ind. (S.L. to 15000') 
+ (Above 15000' reduce speed 6 m.p.h. (5 knots) per 1000') 
+ VNE 
+ (Never exceed) 315 m.p.h. (274 knots) True Ind. (S.L. to 15000') 
+ (Above 15000' reduce speed 6 m.p.h. (5 knots) per 1000')"
+NOTE 10,"Airplane models listed under Section II which have been modified in accordance with 
+ CVAC Service Bulletins No. 240-22A and 240-308B, CVAC Service Information Letter 
+ No. 551, and which have been further modified in accordance with the rework outlined in 
+ NOTE 9, are eligible for operation under the provisions of Section II. 
+ Service Bulletin 240-308B includes extensive rework of the wing center section, rework 
+ of the fuselage in the area of the wing attachment, increasing the orifice in the main 
+ landing gear struts to .535 in., and incorporation of Equipment Items 207.(b) or (c) and 
+ 211.(b). 
+ For airplanes which do not incorporate the modifications outlines in NOTE 9 in their 
+ entirety, the following Airspeed Limits are applicable: 
+ Airspeed limits: 
+ VC 
+ (Maximum cruising) 270 m.p.h. (235 knots) True Ind. (S.L. to 7600') 
+ (Above 7600' reduce speed 6 m.p.h. (5 knots) per 1000') 
+ VNE 
+ (Never exceed) 306 m.p.h. (266 knots) True Ind. (S.L. to 7600') 
+ (Above 7600' reduce speed 6 m.p.h. (5 knots) per 1000')"
+NOTE 11,"Airplane models listed under Section II which have been modified in accordance with 
+ Pan American Airways, LAD Division, Engineering Report No. 415, ""CV-240 Fuel 
+ Dump System,"" may be operated at the following weights: 
+ Takeoff 
+ 41,200 lbs. 
+ Landing 
+ 38,600 lbs. 
+ Zero Fuel 
+ 37,400 lbs. 
+ The undumpable fuel is 114 gallons per tank (228 gallons total)."
+NOTE 12,"Replacement parts manufactured by Canadair, Limited, Montreal, Canada, are eligible for 
+ installation on Convair aircraft covered by this specification when accompanied by a 
+ Canadair Release Note containing the following statement and bearing a certification 
+ signed by a Canadian Department of Transportation representative: 
+ ""Parts listed on this Release Note have been manufactured by Canadair as an approved 
+ Convair subsidiary manufacturer under Convair Production Certificate No. 605, in 
+ accordance with United States Civil Air Regulations and Civil Aeronautics Manual 1."""
+NOTE 13,"The military Model T-29B is basically the same as Model 240. Prior to the certification 
+ of the T-29B as a Model 240-27, the following must be accomplished: 
+ (a) 
+ The aircraft must be modified in accordance with Convair Report No. GDC-63-115, 
+ Revision 3, dated May 22, 1963, or an equivalent modification approved by the 
+ FAA. 
+ (b) 
+ The airplane must be reworked and/or modified in accordance with the following 
+ Airworthiness Directives or a FAA Los Angeles Aircraft Certification Office 
+ approved equivalent, unless already accomplished: 
+ 48-22-01 
+ 49-34-01 
+ 52-11-02 
+ 55-18-01 
+ 56-24-01 
+ 59-01-01 
+ 77-10-11 
+ 48-41-01 
+ 49-44-02 
+ 52-14-02 
+ 56-04-02 
+ 56-24-02 
+ 59-02-01 
+ 80-08-03 
+ 48-50-04 
+ 49-45-02 
+ 53-05-01 
+ 56-08-01 
+ 57-14-01 
+ 59-04-02 
+ 48-51-02 
+ 50-19-02 
+ 54-01-02 
+ 56-18-01 
+ 58-06-01 
+ 64-18-04 
+ 49-30-02 
+ 51-28-01 
+ 55-15-02 
+ 56-20-04 
+ 58-25-01 
+ 64-19-04 
+ The inspections, as applicable, and as required by the following Airworthiness 
+ Directives, shall be accomplished in the manner prescribed in each AD: 
+ 49-30-01 
+ 50-13-01 
+ 51-05-01 
+ 74-03-04 
+ 83-01-01 
+ 93-21-02 
+ 49-38-01 
+ 50-36-01 
+ 53-23-01 
+ 79-21-06 
+ 83-23-05 
+ 49-43-01 
+ 50-52-01 
+ 57-03-01 
+ 81-18-05 
+ 92-25-13 
+ Comply with the rework and/or modification required by all other 
+ Airworthiness Directives that are applicable to the engines, propeller, or items of 
+ equipment that are installed in the airplane. 
+ (c) 
+ Each airplane must satisfactorily pass an inspection for conformity, possible hidden 
+ damage, and for workmanship and materials used in making any repairs and/or 
+ alterations. 
+ (d) 
+ The maintenance, overhaul, and modification records of each aircraft must be 
+ reviewed for changes made by military services that may affect the airworthiness of 
+ the aircraft. Modifications and changes of equipment which affect the safety or 
+ performance of the aircraft must be approved by the FAA. 
+ (e) 
+ Instrument markings and placards must be installed as required by this Specification 
+ and the pertinent Civil Air Regulations. 
+ (f) 
+ Each airplane must be weighed to determine its weight and balance and an approved 
+ loading chart or device installed. The aircraft must have a functional check flight. 
+ If changes have been made to the original aircraft that may affect the flight 
+ characteristics, the particular aircraft must be flight tested by the FAA to determine 
+ that the airplane as modified will still meet the minimum requirements of CAR 4b in 
+ this regard. Upon completion of the conversion to certified status, an additional 
+ nameplate should be installed on the aircraft adjoining the manufacturer's nameplate 
+ and should include the name of the agency accomplishing the conversion, the date 
+ of the conversion and the new commercial model designation. Under no 
+ circumstances should the original or any succeeding nameplate be altered or 
+ removed form the aircraft. 
+ (g) 
+ A FAA Approved Airplane Flight Manual must be provided for each aircraft. 
+ (h) 
+ The military R2800-97 is identical to the Double Wasp CA18. Prior to certification, 
+ the engine nameplate should be revised to include the corresponding civil model 
+ designation CA18 and the T.C. No. E-231."
+NOTE 14,"The military Model T-29A/VT-29A airplanes are basically the same as the Model 240 
+ except the T-29A series airplanes are not designed to be pressurized and must be so 
+ placarded. Prior to the certification of these models as a Model 240-17, the following 
+ must be accomplished: 
+ (a) 
+ The aircraft must be modified in accordance with Convair Report No. GDC-057- 
+ 0/78-1200, Revision 2, dated August 22, 1978, or an equivalent modification 
+ approved by the FAA. 
+ (b) 
+ The airplane must be reworked and/or modified in accordance with the following 
+ Airworthiness Directives or a FAA Los Angeles Aircraft Certification Office 
+ approved equivalent, unless already accomplished: 
+ 48-22-01 
+ 49-34-01 
+ 52-11-02 
+ 55-18-01 
+ 56-24-01 
+ 59-01-01 
+ 77-10-11 
+ 48-41-01 
+ 49-44-02 
+ 52-14-02 
+ 56-04-02 
+ 56-24-02 
+ 59-02-01 
+ 80-08-03 
+ 48-50-04 
+ 49-45-02 
+ 53-05-01 
+ 56-08-01 
+ 57-14-01 
+ 59-04-02 
+ 48-51-02 
+ 50-19-02 
+ 54-01-02 
+ 56-18-01 
+ 58-06-01 
+ 64-18-04 
+ 49-30-02 
+ 51-28-01 
+ 55-15-02 
+ 56-20-04 
+ 58-25-01 
+ 64-19-04 
+ The inspections, as applicable, and as required by the following Airworthiness 
+ Directives, shall be accomplished in the manner prescribed in each AD: 
+ 49-30-01 
+ 50-13-01 
+ 51-05-01 
+ 74-03-04 
+ 83-01-01 
+ 93-21-02 
+ 49-38-01 
+ 50-36-01 
+ 53-23-01 
+ 79-21-06 
+ 83-23-05 
+ 49-43-01 
+ 50-52-01 
+ 57-03-01 
+ 81-18-05 
+ 92-25-13 
+ Comply with the rework and/or modification required by all other Airworthiness 
+ Directives that are applicable to the engines, propellers, or items or equipment that 
+ are installed in the airplane. 
+ (c) 
+ Each airplane must satisfactorily pass an inspection for conformity, possible hidden 
+ damage, corrosion, and for workmanship and materials used in making any repairs 
+ and/or alterations. 
+ (d) 
+ The maintenance, overhaul, and modification records of each aircraft must be 
+ reviewed for changes made by the military services that may affect the airworthiness 
+ of the aircraft. Modifications and changes of equipment which affect the safety or 
+ performance of the aircraft must be removed or approved by the FAA. 
+ (e) 
+ Instrument markings and placards must be installed as required by this Specification 
+ and the pertinent Civil Air Regulation. 
+ (f) 
+ Each airplane must be weighed to determine its weight and balance and an approved 
+ loading chart or device installed. The aircraft must have a functional check flight. 
+ If changes have been made to the original aircraft that may affect the flight 
+ characteristics, the particular aircraft must be flight tested by the FAA to determine 
+ that the airplane as modified will still meet the minimum requirements of CAR 4b in 
+ this regard. Upon completion of the conversion to certified status an additional 
+ nameplate should be installed on the aircraft adjoining the manufacturer's nameplate 
+ and should include the name of the agency accomplishing the conversion, the date 
+ of the conversion and the new commercial model designation. Under no 
+ circumstances should the original or any succeeding nameplate be removed from the 
+ aircraft. 
+ (g) 
+ A FAA Approved Airplane Flight Manual must be provided for each aircraft. 
+ (h) The military R2800-97 is identical to the Double Wasp CA18. Prior to certification 
+ the engine nameplate should be revised to include the corresponding civil model 
+ designation CA18 and the T.C. No. E-231."
+NOTE 15,"The military T-29C airplanes are basically the same as the Model 240. Prior to the 
+ certification of these airplanes as 240-27 models, the following must be accomplished: 
+ (a) 
+ The aircraft must be modified in accordance with Convair Report No. GDC-057- 
+ 0/79-1010, Revision 2, dated January 15, 1979, or an equivalent modification 
+ approved by the FAA. 
+ (b) 
+ The airplane must be reworked and/or modified in accordance with the following 
+ Airworthiness Directives or a FAA Los Angeles Aircraft Certification Office 
+ approved equivalent, unless already accomplished: 
+ 48-22-01 
+ 49-34-01 
+ 52-11-02 
+ 55-18-01 
+ 56-24-01 
+ 59-01-01 
+ 77-10-11 
+ 48-41-01 
+ 49-44-02 
+ 52-14-02 
+ 56-04-02 
+ 56-24-02 
+ 59-02-01 
+ 80-08-03 
+ 48-50-04 
+ 49-45-02 
+ 53-05-01 
+ 56-08-01 
+ 57-14-01 
+ 59-04-02 
+ 48-51-02 
+ 50-19-02 
+ 54-01-02 
+ 56-18-01 
+ 58-06-01 
+ 64-18-04 
+ 49-30-02 
+ 51-28-01 
+ 55-15-02 
+ 56-20-04 
+ 58-25-01 
+ 64-19-04 
+ The inspections, as applicable, and as required by the following Airworthiness 
+ Directives, shall be accomplished in the manner prescribed in each AD: 
+ 49-30-01 
+ 50-13-01 
+ 51-05-01 
+ 74-03-04 
+ 83-01-01 
+ 93-21-02 
+ 49-38-01 
+ 50-36-01 
+ 53-23-01 
+ 79-21-06 
+ 83-23-05 
+ 49-43-01 
+ 50-52-01 
+ 57-03-01 
+ 81-18-05 
+ 92-25-13 
+ Comply with the rework and/or modification required by all other Airworthiness 
+ Directives that are applicable to the engines, propellers, or items or equipment that 
+ are installed in the airplane. 
+ (c) 
+ Each airplane must satisfactorily pass an inspection for conformity, possible hidden 
+ damage, corrosion, and for workmanship and materials used in making any repair 
+ and/or alterations. 
+ (d) 
+ The maintenance, overhaul, and modification records of each aircraft must be 
+ reviewed for changes made by the military services that may affect the airworthiness 
+ of the aircraft. Modifications and changes of equipment which affect the safety or 
+ performance of the aircraft must be removed or approved by the FAA. 
+ (e) 
+ Instrument markings and placards must be installed as required by this Specification 
+ and the pertinent Civil Air Regulation. 
+ (f) 
+ Each airplane must be weighed to determine its weight and balance and an approved 
+ loading chart or device installed. The aircraft must have a functional check flight. 
+ If changes have been made to the original aircraft that may affect the flight 
+ characteristics, the particular aircraft must be flight tested by the FAA to determine 
+ that the airplane as modified will still meet the minimum requirements of CAR 4b in 
+ this regard. Upon completion of the conversion to certified status an additional 
+ nameplate should be installed on the aircraft adjoining the manufacturer's nameplate 
+ and should include the name of the agency accomplishing the conversion, the date 
+ of the conversion and the new commercial model designation. Under no 
+ circumstances should the original or any succeeding nameplate be removed from the 
+ aircraft. 
+ (g) 
+ A FAA Approved Airplane Flight Manual must be provided for each aircraft."
+NOTE 16,"The military T-29D airplanes are basically the same as the Model 240. Prior to the 
+ certification of these airplanes as 240-52 models, the following must be accomplished: 
+ (a) 
+ The aircraft must be modified in accordance with Convair Report No. GDC-057- 
+ 0/79-1160, dated June 15, 1979, or an equivalent modification approved by the 
+ FAA. 
+ (b) 
+ The airplane must be reworked and/or modified in accordance with the following 
+ Airworthiness Directives or a FAA Los Angeles Aircraft Certification Office 
+ approved equivalent, unless already accomplished: 
+ 48-22-01 
+ 49-34-01 
+ 52-11-02 
+ 55-18-01 
+ 56-24-01 
+ 59-01-01 
+ 77-10-11 
+ 48-41-01 
+ 49-44-02 
+ 52-14-02 
+ 56-04-02 
+ 56-24-02 
+ 59-02-01 
+ 80-08-03 
+ 48-50-04 
+ 49-45-02 
+ 53-05-01 
+ 56-08-01 
+ 57-14-01 
+ 59-04-02 
+ 48-51-02 
+ 50-19-02 
+ 54-01-02 
+ 56-18-01 
+ 58-06-01 
+ 64-18-04 
+ 49-30-02 
+ 51-28-01 
+ 55-15-02 
+ 56-20-04 
+ 58-25-01 
+ 64-19-04 
+ The inspections, as applicable, and as required by the following Airworthiness 
+ Directives, shall be accomplished in the manner prescribed in each AD: 
+ 49-30-01 
+ 50-13-01 
+ 51-05-01 
+ 74-03-04 
+ 83-01-01 
+ 93-21-02 
+ 49-38-01 
+ 50-36-01 
+ 53-23-01 
+ 79-21-06 
+ 83-23-05 
+ 49-43-01 
+ 50-52-01 
+ 57-03-01 
+ 81-18-05 
+ 92-25-13 
+ Comply with the rework and/or modification required by all other Airworthiness 
+ Directives that are applicable to the engines, propellers, or items or equipment that 
+ are installed in the airplane. 
+ (c) 
+ Each airplane must satisfactorily pass an inspection for conformity, possible hidden 
+ damage, corrosion, and for workmanship and materials used in making any repair 
+ and/or alterations. 
+ (d) 
+ The maintenance, overhaul, and modification records of each aircraft must be 
+ reviewed for changes made by the military services that may affect the airworthiness 
+ of the aircraft. Modifications and changes of equipment which affect the safety or 
+ performance of the aircraft must be removed or approved by the FAA. 
+ (e) 
+ Instrument markings and placards must be installed as required by this Specification 
+ and the pertinent Civil Air Regulation. 
+ (f) 
+ Each airplane must be weighed to determine its weight and balance and an approved 
+ loading chart or device installed. The aircraft must have a functional check flight. 
+ If changes have been made to the original aircraft that may affect the flight 
+ characteristics, the particular aircraft must be flight tested by the FAA to determine 
+ that the airplane as modified will still meet the minimum requirements of CAR 4b in 
+ this regard. Upon completion of the conversion to certified status an additional 
+ nameplate should be installed on the aircraft adjoining the manufacturer's nameplate 
+ and should include the name of the agency accomplishing the conversion, the date 
+ of the conversion and the new commercial model designation. Under no 
+ circumstances should the original or any succeeding nameplate be removed from the 
+ aircraft. 
+ (g) 
+ A FAA Approved Airplane Flight Manual must be provided for each aircraft."
+NOTE 17,"The military C-131A airplanes are basically the same as the Model 240. Prior to the 
+ certification of these airplanes as 240-53 models, the following must be accomplished: 
+ (a) 
+ The aircraft must be modified in accordance with Convair Report No. GDC-057- 
+ 0/79-1172, Revision 1, dated April 4, 1980, or an equivalent modification approved 
+ by the FAA. 
+ (b) 
+ The airplane must be reworked and/or modified in accordance with the following 
+ Airworthiness Directives or a FAA Los Angeles Aircraft Certification Office 
+ approved equivalent, unless already accomplished: 
+ 48-22-01 
+ 49-34-01 
+ 52-11-02 
+ 55-18-01 
+ 56-24-01 
+ 59-01-01 
+ 77-10-11 
+ 48-41-01 
+ 49-44-02 
+ 52-14-02 
+ 56-04-02 
+ 56-24-02 
+ 59-02-01 
+ 80-08-03 
+ 48-50-04 
+ 49-45-02 
+ 53-05-01 
+ 56-08-01 
+ 57-14-01 
+ 59-04-02 
+ 48-51-02 
+ 50-19-02 
+ 54-01-02 
+ 56-18-01 
+ 58-06-01 
+ 64-18-04 
+ 49-30-02 
+ 51-28-01 
+ 55-15-02 
+ 56-20-04 
+ 58-25-01 
+ 64-19-04 
+ The inspections, as applicable, and as required by the following Airworthiness 
+ Directives, shall be accomplished in the manner prescribed in each AD: 
+ 49-30-01 
+ 50-13-01 
+ 51-05-01 
+ 74-03-04 
+ 83-01-01 
+ 93-21-02 
+ 49-38-01 
+ 50-36-01 
+ 53-23-01 
+ 79-21-06 
+ 83-23-05 
+ 49-43-01 
+ 50-52-01 
+ 57-03-01 
+ 81-18-05 
+ 92-25-13 
+ Comply with the rework and/or modification required by all other Airworthiness 
+ Directives that are applicable to the engines, propellers, or items or equipment that 
+ are installed in the airplane. 
+ (c) 
+ Each airplane must satisfactorily pass an inspection for conformity, possible hidden 
+ damage, corrosion, and for workmanship and materials used in making any repair 
+ and/or alterations. 
+ (d) 
+ The maintenance, overhaul, and modification records of each aircraft must be 
+ reviewed for changes made by the military services that may affect the airworthiness 
+ of the aircraft. Modifications and changes of equipment which affect the safety or 
+ performance of the aircraft must be removed or approved by the FAA. 
+ (e) 
+ Instrument markings and placards must be installed as required by this Specification 
+ and the pertinent Civil Air Regulation. 
+ (f) 
+ Each airplane must be weighed to determine its weight and balance and an approved 
+ loading chart or device installed. The aircraft must have a functional check flight. 
+ If changes have been made to the original aircraft that may affect the flight 
+ characteristics, the particular aircraft must be flight tested by the FAA to determine 
+ that the airplane as modified will still meet the minimum requirements of CAR 4b in 
+ this regard. Upon completion of the conversion to certified status an additional 
+ nameplate should be installed on the aircraft adjoining the manufacturer's nameplate 
+ and should include the name of the agency accomplishing the conversion, the date 
+ of the conversion and the new commercial model designation. Under no 
+ circumstances should the original or any succeeding nameplate be removed from the 
+ aircraft. 
+ (g) 
+ A FAA Approved Airplane Flight Manual must be provided for each aircraft."
+NOTE 18,"Model 240, -1, -2, -3, -4, -5, -6, -7, -8, -11, -12, -13, -14, -15, and –26 aircraft without 
+ outer panel tanks (CVAC Service Bulletin 240-377) are eligible for certification at 
+ 41,200 lbs. and 41,790 lbs. take-off gross weight (at S.L. – with water alcohol injection) 
+ when reworked in accordance with the following CVAC Service Bulletins: 240-176A, 
+ 240-219, 240-247A, 240-268, and 240-308B. Aircraft reworked in accordance with the 
+ noted service bulletins are eligible for certification at the following weights: 
+ Maximum Take-Off 
+ 41,200 lbs. 
+ Maximum Landing 
+ 39,800 lbs. 
+ Zero Fuel Weight 
+ 38,900 lbs. 
+ Aircraft reworked in accordance with the noted service bulletins are also eligible for 
+ certification at the following weights without rework or placard change: 
+ Maximum Take-Off 
+ 41,790 lbs. 
+ Maximum Landing 
+ 39,800 lbs. 
+ Zero Fuel Weight 
+ 38,600 lbs. 
+ Note: The reduction in zero fuel weight from 38,900 lbs. to 38,600 lbs. will 
+ permit the higher take-off weight. This limitation is required because of 
+ structural considerations. 
+ The present maximum continuous engine power rating is satisfactory for operation at 
+ 41,200 lbs. take-off gross weight. For operation at 41,790 lbs. take-off gross weight, it will 
+ be necessary to increase this rating to 1900 BHP. This increase does not require rework of 
+ the engine, but the serial number of the engine to be used in the higher power configuration 
+ must be cleared through Pratt & Whitney Aircraft Corporation. 
+ Refer to the Model 240-1 Convair-Liner AFM or the appropriate AFM General 
+ Appendix Supplement (A, B, C, D, E, or F) for the installed engine/propeller 
+ combination for certificated weight limitations."
+NOTE 19,"Model 240-0, -3, -6, -8, -10, -13, -14, -15, and –26 aircraft with outer panel tanks (CVAC 
+ Service Bulletin 240-376) are eligible for certification at 41,790 lbs. take-off gross weight 
+ (at S.L. – with water alcohol injection) when reworked in accordance with the following 
+ CVAC Service Bulletins: 240-176A, 240-219, 240-247A, 240-268, and 240-308B. 
+ Aircraft reworked in accordance with the noted service bulletins are eligible for certification 
+ at the following weights: 
+ Maximum Take-Off 
+ 41,790 lbs. 
+ Maximum Landing 
+ 39,800 lbs. 
+ Zero Fuel Weight 
+ 38,900 lbs. 
+ Refer to the Model 240 Convair-Liner AFM or the appropriate AFM General Appendix 
+ Supplement (A, B, C, D, E, or F) for the installed engine/propeller combination for 
+ certificated weight limitations."
+NOTE 20,"Model 240-0, -1, -2, -3, -4, -5, -6, -7, -8, -10, -11, -12, -13, -14, -15, and –26 aircraft with 
+ Fuel Dump Installation (CVAC Service Bulletin 240-426) are eligible for certification at 
+ 42,500 lbs. take-off gross weight (at S.L. – with water alcohol injection) when reworked in 
+ accordance with the following CVAC Service Bulletins: 240-176A, 240-219, 240-247A, 
+ 240-268, 240-308B, and either 240-376 or 240-377. Aircraft reworked in accordance with 
+ the noted service bulletins are eligible for certification at the following weights: 
+ Without Outer Panel Tanks (CVAC S.B. 240-377) 
+ Maximum Take-Off 
+ 42,500 lbs. 
+ Maximum Landing 
+ 39,800 lbs. 
+ Zero Fuel Weight 
+ 38,100 lbs. 
+ With Outer Panel Tanks (CVAC S.B. 240-376) 
+ Maximum Take-Off 
+ 42,500 lbs. 
+ Maximum Landing 
+ 39,800 lbs. 
+ Zero Fuel Weight 
+ 38,400 lbs. 
+ AFM General Appendix Supplement F 
+ (With or Without Outer Panel Tanks) 
+ Maximum Take-Off 
+ 42,400 lbs. 
+ Maximum Landing 
+ 39,800 lbs. 
+ Zero Fuel Weight 
+ 38,170 lbs. 
+ NOTE: For operation at gross weights above 41.790 lbs., the aircraft must be 
+ equipped with an operable fuel jettison installation. 
+ Refer to the appropriate Model 240 Convair-Liner AFM General Appendix Supplement (B, 
+ D, E, or F) for the installed engine/propeller combination for certificated weight limitations."

@@ -1,0 +1,1213 @@
+Keyterm,Info
+"H9EU 
+ Revision 26 
+ Airbus Helicopters 
+ AS350C 
+ AS350D 
+ AS350D1 
+ AS350B 
+ AS350B1 
+ AS350B2 
+ AS350BA 
+ AS350B3 
+ EC130B4 
+ EC130T2 
+ June 14, 2021",
+Type Certificate Holder,"Airbus Helicopters 
+ Aeroport International Marseille Provence 
+ 13725 - Marignane - Cedex 
+ France"
+TC Holder Record,"Eurocopter France changed name to Airbus Helicopters on January 1, 2014."
+"I. Model AS-350C “ASTAR” (Normal Category) Helicopter, approved December 21, 1977.",
+Engine,"1. 
+ Lycoming LTS 101 600A with Bendix power turbine governor 
+ Lycoming P/N 4.301.101.04"
+Fuel,"- Normal fuels: 
+ Kerosene, MIL-T-5624 (JP5); ASTM D1655 jet A and A1 
+ - Wide Cut: 
+ MIL-T-5624 (JP4); STM D1655 Jet B 
+ - Emergency 
+ Fuel: 
+ (Maximum viscosity: 12 centistokes (See corresponding limitations in 
+ Lycoming 
+ installation 
+ manual under “Installation Instructions”)."
+Oil,"- Automotive Diesel Fuel: 
+ ASTM D975 (N° 2D) or lighter 
+ - Synthetic oil (5 Cst) 
+ MIL.L.23699 
+ - Synthetic oil (3 Cst) 
+ MIL.L.7808 
+ Mixing of these oils are not permitted."
+Engine,"Limits. 
+ - Power Ratings (Sea Level, ISA) 
+ Takeoff (5 mn) 
+ 592 shp. 
+ Max. Continuous 
+ 505 shp. 
+ - Gas 
+ Generator 
+ Speeds 
+ Takeoff (5 mn) 
+ 48,825 rpm (102%) 
+ Max.Continuous 
+ 48,060 rpm (100.4%) 
+ Transient 
+ 49,685 rpm (103.8%) 
+ - Engine Gear Box Limitations 
+ Takeoff 
+ 592 shp. 
+ Max. Continuous 
+ 505 shp."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17"
+Rev No,"25 
+ 25 
+ 25 
+ 13 
+ 13 
+ 8 
+ 7 
+ 18 
+ 18 
+ 18 
+ 25 
+ 25 
+ 25 
+ 25 
+ 19 
+ 25 
+ 25"
+Page No,"18 
+ 19 
+ 20 
+ 21 
+ 22"
+Rev No,"26 
+ 25 
+ 18 
+ 25 
+ 25 
+ - Exhaust Gas Temperature (T4) 
+ Takeoff 
+ 706°C 
+ Max. Continuous 
+ 732°C 
+ Transient 
+ 843°C 
+ Starting Max.* 
+ 899°C 
+ * Time Limit 12 seconds above 799°C"
+Transmission,"Limits. 
+ TORQUE 
+ SHP. 
+ KW. 
+ Maximum takeoff power (5 mn) 
+ 101% 
+ 531 
+ 396 
+ Maximum continuous 
+ 101% 
+ 531 
+ 396"
+Helicopter Limits,"Maximum takeoff (5 mn) 
+ 101% 
+ 531 
+ 396 
+ Maximum continuous 
+ 96% 
+ 505 
+ 377"
+Maximum Weight,4300 lb. (see NOTE 6)
+Serial Numbers,No eligible serial numbers. (see NOTE 14)
+"II. Model AS-350D “ASTAR” (Normal Category) Helicopter, approved July 6, 1978. 
+ Same as Model AS-350C except for more powerful LTS 101 600A2 engine.",
+Engine,"1. 
+ Lycoming LTS 101-600A-2 
+ - Normal Fuels: 
+ Kerosene; MIL-T-5624 (JP5); ASTM D1655 Jet A and A1 
+ - Wide Cut: 
+ MIL-T-5624 (JP4); ASTM D1655 Jet B 
+ - Emergency 
+ Fuel: 
+ - Automotive Diesel Fuel: 
+ ASTM D975 (N° 2D) of lighter. 
+ - Synthetic oil (5 Cst) 
+ MIL.L.23699 
+ - Synthetic oil (3 Cst) 
+ MIL.L.7808 
+ Mixing of these oils is not permitted."
+Engine,"Limits. 
+ - Power Ratings (Sea Level , ISA) 
+ Takeoff (5 min.) 
+ 615 shp. 
+ Max. Continuous 
+ 590 shp. 
+ - Gas 
+ Generator 
+ Speeds 
+ Takeoff (5 mn) 
+ 49,638 rpm 
+ Max.Continuous 
+ 49,159 rpm 
+ Transient 
+ 50,548 rpm"
+,"- Exhaust Gas Temperature (T4) 
+ Takeoff 
+ 771°C 
+ Max. Continuous 
+ 760°C 
+ Transient Max. * 
+ 843°C 
+ Starting Max. * 
+ 899°C 
+ * Time limit 12 seconds above 818°C"
+Transmission,"Limits. 
+ TORQUE 
+ SHP 
+ KW 
+ Maximum takeoff power (5 min) 
+ 101% 
+ 531 
+ 396 
+ Maximum Continuous 
+ 101% 
+ 531 
+ 396"
+Helicopter Limits,"Torque 
+ : 
+ Same as transmission limits 
+ Other 
+ Limits 
+ : 
+ Same 
+ as 
+ engine 
+ limits 
+ except 
+ for: 
+ Max. continuous gas generator speed 48,930 r.p.m. (102.2%) 
+ Max. continuous gas temperature 744°C"
+Maximum Weight,4300 lb (See NOTE 6).
+"III. Model AS-350D1 “ASTAR” (Normal Category) Helicopter, approved August 4, 1978. 
+ Same as Model AS 350D except for maximum weight. 
+ Maximum Weight 
+ 4000 lb (See NOTE 5) 
+ Serial Numbers 
+ No eligible serial numbers. (see NOTE 15) 
+ IV. Model AS-350B “ECUREUIL” (Normal Category) Helicopter, approved November 9, 1978.",
+Engine,1 TURBOMECA Arriel 1B
+Fuel,"- Normal Fuels: 
+ Kerosene; MIL-T-83133; ASTM D1655 Jet A1, Jet A 
+ - Wide Cut (JP4), MIL-T-5624; ASTM D1655 Jet B 
+ High flash point (JP 5); MIL-T-5624 
+ - Emergency 
+ Fuel 
+ See 
+ NOTE"
+Oil,"- Synthetic oil (5 Cst) 
+ MIL.L.23699 
+ - Synthetic oil (3 Cst) 
+ MIL.L.7808 
+ - Synthetic 
+ oil 
+ (3 
+ Cst) 
+ - Synthetic 
+ oil 
+ (3.9 
+ Cst) 
+ Aeroshell 
+ Turbine 
+ Oil 
+ 390 
+ Mixing of these oils is not permitted."
+Engine Limits,"- Power Ratings (Sea Level, ISA) 
+ Takeoff (5 min) 
+ 641 shp. 
+ Max. Continuous 
+ 590 shp. 
+ - Gas 
+ Generator 
+ Speeds 
+ (Sea 
+ Level), 
+ ISA 
+ Takeoff 
+ 51,800 rpm (100%) 
+ Max. Continuous 
+ 50,750 rpm ( 98%) 
+ Transient 
+ 54,400 rpm (105%) 
+ - Engine Gear Box Limitations 
+ Max. torque stabilized 109% (100% corresponds to 641 shp at 6,000 rpm 
+ power 
+ shaft 
+ speed) 
+ - Exhaust Gas Temperature (T4) 
+ Takeoff 
+ 810°C 
+ Max. Continuous 
+ 775°C 
+ Starting max. 
+ 840°C"
+Transmission,"Limits. 
+ TORQUE 
+ SHP 
+ KW 
+ Maximum takeoff power (5 min) 
+ 83% 
+ 531 
+ 396 
+ Maximum continuous 
+ 83% 
+ 531 
+ 396"
+Helicopter Limits,"Maximum takeoff (5 min) 
+ 83% 
+ 531 
+ 396 
+ Maximum continuous 
+ 83% 
+ 531 
+ 396"
+Maximum Weight,4300 lb (see NOTE 6)
+"V. Model AS 350B1 “ECUREUIL” (Normal Category) Helicopter, approved February 13, 1987. 
+ Similar to AS 350B except Turbomeca Arriel 1D engine, main and tail rotors as AS 355F1, maximum weight, other changes.",
+Engine,1 TURBOMECA ARRIEL 1D.
+Fuel,Refer to Flight Manual AS 350B1 for approved and additive specification.
+Oil,Refer to Flight Manual AS 350B1 for approved and additive specification.
+Engine Limits,"- Power Ratings (Sea Level, ISA) 
+ Takeoff (5 min) 
+ 684 shp. 
+ Max. Continuous 
+ 603 shp. 
+ - Gas 
+ Generator 
+ Speeds 
+ (Sea 
+ Level, 
+ ISA) 
+ Takeoff 
+ 52,215 
+ (100.8%) 
+ Max. Continuous 
+ 50,764 
+ ( 98%) 
+ Transient 
+ 54,650 
+ (105.5%) 
+ - Engine Gear Box Limitations 
+ Max. torque stabilized 109.2% (100% corresponds to 641 shp at 6000 rpm 
+ power 
+ shaft 
+ speed) 
+ - Exhaust Gas Temperature (T4) 
+ Takeoff 
+ 845°C 
+ Max. Continuous 
+ 795°C 
+ Starting Max. 
+ 865°C"
+Helicopter,"Limits. 
+ TORQUE 
+ KW 
+ Maximum torque = IAS 40 knots or higher 
+ 94% 
+ 450 
+ IAS below 40 knots 
+ 100% 
+ 478"
+Maximum Weight,4850 lb (See NOTE 6)
+CG Range,"Longitudinal 
+ Lateral 
+ Right 
+ 5.51 
+ in 
+ Left 
+ 7.08 
+ in"
+Rotor Speeds,"In autorotation 
+ Maximum 430 rpm 
+ Minimum 320 rpm 
+ In power-on flight 
+ 390 + 4 rpm 
+ - 5 
+ rpm"
+Rotor Low Speed Warning,Aural at 360 rpm.
+Airspeed Limits,"Never exceed speed VNE power on: 
+ 155 Kt at Zero pressure altitude 
+ Never exceed speed VNE power-off: 
+ 125 Kt at Zero pressure altitude 
+ See 
+ Rotorcraft 
+ Flight 
+ Manual 
+ for 
+ decrease of these values with altitude and temperature."
+"VI. Model AS 350B2 “ECUREUIL” (Normal Category) Helicopter, approved June 8, 1990. 
+ Similar as to AS350B1 except Turbomeca ARRIEL 1D1 engine, maximum weight, other changes.",
+Engine,1 TURBOMECA ARRIEL 1D1
+Fuel,Refer to Flight Manual AS 350B2 for approved and additive specification.
+Oil,Refer to Flight Manual AS 350B2 for approved and additive specification.
+Engine Limits,"- Power Ratings (Sea Level, ISA) 
+ Takeoff (5 min) 
+ 712 shp. 
+ Max.Continuous 
+ 625 shp. 
+ - Gas 
+ Generator 
+ Speeds 
+ (Sea 
+ Level, 
+ ISA) 
+ Takeoff 
+ 52,784 
+ (101.9%) 
+ Max. Continuous 
+ 50,764 
+ ( 98%) 
+ Transient 
+ 54,650 
+ (105.5%) 
+ - Engine Gear Box Limitations 
+ Max. torque stabilized 109.2% (100% corresponds to 641 shp at 6000 rpm 
+ power 
+ shaft 
+ speed) 
+ - Exhaust Gas Temperature (T4) 
+ Takeoff 
+ 845°C 
+ Max. Continuous 
+ 795°C 
+ Starting Max. 
+ 865°C"
+Helicopter,"Limits. 
+ TORQUE 
+ SHP 
+ Maximum torque = IAS 40 knots or higher 
+ 94% 
+ IAS below 40 knots 
+ 100% 
+ 641"
+Maximum Weight,4961 lb (See NOTE 6)
+CG Range,"Longitudinal 
+ Lateral 
+ Right 
+ 5.51 in 
+ Left 
+ 7.08 
+ in"
+Rotor Speeds,"In autorotation 
+ Maximum 430 rpm 
+ Minimum 320 rpm 
+ In Power-on flight 
+ 390 + 4 rpm 
+ - 5 
+ rpm"
+Rotor Speed Warning,Aural at 360 rpm and 410 rpm
+Airspeed Limits,"Never exceed speed VNE power on: 
+ 155 Kt at zero pressure altitude 
+ Never exceed speed VNE power off: 
+ 125 Kt at zero pressure altitude 
+ See 
+ Rotorcraft 
+ Flight 
+ Manual 
+ for 
+ decrease of these values with altitude and temperature."
+"VII. Model AS 350BA “ECUREUIL” (Normal Category) Helicopter, approved March 11, 1992. 
+ Same as Model AS 350B except for 355 type main rotor blades. 
+ Other Changes 
+ Helicopter Limits 
+ Vi (I.A.S.) 
+ Torque 
+ Kw 
+ RPM 
+ Maximum torque limit 
+ <40 Kt 
+ 88% 
+ Maximum continuous torque 
+ >40 Kt 
+ 83% 
+ 396 
+ 386 
+ Reference 
+ 100% 
+ 478 
+ 386 
+ Maximum Weight 
+ 4630 lb (See NOTE 6). 
+ CG Range 
+ Longitudinal 
+ Lateral: 
+ Right 
+ Limit: 
+ 5.51 
+ in. 
+ Left 
+ Limit: 
+ 7.08 
+ in. 
+ Rotor Speeds 
+ The same as 350B1. 
+ Rotor Low Speed Warning 
+ The same as AS350B1. 
+ Airspeed Limits 
+ The same as AS350B1. See Rotorcraft Flight Manual for decrease of the values with 
+ altitude and temperature. 
+ Versions 350B, C, D and D1 Common Particulars 
+ Rotor Speeds 
+ In Autorotation 
+ Maximum 
+ 424 rpm 
+ Minimum 
+ 320 rpm 
+ In power-on Flight 
+ 385 + 1 rpm 
+ - 5 
+ rpm 
+ Rotor LowSpeed Warning 
+ Aural at - 
+ 335 rpm (See NOTE 8) 
+ Airspeed Limits 
+ Never-exceed-speed: 147 kt from S.L. to 1000 feet, then decreasing with altitude 3.5 kt 
+ for each 1000 feet density altitude above 1000 feet. For operations below -30°C ambient 
+ temperature, decrease above VNE schedule by 10 kts. 
+ CG 
+ Range 
+ Fwd 
+ Limit 
+ Aft 
+ Limit 
+ Longitudinal 
+ 124.8 in. 
+ 139.7 in. to 2,865 lb. 
+ 135.0 in. to 4,190 lb. 
+ Linear 
+ variation between points shown. 
+ 135.0 in. from 4,190 lb. to 4,300 lb. 
+ Lateral 
+ Right 
+ 3.14 
+ in. 
+ Left 
+ 5.90 
+ in. 
+ VIII. Model AS 350B3 “ECUREUIL” (Normal Category) Helicopter, approved May 7, 1998. 
+ Similar as to AS350B2 except Turbomeca ARRIEL 2B, 2B1, or 2D engine with FADEC",
+Engine,"1TURBOMECA ARRIEL 2B, 
+ 1 
+ TURBOMECA 
+ ARRIEL 
+ 2B1, 
+ or 
+ 1 
+ TURBOMECA 
+ ARRIEL 
+ 2D."
+Fuel,Refer to Flight Manuals AS 350B3 for approved and additive specification.
+Oil,"Refer to Flight Manuals AS 350B3 for approved and additive specification. 
+ Engine Limits (Arriel 2B or 2B1). 
+ - Power Ratings (Sea Level, ISA) 
+ Takeoff (5 min) 
+ 747 shp. 
+ Max.Continuous 
+ 728 shp. 
+ - Gas 
+ Generator 
+ Speeds 
+ (Sea 
+ Level, 
+ ISA) 
+ Takeoff 
+ 52,756 
+ (101.2%) 
+ Max. Continuous 
+ 50,672 
+ ( 97.2%) 
+ - Engine Gear Box Limitations 
+ Refer to Engine TCDS E00054EN 
+ - Exhaust Gas Temperature (T4) 
+ Takeoff 
+ 915°C 
+ Max. Continuous 
+ 849°C 
+ Starting Max. 
+ 865°C"
+Engine Limits Arriel2D,"- Power Ratings (Sea Level, ISA) 
+ Takeoff (5 min) 
+ 747 shp. 
+ Max. Continuous 
+ 728 shp. 
+ - Gas 
+ Generator 
+ Speeds 
+ (Sea 
+ Level, 
+ ISA) 
+ Takeoff 
+ 52,579 
+ (100.9%) 
+ Max. Continuous 
+ 51,067 
+ ( 97.2%) 
+ - Engine Gear Box Limitations 
+ - Exhaust Gas Temperature (T4) 
+ Takeoff 
+ 949°C 
+ Max. 
+ Continuous 
+ 905°C 
+ Starting 
+ Max. 
+ 840°C 
+ Note : The indicated limits are engine limits when installed in the AS350B3. Refer to Engine TCDS for the Engine limits 
+ Helicopter Limits (Arriel2B engine mounted pre-mod. AMS 072803 and 072808). 
+ TORQUE 
+ Maximum torque = IAS 40 knots or higher 
+ 84% 
+ IAS 
+ below 
+ 40 
+ knots 
+ 100% 
+ Helicopter Limits (Arriel2B engine mounted and post-mod. AMS 072803 and 072808) 
+ TORQUE 
+ Maximum torque = IAS 40 knots or higher 
+ 92.7% 
+ IAS 
+ below 
+ 40 
+ knots 
+ 100%"
+Helicopter Limits Arriel2B1 engine mounted,"TORQUE 
+ Maximum torque = IAS 40 knots or higher 
+ 92.7% 
+ IAS 
+ below 
+ 40 
+ knots 
+ 100%"
+Helicopter Limits Arriel2D engine mounted,"TORQUE 
+ Maximum torque = IAS 40 knots or higher 
+ 92.7% 
+ IAS 
+ below 
+ 40 
+ knots 
+ 100%"
+Maximum Weight,"4960 lb (See NOTE 6). 
+ 5220 lb for a/c incorporating mod. OP-3369."
+Range,"Longitudinal: 
+ AS350 B3 ARRIEL 2B1 a/c incorporating mod. OP-3369: 
+ Longitudinal: 
+ AS350 B3 ARRIEL 2B (before modifications AMS 072803 and 072808) and 
+ for AS 350 B3 ARRIEL 2B1: 
+ Longitudinal: 
+ AS350 B3 ARRIEL 2B (after modifications AMS 072803 and 072808): 
+ Longitudinal: 
+ AS350 B3 ARRIEL 2D a/c incorporating mod. OP-3369: 
+ Longitudinal: 
+ AS350 B3 ARRIEL 2D: 
+ Lateral 
+ L.H. limit: 
+ 0.18 m (7.08 in) up to 2250 kg and 
+ 0.08 m (3.15 in) from 2250 up to 2370 kg for a/c incorporating mod. OP-3369 
+ R.H. limit: 
+ 0.14 m (5.51 in) up to 2250 kg and 
+ 0.08 m (3.15 in) from 2250 up to 2370 kg for a/c incorporating mod. OP-3369"
+Rotor Speeds,"In autorotation 
+ Maximum 
+ 430 
+ rpm 
+ Minimum 
+ 320 
+ rpm 
+ In Power-on flight: With Arriel 2B390 + 4 rpm 
+ - 5 
+ rpm 
+ With Arriel 2B1 
+ 390 +15 rpm 
+ -15 
+ rpm 
+ With Arriel 2D 
+ 390 +15 rpm 
+ -15 
+ rpm"
+Rotor Speed Warning,Aural at 360 rpm and 410 rpm
+Airspeed Limits,"Never exceed speed VNE power on: 
+ 155 Kt at zero pressure altitude 
+ Never exceed speed VNE power off: 
+ 125 Kt at zero pressure altitude 
+ See 
+ Rotorcraft 
+ Flight 
+ Manual 
+ for 
+ decrease of these values with altitude and temperature."
+Serial Numbers,"S/N 2968 and S/N’s 3063 and subsequent 
+ S/N 4201 and up for a/c incorporating mod. OP-3369 (2370 kg weight extension) 
+ S/N 4767 and up for a/c incorporating mod. OP-4305 (without or with mod. OP-3369)"
+"IX. Model EC 130 B4 (Normal Category) Helicopter, approved December 21, 2000. 
+ Similar as to AS350B3 except a gross weight increase to 2400 kg, enlarged fuselage structure utilizing some standard EC 120B 
+ components, and an EC 135 type fenestron anti-torque system.",
+Engine,1 TURBOMECA ARRIEL 2B1
+Fuel,Refer to Flight Manual EC 130B4 for approved fuels and additive specification.
+Oil,Refer to Flight Manual EC 130B4 for approved oils and additive specification.
+Engine Limits,"- Power Ratings (Sea Level, ISA) 
+ Takeoff (5 min) 
+ 747 shp. 
+ Max. Continuous 
+ 728 shp. 
+ - Gas 
+ Generator 
+ Speeds 
+ (Sea 
+ Level, 
+ ISA) 
+ Takeoff 
+ 101.1% 
+ Max. Continuous 
+ 97.1% 
+ Maximum transient 
+ 102.3% 
+ (note 100%= 52110 RPM) 
+ - Engine Gear Box Limitations 
+ Refer to Engine TCDS E00054EN 
+ - Exhaust Gas Temperature (T4) 
+ Takeoff (5 min.) 
+ 915°C 
+ Max. Continuous 
+ 849°C 
+ Starting transient (10 sec) 
+ 865°C 
+ Continuous starting 
+ 750°C"
+Transmission Limits,"Maximum takeoff torque – 100% 
+ Maximum continuous torque – 92.7% 
+ Maximum Transient (5 second) – 104% 
+ (100% based on 536 Kw at 6000 engine RPM and 386 main rotor RPM)"
+Maximum Weight,2427 Kg (5350 lbs)
+Minimum Crew,1 pilot
+Maximum Passengers,"6 (2 in front, four in rear) 
+ Option 7 passengers (3 in front, four in rear)"
+Maximum Baggage,"Right Baggage Compartment : 287 lb. (max distribution 62.5 lb/sq ft) 
+ Left Baggage Compartment : 342 lb. (max distribution 62.5 lb/sq ft) 
+ Rear Baggage Compartment : 176 lb. (max distribution 30 lb/sq ft) 
+ Main Cabin (on rear floor) 
+ : 1091 lb. (max distribution 62.5 lb/sq ft) 
+ (on LH fwd floor): 893 lb. (max distribution 62.5 lb/sq ft)"
+Fuel Capacity,"Total 
+ : 
+ 142.7 U.S. Gallons 
+ Usable 
+ : 
+ 142.3 
+ U.S. 
+ Gallons"
+Oil Capacity,"Engine Tank Max. 
+ 1.64 
+ U.S. 
+ Gallons 
+ MGB 
+ Max. 
+ 1.93 
+ U.S. Gallons (includes filter) 
+ TGB 
+ Max. 
+ 0.13 
+ U.S. 
+ Gallons 
+ For rigging information, refer to the EC 130B4 Maintenance Manual."
+CG Range,"Longitudinal 
+ Lateral 
+ Right 
+ 0.10 m 
+ Left 
+ 0.10 
+ m"
+Datum,"Longitudinal - 3.4 m (133.8 in) forward of main rotor head 
+ Lateral - Symmetrical plane of the aircraft"
+Leveling Means,Mechanical floor
+Rotor Speeds,"In autorotation 
+ Maximum 430 rpm 
+ Minimum 320 rpm 
+ In Power-on flight 
+ 375 to 405 RPM"
+Rotor Speed Warning,Aural at 360 rpm and 410 rpm
+Airspeed Limits,"Never exceed speed VNE power on: 
+ 155 Kt at sea level 
+ Never exceed speed VNE power off: 
+ 125 Kt at sea level 
+ See 
+ Rotorcraft 
+ Flight 
+ Manual 
+ for 
+ decrease of these values with altitude and temperature."
+Maximum Altitude,"23,000 feet pressure altitude"
+Serial Numbers,S/N’s 3358 and subsequent
+"X. Model EC 130 T2 (Normal Category) Helicopter, approved July 30, 2012. 
+ Similar as to EC130 B4 except a gross weight increase to 2500 kg and a more powerful engine.",
+Engine,1 TURBOMECA ARRIEL 2D
+Fuel,Refer to Flight Manual EC 130T2 for approved fuels and additive specification.
+Oil,Refer to Flight Manual EC 130T2 for approved oils and additive specification.
+Engine Limits,"- Power Ratings (Sea Level, ISA) 
+ Takeoff (5 min) 
+ 802 shp. 
+ 30 minute Power rating 
+ 802 shp 
+ Max. Continuous 
+ 802 shp. 
+ - Gas 
+ Generator 
+ Speeds 
+ (Sea 
+ Level, 
+ ISA) 
+ Takeoff 
+ 101.9% 
+ (53086 rpm) 
+ 30 minute Power rating 101.9% 
+ (53086 rpm) 
+ Max. Continuous 
+ 99.9% 
+ (52050 rpm) 
+ Maximum transient 
+ 103.0% 
+ (53658 rpm) 
+ (note 100%= 52110 RPM) 
+ - Engine Gear Box Limitations 
+ Refer to Engine TCDS E00054EN 
+ - Exhaust Gas Temperature (T4) 
+ Takeoff (5 min.) 
+ 949°C 
+ 30 minute Power rating 
+ 949°C 
+ Max. Continuous 
+ 905°C 
+ Starting transient (20 sec) 
+ 840°C 
+ Continuous starting 
+ 750°C"
+Transmission Limits,"Maximum takeoff torque – 
+ 100% 
+ 30 minute Power rating - 
+ 100% 
+ Maximum continuous torque – 
+ 81.3% 
+ Maximum Transient (5 second) – 104% 
+ (100% based on 598 Kw at 6000 engine RPM and 386 main rotor RPM)"
+Maximum Weight,2500 Kg (5512 lbs)
+Minimum Crew,1 pilot
+Maximum Passengers,"6 (2 in front, four in rear) 
+ Option 7 passengers (3 in front, four in rear)"
+Maximum Baggage,"Right Baggage Compartment : 287 lb. (max distribution 62.5 lb/sq ft) 
+ Left Baggage Compartment : 342 lb. (max distribution 62.5 lb/sq ft) 
+ Rear Baggage Compartment : 176 lb. (max distribution 30 lb/sq ft) 
+ Main Cabin (on rear floor) 
+ : 1091 lb. (max distribution 62.5 lb/sq ft) 
+ (on LH fwd floor): 893 lb. (max distribution 62.5 lb/sq ft)"
+Fuel Capacity,"Total 
+ : 
+ 142.7 U.S. Gallons 
+ Usable 
+ : 
+ 142 
+ U.S. 
+ Gallons"
+Oil Capacity,"Engine Tank Max. 
+ 1.64 
+ U.S. 
+ Gallons 
+ MGB Max. 1.93 U.S. Gallons (includes filter) 
+ TGB Max. 0.13 U.S. Gallons 
+ For rigging information, refer to the EC 130T2 Maintenance Manual."
+CG Range,"Longitudinal 
+ Lateral"
+Datum,"Longitudinal - 3.4 m (133.8 in) forward of main rotor head 
+ Lateral - Symmetrical plane of the aircraft"
+Leveling Means,Mechanical floor
+Rotor Speeds,"In autorotation 
+ Maximum 430 rpm 
+ Minimum 320 rpm 
+ In 
+ Power-on 
+ flight 
+ 375 to 405 RPM"
+Rotor Speed Warning,Aural at 360 rpm and 410 rpm
+Airspeed Limits,"Never exceed speed VNE power on: 
+ 155 Kt at sea level (depending on longitudinal CG position, See Rotorcraft Flight Manual) 
+ Never exceed speed VNE power off: 
+ 125 Kt at sea level 
+ See 
+ Rotorcraft 
+ Flight 
+ Manual 
+ for 
+ decrease of these values with altitude and temperature."
+Maximum Altitude,"23,000 feet pressure altitude"
+Serial Numbers,S/N’s 7355 and subsequent
+DATA PERTINENT TO ALL MODELS EXCEPT EC 130B4 and EC130T2,
+Empty Weight CG Range,None
+Datum,"Longitudinal : 133.8 in. forward of main rotor hub center. 
+ Lateral 
+ : Vertical plane passing longitudinally through main rotor hub center."
+Leveling Means,Transmission support platform
+Minimum Crew,1 pilot
+Maximum Passengers,"5 (1 in front, 4 in rear) 
+ Option 6 passengers (2 in front, 4 in rear)"
+Maximum Baggage,"Right Baggage Compartment : 220 lb. at 125.98 in. 
+ 350BA included 
+ Left Baggage Compartment : 
+ 264 lb. at 125.98 in. 
+ “ 
+ Rear Baggage Compartment : 
+ 176 lb. at 181.10 in. 
+ “ 
+ Main Cabin (on rear 
+ : 
+ 682 lb. at 88.58 in. 
+ “ 
+ (on LH fwd. : 330 lb. at 61.02 in. 
+ “"
+Fuel Capacity,"Total 
+ : 142.7 U.S. Gallons at 136.8 in. 
+ Usable 
+ : 142.3 U.S. Gallons at 136.8 in. (post AMS 07.0289) 
+ For 350BA version AMS 07.0289 is applied. 
+ 142.1 U.S. Gallons at 136.8 in. (post mod OP-4605) 
+ (See NOTE 1 for data on unusable fuel)"
+Oil Capacity,"Engine Tank Max. 
+ 1.37 U.S. Gallons at 144.76 in. for AS 350B, AS350BA and AS 350B1 
+ 1.00 U.S. Gallons at 144.76 in. for other models 
+ (See NOTE 1 for data on undrainable oil) 
+ MGB Max. 1.72 U.S. Gallons at 134.4 in. 
+ TGB Max. 0.09 U.S. Gallons at 379.5 in. 
+ For rigging information, refer to the appropriate AS-350 Maintenance Manual."
+Production Basis,"Production Certificate No. 343CE. The manufacturer, (Airbus Helicopters Inc. (AHI), 
+ formerly known as American Eurocopter) is authorized to issue airworthiness certificates 
+ under 14 CFR 21.183 (a). 
+ NOTE: These models listed on the Airbus Helicopters Inc. (AHI) Production Limitation 
+ Record are being produced under Licensing Agreement between Airbus Helicopters (AH) 
+ and Airbus Helicopters Inc. (AHI), Columbus, Mississippi."
+Serial Numbers Eligible,"The French Government “Certificat de Navigabilite pour Exportation” endorsed as noted 
+ below under “Import Requirements” must be submitted for each individual aircraft for 
+ which application for FAA certification is made. 
+ Rotorcraft model AS350B2 S/N 3951 and subsequent, may be produced either by 
+ American Eurocopter in Columbus, Mississippi or Eurocopter France. Rotorcraft S/N 
+ 7810 and subsequent may be produced by Airbus Helicopters Inc.(AHI) in Columbus, 
+ Mississippi, or Airbus Helicopters (AH). Validate manufacturer by viewing the aircraft 
+ data plate. 
+ Rotorcraft model AS350B3 S/N 3995 and subsequent, may be produced either by 
+ American Eurocopter in Columbus, Mississippi or Eurocopter France. Rotorcraft S/N 
+ 7814 and subsequent may be produced by Airbus Helicopters Inc. (AHI), in Columbus, 
+ Mississippi, or Airbus Helicopter (AH). Validate manufacturer by viewing the aircraft 
+ data plate."
+Certification Basis,"14 CFR 21.29 and part 27 effective February 1, 1965 plus Amendments 27-1 through 27- 
+ 10, plus FAA Special Conditions No. 27-79-EU-23, dated August 13, 1977. 
+ Equivalent safety, in lieu of direct compliance, found with respect 14 CFR 27.1189, 
+ Shutoff Means. 
+ Equivalent Safety, in lieu of direct compliance, found with respect to 14 CFR 27.923(b), 
+ Rotor drive system and control mechanism test for Model 
+ AS-350B1. 
+ FAA Special Condition No. 27-001-SC for FADEC HIRF and Equivalent level of Safety 
+ found with respect to 14 CFR 27.1549(b) for the Model AS350B3. 
+ For A/C incorporating mod. OP3369 (2370 kg/5225 lb mass extension) the 
+ following 14 CFR part 27 Amendments 27-1 through 27-40, are replacing the 
+ same requirement from the certification basis above : 27 §1; §21; §25; §27; §33; 
+ §45; §51; §65; §71; §73; §75; §79; §141; §143; §173; §175; §177; §241; §301; 
+ §303; §305; §307; §309; §321; §337; §339; §341; §351; §471; §473; §501; 
+ §505; §521; §547; §549; §563(b); §571; §602; §661; §663; §695; §723; §725; 
+ §727; §737; §751; §753; §801(b)(d); §927(c); §1041; §1043; §1045; §1301; 
+ §1501; §1519; §1529; §1581; §1583; §1585; §1587; §1589. 
+ For AS350B3 A/C incorporating mod. OP-4605 (installation of a fuel system 
+ improving crashworthiness), 14 CFR 27.561(c) at Amendment 27-32 replaces the 
+ same requirement from the certification basis above for the following elements of 
+ the fuel tank lower structure affected by this modification: cradles, longitudinal 
+ beams, X-stops and rods. 
+ For AS350 B3 A/C incorporating modification 07.20034 (AS350 B3 with Crash 
+ Resistant Fuel System drop test configuration), the following 14 CFR part 27 
+ Amendments 27-1 through 27-47 are amending the same requirement from the 
+ certification basis above: 
+ - 
+ §863; §901(b)(5); §952; §963(e)(f)(g)(h); §967; §973; §975(b). Applicable for 
+ the fuel system and airframe structure / fuel system interfaces (see NOTE 16) 
+ Type Certificate No. H9EU. 
+ Date of application for Type Certificate: 
+ April 6, 1976."
+EC 130B4 CERTIFICATION BASIS,"14 CFR 21.29 and part 27 Amendment 27-1 through Amendment 27-32 except 14 CFR 
+ 27.952 is not adopted. 
+ 14 CFR 36 Appendix H through Amendment 20. 
+ Special Condition 27-009-SC for HIRF. 
+ Equivalent Level of Safety Findings 
+ - 
+ 14 CFR 27.1549(b) Powerplant Instrument Markings 
+ - 
+ 14 CFR 27.1027(b)(2) Main Gearbox Oil Filter Bypass 
+ The French Direction Generale de l’Aviation Civile (DGAC) originally type 
+ certificated this rotorcraft under its type certificate TC 84. The FAA validated 
+ this product under U.S. Type Certificate Number H9EU. Effective September 
+ 28, 2003, the European Aviation Safety Agency (EASA) began oversight of this 
+ product on behalf of the DGAC."
+EC 130T2 CERTIFICATION BASIS,"Same as EC130B4 except the following: 
+ 14 CFR 27.952 at amendt 27-30. 
+ FAR 27.1317 at amendt 42. 
+ Special Condition 27-028-SC for Use of 30-Minute Power Rating. 
+ For A/C incorporating modification EC130 T2 New Tailboom (07.4581, 07.4592, 
+ 07.4593, 07.9809), the following 14 CFR Part 27 Amendments 27-1 through 27- 
+ 47 are amending the same requirement from the certification basis above: 
+ - 
+ §351 (rear engine cowling and thermal shield area); 
+ - 
+ §573 (composite spacer, fenestron one-shot); 
+ §610 (for rear engine compartment and fenestron structure)."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on a National Aviation 
+ Authority (NAA) Export Certificate of Airworthiness (Export C of A) signed by 
+ a representative of the French Generale de l’Aviation Civile (DGAC) on behalf 
+ of the European Community. 
+ The Export C of A should contain the following statement: “The aircraft covered 
+ by this certificate has been examined, tested, and found to comply with the type 
+ design approved under U.S. Type Certificate Number H9EU and to be in a 
+ condition for safe operation.” 
+ A U.S. Airworthiness Certificate may be issued on the basis of a certificate of 
+ airworthiness for export signed by a representative of the Centro Tecnico 
+ Aeroespacial (CTA), the Brazilian civil airworthiness authority which states in 
+ the English language: 
+ “The helicopter covered by this certificate has been examined, tested, and found 
+ to conform to the Type design approved under FAA Type Certificate No. H9EU 
+ and to be in a condition for safe operation.” 
+ Major modifications to the imported aircraft must be FAA approved. (see Notes 
+ 10 and 11). 
+ The AS350C and AS350D1, all serial numbers, are ineligible for import. (see 
+ Notes 14 and 15.) 
+ Refer to the applicable bilateral agreement to verify eligibility for import into 
+ the United States of both new and used aircraft based on the scope of the 
+ agreement, to identify any required statements by the exporting authority on the 
+ export certificate of airworthiness (or equivalent document), and for procedures 
+ for coordinating exceptions to conformity statements on these documents. Refer 
+ to FAA Order 8130.2, Airworthiness Certification of Aircraft, for requirements 
+ for issuance of an airworthiness certificate for imported aircraft."
+SERVICE INFORMATION,"Service bulletins, structural repair manuals, vendor manuals, AFMs, and 
+ overhaul and maintenance manuals, which contain a statement that the 
+ document is approved by the European Aviation Safety Agency (EASA) or – for 
+ approvals made before September 28, 2003 – by the French Generale de 
+ l’Aviation Civile (DGAC), are accepted by the FAA and are considered FAA 
+ approved. These approvals pertain to the design data only."
+EQUIPMENT,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (See Certification Basis) must be installed in the helicopter for certification. Eurocopter 
+ France Report No. 350A.04.4320 lists required and optional equipment for the helicopter. 
+ In addition, the following equipment is required: 
+ DGAC-or EASA approved Rotorcraft Flight Manual identified as Code B, approved as 
+ follows: 
+ For Model AS-350B 
+ : Approved November 9, 1978. or later approved revisions. 
+ For Model AS-350C 
+ : Approved December 21, 1977, including Rev. No. 2 
+ approved December 8, 1978. or later approved revisions. 
+ (see NOTE 14) 
+ For Model AS-350D 
+ : Approved July 5, 1978. or later approved revisions. 
+ For Model AS-350D1 
+ : Approved July 4, 1978. or later approved revisions. 
+ (see 
+ NOTE 
+ 15) 
+ For Model AS-350B1 
+ : Approved February 11, 1987. Rev. 0 plus Rev. 1A and 1B 
+ and specific pages marked B or later approved revisions. 
+ For Model AS-350B2 
+ : Approved June 8, 1990 - Rev. 0 plus Rev. 1 plus Sup 0 Rev. 
+ 2 or later approved revisions. 
+ For Model AS-350BA 
+ : Approved March 11, 1992. 
+ For Model AS-350B3 
+ : Approved December 24, 1997, or later approved revisions 
+ plus, rapid Revision RR 1A for aircraft equipped with Arriel 
+ 2B engine or Approved July 16, 2004 for aircraft equipped 
+ with Arriel 2B1 engine. 
+ EASA Approved June 17, 2011 + FAA Code B Appendix for 
+ aircraft equipped with Arriel 2D engine or later approved 
+ revisions. 
+ For Model EC 130B4 
+ : Approved November 29, 2000 plus ITR 1A and ITR 1B dated 
+ May 17, 2001 (B code not applicable) or later approved 
+ revisions. 
+ For Model EC 130T2 
+ : EASA Approved May 25, 2012 + FAA Code B Appendix or 
+ later approved revisions."
+NOTE 1,"Current weight and balance report including loading instructions and list of equipment included in 
+ the certificated empty weight, must be provided for each helicopter at the time of original 
+ certification. The certificated empty weight and corresponding center of gravity location must 
+ include unusable fuel of 20.5 lb., at 136.8 in., and undrainable oil of 1.8 lb., at 171.0 in. For 
+ Models AS350B/C/D after embodiment of modification AMS 07.0289 and for Models AS350B1 
+ and BA, the unusable fuel is 3.1 lb. For Model AS350B3 after embodiment of modification OP- 
+ 4605, the unusable fuel is 4.4 lb. 
+ In order to obtain the most consistent weight and balance results, all helicopters should be weighed 
+ on jackpoints rather than on wheels and floats. When changes are made to the helicopter, which 
+ affect the weight and balance, refer to the Flight Manual Weight and Balance Appendix for 
+ instructions."
+NOTE 2,All placards indicated in the Rotorcraft Flight Manual must be installed in the appropriate location.
+NOTE 3,"Information essential to the proper maintenance of the helicopter is contained in the manufacturer’s 
+ AS-350 Maintenance Manual provided with each helicopter. Life-limited components and 
+ associated retirement times are presented in Chapter 5, Section CD 5.99 or MSM chapter 04, and 
+ must be replaced in accordance therewith."
+NOTE 4,"For compliance with applicable powerplant ice protection requirements, the helicopter must be 
+ equipped during all operations with engine air inlet conforming with Eurocopter France Dwg. No. 
+ 350A58-1607 for aircraft fitted with Turbomeca Arriel engines and with Dwg. No. 350A58-1608 
+ for aircraft fitted with Lycoming engines."
+NOTE 5,"Except for difference in maximum certificated empty weight, the model AS 350D and AS 350D1 
+ are identical to each other."
+NOTE 6,"A. When operating at maximum weights above, 4,190 pounds DGAC-approved 
+ Rotorcraft Flight Manuals, identified as Code B, approved as follows, are required: 
+ 1) 
+ for Model AS-350B: 
+ Issue 1, amendment 3, approved May 10, 1979. 
+ 2) 
+ for Model AS-350C: 
+ Issue 1, amendment 4, approved May 10, 1979. 
+ 3) 
+ for Model AS-350D: 
+ Issue 1, amendment 1, approved May 10, 1979. 
+ B. For models AS-350B, AS-350C, AS-350D for cargo sling or cargo swing operations the 
+ maximum weight, including the external load, may be 4,630 pounds provided: 
+ 1) 
+ at least 330 pounds of the external load are releasable, and 
+ 2) 
+ the rotorcraft is operated in accordance with the appropriate Rotorcraft Flight Manual in 
+ part A of this note and, 
+ a) Eurocopter France Supplement No. 2 to that DGAC-approved Manual, dated 
+ May 10, 1979 or later EASA/DGAC approved revision, for the cargo sling, or, 
+ b) Eurocopter France Supplement 2A to that DGAC-approved Manual, dated May 18, 
+ 1979 or later EASA/DGAC approved revision, for the cargo swing. 
+ C. For AS 350B1 model for cargo sling or cargo swing operations the maximum 
+ weight including the external load, may be 5,402 pounds provided: 
+ 1) 
+ at least 552 pounds of the external load are releasable, and 
+ 2) 
+ the rotorcraft is operated in accordance with the appropriate RFM and 
+ a) Eurocopter France supplement 10-1 to that DGAC approved Manual, dated 
+ January 9, 1986 or later EASA/DGAC approved revision, for the cargo swing or 
+ b) Eurocopter France supplement 10-2 to that DGAC approved Manual, dated 
+ January 9, 1986 or later EASA/DGAC approved revision, for the cargo sling. 
+ D. For AS 350B2 model for cargo sling or cargo swing operations the maximum weight including 
+ the external load, may be 5,512 pounds provided: 
+ 1) 
+ at least 551 pounds of the external load are releasable, and 
+ 2) 
+ the rotorcraft is operated in accordance with the appropriate RFM and 
+ a) Eurocopter France supplement 11 to that DGAC-approved Manual, 
+ dated 
+ April 26, 1989 or later EASA/DGAC approved revision, for the cargo swing or, 
+ b) Eurocopter France supplement 12 to that DGAC approved Manual, dated April 26, 
+ 1989 or later EASA/DGAC approved revision, for the cargo sling. 
+ E. For AS 350BA model for cargo sling or cargo swing operations the maximum weight including 
+ the external load may be 4961 lb. 
+ 1) 
+ at least 331 pounds of the external load are releasable and 
+ 2) 
+ the rotorcraft is operated in accordance with the appropriate RFM and 
+ a) Eurocopter France supplement 11 to that DGAC approved Manual, dated 
+ November 26, 1991 or later EASA/DGAC approved revision, for the cargo swing. 
+ b) Eurocopter France supplement 12 to that DGAC approved Manual, dated 
+ November 26, 1991 or later EASA/DGAC approved revision, for the cargo sling. 
+ F. For AS 350B3 model, Arriel2B mounted, for cargo sling or cargo swing operations the 
+ maximum weight including the external load may be 6173 lb. 
+ 1) 
+ at least 1212 pounds of the external load are releasable and 
+ 2) 
+ the rotorcraft is operated in accordance with the appropriate RFM and 
+ a) Eurocopter France supplement 11 to that DGAC approved Manual, dated 
+ December 24, 1997 for the cargo swing or 
+ b) Eurocopter France supplement 12 to that DGAC approved Manual, dated 
+ December 24, 1997 for the cargo sling. 
+ c) Eurocopter France supplement 13 to that DGAC approved Manual, dated 
+ February 16, 1998 for the cargo swing. 
+ For AS 350B3 model, Arriel2B1 mounted, for cargo sling or cargo swing operations the 
+ maximum weight including the external load may be 6173 lb. 
+ 1) 
+ at least 1212 pounds of the external load are releasable and 
+ 2) 
+ the rotorcraft is operated in accordance with the appropriate RFM and 
+ a) Eurocopter France supplement 12 to that DGAC approved Manual, dated July 16, 
+ 2004 later EASA/DGAC approved revision for the cargo swing or 
+ b) Eurocopter France supplement 13.1 to that DGAC approved Manual, dated July 16, 
+ 2004 or later EASA/DGAC approved revision for the cargo sling. 
+ c) Eurocopter France supplement 13.2 to that DGAC approved Manual, dated Feb 15, 
+ 2005 or later EASA/DGAC approved revision for the cargo swing. 
+ For AS 350B3 model, Arriel2D mounted, for cargo sling or cargo swing operations the 
+ maximum weight including the external load may be 6173 lb. 
+ 1) 
+ at least 1212 pounds of the external load are releasable and 
+ 2) 
+ the rotorcraft is operated in accordance with the appropriate RFM and 
+ a) Eurocopter France supplement 12 to that EASA approved Manual, dated June 17, 
+ 2011 later EASA approved revision for the cargo swing or 
+ b) Eurocopter France supplement 13.1 to that EASA approved Manual, dated June 17, 
+ 2011 or later EASA approved revision for the cargo sling. 
+ c) Eurocopter France supplement 13.2 to that EASA approved Manual, dated June 17, 
+ 2011 or later EASA approved revision for the cargo swing."
+NOTE 7,"Emergency fuels: 
+ For AS 350B3 model, Arriel2B mounted 
+ A. 
+ Use of aviation gasoline MIL-G-5572, Grade 80/87; Grade 110/130 and Grade 115/145 is 
+ limited to 25 hours maximum within one overhaul period and should have 2% mineral 
+ lubricating oil added, if possible. In addition, the use of Grade 115/145 is limited 
+ operations below 1500 feet pressure altitude. 
+ C. 
+ Use of automotive gasoline MIL-G-3056 is limited to a fuel temperature up to 25°C. 
+ For AS 350B3 model, Arriel2B1 or Arriel2D mounted 
+ No emergency fuel"
+NOTE 8,"For AS 350B, the aural warning sounds when the rotor speed drops below: 
+ 335 rpm before embodiment of modification AMS 07.1891 
+ 360 rpm before embodiment of modification ASM 07.1891 
+ For AS350BA, AMS 07.1891 is applied."
+NOTE 9,"The model AS350B3, EC 130B4 and EC130T2 rotorcraft employs electronic engine controls, 
+ commonly named Full authority Digital Engine Controls (FADEC) and is recognized to be more 
+ susceptible to Electromagnetic Interference (EMI) than rotorcraft that have only manual (non- 
+ electronic) controls. (EMI may be the result of radiated or conducted interference.) For this reason 
+ modifications that add or change systems that have the potential for EMI, must either be qualified 
+ to a standard acceptable to the FAA or tested at the time of installation for interference to the 
+ FADEC. This type of testing must employ the particular FADEC’s diagnostic techniques and 
+ external diagnostic techniques. The test procedure must be FAA approved."
+NOTE 10,"Helibras (Brazil) has signed with Eurocopter (France) a technical cooperation agreement contract to 
+ manufacture in Brazil the AS 350 BA, AS 350 B2 and AS 350 B3 models using kits produced by 
+ Eurocopter, in conformity to the DGAC France approved Type design. Helibras helicopters are 
+ produced under the Helibras Production Certificate, assembled and tested in accordance with 
+ procedures approved under the French Type design by Eurocopter and accepted by the Centro 
+ Tecnico Aeroespacial (CTA) under the terms and conditions of the Helibras Production Certificate. 
+ Helicopter serial numbers produced by Helibras as the manufacturer are identified in Eurocopter 
+ document number L102 001, entitled “List of serial numbers of stage 2 helicopters produced by 
+ Helibras” referenced in both the French and the Brazilian Type Certificate Data Sheets (See Import 
+ Requirements)."
+NOTE 11,"Helicopters with a model prefix of “HB” as in “HB 350 B” are not eligible for airworthiness 
+ certification in the U.S."
+NOTE 12,"Effective January 1, 2014, Eurocopter France name was changed to Airbus Helicopters."
+NOTE 13,"The AS350B3 model helicopter which type design incorporates the Arriel 2D engine installation 
+ has the commercial designation AS350B3e."
+NOTE 14,"Model AS350C helicopters are ineligible for U.S. certificate of airworthiness due to Airbus 
+ Helicopters surrendering the type design, and EASA subsequently cancelling it on June 01, 1997."
+NOTE 15,"Model AS350D1 helicopters are ineligible for U.S. certificate of airworthiness due to Airbus 
+ Helicopters surrendering the type design, and EASA subsequently cancelling it on December 14, 
+ 2000."
+NOTE 16,"Title 49 U.S.C. Section 44737 Requires that new-production of old-designed rotorcraft are 
+ compliant with the requirements of paragraphs (1), (2), (3), (5), and (6) of 14 CFR §27.952(a), 
+ §27.952(c), §27.952(f), §27.952(g), §27.963(g) (but allowing for a minimum puncture force of 250 
+ pounds if successfully drop tested in-structure), and §27.975(b). or employ other means acceptable 
+ to the Administrator to provide an equivalent level of fuel system crash resistance."

@@ -1,0 +1,709 @@
+Keyterm,Info
+"A59NM 
+ Revision 9 
+ DASSAULT AVIATION 
+ FALCON 7X 
+ March 28, 2022",
+Type Certificate Holder,"Dassault Aviation 
+ 9 Rond Point Marcel Dassault 
+ 75008 PARIS 
+ FRANCE 
+ The U.S. airworthiness certification basis for aircraft type certificated under FAR Section 21.29 and exported by the 
+ country of manufacture is FAR Sections 21.183(c) or 21.185(c). 
+ The U.S. airworthiness certification basis for aircraft type certificated under FAR Section 21.29 exported from 
+ countries other than the country of manufacture (e.g. third party country) is FAR 21.183(d) or 21.185(b). 
+ Notwithstanding that the FAR referenced in the above paragraph does not specifically address or require a foreign 
+ civil airworthiness authority certification, such certification is the only practical way for an applicant to show, and 
+ the Federal Aviation Administration (FAA) to find conformity to the FAA-approved type design and conditions for"
+safe operation,"Engines, Propellers, and Related Products Imported into the United States."
+"I. Model Falcon 7X (Transport Category) approved April 27, 2007 
+ a Basic Model Definition",
+Engines,"3 engines. PRATT & WHITNEY CANADA Corp. - Model PW307A 
+ (see NOTE 3b)"
+Engine Limits,"Static, Standard, Sea Level 
+ Take-off (5 min) 
+ 6,405 lb 
+ (2,849 daN) 
+ 6,725 lb 
+ (2,910 daN) with M1000 
+ Maximum Continuous 
+ 6,405 lb 
+ (2,849 daN) 
+ 6,725 lb 
+ (2,910 daN) with M1000 
+ For other limits refer to engine TC Data Sheet E00071EN or the FAA approved 
+ Airplane Flight Manual"
+Thrust Reversers,Engine is approved for operation with thrust reverser p/n F7XC782140020
+Page,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10"
+Revision,"9 
+ 2 
+ 6 
+ 2 
+ 8 
+ 5 
+ 2 
+ 9 
+ 6 
+ 6"
+APU,Honeywell Model 36-150 (FN)
+APU Limits,"APU is usable for ground operation only. 
+ For other limits refer to the Airplane Flight Manual"
+Airspeed Limits,"Unless otherwise stated, speeds are indicated airspeeds 
+ VMO 
+ at sea level .................................................................. 
+ 350 kts 
+ VMO 
+ straight line variation up to 10,000 ft .......................... 
+ 370 kts 
+ VMO 
+ from 10,000 ft to 28,000 ft ........................................ 
+ 370 kts 
+ MMO 
+ from 28,000 to 51,000 ft ............................................ 
+ 0.9 
+ VA .......... maneuvering speed .................................................... 
+ 218 kts 
+ VFE 
+ SF1 ............................................................................ 
+ 200 kts 
+ SF2 ............................................................................ 
+ 190 kts 
+ SF3 ............................................................................. 
+ 180 kts 
+ Note : Above 20,000 ft, do not establish, nor maintain a configuration with the 
+ slats and the flaps extended 
+ VLO 
+ Landing gear operation .............................................. 
+ 200 kts 
+ MLO 
+ .................................................................................... 
+ 0,70 
+ VLE 
+ Landing gear extended ............................................... 
+ 245 kts 
+ MLE 
+ .................................................................................... 
+ 0,75 
+ VMCA 
+ minimum control speed in flight ................................. 
+ 80 kts (CAS) 
+ VMCG 
+ minimum control speed on ground ......................... 81.3 kts (CAS)"
+Maximum Operating Altitude,"51,000 ft (15,544 m) 
+ Mean Aerodynamic chord (MAC) Mean aerodynamic chord (MAC): 131.793 in (3,347.54 mm)"
+And Datum,"Datum is 25% of mean aerodynamic chord (MAC) 479.646 in (12,183 mm) from 
+ the forward end of the aircraft nose cone. 501.646 in (12741 mm) with M1000"
+Leveling Means,"Aircraft is leveled in the longitudinal and lateral axis by means of a plumb bob 
+ and target in the left main landing gear bay"
+Weight and CG Limitations,"Weight 
+ FWD limit 
+ Aft limit 
+ Kg 
+ lbs 
+ % MAC 
+ % MAC 
+ Minimum flight - Aft 
+ 14,696 
+ 32,400 
+ N/A 
+ 38.5 
+ Minimum flight - Forward 
+ 15,694 
+ 34,600 
+ 26.0 
+ N/A 
+ Maximum zero fuel 
+ 18,597 
+ 41,000 
+ 19.5 
+ 38.5 
+ Maximum landing 
+ 28,304 
+ 62,400 
+ 19.5 
+ 37.35 
+ Maximum for aft CG at 38.5 % 
+ 25,890 
+ 57,076 
+ 19.5 
+ 38.5 
+ Maximum takeoff 
+ 31,751 
+ 70,000 
+ 19.05 
+ 33.65 
+ Maximum ramp 
+ 31,842 
+ 70,200 
+ 19.5 
+ 31.5 
+ With modification M1000 installed 
+ Weight 
+ FWD limit 
+ Aft limit 
+ Kg 
+ lbs 
+ % MAC 
+ % MAC 
+ Minimum flight - Aft 
+ 14,696 
+ 32,400 
+ N/A 
+ 38.5 
+ Minimum flight - Forward 
+ 15,694 
+ 34,600 
+ 26.6 
+ N/A 
+ Maximum zero fuel 
+ 18,597 
+ 41,000 
+ 19.5 
+ 38.5 
+ Maximum landing 
+ 28,304 
+ 62,400 
+ 19.5 
+ 37.35 
+ Maximum for aft CG at 38.5 % 
+ 25,890 
+ 57,076 
+ 19.5 
+ 38.5 
+ Maximum takeoff 
+ 33,112 
+ 73,000 
+ 19.54 
+ 27.73 
+ Maximum ramp 
+ 33,203 
+ 73,200 
+ 19.62 
+ 27.00 
+ For weight and balance calculation refer to the Falcon 7X Loading Manual (DGT 
+ 108840) / Falcon 7X-M1000 Loading Manual (DGT 147688) - (See note 1)"
+Minimum Crew,2 - Pilot and copilot
+Maximum Passenger Seats,"19 - limited by emergency exit requirements of Federal Aviation Regulations § 
+ 25.807(c). (See note 2) 
+ Ferry flight configuration (0 passenger provisions) is defined by Dassault modifications 
+ M0272 and M0163"
+Maximum Baggage,"Baggage compartment: 2004 lb (909 kg), not to exceed 61.4 lb/ft2 (300 kg per 
+ square meter)"
+Exits,"Type 
+ Size 
+ 1 Passenger door 
+ I 
+ 0.800 x 1.72 m /(31.50 x 67.72 in) 
+ 1 Emergency exit 
+ III 
+ 0.534 x 0.916 m /(21.02 x 36.06 in)"
+Dimensions,"With Modification M1000 
+ Length 
+ 920.47 in 
+ 23.38 m 
+ 24.46 m 
+ Span 
+ 1031.89 in 
+ 26.21 m 
+ 26.28 m 
+ Height 
+ 312.20 in 
+ 7.93 m 
+ 7.93 m 
+ Gross wing 
+ 761.008 ft2 
+ 70.7 m² 
+ 70.7 m 
+ area"
+Fuel Capacity,"Numbers in ( ) indicate capacity associated with modification M1000 
+ USABLE 
+ Liters 
+ kg (*) 
+ US Gallons 
+ lbs (*) 
+ FUEL 
+ Left circuit 
+ 5944/(6359) 
+ 4773/(5106) 1570/(1680) 
+ 10522/(11257) 
+ Right circuit 
+ 5944/(6383) 
+ 4773/(5126) 1570/(1686) 
+ 10522/(11301) 
+ Center circuit 
+ 6154/(7108) 
+ 4942/(5708) 1626/(1878) 
+ 10896/(12583) 
+ Total usable 
+ 18042/(19850) 
+ 14488/(15940) 4766/(5244) 
+ 31940/(35141) 
+ UNUSABLE 
+ FUEL 
+ Drainable 
+ 65/(68) 
+ 52/(54) 
+ 17/(18) 
+ 115/(120) 
+ Undrainable 
+ 41/(48) 
+ 33/(39) 
+ 11/(13) 
+ 72/(85) 
+ Total 
+ 106/(116) 
+ 85/(93) 
+ 28/(31) 
+ 187/(205) 
+ unusable 
+ * assuming a fuel density of 0,803 kg/liter"
+Oil Capacity,"Liters 
+ kg (**) 
+ US gallons 
+ lbs (**) 
+ Max oil level 
+ Left engine 
+ 7.87 
+ 7.67 
+ 2.08 
+ 16.90 
+ Right engine 
+ 7.87 
+ 7.67 
+ 2.08 
+ 16.90 
+ Center engine 
+ 7.87 
+ 7.67 
+ 2.08 
+ 16.90 
+ Total 
+ 23.61 
+ 23.01 
+ 6.24 
+ 50.70 
+ Min oil level 
+ Left engine 
+ 6.23 
+ 6.07 
+ 1.64 
+ 13.38 
+ Right engine 
+ 6.23 
+ 6.07 
+ 1.64 
+ 13.38 
+ Center engine 
+ 6.23 
+ 6.07 
+ 1.64 
+ 13.38 
+ Total 
+ 18.69 
+ 18.21 
+ 4.92 
+ 40.14 
+ (*) 
+ Tank quantities do not include undrainable oil or residual oil in the 
+ Accessory Gearbox, oil filter bowl or air-cooled oil cooler (ACOC) 
+ (**) Based on specific gravity of 0.975 
+ Approved Fuel, oils and additives : 
+ Refer to the Airplane Flight Manual."
+Control Surface Movements,"Elevator 
+ Down 25° 
+ Up 16° 
+ Rudder 
+ Right 29° 
+ Left 29° 
+ Aileron 
+ Up 25° 
+ Down 25° 
+ Flaps 
+ Down 40° 
+ Airbrakes 
+ Inboard up 50° 
+ Outboards up 30° 
+ Spoilers 
+ up 80° 
+ Wing slats 
+ Inboard down 20° 
+ Median down 35° 
+ Outboard down 35° 
+ Horizontal Stabilizer 
+ Down 12° 
+ Up 2°"
+Serial Numbers Eligible,"Serial numbers 0001 through 0400. 
+ (b) Falcon 8X Definition (Approved June 27, 2016)"
+"The Falcon 8X does not correspond to a model designation. The Falcon 8X is only a commercial designation for 
+ stretch version of the Falcon 7X airplanes that incorporates modifications M1000 and M1254 (EASy III) installed at 
+ production. This Falcon 7X version incorporates Pratt & Whitney PW307D engines. 
+ M1000 is basic on all Falcon 7X aircraft starting with serial number 0401. 
+ Import Requirements 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the 
+ United States of both new and used aircraft based on the scope of the agreement, 
+ to identify any required statements by the exporting authority on the export 
+ certificate of airworthiness (or equivalent document), and for procedures for 
+ coordinating exceptions to conformity statements on these documents. Refer to 
+ FAA Order 8130.2, Airworthiness Certification of Aircraft, for requirements for 
+ issuance of an airworthiness certificate for imported aircraft. 
+ Certification Basis 
+ (a) For Falcon 7X (basic model) 
+ 1. 14 CFR part 25, effective February 1, 1965, including Amendments 25-1 
+ through 25-111 in entirety 
+ 2. The following special conditions in accordance with 14 CFR part 11 : 
+ (a) No. 25-343-SC Pilot Compartment View – Hydrophobic Coatings in Lieu 
+ of Windshield Wipers 
+ (b) No. 25-346-SC Interaction of System and Structure 
+ (c) No. 25-346-SC Limit Pilot Forces 
+ (d) No. 25-346-SC High Intensity Radiated Fields (HIRF) Protection 
+ (e) No. 25-349-SC Side Stick Controllers 
+ (f) No. 25-349-SC Electronic Flight Control System: Lateral-Directional and 
+ Longitudinal Stability and Low Energy Awareness 
+ (g) No. 25-349-SC Electronic Flight Control System: Flight Control Surface 
+ Position Awareness 
+ (h) No. 25-349-SC Electronic Flight Control System: Flight Characteristics 
+ Compliance Via Handling Qualities Rating Method (HQRM) 
+ (i) No. 25-349-SC Flight Envelope Protection: General Limiting Requirements 
+ (j) No. 25-349-SC Flight Envelope Protection: High Incidence Protection 
+ Function 
+ (k) No. 25-349-SC Flight Envelope Protection: Normal Load Factor (G) 
+ Limiting 
+ (l) No. 25-349-SC Flight Envelope Protection: Pitch, Roll And High Speed 
+ Limiting Functions 
+ (m) No. 25-350-SC Sudden Engine Stoppage 
+ (n) No. 25-350-SC Operation Without Normal Electrical Power 
+ (o) No. 25-350-SC Dive Speed Definition with Speed Protection System 
+ (p) No. 25-351-SC Design Roll Maneuvering Conditions 
+ (q) No. 25-410-SC Enhanced Flight Visibility System 
+ (r) No. 25‐711‐SC, Non‐Rechargeable Lithium Batteries, effective to design 
+ changes applied for after January 18, 2018. See the applicability section of 
+ this special condition for more information on which design changes must 
+ meet it. 
+ NOTE: The FAA Special Conditions referenced above may be accessed at internet 
+ location: 
+ http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgSC.nsf/MainFrame?Op 
+ enFrameSet 
+ 3. Equivalent Level of Safety Findings according to the provisions of 14 CFR 
+ 21.21(b)(1) for the following subjects: 
+ (a) Section 25.671: Control Systems - General (documented in TAD ELOS 
+ Memo TC0030IB-T-A-6) 
+ (b) Section 25.331(c)(2): Pitch Maneuver Conditions (documented in TAD 
+ ELOS Memo TC0030IB-T-A-8) 
+ (c) Section 25.811(d)(1), (d)(3): Emergency Exit Marking (documented in 
+ TAD ELOS Memo TC0030IB-T-C-2) 
+ (d) Section 25.1305 Powerplant Instruments (documented in TAD ELOS Memo 
+ TC0030IB-T-P-5) 
+ (e) Section 25.933(a)(1)(ii) Reversing Systems (documented in TAD ELOS 
+ Memo TC0030IB-T-P-7) 
+ (f) Section 25.971(a),(b): Fuel Tank Sump (documented in TAD ELOS Memo 
+ TC0030IB-T-P-12) 
+ (g) Section 25.1549(b) – Powerplant and auxiliary power unit instruments 
+ (documented in TAD ELOS Memo TC0030IB-T-P-13) 
+ (h) Section 25.841(b)(6) – Pressurized Cabins (documented in TAD ELOS 
+ Memo TC0030IB-T-SE-13) 
+ (i) Section 25.831(g) - Ventilation (documented in TAD ELOS Memo 
+ TC0030IB-T-SE-20) 
+ (j) Section 25.1459(a)(2) – Flight Recorders (documented in TAD ELOS 
+ Memo TC0030IB-T-SE-22) 
+ (k) Section 25.809(b) - Emergency Exit Arrangement (documented in TAD 
+ ELOS Memorandum AT10010IB-T-CI-101) 
+ (l) Sections 25.809(b) and 25.813(c)(2)(ii) - Emergency Exit Access 
+ (documented in TAD ELOS Memorandum AT10010IB-T-CI-101) 
+ (m) Section 25.813(c)(2) “Emergency Exit Access” (documented in TAD ELOS 
+ Memo SP00843IB-T 
+ NOTE: The FAA Equivalent Level of Safety memos referenced above may be accessed 
+ at internet location: 
+ http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgSC.nsf/MainFrame?Op 
+ enFrameSet 
+ 4. Exemptions for the following requirement: 
+ (a) Exemption No. 8792, 14 CFR part 25, Section 25.785(b) Side Facing Sofas 
+ (b) Exemption No. 9117, 14 CFR part 25, Section 25.901(c) Uncontrolled High 
+ Engine Thrust 
+ (c) Exemption No. 9148, 14 CFR part 25, Section 25.981(a)(3) Fuel Tank 
+ Ignition Prevention 
+ (c)(d) 
+ Exemption No. 9506A, 14 CFR part 25, Section 25813(e) Emergency 
+ Exit Access 
+ NOTE: The FAA Exemptions referenced above may be accessed at internet location: 
+ http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgEX.nsf/MainFrame?Op 
+ enFrameSet 
+ 5. Optional Design Regulations: 
+ (a) Ditching 
+ Sections 25.801, 25.1411(d), (e), (f), (g) and 25.1415 
+ (b) Ice Protection Section 25.141 
+ 6. Environmental Standards 
+ 14 CFR part 36, amendment 36-26. 
+ 14 CFR part 34, effective September 10, 1990, including amendment 34-3. 
+ (b) Falcon 7X airplanes incorporating M1000 (Falcon 8X definition) 
+ 1) 
+ The type certification basis, for the Model Falcon 7X 
+ M1000 project (commercially designated as the Model Falcon 8X), 
+ is the original certification basis for the Model Falcon 7X shown 
+ above, plus the following: 
+ Section No. 
+ Title 
+ Amdt 
+ 25- 
+ System/Area 
+ 25.21(g) 
+ Falcon 7X 
+ M1000 airplane 
+ Proof of 
+ in Icing (except 
+ Compliance 
+ 135 
+ 25.105(a), 
+ 25.111(c), and 
+ 25.121(b)(c)) 
+ 25.107(c),(g),(h) 
+ Take-off Speeds 
+ 121 
+ Falcon 7X 
+ M1000 airplane 
+ 25.107(e) 
+ Take-off Speeds 
+ 135 
+ Falcon 7X 
+ M1000 airplane 
+ 25.111(c) 
+ Take-off Path 
+ 115 
+ Falcon 7X 
+ M1000 airplane 
+ 25.119 
+ Landing Climb 
+ 121 
+ Falcon 7X 
+ M1000 airplane 
+ 25.121(d) 
+ Climb 
+ 121 
+ Falcon 7X 
+ M1000 airplane 
+ 25.123 
+ En-route flight 
+ paths 
+ 121 
+ Falcon 7X 
+ M1000 airplane 
+ 25.125 
+ Landing 
+ 121 
+ Falcon 7X 
+ M1000 airplane 
+ 25.143(c),(e),(f),(g),(h),(i) 
+ General 
+ 121 
+ Falcon 7X 
+ M1000 airplane 
+ 25.143(j) 
+ General 
+ 129 
+ Falcon 7X 
+ M1000 airplane 
+ 25.147(d) 
+ Directional and 
+ lateral control 
+ 115 
+ Falcon 7X 
+ M1000 airplane 
+ 25.161(c) 
+ Trim 
+ 115 
+ Falcon 7X 
+ M1000 airplane 
+ 25.207(b),(h),(i) 
+ Stall warning 
+ 129 
+ Falcon 7X 
+ M1000 airplane 
+ 25.207(e),(f),(g) 
+ Stall warning 
+ 121 
+ Falcon 7X 
+ M1000 airplane 
+ 25.237(a) 
+ Wind velocities 
+ 121 
+ Falcon 7X 
+ M1000 airplane 
+ 25.253 
+ High-speed 
+ 135 
+ Falcon 7X 
+ characteristics 
+ M1000 airplane 
+ 25.571(a),(b) 
+ Damage- 
+ 132 
+ T34 Section 
+ tolerance and 
+ frames 12 to 
+ fatigue evaluation 
+ 12bis and frames 
+ of structure 
+ 28bis to 29 
+ 25.613(b),(c),(d),(e),(f) 
+ Material strength 
+ 112 
+ T34 Section 
+ properties and 
+ frames 12 to 
+ design values 
+ 12bis and frames 
+ 28bis to 29 
+ 25.677(b) 
+ Trim System 
+ 115 
+ Horizontal 
+ Stabilizer 
+ 25.729(a),(b),(e),(f) 
+ Retracting 
+ Mechanism 
+ 136 
+ Main Landing 
+ Gear 
+ 25.812(g) 
+ Emergency 
+ Lighting 
+ 116 
+ Cabin, Winglet 
+ 25.812(h) 
+ Emergency 
+ Lighting 
+ 128 
+ Cabin, Winglet 
+ 25.973 
+ Fuel Tank Filler 
+ Connection 
+ 115 
+ Wing Fuel Tanks 
+ 25.1322 (a), (e) 
+ Flight Crew 
+ Alerting 
+ 131 
+ FalconEye 
+ System 
+ 2. Noise Standards 
+ 14 CFR part 36 as amended by Amendments 36-1 through 36-28. 
+ 3. Fuel Venting and Exhaust Emissions Standards 
+ 14 CFR Part 34 as amended by Amendments 34-1 through 34-5A. 
+ 4. Means of Compliance Issue Papers: In addition to the regulatory basis 
+ noted in the preceding sections, the FAA has established certain “means of 
+ compliance” in issue papers applicable to the Dassault Falcon 7X M1000 
+ certification program. 
+ The means of compliance issue papers applicable for Falcon 7X initial product, 
+ supplemented by the certification bases of all other affected F7X major changes 
+ up to the M1000 project time of application, are considered to be applicable for 
+ F7X M1000 project. The list of these issue papers is amended by the following 
+ means of compliance raised for the specified F7X M1000 project subject areas. 
+ Airframe 
+ IP A-01 Fuel Tanks Emergency Landing Conditions 
+ Cabin Safety 
+ At this time, no new Cabin Safety subjects identified as potential means of 
+ compliance 
+ Flight 
+ A Cover IP to CRI B-09 “Landing Distance On Smooth Wet Runways” is to be 
+ addressed by FAA 
+ Noise 
+ IP N-01 Noise Level Evaluation Requirement 
+ Propulsion 
+ At this time, no new Propulsion subjects identified as potential means of 
+ compliance 
+ Systems & Software 
+ At this time, no new Systems & Software subjects identified as potential means 
+ of compliance 
+ Dassault document DGT131264 identifies the complete agreed upon 
+ certification basis for the F7X M1000 project 
+ The European Aviation Safety Agency (EASA) originally type certificated this 
+ aircraft under its type certificate Number A.155. The FAA validated this product 
+ under U.S. Type Certificate Number A59NM issued April 27, 2007. 
+ Type Definition 
+ The type definition is defined by F7TC which is stored in an electronic format 
+ under the virtual product management tool ENOVIA/VPM©. The repository of 
+ the ENOVIA/VPM© database is located in Dassault Aviation facilities. 
+ (See note 5) 
+ Equipment 
+ The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see certification basis) must be installed on the aircraft for 
+ certification. The lists of all equipment as well as optional equipment approved 
+ by European Aircraft Safety Agency (EASA) are contained in the F7TC version 
+ stored in an electronic format under the virtual product management tool 
+ ENOVIA/VPM©. 
+ In addition, the aircraft must be operated in accordance with the FAA approved 
+ FALCON 7X Airplane Flight Manual, document DGT 105608. 
+ Service Information 
+ Each of the documents listed below that contain a statement that it is approved 
+ by the European Aviation Safety Agency (EASA) are accepted by the FAA and 
+ are considered FAA approved. 
+ • Dassault Aviation Service Bulletins, except as noted below, 
+ • Structural repair manuals, 
+ • Vendor manuals referenced in Dassault Aviation service bulletins 
+ • Aircraft flight manuals, 
+ • Repair Instructions. 
+ Additionally, approvals issued by Dassault Aviation under the authority of 
+ EASA approved Design Organization DOA EASA.21J.051 are considered FAA 
+ approved. These approvals pertain to the type certificate only such as changes to 
+ type design, repair/unrepair of damages. 
+ Note: Design changes that are contained in Dassault Aviation Service Bulletins 
+ and that are classified as Level 1 Major in accordance with US/France Bilateral 
+ Aviation Safety Agreement Implementation Procedures for Airworthiness must 
+ be approved by the FAA. 
+ FALCON 7X Operating and Service Instructions 
+ The aircraft must be operated according to the EASA approved Airplane Flight 
+ Manual DGT 105608 for the basic Falcon 7X. The aircraft must be operated 
+ according to the EASA approved Airplane Flight Manual DGT 147681 for the 
+ Falcon 7X M1000 airplanes (Falcon 8X). 
+ Instructions for Continued Airworthiness and Airworthiness Limitations, 
+ included in FIELD publications, that consist of: 
+ • Airworthiness Limitation Section (Chapter 5-40 reference DGT 107838) 
+ • Maintenance Planning Document (Chapter 5): 
+  Reference: DGT 125953 applicable to S/N 001to S/N 400 (modification 
+ M1000 not included) 
+  Reference: DGSM 151456 applicable to S/N 401 and up (modification 
+ M1000 included) 
+ • Airplane Maintenance Manual 
+ • Fault Isolation Manual 
+ • Illustrated Parts Catalog (part list only) 
+ • Structural Repair Manual (Part 1) 
+ • Wiring Diagram Manual 
+ NOTES 
+ NOTE 1 - Weight and Balance 
+ (a) - A current weight and balance report must be carried in the aircraft at all times from the moment the 
+ aircraft is originally certified. 
+ (b) - Loading of the aircraft must be accomplished in a manner that always maintains the center of gravity 
+ within the specified limits considering crew and passenger movements as well as fuel consumption and 
+ transfer. 
+ NOTE 2 - Cabin interior and seating configuration must be approved. 
+ NOTE 3 - Service Life Limits and required Maintenance/Inspections 
+ (a) 
+ Airframe components which are life limited, and associated retirement times, are presented in chapter 
+ 5.40.00 of the FALCON 7X Maintenance Manual, approved by EASA, and must be replaced as 
+ indicated therein. 
+ (b) 
+ PW307A engine life limits, established for critical rotating components, are published in the approved 
+ PW307A Airworthiness limitation manual 30P0422 
+ (c) Required maintenance and inspections to maintain airworthiness based on involving reliability are 
+ presented in chapter 5.40.00 of the FALCON7X Maintenance Manuals approved by EASA. 
+ NOTE 4 - The FALCON 7X has been approved to operate in “Reduced Vertical Separation Minimum” (RVSM) 
+ airspace when the airplanes are operated in accordance with Airplane Flight Manual page 1-300-05. 
+ Continued airworthiness and operational approval aspects of RVSM must be constructed according to 
+ Advisory Circular (AC) 91-RVSM, titled “Approval of Aircraft and Operators for Flight in Airspace 
+ Above Flight Level (FL) 290 Where a 1,000 Foot Vertical Separation Minimum is Applied.” 
+ NOTE 5 - The use of electronic technology and alternative methods of data storage for the type definition of the 
+ FALCON 7X is managed in accordance with the procedures and documents defined in EASA CRI A-02 
+ and Dassault document 00-113A-02, and is accepted by the FAA. 
+ the associated causal failures listed within Dassault Document DGT-DTC/CER 322496, may endanger the 
+ safe operation of an airplane. Consequently, the FAA recommends that operators be encouraged to report 
+ such failures in accordance with §§ 121.703(c), 125.409(c), and 135.415(c). 
+ NOTE 7 – An approved change to the AFM and ALS can be released either through a full revision of the manual or 
+ through a Change Project (CP) number bearing the same reference as the related manual.",

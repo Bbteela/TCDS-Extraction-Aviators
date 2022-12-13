@@ -1,0 +1,480 @@
+Keyterm,Info
+"H12EU 
+ Revision 7 
+ WESTLAND 30 
+ Series 100 
+ Series 100-60 
+ July 11, 2000",
+NOTE 13,"This type certificate is canceled effective July 11, 2000 and is not valid for aircraft manufactured after this 
+ date. This cancellation also invalidates, and precludes issuance of, any U.S. Certificates of Airwothiness 
+ TYPE CERTIFICATE DATA SHEET No. H12EU 
+ This data sheet which is part of Type Certificate No. H12EU prescribes conditions and limitations under which the product for 
+ which the Type Certificate was issued meets the airworthiness requirements of the Federal Aviation Regulations."
+Type Certificate Holder,"Westland Helicopters Limited 
+ Yeovil, Somerset 
+ England"
+"I. Model Westland 30 series 100 (Transport Helicopter, Category A and B), Approved December 1, 1982. 
+ See NOTE 5",
+Engine,Two Rolls Royce LTD GEM Mk 510 free turbine engines.
+Fuel,Refer to Westland 30 Flight Manual for approved fuels and additive specifications.
+See NOTE 8,"Output Shaft 
+ Output Shaft 
+ Gas 
+ Horsepower 
+ RPM 
+ Generator 
+ Turbine 
+ (Torque) 
+ Maximum 
+ RPM 
+ Inlet 
+ Normal Operation 
+ Take off ( 5 min.) 
+ 938 per engine 
+ 6287 
+ 44,000 
+ 660 
+ (115%, 784 ft-lb) 
+ Maximum Continuous 
+ 938 per engine 
+ 6287 
+ 43,400 
+ 635 
+ (115%, 784 ft-lb) 
+ One Engine Inoperative 
+ 2 1/2 Min Power 
+ 1131 
+ 6226 
+ 44,600 
+ 690 
+ (140% 954 ft-lb) 
+ 30 Min Power 
+ 1039 
+ 6256 
+ 44,300 
+ 675 
+ (128% 872 ft-lb) 
+ Maximum Continuous 
+ 938 
+ 6287 
+ 43,400 
+ 635 
+ (See NOTE 9) 
+ 115% 784 ft-lb) 
+ Starting Momentary 
+ 720"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10"
+Rev No,"7 
+ 7 
+ 7 
+ 7 
+ 7 
+ 7 
+ 7 
+ 7 
+ 7 
+ 7 
+ Power Off 
+ Power On 
+ Maximum (Steady State) 
+ 355 
+ (108.9%) 
+ 348 
+ (106.8%) 
+ Maximum (Transient) 
+ 383 
+ (117.5%) 
+ 359 
+ (110.3%) 
+ Minimum (Steady State) 
+ 300 
+ (92.0%) 
+ 316 
+ (97.0%) 
+ Minimum (Transient) 
+ 250 
+ (76.7%) 
+ 250 
+ (76.7%)"
+Airspeed Limits,"Never-exceed-speed 120 knots IAS at sea level, and 12,350 lbs gross weight. See 
+ Helicopter Flight Manual for speed limit decrease with weight and altitude."
+CG Range,Longitudinal:
+Lateral,Lateral C.G. positions for all normally attainable loading are cleared.
+Empty Weight CG Range,See Rotorcraft Flight Manual.
+Datum,Rotor center line.
+Leveling Means,Three plates on the left side of transmission support platform.
+Maximum Weight,"12,350 lb."
+Minimum Crew,"1 pilot, VFR; 2 pilots IFR (See NOTE 5)."
+Maximum Passengers,19
+Maximum Baggage,See Rotorcraft Flight Manual.
+Fuel Capacity,"Forward Tank 
+ Aft Tank 
+ Maximum 
+ 175.7 (-81.7) 
+ 175.6 (62.3) 
+ Usable 
+ 171.6 (-81.7) 
+ 173.7 (62.3) 
+ Residual 
+ 1.2 (-81.7) 
+ 1.2 (54.0) 
+ Unusable 
+ 2.9 (-81.7) 
+ 0.7 (54.0)"
+US gals moment arm in,"Engine 
+ 2x1.2 
+ (34.5) 
+ Main gearbox 
+ 6.7 
+ (14.0) 
+ Intermediate gearbox 
+ 0.2 
+ (196.0) 
+ Tail rotor gearbox 
+ 0.3 
+ (317.7)"
+Maximum Operating Altitude,"See Rotorcraft Flight Manual. 
+ For rigging information, refer to the Maintenance Manual."
+"II. Model Westland 30 series 100-60 (Transport Helicopter, Category A and B), Mod ZY 688 (See NOTE 5), Approved 
+ August 27 1984",
+Engine,Two Rolls Royce Ltd GEM Mk 530 (FAA Type Certificate Ref. # E19NE)
+Fuel,Refer to Westland 30 Flight Manual for approved fuels and additive specifications.
+See NOTE 8,"Output Shaft 
+ Output Shaft 
+ Gas 
+ Horsepower 
+ RPM 
+ Generator 
+ Turbine 
+ (Torque) 
+ Maximum 
+ RPM 
+ Inlet 
+ Normal Operation 
+ Take off (5 min.) 
+ 947 per engine 
+ 6348 
+ 35,980 
+ 686 
+ (94%, 784 ft-lb) 
+ Maximum Continuous 
+ 947 per engine 
+ 6348 
+ 35,650 
+ 680 
+ (94%, 784 ft-lb) 
+ One Engine Inoperative 
+ 2 1/2 Min Power 
+ 1142 
+ 6287 
+ 36,800 
+ 708 
+ (114% 954 ft-lb) 
+ 30 Min Power 
+ 1047 
+ 6306 
+ 35,980 
+ 686 
+ (104.5% 872 ft-lb) 
+ Maximum Continuous 
+ 947 
+ 6348 
+ 35,650 
+ 680 
+ (See NOTE 9) 
+ (94% 784 ft-lb) 
+ Starting Momentary 
+ 720"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum (Steady State) 
+ 355 
+ (108.9%) 
+ 336 
+ (103%) 
+ Maximum (Transient) 
+ 383 
+ (117.5%) 
+ 359 
+ (110%) 
+ Minimum (Steady State) 
+ 300 
+ (92.0%) 
+ 319 
+ (98.0%) 
+ Minimum (Transient) 
+ 250 
+ (77%) 
+ 250 
+ (77%)"
+Airspeed limits,"Never-exceed-speed 120 knots IAS at sea level, and 12,350 lbs gross weight. See"
+KTS IAS,Helicopter Flight Manual for speed limit decrease with weight and altitude.
+CG Range,Longitudinal:
+Lateral,Lateral C.G. positions for all normally attainable loadings are cleared.
+Empty Weight CG Range,See Rotorcraft Flight Manual.
+Datum,Rotor center line.
+Leveling Means,Three plates on the left side of transmission support platform.
+Maximum Weight,"12,350 lb."
+Minimum Crew,"1 pilot, VFR; 2 pilots IFR (See NOTE 5)."
+Maximum Passengers,19
+Maximum Baggage,See Rotorcraft Flight Manual.
+Fuel to ASTM D1655,"Forward Tank 
+ Aft Tank 
+ Maximum 
+ 175.7 (-81.7) 
+ 175.6 (62.3) 
+ Usable 
+ 171.6 (-81.7) 
+ 173.7 (62.3) 
+ Residual 
+ 1.2 (-81.7) 
+ 1.2 (54.0) 
+ Unusable 
+ 2.9 (-81.7) 
+ 0.7 (54.0)"
+US gals moment arm in,"Engine 
+ 2x1.2 
+ (34.5) 
+ Main gearbox 
+ 6.7 
+ (14.0) 
+ Intermediate gearbox 
+ 0.2 
+ (258.3) 
+ Tail rotor gearbox 
+ 0.3 
+ (317.7)"
+Maximum Operating Altitude,"See Rotorcraft Flight Manual 
+ For rigging information, refer to the Maintenance Manual."
+"III. Model Westland 30 Series 100-60 (Transport Helicopter, Category A & B), Mod. ZY 689, Approved December 6, 
+ 1985",
+Engine,Two Rolls Royce Gem Mk. 530 (FAA Type Certificate Ref. E19NE)
+Fuel,Refer to Westland 30 Flight Manual for approved fuels and additive specification.
+See NOTE 8,"Output Shaft 
+ Output Shaft 
+ Gas 
+ Horsepower 
+ RPM 
+ Generator 
+ Turbine 
+ (Torque) 
+ Maximum 
+ RPM 
+ Inlet 
+ Normal Operation 
+ Take off (5 min.) 
+ 1009 per engine 
+ 6349 
+ 36,180 
+ 686 
+ (100%, 835 ft-lb) 
+ Maximum Continuous 
+ 1009 per engine 
+ 6349 
+ 35,850 
+ 680 
+ (100%, 835 ft-lb) 
+ One Engine Inoperative 
+ 2 1/2 Min Power 
+ 1383 
+ 6349 
+ 37,800 
+ 708 
+ (137% 1144 ft-lb) 
+ 30 Min Power 
+ 1276 
+ 6349 
+ 36,180 
+ 686 
+ (126.5% 1056 ft-lb) 
+ Maximum Continuous 
+ 1276 
+ 6349 
+ 35,850 
+ 680 
+ (See NOTE 9) 
+ (126.5% 1056 ft-lb) 
+ Starting Momentary 
+ 720"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum (Steady State) 
+ 355 
+ (108.9%) 
+ 336 
+ (103%) 
+ Maximum (Transient) 
+ 383 
+ (117.5%) 
+ 359 
+ (110%) 
+ Minimum (Steady State) 
+ 300 
+ (92.0%) 
+ 319 
+ (98%) 
+ Minimum (Transient) 
+ 250 
+ (77%) 
+ 250 
+ (77%)"
+CG Range,Longitudinal:
+Empty Weight CG Range,See Rotorcraft flight Manual
+Datum,Rotor center line
+Leveling Means,Three plates on the left side of transmission support platform.
+Maximum Weight,12800 lb.
+Minimum Crew,2 pilots
+Maximum Baggage,19
+Fuel to ASTM D1655,"Forward Tank 
+ Aft Tank 
+ Maximum 
+ 175.7 (-81.7) 
+ 175.6 (62.3) 
+ Usable 
+ 171.6 (-81.7) 
+ 173.7 (62.3) 
+ Residual 
+ 1.2 (-81.7) 
+ 1.2 (54.0) 
+ Unusable 
+ 2.9 (-81.7) 
+ 0.7 (54.0)"
+US gals moment arm in,"Engine 
+ 2x1.2 
+ (34.5) 
+ Main gearbox 
+ 6.7 
+ (14.0) 
+ Intermediate gearbox 
+ 0.2 
+ (258.3) 
+ Tail rotor gearbox 
+ 0.3 
+ (317.7)"
+Maximum Operating Altitude,"See Rotorcraft Flight Manual 
+ For rigging information, refer to the Maintenance Manual"
+Certification Basis,"FAR 21.29 and FAR 29 effective February 1, 1965 plus Amendments 29-1 through 
+ 29-14 and para. 29.1353 (c) of Amendment 29-15. In addition, applicant elected to 
+ comply with FAR 29 amendments 29-15 through 29-20 except for FAR 29.1529 as 
+ concerns Appendix A A29.4. 
+ The Airworthiness criteria for Instrument Flight dated December 15, 1978 for IFR 
+ Certification. 
+ Ditching approval in accordance with FAR 29.801 except FAR 29.1415 requirement. 
+ Equivalent safety findings: see NOTE 4. 
+ Type Certificate No. H12EU issued December 1,1982. 
+ Date of Application for Type Certificate: January 20, 1978."
+Serial Nos Eligible,See Import Requirements.
+Import Requirements,"A U.S. Standard Airworthiness Certificate may be issued on the basis of a United 
+ Kingdom Certificate of Airworthiness for Export signed by a representative of the United 
+ Kingdom Civil Aviation Authority containing the following statement: - ""The Helicopter 
+ covered by this Certificate has been examined, tested and found to conform to the type 
+ design approved under Type Certificate No. H12EU, and to be in a condition for safe 
+ operation."" 
+ Caution: The United Kingdom Civil Aviation Authority notified the FAA that the 
+ Service Difficulty information on the W30 helicopter may be out of date. For the 
+ latest information on service difficulties prior to certifying a W30, please contact 
+ the Rotorcraft Directorate, FAA, 2601 Meacham Blvd., Fort Worth, Texas, 76193, 
+ telephone (817)222-5111, Fax (817)222-5961."
+Service Information,"""Service bulletins, structural repair manuals, aircraft flight manuals, and overhaul and 
+ maintenance manuals, which contain a statement that the document is CAA of the U.K. 
+ and Northern Ireland approved, are accepted by the FAA and are considered FAA 
+ approved. These approvals pertain to the type design only."""
+Equipment,"The basis required equipment as prescribed in the applicable airworthiness regulations 
+ (See Certification Basis) must be installed in the helicopter for certification. Westland 
+ Report No. WER141-30-00497 lists required and optional equipment for the helicopter. 
+ In addition, the following item of equipment is required: 
+ United Kingdom CAA - approved Rotorcraft Flight Manuals: 
+ Series 100 RFM ref. WD6.2, approved December 1, 1982 
+ Series 100-60 RFM ref. WD6.4, approved August 27, 1984 (12,350 lbs maximum AUW 
+ weight) 
+ Series 100-60 RFM ref. WD6.6, Revision No. 2, approved December 6, 1985 (12,800 lbs 
+ maximum AUW weight) 
+ There may be approved rotorcraft Flight Manual (RFM) amendments or supplements 
+ issued after the original type certificate, that are required to operate the helicopter when 
+ additional equipment is installed and/or when certain modifications are embodied. 
+ The helicopter owner/operator should ensure that the correct approved rotorcraft Flight 
+ Manual (RFM) amendments or supplements are incorporated in the approved RFM, for 
+ the approved model."
+NOTE 1,"Current weight and balance report including loading instructions and list of equipment included in the 
+ certificated empty weight, must be provided for each helicopter at the time of original certification. 
+ When changes are made to the helicopter which affect the weight and balance, refer to the Flight Manual 
+ Weight and Balance Appendix for instructions."
+NOTE 2,All placards indicated in the Rotorcraft Flight Manual must be installed in the appropriate location.
+NOTE 3,"Information essential to the proper maintenance of the helicopter is contained in the Manufacturer's Westland 
+ 30 Series 100 and 100-60 Maintenance Manual provided with each helicopter. 
+ Life-limited components and associated retirement times are presented in Chapter 05, Section 05-10-00 
+ Table 2 of the Maintenance Manual, and must be replaced in accordance therewith. 
+ For Rolls-Royce engines the life limited parts and accountability methods are identified in Rolls-Royce Gem 
+ Engine Service Bulletin Numbers 6000 for Gem Mk.510 and 72-1 for MK.530. 
+ The instructions for continued airworthiness, ""Airworthiness Limitation"" are presented in chapter 05, section 
+ 05 - 10 - 00 table 5 of the Maintenance Manual must be complied with and may not be changed without 
+ FAA-approval."
+NOTE 4,"30 Series 100 
+ 30 Series 100-60 
+ Equivalent Safety Findings: 
+ FAR 29.903(b) 
+ Speed Select Control 
+ Speed Select Control 
+ (Mechanical Link) 
+ (Ganged Potentiometer) 
+ FAR 29.921 & 29.1151 
+ Rotor Brake Warning 
+ Rotor Brake Warning 
+ FAR 29.1305(b)2 
+ Fuel Pressure Indicator 
+ Fuel Pressure Indicator 
+ FAR 29.991(b) 
+ Fuel System Pumps 
+ Fuel System Pumps 
+ FAR 29.923 
+ Rotor drive System 
+ Test-Post Mod. ZY 689"
+NOTE 5,"The Westland 30 Series 100 and Series 100-60 are eligible for IFR 2 pilot operation when Westland 
+ Modification ZY 505 is incorporated."
+NOTE 6,"The Gem Mk. 510 engine control is of the proportional governing type which necessitates accurate and 
+ consistent control rigging; refer to the Maintenance Manual for instructions. Figure 1 presents the limits for 
+ rotor speed (power turbine speed) vs torque."
+NOTE 7,"The paint scheme for the Tail Rotor Blades is given in Drawing WK 3039-0102, maintenance instructions 
+ for them are contained in Chapter 64-10 of the Maintenance Manual."
+NOTE 8,"Engine Definitions - The output shaft speed and torque (percent) for each rating, are based on the maximum 
+ speed select limit as shown on page 1 for the Gem Mk. 510 engine and page 3 and 5 for the Gem. Mk. 530 
+ engines. 
+ For computation purposes the following definitions have been established: 
+ Engine Type 
+ Torque 
+ Power Turbine Speed 
+ lb.ft 
+ R.P.M. 
+ Gem Mk. 510 
+ 100 
+ 681.5 
+ 100 
+ 6164 
+ Gem Mk. 530 
+ 100 
+ 835 
+ 100 
+ 6164"
+NOTE 9,"For Series 100 and 100-60 (MOD ZY688 Standard) rotorcraft at 12,350 lb. maximum all up weight, this 
+ emergency rating can be used for single engine demonstration/training purposes. 
+ For series 100-60 (MOD ZY689 Standard) rotorcraft at 12,800 lb. maximum all up weight, the weight and 
+ transmission torque limits specified in Revision No. 3 to R.F.M. WD6.6 shall be used for single engine 
+ training."
+NOTE 10,"For Series 100-60 no dispatch deficiencies are permitted in the Engine Electronic Control (EEC) system. 
+ System includes 2 DC generators, 1 battery and EEC units for each engine."
+NOTE 11,"Westland 30 Series 100 and Series 100-60 rotorcraft may be equipped with a CAA-UK approved Electronic 
+ Flight Instrument System (E.F.I.S.) in accordance with Westland Helicopters Modification KX.400 and a 
+ CAA-UK approved Flight Manual Supplement No. 1 to W.D. 6.4."
+NOTE 12,"Westland 30 Series 100-60 (MOD ZY689 Standard) rotorcraft are eligible for operations with AFCS Part 
+ No. NDN 8919-02 and CAA-UK approved Flight Manual Supplement No. 2 to R.F.M. WD6.6."
+NOTE 13,"This type certificate is canceled effective July 11, 2000 and is not valid for aircraft manufactured after this 
+ date. This cancellation also invalidates, and precludes issuance of, any U.S. Certificates of Airwothiness"

@@ -1,0 +1,626 @@
+Keyterm,Info
+"A58NM 
+ Revision 7 
+ Airbus 
+ A380-841 
+ A380-842 
+ A380-861 
+ November 8, 2017",
+Type Certificate Holder,"Airbus SAS 
+ 2, Rond-Point Emile Dewoitine, 
+ 31707 Blagnac 
+ France 
+ I. A380-800 Series Transport Category Airplanes"
+"Model A380-841, Approved December 12, 2006 
+ Model A380-842, Approved December 12, 2006 
+ Model A380-861, Approved December 14, 2007",
+Engines,"A380-841: Four Rolls Royce RB211 Trent 970-84 or RB211 Trent 970B-84 turbofan engines; Engine Type Certificate E00075EN 
+ A380-842: Four Rolls Royce RB211 Trent 972-84 or RB211 Trent 972B-84 turbofan engines; Engine Type Certificate E00075EN 
+ A380-861: Four (4) Engine Alliance GP7270 turbofan engines ; Engine Type Certificate E00072EN"
+Fuel,SPECIFICATION
+NOMENCLATURE,"FRANCE 
+ U.S.A. 
+ U.K. 
+ RUSSIA 
+ CHINA 
+ DCSEA 134 
+ ASTM D-1655- 
+ DEF STAN 91- 
+ RJFS0 GOST 
+ PRC MPIS GB 
+ (JET A1 ) 
+ (Jet A), (Jet A1) 
+ 91 AVTUR 
+ 10227 – 86, 
+ 6537-2006 (No3 
+ Kerosene 
+ (RT) (TS-1) 
+ Jet Fuel) 
+ DEF STAN 91- 
+ USA Air Force 
+ FAoTR&M"
+KEROSENE,"MIL-DTL- 
+ 87 AVTUR FSII 
+ GOST R 
+ 83133 (JP8) 
+ 52050-2006 
+ (JET A1) 
+ DEF STAN 91- 
+ US Navy MIL- 
+ DCSEA 144 
+ DTL-5624 (JP5) 
+ 86 AVTUR FSII 
+ (JP 5 ) 
+ Kerosene 
+ Additives: See Rolls Royce Operating Instructions (OI-Trent-A380) or Engine Alliance Service Bulletin EAGP7-73-1. The 
+ above-mentioned fuels are also suitable for the Auxiliary Power Unit."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10"
+Rev No,"7 
+ 7 
+ 7 
+ 5 
+ 7 
+ 7 
+ 7 
+ 5 
+ 7 
+ 7"
+Engine Limitations,"A380-841 
+ A380-842"
+See FAA Engine Data Sheet,"RB211 Trent 970B-84 
+ RB211 Trent 972B-84 
+ E00075EN)"
+Static Thrust at Sea Level,"348.31 kN or 78,303 lbf 
+ 356.81 kN or 80,214 lbf 
+ - Take-off (5mn)1 (flat rated 30oC)"
+Approved Oil,"Refer to the Engine Operating 
+ Refer to the Engine Operating 
+ Instructions (OI-Trent-A380) for 
+ Instructions (OI-Trent-A380) for 
+ information on approved oil 
+ information on approved oil 
+ specifications for the Trent 900 
+ specifications for the Trent 900"
+Engine Limitations,A380-861
+See FAA Engine Data,Engine Alliance GP7270
+Static Thrust at Sea Level,"332.44 kN or 74,735 lbf"
+Approved Oil,"Refer to the Engine Alliance 
+ Service Bulletin EAGP7-79-1 
+ for the listing of approved oils 
+ for use in the GP7200 series 
+ turbofan engine"
+Table references,(1) 10 minutes at take-off thrust allowed only in case of engine failure (at take-off or during go-around)
+Engine TCDS Note 2,Other engine limitations: See the relevant Engine Type Certificate Data Sheet.
+"Refer to the FAA approved Airbus Model A380-841, A380-842 and A380-861 U.S. Airplane Flight Manuals. 
+ Center of Gravity Limits 
+ Refer to the FAA approved Airbus Model A380-841, A380-842 and A380-861 U.S. Airplane Flight Manuals. 
+ Datum 
+ The airplane reference zero datum point is located 288.59 in. (7.3302 m) forward of the nose section, 257.59 in. (7.000 m) under 
+ the fuselage centerline datum line 
+ Leveling Means 
+ Inclinometer on cabin seat track rails (refer to AMM chapter 08.20.00). 
+ Maximum Weights 
+ Variant 
+ 000 Basic 
+ 001 
+ 002 
+ kg (lb) 
+ kg (lb) 
+ kg (lb) 
+ Maximum Ramp Weight 
+ 562,000 (1,239,000) 
+ 512,000 (1,128,800) 
+ 571,000 (1,258,800) 
+ Maximum Takeoff Weight MTOW 
+ 560,000 (1,234,600) 
+ 510,000 (1,124,400) 
+ 569,000 (1,254,400) 
+ Maximum Landing Weight MLW 
+ 386,000 (850,980) 
+ 394,000 (868,620) 
+ 391,000 (862,010) 
+ Maximum Zero Fuel Weight MZFW 
+ 361,000 (795,870) 
+ 372,000 (820,120) 
+ 366,000 (806,890) 
+ Variant 
+ 003 
+ 004 
+ 005 
+ kg (lb) 
+ kg (lb) 
+ kg (lb) 
+ Maximum Ramp Weight 
+ 562,000 (1,239,000) 
+ 562,000 (1,239,000) 
+ 562,000 (1,239,000) 
+ Maximum Takeoff Weight MTOW 
+ 510,000 (1,124,400) 
+ 560,000 (1,234,600) 
+ 560,000 (1,234,600) 
+ Maximum Landing Weight MLW 
+ 395,000 (870,826) 
+ 391,000 (862,010) 
+ 386,000 (850,980) 
+ Maximum Zero Fuel Weight MZFW 
+ 373,000 (822,324) 
+ 366,000 (806,890) 
+ 366,000 (806,890) 
+ Variant 
+ 006 
+ 007 
+ 008 
+ kg (lb) 
+ kg (lb) 
+ kg (lb) 
+ Maximum Ramp Weight 
+ 562,000 (1,239,000) 
+ 562,000 (1,239,000) 
+ 562,000 (1,239,000) 
+ Maximum Takeoff Weight MTOW 
+ 573,000 (1,260,600) 
+ 490,000 (1,078,000) 
+ 575,000 (1,265,000) 
+ Maximum Landing Weight MLW 
+ 393,000 (864,600) 
+ 395,000 (869,000) 
+ 394,000 (866,800) 
+ Maximum Zero Fuel Weight MZFW 
+ 368,000 (809,600) 
+ 373,000 (820,600) 
+ 369,000(811,800) 
+ Variant 
+ 009 
+ 010 
+ 011 
+ kg (lb) 
+ kg (lb) 
+ kg (lb) 
+ Maximum Ramp Weight 
+ 562,000 (1,239,000) 
+ 562,000 (1,239,000) 
+ 562,000 (1,239,000) 
+ Maximum Takeoff Weight MTOW 
+ 510,000 (1,124,400) 
+ 480,000 (1,056,000) 
+ 575,000 (1,265,000) 
+ Maximum Landing Weight MLW 
+ 386,000 (850,980) 
+ 386,000 (850,980) 
+ 395,000 (869,000) 
+ Maximum Zero Fuel Weight MZFW 
+ 361,000 (794,200) 
+ 361,000 (794,200) 
+ 369,000 (811,800) 
+ Variant 
+ 012 
+ kg (lb) 
+ Maximum Ramp Weight 
+ 562,000 (1,239,000) 
+ Maximum Takeoff Weight MTOW 
+ 569,000 (1,251,800) 
+ Maximum Landing Weight MLW 
+ 395,000 (869,000) 
+ Maximum Zero Fuel Weight MZFW 
+ 366,000 (809,600) 
+ Minimum Crew 
+ Two 2 Pilot and Copilot 
+ Maximum Passenger Seating Capacity 
+ The maximum eligible passenger seating capacity is 538 on the main deck and 330 on the upper deck for a total of868. 
+ Maximum Compartment Weights 
+ Cargo Compartment 
+ Maximum Load (kg) or (lb) 
+ Forward 
+ 28,577 Kg or 63,000 lb 
+ Aft 
+ 20,310 Kg or 44,775 lb 
+ Rear (bulk) 
+ 2,515 Kg or 5,540 lb 
+ see Weight and Balance Manual, Airbus Document 00L080H0001/C0S, chapter 1.10. 
+ Fuel Capacity 
+ Tanks 
+ Usable Fuel 
+ Unusable Fuel 
+ Liters (Kg) 
+ Gallons (lb) 
+ Liters (Kg) 
+ Gallons (lb) 
+ Wing 
+ Outer Left 
+ 10,340 (8,272) 
+ 2,732 (18,237) 
+ 38 (30) 
+ 10 (66) 
+ Feed 1 
+ 27,632 (22,106) 
+ 7,302 (48,735) 
+ 82 (66) 
+ 22 (145.5) 
+ Mid Left 
+ 36,461 (29,169) 
+ 9,635 (64,307) 
+ 50 (40) 
+ 13.2 (88.2) 
+ Inner Left 
+ 46,142 (36,914) 
+ 12,193 (81,381) 
+ 70 (56) 
+ 18.5 (123.5) 
+ Feed 2 
+ 29,349 (23,479) 
+ 7,756 (51,762) 
+ 88 (70) 
+ 23.3 (154.3) 
+ Feed 3 
+ 29,349 (23,479) 
+ 7,756 (51,762) 
+ 88 (70) 
+ 23.3 (154.3) 
+ Inner Right 
+ 46,142 (36,914) 
+ 12,193 (81,381) 
+ 70 (56) 
+ 18.5 (123.5) 
+ Mid Right 
+ 36,461 (29,169) 
+ 9,635 (64,307) 
+ 50 (40) 
+ 13.2 (88.2) 
+ Feed 4 
+ 27,632 (22,106) 
+ 7,302 (48,735) 
+ 82 (66) 
+ 22 (145.5) 
+ Outer Right 
+ 10,340 (8,272) 
+ 2,732 (18,237) 
+ 38 (30) 
+ 10 (66) 
+ Trim 
+ 23,698 (18,958) 
+ 6,262 (41,795) 
+ 49 (39) 
+ 13 (86) 
+ Systems 
+ 793 (634) 
+ 210 (1398) 
+ 382 (305) 
+ 101 (672.4) 
+ Total 
+ 324339 (259471) 
+ 85,707 (572,035) 
+ 1086 (869) 
+ 287 (1915.8) 
+ Maximum Operating Altitude 
+ 43000 feet 
+ Control Surface Movements 
+ INBOARD / MEDIAN / OUTBOARD AILERONS (surface deflection angles) 
+ DOWN POSITION 
+ UP POSITION 
+ Maximum operational deflections (computer 
+ 20° 
+ -30° 
+ software limitations) 
+ Actuator stops (min/max) 
+ 23.6°/24.7° 
+ -34.2°/-35.5° 
+ Structural stops 
+ > 25.7° 
+ <-36.5° 
+ SPOILERS 1 to 8 (extended positions 
+ Spoilers 1 and 2 
+ Spoilers 3 to 6 
+ Spoilers 7 and 8 
+ Maximum operational 
+ 35° 
+ 50° 
+ 50° 
+ deflections (computer 
+ software limitations) 
+ Actuator stops (min/max) 
+ 39.6°/39.9° 
+ 52.7°/53.2° 
+ 53.7°/54.3° 
+ Structural stops 
+ >40.9° 
+ >54.2° 
+ >55.3 
+ INBOARD / OUTBOARD ELEVATORS (surface deflection angles) 
+ DOWN POSITION 
+ UP POSITION 
+ Maximum operational deflections (computer 
+ 20° 
+ -30° 
+ software limitations) 
+ Actuator stops (min/max) 
+ 22.8°/23.6° 
+ -33.1°/-33.9° 
+ Structural stops 
+ > 24.6° 
+ <-34.9° 
+ THS (surface deflection angles) 
+ NOSE UP 
+ NOSE DOWN 
+ Maximum operational deflections (computer 
+ -10° 
+ 2° 
+ software limitations) 
+ THSA stops 
+ -10.44°/-10.56° 
+ 2.94°/3.06° 
+ Interference between THS and the tail cone 
+ -10.7° 
+ 3.3° 
+ UPPER AND LOWER RUDDERS (surface deflection angles) 
+ RH turn 
+ LH turn 
+ Maximum operational deflections computer 
+ -30° 
+ 30° 
+ software limitations) 
+ Actuator stops (min/max) 
+ -32.3°/-33.2° 
+ 32.3°/33.2° 
+ Interference between the rudders and VTP 
+ <-34.2° 
+ >34.2° 
+ Manufacturer’s Serial Numbers 
+ Import Requirements 
+ The FAA can issue a U.S. airworthiness certificate based on an NAA Export Certificate of Airworthiness (Export C of A) signed 
+ by a representative of the exporting foreign civil airworthiness authority on behalf of the European Community. The Export C of 
+ conform with the Type Design approved under U.S. Type Certificate No. A58NM, and is in a condition for safe operation. 
+ Compliance with Airworthiness Directives (ADs) has been checked only for ADs issued by EASA, ADs adopted by EASA and 
+ ADs published by FAA’ 
+ At the time of the first airplane import the latest approved Revision of each Airworthiness Limitation Section (ALS) listed under 
+ the Note 3 must be incorporated in the maintenance program. After the first airplane import the later revision of an ALS will be 
+ mandated by Airworthiness Directive 
+ In order for the FAA to determine that an A380 aircraft is in a condition for safe operation under the provisions of 14 CFR 
+ FAA Transport Airplane Directorate; 1601 Lind Avenue Southwest; Renton, Washington 98055; telephone (425) 227-1263; fax 
+ (425) 227-1149, prior to issuance of the U.S. airworthiness certificate to obtain the FAA Required Airworthiness Action List 
+ (RAAL) for the A380. After the first airplane is imported to the U.S. the RAAL will be finalized and published in the TCDS. 
+ When the TCDS is amended to include the RAAL, a notice will be published in the Federal Register, to inform the public of this 
+ amendment 
+ Safety Agency (EASA), which is the state of design authority for the Airbus A380, to be required to correct unsafe conditions 
+ discovered on the original type design of the A380. EASA has issued Airworthiness Directives that require the accomplishment 
+ of these modifications and inspections to correct the identified unsafe conditions, and has advised the FAA of this mandatory 
+ continuing airworthiness information (MCAI). Based on this MCAI the FAA has determined that the airworthiness actions 
+ identified in the EASA ADs listed in Model A380 RAAL are required in the interest of safety and are necessary for this airplane 
+ to be in a condition for safe operation. 
+ Prior to issuance of a Standard Airworthiness Certificate on any Airbus A380 model aircraft, all airworthiness actions listed in the 
+ Model A380 RAAL must be accomplished in accordance with the compliance times listed in each MCAI, except as noted in the 
+ RAAL. The MCAI listed in the RAAL are airworthiness limitations in addition to those listed in note 3 of this TCDS, and must 
+ be included in the operator’s airplane maintenance or inspection program. All inspections or modifications, required by the 
+ EASA MCAI, that have surpassed the initial compliance time, must be accomplished prior to issuance of the Standard 
+ Airworthiness Certificate 
+ Any deviation from the requirements of the MCAIs, listed in the RAAL, must be approved by the Manager, International Branch, 
+ ANM116 FAA Transport Airplane Directorate 
+ A Notice of Policy Statement announcing the FAA’s policy with respect to foreign MCAI, when no aircraft of the affected design 
+ are currently registered in the U.S. was published in the Federal Register on May 1, 1998, docket 98-11648. Additional guidance 
+ Products Imported into the United States. 
+ Certification Basis 
+ For model A380-841/842 series airplanes, the certification basis is 14 CFR part 25, effective February 1, 1965, including 
+ Amendments 25-1 through 25-98, with elected Amendments 25-101, 25-103 through 25-106, 25-108, 25-109, 25-113 and 25- 
+ 114 
+ For Model A380-861 Series Airplanes, the certification basis is revised to require 14 CFR Part 25 at the following amendment 
+ levels 
+ Amendment 99 for § 25.2 
+ Amendment 100 for §§ 25.903, 25.1091 
+ Amendment 101 for § 25.1183, 
+ with elected Amendments 25-103 through 25-106, 25-108, 25-109, 25-113 and 25-114. 
+ Special Conditions 
+ (1) No. 25-315-SC Discrete Gust Requirements 
+ (2) No. 25-333-SC Transient Engine Failure Loads 
+ 3 No 25321SC Crashworthiness 
+ (4) No. 25-322-SC Airplane Jacking Loads 
+ (5) No. 25-326-SC Stairways Between Decks 
+ (6) No. 25-327-SC Emergency Exit Arrangement (Outside Viewing) 
+ (7) No. 25-330-SC Escape System Inflation System 
+ (8) No. 25-329-SC Escape Systems in non-Pressurized compartments 
+ (9) No. 25-323-SC Extendable-Length Escape Slides 
+ (10) No. 25-328-SC Flotation and Ditching 
+ 11 No 25340SC Fire Protection 
+ 12 No 25316SC Dynamic Braking 
+ (13) No. 25-324-SC Loading Conditions for Multi-Leg Landing Gear 
+ (14) No. 25-316-SC Interaction of Systems and Structure 
+ (15) No. 25-316-SC Limit Pilot Forces 
+ (16) No. 25-316-SC Dive Speed Definition 
+ (17) No. 25-338-SC Ground Turning Loads 
+ (18) No. 25-318-SC Design Roll Maneuver 
+ (19) No. 25-316-SC Flight Envelope Protection: High Incidence Protection and Alpha Floor Systems 
+ (21) No. 25-316-SC Flight Envelope Protection: General Limiting Requirements 
+ (22) No. 25-316-SC Flight Envelope Protection: Normal Load Factor (G) Limiting 
+ (23) No. 25-316-SC Flight Envelope Protection: High Speed Limiting 
+ (24) No. 25-316-SC Flight Envelope Protection: Pitch and Roll Limiting 
+ Method 
+ (27) No. 25-316-SC Operation Without Normal Electrical Power 
+ Awareness 
+ (29) No. 25-316-SC High Intensity Radiated Fields (HIRF) Protection 
+ 30 No 25335SC Reinforced Bulkhead 
+ (31) No. 25-339-SC Lithium-Ion Battery Installations 
+ (32) No. 25-672-SC, Non-Rechargeable Lithium Batteries, effective to design changes applied for after May 16, 2017. See 
+ the applicability section of this special condition for more information on which design changes must meet it. 
+ NOTE: The FAA Special Conditions referenced above may be accessed at internet location: 
+ httpwwwairwebfaagovRegulatoryandGuidanceLibraryrgSCnsfMainFrameOpenFrameSet 
+ Equivalent Level of Safety Findings 
+ (1) Section 25.629, Aeroelastic Stability Requirements (documented in TAD ELOS Memo CP101-A-5) 
+ (2) Section 25.331(c)(2), Checked Maneuver Loads (documented in TAD ELOS Memo CP101-A-7) 
+ Turbulence Loads (documented in TAD ELOS Memo CP101-A-09) 
+ (4) Section 25.963(d), Fuel Tank Loads (documented in TAD ELOS Memo CP101-A-10) 
+ (5) Section 25.963(e), Fuel Tank Access Covers (documented in TAD ELOS Memo CP101-A-11) 
+ (7) Section 25.810(a)(1)(ii) and (b), Escape System Inflation Time (documented in TAD ELOS Memo CP101-C-11) 
+ (8) Section 25.107(e)(1)(iv), Reduced Margins between Minimum Liftoff Speed and Minimum Safe Flyaway Speed 
+ (documented in TAD ELOS Memo CP101-F-17) 
+ (9) Section 25.933(a)(1)(ii), Flight Critical Thrust Reverser (documented in TAD ELOS Memo CP101-P-02) 
+ (10) Part 25 subpart E, F and G requirements applicable to APU installations, Adoption of Draft Harmonized Rules for APU 
+ Certification (documented in TAD ELOS Memo CP101-P-05) 
+ Memo CP101-P-11) for A380-841/-842 models only 
+ (12) Section 25.1203(d), Trent 900 Overheat Detection (documented in TAD ELOS Memo CP101-P-13) for A380-841/-842 
+ models only 
+ (13) Section 25.1549(a), Oil Temperature Indication (documented in TAD ELOS Memo CP101-P-15) 
+ (14) Section 841(b)(1), Tests for Pressurized Cabins (documented in TAD ELOS Memo CP101-S-15) 
+ (15) Section 831(g), Ventilation System Failures/Cabin Temperature and Humidity (documented in TAD ELOS Memo 
+ CP101-S-22) 
+ (16) Section 25.1383(b), Landing Light Switches (documented in TAD ELOS Memo CP101-S-23) 
+ (17) Section 25.841(b)(6), Cabin Pressurization – High Altitude Airfield Operations (documented in TAD ELOS Memo 
+ CP101-S-27) 
+ (18) Section 25.865, APU Mounting System Fireproofness (documented in TAD ELOS Memo CP101-P-18) 
+ (19) Section 25.1415(c), Ditching Equipment (documented in TAD ELOS Memo CP101-C-14) 
+ Installation (documented in TAD ELOS Memo CP-101-T-P-17) for A380-861 model only 
+ (21) Section 25.856(b), Improved Flammability standards for Thermal/acoustic insulation materials (documented in TAD 
+ ELOS Memo TD0794IB-T-CI-5; Memo TD0794IB-T-CI-6 and Memo TD0794IB-T-CI-7). 
+ (22) Sections 25.811(g) and 25.812(b)(1), Symbolic Exit Sign (documented in TAD ELOS Memo TD01007IB-T-C-16) . 
+ (23) Section 25.1195(c). Fire Extinguishing Agent Concentration (documented in TAD ELOS Memo AT10272IB-T-P-1). 
+ (24) Section 25.779(b)(1). Throttle Motion During Go-around Operations (documented in TAD ELOS Memo 
+ AT10197IB-T-P-2). 
+ (25) Section 25.1457(d)(5). Cockpit Voice Recorder - (documented in TAD ELOS Memo TD00823IB-T-SE-32). 
+ NOTE: The FAA Equivalent Level of Safety Memos referenced above may be accessed at internet location: 
+ httpwwwairwebfaagovRegulatoryandGuidanceLibraryrgELOSnsfMainFrameOpenFrameSet 
+ Elect to Comply 
+ The following paragraph of 14 CFR Part 25 at amendment 111, dated September 2, 2003, is elected to comply by Airbus for A/C 
+ fitted with modification 67860 
+ 14 CFR Part 25.856(b) 
+ Exemptions 
+ (1) Exemption No. 8538 for 14 CFR part 25 section 25.562(b)(2) Emergency Landing Dynamic Conditions 
+ (2) Exemption No. 8695A (Partial) for 14 CFR part 25 section 25.841(a)(2)(i), (ii), and (3), per Amendment 25-87, 
+ Pressurized Cabins 
+ NOTE: The FAA Exemptions referenced above may be accessed at internet location: 
+ httpwwwairwebfaagovRegulatoryandGuidanceLibraryrgEXnsfMainFrameOpenFrameSet 
+ Environmental Standards 
+ 14 CFR part 34, effective September 10, 1990, including Amendments 34-1 through 34-3. 
+ 14 CFR part 36, effective December 1, 1969, including Amendments 36-1 through 36-27, at Stage 4 
+ Optional Requirements Elected 
+ (1) Sections 25.801, 25.1411 and 25.1415 for ditching 
+ (2) Section 25.1419 for ice protection 
+ Part 26 of the Federal Aviation Regulations: 
+ Based on 14 CFR Section 21.29(a) for new import Type Certificates (TCs), (or Section 21.101(g) for changes to TCs), applicable 
+ provisions of 14 CFR Part 26 are included in the certification basis. For any future 14 CFR part 26 amendments, the holder of 
+ this TC must demonstrate compliance with the applicable sections. 
+ Production Basis 
+ A380 airplanes, all series and models, are produced in France or Germany under production approval EASA.21G.0001 issued by 
+ the European Aviation Safety Agency, (EASA). 
+ Equipment 
+ The basic required equipment as prescribed in the applicable airworthiness regulations (see the Certification Basis) must be 
+ installed in the aircraft. Equipment approved for installation is listed in the following documents: 
+ - See A380-841/-842/-861 Type design definition 
+ Cabin furnishings, equipment and arrangement must conform to the following specification: 
+  
+ 00L252C0028/C01 for cabin seats, 
+  
+ 00L252C0027/C01 for galleys, 
+  
+ 00L252C0032/C01 for cabin attendant seats. 
+ Hydraulic Fluids 
+ Fluid specifications: Type IV LD (Low Density) and Type V LD as per NSA 307-110. 
+ Auxiliary Power Unit APU 
+ One Pratt & Whitney Canada PW980A 
+ Tires 
+ Tire Type 
+ Size 
+ Ply Rating 
+ BLG & WLG: 
+ RADIAL 
+ 1400x530 R23 
+ 40PR 
+ NLG: 
+ RADIAL 
+ 1270x455 R22 
+ 32PR 
+ The main wheels can be fitted with tires from two manufacturers: 
+ Michelin Radial 
+ 1400 x 530 R23 
+ Bridgestone Radial 
+ 1400 x 530 R23 
+ Tires mixability: See Service Bulletin A380-32-8021 (Landing Gear – Tires – General Procedures) for allowable combinations. 
+ The nose wheels can be fitted with tires from two manufacturers: 
+ Michelin Radial 
+ 1270 x 455 R22 
+ Bridgestone Radial 
+ 1270 x 455 R22 
+ Tire Loads and Pressures 
+ LOAD RATING 
+ RATED PRESSURE 
+ Service Pressure 
+ Service Pressure 
+ UNLOADED 
+ LOADED 
+ bar 
+ PSI 
+ bar 
+ PSI 
+ bar 
+ PSI 
+ WLG  BLG Tire 
+ 33336 daN 
+ 17.2 
+ 249 
+ 14.4 
+ 209 
+ 15.0 
+ 218 
+ NLG Tire 
+ 24380 daN 
+ 16.2 
+ 235 
+ 13.3 
+ 193 
+ 13.9 
+ 202 
+ Weather Capabilities 
+ The Model A380-800 is qualified to Cat. III precision approaches and autoland. 
+ Airplane Flight Manual 
+ Refer to A380-841 and A380-842 US Airplane Flight Manuals, Revision 0.3, Issue 1, both dated December 7, 2006, applicable to 
+ A380841 and A380842 airplanes 
+ Refer to A380-861 US Airplane Flight Manual, Revision CP2, Issue 1.1, dated November 22, 2007, applicable to A380-861 
+ airplane 
+ Service Information 
+ are accepted by the FAA and are considered FAA approved. Additionally, approvals issued by Airbus under the authority of 
+ EASA approved Design Organization EASA.21J.031 are considered FAA approved. These approvals pertain to the type design 
+ only 
+ • Airbus Service Bulletins, except as noted below, 
+ • Structural repair manuals 
+ • Vendor manuals referenced in Airbus service bulletins, 
+ • Aircraft flight manuals 
+ • Repair Instructions 
+ either the US/France or US/EASA Bilateral Aviation Safety Agreement Implementation Procedures for Airworthiness must be 
+ approved by the FAA 
+ Electrical Power Center Configuration Data File Tool 
+ An Airline Configuration Tool (ACTS) has been developed and qualified to allow airlines to manage the Configuration Data File 
+ of Secondary Power Distribution Boxes (SPDB). This ACTS tool shall be used in accordance with the SIL “Guidance on 
+ Electrical system Configuration Data File update” reference “SIL 24-085”. 
+ Applicable version of ACTS tool is version 2 (CSCI 51220010-7). 
+ Notes 
+ Note 1: A current weight and balance report including list of the equipment included in the certificated empty weight, and 
+ loading instructions, when necessary, must be provided for each aircraft at the time of original airworthiness certification and at 
+ all times thereafter 
+ Note 2: Airplane operation must be in accordance with the FAA approved Airplane Flight Manual. All placards required by 
+ either the FAA approved AFM, the applicable operating rules, or the certification basis must be installed in the appropriate 
+ location in the airplane 
+ Note 3: Maintenance Instructions and Airworthiness Limitations: 
+  
+ Limitations applicable to Safe Life Airworthiness Limitation Items are provided in the A380 Airworthiness Limitations 
+ Section (ALS) Part 1 Revision 9, thru Variation 9.1 & 9.2, approved by EASA 
+  
+ Limitations applicable to Damage-Tolerant Airworthiness Limitation Items are provided in the A380 (ALS Part 2 
+ Revision 5, approved by EASA 
+  
+ Certification Maintenance Requirements are provided in the A380 ALS Part 3, Revision 5 thru Variation 
+ 00L050A173A/C01approved by EASA 
+  
+ A380- 800 Ageing System Maintenance are provided in the A380 ALS Part 4, Revision 11, approved by EASA 
+  
+ A380- 800 Fuel Airworthiness Limitations are provided in the A380 ALS Part 5, Revision 0, approved by EASA 
+  
+ A380-800 Aircraft Information System Security (AISS) are provided in the A380 ALS Part 6, Revision 4, approved by 
+ EASA 
+  
+ Airworthiness corrective actions required by the EASA ADs listed in the A380 RAAL. 
+ complete and accepted by the FAA prior to delivery of the first aircraft or issuance of a standard certificate of airworthiness,",

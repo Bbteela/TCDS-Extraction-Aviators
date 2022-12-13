@@ -1,0 +1,117 @@
+Keyterm,Info
+"H13NM 
+ Revision 1 
+ Chet Raspberry Inc. 
+ (CRI) 
+ CH-54A 
+ Surrendered January 23, 2002",
+Type Certificate Holder,"Chet Raspberry Inc. (CRI) 
+ 19378 Central Road 
+ Apple Valley, CA 92307"
+"I.- Model CH-54A (Restricted Category Rotorcraft) Approved October 5, 1993 
+ See NOTE 6",
+Engines,2 Pratt & Whitney JFTD12A-4A (T73-P-1)
+Fuel,Aviation Kerosene JP4 or JP5
+Engine Limits,"Power 
+ Gas Gen. 
+ Power 
+ Turbine 
+ Speed 
+ Inlet 
+ Shaft 
+ Speed 
+ (N1) 
+ (T6) 
+ Horsepower 
+ (N2) 
+ Military Power (30 Min.) 
+ 4500 
+ 105% 
+ 104% 
+ 688-C 
+ Normal Continuous Cruise 
+ 4000 
+ 104% 
+ 104% 
+ 655-C"
+Rotor limits,"Max. 204 rpm (110% Nr) 
+ Min. 167 rpm ( 90% Nr)"
+Airspeed,"VNE (Never Exceed Speed): 
+ 99 knots between 38,000 lbs. and 42,000 lbs. gross 
+ weight. 
+ 115 knots up to 38,000 lbs. gross weight"
+Center of Gravity,"324.0 to 352.0 at 23,000 lbs."
+CG Range,"324.0 to 352.0 at 30,000 lbs. 
+ 328.0 to 352.0 at 38,000 lbs. 
+ 328.0 to 346.0 at 38,000 lbs. 
+ 328.0 to 346.0 at 42,000 lbs. 
+ Straight line variation between points given."
+Page No,"1 
+ 2 
+ 3"
+Rev No,"1 
+ - 
+ - 
+ 42,000 
+ 38,000 
+ Gross 
+ Weight 
+ (Pounds) 
+ 30,000 
+ 23,000 
+ 324 
+ 328 
+ 346 
+ 352 
+ Inches from Datum"
+Datum,336 inches forward of main rotor centeroid.
+Leveling Means,Plumb line from top level plate inside cockpit aft door.
+Maximum Weight,"42,000 lbs."
+Minimum Crew,2 (pilot and co-pilot)
+Number of Seats,"5 - 2 at (+92.9), 1 at +(108.5), 1 at (+127.0), 1 at (+130.0)"
+Maximum Cargo,See NOTE 5.
+Fuel Capacity,"1351 gal. 454 gal. at (+280.8), 454 gal. at (+397.3), 443 gal. at (+461.3)."
+Oil Capacity,"3.2 gal. at (+234.0), (2 tanks 1.6 gal. each). 
+ For rigging information, see NOTE 7."
+Other Operating,See NOTE 4.
+Serial No Eligible,68-18447
+Certification Basis,"FAR 21.25(a)(2) effective February 1, 1965, including Amendments 21-1 through 21-42, 
+ FAR 36.1(a)(4), Type Certificate No. H13NM issued October 5, 1993, for Agricultural 
+ aircraft operations, for dispensing fire fighting materials or carrying external loads."
+Production Basis,"None. Prior to certification of each aircraft, a representative must perform a detailed 
+ inspection for workmanship, materials, and conformity with approved technical data, and 
+ will verify that a maintenance flight test has been completed for each aircraft by qualified 
+ maintenance personnel in accordance with the Department of the Army Technical 
+ Manual TM 55-1520-217-MFT-1, dated June 17, 1985."
+Equipment,Equipment necessary for the particular special purpose operation must be installed.
+NOTE 1,"A current weight and balance report including a list of equipment included in the certificated empty weight, 
+ and loading instructions when necessary, must be in each helicopter at the time of original airworthiness 
+ certification and at all times thereafter."
+NOTE 2,"The following modifications are required. A placard must be prominently displayed in the cockpit in full 
+ view of the pilots, in accordance with drawing CRI-01. 
+ ""THIS ROTORCRAFT MUST BE OPERATED IN ACCORDANCE WITH THE RESTRICTED 
+ CATEGORY OPERATING LIMITATIONS OF FAR 91.313"" 
+ The builders data plate required by FAR 45.13 must be installed in accordance with drawing CRI-02."
+NOTE 3,"The Maximum Allowable Operating Time (MAOT) schedule for Service Life Limited Part overhaul and 
+ retirement intervals are specified in Chapter 1, Section VI, of Technical Manual No. TM 55-1520-217-23-1, 
+ ""Aviation Unit and Intermediate Maintenance Manual CH-54A Helicopter,"" with Changes 1 through 21, 
+ dated September 23, 1987. 
+ T73 Engine TBO was increased from 1500 to 1800 hours in accordance with Dept. of Army message 
+ 0619452 dated April 13, 1988. Additional MAOT extensions were granted to specific CH-54A T-73 engines 
+ in accordance with Dept. of the Army, AVSCOM (AMSAU-ED) letters. These T-73 engine MAOT 
+ extensions may not be exceeded."
+NOTE 4,"This helicopter must be operated in accordance with a Flight Manual comprised of the following: 
+ (1) Department of the Army Technical Manual No. TM 55-1520-217-10-1, ""Operators Manual, Army 
+ Model CH-54A Helicopters,"" dated April 8, 1977, with Changes 1 through 8, revised September 25, 
+ 1986. 
+ (2) Department of the Army Technical Manual No. TM 55-1520-217-CL-1, ""Operator's & Crewmember's 
+ Checklist, Army Model CH-54A Helicopters, Pilot's Checklist,"" dated June 2, 1985. 
+ Day VFR Restricted Category operations only."
+NOTE 5,"Provisions for the carriage of external loads are available in the form of structural hard points on the fuselage 
+ and main landing gear; single and four-point hoists; and a four-point load-leveler suspension system. 
+ Information concerning the operating limitations with this equipment is contained in the Flight Manual."
+NOTE 6,"Prior to civil airworthiness certification, CRI Helicopter Inc. Engineering Report No. 001 must be 
+ incorporated."
+NOTE 7,"These helicopters must be serviced and maintained in compliance with CRI Helicopters Inc. Continued 
+ Airworthiness Maintenance Report No. 002."
+NOTE 8,"This TCDS surrendered January 23, 2002."

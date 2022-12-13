@@ -1,0 +1,193 @@
+Keyterm,Info
+"H1PC 
+ Revision 6 
+ Kawasaki 
+ KV107-II 
+ KV107-IIA 
+ March 15, 1979",
+Holder of Type Certificate,"Kawasaki Heavy Industries, Limited 
+ 2-Chome, Higashi-Kawasaki-cho, Ikuta-ku 
+ Kobe-city, Japan"
+"I - Model KV107-II (Transport Helicopter - Categories A and B), Approved November 5, 1965",
+Engines,"2 General Electric CT58-110-1 or 2 Ishikawajima-Harima Heavy Industries, Ltd. 
+ CT58-IHI-110-1 (with Hamilton Standard Fuel Control JFC-26)"
+Fuel,"Aviation Kerosene JP4 or JP5 (General Electric Co. Jet Fuel Spec. No. D50TF2 or 
+ subsequent revisions thereto.)"
+Engine limits,"Sea level static 
+ Shaft 
+ Power 
+ Gas 
+ Power Turbine 
+ HP 
+ Turbine R.P.M. 
+ Gen. R.P.M. 
+ Inlet Temp.(T5)"
+Takeoff 5 min,"1250 
+ 21275(109.1% Nf) 
+ 26300(100.3% Ng) 
+ 1250°F(677°C)"
+One engine inoperative,"1250 
+ 21275(109.1% Nf) 
+ 26300(100.3% Ng) 
+ 1250°F(677°C)"
+One engine inoperative,"1350 
+ 21275(109.1% Nf) 
+ 26800(102.2% Ng) 
+ 1300°F(704°C) 
+ (2 1/2 min.) See NOTE 6 
+ 1050 
+ 21275(109.1% Nf) 
+ 26300(100.3% Ng) 
+ 1175°F(635°C)"
+Maximum transient 2 sec,1545°F(840°C)
+Starting 4 sec,1545°F(840°C)
+Allowable maximum overspeed,"23100(118.4% Nf) 
+ 27600(105.3% Ng)"
+Rotor Limits,"Power on: 
+ Maximum 275 r.p.m. 
+ Power off: Maximum 299 r.p.m. 
+ Minimum 233 r.p.m. 
+ Minimum 233 r.p.m."
+Airspeed limits,"Never exceed 
+ 168 m.p.h. (146 knots) CAS 
+ 170 m.p.h. (148 knots) IAS zero instrument error 
+ Variation of Vne with rotor r.p.m. and altitude is in the Rotorcraft Flight Manual."
+1,"2 
+ 3 
+ 4"
+6,"6 
+ 6 
+ 6"
+CG range,"Category A: 
+ (+267.5) to (+307.5) at 17900 lb. 
+ (+267.5) to (317.0) at 16500 lb. or less 
+ Category B: 
+ (+271.0) to (+300.0) at 19000 lb. 
+ (+267.5) to (+306.1) at 18100 lb. 
+ (+267.5) to (+317.0) at 16500 lb. or less 
+ Straight line variation between points given."
+CG range,None
+Maximum weight,"Category A: 17900 lb. 
+ Category B: 19000 lb."
+Minimum crew,"2 (Pilot, Copilot)"
+Maximum passengers,"39, limited by emergency exit requirements"
+Maximum baggage,Baggage bin 1500 lb. (+440). See NOTE 3 for cargo.
+Fuel capacity,350 gal. (+348.4)
+Oil capacity,"4.2 gal. (+431.3) See NOTE 1 for data on system fuel and oil 
+ For rigging information, refer to Maintenance Manual"
+Serial Nos eligible,"The Government of Japan Certificate of Airworthiness for Export endorsed as noted 
+ under ""Import Requirements"" must be submitted for each individual aircraft for which 
+ application for certification is made. Serial Nos. 4001, 4003, 4005, 4011, 4012 and 4014 
+ are eligible for airworthiness certification."
+"II - Model KV107-IIA (Transport Helicopter - Categories A and B) Approved January 15, 1969",
+Engines,2 General Electric CT58-140-1 (with Hamilton Standard Fuel Control JFC-26)
+Fuel,"Aviation Kerosene, JP4 or JP5 (General Electric Co. Jet Fuel Spec. No. D50TF2 or 
+ subsequent revisions thereto.)"
+Engine limits,"Sea level static 
+ Shaft 
+ Power 
+ Gas 
+ Power Turbine 
+ HP 
+ Turbine R.P.M. 
+ Gen. R.P.M. 
+ Inlet Temp. (T5)"
+Takeoff 5 min,"1400 
+ 21275(109.1% Nf) 
+ 26300(100.3% Ng) 
+ 1285°F(696°C)"
+One engine inoperative,"1400 
+ 21275(109.1% Nf) 
+ 26300(100.3% Ng) 
+ 1285°F(696°C)"
+One engine inoperative,"1500 
+ 21275(109.1% Nf) 
+ 26800(102.2% Ng) 
+ 1330°F(721°C) 
+ (2 1/2 min.) See NOTE 6 
+ 1250 
+ 21275(109.1% Nf) 
+ 26300(100.3% Ng) 
+ 1220°F(660°C)"
+Maximum transient 2 sec,1545°F(840°C)
+Starting 2 sec,1740°F(949°C)
+Allowable maximum overspeed,"23100(118.4% Nf) 
+ 27600(105.3% Ng)"
+Rotor limits,"Power on: 
+ Maximum 275 r.p.m. 
+ Power off: 
+ Maximum 299 r.p.m. 
+ Minimum 233 r.p.m. 
+ Minimum 233 r.p.m."
+Airspeed limits,"Never exceed 
+ 168 m.p.h. (146 knots) CAS 
+ 170 m.p.h. (148 knots) IAS zero instrument error 
+ Variation of Vne with rotor r.p.m. and altitude is in the Rotorcraft Flight Manual."
+CG range,"Category A: 
+ (+267.5) to (+307.5) at 17900 lb. 
+ (+267.5) to (+317.0) at 16500 lb. or less 
+ Category B: 
+ (+271.0) to (+300.0) at 19000 lb. 
+ (+267.5) to (+306.1) at 18100 lb. 
+ (+267.5) to (+317.0) at 16500 lb. or less 
+ Straight line variation between points given"
+Empty weight,None
+Maximum weight,"Category A: 17900 lb. 
+ Category B: 19000 lb."
+Minimum crew,"2 (Pilot, Copilot)"
+Maximum passengers,"39, limited by emergency exit requirements"
+Maximum baggage,Baggage bin 1500 lb. (+440). See NOTE 3 for cargo
+Fuel capacity,350 gal. (+348.4)
+Oil capacity,"4.2 gal. (+431.3) See NOTE 1 for data on system fuel and oil 
+ For rigging information, refer to Maintenance Manual"
+Serial Nos eligible,"The Government of Japan Certificate of Airworthiness for Export endorsed as noted 
+ under ""Import Requirements"" must be submitted for each individual aircraft for which 
+ application for certification is made. Aircraft with serial no. 4013 eligible for 
+ airworthiness certification."
+Data Pertinent to All Models,
+Datum,103.6 inches forward of forward jacking point
+Leveling means,Plumb line from top of main door frame
+Certification basis,"CAR 10 dated March 28, 1955. (Applicable regulations are CAR 7 dated August 1, 
+ 1956, including Amendments 7-1 through 7-5, and Special Conditions for Turbine 
+ Powered Rotorcraft in Attachment ""A"" to FAA letter to the JCAB dated April 15, 1965, 
+ and in Attachment ""A"" to FAA letter to the JCAB dated September 15, 1965.) 
+ Exemptions No. 188 dated November 27, 1961, No. 188A dated April 4, 1962 and No. 
+ 374 dated December 21, 1964. 
+ Type Certificate H1PC issued November 15, 1965. 
+ Date of application for Type Certificate, November 28, 1964."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification basis) must be installed in the helicopter for certification. In addition, 
+ the following items of equipment are required: 
+ (a) 
+ JCAB approved Rotorcraft Flight Manual for KV107-11. 
+ JCAB approved Rotorcraft Flight Manual for KV107-11A. 
+ (b) 
+ SAS Installation, 107E2317 and WE2225."
+Import Requirements,"A. U.S. Certificate of Airworthiness may be issued on the basis of a Japanese Certificate 
+ of Airworthiness for Export signed by a representative of the Japan Civil Aviation 
+ Bureau containing the following notation: ""The rotorcraft covered by this certificate has 
+ been found to conform to Type Certificate Number H1PC and is in a condition for safe 
+ operation."""
+NOTE 1,"(a) 
+ Current weight and balance report including list of required equipment and equipment included in 
+ certificated empty weight, and loading instructions when necessary, must be provided for each 
+ helicopter at the time of original certification. The certificated empty weight and corresponding C.G. 
+ locations must include undrainable oil of 10 lb. (405) and unusable fuel of 9 lb. (362). 
+ (b) 
+ The unusable fuel for vertical operation is 286 lb. (362)."
+NOTE 2,"The following placard must be displayed in front of and in clear view of the pilot. 
+ ""THIS HELICOPTER MUST BE OPERATED IN ACCORDANCE WITH THE JAPAN CIVIL AVIATION 
+ BUREAU APPROVED ROTORCRAFT FLIGHT MANUAL."""
+NOTE 3,"The cabin floor area between fuselage stations 120 and 410 is structurally satisfactory for a uniformly 
+ distributed loading of 150 p.s.f. when used for cargo purposes. Bulkhead No. 107S4314 is movable and can 
+ be installed at fuselage stations 284.3, 347.9 and 407.3. When this bulkhead is installed at fuselage station 
+ 347.9 or 284.3, the maximum total load permitted aft of it, including the contents of the baggage bin (1500 
+ lb. maximum) is 5000 lb. The cabin floor loading of 150 p.s.f. should not be exceeded under any conditions."
+NOTE 4,"Information essential to the proper maintenance of the helicopter is contained in the manufacturer's 
+ Maintenance Schedule provided with each helicopter which specifies that the service life limited parts be 
+ retired in accordance with the schedule contained in the JCAB approved Section 1 of this document dated 
+ May 27, 1976, or any subsequent JCAB approved revision thereto."
+NOTE 5,"If takeoff power is used in cumulative excess of five minutes during any one emergency, the engine must be 
+ inspected in accordance with General Electric Commercial Engine Service Memorandum CT58-110-1, 
+ Maintenance No. 19, April 17, 1962 or subsequent revisions thereto."
+NOTE 6,Engine controls must be set for this rating for vertical operations (see engine limits).

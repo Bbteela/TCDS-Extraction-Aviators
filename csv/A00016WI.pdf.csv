@@ -1,0 +1,240 @@
+Keyterm,Info
+"A00016WI 
+ Revision 0 
+ Textron Aviation Inc. 
+ 408 
+ March 11, 2022",
+Type Certificate Holder,"Textron Aviation Inc. 
+ One Cessna Boulevard 
+ Wichita, Kansas 67215"
+"I. 
+ Model 408 (Normal Category) Approved March 11, 2022",
+Engines,Two Pratt & Whitney PT6A-65SC (turboprop)
+Engine Limits,"Max. Permissible 
+ N1 Gas 
+ Interstage 
+ Prop Shaft 
+ Shaft 
+ Torque 
+ Generator 
+ Turbine Temp 
+ Speed (rpm)* 
+ Horsepower 
+ (%)** 
+ Speed (%)* 
+ (ºC) 
+ Takeoff 
+ 1110 
+ 100 
+ 104 
+ 1700 
+ 830 
+ Max. continuous 
+ 1110 
+ 100 
+ 104 
+ 1700 
+ 815 
+ Max. cruise 
+ 980 
+ 100 
+ 104 
+ 1500 
+ 780"
+Starting transient 5 sec,1000
+Max reverse 1 min,"900 
+ 1650 
+ 760"
+Fuel,"FUEL TYPE 
+ SPECIFICATION 
+ JP-8 
+ MIL-DTL-83133 
+ JET A, A-1 
+ ASTM SPEC. D1655 
+ Chinese No.3 Jet Fuel 
+ SAC GB 6537 
+ GOST 10227 or 
+ RT 
+ GSTU 320.00149943.007 
+ GOST 10227 or 
+ TS-1 
+ GSTU 320.00149943.011"
+Fuel capacity,"Total usable fuel 4,826 lb. (720 gal). Two wing tanks with 2,413 lb. (360 gal) usable each (See 
+ NOTE 1 for unusable); +296.81 in. aft of datum."
+Oil,"Pratt & Whitney Maintenance Manual, Document No. 3135622, lists approved brand oils."
+Engine Oil Capacity,"7.2 gal. total (3.6 gal. per each engine) at +242.33 in. (1.5 gal. usable in each integral engine tank). 
+ See NOTE 1."
+Oil temperatures,"Minus 40°C minimum starting 
+ 32°C to 99°C normal operating 
+ >99°C to 110°C limited to 10 minutes 
+ Refer to the Airplane Flight Manual (AFM) for other oil temperature limits."
+Page No,"1 
+ 2 
+ 3 
+ 4"
+Rev No,"0 
+ 0 
+ 0 
+ 0"
+Propeller and,"Two McCauley 4-blade, full feathering and reversible, metal propellers"
+Propeller Limits,"Model: 4HFR34C779/110FDA-0 
+ Diameter: 110 in. (maximum); Minimum Allowable for repairs: 108 in. 
+ No further reduction permitted 
+ Pitch Settings at: 
+ Reverse -9.0 +/- 0.2 degrees 
+ Feathered +88.0 +/- 0.2 degrees 
+ See McCauley Propeller TCDS P3NE for additional details and limitations."
+Airspeed Limitations,"VMO (Maximum operating speed) 
+ Sea Level (0 ft.) to 12,614 ft. 
+ 210 KIAS (210 KCAS) 
+ MMO above 12,614 ft. 
+ 0.40 MI (0.40 MACH calibrated) 
+ VO (Maximum operating maneuvering speed Sea Level) 
+ 19,000 lb. 
+ 151 KIAS (151 KCAS) 
+ See AFM for variations with weight and altitude. 
+ VRA (Rough air speed) 
+ 179 KIAS (179 KCAS) 
+ 0.40 MI (0.40 MACH calibrated) 
+ Flap extension speeds 
+ VFE (Up (0°) to 1 (10°) extension) 
+ 170 KIAS (170 KCAS) 
+ VFE (1 (10°) to 2 (20°) extension) 
+ 170 KIAS (169 KCAS) 
+ VFE (2 (20°) to Full (35°) extension) 
+ 140 KIAS (137 KCAS) 
+ Minimum Control Speeds (VMCA and VMCG) 
+ Refer to AFM Section IV, Performance 
+ Maximum Tire Ground Speed 
+ 139 knots"
+CG Range Design CG Limits,"Forward: 
+ FS 276.56 in. at 10,800 lb. to 14,330 lb. 
+ Linear variation from FS 276.56 in. at 14,330 lb. to FS 281.94 in. at 19,000 lb. 
+ Aft: 
+ Linear variation from FS 290.62 in. at 10,800 lb. to FS 292.70 in. at 16,500 lb. 
+ FS 292.70 in. at 16,500 lb. to 19,000 lb."
+Empty Wt CG,None
+Maximum Weight,"Ramp: 
+ 19,070 lb. 
+ Takeoff: 
+ 19,000 lb. 
+ Landing: 
+ 18,600 lb. 
+ Zero Fuel: 
+ Refer to AFM"
+Minimum Crew,One Pilot
+Number of Seats,"The maximum number of passenger seats approved: 
+ a. Passenger variant is 19. 
+ b. Freighter variant is 0."
+Cabin Loading,Reference Weight and Balance Data in AFM for approved seating and cargo configurations.
+Maximum Baggage,"Nose Compartment: 
+ 300 lb. 
+ Passenger Variant Aft Baggage Compartment (including shelf): 
+ 1,200 lb. 
+ Freighter Variant Cargo Compartment (including shelf): 
+ 6,000 lb. 
+ Passenger Variant Overhead Bin (each): 
+ 60 lb. 
+ Aft Baggage Compartment Shelf: 
+ 400 lb."
+Maximum Operating,"25,000 ft."
+Altitude,"Control Surface Movements (Up/Down/Left/Right refers to motion of the trailing edge of each control surface): 
+ Elevator 
+ Up 
+ 24.0 +1.0/-0.0 degrees 
+ Down 
+ 15.0 +/-1.0 degrees 
+ Elevator Tab 
+ Up 
+ 6.5 +/-1.0 degrees 
+ Down 
+ 13.0 +/-1.0 degrees 
+ Rudder 
+ Right 
+ 30.5 +/-0.5 degrees 
+ Left 
+ 30.5 +/-0.5 degrees 
+ Rudder Tab 
+ Right 
+ 11.0 +/-0.5 degrees 
+ Left 
+ 11.0 +/-0.5 degrees 
+ Aileron Left and Right 
+ Up 
+ 17.5 +1.0/-0.0 degrees 
+ Down 
+ 17.5 +/-1.0 degrees 
+ Aileron Tab Right 
+ Up 
+ 13.0 +/-1.0 degrees 
+ Down 
+ 13.0 +/-1.0 degrees 
+ Wing Flap 
+ Up 
+ 0.0 +/-0.1 degrees 
+ 1 
+ 10.0 +/-1.0 degrees 
+ 2 
+ 20.0 +/-1.0 degrees 
+ Full 
+ 35.0 +/-1.0 degrees 
+ See Airplane Maintenance Manual for rigging instructions."
+Serial Nos Eligible,408-0001 and On
+Datum,91.89 in. forward of nose jack point.
+Leveling Means,"Longitudinal: Place level directly on the outboard pilot seat rail and ensure it is parallel with the 
+ seat rail. 
+ Lateral: Place the leveling bar across the pilot seat rails flush against the rear seat stops at 
+ approximately FS 163.98 in."
+1,"14 CFR Part 23, effective February 1, 1965, including Amendments 23-1 through 23-64."
+2,The detailed design standards used as a means of compliance in accordance with § 23.2010 are documented in PR-408-
+"001, Model 408 Detailed Design Standard Collector. 
+ 3. Special Conditions. At this time, no special conditions have been identified. 
+ 4. Equivalent Safety. At this time, no equivalent safety findings have been identified. 
+ 5 
+ Exemptions. At this time, no exemptions have been identified. 
+ 6 
+ Additional Design Requirements and Conditions. At this time, no additional design requirements have been identified. 
+ 7. Optional Design Regulations. The Model 408 complies with the following optional design regulations: 
+ Ice protection in accordance with § 23.2165 Performance and Flight Characteristics Requirements for Flight in Icing 
+ Conditions and §23.2540 Flight in Icing Conditions provided the optional ice protection systems are installed. Refer to 
+ the AFM for limitations 
+ 8 
+ § 23.2005 Certification Level and Performance Level: 
+ a 
+ Freighter Variant Level 1, Low Speed 
+ b 
+ Passenger Variant Level 4, Low Speed 
+ I 
+ Environmental Standards 
+ 1. Noise Standards: 14 CFR Part 36, as amended by Amendments 36-1 through 36-31. 
+ 44715 
+ 3. Fuel Venting and Exhaust Emissions Standards: 14 CFR Part 34, as amended by Amendments 34-1 through 34-5A. 
+ Production Basis None 
+ Equipment 
+ The basic required equipment as prescribed in the applicable airworthiness regulations (see Certification Basis) must be 
+ installed in the airplane for certification. 
+ Data Pertinent to all Models",
+NOTE 1,"Current weight and balance information, including list of equipment included in certificated empty 
+ weight, and loading instructions are provided for each airplane at the time of original certification. 
+ The certificated empty weight and corresponding center of gravity location must include: 
+ Unusable Fuel 
+ 39.80 lb. at +296.69 in. 
+ Full Oil 
+ 58.32 lb. at +242.33 in."
+NOTE 2,"Airplanes must be operated according to the FAA Approved AFM, part number 408FM-00 AFM Volume 1, 
+ 408NP-00 AFM Volume 2 Normal Procedures, and 408EAP-00 AFM Volume 3 Emergency/ Abnormal 
+ Procedures (or later FAA approved revision). All placards required by either the FAA Approved AFM, the 
+ applicable operating rules, or the certification basis, must be installed as specified for this Type Certificate 
+ via Parts List 7800000, Airplane Assembly. A useful placard reference is the Textron Aviation Illustrated 
+ Parts Catalogue (IPC). Any discrepancies identified between the IPC and an aircraft under inspection needs 
+ to be reconciled using the previously stated parts list."
+NOTE 3,"See Airworthiness Limitations Manual (Chapter 4) for inspections, mandatory retirement life information, 
+ and other requirements for continued airworthiness."
+NOTE 4,"Aircraft definition for Type Certificate is Parts List 7800000, Airplane Assembly."
+NOTE 5,"Certification Maintenance Requirements (CMR) are found in Airworthiness Limitations Manual, Chapter 4. 
+ Engineering approval of the CMRs is documented in the Textron Aviation System Safety Assessment 
+ reports."
+NOTE 6,"The maximum propeller shaft overspeed limit is 110 percent (1,870 rpm) in an emergency to complete flight. 
+ 100 percent propeller shaft speed is defined as 1,700 rpm and is the normal steady state operating limit. Gas 
+ generator speeds up to 104 percent are approved for unlimited periods subject to applicable temperature and 
+ other limits. 100 percent gas generator speed is defined as 37,468 rpm."

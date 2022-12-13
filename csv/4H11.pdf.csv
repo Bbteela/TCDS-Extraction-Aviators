@@ -1,0 +1,585 @@
+Keyterm,Info
+"4H11 
+ Revision 18 
+ SIAM HILLER 
+ UH-12E 
+ UH-12E-L 
+ (Army OH-23G) 
+ (Army H-23F) 
+ January 6, 2010",
+Type Certificate Holder,"Siam Hiller Holdings, Inc. 
+ 925 M. Street 
+ Firebaugh, California 93622-2234"
+Type Certification Ownership,Hiller Aircraft Corporation transferred TC 4H11 to
+Records,"Fairchild Industries, Inc. on 10/2/1959 
+ Fairchild Industries, Inc. transferred TC 4H11 to 
+ Heli-Parts, Inc. on 12/28/1972 
+ Heli-Parts, Inc. transferred TC 4H11 to 
+ Hiller Aviation on 12/28/1972 
+ Hiller Aviation transferred TC 4H11 to 
+ Rogerson Aircraft Corporation on 6/26/1984 
+ Rogerson Aircraft Corporation transferred TC 4H11 to 
+ Hiller Helicopters, a wholly owned subsidiary of Rogerson Aircraft Corporation 
+ on 6/29/1984 
+ Hiller Helicopters, a wholly owned subsidiary of Rogerson Aircraft Corporation 
+ transferred TC 4H11 to Rogerson Hiller Corporation on 11/14/1985 
+ Rogerson Hiller Corporation transferred TC 4H11 to 
+ Siam Hiller Holdings, Inc. on 7/14/1994"
+"I. 
+ Model UH-12E, Approved January 6, 1959 (Army OH-23G and H-23F)",
+Engine,"Lycoming VO-540-A1A, VO-540-B1A, VO-540-B1D, VO-540-B1E, VO-540- 
+ C1A, VO-540-C1B, VO-540-B2D, VO-540-C2A, VO-540-B2E, VO-540-C2B, 
+ or VO-540-C2C. See Engine TCDS E-304 for more details. (Refer to 
+ appropriate Hiller Service Bulletin for requirements for interchanging engine 
+ models.)"
+Fuel,100/100 Low Lead minimum grade aviation gasoline
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11"
+Rev No,"18 
+ 16 
+ 18 
+ 17 
+ 18 
+ 18 
+ 18 
+ 18 
+ 18 
+ 16 
+ 17"
+Engine Limits for all Operations,"Maximum rpm: 3200 (305 hp) (All engines) 
+ Maximum manifold pressure: 
+ VO-540-A1A, -B1A Full Throttle 
+ VO-540-B1D, -B1E, -B2D, -B2E 27.2 in. Hg 
+ VO-540-C1A, -C1B, -C2A, -C2C 25.2 in. Hg"
+Rotor Limits and Engine,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.)"
+Speeds,"Maximum 395 rpm 
+ Maximum 3200 rpm 
+ Minimum 314 rpm 
+ Minimum (sea level to 5000 ft.) 2900 rpm (above 
+ 5000 ft, increase minimum rpm by 20 rpm for each 
+ additional 1000 ft of altitude 
+ (See NOTE 13 for UH-12E with Main Rotor Blades P/N 53200-03)"
+Airspeed Limits,"Configuration 
+ VNE (IAS) 
+ Skid Gear 
+ 96 mph (83 knots) 
+ Float Gear 
+ 86 mph (74 knots) 
+ The above airspeed applies from sea level to 5000 ft. Decrease VNE 2.5 mph 
+ (2.2 knots) per 1000 ft of altitude above 5000 ft. For limits with accessories 
+ installed, see the FAA-Approved Rotorcraft Flight Manual. 
+ (See NOTE 6 for 4-place configurations)"
+Altitude Limits,See FAA-Approved Rotorcraft Flight Manual
+CG Range Longitudinal,"Configuration 
+ Skid Gear 
+ Sta. (79.5) to (84.8) 
+ Float Gear 
+ Sta. (81.0) to (84.8) 
+ For range with accessories installed, see the FAA-Approved Rotorcraft Flight 
+ Manual. 
+ See NOTE 6 for 4-place configuration 
+ See NOTE 13 for UH-12E with Main Rotor Blades P/N 53200-03"
+Datum,107.25 in. fwd of tail boom-fuselage upper mounting face
+CG Range Lateral,"Left of helicopter centerline, 4.83 in. 
+ Right of helicopter centerline, 1.85 in. 
+ (See NOTE 13 for UH-12E with Main Rotor Blades P/N 53200-03)"
+Leveling Means,Top face of flanges under seat
+Maximum Weight,2750 lb (See NOTE 7 or NOTE 13 for increased maximum weight)
+Number of Seats,3 (sta. 53) (See NOTE 6 for 4-place configuration)
+Maximum Baggage,See loading instructions in FAA-Approved Rotorcraft Flight Manual
+Fuel Capacity,"Total 46, 66, or 86 gal. One main tank 46 gal. (sta. 82.9). One or two auxiliary 
+ tanks installed per Hiller Service Bulletin 2008, 20 gal. each (sta. 85.8). 
+ See NOTE 1 for unusable fuel data."
+Oil Capacity,"9.2 qt (sta. 94), or 12.3 qt (sta. 94) with auxiliary fuel tanks installed."
+Other Operating Limitations,"See FAA-Approved Rotorcraft Flight Manual 
+ Measured with respect to the mast. 
+ Note: When the mast is vertical, the helicopter is 1° movement nose up"
+Collective Pitch,"Low setting +1.0°, total travel 10.5° (Measured at Retention Plate) (Low setting 
+ is determined as the lowest which will preclude overspeeding in autorotation)"
+Teetering,"Control rotor ±12°, Main Rotor ±9°"
+Lateral,7.7° to 8.3°
+Longitudinal,"Fwd. 8.0° to 8.5°, Aft 9.0° to 9.2°"
+Neutral,±9° incidence (Rotor hub and wobble plate perpendicular to mast)
+Tail Rotor Blade Flapping,+17° to -17°
+Tail Rotor Pitch Rigging,"T.R. Gearbox P/N 
+ Travel (degrees) 
+ 25200 
+ +15 to -3 
+ 25200-3 or -5 
+ +16 to -4 
+ 25300-5 
+ +20 to -4"
+Horizontal Stabilizer Setting,"Configuration(With helicopter level) 
+ Skid Gear 
+ 0° 
+ Float Gear 
+ -10°"
+Float Pressure Differential,"8.0 psi maximum 
+ (See NOTE 6 for 4-place configuration)"
+Serial Nos Eligible,"Model UH-12E; 942, 954, 2001 through 2166, 2172 through 2229, 2233 
+ through 2241,2246 through 2248, 2253 through 2255, 2257 through 2282, 2286 
+ through 2292, 2294 through 2306, 2309 through 2499, 2518, 5001 and up and 
+ S/N HA3001 through HA3999 for aircraft built from spare and surplus parts by 
+ Hiller Aviation. (See NOTE 12 for additional serial numbers.) 
+ Army OH-23G; 1439 through 1760 and 1762 through 1876. 
+ Army H-23F; 2167 through 2171, 2230 through 2232, 2242 through 2245, 2249 
+ through 2252, 2256, 2283 through 2285, 2293, 2307, and 2308. 
+ In order for individual OH-23G or H-23F helicopters procured under military 
+ cognizance and not having been issued a Form FAA970 ""Conformity Certificate 
+ Military Aircraft"", to be eligible for a Standard Airworthiness Certificate as a 
+ Model UH-12E, it must be determined in each case that the helicopter conforms 
+ to the Model UH-12E type design per CAR 1.67(d) or FAR 21.183(d)."
+Certification basis,"CAR 6 dated December 20, 1956, including Amendments 6-1 and 6-2, 
+ Voluntary compliance with Amendment 6-3 has been established. Type 
+ Certificate 4H11 issued January 6, 1959. Date of Application for Type 
+ Certificate December 13, 1957."
+Production Basis,"None. Before original airworthiness certification of each aircraft manufactured 
+ subsequent to April 23, 2003, an FAA representative must perform a detailed inspection 
+ for workmanship, materials, conformity with the approved technical data, and a check of 
+ the flight characteristics. In the event of an application for a standard airworthiness 
+ certificate or, if an applicant intends to produce new aircraft under 14 CFR § 21.183 
+ (d), and the applicant is manufacturing, building, or assembling to another person’s type 
+ certificate, the applicant must provide written evidence of permission from the type 
+ certificate holder. Conduct of such activity without written evidence of permission may 
+ be a violation of 49 U.S.C. § 44704(a)(3)."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (See Certification basis) must be installed in the helicopter for 
+ certification. Hiller Report 59-30, ""Model UH-12E Master Equipment List,"" 
+ contains a list of all required equipment that must be installed as well as optional 
+ equipment installations approved by FAA. (See NOTE 6 for 4-place 
+ configuration.)"
+"II. Model UH-12E-L, Approved September 18, 1963",
+Engine,Lycoming VO-540-C2A. See Engine TCDS E-304 for more details.
+Fuel,100/100 Low Lead minimum grade aviation gasoline
+Engine Limits for all Operations,"Maximum rpm: 3200 (305 hp) 
+ Maximum manifold pressure: 26.0 in. Hg at sea level varying linearly to 
+ 25.2 in. Hg at 3000 ft."
+Rotor Limits and Engine,"Power Off (Rotor Tach.) 
+ Power On (Engine Tach.)"
+Speeds,"Maximum 370 rpm 
+ Maximum 3200 rpm 
+ Minimum 285 rpm 
+ Minimum (sea level to 10,000 ft.) 3000 rpm 
+ (above 10,000 ft, increase minimum rpm by 10 
+ rpm for each additional 1000 ft of altitude"
+Airspeed Limits,"Configuration 
+ VNE (IAS) 
+ Skid Gear 
+ 106 mph (92 knots) 
+ The above airspeed applies from sea level to 6000 ft. Decreases VNE 3 mph 
+ (2.6 knots) per 1000 ft of altitude above 6000 ft. (For limits with accessories 
+ see FAA-Approved Rotorcraft Flight Manual)"
+Altitude Limits,See FAA-Approved Rotorcraft Flight Manual
+CG range Longitudinal,"Configuration 
+ Skid Gear 
+ Sta. (79.5) to (84.8) 
+ (For limits with accessories see FAA-Approved Rotorcraft Flight Manual.)"
+Datum,107.25 in. fwd of tail boom-fuselage upper mounting face.
+CG Range Lateral,"Left of helicopter centerline, 1.82 in. 
+ Right of helicopter centerline, 1.82 in."
+Leveling Means,Top face of flanges under seat
+Maximum Weight,"3100 lb 
+ Gross weights of up to 3500 lb are permitted for Cargo Hook operations in 
+ accordance with Hiller FAA approved “Model UH-12E-L Helicopter Flight 
+ Manual 3500 lb Gross Weight Operation with Cargo Hook” dated April 4, 1966 
+ or later FAA approved revisions. Operations above 3100 lb gross weights are in 
+ restricted category under FAR 133."
+Number of Seats,3 (sta. 53)
+Maximum Baggage,See loading instructions in Flight Manual.
+Fuel Capacity,"Total 46, 66, or 86 gal. One main tank 46 gal. (sta. 82.9) one or two auxiliary 
+ fuel tanks installed per Hiller Service Bulletin 2008, 20 gal. each (sta. 85.8) 
+ See NOTE 1 for unusable fuel data."
+Oil Capacity,"Engine oil - 8 qt (sta. 94) or 11 qt (sta. 94) with auxiliary fuel tanks installed 
+ Transmission oil - 4.5 qt (sta. 94)"
+Other Operating Limitations,"See FAA-Approved Rotorcraft Flight Manual 
+ Measured with respect to the mast. 
+ Note: When the mast is vertical, the helicopter is 1° movement nose up 
+ Main Rotor Blade Collective Travel +8 1/2° ±0.1° to +20 1/2° ±1/4°"
+Lateral,7° 45' ±1/4° left and 4° 42' ±1/4° right
+Longitudinal,9 1/4° ±1/4° forward and aft
+Tail Rotor Blade Flapping,+17° to -17°
+Tail Rotor Pitch Rigging,"T.R. Gearbox P/N 
+ Travel (degrees) 
+ 25300-3 
+ +20 to -4 
+ 25300-5 
+ +16 to -4"
+Horizontal Stabilizer Setting,"Configuration (With helicopter level) 
+ Skid Gear 
+ -4° ±1°"
+Serial Nos Eligible,"Model UH-12E; 942, 954, 2001 through 2166, 2172 through 2229, 2233 
+ through 2241, 2246 through 2248, 2253 through 2255, 2257 through 2282, 
+ 2286 through 2292, 2294 through 2306, 2309 through 2499 limitations."
+Certification Basis,"CAR 6 dated December 20, 1956, including Amendments 6-1, 6-2, and 6-3. 
+ Compliance with Amendments 6-4 required for rotor and control systems only. 
+ Type Certificate 4H11 reissued September 18, 1963. Date of Application of 
+ Type Certificate February 28, 1961."
+Production Basis,"None. Before original airworthiness certification of each aircraft manufactured 
+ subsequent to April 23, 2003, an FAA representative must perform a detailed inspection 
+ for workmanship, materials, conformity with the approved technical data, and a check of 
+ the flight characteristics. In the event of an application for a standard airworthiness 
+ certificate or, if an applicant intends to produce new aircraft under 14 CFR § 21.183 
+ (d), and the applicant is manufacturing, building, or assembling to another person’s type 
+ certificate, the applicant must provide written evidence of permission from the type 
+ certificate holder. Conduct of such activity without written evidence of permission may 
+ be a violation of 49 U.S.C. § 44704(a)(3)."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (See Certification basis) must be installed in the helicopter for 
+ certification. Hiller Report 63-76, ""Model UH-12E-L Master Equipment List"" 
+ contains a list of all required equipment that must be installed as well as optional 
+ equipment installations approved by the FAA."
+Data Pertinent to all Models,
+NOTE 1,"Current weight and balance report, including list of equipment included in certificated empty 
+ weight, and loading instructions must be in each helicopter at the time of original certification and 
+ at all times thereafter (except in the case of operators having an approved weight control system). 
+ Ballast, when necessary, must be carried in accordance with Loading Instructions in the 
+ FAA-Approved Rotorcraft Flight Manual. 
+ Fuel and Oil capacities as indicated are total tank capacities over and above ""Trapped Fuel and 
+ Oil."" The main fuel tank capacity includes ""Unusable"" fuel of 0.3 gallon, which cannot be used 
+ safely in all flight attitudes, and which must be included in the empty weight. Unusable fuel in the 
+ optional auxiliary fuel tanks is negligible."
+NOTE 2,"The following placard must be installed on the Pilot's Checklist: 
+ ""This Helicopter must be operated in compliance with the operating limitations specified in 
+ the FAA-Approved Rotorcraft Flight Manual."" 
+ For additional placards, see the FAA-Approved Rotorcraft Flight Manual."
+NOTE 3,"The retirement times of critical parts are listed in the following tables. These values of retirement 
+ or service life cannot be increased without FAA Engineering approval. 
+ Life limited components interchanged between UH-12 series models or configurations must be 
+ restricted to the lowest service life indicated for the models or configurations that the individual 
+ part has been used on. If previous service history does not identify the model or configuration, 
+ the lowest service life of all possible models or configurations must be used. Life limited 
+ components removed at retirement are to be destroyed or conspicuously marked to prevent 
+ inadvertent return to service. 
+ MODEL UH-12E 
+ FINITE LIFE COMPONENT"
+NOMENCLATURE,"PART NO. 
+ REPLACEMENT 
+ PERIOD HOURS"
+Blade Assy main rotor Parsons,"2253-1101-03 
+ 2500"
+Blade Assy main rotor Parsons,"2253-1101-04 
+ 2500 NOTE A"
+Blade Assy main rotor,"53200-03 
+ 6670 NOTE H"
+Shaft Assy output speed decreaser,"25202, -5 
+ 5790"
+Plate set main rotor tensiontorsion,"51430-1, -3, -5 
+ 3350 
+ (component of 51430-1 and -3 assembly)"
+Hub Assy main rotor,"51437-9 
+ 1540 
+ (Service Bulletin No. 2014 not complied with)"
+Hub Assy main rotor,"51437-9 
+ 2500 NOTE B 
+ (Service Bulletin No. 2014 complied with)"
+Hub Assy main rotor,"51437-11, -14, -901, -911 
+ 2500 
+ MODEL UH-12E 
+ FINITE LIFE COMPONENT (continued)"
+NOMENCLATURE,"PART NO. 
+ REPLACEMENT 
+ PERIOD HOURS 
+ Pin, main rotor outboard tension torsion 
+ 51452, -1 
+ 643"
+Fork main rotor blade root,"52110-3 
+ 2500"
+Drag strut main rotor blade,"52120, -5 
+ 2500"
+Drag strut main rotor blade,"52120-7 
+ 2500 NOTE H"
+Bar Assy tail rotor tensiontorsion,"55054, -1 
+ 12500"
+"Blade Assy., tail rotor (3-place model)",
+"Blade Assy., tail rotor (4-place model)",
+Yoke Tail Rotor,"55046 (All Dash Numbers) 
+ 2500 NOTE J"
+Snubber Assy engine longitudinal,"63192-7, -11 
+ 4650"
+Snubber Assy engine lateral,"63192-5, -9 
+ 4650"
+Bracket engine snubber,"63197 
+ 6160"
+Bracket engine snubber,"63197-5 
+ 9850"
+Attaching bolts engine snubber,"AN3 
+ 600 
+ (used to attach P/N 63197 bracket to engine deck and snubber)"
+Gimbal outer engine mounting,"63309, -3, -9, -11 
+ 6300"
+Gimbal outer engine mounting,"63309, -3, -9, -11 
+ 5480 NOTE H"
+One way clutch BorgWarner,"X132591 
+ 375 NOTE C"
+One way clutch BorgWarner,"X132815 
+ 375 NOTE C"
+Flyweight collective pitch ballast,"31197-3 
+ 2500 
+ 31318 
+ 15000 
+ 31319, -3 
+ 23500 
+ 31321 
+ 10400"
+Block Assy collective stick,"31344, -3, -5, -7, -9 
+ 6400 NOTE I 
+ 31365 
+ 8150 NOTE H"
+Arm collective pitch blade incidence,"31389 
+ 14500 NOTE H"
+Incidence Arm,"31113-13 
+ 13400 NOTE H 
+ (Old style-Includes Fafnir or Shafer Rod Ends)"
+Incidence Arm,"31333 WA7-75083-S1. 
+ 13400 Note H"
+Heim Rod Ends on Condition,"31403 
+ 21500"
+4place model,"34141, -5 
+ 275 Note D 
+ 36003, 36129, 36129-25 
+ 2500 NOTE F 
+ 36116-4 
+ 5150 NOTE E 
+ 36124 
+ 5150 NOTE G 
+ 6860 NOTE G 
+ 5550 NOTE H, G"
+NOTE A ,"The replacement period for blade assemblies S/N 4261 and subsequent is 6670 hours. The 
+ replacement period for blade assemblies S/N 3396 through S/N 4260 is extended to 6670 hours if 
+ these blades are returned to the manufacturer for installation of rolled-thread anti-node bar assembly 
+ P/N 2253-1124 before 2500 hours time in service."
+NOTE B ,"The 2500 hour service life total includes service time prior to compliance with Hiller Aviation Service 
+ Bulletin No. 2014."
+NOTE C ,Unlimited life after incorporation of Hiller Aviation Service Bulletin No. 2027A.
+NOTE D ,"Any unfaired control rotor blade assembly with an ""R"" after the part number (reworked per Hiller 
+ Aviation Service Bulletin 36-1, Revision 2) must be replaced upon attaining 2500 additional operating 
+ hours after rework."
+NOTE E ,"5150 hour limitation applicable to trunions used with control rotor fairing and blade assy. P/N 36003, 
+ 36129, or 36129-25."
+NOTE F ,"If any of these part numbers are reworked in accordance with Hiller Aviation Service Bulletin 36-1, 
+ Revision 3, the part must still be replaced upon attaining a total time of 2500 hours regardless of the 
+ replacement period shown in Hiller Aviation Service Bulletin 36-1, Revision 3."
+NOTE G ,"All control rotor cuff assemblies installed with control rotor blade assemblies (both faired and 
+ unfaired) with an ""R"" after the part number (reworked per Hiller Aviation Service Bulletin 36-1, 
+ Revision 3) must be replaced upon attaining the original retirement life, but not to exceed 2500 
+ additional hours after rework."
+NOTE H ,"These new or revised replacement periods are for the ""Hiller Model UH-12E with new main rotor 
+ blades 53200-03."" (See NOTE 13 for installation of main rotor blade 53200-03.)"
+NOTE I ,"Part number 31344 Collective Stick block assembly is a matched set consisting of 31344-3 and 31344- 
+ 5. Part number 31344-7 Collective Stick block assembly is a matched set consisting of 31344-5 and 
+ 31344-9. Serial number for both lower and upper blocks must be the same."
+NOTE J ,"Life limited applies only when increased pitch style tail rotor gearbox part number 25300-5 tail rotor 
+ speed decrease is used. 
+ MODEL UH-12E-L 
+ FINITE LIFE COMPONENT"
+NOMENCLATURE,"PART NO. 
+ REPLACEMENT 
+ PERIOD HOURS"
+Main Rotor Blade Assy,"53100 
+ 9250"
+Cuff Assy main rotor blade,"51456 
+ 7300 
+ Rod, drag strut, main rotor blade 
+ WS7-125083-14L-20B-083-856-HT 
+ 2080 
+ Terminal, drag strut, main rotor blade 
+ 52122-3, -5 
+ 2100 
+ Bolt, drag strut, main rotor blade 
+ AN177 
+ 710"
+Hub Assy main rotor,"51455 
+ 6300"
+Rod Assy drag strut,"52125 
+ 57250 
+ Terminal, drag strut, main rotor (cuff end) 
+ 52122-7 
+ 53600 
+ Terminal, drag strut, main rotor (blade end) 
+ 52124-3 
+ 63750 
+ Bolt, drag strut, main rotor (blade end) 
+ NAS 1307-24 
+ 47600"
+Bar Assy tensiontorsion tail rotor,"55054, -1 
+ 12500"
+Blade Assy tail rotor,"55073 (All Dash Numbers) 
+ 5400 
+ Bolt, drag strut, main rotor (cuff end) 
+ NAS 1307-21 
+ 46850"
+Yoke tail rotor,"55046 (All Dash Numbers) 
+ 2500"
+Shaft Assy output,"25202, -5 
+ 5790"
+Engine outer gimbal ring,"63309, -3, -9, -11 
+ 6360 
+ MODEL UH-12E-L 
+ FINITE LIFE COMPONENT (continued)"
+NOMENCLATURE,"PART NO. 
+ REPLACEMENT 
+ PERIOD HOURS 
+ 33333-5 
+ 2120 
+ 33333-1 
+ 150 
+ 33344-1 
+ 150"
+Inner Ring Assy wobble plate,"34017 
+ 77980 
+ 34038 
+ 42910"
+Gimbal ring wobble plate,"34008 
+ 73500 
+ 30034 
+ 63850"
+PushPull Rod Assy collective,"31468 
+ 150 
+ 30036 
+ 10940"
+Rod end,"MDV46-16TMC 
+ 150"
+Rod end Conair,"8127 
+ 69060"
+NOTE 4,"These helicopters must be serviced and maintained in conformance with current Hiller Aircraft 
+ Corporation Instructions for Continued Airworthiness (Inspection Guide), repair handbook, and 
+ service and overhaul manuals for pertinent model."
+NOTE 5,"Deleted May 10, 1960."
+NOTE 6,"Model UH-12E 4-Place Configuration and 4-Place Modification Kit, Hiller Dwg. No. 10044, 
+ installed per Hiller Service Bulletin No. 2010. The following additional limitations apply: (For 
+ limits with accessories installed see FAA-Approved Rotorcraft Flight Manual.) 
+ (a) 
+ Airspeed limits 
+ Configuration 
+ VNE (IAS) 
+ Skid Gear 
+ 95 mph (82 knots) 
+ Float Gear 
+ 86 mph (74 knots) 
+ Decrease VNE 2.5 mph (2.2 knots) 
+ per 1000 ft above 5000 ft 
+ (b) 
+ C.G. range 
+ Skid Gear 
+ Sta. (79.5) to (84.8) 
+ (Longitudinal) 
+ Float Gear 
+ Sta. (81.0) to (84.8) 
+ (c) 
+ No. seats 
+ 1 (sta. 25), 3 (sta. 53) 
+ (d) 
+ Horizontal stabilizer 
+ P/N 37027 
+ +3° (Measured with helicopter level) 
+ (e) 
+ Equipment 
+ The basic required equipment as prescribed in the applicable airworthiness regulations (See 
+ Certification Basis) must be installed in the helicopter for certification. Hiller Report 60- 
+ 60 ""Model UH-12E (4-place) Master Equipment List"" contains a list of all required 
+ equipment that must be installed as well as optional equipment installations approved by 
+ the FAA."
+NOTE 7,"UH-12E, 3- and 4-place configurations are eligible at 2800 pounds maximum weight when items 
+ specified by Hiller Service Bulletin No. 2031 are installed. See FAA-Approved Rotorcraft Flight 
+ Manual for operation limitations."
+NOTE 8,"Model UH-12E Helicopters (3- and 4-place configurations) may be converted to Model UH-12L 
+ or UH-12L4 by accomplishment of Hiller Service Bulletins No. 2040 (Dwg. 10060) and No. 2045 
+ (Dwg. 10059) respectively."
+NOTE 9,"Model UH-12E Helicopters (3-place configuration only) may be converted to Model UH-12L by 
+ accomplishment of Hiller Service Bulletin No. 2039A (Dwg. 10060)."
+NOTE 10,"The Type Certificate holder has demonstrated compliance with FAR 133.43 for the UH-12E 
+ Helicopters for Class B (Jettisonable Sling Load) Rotorcraft - Load Combination at a maximum 
+ overall weight of 3100 pounds and a maximum sling load of 1000 pounds, when modified to 
+ incorporate cargo hook installation per Hiller Dwg. 91012. The helicopter weight without sling 
+ load is not to exceed certificated weight of 2750 pounds (2800 pounds if Hiller Service Bulletin 
+ No. 2031 has been complied with per NOTE 7. of this document). For limitations see pertinent 
+ FAA-Approved Rotorcraft Flight Manual Revision and Rotorcraft- Load Combination Flight 
+ Manual to be submitted by applicant for external load operator's certificate in accordance with 
+ FAR Part 133."
+NOTE 11,"The Type Certificate holder has demonstrated compliance with FAR 133.43 for the UH-12E-L 
+ Helicopters for Class B (Jettison Sling Load) Rotorcraft - Load Combination at a maximum 
+ overall weight of 3500 pounds and a maximum sling load of 1000 pounds, when modified to 
+ incorporate cargo hook installation per Hiller Dwg. 91012. The helicopter weight without sling 
+ load is not to exceed certificated weight of 3100 pounds. For limitations see pertinent FAA- 
+ Approved Rotorcraft Flight Manual revision and Rotorcraft - Load Combination Flight Manual to 
+ be submitted by applicant for external load operator's certificate in accordance with Far 133"
+NOTE 12,"Certain Model UH-12D helicopters may be converted to Model UH-12E in accordance with Hiller 
+ Drawing No. 10054, Revision B, or subsequent FAA-Approved revisions thereto. Refer to this 
+ drawing for serial numbers eligible for such conversion."
+NOTE 13,"The main Rotor Blades P/N 53200-03 may be installed on Hiller Model UH-12E by 
+ accomplishment of Hiller Service Bulletins No. 10-2 and No. 51-3. FAA-Approved Rotorcraft 
+ Flight Manual ""Hiller Model UH-12E Helicopter with 53200-03 Main Rotor Blades"" is required. 
+ The following limitations apply. (For limits with accessories installed, see FAA-Approved 
+ Rotorcraft Flight Manual ""Hiller UH-12E Helicopter with 53200-03 Main Rotor Blades”.) 
+ (a) 
+ Rotor limits and 
+ Power Off (Rotor Tach) 
+ Power On (Engine Tach) 
+ engine operating 
+ speeds 
+ Maximum 395 rpm 
+ Maximum 3200 rpm 
+ Maximum 314 rpm 
+ Minimum (S.L. to 10,000 ft.) 3000 
+ rpm (Above 10,000 ft increase 
+ minimum rpm by 20 rpm for each 
+ additional 1000 ft of altitude) 
+ (b) 
+ Airspeed limits 
+ Configurations 
+ VNE (IAS) 
+ Skid Gear 2801 to 3100 
+ 75 mph (65 knots) decrease VNE 2.5 
+ mph (2.2 knots) per 1000 ft above 
+ pounds 
+ 5000 ft 
+ (c) 
+ Altitude limits 
+ Configuration 
+ Skid Gear - 2800 lb 
+ S.L. to 15,000 feet 
+ Skid Gear-2801 to 3100 
+ S.L. to 7400 feet 
+ lb 
+ (d) 
+ C.G. Range 
+ Configuration 
+ Skid Gear 
+ 2800 pounds 
+ Left of helicopter center line, 3.75 in. 
+ Right of helicopter center line, 1.85 in. 
+ 3100 pounds 
+ Left of helicopter center line, 3.40 in. 
+ Right of helicopter center line, 1.85 in. 
+ The variation in left lateral C.G. is a straight line interpolation 
+ between 2801 pounds and 3100 pounds. 
+ (e) 
+ C.G. Range 
+ Configuration 
+ (Longitudinal) 
+ Skid Gear 
+ Forward: Sta. (79.5) to 7000 feet; 
+ Sta. (80.1) above 7000 feet. 
+ Aft: Sta. (84.8) 
+ (f) 
+ Maximum Weight 
+ 3100 pounds"
+NOTE 14,"Any changes to the type design of this helicopter by means of an amended type certificate (TC), 
+ supplemental type certificate (STC), or amended STC, requiring instructions for continued 
+ airworthiness (ICA's) must be submitted through the project aircraft certification office (ACO) for 
+ review and acceptance by the Fort Worth -Aircraft Evaluation Group (FTW-AEG) Flight 
+ Standards District Office (FSDO) prior to the aircraft delivery, or upon issuance of the first 
+ standard airworthiness certificate for the affected aircraft, whichever occurs later as prescribed by 
+ Title 14 CFR 21.50. Type design changes (major repairs or alterations) by means of a FAA Form 
+ 337 (field approval) that require ICA's must have those ICA's reviewed by the field approving 
+ FSDO."

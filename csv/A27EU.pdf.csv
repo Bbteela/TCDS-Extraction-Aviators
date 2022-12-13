@@ -1,0 +1,262 @@
+Keyterm,Info
+"A27EU 
+ Revision 5 
+ AIRBUS DEFENCE AND SPACE GMBH 
+ EADS DEUTSCHLAND GMBH 
+ DAIMLER CHRYSLER AEROSPACE AG 
+ DAIMLER-BENZ AEROSPACE AG 
+ DEUTSCHE AEROSPACE AG 
+ MESSERSCHMITT-BÖLKOW-BLOHM AG 
+ MESSERSCHMITT-BÖLKOW-BLOHM GMBH 
+ BO-209-150 FV & RV 
+ BO-209-160 FV & RV 
+ BO-209-150 FF 
+ May 6, 2016",
+Type Certificate Holder,"Airbus Defence and Space GmbH 
+ Willy-Messerschmitt-Strasse 1 
+ 85521 Ottobrunn 
+ Germany"
+Type Certificate Ownership Record,"Messerschmitt-Bölkow-Blohm GmbH transferred TC A27EU to Messerschmitt-Bölkow- 
+ Blohm AG on April 1, 1992 (See NOTE 4.) 
+ Messerschmitt-Bölkow-Blohm AG transferred TC A27EU to Deutsche Aerospace AG on 
+ November 30, 1992 
+ Deutsche Aerospace AG transferred TC A27EU to Daimler-Benz Aerospace AG on 
+ January 2, 1995 
+ Daimler-Benz Aerospace AG transferred TC A27EU to Daimler Chrysler Aerospace AG 
+ on November 17, 1998 
+ Daimler Chrysler Aerospace AG transferred TC A27EU to EADS Deutschland GmbH on 
+ July 10, 2000 
+ EADS Deutschland GmbH transferred TC A27EU to Airbus Defence and Space GmbH 
+ on July 1, 2014 
+ (See NOTE 7.)"
+"I - Model BO-209-150 FV and RV, 2 PCLM (Normal and Utility Category), approved 9 July 1971 
+ (FV model has fixed nose L.g.; RV model has retractable nose L.g.).",
+Engine,Lycoming O-320-E1C or O-320-E1F
+Fuel,80/87 minimum grade aviation gasoline
+Engine limits,"For all operations, 2700 r.p.m. (150 hp.)"
+Propeller and,Hartzell HC-C2YL-1B/7663A-6
+propeller limits,"Diameter: 70 in. no further reduction permitted 
+ Pitch setting at 30 in. radius: 
+ High 27° 
+ Low 12°12' 
+ Spinner: MBB P/N 209-61056 
+ Governor: Woodward P/N T210452 or P/N 210681"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"5 
+ - 
+ - 
+ 4 
+ 5 
+ 4"
+Airspeed limits CAS,"Normal and Utility Category 
+ Never exceed 
+ 173 knots (199 m.p.h.) 
+ Maximum structural cruising 
+ 135 knots (155 m.p.h.) 
+ Maneuvering 
+ 117 knots (135 m.p.h.) 
+ Flaps extended 
+ 88 knots (101 m.p.h.) 
+ *Landing gear operation 
+ 104 knots (120 m.p.h.) 
+ *Landing gear extended 
+ 173 knots (199 m.p.h.) 
+ (*Applies only to the RV model)."
+CG range,"Normal Category 
+ (85.47) to (89.37) at 1265 lb. or less 
+ (86.92) to (89.37) at 1808 lb. 
+ Utility Category 
+ (85.47) to (89.37) at 1265 lb. or less 
+ (86.25) to (89.37) at 1565"
+Maximum weight,"1808 lb., for Normal Category 
+ 1565 lb., for Utility Category"
+No of seats,2 at (+ 90.7)
+Maximum baggage,110 lb. at (+114.2)
+Fuel capacity,"39.2 gal. total (38.6 gal. usable; two 19.6 gal., wing tanks at + 90.7)"
+Oil capacity,"8 qt. (+3.94) 
+ See NOTE 1 for unusable fuel and undrainable oil data."
+"II - Model BO-209-160 FV and RV, 2 PCLM (Normal and Utility Category), approved 9 July 1971 
+ (FV model has fixed nose L.g.; RV model has retractable nose L.g.).",
+Engine,Lycoming IO-320-D1A or IO-320-D1B
+Fuel,100/130 minimum grade aviation gasoline
+Engine limits,"For all operations, 2700 r.p.m. (160 hp.)"
+Propeller and,Hartzell HC-C2YL-1B/7663A-6
+propeller limits,"Diameter: 70 in. no further reduction permitted 
+ Pitch setting at 30 in. radius: High 27° 
+ Low 14°57' 
+ Spinner: 
+ MBB P/N 209-61056 
+ Governor: 
+ Woodward P/N T210452 or P/N 210681"
+Airspeed limits CAS,"Normal and Utility Category 
+ Never exceed 
+ 173 knots (199 m.p.h.) 
+ Maximum structural cruising 
+ 135 knots (155 m.p.h.) 
+ Maneuvering 
+ 117 knots (135 m.p.h.) 
+ Flaps extended 
+ 88 knots (101 m.p.h.) 
+ *Landing gear operation 
+ 104 knots (120 m.p.h.) 
+ *Landing gear extended 
+ 173 knots (199 m.p.h.) 
+ (*Applies only to the RV model)."
+CG range,"Normal Category 
+ (85.47) to (89.37) at 1265 lb. or less 
+ (86.92) to (89.37) at 1808 lb. 
+ Utility Category 
+ (85.47) to (89.37) at 1265 lb. or less 
+ (86.25) to (89.37) at 1565 lb."
+Maximum weight,"1808 lb. for Normal Category 
+ 1565 lb. for Utility Category"
+No of seats,2 at (+ 90.7)
+Maximum baggage,110 lb. at (+ 114.2)
+Fuel capacity,"39.2 gal. total (38.6 gal. usable; two 19.6 gal., wing tanks at + 90.7)"
+Oil capacity,"8 qt. (+3.94) 
+ See NOTE 1 for unusable fuel and undrainable oil data."
+"III - Model BO-209-150 FF, 2 PCLM (Normal and Utility Category), approved 9 July 1971 
+ fixed nose Lg",
+Engine,"Lycoming O-320-E2C or O-320-E2F 
+ Fuel 80/87 minimum grade aviation gasoline."
+Engine limits,"For all operations, 2700 r.p.m. (150 hp.)"
+Propeller and,McCauley 1C172MGM-70.5-60 or -66
+propeller limits,"Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2400, not under 2100 
+ No additional tolerance permitted. 
+ Diameter: Maximum 70.5 in., minimum for repairs 70 in. 
+ No further reduction permitted 
+ Spinner: MBB P/N 209-61156"
+Airspeed limits CAS,"Normal and Utility Category 
+ Never exceed 
+ 173 knots (199 m.p.h.) 
+ Maximum structural cruising 
+ 135 knots (155 m.p.h.) 
+ Maneuvering 
+ 117 knots (135 m.p.h.) 
+ Flaps extended 
+ 88 knots (101 m.p.h.)"
+CG range,"Normal Category 
+ (85.47) to (89.37) at 1265 lb. or less 
+ (86.92) to (89.37) at 1808 lb. 
+ Utility Category 
+ (85.47) to (89.37) at 1265 lb. or less 
+ (86.25) to (89.37) at 1565 lb."
+Maximum weight,"1808 lb., for Normal Category 
+ 1565 lb., for Utility Category"
+No of seats,2 at (+ 90.7)
+Maximum baggage,110 lb. at (+114.2)
+Fuel capacity,"39.2 gal. total (38.6 gal. usable; two 19.6 gal., wing tanks at + 90.7)"
+Oil capacity,"8 qt. (+3.94) 
+ See NOTE 1 for unusable fuel and undrainable oil data."
+DATA PERTINENT TO ALL MODELS,
+Control Surface Movements,"Ailerons 
+ Up 29° + 1° 
+ Down 14° + 1° 
+ Wing flaps 
+ Down 35° + 0° 
+ - 3° 
+ Stabilator 
+ Up 18° + 1° 
+ Down 9° + 1° 
+ Rudder 
+ Left 28° + 2° 
+ Right 28° + 2° 
+ Stabilator trim, distance measured between trailing edge of trim tab 
+ and trailing edge of stabilator with stabilator in the neutral position. 
+ tab neutral: 
+ 0.32 in. Down, 
+ + 0.08 in. 
+ nose down: 0.20 in. Up, 
+ + 0.08 in. 
+ nose up: 
+ 0.66 in. Down, + 0.08 in. 
+ total travel: 
+ 0.86 in. 
+ + 0.16 in."
+Datum,75.51 in. forward of wing leading edge at split line of the wing/wing stub fairing.
+Leveling means,Two leveling points on left side of fuselage.
+Serial Nos eligible,"Serial Numbers 121 and subsequent. 
+ The Federal Republic of Germany Government Certificate of Airworthiness for Export 
+ endorsed as noted below under ""Import Requirements"" must be submitted for each 
+ individual aircraft for which application for airworthiness certification is made."
+Certification basis,"FAR 21.29 and FAR 23 dated 1 February 1965 as amended by Amendments 23-1 
+ through 23-9 inclusive. Type Certificate No. A27EU, issued 9 July 1971. 
+ Date of Application for Type Certificate: 11 May 1970. 
+ The Luftfahrt Bundesamt originally type certificated this aircraft under its type certificate 
+ Number 680. The FAA validated this product under U.S. Type Certificate Number 
+ A27EU. Effective September 28, 2003, the European Aviation Safety Agency (EASA) 
+ began oversight of this product on behalf of Germany. 
+ The EASA type certificate for the BO-209 models is EASA.A.357."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on an NAA Export Certificate 
+ of Airworthiness (Export C of A) signed by a representative of the Luftfahrt Bundesamt 
+ on behalf of the European Community. The Export C of A should contain the following 
+ statement: ‘The aircraft covered by this certificate has been examined, tested, and found 
+ to comply with U.S. airworthiness regulations 14 CFR Part 23 approved under U.S. 
+ Type Certificate No. A27EU and to be in a condition for safe operation.’"
+Service Information,"Each of the documents listed below must state that it is approved by the European 
+ Aviation Safety Agency (EASA) or – for approvals made before September 28, 2003 – 
+ by the Luftfahrt Bundesamt. 
+ • Service bulletins, 
+ • Structural repair manuals, 
+ • Vendor manuals, 
+ • Aircraft flight manuals, and 
+ • Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved unless one of the 
+ following conditions exists: 
+ • The documents change the limitations, performance, or procedures of the FAA 
+ approved manuals; or 
+ •The documents make an acoustical or emissions changes to this product’s U.S. type 
+ certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. The 
+ FAA may delegate on case-by-case to EASA to approve on behalf of the FAA for the 
+ U.S. type certificate. If this is the case it will be noted on the document."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. In addition, 
+ the following items of equipment are required: 
+ 1. 
+ Stall Warning System. 
+ 2. 
+ LBA-approved Model BO-209 Approved Flight Manual, Ref. No. 
+ LF37E-7/71 dated July 1971 or later LBA-approved revision, (prior to September 
+ 28, 2003), or approved by EASA on or after that date. 
+ 3. 
+ Airplanes S/N 121 through 130 must be modified in accordance with MBB 
+ Technical Note TN 9-71 to provide an alternate static system source 
+ and an aural landing gear warning system. (These systems are incorporated 
+ in production on S/Ns 131 and subsequent)."
+NOTE 1,"Current weight and balance report including list of equipment in certificated empty weight, and loading 
+ instructions when necessary, must be provided for each airplane at the time of original airworthiness 
+ certification. The certificated empty weight and corresponding center of gravity must include 
+ undrainable oil of 0 lbs. at +39.4 and unusable fuel of 3.6 lb. at +90.7."
+NOTE 2,"The following placard must be displayed in front and in clear view of the pilot: 
+ ""This airplane must be operated as a Normal or Utility Category airplane in compliance with their 
+ operating limitations stated in the form of placards, markings, and manuals."" 
+ In addition, all placards required in the LBA-approved Airplane Flight Manual must be installed 
+ in the appropriate location."
+NOTE 3,"Information essential for proper maintenance of the airplane is contained in the Messerschmitt-Bolkow- 
+ Blohm GmbH., Model BO-209 Maintenance Manual included in MBB document Ref. LF 37E-7/71."
+NOTE 4,"The airplane manufacturer is: 
+ Waggon- und Maschienenbau A.G. 
+ Donauworth, Laupheim 
+ Federal Republic of Germany 
+ (A division of Messerschmitt-Bolkow-Blohm)."
+NOTE 5,"Installation of a Tost tow coupling (ring type), LBA approval No. 60.230.4 may be approved when 
+ installed in accordance with MBB Drwg. 209-85003 (for glider towing) or MBB Drwgs. 209-85003 
+ and 209-8700 (for banner towing)."
+NOTE 6,"For issuance of an airworthiness certificate in accordance with 14 CFR Part 21.182(c), the Luftfahrt Bundesamt of 
+ Germany must certify that the airplane conforms to the type design and is in a condition for safe operation. In that 
+ regard, the Luftfahrt Bundesamt of Germany will certify that the airplane complies with all applicable mandatory 
+ continuing airworthiness information (MCAI) it has issued. For issuance of an airworthiness certificate in 
+ accordance with 14 CFR Part 21.182(d) the certificating inspector, or other authorized person, must find, among 
+ other things, that the product is in a condition for safe operation. In order to make that finding, the certificating 
+ inspector or other authorized person should contact ACE-112, Federal Aviation Administration, Small Airplane 
+ Directorate, prior to issuance to determine whether showing airplane compliance with certain MCAI is necessary 
+ to support a finding that the airplane is in a condition for safe operation."
+NOTE 7,"Some of these transfers were not notified to the FAA and so in some instances the actual type certificates were 
+ not reissued."

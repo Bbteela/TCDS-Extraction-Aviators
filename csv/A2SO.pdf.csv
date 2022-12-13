@@ -1,0 +1,563 @@
+Keyterm,Info
+"A2SO 
+ Revision 4 
+ LOCKHEED 
+ 300-50A-01 (USAF C-141A) 
+ October 25, 2001",
+Type Certificate Holder,"Lockheed Martin Corporation 
+ Lockheed Martin Aeronautics Company 
+ 86 S. Cobb Drive 
+ Marietta GA 30063"
+"I - Model 300-50A-01 (USAF C-141A) (Cargo transport aircraft), approved January 29, 1965. 
+ See Note 4 for explanation of model configuration.",
+Engines,"4 Pratt and Whitney turbofan TF33-P-7 with anti-icing regulator assembly, P/N 
+ 476015GI, and heated PT2 probes"
+Fuel,"MIL-J-5624E, grades JP-4 and JP-5, and fuel conforming to Pratt and Whitney 
+ Specification No. 522D or later revisions."
+Oil,MIL-L-7808D
+Engine limits,"Static thrust, standard day, sea level 
+ Take-off (5 min.) 
+ 21,000 lbs. 
+ Maximum continuous 
+ 18,000 lbs. 
+ Maximum permissible engine rotor operating speed 
+ Low pressure compressor (N1) 
+ 6,870 
+ High pressure compressor (N2) 
+ 10,095 
+ Maximum permissible temperature 
+ (1) 
+ Turbine outlet - gas 
+ Take-off (5 min.) 
+ 555°C 
+ 1030°F 
+ Maximum continuous 
+ 488°C 
+ 910°F 
+ Maximum acceleration (2 min.) 
+ 555°C 
+ 1030°F 
+ Starting (momentary) 
+ 454°C 
+ 850°F 
+ (2) 
+ Oil inlet (continuous operation) 
+ 121°C 
+ 250°F 
+ Maximum permissible air bleed extraction 
+ % of primary 
+ engine airflow 
+ (1) 
+ Normal 
+ Take-off 
+ 3.5% 
+ Maximum continuous and below 
+ 6.5% 
+ (2) 
+ Intermittent 
+ At take-off 
+ 5.8% 
+ At idle through maximum continuous 
+ 7.7%"
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9"
+4,"- 
+ 3 
+ 3 
+ - 
+ - 
+ - 
+ - 
+ -"
+Airspeed limits,Vmo (maximum operating)
+calibrated,"Sea level to 25,000 ft. 
+ 350K 
+ Mmo = .825 at 25,000 ft. and above 
+ Va (maneuvering) 
+ For maneuvering speed variation, refer to FAA 
+ approved Airplane Flight Manual 
+ Vfe (flap extended speeds) 
+ (1) 
+ Flap deflection 0% to 88% 
+ (take-off and approach position) 
+ Sea level to 24,200 ft. 
+ 200K 
+ .48M above 24,200 ft. 
+ (2) 
+ Flap deflection 88% to 100% (landing position) 
+ Sea level to 24,700 ft. 
+ 185K 
+ .45M above 24,700 ft. 
+ Vb (rough air gust speed) 
+ Sea level to 36,800 ft. 
+ 270K 
+ Mb = .825 at 36,800 ft. and above 
+ Vlo (landing gear operating) 
+ Sea level to 24,200 ft. 
+ 200K 
+ Mlo = .48 at 24,200 ft. and above 
+ Vle (landing gear extended) 
+ Sea level to 23,200 ft. 
+ 235K 
+ Mle = .550 at 23,200 ft. and above 
+ Vll (landing light extended) 
+ Sea level 
+ 320K 
+ Mll = .53 above 5,000 ft. 
+ Vmc (minimum control speed, air) 
+ Refer to FAA approved Airplane Flight Manual 
+ V (spoilers) 
+ (1) 
+ Normal operating 
+ Sea level to 19,800 ft. 
+ 350K 
+ .75M at 19,800 ft. and above 
+ (2) 
+ Spoilers minimum speed 
+ Refer to FAA approved Airplane Flight Manual 
+ V (fuel jettison speed) 
+ All speeds up to Vmo - Mmo 
+ V (tire speed limit) (ground speed) 
+ 174K"
+Heated windshield,"If electric windshield heat is operative, it must be used for all"
+limits,"flight operations. Operation without electric windshield heat is 
+ permissible provided: 
+ (1) 
+ The airplane is not flown in known icing conditions. 
+ (2) 
+ The maximum speed limit for flight below 10,000 ft. is 
+ (a) 
+ 250 KCAS if the center windshield heat is inoperative. 
+ (b) 
+ 350 KCAS if the pilot's or co-pilot's windshield heat is inoperative."
+CG range,"When the aircraft is loaded such that its zero fuel weight with the landing gear down 
+ is within the envelope depicted by Figure 2, the aircraft center of gravity will remain 
+ within the approved center of gravity limits (Figure 1) when fuel is loaded (up to 
+ maximum gross weight) and used in the approved sequence. See Notes 1(b) and 1(d)."
+Datum,230.4 inches forward of the nose. Nose is fuselage station 230.40.
+MAC,"265.7 inches, leading edge M.A.C., F. S. 858.9"
+Leveling means,"A plumb-bob attachment is located overhead in the cargo compartment at F.S. 956.5, 
+ 102 inches from the floor on the left side. A leveling grid is directly below the plumb- 
+ bob fitting on the left walkway. See Lockheed drawing 3M00012 for aircraft jacking."
+Maximum weight,"Ramp weight 
+ 318,000 lbs. (1) 
+ Take-off weight 
+ 316,600 lbs. (1) 
+ Airborne weight 
+ 316,100 lbs. (1) 
+ Landing weight 
+ 257,500 lbs. (2) & (4) 
+ Maximum zero fuel weight 
+ 204,620 lbs. (3) 
+ (1) 
+ All weight in excess of maximum zero fuel weight must consist of usable fuel 
+ and usable oil. All weight in excess of 257,500 lbs. must consist of jettisonable 
+ fuel. 
+ (2) 
+ Fuel jettison values are provided for operation in excess of the maximum 
+ landing weight. See Note 1(e). 
+ (3) 
+ This weight includes 138 lbs. of usable oil. 
+ (4) 
+ Do not land with a total fuel weight of more than 75,000 lbs."
+Minimum crew,"Three (3) - Pilot, Co-pilot, and Flight Engineer 
+ See Note 5"
+Maximum passengers,"79 - limited by emergency exit requirements when operated over land. For over water 
+ operation, a maximum of 8 occupants may be carried aboard airplane (see Certification 
+ Basis)."
+Maximum cargo,"Cargo Compartment 
+ Capacity 
+ Max. Loading 
+ Station lbs. lb/ft2 lb/ft 
+ 482-678 
+ - 
+ 300 
+ 2000 
+ 678-998 
+ - 
+ 400 
+ 3000 
+ 998-1292 
+ - 
+ 300 
+ 2000 
+ 1292-1398 
+ (2) 
+ 200 
+ 1000 
+ Totals (1) 
+ (1) Maximum cargo loading is limited to 72,131 lbs. 
+ (2) Maximum total lbs. that can be placed in the ramp area is 7,500."
+Fuel Capacity,"Total 
+ Total 
+ Usable Each Tank 
+ Tank 
+ Gal. Ea. 
+ Max. Lbs. 
+ Gal. 
+ Max. Lbs. 
+ Arm 
+ 2 outboard main 
+ 1,260 
+ 8,193 
+ 1,229 (1)(3) 
+ 7,986 (1)(3) 
+ 1136.04 
+ (#1 & #4) 
+ 2 outboard aux. 
+ 2,572 
+ 16,716 
+ 2,570 
+ 16,704 
+ 1020.0 
+ (#1 & #4) 
+ 2 extended range 
+ 4,141 
+ 26,915 
+ 4,129 
+ 26,836 
+ 922.6 
+ (LH & RH) 
+ 2 inboard aux. 
+ 1,701 
+ 11,056 
+ 1,696 
+ 11,022 
+ 916.4 
+ (#2 & #3) 
+ 2 inboard main 
+ 2,176 
+ 14,142 
+ 2,167 (3) 
+ 14,083 (3) 
+ 818.5 
+ (#2 & #3) 
+ Plumbing (both 
+ sides) 
+ 78 
+ 506 
+ 14 
+ 90 (2) 
+ 904.0 
+ Aircraft Total 
+ 23,777 
+ 154,550 
+ 23,593 (3) 
+ 153,351(1)(3) 
+ (1) 
+ Usable fuel in each outboard main tank will be increased 93.2 lbs., or 14.3 gal. 
+ per tank (186.4 lbs., 28.6 gals. per airplane) by incorporation of ECP-471P, 
+ T.C.T.O.-1-C-141A-853. Drawings affected are 3W31011, Rev. G; 3W31729, 
+ Rev. A; and 3W00021, Rev. B. 
+ (2) 
+ This fuel recoverable as follows: 
+ 28 lbs. from each outboard main tank to engine plumbing. 
+ 17 lbs. from each inboard main tank to engine plumbing. 
+ (3) 
+ For airplanes with the one main tank booster pump system, and with ECP 471 P 
+ incorporated (see (1) above) the usable fuel will be: 1213 gal. and 7885 lbs. for 
+ the #1 and #4 main tanks, 2163 gal. and 14,062 lbs. for the #2 and #3 main tanks 
+ and 23,555 gal. and 153,108 lbs. for the aircraft total. 
+ Fuel weights are based on fuel density of 6.5 lbs/gal. These weights are shown to the 
+ nearest pound. Gross weights and weights shown must not be exceeded when using 
+ fuel with a greater density. 
+ See Note 1(c) for unusable system fuel, Note 1(d) for fuel loading and usage 
+ procedures, and Note 1(e) for jettisonable fuel."
+Oil capacity,"Total Gal. 
+ Total Lbs. 
+ Usable 
+ per tank 
+ per tank 
+ Lbs/tank 
+ Four engine tanks 
+ 4.59 
+ 34.4 
+ 30.68 
+ Constant speed drive tank 
+ 1.16 
+ 8.7 
+ See Note 1(c) for system oil. Oil weight based on 7.5 lbs. per gallon."
+Maximum operating altitude,"40,000 ft."
+Other operating limits,See FAA approved Airplane Flight Manual.
+Control  rigging,"Control surface movements and rigging instructions for the following systems are 
+ shown on the following FAA approved drawings. 
+ Nomenclature 
+ Lockheed Drawing 
+ Aileron 
+ 3C03027 
+ Brakes & Rudder 
+ 3C03003 
+ Elevator 
+ 3C03004 
+ Emergency Depressurization System 
+ 3C03921 
+ 3E11794 
+ 3F42163 
+ Emergency Fuel Shut-off 
+ 3C03006 
+ Emergency Landing Gear 
+ NLG release 
+ 3C03010 
+ MLG release 
+ 3C03012 
+ Flaps 
+ 3C03023 
+ Horizontal Stabilizer & Pitch Trim 
+ 3C03028 
+ Landing Gear, Nose 
+ 3G60207 
+ Landing Gear, Main 
+ 3G10207 
+ Nose Wheel Steering 
+ 3C03014 
+ Pressure Door, Aft 
+ 3F42008 
+ Ramp Cargo Door 
+ 3F42007 
+ Rear Cargo Door, Petal 
+ 3F42009 
+ Spoiler 
+ 3C24741 
+ Throttle 
+ 3C03005 
+ Thrust Reversers 
+ 3P22578"
+Serial Nos eligible,6001 and up
+Certification basis,"Application for Type Certificate dated March 16, 1961. 
+ CAR 1 dated October 1, 1955, including Amendments through 1-4 effective 
+ December 31, 1960. 
+ CAR 4b dated December 31, 1953, including Amendments through 4b-11 effective 
+ October 1, 1959, and paragraph 4b.307 of Amendment 4b-12 effective May 3, 1962. 
+ CAR 13 paragraph 13.260, 13.260(a), 13.252(a), 13.252(b), 13.254, 13.255, June 15, 
+ 1956, including Amendments 13-3 effective October 1, 1959, and paragraph 13.260(a) 
+ of Amendment 13-4 effective May 3, 1962. 
+ Airplane and equipment requirements: 
+ SR-422B dated July 9, 1959, corrected July 15, 1959. 
+ SR-424C dated August 30, 1960 (now FAR 91 effective September 30, 1963, paragraph 
+ 91.97). 
+ SR-440 dated June 7, 1960. 
+ SR-444 dated February 14, 1961 (now FAR 91 effective September 30, 1963, 
+ paragraph 91.99). 
+ SR-450A dated August 31, 1962, through Amendment 2 dated August 1, 1964. 
+ For cargo only operations: 
+ CAR 40 dated September 14, 1959, including Amendments through 40-38. 
+ CAR 41 dated April 15, 1955, including Amendments 41-38. 
+ CAR 42 dated December 15, 1954, including Amendments through 42-44. 
+ For operations that involve the carrying of passengers: 
+ FAR 91 dated September 30, 1963, Change 14 dated January 10, 1966. 
+ Type Certificate No. A2SO issued January 29, 1965. 
+ Compliance with the following optional requirements has been established. 
+ Ditching provisions approved for a maximum of eight occupants (two 7-man life rafts 
+ and emergency equipment secured to crew upper bunk). CAR 4b.361. 
+ Ice protection provisions. CAR 4b.640."
+Production basis,Production Certificate No. 205
+Required equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. Lockheed 
+ Report ER 5786, Part I, ""Master Equipment List, Model 300-50A-01 (USAF C- 
+ 141A),"" be installed, as well as optional equipment installations approved by the FAA. 
+ The ""FAA approved Airplane Flight Manual for the Lockheed Model 300- 50A-01 
+ (USAF C-141A) airplane equipped with Pratt & Whitney TF33-P-7 engines"" as revised 
+ August 30, 1965, is also required. 
+ Appendix I dated March 7, 1968, to the approved flight manual is required when the 
+ aircraft configuration incorporates one fuel pump per main tank. (See Note 11)."
+Service information,"Lockheed Model 300-50A-01 (USAF C-141A) Operation and Maintenance Instructions, 
+ Service Bulletins, and other service information, when FAA approved, will carry a 
+ statement to that effect."
+Note 1 a,"The Handbook of Weight and Balance Data for the Models 300-50A-01 contains current weight and balance 
+ data, a list of installed equipment, and loading instructions. A current weight and balance report, including a list 
+ of equipment included in the certificated empty weight, and loading instructions when necessary, must be in 
+ each aircraft at the time of original certification and at all times thereafter except in the case of operators having 
+ an approve weight control system."
+b,The airplane must be loaded so that the zero fuel weight c.g. is within the specified limits. See Figure 2.
+c,"The weight of system fuel and trapped oil, as defined below and as listed in the Handbook of Weight and 
+ Balance Data for the Model 300-50A-01 airplane, must be included in the airplane empty weight. 
+ System Fuel (total unusable fuel): The weight of all fuel which is unavailable to the engines, the weight of fuel 
+ remaining in the aircraft when the engines have consumed fuel down to the zero point on the fuel gauges, the 
+ sum of ""drainable unusable fuel"" and ""trapped unusable fuel"" as defined below. 
+ Drainable Unusable Fuel: The weight of fuel which can be drained from the airplane by the normal procedure 
+ prescribed by the Handbook of Weight and Balance Data for the Model 300-50A-01 airplane, but which is 
+ unavailable to the engines under flight conditions as prescribed by CAR 4b.416. 
+ Trapped Unusable Fuel: The weight of fuel which can neither be drained by the normal procedures prescribed 
+ by the Handbook of Weight and Balance Data for the Model 300-50A-01 airplane, nor consumed by the engines 
+ under flight conditions as prescribed by CAR 4b.416. 
+ Lbs. per 
+ Gal. per 
+ Airplane (1) 
+ Airplane 
+ Drainable Unusable Fuel 
+ No. 1 & No. 4 
+ Main tanks 
+ 391.6(2)(3) 
+ 60.2 
+ Auxiliary tanks 
+ 17.0 
+ 2.6 
+ No. 1 & No. 2 
+ Extended range tanks 
+ 94.0 
+ 14.5 
+ No. 2 & No. 3 
+ Auxiliary tanks 
+ 43.0 
+ 6.6 
+ Main tanks 
+ 97.3(3) 
+ 15.0 
+ Trapped Unusable Fuel 
+ No. 1 & No. 4 
+ Main tanks 
+ 21.46 
+ 3.35 
+ Auxiliary tanks 
+ 7.34 
+ 1.13 
+ No. 1 & No. 2 
+ Extended range tanks 
+ 64.98 
+ 10.00 
+ No. 2 & No. 3 
+ Auxiliary tanks 
+ 24.8 
+ 3.82 
+ Main tanks 
+ 19.56 
+ 3.00 
+ Fuel lines (engine feed line 
+ 416.49 
+ 64.08 
+ fuel is usable by the engines) 
+ System Fuel (total unusable fuel) 
+ 1197.53(2)(3) 
+ 184.3 
+ (1) 
+ Fuel weights fare based on a density of 6.5 lbs. per gal. 
+ (2) Drainable unusable fuel in the No. 1 and No. 4 main tanks will be decreased by 93.2 lbs. per tank, 186.4 
+ lbs. per airplane, by incorporation of ECP- 471P,T.C.T.O.-1-C-141A-853. Drawings affected are 
+ 3W31011, Rev. G, 3W31729, Rev. A, and 3W00021, Rev. B. The resulting system fuel (total unusable 
+ fuel) is 1011.13 lbs. per airplane. 
+ (3) 
+ For airplanes with the one main tank booster pump system, and with ECP-471 P incorporated (see (2) 
+ above) the drainable unusable fuel will be 593.0 lb. for the No. 1 and No.4 main tanks (total) and 139.6 lb. 
+ for the No. 2 and No. 3 main tanks (total), and the total unusable system fuel will be 1441.23 lb. per 
+ airplane. 
+ Trapped Oil: The weight of engine oil remaining in the aircraft after draining oil from drain valve at bottom of 
+ each oil tank, plus total constant speed drive oil. 
+ Pounds 
+ Arm 
+ Constant speed drive oil (total) 
+ 109.0 
+ 770.2 
+ Engine Oil (trapped) 
+ 69.0 
+ 780.0 
+ Trapped Oil 
+ 178.0 
+ 774.0"
+d,"Fuel loading and usage procedures are dictated by the requirements of structural design and the necessity to 
+ maintain airplane c.g. within approve limits. Refer to the FAA approved Airplane Flight Manual for take-off, 
+ landing, and normal fuel distribution limitations; normal fuel system management; and fuel system malfunction 
+ procedures. 
+ Fuel must be loaded symmetrically above the airplane centerline."
+e,"Fuel jettison. Fuel jettisoning must be available for operation of the airplane in excess of the maximum landing 
+ weight. The unjettisonable fuel must be included in the airplane landing weight, and the amount of usable fuel 
+ remaining in the tanks after complete jettisoning is as follows. 
+ All tanks 
+ Outboard main 
+ Nos. 1 & 4 
+ 13,624 lbs. 
+ 6,812 lbs. per tank 
+ Outboard auxiliary 
+ Nos. 1 & 4 
+ 11,000 lbs. 
+ 5,500 lbs. per tank 
+ Extended range 
+ LH & RH 
+ 1,500 lbs. 
+ 750 lbs. per tank 
+ Inboard auxiliary 
+ Nos. 2 & 3 
+ 700 lbs. 
+ 350 lbs. per tank 
+ Inboard main tanks 
+ 25,796 lbs. 
+ 12,898 lbs. per tank"
+f,"All airplanes must be weighted (actually weighted, rather than weight computed) prior to receiving an 
+ airworthiness certificate of civil operation."
+Note 2 Reserved,"Note 3 All replacement seats (crew, observer, and lounge), although they may comply with TSO- C39, must also be 
+ demonstrated to be in compliance with the vertical gust load factors in CAR 4b.211(b) which exceed the TSO 
+ requirements. Other installations such as berths, buffets, compartments, or items of mass which could create a 
+ hazard to the safety of the crew, must also be demonstrated to meet the same requirements. 
+ two additional sets of numbers; the first set represents the engine, and the second set represents the type of interior at 
+ the time of issuance of the original airworthiness certificate."
+Note 5 a,"When special navition equipment is required for flight operation, the airplane must be operated with a minimum 
+ crew of four, the pilot, co-pilot, flight engineer, and navigator."
+b,"When weather radar equipment is required for flight operation, the airplane must be operated with a minimum 
+ crew of four, the pilot, co-pilot, flight engineer, and qualified crew member. 
+ Note 6 S/N 6001 - 6004 require inspection of the horizontal stabilizer rear spar fitting (drawing 3T33011) for stress 
+ Note 7 S/N 6001 and subsequent aircraft require inspection of the center fuselage (F.S. 958- 998) for fatigue cracks. 
+ Note 8 Phillips PFA-55MB anti-icing additive is approved for use at concentrations not in excess of 0.15% by volume. 
+ Note 9 The aircraft and its systems must be inspected, adjusted, and calibrated in accordance with the referenced data 
+ contained in Lockheed Engineering Report No. ER 7698, or by other means acceptable to the FAA Southern Region,"
+Engineering and Manufacturing Branch,"ER-9543, ""C-141A AWLS and Vertical Navigation System Master Drawing List"", has been demonstrated to 
+ Lockheed C-141 AFM Supplement dated October 6, 1967, is required as part of this installation. 
+ Note 11 Aircraft are eligible for operation with only one fuel booster pump in each main tank when the aircraft is modified 
+ in accordance with data shown on Lockheed drawing 3P18025. 
+ DESIGN CENTER OF GRAVITY LIMITS 
+ MAC = 265.7 inches 
+ L.E. MAC = F.S. 858.9 
+ Legend (C.G. Travel): 
+ Flight Limits 
+ Taxi & Jacking Limits 
+ 320 
+ 280 
+ 1,000 LB. 
+ 240 
+ GROSS WEIGHT 
+ 200 
+ 160 
+ 120 
+ 14 
+ 18 
+ 22 
+ 26 
+ 30 
+ 34 
+ CENTER OF GRAVITY 
+ % MAC 
+ Figure 1. 
+ ALLOWABLE ZERO FUEL WEIGHT 
+ CENTER OF GRAVITY ENVELOPE 
+ LANDING GEAR DOWN 
+ MAC 
+ = 
+ 265.7 
+ L.E. MAC 
+ = 
+ F.S. 858.9 
+ Envelope for JP-4, JP-5, and Kerosene 
+ Envelope extension for JP-4 
+ 210 
+ 200 
+ 190 
+ 1,000 LB. 
+ 180 
+ 170 
+ 160 
+ GROSS WEIGHT 
+ 150 
+ 140 
+ 130 
+ 120 
+ 900 
+ 910 
+ 920 
+ 930 
+ 940 
+ FUSELAGE STATION, INCHES 
+ Figure 2."

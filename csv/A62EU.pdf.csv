@@ -1,0 +1,269 @@
+Keyterm,Info
+"A62EU 
+ Revision 4 
+ DORNIER SEASTAR 
+ Seastar CD2 
+ March 2, 2007",
+Type Certificate Holder,"Dornier Seastar Gmbh & Co KG 
+ Schloss Seefeld 
+ D-82229 Seefeld 
+ Germany 
+ Type Certificate Ownership Record Dornier Composite Aircraft GmbH & Co. KG 
+ SEASTAR Division 
+ Flugplatz Oberpfaffenhofen 
+ D-8031 Wessling 
+ Federal Republic of Germany"
+"Model. SEASTAR CD2, certified on June 10, 1991. 
+ General Operation 
+ The aircraft SEASTAR CD2 is a twin engine, amphibious (incl. salt water 
+ environmental), cantilever, high wing aircraft associated with unpressurized 
+ fuselage and float sponsons integrally attached to the main hull, one on each 
+ side. The airframe is almost entirely constructed of composite materials, using 
+ glass fiber, carbon fiber and rigid cellular foam. 
+ Characteristics",
+Engines,"Two Pratt & Whitney Canada, Inc., PT6A-135A Turboprop engine are tandem 
+ mounted on the center line on top of the wing."
+Fuel,"Listed in the POH (Pilot's Operating Handbook), Section 2, Page 2-6."
+Engine Limits,"Take Off/Max. Continuous Power 
+ 650 shp 
+ Max. Cruise/Max. Climb Power 
+ 500 shp"
+Propellers,"McCauley 4-blade, constant-speed, full feathering reversible, 
+ hydraulically-actuated and auto-feathering propellers. 
+ - front type: 
+ 4HFR34C760/95DA, diameter: 2.40 m 7.87 ft 
+ - aft type: 
+ 4HFR34C761/L95DZ, diameter: 2.35 m 7.71 ft 
+ Pitch range: 
+ Front propeller, at 30 inch/76.2 cm station: 
+ Low pitch: 
+ 15.5º ± 0.2 
+ Pitch range: 
+ 15.5º -85º42' to 86º 
+ Feather: 
+ 85º42' ± 0.2 
+ Reverse pitch: 
+ -9º ± 0.2 
+ Rear propeller, at 30 inch/76.2 cm station: 
+ Low pitch: 
+ 16.0º ± 0.2"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5"
+Rev No,"4 
+ 3 
+ 4 
+ 4 
+ 3 
+ Pitch range: 
+ 16.0º -83º48' to 86º 
+ Feather: 
+ 83º48' ± 0.2 
+ Reverse pitch: 
+ -9º ± 0.2"
+Propeller Limits,"Propeller rpm (const. speed) 
+ 1900 rpm (at 650 shp) 
+ No life limited parts 
+ Propeller ground idle rpm for continuous operation between 700 and 1100 
+ propeller rpm is prohibited."
+Airspeed Limits,"EAS (m/s) KEAS 
+ KCAS*1) 
+ Max. Maneuvering Speed 
+ VA 
+ 72.02 
+ 140 
+ 140 
+ Max. Gear Extended Speed 
+ VLE/VLO 
+ 77.16 
+ 150 
+ 150 
+ Flap Extended Speeds 
+ Flap Settings 20º 
+ VF20 
+ 72.02 
+ 140 
+ 140 
+ 30º 
+ VF30 
+ 66.87 
+ 130 
+ 130 
+ 40º 
+ VF40/VFE 
+ 61.73 
+ 120 
+ 120 
+ Stalling Speeds (4600 kg) 
+ Flap Settings UP 
+ VS1 
+ 40.12 
+ 78 
+ 78 
+ 40º 
+ VS0 
+ 33.44 
+ 65 
+ 65 
+ Design Cruising Speed 
+ VC*2) 
+ 92.59 
+ 180 
+ 182 
+ Max. Speed in Level Flight 
+ VH 
+ 92.08 
+ 179 
+ 180 
+ Max. Diving Speed 
+ VD 
+ 115.72 
+ 225 
+ 227 
+ Design Speed for 
+ Max. Gust Intensity 
+ VB 
+ 70.98 
+ 138 
+ 138 
+ Max. Operating Speed 
+ VMO 
+ 92.08 
+ 179 
+ 180 
+ *1) Is considered for the certification height of 15000 ft. 
+ For speeds up to 150 kts: EAS = CAS. 
+ *2) Increased only for design purposes."
+Center of Gravity,"The center of gravity (CG) location is permitted to vary within the following 
+ forward and aft limits. 
+ Forward limit: 
+ Up to 4600 kg (10141 lbs) 
+ 18% MAC 
+ (QE 5152) 
+ Aft limit: 
+ Up to 4600 kg (10141 lbs) 
+ 32 % MAC 
+ (QE 5407) 
+ CG limits are given as percentage to the mean aerodynamic chord 
+ (MAC = 1.825 m). 
+ The center of gravity range location in the vertical plane is depending on take 
+ off weight and is permitted to vary with the following limits: 
+ Max.: 
+ HE2752 
+ Min.: 
+ HE2212"
+Empty Weight CG Range,None
+Datum,See C.G. Range.
+Leveling Means,"Reference of water level at water line 1750. Four marked inserts of fuselage 
+ (two LH, two RH) at station 2000 and station 7800."
+Maximum Weights,"Max. Ramp Weight 
+ 4650 kg 
+ 10251 lbs 
+ Max. Take-Off Weight 
+ 4600 kg 
+ 10141 lbs 
+ Max. Landing Weight: Land 
+ 4500 kg 
+ 9920 lbs 
+ Max. Landing Weight: Water 
+ 4600 kg 
+ 10141 lbs 
+ Min. Design Weight 
+ 2900 kg 
+ 6339 lbs"
+Minimum Crew,1 Pilot
+Number of Seats,Maximum 12
+Max Weight in Baggage,180 kg (397 lbs) in rear baggage area between station 7900 and 8600.
+Max Fuel Capacity,1387 kg (3058 lbs) (usable = 458 gal)
+Oil Capacity,Total oil capacity per engine: 14 U.S. Quarts (13.25 Liters)
+Control Surface Movements,"Flaps Deflection Positions: 
+ 0º/20º/30º/40º 
+ Aileron Deflection: 
+ -23.5º/ +9.5º 
+ Elevator Deflection: 
+ -30º/ +20º 
+ Rudder Deflection: 
+ -30º/ +30º"
+DATA APPLICABLE FOR ALL MODELS,
+Serial Nos Eligible,S/N 1003 and following S/Ns (see Import Requirements).
+Type Certification Basis,"The type certification basis for the Dornier Seastar Model CD2 airplane is as 
+ follows: Part 21 of the Federal Aviation Regulations (FAR), § 21.29; Part 23 of 
+ the FAR, effective February 1, 1965, including amendments 23-1 through 
+ 23-34; Special Federal Aviation Regulation (SFAR) No. 27, effective 
+ February 1, 1974, as amended by amendments 27-1 through 27-8; Part 36 of 
+ the FAR, effective December 1, 1969, as amended by amendments 36-1 
+ through amendment 36-18. 
+ (Docket No. 061CE, Special Conditions 23-ACE-44) 
+ Special Conditions; Dornier Seastar CD2 Series Airplanes 
+ and Exemptions for FAR Part 23 Amdt. 34 §23.807(d)(1) and §23.807(d)(1)(i) 
+ The Luftfahrt Bundesamt originally type certificated this aircraft under its type 
+ certificate Number 2065. The FAA validated this product under U.S. Type 
+ Certificate Number A62EU. Effective September 28, 2003, the European 
+ Aviation Safety Agency (EASA) began oversight of this product on behalf of 
+ Germany."
+Import Requirements,"This aircraft is not eligible for operations in the United States. Please contact 
+ the FAA, Small Airplane Directorate at Kansas City, Missouri for additional 
+ information."
+Equipment,"Basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see ""Certification Basis"") must be installed in the aircraft for 
+ certification."
+Service Information,"Each of the documents listed below must state that it is approved by the 
+ European Aviation Safety Agency (EASA) or – for approvals made before 
+ September 28, 2003 – by the Luftfahrt Bundesamt. 
+ • Service bulletins, 
+ • Structural repair manuals, 
+ • Vendor manuals, 
+ • Aircraft flight manuals, and 
+ • Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved unless 
+ one of the following conditions exists: 
+ • The documents change the limitations, performance, or procedures of the 
+ FAA approved manuals; or 
+ •The documents make an acoustical or emissions changes to this product’s 
+ U.S. type certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. 
+ The FAA may delegate on case-by-case to EASA to approve on behalf of the 
+ FAA for the U.S. type certificate. If this is the case it will be noted on the 
+ document."
+NOTE 1,"Weight and Balance 
+ Current weight and balance data together with a list of equipment included in 
+ the certificated empty weight, and loading instructions, must be provided for 
+ each aircraft at the time of original certification."
+NOTE 2,"Placards 
+ All placards listed in the approved Airplane Flight Manual must be installed in 
+ the appropriate locations. Each airplane has to be supplied with a placard that 
+ specifies the kind of operations to which the operation of the individual 
+ airplane is limited by its installed equipment. 
+ The following placard must be displayed on the instrument panel in full view of 
+ the pilot: 
+ ""OPERATIONAL LIMITS 
+ The marking and placards installed in this airplane contain operating 
+ limitations which must be complied with when operating this airplane in the 
+ commuter category. Other limitations which must be compiled with when 
+ operating this airplane in this category are contained in the: 
+ PILOT'S OPERATIONS HANDBOOK and LBA APPROVED AIRPLANE 
+ FLIGHT MANUAL."" 
+ ""No acrobatic maneuvers including pins, approved."""
+NOTE 3,"Airworthiness Limitations 
+ Chapter 05 of the SEASTAR CD2 Airplane Maintenance Manual, specifies 
+ mandatory replacement times, structural inspection intervals, and related 
+ structural procedures, and operation checks for continuous airworthiness. This 
+ also fulfills the requirements of 14 CFR Sections 21.29, 43.16 and 91.403 of 
+ FAA Regulations. 
+ The Airworthiness Limitation Section 05-05-00 may not be changed without 
+ FAA-approval."
+NOTE 4,"Operations Limitations 
+ Type Approval is applied for parts of equipment and installations that are 
+ required for VFR/night operation only. 
+ Flight under known icing conditions is prohibited."
+NOTE 5,"Life Limits. 
+ Service Life Limited components airframe: 30,000 flight hours. 
+ Every 3,600 flight hours the ""Significant Structural Items Inspection"" and 
+ prior to 30,000 flight hours the ""Airframe Major Inspection"" must be 
+ performed. This may provide the necessary clearance for further flight."
+NOTE 6,"Painting 
+ White is the only permitted color for the aircraft frame. Changing the color 
+ and the thickness of the coat is only permissible after prior approval by the 
+ manufacturer."

@@ -1,0 +1,896 @@
+Keyterm,Info
+"H3EU 
+ Revision 24 
+ AIRBUS HELICOPTERS 
+ DEUTSCHLAND GmbH 
+ BO-105A 
+ BO-105C 
+ BO-105S 
+ BO-105LS A-1 
+ BO-105LS A-3 
+ March 2, 2022",
+Type Certificate Holder,"AIRBUS HELICOPTERS DEUTSCHLAND GmbH (AHD) 
+ D-88609 Donauwoerth 
+ Germany"
+Type Certificate Holder Record,"Messerschmitt-Bolkow-Blohm-Gmbh transferred TC H3EU to EUROCOPTER 
+ DEUTSCHLAND GMBH (ECD) on October 14, 1992. 
+ Eurocopter Deutschland GmbH changed name to Airbus Helicopters Deutschland GmbH 
+ on January 7, 2014."
+"I. 
+ MODEL BO-105 A (Normal Category) Helicopter, approved 19 April 1971.",
+Engines,"2 Allison, Model 250-C18"
+Fuel,"MIL-T-5624 Grade JP-4 and JP-5 
+ ASTM-D-1655A 
+ ASTM-D-1655A-1 
+ ASTM-D-1655B 
+ (See NOTES 4 and 5)"
+Engine Limits,"N2 
+ N1 
+ Output Shaft 
+ Gas Generator 
+ Torque 
+ Turbine 
+ Speed 
+ Speed 
+ Pressure 
+ Temp. 
+ 749°C 
+ Takeoff (5 min.) 
+ 100% 
+ 100% 
+ 101% 
+ (1380°F) 
+ (317HP) 
+ (51600rpm) 
+ (6000rpm) 
+ 693°C 
+ 97.3% 
+ Maximum continuous 
+ 85% 
+ 100% 
+ (1280°F) 
+ (270HP) 
+ (6000rpm) 
+ (49760rpm) 
+ (See FLM for other limitations including speed and temperature transients)."
+Rotor Limits,"Power off: 
+ Power on: 
+ Maximum 467 r.p.m. 
+ Maximum 433 r.p.m. 
+ (Triple tach reading 110%) 
+ (Triple tach reading 102%) 
+ Minimum 361 r.p.m. 
+ Minimum 403 r.p.m. 
+ (Triple tach reading 85%) 
+ (Triple tach reading 95%) 
+ See FLM for transient limits"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16"
+Rev No,"24 
+ 16 
+ 19 
+ 19 
+ 16 
+ 23 
+ 16 
+ 16 
+ 22 
+ 22 
+ 22 
+ 24 
+ 22 
+ 22 
+ 22 
+ 23"
+"I. 
+ Airspeed Limits 
+ Never Exceed Speed (Vne) (CAS) - 135 knots (155.5 m.p.h.) 
+ Never Exceed Speed (Vne) (CAS) for steady autorotation -100 knots (115 m.p.h.) 
+ Decrease Never Exceed Speed Vne with altitude in accordance with FLM.CAS 
+ CG Range 
+ Longitudinal C.G. limits: 
+ 122.1 in. to 133.7 in. aft RD at 4629 lbs. 
+ 121.3 in. to 133.7 in. aft RD at 3968 lbs. 
+ Straight line variation between points given. 
+ Lateral C.G. Limits: 
+ 3.9 in., left or right of longitudinal plane of symmetry of the helicopter. 
+ Empty Weight CG Range 
+ None. 
+ Maximum Weight 
+ 4629.0 lbs. 
+ Minimum Crew 
+ 1 at 68.3 in. to 76.2 in. aft RD. 
+ Passengers 
+ 1 at 68.3 in. to 76.2 in. aft RD. 
+ 3 at 105.9 in. aft RD. 
+ Maximum Baggage 
+ Small compartment: 
+ 44.0 lbs., at 167.3 in. aft RD. 
+ Cargo compartment: 
+ Maximum cargo floor loading is 120 p.s.f. Maximum cargo load is 
+ limited by weight-and-balance consideration. 
+ Fuel Capacity 
+ 153 gal., total (150.5 gal., usable; 126 gal. in main tank at 
+ 126.8 in. aft RD and 24.5 gal. in supply tank at 89.6 in. aft RD). 
+ (See NOTE 1 for unusable fuel data) 
+ Oil Capacity 
+ Engine oil: 
+ 2.4 gal., total (1.2 gal, at 129.7 in. aft RD for each engine) 
+ (See NOTE 1 for undrainable oil data) 
+ Transmission oil: 
+ 2.7 gal., total at 129.7 in. aft RD. 
+ (See NOTE 1 for undrainable oil data) 
+ Maximum Operating Altitude 
+ 13,700 ft. 
+ For rigging information refer to the Model BO 105 Maintenance and 
+ Movements 
+ Overhaul Manual. 
+ II. Model BO-105 C (Normal Category) Helicopter, approved 20 April 1972.",
+Engines,"2 Allison Model 250-C20, or 
+ 2 Allison Model 250-C20B 
+ MIL-T5624 Grade JP-4 and JP-5 
+ ASTM-D-1655A 
+ ASTM-D-1655A-1 
+ ASTM-D-1655B 
+ (See NOTES 4 and 5)"
+Engine Limits,"Allison Model 250-C20 
+ Output 
+ Gas 
+ Torque 
+ Shaft 
+ Turbine 
+ Generator 
+ Power 
+ Speed 
+ Temp. 
+ Speed 
+ 793°C 
+ Takeoff (5 min.) 
+ 100% 
+ 100% 
+ 102% 
+ (1460°F) 
+ (400SHP) 
+ (6016rpm) 
+ (52000 rpm) 
+ 777°C 
+ Maximum continuous 
+ 100% 
+ 101% 
+ 96.3% 
+ (1430°F) 
+ (51490rpm) 
+ (385SHP) 
+ (6016rpm)"
+Engine Limits,"Allison Model 250-C20B 
+ Output 
+ Gas 
+ Torque 
+ Shaft 
+ Turbine 
+ Generator 
+ Power 
+ Speed 
+ Temp. 
+ Speed 
+ 810°C 
+ Takeoff (5 min.) 
+ 105% 
+ 100% 
+ 104% 
+ (1490°F) 
+ (420SHP) 
+ (6016rpm) 
+ (53000 rpm) 
+ 779°C 
+ 102% 
+ Maximum continuous 
+ 100% 
+ 100% 
+ (1434°F) 
+ (400SHP) 
+ (52220rpm) 
+ (6016rpm) 
+ (See FLM for other limitations including speed and temperature transients)."
+Transmission Limits,"Helicopter Variant C-2 
+ Takeoff and maximum continuous (all engines operating) 317 SHP/Engine 
+ (Corresponding to 79% torque.) 
+ Takeoff and maximum continuous (one-engine-inoperative) 371 SHP (93% torque.) 
+ Helicopters, equipped with main transmission ZF FS 72 B and modified according 
+ to MBB Service Bulletin No. 60-44 have the same power limitations as Variant CB-2 
+ Helicopter Variant CB-2 
+ For helicopters from S/N 321 and up, of for helicopters up to S/N 
+ 320 incl. incorporating MBB Service Bulletin No. 60-33, or parts list 
+ MBB 105-80020 and MBB 105-80019, or MBB 105-80021 and MBB 105-80019. 
+ The following apply: 
+ Takeoff and maximum continuous (all engines operating) 345 SHP/Engine 
+ (corresponding to 86% torque.) 
+ Takeoff and maximum continuous (one-engine-inoperative) 380 SHP (95% torque.) 
+ Helicopter Variant CB-4 
+ For helicopters which are identical with Variant CB-2 and equipped with MBB Service 
+ Bulletin No. 80-77 or Kit No. 105-80026 which are valid for S/N 1 to S/N 7 and in 
+ addition for all helicopters S/N 751and up, the transmission limits for the Variant CB-2 
+ apply. 
+ Helicopter Variant CB-5 
+ For helicopters which are identical with Variant CB-4 and equipped with ECD-Kit No. 
+ 105-80081/105-80082 the transmission limits for the variant CB-2 apply. (See NOTE 13)."
+Rotor Limits,"Power off: 
+ Maximum 467 rpm (Triple tach reading 110%) 
+ Minimum 361 rpm (Triple tach reading 85%) 
+ Power on: 
+ Maximum 433 rpm (Triple tach reading 102%) 
+ Minimum 403 rpm for airspeeds up to and including Never Exceed Speed (Vne)-20 
+ Knots. (Triple tach reading 95%) 
+ Minimum 416 rpm for airspeed above Never Exceed Speed (Vne)-20 Knots 
+ (Triple tach reading 98%) 
+ See FLM for transient limits."
+Airspeed Limits,"Never exceed speed (Vne) (CAS) - 145 Knots (167 m.p.h.) up to 5291 lbs. 
+ Never exceed speed (Vne) (CAS) - 130 Knots (150 m.p.h.) above 5291 lbs. 
+ Decrease Never Exceed Speed (Vne) (CAS) with altitude in accordance with FLM. 
+ Never Exceed Speed (Vne) (CAS) for steady autorotation - 100 Knots (115 m.p.h.) 
+ Helicopter Variant CB-5 
+ Never Exceed Speed (Vne) (CAS) - 145 kts (167 m.p.h.) up to 5070 lb. 
+ Never Exceed Speed (Vne) (CAS) - 135 kts (156 m.p.h.) above 5070 lb. 
+ Decrease Never Exceed Speed (Vne) with altitude in accordance with RFM. 
+ Never Exceed Speed (Vne) (CAS) in steady autorotation – 100 kts (115 m.p.h.)"
+CG Range,"Longitudinal C.G. limits for Variant C-2: 
+ Maximum forward up to 3968 lbs - 121.3 in. aft RD. 
+ Maximum forward up to 4629 lbs - 122.1 in. aft RD. 
+ Maximum forward up to 5070 lbs - 123.0 in. aft RD. 
+ Maximum rearward up to 5070 lbs - 129.7 in. aft RD. 
+ Maximum rearward up to 4629 lbs- 133.7 in. aft RD. 
+ Longitudinal C.G. limits for Variant CB-2: 
+ Maximum forward up to 3968 lbs - 121.3 in. aft RD. 
+ Maximum forward at 5291 lbs - 123.0 in. aft RD. 
+ Maximum rearward at 5291 lbs - 129.7 in. aft RD. 
+ Maximum rearward up to 4409 lbs- 133.7 in. aft RD. 
+ (See NOTE 6 and 7) 
+ Straight line variation between points given. 
+ Longitudinal C.G. limits for Variant CB-4, CB-5: 
+ The limits are identical with Variant CB-2 which are equipped 
+ with OPT 49. (See NOTE 6). 
+ Lateral C.G. Limits: 
+ 3.9 in., left or right of longitudinal plane of symmetry of the helicopter up to 5291 lbs 
+ 3.15 in. left or right of longitudinal plane of symmetry of the helicopter above 5291 lbs"
+Empty Weight CG Range,None
+Maximum weight,"5070 lbs 
+ 5291 lbs (See NOTE 6) 
+ 5512 lbs (See NOTE 7)"
+Minimum Crew,1 at 68.3 in. to 76.2 in. aft RD.
+Passengers,"1 at 68.3 in. to 76.2 in. aft RD. 
+ 3 at 105.9 in. aft RD."
+Maximum Baggage,"Small compartment: 
+ 44.0 lbs, at 167.3 in. aft RD. 
+ Cargo compartment: 
+ Maximum cargo floor loading is 120 p.s.f. Maximum cargo load is limited by weight- 
+ and-balance considerations."
+Fuel Capacity,"153 gal., total (150.5 gal., usable; 126 gal. in main tank at 126.8 in. 
+ (See NOTE 1 for unusable fuel data). aft RD and 24.5 gal. in supply tank at 89.6 in. aft RD)."
+Oil Capacity,"Engine oil: 
+ (See NOTE 1 for undrainable oil data) 2.4 gal., total (1.2 gal., at 129.7 in. aft RD for each engine) 
+ Transmission oil: 
+ 2.7 gal. total at 129.7 in. aft RD."
+Maximum Operating,Up to and including 5291 lbs
+Altitude,"17,000 ft. when operating on MIL-T-5624 Grade JP5 or ASTM-D-1655 J Jet A-1. 
+ 13,700 ft. when operating on MIL-T-5624 Grade JP4 or ASTM-D-1655 Jet B or 
+ alternate fuel (AVGAS mixture). 
+ Above 5291 lbs.: 
+ 10,000 ft."
+"III. Model BO-105 S (Normal Category) Helicopter, Approved July 25, 1977. 
+ The Model BO 105 S differs from the Model BO 105 C by an extended cabin. Helicopters Model BO-105 C can be modified to 
+ Model BO-105 S by parts list MBB 105-S-00001 or MBB 105-S-00002 (S/N 161 to S/N 300) or MBB 
+ 105-S-00003 (from S/N 301 and up).",
+Engines,"2 Allison Model 250-C20, or 
+ 2 Allison Model 250-C20B"
+Fuel,"MIL-T5624 Grade JP-4 and JP-5 
+ ASTM-D-1655A 
+ ASTM-D-1655-A1 
+ ASTM-D-1655B 
+ (See NOTES 4 and 5)"
+Engine Limits,"Allison Model 250-C20 
+ Output 
+ Gas 
+ Torque 
+ Turbine 
+ Shaft 
+ Generator 
+ Power 
+ Speed 
+ Temp. 
+ Speed 
+ 793°C 
+ Takeoff (5 min.) 
+ 100% 
+ 100% 
+ 102% 
+ (1460°F) 
+ (400SHP) 
+ (52000rpm) 
+ (6016rpm) 
+ 777°C 
+ Maximum continuous 
+ 96.3% 
+ 100% 
+ 101% 
+ (1430°F) 
+ (385SHP) 
+ (6016rpm) 
+ (51490rpm) 
+ Allison Model 250-C20B 
+ Output 
+ Gas 
+ Torque 
+ Shaft 
+ Turbine 
+ Generator 
+ Power 
+ Speed 
+ Temp. 
+ Speed 
+ 810°C 
+ Takeoff (5 min.) 
+ 105% 
+ 100% 
+ 104% 
+ (1490°F) 
+ (420SHP) 
+ (53000rpm) 
+ (6016rpm) 
+ 779°C 
+ 102% 
+ Maximum continuous 
+ 100% 
+ 100% 
+ (1434°F) 
+ (400SHP) 
+ (52220rpm) 
+ (6016rpm) 
+ (See RFM for other limitations including speed and temperature transients)."
+Transmission Limits,"Helicopter Variant CS-23 
+ Takeoff and maximum continuous (all engines operating) 317 SHP/Engine 
+ (Corresponding to 79% torque) 
+ Takeoff and maximum continuous (one engine inoperative) 371 SHP. (93% torque) 
+ Helicopters equipped with main transmission ZF FS 72B and modified according to MBB 
+ Service Bulletin No. 60-44 have the same power limitations as Variant CBS-2. 
+ Helicopter Variant CBS-2 
+ For helicopters in series from S/N 321 and up or for helicopters incorporating MBB 
+ Service Bulletin No. 60-33, or parts list MBB 105-80020 and MBB 105-80019 or MBB 
+ 105-80021 and MBB 105-80019 (helicopter S/N up to S/N 320 incl.), the following 
+ apply: 
+ Takeoff and maximum continuous (all engines operating) 345 SHP/Engine 
+ (Corresponding to 86% torque) 
+ Takeoff and maximum continuous (one engine inoperative) 380 SHP (95% torque)"
+Transmission Limits,"Helicopter Variant CBS-4 
+ For helicopters which are identical with the Variant CBS-2 and equipped with MBB 
+ Service Bulletin No. 80-77 or Kit No. 105-80026 which are valid for S/N 1 to S/N 750, 
+ and in addition for all helicopters S/N 751 and up, the transmission limits for the Variant 
+ CBS-2 apply. 
+ Helicopter Variant CBS-5 
+ For helicopters which are identical with the Variant CBS-4 and equipped 
+ with ECD-Kit No. 105-80038/105-80033 (up to helicopter serial number 901), 
+ or 105-80838/105-80833 (helicopter serial number 902 and up the 
+ transmission limits for the Variant CBS-2 apply. (See NOTE 13)."
+Rotor Limits,"Power off: 
+ Maximum 442 rpm (Triple tach reading 104%) 
+ Minimum 361 rpm (Triple tach reading 85%) 
+ Power on: 
+ Maximum 433 rpm (Triple tach reading 102%) 
+ Minimum 403 rpm for airspeeds up to and including Vne - 20 kts. 
+ (Triple tach reading 95%) 
+ Minimum 416 rpm for airspeeds above Vne - 20 kts. 
+ (Triple tach reading 98%) 
+ See RFM for transient limits."
+Airspeed Limits,"Never Exceed Speed (Vne) (CAS) - 145 Knots (167 m.p.h.) up to 5291 lb. 
+ Never Exceed Speed (Vne) (CAS) - 130 Knots (150 m.p.h.) above 5291 lb. 
+ Decrease Never Exceed Speed (Vne) with altitude in accordance with RFM. 
+ Never Exceed Speed (Vne) (CAS) in steady autorotation - 100 Knots (115 m.p.h.) 
+ Helicopter Variant CBS-5 
+ Never Exceed Speed (Vne) (CAS) - 145 kts (167 m.p.h.) up to 5070 lb. 
+ Never Exceed Speed (Vne) (CAS) - 135 kts (156 m.p.h.) above 5070 lb. 
+ Decrease Never Exceed Speed (Vne) with altitude in accordance with RFM. 
+ Never Exceed Speed (Vne) (CAS) in steady autorotation - 100 kts (115 m.p.h.)"
+CG Range,"Longitudinal C.G. limits for Variant CS-2. 
+ Maximum forward up to 3968 lbs. - 121.3 in. aft RD. 
+ Maximum forward up to 4629 lbs. - 122.1 in. aft RD. 
+ Maximum forward up to 5070 lbs. - 123.0 in. aft RD. 
+ Maximum rearward up to 5070 lbs. - 129.7 in. aft RD. 
+ Maximum rearward up to 4629 lbs. - 133.7 in. aft RD. 
+ Longitudinal C.G. limits for Variant CBS-2. 
+ Maximum forward up to 3968 lbs. - 121.3 in. aft RD. 
+ Maximum forward at 5291 lbs. - 123.0 in. aft RD. 
+ Maximum rearward at 5291 lbs. - 129.7 in. aft RD. 
+ Maximum rearward up to 4409 lbs. - 133.7 in. aft RD. 
+ (See NOTE 6 and 7) 
+ Straight line variation between points given. 
+ Longitudinal C.G. limits for Variant CBS-4, CBS-5. The limits are identical with the 
+ Variant CBS-2 which are equipped with OPT 49 (See NOTE 6). 
+ Lateral C.G. Limits 
+ 3.9 in., left or right of longitudinal plane of symmetry of the helicopter 
+ 3.15 in., left or right of longitudinal plane of symmetry of the helicopter for weights 
+ above 5291 lbs."
+Empty Weight CG Range,None.
+Maximum Weight,"5070 lbs. 
+ 5291 lbs. (See NOTE 6) 
+ 5512 lbs. (See NOTE 6 and 7)"
+Minimum Crew,1 at 58.3 in. to 66.2 in. aft RD.
+Passengers,"1 at 68.3 in. to 76.2 in. aft RD; 
+ 3 at 105.9 in. aft RD or 4 at 100.4 in. aft RD if the optional equipment ""Back to Back 4 
+ seat bench"" (MBB105S - 82660) is installed."
+Maximum Baggage,"Small compartment: 
+ 44.0 lbs. at 167.3 in. aft RD. 
+ Cargo compartment: 
+ Maximum Cargo floor loading is 120 p.s.f. 
+ Maximum cargo load is limited by weight-and-balance considerations."
+Fuel Capacity,"153 gal., total (150.5 gal., usable; 126 gal. in main tank at 126.8 in. 
+ (See NOTE 1 for unusable fuel data). aft RD and 24.5 gal. in supply tank at 89.6 in. aft RD."
+Oil Capacity,"Engine oil: 
+ (See NOTE 1 for undrainable oil data) 2.4 gal., total (1.2 gal., at 129.7 in. aft RD for each engine). 
+ Transmission oil: 
+ 2.7 gal., total at 129.7 in. aft RD."
+Maximum Operating,Up to and including 5291 lbs.:
+Altitude,"17,000 ft. when operating on MIL-T-5624 Grade JP5 or ASTM-D-1655 J Jet A-1 
+ 13,700 ft. when operating on MIL-T-5624 Grade JP4 or ASTM-D-1655 Jet B, 
+ or alternate fuel (AVGAS Mixture). 
+ Above 5291 lbs.: 
+ 10,000 ft. 
+ For rigging information refer to the Model BO-105 Maintenance and"
+Movements,Overhaul Manual.
+"IV. Model BO-105 LS A-1 (Normal Category) Helicopter, March 10, 1986. 
+ The Model BO-105 LS differs from the Model BO-105 S by new engines and a new transmission, both with higher power level, 
+ more efficiency in the engine oil cooling-system and an improved electrical system. 
+ See NOTE 8 and 9",
+Engines,2 Allison Model 250-C28C
+Fuel,"MIL-T5624 Grade JP-4 and JP-5 
+ ASTM-D-1655A 
+ ASTM-D-1655A-1 
+ ASTM-D-1655B 
+ (See NOTES 4 and 5)"
+Installed Engine Limits,"Gas 
+ Output Shaft 
+ Speed - N1 
+ Speed - N2 
+ Temperature 
+ (C° (°F) 
+ Torque (FT-LBS) 
+ (RFM) 
+ (RFM)"
+Takeoff power,"54 (333) 
+ 104 (52980) 
+ 102 (6136) 
+ 791 (1455)"
+5 minutes,"49 (302) 
+ 104 (52980) 
+ 102 (6136) 
+ 741 (1365)"
+25 min power,"78 (481) 
+ 104 (52980) 
+ 102 (6136) 
+ 810 (1490) 
+ 70 (432) 
+ 104 (52980) 
+ 102 (6136) 
+ 791 (1455) 
+ (See FLM for other limitations including speed and temperature transients)."
+Rotor Limits,"Power off: 
+ Maximum 442 rpm (Triple tach reading 104%) 
+ Minimum 361 rpm (Triple tach reading 85%) 
+ Power on: 
+ Maximum 433 rpm (Triple tach reading 102%) 
+ Minimum 424 rpm (Triple tach reading 100%) above 12000 ft. 
+ Minimum 416 rpm (Triple tach reading 98%) below 12000 ft. 
+ See FLM for transient limits."
+Airspeed Limits,"Never Exceed Speed Vne (CAS) - 145 knots (167 mph). 
+ Decrease Vne with altitude in accordance with FLM. 
+ Vne for steady autorotation is limited to 90 Knots 
+ (104 m.p.h.) or less (see FLM)"
+CG Range,"Longitudinal C.G. Limits 
+ Maximum forward up to 3968 lbs. - 121.3 in. aft RD. 
+ Maximum forward at 5291 lbs. - 123.0 in. aft RD. 
+ Maximum rearward at 5291 lbs. - 129.7 in. aft RD. 
+ Maximum rearward up to 4409 lbs. - 133.7 in. aft RD. 
+ Straight line variation between points given. 
+ Lateral C.G. Limits 
+ 3.9 in., left or right of longitudinal plane of symmetry of the helicopter."
+Empty Weight CG Range,None
+Maximum Weights,5291 lbs.
+Minimum Crew,1 at 58.3 in. to 66.2 in. aft RD.
+Passengers,"1 at 68.3 in. to 76.2 in. aft RD; 
+ 3 at 105.9 in. aft RD or 4 at 100.4 in. aft RD if the optional equipment ""Back to Back 4 
+ Seat Bench"" (MBB105S-82660) is installed."
+Maximum Baggage,"Small compartment: 
+ 44.0 lbs., at 167.3 in. aft RD. 
+ Cargo compartment: 
+ Maximum cargo floor loading is 120 p.s.f. 
+ Maximum cargo load is limited by weight-and-balance considerations."
+Fuel Capacity,"(See NOTE 1 for unusable fuel data). 153 gal., total (150.5 gal., usable; 126 gal. in main tank at 126.8 in. aft RD and 24.5 gal. 
+ in supply tank at 89.6 in. aft RD)."
+Oil Capacity,"Engine oil: 
+ (See NOTE 1 for undrainable oil data). 2.64 gal., total (1.32 gal., at 129.7 in. aft RD for each engine) 
+ Transmission oil: 
+ 3.5 gal., total at 129.7 in. aft RD."
+Maximum Operating,"20,000 ft. when operating on MIL-T-5624 Grade JP5 or ASTM-D-1655 Jet A,"
+Altitude,"Jet A-1 or MIL-T-5624 Grade JP4 or ASTM-D-1655 Jet B, or alternate fuel (AVGAS 
+ Mixture). 
+ For rigging information refer to the Model BO 105 LS A-1 Maintenance Manual."
+"V. Model BO 105 LS A-3 (Normal Category) Helicopter, approved October 1, 1986.",
+Engines,2 Allison Model 250-C28C
+Fuel,"MIL-T-5624 Grade JP-4 and JP-5 
+ ASTM-D-1655A 
+ ASTM-D-1655A-1 
+ ASTM-D-1655B 
+ (see NOTES 4 and 5)"
+Installed Engine Limits,"Output Shaft 
+ Gas Generator 
+ Output Shaft 
+ Measured 
+ Torque 
+ Speed - N1 
+ Speed - N2 
+ Gas Temp. 
+ C° (°F) 
+ % (FT-LBS) 
+ % (RPM) 
+ % (RPM) 
+ Normal Operation 
+ - Take-off Power ( min.) 
+ 75 (363) 
+ 104 (52980) 
+ 102 (6136) 
+ 791 (1455) 
+ - Maximum Continuous 
+ 72 (344) 
+ 104 (52980) 
+ 102 (6136) 
+ 741 (1365) 
+ One Engine Inoperative 
+ - Power (2.5 min.) 
+ 100 (481) 
+ 104 (52980) 
+ 102 (6136) 
+ 810 (1490) 
+ - Maximum Continuous 
+ 90 (432) 
+ 104 (52980) 
+ 102 (6136) 
+ 791 (1455) 
+ See FLM for other limitations including speed and temperature transients."
+Rotor Limits,"Power off 
+ Maximum 
+ 442 rpm (Triple tach. reading 104%) 
+ Minimum 
+ 361 rpm (Triple tach. reading 85%) 
+ Power on 
+ Maximum 
+ 433 rpm (Triple tach reading 102%) 
+ Minimum 
+ 424 rpm (Triple tach reading 100%) above 8000 ft. 
+ Minimum 
+ 416 rpm (Triple tach reading 98%) below 8000 ft. 
+ See FLM for transient limits."
+Airspeed Limits,"Never Exceed Speed Vne (CAS) - 145 Knots (167 m.p.h.) 
+ Decrease Vne with altitude in accordance with FLM 
+ Vne for steady autorotation is limited to 90 Knots (104 m.p.h.) or less (See FLM)"
+CG Range,"Longitudinal C.G. Limits: 
+ Max. forward up to 1800 kg: (3968 lbs.): 3081 mm aft of RB 
+ Max. forward up to 2000 kg: (5732 lbs.): 3140 mm aft of RB 
+ Max. rearward up to 2600 kg: (5732 lbs.): 3245 mm aft of RB 
+ Max. rearward up to 2000 kg: (4409 lbs.): 3395 mm aft of RB 
+ Straight Line variation between points given. 
+ Lateral CG Limits: 
+ 100 mm/3.9 in, left or right of longitudinal plane of symmetry of the helicopter for 
+ weights up to 5291 lbs. (2400 kg) 
+ 80 mm/3.15 in for weights greater than 5291 lbs. (2400 kg)"
+Empty Weight CG Range,None
+Maximum Weight,2600 kg/5732 lbs
+Minimum Crew,1 at 1481 mm to 1681 mm/58.3 to 66.2 in.
+Passengers,"1 at 1735 mm to 1935 aft RD/68.3 in. to 76.2 in. 
+ 3 at 2690 mm aft RD or 4 at 2550 mm aft RD if the optional equipment ""Back to Back 4 
+ Seat Bench"" (MBB 105-826601) is installed."
+Maximum Baggage Small compartment,"20 kg at 4250 mm aft RD/44.0 lbs. at 167.3 in. aft RD. 
+ Cargo compartment: 
+ Maximum cargo floor loading is 600/kg/m2/120 p.s.f. 
+ Maximum cargo load is limited by weight and balance considerations."
+Fuel Capacity,"579 litre /153 gal total (570 litre /150.5 gal, usable); 
+ (See Note 1 for unusable fuel data) 
+ 477 litre /126 gal in main tank at 3221 mm/126.8 in. aft RD and 
+ 93 litre /24.5 gal in supply tank at 2276 mm/89.6 in. aft RD."
+Oil Capacity,"Engine Oil: 
+ (See Note 1 for undrainable oil data) 
+ 10.0 litre /2.64 gal. total (5.0 litre /1.32 gal. at 3294 mm/129.7 in. aft RD for each 
+ engine) 
+ Transmission Oil: 
+ 13.25 litre /3.5 gal. total at 3294 mm/129.7 in aft RD"
+Maximum Operating Altitude,"20,000 ft. when operating on MIL-T-5624 Grade JP5 or ASTM-D-1655 
+ Jet A, Jet A-1, or MIL-T-5624 Grade JP4 or ASTM-D-1655 Jet B, or alternate fuel 
+ (AVGAS Mixture)."
+Rotor Blade and,For rigging information refer to the Model BO 105 LS A-3 Maintenance Manual
+Datum,"118.1 in., forward of bulkhead No. 7."
+Leveling Means,Leveling point on bulkhead No. 7.
+Serial Nos Eligible,"A Transport Canada Certificate of Airworthiness endorsed as noted below under ""Import 
+ Requirements"" must be submitted for each individual Rotorcraft for which application 
+ for FAA Certification is made (See NOTES 8, 9, 10, 11, and 12)."
+DATA PERTINENT TO ALL MODELS,
+Datum,"118.1 in., forward of bulkhead No. 7."
+Leveling Means,Leveling point on bulkhead No. 7
+Serial Nos Eligible,"A German Luftfahrt-Bundesamt (LBA) Certificate of Airworthiness endorsed as noted 
+ below under ""Import Requirements"" must be submitted for each individual Rotorcraft for 
+ which application for FAA Certification is made (See NOTE 8 and 12). For applications 
+ for Standard Airworthiness Certificates made after May 1, 2004, a review of historical 
+ records is needed to determine if the helicopter was delivered to and operated by the 
+ military. If the helicopter has a military history, the helicopter is not eligible for a 
+ Standard Airworthiness Certificate unless a copy of a Standard Airworthiness Certificate 
+ issued at the time of delivery to the military is submitted."
+Certification Basis,"FAR 21.29 and FAR 27 effective 1 February 1965 plus Amendments 27-1 through 27-3 
+ plus Special Condition No. 27-31-EU-6 issued November 8, 1970. 
+ For the Model BO-105 A: 
+ Date of application for Type Certificate: November 11, 1967. 
+ Type Certificate No. H3EU issued April 19, 1971. 
+ For the Model BO-105 C: 
+ Date of application for Amended Type Certificate: November 15, 1971. 
+ Amended Type Certificate No. H3EU issued: April 20, 1972. 
+ For the Model BO-105 S: 
+ Date of application for Amended Type Certificate: July 8, 1977. 
+ Amended Type Certificate No. H3EU issued: July 25, 1977. 
+ For the Model BO-105 LS A-1: 
+ The following amendments have been incorporated in the certification basis: 
+ 27-5 (§ 27.1195), 27-11 (§ 27.939), 27-12 (§ 27.923/.927) and 27-14 (§ 27.67/.75). 
+ Equivalent Safety Findings in NOTE 10. 
+ Date of application for Amended Type Certificate: July 8, 1984. 
+ Amended Type Certificate No. H3EU issued: March 10, 1986. 
+ For the Model BO 105 LS A-3: 
+ The following amendments have been incorporated in the certification basis: 27-5 
+ (27.1195), 27-11 (27.939), 27-12 (27.923 and 27.927) and 27-14 (27.67 and 27.75) 
+ Equivalent Safety Findings: FAR 27.175 (b) and (c), and FAR 27.927 (b) (2). 
+ Effective February 25, 1991 the type design approval is transferred from FAA Type 
+ Certificate Data Sheet No. H3EU to Type Certificate Data Sheet No. H6NE. Reference 
+ letter dated January 24, 1991 from Transport Canada to the Federal Aviation 
+ Administration. 
+ “The German (Luftfahrt-Bundesamt Authority) LBA originally type certificated this under 
+ its type certificate number (LBA 3025). The FAA validated this product under U.S. Type 
+ Certificate Number (H3EU). Effective September 28, 2003, the European Aviation 
+ Safety Agency (EASA) began oversight of this product on behalf of the German LBA.” 
+ Effective June 30, 2009, design responsibility for all BO 105 LS A3 helicopters was 
+ transferred from Eurocopter Canada Limited and Transport Canada to Eurocopter 
+ Deutschland and European Aviation Safety Agency (EASA TCDS R.011)."
+Import Requirements,"U.S. Standard Airworthiness Certificate may be issued on the basis of Federal Republic of 
+ Germany Certificate of Airworthiness for Export signed by an authorized representative 
+ of the German Luftfahrt-Bundesamt (LBA) containing the following statement: ""The 
+ rotorcraft covered by this certificate has been examined, tested and found to comply with 
+ the type design approved under Type Certificate H3EU and to be in condition for safe 
+ operation"". 
+ The FAA can issue a U.S. airworthiness certificate based on an NAA Export Certificate of 
+ Airworthiness (Export C of A) signed by a representative of the German LBA on behalf 
+ of the European Community. 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United 
+ States of both new and used aircraft based on the scope of the agreement, to identify any 
+ required statements by the exporting authority on the export certificate of airworthiness (or 
+ equivalent document), and for procedures for coordinating exceptions to conformity 
+ statements on these documents. Refer to FAA Order 8130.2, Airworthiness Certification of 
+ Aircraft, for requirements for issuance of an airworthiness certificate for imported aircraft. 
+ The Export C of A should contain the following statement: “The aircraft covered by this 
+ certificate has been examined, test, and found to comply with the German LBA TC 
+ Number 3025 approved under the U.S. Type Certificate Number H3EU and to be in a 
+ condition for safe operation.”"
+Equipment,"The minimum equipment as prescribed in the applicable airworthiness regulations (see 
+ Certification Basis) must be installed in the helicopter for certification. In addition the 
+ following items of equipment are required: 
+ (a) 
+ Engine-out Warning System (light) 
+ (b) 
+ Outside Air Temperature Indicator 
+ (c) 
+ LBA-approved Flight Manual"
+Service Information,"MBB Service Bulletins (Technical Information), published in the English language for the 
+ U.S. Type Design that carry a statement ""Approved by the Luftfahrt-Bundesamt (LBA)"" 
+ may be interpreted as FAA-approved. 
+ “Each of the documents listed below must state that it is approved by the EASA or – for 
+ approvals made before June 30, 2009 – by Transport Canada ""Approved by Minister of 
+ Transport, Transport Canada,"" may be interpreted as FAA-approved. 
+ • 
+ Service Bulletin, 
+ • 
+ Structural repair manuals, 
+ • 
+ Vendor manuals, 
+ • 
+ Aircraft flight manuals, and 
+ • 
+ Overhaul and maintenance manuals. 
+ This applies only to the acceptance of the type design data.” 
+ Available documents for MBB BO-105 A, C, S, LS A-1 and LS A-3: - Flight Manual: 
+ 1) 
+ Model BO-105 A: 
+ LBA-approved MBB BO-105 A Flight Manual third issue 
+ dated November 1, 1978, Code A-1, or later 
+ LBA-approved issue. 
+ 2) 
+ Model BO-105 C: 
+ a) LBA-approved MBB BO-105 C Flight Manual third 
+ issue dated November 1, 1978, Code C-2 or later 
+ LBA-approved issue. 
+ b) For helicopters with Allison Model 250C20B engines in 
+ series from S/N 321 and up, or for helicopters up to S/N 
+ 320 inclusive incorporating MBB Service Bulletin No. 60- 
+ 33, or Parts List MBB 105-80020 and MBB 105-80019, or 
+ MBB 105-88021 and MBB 105-0019, LBA-approved 
+ MBB BO-105 C Flight Manual third issue dated November 
+ 1, 1978, including Revision 4, dated November 19, 1976, 
+ Code CB-2, or later LBA-approved issue. 
+ c) Helicopter Variant CB-5: For helicopters which are 
+ identical with the Variant CB-4 and equipped with ECD- 
+ Kit No. 105-80081/105-80082: LBA approved Flight 
+ Manual MBB BO-105 CB-5/CBS-5 Second Issue, Rev. 0 
+ or later LBA-approved issue. 
+ d) See also NOTE 6 and 7. 
+ 3) 
+ Model BO-105 S: 
+ a) LBA-approved MBB BO-105 S Flight Manual third 
+ issue dated November 1, 1978, revised May 25, 1977, 
+ Code CBS-2, or later LBA-approved issue. 
+ b) For helicopters with Allison Model 250-C20B engines, 
+ in series from S/N 321 and up, and for helicopters up to 
+ S/N 320 inclusive incorporating MBB Service Bulletin No. 
+ 60-33, or Parts List MBB 105-80020 and MBB 105-80019, 
+ or MBB 105-80021 and MBB 105-80019, LBA-approved 
+ MBB BO- 105 S Flight Manual third issue dated 
+ November 1, 1978, revised May 25, 1977, Code CBS-2, or 
+ later LBA-approved issue. 
+ c) For helicopters described in this section with MBB 
+ Service Bulletin 80-77 and 80-86 incorporated and for 
+ helicopters from S/N 751 and up: LBA-approved MBB 
+ BO-105 S Flight Manual third issue dated November 1, 
+ 1978, Code CBS-2 or later LBA-approved issue. 
+ d) Helicopter Variant CBS- For helicopters which are 
+ identical with the Variant CBS-4 and equipped with ECD- 
+ Kit No. 105-80038/105-80033 (up to helicopter serial 
+ number 901), or 105-80838/105-80833 (helicopter serial 
+ number 902 and up): LBA approved Flight Manual MBB 
+ 105 CB-5/CBS-5 Second Issue, Rev. 0. or later LBA- 
+ approved issue. 
+ e) 
+ See also NOTE 6 and NOTE 7 
+ 4) Model MBB BO-105 LS A-1: Flight Manual: LBA-approved MBB BO-105 LS A-1, 
+ Flight Manual dated July 19, 1984, or later LBA-approved issue. 
+ 5) Model BO105 LS A-3; Refer to the BO105 LS A-3 Flight Manual, Issue 3, Revision 3 
+ or later approved revisions. 
+ Subsequent to the release of the LBA-approved Flight Manual - third issue, revisions to 
+ the earlier issues of the BO-105 Flight Manual have been discontinued (this statement is 
+ not effective to BO-105 Variant CB-5/CBS-5) 
+ Maintenance and Overhaul Manual, Chapter 101 ""AIRWORTHINESS LIMITATIONS: 
+ dated October 13, 1970."
+NOTE 1,"Current weight and balance report including list of required equipment and list of 
+ equipment included in certificated empty weight and loading instructions when necessary, 
+ must be provided for each helicopter at the time of original certification. The certificated 
+ empty weight and corresponding center of gravity location must include unusable fuel of 
+ 17.6 lbs., at 120 in. aft RD and undrainable engine and transmission oil of zero (0) lb."
+NOTE 2,"All placards as listed in the EASA approved Rotorcraft Flight Manual must be installed in 
+ the specified locations. 
+ For Model BO105 LS A-3: 
+ Information placard P/N 105-790064.04 must be permanently installed in accordance with 
+ MBB Service Bulletin SB-BO105 LS-70-2 dated February 25, 1991 on a/c S/N 
+ 2001-2032 or later approved revisions."
+NOTE 3,"For the Model BO-105 A, C and S: 
+ Refer to the Messerschmitt-Bolkow-Blohm GmbH Model BO-105 Maintenance and 
+ Overhaul Manual, Chapter 101, ""AIRWORTHINESS LIMITATIONS"" dated October 13, 
+ 1970 or a later LBA-approved issue for the retirement life limitations of the helicopter 
+ parts which are critical from a fatigue standpoint. These values of retirement of service 
+ life cannot be increased without FAA approval. 
+ For the Model BO-105 LS A-1: 
+ Refer to the Messerschmitt-Bolkow-Blohm GmbH Model BO-105 LS A-1 Maintenance 
+ Manual Appendix A ""INSPECTIONS AND AIRWORTHINESS LIMITATIONS"" dated 
+ June 1, 1984 or later LBA-approved issue for the retirement life limitations of the 
+ helicopter part which are critical from a fatigue standpoint. These values of retirement or 
+ service life cannot be increased without FAA approval. 
+ Model BO105 LS A-3; Refer to the BO105 LS A-3 Maintenance Manual Appendix A; 
+ Chapter 101, ""AIRWORTHINESS LIMITATIONS"", Issue 4, Revision 3, or later EASA- 
+ approved issue, for the retirement life limitations of the helicopter parts, which are critical 
+ from a fatigue standpoint. These values of retirement on service life cannot be increased 
+ without FAA Engineering approval. 
+ Additional information essential for proper maintenance of the helicopter is contained in 
+ the BO105 LS A-3 Maintenance Manual."
+NOTE 4,"For operation below 40o F ambient temperature, all fuel used must contain Phillips PFA- 
+ 55MB (MIL-I-27686) anti-icing additive in concentrations of not less than 0.035% nor 
+ more then 0.15% by volume. Blending this additive into the fuel and checking its 
+ concentration must be conducted in the manner prescribed by the Rotorcraft Flight 
+ Manual. Eligible with or without glycerine."
+NOTE 5,"For emergency use, an alternate fuel mixture consisting of 1/3 by volume of 80/87 
+ aviation gasoline and 2/3 by volume of ASTM D 1655 Jet A or A1 aviation turbine fuel 
+ may be used at outside air temperatures of 40o F 
+ (4o C) or below."
+NOTE 6,"For the Model BO-105 C Variant CB-2 and the Model BO-105 S Variant CBS-2 
+ operation at a maximum weight of 5291 lbs. (2400 kg) is permitted in accordance with the 
+ appropriate Flight Manual as follows: 
+ 1) 
+ Model BO-105 CB-2: Flight Manual BO-105, Third Issue of FLM CB-2 dated 
+ November 1, 1978; or later LBA-approved issue. 
+ 2) 
+ Model BO-105 CBS-2; Flight Manual BO-105, Third Issue of FLM CBS-2, 
+ dated November 1, 1978; or later LBA-approved issue. 
+ With the optional equipment required in OPT 49-1 installed (LBA-approved) 20 February 
+ 1984), the Model BO 105 C Variant CB-2 and the Model BO-105 S Variant CBS-2 is 
+ permitted to operate at a maximum weight of 5512 lb and the following center of gravity 
+ limits: 
+ Forward C.G. at 4189 lbs. (1900 kg) 119.6 in (3038 mm) aft of RD 
+ Forward C.G. at 5512 lbs. (2500 kg) 121.3 in (3082 mm) aft of RD 
+ Forward C.G. at 2513 lbs. (1140 kg) 121.3 in (3082 mm) aft of RD 
+ Aft C.G. up to 4409 lbs. (2000 kg) 133.7 in (3395 mm) aft of RD 
+ Aft C.G. at 5512 lbs. (2500 kg) 128.7 in (3270 mm) aft of RD 
+ 3) 
+ Model BO-105 Variant CB-4: Flight Manual BO-105, third issue of FLM CB-2, 
+ dated November 1, 1978, Revision 2, dated February 8, 1980. This variant 
+ includes basically OPT 49 or is retrofitted with MBB Service Bulletin 80-77 
+ and 80-86. 
+ 4) 
+ Model BO-105 Variant CBS-4: Flight Manual BO-105, third issue of FLM CBS-2 
+ dated November 1, 1978, Revision 2, dated February 8, 1980. This variant 
+ includes basically OPT 49 or is retrofitted with MBB Service Bulletin 80-77 
+ and 80-86."
+NOTE 7,"For the CB-2 and CBS-2 variants with MBB Service Bulletin 80-67 or 
+ MBB 105-82921 incorporated: 
+ a) 
+ Operation with emergency floats installed must be in accordance with BO-105 
+ Rotorcraft Flight Manual supplement Optional Equipment No. 48. 
+ b) 
+ The longitudinal C.G. limits are as given in Supplement No. 48."
+NOTE 8,"The Model BO-105 LS A-1 is limited to the following serial numbers: 459, 651, 652, 654 
+ and 655. 
+ S/N 655 became S/N 2047. S/Ns 459, 651, 654, and 655 are not eligible for a Standard 
+ Certificate of Airworthiness (destroyed)."
+NOTE 9,"The replacement of any part on the Model BO-105 LS A-1 must be approved by MBB 
+ helicopters."
+NOTE 10,"Equivalent Safety Findings for the Model BO-105 LS A-1: 
+ FAR 27.175 (b) and (c), 
+ FAR 27.923, and 
+ FAR 27.927 (b) (2)."
+NOTE 11,"The Model BO 105 LS A-3 is limited to serial number 2001 and up. 
+ Model LS A-3, serial numbers 2001-2016 were manufactured by Messerschmitt-Bolkow- 
+ Blohm GmbH Ltd. Helicopter and Transport Division, D-8000 Munchen 80, under 
+ Luftfahrt Bundesamt Type Certificate 3025 and approved under FAR Part 21.29 by the 
+ Federal Aviation Administration (FAA). 
+ Model LS A-3, serial numbers 2017-2032 was manufactured by MBB Helicopter Canada 
+ Limited, Fort Erie, Ontario, under Transport Canada Type Approval H-79. 
+ Model LS A-3 serial number 2033 to 2038 was manufactured by MBB Helicopter Canada 
+ Limited, Fort Erie, Ontario, under Transport Canada Type Approval H-94. 
+ Effective February 25, 1991, design responsibility for all BO 105 LS A3 helicopters was 
+ transferred from Messerschmitt-Bölkow-Blohm GmbH Helicopter and Transport Division 
+ D-8000 München 80, and Luftfahrt Bundesamt to MBB Helicopter Canada Limited and 
+ Transport Canada. Refer to Type Certificate No. H6NE and Type Certificate Data Sheet 
+ No. H6NE. 
+ Effective March 20, 1992 MBB Helicopter Canada name was changed to Eurocopter 
+ Canada Limited. Eurocopter Canada Limited manufactured model LS A-3, serial 
+ numbers 2039 and subsequent under Transport Canada Type Approval H-94. 
+ Effective June 30, 2009, design responsibility for all BO 105 LS A3 helicopters was 
+ transferred from Eurocopter Canada Limited and Transport Canada to Eurocopter 
+ Deutschland and European Aviation Safety Agency."
+NOTE 12,"For helicopters of the Variant CB-5/CBS-5 with Kit No. 105-80037 installed, the 
+ following limits apply: 
+ Normal operation: no change; 
+ One engine inoperative: Max. continuous power: 105% torque (corresponding to 420 shp 
+ with 100% torque); 2 1/2 min power: 110% torque (corresponding to 420 shp with 95% 
+ torque); Transient power (max. 16 sec.): 123% torque (corresponding to 420 shp with 
+ 85% torque)."
+NOTE 13,"Any changes to the type design of this helicopter by means of a amended type certificate 
+ (TC), supplemental type certificate (STC), or amended STC, requiring instructions for 
+ continued airworthiness (ICA's) must be submitted thru the project aircraft certification 
+ office (ACO) for review and acceptance by the Fort Worth -Aircraft Evaluation Group 
+ (FTW-AEG) Flight Standards District Office (FSDO) prior to the aircraft delivery, or 
+ upon issuance of the first standard airworthiness certificate for the affected aircraft, 
+ whichever occurs later as prescribed by Title 14 CFR 21.50. Type design changes (major 
+ repairs or alterations) by means of a FAA Form 337 (field approval) that require ICA's 
+ must have those ICA's reviewed by the field approving FSDO."
+NOTE 14,"Effective January 7, 2014, Eurocopter Deutschland GmbH name was changed to Airbus 
+ Helicopters Deutschland GmbH."

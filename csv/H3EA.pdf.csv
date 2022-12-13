@@ -1,0 +1,398 @@
+Keyterm,Info
+"H3EA 
+ Revision 2 
+ BOEING-VERTOL 
+ 114A 
+ (U.S. Army CH-47A) 
+ 08 September 2003",
+Type Certificate Holder,"The Boeing Company 
+ Integrated Defense Systems 
+ U.s. Army Programs & Military Rotorcraft 
+ Stewart Avenue & Industrial HWY. 
+ Ridley Park, Pennsylvania 19078"
+"I - Model 114A (Restricated Category), approved July 30, 1968",
+Engine,"2 Lycoming T55-L-5, T55-L-7, or T55-L-7B"
+Fuel,"AVJET (wide-cut), JPA (MIL-J-5624). (See Operators Manual foralternate fuels for 
+ T55-L-5 engine only)."
+Engine limits,"Sea level static - Standard Day 
+ Torque 
+ Output 
+ Power 
+ Gas 
+ Power 
+ 230 Rotor 
+ at 230 
+ Turbine 
+ Producer 
+ Turbine 
+ Shaft 
+ - (lb. ft.) 
+ rpm 
+ Inlet Temp 
+ rpm 
+ rpm 
+ hp 
+ L-5, L-7/7B 
+ L-5, L-7/7B 
+ L-5 
+ L-7/7B 
+ --- --- 
+ --- --- 
+ --- 
+ ---"
+Takeoff,"2200 2650 
+ * 
+ ** 
+ 638°C 735°C 
+ 800 
+ 860*** 
+ (Sea level static - standard only) 
+ 1850 2200 
+ * 
+ ** 
+ 602°C 635°C 
+ 680 
+ 780 
+ * A direct relationship to rotor r.p.m. exists. 230 rotor r.p.m. corresponds to 15,150 power turbine r.p.m. Power turbine"
+tachometer not installed,"** Limit established for each engine - refer to engine acceptance test log. 
+ *** Transmission torque limit is reached before engine power limit. 
+ Refer to pages 7-10 and 7-11 of the Operator's Manual, TM55-1520-209-10, for transient limits."
+Rotor Limits,"Power off 
+ Power on 
+ Minimum 204 r.p.m. 
+ Minimum 204 r.p.m. 
+ Maximum 261 r.p.m. 
+ Maximum 230 r.p.m."
+Airspeed limits,"Never exceed 110 knots IAS. For increased airspeed limits at gross weights below 
+ 33000 lbs. refer to Operator's Manual TM55-1520-209-10."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+Rev No,"2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2"
+CG Range,"(+314.0) to (+337.0) at 33,000 lb. 
+ (+303.5) to (+349.0) at 28,550 lb. 
+ (+301.0) to (+349.0) at 27,500 lb. or less 
+ 33,000 
+ Gross 
+ Weight 
+ (Pounds) 
+ 28,550 
+ 27,500 
+ 301.0 
+ 314.0 
+ 337.0 
+ 349.0 
+ Fuselage Station 
+ -- 
+ Inches"
+Datum,Fuselage Station 331.0
+Leveling means,Plumb bob from top of forward door coaming.
+Maximum weight,"33,000 lb."
+Minimum Crew,"2 (Pilot, copilot)"
+Fuel capacity,"4095 lb. (+317.3) (non-self-sealing tanks) 
+ 4030 lb. (+317.3) (self-sealing tanks) 
+ See Operator's Manual TT755-1520-209-10."
+Oil capacity,"5.9 gals. (+480.7), 3.3 gals. unusable 
+ See NOTE 1 for data on system fuel and oil."
+Rotor blade and,"For rigging information, refer to Department of the Army Technical Manual"
+Control Movements,"TM55-1520-209-20, ""Organizational Maintenance Manual, Army Models CH-47A and 
+ CH-47B helicopters,"" including changes Nos. 1 through 23 dated April 11, 1968."
+Other operating limitations,"Department of the Army TM55-1520-209-10, ""Operator's Manual Army Models 
+ CH-47A and CH-47B helicopters"" dated April 1967 including changes Nos. 1 through 3. 
+ Flight hours are counted from takeoff to landing. 
+ The helicopters approved under this type certificate are done so under the concept of 
+ limited exposure associated with escape from inadvertent ice encounters, and are 
+ prohibited against flight into known icing. The helicopters must be er-evaluated if 
+ certification to the General Ice Protection Airworthiness Regulations is requested."
+Serial Nos Eligible,"Boeing Model 114A (CH-47A) Military Helicopters, serial numbers of which are 
+ contained in FAA approved Boeing Letter 8-7000-FAA-979, dated September 19, 2003 
+ or later FAA approved revision."
+Certification basis,"Federal Aviation Regulations FAR 21.25(a)(2) including amendment 21-1 through 21- 
+ 13, effective November 1, 1967.Type Certificate No. H3EA issued July 30, 1968 for the 
+ special purposes of 
+ (1) 
+ External Cargo Operations under FAR 21.25(b)(7). 
+ Note: 
+ In accordance with FAR 36.1(a)(4), compliance with the noise requirements 
+ was not shown. Therfore aircraft certified under this type certificate are only eligible for 
+ external load operations excepted by FAR 36.1(a)(4) and defined under FAR 137. 
+ Any alteration to the helicopter for Special Purpose not identified above require further 
+ FAA approval and in addition may require noise and/or flight testing. 
+ General Note: Any subsequent modifications to the helicopters type certified under this 
+ Type Certificate are to have the certification basis for that modification established under 
+ 14 CFR 21.101 published June 7, 2000 which became effective June 10, 2003. Otherwise 
+ non-significant modifications are to meet the requirements of Civil Aeronautics Manual 
+ (CAM) 7, Amendment 7, dated May 3, 1962 and 14 CFR 29.1529, Instructions for 
+ Continued Airworthiness, Amendment 20, effective September 11, 1980."
+Date of Application,"January 5, 1968"
+Production basis,"None. No helicopter may be produced under this approval.(See Note 4). Prior to adding 
+ serial numbers to this Type Certificate , each candidate helicopter must undergo a 
+ conformity inspection. The conformity inspection will be conducted in accordance with a 
+ Type Inspection Authorization, Part 1, or request for conformity that will include as a 
+ minimum the inspections contained in the FAA Rotorcraft Directoraste Restricted 
+ Category conformity document dated September 25, 2001."
+Equipment,"he basic equipment as prescribed in the applicable airworthiness regulations (see 
+ certification basis) must be installed in or on each helicopter for certification. See 
+ NOTE 6."
+NOTE 1,"A current weight and balance report containing a list of the equipment included in the certificated empty 
+ weight, and loading instructions when necessary, must be in each helicopter at the time of original 
+ airworthiness certification and at all times thereafter. Refer to Department of the Army Technical Manual 
+ TM55-1520-209-10, ""Operator's Manual, Army Models CH-47A and CH-47B helicopters"" dated April 1967 
+ and including changes Nos. 1 through 3."
+NOTE 2,"The following placard must be prominently displayed in the cockpit in full view of the pilots: 
+ ""This rotorcraft must be operated in accordance with the restricated category operating limitations of FAR 
+ 91.39."""
+NOTE 3,"Service-life-limited components must be retired from service in accordance with the schedule of Chapter 3. 
+ Section IV of Department of the Army Technical Manual TM55-1520-209-20: Organizational Maintenance 
+ Manual, Army Models CH-47A and CH-47B Helicopters"" including changes Nos. 1 through 23 dated 
+ April 11, 1968."
+NOTE 4,"In addition to the standard helicopter requirements, the following additional data and/or helicopter 
+ configuration requirements must be met for each individual Boeing Company, helicopter upon application 
+ for an original Special Airworthiness Certificate. 
+ (a) A completed Application for Airworthiness Certificate, FAA Form 8130-6 that has correctly identified 
+ the type certificate holder’s helicopter and its intended special purpose(s). 
+ (b) Written confirmation from the certifying office that the affected serial number has been added to The 
+ Boeing Company’s Type Certificate. 
+ (c) The application for airworthiness certification and the helicopter’s registration certification match the 
+ information on The Boeing Company. data plate. 
+ (d) The condition and limitations specified in The Boeing Company Type Certificate Data Sheet H3EA 
+ dated September 8, 2003, or later FAA approved revisions are met. 
+ (e) Each helicopter must be inspected by FAA representatives or authorized designees to determine the 
+ following: 
+ (1) 
+ Conformance to the requirements of this Type Certificate Data Sheet. 
+ (2) 
+ In a condition of safe operation. 
+ (f) The maintenance, overhaul and modification records of each helicopter must be reviewed for changes 
+ made by the military that may affect the airworthiness of the aircraft. Modifications and changes of 
+ equipment, which affect the safety or performance of the helicopter must be approved by FAA."
+NOTE 5,"These helicopters must be serviced and maintained in compliance with the following Department of the 
+ Army Technical Manuals: 
+ TM55-1520-209-20 ""Organizational Maintenance Manual, Army Models CH-47A and CH-47B 
+ Helicopters"" including changes Nos. 1 through 23, dated April 11, 1968. 
+ TM55-1520-209-35 ""DS, GS, and Depot Maintenance Manual, Army Models CH-47A and CH-47B 
+ Helicopters"" including changes Nos. 1 through 9, dated February 1, 1968. 
+ TM55-1520-209-20 PMD ""CH-47A and CH-47B Helicopters, Preventive Maintenance Daily 
+ Inspection Checklist"" dated November 30, 1967. 
+ TM55-1520-209-20 PMI ""CH-47A and CH-47B Helicopters, Preventive Maintenance 
+ Intermediate Inspection Checklist,"" dated November 30, 1967. 
+ TM55-1520-209-20 PMP ""CH-47A and CH-47B Helicopters Preventive Maintenance Periodic 
+ Inspection Checklist,"" dated January 9, 1968."
+NOTE 6,"Modifications to these rotorcraft or special equipment will be necessary, reference FAR 
+ 21.25(a)(2), prior to civil airworthiness certification for the special purpose of carriage of external loads and 
+ for any other FAA approval special purpose operations."
+NOTE 7,"Prior to civil airworthiness certification compliance with the following Department of the Army 
+ Modification Work Orders must be accomplished: 
+ MWO's: 55-1520-209-20/1 
+ MWO's: 55-1520-209-30/4 
+ MWO's: 55-1520-209-34/24 
+ 55-1520-209-20/24 
+ 55-1520-209-30/28 
+ 55-1520-209-34/51 
+ 55-1520-209-20/30 
+ 55-1520-209-30/29 
+ 55-1520-209-34/58 
+ 55-1520-209-20/31 
+ 55-1520-209-30/41 
+ 55-1520-209-34/59 
+ 55-1520-209-20/41 
+ 55-1520-209-30/48 
+ 55-1520-209-34/63 
+ 55-1520-209-20/57 
+ 55-1520-209-30/55 
+ 55-1520-209-34/71 
+ MWO's: 55-1520-209-34/85 
+ MWO's: 55-1520-209-34/107 
+ MWO's: 55-1520-209-34/125 
+ 55-1520-209-34/92 
+ 55-1520-209-34/109 
+ 55-1520-209-34/130 
+ 55-1520-209-34/95 
+ 55-1520-209-34/111 
+ 55-1520-209-34/132 
+ 55-1520-209-34/104 
+ 55-1520-209-34/118 
+ 55-1520-209-34/135 
+ 55-1520-209-34/105 
+ 55-1520-209-34/124 
+ 55-1520-209-34/137"
+NOTE 8,"The following kits must be installed prior to issuance of the original Airworthiness Certificate: 
+ Kits: 114DK007-1, 114DK205-1, 114E3030-43 and Inspection Kit: 114G5226-1."
+NOTE 9,"The following transmission configurations are required to be installed prior to issuance of the original 
+ Airworthiness Certificate: 114D1001-26, 114D2001-27, 114D5001-18 and 114D6001-18."
+NOTE 10,"The retirement times of critical parts are listed in the following table: (Reference TM55-1520-209-20). 
+ COMPONENT 
+ PART NO. 
+ HOURS 
+ Synchronizing Drive 
+ 114D3067-2 
+ 300 
+ Shaft Adapters Fwd. 
+ 114D3067-4 
+ 1200 
+ Forward Rotary Wing 
+ Blades 
+ 114R1002-27 
+ 3600 
+ 114R1002-29 
+ 3600 
+ 114R1002-31 
+ 3600 
+ 114R1002-33 
+ 3600 
+ 114R1002-35 
+ 3600 
+ 114R1002-37 
+ 3600 
+ Aft Rotary Wing Blades 
+ 114R1002-28 
+ 2400 
+ 114R1002-30 
+ 2400 
+ 114R1002-32 
+ 2400 
+ 114R1002-34 
+ 2400 
+ 114R1002-36 
+ 2400 
+ 114R1002-38 
+ 2400 
+ Forward and Aft Drive 
+ 114R3388-5 
+ 700 
+ Shaft Collar Assy 
+ Forward and Aft Upper 
+ 114R3414-1 
+ 700 
+ Drive Arm Assy 
+ 114R3414-4 
+ 700 
+ 114R3414-5 
+ 700 
+ Aft Vertical Drive 
+ 114D3002-1 through -6 
+ 600 
+ Shaft Assy 
+ Serial No. A-102 through 
+ A-114, 
+ A-149 through A-151 
+ A-154, A-155, M-103, 
+ M-104, M-106 thru M-111, M-115 
+ M-117 through M-119 
+ M-121 
+ M-124 through M-130 
+ M-132 
+ M-134 
+ M-135 
+ M-137 through M-143 
+ M-145 through M-160 
+ M-163 through M-165 
+ M-167 through M-174 
+ M-179, M-180, M-185 
+ M-187, M-188, M-190 
+ through M-194 
+ M-197, M-198, M-200 
+ M-201, M-203 through 
+ M-205, M-210, M-213, 
+ M-214, M-217, M-221, 
+ M-224, M-225 through 
+ M-227, M-234, M-236, 
+ COMPONENT 
+ PART NO. 
+ HOURS 
+ Aft Vertical Drive 
+ M-255 through M-258 
+ Shaft Assy 
+ M-274 
+ Aft Vertical Drive 
+ Shaft Assy 
+ 114D3002-1 
+ 800 
+ through -6 
+ Serial No. 
+ A-118, M-162, M-166, M-176, 
+ M-182, M-183, M-189, M-209, 
+ M-218, M-222, M-223, M-228, 
+ M-230 through -232, M-235, 
+ M-237, M-238, M-240, M-242, 
+ M-246, M-251, through M-253 
+ Aft Vertical Drive 
+ 114D3002-1 
+ 1000 
+ Shaft Assy 
+ through -6 
+ Serial No. 
+ A-115 through A-117 
+ Aft Vertical Drive 
+ Shaft Assy 
+ 114D3002-1 
+ 1000 
+ through -6 
+ Serial No. 
+ A-119 thru 
+ A-148, A-152, 
+ A-153, A-156 
+ thru A-189 
+ A-191 and 
+ subsequent ""A"" 
+ shaft assy's 
+ M-177, M-178, 
+ M-184, M-186, 
+ M-195, M-196, 
+ M-199, M-202, 
+ M-206, thru M-208, 
+ M-211, M-212, 
+ M-215, M-216, 
+ M-219, M-220, 
+ M-229, M-233, 
+ M-239, M-243 thru 
+ M-245, M-247 thru 
+ M-250, M-254, M-259, 
+ thru M-273, M-275 
+ thru M-278, M-280, 
+ M-282 thru M-290, 
+ M-292 and subsequent 
+ ""M"" shaft assy's. 
+ Bolt 
+ NAS 1308-50DW 
+ 600 
+ *Blade Lag 
+ 114HS6800-1 
+ Damper Assy 
+ *Periodic inspection of this unit is required in accordance with Item 6.7 Page 16 of TM55-1520-209- 20 PMI. 
+ NOTE 11 This helicopter is prohibited from carrying cargo for compensation or hire. Carriage of cargo is limited to such cargo 
+ that is incidental to the helicopter owners/operator’s business, which is other than air transportation. 
+ NOTE 12: A restricted category helicopter may not be operated in a foreign country without the express written approval of 
+ that country. 
+ NOTE 13: This helicopter has not been shown to meet the requirements of the applicable comprehensive and detailed 
+ Airworthiness Code as provided by Annex 8, to the Convention of the International Civil Aviation Organization. 
+ NOTE 14: Helicopters that do not have documentation showing they were surplus from an Armed Force of the United Stetes 
+ are not eligible for certification under this type cerficate. Engines and appliances that do not have documentation 
+ showing they were surplus from an Armed Foce of the United States are not eligible for installation on a helicopter 
+ under this type certificate. Helicopter(s). engine(s), and appliances that have records indicating time-in-service by a 
+ foreign military or a foreign government will be presumed to be ineligible for certification or installation under this 
+ type certificate. This presumption maybe overcome by the applicant substantiating to the satisfaction of the FAA 
+ through documentation, tets, computations, evaluations, analysis or other means or methods that the helicopter, 
+ engines or appliance during its time–in-service by the foreign military or foreign government, was maintained to an 
+ extend and in a manner equal to that of an Armed Forces of the United States. 
+ NOTE 15: No person may be carried in this helicopter during flight unless that person is essential to the purpose of flight. 
+ instructions must be submitted and accepted by the FAA Fort Worth Aircraft Evaluation Group (FTW-AEG), prior 
+ to approval for return to service. 
+ NOTE 17: Carriage of hazardous materials is prohibited unless compliance is shown with applicable regulations in Code of 
+ Federal Regulations Title 49, Part 175. 
+ NOTE 18: For mailing and correspondence purposes use the following address: 
+ The Boeing Company, 
+ Integrated Defense Systems, 
+ U.S. Army Programs & Military Rotorcraft 
+ P.O. Box 16858 
+ Philadelphia, PA 19078."

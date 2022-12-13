@@ -1,0 +1,1403 @@
+Keyterm,Info
+"A23WE 
+ Revision 19 
+ LOCKHEED 
+ L-1011-385-1 
+ L-1011-385-1-14 
+ L-1011-385-1-15 
+ L-1011-385-3 
+ January 11, 2010",
+Type Certificate Holder,"Lockheed Martin Corporation 
+ Lockheed Martin Aeronautics Company 
+ 86 S. Cobb Drive 
+ Marietta GA 30063"
+"I - Model L-1011-385-1 (Transport Category Aircraft), Approved April 14, 1972",
+Engines,"3 Rolls-Royce RB 211-22C-02 engines (see NOTE 25) or 
+ 3 Rolls-Royce RB 211-22B-02 engines (see NOTE 3 for Engine Life limitations. 
+ Also see NOTES 10 and 12.)"
+Fuel,See NOTE 4. (a).
+Oil,"See NOTE 4.(b). 
+ -22C Engine 
+ Static thrust at sea level 
+ Takeoff (5 min.) 
+ 41,030 lbs. (flat rated to ISA1 + 3.8° C) 
+ Maximum continuous 
+ 36,900 lbs. (flat rated to ISA + 10° C) 
+ -22B Engine 
+ Static thrust at sea level 
+ Takeoff (5 min.) 
+ 41,030 lbs. (flat rated to ISA + 13.9° C) 
+ 42,670 lbs. (flat rated to ISA + 8.4° C to 5600 ft. 
+ Thereafter, thrust reduces linearly to be 
+ same as the -22B at ISA + 13.9° C and 
+ 10,000 ft.)2 
+ Maximum continuous 
+ 40,140 lbs. (flat rated to ISA + 9.0° C to 25,000 ft. and 
+ ISA + 13° C above 25,000 ft.)"
+1ISA  International Standard Atmosphere,2With Rolls-Royce Mod 72-8700 or later FAA approved equivalent
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18"
+18,"18 
+ 18 
+ 18 
+ 16 
+ 18 
+ 18 
+ 18 
+ 16 
+ 18 
+ 18 
+ 16 
+ 18 
+ 18 
+ 16 
+ 18 
+ 18 
+ 19"
+19,"20 
+ 21 
+ 22 
+ 23"
+18,"18 
+ 18 
+ 18 
+ 18 
+ -22C Engine Only 
+ -22B Engine Only 
+ N1 (%) 
+ N2 (%) 
+ N3 (%) 
+ N1 (%) 
+ N2 (%) 
+ N3 (%) 
+ Takeoff (5min.) 
+ 99.0 
+ 99.5 
+ 95.5 
+ 99.5 
+ 102.5 
+ 95.0 
+ Maximum continuous 
+ 97.5 
+ 98.8 
+ 94.3 
+ 101.0 
+ 101.5 
+ 93.7 
+ 94.23 
+ Ground idle 
+ 19.3+4.00-0 
+ - - 
+ - - 
+ 21.0+2.3-0 
+ - - 
+ - - 
+ Maximum reverse 
+ thrust (30 sec.) 
+ 90.0 
+ - - 
+ - - 
+ 101.3 
+ - - 
+ - - 
+ Transient (20 sec.) 
+ 103.0 
+ 101.0 
+ 97.0 
+ 103.0 
+ 106.0 
+ 96.2 
+ 100% N1 (low pressure rotor) = 
+ 3,900 rpm 
+ 100% N2 (intermediate pressure rotor) = 7,000 rpm 
+ 100% N3 (high pressure rotor) = 
+ 10,611 rpm 
+ Maximum turbine temperature (measured at low pressure NGV4): 
+ -22C Engine Only 
+ -22B Engine Only 
+ Takeoff (5 min.) 
+ 1328° F (720° C) 
+ 1342° F (728° C) 
+ Maximum continuous 
+ 1292° F (700° C) 
+ 1292° F (700° C) 
+ 1310° F (710° C)4 
+ Starting (2 sec.) 
+ 1022° F (550° C) 
+ 1022° F (550° C) 
+ Reverse thrust (30 sec.) 
+ 1265° F (685° C) 
+ 1360° F (738° C) 
+ Maximum for acceleration (2 min.) 
+ 1337° F (725° C) 
+ 1360° F (738° C)"
+APU Limits,"See ""Data Pertinent to All Models."""
+Airspeed Limits,"Also see ""Data Pertinent to All Models."" 
+ Vfe Load Relieving System Operative 
+ Flap Angle Selected, in Degrees 
+ Knots IAS/mach No. 
+ 4° 
+ 250K M = 0.6 
+ 10° 
+ 230K M = 0.5 
+ 14° 
+ 215K M = 0.5 
+ 18° 
+ 210K M = 0.5 
+ 22° 
+ 205K M = 0.5 
+ 27°5 
+ 200K M = 0.5 
+ 33° 
+ 170K M = 0.4 
+ 42° 
+ 164K M = 0.4 
+ If the landing flap extension speeds are inadvertently exceeded, the LRS will limit 
+ flap angle to 28° at airspeeds above 164 knots. When airspeed decreases to 
+ 164 knots, flaps will extend, as selected, to 33° or 42°. Limit speed with flaps 
+ at LRS position (28°) is 206 KIAS/0.4 mach. 
+ VSLAT 
+ (slat operation) 
+ 250k IAS (M = 0.6) 
+ VLO 
+ (landing gear) 
+ Retraction 
+ 230k not to exceed (M = 0.85) 
+ Extension 
+ 300k not to exceed (M = 0.85) 
+ VLE 
+ (landing gear extended) 
+ 300k not to exceed (M = 0.85)"
+4NGV  Nozzle Guide Vanes,"5Use of Flap 27 take-off is permitted only with aircraft equipped with flap quadrant 27 detent and which have incorporated 
+ S/B 093-27-098 or production equivalent which resets the take-off warning switch to accommodate Flap 27 take-off position."
+CG Range,"L-1011-385-1 
+ CENTER OF GRAVITY ENVELOPE 
+ S/N 1004 - 1012 
+ 490 
+ 480 
+ 470 
+ 460 
+ 450 
+ 440 
+ 430 
+ 420 
+ 410 
+ 400 
+ LB) 
+ 390 
+ IN FLIGHT LIMIT 
+ 380 
+ 370 
+ 360 
+ W 
+ EIGHT(1000 
+ GROSS 
+ 350 
+ TAXI, TAKEOFF 
+ 340 
+ LANDING LIMIT 
+ AIRPLANE 
+ 330 
+ AIRPLANE GROSS WEIGHT (1000 LB) 
+ 320 
+ 310 
+ 300 
+ 290 
+ 280 
+ 270 
+ 260 
+ 250 
+ 240 
+ 230 
+ 220 
+ 10 
+ 12 
+ 14 
+ 16 
+ 18 
+ 20 
+ 22 
+ 24 
+ 26 
+ 28 
+ 30 
+ 32 
+ 34 
+ 36 
+ L-1011-385-1 
+ CENTER OF GRAVITY ENVELOPE 
+ S/N 1013 - 1051 
+ 490 
+ 480 
+ 470 
+ 460 
+ 450 
+ 440 
+ 430 
+ 420 
+ 410 
+ 400 
+ IN FLIGHT LIMIT 
+ 390 
+ 380 
+ 370 
+ 360 
+ 350 
+ TAXI, TAKEOFF 
+ LANDING LIMIT 
+ 340"
+AIRPLANE GROSS WEIGHT 1000 LB,"330 
+ 320 
+ 310 
+ 300 
+ 290 
+ 280 
+ 270 
+ 260 
+ 250 
+ 240 
+ 230 
+ 4 
+ 26 
+ 28 
+ 30 
+ 32 
+ 34 
+ 36 
+ 220 
+ 10 
+ 12 
+ 14 
+ 16 
+ 18 
+ 20 
+ 22 
+ 2 
+ PERCENT OF MEAN AERODYNAMIC CHORD 
+ L-1011-385-1 
+ CENTER OF GRAVITY ENVELOPE 
+ S/N 1052 & UP 
+ 530 
+ 520 
+ 510 
+ 500 
+ 490 
+ 480 
+ 470 
+ 460 
+ 450 
+ 440 
+ 430 
+ 420 
+ 410 
+ 400 
+ 390 
+ IN FLIGHT LIMIT 
+ 380 
+ 370 
+ 360 
+ 350 
+ AIRPLANE GROSS WEIGHT (1000 LB) 
+ TAXI, TAKEOFF 
+ 340 
+ LANDING LIMIT 
+ 330 
+ 320 
+ 310 
+ 300 
+ 290 
+ 280 
+ 270 
+ 260 
+ 250 
+ 240 
+ 230 
+ 220 
+ 10 
+ 12 
+ 14 
+ 16 
+ 18 
+ 20 
+ 22 
+ 24 
+ 26 
+ 28 
+ 30 
+ 32 
+ 34 
+ 36 
+ PERCENT OF MEAN AERODYNAMIC CHORD"
+Maximum Weights6 7,"S/N 1004 
+ S/N 1013 
+ S/N 1052 
+ S/N 1052 
+ S/N 1052 
+ thru 10128 
+ thru 10519 
+ & up10 
+ & up11,12 
+ & up13 
+ Taxi and Ramp 
+ 472,000 
+ 476,000 
+ 468,000 
+ 476,000 
+ 512,000 
+ Takeoff 
+ 470,000 
+ 474,000 
+ 466,000 
+ 474,000 
+ 510,000 
+ Landing 
+ 368,000 
+ 368,000 
+ 368,000 
+ 368,000 
+ 368,000 
+ Zero Fuel14 
+ 338,000 
+ 338,000 
+ 320,000 
+ 338,000 
+ 338,000 
+ Gear Jacking 
+ 472,000 
+ 472,000 
+ 468,000 
+ 468,000 
+ 512,000 
+ Fuselage and 
+ Wing Jacking 
+ 340,000 
+ 340,000 
+ 340,000 
+ 340,000 
+ 340,000 
+ Minimum Flight 
+ 233,700 
+ 233,700 
+ 233,000 
+ 233,700 
+ 233,000 
+ The aircraft will remain within the above approved weight and C.G. limits when the aircraft is loaded 
+ within the zero fuel weight and C.G. limits and the effect of: 
+ (1) 
+ landing gear retraction, and 
+ (2) 
+ movement of crew and passengers from their assigned positions, is accounted for and the fuel is 
+ loaded (up to the maximum takeoff weight) and used in the approved sequence. 
+ See NOTES 1.(a), 1.(b), and 1.(c). 
+ For fuel dump valves operation, see NOTE 1.(d)."
+Minimum Flight Crew,"For all flights: Pilot, co-pilot, and flight engineer"
+Maximum Passengers,See NOTE 5.
+Cargo,See NOTE 37.
+Fuel Capacity,"Full Tank Capacity (lbs.) 
+ Structural Limits 
+ Usable Fuel 
+ Arm 
+ Tank 
+ (7.1 lb/gallon) 
+ (6.7 lb/gallon) 
+ (Inches) 
+ 2L 
+ 27,181 
+ 25,650 
+ 1371.8 
+ 1 
+ 57,362 
+ 54,130 
+ 1157.2 
+ 3 
+ 57,362 
+ 54,130 
+ 1157.2 
+ 2R 
+ 27,181 
+ 25,650 
+ 1371.8 
+ Total 
+ 169,086 
+ 159,560"
+6Weights are in pounds,7These weights vary as a function of modification standard and fuel management. See FAA Approved Flight Manual and
+Weight and Balance Manual,"8These weights are applicable to L-1011-385-1 configured aircraft modified in accordance with S/B 093-51-029 to provide 
+ increased gross weight capability (see NOTE 38). 
+ 9These weights are applicable to L-1011-385-1 configured aircraft modified in accordance with S/B 093-51-030 to 
+ provide increased gross weight capability (see NOTE 38). 
+ 10These weights are applicable to L-1011-385-1-193L configured aircraft modified in accordance with S/B 093-51-012 
+ to provide increased gross weight capability. 
+ 11These weights are applicable to L-1011-385-1 configured aircraft modified in accordance with S/B 093-51-010, 
+ 093-28-038, -03-51-022 and 093-51-023 to provide increased gross and zero fuel weights capability (see NOTE 23"
+and 24,"12S/B 093-51-034 provides modifications of L-1011 aircraft to permit operation at maximum zero fuel weight of 335,000 lbs. 
+ at GTOW of 430,000 lbs and MZFW of 325,000 lbs at GTOW of 450,000 lbs. 
+ 13These weights are applicable to L-1011-385-1 configures aircraft modified in accordance with S/B 093-51-023 to 
+ provide the increased gross weight capability. 
+ 14All weight in aircraft above this weight must be fuel. For fuel dump valves operation see NOTE 1.(d)."
+Oil Capacity,"39 pounds/engine usable at 8.0 pounds/gallon with wing engines moment arm 
+ at 1050 inches and tail engine moment arm at 2041 inches."
+Eligible,"Date Approved 
+ Serial Numbers Issued to Date"
+193A,"April 14, 1972 
+ 1004, 1005, 1006, 1009, 1012, 1022, 1038, 1040, 1043, 1050, 1051, 1055, 1123, 
+ 1126, 1141, 1142, 1143, 1152, 1153"
+193B,"June 5, 1972 
+ 1013, 1015, 1017, 1018, 1028, 1035, 1060, 1066, 1072, 1076, 1080"
+193M,"November 24, 1972 
+ None. All serial numbers converted to L-1011-385-1-14."
+193E,"December 30, 1972 
+ 1021"
+193K,"February 9, 1972 
+ 1024"
+193R,"May 25, 1973 
+ 1033"
+193C,"September 20, 1973 
+ 1052, 1057, 1071, 1074, 1077, 1078, 1081, 1084, 1086, 1088, 1089, 1090, 1095, 
+ 1096, 1097, 1135, 1136, 1139, 1147, 1150, 1162, 1167, 1173, 1180, 1199, 1200, 
+ 1213, 1224, 1225, 1226"
+193P,"December 12, 1973 
+ 1062, 1070, 1082, 1100, 1105, 1112, 1113, 1127, 1129, 1134, 1155, 1156"
+193L,"June 28, 1973 
+ 1064"
+193N,"September 27, 1973 
+ 1094, 1145"
+"II. - Model L-1011-385-1-14 (Transport Category Aircraft), Approved June 6, 1975",
+Engines,"3 Rolls-Royce RB.211-22B-02 engines (See Section I) 
+ or 
+ 3 Rolls-Royce RB.211-524B-02 engines (See Section IV) 
+ or 
+ 3 Rolls-Royce RB.211-524B4-02 engines (See Section IV) 
+ or 
+ 3 Rolls-Royce RB.211-524B3-02 engines (See Section IV) 
+ (See NOTE 3 for Engine Component Life Limitations and NOTE 10 for 
+ Engine Intermix.)"
+Fuel,See NOTE 4.(a).
+Oil,See NOTE 4.(b).
+APU Limits,"See ""Data Pertinent to All Models."""
+Airspeed Limits,"(Also see ""Data Pertinent to All Models."") 
+ Vfe Load Relieving System Operative 
+ Flap Angle Selected, in Degrees 
+ Knots IAS/mach No. 
+ 4° 
+ 250K M = 0.6 
+ 10° 
+ 230K M = 0.5 
+ 14° 
+ 215K M = 0.5 
+ 18° 
+ 210K M = 0.5 
+ 22° 
+ 205K M = 0.5 
+ 27°15 
+ 200K M = 0.5 
+ 33° 
+ 170K M = 0.4 
+ 42° 
+ 164K M = 0.4 
+ If the landing flap extension speeds are inadvertently exceeded, the LRS will limit 
+ flap angle to 28° at airspeeds above 164 knots. When airspeed decreases to 
+ 164 knots, flaps will extend, as selected, to 33° or 42°. Limit speed with flaps 
+ at LRS position (28°) is 208 KIAS/0.4 mach. 
+ VSLAT 
+ (slat operation) 
+ 250k IAS (M = 0.6) 
+ VLO 
+ (landing gear) 
+ Retraction 
+ 230k not to exceed (M = 0.85) 
+ Extension 
+ 300k not to exceed (M = 0.85) 
+ VL3 
+ (landing gear extended) 
+ 300k not to exceed (M = 0.85)"
+CG Range,See Center of Gravity envelope page 9.
+Maximum Weights16,"Taxi and Ramp 
+ 468,000 lbs. 
+ Takeoff 
+ 466,000 lbs.17,18 
+ Landing 
+ 368,000 lbs. 
+ Zero Fuel19 
+ 320,000 lbs.19, 20 
+ Gear Jacking 
+ 468,000 lbs. 
+ Fuselage and Wing Jacking 
+ 340,000 lbs. 
+ Minimum Flight 
+ 233,700 lbs. 
+ Loadability20 The aircraft will remain within the above approved weight and CG limits when the 
+ aircraft is loaded within the zero fuel weight and CG limits and the effect of: 
+ (1) 
+ landing gear retraction, and 
+ (2) 
+ movement of crew and passengers from their assigned positions, is 
+ accounted for and the fuel is loaded (up to the maximum takeoff weight) 
+ and used in the approved sequence. 
+ For fuel dump valves operation, see NOTE 1.(d)."
+Minimum Flight Crew,"For all flights: Pilot, co-pilot, and flight engineer"
+Maximum Passengers,See NOTE 5.
+Cargo,"See NOTE 37. 
+ 15Use of Flap 27 for take-off is permitted only with aircraft equipped with flap quadrant 27 detent and which have 
+ incorporated S/B 093-27-098 which resets the takeoff warning switch to accommodate Flap 27 take-off position. 
+ 16These weights vary as a function of modification standard and fuel management. See FAA Approved Flight Manual"
+and Weight and Balance Manual,"17At 450,000 lb. takeoff weight, the zero fuel weight is 330,000 lbs. and at 440,000 lbs. takeoff weight, the zero fuel weight"
+is 338000 lbs,"18The Zero Fuel Weight/Takeoff Gross Weight combinations are a linear function. See FAA Approved Airplane Flight 
+ Manual and Weight and Balance Manual. 
+ 19All weight in aircraft above this weight must be fuel. Fur fuel dump valves operation see NOTE 1.(d). 
+ 20See NOTE 1.(a), 1.(b), and 1.(c). 
+ L-1011-385-1-14 
+ CENTER OF GRAVITY ENVELOPE 
+ 490 
+ 480 
+ 470 
+ 460 
+ 450 
+ 440 
+ 430 
+ 420 
+ 410 
+ 400 
+ 390 
+ IN FLIGHT LIMIT 
+ 380 
+ 370 
+ 360 
+ 350 
+ TAXI, TAKEOFF 
+ 340 
+ LANDING LIMIT 
+ 330 
+ AIRPLANE GROSS WEIGHT (1000 LB) 
+ 320 
+ 310 
+ 300 
+ 290 
+ 280 
+ 270 
+ 260 
+ 250 
+ 240 
+ 230 
+ 220 
+ 10 
+ 12 
+ 14 
+ 16 
+ 18 
+ 20 
+ 22 
+ 24 
+ 26 
+ 28 
+ 30 
+ 32 
+ 34 
+ 36 
+ PERCENT OF MEAN AERODYNAMIC CHORD"
+Fuel Capacity,"Full Tank Capacity (lbs.) 
+ Structural Limits 
+ Usable Fuel 
+ Arm 
+ Tank 
+ (7.1 lb/gallon 
+ (6.7 lb/gallon) 
+ (Inches) 
+ 2L 
+ 27,181 
+ 25,650 
+ 1371.8 
+ 1 
+ 57,362 
+ 54,130 
+ 1157.2 
+ 3 
+ 57,362 
+ 54,130 
+ 1157.2 
+ 2R 
+ 27,181 
+ 25,650 
+ 1371.8 
+ Total 
+ 169,086 
+ 159,560"
+Oil Capacity,"For -22B engines: 39 pounds/engine usable at 8.0 pounds/gallon with wing 
+ engines moment arm at 1050 inches and tail engine moment arm at 2041 inches. 
+ For -524 engines: 33 pounds/engine usable at 8.0 pounds/gallon with wing 
+ engines moment arm at 1050 inches and tail engine moment arm at 2041 inches."
+Eligibility21,"Series 
+ Date 
+ Eligible 
+ Approved 
+ Serial Numbers Issued to Date 
+ 193S 
+ June 6, 1975 
+ None. All serial numbers converted to L-1011-385-1-15. 
+ 193A 
+ 1010, 1158 
+ 193M 
+ 1019, 1023 
+ 193E 
+ 1048, 1049 
+ 193C 
+ 1041 
+ 193P 
+ 1103 
+ 193N 
+ 1083, 1093, 1101, 1106"
+"III. - Model L-1011-385-1-15 (Transport Category Aircraft), Approved July 25, 1975",
+Engines,"3 Rolls-Royce RB.211-22B-02 engines (See Section I) 
+ or 
+ 3 Rolls-Royce RB.211-524B-02 engines (see Section IV) 
+ or 
+ 3 Rolls-Royce RB.211-524B3-02 engines (see Section IV) 
+ or 
+ 3 Rolls-Royce RB.211-524B4-02 engines (see Section IV) 
+ or 
+ 3 Rolls-Royce RB.211-524B4-D-02 engines (see Section IV) 
+ (See NOTE 3 for Engine Component Life Limitations and NOTE 10 for 
+ Engine Intermix.)"
+Fuel,See NOTE 4.(a).
+Oil,See NOTE 4.(b).
+APU Limits,"See ""Data Pertinent to All Models."""
+Airspeed Limits,"(Also see ""Data Pertinent to All Models."") 
+ Vfe Load Relieving System Operative 
+ Flap Angle Selected, in Degrees 
+ Knots IAS/mach No. 
+ 4° 
+ 250K M = 0.6 
+ 10° 
+ 230K M = 0.5 
+ 14° 
+ 215K M = 0.5 
+ 18° 
+ 210K M = 0.5 
+ 22° 
+ 205K M = 0.5 
+ 27°22 
+ 200K M = 0.5 
+ 33° 
+ 170K M = 0.4 
+ 42° 
+ 164K M = 0.4 
+ If the landing flap extension speeds are inadvertently exceeded, the LRS will limit 
+ flap angle to 28° at airspeeds above 164 knots. When airspeed decreases to 
+ 164 knots, flaps will extend, as selected, to 33° or 42°. Limit speed with flaps 
+ at LRS position (28°) is 206 KIAS/0.4 mach. 
+ VSLAT 
+ (slat operation) 
+ 250k IAS (M = 0.6) 
+ VLO 
+ (landing gear) 
+ Retraction 
+ 230k not to exceed (M = 0.85) 
+ Extension 
+ 300k not to exceed (M = 0.85) 
+ VLE 
+ (landing gear extended) 
+ 300k not to exceed (M = 0.85)"
+CG Range,See center of gravity envelope page 12.
+Maximum Weights23 24,"Taxi and Ramp 
+ 468,000 lbs. 
+ 512,000 lbs. 
+ Takeoff 
+ 466,000 lbs. 
+ 510,000 lbs.25 
+ Landing 
+ 368,000 lbs. 
+ 368,000 lbs.26 
+ Zero Fuel27 
+ 320,000 lbs.26, 28 
+ 338,000 lbs.27 
+ Gear Jacking 
+ 468,000 lbs. 
+ 512,000 lbs. 
+ Fuselage and Wing Jacking 
+ 340,000 lbs. 
+ 340,000 lbs. 
+ Minimum Flight 
+ 233,700 lbs. 
+ 233,700 lbs. 
+ 22Use of Flap 27 for take-off is permitted only with aircraft equipped with flap quadrant 27 detent and which have 
+ incorporated S/B 093-27-098 which resets the take-off warning switch to accommodate Flap 27 take-off position. 
+ 23These weights vary as a function of modification standard and fuel management. See FAA Approved Flight Manual and"
+Weight and Balance Manual,"24These weights are applicable to L-1011-385-1-15 configured aircraft modified in accordance with S/B 093-51-023 to 
+ provide the increased gross weight capability to 510,000 lbs. GTOW. 
+ 25The Zero Fuel Weight/Takeoff Gross Weight combinations are a linear function. See FAA Approved Airplane Flight 
+ Manual and Weight and Balance Manual. 
+ 26Aircraft modified by Lockheed Martin Service Bulletin No. 093-51-018 have Maximum Landing Weight of 380,000 lbs. 
+ 27All weight in aircraft above this weight must be fuel. For fuel dump valves operation see NOTE 1.(d). 
+ 28At 450,000 lbs. Takeoff Weight, the Zero Fuel Weight is 330,000 lbs. and at 440,000 lbs. Takeoff Weight, the Zero Fuel"
+Weight is 338000 lbs,"L-1011-385-1-15 
+ CENTER OF GRAVITY ENVELOPE 
+ 530 
+ 520 
+ 510 
+ 500 
+ 490 
+ 480 
+ 470 
+ 460 
+ 450 
+ 440 
+ 430 
+ 420 
+ 410 
+ 400 
+ 390 
+ IN FLIGHT LIMIT 
+ 380 
+ 370 
+ 360 
+ 350 
+ AIRPLANE GROSS WEIGHT (1000 LB) 
+ TAXI, TAKEOFF 
+ 340 
+ LANDING LIMIT 
+ 330 
+ 320 
+ 310 
+ 300 
+ 290 
+ 280 
+ 270 
+ 260 
+ 250 
+ 240 
+ 230 
+ 220 
+ 10 
+ 12 
+ 14 
+ 16 
+ 18 
+ 20 
+ 22 
+ 24 
+ 26 
+ 28 
+ 30 
+ 32 
+ 34 
+ 36 
+ PERCENT OF MEAN AERODYNAMIC CHORD"
+Loadability29,"The aircraft will remain within the above approved weight and C.G. limits when 
+ the aircraft is loaded within the zero fuel weight and C.G. limits and the effect of: 
+ (1) 
+ landing gear retraction, and 
+ (2) 
+ movement of crew and passengers from their assigned positions, 
+ is accounted for and the fuel is loaded (up to the maximum takeoff 
+ weight) and used in the approved sequence. 
+ For fuel dump valves, see NOTE 1.(d)."
+Minimum Flight Crew,"For all flights: Pilot, co-pilot, and flight engineer"
+Maximum Passengers,See NOTE 5.
+Cargo,See NOTE 37.
+Fuel Capacity,"Full Tank Capacity (lbs.) 
+ Structural Limits 
+ Usable Fuel 
+ Arm 
+ Tank 
+ (7.1 lb/gallon 
+ (6.7 lb/gallon) 
+ (Inches) 
+ 2L 
+ 27,181 
+ 25,650 
+ 1371.8 
+ 1 
+ 57,192 
+ 53,970 
+ 1157.2 
+ 1A 
+ 10,131 
+ 9,560 
+ 1132.6 
+ 3 
+ 57,192 
+ 53,970 
+ 1157.2 
+ 3A 
+ 10,313 
+ 9,560 
+ 1132.6 
+ 2R 
+ 27,181 
+ 25,650 
+ 1371.8 
+ Total 
+ 189,008 
+ 178,360"
+Oil Capacity,"For -22B engines 39 pounds/engine usable at 8.0 pounds/gallon with wing 
+ engine moment arm at 1050 inches and tail engine moment arm at 2041 inches. 
+ For -524 engines 33 pounds/engine usable at 8.0 pounds/gallon with wing 
+ engine moment arm at 1050 inches and tail engine moment arm at 2041 inches."
+Series,Date
+Eligible,"Approved 
+ Serial Numbers Issued to Date"
+193T,"July 25, 1975 
+ 1118, 1122"
+193U,"December 18, 1975 
+ 1131, 1133, 1138, 1201, 1203, 1223"
+193S,"May 29, 1976 
+ 1110, 1116,1137, 1144, 1148, 1149, 1160, 1161, 1170, 1171, 1175, 1187, 1190, 
+ 1192, 1214"
+193N,"February 29, 1980 
+ 1178, 1182, 1193, 1198, 1204, 1205"
+293C,"May 12, 1981 
+ 1211, 1212"
+193B,"September 29, 1981 
+ 1109, 1111, 1115, 1124, 1130,1215, 1221, 1230, 1231, 1232"
+193E,"1058, 1067, 1069, 1073"
+193C,"1151, 1227, 1228, 1234, 1237, 1244, 1245"
+193P,1053
+"IV. Model L-1011-385-3 (Transport Category Aircraft), Approved April 13, 1979",
+Engines,"3 Rolls-Royce RB.211-524B-02 engines 
+ or 
+ 3 Rolls-Royce RB.211-524B3-02 engines 
+ or 
+ 3 Rolls-Royce RB.211-524B4-02 engines 
+ or 
+ 3 Rolls-Royce RB.211-524B4-D-02 engines 
+ (See NOTE 3 for Engine Component Life Limitations and NOTE 10 for Engine 
+ Intermix.)"
+Fuel,"See NOTE 4.(a). 
+ 29See NOTE 1.(a), 1.(b), and 1.(c)."
+Oil,See NOTE 4.(b).
+Engine Limits,"Rolls-Royce RB.211-524B-02, -524B3-02, -524B4-02, -524B4-D-O2 Engines 
+ Static Thrust at Sea Level 
+ Takeoff (5 min.) 
+ 49,120 lbs. (-524B4-D-02: Flat Rated to ISA +17.8° C 
+ up to 5000 ft.30; -524B-02, -524B3-02 
+ and -524B4-02: Flat rated to ISA +13.9° C) 
+ Maximum continuous 
+ 44,780 lbs. (Flat rated to ISA + 9.0° C to 25,000 ft., 
+ ISA + 10° C above 25,000 ft.) 
+ N1 (%) 
+ N2 (%) 
+ N3 (%) 
+ Takeoff (5 min.) 
+ 103.0 
+ 106.0 
+ 107.031 
+ 97.0 
+ 97.532 
+ Maximum continuous 
+ 103.0 
+ 102.0 
+ 103.535 
+ 94.5 
+ 95.332 
+ Ground Idle 
+ 22.5 + 1.0-0 - 
+ - 
+ Maximum Overspeed (20 sec.) 
+ 104.0 
+ 107.0 
+ 108.035 
+ 98.3 
+ 98.532 
+ Maximum for Reverse (60 sec.) 
+ 90.0 
+ - 
+ - 
+ 100% N1 (low pressure rotor) 
+ = 3900 rpm 
+ 100% N2 (intermediate pressure rotor) = 7000 rpm 
+ 100% N3 (high pressure rotor) 
+ = 10,611 rpm 
+ Maximum turbine temperature (measured at low pressure NGV) 
+ Takeoff (5 min.) 
+ 1444° F (785° C) 
+ Maximum continuous 
+ 1350° F (732° C) 
+ Starting 
+ 1022° F (550° C) in flight 
+ 1112° F (600° C) on ground"
+APU Limits,"See ""Data Pertinent to All Models."""
+Airspeed Limits,"Also, see ""Data Pertinent to all Models."" 
+ Vfe Load Relieving System Operative 
+ Flap Angle Selected, in Degrees 
+ Knots IAS/mach No. 
+ 4° 
+ 250K M = 0.6 
+ 10° 
+ 230K M = 0.5 
+ 14° 
+ 225K M = 0.5 
+ 18° 
+ 220K M = 0.5 
+ 22° 
+ 215K M = 0.5 
+ 33° 
+ 210K M = 0.4 
+ VSLAT 
+ (slat operation) 
+ 250k IAS (M = 0.6) 
+ VLO 
+ (landing gear) 
+ Retraction 
+ 230k not to exceed (M = 0.85) 
+ Extension 
+ 300k not to exceed (M = 0.85) 
+ VL3 
+ (landing gear extended) 
+ 300k not to exceed (M = 0.85) 
+ 30Also -524B4-02 engines with Rolls-Royce MOD 72-8516 Rev. 3. 
+ 31With Rolls-Royce MOD 72-7730 on -524B4-02and –524B4-D-02 engines."
+CG Range,"L-1011-385-3 
+ CENTER OF GRAVITY ENVELOPE 
+ 530 
+ 520 
+ 510 
+ 500 
+ 490 
+ 480 
+ 470 
+ 460 
+ IN FLIGHT LIMIT 
+ 450 
+ 440 
+ 430 
+ 420 
+ TAXI, TAKEOFF 
+ 410 
+ LANDING LIMIT 
+ 400 
+ 390 
+ 380 
+ 370 
+ 360 
+ 350 
+ AIRPLANE GROSS WEIGHT (1000 LB) 
+ 340 
+ 330 
+ 320 
+ 310 
+ 300 
+ 290 
+ 280 
+ 270 
+ 260 
+ 250 
+ 240 
+ 230 
+ 220 
+ 10 
+ 12 
+ 14 
+ 16 
+ 18 
+ 20 
+ 22 
+ 24 
+ 26 
+ 28 
+ 30 
+ 32 
+ 34 
+ 36 
+ PERCENT OF MEAN AERODYNAMIC CHORD"
+Maximum Weights32 33,"Taxi and Ramp 
+ 498,000 lbs. 
+ 506,000 lbs.34 512,000 lbs.35 
+ Take Off 
+ 496,000 lbs. 
+ 504,000 lbs. 
+ 510,000 lbs. 
+ Landing 
+ 368,000 lbs. 
+ 368,000 lbs. 
+ 368,000 lbs. 
+ Zero Fuel36 
+ 338,000 lbs. 
+ 338,000 lbs. 
+ 338,000 lbs. 
+ Gear Jacking 
+ 498,000 lbs. 
+ 506,000 lbs. 
+ 512,000 lbs. 
+ Fuselage and Wing Jacking 
+ 340,000 lbs. 
+ 340,000 lbs. 
+ 340,000 lbs. 
+ Minimum Flight 
+ 233,700 lbs. 
+ 233,700 lbs. 
+ 233,700 lbs."
+Loadability37,"The aircraft will remain within the above approved weight and C.G. limits when the 
+ aircraft is loaded within the zero fuel weight and C.G. limits and the effect of: 
+ (1) 
+ landing gear retraction and 
+ (2) 
+ movement of crew and passengers from their assigned positions, is accounted 
+ for and the fuel is loaded (up to the maximum takeoff weight) and used in the 
+ approved sequence. 
+ For fuel dump valves operation, see NOTE 1.(d)."
+Minimum Flight Crew,"For all flights: Pilot, Co-Pilot, and Flight Engineer"
+Maximum Passengers,See NOTE 5.
+Cargo,See NOTE 37.
+Fuel Capacity,"Full Tank Capacity (lbs.) 
+ Structural Limits 
+ Usable Fuel 
+ Arm 
+ Tank 
+ (7.1 lb/gallon 
+ (6.7 lb/gallon) 
+ (Inches) 
+ 2L 
+ 27,181 
+ 25,650 
+ 1371.8 
+ 1 
+ 57,192 
+ 53,970 
+ 1157.2 
+ 1A 
+ 28,824 
+ 27,200 
+ 1122.6 
+ 3 
+ 57,192 
+ 53,970 
+ 1157.2 
+ 3A 
+ 28,824 
+ 27,200 
+ 1122.6 
+ 2R 
+ 27,181 
+ 25,650 
+ 1371.8 
+ Total 
+ 226,395 
+ 213,640"
+Oil Capacity,"For –524 engines- 33 pounds/engine usable at 8.0 pounds/gallon with wing engines 
+ moment arm at 1050 inches and tail engine moment arm at 1979 inches."
+32See NOTE 35,33These weights vary as a function of modification standard and fuel management. See FAA Approved Flight Manual and
+Weight and Balance Manual,"34The weights listed in this column are applicable to L-1011-385-3 configured aircraft modified in accordance with 
+ S/B 093-51-016 to provide increased gross weight capability to 504,000 lbs. GTOW. 
+ 35The weights listed in this column are applicable to L-1011-385-3 configured modified in accordance with S/B 093-57-169 
+ to provide increased gross weight capability to 510,000 GTOW. 
+ 36All weight in aircraft above this weight must fuel. For fuel dump valves operation see Note 1.(d). 
+ 37See NOTE 1.(a), 1.(b), and 1.(c). 
+ Eligibility38"
+Series,Date
+Eligible,"Approved 
+ Serial Numbers Issued to Date"
+193V39,"April 16, 1979 
+ 1157, 1159, 1164, 1165, 1168, 1174"
+193G40,"January 17, 1980 
+ 1179, 1191"
+193J40,"April 14, 1980 
+ 1183"
+193Y40,"April 15, 1980 
+ 1176, 1177, 1181, 1184, 1185, 1186, 1188, 1194, 1195, 1197, 1208, 1210"
+193W41,"July 26, 1980 
+ 1189"
+193J41,"October 29, 1980 
+ 1196"
+193H41,"February 20, 1981 
+ 1202, 1206, 1207, 1209, 1216, 1218, 1246, 1247, 1248"
+293A41,"September 9, 1981 
+ 1217, 1219, 1220, 1229, 1238, 1249"
+193G41,"October 28, 1981 
+ 1222, 1233, 1250"
+293F41,"July 28, 1982 
+ 1235, 1236"
+293B41,"November 19, 1982 
+ 1239, 1240, 1241, 1242, 1243"
+DATA PERTINENT TO ALL MODELS (Except As Noted),
+APU Limits,"United Aircraft of Canada ST6L-73 
+ Rotor Speeds (Ng) maximum 
+ Steady state 
+ 38,100 rpm (101.6%) 
+ Transient 
+ 38,500 rpm (102.6%) 
+ Turbine Gas Temperature 
+ Maximum during operation 1066° C (1950° F) 
+ During start for 2 seconds 
+ 760° C (1400° F) 
+ Lubricating Oil - PWA Specification No. 521. See P&WC Service Bulletin No. 9001."
+Airspeed Limits,"Vmo/Mmo (Maximum Operating) 
+ IAS 
+ At Sea Level 
+ 350K 
+ At 10,000 feet 
+ 375K 
+ At 26,200 feet 
+ 375K 
+ (M = 0.9) 
+ At 42,000 feet 
+ 264K 
+ (M = 0.9) 
+ At 43,000 feet 
+ 256K 
+ (M = 0.9) 
+ Va (Maneuvering) 
+ See FAA Approved Airplane Flight Manual."
+Maximum Operating Altitude,"42,000 ft. 
+ Models L-1011-385-1 and –1-14 
+ 43,000 ft. 
+ Models L-1011-385-1-15 and -3."
+Fuselage Datum,"83 inches forward of fuselage nose Models L-1011-385-1, -1-14 and -1-15. 
+ 183 inches forward of fuselage nose Models L-1011-385-3."
+MAC,293.5 inches (Leading edge of MAC - Arm 1143.0)
+Leveling Means,"One of two systems in each airplane: 
+ (1) Spirit level and leveling pads at Sta. 1355.0 (left main landing gear wheel well). 
+ (2) Plumb bob and grid plate at Sta. 1341.5 (left main landing gear wheel well). 
+ To ensure proper operation of the airplane, the movement of the control surface 
+ must be carefully controlled by proper rigging of the Flight Control Systems. The 
+ airplane must therefore be rigged in accordance with the following: 
+ Lockheed Martin Report LR-25234 dated 14 April 1972, ""L-1011 Primary and 
+ Secondary Controls Rigging Procedure Drawings,"" and applicable revisions."
+Certification Basis,"Issuance of a Type Certification for Model L-1011-385-1, and amended Type 
+ Certificates for Models L-1011-385-1-14, L-1011-385-1-15 and L-1011-385-3 are 
+ based upon compliance with the following: 
+ (1) FAR Part 25 dated February 1, 1965, ""Airworthiness Standards: Transport 
+ Category Airplanes"" including Amendments 25-1 through 25-18, and 25-20; 
+ FAR Parts 25.145(c), 25.683, 25.1331, and 25.1333 of Amendment 25.23; FAR 
+ Part 25.145941 of Amendment 25-25. 
+ (2) FAR 36, ""Noise Standard: Aircraft Type Certification,"" dated December 1, 1969. 
+ (3) Based on 14 CFR § 21.17(a) for new type certificates (TCs), (or 14 CFR § 21.101(g) 
+ for changes to TCs), applicable provisions of 14 CFR part 26 are included in the 
+ certification basis. For any future 14 CFR part 26 amendments, the holder of this 
+ TC must demonstrate compliance with the applicable sections. 
+ (4) Special Conditions #25-17-WE-6 Amendment #1 dated December 3, 1971, and 
+ Amendment #2 dated April 13, 1979, as applicable.42 
+ (5) Lockheed Martin Corporation L-1011-385-1, 193L aircraft series 
+ has demonstrated compliance with the requirements of ""Special Conditions 
+ for Lockheed Martin Corporation Model L-1011-385-1, 193L Airplane,"" 
+ No. 25-55-WE-16, dated June 21, 1974. 
+ (6) Lockheed Martin Corporation L-1011-385-1, 193N, 
+ L-1011-385-1-15, 193T and L-1011-385-15, 193U Aircraft Series have 
+ demonstrated compliance with the requirements of ""Special Condition 
+ for Lockheed Martin Corporation Model L-1011-385-1 Airplane,"" 
+ No. 25-58-WE-17, dated September 26, 1974. Model L-1011-385-3 has 
+ complied with Amendment #1 dated April 13, 1979. 
+ (7) The Lockheed Martin Corporation L-1011-385-1, 193N and 
+ L-1011-385-1-15, 193T and L-1011-385-1-15, 193U aircraft series have 
+ demonstrated compliance with the requirements of U.K. Special 
+ Conditions of Issue 3 dated August 30, 1974. L-1011-385-3, 193V and 
+ L-1011-385-3, 193G aircraft series have demonstrated compliance with 
+ the requirements of U.K. Special Conditions Issue 4 dated April 16, 1979. 
+ (8) Compliance has been found for the following regulations: 14 CFR §26.11, 26.43 
+ and 26.45, (Amdt. No. 26-0 through 26-3)."
+Production Basis,"Production Certificate No. 600. 
+ 41Compliance with FAR Part 25.1459(a)(7) requires incorporation of LAC Service Bulletin 093-31-012 ""Instruments - 
+ Digital Flight Data Recorder and Underwater Locating Device - Replacement Of."" 
+ Amendment No. 1 dated 3 December 1971 (Docket No. 1005, Amendment No. 1) have been retitled and renumbered. These 
+ WESTERN REGION"" dated 17 December 1971."
+Required Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see Certification Basis) must be installed in the aircraft for 
+ certification. All of the required equipment that must be installed as well as 
+ optional equipment installations approved by the FAA are contained in 
+ Chapter 2, ""Weight and Balance Manual."""
+Service Information,"Lockheed Martin Model L-1011-385-1, L-1011-385-1-14, L-1011-385-1-15 and 
+ L-1011-385-3 Structural Repair Manuals are FAA approved. All Lockheed Martin 
+ Service Bulletins and other service information, when FAA approved, will 
+ carry a statement to that effect. 
+ Lockheed Martin L-1011 Maintenance Review Board Report dated June 20, 1986, or 
+ later FAA approved revisions contains the basic minimum requirements for a 
+ maintenance program for continued airworthiness."
+NOTE 1,"(a) The weight of system unusable fuel and oil, as defined below, must be accounted for in the airplane 
+ operational empty weight, and is listed in the FAA Approved Lockheed Martin Weight and Balance"
+Manual,"specified for each airplane. 
+ System Fuel 
+ The weight of all fuel required to fill lines and tanks up to the zero fuel on the quantity gages in 
+ the most critical flight attitude. This includes the unusable tank and plumbing fuel as defined by 
+ FAR Part 25.959, and the usable but ungageable fuel in the tanks and plumbing. The L-1011-385-1 
+ and L-1011-385-1-14 airplanes have 206 pounds (based on 6.7 pounds per gallon) of unusable 
+ fuel in the tanks and plumbing (see NOTE 1.(e)) and 569 pounds of usable but ungageable fuel 
+ in the plumbing (see NOTE 1.(e)). This 569 pounds of fuel must be included in the total unusable 
+ fuel to obtain the correct weight and C.G. for takeoff (see FAA Approved Weight and Balance 
+ Manual). The L-1011-385-1-15 airplane has 240 pounds (based on 6.7 pounds per gallon) of 
+ unusable fuel in the tanks and plumbing, and 609 pounds of usable but ungageable fuel in the 
+ tanks and plumbing. This 609 pounds of fuel must be included in the total usable fuel to obtain 
+ the correct weight and C.G. for take-off. (See FAA Approved Weight and Balance Manual). 
+ The L-1011-385-3 airplane has 238 pounds of (based on 6.7 pounds per gallon) of unusable fuel 
+ in the tanks and plumbing and 774 pounds of usable but ungageable fuel in the plumbing. This 
+ 774 pounds of fuel must be included in the total usable fuel to obtain the correct weight and C.G. 
+ for takeoff. (See FAA Approved Weight and Balance Manual.) 
+ There are 570 pounds (based on 6.7 pounds per gallon) of ungageable but usable fuel in the 
+ L-1011-385-1 and -1-14 tanks, 720 pounds of ungageable but usable fuel in the L-1011-385-1-15 
+ tanks and 607 pounds of ungageable but usable fuel in the L-1011-385-3 tanks. This fuel is 
+ included in the tank fuel listed in this data sheet. 
+ System Oil 
+ The weight of oil remaining in the engine, accessories, lines and tanks after subtracting the 
+ oil in the tanks which is above zero gage levels. The engine oil tank capacities shown elsewhere 
+ in this data sheet include only the usable oil for which the tanks must be placarded."
+NOTE 1,"(b) The ""unusable"" fuel is that amount of fuel in the tanks and plumbing which is unavailable to the 
+ engines under critical flight conditions as defined in FAR Part 25.959. This ""unusable"" fuel quantity 
+ of 206 pounds in the L-1011-385-1 and -1-14 airplanes (see NOTE 1.(e)), 240 pounds in the 
+ L-1011-385-1-15 airplanes and 238 pounds in the L-1011-385-3 airplanes is included in the System 
+ Fuel as indicated in NOTE 1.(c) and need not be accounted for separately."
+NOTE 1,"(c) Fuel capacities shown in this data sheet as well as fuel loading fuel and usage procedures are dictated 
+ by structural design criteria, and to maintain airplane C.G. within approved limits at completion of fuel 
+ uplift. Fuel must be loaded symmetrically about the airplane lateral C.G. within approved limits and 
+ in accordance with the Approved Airplane Flight Manual."
+NOTE 1,"(d) Fuel Jettison - The L-1011-385-1, -1-14 and -1-15 and -3 airplanes have been certificated for 
+ operation at maximum takeoff gross weight with and without the fuel jettison system. Refer to the 
+ FAA Approved Airplane Flight Manual for limitations to be observed during operation without the 
+ fuel jettison system. Refer to the FAA Approved Airplane Flight Manual for limitations to be 
+ observed during operation without the jettison system and when dumping fuel with the jettison 
+ system. Fuel jettisoning may be terminated by the Flight Crew at any time during the operation, and 
+ the total quantity of fuel not jettisoned must be included in the landing weight. 
+ The quantity of unjettisonable fuel remaining in the tanks at automatic cutoff is as follows for fuel 
+ weight based on 6.7 pounds per gallon: 
+ Tank No. 
+ Fuel Quantity (lb.) 
+ 2L 
+ 3,900 
+ 1 
+ 7,600 
+ 3 
+ 7,600 
+ 2R 
+ 3,900 
+ Manifold 
+ 300 
+ In L-1011-385-15 and -3 airplanes, fuel cannot be jettisoned from tanks 1A and 3A. Some fuel may 
+ remain in these tanks after termination of the jettison operation."
+NOTE 1,"(e) Until service kits 093/SK28001 and 093/SK28002 are installed in S/Ns 1013, the 
+ unusable fuel in the tanks and plumbing is 506 pounds, and the usable but ungageable fuel in the 
+ plumbing is 269 pounds."
+NOTE 2,Reserved.
+NOTE 3,"Life Limitations. 
+ (a) All life limited components with the exception of engine and APU components (see NOTE 3.(b) and 
+ Note 3(c)) are listed in FAA Approved Lockheed Martin Report LR-27324 and must be replaced as 
+ indicated therein. FAA Approved Lockheed Martin Report LR-27324, and FAA approved revisions 
+ thereto, are hereby incorporated as part of this Type Certificate Data Sheet A23WE. Copies of the 
+ above LR-27324 report may be obtained from the manufacturer: 
+ Lockheed Martin Aircraft & Logistics Centers 
+ Out of Production Support 
+ 120 Orion Street 
+ Greenville, South Carolina 29605 
+ (b) Engine life limited parts are identified in RB211-22B and RB211-524 series Time Limits Manual T- 
+ 211(22B)-1RR and T-211(524)-3RR, respectively. For RB211-22B Fan Disc Life Limits see Rolls 
+ Royce ALERT Service Bulletin 72-A2655. 
+ (c) APU life limited parts are identified in ""United Technologies Hamilton Maintenance and Overhaul 
+ Recommendations for the Hamilton Standard L-1011 Air Conditioning, Starting, and APU Systems"" 
+ R4137."
+NOTE 4,"(a) Approved fuels and fuel additives are listed in the approved Rolls Royce Operating Instructions, 
+ Publication Reference F-RB211-T and F-211(524B)-T. 
+ (b) Approved oils are listed in the approved Rolls Royce Operating Instructions, Publication Reference 
+ F-RB211-T and F-211(524B)-T. Alternate brand oils are permitted when authorized by CAA approved 
+ Rolls Royce Service Bulletin."
+NOTE 5,"(a) All replacement seats (crew, passenger and lounge), although they may comply with TSO-C39, 
+ must also be demonstrated to comply with FAR Part 25.785. Other installations, such as berths, 
+ compartments or items of mass which could create a hazard to the safety of passengers and crew 
+ must also be demonstrated to meet the applicable requirements of FAR Part 25.785. 
+ (b) L-1011-385-1, -1-14 and -1-15 airplanes. With three Type A passenger doors and one Type 1 
+ passenger door per side of aircraft, the maximum eligible number of passengers is 345 demonstrated 
+ for emergency evacuation and 362 by analysis. With four Type A passenger doors per side of 
+ aircraft, the maximum eligible number is 400 demonstrated for emergency evacuation. See FAA 
+ approved interior arrangement drawings for maximum passenger capacities approved for each 
+ series eligible aircraft when delivered. These drawings are contained in the FAA Approved Lockheed 
+ Martin Report LR-25097. 
+ (c) L-1011-385-3 airplanes. Maximum eligible number of passengers is 315 with three Type A passenger 
+ doors per side of the aircraft. See FAA approved interior arrangement drawings for maximum 
+ passenger capacities approved for each series eligible aircraft when delivered. These drawings are 
+ contained in the FAA Approved Lockheed Martin Report LR-25097."
+NOTE 6,DELETED.
+NOTE 7,"Deleted on June 20, 1974, when S/N 1006 aircraft was added to 193A series eligible."
+NOTE 8,"Cockpit Voice Recorder (CVR) operates only after engine start, and the ground cart disconnected, on the 
+ L1011-385-1, 193K, S/Ns 1024 and 1032 aircraft only."
+NOTE 9,"The L-1011-385-1, 193K, S/Ns 1024 and 1032 aircraft have been accepted for export to the United 
+ Kingdom with Digital Flight Data Recorder (DFDR) which has not demonstrated compliance with the 
+ requirements of FAR Part 25.1309(a)."
+NOTE 10,"Engine Installation ""Intermix"" configurations may be utilized in accordance with Lockheed Martin Report 
+ LR-28617, applicable FAA approved Service Bulletins, and Appendices of FAA Approved Airplane 
+ Flight Manuals."
+NOTE 11,DELETED.
+NOTE 12,"Rolls Royce RB211-22B engines must be installed during production or in accordance with Lockheed Martin 
+ Service Bulletin No. 093-71-009."
+NOTE 13,DELETED.
+NOTE 14,DELETED.
+NOTE 15,"Automatic Pilot-Flight Director System including approach and automatic landing to Category I, 
+ Category II, Category IIIA Weather Minima in accordance with FAR Part 25.1329, Advisory Circulars 
+ AC 25.1329-1A dated October 1, 1965, AC-20-57A dated January 12, 1971, AC 120-28A dated 
+ December 14, 1971, and AC 120-29 dated September 25, 1970. 
+ Automated Navigation in Three Systems configurations: 
+ (a) Dual area navigation systems (ARINC 582) (Advisory Circular AC 90-45A dated September 15, 
+ 1975). 
+ (b) Dual area navigation systems (ARINC 582) with dual inertial reference systems (ARINC 571) 
+ (Advisory Circulars AC 90-45A dated September 15, 1975, and AC 25-4 dated February 18, 1966). 
+ (c) Dual area navigation system (ARINC 582) with triple inertial reference systems (ARINC 571) 
+ (Advisory Circulars 90-45A dated September 15, 1975, AC 25-4 dated February 18, 1966)."
+NOTE 16,DELETED.
+NOTE 17,DELETED.
+NOTE 18,"These Lockheed Martin Corporation L-1011 series airplanes with serial number 1052 and 
+ above (with exception of airplanes in the 193L series) which incorporated the FAA Approved Type 
+ Design modifications specified in the FAA Sealed L-1011-385-1 Drawing List Supplement titled 
+ ""FAA List for Spare Engine Pod (SEP) and Spare Engine Pod (SEP) Pylon Only Peculiar - Type 
+ Design"" are eligible to include the Spare Engine Pod (SEP) or the Spare Engine Pod (SEP) Pylon 
+ Only installation and must be operated in accordance with the FAA Approved Airplane Flight 
+ Manual LR-25925, Appendix 9, and FAA Approved Lockheed Martin Weight and Balance Manual."
+NOTE 19,"The glide slope deviation warning (part of the ground proximity warning system, Sundstrand 
+ P/N 965-0376-070), was evaluated to the standard set forth in TSO-C92b and FAR Part 121.360(f)."
+NOTE 20,DELETED.
+NOTE 21,"(a) Lockheed Martin Corporation L-1011-385-1 aircraft with improved aircraft 
+ loadability with respect to the forward center of gravity limit must be equipped with 
+ 36 X 11-16 22 ply; rating nose landing gear tires. 
+ (b) Lockheed Martin Corporation L-1011-385-1, -1-14 and -1-15 aircraft must be 
+ equipped with main landing gear wheels, brakes and tires, and nose landing gear wheels 
+ and tires as identified in the latest revisions of Service Bulletins 093-51-010, 093-51-014, 
+ 093-51-015, 093-51-016, 093-51-022, 093-51-033, 093-51-029 and 093-51-031 for their 
+ applicable and listed brake release maximum gross takeoff weight."
+NOTE 22,DELETED.
+NOTE 23,"Modifications in accordance with FAA approved Lockheed Martin Corporation 
+ Service Bulletin 093-51-010 constitutes an FAA approved conversion of the Model 
+ L-1011-385-1 aircraft to Model L-1011-385-1-14 aircraft."
+NOTE 24,"Modifications in accordance with FAA approved Lockheed Martin Corporation 
+ Service Bulletin 093-28-038 constitutes an FAA approved conversion of the Model L-1011-385-1-14 
+ aircraft to Model L-1011-385-1-15 aircraft."
+NOTE 25,"There are no RB.211-22C engines in existence; however, -22C ratings and limits are retained on 
+ this TCDS to permit operational use of FAA certified takeoff performance based on -22C takeoff 
+ ratings as shown in the FAA Approved L-1011 Airplane Flight Manual (Appendix 8 to 
+ Lockheed Martin Report LR-25925) for aircraft equipped with -22B engines. 
+ The FAA approved Flight Manual for -22C engine (Lockheed Martin Report LR-25225) is discontinued."
+NOTE 26,DELETED.
+NOTE 27,The APU is approved for use as an alternate in-flight source of electric and pneumatic power.
+NOTE 28,DELETED.
+NOTE 29,DELETED.
+NOTE 30,"The FAA approved Airplane Flight Manual for Lockheed Martin Corporation 
+ Model L-1011-385-3 (193V series airplanes) is Lockheed Martin Report L-25925; Log of Pages DL5. 
+ There is no revision service for this Airplane Flight Manual and, therefore, in the event of the 
+ return to the U.S. of the L-1011-385-3 (193V series airplanes), Lockheed Martin Corporation 
+ should be contacted for an appropriate current FAA Approved Airplane Flight Manual."
+NOTE 31,"A functional inspection at intervals not to exceed 5000 hours time in service must be conducted 
+ on those airplanes configured with the Rolls Royce RB.211-524 series engines utilizing the bleed 
+ air minimum pressure control ejector system."
+NOTE 32,DELETED.
+NOTE 33,"Applicable to those aircraft which comply with FAA approved February 9, 1981, Drawing List 
+ L-1011-385-3 and derivatives dated January 15, 1981, with RB.211-524B4-02 Engines, Ground 
+ Proximity Warning System, Auto Braking System, Extended Wings, Active Control System and 
+ Digital Horizontal Situation Indicator."
+NOTE 34,DELETED.
+NOTE 35,"Those L-1011-385-3 aircraft manufactured without extended wings and active control system may 
+ be modified to this configuration by incorporation of FAA approved Lockheed Martin Service Bulletins 
+ 093-57-140 and 093-22-122, and are FAA approved to the higher maximum weights as noted on 
+ this type certificate data sheet."
+NOTE 36,DELETED.
+NOTE 37,"Cargo compartment loading limitations are as specified by the appropriate FAA Approved Airplane 
+ Flight Manuals and FAA approved Weight and Balance Manuals."
+NOTE 38,"Modification in accordance with FAA approved Lockheed Martin Corporation Service 
+ Bulletins 093-51-029, and 093-51-030 R1 constitute FAA approved conversions of Model L-1011-385-1 
+ aircraft Serial Numbers 1004 to 1012 and 1013 to 1051 respectively, to Model L-1011-385-1-14 aircraft."
+NOTE 39,DELETED.

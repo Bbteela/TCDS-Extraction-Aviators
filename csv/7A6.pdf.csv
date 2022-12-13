@@ -1,0 +1,595 @@
+Keyterm,Info
+"7A6 
+ Revision 8 
+ SUD AVIATION 
+ Caravelle SE 210 
+ Model I 
+ Model III 
+ Model VIR 
+ November 24, 2009",
+Type Certificate Holder,"SUD AVIATION 
+ (1) This TC was surrendered for cancellation on October 27, 2009. Only standard airworthiness 
+ certificates issued prior to October 27, 2009 are valid. 
+ (2) Future unsafe conditions existing in the aircraft may result in the revocation of the 
+ airworthiness certificates of the aircraft if there is no entity to comply with 14 CFR 
+ § 21.99(a), “Required design changes.” 
+ (3) Replacement parts may not be available in the future."
+"I - SUD AVIATION Caravelle SE 210 Model I (Transport Category), approved April 8, 1959",
+Engines,2 Rolls-Royce Avon 522 turbojets
+Fuel,"French: 
+ TRO (AIR 3405) 
+ British: 
+ Aviation Kerosene D.Eng. RD 2482 (AVTUR) 
+ or D.Eng. RD 2494 (AVTUR/50) 
+ American: JP-1 (MIL-F-5616) 
+ Canadian: 3-GP-23B"
+Oil,"British: 
+ D.Eng. RD 2487 
+ American: ESSO Aviation Turbo oil 35"
+Engine limits,"Static Sea Level Ratings 
+ Max. Turbine 
+ Minimum 
+ Gas Temp., 
+ Maximum 
+ Thrust 
+ °C 
+ R.P.M. 
+ (lb.) 
+ Rating 
+ Maximum takeoff (5 min.) 
+ 10,500 
+ 8,050 
+ 625 
+ Maximum continuous 
+ 9,125 
+ 7,650 
+ 575"
+Airspeed limits CAS,"Knots 
+ Vne (Never exceed) 
+ 325 or Mach 0.81 whichever is the lesser 
+ Vno (Normal operation) 
+ 300 or Mach 0.77 whichever is the lesser 
+ Va 
+ (Maneuvering) 
+ 174 
+ Vfe (Flaps down 0° to 10°) 
+ 258 
+ Vfe (Flaps down 10° to 20°) 
+ 202 
+ Vfe (Flaps down 20° to 35°) 
+ 190 
+ Vlo (Landing gear operation) 
+ 180 
+ Vle 
+ (Landing gear extended) 
+ 218 
+ Vllo (Landing light extension 
+ 215"
+Page,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+Rev,"7 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 7"
+No,"Vmc (Minimum control) 
+ Less than the stalling speed"
+CG range Landing,"Landing gear retraction moment -79,860 in.-lb. (moves the C.G. forward)"
+gear extended,"Weight 
+ Forward 
+ Aft 
+ (Pounds) 
+ % S.M.C. 
+ Aft of datum (in.) 
+ % S.M.C. 
+ Aft of datum (in.) 
+ Up to 81,600 
+ 25 
+ 623.18 
+ 39.0 
+ 648.54 
+ 95,900 
+ 25 
+ 623.18 
+ 35.8 
+ 642.75 
+ Straight line variation between weights."
+Maximum weights,"Taxi 
+ 96,500 lb. 
+ Takeoff 
+ 95,900 lb. 
+ Landing 
+ 91,335 lb. 
+ Zero fuel 
+ 77,160 lb."
+Minimum crew,"3. Pilot and copilot at (77), flight engineer at (102)."
+Maximum passengers,90. (See approved weight and balance report for actual number and location)
+Maximum luggage,"Volume 
+ Maximum floor 
+ Capacity 
+ (Cu.ft.) 
+ loading (p.s.f.) 
+ (lb.) 
+ Upper aft hold 
+ 212 
+ 82 
+ 2,120 
+ (948) 
+ Lower forward hold 
+ 194 
+ 62 
+ 1,940 
+ (372) 
+ Lower aft hold 
+ 88 
+ 62 
+ 880 
+ (800)"
+Fuel capacity,"(See NOTE 1(b) for data on system fuel and oil) 
+ Total 
+ Usable 
+ (U.S. gal.) 
+ (U.S. gal.) 
+ 2 inboard wing tanks 
+ 2,141.0 each 
+ 2,140 each 
+ (621) 
+ 2 outboard wing tanks 
+ 372.5 each 
+ 370 each 
+ (729)"
+Oil capacity,"(See NOTE 1(b) for data on system fuel and oil) 
+ 1.05 U.S. gal. per engine Total oil 2.1 U.S. gal. (886)"
+"II - SUD AVIATION Caravelle SE 210 Model III (Transport Category), approved July 12, 1960 
+ Same as SE 210 Model I except for maximum weights, stabilizer setting 1° up, engine installation, engine silencer and wheels 
+ and brakes",
+Engines,2 Rolls-Royce Avon 527 turbojets
+Fuel,"French: 
+ TRO (AIR 3405) 
+ British: 
+ Aviation Kerosene D.Eng. RD 2482 (AVTUR) 
+ or D.Eng. RD 2494 (AVTUR) 50 
+ American: 
+ JP-1 (MIL-F-5616) 
+ Canadian: 
+ 3-GP-23B 
+ or 
+ For aircraft on which modification No. 227 has been applied: 
+ French: 
+ (AIR 3407) 
+ British: 
+ D.Eng. RD 2486 
+ American: 
+ JP-4 (MIL-F-5624/C) 
+ Canadian: 
+ 3-GP-22B"
+Oil,"British: 
+ D.Eng. RD 2487 
+ American: 
+ ESSO Aviation Turbo oil 35"
+Engine limits,"Static Sea Level Ratings 
+ Max. Turbine 
+ Minimum 
+ Gas Temp., 
+ Maximum 
+ Thrust 
+ °C 
+ R.P.M. 
+ (lb.) 
+ Rating 
+ Maximum takeoff (5 min.) 
+ 11,400 
+ 8,050 
+ 675 
+ Maximum continuous 
+ 9,500 
+ 7,750 
+ 580 
+ Vne (Never exceed) 
+ 325 or Mach 0.81 whichever is the lesser 
+ Vno (Normal operation) 
+ 300 or Mach 0.77 whichever is the lesser 
+ Va 
+ (Maneuvering) 
+ 174 
+ Vfe (Flaps down 0° to 10°) 
+ 258 
+ Vfe (Flaps down 10° to 20°) 
+ 202 
+ Vfe (Flaps down 20° to 35°) 
+ 190 
+ Vlo (Landing gear operation) 
+ 180 
+ Vle 
+ (Landing gear extended) 
+ 218 
+ Vllo (Landing light extension) 
+ 215 
+ Brake parachute 
+ (Normal operation) 
+ 115 
+ (Never exceed) 
+ 130 
+ Air brake operation 
+ 325 or Mach 0.81 
+ Air brake extended 
+ 325 or Mach 0.81 
+ Vmc (Minimum control) 
+ Less than the stalling speed"
+CG range Landing,"Landing gear retraction moment -79,860 in.-lb. (moves the C.G. forward)"
+gear extended,"Weight 
+ Forward 
+ Aft 
+ (Pounds) 
+ % S.M.C. 
+ Aft of datum (in.) 
+ % S.M.C. 
+ Aft of datum (in.) 
+ Up to 81,600 
+ 25 
+ 623.18 
+ 39 
+ 648.54 
+ 101,400 
+ 25 
+ 623.18 
+ 35 
+ 641.29 
+ Straight line variation between weights."
+Maximum weights,"Taxi 
+ 102,500 lb. 
+ Takeoff 
+ 101,400 lb. 
+ Landing 
+ 96,570 lb. 
+ Zero fuel 
+ 78,260 lb."
+Minimum crew,"3. Pilot and copilot at (77), flight engineer at (102)."
+Maximum passengers,90. (See approved weight and balance report for actual number and location)
+Maximum luggage,"Volume 
+ Maximum floor 
+ Capacity 
+ (Cu.ft.) 
+ loading (p.s.f.) 
+ (lb.) 
+ Upper aft hold 
+ 212 
+ 82 
+ 2,120 
+ (948) 
+ Lower forward hold 
+ 194 
+ 62 
+ 1,940 
+ (372) 
+ Lower aft hold 
+ 88 
+ 62 
+ 880 
+ (800)"
+Fuel capacity,"(See NOTE 1(b) for data on system fuel and oil) 
+ Total 
+ Usable 
+ (U.S. gal.) 
+ (U.S. gal.) 
+ 2 inboard wing tanks 
+ 2,141.0 each 
+ 2,140 each 
+ (621) 
+ 2 outboard wing tanks 
+ 372.5 each 
+ 370 each 
+ (729)"
+Oil capacity,"(See NOTE 1(b) for data on system fuel and oil) 
+ 1.05 U.S. gal. per engine Total oil 2.1 U.S. gal. (886)"
+"III - SUD AVIATION Caravelle SE 210 Model VIR (Transport Category), approved June 5, 1961 
+ Same as SE 210 Model III except for maximum weights, engine installation, reversers, spoilers, windshield and cockpit, artificial",
+Engines,"2 Rolls-Royce Avon 532R or Avon 533R turbojets 
+ Canadian: 
+ 3-CP-23B, 3-CP-22B 
+ British: 
+ D.Eng. RD 2482, 2494, 2486 
+ French: 
+ TRO AIR 3405, AIR 3407"
+Oil,"ESSO Aviation Turbo Oil 35 
+ ESSO Turbo Oil 35 (Also known as Penola Turbo Oil 35 or Humble Turbo Oil 35) 
+ Castrol 98 Gas Turbine Oil 
+ Texaco Synthetic Aircraft Turbo Oil 15"
+Engine limits,"Static Sea Level Ratings 
+ Maximum 
+ Max. Turbine"
+Rating,"MinimumThrust (lb.) 
+ R.P.M. 
+ Gas Temp.,°C 
+ 532R 
+ 533R 
+ 532R 
+ 533R 
+ 532R 
+ 533R"
+Maximum takeoff 5 min,"12,080 
+ 12,600 
+ 8,050 
+ 8,150 
+ 670 
+ 685 
+ 10,710 
+ 10,710 
+ 7,900 
+ 7,900 
+ 595 
+ 595 
+ EXCEPT WHEN: 
+ Knots 
+ Mod. 1122 
+ Mod. 1042 
+ installed 
+ installed"
+Airspeed limits CAS,"Vne (Never exceed) 
+ 350 
+ 325 
+ 345 
+ or Mach .81 whichever is the lesser 
+ Vno (Normal operation) 
+ 325 
+ 300 
+ 320 
+ or Mach .77 whichever is the lesser 
+ Va 
+ (Maneuvering) 
+ 190 
+ (Sea Level) 
+ 213 
+ (H = 39,300 ft.) 
+ Vfe (Flaps down 0° to 5°) 
+ 270 
+ (Flaps down 5° to 10°) 
+ 258 
+ (Flaps down 10° to 20°) 
+ 202 
+ (Flaps down 20° to 35°) 
+ 190 
+ Vlo (Landing gear operation) 
+ 180 
+ Vle 
+ (Landing gear extended) 
+ 245 
+ Vllo (Landing light extension 
+ 215 
+ Airbrake operation 
+ 350 
+ 325 
+ 345 
+ or Mach .81 
+ Airbrake extended 
+ 350 
+ 325 
+ 345 
+ or Mach .81 
+ Vmc (Minimum control) 
+ Less than the stalling speed"
+CG range Landing,"Landing gear retraction moment -85,930 in.-lb. (moves the C.G. forward)"
+gear extended,"Weight 
+ Forward 
+ Aft 
+ (Pounds) 
+ % S.M.C. 
+ Aft of datum (in.) 
+ % S.M.C. 
+ Aft of datum (in.) 
+ Up to 
+ 110,200 
+ 25 
+ 623.18 
+ 39 
+ 648.54"
+Maximum weights,"Taxi 
+ 111,300 lb. 
+ Takeoff 
+ 110,200 lb. 
+ Landing 
+ 105,000 lb. 
+ Zero fuel 
+ 79,400 lb. 
+ 81,570 lb. (Mod. 1042 installed)"
+Minimum crew,"(See NOTE 4) 
+ All operations except training, test and ferry flights 
+ 3. Pilot and copilot at (77), flight engineer at (102). 
+ Training, test and ferry flights 
+ 2. Pilot and copilot at (77)"
+Maximum passengers,90. (See approved weight and balance report for actual number and location)
+Maximum luggage,"UAL Version 
+ Mod. 712 installed"
+Maximum luggage,"Volume 
+ Maximum floor 
+ Capacity 
+ (Cu.ft.) 
+ loading (p.s.f.) 
+ (lb.) 
+ Left upper aft hold 
+ 120 
+ 122 
+ 1,200 
+ (954) 
+ Right upper aft hold 
+ 81 
+ 122 
+ 810 
+ (950) 
+ Lower forward hold 
+ 194 
+ 61 
+ 1,940 
+ (372) 
+ Lower aft hold 
+ 88 
+ 61 
+ 880 
+ (800) 
+ Mod. 998, 1188 
+ Installed 
+ Lower forward hold 
+ 222.5 
+ 61 
+ 3,065 
+ (374) 
+ Lower aft hold 
+ 116.5 
+ 61 
+ 1,575 
+ (798)"
+Fuel capacity,"(See NOTE 1(b) for data on system fuel and oil) 
+ Total 
+ Usable 
+ (U.S. gal.) 
+ (U.S. gal.) 
+ 2 inboard wing tanks 
+ 2,141.0 each 
+ 2,140 each 
+ (621) 
+ 2 outboard wing tanks 
+ 372.5 each 
+ 370 each 
+ (729)"
+Oil capacity,"(See NOTE 1(b) for data on system fuel and oil) 
+ 1.05 U.S. gal. per engine Total oil 2.1 U.S. gal. (886)"
+Data Pertinent to All Models,
+Datum,"Zero moment datum is located on the center line of the aircraft at the vertical line tangent 
+ to the aircraft theoretical nose, i.e., 82.8 inches forward of frame No. 7. Horizontal arms 
+ to the rear of the datum are positive (+)."
+Standard Mean chord,181.42 inches The leading edge of the standard mean chord is at+577.8 in.
+Leveling means,Leveling plates in forward lower hold at Frames 22 and 25.
+Control surface movements,"Elevator 
+ Up 30° 
+ Down 12° 
+ Rudder 
+ Right 25° 
+ Left 25° 
+ Aileron 
+ Up 21° 
+ Down 21° 
+ Flaps 
+ 35° 
+ Total angle of travel 
+ Upper airbrake 
+ Up 70° 
+ Lower airbrake 
+ Down 75° 
+ Spoilers 
+ Up 60° 
+ (for Model VIR only)"
+Maximum operating altitude,"39,300 ft."
+Other operating,Aircraft shall be operated in compliance with the operating limitations specified
+limitations,in the S.G.A.C. approved Airplane Flight Manual.
+Serial Nos eligible,"The French Government Certificate of Airworthiness for export endorsed as noted under 
+ ""Certification basis"" must be submitted for each individual aircraft for which application 
+ for certification is made."
+Certification basis,"CAR 10. Type Certificate No. 7A6 dated April 18, 1959. 
+ Date of application for Type Certificate September 30, 1955. 
+ Each aircraft and any replacement part manufactured in France must be clearly identified 
+ as imported. 
+ l'Aviation Civile (S.G.A.C.) containing the following statement: 
+ ""The aeroplane covered by this certificate has been examined and found to comply 
+ with U.S. Civil Air Regulation Part 4b, effective December 31, 1953, including 
+ amendments 4b1, 4b2, 4b4, 4b7, 4b9 and SR 422 A (Models I and III), SR 422 B 
+ (Model VIR) and with the Special Requirements notified by the U.S. Government to 
+ the French Government and conforms to T.C. 7A6."" 
+ Compliance with the ditching requirements has been demonstrated. 
+ Compliance with the ice protection requirements of CAR 4b.640 has been demonstrated."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. 
+ The following additional equipment is required: 
+ Weight 
+ (lb.) 
+ (a) Stall warning, 1 horn SANOR Model TR 2 
+ 2 
+ (59) 
+ (b) High speed warning according to SR 450A 
+ 1 horn SANOR Model J8 AV or 1 cling bell 
+ 2 
+ (59) 
+ BONVOISIN 4003/AF/G - (Mod. 1132 installed) 
+ 1 
+ (59) 
+ (c) Artificial feel device, Elevator Control System 
+ SUD AVIATION drawing No. 27 06 003 
+ 51 
+ (932) 
+ (Models I and III) 
+ SUD AVIATION drawing No. 27 06 801 (Model VIR) 
+ 69 
+ (932) 
+ Aileron Control System 
+ SUD AVIATION drawing No. 17 50 425 
+ 17 
+ (772) 
+ Rudder Control System 
+ SUD AVIATION drawing No. 27 07 003 
+ 44 
+ (932) 
+ (Models I and III) 
+ SUD AVIATION drawing No. 27 07 295 (Model VIR) 
+ 60 
+ (932) 
+ (d) Control surface positions 
+ Elevator: 
+ 1 transmitter AIR EQUIPEMENT Model 11501 
+ 1 
+ (1145) 
+ 1 indicator AIR EQUIPEMENT Model 12504.01 
+ 1 
+ (49) 
+ Aileron: 
+ 1 transmitter AIR EQUIPEMENT Model 11501 
+ 1 
+ (739) 
+ 1 indicator AIR EQUIPEMENT Model 12504.02 
+ 1 
+ (49) 
+ Rudder: 
+ 1 transmitter AIR EQUIPEMENT Model 11501 
+ 1 
+ (1160) 
+ 1 indicator AIR EQUIPEMENT Model 12504.03 
+ 1 
+ (49)"
+NOTE 1,"(a) 
+ Current weight and balance report including list of equipment included in the certificated empty 
+ weight, and loading instructions when necessary, must be provided for each aircraft at the time of 
+ original certification. 
+ (b) 
+ ""Unusable Fuel and System Oil"" and all hydraulic fluid must be included in the certificated empty 
+ weight. 
+ ""Unusable Fuel is that quantity of fuel in the system and in the tanks which is unavailable to the 
+ engine under critical flight conditions as defined in CAR 4b.416. This unusable fuel includes ""system 
+ fuel"" which is defined as the quantity required to fill the system and tanks to the tank outlet level 
+ when the airplane is on the ground level attitude. The fuel gauges are calibrated with the unusable 
+ fuel as the zero datum. 
+ The total amount of fuel is as follows: 
+ Usable fuel 
+ Unusable fuel 
+ 5020 U.S. gal. 
+ 7 U.S. gal. 
+ System oil is that amount of oil required to fill the oil system and tanks and is completely contained 
+ within the engine. 
+ System oil weight is 31 lb. 
+ The oil tank capacity shown in the data sheet includes only the usable oil. 
+ A sight glass allows to check the oil level."
+NOTE 2,"The following is a list of aircraft parts which are critical from the fatigue standpoint and must be 
+ replaced at the times specified: 
+ 2 Pressure regulators, LOCKHEED-ENGLAND Model AIR 43444 6,000 hours"
+NOTE 3,"All aircraft must be maintained and repaired in accordance with the French Government approved Maintenance 
+ and Structural Repair Manuals."
+NOTE 4,"Aircraft incorporating SUD Mod. 1126 may be flown with a minimum crew as shown on page I.4.1 of 
+ S.G.A.C. approved Airplane Flight Manual SE 210 655."
+NOTE 5,"Sud/Lear Autoland Installation - SE 210 Model VI R. 
+ If Sud Modifications Nos. 1186, 1357 and 1358 have been incorporated in accordance with Caravelle Service 
+ Bulletin No. 22.33, operation of the autopilot is authorized down to 50 feet. (The above equipment complies 
+ with FAA Advisory Circular A.C. 20-31)."

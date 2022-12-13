@@ -1,0 +1,575 @@
+Keyterm,Info
+"H1IN 
+ Revision 9 
+ Airbus Helicopters 
+ SE.3160 Alouette III 
+ SA.316B Alouette III 
+ SA.315B Alouette III 
+ SA.319B Alouette III 
+ SA.316C Alouette III 
+ March 1, 2022",
+Type Certificate Holder,"Airbus Helicopters Aeroport International 
+ Marseille Provence 13725 
+ Marignane - Cedex 
+ France"
+TC Holder Record,"Eurocopter France changed name to Airbus Helicopters on January 1, 2014."
+"I - Model SE.3160 Alouette III, approved 27 March 1962",
+Engine,One - Turbomeca Artouste III B.
+Fuel and Engine Oil,See data pertinent to all models.
+Engine limits,"Maximum speed: 33,500 r.p.m. true held constant by governor within 
+ + 200 r.p.m. (transient variations of + 1000 r.p.m. are permissible). 
+ ) 
+ Rating takeoff: 858 hp - 33,500 r.p.m. (5 min.) 
+ ) at sea level 
+ (limited to 562 hp by engine gear box) 
+ ) standard 
+ ) conditions of 
+ Rating maximum continuous: 690 hp - 33,500 r.p.m.) 
+ (limited to 542 hp by engine gear box) 
+ ) 59° F., 29.92 in.Hg 
+ Maximum tailpipe temperature 
+ Takeoff power (5 min.) 
+ : 550°C 
+ Maximum continuous power 
+ : 500°C"
+Transmission Limits,"Maximum takeoff power 
+ : 542 hp 
+ Maximum continuous power 
+ : 444 hp"
+Helicopter Limits,"Maximum takeoff power 
+ : 542 hp 
+ Maximum continuous power 
+ : 444 hp"
+Rotor Limits,"Maximum speed 
+ : 420 r.p.m. 
+ Minimum speed 
+ : 270 r.p.m. 
+ Constant speed, power-on flight 
+ : 353.2 r.p.m."
+Airspeed Limits,"For CG location between (109.45) and (121.25) : 113 knots 
+ For CG location between (121.25) and (124.0) : 103 knots 
+ See Helicopter Flight Manual for variation of VNE with weight and altitude."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9"
+Rev No,"9 
+ 4 
+ 4 
+ 4 
+ 4 
+ 4 
+ 4 
+ 9 
+ 8"
+CG Range,"Longitudinal 
+ (109.45) to (121.25) 
+ (121.25) to (124.0) with airspeed restriction per ""Airspeed Limits"" 
+ above. 
+ Lateral 
+ LH Limit (5.51) 
+ RH Limit (4.72)"
+Maximum Weight,4630 lb.
+Number of Seats,"7 - Pilot and two front passengers (54.55), plus four rear passengers (86.45)"
+Maximum Baggage,See Helicopter Flight Manual.
+Fuel Capacity,"149 U.S. Gal. (123.2) - Usable 146 U.S. Gal. 
+ Total tank capacity: 157 U.S. Gal. 
+ (See NOTE 1 for data on unusable fuel)."
+Oil Capacity,"Total capacity 2.6 U.S. Gal. at 143 inches 
+ (See NOTE 1 for data on undrainable oil)."
+NOTE A,"The ""Siren"" cargo swing, cargo sling and ""Air Equipment"" rescues hoist to Aerospatiale 
+ Drawing Nos. 3160-73.06.500 (cargo swing) 3160-73.06.000 (cargo sling) and 3160- 
+ 73.38.000 (rescue hoist) are approved for special-purpose operation in accordance with 
+ limitations contained in the Helicopter Flight Manual."
+"II. Model SA.316B Alouette III, approved 25 March 1971 
+ (SA.316B may be obtained by conversion of SE.3160 in accordance with NOTE B)",
+Engine,One - Turbomeca Artouste III B.
+Fuel and Engine Oil,See data pertinent to all models.
+Engine Limits,"Maximum speed: 33,500 r.p.m. true held constant by governor within 
+ + 200 r.p.m. (transient variations of + 1000 r.p.m. are permissible). 
+ ) 
+ Rating takeoff: 858 hp - 33,500 r.p.m. (5 min.) 
+ ) at sea level 
+ (limited to 562 hp by engine gear box) 
+ ) standard 
+ ) conditions of 
+ Rating maximum continuous: 690 hp - 33,500 r.p.m. 
+ ) 59° F., 29.92 in.Hg 
+ (limited to 542 hp by engine gear box) 
+ Maximum tailpipe temperature 
+ Takeoff power (5 min.) 
+ : 550°C 
+ Maximum continuous power 
+ : 500°C"
+Transmission Limits,"Maximum takeoff power 
+ : 592 hp 
+ Maximum continuous power 
+ : 444 hp"
+Helicopter Limits,"Maximum takeoff power 
+ : 562 hp 
+ Maximum continuous power 
+ : 444 hp"
+Rotor Limits,"Maximum speed 
+ : 420 r.p.m. 
+ Minimum speed 
+ : 270 r.p.m. 
+ Constant speed, power-on flight 
+ : 353.2 r.p.m."
+Airspeed Limits,"For CG location between (109.45) and (121.25): 113 knots 
+ For CG location between (121.25) and (124.0): 103 knots 
+ See Helicopter Flight Manual for variation of VNE with weight and altitude."
+CG Range,"Longitudinal 
+ (109.45) to (121.25) 
+ (121.25) to (124.0) with airspeed restriction per ""Airspeed Limits"" 
+ above. 
+ Lateral 
+ LH limit (5.51) 
+ RH limit (4.72)"
+Maximum Weight,4850 lb.
+Number of Seats,"7 - Pilot and two front passengers (54.55), plus four rear passengers (86.45)."
+Maximum Baggage,See Helicopter Flight Manual.
+Fuel Capacity,"149 U.S. Gal. (123.2) - Usable 146 U.S. Gal. 
+ Total tank capacity: 157 U.S. Gal. 
+ (See NOTE 1 for data in unusable fuel)."
+Oil Capacity,"Total capacity 2.6 U.S. Gal. at 143. 
+ (See NOTE 1 for data on undrainable oil)."
+NOTE A,"The ""Siren"" cargo swing, cargo sling and ""Air Equipment"" rescue hoist to Aerospatiale 
+ Drawing Nos. 3160-73.06.500 (cargo swing) 3160-73.06.000 (cargo sling) and 3160- 
+ 73.38.000 (rescue hoist) are approved for special-purpose operation in accordance with 
+ limitations contained in the Helicopter Flight Manual."
+NOTE B,"To convert the Model SE.3160 Alouette III to the Model SA.316B Alouette III the 
+ following assemblies, or those which bear a higher group number or dot number, must be 
+ installed. 
+ (See SGAC-approved Alouette Service Bulletin 01.20). 
+ - Blade spacing cables reinforced 
+ P/N 3160S.14.60.000 
+ - Main landing gear reinforced 
+ P/N 3160S.42.10.000.1 
+ - Body structure reinforced 
+ P/N 3160S.22.11.000.1 
+ - Improvement of tail boom 
+ P/N 3160S.23.11.000.9 
+ service life 
+ - Instruction placards 
+ (See NOTE 2) 
+ - Main gear box 
+ P/N 3160S.62.00.000.13 or 
+ P/N 3160S.62.00.000.10 to 12 
+ embodying modification 
+ AM.1212 in addition (See log card) 
+ - Main rotor shaft 
+ P/N 3160S.68.10.000.1 
+ - Main rotor head 
+ P/N 3160S.12.20.000.3 
+ - Freewheel 
+ P/N 3160S.60.10.000.1 
+ - Tube and universal joint assy 
+ P/N 3160S.67.11.000 
+ - Tail rotor gear box 
+ P/N 3160S.66.10.000.3 
+ - Tail rotor head 
+ P/N 3160S.33.30.000.6 
+ - Main rotor blades 
+ P/N 3160S.11.10.000.16 to 31 
+ .42 to 51 
+ .62 to 71 
+ - Tail rotor blades 
+ P/N 3160S.34.10.000.10"
+"III. - Model SA.315B Alouette III, approved 25 February 1972",
+Engine,One - Turbomeca Artouste III B.
+Fuel and Engine Oil,See data pertinent to all models.
+Engine Limits,"Maximum speed: 33,500 r.p.m. true held constant by governor within 
+ + 200 r.p.m. (transient variations of + 1000 r.p.m. are permissible). 
+ ) 
+ Rating takeoff: 858 hp - 33,500 r.p.m. (5 min.) 
+ ) at sea level 
+ (limited to 562 hp by engine gear box) 
+ ) standard 
+ ) conditions of 
+ Rating maximum continuous: 690 hp - 33,500 r.p.m. 
+ ) 59° F., 29.92 in.Hg 
+ (limited to 542 hp by engine gear box) 
+ Maximum tailpipe temperature 
+ Takeoff power (5 min.) 
+ : 550°C 
+ Maximum continuous power 
+ : 500°C"
+Transmission Limits,"Maximum takeoff power 
+ : 592 hp 
+ Maximum continuous power 
+ : 494 hp"
+Helicopter Limits,"Maximum takeoff power 
+ : 562 hp 
+ Maximum continuous power 
+ : 494 hp"
+Rotor Limits,"Maximum speed 
+ : 420 r.p.m. 
+ Minimum speed 
+ : 270 r.p.m. 
+ Constant speed, power-on flight 
+ : 353.2 r.p.m."
+Airspeed Limits,"For CG location between (108.6) and (118.1): 113 knots 
+ For CG location between (118.1) and (124.0): 108 knots 
+ See Helicopter Flight Manual for variation of VNE with weight and altitude."
+CG Range,"Longitudinal 
+ (108.6) to (118.1) 
+ (118.1) to (124.0) with airspeed restriction per 
+ ""Airspeed Limits"" above and for weights below 3860 lb. 
+ Lateral 
+ LH limit (5.3) 
+ RH limit (1.7)"
+Maximum Weight,"4300 lb. with internal load. 
+ 5070 lb. with external load. 
+ Maximum permissible weight on sling: 2200 lb."
+Number of Seats,"5 - Pilot and one front passenger (52.80), plus three rear passengers (84.10)."
+Maximum Baggage,See Helicopter Flight Manual.
+Fuel Capacity,"149 U.S. Gal. (120) - Usable 146 U.S. Gal. 
+ Total tank capacity: 157 U.S. Gal. 
+ (See NOTE 1 for data on unusable fuel)."
+Oil Capacity,"Total capacity 2.6 U.S. Gal. at 141.5. 
+ (See NOTE 1 for data on undrainable oil)."
+NOTE A,"The ""Siren"" cargo swing and ""Air Equipment"" rescue hoist to Aerospatiale Drawing 
+ Nos. 315A73.10.100 (cargo swing) and 315A73-02.100 (rescue hoist) are approved for 
+ special-purpose operation in accordance with limitations contained in the Helicopter 
+ Flight Manual."
+"IV. - Model SA319B Alouette III, approved 20 November 1972.",
+Engine,One - Turbomeca Astazou XIVB.
+Fuel and Engine Oil,See data pertinent to all models.
+Engine Limits,"Maximum speed: 43,000 r.p.m. true held constant by governor within 
+ + 200 r.p.m. (transient variation of + 1500 r.p.m. are permissible). 
+ ) 
+ Rating takeoff: 858 hp - 43,000 r.p.m. (5 min.) 
+ ) at sea level 
+ (limited to 592 hp by engine gear box) 
+ ) standard 
+ ) conditions of 
+ Rating maximum continuous: 770 hp - 43,000 r.p.m. 
+ (limited to 542 hp by engine gear box) 
+ ) 59° F., 29.92 in.Hg 
+ Maximum tailpipe temperature 
+ Maximum takeoff (5 min.) 
+ : 520°C 
+ Maximum continuous power 
+ : 470°C"
+Transmission Limits,"Maximum takeoff power 
+ : 592 hp 
+ Maximum continuous power 
+ : 494 hp"
+Helicopter Limits,"Maximum takeoff power 
+ : 592 hp 
+ Maximum continuous power 
+ : 494 hp 
+ Maximum speed 
+ : 420 r.p.m."
+Rotor Limits,"Minimum speed 
+ : 270 r.p.m. 
+ Constant speed, power on flight 
+ : 358 r.p.m."
+Airspeed Limits,"For CG location between (109.4) and (121.2): 118 knots 
+ For CG location between (121.2) and (124.0): 108 knots 
+ See Helicopter Flight Manual for variation of VNE with weight and altitude."
+CG Range,"Longitudinal 
+ (109.4) to (121.2) 
+ (121.2) to (124.0) with airspeed restriction 
+ (See above ""Airspeed Limits"") 
+ Lateral 
+ LH limit (5.5) 
+ RH limit (4.7)"
+Maximum Weight,"4,960 lb."
+Number of Seats,"7 - Pilot and two front passengers (54.5), plus four rear passengers (86.4)."
+Maximum Baggage,See Helicopter Flight Manual.
+Total Fuel Capacity,"149 U.S. Gal. (123.2) - Usable 146 U.S. Gal. 
+ (See NOTE 1 for data on unusable fuel)."
+Oil Capacity,"Total capacity 2.6 U.S. Gal. at 153. 
+ (See NOTE 1 for data on undrainable oil)."
+Rotor Blade Movements,"For rigging information, refer to the Alouette III SA319B Maintenance Manual."
+NOTE A,"The ""Siren"" cargo swing, cargo sling and ""Air Equipment"" rescue hoist to 
+ ""Aerospatiale"" Drawings. 
+ 319A-73.06.500 and 319A-73.06.510 (cargo swing) 
+ 319A-73.06.000 and 319A-73.06.010 (cargo sling) and 
+ 319A-73.38.005 and 319A-73.38.000 (rescue hoist) are approved for operation in 
+ accordance with limitations contained in the Helicopter Flight Manual."
+NOTE B,"To convert the Model SA316B Alouette III to the Model SA319B Alouette III the 
+ appropriate modifications listed in the Aerospatiale Technical Note SA319A.04.00.025 
+ must be applied."
+"V. - Model SA316C Alouette III, approved 20 November 1972.",
+Engine,One - Turbomeca Artouste IIID.
+Fuel and Engine Oil,See data pertinent to all models.
+Engine Limits,"Maximum speed: 33,500 r.p.m. true held constant by governor within 
+ + 200 r.p.m. (transient variations of + 1000 r.p.m. are permissible). 
+ Rating takeoff: 858 hp - 33,500 r.p.m. (5 min.) 
+ ) 
+ (limited to 592 hp by engine gear box) 
+ ) at sea level 
+ ) standard 
+ Rating maximum continuous: 690 hp - 33,500 r.p.m. 
+ ) conditions of 
+ (limited to 542 hp by engine gear box) 
+ ) 29.92 in.Hg 
+ Maximum tailpipe temperature 
+ Maximum takeoff (5 min.) 
+ : 550°C 
+ Maximum continuous tsail 
+ : 500°C"
+Transmission Limits,"Maximum takeoff power 
+ : 592 hp 
+ Maximum continuous power 
+ : 494 hp"
+Helicopter Limits,"Maximum takeoff power 
+ : 592 hp 
+ Maximum continuous power 
+ : 494 hp"
+Rotor Limits,"Maximum speed 
+ : 420 r.p.m. 
+ Minimum speed 
+ : 270 r.p.m. 
+ Constant speed, power-on flight 
+ : 358 r.p.m."
+Airspeed Limits,"For CG location between (109.4) and (121.2): 118 knots 
+ For CG location between (121.2) and (124.0): 108 knots 
+ See Helicopter Flight Manual for variation of VNE with weight and altitude."
+CG Range,"Longitudinal 
+ (109.4) to (121.2) 
+ (121.2) to (124.0) with airspeed restriction 
+ (See above ""Airspeed Limits"") 
+ Lateral 
+ LH limit (5.5) 
+ RH limit (4.7)"
+Maximum Weight,"4,960 lb."
+Number of Seats,"7 - Pilot and two passengers (54.5), four rear passengers (86.4)."
+Maximum Baggage,See Helicopter Flight Manual.
+Total Fuel Capacity,"149 U.S. Gal. (123.2) - Usable 146 U.S. Gal. 
+ (See NOTE 1 for data on unusable fuel)"
+Oil Capacity,"Total capacity 2.6 U.S. Gal. at 128. 
+ (See NOTE 1 for data on undrainable oil)."
+Rotor Blade Movements,"For rigging information, refer to the SA316C Alouette III Maintenance Manual."
+NOTE A,"The ""Siren"" cargo swing, cargo sling and ""Air Equipment"" rescue hoist to 
+ ""Aerospatiale"" Drawings. 
+ 319A-73.06.500 and 319A-73.06.510 (cargo swing) 
+ 319A-73.06.000 and 319A-73.06.010 (cargo sling) and 
+ 319A-73.38.005 and 319A-73.38.010 (rescue hoist) are approved for 
+ operation in accordance with limitations contained in the Helicopter Flight Manual."
+NOTE B,"To convert the Model SA316B Alouette III to the Model SA316C Alouette III the 
+ appropriate modifications listed in the Aerospatiale Technical Note SA319A.04.00.025 
+ must be applied."
+DATA PERTINENT TO ALL MODELS,
+Fuel,"Normal Fuels, Unrestricted 
+ SPECIFICATIONS 
+ REMARKS 
+ French 
+ U.S.A. 
+ British 
+ NATO 
+ Aviation Fuels 
+ D. Eng. RD 2453 
+ F34 
+ AIR 3405 
+ AVTUR FS II 
+ (TRO) 
+ ASTMJet A 
+ ASTMJet A1 
+ D.Eng. RD 2494 
+ AVTUR 
+ F35 
+ Aviation Fuels 
+ MIL-T-5624 
+ D.Eng. RD 2454 
+ AIR 3407 
+ (JP.4) 
+ AVTAG FS II 
+ F40 
+ (TR4) 
+ ASTMJet B 
+ D.Eng. RD 2486 
+ AVTAG 
+ F45 
+ F42 
+ Aviation Fuels 
+ AIR 3404 
+ MIL-T-5624 
+ D.Eng. RD 2498 
+ (TR5) 
+ (JP.5) 
+ AVCAT 
+ F44 
+ Note a: Refer to current issues and amendments. 
+ Note b: The use of an approved anti-icing additive is recommended, if none is contained in 
+ the fuel, at OAT below O°C. 
+ Note c: The following fuel additives are approved for use: 
+ Anti-icing additive: AIR 3652, NATO.S.748, MIL.I.27686, 
+ D.Eng. RD 2451 (each is eligible up to .15% in volume, with or without glycerine). 
+ Anti-static additive: SHELL ASA.3, (up to .0001% in volume). 
+ Fuels Subjected to Restrictions on Use. 
+ SPECIFICATIONS 
+ RESTRICTIONS 
+ French 
+ U.S.A. 
+ British 
+ NATO 
+ Gasoline 
+ MIL-G-5572 
+ F12 
+ Maximum operation time on 
+ gasoline during any period 
+ (Grade 80/87) 
+ between overhauls: 25 hrs. 
+ (Grade 100/130) 
+ D.Eng. RD 2485 
+ F18 
+ (Grade 115/145) 
+ F22 
+ Add 1 to 2% of lubricating 
+ AIR 3401 
+ oil by volume (mineral oil if 
+ possible) 
+ Automotive 
+ MIL-G-3056 
+ DEF 2401 
+ F46 
+ Gasoline DCEA/2D 
+ MT 80 
+ VVF 800 DF2 
+ Not to be used at OAT 
+ Automotive Diesel 
+ TS.10.003 
+ F54 
+ below -5° C 
+ Oil DCEA/21 C 
+ VVF 800 DF1 
+ Not to be used at OAT 
+ below - 15°C 
+ VVF 800 DFA 
+ F56 
+ MIL-F-16884 
+ DEF 2402 
+ Gasoil O 
+ Not to be used at OAT 
+ 7120 STM 
+ (47/0 DIESO) 
+ F75 
+ below -5°C 
+ Gasoil 20 
+ DEF 2402 
+ Not to be used at OAT 
+ 7120STM 
+ (47/20 DIESO) 
+ F76 
+ below 0°C 
+ VV-K211 
+ DEF 2403 
+ F58 
+ Not to be used at OAT 
+ Illuminating 
+ Oil DCEA/11C 
+ below - 15°C 
+ Engine Lubricating Oil 
+ SPECIFICATIONS (Latest Amendment) 
+ Remarks 
+ French 
+ NATO 
+ U.S.A. 
+ British 
+ AIR 3513 
+ 0.148 
+ MIL.l.7808 
+ Synthetic Oil 
+ Normal 
+ Aeroshell Turbine 
+ Oil 3 
+ AIR 3515 
+ 0.135 
+ Esso Aviation 
+ Mineral oil 
+ D.Eng. RD 
+ Utility Oil F 
+ 2490 
+ Caltex jet engine 
+ oil medium heavy 
+ 0.156 
+ MIL.L.23699 
+ Synthetic oil 
+ CAUTION: The mixing of oils AIR 3513 and 3515 is not permitted. The system should be flushed when changing from 
+ one type to the other."
+Datum,"Longitudinal: 
+ 118.1 in. forward of rotor hub center 
+ Lateral: 
+ Plane of symmetry of rotorcraft."
+Leveling Means,"Four leveling lugs, vertical tubes of body structure, two at the front and two at the rear."
+Rotor Blade Movements,"For rigging information, refer to the Alouette III Maintenance Manual."
+Serial Nos Eligible,"The French Government ""Certificat de Navigabilite pour Exportation"" endorsed as noted 
+ under ""Import Requirements"" must be submitted for each individual helicopter for which 
+ application for certification is made. For applications for Standard Airworthiness 
+ Certificates made after May1, 2004, a review of historical records is needed to determine 
+ if the helicopter was delivered to and operated by the military. If the helicopter has 
+ military history, the helicopter is not eligible for a Standard Airworthiness Certificate 
+ unless a copy of a Standard Airworthiness Certificate issued at the time of delivery to the 
+ military is submitted."
+Import Requirements,"The FAA can issue a U.S. airworthiness certificate based on a National Aviation Authority 
+ (NAA) Export Certificate of Airworthiness (Export C of A) signed by a representative of 
+ the French Generale de l’Aviation Civile (DGAC) on behalf of the European Community. 
+ The Export C of A should contain the following statement: “The aircraft covered by this 
+ certificate has been examined, tested, and found to comply with the type design approved 
+ under U.S. Type Certificate Number H1IN and to be in a condition for safe operation.” 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United 
+ States of both new and used aircraft based on the scope of the agreement, to identify any 
+ required statements by the exporting authority on the export certificate of airworthiness (or 
+ equivalent document), and for procedures for coordinating exceptions to conformity 
+ statements on these documents. Refer to FAA Order 8130.2, Airworthiness Certification of 
+ Aircraft, for requirements for issuance of an airworthiness certificate for imported aircraft."
+Certification Basis,"CAR 10 (FAR 21.29) CAR 6, 20 December 1956, plus Amendments 6.1 through 6.4 
+ and Special Requirements notified to the French Government by the U.S. Government, 
+ in letters dated 3 May 1960 and 13 September 1961. 
+ Type Certificate No. H1IN issued 27 March 1962 for the SE.3160 Alouette III. 
+ Type Certificate No. H1IN amended 25 March 1971 to add the SA.316B 
+ Alouette III. 
+ Type Certificate No. H1IN amended 25 February 1972 to add the SA.315B 
+ Alouette III. 
+ Type Certificate No. H1IN amended 20 November 1972 to add the SA.319B Alouette III 
+ and the SA.316C Alouette III. 
+ Date of Application for Type Certificate: 28 July 1961. 
+ The French Direction Generale de l’Aviation Civile (DGAC) originally type certificated 
+ this rotorcraft under its type certificate TC 14. The FAA validated this product under U.S. 
+ Type Certificate Number H1IN. Effective September 28, 2003, the European Aviation 
+ Safety Agency (EASA) began oversight of this product on behalf of the DGAC."
+Service Information,"Each of the documents listed below must state that it is approved by the European 
+ Aviation Safety Agency (EASA) or – for approvals made before September 28, 2003 – by 
+ the French Generale de l’Aviation Civile (DGAC). Any such documents are accepted by 
+ the FAA and are considered FAA approved. 
+ • 
+ Service Bulletin, 
+ • 
+ Structural repair manuals, 
+ • 
+ Vendor manuals, 
+ • 
+ Aircraft flight manuals, and 
+ • 
+ Overhaul and maintenance manuals. 
+ This applies only to the acceptance of the type design data."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (See Certification Basis) must be installed in the aircraft for certification. In addition, the 
+ following items of equipment are required: 
+ SGAC-approved Helicopter Flight Manual (English language version). 
+ Ambient air temperature gauge."
+NOTE 1,"Current weight and balance report, including loading instructions and list of equipment included in the 
+ certificated empty weight, must be provided for each helicopter at the time of original certification. In order 
+ to obtain the most consistent weight and balance results, all helicopters should be weighed on jackpoints rather 
+ than on wheels and floats. When changes are made to the helicopter that affect the weight and balance, refer 
+ to the Flight Manual for instructions. 
+ The certificated empty weight and corresponding center of gravity locations must include unusable fuel of 18 
+ lb. (120.8), and undrainable oil of 1.5 lb. (138.6)."
+NOTE 2,"The following placard must be displayed in clear view of the pilot: 
+ ""THIS HELICOPTER MUST BE OPERATED IN COMPLIANCE WITH THE 
+ OPERATING LIMITATIONS SPECIFIED IN THE APPROVED FLIGHT MANUAL"" 
+ The other placards as indicated in the Helicopter Flight Manual must be installed in the appropriate 
+ location."
+NOTE 3,"Information essential to the proper maintenance of the helicopter is contained in the Manufacturer's 
+ Maintenance Manual provided with each helicopter. The retirement times of critical parts are listed in 
+ Chapter 5, approved by SGAC."
+NOTE 4,Revision 8 to the TCDS changed the company name from Eurocopter France to Airbus Helicopters.
+NOTE 5,"Effective January 1, 2014, Eurocopter France name was changed to Airbus Helicopters."

@@ -1,0 +1,267 @@
+Keyterm,Info
+"A2IN 
+ Revision 2 
+ HANDLEY PAGE 
+ Herald Type 300 
+ August 8, 2003",
+Type Certificate Holder,"Handley Page (Reading) Limited 
+ Berkshire, England 
+ I Herald Type 300 (Transport Category), Approved May 25, 1962."
+Engines,2 Rolls-Royce Dart 527 (Turboprop)
+Fuel,"Aviation Kerosene to Spec. D.Eng.R.D.2482 (AVTUR/40) and/or D.Eng. R.D.2494 
+ (AVTUR/50) and/or American Spec. A.S.T.M. D.1655-59T Type A or Type A-1, and/or 
+ Canadian 3-GP-23D Type 1; and/or I.A.T.A. Kerosene type fuel 
+ Wide-cut gasoline to Spec.D.Eng.R.D.2486 and/or American Spec. MIL- J-5624E (JP4) 
+ A.S.T.M. D.1655-59T Type B and/or I.A.T.A. wide-cut fuel and/or Canadian Spec."
+Engine limits,"Static Sea Level Ratings 
+ Turbine 
+ Max. Gas 
+ Propeller 
+ Compressor 
+ Jet 
+ Shaft 
+ Temp. 
+ Speed 
+ Speed 
+ Thrust. 
+ H.P. 
+ Rating 
+ (lb.) 
+ (rpm) 
+ (rpm) 
+ (°C) 
+ Max. takeoff (wet) 
+ 1870 
+ 495 
+ 15,000 
+ 1395 
+ 825 
+ Max. takeoff (dry) 
+ 1835 
+ 485 
+ 15,000 
+ 1395 
+ 795 
+ Max. continuous 
+ 1835 
+ 485 
+ 15,000 
+ 1395 
+ 835"
+Propeller and,2 Rotol R.187/4-30-4/18
+propeller limits,"Blades eligible RA.25921 
+ Diameter: 12 ft. 6 in. 
+ Pitch settings at 0.7 radius station: 
+ Ground fine 0°, fine 16°30', feathered 83°45' 
+ Restricted speed range: On the ground--continuous operation between 8500 and 9500 
+ engine r.p.m. shall be avoided."
+Airspeed limits CAS,"Vne (never exceed) 
+ 276 m.p.h. (240 kt.) to 15,000 ft. 
+ decreasing linearly to 
+ 243 m.p.h. (211 kt.) at 23,000 ft. 
+ Vmo (maximum operating) 
+ 238 m.p.h. (206 kt.) to 15,000 ft. 
+ decreasing linearly to 
+ 203 m.p.h. (174 kt.) at 23,000 ft. 
+ Va (maneuvering) 
+ 166 m.p.h. (144 kt.) 
+ Vfe (flaps up -5°) 
+ 175 m.p.h. (152 kt.) 
+ Vfe (flaps 5° -30°) 
+ 143 m.p.h. (124 kt.) 
+ Vlo (landing gear operation) 
+ 197 m.p.h. (171 kt.) 
+ Vle (landing gear extended) 
+ 197 m.p.h. (171 kt.) 
+ Vmc (minimum control) Sea level 
+ 96.8 m.p.h. ( 84.0 kt.) 
+ 8000 ft. 
+ 85.0 m.p.h. ( 73.9 kt.)"
+1,"2 
+ 3 
+ 4"
+1,"1 
+ 1 
+ 1"
+CG range,"Landing gear retraction moment 62,580 in.-lb. (moves C.G. forward)"
+landing gear extended,"Forward 
+ Aft 
+ Weight 
+ % 
+ Aft of 
+ % 
+ Aft of 
+ (lb.) 
+ S.M.C. 
+ Datum (in.) 
+ S.M.C. 
+ Datum (in.) 
+ 26,000 
+ 11.13 
+ 23.64 
+ 29.11 
+ 43.80 
+ 33,500 
+ 11.13 
+ 23.64 
+ 29.11 
+ 43.80 
+ 34,800 
+ 12.48 
+ 25.20 
+ 29.11 
+ 43.80 
+ 36,100 
+ 13.83 
+ 26.64 
+ 29.11 
+ 43.80 
+ 37,400 
+ 15.18 
+ 28.20 
+ 29.11 
+ 43.80 
+ 38,700 
+ 16.53 
+ 29.64 
+ 29.11 
+ 43.80 
+ 40,000 
+ 17.88 
+ 31.20 
+ 29.11 
+ 43.80 
+ Straight line variation between weights."
+Datum,"Zero moment datum is located on the center line of the aircraft at the intersection of the 
+ projected leading edge of the wing which is Station 288 inches. This datum point is 
+ located by the forward edge of the forward rigging bolt on each side of the fuselage 
+ (externally). Horizontal arms to the rear of the datum are positive (+)."
+Standard mean chord,112.50 in. actual (112.11 in. projected horizontally).
+SMC,The leading edge of the S.M.C. is at 11.16 in. aft of datum.
+Leveling means,"Fore and aft by external datum bolts at Sta. 288 and 333. 
+ Lateral by internal datum point at Frame 114."
+Maximum weight,"Landing 
+ 39,500 lb. 
+ Takeoff 
+ 40,000 lb. 
+ Max. zero fuel weight 
+ 37,000 lb."
+Minimum crew,2 pilots (-225.60).
+Maximum passengers,56 (See approved weight and balance report for actual number and location.)
+Maximum baggage,"Max. floor 
+ Volume 
+ loading 
+ Capacity 
+ Arm 
+ (cu. ft.) 
+ (p.s.f.) 
+ (lb.) 
+ (in.) 
+ Forward hold 
+ 118 
+ 150 
+ 1180 
+ (-187.32) 
+ Aft hold 
+ 160 
+ 150 
+ 1600 
+ (+363.00)"
+Fuel capacity,"(See NOTE 1(b) for data on system fuel and oil.) 
+ Total 
+ Usable 
+ Two forward center plane tanks 
+ 223 U.S. gal. 223 U.S. gal. 
+ Two aft center plane tanks 
+ 199 U.S. gal. 199 U.S. gal. 
+ Two outer plane tanks 
+ 226 U.S. gal. 226 U.S. gal."
+Oil capacity,"See NOTE 1(b) for data on system fuel and oil. 
+ 1.65 U.S. gal. per engine. Total oil 3.3 U.S. gal."
+Max operating altitude,"23,000 ft."
+Other operating,Aircraft shall be operated in compliance with the operating limitations specified
+limitations,in the A.R.B. approved Airplane Flight Manual.
+Control surface movements,"Elevator 
+ Up 25° 
+ Down 15° 
+ Servo tab 
+ Up 24° 
+ Down 10° 
+ Spring tab 
+ Up 20° 
+ Down 20° 
+ Rudder 
+ *Right 14-11/32"" 
+ *Left 17-13/16"" 
+ Servo tab 
+ *Right 4-5/8"" 
+ *Left 4-5/8"" 
+ Trim tab 
+ *Right 4-5/8"" 
+ *Left 4-5/8"" 
+ Aileron 
+ Up 25° 
+ Down 15° 
+ Servo tab 
+ Up 15° 
+ Down 15° 
+ Trim tab 
+ Up 18 1/2° 
+ Down 11 1/2° 
+ Flaps 
+ 30° 
+ Total angle of travel 
+ *Rudder and rudder tab movements are inches measured at bottom of root rib."
+Serial Nos eligible,"The United Kingdom Certificate of Airworthiness for export endorsed as noted under 
+ ""Certification basis"" must be submitted for each individual aircraft for which application 
+ for certification is made."
+Certification basis,"CAR 10. Type Certificate No. A2IN issued May 25, 1962 
+ Date of Application for Type Certificate June 17, 1957. 
+ Each aircraft and any replacement parts manufactured in the U.K. must be designated as 
+ ""import"" and clearly labeled as such in accordance with CAR 10.30. A U.S. Airworthiness 
+ Certificate may be issued on basis of a United Kingdom Certificate of Airworthiness for 
+ Export signed by a representative of the Ministry of Aviation containing the following 
+ notation: ""The aeroplane covered by this certificate has been examined and found to 
+ comply with the British Civil Airworthiness Requirements (1959) and the Special 
+ Requirements for Herald Aircraft notified by the U.S.A. Government to the Government of 
+ the United Kingdom and conforms to T.C. A2IN."" (This certification equivalent to CAR 
+ 4b effective December 31, 1953, plus Amendments 4b-1 thru 4b-11 and SR-422B dated 
+ July 9, 1959.) 
+ Compliance with the ditching requirements has been demonstrated."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see 
+ Certification Basis) must be installed in the aircraft for certification. The following 
+ additional equipment is required: 
+ (a) Stall Warning Indicator, Kelvin & Hughes Type No. KSB.0213. 
+ (b) Stick Shaker, Western Manufacturing Type No. CCV.161."
+NOTE 1,"(a) Current weight and balance report, including list of equipment included in certificated empty weight, and 
+ loading instructions when necessary, must be provided for each aircraft at the time of original certification. 
+ (b) ""Unusable Fuel and System Oil"" and all hydraulic fluid must be included in the certificated empty weight. 
+ Unusable fuel is that quantity of fuel in the system and in the tanks which is unavailable to the engine under 
+ critical flight conditions as defined in CAR 4b.416. This unusable fuel includes ""system fuel"" which is 
+ defined as the quantity required to fill the system and tanks to the tank outlet level when the airplane is in 
+ the ground level attitude. The fuel gauges are calibrated with the unusable fuel level as the zero datum. The 
+ total amount of fuel is as follows: 
+ Usable fuel 
+ Unusable fuel 
+ Undrainable fuel 
+ (that is downstream 
+ Using pressure 
+ of booster pumps) 
+ de-fueling unit 
+ 1312 U.S. gal. 
+ 24 lb. total 
+ 96 lb. total 
+ System Oil is that amount of oil required to fill the oil systems and tanks to the tank outlets to the engines. 
+ The propeller feathering oil is not considered usable oil and is included in ""System Oil"". System oil weight 
+ is 86 lb. The oil tank capacities shown in this data sheet include only the usable oil for which the tanks are 
+ placarded. Dipstick readings indicate the amount of usable oil."
+NOTE 2,"The following is a list of aircraft parts which are critical from the fatigue standpoint at less than 15,000 flights 
+ and must be replaced at the times specified."
+Cable Part No P04884 B1,750 flights
+All other flap cables,"3,500 flights"
+Parts P04877 B1 and P04878,"1,000 flights"
+All other flap chains,"10,000 flights 
+ Other aircraft parts that are critical from a fatigue standpoint at 15,000 or more flights will be included herein 
+ as further testing and operational experience is evaluated."
+NOTE 3,All aircraft must be maintained and repaired in accordance with the Air Registration Board approved
+NOTE 4,A FAA Certificate of Airworthiness is not to be issued until compliance is found to SFAR 88.

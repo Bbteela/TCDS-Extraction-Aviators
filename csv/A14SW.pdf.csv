@@ -1,0 +1,226 @@
+Keyterm,Info
+"A14SW 
+ Revision 11 
+ Textron Aviation 
+ MU-300 
+ October 12, 2016",
+Type Certificate Holder,"Textron Aviation Inc. 
+ One Cessna Boulevard 
+ Wichita, KS 67215"
+Type Certificate Holder Record,"Mitsubishi Heavy Industries, Inc. Ltd.. 
+ Tokyo, Japan transferred to 
+ Raytheon Aircraft Company 
+ Raytheon Aircraft Company transferred to 
+ Hawker Beechcraft Corporation on March 26, 2007. 
+ Hawker Beechcraft Corporation transferred to 
+ Beechcraft Corporation on April 12, 2013. 
+ Beechcraft Corporation transferred to 
+ Textron Aviation Inc. on October 12, 2016"
+"I. 
+ Model MU-300, Diamond I and IA (Transport Category), Approved November 6, 1981 (See NOTE 8 and 9).",
+Engines,"Two Pratt and Whitney Aircraft of Canada, Ltd. JT15D-4 or JT15D-4D turbofans 
+ (NOTE 4)"
+Fuel,"Commercial kerosene Jet A, Jet A-1, Jet B, or JP-4 
+ Fuels not containing icing inhibitors must have MIL-I-27686D fuel system icing 
+ inhibitor added in amounts of not less than 0.10% or more than 0.15% by volume. 
+ See Airplane Flight Manual for blending anti-icing additive to fuel."
+Engine Limits,"Static thrust standard day, sea level: 
+ JT15D-4 
+ JT15D-4D 
+ Take-off (5 minutes) 
+ 2,500 lb. 
+ 2,500 lb. 
+ Max Continuous 
+ 2,375 lb. 
+ 2,375 lb. 
+ Maximum permissible engine rotor operating speeds: 
+ N1 (Fan) 
+ 104% 
+ 104% 
+ 16,540 rpm 
+ 16,540 rpm 
+ N2 (Gas Gen.) 
+ 96% 
+ 97% 
+ 31,450 rpm 
+ 31,800 rpm 
+ Maximum permissible interturbine gas temperatures: 
+ Take-off 
+ 700°C 
+ 720° C 
+ Maximum Continuous 
+ 680°C 
+ 680°C 
+ Starting Transient 
+ 700°C 
+ 700°C 
+ (2 seconds)"
+Page No,"1 
+ 2 
+ 3 
+ 4"
+Rev No,"11 
+ 9 
+ 9 
+ 9"
+Airspeed Limits IAS,"VMO 
+ Maximum Operating 
+ Sea level to 14,000 ft 
+ 264 knots 
+ 17,000 ft to 26,000 ft. 
+ 320 knots 
+ MMO Above 26,000 ft. 
+ 0.785 Mach 
+ VA 
+ Sea level to 20,000 ft. 
+ 205 knots 
+ At 41,000 ft. 
+ 230 knots 
+ VFE 
+ Flaps Extended 
+ 30° 
+ 165 knots 
+ 10° 
+ 200 knots 
+ VMCA (Min. control speed) Air 
+ 89 knots 
+ VMCG (Min. control speed) Ground 
+ 90 knots 
+ VLO 
+ (Landing gear operating) 
+ 200 knots 
+ VLE 
+ (Landing gear extended) 
+ 200 knots 
+ VSB 
+ (Speed brakes extended) 
+ No limit, except in flight when flaps are more than 10°. 
+ Zone A 
+ Fuel may be loaded in any tank combination. 
+ Zone B 
+ Fuel may be loaded in the main tanks and up to 400 lbs in the 
+ fuselage tank. 
+ Zone C 
+ Fuel may be loaded in the main tank only. 
+ Zone D 
+ Load main tanks first, the remainder in fuselage tank."
+Other Operating Limitations,See FAA Approved Airplane Flight Manual.
+Control Surface Movements,"Spoiler inboard 
+ Up 68° 
+ Down 14° 
+ Spoiler outboard 
+ Up 72° 
+ Down 14° 
+ Lateral Trim 
+ Up 25° 
+ Down 25° 
+ Elevator 
+ Up 25° 
+ Down 12° 
+ Pitch Trim 
+ L.E. Up 121.3 
+ L.E.Down 12.8 
+ Rudder 
+ Right 30° 
+ Left 30° 
+ Rudder Trim 
+ Right 24° 
+ Left 24° 
+ Flap 
+ Full 30° 
+ Speed brake 
+ 36° 
+ Yaw Damper 
+ Right 26.6° 
+ Left 27.6° 
+ See Mitsubishi drawing 45A00601 or maintenance manual for rigging tolerance. 
+ Length of the trim actuator jack screw in millimeters (mm) 
+ See Mitsubishi drawing for details."
+Serial Nos Eligible,A003S.A. through A091S.A (See NOTE 8)
+Certification Basis,"Part 25 of the Federal Aviation Regulations effective February 1, 1965, as amended by 
+ 25-1 through 25-40, plus 25.1351(d), 25.1353(c)(5), and 25.1450 of Amendment 25-41; 
+ FAR 25.1353(c)(6) and FAR 25.255 of Amendment 25-42; and FAR 25.361(b) of 
+ Amendment 25-46. Part 36 of the Federal Aviation Regulations effective December 1, 
+ 1969, as amended by 36-1 through 36-12. 
+ Equivalent Safety Items 
+ (1) 
+ Out-of-trim characteristics FAR 25.255 
+ (2) 
+ Pilot compartment view FAR 25.773(b)(2) 
+ Application for Type Certification dated August 24, 1977. 
+ Type Certificate No. A14SW issued November 6, 1981. See NOTE 9."
+Maximum Weight,"Takeoff 
+ 14,630 lb. 
+ Landing 
+ 13,200 lb Flaps 30° 
+ 12,800 lb Flaps 10° 
+ Zero Fuel 
+ 11,550 lb 
+ Ramp 
+ 14,700 lb"
+Maximum Baggage,"Aft Cabin 
+ 400 lb. (at +313.4) 
+ 200 lb. (at +296.4) 
+ Tailcone 
+ 250 lb. (at +383.1)"
+Oil Capacity gal,"Two engine mounted tanks: 
+ Total 2.33 each; usable 1.50 each 
+ ARM = +342.2 
+ See NOTE 1 for data on undrainable oil."
+Number of Seats,11 (2 pilots and 9 passengers) See NOTE 5.
+Fuel Capacity gal,"Total 
+ Usable 
+ Arm 
+ Two wing tanks 
+ 265.6 ea. 
+ 259.3 ea. 
+ +272.2 
+ One aft fuselage tank 
+ 121.6 
+ 11.72 
+ +337.3 
+ See NOTE 1 for data on unusable fuel."
+Production Basis,None. (See NOTE 8).
+Datum,71.65 in. forward of the front face of the forward pressure bulkhead.
+MAC,73.11 in. (L.E. of MAC at +251.09).
+Leveling Means,Seat rails
+Minimum Crew,For all flights: 2 persons (pilot and co-pilot)
+Maximum Operating Altitude,"41,000 ft."
+Required Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (See Certification Basis) must be installed in the aircraft for certification. 
+ Mitsubishi Aircraft International (MAI) Report MR-0689 contains list of all required 
+ equipment as well as optional equipment installations approved by FAA."
+NOTE 1,"Current weight and balance report including list of equipment included in certificated empty weight and 
+ loading instructions when necessary must be provided for each aircraft at the time of original certification. 
+ The certificated empty weight and corresponding center of gravity location must include: 
+ Unusable fuel (Two wing tanks) 
+ 89.1 lb at +255.9 
+ Unusable fuel (One after fus. tank) 
+ 29.6 lb at +338.8 
+ Undrainable Oil (two engine) 
+ 3.0 lb at +342.2 
+ Hydraulic fluid 
+ 8.3 lb at +349.6"
+NOTE 2,"The aircraft must be operated according to the following FAA Approved Airplane Flight Manuals: 
+ MAI Report MR-0460 dated 11-6-81 for Serial Nos. A003S.A through A065S.A, A067S.A., and A068S.A. 
+ MAI Report MR-0873 dated 1-11-84 for Serial Nos. A066S.A., A069S.A. through A091S.A., and those 
+ modified by Service Recommendation SR 71-001."
+NOTE 3,"The Airworthiness Limitations Section MR-11-00 of the Maintenance Requirements Report MR-0464-2 
+ contains overhaul times, replacement times, and special inspections required for continued airworthiness."
+NOTE 4,"Pratt and Whitney Aircraft of Canada, Ltd. JT15D-4D turbofan engines used for Mitsubishi Serial Nos. 
+ A066S.A. and A069S.A. through A091S.A. may be installed per MAI Service Recommendation SR 
+ 71-001 for S/N’s A003S.A. through A065S.A., A067S.A. and A068S.A."
+NOTE 5,"The toilet seat installed per MAI Drawing 45A91812 is approved for takeoff and landing as a passenger 
+ seat provided a curtain is installed in place of the sliding door per MAI Drawing 45A91793 and interior 
+ is approved per MAI Report MR0511, Revision B. Utilization of Toilet Seat for takeoff and landing is 
+ covered by Flight Manual Section 7."
+NOTE 6,"Serial Nos. A003S.A. through A065S.A., A067S.A. and A068S.A. may use Pratt and Whitney Canada 
+ JT15D-4D loaner engines when installed per MAI Service Bulletin SB 71-001 and operated to JT15D-4 
+ limits per the applicable Airplane Flight Manual (engines may be interchanged in any combination)."
+NOTE 7,DELETED
+NOTE 8,"MU-300 with serial numbers A003S.A. thru A058S.A. and A060S.A. were manufactured by Mitsubishi 
+ Aircraft International, Inc., under Approved Production Inspection System. Serial Numbers A059S.A. and 
+ A061S.A. through A091S.A. were manufactured under FAA Production Certificate No. 4SW."
+NOTE 9,"Refer to Type Certificate Data Sheet No. A16SW for MU-300-10, Serial Numbers A1001S.A. through 
+ A1011S.A. These aircraft originally produced under this type certificate are now under Type Certificate 
+ No. A16SW. This note reflects a split in the original type certificate for administrative purposes."

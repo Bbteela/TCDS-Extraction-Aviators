@@ -1,0 +1,222 @@
+Keyterm,Info
+"A-738 
+ STINSON 
+ 10A (Army L-9B) 
+ 10B 
+ May 13. 1949",
+Manufacturer,"Consolidated Vultee Aircraft Corp. 
+ Stinson Division 
+ Wayne, Michigan"
+"I - Model 10A (Army L-9B), 3 PCLM, Approved March 3, 1941",
+Engine,Franklin 4AC-199-E3 (See Item 305a for optional engine).
+Fuel,80 min. octane aviation gasoline
+Engine limits,"For all operations, 2500 rpm (90 hp)"
+Airspeed limits,"Level flight or climb 
+ 120 mph True Ind. 
+ Glide or dive 
+ 144 mph True Ind. 
+ Flaps extended 
+ 85 mph True Ind."
+Propeller limits,"Static rpm at maximum permissible throttle setting: 
+ Not over 2275, not under 2175. No additional tolerance permitted. 
+ Diameter: Not over 78 in., not under 70 in. 
+ (See NOTE 3 for Propeller limits with maximum weight of 1680 lbs.)."
+CG range,(+14.7) to (+19.0)
+Empty weight CG range,"(+14.6) to (+15.7) with standard fuel only. 
+ (+14.6) to (+15.3) when extra fuel tank (Item 205) is installed. 
+ Ranges are valid for either 1650 or 1680 lbs. maximum weight but not for 
+ non-standard arrangements except as noted. 
+ When empty weight C.G. falls within the pertinent range, computation of critical 
+ fore and aft C.G. positions is unnecessary."
+Maximum weight,1650 lbs. (See NOTE 3 regarding 1680 lbs.)
+No seats,3 (two at +16 and one at +39)
+Maximum baggage,24 lbs. (+39). Baggage may be increased to 194 lbs. when rear passenger is not carried.
+Fuel capacity,20 gals. (right wing tank at +22). See Item 205 for auxiliary fuel tank.
+Oil capacity,5 qts. (-41). See Item 206a for larger capacity.
+Control surface movements,Not available.
+Serial Nos eligible,7761 and up and all AF nos. Use manufacturer's number when available.
+Required equipment,"Items 101, 102, 103, 104 and 105."
+Page No,"1 
+ 2 
+ 3 
+ 4"
+Rev No,"- 
+ - 
+ - 
+ -"
+"II - Model 10B, 3 PCLM, Approved March 3, 1941",
+Engine,Lycoming GO-145-C3 (See Item 305b for optional engine).
+Fuel,73 min. octane aviation gasoline
+Engine limits,"For all operations, 3200 rpm (75 hp)"
+Airspeed limits,"Level flight or climb 120 mph True Ind. 
+ Glide or dive 
+ 144 mph True Ind. 
+ Flaps extended 85 mph True Ind."
+Propeller limits,"Static rpm at maximum permissible throttle setting: 
+ Not over 2950, not under 2850. No additional tolerance permitted. 
+ Diameter: Not over 78 in., not under 76 in."
+CG range,(+14.7) to (+19.0)
+Empty weight CG range,"(+14.6) to (+15.7) with standard fuel only. 
+ (+14.6) to (+15.3) when extra fuel tank (Item 205) is installed. Ranges are valid for 
+ non-standard arrangements except as noted. When empty weight C.G. falls within 
+ the pertinent range, computation of critical fore and aft C.G. positions is unnecessary."
+Maximum weight,1600 lbs.
+No seats,3 (two at +16 and one at +39)
+Maximum baggage,24 lbs. (+39). Baggage may be increased to 194 lbs. when rear passenger is not carried.
+Fuel capacity,20 gals. (right wing tank at +22). See Item 205 for auxiliary fuel tank.
+Oil capacity,4 qts. (-34). See Item 206b for larger capacity.
+Control surface movements,Not available.
+Serial Nos eligible,7761 and up.
+Required equipment,"Items 101, 102, 103, 104 and 105."
+SPECIFICATIONS PERTINENT TO ALL MODELS,
+Datum,Wing leading edge
+Leveling means,Top of door frame
+Certification basis,Type Certificate No. 738 (CAR 4a)
+Production basis,"None. Each aircraft manufactured for civil use subsequent to January 2, 1945, must, 
+ prior to original certification, satisfactorily pass: 
+ (a) 
+ An inspection for workmanship, materials and conformity before any covering, 
+ metal priming or final finish is applied. All woodwork may be varnished. 
+ (b) A final inspection of the completed aircraft. 
+ (c) 
+ A check of the flight characteristics."
+Export eligibility,"Eligible for export to all countries except as follows, subject to the provisions of 
+ ASR 312 (MOP 2-4 contains the same information): 
+ (a) 
+ Canada - Landplane -eligible 
+ Skiplane - not eligible. However, structure complies with 
+ Canadian requirements for ski installation 
+ with a maximum ski height of 8-11/16 in. and a 
+ tread of 6 ft. 11-5/8 in. (center-line of ski 3-11/16 in. 
+ out from edge of torque plate)."
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item indicates net weight change when that item 
+ is installed."
+Propellers and Propeller Accessories,"10A 
+ 10B 
+ 101. Propeller - wood (fixed pitch) with hub 
+ 12 lbs. 
+ (-53) 
+ (-57) 
+ Engines and Engine Accessories - Fuel and Oil System"
+105 Carburetor air heater,"3 lbs. 
+ (-35) 
+ (-35) 
+ 106. AC air filter 1529265 (Aircooled Motors Dwg. SK-534-2) 
+ 1 lb. 
+ (-41) 
+ -----"
+"107. Oil Filter, Fram PB-5, Kit No. 501 (Model 10A only)",
+a,"Fram installation dwg. 61068 
+ (Oil return to fuel pump pad)."
+b Fram installation dwg 61566,"(Oil return to drain plug) 
+ 202. Starter, including wiring and switch"
+a,"Autolite, less solenoid 
+ 21 lbs. 
+ (-22) 
+ -----"
+b Eclipse,"22 lbs. 
+ ----- 
+ (-24)"
+c,"Delco-Remy 
+ 21 lbs. 
+ (-22) 
+ ----- 
+ 205. Fuel tank - 20 gal. (in left wing)"
+Item 206a or b required,"15 lbs. 
+ (+22) 
+ (+22)"
+a,"Franklin - 8 qt. 
+ +2 lbs. 
+ (-41) 
+ -----"
+b Lycoming  8 qt,"+5 lbs. 
+ ----- 
+ (-34)"
+216 Shielding,"4 lbs. 
+ (-32) 
+ -----"
+a,"Model 10A 
+ (1) Franklin 4AC-199E2 
+ -7 lbs. 
+ (-40) 
+ -----"
+b Model 10B,"(1) Lycoming GO-145-C2 
+ -2 lbs. 
+ ----- 
+ (-41)"
+Landing Gear,"102. 6.00-6 wheels with brakes (Hayes 600M) and 4 ply tires 
+ (wheels must be placarded for these tires) 
+ 28 lbs. 
+ (+1) 
+ (+1)"
+103 6x200 solid tail wheel,"2 lbs. 
+ (+168) 
+ (+168)"
+204 Wheel streamlines,"6 lbs. 
+ (+1) 
+ (+1)"
+211 Puncture seal tubes,"+1 lb.ea. 
+ (+1) 
+ (+1)"
+212 Steerable tail wheel unit,"+1 lb. 
+ (+155) 
+ (+155) 
+ 214. Skis (Eligible provided the propeller installation meets 
+ the minimum 9 in. ground clearance. The maximum weight for 
+ the skiplane will be the same as for the corresponding"
+"landplane or that shown in parenthesis after each ski model,",
+whichever is less,Use actual weight change
+a,Federal SC-2 (Maximum 1650 lbs.)
+215 Dual brakes,"+2 lbs. 
+ (-6) 
+ (-6) 
+ 216. Steerable tail wheel (Mack SFS-1) 
+ 5 lbs. 
+ (+168) 
+ (+168)"
+303 Parking brake,"3 lbs. 
+ (+14) 
+ (+14) 
+ 306. 8.00-4 wheels with brakes (Hayes 841) and 4 ply tires 
+ Neglect weight change 
+ (Wheels must be placarded for these tires)"
+Electrical Equipment,"10A 
+ 10B 
+ 104. Battery - 6 volt, with box 
+ 14 lbs. 
+ (+14) 
+ (+14)"
+a,"Engine driven (Autolite 12 volts) 
+ 12 lbs. 
+ (-28) 
+ ----- 
+ (b) Wind driven (Air Associates GE-20) (6 or 12 volts) 
+ 8 lbs. 
+ (+12) 
+ (+12) 
+ 203. Battery - 12 volt, with box and wiring, Dwg. No. 10-64111 
+ 40 lbs. 
+ (+29) 
+ (+29) 
+ 209. Landing lights (Grimes ST-250) - one or two 
+ 5 lbs.ea. 
+ (+14) 
+ (+14) 
+ 301. Battery - 12 volt with box and wiring (Dwg. No. 10-64111) 
+ 40 lbs. 
+ (+15) 
+ (+15)"
+207 Cabin heater,"2 lbs. 
+ (-32) 
+ (-32)"
+208 Additional instruments,"15 lbs. 
+ (-4) 
+ (-4) 
+ 213. Flares - three 1-minute (International) 
+ 8 lbs. 
+ (+34) 
+ (+34)"
+302 Carpet5 lbs 17 17,"NOTE 1. Weight and balance report, together with list of equipment included in certificated weight empty, must be submitted 
+ for each aircraft with original agent's report and each subsequent report showing changes in equipment."
+NOTE 2. The following placard is to be conspicuously posted at each filler cap for Model 10A:,
+NOTE 3. Model 10A also eligible at maximum weight of 1680 lbs. provided the propeller installed falls within the following,

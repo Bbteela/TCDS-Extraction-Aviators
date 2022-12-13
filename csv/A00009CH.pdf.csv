@@ -1,0 +1,766 @@
+Keyterm,Info
+"A00009CH 
+ Revision 23 
+ Cirrus Design Corportation 
+ SR20 
+ SR22 
+ SR22T 
+ February 24, 2021",
+Type Certificate Holder,"Cirrus Design Corporation 
+ 4515 Taylor Circle 
+ Duluth, MN 55811"
+"I - MODEL SR20, (NORMAL CATEGORY), APPROVED OCTOBER 23, 1998",
+Engine,"1. One (1) Continental Motors, Inc. IO-360-ES engine, Type Certificate Data Sheet (TCDS) E1CE 
+ 2. One (1) Lycoming Engines IO-390-C3B6 engine, Type Certificate Data Sheet (TCDS) E00006NY"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine Limits,"Continental Motors, Inc. IO-360-ES 
+ Maximum Take-off 2700 RPM (200 hp) 
+ Maximum Continuous Power 2700 RPM (200 hp) 
+ Lycoming Engines IO-390-C3B6 
+ Maximum Take-off 2700 RPM (215 hp) 
+ Maximum Continuous Power 2700 RPM (215 hp)"
+Propeller and,1. Hartzell Propeller Inc. P/N BHC-J2YF-1BF/F7694 (See Note 8)
+Propeller limits,"TCDS P37EA 
+ Maximum Diameter: 76 inches 
+ Minimum Diameter: 73 inches 
+ Number of Blades: 2 
+ Low Pitch: 14.6°+/-0.5° 
+ High Pitch: 35.0°+/-1.0° 
+ High Pitch: 35.0°+/-1.0° 
+ Not to be operated above 24 inches of manifold pressure between 1900 and 2200 RPM. 
+ Spinner: Hartzell P/N A-2295(P) NOTE: Spinner may be painted or polished. 
+ 2. Hartzell Propeller Inc. P/N PHC-J3YF-1MF/F7392-1 (See Note 8) 
+ TCDS P36EA 
+ Maximum Diameter: 74 inches 
+ Minimum Diameter: 72 inches 
+ Number of Blades: 3 
+ Low Pitch: 14.1°+/-0.5° 
+ High Pitch: 35.0°+/-1.0° 
+ No operating limitations to 2800 RPM 
+ Spinner: Hartzell P/N A-2295-1P 
+ 3. Hartzell Propeller Inc. P/N PHC-J3YF-1RF/F7392-1 (See Note 8) 
+ TCDS P36EA 
+ Maximum Diameter: 74 inches 
+ Minimum Diameter: 72 inches 
+ Number of Blades: 3 
+ Low Pitch: 13.9°+/-0.5° 
+ High Pitch: 35.0°+/-1.0° 
+ No operating limitations to 2800 RPM 
+ Spinner: Hartzell P/N A-2295-1(P) NOTE: Spinner may be painted or polished."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13"
+Rev No,"23 
+ 22 
+ 22 
+ 22 
+ 19 
+ 21 
+ 19 
+ 17 
+ 22 
+ 23 
+ 23 
+ 22 
+ 22 
+ 4. Hartzell Propeller Inc. P/N HC-E3YR-1RF/F7392S-1 (See Note 9) 
+ TCDS P33EA 
+ Maximum Diameter: 74 inches 
+ Minimum Diameter: 73 inches 
+ Number of Blades: 3 
+ Low Pitch: 13.4°+/-0.5° 
+ High Pitch: 30.0°+/-1.0° 
+ No operating limitations to 2850 RPM 
+ Spinner: Hartzell P/N A-2295-1(P) NOTE: Spinner may be painted or polished. 
+ 5. Hartzell Propeller Inc. P/N 3C1-R919A1/76C03-2 (See Note 9) 
+ TCDS P00016CH 
+ Maximum Diameter: 74 inches 
+ Minimum Diameter: 74 inches 
+ Number of Blades: 3 
+ Low Pitch: 11.9°+/-0.5° 
+ High Pitch: 30.0°+/-1.0° 
+ No operating limitations to 2700 RPM 
+ Spinner: Hartzell P/N 105890 NOTE: Spinner may be painted or polished."
+Airspeed,S/N 1005 thru 1147:
+Limits,"Vne 
+ Never Exceed Speed 
+ 200 KIAS 
+ Vno 
+ Maximum Structural Cruising Speed 
+ 165 KIAS 
+ Vo 
+ (2900 lbs) Operating Maneuvering Speed 
+ 135 KIAS 
+ Vo 
+ (2600 lbs) Operating Maneuvering Speed 
+ 126 KIAS 
+ Vo 
+ (2200 lbs) Operating Maneuvering Speed 
+ 116 KIAS 
+ Vfe 
+ Maximum Flap Extension Speed 
+ 100 KIAS 
+ Vpd 
+ Maximum Parachute Deployment Speed 
+ 135 KIAS 
+ S/N 1148 thru 1877, 1879 thru 1885, and S/N 1005 thru 1147 if Cirrus Service Bulletin SB 20-01-00 is 
+ complied with: 
+ Vne 
+ Never Exceed Speed 
+ 200 KIAS 
+ Vno 
+ Maximum Structural Cruising Speed 
+ 165 KIAS 
+ Vo 
+ (3000 lbs) Operating Maneuvering 
+ 131 KIAS 
+ Vo 
+ (2600 lbs) Operating Maneuvering 
+ 122 KIAS 
+ Vo 
+ (2300 lbs) Operating Maneuvering 
+ 114 KIAS 
+ Vfe 
+ Maximum Flap Extension Speed 
+ 100 KIAS 
+ Vpd 
+ Maximum Parachute Deployment Speed 
+ 135 KIAS 
+ S/N 1878, 1886 thru 2219, and S/N 2221 thru 2338 (See Note 8): 
+ Vne 
+ Never Exceed Speed 
+ 200 KIAS 
+ Vno 
+ Maximum Structural Cruising Speed 
+ 163 KIAS 
+ Vo 
+ (3050 lbs) Operating Maneuvering 
+ 130 KIAS 
+ Vfe 
+ Maximum Flap Extension Speed (50%) 
+ 119 KIAS 
+ Vfe 
+ Maximum Flap Extension Speed (100%) 
+ 104 KIAS 
+ Vpd 
+ Maximum Parachute Deployment Speed 
+ 133 KIAS 
+ S/N 2220, 2339 and subsequent (See Note 9): 
+ Vne 
+ Never Exceed Speed 
+ 201 KIAS 
+ Vno 
+ Maximum Structural Cruising Speed 
+ 164 KIAS 
+ Vo 
+ (3150 lbs) Operating Maneuvering 
+ 133 KIAS 
+ Vfe 
+ Maximum Flap Extension Speed (50%) 
+ 150 KIAS 
+ Vfe 
+ Maximum Flap Extension Speed (100%) 
+ 110 KIAS 
+ Vpd 
+ Maximum Parachute Deployment Speed 
+ 133 KIAS"
+CG Range,"S/N 1005 thru 1147: 
+ Forward Limits: 138.7 inches at 2110 lbs with a straight line taper to 141.0 inches at 2694 lbs, and 143.0 
+ inches at 2900 lbs. 
+ Aft Limits: 144.6 inches at 2110 lbs, with straight line taper to 147.4 inches at 2570 lbs, and to 147.9 inches 
+ at 2745 lbs, and 148.2 inches at 2900 lbs. 
+ S/N 1148 thru 1877, 1879 thru 1885, and S/N 1005 thru 1147 if Cirrus Service Bulletin SB 20-01-00 is 
+ complied with: 
+ Forward Limits: 138.7 inches at 2110 lbs with a straight line taper to 141.0 inches at 2694 lbs, and 144.1 
+ inches at 3000 lbs. 
+ Aft Limits: 144.6 inches at 2110 lbs, with straight line taper to 147.4 inches at 2570 lbs, and to 148.1 inches 
+ at 2900 lbs, and 148.0 inches at 3000 lbs. 
+ S/N 1878, 1886 thru 2219, and S/N 2221 thru 2338 (See Note 8): 
+ Forward Limits: 137.8 inches at 2100 lbs with a straight line taper to 139.1 inches at 2700 lbs, and to 140.7 
+ inches at 3050 lbs 
+ Aft Limits: 148.1 inches at 2100 lbs, with straight line to 148.1 inches at 3050 lbs. 
+ S/N 2220, 2339 and subsequent (See Note 9): 
+ Forward Limits: 137.8 inches at 2100 lbs with a straight line taper to 139.1 inches at 2700 lbs, and to 141.1 
+ inches at 3150 lbs 
+ Aft Limits: 148.1 inches at 2100 lbs, with straight line to 148.1 inches at 3150 lbs."
+Empty Weight,None
+Maximum,S/N 1005 thru 1147:
+Weights,"Takeoff and Landing: 2900 lbs. 
+ S/N 1148 thru 1877, 1879 thru 1885, and S/N 1005 thru 1147 if Cirrus Service Bulletin SB 20-01-00 is 
+ complied with: 
+ Takeoff: 3000 lbs. 
+ Landing: 2900 lbs. 
+ Zero Fuel: 2900 lbs. 
+ S/N 1878, 1886 thru 2219, and S/N 2221 thru 2338 (See Note 8): 
+ Takeoff and Landing: 3050 lbs. 
+ S/N 2220, 2339 and subsequent (See Note 9): 
+ Takeoff and Landing: 3150 lbs."
+Minimum Crew,One (1) Pilot
+Number of,S/N 1005 thru 2126:
+Seats,"4 (2 at 143.5 inches aft of datum, 2 at 180 inches aft of datum) 
+ S/N 2127 thru 2219, and S/N 2221 thru 2338: 
+ 4+1 (2 at 143.5 inches aft of datum, 2+1 at 180 inches aft of datum) 
+ S/N 2220, 2339 and subsequent: 
+ 4+1 (2 at 143.5 inches aft of datum, 2+1 at 180 inches aft of datum) 
+ 3 (2 at 143.5 inches aft of datum, 1 at 180 inches aft of datum) 
+ 2 (2 at 143.5 inches aft of datum)"
+Maximum,130 Lbs. at 208 inches
+Fuel Capacity,"S/N 1005 thru 1877, 1879 thru 1885:"
+Total,"60.5 gal at 153.75 inches 
+ Usable: 56 gal (See Note 1) 
+ S/N 1878, 1886 and subsequent: 
+ 58.5 gal at 154.9 inches 
+ Usable: 56 gal (See Note 1)"
+Oil Capacity,"S/N 1005 thru 2219, and S/N 2221 thru 2338 (See Note 8): 
+ 8 quarts at 76.2 inches 
+ S/N 2220, 2339 and subsequent (See Note 9): 
+ 7 quarts at 80.5 inches"
+Maximum,"The aircraft is limited to 17,500 ft MSL."
+Control Surface,"Wing Flaps: 
+ Up 0°± 0.5° 
+ Down 50% 16°± 0.5° 
+ Down 100% 32°± 0.5°"
+Movements,"Aileron: 
+ Up 12.5° ± 1.0° 
+ Down 12.5° ±1.0° 
+ Elevator: 
+ Up 25.0° +0°/-1.0° 
+ Down 15° ± 1.0° 
+ Elevator Trim: 
+ Up 17.0° Minimum 
+ Down 10.5° ± 1.0° 
+ Rudder: 
+ Right 20.0° ± 1.0° 
+ Left 20.0° ± 1.0°"
+Additional,"Airframe life limit: 12,000 flight hours"
+Design Data,"The airplane shall be manufactured in accordance with the latest FAA approved revision of “Master Drawing 
+ List”, Document No. 13750, or other FAA approved data. NOTE: Document No. 12609 is the predecessor 
+ document to Document No. 13750."
+Serial Nos,1005 and on
+"II - MODEL SR22, NORMAL CATEGORY, APPROVED NOVEMBER 30, 2000",
+Engine,"One (1) Continental Motors, Inc. IO-550-N engine, Type Certificate Data Sheet E3SO"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine Limits,"Maximum Take-off 2700 RPM (310 hp) 
+ Maximum Continuous Power 2700 RPM (310 hp)"
+Propeller and,1. Hartzell Propeller Inc. P/N PHC-J3YF-1RF/F7694 or F7694B
+Propeller limits,"TCDS P36EA Hartzell 
+ Maximum Diameter: 78 inches 
+ Minimum Diameter: 76 inches 
+ Number of Blades: 3 
+ Low Pitch: 14.1°+/-0.5° 
+ High Pitch: 35.0°+/-1.0° 
+ No operating limitations to 2700 RPM 
+ Spinner: Hartzell P/N A-2295-1(P) NOTE: Spinner may be painted or polished. 
+ 2. McCauley Propeller Systems P/N D3A34C443/78CYA-0 
+ TCDS P47GL McCauley 
+ Maximum Diameter: 78 inches 
+ Minimum Diameter: 76 inches 
+ Number of Blades: 3 
+ Low Pitch: 11.8°+/-0.5° at 30” station 
+ High Pitch: 31.5° at 30” station 
+ No operating limitations to 2700 RPM 
+ Spinner: McCauley D-7779-1 (Polished) or D-7779-2 (Satin) 
+ 3. Hartzell Propeller Inc. P/N PHC-J3YF-1RF/F7693DF or F7693DFB 
+ TCDS P36EA Hartzell 
+ Maximum Diameter: 78 inches 
+ Minimum Diameter: 76 inches 
+ Number of Blades: 3 
+ Low Pitch: 13.9°+/-0.5° 
+ High Pitch: 40.0°+/-1.0° 
+ No operating limitations to 2700 RPM 
+ Spinner: Hartzell P/N A-2295-1(P) NOTE: Spinner may be painted or polished. 
+ 4. Hartzell Propeller Inc. P/N PHC-J3YF-1N/N7605 or N7605B 
+ TCDS P36EA Hartzell 
+ Maximum Diameter: 78 inches 
+ Minimum Diameter: 78 inches 
+ Number of Blades: 3 
+ Low Pitch: 12.2°+/-0.5° 
+ High Pitch: 35.0°+/-1.0° 
+ No operating limitations to 2700 RPM 
+ Spinner: Hartzell P/N A-2295-11(P) NOTE: Spinner may be painted or polished. 
+ 5. Hartzell Propeller Inc. P/N PHC-J3Y1F-1N/N7605, N7605B, N7605C or N7605CB 
+ TCDS P36EA Hartzell 
+ Maximum Diameter: 78 inches 
+ Minimum Diameter: 78 inches 
+ Number of Blades: 3 
+ Low Pitch: 12.2°+/-0.5° 
+ High Pitch: 35.0°+/-1.0° 
+ No operating limitations to 2700 RPM when using type design throttle-propeller controls 
+ Spinner: Hartzell P/N 102870() or A-2295-11() NOTE: () indicates various finish options. 
+ 6. MT-Propeller Entwicklung GmbH P/N MTV-9-D/198-52 
+ TCDS P24NE MT-Propeller 
+ Maximum Diameter: 78 inches 
+ Minimum Diameter: 76 inches 
+ Number of Blades: 3 
+ Low Pitch: 12.5°+/-0.2° 
+ High Pitch: 38.0°+/-1.0° 
+ No operating limitations to 2700 RPM 
+ Spinner: MT-Propeller P/N P-187 NOTE: Spinner may be painted or polished."
+Airspeed,S/N 0002 thru 3914:
+Limits,"Vne 
+ Never Exceed Speed 
+ 204 KIAS 
+ Vno 
+ Maximum Structural Cruising Speed 
+ 180 KIAS 
+ Vo 
+ (3400 lbs) Operating Maneuvering 
+ 133 KIAS 
+ Vo 
+ (2900 lbs) Operating Maneuvering 
+ 124 KIAS 
+ Vo 
+ (2400 lbs) Operating Maneuvering 
+ 112 KIAS 
+ Vfe 
+ Maximum Flap Extension Speed (50%) 
+ 119 KIAS 
+ Vfe 
+ Maximum Flap Extension Speed (100%) 
+ 104 KIAS 
+ Vpd 
+ Maximum Parachute Deployment Speed 
+ 133 KIAS 
+ S/N 3915 and subsequent: 
+ Vne 
+ Never Exceed Speed 
+ 208 KIAS 
+ Vno 
+ Maximum Structural Cruising Speed 
+ 179 KIAS 
+ Vo 
+ (3600 lbs) Operating Maneuvering 
+ 140 KIAS 
+ Vo 
+ (3400 lbs) Operating Maneuvering 
+ 133 KIAS 
+ Vo 
+ (2900 lbs) Operating Maneuvering 
+ 124 KIAS 
+ Vo 
+ (2400 lbs) Operating Maneuvering 
+ 112 KIAS 
+ Vfe 
+ Maximum Flap Extension Speed (50%) 
+ 150 KIAS 
+ Vfe 
+ Maximum Flap Extension Speed (100%) 
+ 110 KIAS 
+ Vpd 
+ Maximum Parachute Deployment Speed 
+ 140 KIAS"
+CG Range,"S/N 0002 thru 3914: 
+ Forward: 137.8 inches at 2100 lbs with a straight line taper to 139.1 inches at 2700 lbs, and to 142.3 inches at 
+ 3400 lbs. (See Note 6) 
+ Aft:148.1 inches at 2100 lbs, with straight line to 148.1 inches at 3400 lbs. 
+ S/N 3915 and subsequent: 
+ Forward: 137.8 inches at 2100 lbs with a straight line taper to 139.1 inches at 2700 lbs, and to 143.2 inches at 
+ 3600 lbs. 
+ Aft:148.1 inches at 2100 lbs, with straight line to 148.1 inches at 3600 lbs"
+Empty Weight,None
+Maximum,S/N 0002 thru 3914:
+Weights,"3400 lbs 
+ S/N 3915 and subsequent: 
+ Takeoff and Landing: 3600 lbs 
+ Zero Fuel: 3400 lbs"
+Minimum Crew,One (1) Pilot
+Number of,S/N 0002 thru 3827:
+Seats,"4 (2 at 143.5 inches aft of datum, 2 at 180 inches aft of datum) 
+ S/N 3828 and subsequent: 
+ 4+1 (2 at 143.5 inches aft of datum, 2+1 at 180 inches aft of datum)"
+Maximum,130 Lbs. at 208 inches
+Fuel Capacity,"S/N 0002 thru 2333, 2335 thru 2419, and 2421 thru 2437:"
+Total,"84 gallon at 154.9 inches 
+ Usable: 81 gallon (See Note 1) 
+ S/N 2334, 2420, 2438 and subsequent: 
+ 94.5 gallon at 154.9 inches 
+ Usable: 92.0 gallon (See Note 1)"
+Oil Capacity,8 quarts at 77.1 inches
+Maximum,"The aircraft is limited to 17,500 ft MSL."
+Control Surface,S/N 0002 thru 3914:
+Movements,"Wing Flaps: 
+ Up 0°±0.5° 
+ Down 50% 16° ± 0.5° 
+ Down 100% 32° ±0.5° 
+ Aileron: 
+ Up 12.5° ± 1.0° 
+ Down 12.5° ± 1.0° 
+ Elevator: 
+ Up 25.0° +0°/-1.0° 
+ Down 15° ± 1.0° 
+ Elevator Trim: 
+ Up 17.0° Minimum 
+ Down 10.5° ± 1.0° 
+ Rudder: 
+ Right 20.0° ± 1.0° 
+ Left 20.0° ± 1.0° 
+ S/N 3915 and subsequent: 
+ Wing Flaps: 
+ Up 0°±0.5° 
+ Down 50% 16° ± 0.5° 
+ Down 100% 35.5° ±0.5° 
+ Aileron: 
+ Up 12.5° ± 1.0° 
+ Down 12.5° ± 1.0° 
+ Elevator: 
+ Up 25.0° +0°/-1.0° 
+ Down 15° ± 1.0° 
+ Elevator Trim: 
+ Up 17.0° Minimum 
+ Down 10.5° ± 1.0° 
+ Rudder: 
+ Right 20.0° ± 1.0° 
+ Left 20.0° ± 1.0°"
+Additional,"Airframe life limit: 12,000 flight hours"
+Design Data,"The airplane shall be manufactured in accordance with the latest FAA approved revision of “Master Drawing 
+ List”, Document No. 13750, or other FAA approved data."
+Serial Nos,Eligible 0001 and on.
+"III - MODEL SR22T, NORMAL CATEGORY, APPROVED FEBRUARY 10, 2010",
+Engine,"One (1) Continental Motors, Inc. TSIO-550-K engine, Type Certificate Data Sheet E5SO"
+Fuel,100/100LL minimum grade aviation gasoline
+Engine Limits,"Maximum Take-off 2500 RPM (315 hp) 
+ Maximum Continuous Power 2500 RPM (315 hp)"
+Propeller and,"Hartzell Propeller Inc. P/N PHC-J3Y1F-1N/N7605, N7605B, N7605C or N7605CB"
+Propeller limits,"TCDS P36EA Hartzell 
+ Maximum Diameter: 78 inches 
+ Minimum Diameter: 78 inches 
+ Number of Blades: 3 
+ Low Pitch: 12.2°+/-0.5° 
+ High Pitch: 35.0°+/-1.0° 
+ No operating limitations to 2700 RPM 
+ Spinner: Hartzell P/N 102870() or A-2295-11() NOTE: () indicates various finish options."
+Airspeed,S/N 0001 thru 0441:
+Limits,"Vne 
+ Never Exceed Speed 
+ 204 KCAS from S/L to 17,500 ft MSL linearly 
+ reducing from 204 KCAS @ 17,500 ft to 173 
+ KCAS @ 25,000 ft 
+ Vno 
+ Maximum Structural Cruising Speed 
+ 180 KCAS from S/L to 17,500 ft MSL linearly 
+ reducing from 180 KCAS @ 17,500 ft to 153 
+ KCAS @ 25,000 ft 
+ Vo 
+ (3400 lbs) Operating Maneuvering 
+ 133 KIAS 
+ Vo 
+ (2900 lbs) Operating Maneuvering 
+ 124 KIAS 
+ Vo 
+ (2400 lbs) Operating Maneuvering 
+ 112 KIAS 
+ Vfe 
+ Maximum Flap Extension Speed (50%) 
+ 119 KIAS 
+ Vfe 
+ Maximum Flap Extension Speed (100%) 
+ 104 KIAS 
+ Vpd 
+ Maximum Parachute Deployment Speed 
+ 133 KIAS 
+ S/N 0442 and subsequent: 
+ Vne 
+ Never Exceed Speed 
+ 208 KCAS from S/L to 17,500 ft MSL linearly 
+ reducing from 208 KCAS @ 17,500 ft to 178 
+ KCAS @ 25,000 ft 
+ Vno 
+ Maximum Structural Cruising Speed 
+ 179 KCAS from S/L to 17,500 ft MSL linearly 
+ reducing from 179 KCAS @ 17,500 ft to 152 
+ KCAS @ 25,000 ft 
+ Vo 
+ (3600 lbs) Operating Maneuvering 
+ 140 KIAS 
+ Vo 
+ (3400 lbs) Operating Maneuvering 
+ 133 KIAS 
+ Vo 
+ (2900 lbs) Operating Maneuvering 
+ 124 KIAS 
+ Vo 
+ (2400 lbs) Operating Maneuvering 
+ 112 KIAS 
+ Vfe 
+ Maximum Flap Extension Speed (50%) 
+ 150 KIAS 
+ Vfe 
+ Maximum Flap Extension Speed (100%) 
+ 110 KIAS 
+ Vpd 
+ Maximum Parachute Deployment Speed 
+ 140 KIAS"
+CG Range,"S/N 0001 thru 0441: 
+ Forward: 137.8 inches at 2100 lbs with a straight line taper to 139.1 inches at 2700 lbs, and to 142.3 inches at 
+ 3400 lbs. (See Note 6) 
+ Aft:148.1 inches at 2100 lbs, with straight line to 148.1 inches at 3400 lbs. 
+ S/N 0442 and subsequent: 
+ Forward: 137.8 inches at 2100 lbs with a straight line taper to 139.1 inches at 2700 lbs, and to 143.2 inches at 
+ 3600 lbs. 
+ Aft:148.1 inches at 2100 lbs, with straight line to 148.1 inches at 3600 lbs"
+Empty Weight,None
+Maximum,S/N 0001 thru 0441:
+Weights,"3400 lbs 
+ S/N 0442 and subsequent: 
+ Takeoff and Landing: 3600 lbs 
+ Zero Fuel: 3400 lbs"
+Minimum Crew,One (1) Pilot
+Number of,"S/N 0001 thru 0250, and 0252 thru 0267:"
+Seats,"4 (2 at 143.5 inches aft of datum, 2 at 180 inches aft of datum) 
+ S/N 0251, 0268 and subsequent: 
+ 4+1 (2 at 143.5 inches aft of datum, 2+1 at 180 inches aft of datum)"
+Maximum,130 Lbs. at 208 inches
+Fuel Capacity,94.5 gallon at 154.9 inches
+Total,Usable: 92.0 gallon (See Note 1)
+Oil Capacity,8 quarts at 77.1 inches
+Maximum,"The aircraft is limited to 25,000 ft MSL."
+Control Surface,S/N 0001 thru 0441:
+Movements,"Wing Flaps: 
+ Up 0°±0.5° 
+ Down 50% 16° ± 0.5° 
+ Down 100% 32° ±0.5° 
+ Aileron: 
+ Up 12.5° ± 1.0° 
+ Down 12.5° ± 1.0° 
+ Elevator: 
+ Up 25.0° +0°/-1.0° 
+ Down 15° ± 1.0° 
+ Elevator Trim: 
+ Up 17.0° Minimum 
+ Down 10.5° ± 1.0° 
+ Rudder: 
+ Right 20.0° ± 1.0° 
+ Left 20.0° ± 1.0° 
+ S/N 0442 and subsequent: 
+ Wing Flaps: 
+ Up 0°±0.5° 
+ Down 50% 16° ± 0.5° 
+ Down 100% 35.5° ±0.5° 
+ Aileron: 
+ Up 12.5° ± 1.0° 
+ Down 12.5° ± 1.0° 
+ Elevator: 
+ Up 25.0° +0°/-1.0° 
+ Down 15° ± 1.0° 
+ Elevator Trim: 
+ Up 17.0° Minimum 
+ Down 10.5° ± 1.0° 
+ Rudder: 
+ Right 20.0° ± 1.0° 
+ Left 20.0° ± 1.0°"
+Additional,"Airframe life limit: 12,000 flight hours"
+Design Data,"The airplane shall be manufactured in accordance with the latest FAA approved revision of “Master Drawing 
+ List”, Document No. 13750, or other FAA approved data."
+Serial Nos,Eligible 0001 and on
+DATA PERTINENT TO ALL MODELS,
+Reference Datum,100 inches in front of the forward face of firewall bulkhead
+Leveling Means,Door sill and leveling points as defined in AFM
+Certification Basis,"Model SR20: 14 CFR Part 23 of the Federal Aviation Regulations effective February 1, 1965, as amended 
+ by 23-1 thru 23-47, except as follows: 
+ 14 CFR 23.573, 23.575, 23.611, 23.657, 23.673 thru Amendment 23-48; 
+ 14 CFR 23.783, 23.785, 23.867, 23.1303, 23.1307, 23.1309, 23.1311, 23.1321, 23.1323, 23.1329, 
+ 23.1361, 23.1383, 23.1401, 23.1431, 23.1435 thru Amendment 23-49; 
+ 14 CFR 23.3, 23.25, 23.143, 23.145, 23.155, 23.1325, 23.1521, 23.1543, 23.1555, 23.1559, 
+ 23.1567, 23.1583, 23.1585, 23.1589 thru Amendment 23-50; 
+ 14 CFR 23.777, 23.779, 23.901, 23.907, 23.955, 23.959, 23.963, 23.965, 23.973, 23.975, 23.1041, 
+ 23.1091, 23.1093, 23.1107, 23.1121, 23.1141, 23.1143, 23.1181, 23.1191, 23.1337 thru 
+ Amendment 23-51; 
+ 14 CFR 23.1305 thru Amendment 23-52 
+ 14 CFR Part 36 dated December 1, 1969 as amended by 36-1 thru 36-21. 
+ In addition to the certification basis stated above, for SR20 S/N 1423 thru 1877 and SR20 serials 
+ 1879 and subsequent the certification basis is amended to include the following regulations at the 
+ amendment levels stated for the SR20 Fuselage Redesign (G2 marketing designation): 
+ 14 CFR 23.561, 23.607, 23.629 thru Amendment 23-48. 
+ 14 CFR 23.853 thru Amendment 23-49. 
+ 14 CFR 23.161, 23.177, 23.201, 23.203, 23.233, 23.1581 thru Amendment 23-50. 
+ 14 CFR 23.925, 23.1043, 23.1047, 23.1183 thru Amendment 23-51. 
+ 14 CFR 23.901 thru Amendment 23-53. 
+ In addition to the certification basis stated in the paragraphs above, for SR20 S/N 1878, 1886 and 
+ subsequent the certification basis is amended to include the following regulations at the amendment 
+ levels stated for SR20 Wing Redesign (G3 marketing designation): 
+ 14 CFR 23.473, 23.499, 23.725, 23.865 thru Amendment 23-48. 
+ 14 CFR 23.677, 23.723, 23.735, 23.1351, 23.1353, 23.1359, 23.1365 thru 23-49. 
+ 14 CFR 23.45, 23.49, 23.51, 23.53, 23.63, 23.71, 23.75, 23.77, 23.147, 23.157, 23.175, 23.1511, 
+ 23.1553, 23.1563 thru Amendment 23-50. 
+ For aircraft equipped with Garmin G1000 avionics or Garmin G1000 avionics with Garmin GFC- 
+ 700 autopilot system, the certification basis, for installation specific items only, is amended to 
+ include the following regulation at the amendment level stated: (Effective S/N 2016 thru S/N 2219 
+ and S/N 2221 thru 2338): 
+ 14 CFR 23.1308 thru Amendment 23-57. 
+ For aircraft equipped with Garmin G1000 NXi avionics or Garmin G1000 NXi avionics with 
+ Garmin GFC-700 autopilot system, the certification basis, for installation specific items only, is 
+ amended to include the following regulation at the amendment level stated (Effective S/N 2220, 
+ 2339 and subsequent): 
+ 14 CFR 23.207 thru Amendment 23-50. 
+ 14 CFR 23.1308 thru Amendment 23-57. 
+ 14 CFR 23.1306 thru Amendment 23-61 
+ For aircraft equipped with Lycoming Engines IO-390-C3B6 the certification basis is amended to 
+ include the following regulations at the amendment levels stated (Effective S/N 2220, 2339 and 
+ subsequent): 
+ 14 CFR 23.572 thru Amendment 23-48. 
+ 14 CFR 23.697, 23.701, 23.787, 23.865, thru Amendment 23-49. 
+ 14 CFR 23.33, 23.65, 23.69, 23.73, 23.153, 23.207, 23.235, 23.562, 23.1545, 23.1587 thru 
+ Amendment 23-50. 
+ 14 CFR 23.925, 23.1043, 23.1047, 23.1183 thru Amendment 51. 
+ 14 CFR 23.903 thru Amendment 23-54. 
+ 14 CFR 23.905, 23.907 thru Amendment 23-59. 
+ 14 CFR 23.1308 thru Amendment 23-57. 
+ 14 CFR 23.1306 thru Amendment 23-61. 
+ 14 CFR 36 dated December 1, 1969 as amended by 36-1 thru 36-30. 
+ The aircraft certification basis is amended to include the following regulation at the amendment 
+ level stated (Effective S/N 2650 and subsequent): (Note: The amended certification basis allows 
+ for the optional removal of the wet compass.) 
+ 14 CFR 23.1303 thru Amendment 23-62 
+ Model SR22: 14 CFR Part 23 of the Federal Aviation Regulations effective February 1, 1965, as amended 
+ by 23-1 thru 23-53, except as follows: 
+ 14 CFR 23.301 thru Amendment 23-42 
+ 14 CFR 23.855, 23.1326, 23.1359, not applicable 
+ 14 CFR Part 36 dated December 1, 1969, as amended by 36-1 thru 36-22 
+ For aircraft equipped with Garmin G1000 avionics or Garmin G1000 avionics with Garmin GFC- 
+ 700 autopilot system, the certification basis, for installation specific items only, is amended to 
+ include the following regulation at the amendment level stated: (Effective S/N 2979, 2992, 3002 
+ and subsequent): 
+ 14 CFR 23.1308 thru Amendment 23-57. 
+ For aircraft equipped with Garmin G1000 NXi avionics or Garmin G1000 NXi avionics with the 
+ Garmin GFC-700 autopilot system, the certification basis, for installation specific items only, is 
+ amended to include the following regulation at the amendment level stated: (Effective S/N 4433 
+ and subsequent): 
+ 14 CFR 23.1308 thru Amendment 23-57. 
+ 14 CFR 23.1306 thru Amendment 23-61. 
+ For aircraft equipped for optional Flight Into Known Icing operation, the certification basis, for 
+ installation specific items only, is amended to include the following regulation at the amendment 
+ level stated: (Effective S/N 3003, 3310, 3326, 3403 and subsequent), 
+ 14 CFR 23.1326, 23.1359 thru Amendment 23-49. 
+ 14 CFR 23.1308 thru Amendment 23-57. 
+ For aircraft with 3600 lb max takeoff and landing weight limitation, the certification basis, for 
+ installation specific items only, is amended to include the following regulation at the amendment 
+ level stated: (Effective S/N 3915 and subsequent): 
+ 14 CFR 23.1308 thru Amendment 23-57. 
+ 14 CFR Part 36 thru Amendment 36-28. 
+ For aircraft equipped with Special Missions provisions (ref. AFM supplement 13772-157), the 
+ certification basis, for installation specific items only, is amended to include the following 
+ regulation at the amendment level stated: 
+ 14 CFR Part 36 thru Amendment 36-30. 
+ The aircraft certification basis is amended to include the following regulation at the amendment 
+ level stated (Effective S/N 4993 and subsequent): (Note: The amended certification basis allows 
+ for the optional removal of the wet compass.) 
+ 14 CFR 23.1303 thru Amendment 23-62 
+ Model SR22T: 14 CFR Part 23 of the Federal Aviation Regulations effective February 1, 1965, as 
+ amended by 23-1 thru 23-59, except as follows: 
+ 14 CFR 23.301 thru Amendment 23-42 
+ 14 CFR Part 36 dated December 1, 1969, as amended by 36-1 thru 36-28 
+ For aircraft equipped with Special Missions provisions (ref. AFM supplement 13772-157), the 
+ certification basis, for installation specific items only, is amended to include the following 
+ regulation at the amendment level stated: 
+ 14 CFR Part 36 thru Amendment 36-30. 
+ For aircraft equipped with Garmin G1000 NXi avionics or Garmin G1000 NXi avionics with the 
+ Garmin GFC-700 autopilot system, the certification basis, for installation specific items only, is 
+ amended to include the following regulation at the amendment level stated: (Effective S/N 1473 
+ and subsequent), 
+ 14 CFR 23.1308 thru Amendment 23-57. 
+ 14 CFR 23.1306 thru Amendment 23-61. 
+ The aircraft certification basis is amended to include the following regulation at the amendment 
+ level stated (Effective S/N 2238 and subsequent): (Note: The amended certification basis allows 
+ for the optional removal of the wet compass.) 
+ 14 CFR 23.1303 thru Amendment 23-62"
+Equivalent Level,"ACE-96-5 for 14 CFR Section (§) 23.221 (Spinning); Refer to FAA Memorandum dated June 10, 1998"
+of Safety ELOS,"for models SR20, SR22."
+Findings,"ACE-96-5A for 14 CFR § 23.221 (Spinning); Refer to FAA Memorandum dated February 02, 2010 for 
+ model SR22T. 
+ ACE-01-01 for 14 CFR § 23.1143(g) (Engine Controls) and § 23.1147(b) (Mixture Controls); Refer to 
+ FAA Memorandum dated February 14, 2001 for model SR20. 
+ ACE-00-09 for 14 CFR § 23.1143(g) (Engine Controls) and § 23.1147(b) (Mixture Controls); Refer to 
+ FAA Memorandum dated September 11, 2000 for model SR22. 
+ ACE-00-09A for 14 CFR § 23.1143(g) (Engine Controls) and § 23.1147(b) (Mixture Controls); Refer to 
+ FAA Memorandum dated February 02, 2010 for model SR22T. 
+ ACE-08-05 for 14 CFR § 23.777(d) (Cockpit Controls) and § 23.781(b) (Cockpit control knob shape); 
+ Refer to FAA Memorandum dated April 11, 2008 for models SR20, SR22. (effective with optional Garmin 
+ G1000 avionics installation, see certification basis above). 
+ ACE-08-05A for 14 CFR § 23.777(d) (Cockpit Controls) and § 23.781(b) (Cockpit control knob shape); 
+ Refer to FAA Memorandum dated February 02, 2010 for model SR22T (all serials). 
+ ACE-09-06 for 14 CFR § 23.1326(b)(1) (Pitot heat indication systems); for Flight Into Known Icing 
+ equipped airplanes only (Effective S/N 3003, 3310, 3326, 3403 and subsequent); Refer to FAA 
+ Memorandum dated April 20, 2009 for model SR22. 
+ ACE-09-06A for 14 CFR § 23.1326(b)(1) (Pitot heat indication systems); Refer to FAA Memorandum 
+ dated February 02, 2010 for model SR22T (all serials). 
+ ACE-10-08 for 14 CFR § 23.1091(b)(4) (Alternate air door override means); Refer to FAA Memorandum 
+ dated February 02, 2010 for model SR22T (all serials)."
+Special Conditions,"23-ACE-88 for ballistic parachute, for models SR20, SR22, SR22T. 
+ 23-134-SC for protection of systems for High Intensity Radiated Fields (HIRF), for models SR20, SR22. 
+ 23-163-SC for inflatable restraint system. Addition to the certification basis model SR20 effective S/N 
+ 1541 and subsequent; model SR22 S/N 1500, 1520 and subsequent; model SR22T (all serials)."
+Exemptions,"Exemption No. 9849 to 14 CFR § 23.1419(a) for Flight Into Known Icing operations only on model SR22 
+ (Effective S/N 3003, 3310, 3326, 3403 and subsequent). Exemption allows for a higher stall speed than 
+ that required by 14 CFR § 23.49(c) & (d) when operating in icing conditions. 
+ Exemption No. 9993 to 14 CFR § 23.1419(a) for Flight Into Known Icing operations only on model 
+ SR22T (Effective S/N 0001 and on). Exemption allows for a higher stall speed than that required by 14 
+ CFR § 23.49(c) & (d) when operating in icing conditions."
+Production Basis,"TC Holder: Cirrus Design Corporation headquartered in Duluth, Minnesota. Production Certificate 338CE 
+ issued June 12, 2000 
+ Licensee: AVIC General Huanan Aircraft Industry Co., Ltd located in the People’s Republic of China 
+ (PRC). Production Certificate No. PC0040A-ZN. Model effectivity includes all models and serial numbers 
+ with unique serial number ending in “H”."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (See Certification 
+ Basis) must be installed in the airplane for airworthiness certification. 
+ In addition to the above required equipment, the following equipment are also required: 
+ The latest FAA approved Revision of the “PILOT’S OPERATING HANDBOOK AND FAA 
+ APPROVED AIRPLANE FLIGHT MANUAL for the CIRRUS SR20”, Document No. 11934-001 for 
+ aircraft serials 1005 thru 1147 with 2900 pound TOGW, Document No. 11934-002 for aircraft serials 
+ 1005 thru 1147 with 3000 pound TOGW and aircraft serials 1148 thru 1267, Document No. 11934-003 
+ for aircraft serials 1268 and subsequent with Analog or Avidyne Avionics System, Document No. 11934- 
+ 004 for aircraft serials 2016 and subsequent with Cirrus Perspective Avionics Suite, or Document No. 
+ 11934-005 for aircraft serials 2220, 2339 and subsequent with Cirrus Perspective+ Avionics System. (See 
+ Note 7) 
+ The latest FAA approved Revision of the “PILOT’S OPERATING HANDBOOK AND FAA 
+ APPROVED AIRPLANE FLIGHT MANUAL for the CIRRUS SR22”, Document No. 13772-001 for 
+ aircraft serials 0002 thru 3914, Document No. 13772-002 for aircraft serials 2979, 2992, 3002 thru 3914, 
+ or Document No. 13772-004 for aircraft serials 3915 and subsequent, or Document No. 13772-006 for 
+ aircraft serials 4433 and subsequent. (See Note 7) 
+ The latest FAA approved Revision of the “PILOT’S OPERATING HANDBOOK AND FAA 
+ APPROVED AIRPLANE FLIGHT MANUAL for the CIRRUS SR22T”, Document No. 13772-003 for 
+ aircraft serials 0001 thru 0441, or Document No. 13772-005 for aircraft serials 0442 and subsequent, or 
+ Document No. 13772-007 for aircraft serials 1473 and subsequent. (See Note 7)"
+Note 1,"A current weight and balance report including list of equipment included in the certificated empty weight, 
+ and loading instructions when necessary must be provided for each aircraft at the time of original 
+ certification. The certificated empty weight and loading corresponding center of gravity location must 
+ include unusable fuel of: 
+ 27 lb. at (+153.8 inches) for model SR20 S/N 1005 thru 1877, 1879 thru 1885. 
+ 18 lb at (+154.9 inches) for model SR22 S/N 0002 thru 2333, 2335 thru 2419, and 2421 thru 2437. 
+ 15 lb at (+154.9 inches) for models SR22 S/N 2334, 2420, 2438 and subsequent; SR20 S/N 1878, 1886 
+ and subsequent; and SR22T for S/N 0001 and subsequent."
+Note 2,"All placards specified in the latest FAA approved revisions of the following documents must be displayed 
+ in the airplane in the appropriate locations: 
+ ""PILOT'S OPERATING HANDBOOK AND FAA APPROVED AIRPLANE FLIGHT MANUAL FOR 
+ THE CIRRUS SR20"", document numbers 11934-001, 11934-002, 11934-003, 11934-004, or 11934-005. 
+ “PILOT'S OPERATING HANDBOOK AND FAA APPROVED AIRPLANE FLIGHT MANUAL FOR 
+ THE CIRRUS SR22"" document numbers 13772-001, 13772-002, 13772-004, or 13772-006. 
+ ""PILOT'S OPERATING HANDBOOK AND FAA APPROVED AIRPLANE FLIGHT MANUAL FOR 
+ THE CIRRUS SR22T"" document number 13772-003, 13772-005, or 13772-007."
+Note 3,"FAA approved Airworthiness Limitations are included in Section 4 of the Airplane Maintenance Manual 
+ (AMM) Document No. 12137-001 for model SR20 aircraft serials 1005 thru 2219, and 2221 thru 2338 or 
+ Document No. 12137-002 for model SR20 serials 2220, 2339 and subsequent, and Document No. 13773- 
+ 001 for model SR22 aircraft serials 0002 thru 4432 and model SR22T aircraft serials 0001 thru 1472 or 
+ Document No. 13773-002 for model SR22 aircraft serials 4433 and subsequent and model SR22T aircraft 
+ serials 1473 and subsequent."
+Note 4,"Exterior colors are limited to those specified in the latest FAA accepted revision of the Airplane 
+ Maintenance Manual (AMM) Document No. 12137-001 for model SR20 aircraft serials 1005 thru 2219 
+ and 2221 thru 2338 or Document No. 12137-002 for model SR20 serials 2220, 2339 and subsequent, and 
+ Document No. 13773-001 for model SR22 aircraft serials 0002 thru 4432 and model SR22T aircraft 
+ serials 0001 thru 1472 or Document No. 13773-002 for model SR22 aircraft serials 4433 and subsequent 
+ and model SR22T aircraft serials 1473 and subsequent."
+Note 6,"For Model SR22 S/N 0002 thru 2333, 2335 thru 2419, and 2421 thru 2437 a maximum landing weight 
+ exists along the line between 141.4 inches at 3210 lbs and 142.7 inches at 3400 lbs."
+Note 8,"For aircraft equipped with Teledyne Continental IO-360-ES and either Garmin G1000 avionics or Garmin 
+ G1000 avionics with Garmin GFC-700 autopilot system."
+Note 9,"For aircraft equipped with Lycoming Engines IO-390-C3B6 and either Garmin G1000 NXi avionics or 
+ Garmin NXi G1000 avionics with Garmin GFC-700 autopilot system."

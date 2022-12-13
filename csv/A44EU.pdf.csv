@@ -1,0 +1,169 @@
+Keyterm,Info
+"A44EU 
+ Revision 2 
+ Rust (de Havilland) 
+ DHC-1 Chipmunk 
+ Mk 21 
+ Mk 22 
+ Mk 22A 
+ July 10, 2014",
+Type Certificate Holder,"Robert E. Rust, Jr. 
+ 2382 Highway 92 South 
+ Fayetteville, Georgia 30215"
+Type Certificate Holder Record,"Robert E. Rust transferred TC A44EU to Robert E. Rust, Jr. September 30, 2005"
+"I. Model DHC-1 Chipmunk Mk 21, 2 PCLM, (Normal and Utility Category), approved November 18, 1977. 
+ Model DHC-1 Chipmunk Mk 22A, 2 PCLM, (Normal and Utility Category), approved November 18, 1977. 
+ (Model names were misidentified in Revisions 0 and 1 of this data sheet and in airworthiness directives as 
+ DH.C1 Chipmunk 21 and DH.C1 Chipmunk 21A.)",
+Engine,Rolls-Royce (1971) Ltd. Gipsy Major 10 MK2
+Fuel,Minimum grade 80 octane (maximum lead content 4.58 milliliters TEL/US gallon)
+Engine limits,"Maximum takeoff 2,550 rpm (145 bhp) (5 minutes limit) full throttle. 
+ Maximum continuous (sea level) 2400 rpm (142 bhp) 
+ Maximum weak mixture, 3000 ft. and above (26 in Hg) 2300 rpm (120 bhp) 
+ Maximum overspeed (20 seconds), full throttle 2675 rpm"
+Propellers,"Fairey Aviation Ltd. 
+ A66753/X1 
+ Diam. (ft.) 
+ 6.75 
+ Pitch 
+ (ft.) 
+ 5.01 
+ A67889 
+ Diam. (ft.) 
+ 6.75 
+ Pitch 
+ (ft.) 
+ 5.01 
+ D104967/X1 Diam. (ft.) 
+ 6.75 
+ Pitch 
+ (ft.) 
+ 5.01"
+Airspeed limits IAS,"Never exceed 
+ 155 knots (179 mph) 
+ Maneuvering speed 
+ 117 knots (135 mph) 
+ Wing flaps shall not be extended above 93 knots (107 mph) nor beyond 
+ 15° position at greater than 71 knots (82 mph)."
+CG range,"(-6.8 inches) to (-0.77 inches) 
+ Distances shown are plus (+) behind and minus (-) ahead of the datum."
+Empty weight CG range,None
+Maximum weight,2100 lb.
+No of seats,2 (1 at 0.0 inches and 1 at +33.6 inches)
+Page No 1,"2 
+ 3"
+RevNo,"2 
+ 2 
+ 2"
+Maximum baggage,40 lb. in fuselage locker at +50.0 inches
+Fuel capacity,"28.8 U.S. gallons (24 Imp gallons) at -12.0 inches, one tank of 
+ 14.4 U.S. gallons (12 Imp gallons) in each wing"
+Oil capacity,2.4 U.S. gallons (2.0 Imp gallons) at -45.6 inches.
+Control surface,"Ailerons 
+ Up 21° ± 2° 
+ Down 16° ± 2° 
+ Flaps 
+ Takeoff 15° ± 3° 
+ Landing 30° ± 3° 
+ Elevators 
+ Up 38° ± 2° 
+ Down 15° ± 2° 
+ Rudder 
+ 31° ± 2° 
+ Left and right of center line"
+"II - Model DHC-1 Chipmunk Mk 22, 2 PCLM, (Normal and Utility Category), Approved November 18, 1977. 
+ (Model name was misidentified in Revisions 0 and 1 of this data sheet and in airworthiness directives as 
+ DHC1 Chipmunk 22 
+ This aircraft is identical to the DHC-1 Chipmunk Mk 21 and Chipmunk Mk 22A except for revised fuel capacity as follows: 
+ Fuel capacity 
+ 21.6 U.S. gallons (18 Imp gallons) at -12.0 inches, one tank of 
+ 10.8 U.S. gallons (9 Imp gallons) in each wing 
+ DATA PERTINENT TO ALL MODELS",
+Datum,42.0 inches aft of the firewall measured on the horizontal datum line.
+Leveling means,"Longitudinal: Straight-edge across two pegs at port side of front cockpit 7.0 inches 
+ below top of longeron and 6.0 inches and 42.0 inches aft of the firewall, or when pegs 
+ not fitted, use top surface of either canopy rail. 
+ Lateral: Straight edge across canopy rails at front cockpit."
+Import requirements,"A U.S. Airworthiness Certificate may be issued on the basis of a United Kingdom 
+ Certificate of Airworthiness for Export in the General Purpose Category signed by a 
+ representative of the Civil Aviation Authority containing the following statement: 
+ “The aircraft covered by this certificate has been examined, tested, and found to meet 
+ the airworthiness requirements of the United Kingdom current at the time of first 
+ application for a United Kingdom Certificate of Airworthiness in respect of a 
+ DHC-1 Chipmunk aircraft and conforms to U.S. Type Certificate No. A44EU."
+Certification basis,"14 CFR Part 21.29 (FAA letter of January 19, 1977). 
+ Type Certificate No. A44EU issued November 18, 1977. 
+ Date of application for Type Certificate, August 23, 1977."
+Serial Nos eligible,"C1-0198, C1-0281, C1-0390, C1-0482, C1-0611, C1-0615, C1-0710, C1-0713, C1-0714, 
+ C1-0748, C1-0824, C1-0895, and C1-0907. 
+ Other serial numbers will only be eligible by amending type certificate A44EU through 
+ the FAA Atlanta Aircraft Certification Office. Serial numbers which could potentially be 
+ added are C1-001 through C1-1014 (all of United Kingdom manufacture only). 
+ A United Kingdom Certificate of Airworthiness for Export endorsed as noted under 
+ Import Requirements, must be submitted for each individual aircraft for which 
+ application for a U.S. Airworthiness Certificate is made. The UK Certificate of 
+ Airworthiness for Export is valid as a basis for issuance of the U.S. Airworthiness 
+ Certificate for a period of 60 days. If application for U.S. certification is made after 60 
+ days from the date of issuance of the UK export certificate, this certificate must be 
+ reissued."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification."
+Engine Accessories,"Weight 
+ Arm 
+ Starter*, Type S7 MK2 (Coffman) Plessy Part No. CK2821, (Post Modification H.22) 
+ 20 lb. 
+ (-45)"
+or,"Starter*, electric, Rotax Part No. CO 225 (Post Modification H85) 
+ 18 lb. 
+ (-45) 
+ *Optional equipment alternative to hand starting."
+Generator Rotax Part No B1804,"11 lb. 
+ (-48) 
+ Vacuum pump, Plessey Part No. B3X MK1 
+ 5 lb. 
+ (-54)"
+Landing Gear,"Wheels, Dunlop Part No. AH9389 or Dunlop Part No. AH51981 (post modification H260) 6 lb. 
+ (+22) 
+ Tires, Dunlop Part No. 1A-TR19 size 6.00 -6 1/2, or Dunlop Part No. DB 3065 or 
+ DN 3065 size 6.00 - 6 1/2 
+ 5 lb. 
+ (+22)"
+Tube Dunlop Part No 1A3,"2 lb. 
+ (+22) 
+ Hydraulic Brakes, Dunlop Part No. AH9220 
+ 2 lb. 
+ (+22) 
+ Tail Wheel, Dunlop Part No. AHO 5047 
+ 2 lb. 
+ (+186)"
+or Dunlop Part No AH9869,"2 lb. 
+ (+186) 
+ Tire, Dunlop Part No. WP-R11 size 3.00 - 3 1/2 
+ 2 lb. 
+ (+186)"
+Tube Dunlop Part No WP2,"1 lb. 
+ (+186)"
+Electrical Equipment,"Batteries 2 of 12 v 15AH (lead acid) 
+ 43 lb. 
+ (+78)"
+Service Information,"Service bulletins, structural repair manuals, vendor manuals, AFMs, and overhaul and 
+ maintenance manuals, which contain a statement that the document is approved by the 
+ United Kingdom Civil Aviation Authority, are accepted by the FAA and are considered 
+ FAA approved. (These approvals pertain to the design data only)."
+NOTE 1,"Current weight and balance report including list of equipment in certificated empty weight, and loading 
+ instructions when necessary, must be provided for each aircraft at the time of original certification."
+NOTE 2,"The following placards must be displayed: 
+ Those placards which are required to be displayed in accordance with the UK Civil Aviation Authority 
+ Flight Manual for the DHC-1 Chipmunk Mk 21 (or DHC-1 Chipmunk Mk 22 or DHC-1 Chipmunk Mk 22A 
+ when applicable)."
+NOTE 3,"The safe fatigue lives determined in accordance with the aircraft manufacturer’s (de Havilland Support 
+ Limited) Technical News Sheet CT(C1) No. 138 Issue 6 must not be exceeded."
+NOTE 4,"Aerobatics, including spinning, as specified in the UK Civil Aviation Authority approved Flight Manual 
+ may only be performed when Modification H.231 is installed (for spin recovery refer to the Flight Manual)."
+NOTE 5,"The aircraft must be operated in compliance with the UK Civil Aviation Authority approved Flight Manual 
+ for DHC-1 Chipmunk Mk 21 (or DHC-1 Chipmunk Mk 22 or DHC-1 Chipmunk Mk 22A) with FAA 
+ Supplement dated November 18, 1977 (Noise)."
+NOTE 6,"When a propeller of other than 6.75 to 6.76 feet diameter and other than 5.01 feet pitch is fitted, the 
+ performance data in the Flight Manual is not valid."
+NOTE 7,"The aircraft must be assembled in accordance with the instructions in the de Havilland Chipmunk 
+ Maintenance and Repair Manual Publication C.M.R.-1 and must be flight checked after assembly."

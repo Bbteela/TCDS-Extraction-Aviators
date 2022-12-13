@@ -1,0 +1,140 @@
+Keyterm,Info
+"H8NM 
+ Revision 1 
+ SMITH HELICOPTERS 
+ UH-1E 
+ Revised January 24, 2005",
+Type Certificate Holder,This Type Certificate (TC) has been designated as ABANDONED (See Note 13)
+Type Certificate Holder Record,"Smith Helicopters 
+ 4800 Lakeridge Drive 
+ Ukiah, California 95482"
+"Model U.S. Navy UH-1E (Restricted Category), approved February 4, 1985.",
+Engine,Lycoming T53L11D
+Fuel,"MIL-J-5624, Grade JP-4 or JP-5"
+Engine Limits,"Torque Pressure 
+ Output Shaft 
+ Exhaust Gas 
+ Gas Gen. 
+ Speed 
+ Temp. 
+ Speed 
+ (P.S.I.) 
+ (R.P.M.) 
+ (°C) 
+ (R.P.M.)"
+Takeoff 5 minutes,"50.0 (1100 h.p.) 
+ 6640 (101%) 
+ 638 
+ 25,200 (100.5%) 
+ 46.0 (900 h.p.) 
+ 6640 (101%) 
+ 621 
+ 24,700 (97.7%) 
+ (See Note 1)"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 339 r.p.m. 
+ Maximum 324 r.p.m. 
+ (Dual Tach Reading 104.5%) 
+ (Dual Tach Reading 100%) 
+ Minimum 294 r.p.m. 
+ Minimum 310 r.p.m. 
+ (Dual Tach Reading 91.0%) 
+ (Dual Tach Reading 97%)"
+Airspeed Limits,"Never exceed speed 140 knots up to and including 7500 lbs. G.W. at sea level. 
+ Never exceed speed 110 knots from 7500 lbs. to 8500 lbs. G.W. at sea level. 
+ Never exceed speed 70 knots from 8500 lbs. to 9500 lbs. G.W. at sea level. Ref. 
+ NATOPS Flight Manual NAVAIR 01-110HCA-1."
+CG Range,"(a) Longitudinal C.G. Limits 
+ (+126.7) to (+132.3) at 9500 lbs. 
+ (+125.5) to (+134.4) at 8500 lbs. 
+ (+125.0) forward limit at 8150 lbs. 
+ (+138.0) aft limit at 7000 lbs. 
+ See figure next page:"
+Page No,"1 
+ 2 
+ 3"
+Rev No,"1 
+ 1 
+ 9500 
+ 8500 
+ 7500 
+ Weight (Pounds) 
+ 6500 
+ 5500 
+ 4500 
+ 125 
+ 128 
+ 131 
+ 134 
+ 137 
+ Fuselage Station (Inches) 
+ (b) Lateral C.G. Limits 
+ ± 4.7 in. from centerline of fuselage:"
+Maximum Weight,"9500 lbs., All weight in excess of 8500 lbs. shall be external load only."
+Minimum Crew,1 (Pilot)
+Maximum Cargo,See Flight Manual NAVAIR 01-110HCA-1 limits.
+Fuel Capacity,242 gals (STA +136.5) See Note 2 for data on unusable fuel.
+Oil Capacity,3.8 gals (STA +157) minimum oil 1 ½ gals. See Note 2 for data on undrainable oil.
+Other Operating Limitations,"This aircraft must be operated in accordance with NATOPS Flight Manual NAVAIR 
+ 01-110HCA-1 and Avco/Lycoming FAA approved Maintenance Manual T5311-2 
+ Engine performance data."
+Serial Numbers Eligible,All U.S. Navy serial numbers.
+Certification Basis,"FAR 21.25(a)(2), effective February 1, 1965. Type Certificate no. H8NM issued 
+ February 4, 1985 for the purpose of: (1) Agricultural; (2) Forest and Wildlife 
+ Conservation; and (3) Carriage of External Loads FAR Part 133. 
+ Date of Application for Type Certificate: October 14, 1984."
+Production Basis,"None. No helicopter may be produced under this approval. Prior to original certification 
+ of each aircraft, FAA personnel must perform an airworthiness inspection determining 
+ that the aircraft is in condition for safe operation and that the applicant has conducted a 
+ satisfactory flight test."
+Equipment,"The basic required equipment, as prescribed in the applicable airworthiness regulations 
+ (see certification basis), must be installed in the helicopter for certification. In addition, 
+ equipment necessary for the particular special purpose must be FAA engineering 
+ approved. External Cargo Operations, Part 133, shall be conducted as specified in 
+ NAVAIR 01-110HCA-1 Flight Manual. See also Navair Weight and Balance Data, 
+ Navair 01-1B-40."
+Datum,"Station 0 (datum is located 7.60 inches aft of the most forward point of the fuselage cabin 
+ nose section)."
+Leveling Means,Plumb line from top of left main door frame.
+NOTE 1,"The generator speed as shown under ""Engine Limits"" are maximum permissible speeds. The torque pressure 
+ output by the engine torque sensing system and the gas generator speed for rated power output varies with 
+ individual engines and must be determined during engine calibration and stamped on the engine data plate. The 
+ torque pressure and gas generator speed shall be adjusted and displayed on the limit placard (P/N 204-70-149) 
+ installed on the instrument panel and must correspond to the engine data plate. Gas generator speed limits also 
+ vary with OAT in accordance with the schedule as shown on the limit placard (P/N 204-70-149) on the instrument 
+ panel."
+NOTE 2,"Current weight and balance report including list of required equipment and list of equipment included in 
+ certificated empty weight, and loading instructions when necessary must be provided for the helicopter at the time 
+ of original certification. 
+ The certificated empty weight and corresponding C.G. locations must include undrainable oil of 1.72 lbs. 
+ (STA.+154) and unusable fuel of 9.0 lbs. (STA.+145) for 242 gal. capacity fuel system."
+NOTE 3,"The following placard must be displayed in front of and in clear view of the pilot: ""THIS AIRCRAFT MUST BE 
+ OPERATED IN COMPLIANCE WITH OPERATING LIMITATIONS SPECIFIED IN THE AIRCRAFT 
+ FLIGHT MANUAL NAVAIR 01-110HCA-1."" All placards required in the aircraft flight manual shall be 
+ installed in the appropriate locations."
+NOTE 4,"The retirement times of critical parts are listed in NAVAIR 01-110HCA-6 Maintenance Manual. These values of 
+ retirement or service life cannot be increased without FAA engineering approval"
+NOTE 5,"Prior to Civil Airworthiness Certification the provisions of all applicable AD's and mandatory T.O.'s must be 
+ accomplished. All follow-on AD's to be complied with."
+NOTE 6,Rigging information contained in NAVAIR 01-110HCA-2 Maintenance Manual.
+NOTE 7,"This helicopter must be serviced and maintained in conformance with instructions given by the U.S. Navy and 
+ Avco/Lycoming Corp in Maintenance Manuals Lycoming No. T5311-2 and NAVAIR 01-110HCA-2."
+NOTE 8,"Maximum permissible exhaust gas temperature varies with ambient temperature as described in the NAVAIR 01- 
+ 110HCA-1 Aircraft Flight Manual and on the face of the ambient temperature gage on the instrument panel."
+NOTE 9,"Anti-icing additive at a concentration not in excess of 0.1% by volume or as recommended by the manufacturer 
+ may be used in fuel for this helicopter."
+NOTE 10,"Gross weights above 8500 lbs. are limited to External Cargo Load only and must not be imposed on the landing 
+ gear. The retirement times listed in Note 4 are not changed."
+NOTE 11,All repairs to this aircraft to be performed in accordance with NAVAIR 01-110HCA-3 Structural Repair Manual.
+NOTE 12,Engine inspections to be performed per Lycoming Engine Inspection Handbook T5311-5.
+NOTE 13,"This Type Certificate (TC) has been designated ""ABANDONED"". A “Notice of Intent To Designate as 
+ Abandoned Certain Type Certificates Issued in the Restricted Category,” was published by the Federal Aviation 
+ Administration (FAA) in the Federal Register on August 8, 2003 (68 FR 47379). That Notice listed this TC. The 
+ FAA received no comments on the published Notice. The FAA has been unable to contact this TC holder. Hence, 
+ the FAA has determined that this TC holder is not complying with its Continued Operational Safety (COS) 
+ responsibilities. Therefore, no additional aircraft will be added to this TC and no additional original airworthiness 
+ certificates will be issued based on this TC. The effectiveness of this TC is limited to those aircraft that received 
+ original airworthiness certification prior to the incorporation of this note (Date of Incorporation, January 24, 
+ 2005). Subsequently, if the TC holder is located and assumes their COS responsibilities, the restriction(s) imposed 
+ by this note may be lifted."

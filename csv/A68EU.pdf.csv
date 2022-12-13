@@ -1,0 +1,256 @@
+Keyterm,Info
+"A68EU 
+ Revision 1 
+ WSK “PZL-MIELEC” 
+ OBR 
+ PZL M20 03 
+ March 1, 2012",
+Type Certificate Holder,"WSK PZL MIELEC and OBR SK MIELEC 
+ U1. Wojska Polskiego 3 
+ 39-301 MIELEC 
+ POLAND"
+Type Certificate Ownership Record,"(1) This TC was considered not valid by the state of design on March 27, 2007, and has been replaced by 
+ European Aviation Safety Agency (EASA) Specific Airworthiness Specification (SAS) number 
+ EASA.SAS.A.064, issued March 27, 2007. Only standard airworthiness certificates issued prior to 
+ March 1, 2012 are valid. 
+ (2) Future unsafe conditions existing in the aircraft may result in the revocation of the airworthiness 
+ certificates of the aircraft if there is no entity to comply with 14 CFR § 21.99(a), “Required design 
+ changes.” 
+ (3) Replacement parts may not be available in the future."
+"I. Model PZL M20 03 “MEWA” (Normal Category) Approved July 19, 1993 
+ PA 34-200T SENECA II aircraft assemblies (electro-navigation equipment, wing spar, accessories, hydraulic, - pneumatic,",
+Engines,"Teledyne Continental TSIO-360-KB (left side) 
+ Teledyne Continental LTSIO-360-KB (right side) 
+ with fuel injection, turbocharged. 
+ Rotation as viewed from the rear: 
+ TSIO-360-KB 
+ CW 
+ L/TSIO-360-KB 
+ CCW"
+Fuel,100/100 LL minimum grade gasoline
+Engine Limits,"Takeoff (5 minutes), 2800 RPM and 40 in.Hg. Manifold Pressure (220 HP) 
+ Maximum continuous, 2600 RPM and 40 in.Hg. Manifold Pressure (200 HP)"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5"
+Rev No,"1 
+ - 
+ 1 
+ - 
+ -"
+propeller limits,"Right Engine 
+ Hartzell Hub Model BHC-C2YF-2CLKUF, Blade Model 
+ FJC 8459-8R, with Hartzell E-3-7L governor. 
+ Left Engine 
+ Hartzell Hub Model BHC-C2YF-2CKUF, Blade Model 
+ FC 8459 - 8R, Hartzell Governor Model E3-7 (or Model 
+ E8-7L with synchrophasing system installed). 
+ Pitch Setting at 30” of Propeller Diameter: 
+ Low 12.9  0.2 
+ High 80 to 81.5 
+ Diameter: Two blade (constant speed) not over 76 in., not under 75 in."
+Airspeed Limits,"VNE 
+ - 
+ 195 Knots (CS) 
+ VNO 
+ - 
+ 165 Knots (CAS) 
+ VA 
+ - 
+ 138 Knots (CAS) for 4570 lbs weight 
+ - 
+ 122 Knots (CAS) for 3068 lbs weight 
+ VLE 
+ - 
+ 130 Knots (CAS) 
+ VLO 
+ - 
+ 130 Knots (CAS) Landing Gear Extended 
+ - 
+ 109 Knots (CAS) Landing Gear Retracted 
+ VFE 
+ - 
+ 109 Knots (CAS) Flaps Deflected 40 
+ VMC 
+ - 
+ 69 Knots (CAS) 
+ Maneuvering speed (Va) is reduced as the airplane weight decreased 
+ Straight line interpolation is used for intermediate weight."
+CG Range in,"(+90.6) to (+94.6) at 4570 lbs 
+ (+86.7) to (+94.6) at 4250 lbs 
+ ( 82.0) to (+94.6) at 3400 lbs 
+ Straight line variation between points given. 
+ Moment due to retracting landing gear (-32 in. lbs)"
+Empty Weight CG Range,None
+Datum,"78.4 inches forward of wing leading edge at the inboard edge of the inboard fuel tank 
+ (outboard of the engine), with the airplane in leveling position and the landing gear 
+ extended."
+Leveling Means,"With airplane on scales, block main gear oleo pistons in the fully extended position. 
+ Level airplane by deflating nose wheel tire (level point is a horizontal line between two 
+ screws on left side of fuselage below pilot’s window)."
+Maximum Weight,"Takeoff 
+ 4570 lbs 
+ Landing 
+ 4342 lbs 
+ Zerofuel 
+ 4000 lbs 
+ All weight over 4000 lbs. must be fuel."
+Minimum Crew,One (1) pilot
+Number of Seats,"7 (2 at + 85.5; 3 at + 118.1; 2 at + 157.6) 
+ 6 (2 at + 85.5; 2* at + 119.1; 2 at + 157.6) 
+ 5**(2 at + 85.5; 1 at 119.9 (1 patient or 1 incubator on a stretcher at +133.8) 
+ * Optional equipment - Club Seats 
+ ** Allowable loading condition with the airplane in ambulance version."
+Maximum Baggage,"200 lb. (100 lb at +22.5, 100 lb at +178.7)"
+Fuel Capacity,"98 gal. (2 wing tanks) at +93.6 (93 gal. usable) 
+ Optional Installation: 128 gal. (2 wing tanks) at +93.6 (123 gal. usable) 
+ See NOTE 1 on fuel system."
+Oil Capacity,"8 qts. per engine (5 qts. per engine usable) 
+ See NOTE 1 for additional data on oil system."
+Maximum Operating Altitude,"25,000 feet"
+Control Surface Movements,"Ailerons 
+ Up 
+ 35 
+  2 
+ Down 
+ 20 
+  2 
+ Stabilator 
+ Up 
+ 12.5  0 -1 
+ Down 
+ 7.5  1 
+ Stabilator Trim Tab 
+ Up 
+ 6.5  1 
+ (Stabilator Neutral)*** 
+ Down 
+ 10.5  1 
+ Rudder 
+ Left 
+ 35 
+  1 
+ Right 
+ 35 
+  1 
+ Rudder Trim Tab 
+ Left 
+ 25 
+  1 
+ (Rudder in Neutrum) 
+ Right 
+ 25 
+  1 
+ Wing Flaps 
+ Cruise 
+ 0 
+  2 
+ Landing 
+ 40 
+  2 
+ Nose Wheel Travel 
+ Left 
+ 27 
+  1 
+ Right 
+ 27 
+  1 
+ ***Stabilator is in neutral position when its chord is parallel to the front seat 
+ track upper position"
+Serial Numbers Eligible,"1AH002-07 and up. 
+ The General Inspectorate of Civil Aviation (GICA) Certificate of Airworthiness endorsed 
+ as noted below under “Import Requirements” must be submitted for each individual 
+ aircraft, for which application for airworthiness certification is made. 
+ Only those aircraft serials holding a standard airworthiness certificate issued prior to 
+ March 1, 2012 are eligible."
+Import Requirements,"None eligible after March 1, 2012. 
+ Previous to this date: 
+ A Standard Airworthiness Certificate may be issued on the basis of a Certificate of 
+ Airworthiness for Export signed by a representative of General Inspectorate of Civil 
+ Aviation (GICA) containing the following statement: “The airplane covered by this 
+ certificate has been examined, tested and found to conform to the type design approved 
+ under Type Certificate No. A68EU and is in condition for safe operation.”"
+Certification Basis,"FAR Part 23 effective 2-1-65, amended as follows: 
+ -Subparts A, B through Amendment 23-18 effective May 2, 1977; 
+ -Subpart C through Amendment 23-18 (except 23.507 and 23.509 amended through 
+ Amendment 23-6 effective August 1, 1967); 
+ -Subpart D through Amendment 23-18 (except 23.785 amended through Amendment 23-32 
+ effective December 12, 1985); 
+ -Subpart E through Amendment 23-6 (except 23.901, 23.909, 23.959, 23.1041, 23.1043, 23.1047, 
+ and 23.1143, amended through Amendment 23-7 effective September 14, 1969); 
+ -Subpart F through Amendment 23-6 (except 23.1305 amended through Amendment 23-7 
+ effective September 14, 1969, 23.1323 amended through Amendment 23-18 effective May 2, 
+ 1977, 23.1419 amended through Amendment 23-14 effective December 20, 1973, and 
+ 23.1441 amended through Amendment 23-9 effective June 17, 1970); 
+ -Subpart G through Amendment 23-18 (except 23.1545 (a) amended through Amendment 23-23 
+ effective December 1, 1978, and 23.1529 amended through Amendment 23-26 effective 
+ October 14, 1980). 
+ FAR Part 36 effective December 1, 1969, through Amendment 36-20 effective September 16, 1992."
+Validation Basis,"Type Certificate A68EU was issued pursuant to FAR 21.29(a) in validation of General Inspectorate 
+ of Civil Aviation (GICA) certification of compliance when aforementioned Certification Basis."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see 
+ Certification Basis) must be installed in the aircraft for standard airworthiness certification. In 
+ addition, the following items of equipment are required. 
+ 1. 
+ Icing protection equipment as specified by manufacturer’s Dwg. No. 37700. 
+ 2. 
+ Model PZL M20 “MEWA” - GICA approved Airplane Flight Manual Ref. PZL Report 
+ M2003/OLP-5/002/88/FAA, dated May 20, 1993, or later GICA approved revision."
+NOTE 1,"Current weight and balance report including list of equipment is certificated empty weight, and loading 
+ instructions, must be provided for each aircraft at the time of original airworthiness certification. 
+ The certificated empty weight and corresponding center-of-gravity positions must include undrainable oil 
+ and unusable fuel as noted below: 
+ Fuel 
+ 30.0 lbs at (+103.0) 
+ Oil 
+ 12.0 lbs at (+ 43.7)"
+NOTE 2,"Required Placards (Refer to Manufacturer’s Specifications for contents): 
+ (1) The following placard must be located in clear view of the pilot: 
+ On side to left of pilot: 
+ Limitations 
+ This airplane must be operated as a normal category airplane in compliance with the operating limitations 
+ stated in the form of placards, markings, and manuals. No acrobatic maneuvers (including spins) approved. 
+ This aircraft approved for VFR, IFR, day, night and icing flight when equipped in accordance with FAR 91 
+ or FAR 135. Minimum single engine control speed 66 KIAS. 
+ Single engine stalls not permitted. 
+ Can cause 500 ft. loss of altitude and 15 pitch angle. 
+ In addition, all placards required in the approved airplane flight manual must be installed in the appropriate 
+ location. 
+ Each individual airplane will be supplied with a placard that specifies the kinds of operation such as VFR, or 
+ IFR, DAY or NIGHT, to which the operation of the airplane is limited by the equipment installed. 
+ (2) 
+ Maximum Weight 
+ (3) 
+ Maneuver Speed 
+ (4) 
+ Demonstrated Crossword Component 
+ (5) 
+ Information 
+ (6) 
+ Flight with Doors Removed 
+ (7) 
+ Emergency Gear Extension 
+ (8) 
+ Door Latch 
+ (9) 
+ Door Release 
+ (10) Maximum Baggage (2) 
+ (11) Takeoff Checklist 
+ (12) Landing Checklist 
+ (13) Smoking 
+ (14) Storm Window Airspeed 
+ (15) Icing Conditions (if applicable) 
+ (16) Windshield Heat 
+ (17) Pitot Heat 
+ (18) Oil Cooler (2) 
+ (19) Prop Sync. 
+ (20) Table 
+ (21) RPM Limits (2) 
+ (22) Fire Extinguisher 
+ (23) Heating/Ventilation Controls 
+ (24) Fuel 
+ (25) Flap Step"
+NOTE 3,"Instructions for continued airworthiness are contained in Section 3, PZL M-20 MEWA Maintenance Manual 
+ (dated December 15, 1992). Revisions to Airworthiness Limitations must be FAA approved."

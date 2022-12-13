@@ -1,0 +1,713 @@
+Keyterm,Info
+"A16SW 
+ Revision 29 
+ Textron Aviation 
+ MU-300-10 
+ 400 
+ 400A 
+ 400T 
+ October 12, 2016",
+Type Certificate Holder,"Textron Aviation Inc. 
+ One Cessna Boulevard 
+ Wichita, Kansas 67215"
+Type Certificate Holder Record,"Beech Aircraft Corporation transferred to 
+ Raytheon Aircraft Company on April 15, 1996 
+ Raytheon Aircraft Company transferred to 
+ Hawker Beechcraft Corporation on March 26, 2007 
+ Hawker Beechcraft Corporation transferred to 
+ Beechcraft Corporation on April 12, 2013. 
+ Beechcraft Corporation transferred to 
+ Textron Aviation Inc. on October 12, 2016"
+"I. Model MU-300-10, Diamond II, (Transport Category), Approved April 30, 1985 (See NOTES 5 & 6) 
+ Model 400, Beechjet, (Transport Category), Approved April 1, 1986 (See NOTE 7)",
+Engines,2 Pratt & Whitney Canada JT15D-5 turbofans
+Fuel,"Commercial kerosene Jet A, Jet A-1, Jet B, or JP-4. 
+ JP-5 and JP-8 if aircraft complies with SB 2378. 
+ Fuel not containing icing inhibitors must have MIL-I-27686D or MIL-I-85470A fuel 
+ system icing inhibitor added in amounts of not less than 0.10% or more than 0.15% by 
+ volume. See Airplane Flight Manual for blending anti-icing additive to fuel. 
+ Temperature: 
+ Minimum -40° C. 
+ Maximum 50° C."
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14"
+29,"9 
+ 9 
+ 21 
+ 24 
+ 16 
+ 21 
+ 26 
+ 27 
+ 28 
+ 18 
+ 18 
+ 18 
+ 28"
+Engine Limits,"Static thrust standard day, sea level: 
+ Takeoff (5 min.) 
+ 2,900 lb. 
+ Max. continuous 
+ 2,900 lb. 
+ Max. permissible engine rotor operating speeds: 
+ N1 (Fan) 
+ 104% 
+ 16,540 r.p.m. 
+ N2 (Gas Gen.) 
+ 96% 
+ 31,450 r.p.m. 
+ Max. permissible interturbine gas temperatures: 
+ Takeoff 
+ 700° C. 
+ Max. continuous 
+ 680° C. 
+ Starting Transient (2 sec.) 
+ 700° C."
+Airspeed Limits IAS,"VMO (Maximum Operating Speed) 
+ S/N's A1001S.A. - A1011S.A. and RJ-12 through RJ-15 
+ 264 knots 
+ Sea level to 14,000 ft. 
+ 320 knots 
+ 17,000 ft. to 26,000 ft. 
+ Note: Linear variation from 264 KTS @ 14,000 ft. 
+ to 320 KTS @ 17,000 ft. 
+ S/N's RJ-16 through RJ-65 or Kit 400-5003 installed 
+ 264 knots 
+ Sea level to 8,000 ft. 
+ 320 knots 
+ 11,000 ft. to 26,000 ft. 
+ Note: Linear variation from 264 KTS @ 8,000 ft. 
+ to 320 KTS @ 11,000 ft. 
+ MMO = 0.785 MACH above 26,000 ft. 
+ VA (Maneuvering Speed) 
+ 205 Knots 
+ Sea level to 20,000 ft. 
+ 230 Knots 
+ At 41,000 ft. 
+ Note: Linear variation from 20,000 ft. to 41,000 ft. 
+ VFE (Flaps extended) 
+ 165 Knots 
+ Flaps 30° 
+ 200 Knots 
+ Flaps 10° 
+ VMCA (Min. Control Speed Air) 
+ = 90 Knots 
+ VMCG (Min. Control Speed Ground) = 93 Knots 
+ VLO (Landing Gear Operating) 
+ = 200 Knots 
+ VLE (Landing Gear Extended) 
+ = 200 Knots"
+CG Range Landing,CENTER OF GRAVITY FLIGHT ENVELOPE
+Gear Extended,"ZONE A 
+ Loading and combination of fuel in wing or fuselage tanks, loading at least 
+ 900 pounds in each main fuel tank. 
+ ZONE B 
+ The difference between ZFW and 12,470 pounds may be loaded as fuel in 
+ the fuselage tank provided at least 900 pounds of fuel are placed in each 
+ main fuel tank. 
+ ZONE C 
+ Fuselage tank fuel loading is limited to the value shown on the guideline 
+ appropriate to ZFW location. Load at least 900 pounds of fuel in each main 
+ fuel tank. 
+ Wheel Loading Limit Line - Reduce Maximum Ramp Weight (15, 850 lbs.) by 50 Lbs. of 
+ wing fuel for each percentage of MAC aft of 27.5%."
+Empty Wt CG Range,None
+Maximum Weight,"Takeoff 
+ 15,780 lb. 
+ Landing 
+ 14,220 lb. 
+ Zero fuel 
+ 12,470 lb. 
+ Ramp 
+ 15,850 lb."
+Minimum Crew,For all flights: 2 persons (pilot and copilot)
+Number of Seats,11 (2 pilots and 9 passengers). See NOTE 4
+Maximum Baggage,"Aft cabin 
+ 400 lb. (at +313.4) 
+ 400 lb. (at +286.5)"
+Fuel Capacity Gal,"Total 
+ Usable 
+ Arm 
+ Two wing tanks: 
+ 265.6 ea. 
+ 259.3 ea. 
+ +272.8 
+ One aft fuselage tank: 
+ 121.6 
+ 117.2 
+ +337.8 
+ See NOTE 1 for data on unusable fuel"
+Oil Capacity Gal,"Two engine mounted tanks: 
+ Total 2.03 each; usable 1.20 each; ARM = +342.2 
+ See NOTE 1 for data on undrainable oil"
+Maximum Operating Altitude,"41,000 ft."
+Control Surface Movements,"Spoiler inboard 
+ Up 68° 
+ Down 14° 
+ Spoiler outboard 
+ Up 72° 
+ Down 14° 
+ Lateral trim 
+ Up 25° 
+ Down 25° 
+ Elevator 
+ Up 25° 
+ Down 12° 
+ *Pitch 
+ L.E. Up 123.8 
+ L.E. Down 12.8 
+ Rudder 
+ Right 30° 
+ Left 30° 
+ Rudder trim 
+ Right 30° 
+ Left 30° 
+ Flap 
+ Full 30° 
+ Speed brake 
+ 36° 
+ Yaw damper 
+ Right 26.6° 
+ Left 27.6° 
+ See Drawing 45A00601 or maintenance manual for rigging tolerance 
+ *Length of the trim actuator jack screw in millimeters (mm) 
+ See drawing for details."
+Serial Nos Eligible,"A1001S.A. through A1011S.A. (MU-300-10), RJ-12 through RJ-50, RJ-52 
+ through RJ-65 (400). See NOTE 6"
+"Data Pertinent to Models MU-300-10 and 400 
+ Datum 
+ Located 71.65 in. forward of the front face of the forward pressure bulkhead. 
+ MAC 
+ 73.11 in. (L.E. of MAC at +251.09) 
+ Leveling Means 
+ Seat rails 
+ Certification Basis 
+ Part 25 of the Federal Aviation Regulations effective February 1, 1965, as amended by 
+ 25-1 through 25-40, plus FAR 25.1351(d), 25.1353(c)(5), and 25.1450 of Amendment 
+ 25-41; FAR 25.29, FAR 25.255, and FAR 25.1353(c)(6) of Amendment 25-42; and FAR 
+ 25.361(b) of Amendment 25-46. Part 36 of the Federal Aviation Regulations effective 
+ December 1, 1969, as amended by 36-1 through 36-12 (See NOTE 8). 
+ Equivalent Safety Items 
+ (1) Out-of-trim characteristics FAR 25.255 
+ (2) Pilot compartment view FAR 25.773(b)(2) 
+ (3) RJ-39 and after, passenger compartment door FAR 25.813(e) 
+ Application for Type Certificate dated February 28, 1984. 
+ Type Certificate No. A14SW was issued November 6, 1981, for the MU-300 and was 
+ amended April 30, 1985, to add the MU-300-10. The MU-300-10 was removed from 
+ A14SW and made part of Type Certificate No. A16SW on April 1, 1986. Type 
+ Certificate No. A16SW was amended April 1, 1986, to add the 400. 
+ Production Basis 
+ PC-8, RJ-16 through RJ-65; Serial Nos. A1001S.A. through A1011S.A. and RJ-12 
+ through RJ-15, an FAA representative performed detailed inspection for workmanship, 
+ materials, conformity with approved technical data, and a check of flight characteristics. 
+ See NOTE 6. 
+ Equipment 
+ The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. 
+ NOTE 1 
+ Current weight and balance report including list of equipment included in certificated empty weight 
+ and loading instructions when necessary must be provided for each aircraft at the time of original 
+ certification. 
+ The certificated empty weight and corresponding center of gravity location must include: 
+ Unusable fuel (two wing tanks) 
+ 89.1 lb. at +255.9 
+ Unusable fuel (one aft fus. tank) 
+ 29.6 lb. at +338.8 
+ Undrainable oil (two engine) 
+ 2.4 lb. at +342.2 
+ Hydraulic fluid 
+ 8.3 lb. at +349.6 
+ NOTE 2 
+ The aircraft must be operated according to FAA Approved Airplane Flight Manual, Beech Part Number 
+ 128-590001-13, Rev. A3, dated June 4, 1987, or later. 
+ NOTE 3 
+ Airworthiness Limitations containing overhaul times, replacement times, and special inspections 
+ required for continued airworthiness are listed in the following manuals: Maintenance Manual Part 
+ Number 128-590001-9, Chapter 4, and Structural Repair Manual Part Number 128-590001-17. 
+ NOTE 4 
+ The toilet seat is certified as a side-facing seat approved for takeoff, flight, and landing. 
+ NOTE 5 
+ Model MU-300-10 removed from Type Certificate No. A14SW and made part of Type Certificate No. 
+ A16SW on April 1, 1986. 
+ NOTE 6 
+ Model MU-300-10 with serial numbers A1001S.A. through A1011S.A. were manufactured by Mitsubishi 
+ Aircraft International, Inc., under FAA Type Certificate No. A14SW and FAA Production Certificate 
+ No. 4SW. 
+ NOTE 7 
+ Model MU-300-10 can be converted into Model 400 per Beech Service Bulletin Number 2140. 
+ NOTE 8 
+ FAR 25.1335 of Amendment 25-41, 25.1329(h) of Amendment 25-46, and Special Conditions No. 
+ 25-ANM-33 also apply to the Model 400 when Collins Proline 4 Avionics with EFIS (PFD) and FCS 
+ APS-850 equipment is installed in accordance with Beech Aircraft Corporation ECR 204 and ECR 208. 
+ NOTE 9 
+ Model MU-300-10 serial numbers A1001SA through A1011SA have been converted to Model 400 serial 
+ Numbers RJ-1 through RJ-11 respectively (See Note 7). MU-300-10 is no longer an active model. Service 
+ Data will not include Model MU-300-10. 
+ II. Model 400A, Beechjet (Hawker 400XP), (Transport Category), Approved June 20, 1990",
+Engines,"2 Pratt & Whitney Canada JT15D-5 turbofans (RK-1 through RK-507) 
+ 2 Pratt & Whitney Canada JT15D-5R turbofans (RK-508 and On)"
+Fuel,"JT15D-5 Commercial kerosene Jet A, Jet A-1, Jet B, JP-4, JP-5, JP-8, JP-8+100, 
+ or RP-3 
+ JT15D-5R Commercial Kerosene Jet A, Jet A-1, JP-5, JP-8, JP-8+100, or RP-3 
+ (Jet B and JP-4 not approved.) 
+ See NOTE 13. 
+ Fuel not containing icing inhibitors must have MIL-I-27686D or MIL-I-85470A fuel 
+ system icing inhibitor added in amounts of not less than 0.10% or more than 0.15% by 
+ volume. See Airplane Flight Manual for blending anti-icing additive to fuel. 
+ Temperature: 
+ Minimum 
+ -40° C. 
+ Maximum 
+ 50° C."
+Engine Limits,"Static thrust standard day, sea level: 
+ Takeoff (5 min.) 
+ 2,900 lb. (RK-1 thru RK-92) 
+ (See note 6) 
+ Takeoff (5 min.) 
+ 2,965 lb. (RK-93 & after) 
+ Max. continuous 
+ 2,900 lb. 
+ Max. permissible engine rotor operating speeds: 
+ N1 (Fan) 
+ 104% 
+ 16,540 r.p.m. 
+ N2 (Gas Gen.) 
+ 96% 
+ 31,450 r.p.m. 
+ Max. permissible interturbine gas temperatures: 
+ Takeoff 
+ 700° C. 
+ Max. continuous 
+ 680° C. 
+ Starting Transient (2 sec.) 
+ 700° C."
+Airspeed Limits IAS,"VMO 
+ (Maximum Operating Speed) 
+ 264 knots Sea level to 8,000 ft. 
+ 320 knots 11,000 ft. to 26,000 ft. 
+ Note: Linear variation from 264 KTS @ 8,000 ft. 
+ to 320 KTS @ 11,000 ft. 
+ MMO = 0.78 MACH above 26,000 ft. 
+ VA 
+ (Maneuvering Speed) 
+ 210 Knots At Sea Level 
+ 213 Knots At 20,000 ft. 
+ Note: Linear variation between sea level and 20,000 ft. 
+ 246 Knots At 38,000 ft. 
+ Note: Linear variation between 20,000 ft. and 38,000 ft. 
+ 0.78 MACH From 38,000 ft. to 45,000 ft. 
+ VFE (Flaps Extended) 
+ 165 knots 
+ Flaps 30o 
+ 200 knots 
+ Flaps 20o (RK-1 thru RK-92) 
+ (see note 6) 
+ 200 knots 
+ Flaps 20o: (RK-93 & after) 
+ 200 knots 
+ Flaps 10o 
+ VMCA (Min. Control Speed Air) = 89 Knots 
+ VMCG (Min. Control Speed Ground) 
+ When equipped with Collins Proline IV Avionics with three- or four-tube EFIS 
+ (PFD): 88 Knots 
+ When equipped with Collins Proline IV Avionics with two-tube EFIS display: 
+ 92 Knots 
+ VLO 
+ (Landing Gear Operating) = 200 Knots 
+ VLE 
+ (Landing Gear Extended) = 200 Knot"
+CG Range Landing,CENTER OF GRAVITY FLIGHT ENVELOPE
+Gear Extended,"Fuselage fuel is restricted as specified for Zones A, B, and C with full wing fuel: 
+ ZONE A 
+ Any amount of fuselage fuel up to full tanks. 
+ ZONE B 
+ The different between ZFW and 13,437 pounds may be loaded in fuselage 
+ tanks. 
+ ZONE C 
+ Fuselage tanks limited to the value shown on the guideline appropriate ZFW 
+ location."
+Empty Wt CG Range,None
+Maximum Weight,"Takeoff 
+ 16,100 lb. 
+ 16,300 lb. (See NOTE 11) 
+ Landing 
+ 14,220 lb. - RK-1 through RK-23 (See NOTE 5) 
+ Landing 
+ 15,700 lb. - RK-24 and On 
+ Zero fuel 
+ 13,000 lb. 
+ Ramp 
+ 16,300 lb. 
+ 16,500 lb. - RK-1 through RK-346 (See NOTE 11) 
+ -RK-347 and On"
+Minimum Crew,For all flights: 2 persons (pilot and co-pilot)
+Number of Seats,11 (2 pilots and 9 passengers). See NOTE 4
+Maximum Baggage,"Aft cabin 350 lb. (at +309.0) (Opt.) 
+ Fwd Cabin 150 lb. (at +152.0) (Opt.) 
+ Fwd Cabin 100 lb. (at +156.0) (Std.) (W/Galley)"
+Fuel Capacity Gal,"Total 
+ Usable 
+ Arm 
+ Two wing tanks: 
+ 217.2 ea. 
+ 213.6 ea. 
+ +276.6 
+ Six fuselage tanks: 
+ 307.0 
+ 305.8 
+ +296.1 
+ See NOTE 1 for data on unusable fuel."
+Oil Capacity Gal,"Two engine mounted tanks: 
+ JT15D-5, Total 2.03 each; usable 1.20 each; ARM = +342.2 in. 
+ JT15D-5R, Total 2.17.each; usable 1.20 each; ARM= +344.81 in. 
+ See NOTE 1 for data on undrainable oil. 
+ See NOTE 13"
+Maximum Operating Altitude,"45,000 ft."
+Control Surface Movements,"Spoiler inboard 
+ Up 68° 
+ Down 14° 
+ Spoiler outboard 
+ Up 72° 
+ Down 14° 
+ Lateral trim 
+ Up 25° 
+ Down 25° 
+ Elevator 
+ Up 25° 
+ Down 12° 
+ *Pitch 
+ L.E. Up 123.8 
+ L.E. Down 12.8 
+ Rudder 
+ Right 30° 
+ Left 30° 
+ Rudder trim 
+ Right 30° 
+ Left 30° 
+ Flap 
+ Full 30° 
+ Speed brake 
+ 36° 
+ Yaw damper/rudder roost 
+ Function through primary rudder 
+ See Drawing 45A00601 or maintenance manual for rigging tolerance. 
+ *Length of the trim actuator jack screw in millimeters (mm) 
+ See drawing for details."
+Serial Nos Eligible,RK-1 and up SEE NOTE 10.
+Datum,Located 71.65 in. forward of the front face of the forward pressure bulkhead.
+MAC,73.11 in. (L.E. of MAC at +251.09)
+Leveling Means,Seat rails
+Certification Basis,"Part 25 of the Federal Aviation Regulations effective February 1, 1965, as amended by 
+ 25-1 through 25-40, plus FAR 25.1335, 25.1351(d), 25.1353(c)(5), and 25.1447 of 
+ Amendment 25-41; FAR 25.29, FAR 25.255, and FAR 25.1353(c)(6) of Amendment 
+ 25-42; and FAR 25.361(b) and 25.1329(h) of Amendment 25-46. Part 36 of the Federal 
+ Aviation Regulations effective December 1, 1969, as amended by 36-1 through 36-17; 
+ SFAR 27 effective February 1, 1974, as amended by 27-1 through 27-5; and Special 
+ Conditions No. 25-ANM-32 dated February 22, 1990 (High Altitude Operation at 45,000 
+ feet), and Special Conditions No. 25-ANM-33 dated June 18, 1990 (Lightning and 
+ Radio Frequency Energy Protection). (See NOTE 12) 
+ Equivalent Safety Items 
+ (1) Out-of-trim characteristics FAR 25.255 
+ (2) Pilot compartment view FAR 25.773(b)(2) 
+ (3) Passenger compartment door FAR 25.813(e) 
+ (4) Emergency exit marking FAR 25.811(d)(1) and 25.811(d)(2) 
+ Application for amended Type Certificate dated February 18, 1988."
+Production Basis,"PC-8, RK-1, RK-3, RK-6, RK-8, RK-9, RK-12 and On. 
+ TC only - RK-2, RK-4, RK-5, RK-7, RK-10, and RK-11; prior to standard 
+ airworthiness, aircraft must be inspected and flight tested by FAA."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification."
+NOTE 1,"Current weight and balance report including list of equipment included in certificated empty weight 
+ and loading instructions when necessary must be provided for each aircraft at the time of original 
+ certification. 
+ The certificated empty weight and corresponding center of gravity location must include: 
+ Unusable fuel (two wing tanks) 
+ 48.0 lb. at +277.8 
+ Unusable fuel (six fus. tanks) 
+ 8.0 lb. at +319.7 
+ Undrainable oil (two engines) 
+ 2.4 lb. at +342.2 
+ Hydraulic fluid 
+ 8.3 lb. at +349.6"
+NOTE 2,"The aircraft must be operated according to the following FAA Approved Airplane Flight Manuals: 
+ a. 
+ When equipped w/Electro-Mechanical Avionics and no autopilot: Beech Part Number 128-590001-75 
+ dated June 20, 1990, or later. 
+ b. 
+ When equipped w/Collins Proline IV Avionics with two-tube EFIS display and APS-850 autopilot: 
+ RK-1 through RK-23: Beech Part Number 128-590001-91 dated November 20, 1990, or later. 
+ (See Note 7) 
+ RK-24 through RK-92: Beech Part Number 128-590001-107 dated October 16, 1991, or later. 
+ c. 
+ When equipped w/Collins Proline IV Avionics with three or four-tube EFIS (PFD) and APS-850 
+ or APS-4000 autopilot: 
+ RK-1 through RK-23: Beech Part Number 128-590001-95 dated November 27, 1990, or later. 
+ (See Note 8) 
+ RK-24 through RK-92: Beech Part Number 128-590001-109 dated October 18, 1991, or later. 
+ (See Note 9) 
+ RK-93 and after: Beech Part Number 128-590001-167 dated July 13, 1994."
+NOTE 3,"Airworthiness Limitations containing overhaul times, replacement times, and special inspections 
+ required for continued airworthiness are listed in the following manuals: 
+ Section 4 of Maintenance Manual, Part No. 128-590001-9 and Structural Repair Manual, Part 
+ No. 128-590001-17."
+NOTE 4,"The toilet seat is certified as a side-facing seat approved for takeoff, flight, and landing."
+NOTE 5,"If Beech Kit 128-8001-1 is installed, landing weight is at 15,700 lbs."
+NOTE 6,"Static thrust standard day, sea level, for takeoff (5 min.) is 2,965 lb., and Flaps 20o is available for takeoff if 
+ the following conditions are met- 
+ RK-1 through RK-23: Beech Kits 128-8001-1 and 128-5025-3 must be installed. 
+ RK-24 through RK-44 and RK-46, RK-47, RK-48: Beech Kit 128-5025-3 must be installed. 
+ RK-45, RK-49 through RK-92: Beech Kit 128-5025-1 must be installed."
+NOTE 7,"Beech Part Number 128-590001-107 dated October 11, 1991 or later if Beech Kit 128-8001-1 is installed."
+NOTE 8,"Beech Part Number 128-590001-109 dated October 18, 1991, or later if Beech Kit 128-8001-1 is installed. 
+ Beech Part Number 128-590001-167 dated July 13, 1994, if Beech Kits 128-5025-3 and 128-8001-1 are 
+ both installed."
+NOTE 9,"Beech Part Number 128-590001-167 dated July 13, 1994, if the following conditions are met- 
+ RK-24 through RK-44, and RK-46, RK-47, RK-48: Beech Kit 128-5025-3 must be installed 
+ RK-45, RK-49 through RK-92: Beech Kit 128-5025-1 must be installed Equipment"
+NOTE 10,"Company name change effective 4/15/96. The following serial numbers are manufactured under the name 
+ of Raytheon Aircraft Company: RK-98, RK-100 through RK-484, RK-486 through RK-511, and RK 514."
+NOTE 11,"Kit 128-5202-0001, ""Kit-Increased Gross Takeoff Weight, 200 Pound"" may be installed on all Beechjet 400A 
+ aircraft. Configuration upgrades are required for earlier Serial Numbers with definition listed below: 
+ RK-1 to RK-23: requires kit 128-8001 ""Kit-Increased Landing Weight Modification"" and kit 128-5025-3 
+ ""Takeoff Performance Improvement"" installation before kit 128-5052-0001 ""Kit-Increased Gross Takeoff 
+ Weight, 200 Pound"" may be installed. 
+ RK-24 to RK-92: requires kit 128-5025-1 or kit 128-5025-3 ""Kit - Takeoff Performance Improvement"" 
+ installation before kit 128-5052-0001 ""Kit - Increased Gross Takeoff Weight, 200 Pound"" may be installed. 
+ RK-93 THRU RK-346: 128-5052-0001 ""Kit - Increased Gross Takeoff Weight, 200 Pound"" may be installed 
+ without any other aircraft modification. 
+ RK-347 & After: The increased Gross Takeoff Weight, 200 Pound is installed in production."
+NOTE 12,"Airplane model 400A is the subject of Special Condition related to operation at high altitude. This special 
+ condition includes pressurization system requirements, as well as damage tolerance requirements on the pressure 
+ vessel. Therefore, any changes to the pressurization system or modifications or repairs to the pressure vessel 
+ must be approved in accordance with the requirements defined in the special condition. 
+ The damage tolerance requirements in the special condition are specified in terms of cabin altitude time history, 
+ which is a function of the cabin leak rate. For model 400A the specified cabin altitude time history requirement 
+ can be met with a pressure vessel opening of 1.0 square inches (assuming an emergency descent). The 
+ determination of an equivalent crack length will depend upon the particular location of the crack, the pressure 
+ vessel configuration in that location, and the direction of the crack, etc. The approval of modifications and/or 
+ repairs must take into account the requirements of the special condition and how they apply to the particular 
+ location and configuration being modified or repaired. The resulting inspection program must also consider 
+ other applicable structural criteria."
+NOTE 13,RK-106 through RK-507 may install JT15D-5R by installation of RAC Kit 128-9008-1.
+NOTE 14,"Company name change effective 3-26-07. The following serial numbers are manufactured under the name of 
+ Hawker Beechcraft Corporation: RK-485, RK-512, RK-513 and RK-515 through RK-604."
+"III. Model 400T (T-1A), (TX) Beechjet, (Transport Category), Approved November 27, 1991",
+Engines,"2 Pratt & Whitney Canada JT15D-5B turbofans (TT-1 and up) 
+ 2 Pratt & Whitney Canada JT15D-5F turbofans (TX-1 and up)"
+Fuel,"Commercial kerosene Jet A, Jet A-1, Jet B, JP-4, JP-5, or JP-8. 
+ Fuel not containing icing inhibitors must have MIL-I-27686D or MIL-I-85470A fuel 
+ system icing inhibitor added in amounts of not less than 0.10% or more than 0.15% by 
+ volume. See Airplane Flight Manual for blending anti-icing additive to fuel. 
+ Temperature: 
+ Minimum -40° C. 
+ Maximum 50° C."
+Engine Limits,"Static thrust standard day, sea level: 
+ Takeoff (5 min.) 
+ 2,900 lb. 
+ Max. continuous 
+ 2,900 lb. 
+ Max. permissible engine rotor operating speeds: 
+ N1 (Fan) 
+ 104% 
+ 16,540 r.p.m. 
+ N2 (Gas Gen.) 
+ 96% 
+ 31,450 r.p.m. 
+ Max. permissible interturbine gas temperatures: 
+ Takeoff 
+ 700° C. 
+ Max. continuous 
+ 680° C. 
+ Starting Transient (2 sec.) 
+ 700° C. 
+ Airspeed Limits (IAS) 
+ VMO (Maximum Operating Speed) 
+ 330 knots, Sea level to 24,800 ft. 
+ MMO = 0.78 MACH above 24,800 ft. 
+ VA (Maneuvering Speed) 
+ 210 Knots 
+ At Sea Level 
+ 213 Knots 
+ At 20,000 ft. 
+ Note: Linear variation between sea level and 20,000 ft. 
+ 246 Knots At 38,000 ft. 
+ Note: Linear variation between 20,000 ft. and 38,000 ft. 
+ 0.78 MACH From 38,000 ft. to 41,000 ft. 
+ VFE (Flaps Extended) 
+ 165 Knots 
+ Flaps 30° 
+ 200 Knots 
+ Flaps 10° 
+ VMCA (Min. Control Speed Air) 
+ = 89 Knots 
+ VMCG (Min. Control Speed Ground) 
+ = 88 Knots 
+ VLO (Landing Gear Operating) 
+ = 200 Knots 
+ VLE (Landing Gear Extended) 
+ = 200 Knots"
+CG Range Landing,CENTER OF GRAVITY FLIGHT ENVELOPE
+Gear Extended,"Fuselage fuel is restricted as specified for Zones A, B, and C with full wing fuel: 
+ ZONE A 
+ Any amount of fuselage fuel up to full tanks. 
+ ZONE B 
+ The difference between ZFW and 13,530 pounds may be loaded in fuselage 
+ tanks. 
+ ZONE C 
+ Fuselage tanks limited to the value shown on the guideline appropriate 
+ ZFW location. 
+ NOTE: Zones A, B and C Notation Applies to Model 400T(TX) Only."
+Empty Wt CG Range,None
+Maximum Weight,"Takeoff 
+ 16,100 lb. 
+ Landing 
+ 15,700 lb. 
+ Zero fuel 
+ 13,000 lb. 
+ Ramp 
+ 16,300 lb."
+Minimum Crew,For all flights: 2 persons (pilot and co-pilot)
+Number of Seats,"2 (Crew) + 1 (Observer) (TT-1 and up) 
+ 2 (Crew) + 1 (Observer) + 4 (Passengers) (TX-1 and up)"
+Fuel Capacity Gal,"Total 
+ Usable 
+ Arm"
+Model 400TT1A,"Pressurized Fueling 
+ Two wing tanks: 
+ 208 ea. 
+ 204.5 ea. 
+ +276.5 
+ Four fuselage tanks: 
+ 363 
+ 362 
+ +304.4 
+ Gravity Fueling 
+ Two wing tanks: 
+ 215 ea. 
+ 211.5 ea. 
+ +276.5 
+ Four fuselage tanks: 
+ 317 
+ 316 
+ +303.4 
+ See NOTE 1 for data on unusable fuel."
+Model 400TTX,"Pressurized Fueling 
+ Two wing tanks: 
+ 220 ea. 
+ 216.4 ea. 
+ +276.5 
+ Four fuselage tanks: 
+ 365 
+ 364 
+ +304.4"
+Fuel Capacity Gal,"Gravity Fueling 
+ Two wing tanks: 
+ 215 ea. 
+ 211.5 ea. +276.5 
+ Four fuselage tanks: 
+ 317 
+ 316 
+ +303.4 
+ See NOTE 1 for data on unusable fuel."
+Oil Capacity Gal,"Two engine mounted tanks: 
+ Total 2.03 each; usable 1.20 each; ARM = +342.2 
+ See NOTE 1 for data on undrainable oil."
+Maximum Operating Altitude,"41,000 ft."
+Control Surface Movements,"Spoiler inboard 
+ Up 68° 
+ Down 14° 
+ Spoiler outboard 
+ Up 72° 
+ Down 14° 
+ Lateral trim 
+ Up 25° 
+ Down 25° 
+ Elevator 
+ Up 25° 
+ Down 12° 
+ *Pitch 
+ L.E. Up 123.8 
+ L.E. Down 12.8 
+ Rudder 
+ Right 30° 
+ Left 30° 
+ Rudder trim 
+ Right 30° 
+ Left 30° 
+ Flap 
+ Full 30° 
+ Speed brake 
+ 36° 
+ Yaw damper/Rudder Boost Function through primary rudder. 
+ See Drawing 45A00601 for rigging tolerance. 
+ *Length of the trim actuator jack screw in millimeters (mm). 
+ See drawing for details."
+Serial Nos Eligible,"TT-1 and On (T-1A). See NOTE 5. 
+ TX-1 and On (TX). See NOTE 5."
+Datum,Located 71.65 in. forward of the front face of the forward pressure bulkhead.
+MAC,73.11 in. (L.E. of MAC at +251.09)
+Leveling Means,Seat rails
+Certification Basis,"Part 25 of the Federal Aviation Regulations effective February 1, 1965, as amended by 
+ 25-1 through 25-40, plus FAR 25.1335, 25.1351(d), 25.1353(c)(5), and 25.1447 of 
+ Amendment 25-41; FAR 25.29, FAR 25.255, and FAR 25.1353(c)(6) of Amendment 
+ 25-42; and FAR 25.361(b) and 25.1329(h) of Amendment 25-46; and FAR 25.561, 
+ 25.562, 25.773, 25.783(j), 25.785, 25.853, 25.863, 25.1331, 25.1351(c), 25.1585(d), and 
+ 25.1585(e) of Amendment 25-70. Part 36 of the Federal Aviation Regulations effective 
+ December 1, 1969, as amended by 36-1 through 36-18; Part 34 of the Federal Aviation 
+ Regulations effective September 10, 1990; Special Conditions No. 25-ANM-33 dated 
+ June 18, 1990 (Lightning and Radio Frequency Energy Protection)."
+Equivalent Safety Items,"(1) Out-of-trim characteristics FAR 25.255 
+ (2) Pilot compartment view FAR 25.773(b)(2) 
+ (3) Emergency exit marking FAR 25.811(d)(1) and 25.811(d)(2) 
+ Application for amended Type Certificate dated March 23, 1990."
+Production Basis,"None - S/N TT-1 through TT-3. Production Certificate No. 8 - S/N TT-4 and On and 
+ S/N TX-1 and On."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification."
+NOTE 1,"Current weight and balance report including list of equipment included in certificated empty weight and 
+ loading instructions when necessary must be provided for each aircraft at the time of original certification. 
+ The certificated empty weight and corresponding center of gravity location must include: 
+ Unusable fuel (two wing tanks) 
+ 48.0 lb. at +277.8 (These weights are based on a 
+ Unusable fuel (four fus. tanks) 
+ 5.7 lb. at +277.8 fuel specific weight of 6.701 
+ Total unusable fuel 
+ 53.7 lb. at +277.8 lb. per gallon) 
+ Undrainable oil (two engines) 
+ 2.4 lb. at +342.2 
+ Hydraulic fluid 
+ 8.3 lb. at +349.6"
+NOTE 2,"The aircraft must be operated according to the FAA Approved Airplane Flight Manuals Beech Part 
+ Number 132-590002-5 (TT-1 and On) or 134-590002-1 (TX-1 and On)."
+NOTE 3,"Airworthiness Limitations containing overhaul times, replacement times, and special inspections 
+ required for continued airworthiness are listed in Section 4 of the Maintenance Manual, Beech Part 
+ No. 132-590002-3 (TT-1 and On) or 134-590002-5 (TX-1 and On)."
+NOTE 4,"The following models must be modified to be eligible for civil registration in the transport category. The 
+ Beech mod drawing identifies all required changes. 
+ Model 
+ Manufactured Config. 
+ Beech Mod. 
+ 400T 
+ T-1A Jayhawk 
+ 132-005002 
+ Transport Category 
+ 400T 
+ TX 
+ 134-005000 
+ Transport Category"
+NOTE 5,"Company name change effective 4/15/96. The following serial numbers are manufactured under the name 
+ of Raytheon Aircraft Company: 400T(T-1A): TT-131, TT-138, TT-139, TT-143 through TT-180. 
+ 400T(TX): TX-9 through TX-13."
+NOTE 6,"Model 400T(T-1A) aircraft must have Collins TCAS II System updated to collision avoidance system logic 
+ 6.04A to be eligible for civil registration."

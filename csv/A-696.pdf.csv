@@ -1,0 +1,754 @@
+Keyterm,Info
+"A-696 
+ Revision 26 
+ Taylorcraft 2000, LLC 
+ BC 
+ BCS12-D 
+ BCS 
+ BC12-D1 
+ BC-65 
+ BCS12-D1 
+ BCS-65 
+ BC12D-85 
+ BC12-65 (Army L-2H) 
+ BCS12D-85 
+ BCS12-65 
+ BC12D-4-85 
+ BC12-D 
+ BCS12D-4-85 
+ March 22, 2022",
+Type Certificate Holder,"Taylorcraft 2000, LLC 
+ Dba Aircraft Taylorcraft Co., LLC 
+ 815 N Minnesota Avenue 
+ Brownsville, TX 78521"
+Type Certificate Ownership Record,"Taylorcraft Corporation transferred ownership to Syncron, Inc. on October 19, 1994. 
+ Syncrom, Inc. transferred ownership to Airborne Marketing, Inc. on January 8, 1997. 
+ Airborne Marketing, Inc. transferred ownership to Lee F. Booth on April 26, 1999. 
+ Lee F. Booth, dba Taylorcraft Aerospace, transferred ownership to Harvey & Vera 
+ Patrick Foundation, Inc. on May 10, 2000. 
+ Harvey & Vera Patrick Foundation, Inc. transferred ownership to Taylorcraft 2000, LLC 
+ on August 8, 2000 
+ Taylorcraft 2000 LLC transferred ownership to Taylorcraft Aviation LLC on 
+ March 5, 2003 
+ Taylorcraft Aviation LLC, 2124 N. Central Ave., Brownsville, TX 78521 transferred 
+ ownership to Taylorcraft 2000 LLC on May 21, 2008 
+ Taylorcraft 2000 LLC transferred to Taylorcraft 2000 LLC Dba Aircraft Taylorcraft Co., 
+ LLC on October 7, 2009."
+"I - Model BC, 2 PCLM, Approved August 24, 1938; Model BCS, 2 PCSM, Approved April 5, 1939",
+Engine,Continental A-50-1 (see item 114(a) for optional engines)
+Fuel,73 min. grade aviation gasoline
+Engine Limits,"For all operations, 1900 r.p.m. (50 hp.)"
+Propeller Limits,Diameter: Maximum 83 in.
+Airspeed Limits,"Landplane: Level flight or climb 
+ 105 m.p.h. (91 knots)"
+True Indicated,"Glide or dive 
+ 131 m.p.h. (114 knots) 
+ Seaplane: 
+ Level flight or climb 
+ 95 m.p.h. (83 knots) 
+ Glide or dive 
+ 129 m.p.h. (112 knots)"
+Center of Gravity,Landplane: (+14.5) to (+19.7)
+CG Range,"Seaplane: 
+ (+15.1) to (+19.4)"
+Empty Weight CG Range,"Landplane: (+15.3) to (+18.5) 
+ Seaplane: 
+ (+15.9) to (+18.3) 
+ When empty weight C.G. falls within pertinent range, computation of critical fore and aft 
+ C.G. positions is unnecessary. Ranges are not valid for non-standard arrangements."
+Maximum Weight,"Landplane: 1100 lb. (S/N 1407 and up are eligible at 1150 lb.) 
+ Seaplane: 
+ 1228 lb."
+Number of Seats,2 (+23)
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12"
+Rev No,"25 
+ 16 
+ 16 
+ 16 
+ 16 
+ 16 
+ 16 
+ 16 
+ 16 
+ 16 
+ 16 
+ 16"
+Maximum Baggage,30 lb. (+40)
+Fuel Capacity,12 gal. (-9). See item 115 for auxiliary tank.
+Oil Capacity,4 qt. (-21)
+Control Surface Movements,"Elevators 
+ Up 25o 
+ Down 27o 
+ Rudders 
+ Right 26o 
+ Left 26o 
+ Ailerons 
+ (Not available)"
+Serial No Eligible,1001 and up
+Required Equipment,"Landplane: 1 or 4, 104, 202, 203, 210(a), 401 
+ Seaplane: 
+ 1 or 4, 104, 205, 401"
+"II - Model BC-65, 2 PCLM, Approved July 22, 1939; Model BCS-65, 2 PCSM, Approved October 7, 1939 
+ (Same as Model BC except engine installation)",
+Engine,Continental A-65-1 (see item 114(b) for optional engines)
+Fuel,73 min. grade aviation gasoline
+Engine Limits,"For all operations, 2350 r.p.m. (65) hp.)"
+Propeller Limits,"Static r.p.m. at full throttle: 
+ A-65-1 engine, not over 2300, not under 2070 
+ Optional engines, not over 2250, not under 2070 
+ No additional tolerance permitted. 
+ Diameter: 
+ (landplane) not over 83 in., not under 70 in. 
+ (seaplane) not over 79 in., not under 70 in."
+Airspeed Limits,Landplane: Level flight or climb 105 m.p.h. (91 knots)
+True Indicated,"Glide or dive 
+ 131 m.p.h. (114 knots) 
+ Seaplane: 
+ Level flight or climb 
+ 95 m.p.h. (83 knots) 
+ Glide or dive 
+ 129 m.p.h. (112 knots)"
+Center of Gravity CG Range,"Landplane: (+14.5) to (+19.7) 
+ Seaplane: 
+ (+15.1) to (+20.1)"
+Empty Weight CG Range,"Landplane: (+15.3) to (+18.5) 
+ Seaplane: 
+ (+15.9) to (+19.0) 
+ When empty weight C.G. falls within the pertinent range, computation of critical fore and 
+ aft C.G. positions is unnecessary. Ranges are not valid for non-standard arrangements."
+Maximum Weight,"Landplane: 1100 lb. (S/N 1407 and up are eligible at 1150 lb.) 
+ Seaplane: 
+ 1228 lb. (S/N 1432 and up are eligible at 1278 lb.)"
+Number of Seats,2 (+23)
+Maximum Baggage,30 lb. (+40)
+Fuel Capacity,12 gal. (-9). (See item 115 for auxiliary tank).
+Oil Capacity,4 qt. (-21)
+Control Surface Movements,"Elevators 
+ Up 27o 
+ Down 25o 
+ Rudders 
+ Right 26o 
+ Left 26o 
+ Ailerons 
+ (Not available)"
+Serial No Eligible,1001 and up
+Required Equipment,"Landplane: Items 1, 2, 3, 4, or *8; 104, 202, 203, 210(a), 401 
+ Seaplane: 
+ Items 1, 3, 4 or *8; 104, 205, 401"
+"III - Model BC12-65 (Army L-2H), 2 PCL-SM, Approved April 7, 1941; Model BCS12-65, 2 PCL-SM, 
+ Approved April 7 1941 
+ (Same as Model BC-65 except for minor structural changes and added elevator trim tab).",
+Engine,Continental A-65-7 (see item 114(c) for optional engines)
+Fuel,73 min. grade aviation gasoline
+Engine Limits,"For all operations, 2300 r.p.m. (65 hp.)"
+Propeller Limits,"Static r.p.m. at full throttle: not over 2250, not under 2070. 
+ No additional tolerance permitted. 
+ Diameter: not over 72 in., not under 70 in."
+Airspeed Limits,"Landplane: Level flight or climb 
+ 105 m.p.h."
+True Indicated,"Glide or dive 
+ 140 m.p.h. 
+ Seaplane: 
+ Level flight or climb 
+ 95 m.p.h. 
+ Glide or dive 
+ 129 m.p.h."
+Center of Gravity CG Range,"Landplane: (+14.2) to (+20.0) 
+ Seaplane: 
+ (+14.2) to (+20.0) with Edo floats (item 205) 
+ (+14.6) to (+20.0) with Heath floats (item 211)"
+Empty Weight CG Range,"Landplane: (+14.8) to (+17.9) 
+ Seaplane: 
+ (+14.8) to (+18.3) with Edo floats (item 205) 
+ (+15.2) to (+18.3) with Heath floats (item 211)"
+Maximum Weight,"Landplane: 1200 lb. 
+ Seaplane: 
+ 1278 lb."
+Number of Seats,2 (+23)
+Maximum Baggage,"Landplane: 50 lb. (+40): 
+ Seaplane: 
+ 30 lb. (+40)"
+Fuel Capacity,18 gal. (12 gal. in fuselage (-9) and 6 gal. in wing (+24)). See NOTE 3.
+Oil Capacity,4 qt. (-21)
+Control Surface Movements,"Elevators 
+ Up 27o 
+ Down 25o 
+ Elevator tab 
+ Up 25° 
+ Down 30° 
+ Ailerons 
+ Up 25° 
+ Down 25° 
+ Rudders 
+ Right 26o 
+ Left 26o"
+Serial No Eligible,"2401, 2501, 2503, 2504, 2529 and up and all USAF numbers. Use manufacturer’s 
+ numbers if available."
+Required Equipment,"Landplane: 1, 2, 4, 5, or *8; 104, 108, 202, 203, 210(a), 401 
+ Seaplane: 
+ 1 or 4, 104, 108; 205, 401"
+"IV - Model BC12-D, 2 PCLM, Approved November 23, 1945; Model BCS-12D, 2 PCSM, Approved February 19, 1946 
+ (Same as Model BC12-65 except for alternate tail surface, revised aileron travel, alternate one piece windshield and other 
+ miscellaneous structural and non-structural changes). (Model BC12-D1 eligible as Model BC12-D when items 601 and 204 
+ and 6 gal. right-hand wing tank are installed).",
+Engine,Continental A-65-8 (see item 114(d) for optional engines)
+Fuel,73 min. grade aviation gasoline
+Engine Limits,"For all operations, 2300 r.p.m. (65 hp.)"
+Propeller Limits,"Static r.p.m. at full throttle: not over 2250, not under 2070. 
+ No additional tolerance permitted. 
+ Diameter: not over 72 in., not under 70 in."
+Airspeed Limits,"Landplane: Level flight or climb 
+ 105 m.p.h."
+True Indicated,"Glide or dive 
+ 140 m.p.h. 
+ Seaplane: 
+ Level flight or climb 
+ 95 m.p.h. 
+ Glide or dive 
+ 129 m.p.h."
+Center of Gravity CG Range,"Landplane: (+14.2) to (+20.0) 
+ Seaplane: 
+ (+14.2) to (+20.0) with Edo floats (item 205) 
+ (+14.6) to (+20.0) with Heath floats (item 211)"
+Empty Weight CG Range,"Landplane: (+14.8) to (+17.9) 
+ Seaplane: 
+ (+14.8) to (+18.3) with Edo floats (item 205) 
+ (+15.2) to (+18.3) with Heath floats (item 211) 
+ When empty weight C.G. falls within pertinent range, computation of critical fore and aft 
+ C.G. positions is unnecessary. Ranges are not valid for non-standard arrangements."
+Maximum Weight,"Landplane: 1200 lb. 
+ Seaplane: 
+ 1278 lb."
+Number of Seats,2 (+23)
+Maximum Baggage,"Landplane: 50 lb. (+40) 
+ Seaplane: 
+ 30 lb. (+40)"
+Fuel Capacity,18 gal. (12 gal. fuselage tank at (-9) and 6 gal. wing tank at (+24). See NOTE 3.
+Oil Capacity,4 qt. (-21)
+Control Surface Movements,"Elevators 
+ Up 27o 
+ Down 25o 
+ Elevator tab 
+ Up 25° 
+ Down 30° 
+ Ailerons 
+ Up 23° 
+ Down 23° 
+ Rudders 
+ Right 26o 
+ Left 26o"
+Serial No Eligible,6402 and up
+Required Equipment,"Landplane: 1, 2, 3, 4, or *8; 104, 108, 202, 203, 210(a), 401 
+ Seaplane: 
+ 1, 3, 4 or *8; 104, 108, 205, 401"
+"V - Model BC12-D1, 2 PCLM-SM, Approved September 10, 1946; Model BCS12-D1, 2 PCL-SM, 
+ Approved September 10 1946 
+ (Same as Model BC12-D except for elimination of left hand door (item 601), parking brake (item 204) and 6 gal. R/H wing 
+ tank) (Model BC12-D1 eligible as BC12-D when items 601 and 204 and 6 gal. right-hand wing tank are installed)",
+Engine,Continental A-65-8 (See item 114(d) for optional engines)
+Fuel,73 min. grade aviation gasoline
+Engine Limits,"For all operations, 2300 r.p.m. (65 hp.)"
+Propeller Limits,"Static r.p.m. at full throttle; not over 2250, not under 2070. No additional tolerance 
+ permitted. 
+ Diameter: not over 72 in., not under 70 in."
+Airspeed Limits,"Landplane: Level flight or climb 
+ 105 m.p.h."
+True Indicated,"Glide or dive 
+ 140 m.p.h. 
+ Seaplane: 
+ Level flight or climb 
+ 95 m.p.h. 
+ Glide or dive 
+ 129 m.p.h."
+Center of Gravity CG Range,"Landplane: (+14.2) to (+20.0) 
+ Seaplane: 
+ (+14.2) to (+20.0) with Edo floats (item 205) 
+ (+14.6) to (+20.0) with Heath floats (item 311)"
+Empty Weight CG Range,"Landplane: (+14.8) to (+17.9) 
+ Seaplane: 
+ (+14.8) to (+18.3) with Edo floats (item 205) 
+ (+15.2) to (+18.3) with Heath floats (item 311) 
+ When empty weight C.G. falls within the pertinent range, computation of critical fore and 
+ aft C.G. positions is unnecessary. Ranges are not valid for non-standard arrangements."
+Maximum Weight,"Landplane: 1200 lb. 
+ Seaplane: 
+ 1278 lb."
+Number of Seat,2 (+23)
+Maximum Baggage,"Landplane: 50 lb. (+40) 
+ Seaplane: 
+ 30 lb. (+40)"
+Fuel Capacity,12 gal. (-9)
+Oil Capacity,4 qt. (-21)
+Control Surface Movements,"Elevators 
+ Up 27o 
+ Down 25o 
+ Elevator tab 
+ Up 25° 
+ Down 30° 
+ Ailerons 
+ Up 23° 
+ Down 23° 
+ Rudders 
+ Right 26o 
+ Left 26o"
+Serial No Eligible,6402 and up
+Required Equipment,"Landplane: 1, 2, 3, 4 or *8; 104, 108, 202, 203, 210(a), 401 
+ Seaplane: 
+ 1, 3, 4 or *8; 104, 108, 205, 401"
+"VI - Model BC12D-85, 2 PCL-SM, Approved September 30, 1948; Model BCS12D-85, PCL-SM, Approved September 30, 1948 
+ (Same as Model BC12-D except for increased power and gross weight, fuel system changes, auxiliary wing fuel tank, 
+ revised wing fittings and minor structural changes)",
+Engines,Continental C85-8F
+Fuel,80 min. grade aviation gasoline
+Engine Limits,"For all operations, 2575 r.p.m. (85 hp.)"
+Propeller Limits,"Static r.p.m. at maximum permissible throttle setting (no additional tolerance permitted): 
+ Landplane: not over 2350, not under 2100 
+ Seaplane: 
+ not over 2310, not under 2010 (exception: not under 2100 with item 205(a)) 
+ Diameter: 
+ Landplane: not over 72 in., not under 68 in. 
+ Seaplane: not over 72 in., not under 70 in."
+Airspeed Limits,"Landplane: Level flight or climb 
+ 105 m.p.h. (91 knots)"
+True Indicated,"Glide or dive 
+ 142 m.p.h. (124 knots) 
+ Seaplane: 
+ Level flight or climb 
+ 95 m.p.h. (83 knots) 
+ Glide or dive 
+ 128 m.p.h. (111 knots)"
+Center of Gravity CG Range,"Landplane: (+14.2) to (+20.0) 
+ Seaplane: 
+ (+15.8) to (+17.6) at 1351 lb. 
+ (+13.4) to (+17.6) at 1200 lb. or less 
+ Straight line variation between points given 
+ 1400 
+ BCS12D-85 
+ 1300 
+ AFT 
+ LIMIT 
+ LB. 
+ 1200 
+ FRONT 
+ LIMIT 
+ 1100 
+ 1000 
+ 12 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ INCHES"
+Empty Weight CG Range,"Landplane: (+14.8) to (+17.9) 
+ Seaplane: 
+ (+13.7) to (+15.1) 
+ When empty weight C.G. falls within the pertinent range, computation of critical fore and 
+ aft C.G. positions is unnecessary. Ranges are not valid for non-standard arrangements."
+Maximum Weight,"Landplane: 1280 lb. 
+ Seaplane: 
+ 1351 lb."
+Number of Seats,2 (+23)
+Maximum Baggage,"Landplane: 50 lb. (+40) 
+ Seaplane: 
+ 30 lb. (+40)"
+Fuel Capacity,18 gal. (12 gal. tank in fuselage at (-9) and 6 gal. tank in wing at (+24)). See NOTE 3
+Oil Capacity,4 1/2 qt. (-21)
+Control Surface Movements,"Elevators 
+ Up 27o 
+ Down 25o 
+ Elevator tab 
+ Up 25° 
+ Down 30° 
+ Ailerons 
+ Up 23° 
+ Down 23° 
+ Rudders 
+ Right 26o 
+ Left 26o"
+Serial No Eligible,12001 and up
+Required Equipment,"Landplane: 1, 4, 6, 7 or *9; 104, 108, 202, 206, 210(a), 401 
+ Seaplane: 
+ 1, 4, 6, 7 or *9; 104, 108, 205, 401"
+"VII - Model BC12-D-4-85, 2 PCL-SM, Approved July 13, 1949; Model BCS12D-4-85, 2 PCL-SM, 
+ Approved July 13 1949 
+ (Same as Model BC12D-85 except for engine, baggage compartment , side windows and sky-lights)",
+Engine,Continental C85-12F
+Fuel,80 min. grade aviation gasoline
+Engine Limits,"For all operations, 2575 r.p.m. (85 hp.)"
+Propeller Limits,"Static r.p.m. at maximum permissible throttle setting (no additional tolerance permitted): 
+ Landplane: not over 2350, not under 2100 
+ Seaplane: 
+ not over 2310, not under 2010 
+ (exception: not under 2100 with item 205(a)) 
+ Diameter: 
+ Landplane - not over 72 in., not under 68 in. 
+ Seaplane - not over 72 in., not under 70 in."
+Airspeed Limits,"Landplane: Level flight or climb 
+ 105 m.p.h. (91 knots)"
+True Indicated,"Glide or dive 
+ 142 m.p.h. (124 knots) 
+ Seaplane: 
+ Level flight or climb 
+ 95 m.p.h. (83 knots) 
+ Glide or dive 
+ 128 m.p.h. (111 knots)"
+Center of Gravity CG Range,"Landplane: (+14.2) to (+20.0) 
+ Seaplane: 
+ (+15.8) to (+17.6) at 1351 lb. 
+ (+13.4) to (+17.6) at 1200 lb. or less 
+ Straight line variation between points given. (See Figure under Section VI)"
+Empty Weight CG Range,"Landplane: (+14.9) to (+16.3) 
+ Seaplane: 
+ (+13.8) to (+14.3) 
+ When empty weight C.G. falls within the pertinent range, computation of critical fore and 
+ aft C.G. positions is unnecessary. Ranges not valid for non-standard arrangements."
+Maximum Weight,"Landplane: 1280 lb. 
+ Seaplane: 
+ 1351 lb."
+Number of Seats,2 (+23)
+Maximum Baggage,"Landplane: 50 lb. (+70) 
+ Seaplane: 
+ 30 lb. (+70)"
+Fuel Capacity,18 gal. (12 gal. tank in fuselage at (-9) and 6 gal. tank in wing at (+24)). See NOTE 3.
+Oil Capacity,4 1/2 qt. (-30)
+Control Surface Movements,"Elevators 
+ Up 27o 
+ Down 25o 
+ Elevator tab 
+ Up 25° 
+ Down 30° 
+ Ailerons 
+ Up 23° 
+ Down 23° 
+ Rudders 
+ Right 26o 
+ Left 26o"
+Serial No Eligible,4-13010 and up
+Required Equipment,"Landplane: 1, 4, 6, 7 or *9; 104, 108, 202, 206, 210(a), 401 
+ Seaplane: 
+ 1, 4, 6, 7 or *9; 104, 108, 205, 401"
+Specifications Pertinent to all Models,
+Datum,Leading edge of wing
+Leveling Means,Upper surface of horizontal stabilizer
+Certification Basis,"Part 04 of the Civil Air Regulations effective as amended to May 1, 1938. Type 
+ Certificate No. 696 issued."
+Production Basis,"None. Prior to original certification, an FAA representative must perform a detailed 
+ inspection for workmanship, materials and conformity with the approved technical data, 
+ and a check of the flight characteristics."
+Export Eligibility,"Eligible for export to all countries subject to the provisions of Advisory Circular 21-2, 
+ except as follows: 
+ Canada - Landplane and seaplane eligible with the exception of Model BC12-D1. 
+ Model BC12-D1 eligible provided auxiliary door (item 601) is installed. 
+ - Skiplane not eligible; however, structure complies with Canadian 
+ requirements as follows: 
+ (1) At 1100 lb. maximum weight - landing gear per dwg. B-A50, ski 
+ height 10 in., tread 72 in. (centerline of ski 5.19 in. out from center of 
+ bolt attaching diagonal streamlined member to axle). 
+ (2) At 1150 and 1200 lb. maximum weight - landing gear per dwg. B- 
+ A515, ski height 9 in., tread 72 in. (centerline of ski 5.19 in. out from 
+ center of bolt attaching diagonal streamline member to axle)."
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item indicated net weight change when that item is 
+ installed. Approval for the installation of all items of equipment listed herein has been obtained by the 
+ aircraft manufacturer except those items preceded by an asterisk (*). This symbol denotes that approval has 
+ been obtained by someone other than the aircraft manufacturer. An item so marked may not have been 
+ manufactured under an FAA monitored or approved quality control system, and therefore conformity must be 
+ determined if the item is not identified by a Form FAA-186. PMA or other evidence of FAA production 
+ approval."
+Special Note,"So that all items of equipment might be in their proper categories, the following items were renumbered as 
+ indicated: 
+ 1/ Item 1 was formerly item 103(a) 
+ 15/ Item 203 was formerly item 102 
+ 2/ Item 2 was formerly item 103(b) 
+ 16/ Item 204 was formerly item 107 
+ 3/ Item 3 was formerly item 103(c) 
+ 17/ Item 205 was formerly item 151 
+ 4/ Item 4 was formerly item 103(d) 
+ 18/ Item 206 was formerly item 302 
+ 5/ Item 5 was formerly item 103(e) 
+ 19/ Item 207 was formerly item 304 
+ 6/ Item 6 was formerly item 103(f) 
+ 20/ Item 208 was formerly item 305 
+ 7/ Item 7 was formerly item 103(g) 
+ 21/ Item *209 was formerly item *316 
+ 8/ Item *8 was formerly item 103*(h) 
+ 22/ Item 210 was formerly item 317 
+ 9/ Item *9 was formerly item 108*(i) 
+ 23/ Item *211 was formerly item *320 
+ 10/ Item 114 was formerly item 308 
+ 24/ Item *212 was formerly item *321 
+ 11/ Item 115 was formerly item 312 
+ 25/ Item 401 was formerly item 105 
+ 12/ Item 116 was formerly item 313 
+ 26/ Item 402 was formerly item 306 
+ 13/ Item 117 was formerly item 315 
+ 27/ Item 403 was formerly item 314 
+ 14/ Item 202 was formerly item 101 
+ 28/ Item 601 was formerly item 106"
+1,"Approved wood (fixed or adjustable pitch). (See Static limits under 
+ All Except 
+ BC12D-4-85 
+ individual models and item 205(a) for minimum static r.p.m. limits for 
+ BC12D-4-85 & 
+ & 
+ Models (BCS12D-85 and BCS12D-4-85) 
+ BCS12D-4-85 
+ BCS12D-4-85 
+ 10 lb. (-46) 
+ 10 lb. (-50)"
+2,"Beech R003 controllable, hub R-002-101 or R-003-100, blades R-002- 
+ BC-65, BC12-65, 
+ 205-72. Diameter 72 in. Pitch at 27 in. sta.: low 11-3/4° high 17 3/4°. 
+ BC12-D & BC12-D1 
+ (Pitch limits under individual models are not applicable to these 
+ +20 lb. (-47) 
+ propellers). Includes Beech mechanical propeller control."
+3,"McCauley 1A90 with the following limits: 
+ BC-65, BCS-65, 
+ Static r.p.m. at maximum permissible throttle setting: 
+ BC12-D, BCS12-D, 
+ Landplane: not over 2210, not under 1960 
+ BC12-D1, BCS12-D1 
+ Seaplane: not over 2210, not under 2070 
+ +21 lb. (-46) 
+ No additional tolerance permitted. 
+ Diameter: not over 74 in., not under 72.5 inc"
+4,"Hartzell ground adjustable, hub HA-12U, blades 7414 to 6814 or 
+ All Except BC12D-4- 
+ BC12D-4-85 & 
+ 85 & BCS12D-4-85 
+ BCS12D-4-85 
+ 7214M to 6814M. Eligible at diameter and static r.p.m. limits shown 
+ 18 lb. (-46) 
+ 18 lb. (-50) 
+ above for fixed pitched wood models."
+5,"McCauley 1A90 with the following limits: Static r.p.m. at maximum 
+ BC12-65 
+ permissible throttle setting: not over 2250, not under 2070. 
+ 21 lb. (-46) 
+ No additional tolerance permitted. 
+ Diameter: not over 74 in., not under 72.5 in."
+6,"Lewis L11CK-45 or any other fixed pitch wood propeller eligible for 
+ BC12D-85 & 
+ BC12D-4-85 & 
+ the engine power and speed and meeting static r.p.m. and diameter 
+ BCS12D-85 
+ BCS12D-4-85 
+ limits noted for the various models eligible. 
+ +10 lb. (-46) 
+ +10 lb. (-50)"
+7,"McCauley 1A90 with the following limits: Static r.p.m. at maximum 
+ BC12D-85 & 
+ BC12D-4-85 & 
+ permissible throttle setting: not over 2350, not under 2170. 
+ BCS12D-85 
+ BCS12D-4-85 
+ No additional tolerance permitted. 
+ +21 lb. (-46) 
+ +21 lb. (-50) 
+ Diameter: not over 71 in., not under 69.5 in."
+8,"Sensenich M74CK, fixed pitch metal. 
+ BC-65, BC12-D, 
+ BCS-65, 
+ Static r.p.m. at maximum permissible throttle setting: 
+ BC12-D1, 
+ BCS12-D, 
+ Landplane: not over 2210, not under 1960 
+ BC12-65 
+ BCS12-D1 
+ Seaplane: not over 2210, not under 2070 
+ 21 lb. (-46) 
+ 21 lb. (-50) 
+ No additional tolerance permitted. 
+ Diameter: not over 74 in., not under 72.5 in."
+9,"Sensenich M74CK-2 fixed pitch metal. Static r.p.m. at maximum 
+ BC12D-85, 
+ BC12D-4-85, 
+ permissible throttle setting: not over 2350, not under 2170. 
+ BCS12D-85 
+ BCS12D-4-85, 
+ No additional tolerance permitted. 
+ 21 lb. (-46) 
+ 21 lb. (-50) 
+ Diameter: not over 72 in., not under 70 in."
+"No aircraft of these models shall be eligible for original certification with single ignition engines after August 1, 1941. In 
+ addition, no aircraft of these models shall be eligible for recertification with single ignition engines unless such aircraft were",
+104,Carburetor air heater (dwg. BC-L601)
+108,"Enclosed engine cowl (all except BC, BCS, BC-65, BCS-65)"
+109,"McDowell starter installation (BC-12D, BC12D-85) (BC-A6014 nose cowl must be 
+ 11 lb. (-34) 
+ installed)"
+110,"McDowell starter installation using horizontal operating handle (BC12-D, BCS12-D) 
+ 13 lb. (-34)"
+111,"Exhaust muffler, Ryan Aero. Co. dwg. 52112 (with items 114(b)(1) and (2) only) 
+ 2 lb. (-40)"
+112,"Oil filter, Fram PB-5, Kit No. 510. Weight includes 1 qt. oil 
+ 4 lb. (-20) 
+ (a) Fram Installation dwg. No. 61544 (BC, BCS, BC12-65, BCS12-65) 
+ (b) Fram Installation dwg. No. 61524 (BC12-D, BCS12-D, BC12-D1, BCS12-D1)"
+113,"Starter (Delco-Remy 1109656) (BC12D-4-85 only) 
+ 16 lb. (-24)"
+114,"Engines (Continental, see Engine Specs. No. 190 and 205) 
+ (-33) 
+ (a) Models BC, BCS 
+ (1) A-50-2 
+ + 6 lb. 
+ (2) A-50-3 or A-50-8 
+ +10 lb. 
+ (3) A-50-4 
+ + 3 lb. 
+ (4) A-50-5 
+ +13 lb. 
+ (5) A-50-7 
+ No weight change 
+ (b) Models BC-65, BCS-65 
+ (1) A-65-3, A-65-3J, A-65-8 or A-65-8J 
+ +10 lb. 
+ Engine limits: For all operations, 2300 r.p.m. (65 hp.) 
+ (2) A-65-7 or A-65-7J 
+ No weight change 
+ Engine limits same as (b)(1) 
+ (c) Models BC12-65 
+ (1) A-65-7J, A-65-8, A-65-8F, A-65-8J 
+ No weight change 
+ Engine limits same as (b)(1) 
+ (d) Models BC12-D, BCS12-D, BC12-D1, BCS12-D1 
+ (1) A-65-8F, A-65-8J 
+ No weight change 
+ Engine limits same as (b)(1)"
+115,"Auxiliary 6 gal. fuselage fuel tank installation (fuel arm +35) 
+ 8 lb. (+30) 
+ (BC, BCS, BC-65, BCS-65)"
+116,"Enclosed type engine cowl (dwg. BL-L628) (BC, BCS, BC-65, BCS-65) 
+ 9 lb. (-18)"
+117,"Revised engine mount (dwg. BC65-A128) (for engines incorporating integral rubber 
+ Negligible weight 
+ bushings)"
+201,"Two main wheel-brake assemblies, 6.00-6, Type III 
+ (a) Cleveland Aircraft Products Co. Model 6.00 DHB 
+ +4 lb. (+2) 
+ Wheel assembly No. C-38500HMA 
+ Brake assembly No. C-7000"
+202,"Two main wheels, 6.00-6, Type III, Firestone 604 
+ 9 lb. (+2)"
+203,Tail skid
+204,"Parking brake 
+ 1 lb. (-9)"
+205,"Edo float installation 
+ (a) Model 60-1320 floats 
+ 165 lb. (+20) 
+ Auxiliary fin (required on all models except BCS12D-85 and BCS12D-4-85 unless the 
+ 4 lb. (+176) 
+ seaplane aft C.G. limit for maximum weight is reduced to +18.9). (When propeller 
+ item 1 or 6 is installed on Models BCS12D-85 or BCS12D-4-85 the minimum static 
+ r.p.m. limit is increased to not under 2100 r.p.m.) 
+ As an alternate method of installing these floats, Taylorcraft clamp-on fuselage 
+ fittings, P/N 2554, 2555 and 2556 may be used. 
+ (b) Model 92-1400 floats 
+ 181 lb. (+19) 
+ Auxiliary fin (required on all model except BCS12D-85 and BCS12D-4-85) 
+ 4 lb. (+176)"
+206,"Tail wheel assemblies 
+ (+193) 
+ (a) 6 x 2.00 steerable with brake (Baxter) 
+ +5 lb. 
+ (b) 6 x 2.00 steerable (Aircraft Associates) 
+ +3 lb. 
+ (c) 6 x 2.00 full swiveling (Firestone Industrial) 
+ +3 lb. 
+ (d) 6 x 2.00 steerable (Lake State Products 5-40-31) 
+ +4 lb. 
+ (e) 6 x 2.00 steerable (Heath) 
+ +4 lb. 
+ (f) Maule SFS-12, SS-12, SAFS-1-2-P8 
+ +4 lb. 
+ (g) Steerable (Lang D-501, formerly Decker) 
+ 6 lb. 
+ (h) Scott Model 3-24B, Steerable, full swiveling 
+ 6 lb."
+207,"Two main wheel-brake assemblies, 6.00-6, Type III Firestone Model 6C3HB 
+ +4 lb. (+2)"
+208,"Wheel streamlines (dwg. A-9015 or A-9016) 
+ 6 lb. (+2)"
+209,"Skis (eligible on any airplane of these models provided the propeller installation meets 
+ Use act. wt. change 
+ the minimum 9 in. ground clearance. The maximum weight for the skiplane will be the 
+ same as for the corresponding landplane or that shown in parenthesis after each ski 
+ model, whichever is less) 
+ (a) Marston 1200 (max. 1200 lb.) 
+ (b) Air Transport 1220-480 (max. 1220 lb.) 
+ (c) Air Transport 1224-580-1 (max. 1220 lb.) 
+ (d) Federal SC-1 (max. 1400 lb.) 
+ (e) Piper S-1000 (max. 1200 lb.) 
+ (f) Jennings TY-2 (max. 1200 lb.) 
+ (g) Federal SA-1 (max. 1200 lb.) 
+ (h) Aviation Service B (max. 1650 lb.) 
+ (i) Richards 1-B (max. 2220 lb.) 
+ (j) Washington Aircraft (max. 1200 lb.) 
+ (k) Heath 655 (max. 1210 lb.) 
+ (l) Federal SC-2 (max. 1650 lb.) 
+ (m) Aviation Service A (max. 1100 lb.) 
+ (n) Federal SA-1A (max. 1300 lb.) 
+ (o) Jacobsen (formerly Escanaba) EAS-100 (max. 1200 lb.) 
+ (p) Richards 1-A (max. 1600 lb.) 
+ (q) Marston MFS-1600 (max. 1600 lb.) 
+ (r) Heath 725 (max. 1450 lb.) 
+ (s) Aero. Sales & Service AS-6.00 (max. 1320 lb.) 
+ (t) Jack Carr Service 16 (max. 1600 lb.) 
+ (u) Fairbanks MF-5 (max. 1310 lb.) 
+ (v) Heath 725A (max. 1450 lb.) 
+ (w) Federal SK4-1 (max. 1400 lb.) 
+ (x) Call S2 (max. 1800 lb.) 
+ (y) Federal A-1500 (max. 1500 lb.), Federal Instln. dwg. 11R232 
+ (z) Federal A-1500A (max. 1500 lb.), Federal Instln. dwg. 11R232 
+ (aa) Federal A-1850 (max. 1850 lb.), Federal Instln. dwg. 11R232 
+ (ab) Federal A-2000 (max. 2000 lb.), Federal Instln. dwg. 11R232 
+ (ac) Federal A-2000A (max. 2000 lb.), Federal Instln. dwg. 11R232 
+ (ad) Federal CA-1850-6 (max. 1850 lb.), Federal Instln. dwg. 11R232 
+ (ae) Wesco A-15, Western Aircraft Equipment Co. dwg. 148, 202, 203 
+ (af) Wesco A-20, Western Aircraft Equipment Co. dwg. 148, 202, 203"
+210,"Two main-wheel tires, 6.00-6, Type III with regular tubes 
+ (a) 2-ply rating 
+ 12 lb.(+2) 
+ (b) 4-ply rating 
+ +5 lb. (+2)"
+211,"Heath 1460A float installation, 172 lb. including auxiliary fin, 4 lb. (+176) (BCS12-D 
+ +122 lb. (+25) 
+ and BCS12-D1 only)"
+212,"Wheel fenders, Consolidair Model 16 
+ 10 lb. (+2) 
+ (Consolidair instln. dwg. 0029)."
+a 6v,9 lb. (+10)
+b 12 v,"15 lb. (+10) 
+ (c) 12 v. (BC12D-4-85 and BCS12-D-4-85) 
+ 16 lb. (+70)"
+Position lights,2 lb. (+77)
+a Grimes B 6 v,"(b) Grimes D (6 v.) (BC12-D, BC12D-85 and BCS12-D only) 
+ (c) Grimes D (12 v.) (BC12-D, BC12D-85, BCS12D-85, BC12D-4-85 and BCS12D-4-85)"
+322,"Generator (Delco-Remy 1101876) (BC12D-4-85 and BCS12D-4-85 only) 
+ 10 lb. (-24)"
+323,"Voltage regulator (Delco-Remy 1118323) (BC12D-4-85, BCS12D-4-85) 
+ 1 lb. (-18)"
+401,Wheel type control
+402,"Cabin heater (Taylorcraft BC-L606 or BC-L630) 
+ 2 lb. (-22)"
+403,"Stick type control 
+ Negligible weight"
+601,"Auxiliary door 
+ +5 lb. (+25)"
+NOTE 1,"Weight and balance report including list of equipment included in certificated empty weight and loading 
+ instructions when necessary must be provided for each aircraft at the time of original certification."
+NOTE 2,Left hand wing tank eligible as 6 gal. auxiliary on all models except BCS-65 and BC12D-85.
+NOTE 3,"Required placard adjacent to shutoff valve of right and left wing tanks: “Refill main tank in level flight 
+ only”."

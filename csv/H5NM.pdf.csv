@@ -1,0 +1,313 @@
+Keyterm,Info
+"H5NM 
+ Revision 10 
+ Rotorcraft Dev. Corp. 
+ UH-1E 
+ UH-1L 
+ TH-1L 
+ HH-1K 
+ August 1, 2012",
+Type Certificate Holder,"Rotorcraft Development Corporation 
+ 132 Skalkaho Hwy. 
+ Hamilton, Montana 59840"
+Type Certificate Holder Record,"Garlick Helicopter, Inc. transferred TC H5NM to Garlick Helicopter 
+ Corporation on June 29, 2007. 
+ Roy D. Regan & James P. Ross (Co-Partners) transferred TC H5NM to Garlick 
+ Helicopters, Inc. on November 21, 1989."
+I - Model UH-1E - (Restricted Category Military Surplus Helicopter ),
+Engine,Lycoming T-53-L-11D (See Notes 8 & 13 for Alternate Engines)
+Fuel,"Grade JP-4, JP-5, or see U.S. Navy NAVAIR 01-110HCA-1 for substitute 
+ and emergency fuels."
+Engine Limits,"Torque 
+ Output 
+ Exhaust Gas 
+ Pressure 
+ RPM 
+ Temperature (Deg. C) 
+ (PSI) 
+ Max. Continuous 
+ 46.0 (900 HP) 
+ 6600 
+ 620 
+ 30 Min. Operation 
+ 48.0 (1000 HP) 
+ 6600 
+ 620-640 
+ Maximum Allowable 
+ 50.0 (1100 HP) 
+ 6600 
+ 640"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 339 RPM 
+ Maximum 324 RPM 
+ Minimum 295 RPM 
+ Minimum 294 RPM 
+ Continuous Operation 
+ 294-324 RPM"
+Airspeed Limits,"Never Exceed 140 knots up to and including 6600 lb G.W. Sea level to 2000 ft. 
+ Sideward and rearward flight airspeed limitation 30 knots."
+Other Limits,"Flight Hours are counted from takeoff to landing. 
+ The helicopters approved under this type certificate are done so under the concept of 
+ limited exposure associated with escape from inadvertent ice encounters, and are 
+ prohibited against flight into known icing. The helicopters must be re-evaluated if 
+ certification to the General Ice protection Airworthiness Regulations is requested."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+Rev No,"9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 9 
+ 10"
+CG Range,"Most forward C.G. up to 8150 lb G.W. Fuse Sta. 125.0 
+ Most forward C.G. at 8,500 lb G.W. Fuse Sta. 125.5 / 9,500 lb G.W. Fuse Sta. 126.7 
+ Most aft C.G. up to 7,000 lb G.W. Fuse. Sta. 138.0 
+ Most aft C.G. at 8,500 lb G.W. Fuse. Sta. 134.4 / 9,500 lb G.W. Fuse Sta. 132.0"
+Empty Weight,(+125.0) to (+138.0)
+Maximum Weight,"9,500 lb all conditions."
+Minimum Crew,1 (pilot) for VFR flight.
+Maximum Passengers,(See Note 13.)
+Fuel Capacity Useable,242 U.S. Gallons
+Oil Capacity,3.25 U.S. Gallons
+Rotor Blade and,For rigging information refer to U.S. Navy Technical Manual NAVAIR 01-110HCA-2
+Approved Serial Nos,"Surplus UH-1 E helicopters are identified in FAA Approved Garlick Helicopters 
+ Report No. GHI-TC02, dated April 7, 1995 or later approved revision."
+II - Model UH-1L TH-1L and HH-1K- 9PCLH (Utility Helicopter Restricted Category,
+Engine,Lycoming T-53-L-13B (See Notes 8 & 15 for Alternate Engines).
+Fuel,"Grade JP-4, JP-5, or see U.S. Navy NAVAIR 01-110HCA-1 for alternate fuels."
+Engine Limits,"Torque 
+ Output 
+ Exhaust Gas 
+ Pressure 
+ RPM 
+ Temperature (Deg. C) 
+ (PSI) 
+ Max. Continuous 
+ 46.0 
+ 6600 
+ 610 
+ 30 Min. Operation 
+ 48.0 
+ 6600 
+ 610-625 
+ Maximum Allowable 
+ 50.0 (1100 HP) 
+ 6600 
+ 625"
+Rotor Limits,"Power Off 
+ Power On 
+ Maximum 339 RPM 
+ Maximum 324 RPM 
+ Minimum 295 RPM 
+ Minimum 294 RPM 
+ Continuous Operation 294-324 RPM"
+Airspeed Limits,"Never Exceed 140 knots up to and including 6600 lb G.W. Sea level to 2000 ft. 
+ Sideward and rearward flight airspeed limitation 30 knots."
+Other Limits,"Flight Hours are counted from takeoff to landing. 
+ The helicopters approved under this type certificate are done so under the concept of 
+ limited exposure associated with escape from inadvertent ice encounters, and are 
+ prohibited against flight into known icing. The helicopters must be re-evaluated if 
+ certification to the General Ice protection Airworthiness Regulations is requested."
+Maximum Weight,"9,500 lb all conditions."
+CG Range,"Most forward C.G. up to 8150 lb G.W. Fuse Sta. 125.0 
+ Most forward C.G. at 8,500 lb G.W. Fuse Sta. 125.5 / 9,500 lb G.W. Fuse Sta. 126.7 
+ Most aft C.G. up to 7,000 lb G.W. Fuse. Sta. 138.0 
+ Most aft C.G. at 8,500 lb G.W. Fuse. Sta. 134.4 / 9,500 lb G.W. Fuse Sta. 132.0"
+Empty Weight,(+125.0) to (+138.0)
+Minimum Crew,1 (pilot) for VFR flight.
+Maximum Passengers,(See Note 14.)
+Fuel Capacity Useable,242 U.S. Gallons
+Oil Capacity,3.25 U.S. Gallons
+Rotor Bade and,For rigging information refer to U.S. NAVAIR 01-110HCA-2
+Approved Serial Nos,"Surplus UH-1 L, TH-1 L or HH-1 K helicopters as identified in FAA Approved Garlick 
+ Helicopters Report No. GHI-TC02, dated April 7, 1995 or later approved revision."
+DATA PERTINENT TO ALL MODELS,
+Leveling Means,"Plumb line dropped from slotted plate in cabin roof directly above leveling plate. The 
+ leveling plate is located on the cabin floor just inside the left cargo door."
+Datum,7.6” aft of aircraft nose
+Certification Basis,"Federal Aviation Regulations FAR 21.25(a)(2) Amendments 21-1 through 21-56 
+ effective February 8, 1982. Type Certificate No. H5NM issued for the purpose of: 
+ (1) Agriculture Operations under FAR 21.25(b)(1) 
+ (2) Forest and Wildlife Conservation under FAR 21.25(b)(2) 
+ (3) Aerial Surveying Operations under FAR 21.25(b)(3) 
+ (4) Patrolling Operations under FAR 21.25(b)(4) 
+ (5) External Cargo Operation under FAR 21.25(b)(7) 
+ Any alteration to the helicopter for Special Purposes not identified above require further 
+ FAA approval and in addition, may require additional noise and/or flight testing. 
+ Note: In accordance with FAR 36.1(a)(4), compliance with the nose requirements has 
+ been shown for Garlick Models UH-1H. No determination has been made by the Federal 
+ Aviation Administration that the noise levels of this aircraft are or should be acceptable 
+ or unacceptable for operation at, into, or out of, any airport. 
+ General Note: Any subsequent modifications to the helicopters type certified under this 
+ Type Certificate are to have the certification basis for that modification established under 
+ 14 CFR 21.101 published June 7, 2000 which became effective June 10, 2003. 
+ Otherwise non-significant modifications are to meet the requirements of 14 CFR 29 
+ airworthiness standards, transport category, Amendment 1, effective August 12, 1965, 
+ plus special conditions for turbine engine installations and 14 CFR 29.1529, Instructions 
+ for Continued Airworthiness, Amendment 20, effective September 11, 1980."
+Production Basis,"None. No helicopter may be produced under this approval. (See Note 4) Prior to adding 
+ serial numbers to this Type Certificate, each candidate helicopter must undergo a 
+ conformity inspection. The conformity inspection will be conducted in accordance with 
+ a Type Inspection Authorization, Part 1, or request for conformity that will include as a 
+ minimum, the inspections contained in the FAA Rotorcraft Directorate Restricted 
+ Category Conformity document dated September 25, 2001 or later FAA approved 
+ revisions."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in each type helicopter for certification. In 
+ addition the Flight Manual U.S. NAVAIR 01 110HCA-1 is required."
+NOTE 1,"Current weight and balance information including list of equipment in certificated empty weight 
+ and loading instructions must be in each helicopter at time of original airworthiness certification 
+ and at all times thereafter."
+NOTE 2,"The following placards must be prominently displayed in the cockpit in full view of the pilot. 
+ MODEL UH-1E, UH-1L, TH-1L, and HH-1K 
+ OPERATING LIMITATIONS 
+ GROSS WEIGHT 
+ 7500 
+ 8500 
+ 9500 
+ AIRSPEED POWER ON 
+ 140 
+ 130 
+ 125 
+ DECREASE AIRSPEED 3 KNOTS/1000 FT. ABOVE 3000 FT. 
+ POWER ON 314 TO 324 RPM (6400 TO 6600 RPM) 
+ POWER OFF 300 TO 339 RPM (6100 TO 6900 RPM) 
+ TURN ON ENGINE DE-ICE WHEN OPERATING IN VISIBLE MOISTURE AT 
+ TEMPERATURES BELOW 32°F (0°C). 
+ THIS HELICOPTER MUST BE OPERATED IN ACCORDANCE WITH THE 
+ RESTRICTED CATEGORY OPERATING LIMITATIONS OF FAR 91.39 AND WITH 
+ THE LIMITATIONS NOTED IN U.S. NAVY NAVAIR 01110HCA-1. 
+ In addition, a placard identifying the specific type of T53 Series engine installed must be installed 
+ in view of the pilot."
+NOTE 3,"The helicopter(s) must be serviced, maintained and inspected in accordance with the documents 
+ specified in Garlick Helicopters Inc. Instructions for continued Airworthiness Report, GH-H5NM- 
+ CA1 dated 10-22-02 or later accepted version. Or other FAA accepted inspection program. The 
+ Garlick Helicopters Inc. Report GH-H5NM-CA1 is part of the Garlick Helicopters Inc. 
+ Instructions for Continued Airworthiness. Retirement times and component overhaul intervals are 
+ listed in FAA Approved Airworthiness Limitations Section (Section II of the above document) 
+ dated 10-22-02 or later approved version."
+NOTE 4,"In addition to the standard helicopter requirements, the following additional data and/or helicopter 
+ configuration requirements must be met for each individual model UH-1E, UH-1L, TH-1L, and 
+ HH-1K helicopter upon application for an original Special Airworthiness Certificate: 
+ a) A completed application for airworthiness certificate, FAA Form 8130-6 that has 
+ correctly identified the type certificate holder’s helicopter and its intended special 
+ purpose(s). 
+ b) Written confirmation from the certifying office that the affected serial number has been 
+ added to Garlick Helicopters Inc. type certificate. 
+ c) The application for airworthiness certification and the helicopter’s registration 
+ certification match the information on Garlick Helicopter, Inc. data plate. 
+ d) Each helicopter must satisfactorily pass inspections for conformity with U.S. Navy 
+ Document NAVAIR 01-0110HCA-2, possible hidden damage, and for workmanship and 
+ materials used in making any repairs and/or alterations. GHI Document GH-H5NM-CA1 
+ Instructions for Continued Airworthiness dated 10-22-02, or later accepted revision, and 
+ TCDS H5NM dated Oct 22, 2002 or later approved revision. 
+ e) The Maintenance, overhaul, and modification records of each helicopter must be 
+ reviewed for changes made by the military services that may affect the airworthiness of 
+ the aircraft. Modifications and changes of equipment, which may affect the safety or 
+ performance of the helicopter must be approved by the Federal Aviation Administration. 
+ f) 
+ FAA Airworthiness Directives listed in FAA Approved GHI AD Review list for 
+ Certification and continued Airworthiness dated 5-14- 01, as revised, for UH1 series 
+ helicopters, Lycoming T53-L-11 and L-13 Series engines and aircraft appliances must be 
+ reviewed for applicability and complied with accordingly. 
+ g) The U.S. Navy Technical Directives listed in Hercules Report Number 1401Y dated 
+ October 24, 1985, must be complied with."
+NOTE 5,"This aircraft is prohibited from carrying cargo for compensation or hire, carriage of cargo is 
+ limited to such cargo that is incidental to the aircraft owner / operator’s business which is other 
+ than air transportation. (This note applies to aircraft that have the Special Purpose, “Carriage of 
+ Cargo”.)"
+NOTE 6,"Restricted Category aircraft may not be operated in a foreign country without the expressed 
+ written approval of that country."
+NOTE 7,"The following note must be placed under ""exceptions"" on all Export Certificates of Airworthiness 
+ for this aircraft. ""This aircraft is type certificated in the restricted category and has not been 
+ determined to meet the international standards concerning the airworthiness of aircraft as provided 
+ for in Annex 8 to the Convention of International Civil Aviation (Chicago Convention) of 
+ December 7, 1944."
+NOTE 8,"Military to Civil or Military to Military engine changes are allowed provided the replacement 
+ engine is of the same make and model as identified in this TCDS. The military or civil 
+ replacement engine must have proper military or civil records and have the applicable FAA 
+ Airworthiness Inspection accomplished and is in an airworthy condition."
+NOTE 9,"This approval applies to the basic United States Navy UH-1E, UH-1L, TH-1L, and HH-1K 
+ helicopters modified in accordance with Hercules Report Number 1400Y dated January 2, 1985."
+NOTE 10,"Torque pressure output by the engine torque sensing system varies with individual engines. A 
+ calibration of this value is required on each engine and the value corresponding to take-off power 
+ is stamped on the engine data plate."
+NOTE 11,"Helicopters that do not have documentation showing they were surplus from an Armed Force of 
+ the United States are not eligible for certification under this type certificate. Engines and 
+ appliances that do not have documentation showing they were surplus from an Armed Force of the 
+ United States are not eligible for installation on a helicopter under this type certificate. 
+ Helicopter(s), engine(s), and appliances that have records indicating time-in-service by a foreign 
+ military or a foreign government will be presumed to be ineligible for certification or installation 
+ under this type certificate. This presumption maybe overcome by the applicant substantiating, to 
+ the satisfaction of the FAA, through documentation, tests, computations, evaluations, analyses, or 
+ other means or methods that the helicopter, engine, or appliance, during its time-in-service by the 
+ foreign military or foreign government, was maintained to an extent and in a manner equal to that 
+ of an Armed Force of the United States."
+NOTE 12,"Gas producer speed, as shown under ""Engine Limits"", are maximum permissible speeds. The gas 
+ producer speed for rated power output varies with individual engines and must be determined 
+ during engine calibration and stamped on the engine data plate. The rated gas producer speed 
+ shown on the temperature limit placard installed on the instrument panel must correspond to the 
+ data plate gas producer speed. Gas producer speed limits also vary with OAT in accordance with 
+ the schedule as shown on the Temperature Limit (GO-NO-GO TAKE-OFF) placard on the 
+ instrument panel."
+NOTE 13,"Lycoming engine models T53-L-11 (s/n suffix “A”), T53-L-11B and T53-L-11C are approved for 
+ use as alternate engines under this Type Certificate. Engines Identified above will be maintained 
+ on a 1200 hr. (T53-L-11C, 1800 hr.) overhaul schedule and in accordance with the U.S Military 
+ maintenance, overhaul and parts manuals, listed in Report GH-H5NM-CA1 applicable to that 
+ engine. 
+ The Model UH-1 E helicopter is eligible with Lycoming T53-L-13/-13A/-13B, engine when 
+ installed in accordance with NAVAIR 01-110HCA-2 installation instructions and when the engine 
+ instruments are marked according to the U.S. Navy NAVAIR 01-110HCA-1 instrument markings 
+ 'for the respective engine on the Models UH-1 L, TH-1 L and HH-1 K helicopters. Hercules Flight 
+ Manual Supplement Number UH-1 E-13 must be included with the Flight Manual."
+NOTE 14,"Ref. FAR Part 91.313 subparagraphs (b) and (c) 
+ (b) No person may operate a restricted category civil aircraft carrying persons or property for 
+ compensation or hire. For the purposes of this paragraph, a special purpose operation involving 
+ the carriage of persons or materials necessary for the accomplishment of that operation. Such as 
+ crop dusting, seeding, spraying, and banner towing (including the carrying of required persons, or 
+ materials to the locations of that operation), and an operation for the purpose of providing flight 
+ crewmember training in a special purpose operation are not considered to be the carrying of 
+ persons or property for compensation or hire. 
+ (c) No person may be carried on a restricted category civil aircraft unless: 
+ (1) He is a flight crewmember, 
+ (2) He is a flight crewmember trainee; 
+ (3) He performs an essential function in connection with a special purpose operation for 
+ which the aircraft is certificated; or 
+ (4) He is necessary for the accomplishment of the work activity directly associated with 
+ that special purpose."
+NOTE 15,"Lycoming engine models T53-L-13, T53-L-13A, are approved for use as alternate 
+ engines under this Type Certificate. Military engines Identified above will be maintained 
+ on a 2400 hr. overhaul schedule and in accordance with the U.S Military maintenance, 
+ overhaul and parts manuals, listed in Report GH-H5NM-CA1 applicable to that engine. 
+ The Models UH-1L, TH-1L and HH-1K helicopters are eligible with Lycoming T53-L-11 (SN. 
+ Suffix A), -11B, -11C, Series engines when installed in accordance with NAVAIR 01-110HCA-2. 
+ Installation Instructions and when the engine instruments are marked according to the U.S. Navy 
+ NAVAIR 01-110HCA1 instrument markings for the respective engine on the Model UH-1E 
+ helicopter. Hercules Flight Manual Supplement Number UH/TH-1 L-11 must be included with the 
+ Flight Manual."
+NOTE 16,"The T53-L-11 engine is rated to an output torque equivalent to 1100 horsepower at 6,600 RPM for 
+ takeoff and 900 horsepower at 6,600 RPM for continuous operation. The T53-L-13 gas turbine 
+ powerplant in these installations is rated to an output torque value equivalent to 1400 horsepower 
+ at 6,600 RPM take-off and 1250 horsepower continuous; however the transmission is restricted to 
+ a maximum of 1100 horsepower at 6,600 RPM (50 PSI). The T53-L-13 and T53-L-13A engines 
+ are limited to 97 percent gas generator speed or 24,400 RPM. The aircraft equipped with the T53- 
+ L-13B engines are not limited by this powerplant restriction; therefore, the pilot must ascertain 
+ which engine is installed prior to start. Performance charts have been included in NAVAIR 01- 
+ 110HCA-1 to cover this reduction in power."
+NOTE 17,"Carriage of hazardous materials is prohibited unless compliance is shown with applicable 
+ regulations in Code of Regulations Title 49, Part 175."
+NOTE 18,"Alternate and emergency fuels are listed in U.S. Navy NAVAIR 01-110HCA-1. Some limitations 
+ apply for the use of certain alternative fuels. These limitations are listed in the Overhaul Manual."
+NOTE 19,"Any Alteration to the type design of this aircraft may require Instructions for Continued 
+ Airworthiness (ICA’s). Changes to the Type Design by means of a Supplemental Type Certificate 
+ (STC) requiring ICA’s or changes to existing ICA’s must be submitted and reviewed by the Fort 
+ Worth Aircraft Evaluation Group (FTW-AEG). Type Design Changes by means of a Field 
+ Approval that require ICA’s must have those ICA’s reviewed by the Flight Standards District 
+ Office (FSDO) managing the Field Approval or the FTW-AEG."

@@ -1,0 +1,811 @@
+Keyterm,Info
+"A7PC 
+ Revision 6 
+ Nomad TC Pty Ltd 
+ N22B 
+ N24A 
+ N22S 
+ July 7, 2021",
+Type Certificate Holder Record,"Government Aircraft Factories transferred TC A7PC to AeroSpace Technologies of A 
+ Australia Pty Ltd on December 7, 1987 
+ AeroSpace Technologies of Australia Pty Ltd transferred TC A7PC to Nomad TC Pty Ltd 
+ C/O GippsAero Pty Ltd on May 28, 2010"
+"I - Model N22B (Normal Category), Approved May 20, 1977",
+Engines,"2 Detroit Diesel Allison Division of General Motors Model 250-B17B or 250-B17C or 
+ 250-B17E. (See NOTE 9 regarding intermixing of engines)"
+Fuel,"MIL-T-5624 Grade JP-4 or JP-5, ASTM-1655 JET A, JET A-1 or JET B; JP-1 fuel 
+ conforming to ASTM:D-1655 JET A or JET A-1; Diesel fuel No. 1 conforming to 
+ ASTM:D-1655 JET A or JET A-1."
+Oil,"MIL-L-23699 or MIL-L-7808G 
+ Allison 250-B17 Series Operation and Maintenance Manual, Publication 11W2, lists 
+ approved brand oils."
+Engine Limits,"** 
+ ***"
+B17B B17C B17E,"SHP 
+ Gas 
+ Power 
+ Turbine 
+ Generator 
+ Turbine 
+ Outlet 
+ Speed N1% 
+ Speed N2% 
+ TempC"
+ 250B17B,"400 
+ 105 
+ 105 
+ 810 (see Note 10)"
+ 250B17C,"420 
+ 105 
+ 105 
+ 810"
+ 250B17E,"420 
+ 105 
+ 105 
+ 810"
+ 250B17B,"385 
+ 105 
+ 105 
+ 810"
+ 250B17C,"385 
+ 105 
+ 105 
+ 810"
+ 250B17E,"385 
+ 105 
+ 105 
+ 810 
+ *See NOTE 7; **See NOTE 8; ***Normal operations are limited to 100% N2. 
+ 100% N1 = 50,970 r.p.m. 
+ 100% N2 = 33,290 r.p.m. @ 2,030 propeller r.p.m."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14"
+Rev No,"6 
+ 4 
+ 4 
+ 4 
+ 4 
+ 4 
+ 4 
+ 4 
+ 4 
+ 4 
+ 4 
+ 6 
+ 4 
+ 4"
+Propellers,"2 Hartzell: 
+ Type HC-A3VF-7 or HC-A3VF-7B 
+ Blade type V10133 D-11 or V10133 N-11"
+Propeller limits,"Diameter: 90.63 inches nominal 
+ 88 inches minimum 
+ Pitch setting at 30-inch station: 
+ Flight Idle 
+ 6 deg. (nominal) 
+ Ground Idle 
+ 0 deg. (nominal) 
+ Reverse 
+ -13.5 deg.  .5 deg 
+ Feather 
+ 85 deg.  1 deg"
+Airspeed limits CAS,"Vmo (Max. operating) 
+ 169 
+ knots 
+ Va (Maneuvering) 
+ 131 
+ knots 
+ Vfe (Max. flap extended) 
+ 0-20° extension 
+ 120 
+ knots 
+ 20-38° extension 
+ 100 
+ knots 
+ Vlo (Landing gear operating) 
+ 120 
+ knots 
+ Vle (Landing gear extended) 
+ 120 
+ knots 
+ Vmc (Minimum control) 
+ 66.5 knots"
+CG range,"187.5 inches to 199.6 inches aft of datum at 8,000 lbs. or less. 
+ 188.6 inches to 199.6 inches aft of datum at 8,500 lbs. 
+ Straight line variation between 8,000 lbs. and 8,500 lbs. 
+ Moment change due to retracting landing gear -4,700 in-lbs."
+Datum,Datum located 171.86 inches forward of wing leading edge.
+Levelling,Longitudinal - along cabin seat rails.
+Maximum weights,"Ramp 
+ 8,550 lbs. 
+ Takeoff 
+ 8,500 lbs. 
+ Landing 
+ 8,500 lbs."
+Maximum zero fuel wt,"8,250 lbs. (all weights above 8,250 lbs. must be in fuel weight)."
+No of seats,"15 maximum 
+ Crew at 115.0 inches aft of datum. 
+ See loading instructions for passenger loading. Passenger permitted in right-hand crew 
+ seat when crew door/propeller interlock system (Mod N132) incorporated."
+Maximum baggage,"400 lbs. at 50.7 inches aft of datum. 
+ 200 lbs. at 353.7 inches aft of datum (with Option G-44 installed)."
+Fuel capacity,"274 U.S. gal. total in two interconnected tanks per side. 
+ 268 U.S. gal. usable at 197.5 inches aft. of datum. 
+ With optional self-sealing tanks (GAF Option G28A): 
+ 268 U.S. gal. total in two interconnected tanks per side. 
+ 263 U.S. gal. usable at 197.5 inches aft of datum."
+Oil capacity,"1.8 U.S. gal. drainable per engine at 141.0 inches aft of datum. 
+ (See NOTE 1)"
+Maximum operating,"25,000 ft. (except as limited by oxygen system requirements)."
+altitude,"12,500 ft. (when autopilot engaged)."
+Control surface movements,"Wing flaps 
+ Maximum 38° 
+ Aileron (flap retracted) 
+ Up 20° 
+ Down 20° 
+ Spoiler (flaps 38°) 
+ Up 28° 
+ Down 3° 
+ Horizontal Stabilizer 
+ Up 18° 
+ Down 8° 
+ (at trailing edge) 
+ Horizontal Stabilizer Tab 
+ Up 27° 
+ Down 12 
+ (trim wheel at zero position) 
+ Horizontal Stabilizer Trim 
+ Up 17° 
+ Down 6° 
+ (stabilizer at neutral position) 
+ Rudder 
+ Right 23° 
+ Left 23° 
+ Rudder tab 
+ Right 21° 
+ Left 21° 
+ (trim wheel at neutral position) 
+ Rudder trim 
+ Right 15° 
+ Left 15° 
+ (rudder at zero position) 
+ Detail rigging information contained in GAF Maintenance Manual Pub 12.20 Sec 27."
+Serial Nos eligible,"N22B-5 and subsequent. Military versions, designated by serial numbers with 
+ suffix ""M"", are not eligible for civil certification. The Government of Australia, 
+ Department of Transport Certificate of Airworthiness for Export endorsed as 
+ noted under ""Import Requirements"" must be submitted for each individual aircraft for 
+ which application for U.S. airworthiness certification is made. 
+ (See NOTE 4)"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for airworthiness certification. 
+ Government Aircraft Factories List of Basic Equipment N22-6007B identifies all 
+ required and optional equipment approved by the Australian Department of Transport. 
+ Copy of document is available from FAA, Northwest Mountain Region, Los Angeles 
+ Aircraft Certification Office. 
+ In addition, the following items of equipment are required:"
+1,"Department of Transport Approved Airplane Flight Manuals, GAF Pub. No. 12-28C or GAF Pub. 
+ No. 12-28F (see NOTE 5). Section 3.35.3 of DOT Approved AFM pertains to flame-out and engine inflight 
+ restarting procedures. Section 4, Figure 4.11 of DOT Approved AFM pertains to maximum takeoff weight 
+ versus altitude/temperature."
+2,Indestructible identification plate Part No. GAF N-00-234 (FAR 45.11).
+3,"Safe Flight Instr. Corp. pre-stall warning detectors P/N 165-5 or GAF pre-stall warning detector 
+ P/N N-81-723 and Safe Flight Instr. Corp. dual warning unit P/N 284."
+4,"Engine oil shutoff valves, GAF P/N N-50-432 (Ref. GAF Option G240 and modification N376)."
+5,Auxiliary fuel boost pump circuit duplication (Ref. GAF Option G247).
+6,"Fail-safe fuel filler neck assemblies, GAF P/N N-57-318. (Ref GAF Option G250)."
+7,"Airspeed indicator with dial markings in accordance with GAF Drawing No. N-03-410 or N-80-442 
+ (Ref. GAF Option G251B)."
+8,"Engine fire detection/warning system installed per GAF dwgs. No. N-60-11. System incorporates 
+ 150D/01-200 fire detector switches, N-81-405 warning indicators and 6/N-81-303 warning test switch."
+9,"Fuel strainers per GAF Dwgs No. N-57-210 (Purolator 7510770 type). 
+ 10. Crew door/propeller interlock system, GAF Dwg. No. N-81-643 (Ref. GAF Mod. N132). Installation required 
+ if passenger to be carried in R.H. crew seat. 
+ 11. Propeller autofeather system, GAF Installation Dwg. No. N-50-387 (Ref. GAF Option G214). 
+ 12. Alternate cabin vented static source system, GAF Installation Dwg. N-80-474 (Ref. GAF Option G284) 
+ (For IFR operations). 
+ 13. Extended circuit breaker panel for cabin mounted circuit breakers for the fire detection system, GAF Dwg. 
+ N-81-646 (Ref. Modification N218) or GAF Dwg. N-81-600 (Ref. GAF Option G267). 
+ The type design approval also includes the installation of equipment as defined by the manufacturer's designated 
+ option identification numbers. The installation of equipment on a particular aircraft will be shown on the option plate 
+ (P/N SD320) located on the forward face of frame 67.95 in the nose baggage locker of each aircraft which is 
+ certified to conform to the type design approval and to be in a condition for safe operation as per ""Import"
+Requirements,"The following additional equipment required for compliance with FAR 135, Appendix A, Additional Airworthiness 
+ Standards for 10 or More Passenger Airplane:"
+1,"Department of Transport Approved Airplane Flight Manual, GAF pub No. 12.28F and AFM Supplement 
+ No. R271, Air Taxi and Commercial Operations to FAR Part 135."
+2,"Oil low pressure warning system, GAF Installation Dwg. N-81-548 (Ref. GAF Option G213)."
+3,"Extra master caution panel, GAF P/N N-80-319 (Ref. GAF Option G135)."
+4,"Cabin door-open warning system, GAF Installation Dwg N-81-391 (Ref. GAF Option G38) or GAF Installation 
+ Dwg N-81-12 (Ref. GAF Modification N9)."
+5,"Crew door lock indication and inadvertent opening prevention system, GAF DWG. N-10-537/8 Sheet 5 
+ (Ref. GAF Modification N240)"
+6,"Self-illuminating exit signs, GAF Dwg. N-84-90 (Ref. GAF Option G67A)."
+7,"Additional cabin markings and placards. 
+ GAF DWG. N-00-286 (Ref. Option G257) 
+ GAF DWG. N-00-289 (Ref. Option G301) 
+ GAF DWG. N-00-291 (Ref. Option G301) 
+ GAF DWG. N-00-244 (Ref. GAF Modification N240) 
+ GAF P/N N-18-579 (Ref. Modification N238) when cockpit/cabin divider (Option G79) is 
+ incorporated."
+8,"When cockpit/cabin divider (Option G79) is installed, the sliding door lock catch P/N N-18-417 must be 
+ removed (Ref. GAF Modification N283)."
+9,"Approved radio and navigation equipment must be installed in accordance with FAR Part 135.157. 
+ The following radio and navigation equipment were installed at the time of original certification. Alternative 
+ equipment may be used as approved by the FAA or the Department of Transport (now CAA). 
+ King KMA20 Audio (Ref. GAF Option G50B including Modification N16 and N97). 
+ King KX175B Nav-Comm. (Ref. GAF G51 including Modification N113) 
+ King KX175B Second Nav-Comm. (Ref. GAF Option G73 including Modification N113). 
+ King KT76 ATC Transponder (Ref. GAF Option G75). 
+ Collins MCS107 Slaved Compass (Ref. GAF Option G62). 
+ 10. Additional cabin fire extinguishers must be installed per FAR 135.161. 
+ The cabin fire extinguisher located under the pilot's seat is provided by the manufacturer and must be 
+ installed at all times."
+"II - Model N24A (Normal Category), Approved November 16, 1978 
+ Model N24A is similar to N22B. N24A incorporates a lengthened fuselage and an increase in gross weight.",
+Engines,"2 Detroit Diesel Allison Division of General Motors Model 250-B17B 
+ or 250-B17C or 250-B17E. (See NOTE 9 regarding intermixing of engines.)"
+Fuel,"MIL-L-5624 Grade JP-4 or JP-5, ASTM:1655 Jet A, JET A-1 or JET B; 
+ JP-1 Fuel conforming to ASTM:D-1655 Jet A or Jet A-1; Diesel fuel 
+ No. 1 conforming to ASTM:D-1655 Jet A or Jet A-1."
+Oil,MIL-L-23699 or MIL-L-7808G
+Engine Limits,"** 
+ ***"
+B17B B17C B17E,"SHP 
+ Gas 
+ Power 
+ Turbine 
+ Generator 
+ Turbine 
+ Outlet 
+ Speed N1% 
+ Speed N2% 
+ TempC"
+ 250B17B,"400 
+ 105 
+ 105 
+ 810 (see Note 10)"
+ 250B17C,"420 
+ 105 
+ 105 
+ 810"
+ 250B17E,"420 
+ 105 
+ 105 
+ 810"
+ 250B17B,"385 
+ 105 
+ 105 
+ 810"
+ 250B17C,"385 
+ 105 
+ 105 
+ 810"
+ 250B17E,"385 
+ 105 
+ 105 
+ 810 
+ *See NOTE 7; **See NOTE 8; ***Normal operations are limited to 100% N2. 
+ 100% N1 = 50,970 r.p.m. 
+ 100% N2 = 33,290 r.p.m. @ 2,030 propeller r.p.m."
+Propellers,"2 Hartzell Hub Type HC-A3VF-7 or HC-A3VF-7B 
+ Blade type V10133 D-11 or V10133 N-11"
+Propeller Limits,"Diameter: 90.63 inches maximum 
+ 88 inches maximum 
+ Pitch setting at 30 in. station: 
+ Flight Idle 
+ 6 deg. (nominal) 
+ Ground Idle 
+ 0 deg. (nominal) 
+ Reverse 
+ -13.5 deg.  .5 deg 
+ Feather 
+ 85 deg.  1 deg"
+Airspeed limits CAS,"Vmo (Max. operating) 
+ 162 knots 
+ Va (Maneuvering) 
+ 134 knots 
+ Vfe (Max. flap extended) 
+ 0-10° extension 
+ 120 knots 
+ 10-38° extension 
+ 106 knots 
+ Vlo (Landing gear operating) 
+ 120 knots 
+ Vle (Landing gear extended) 
+ 120 knots 
+ Vmc (Minimum control) 
+ 66 knots"
+CG range,"215.5 inches to 227.6 inches aft of datum at 7,500 lbs. or less. 
+ 217.5 inches to 227.6 inches aft of datum at 9,400 lbs. 
+ Straight line variation between 7,500 lbs. and 9,400 lbs. 
+ Moment change due to retracting landing gear -4,700 in-lbs."
+Datum,Datum located 199.86 inches forward of wing leading edge.
+Leveling means,"Longitudinal - along cabin seat rails. 
+ Lateral - across cabin seat rails."
+Maximum weights,"Ramp 
+ 9,450 lbs. 
+ Takeoff 
+ 9,400 lbs. 
+ Landing 
+ 9,200 lbs."
+Maximum zero fuel wt,"9,150 lbs. (all weights above 9,150 lbs. must be in fuel weight)."
+No of seats,"18 maximum 
+ Crew at 118.5 inches aft of datum. 
+ Crew at 116.5 inches aft of datum when crew seats relocated to forward mounting 
+ alternative (Option R238). See loading instructions for passenger loading. Passenger 
+ can be carried in right-hand crew seat only when crew door/propeller interlock system 
+ (Modification N132) fitted."
+Maximum baggage,"320 lbs. at 37.7 inches aft of datum. 
+ 200 lbs. at 398.7 inches aft of datum (with Option G-44 installed)."
+Fuel capacity,"274 U.S. gal. total in two interconnected tanks per side. 
+ 268 U.S. gal. usable in two interconnected tanks per side when optional self-sealing 
+ tanks fitted (Option G28A). 
+ 268 U.S. gal. usable at 225.5 inches aft of datum. 
+ 263 U.S. gal. usable at 225.5 inches aft of datum when optional self-sealing tanks fitted 
+ (Option G28A)."
+Oil capacity,"1.8 U.S. gal. drainable per engine at 169.0 inches aft of datum. 
+ (See NOTE 1)"
+Maximum operating,"25,000 ft. (except as limited by oxygen system requirements)."
+altitude,"12,500 ft. (when autopilot engaged)."
+Control surface movements,"Wing flaps 
+ Maximum 38° 
+ Aileron (flap retracted) 
+ Up 20° 
+ Down 20° 
+ Spoiler (flaps 38°) 
+ Up 28° 
+ Down 3° 
+ Horizontal Stabilizer 
+ Up 16° 
+ Down 10° 
+ (at trailing edge) 
+ Horizontal Stabilizer Tab 
+ Up 28.5° 
+ Down 12° 
+ (trim wheel at zero position) 
+ Horizontal Stabilizer Trim 
+ Up 18° 
+ Down 6.5° 
+ (stabilizer at neutral position) 
+ Rudder 
+ Right 21° 
+ Left 21° 
+ Rudder tab 
+ Right 12° 
+ Left 12° 
+ (trim wheel at neutral position) 
+ Rudder trim 
+ Right 15° 
+ Left 19° 
+ (rudder at zero position) 
+ Detail rigging information contained in GAF Maintenance Manual Pub 12.50."
+Serial Nos eligible,"N24A-42 and subsequent. Military versions, designated by serial numbers with 
+ suffix ""M"", are not eligible for civil certification. The Government of Australia, 
+ Department of Transport Certificate of Airworthiness for Export endorsed as 
+ noted under ""Import Requirements"" must be submitted for each individual aircraft for 
+ which application for U.S. airworthiness certification is made. (See NOTE 4)"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see Certification 
+ Basis) must be installed in the aircraft for airworthiness certification. Government Aircraft Factories List 
+ of Basic Equipment N24A-6007 lists all required and optional equipment approved by the Australian 
+ Department of Transport. Copy of document is available from FAA, Northwest Mountain Region, Aircraft 
+ Certification Field Office. 
+ In addition, the following items of equipment are required: 
+ 1. Department of Transport Approved Airplane Flight Manuals, GAF Pub. No. 12-58F. Section 
+ 3.35.3 of DOT Approved AFM pertains to flame-out and engine inflight restarting procedures. 
+ Section 4, Figure 4.11 of DOT Approved AFM pertains to maximum takeoff weight 
+ versus altitude/temperature. 
+ 2. Indestructible identification plate Part No. GAF N-00-234 (FAR 45.11). 
+ 3. Safe Flight Instrument Corporation pre-stall warning detectors P/N 165-5 or GAF pre-stall 
+ warning detector P/N N-81-723 and Safe Flight Instr. Corp. dual warning unit P/N 284. 
+ 4. Engine oil shutoff valves, GAF P/N N-50-432 (Ref. GAF Option G240-24 and Modification 
+ N376). 
+ 5. Auxiliary fuel boost pump circuit duplication (Ref. GAF Option G247). 
+ 6. Fail-safe fuel filler neck assemblies, GAF P/N N-57-318. (Ref GAF Option G250). 
+ 7. Airspeed indicator P/N 4/N-80-442 (Ref. GAF Option G251D). 
+ 8. Engine fire detection/warning system installed per GAF Dwgs. No. N-81-2009 System incorporates 
+ 150D/01-200 fire detector switches, N-81-405 warning indicators and 6/N-81-303 warning test switch. 
+ 9. Fuel strainers per GAF Dwgs No. N-57-2000 (Purolator 7510770 type). 
+ 10. Crew door/propeller interlock system, GAF Dwg. No. N-81-2006 (Ref. GAF Mod. N132). 
+ Installation required if passenger to be carried in R.H. crew seat. 
+ 11. Propeller autofeather system, GAF Installation Dwg. No. N-50- 387 (Ref. GAF Option G214). 
+ 12. Alternate cabin vented static source system, GAF Installation Dwg. N-80-474 (Ref. GAF 
+ Option G284). (For IFR operations). 
+ 13. Extended circuit breaker panel for cabin mounted circuit breakers for the fire detection system, 
+ GAF Dwg. N-81-646 (Ref. GAF Modification N218) or GAF Dwg. N-81-600 (Ref. GAF 
+ Option G267). 
+ 14. Engine Intake Cowl (Ref GAF Modification N374). 
+ 15. Horizontal stabilizer mass balanced trim tabs (Ref GAF Modification N439). 
+ The type design approval also includes the installation of equipment as defined by the manufacturer's 
+ designated option identification numbers. The installation of equipment on a particular aircraft will 
+ be shown on the option\plate (P/N SD320) located on the forward face of frame 67.95 in the nose 
+ baggage locker of each aircraft which is certified to conform to the type design approval and to be in 
+ a condition for safe operation as per ""Import Requirements."" 
+ The following additional equipment required for compliance with FAR 135, Appendix A, Additional 
+ Airworthiness Standards for 10 or More Passenger Airplane: 
+ 1. Department of Transport Approved Airplane Flight Manual, GAF Pub No. 12.58F and 
+ AFM Supplement No. R272, Air Taxi and Commercial Operations to FAR Part 135. 
+ 2. Oil low pressure warning system, GAF Installation Dwg. N-81-548 (Ref. GAF Option G213). 
+ 3. Extra master caution panel, GAF P/N N-80-319 (Ref. GAF Option G135). 
+ 4. Cabin door-open warning system, GAF Installation Dwg N-81-12 (Ref. GAF Modification N9/24). 
+ 5. Self-illuminating exit signs, GAF Dwg. N-84-90 (Ref. GAF Option G67A). 
+ 6. Additional cabin markings and placards. 
+ GAF DWG. N-00-286 (Ref. Option G257) 
+ GAF DWG. N-00-289 (Ref. Option G301) 
+ GAF DWG. N-00-291 (Ref. Option G301) 
+ 7. Approved radio and navigational equipment must be installed in accordance with FAR Part 135.157. 
+ The following particular radio and navigation equipment were installed at the time of original 
+ certification. Alternative equipment may be used as approved by the FAA or the Department 
+ of Transport (now CAA). 
+ King KMA20 Audio (Ref. GAF Option G50B) 
+ King KX175B Nav-Comm. (Ref. GAF Opiton G51-24) 
+ King KX175B Second Nav-Comm. (Ref. GAF Option G73-24) 
+ King K176 ATC Transponder (Ref. GAF Option G75-24) 
+ King KCS55A Pictorial Nav. (Ref. GAF Option G231) 
+ 8. Additional cabin fire extinguishers must be installed per FAR 135.161. 
+ The cabin fire extinguishers located under the pilot's seat are provided by the manufacturer and must 
+ be installed at all times."
+"III. Model N22S (Normal Category), approved March 31, 1989 
+ Model N22S similar to N22B. N22S incorporates an increase in gross weight, Model 250-B17E engine, chin mounted 
+ radome, retractable FLIR, reduction in rudder travel and reduction in number of seats to five maximum.",
+Engines,2 Allison Gas Turbine Division of General Motors Model 250-B17E.
+Fuel,"MIL-T-5624 Grade JP-4 or JP-5; ASTM:D-1655 Jet A, Jet A-1 or Jet B; 
+ JP-1 Fuel conforming to ASTM:D-1655 Jet A or Jet A-1, Diesel fuel No 1 
+ conforming to ASTM:D-1655 Jet A or Jet A-1. 
+ Allison 250-B17 Series Operation and Maintenance Manual, Publication 11W2, 
+ lists detailed information."
+Oil,"MIL-L-23699 or MIL-L-7808G. 
+ Allison 250-B17 Series Operation and Maintenance Manual, Publication 11W2, 
+ lists approved brand oils."
+Engine Limits,"** 
+ *** 
+ SHP 
+ Gas 
+ Power 
+ Turbine 
+ Generator 
+ Turbine 
+ Outlet 
+ Speed N1% 
+ Speed N2% 
+ TempC"
+Takeoff,"420 
+ 105 
+ 105 
+ 810 
+ 420 
+ 105 
+ 105 
+ 810 
+ *See NOTE 7; **See NOTE 8; ***Normal operations are limited to 100% N2. 
+ 105% N1 = 53,519 r.p.m. 
+ 102% N2 = 33,956 r.p.m. @ 2,071 propeller r.p.m."
+Propellers,"2 Hartzell Hub Type HC-A3VF-7 or HC-A3VF-7B 
+ Blade type V10133 D-11 or V10133 N-11"
+Propeller Limits,"Diameter: 90.63 inches maximum 
+ 88 inches maximum 
+ Pitch setting at 30 in. station: 
+ Flight Idle 
+ 6 deg. (nominal) 
+ Ground Idle 
+ 0 deg. (nominal) 
+ Reverse 
+ -13/5 deg.  .5 deg 
+ Feather 
+ 85 deg.  1 deg"
+Airspeed limits CAS,"Vmo (Max. operating) 
+ 162 knots 
+ Va (Maneuvering) 
+ 136 knots 
+ Vfe (Max. flap extended) 
+ 0-10° extension 
+ 120 knots 
+ 10-38° extension 
+ 106 knots 
+ Vlo (Landing gear operating) 
+ 120 knots 
+ Vle (Landing gear extended) 
+ 120 knots 
+ Vmc (Minimum control) 
+ 74 knots"
+CG range,"187.5 inches to 197.11 inches aft of datum at 8,000 lbs. or less. 
+ 188.6 inches to 197.11 inches aft of datum at 8,500 lbs. 
+ 193.6 inches to 197.11 inches aft of datum at 9,100 lbs. 
+ Straight line variation between 8,000 lbs. and 8,500 lbs. and between 
+ 8,500 lbs. and 9,100 lbs. 
+ Moment change due to retracting landing gear -4,700 in-lbs."
+Datum,Datum located 171.86 inches forward of wing leading edge.
+Leveling means,"Longitudinal - along cabin seat rails. 
+ Lateral - across cabin seat rails."
+Maximum weights,"Ramp 
+ 9,150 lbs. 
+ Takeoff 
+ 9,100 lbs. 
+ Landing 
+ 8,500 lbs."
+Maximum zero fuel wt,"8,250 lbs. (all weights above 8,250 lbs. must be in fuel weight)."
+No of seats,"5 maximum 
+ Flight Crew at 112.0 to 115.0 inches aft of datum. 
+ Sensor operator at 209.0 inches aft of datum. 
+ Observer 1 at 271.0 inches aft of datum. 
+ Observer 2/Instructor at 305.0 inches aft of datum."
+Fuel capacity,"274 U.S. gal. total in two interconnected tanks per side. 
+ 268 U.S. gal. usable at 197.5 inches aft of datum.. 
+ 89 U.S. gal. total in two wing auxiliary tanks, one per side. 
+ 88 U.S. gal. usable at 197.5 inches aft of datum."
+Oil capacity,1.8 U.S. gal. drainable per engine at 141.0 inches aft of datum.
+Maximum operating,"25,000 ft. (except as limited by oxygen system requirements)."
+altitude,"12,500 ft. (when autopilot engaged). 
+ 20,000 ft. with fuel in auxiliary tanks (except as limited by oxygen system 
+ requirements)."
+Control surface movements,"Wing flaps 
+ Maximum 38° 
+ Aileron (flap retracted) 
+ Up 20° 
+ Down 20° 
+ Spoiler (flaps 38°) 
+ Up 28° 
+ Down 3° 
+ Horizontal Stabilizer 
+ Up 18° 
+ Down 8° 
+ (at trailing edge) 
+ Horizontal Stabilizer Tab 
+ Up 27° 
+ Down 12° 
+ (trim wheel at zero position) 
+ Horizontal Stabilizer Trim 
+ Up 17° 
+ Down 6° 
+ (stabilizer at neutral position) 
+ Rudder 
+ Right 18° 
+ Left 18° 
+ Rudder tab 
+ Right 6° 45 
+ Left 6° 45 min 
+ (trim wheel at neutral position) 
+ Rudder trim 
+ Right 27° 
+ Left 27° 
+ (rudder at zero position) 
+ Detail rigging information contained in GAF Maintenance Manual Pub 12.20, Sec 27."
+Serial Nos eligible,"N22B-5 and subsequent. Military versions, designated by serial numbers with 
+ suffix ""M"", are not eligible for civil certification. The Government of Australia, 
+ Department of Transport and Communication Certificate of Airworthiness for 
+ Export endorsed as noted under ""Import Requirements"" must be submitted for 
+ each individual aircraft for which application for U.S. airworthiness certification 
+ is made. (See NOTE 4)"
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see certification 
+ basis) must be installed in the aircraft for the airworthiness certification. Build standard is defined in 
+ document R1065 - Searchmaster USCS Basic Aircraft Build (Coordination Option) and includes the 
+ following mandatory items of equipment required for FAA certification. 
+ Equipment Required for Compliance with FAR 23 Amendments 1-9 
+ 1. 
+ Department of Transport and Communications approved Airplane Flight Manual ASTA 
+ Publication No. 12.28 FS Section 3.19 contains flame-out and engine inflight starting 
+ procedures and section 5, Figure 5.7, pertains to maximum takeoff weight versus 
+ altitude/temperature. 
+ 2. 
+ Indestructible identification plate (ref ASTA DWG N-00-234. 
+ 3. 
+ Pre-stall warning detectors (Safe Flight Instrument Corp. P/N 165-5) and dual warning 
+ unit (Safe Flight Instrument Corp P/N 284) (Ref ASTA Dwgs N-81-383 and N-81-292). 
+ 4. 
+ Engine oil shutoff valves ASTA P/N 1/N-50-432 (Ref ASTA Option G240 and modification 
+ N376). 
+ 5. 
+ Auxiliary fuel boost pump circuit duplication (Ref ASTA Option G247). 
+ 6. 
+ Fail-safe fuel filler neck assemblies, Main tanks - ASTA P/N N-58-318 (Ref ASTA Option 
+ G250), Auxiliary tanks ASTA P/N N-57-411/412 (Ref ASTA modification N693). 
+ 7. 
+ Airspeed indicator with dial markings in accordance with ASTA Dwg NO-8-442 (Ref ASTA 
+ Option G251G). 
+ 8. 
+ Engine fire detection/warning system installed per ASTA Dwgs N-60-11, N-80-442 and N-81-857, 
+ System incorporates 150D/01-200 Fire Detector Switches (ref also ASTA Option R632 - 
+ Autofeather and Engine Fire Detector Control Panel). 
+ 9. 
+ Fuel strainers per ASTA Dwg No N-57-170 (purolator 7510770). 
+ 10. Propeller autofeather system, ASTA Installation Dwg N-50-387 (Ref ASTA Option G214). 
+ 11. Alternate cabin vented static source, ASTA Installation Dwg N-80-688 (ref ASTA Option R637). 
+ 12. Extended circuit breaker panel for cabin mounted circuit breakers for the Fire Detection System, 
+ ASTA Dwg N-81-646 (ref ASTA modification N218). 
+ 13. Engine Intake Cowl (ref. GAF Modification N374). 
+ Compliance with engine inlet anti-icing requirements of FAR 23.1093, Amendment 23-9 has 
+ been demonstrated for the Model N22S when (GAF) Modification N374 is fitted. 
+ Equipment Required for Compliance with FAR 23.785 (g) and (h) 
+ 1. 
+ Cockpit Seats (Ref ASTA Dwgs N-00-120) are equipped with PACIFIC SCIENTIFIC inertia 
+ reel/shoulder harness/belt assemblies Part No. 0106957-01/1101020-2 to MIL-R-8236. 
+ 2. 
+ Sensor Operator's Seat is equipped with a PA Safety Equipment N206-A (ECO 1128) inertia 
+ reel/shoulder harness/belt assembly comprising American Safety fittings, buckle (H141-A), 
+ inertia reel (Part No. 7260111) and webbing to MIL-W-4088 type 24, (Ref ASTA Dwg 
+ N-00-930) approved to DOTC ANO 108.42. 
+ Equipment Required for Compliance with FAR 135 Appendix A 
+ 1. 
+ Department of Transport and Communications Approved Flight Manual, ASTA Pub 12.28FS 
+ contains FAR 135 performance data. 
+ 2. 
+ Oil low pressure warning system, ASTA Installation Dwg. No. N-81-548 (ref ASTA Option G213). 
+ 3. 
+ Combined Caution Panel, ASTA P/N N-80-731 (ref ASTA Option R631). 
+ 4. 
+ Cabin door-open warning system, ASTA Installation Dwg N-81-12 (ref ASTA Modification N9). 
+ 5. 
+ Crew door lock indication and inadvertent opening prevention system, ASTA Dwg N-10-537/8 
+ sheet 5 (ref ASTA modification N240). 
+ 6. 
+ Self-illuminating exit signs, ASTA Dwg N-84-90 (ref ASTA Option G67A). 
+ 7. 
+ Additional cabin markings and placards. 
+ ASTA Dwgs. N-00-289, N-00-291 (ref ASTA Option G301) 
+ ASTA Dwgs N-00-244 (ref ASTA modification N240). 
+ 8. 
+ The following radio and navigation equipment is installed (ref FAR 135.159: Radio and navigation 
+ equipment extended overwater or IFR operations.) 
+ a. 
+ Collins VHF-22B transceiver (ASTA Option R600) 
+ b. 
+ Andrea A301-6 Audio/Intercom System (ASTA Option R617) 
+ c. 
+ Collins VIR-32 Nav. 1 Receiver (ASTA Option R601) 
+ d. 
+ Collins VIR-32 Nav. 2 Receiver (ASTA Option R630) 
+ e. 
+ Collins 718U-5 HF system (ASTA Option R598) 
+ 9. 
+ Fire extinguishers - Graviner P/N HA1002 one mounted behind right crew seat (ref ASTA Dwg 
+ N-10-1513, Option R611) one mounted in cabin in front of jockey seat (ref ASTA DWG N-00-930)."
+DATA COMMON TO ALL MODELS,
+Certification basis,"FAR 21.29 and FAR 23, effective February 1, 1965, including Amendment 23-1 to 
+ 23-9 inclusive and FAR Part 135 Appendix A, Additional Airworthiness Standards for 
+ 10 or More Passenger Airplanes, including Amendments 135-1 to 135-41 inclusive. 
+ N22B and N224A are eligible for operations under FAR Part 135 when the required 
+ additional equipment as listed under ""Equipment"" is installed. Compliance has also 
+ been shown with FAR 36 noise requirements and SFAR 27 fuel venting requirements. 
+ Satisfactory findings under the Noise Control Act of 1972 completed January 21, 
+ 1977. Negative Environmental Declaration prepared February 4, 1977. Certification 
+ basis established per AFS-100 letter to APC-200, dated April 12, 1976, and letter 
+ from Manager, Western Aircraft Certification Office to Government Aircraft 
+ Factories dated August 1, 1986. 
+ Austrailian Department of Transport letter 138/23/30 dated December 10, 1970, to 
+ Government Aircraft Factories relates to performance requirements for turbopropeller 
+ installation. 
+ Australian Department of Transport letter 138/23/61 dated January 17, 1975, to 
+ Government Aircraft Factories relates to certification of ramp weight. 
+ Compliance with engine inlet anti-icing requirements of FAR 23.1093, Amendment 
+ 23-9 has been demonstrated for all models when (GAF) Modification N374 is fitted. 
+ Compliance with ice protection requirements has been demonstrated in accordance with 
+ FAR 23.1419, Amendment 23-9, when deicing equipment is installed in accordance 
+ with Customer Option G286. 
+ Date of Application for Type Certificate: October 14, 1975 
+ Type Certificate No. A7PC issued May 20, 1977 for Model N22B. 
+ Type Certificate No. A7PC amended November 16, 1978 to add Model N24A. 
+ Type Certificate No. A7PC amended December 31, 1981 to add Model 250-B17C 
+ engine. 
+ Type Certificate No. A7PC amended March 31, 1989 to add Model N22S, to change 
+ ownership of the Type Certificate, and include Model 250-B17E engine. 
+ Compliance has been shown with FAR 36-16, dated November 22, 1988."
+Import requirements,"To be considered eligible for operation in the United States, each aircraft 
+ manufactured under this type certification must be accompanied by a certificate of 
+ airworthiness for export or certifying statement endorsed by the exporting foreign 
+ civil airworthiness authority which states (in the English language): This aircraft 
+ conforms to its U.S. type design (type certification number A7PC) and is in a 
+ condition for safe operation. 
+ The U.S. airworthiness certification basis for aircraft type certificated under 
+ FAR Section 21.29 and exported by the country of manufacture is FAR Sections 
+ 21.183(c) or 21.185(c). 
+ The U.S. airworthiness certification basis for aircraft type certificated under 
+ FAR Section 21.29 exported from countries other than the country of manufacture 
+ (e.g., third party country) is FAR Sections 21.183(d) or 21.183(b). 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United 
+ States of both new and used aircraft based on the scope of the agreement, to identify any 
+ required statements by the exporting authority on the export certificate of airworthiness 
+ (or equivalent document), and for procedures for coordinating exceptions to conformity 
+ statements on these documents. Refer to FAA Order 8130.2, Airworthiness Certification 
+ of Aircraft, for requirements for issuance of an airworthiness certificate for imported 
+ aircraft"
+Service Information,"Maintenance/Structural Repair Manual and all Service Bulletins issued by Government 
+ Aircraft Factories or Aerospace Technologies of Australia Pty Ltd, are approved by 
+ the Australian Department of Transport and Communications (now CAA) through 
+ the Manufacturers' Approval. Documents are available from Aerospace Technologies 
+ of Australia Pty Ltd., 226 Lorimer Street, Port Melbourne, Victoria, 3207, Australia."
+NOTE 1,"Current weight and balance report including list of equipment included in the certificated empty weight 
+ and loading instructions must be in each aircraft at the time of original certification and at all times thereafter. 
+ Loading instructions and the aircraft Empty Weight Balance Statement for each individual aircraft are included 
+ in the Australian DOT Approved Airplane Flight Manual or Australian DOTC Approved Airplane 
+ Flight Manual.. 
+ The ""Empty Weight"" shown in the aircraft Empty Weight Balance Statement includes unusable fuel and 
+ undrainable oil. 
+ The ""Basic Empty Weight"" shown in the aircraft Empty Weight Balance Statement includes unusable fuel and 
+ undrained oil."
+NOTE 2,"All placards listed in the Approved Airplane Flight Manual must be installed in the appropriate locations on the 
+ aircraft. AFM Figures 2.6, 2.7, and 2.5 specify placards for flight compartment, main cabin, and exterior 
+ respectively. Each individual aircraft must be identified with a placard which specifies approved types of 
+ operation; e.g., VFR or IFR, to which the airplane is limited by the equipment installed. Operations into known 
+ or forecast icing conditions is prohibited. Additional placards for optional equipment must be included as 
+ required by the Airplane Flight Manual Supplements supplied with the particular aircraft."
+NOTE 3,"Information essential for the proper maintenance of the airplane is contained in: 
+ ""Aircraft Maintenance Manual"" 
+ GAF Publication 
+ 12.20 (Model N22B) 
+ 12.50 (Model N24A) 
+ 12.20 (Model N22S) 
+ ""Aircraft Wiring Manual"" 
+ GAF Publication 
+ 12.23 (Model N22B) 
+ 12.53 (Model N24A) 
+ 12.23 (Model N22S) 
+ The following airplane structural components are fatigue critical and must be replaced at the times indicated: 
+ Model N22B: 
+ Wing strut lower/upper fittings (P/N 1/N-20-641/643) 
+ 14,000 hrs. 
+ Stub wing/strut pick-up fittings (P/N 1/N-11-544/545) 
+ 18,400 hrs. 
+ Flap inboard control tube assembly (P/N 1/N-45-1139/1140) 
+ 12,000 hrs. 
+ Stub wing front spar (P/N 1/N-11-473) 
+ 25,000 hrs. 
+ Model N24A: 
+ Wing strut lower/upper fittings (P/N 1/N-20-641/643) 
+ 12,000 hrs. 
+ Stub wing/strut pick-up fittings (P/N 1/N-11-544/545) 
+ 12,400 hrs. 
+ Flap inboard control tube assembly (P/N 1/N-45-1139/1140) 
+ 12,000 hrs. 
+ Stub wing front spar (P/N 1/N-11-473) 
+ 25,000 hrs. 
+ Model N22S 
+ Wing strut lower/upper fittings (P/N 1/N-20-641-643) 
+ 12,600 hrs. 
+ Stub wing/strut pickup fittings (P/N 1/N-11-544/545) 
+ 14,100 hrs. 
+ Flap inboard control tube assy (P/N 1/N-45-1139/1140) 
+ 12,000 hrs. 
+ Stub wing front spar (P/N 1/N-11-473) 
+ 25,000 hrs. 
+ These retirement lives may be extended subsequent to the completion of full-scale fatigue 
+ tests to failure by the manufacturer. Further information and approval for any life 
+ extension may be obtained from FAA, Northwest Mountain Region, Los Angeles Aircraft 
+ Certification Office, or as authorized by Australian DOT approved Service Bulletins 
+ issued by the manufacturer (see ""Service Information""). 
+ The engine life limited components and their retirement or TBO hours are as listed in the 
+ FAA approved Allison 250-B17 series Operations and Maintenance Manual Pub 11W2 issued 
+ by the engine manufacturer."
+NOTE 4,"Aircraft equipped to comply with the requirements of FAR 23 (see ""Certification Basis"") will be identified 
+ by the suffix F to the serial number."
+NOTE 5,"Approved Airplane Flight Manual, GAF Pub. No. 12.28F supersedes GAF Pub. No. 12.28C fitted 
+ to earlier aircraft."
+NOTE 6,"Loading limitations for Nomad N22B and N24A freighter (all cargo) configurations contained in 
+ GAF Drawings No. N-00-347 and No. N-00-348 respectively."
+NOTE 7,"The engine limits listed are the N1, N2 and T.O.T. limits and rated SHP as shown in the eingine type 
+ certificate data sheet NO. E10CE, Revision 12, for the Allison Models 250-B17B, 250-B17C, and 
+ 250-B17E engines."
+NOTE 8,"For Models N22B and N24A the airframe manufacturer's installed limits and the performance charts 
+ in the particular airplane flight manual are based on the engine manufacturer's T.O.T. and torque meter 
+ limits for the Model 250-B17B engine of 810C (takeoff and maximum continuous) and 1087 lb. ft. 
+ (take-off) and 996 lb. ft. (maximum continuous). These limits are equal to or less than the corresponding 
+ limits for the Model 250-B17C engine. 
+ For Model N22S the airframe manufacturer's installed limits and the performance charts in the airplane 
+ flight manual are based on the engine manufacturer's T.O.T. limit for the Model 250-B17E engine of 
+ 810C (take-off and maximum continuous)."
+NOTE 9,"This model may intermix with the following engines in the combination and with appropriate limitations 
+ noted in the Australian Department of Transport Approved Flight Manuals."
+NOTE 10,"The maximum allowable torque as measured by the torquemeter for below standards inlet air 
+ temperature and/or ram conditions is 1165 lb.-ft. for 10 seconds; 1087 lb.-ft. for takeoff and 996 lb-ft. 
+ for maximum continuous."
+NOTE 11,"The statement of compliance with FAA Airworthiness Directive is contained in Report No. N22S-6012F 
+ Nomal Model N22S Certification Compliance with FAA Airworthiness Directives."

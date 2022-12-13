@@ -1,0 +1,584 @@
+Keyterm,Info
+"A27NM 
+ Revision 5 
+ BAE Systems 
+ Model ATP 
+ July 29, 2011",
+Type Certificate Holder,"BAE SYSTEMS (Operations) Limited. 
+ Prestwick International Airport 
+ Ayrshire, Scotland KA9 2RW 
+ British Aerospace ATP (Transport Category) approved August 31, 1988;"
+Engines,"Two Pratt & Whitney Canada , Model PW 124A, or 
+ Model PW 126A, (Modification 05000A) 
+ Turbo Propeller, Reduction gear ratio: 0.06 to 1."
+Engine Limits PW 124A,"ENGINE / PROPELLER OPERATING LIMITS 
+ TIME 
+ OIL (b) 
+ OIL 
+ MAX 
+ MAX 
+ MAX 
+ MAX"
+OPERATING,"MAX 
+ LIMIT 
+ TEMP 
+ PRESSURE 
+ ITT 
+ NL 
+ NH 
+ NP (a)"
+CONDITION,"TORQ 
+ (g) 
+ % 
+ % 
+ % 
+ % 
+ C 
+ PSI 
+ C"
+Maximum,"97.7 
+ 101.0 
+ 101.5 
+ 102.4 
+ 800 
+ 56 to 64 (c) 
+ 0 to 115 
+ 5 minutes"
+Maximum,"90.8 
+ 101.0 
+ 101.5 
+ 102.4 
+ 800 
+ 56 to 64 (c) 
+ 0 to 115 
+ unlimited"
+Normal,"87.9 
+ 101.0 
+ 101.5 
+ 102.4 
+ 770 
+ 56 to 64 (c) 
+ 0 to 115 
+ 5 minutes"
+Min Idle,"- 
+ - 
+ Min 66 
+ - 
+ - 
+ Min 41(d) 
+ -40 to 115 (f) 
+ unlimited"
+Starting,"- 
+ - 
+ - 
+ - 
+ 950 (e) 
+ - 
+ Min -54 
+ -"
+Transient,"120.0 
+ 115.0 
+ - 
+ - 
+ 840 
+ 41 to 100 
+ - 
+ 20 seconds"
+Other,"- 
+ - 
+ - 
+ - 
+ - 
+ - 
+ Max 120 
+ 20 minutes 
+ Engine Limits: PW 126A (Modification 05000A)"
+Maximum,"108.3 
+ 101.0 
+ 102.1 
+ 103.8 
+ 800 
+ 56 to 64 (c) 
+ 0 to 115 
+ 5 minutes"
+Takeoff,(h)
+Maximum,"108.3 
+ 101.0 
+ 102.1 
+ 103.8 
+ 800 
+ 56 to 64 (c) 
+ 0 to 115 
+ unlimited"
+Continuous,(h)
+Normal,"108.3 
+ 101.0 
+ 100.6 
+ 101.5 
+ 765 
+ 56 to 64 (c) 
+ 0 to 115 
+ 5 minutes"
+Takeoff,(h)
+Min Idle,"- 
+ - 
+ Min 66 
+ - 
+ - 
+ Min 41 (d) 
+ Max 115 
+ unlimited"
+Starting,"- 
+ - 
+ - 
+ - 
+ 950 (e) 
+ - 
+ Min -54 
+ -"
+Transient,"120.0 
+ 115.0 
+ 103.1 
+ 103.8 
+ 840 
+ 41 to 100 
+ - 
+ 20 seconds"
+Other,"- 
+ - 
+ - 
+ - 
+ - 
+ - 
+ Max 120 
+ 20 minutes"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8"
+Rev No,"2 
+ 1 
+ 1 
+ 1 
+ 3 
+ 5 
+ 5 
+ 5 
+ NOTE: 
+ MAXIMUM TAKEOFF rating is the maximum certified for takeoff operation. This rating is 
+ referred to as Max Contingency in airplane markings and the Airplane Flight Manual. When the TAKEOFF 
+ mode is selected the MAXIMUM TAKEOFF rating is available through actuation of the fuel control 
+ Automatic Takeoff Power Control System (ATCPS) when engine is operating at the NORMAL TAKEOFF 
+ rating or manually by throttle movement. 
+ NORMAL TAKEOFF rating is the maximum thrust to be set for takeoff operation with the aircraft 
+ Automatic Takeoff Power Control System (ATPCS) operative. This rating is referred to asTakeoff in 
+ airplane markings and the Airplane Flight Manual. When set, this rating ensures that the MAXIMUM 
+ TAKEOFF rating will be achieved upon actuation of ATPCS. 
+ (a) Overspeed due to propeller system malfunction permissible up to 115% for Max 15 minutes subject to 
+ maintenance action. 
+ (b) Oil temperature must be maintained above 45C to ensure protection against intake icing. 
+ (c) Below 56 psi reduce power (NH less than 75%), below 41 psi shutdown. 
+ (d) Below flight idle. 
+ (e) 5 seconds 
+ (f) Power above flight idle not allowed for oil temperature below 0C. 
+ (g) Never exceed torque limit (excluding transients) - 103.9% at a maximum NP of 85%. 
+ (h) The above limitations are defined by the torque capacity of the engine/gearbox combination. The 
+ torque settings for normal operation are given in the airplane flight manual."
+Grade Type,Specification
+Kerosene Type,D Eng RD 2453 Issue 4 Am 1
+AVTURJP1,"D Eng RD 2494 Issue 8 Am 1 
+ ASTM D1655-74 Jet A 
+ ASTM D1655-74 Jet A-1 
+ 3-GP-23h 
+ IATA Nov 1978: Kerosene Type"
+Wide Cut Fuels,D Eng RD 2454 Issue 4 Am 1
+AVTAGJP4,"D Eng RD 2486 Issue 9 Am 1 
+ ASTM D1655 
+ IATA Nov 1978 JP 4 type 3-GP-22h 
+ MIL-T-5624J JP4 grade 
+ AIR 3407/8 (French) 
+ TL 9130-006 Issue 4 (German) 
+ CAN 2-3 22M 78 (Canadian)"
+High Flash Point,D Eng RD 2498 Issue 7
+AVCAT JP5,"D Eng RD 2452 Issue 2 
+ 3-GP-24g (Canadian) 
+ MIL-T-5624J JP5 grade 
+ AIR 3404/C (French) 
+ TL 9130-007 Issue 4 (German)"
+Emergency Fuels,"MIL-G-5572 aviation gasoline 
+ Limited to 150 hours use. 
+ Engines to be removed for overhaul after this time period. 
+ Fuel Temperature Limits: Aircraft must not be operated with fuel temperature exceeding 54C or below -48C."
+Propeller and Propeller Limits,"Two British Aerospace Hamilton Standard 6/5500/F-1. 
+ Diameter 13.75 feet. 
+ Pitch settings at 0.75 radius station. 
+ Maximum reverse -16, Ground Idle -7.9 
+ Flight Idle 
+ 12.5 
+ Takeoff 10.5 
+ Low pitch warning below 10, Feathered 76 
+ Speed range: Takeoff, maximum continuous and maximum takeoff 1,212 rpm. 
+ Climb and cruise 1,020 rpm. Flight Range 950 to 1,212 rpm. Quiet taxi 
+ mode 825 to 1,212 rpm. 
+ Any ground check requiring continuous operation above 920 prop rpm or 
+ between 620 and 720 prop rpm is prohibited except for pre-flight checks 
+ of short duration."
+Airspeed Limits,"VMO (Maximum Operating) 
+ 227 knots IAS 
+ at sea level increasing linearly to 
+ 230 knots IAS 
+ up to 15,000 ft. 
+ 220 knots IAS 
+ above 15,000 ft increasing linearly to 
+ 221 knots IAS 
+ up to 22,000 ft decreasing linearly to 
+ 208 knots IAS 
+ at 25,000 ft. 
+ VA (Maneuvering - flaps retracted) 
+ 170 knots IAS at all altitudes 
+ VFE (Flap Speeds) 
+ 180 knots IAS 
+ 7 flap 
+ 180 knots IAS 
+ 15 flap 
+ 150 knots IAS 
+ 20 flap (with Mod 05000A) 
+ 140 knots IAS 
+ 22 flap 
+ 130 knots IAS 
+ 27 flap 
+ 140 knots IAS 
+ 29 flap (with Mod 05000A) 
+ VLO (Landing Gear Operation) 
+ 180 knots IAS 
+ Lowering 
+ 150 knots IAS 
+ Retraction 
+ VLE (Landing Gear Extended) 
+ 180 knots IAS 
+ VMC Minimum Control Speeds: 
+ In the air, VMC= 
+ 97 knots IAS 
+ 0 or 7 flap 
+ 92 knots IAS 
+ 15 flap 
+ On or near the ground Vmcg = 
+ 99 knots IAS 
+ 7 flap up to 38,500 lbs increasing linearly to 
+ 101.5 knots IAS 
+ at 50,500 lbs 
+ With 15 flap Vmcg = 
+ 95 knots IAS 
+ at 38,500 lbs. increasing linearly to 
+ 100 knots IAS 
+ at 50,550 lbs. 
+ During landing Vmcl = 
+ 90 knots IAS 
+ with 20 flap (with Mod 05000A) 
+ 90 knots IAS 
+ with 22 flap 
+ 88 knots IAS 
+ with 27 flap 
+ 88 knots IAS 
+ with 29 flap (with Mod 05000A)"
+CG Range Landing Gear Extended,"Landing Gear Retraction Moment - 81,719 lb. in. 
+ Weight 
+ Forward 
+ Forward 
+ (lb) 
+ (In Flight) 
+ (Takeoff & Landing) 
+ AFT 
+ Aft of Datum (ins) 
+ Aft of Datum (ins) 
+ Aft of Datum (ins) 
+ 28,000 
+ 49.0 
+ 51.4 
+ 66.5 
+ 30,000 
+ - 
+ - 
+ 66.5 
+ 33,070 
+ 49.0 
+ - 
+ - 
+ 33,400 
+ - 
+ 51.4 
+ - 
+ 38,000 
+ - 
+ - 
+ 75.5 
+ 46,800 
+ 60.05 
+ 62.2 
+ 76.85 
+ 50,550 
+ 61.7 
+ 63.7 
+ 77.25 
+ Straight line variations between weights. 
+ NOTE:With 27 or 29 flap selected for landing, the forward CG limit is 58.0 inches aft of 
+ Datum below 41,430 lbs."
+Maximum Weights,"Maximum Ramp Weight 
+ 50,700 lbs 
+ Maximum Takeoff Weight 
+ 50,550 lbs 
+ Maximum Landing Weight 49,050 lbs 
+ Maximum Zero Fuel Weight 46,800 lbs"
+Maximum Baggage,"Baggage hold located according to passenger layout. 
+ Between fuselage formers 378 in. forward and 252 in. forward of the fuselage datum, maximum 
+ permissible floor loading is 100 lb/ft2 over the full width of the fuselage and a maximum load of 
+ 1,700 lbs. 
+ Between fuselage formers 308 in. aft and 378 in. aft of the fuselage datum, maximum permissible 
+ floor loading is 100 lb/ft2 over the full width of the fuselage and a maximum load of 2,325 lbs. 
+ Rudder 
+ 19 + 1 - 0 Right 
+ 19 + 1 - 0 Left 
+ Spring Tab (rudder locked) 
+ 20 + 3 - 1.5 Right 
+ 20 + 3 -1.5 Left 
+ Geared Trim Tab (trim movement) 
+ 9.15 + 1 - 0 Right 
+ 15.15 + 1 - 0 
+ Left 
+ Ailerons 
+ 20  0.5 
+ Up 
+ 20 + 0.5 
+ Down 
+ Trim Tabs (right aileron only) 
+ 15.5 + 1.5 - 0 
+ Up 
+ 15.5 + 1.5 - 0 
+ Down 
+ Geared Tabs 
+ 5 
+ Up 
+ 1 to 3.5 Down 
+ Elevator 
+ 22 + 1 - 0 
+ Up 
+ 13.5 + 1 - 0 
+ Down 
+ Tab (Balance mode) 
+ 5.0  1 Up 
+ 8.1  1 Down 
+ Tab (trim mode) 
+ 3.2  1 Up 
+ 11.2  1 
+ Down 
+ Flaps total angle of travel 27 or 29 (with Mod 05000A) The rigging instructions including 
+ tolerances are given in the Manufacturers Recommended Maintenance Manual."
+Minimum Crew,2 - Pilot and Co-pilot
+Maximum Passengers,68
+Maximum Operating Altitude,"25,000 ft"
+Fuel Capacity,"Two integral wing fuel tanks each of 854 US usable gallons capacity. Moment arm plus 
+ 82.3 in. (i.e. aft of CG datum point). 
+ Maximum fuel density 7.1 lb/U.S. gallon 
+ Minimum fuel density 6.0 lb./ U.S. gallon"
+Oil Capacity Movement,"Two oil tanks each 5.72 US gallons capacity, including propeller pitch control oil. arm - 
+ 10 in. (i.e. forward of CG datum point)."
+Datum,"The zero datum of the airplane is the forward face of the rear spar former. The CG 
+ datum is 108.3 in. forward of zero datum."
+Standard Mean Chord SMC,"The standard mean chord is 100.632 in. The leading edge of the standard mean chord is 
+ 44 in. aft of the CG datum."
+Leveling Means,The seat rail in the forward fuselage adjacent to the left hand forward passenger door.
+Operating Limitations,"Aircraft shall be operated in compliance with the operating limitations specified in the 
+ CAA approved Flight Manual Document No ATP 002 dated August 25, 1988, or for 
+ aircraft with Mod 05000A Flight Manual Document No. ATP 0004 dated December 14, 
+ 1989 or later approved revisions."
+Serial Nos Eligible,"A United Kingdom Certificate of Airworthiness for Export endorsed as noted under 
+ “Import Requirements” below must be submitted for each individual airplane for which 
+ application for United States certification is made."
+Transition Statement,"The United Kingdom Civil Aviation Authority originally type certificated this 
+ aircraft under its type certificate Number BA23. The FAA validated this 
+ product under U.S. Type Certificate Number A24EU. Effective September 28, 
+ 2003, the European Aviation Safety Agency (EASA) began oversight of this 
+ product on behalf The United Kingdom."
+Import requirement,"The FAA can issue a U.S. airworthiness certificate based on an NAA Export 
+ Certificate of Airworthiness (Export C of A) signed by a representative of the 
+ United Kingdom Civil Aviation Authority on behalf of the European 
+ Community. The Export C of A should contain the following statement: ‘The 
+ aircraft covered by this certificate has been examined, tested, and found to 
+ conform with Type Design approved under U.S. Type Certificate No. A27NM 
+ and to be in a condition for safe operation.’ 
+ The U.S. airworthiness certification basis for aircraft type certificated under 
+ FAR Section 21.29 and exported by the country of manufacture is FAR 
+ Sections 21.183(c) or 21.185(c). The U.S. airworthiness certification basis for 
+ aircraft type certificated under FAR Section 21.29 but exported from 
+ countries other than the country of manufacture (e.g., third party country) is 
+ FAR Sections 21.183(d) or 21.183(b). These sections provide that U.S. 
+ airworthiness certification are issued only if the Administrator finds, “that the 
+ aircraft conforms to the type design and is in a condition for safe operation.” 
+ In order for the FAA to make the finding that an ATP aircraft is in a 
+ condition for safe operation, the FAA certificating inspector or other 
+ authorized person must contact the Manager, International Branch, ANM- 
+ 116, FAA Transport Airplane Directorate; 1601 Lind Avenue Southwest; 
+ Renton, Washington 98055; telephone (425) 227-1263; fax (425) 227-1149, 
+ prior to issuance of the U.S. airworthiness certificate to obtain the FAA 
+ Required Modification List (RML) for the ATP. Prior to issuance of a 
+ Standard Airworthiness Certificate on any ATP model aircraft, all 
+ modifications shown in the model ATP RML must be accomplished in the 
+ interest of safety before the aircraft can be found to be in a condition for safe 
+ operation. 
+ Authority for these required modifications is given per the airworthiness 
+ certification provisions of 49 U.S.C. 44704 (c), which states ""the 
+ Administrator may include in an airworthiness certificate terms required in 
+ the interest of safety"". “Terms required in the interest of safety” include 
+ actions to correct unsafe conditions issued by the foreign authority of the state 
+ of design that also meet FAA criteria for corrective action. This law also gives 
+ the FAA the authority to adopt FAR § 21.183(c) and (d), which form the 
+ regulatory basis for the issue of standard U.S. airworthiness certificates on 
+ imported products. 14 CFR §21.183(c) and (d) provide that airworthiness 
+ certificates are issued only if the Administrator finds “that the aircraft 
+ conforms to the type design and is in a condition for safe operation.” The 
+ modifications identified in the Model ATP RML are required in the interest of 
+ safety and are necessary for this airplane to be in a condition for safe 
+ operation. 
+ A Notice of policy Statement announcing the FAA’s policy with respect to 
+ foreign mandatory continued airworthiness information, when no aircraft of 
+ the affected design are currently operating in the U.S. was published in the 
+ Federal Register on May 1, 1998. Additional guidance is contained in the 
+ FAA advisory Circular 21-23, Airworthiness Certification of Civil Aircraft, 
+ Engines, Propellers, and Related Products Imported into the United States."
+Service information,"Each of the documents listed below that contain a statement that it is approved 
+ by the European Aviation Safety Agency (EASA) - or for approvals made 
+ before September 28, 2003 - by the United Kingdom Civil Aviation Authority, 
+ are accepted by the FAA and are considered FAA approved. Additionally, 
+ approvals issued by BAE Systems (Operations) Limited under the authority of 
+ EASA approved Design Organization EASA.21J.047 - or for approvals made 
+ before September 28, 2003 - under the authority of United Kingdom Civil 
+ Aviation Authority or Design Organization Approval No. CAA.JA.02034 are 
+ considered FAA approved. These approvals pertain to the type design only. 
+ •BAE Systems (Operations) Limited Service Bulletins, except as noted below, 
+ • Structural repair manuals, 
+ • Vendor manuals referenced BAE Systems (Operations) Limited service 
+ bulletins 
+ • Aircraft flight manuals, 
+ • Repair Instructions. 
+ classified as Level 1 Major in accordance with either the US United Kingdom Civil Aviation Authority or 
+ US/EASA Bilateral Aviation Safety Agreement Implementation Procedures for Airworthiness must be approved by"
+Certification Basis,"1. 
+ JAR 25 including changes 1 through 10 
+ 2. 
+ The following section of FAR Part 25 effective February 1, 1965 as amended 
+ through Amendment 25-56:"
+251041,"25.671(c)(1) 
+ 25.954 
+ 25.1305 (c)(6) and (7)"
+251091,"25.693 
+ 25.993 (c) 
+ 25.1309 (a), (b), (c), (d), (e)"
+251093 b1i and ii b2,"25.729 (e) 
+ 25.994 
+ 25.1331 (a)(3)"
+251103,"25.735 (f)(1) 
+ 25.1013 
+ 25.1337 (a)(1) and (3)"
+25119 b,"25.773 (b)(1)(ii), (b)(2) 
+ 25.1015 
+ 25.1353 (a), (c)(5), (c)(6)"
+25125 a,"25.777 (e), (g) 
+ 25.1019 
+ 25.1401 (b), (f)"
+25201d,"25.781 
+ 25.1041 
+ 25.1411 (a)(2)"
+25331 c1,"25.783(f) 
+ 25.1091 
+ 25.1415 (d), (e)"
+25351 a1,"25.785 (g) 
+ 25.1093 (b)(1)(i) and (ii), (b)(2) 
+ 25.1438 (a),(b), (c)"
+25361 b,"25.787 (a) 
+ 25.1103 
+ 25.1501"
+25335 b2,"25.803 
+ 25.1121 
+ 25.1513"
+25365 a d,"25.809(j) 
+ 25.1123 
+ 25.1521 (b) and (c)"
+25511 b6,"25.832 
+ 25.1141 (f)(2) 
+ 25.1522"
+25571 b6,"25.843 (a) 
+ 25.1142 
+ 25.1547 (c)"
+25581,"25.901 (c) 
+ 25.1143 (f) 
+ 25.1549"
+25613,"25.903 (d)(1) 
+ 25.1181 
+ 25.1583 (a) (4) , (I)"
+25615,"25.939 (a) 
+ 25.1191 
+ 25.1585 (a)(1) through (10)"
+25621,"25.943 
+ 25.1195 
+ 25.1587 (a), (b) (4)"
+25631,"25.951 (a) 
+ 25.1303 (c)(1) 
+ 3. 
+ The applicant elected to have the following later requirements added to the TC basis: 
+ 25.812 as amended by Amendment 25-58 
+ 25.853 as amended by Amendment 25-59 
+ 25.904 as amended by Amendment 25-62 
+ 4. 
+ Special Condition 25-ANM-17 dated March 9, 1988, concerning engine control lightning protection. 
+ 5. 
+ Exemptions: 
+ No. 4812 Docket No 013NM concerning 25.571 (e)(2) sustaining structural damage from the loss of a propeller 
+ blade impact. 
+ No. 9798 Docket No 2008-0714 concerning EAPAS 26.11, AASR 26.43, 26.45, and 26.49. 
+ 6. 
+ Equivalent safety findings exist with respect to the following sections of the FAR: 
+ Section 25.783 (f) via pressurization test. 
+ Section 25.773 (b)(2) by additional design requirements and flight evaluation. 
+ 7. 
+ Special Federal Aviation Regulation No 27, effective February 1, 1974, including Amendments 27-1 through 
+ 27-6 (Fuel Venting and exhaust Emissions). 
+ 8. 
+ Part 36, effective December 1, 1969, including Amendment 36-1 through 36-14. Amendment 36-1 through 
+ 36-16 (Mod 050004). 
+ 9. 
+ BAE elected to demonstrate compliance with 25.1419: Ice Protection. Date of Application for Type 
+ Certificate April 5, 1982. 
+ 10. 
+ Part 26 of the Federal Aviation Regulations: 
+ Per 21.29(a), applicable provision of part 26. 
+ In accordance with 14 CFR Section 21.29, the, FAA has determined the above noted certification basis item 1 through 6 are 
+ equivalent to or exceed FAR Part 25 as amended through 25-56 requirements."
+Required Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see 
+ Certification Basis) must be installed in the aircraft for certification. 
+ Federal Aviation Administration (FAA) approved Airplane Flight Manual, BAE Model ATP, 
+ Document No ATP 002 dated August 25, 1988, published in the English language (CAA-UK 
+ approved on behalf of the FAA) or later CAA-UK approved revision, is required. 
+ For aircraft with Modification 05000A Federal Aviation Administration (FAA) approved Airplane 
+ Flight Manual, Bae Model ATP, Document No ATP 004 dated December 14, 1989 published in 
+ the English language (CAA approved on behalf of the FAA) or later CAA-UK approved revision, 
+ is required. 
+ Airplane Weight and Balance Manual Number BAe-MWE-R-ATP-2000 series."
+Available Documents,"Maintenance Review Board Report, Document No MRB ATP-01"
+NOTE 1,"Weight and Balance: 
+ (a) 
+ Current Weight and Balance Manual included in certificated empty weight and loading instructions 
+ must be provided for each aircraft at the time of original certification and at all times subsequently. 
+ British Aerospace “Weight and Balance Manual” No BAe-MWE-R-ATP-2000 series contains all the 
+ loading information required for each aircraft in its delivery configuration. 
+ (b) 
+ The airplane must be loaded so that the CG is within the specified limits at all times when all 
+ influences on CG position have been considered. 
+ (c) 
+ The Weight and Balance defined in (a) above quotes the quantities of usable fuel as determined by 
+ the critical conditions of FAR 25.959. Undrainable fuel, being that remaining in the aircraft when all 
+ fuel drain valves are opened on the ground, is also quoted in the Weight and Balance Manual."
+NOTE 2,All placards required in the Approved Airplane Flight Manual must be installed in the appropriate location.

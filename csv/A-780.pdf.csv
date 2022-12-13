@@ -1,0 +1,391 @@
+Keyterm,Info
+"A-780 
+ Revision 13 
+ FS2003 Corp. 
+ PA-12 
+ PA-12S 
+ March 30, 2001",
+Type Certificate Holder,"FS 2003 Corporation 
+ 709 Dupont Street, P. O. Box 1678 
+ Bellingham, WA 98227-1678"
+Type Certificate Ownership Record,"The New Piper Aircraft, Inc. 
+ 2926 Piper Drive 
+ Vero Beach, FL 32960 
+ TC 780 transferred 9-25-00, reissued 3-30-01"
+"I - Model PA-12, 3 PCLM (Normal Category), 2 PCLM (Utility Category), Approved March 24, 1947.",
+Engine,Lycoming O-235-C (See also Item 103 for optional engine)
+Fuel,73 minimum octane aviation gasoline
+Engine Limits,"For all operations, 2600 rpm (100 hp)"
+Airspeed Limits,"Maneuvering 
+ 94 mph 
+ ( 82 knots) 
+ True Ind. 
+ Cruising 
+ 110 mph 
+ ( 96 knots) 
+ True Ind. 
+ Never exceed (Normal) 
+ 138 mph 
+ (120 knots) 
+ True Ind. 
+ (Utility) 
+ 148 mph 
+ (129 knots) 
+ True Ind."
+C G Range,(+9.0) to (+18.6)
+Empty Weight CG Range,"(+9.5) to (+13.3) 
+ When empty weight C.G. falls within this range, computation of critical fore and aft 
+ C. G. positions is unnecessary. Range is not valid for non-standard arrangements."
+Maximum Weight,"Normal Category: 1750 lbs. 
+ Utility Category: 
+ 1500 lbs."
+Number of Seats,"3 
+ (One at +6 and two at +34) 
+ Only one person permitted in rear seat when operating in Utility Category."
+Maximum Baggage,"41 lbs. 
+ (+56)"
+Fuel Capacity,"38 gallons 
+ (+23) (one 19 gallon tank in each wing)"
+Oil Capacity,6 quarts (-41)
+Control Surface Movements,"Elevator 
+ 27° 
+ Up 
+ 32° 
+ Down 
+ Rudder 
+ 20° 
+ Left 
+ 20° 
+ Right 
+ Aileron 
+ 31° 
+ Up 
+ 25° 
+ Down 
+ Stabilizer 
+ 1°15' 
+ Up 
+ 5°30' 
+ Down"
+Serial Nos Eligible,12-1 and up.
+Required Equipment,"Landplane - Items 1(a), 101, 102, 201(a), 202(a) and 401(a). 
+ Skiplane - Items 1(a), 101, 102, 203, and 401(b)."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+Rev No,"13 
+ 12 
+ 13 
+ 8 
+ 11 
+ 11 
+ 10"
+"II - Model PA-12S, 3 PCSM (Normal Category Only), Approved August 11, 1948.",
+Engine,Lycoming O-235-C (See also Item 103 for optional engine)
+Fuel,80 minimum octane aviation gasoline
+Engine Limits,"For all operations, 2600 rpm (100 hp)"
+Airspeed Limits,"Maneuvering 
+ 97 mph 
+ (82 knots) 
+ True Ind. 
+ Cruising 
+ 110 mph 
+ (96 knots) 
+ True Ind. 
+ Never exceed 
+ 138 mph 
+ (120 knots) 
+ True Ind."
+C G Range,"(+15.2) to (+18.2) at 1838 lbs. 
+ (+ 9.2) to (+18.2) at 1405 lbs. or less 
+ Straight line variation between points given. 
+ 1800 
+ PA-12S 
+ 1600 
+ LBS. 
+ NORMAL 
+ CATEGORY 
+ 1400 
+ 1200 
+ 8 
+ 10 
+ 12 
+ 14 
+ 16 
+ 18 
+ INCHES"
+Empty Weight C G Range,"(+9.5) to (+13.3). 
+ When empty weight C. G. falls within this range, computation of critical fore and 
+ aft C. G. positions is unnecessary. Range is not valid for non-standard arrangements."
+Maximum Weight,1838 lbs.
+Number of Seats,"3 
+ (One at +6 and two at +34)"
+Maximum Baggage,"41 lbs. 
+ (+56)"
+Fuel Capacity,"38 gallons 
+ (+23) 
+ (One 19 gallon tank in each wing.)"
+Oil Capacity,6 quarts (-41)
+Serial Nos Eligible,12-1 and up.
+Required Equipment,"Items 1(a), 101, 102, 204 and 401(d)."
+Specifications Pertinent to All Models,
+Datum,Leading edge of wing
+Leveling Means,"Plumb bob from machine screw at door frame channels near upper rear corner of door to 
+ hole in plate near rear seat."
+Certification Basis,Type Certificate No. 780 (CAR 3)
+Production Basis,None.
+Export Eligibility,"Deleted as of August 28, 1995."
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item of equipment indicates net 
+ weight change when that item is installed. 
+ Approval for the installation of all items of equipment listed herein has been obtained by the aircraft manufacturer except those 
+ items preceded by an asterisk (*). The asterisk denotes that approval has been obtained by someone other than the aircraft 
+ manufacturer. An item marked with an asterisk may not have been manufactured under a FAA monitored or approved quality 
+ control system, and therefore conformity must be determined if the item is not identified by a Form ACA-186, FAA-PMA, or 
+ other evidence of FAA production approval."
+1,"Propeller - Sensenich 74FE44, 74FE54, or any other fixed pitch wood propeller which 
+ +11 lbs. (-62) 
+ is eligible for the engine power and speed and which meets the following limits:"
+a,"With O-235-C or O-235-C1 engine - landplane and skiplane: 
+ Static rpm at max. permissible throttle setting: 
+ Not over 2300, not under 1900. 
+ No additional tolerance permitted. 
+ Diameter: Not over 76 inches, not under 72 inches."
+b,"With O-235-C or O-235-C1 engine - seaplane (see Item 103 for manual revision 
+ and seaplane equipment required with O-235-C1 engine): 
+ Static rpm at max. permissible throttle setting: 
+ Not over 2400, not under 2350. 
+ No additional tolerance permitted. 
+ Diameter: Not over 76 in., not under 72 in."
+Propeller  Koppers Aeromatic F2000074E,"+21 lbs. (-62) 
+ Diameter: Not over 74 inches, not under 72.5 inches. 
+ Low pitch setting at 24 inch station: 11° 
+ Static rpm limits at max. permissible throttle setting 
+ (No additional tolerance permitted):"
+a,"With O-235-C engine - landplane, skiplane and seaplane (Parts List Assembly No. 4292): 
+ Not over 2550, not under 2500."
+b,"With O-235-C1 engine - landplane, skiplane and seaplane (Parts List Assembly No. 4292A dated April 9, 1948): 
+ Not over 2750, not under 2650. (See Item 103 for required seaplane equipment) 
+ The Airplane Flight Manual must reflect this installation under ""Limitations"" with respect to assembly parts list number, 
+ low pitch settings, diameter and static rpm limits and must include the following statement: ""Installation and operation must 
+ be accomplished in accordance with Kopper's Installation Procedure and Operating Limitations dated May 4, 1948 (Item 
+ 2(a)), or March 10, 1948, revised September 27, 1948 (Item 2(b))."" 
+ Under the ""Performance"" section the following statement must be included: 
+ ""Performance with (_________) engine and the Kopper's Aeromatic Propeller has been demonstrated to equal or exceed 
+ that shown herein for the O-235-C engine and fixed pitch wood propeller. Performance at altitude may be improved by 
+ increasing the flight rpm in accordance with paragraph D(3) of the approved 'Installation Procedure and Operating"
+Limitations ,"Paragraph E of the ""Installation Procedure and Operating Limitations"" should be revised as follows: 
+ ""Counterweights must be added after landing at a field of elevation 2000 feet or more below that at which the 
+ counterweights were last set. This adjustment is required for optimum performance and to avoid exceeding rated rpm at 
+ full throttle during take-off and climb."" This revision to paragraph E will be incorporated in the next revision of 
+ ""Installation Procedure and Operating Limitations"" by the Kopper's Propeller Company."
+3,+27 lbs. (-62)
+or C2FM5 with PC276A6 blades,"Diameter: Not over 76 inches, not under 74 inches."
+continued,"Blade pitch settings at 3/4 radius (28.5 in. station): 
+ Low 
+ High"
+a,"For landplane and skiplane with O-235-C engine 
+ 8½° 
+ 13°"
+b,"For landplane and skiplane with O-235-C1 engine 
+ 7½° 
+ 13°"
+c,"For seaplane with O-235-C1 engine 
+ 7° 
+ 12° 
+ (See Item 103 for required equipment). 
+ When this propeller is installed, the Airplane Flight Manual must reflect the installation under ""Limitations"" with 
+ respect to propeller identification and limits. The ""Performance"" section must include the following statement: 
+ ""Performance with the (____________) engine and Sensenich Two-Position Propeller has been demonstrated to equal 
+ or exceed that shown herein for the O-235-C engine and fixed pitch wood propeller."" For seaplane with O-235-C1 
+ engine, the above statement must be amended to include the following statement: ""Climb performance shown may be realized 
+ after the expiration of the one-minute take-off power time limit by operating in high pitch, full throttle only."""
+4,"Propeller - fixed pitch metal, McCauley 1A110 
+ +29 lbs. (-62) 
+ Landplane and skiplane with O-235-C1 engine only. 
+ Diameter: Not over 76 inches, not under 74 inches. 
+ Static rpm at max. permissible throttle setting: 
+ Not over 2400, not under 2150. 
+ No additional tolerance permitted. 
+ When this propeller is installed, the Airplane Flight Manual must reflect the installation under ""Limitations"" with 
+ respect to propeller identification and limits. The ""Performance"" section must include the following statement: 
+ ""Performance with O-235-C1 engine and McCauley 1A110 propeller has been demonstrated to equal or exceed that 
+ shown herein for the O-235-C engine and fixed pitch wood propeller."""
+5,+21 lbs. (-62)
+Required equipment with this prop,"Landplane and skiplane with O-235-C engine only. 
+ Diameter: Not over 75 inches, not under 73.5 inches. 
+ Blade setting at 3/4 radius (28.5 in. station): 
+ Low 
+ High 
+ 13.5° 
+ 18.3° 
+ When this propeller is installed, the Airplane Flight Manual must reflect the installation under ""Limitations"" with 
+ respect to propeller identification and limits. The ""Performance"" section must include the following statement: 
+ “Performance with O-235-C engine and Beech R003 propeller has been demonstrated to equal or exceed that shown 
+ herein for the O-235-C engine and fixed pitch wood propeller."""
+6,"Propeller - fixed pitch metal, McCauley 1C90-LM 
+ +21 lbs. (-62) 
+ Diameter: Not over 72 inches, not under 70.5 inches. 
+ Static rpm at max. permissible throttle setting"
+a,"Landplane and skiplane with O-235-C or O-235-C1 engine - 
+ Not over 2500, not under 2100."
+b,"Seaplane with O-235-C or O-235-C1 engine - 
+ (See Item 103 for required equipment with O-235-C1 engine) 
+ Not over 2500, not under 2350. 
+ When this propeller is installed, the Airplane Flight Manual must reflect the installation under ""Limitations"" with respect 
+ to propeller identification and limits. The ""Performance"" section must include the following statement: ""Performance 
+ with the (____________) engine and McCauley 1C90-LM Propeller has been demonstrated to equal or exceed that 
+ shown herein for the O-235-C engine and fixed pitch wood propeller."""
+7,"Propeller - fixed pitch metal, Sensenich M76AM-2 
+ +24 lbs. (-62) 
+ Diameter: Not over 74 inches, not under 72.5 inches. 
+ With engines O-235-C engine and O-235-C1 only. 
+ Static rpm at max. permissible throttle setting"
+a,"Landplane and skiplane only -, 
+ Not over 2425, not under 2150."
+b,"Seaplane only (See Item 103 for required equipment with O-235-C1) - 
+ Not over 2425, not under 2325. 
+ When this propeller is installed, the Airplane Flight Manual must be revised to reflect this installation under 
+ ""Limitations"" with respect to propeller identification and limits. The ""Performance"" section must include the following 
+ statement: ""Performance with the O-235-C (or O-235-C1) engine and Sensenich M76AM-2 propeller has been 
+ demonstrated to equal or exceed that shown herein for the O-235-C engine and fixed pitch wood propeller."" 
+ Engine and Engine Accessories - Fuel and Oil System"
+Carburetor air heater,+1 lbs. (-35)
+Carburetor air scoop,No Weight Change
+Engine  Lycoming O235C1,Fuel - 80 minimum octane aviation gasoline
+Engine limits,"Take off 
+ 2800 rpm (115 hp) 
+ All other operations 
+ 2600 rpm (108 hp) 
+ For seaplane with this item and Propeller Item 1(b), 2(b), 6(b) or 7(b), the following is required: Oil sump air scoop per 
+ Marden Dwg. No. 1007-M, Marden Airways, Waterville Airport, Waterville, Maine. When this item engine is installed, 
+ the Airplane Flight Manual must reflect the installation under ""Limitations"" with respect to engine identification and 
+ limits. The ""Performance"" section must include the following statement: ""Performance with O-235-C1 engine and 
+ (__________) propeller has been demonstrated to equal or exceed that shown herein for the O-235-C engine and fixed"
+pitch wood propeller,"*104. Oil filter, Fram PB-5, Kit No. K-520, Fram Dwg. 61536 or 62704 and Instruction 
+ +5 lbs. (-28) 
+ Sheet 62703 (Weight includes 1 quart oil)"
+201,"Two main wheel-brake assemblies, 8.00-4, Type III"
+a,"Goodrich model 841, with 8.00-4, 4-Ply rating tires and regular tubes 
+ +31 lbs. (+1) 
+ Wheel Assembly #D-3-13 
+ Brake Assembly #D-2-13 (modified per Piper Dwg. 31293)"
+a,"Full swivel (Scott Aviation Model 3000B-2) 
+ +5 lbs.(+200)"
+b,"Steerable - full swivel (Scott Aviation Model 3-24B) 
+ No Weight Change"
+c,"Steerable - Lang (formerly Decker) Model D-501 
+ +2 lbs.(+200)"
+d,"Imperial Model B-100 
+ +6 lbs.(+200)"
+203,"Skis: When any of the following skis are installed, the Airplane Flight Manual must Use actual wt. change and have 
+ the following note added to the Performance Section: 
+ CLIMB: Ski plane climb performance is essentially equal to that of the landplane. 
+ TAKE-OFF AND LANDING: Under the most favorable conditions of smooth packed snow at temperatures 
+ approximating 30°F, skiplane take-off distance is essentially equal to the landplane distance. The landing distance is 
+ approximately 20% greater than the landplane distance. In applying the performance data, caution should be exercised in 
+ that lower temperatures or other snow conditions will increase the friction and hence increase the take-off run and"
+a,Federal A-1850
+b,Call S-1
+c,Federal A-2000 or A-2000A per Federal Dwg. 11R262
+d,"Wesco per Western Aircraft Equipment Company Dwgs. Nos. 12 and 148: 
+ (1) AS-2, (2) AS-2A, (3) AS-2B, (4) A-20, (5) A-25."
+204,"Edo 89-2000 floats with water rudder and seaplane fin (Dwg. No. 11030) 
+ +183 lbs. (+14.5) 
+ in accordance with Piper Dwg. 11031 (without spreader bars) or 
+ Edo Dwg. 89-180A (with spreader bars). Airplane Serial Nos. 12-1 through 12-3011, 
+ and 12-3901 through 12-3966, except 12-3943, 12-3945, 12-3947, 12-3949 and 12-3965, must have 
+ additional fuselage brace tubes (Parts Nos. 11026 and 11027 in accordance with Piper Dwg. 11031)."
+"*210. Two wheel fenders, Consolidaire Model 17, installed in accordance with",
+"*211. Tandem gear Model GW-100, installed in accordance with A. W. Whitaker,",
+Battery 12 volt,+25 lbs.(+68)
+Positions lights,"+3 lbs.(+65) 
+ *303. Landing lights in wing leading edge (Grimes D-3650) per Dwgs. Nos. 1 & 2, Mountain States 
+ +4 lbs. (+5)"
+304,"Landing lights in wing leading edge per Piper Dwg. 12534 
+ +4 lbs.(+5)"
+401,"One of the following CAA (FAA) Approved Airplane Flight Manuals revised to include any statement required under 
+ ""Propellers and Propeller Accessories"" and/or Item 103, if applicable."
+a,"Airplane Flight Manual dated March 24, 1947, or Piper Report No. 551 dated 
+ March 24, 1947 - includes Propeller Item 1 and O-235-C engine."
+b,"Piper Report No. 570 dated April 15, 1947, includes Propeller Item 3 and O-235-C engine."
+c,"Piper Report No. 565 dated June 13, 1947, includes Propeller Item 1 and Item 103."
+d,"Piper Report No. 571 dated June 13, 1947, includes Propeller Item 3 and Item 103."
+e,"Edo Report No. 2342 dated April 10, 1947, revised January 11, 1949, includes 
+ Propeller Item 1, O-235-C engine and Item 204. 
+ +2 lbs. (+72) 
+ Salem, Illinois, Dwg. No. 1 and Kit Installation Instructions. 
+ Use act. wt. and 
+ Ross (F. W. Ross, 719 North Milborn Avenue, Dearborn, Michigan) 
+ balance change 
+ Drawings 7B101 through 7C121 on Drawing List dated December 7, 1954 and Installation Instructions 
+ dated May 16, 1955. The following placard is required on the instrument panel, ""Equipped with Ross 
+ Control System - See Flight Manual Supplement."""
+*601. Crop spraying installation - Aero Spray King Model P6-49,
+"(Model PA-12 Normal Category airplane) installed in accordance with Ong Aircraft Corp., P.O. Box 214, Kansas City,",
+Disposable spray fluid,(Wt. as loaded) (+36)
+a,Lycoming O-235-C engine only.
+b,"Propeller Item 1 with following static rpm limits: 
+ Not over 2300, not under 2200. 
+ No additional tolerance permitted."
+c,"C.G. range (+14.7) to (+18.6) at 1735 lbs. 
+ (+12.0) to (+18.6) at 1345 lbs. or less 
+ Straight line variation between points given. 
+ LBS. 
+ 1800 
+ 1600 
+ 1400 
+ 1200 
+ 8 
+ 10 
+ 12 
+ 14 
+ 16 
+ 18 
+ INCHES"
+a,"On instrument panel in full view of pilot, 
+ ""Never exceed 110 mph T.I.A. with spray equipment installed."""
+b,"Below spray tank, left side, adjacent to tank valve, 
+ ""Liquid Tank Valve-Off-On-Dump-Drain"" as required"
+c,"Below spray tank, right side, adjacent to pump brake control, 
+ ""Pump Brake Control-Pull On-Turn to Lock"""
+d,"On left side fuselage wall adjacent to spray boom operating handle, 
+ ""On-Boom-Off"" 
+ *602. Flap installation installed in accordance with Mainair, Inc. (formerly Marden 
+ +14 lbs. (+39) 
+ Airways, Inc.), Waterville, Maine, PA-12 Flap Kit No. 1000-M and Installation Instructions dated January 22, 1949. 
+ *603. Fuselage metal plating when installed in accordance with Met-Co-Aire's Dwg. 
+ (Use actual weight 
+ No. 12108, 13108 and Installation Instructions dated June 17, 1954, issued by change 
+ & moment arm) 
+ Met-Co-Aire Co., Municipal Airport, Fullerton, Calif."
+NOTE 1,"Current weight and balance report including list of equipment included in certificated weight empty, and loading 
+ instructions when necessary, must be in each aircraft at the time of original certification and at all times 
+ thereafter (except in the case of air carrier operators having an approved weight control system)."
+NOTE 2,"The following placards must be displayed: 
+ (a) 
+ In front and in clear view of the pilot: 
+ ""This airplane must be operated in compliance with the CAA Approved Operating Limitations 
+ (or Airplane Flight Manual)"" 
+ (b) 
+ In front and in clear view of pilot: 
+ ""Normal Category - No acrobatic maneuvers including spins approved."" 
+ ""Utility Category - No acrobatic maneuvers approved except those listed below: 
+ Maneuver 
+ Entry Speed 
+ Chandelles 
+ 110 mph 
+ Lazy Eights 
+ 110 mph 
+ Steep Turns 
+ 90 mph 
+ Spins 
+ Stall 
+ Stalls (except whip stalls) 
+ Stall"" 
+ (c) 
+ On rear seat: 
+ ""Front seat for solo flying."""

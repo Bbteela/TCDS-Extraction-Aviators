@@ -1,0 +1,368 @@
+Keyterm,Info
+"A59CE 
+ Revision 11 
+ Embraer S.A. 
+ EMB-500 
+ March 9, 2022",
+Type Certificate Holder,"Embraer S.A. 
+ Rodovia Presidente Dutra KM 134 
+ Distrito De Eugenio De Melo 
+ 12247-004 -- São José dos Campos -- SP 
+ Brazil"
+Type Certificate Holder Record,"Empresa Brasileira de Aeronáutica S.A. (EMBRAER) 
+ changed company name to Embraer S.A. effective 
+ November 19, 2010."
+"I. Model EMB-500, (Normal Category), Approved December 12, 2008",
+Engines,"Two Pratt & Whitney Canada PW617F-E turbofans for PHENOM 100 and PHENOM 100E 
+ (see NOTE 6), or 
+ Two Pratt & Whitney Canada PW617F1-E turbofans for PHENOM 100EV (see NOTE 6) 
+ Engine TC #E00080EN PW617F-E Issued July 15, 2009 
+ PW617F1-E Issued October 31, 2016"
+Fuel,"ASTM Specification D1655-JET A and JET A-1, 
+ Military Specification MIL-DTL-83133-JP8, 
+ Brazilian Specification CNP08-QAV-1 
+ Russian Specification GOST 10227-86 TS-1 
+ (Use the latest version of the Standard Specifications)"
+Engine Limits,"Static thrust limits, standard day, sea level: 
+ For the PW617F-E turbofan engine: 
+ Standard Version 
+ Enhanced Version 
+ (See NOTE 7) 
+ (See NOTE 7) 
+ Takeoff (5 min.) 
+ 1,695 lb. 
+ 1,695 lb. 
+ ATR (10 min.) 
+ 1,720 lb. 
+ 1,820 lb. 
+ Maximum permissible engine rotor operating speeds (Takeoff and Maximum Continuous) 
+ N1 (Fan) 
+ 100% (100% = 19,845 rpm) 
+ N2 (Gas Gen.) 
+ 100.4% (100.4% = 40,200 rpm) 
+ N1 Transient (operation 20 sec.) 
+ 101% (101% = 20,043 rpm)"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8"
+Rev No,"11 
+ 8 
+ 8 
+ 9 
+ 11 
+ 7 
+ 8 
+ 7 
+ N2 Transient (operation 20 sec.) 
+ 102% (102% = 40,840 rpm) 
+ Maximum permissible interturbine gas temperatures 
+ Takeoff 
+ 830 Degrees C 
+ ATR 
+ 845 Degrees C 
+ Max. Continuous 
+ 830 Degrees C 
+ Transient (starting 5 sec.) 
+ 892 Degrees C 
+ 950 Degrees C (see NOTE 8) 
+ Transient (operation 20 sec.) 
+ 862 Degrees C 
+ For the PW617F1-E turbofan engine: 
+ Takeoff (5 min.) 
+ 1,728 lb. 
+ ATR (10 min.) 
+ 1,891 lb. 
+ Maximum permissible engine rotor operating speeds (Takeoff and Maximum Continuous) 
+ N1 (Fan) 
+ 100% (100% = 19,845 rpm) 
+ N2 (Gas Gen.) 
+ 101.6% (101.6% = 40,676 rpm) 
+ N1 Transient (operation 20 sec.) 
+ 101% (101% = 20,043 rpm) 
+ N2 Transient (operation 20 sec.) 
+ 103.2% (103.2% = 41,316 rpm) 
+ Maximum permissible interturbine gas temperatures 
+ Takeoff 
+ 830 Degrees C 
+ ATR 
+ 845 Degrees C 
+ Max. Continuous 
+ 830 Degrees C 
+ Transient (starting 5 sec.) 
+ 950 Degrees C 
+ Transient (operation 20 sec.) 
+ 862 Degrees C"
+Airspeed Limitations,"VMO (maximum operating) 
+ Sea level to 28,000 ft. 
+ 275 KIAS 
+ MMO above 28,000 ft. 
+ 0.7 Mach 
+ VA (maneuvering) – sea level 
+ 186 KIAS 
+ VFE (maximum flap extended) 
+ 10 degrees (takeoff) 
+ 200 KIAS 
+ 26 degrees (takeoff/landing) 
+ 160 KIAS 
+ 36 degrees (landing) 
+ 145 KIAS 
+ VMC (minimum control speed) 
+ For takeoff 
+ 97 KIAS 
+ Note – The value presented above refers to the maximum VMC for the aircraft envelope (the 
+ values can change according to the temperature, altitude, weight, and takeoff flaps) 
+ VLO (landing gear operating) 
+ Gear Retract and Extend 
+ 180 KIAS 
+ VLE (landing gear extended) 
+ 275 KIAS 
+ Maximum tire ground speed 
+ 139 Knots"
+Center of Gravity Limits,"For the PHENOM 100 and PHENOM 100E (see NOTE 6): 
+ Forward Limits: 
+ Takeoff and Landing (landing gear extended) 
+ Linear variation from 232.24 in. aft of datum (35% MAC) at 6614 lb. to 223.53 in. aft of 
+ datum (21.5% MAC) at 7099 lb.; constant value of 223.53 in. aft of datum (21.5% MAC) 
+ at 7099 to 8885 lb.; linear variation from 223.53 in. aft of datum (21.5% MAC) at 8885 
+ lb. to 224.88 in. aft of datum (23.6 % MAC) at 10582 lb.; constant value from 224.88 in. 
+ aft of datum (23.6 % MAC) at 10582 to 10626 lb. 
+ In-Flight extension 
+ From 223.53 in. aft of datum (21.5% MAC) at 7099 lb to 222.24 in. aft of datum (19.5% 
+ MAC) at 7099 lb.; constant value from 222.24 in. aft of datum (19.5% MAC) at 7099 to 
+ 8885 lb.; linear variation from 222.24 in. aft of datum (19.5% MAC) at 8885 lb. to 
+ 223.59 in. aft of datum (21.6% MAC) at 10582 lb; linear variation from 223.59 in. aft of 
+ datum (21.6% MAC) at 10582 lb. to 224.88 in. aft of datum (23.6% MAC) at 10582 lb. 
+ Aft Limits: 
+ Takeoff and Landing (landing gear extended) 
+ Linear variation from 232.24 in. aft of datum (35.0% MAC) at 6614 lb. to 234.50 in. aft 
+ of datum (38.5% MAC) at 7540 lb.; constant value from 234.50 in. aft of datum (38.5% 
+ MAC) at 7540 to 8885 lb.; linear variation from 234.50 in. aft of datum (38.5% MAC) at 
+ 8885 lb. to 233.41 in. aft of datum (36.8% MAC) at 10582 lb.; constant value from 
+ 233.41 in. aft of datum (36.8%MAC) at 10582 to 10626 lb. 
+ For the PHENOM 100EV (see NOTE 6): 
+ Forward Limits: 
+ Takeoff and Landing (landing gear extended) 
+ Linear variation from 232.24 in. aft of datum (35% MAC) at 6658 lb. to 223.53 in. aft of 
+ datum (21.5% MAC) at 7099 lb.; constant value from 223.53 in. aft of datum (21.5% 
+ MAC) at 7099 to 8885 lb.; linear variation from 223.53 in. aft of datum (21.5% MAC) at 
+ 8885 lb. to 224.82 in. aft of datum (23.5 % MAC) at 10703 lb.; constant value from 
+ 224.82 in. aft of datum (23.5 % MAC) at 10703 to 10747 lb. 
+ In-Flight extension 
+ From 223.53 in. aft of datum (21.5% MAC) at 7099 lb to 222.24 in. aft of datum (19.5% 
+ MAC) at 7099 lb.; constant value from 222.24 in. aft of datum (19.5% MAC) at 7099 to 
+ 8885 lb.; linear variation from 222.24 in. aft of datum (19.5% MAC) at 8885 lb. to 
+ 223.59 in. aft of datum (21.5% MAC) at 10703 lb; linear variation from 223.53 in. aft of 
+ datum (21.5% MAC) at 10703 lb. to 224.82 in. aft of datum (23.5% MAC) at 10703 lb. 
+ Aft Limits: 
+ Takeoff and Landing (landing gear extended) 
+ Linear variation from 232.24 in. aft of datum (35.0% MAC) at 6658 lb. to 234.50 in. aft 
+ of datum (38.5% MAC) at 7540 lb.; constant value from 234.50 in. aft of datum (38.5% 
+ MAC) at 7540 to 8885 lb.; linear variation from 234.50 in. aft of datum (38.5% MAC) at 
+ 8885 lb. to 233.54 in. aft of datum (37% MAC) at 10703 lb.; constant value from 233.54 
+ in. aft of datum (37%MAC) at 10703 to 10747 lb. 
+ Landing Gear retracting moment: (-1530.22 in.-lb.)"
+Datum,98.82 in. forward of the jig point (nose jack pad location)
+Leveling Means,Located in the main door between frames 9 and 10 (see AMM for further information)
+Maximum Weight,"Takeoff 
+ 10,472 lb. 
+ 10,582 lb. (see NOTE 11) 
+ 10,703 lb. (for PHENOM 100EV - see NOTE 6) 
+ Landing 
+ 9,766 lb. 
+ 9,877 lb. (see NOTE 11) 
+ 9,998 lb. (for PHENOM 100EV - see NOTE 6) 
+ Zero Fuel 
+ 8,444 lb. 
+ 8,775 lb. (see NOTE 9) 
+ 8,554 lb. (see NOTE 11) 
+ 8,885 lb. (see NOTE 9 and NOTE 11) 
+ 9,072 lb. (for PHENOM 100EV - see NOTE 6) 
+ Ramp 
+ 10,516 lb. 
+ 10,626 lb. (see NOTE 11) 
+ 10,747 lb. (for PHENOM 100EV - see NOTE 6) 
+ Minimum Crew for all Flights (See NOTE 5 for cockpit equipment/arrangement restrictions): 
+ One pilot (in the left pilot seat) plus additional equipment as specified in the Limitations 
+ Section of the FAA Approved Airplane Flight Manual 
+ OR 
+ One pilot and one copilot"
+No of Seats,"Maximum of eight occupants. Refer to the Airplane Flight Manual (AFM-2656) section 6 
+ “Weight & Balance” for seat configurations and moment arms."
+Maximum Baggage,"Forward baggage compartment 
+ 66 lb. (+45.47 in. aft of datum) 
+ Aft baggage compartment 
+ 353 lb. (+314.29 in. aft of datum) 
+ RH forward cabinet 
+ 66 lb. (+143.46 in. aft of datum) 
+ LH aft cabinet 
+ 33 lb. (+249.76 in. aft of datum) 
+ Some airplanes have stowage compartments in the RH forward cabinet and LH aft cabinet 
+ with higher load capacities. Refer to their respective placards to find this information."
+Fuel Capacity usable,"Total usable fuel 2,806 lb. 
+ Two wing tanks with 1,403 lb. usable each; +230.91 in. aft of datum; 
+ (see NOTE 1 for unusable fuel)"
+Oil Capacity total,"Tank mounted on each engine: 4.23 U.S. quarts (4.00 liters) total each engine; +302.52 in. aft 
+ of datum; (see NOTE 1)"
+Maximum Operating Altitude,"41,000 ft."
+Control Surface Movements,"Elevator 
+ Up 
+ 27 +1/-1 degrees 
+ Down 
+ 19 +1/-1 degrees"
+Control Surface Movements Continued,"Elevator Trim Tab 
+ Up 
+ 6 +1/-1 degrees 
+ Down 
+ 13 +1/-1 degrees 
+ Rudder 
+ Right 
+ 27 +1/-1 degrees 
+ Left 
+ 27 +1/-1 degrees 
+ Rudder Trim Tab 
+ Right 
+ 16.5 +1/-1 degrees 
+ Left 
+ 16.5 +1/-1 degrees 
+ Aileron 
+ Up 
+ 25 +1/-1 degrees 
+ Down 
+ 15 +1/-1 degrees 
+ Aileron Trim Tab 
+ Up 
+ 20 +1/-1 degrees 
+ Down 
+ 20 +1/-1 degrees 
+ Wing Flap 
+ TO 
+ 10 +1/-1 degrees 
+ TO/Land 
+ 26 +1/-1 degrees 
+ Land 
+ 36 +1.5/-1.5 degrees 
+ Ground Spoilers/ 
+ Up 
+ 31.5 +1/-1 degrees (see NOTE 10) 
+ Speed Brake 
+ 31.5 +1/-1 degrees (see NOTE 11) 
+ See Airplane Maintenance Manual (AMM) for rigging instructions."
+Manufacturers Serial Numbers,50000005 and up
+Import Requirements,"A U.S. airworthiness certificate may be issued on the basis of a Brazilian Certificate of 
+ Airworthiness for Export signed by a representative of the Agência Nacional De Aviação 
+ Civil (ANAC) containing the following statement: ""The aircraft covered by this certificate has 
+ been examined and found to comply with U.S. Type Certificate No. A59CE and to be in a 
+ condition for safe operation."" 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United 
+ States of both new and used aircraft based on the scope of the agreement, to identify any 
+ required statements by the exporting authority on the export certificate of airworthiness (or 
+ equivalent document), and for procedures for coordinating exceptions to conformity 
+ statements on these documents. Refer to FAA Order 8130.2J, Airworthiness Certification of 
+ Aircraft, for requirements for issuance of an airworthiness certificate for imported aircraft."
+Certification Basis,"(1) Part 23 of Title 14 of the Code of Federal Regulations effective February 1, 1965, as 
+ amended by Amendments 23-1 through 23-55 
+ (2) Part 36 of Title 14 of the Code of Federal Regulations effective December 1, 1969, as 
+ amended by Amendments 36-1 through 36-28 
+ (3) Part 34 of Title 14 of the Code of Federal Regulations effective September 10, 1990, as 
+ amended by Amendments 34-1 through 34-3 
+ (4) Special Conditions as follows: 
+ (a) 23-220-SC, High Fuel Temperature 
+ (b) 23-221-SC, Fire Extinguishing for Aft Mounted Engines 
+ (c) 23-228-SC, Full Authority Digital Engine Control (FADEC) System 
+ (d) 23-282-SC, Protection of Systems for High Intensity Radiated Fields, (HIRF) 
+ (e) 23-232-SC, Flight Performance, Flight Characteristics, and Operating 
+ Limitations 
+ (f) 23-251-SC, Single-Place Side-Facing Seat Dynamic Test Requirements, issued 
+ March 22, 2011 
+ (g) 23-255-SC, Single-Place Side Facing Seat Dynamic Test Requirements, issued 
+ October 12, 2011 
+ (5) Equivalent levels of safety as follows: 
+ (a) ACE-08-09: 14 CFR § 23.1555(d)(1), Control Markings - Usable Fuel Capacity 
+ (b) ACE-08-10: 14 CFR §§ 23.1305, 23.1309, 23.1321 and 23.1549; Digital Only 
+ Display of N2, Oil Temperature, Oil Pressure, and Fuel Flow 
+ (c) ACE-08-14: 14 CFR § 23.807(e)(2): Emergency Egress Provision During 
+ Ditching 
+ (d) ACE-08-21: 14 CFR § 23.1553: Digital Fuel Quantity Indication 
+ (6) Exemption as follows: 
+ (a) No. 9549 (amended) granted to use a relaxed “Dutch Roll” damping criteria 
+ above 18,000 ft. in lieu of damping criteria of 14 CFR § 23.181(b), issued June 
+ 12, 2008, Regulatory Docket No. FAA-2007-28646, ACE-00-388-E 
+ (7) Compliance with ice protection has been demonstrated in accordance with 14 CFR 
+ § 23.1416 and 23.1419. 
+ (8) Compliance with the provisions for ditching equipment has been demonstrated in 
+ accordance with 14 CFR § 23.1415(a)(b). 
+ Type Certificate A59CE issued December 12, 2008. 
+ Application for type certificate dated October 5, 2005. 
+ RVSM Approval: S/N 50000005 and on: All airplanes are equipped with Garmin avionics 
+ systems with RVSM capable Air Data Computers and pilot’s and copilot’s Primary Flight 
+ Displays as standard equipment. Each operator must obtain RVSM operating approval 
+ directly from the FAA."
+Production Basis,"Production Certificate No. 346CE 
+ The manufacturer Embraer Executive Aircraft Inc. located in Melbourne, Florida, is licensed 
+ by Embraer S.A. to manufacture the Model Aircraft listed in this Type Certificate Data Sheet. 
+ S/N 50000255 and subsequent may be produced either by Embraer Executive Aircraft Inc. in 
+ Melbourne, Florida or Embraer S.A. in Brazil. The manufacturer can be confirmed by the 
+ aircraft data plate. Aircraft produced by Embraer Executive Aircraft Inc. in Melbourne, 
+ Florida with a S/N 50000246, 50000255, 50000265, and 50000267 were produced under the 
+ Type Certificate."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations (see 
+ Certification Basis) must be installed in the airplane for certification."
+Service Information,"Service bulletins, structural repair manuals, vendor manuals, AFMs, and overhaul and 
+ maintenance manuals, which contain a statement that the document is approved by ANAC are 
+ accepted by the FAA and are considered FAA approved. (These approvals pertain to the 
+ design data only)."
+NOTES,"NOTE 1. A current weight and balance report, including a list of equipment included in the 
+ certificated empty weight, and loading instructions when necessary must be provided for 
+ each aircraft at the time of original certification. 
+ The certificated empty weight and corresponding center of gravity location must include: 
+ Unusable fuel 
+ 44 lb. 
+ at +228.90 in. aft of datum 
+ Full oil 
+ 17.64 lb. at +302.52 in. aft of datum; includes the oil from 
+ the engine installation (filters and lines) 
+ Hydraulic Fluid 
+ 3.09 lb. at +34.17 in. aft of datum 
+ 13.86 lb. at +51.18 in. aft of datum (See NOTE 11) 
+ NOTE 2. Airplanes must be operated according to the FAA Approved Airplane Flight Manual 
+ (AFM), part number AFM-2656 dated December 12, 2008 or later approved revision. 
+ Required placards and markings are listed in Chapter Eleven (11) of the Aircraft Illustrated 
+ Parts Catalog (AIPC) and in the Airplane Maintenance Manual (AMM). 
+ NOTE 3. See Maintenance Manual, Chapter Four (4), ""Airworthiness Limitations"" for Systems 
+ Airworthiness Limitations, Structure Airworthiness Limitations (ALI) and Life-Limited 
+ Items (LLI). The life limits for rotating parts on the PW617F-E and the PW617F1-E 
+ engines are in the Airworthiness Limitations Manual, Pratt & Whitney Canada P/N 
+ 3072699, latest revision. 
+ NOTE 4. All replacement seats (crew and passenger), although they may comply with TSO C127, 
+ must also be demonstrated to comply with installation requirements into the aircraft listed 
+ in 14 CFR §§23.2, 23.561, 23.562, and 23.785. 
+ The foam cushion buildup of all seats (crew and passenger) may not be altered. Any 
+ deviations in the foam construction or stiffness must be demonstrated by test or analysis to 
+ comply with the 14 CFR 23.562 paragraph. 
+ NOTE 5. Approval for operation with a minimum crew of one pilot is based upon the cockpit 
+ equipment installation and arrangement evaluated during FAA certification testing. No 
+ significant changes may be made to the installed cockpit equipment or arrangement (EFIS, 
+ autopilot, avionics, etc.), except as permitted by the approved MMEL, without prior 
+ approval from the responsible Aircraft Certification Office. 
+ NOTE 6. The EMB-500 is often referred to in Embraer marketing literature as the “PHENOM 100”, 
+ “PHENOM 100E”, or “PHENOM 100EV”. These names are strictly marketing 
+ designations and are not part of the official model designation. 
+ - PHENOM 100: aircraft equipped with PW617F-E engines and G1000 avionics system; 
+ - PHENOM 100E: aircraft equipped with PW617F-E engines, G1000 avionics system, and 
+ spoiler panels; and 
+ - PHENOM 100EV: aircraft equipped with PW617F1-E engines, G3000 avionics system, 
+ and spoiler panels. 
+ NOTE 7. Aircraft serial numbers 50000005 thru 50000217 are considered to have “ENHANCED 
+ TAKE-OFF THRUST”. For aircraft serial numbers 50000218 and up, the placard in the 
+ cockpit must be checked to determine the correct version (i.e. “STANDARD TAKE-OFF 
+ THRUST” or “ENHANCED TAKE-OFF THRUST”). 
+ NOTE 8. Post SB 500-73-0001 incorporation or with an equivalent factory –incorporated mod. 
+ NOTE 9. Post SB 500-00-0005 incorporation or with an equivalent factory-incorporated mod. 
+ NOTE 10. Post SB 500-27-0008 incorporation. 
+ NOTE 11. Post SB 500-00-0009 incorporation or Post SB 500-00-0018 incorporation or with an 
+ equivalent factory-incorporated mod."

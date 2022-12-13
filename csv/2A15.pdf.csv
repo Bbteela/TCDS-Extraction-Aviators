@@ -1,0 +1,1007 @@
+Keyterm,Info
+"2A15 
+ Revision 11 
+ LOCKHEED 
+ 1329-23A 
+ 1329-23D 
+ 1329-23E 
+ 1329-25 
+ October 29, 2001",
+Type Certificate Holder,"Lockheed Martin Corporation 
+ Lockheed Martin Aeronautics Company 
+ 86 S. Cobb Drive 
+ Marietta GA 30063"
+"I. - Model 1329-23A, JetStar 1329-23D (transport aircraft) approved August 28, 1961, (See NOTE 4 for explanation of model 
+ configuration",
+Engines,"Four (4) Pratt & Whitney turbojet JT12A-6 or JT12A-6A Engine Type Certificate 
+ No. 1E9"
+Fuel,"Commercial aviation turbine fuel conforming to P&WA Specification No. 522 as revised 
+ (see NOTE 10)"
+Lubricating Oil,P&WA Turbojet Engine Service Bulletin No. 238 lists approved oils
+Engine Limits,"Static, standard day, sea level: 
+ Take-off (5 minutes) 
+ 3,000 lbs. 
+ Maximum continuous 
+ 2,400 lbs. (JT12A-6) 
+ 2,570 lbs. (JT12A-6A) 
+ Maximum permissible engine rotor operating speed: 
+ 16,700 rpm (105% using .264:1 ratio alternate tachometer pad) 
+ Maximum permissible temperatures: 
+ Turbine outlet - gas 
+ Take-off (5 minutes) 
+ 677°C 
+ 1250°F 
+ Maximum continuous 
+ 577°C 
+ 1070°F 
+ Maximum acceleration 
+ (2 min.) 
+ 677°C 
+ 1250°F 
+ Starting (momentary) 
+ 525°C 
+ 977°F 
+ Oil Inlet 
+ 121°C 
+ 250°F 
+ Maximum permissible air bleed extraction of total engine air flow: 
+ Normal 
+ Maximum continuous through take-off 
+ 3% 
+ Idle to maximum continuous 
+ 4% 
+ One-engine-inoperative 
+ Maximum continuous through take-off 
+ 3.7% 
+ Idle to maximum continuous 
+ 4.4%"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13"
+Rev No,"11 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 10 
+ 11"
+Airspeed Limits,"Vmo 
+ (maximum - operating - 22,400 ft. and below 
+ 350K. 
+ equivalent"
+CAS,"KCAS 
+ Mach 
+ Vmo 
+ (maximum operating - above 22,400 ft.) 
+ 0.82 
+ Va 
+ (maneuvering - variable - see FAA approved 
+ Airplane Flight Manual 
+ Vb 
+ (turbulent air penetration) 
+ 230 
+ 0.82 
+ Vfe 
+ (flap extension speeds) 
+ Trailing Edge 
+ Leading Edge 
+ 40% 
+ (20°) 
+ 100% 
+ (27°) 
+ 200 or 
+ 0.45 
+ 100% 
+ (50°) 
+ 100% 
+ (27°) 
+ 193 or 
+ 0.45 
+ (Do not extend flaps above 20,000 ft.) 
+ Vlo 
+ (landing gear operating) 
+ 200 
+ 0.45 
+ V 
+ (*drag chute) 
+ 140 
+ V 
+ (*thrust reverser actuation) 
+ 175 
+ *ground operation only 
+ Vmc 
+ (air minimum control speed) 
+ 100"
+CG Range,"It is the responsibility of the pilot to assure that the aircraft weight and center of gravity 
+ remain within the limits at all times. Data for proper loading and usage of fuel are 
+ contained in the approved Airplane Flight Manual. 
+ Center of Gravity Limits 
+ Zero Fuel Weight 
+ Level Attitude, Gear Down 
+ See Approved Airplane Flight Manual for Complete C.G. Envelope 
+ A & B - Additional loading conditions. 
+ See Airplane Flight Manual. 
+ 26 
+ See Note 1(d) 
+ 24 
+ 22 
+ Airplane Zero Fuel Wt/1000 lbs. 
+ A 
+ B 
+ 20 
+ 28 
+ 22 
+ 24 
+ 26 
+ Center of Gravity - % M.A.C."
+Gear retraction,"Moment change due to landing gear retraction is -7,200 in./lbs."
+Maximum Weights,"Ramp 
+ 41,500 lbs. 
+ see Flight Manual 
+ Take-off 
+ 40,921 lbs. 
+ see NOTE 1 
+ Landing 
+ 30,000 lbs. 
+ 35,000 lbs. 
+ S/N 5066 and up, and lower 
+ S/Ns incorporating Service Bulletin 329-157 
+ (Fuel jettison system required for operation in excess of maximum landing weight - 
+ See NOTE 1(f)) 
+ Zero fuel wt. 
+ 23,500 lbs. 
+ see c.g. range 
+ 23,700 lbs. 
+ see NOTE 1(d) 
+ 24,500 lbs. 
+ see NOTE 1(d) 
+ 25,000 lbs. 
+ see NOTE 1(d) 
+ All weight in excess of maximum zero fuel weight must consist of usable fuel. All 
+ weight in excess of maximum landing weight must consist of jettisonable fuel."
+Minimum Crew,Two (2) - Pilot and Co-Pilot
+Maximum Passengers,Ten (10)
+Maximum Baggage,"Cabin baggage compartment at F.S. 241-310, centroid F.S. 279, maximum capacity 
+ 730 lbs. 
+ Capacity 
+ Maximum Loading 
+ Area 
+ (lbs.) 
+ (lbs./ft.) 
+ lbs./ft. 
+ Side shelf 
+ 300 
+ 60 
+ 12 
+ Middle shelf 
+ 160 
+ 30 
+ 6 
+ Top shelf 
+ 70 
+ 20 
+ 3 
+ Floor 
+ 200 
+ 60 
+ 10"
+Fuel Capacity,"S/Ns 5001, 5002, and 5004 through 5040 
+ Usable Fuel 
+ Total Fuel 
+ Tank 
+ lbs. 
+ gal. 
+ lbs. 
+ gal. 
+ Arm 
+ 1 (outboard) 
+ 2415 
+ 350 
+ 2561 
+ 371 
+ 518.9 
+ 2 (inboard) 
+ 2587 
+ 375 
+ 2673 
+ 388 
+ 463.0 
+ 3 (inboard) 
+ 2587 
+ 375 
+ 2673 
+ 388 
+ 463.0 
+ 4 (outboard) 
+ 2415 
+ 350 
+ 2561 
+ 371 
+ 518.9 
+ Left external 
+ 3898 
+ 565 
+ 3920 
+ 568 
+ 468.9 
+ Right external 
+ 3898 
+ 565 
+ 3920 
+ 568 
+ 468.9 
+ Total 
+ 17800 
+ 2580 
+ 18308 
+ 2654 
+ Fuel weights are based on fuel density of 6.9 lbs. per gal. 
+ S/Ns 5003, 5041, and up, and those complying with Lockheed Service Bulletin No. 329-70 
+ Usable Fuel 
+ Tank 
+ lbs. 
+ gal. 
+ Arm 
+ 1 (outboard) 
+ 2587 
+ 375 
+ 518.9 
+ 2 (inboard) 
+ 2691 
+ 390 
+ 463.0 
+ 3 (inboard) 
+ 2691 
+ 390 
+ 463.0 
+ 4 (outboard) 
+ 2587 
+ 375 
+ 518.9 
+ Left external 
+ 3899 
+ 565 
+ 468.9 
+ Right external 
+ 3899 
+ 565 
+ 468.9 
+ Total 
+ 18354 
+ 2660 
+ Usable fuel weights shown are structural limitations. 
+ Maximum usable fuel weight - 18,354 lbs., except as limited by take-off gross weight. 
+ See NOTE 1 (c) for system fuel, including unusable fuel, NOTE 1(e) for fuel loading and 
+ usage procedures, and NOTE 1(f) for undumpable fuel."
+Oil Capacity,"Four (4) engine-mounted tanks. Capacity for each 7.5 lbs. usable, total 11.25 lbs. 
+ Capacity for all, 30 lbs. usable, total 45 lbs., Arm 594.0. 
+ Oil weight based on 7.5 lbs. per gallon. 
+ See NOTE 1 (c) for system oil."
+Maximum operating altitude,"43,000 ft."
+Other operating limitations,See FAA approved Airplane Flight Manual.
+Serial Numbers Eligible,5001 through 5092; 5094 through 5096 and 5121
+"II. - Model 1329-23E, JetStar (-8 Version) (transport aircraft) approved June 6, 1967, (see NOTE 4 for explanation of Model 
+ configuration",
+Engines,Four (4) Pratt & Whitney turbojet JT12A-8 Engine Type Certificate No. 1E9.
+Fuel,"Commercial aircraft turbine fuel conforming to P&WA Specification No. 522 as revised. 
+ (See NOTE 10 for fuel additives.)"
+Lubricating Oil,P & WA Turbine Engines Service Bulletin No. 238 lists approved oils.
+Engine Limits,"Static, standard day, sea level: 
+ Take-off (5 minutes) 
+ 3300 lbs. 
+ Maximum continuous 
+ 3000 lbs. 
+ Maximum permissible engine rotor operating speed 16,700 rpm (105% using .264:1 ratio 
+ alternate tachometer pad) 
+ Maximum permissible temperatures: 
+ Turbine outlet - gas 
+ Takeoff (5 minutes) 
+ 718°C 
+ 1325°F 
+ Maximum continuous 
+ 655°C 
+ 1210°F 
+ Starting (momentary) 
+ 525°C 
+ 977°F 
+ Oil inlet 
+ 121°C 
+ 250°F"
+Airspeed Limits,"Vmo 
+ (maximum - operating - 22,400 ft. and below 
+ 350K. 
+ equivalent"
+CAS,"KCAS 
+ Mach 
+ Vmo 
+ (maximum operating - above 22,400 ft.) 
+ 0.82 
+ Va 
+ (maneuvering - variable - see FAA approved 
+ Airplane Flight Manual 
+ Vb 
+ (turbulent air penetration) 
+ 230 or 
+ 0.82 
+ Vfe 
+ (flap extension speeds) 
+ Trailing Edge 
+ Leading Edge 
+ 40% 
+ (20°) 
+ 100% 
+ (27°) 
+ 200 or 
+ 0.45 
+ 100% 
+ (50°) 
+ 100% 
+ (27°) 
+ 193 or 
+ 0.45 
+ (Do not extend flaps above 20,000 ft.) 
+ Vlo 
+ (landing gear operating) 
+ 200 or 
+ 0.45 
+ V 
+ (*drag chute) 
+ 140 
+ V 
+ (*thrust reverser actuation) 
+ 175 
+ *ground operation only 
+ Vmc (air minimum control speed) 
+ 100 
+ Center of Gravity Limits 
+ Zero Fuel Weight 
+ Level Attitude, Gear Down 
+ See Approved Airplane Flight Manual for Complete c.g. Envelope 
+ A & B - Additional loading conditions. 
+ See Airplane Flight Manual. 
+ 26 
+ See Note 1(d) 
+ 24 
+ 22 
+ Airplane Zero Fuel Wt/1000 lbs. 
+ A 
+ B 
+ 20 
+ 28 
+ 22 
+ 24 
+ 26 
+ Center of Gravity - % M.A.C."
+Gear retraction,"Moment change due to landing gear retraction is -7,200 in./lbs."
+CG Range,"It is the responsibility of the pilot to assure that the aircraft weight and center of gravity 
+ remain within the limits at all times. Data for proper loading and usage of fuel are 
+ contained in the approved Airplane Flight Manual."
+Maximum weights,"Ramp 
+ 42,500 lbs. 
+ see AFM 
+ Take-off 
+ 42,000 lbs. 
+ see NOTE 1 
+ Landing 
+ 35,000 lbs. 
+ (Fuel jettison system required for operation in excess of maximum landing weight - see 
+ NOTE 1(f)) 
+ Zero fuel wt. 25,000 lbs. 
+ All weight in excess of maximum zero fuel weight must consist of usable fuel. All 
+ weight in excess of maximum landing weight must consist of jettisonable fuel."
+Minimum Crew,Two (2) - Pilot and Co-Pilot
+Maximum Passengers,Ten (10)
+Maximum Baggage,"Cabin baggage compartment at F.S. 241-310, centroid F.S. 279, maximum capacity 
+ 730 lbs. 
+ Maximum Loading 
+ Area 
+ Capacity (lbs.) 
+ (lbs./ft.) 
+ lbs./ft. 
+ Side shelf 
+ 300 
+ 60 
+ 12 
+ Middle shelf 
+ 160 
+ 30 
+ 6 
+ Top shelf 
+ 70 
+ 20 
+ 3 
+ Floor 
+ 200 
+ 60 
+ 10 
+ Usable Fuel 
+ Tank 
+ lbs. 
+ gal. 
+ Arm 
+ 1 (outboard) 
+ 2587 
+ 375 
+ 518.9 
+ 2 (inboard) 
+ 2691 
+ 390 
+ 463.0 
+ 3 (inboard) 
+ 2691 
+ 390 
+ 463.0 
+ 4 (outboard) 
+ 2587 
+ 375 
+ 518.9 
+ Left external 
+ 3899 
+ 565 
+ 468.9 
+ Right external 
+ 3899 
+ 565 
+ 468.9 
+ Total 
+ 18354 
+ 2660 
+ Usable fuel weights shown are structural limitations. 
+ Maximum usable fuel weight - 18,354 lbs., except as limited by take-off gross weight. 
+ See NOTE 1 (c) for system fuel, including unusable fuel, NOTE 1(e) for fuel loading and 
+ usage procedures, and NOTE 1(f) for undumpable fuel."
+Oil Capacity,"Four (4) engine mounted tanks. Capacity for each, 7.5 lbs. usable, total 11.25 lbs. 
+ Capacity for all, 30 lbs. usable, total 45 lbs., arm 594.0 Oil weight based on 7.5 lbs./gal. 
+ See NOTE 1(c) for system oil."
+Maximum operating altitude,"43,000 ft."
+Other operating limitations,See FAA approved Airplane Flight Manual.
+Serial Numbers Eligible,"5093, 5097 through 5120 and 5122 and up."
+"III. - Model 1329-25 JetStar II (transport aircraft) approved December 14, 1976. (see NOTE 4 for explanation of model 
+ configuration",
+Engines,"Four (4) AiResearch TFE731-3-1F turbo fan. 
+ Engine Type Certificate E6WE"
+Fuel,"Commercial aviation turbine fuel conforming to AiResearch Specification EMS 53111 
+ (Jet A), 53112 (Jet A-1) and 53116(JP-5). 
+ These conform to the requirements of ASTM D 1655-70 Type A, 
+ ASTM D 1655-70 Type A-1, MIL-T-83133, Grade JP-8, and MIL-T-5624H Grade 
+ JP-5, respectively. (See NOTE 10 for additives.)"
+Lubrication Oil,Oil which meets the requirements of AiResearch Specification EMS 53110 Type II.
+Engine Limits,"Static, standard day, sea level: 
+ Take-off (5 minutes) 
+ 3700 lbs. 
+ Maximum continuous 
+ 3700 lbs. 
+ Maximum permissible engine rotor operating speed: 
+ N1 21,000 rpm, (101.5%), N2 29,622 rpm (100%). Overspeed limits for 1 minute 
+ duration are 103% for both N1 and N2. NOTE: 105% is approved limit for engine, but 
+ if this is exceeded, the engine must be removed and sent to authorized overhaul/repair 
+ station. 
+ Maximum permissible temperatures: 
+ Interstage Turbine Temperature (ITT) 
+ Take-off (5 minutes) 
+ 907°C 
+ Maximum continuous 
+ 885°C 
+ Starting (momentary) 
+ 907°C 
+ Oil inlet (Sea level to 30,000 ft.) 
+ Fan Gearbox inlet 
+ 127°C 
+ Oil inlet (Above 30,000 ft.) 
+ Fan Gearbox inlet 
+ 140°C"
+Airspeed Limits,"KCAS 
+ Mach"
+CAS,"Vmo 
+ (maximum - operating - 22,400 ft. and below 
+ 350K 
+ equivalent 
+ Vmo 
+ (maximum operating - above 22,400 ft.) 
+ 0.82 
+ Va 
+ (maneuvering - variable - see FAA approved 
+ Airplane Flight Manual 
+ Vb 
+ (turbulent air penetration) 
+ 230 or 
+ 0.82 
+ Vfe 
+ (flap extension speeds) 
+ 200 or 
+ 0.45 
+ (Do not extend flaps above 20,000 ft.) 
+ Vlo 
+ (landing gear operating) 
+ 200 or 0.45 
+ (Do not operating above 20,000 ft.) 
+ V 
+ (*thrust reverser actuation) 
+ 180 
+ (ground operation only) 
+ Vmc 
+ (air minimum control speed) 
+ 103"
+CG Range,"It is the responsibility of the pilot to assure that the aircraft weight and center of gravity 
+ remain within the limits at all times. Data for proper loading and usage of fuel are 
+ contained in the approved Airplane Flight Manual and the Jet Star Handbook of Weight 
+ and Balance Data. 
+ 46 
+ Maximum Ramp Weight 
+ 44,750 Pounds 
+ Forward 
+ 44 
+ Flight Limit 
+ Maximum 
+ Take-off Weight 
+ 44,500 Pounds 
+ 42 
+ 40 
+ 38 
+ 36 
+ Aft Flight 
+ Limit 
+ 34 
+ Restrict Passenger 
+ GROSS WEIGHT - 1,000 POUNDS 
+ Movement When Loaded 
+ 32 
+ in the Aft Shaded Area 
+ Restrict Passenger 
+ 30 
+ Movement During Take-off 
+ and Landing When Loaded 
+ in Forward Shaded Area 
+ 28 
+ 26 
+ Allowable Zero Fuel 
+ Weight Envelope 
+ 24 
+ 22 
+ 16 
+ 18 
+ 20 
+ 22 
+ 24 
+ 26 
+ 28 
+ 30 
+ 32 
+ CENTER OF GRAVITY - % MAC"
+Maximum Weights,"Ramp 
+ 44,750 lbs. 
+ see Flight Manual 
+ Take-off 
+ 44,500 lbs. 
+ see NOTE 1 
+ Landing 
+ 36,000 lbs. 
+ (Fuel jettison system required for operation in excess of maximum landing weight - see 
+ NOTE 1(f)) 
+ Maximum zero fuel weight 
+ 27,500 lbs. 
+ All weight in excess of maximum zero fuel weight must consist of usable fuel."
+Minimum crew,Two (2) - Pilot and Co-Pilot
+Maximum Passengers,Ten (10)
+Maximum Baggage,"Cabin baggage compartment at F.S. 241-310, centroid F.S. 279, maximum capacity 
+ 730 lbs. 
+ Capacity 
+ Maximum Loading 
+ Area 
+ (lbs.) 
+ (lbs./ft.) 
+ lbs./ft. 
+ Side shelf 
+ 300 
+ 60 
+ 12 
+ Middle shelf 
+ 160 
+ 30 
+ 6 
+ Top shelf 
+ 70 
+ 20 
+ 3 
+ Floor 
+ 200 
+ 60 
+ 10 
+ Total Fuel 
+ Usable Fuel 
+ (Inc. Trapped & Unusable) 
+ Tank 
+ lbs. 
+ gal. 
+ Arm 
+ lbs. 
+ gal. 
+ 1 (outboard) 
+ 2587 
+ 375 
+ 523.2 
+ 2667 
+ 387 
+ 2 (inboard) 
+ 2691 
+ 390 
+ 464.7 
+ 2764 
+ 400 
+ 3 (inboard) 
+ 2691 
+ 390 
+ 464.7 
+ 2764 
+ 400 
+ 4 (outboard) 
+ 2587 
+ 375 
+ 523.2 
+ 2667 
+ 387 
+ Left external 
+ 3988 
+ 578 
+ 458.6 
+ 4035 
+ 585 
+ Right external 
+ 3988 
+ 578 
+ 458.6 
+ 4035 
+ 585 
+ Piping & valves 
+ (trapped) 
+ _____ 
+ ____ 
+ 53 
+ 8 
+ Total 
+ 18532 
+ 2686 
+ 18985 
+ 2754 
+ Fuel weights are based on fuel density of 6.9 lbs. per gallon. 
+ Usable fuel weights shown are structural limitations. 
+ Usable fuel weight = 18,532 lbs., except as limited by take-off gross weight. 
+ See NOTE 1(c) for system fuel, including unusable fuel, NOTE (e) for fuel loading and 
+ usage procedures, and NOTE 1 (f) for undumpable fuel."
+Oil Capacity,"Four (4) engine-mounted tanks. Capacity for each, 3.85 lbs. usable, total 11.6 lbs. 
+ Capacity for all, 15.4 lbs. usable, total 46.4 lbs., Arm 531.7 (usable) 
+ Oil weight based on 7.7 lbs. per gallon. 
+ See NOTE 1(c) for system oil."
+Maximum operating altitude,"43,000 ft."
+Other operating limitations,"See FAA approved Airplane Flight Manual dated December 14, 1976, or later approved 
+ revisions."
+Serial Numbers Eligible,5201 and subsequent
+DATA PERTINENT TO ALL MODELS,
+Datum,"94.0"" forward of nose. Wing jack points are at Fuselage Station 519.95."
+MAC,"131.15""; leading edge M.A.C., F.S. 445.1."
+Leveling Means,"A plumb-bob attachment is located overhead in the cabin at F.S. 450. A leveling plat is 
+ attached to the lower frame under the walkway at F.S. 450. Jack airplane by nose and 
+ wing points only. See Lockheed Drawing JF 295."
+Control surface movements,"Control surface movements, and rigging instructions for the following systems, are 
+ shown on the indicated FAA approved Lockheed Drawings. 
+ Model 1329-23 
+ Model 1329-25 
+ Surface/System 
+ Drawing 
+ Drawing 
+ Aileron 
+ JC482 
+ JC482 
+ Aileron Trim Tab 
+ JC485 
+ JC485 
+ Brakes 
+ JL450 
+ JL450 
+ Drag Chute 
+ JC489 
+ --- 
+ Elevator 
+ JC483 
+ JC483 
+ Emergency Landing Gear 
+ JC491 
+ JC510; JC511 
+ Flaps 
+ JW417 
+ JW417 
+ Horizontal Stabilizer (Pitch Trim) 
+ JC486 
+ JC486 
+ Landing Gear - Nose 
+ JL302 
+ JL521 
+ Landing Gear - Main 
+ JL301 
+ JL520 
+ Nose Wheel Steering 
+ JC490 
+ JC490 
+ Rudder 
+ JC484 
+ JC484 
+ Rudder Trim 
+ JC487 
+ JC487 
+ Throttle 
+ JC488 
+ JC805 
+ Stick Pusher (for 1329-25) 
+ JC784 
+ JC785 
+ (S/N 5216 & up) 
+ (S/N 5201-5215)"
+Certification Basis,"Model 1329-23 series 
+ CAR 4b dated December 31, 1953, and Amendments 4b-1 through 4b-9 together with 
+ SR-422B and the special conditions contained in an FAA letter to Lockheed dated 
+ December 19, 1958, as revised by an FAA letter to Lockheed dated January 10, 1961. 
+ Compliance with the following optional requirements has been established: Ditching 
+ provisions, CAR 4b.361; Ice Protection, CAR 4b.640. 
+ Application for Type Certificate dated September 4, 1958. 
+ Type Certificate No. 2A15 issued on August 28, 1961. 
+ Model 1329-25 series 
+ Civil Air Regulation (CAR 4b dated December 31, 1953, including Amendments 4b-1 
+ through 4b-9; SR422B; Special Condition contained in FAA letter to Lockheed dated 
+ December 19, 1958, as revised by FAA letter to Lockheed dated January 10, 1961; and 
+ the following sections of Federal Aviation Regulation 25 through Amendment 25-32, 
+ effective May 1, 1972, in lieu of the referenced CAR 4b Regulations; FAR 25.367, ref. 
+ CAR 4b.216(a); FAR 25.571(d), ref. CAR 4b.470; FAR 25.865, Ref. CAR 4b.401(b) and 
+ 4b.490; FAR 25.1041, ref. CAR 4b.450; FAR 25.1043, ref. CAR 4b. 451; FAR 25.1045, 
+ ref. CAR 4b.452, and 4b.453; FAR 25.1093(b), ref. CAR 4b.461(a) and (c); FAR 
+ 25.1143, ref. CAR 4b.471; FAR 25.1182, ref. CAR 4b. 480(c); FAR 25.1189, ref. CAR 
+ 4b.482; FAR 25.1521, ref. CAR 4b. 718; FAR 25.933(a) and (d); FAR 25.934; FAR 
+ 25.1091. 
+ FAR 21.93(b), FAR 21.101(a), (b); FAR 36.2(b), FAR 36 including Amendment 36-1, 
+ SFAR 27-1. 
+ Equivalent Safety Findings: CAR 4b.160 and 4b. 161. 
+ Compliance with the following optional requirements has been established: 
+ Ditching provisionsCAR 4b.361 
+ Type Certificate No. 2A15 issued on August 28, 1961, and Amended Type Certificate 
+ issued on December 14, 1976."
+Production Basis,Production Certificate No. 205
+Required equipment,"The basic required equipment, as prescribed in the applicable airworthiness regulations 
+ (see the Certification Basis), must be installed in the aircraft for certification. Lockheed 
+ Report No. ER-4425, for the Model 1329-23 series or Report LG76ER0162 for the 
+ Model 1329-25 ""Master Equipment List, Model 1329,"" contains a list of all required 
+ equipment that must be installed, as well as optional equipment installations approved by 
+ FAA. Required and optional equipment for individual aircraft will be specified in the 
+ JetStar Handbook of Weight and Balance Data."
+Service information,"The Lockheed Model 1329 operations and maintenance instructions, service bulletins, 
+ and other service information, when FAA approved, will carry a statement to that effect."
+NOTE 1,"(a) 
+ Current weight and balance report including list of equipment included in certificated empty weight, 
+ and loading instructions must be in each aircraft at the time of original certification and at all times 
+ thereafter except in the case of operators having an approved weight control system. Approved 
+ weight and balance data is contained in the Jet Star Handbook of Weight and Balance Data. 
+ (b) 
+ The airplane must be loaded so that the (zero fuel weight) c.g. is within the specified limits at all times 
+ (reference c.g. range). 
+ (c) 
+ The weight of system fuel and oil as defined below, and hydraulic fluid, must be included in the 
+ airplane empty weight. 
+ System fuel: The weight of all fuel required to fill all lines and tanks up to the zero fuel point on the 
+ fuel gauges in level flight attitude (3 degrees and 30 minutes nose-up). This includes the unusable 
+ fuel as defined by CAR 4b.416. 
+ Model 1329-23 series 
+ S/Ns 5001, 5002, and 5004 through 5040 
+ Unusable (drainable from tank drains) 
+ Tank 
+ gal. 
+ *lbs. 
+ Arm 
+ 1 (outboard) 
+ 21.1 
+ 146.0 
+ 447.5 
+ 2 (inboard) 
+ 12.5 
+ 86.0 
+ 486.0 
+ 3 (inboard) 
+ 12.5 
+ 86.0 
+ 486.0 
+ 4 (outboard) 
+ 21.1 
+ 146.0 
+ 447.5 
+ Left external 
+ 3.1 
+ 21.0 
+ 530.0 
+ Right external 
+ 3.1 
+ 21.0 
+ 530.0 
+ Total 
+ 73.4 
+ 506.0 
+ (467.4) 
+ Trapped fuel 
+ (total undrainable) 
+ 25.1 
+ 173.0 
+ 511.0 
+ *Fuel weights are based on a fuel density of 6.9 lbs./gal. 
+ Model 1329-23 
+ S/Ns 5003, 5041, and up, and aircraft in compliance with Service Bulletin No. 329-70 
+ Unusable (drainable from tank drains) 
+ Tank 
+ gal. 
+ *lbs. 
+ Arm 
+ 1 (outboard) 
+ 10.1 
+ 69.7 
+ 447.5 
+ 2 (inboard) 
+ 9.1 
+ 62.8 
+ 486.0 
+ 3 (inboard) 
+ 9.1 
+ 62.8 
+ 486.0 
+ 4 (outboard) 
+ 10.1 
+ 69.7 
+ 447.5 
+ Left external 
+ 3.1 
+ 21.0 
+ 530.0 
+ Right external 
+ 3.1 
+ 21.0 
+ 530.0 
+ Total 
+ 44.6 
+ 307.0 
+ (474.5) 
+ Trapped fuel 
+ (total undrainable) 
+ 25.1 
+ 173.0 
+ 511.0 
+ Model 1329-25, S/N 5201 and up 
+ Unusable (drainable from tank drains) 
+ Tank 
+ gal. 
+ *lbs. 
+ Arm 
+ 1 (outboard) 
+ 10.1 
+ 69.7 
+ 447.5 
+ 2 (inboard) 
+ 9.1 
+ 62.8 
+ 486.0 
+ 3 (inboard) 
+ 9.1 
+ 62.8 
+ 486.0 
+ 4 (outboard) 
+ 10.1 
+ 69.7 
+ 447.5 
+ Left external 
+ 2.8 
+ 19.6 
+ 510.5 
+ Right external 
+ 2.8 
+ 19.6 
+ 510.5 
+ Total 
+ 44.0 
+ 304.0 
+ (474.0) 
+ Trapped fuel 
+ (total undrainable) 
+ 21.5 
+ 148.6 
+ 478.3 
+ * Fuel weights are based on a fuel density of 6.9 lbs./gal. 
+ System Oil (including unusable): The weight of oil remaining in the engines, tanks and lines after 
+ subtracting the usable oil from the total capacity: 3.75 lbs. each, 15 lbs. total, arm 594.0. System oil and all 
+ hydraulic fluid must be included in the airplane empty weight. 
+ (d) 
+ Zero fuel weight of 23,700 lbs. approved when interior modifications conform to the criteria of 
+ Lockheed Report ER-5500M, revised February 2, 1962. 
+ Zero fuel weight of 24,500 lbs. approved when interior modifications conform to the criteria of 
+ Lockheed Report ER-5500M, revised August 15, 1963, and when structural modifications are 
+ incorporated in accordance with Lock heed Service Bulletin No. 329-138 dated August 30, 1963. 
+ Zero fuel weight may be increased to 25,000 lbs. after incorporation of the provisions of Lockheed 
+ Service Bulletin No. 329-138B dated December 1965 for the Model 1329-23 series airplanes. 
+ Zero fuel weight of 27,500 lbs. approved when interior modifications conform to the criteria of 
+ Lockheed Report ER-5500M-II, revised February 8, 1977, for the Model 1329-25 series airplanes. 
+ (e) 
+ Fuel loading and usage procedures are dictated by structural design, and to maintain airplane c.g. 
+ within approved limits. 
+ Refer to FAA approved Airplane Flight Manual for take-off, landing, and normal fuel distribution 
+ limitations, normal fuel system management, and fuel system malfunction procedures. 
+ Fuel must be loaded symmetrically about the airplane centerline. 
+ Any landing with more than 500 lbs.* of fuel in either external tank must be considered an 
+ overweight landing and an overweight landing inspection must be accomplished. 
+ *2,250 lbs., S/N 5066 and up, and lower S/Ns incorporating JetStar Service Bulletin No. 329-157. 
+ This limitation also applies to S/N 5201 and up. 
+ (f) 
+ Fuel jettison capability must be available for operation of the airplane in excess of the maximum 
+ landing weight. The unjettisonable fuel must be included in the airplane landing weight. The amount 
+ of usable fuel remaining in the tanks after complete jettisoning is as follows: 
+ Tanks 1, 2, 3, and 4: 
+ 1,000 lbs. each, 
+ Total 4,000 lbs. 
+ External tanks: 
+ None"
+NOTE 2,"Placards and markings must be in accordance with Lockheed Drawing JG387, for the Model 1329-25."
+NOTE 3,"All replacement seats (crew, passenger, and lounge seats), although they may comply with TSO-C39, must 
+ also be demonstrated to comply with CAR 4b.358(c). Other installations, such as berths, buffets, and 
+ compartments or items of mass which could create a hazard to the safety of passengers and crew, must also 
+ be demonstrated to meet the same requirements."
+NOTE 4,"The basic model number of the aircraft is 1329. The nameplate contains two sets of additional numbers, the 
+ first set represents the engine and the second set represents the type of interior on initial issue of the standard 
+ airworthiness certificate. 
+ Examples: 
+ 1. 
+ 1329-23A-000 contains JT12A-6 engines and is a two-place aircraft with no interior. 
+ 2. 
+ 1329-23A-001 contains JT12A-6 engines and is a ten-place aircraft with a Lockheed standard interior. 
+ 3. 
+ 1329-23D-000 contains JT12A-6A engines and is a two-place aircraft with no interior. 
+ 4. 
+ 1329-23E-00 contains JT12A-8 engines and is a two-place aircraft with no interior. 
+ 5. 
+ 13329-25 contains TFE731-3 engines and is a two-place aircraft with no interior."
+NOTE 5,"Main tank fuel boost pumps, Lockheed P/Ns JP 1000-5 or -8, Lear P/Ns RR 12040B or RR12040E, must be 
+ removed from the aircraft and returned to the pump manufacturer for inspection after each 300 hours of 
+ flying time in accordance with Lockheed Service Letter 329-2035. When main tank fuel boost pumps, 
+ Lockheed P/Ns JP 1000-7 or -9, Lear P/Ns RR 12040D or RR 12040F, are installed, the approved time 
+ between overhaul is 2000 hours."
+NOTE 6,"Approved engines are eligible with or without Pratt and Whitney change EC110181 (Aves kit) for the Model 
+ 1329-23 series airplanes."
+NOTE 7,"(a) 
+ JT12A-6 and JT12A-6 engines may be intermixed on all Model 1329 aircraft, provided the engine 
+ limits and performance data for the JT12A-6 engine are used for all engines. 
+ (b) 
+ The JT12A-6 engine is eligible for use on S/Ns 5001 through 5092 and 5094 through 5096. 
+ (c) 
+ The JT12A-6A engine is eligible for use on S/Ns 5001 through 5045 at the power and temperature 
+ limits of the JT12A-6. 
+ (d) 
+ The TJ12A-6A engine is eligible for use on S/Ns 5001 through 5045 at the power and temperature 
+ limits of the JT12A-6A after incorporation of JetStar Service Bulletin 329-147A dated April 17, 1964. 
+ (e) 
+ The JT12A-6A engines are eligible for use on S/Ns 5046 through 5092, 5094 through 5096, and 5121."
+NOTE 9,"(a) 
+ The JT12A-8 engines are eligible for use on S/Ns 5001 through 5092; 5094 through 5096 when 
+ installed in accordance with JetStar Service Bulletin 329-242 dated July 25, 1967.."
+NOTE 10,"The following fuel additives are approved for use: 
+ SOHIO Biobor JF biocide additive, or equivalent at a concentration not to exceed 20 ppm of elemental 
+ Boron. 
+ Shell ASA-3 Anti-Static additive, or equivalent, in amounts to bring the fuel up to 300 conductivity units, as 
+ long as the quantity added does not exceed 1 ppm. 
+ MIL-I-27686D or E Inhibitor, Icing, Fuel System, or Phillipps PFA-55MB, or equivalent is approved for use 
+ in the fuel in amounts not to exceed 0.15 percent by volume."

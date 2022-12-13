@@ -1,0 +1,344 @@
+Keyterm,Info
+"A63EU 
+ Revision 10 
+ GROB Aircraft SE 
+ G 520 
+ G 520T 
+ July 19, 2021",
+Type Certificate Holder,"GROB Aircraft SE 
+ Lettenbachstrasse 9 
+ 86874 Tussenhausen-Mattsies 
+ Germany"
+Type Certificate Ownership Record,"BURKHART GROB Luft- und Raumfahrt GmbH & Co. KG transferred TC A63EU to 
+ GROB Aerospace GmbH in December, 2006. 
+ GROB Aerospace GmbH transferred TC A63EU to GROB Aerospace GmbH i.l. in 
+ August, 2008. 
+ GROB Aerospace GmbH i.l. transferred TC A63EU to GROB Aircraft AG. in February, 
+ 2009. 
+ GROB Aircraft AG transferred TC A49CE to GROB Aircraft SE on September 01, 2017."
+"I. Model G 520, (Normal Category) approved September 13, 1991.",
+Engine,GARRETT TPE 331-14F-801L
+Fuel,"JET A, JET A1 or JET B"
+Engine Limits,"For take-off, 5 minutes, and for continuous operation, 750 SHP, 1478 r.p.m. 
+ (NOTE: IEC-rated)"
+Propeller and Propeller Limits,"Hartzell HC-E4P-5/E11990K 
+ Diameter 120 in, no cutoff permitted 
+ Pitch settings at 42 in station: 
+ Start lock 
+ -1.5º 
+ ±0.1º 
+ Flight idle 
+ +4.5º 
+ +0.3º/-0.0º 
+ Feather 
+ +78.5º 
+ ±0.1º 
+ Reverse 
+ -10.0º"
+Airspeed Limits,"Knots* 
+ m.p.h. Mach* 
+ VMO (Max. Operating Speed) 
+ 153 
+ 176 
+ 0.448 
+ VA (Maneuvering Speed) 
+ 124 
+ 143 
+ 0.448 
+ VFE (Flaps Extended Speed) 
+ 120 
+ 138 
+ 0.448 
+ VLO (Landing Gear Open. Speed) 
+ 120 
+ 138 
+ 0.448 
+ VLE (Landing Gear Ext. Speed) 
+ 120 
+ 138 
+ 0.448 
+ (NOTE: * whichever is lower)"
+CG Range,Refer to G 520-EGRETT Pilot's Operating Handbook page 2-7.
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6"
+Rev No,"10 
+ 9 
+ 9 
+ 9 
+ 10 
+ 9"
+Empty Weight CG Range,None
+Datum,200 in forward of firewall front
+Leveling Means,"Leveling means is achieved by positioning the airplane on jacks, locating the lateral and 
+ longitudinal datum points on the bottom of the fuselage with a spirit level, and adjusting 
+ the center of gravity appropriately as specified in the maintenance manual."
+Maximum Weight,"Max. Zero Fuel 
+ 8988 lbs 
+ Max. Take-Off 
+ 10362 lbs 
+ Max. Landing 
+ 9843 lbs 
+ (refer to Note 1)"
+Minimum Crew,1 pilot
+Number of Seats,1
+Maximum Baggage,"Baggage compartments: 
+ 12 
+ Max. permitted baggage: 
+ Baggage compartments 1 and 4 
+ 150 lbs each 
+ Baggage compartments 2 and 5 
+ 225 lbs each 
+ Baggage compartments 3 and 6 
+ 225 lbs each 
+ Baggage compartments 7 and 8 
+ 150 lbs each 
+ Baggage compartments 9 and 10 
+ 150 lbs each 
+ Baggage compartment 11 
+ 525 lbs 
+ Baggage compartment 12 
+ 49 lbs"
+Fuel Capacity,288 U.S. Gal. usable
+Oil Capacity,7 qts. usable
+Parts with limited Operation,Refer to G 520-EGRETT Maintenance Manual (Chapter 4)
+Control Surface Movements,Refer to G 520-EGRETT Maintenance Manual (Chapter 27)
+Operational Altitude,"Max. permitted: 
+ 25,000 ft without pressure suit 
+ 50,000 ft with pressure suit"
+Serial Nos Eligible,Model G 520 Serial No. 10 002 and subsequent.
+Certification Basis,"1. 
+ 14 CFR Sections 21.29, 21.183(c) and 14 CFR 23, effective February 11, 1965 
+ including amendment 23-1 through 23-34 
+ 2. 
+ 14 CFR Section 36, effective November 18, 1969, including amendments 36-1 
+ through amendment 18 dated August 18, 1989 
+ 3. 
+ SFAR 27, effective February 1, 1974 including Amendments 27-1 through 5 
+ 4. 
+ Special Conditions pursuant to 14 CFR Section 21-16 as follows: 
+ - 
+ No. 23-ACE-58 issued November 8, 1990. 
+ 5. 
+ Equivalent Levels of Safety (ELOS) findings per the provisions of 14 CFR Part 
+ 21.21(b)(1) as follows: 
+ - 
+ ELOS No. ACE-91-01, dated June 25, 1991. 
+ - 
+ ELOS No. ACE-92-01, dated April 1, 1992. 
+ - 
+ ELOS No. ACE-94-10, dated July 11, 1994 
+ 6. 
+ Section 611(b) of the FAA Act of 1958 
+ 7. 
+ Exemption No. 5223 granted by FAA (FAR 11.27) on September 13, 1990 
+ The German civil airworthiness authority, the Luftfahrt Bundesamt (LBA), originally 
+ type certificated this aircraft under its Type Certificate No. 2066. The FAA validated this 
+ product under U.S. Type Certificate No. A63EU. Effective September 28, 2003, the 
+ European Union Aviation Safety Agency (EASA) began oversight of this product on 
+ behalf of Germany. At this time, EASA has maintained the LBA Type Certificate Data 
+ Sheet No. 2066."
+"II. Model G 520T, (Normal Category) approved September 30, 1994",
+Engine,GARRETT TPE 331-14F-801L
+Fuel,"JET A, JET A-1 or JET B"
+Engine Limits,"For take-off, 5 minutes and for continuous operation, 750 SHP 1), 1478 r.p.m. 
+ (NOTE: IEC-rated)"
+Propeller and Propeller Limits,"Hartzell HC-E4P-5/E11990K 
+ Diameter 120 in, no cutoff permitted 
+ Pitch settings at 42 in station: 
+ Start lock 
+ -1.5º 
+ ±0.1º 
+ Flight idle 
+ +4.5º 
+ +0.3º/-0.0º 
+ Feather 
+ +78.5º 
+ ±0.1º 
+ Reverse 
+ -10.0º"
+Airspeed Limits,"Knots 
+ m.p.h. 
+ Mach* 
+ VMO (Max. Operating Speed) 
+ 153 
+ 176 
+ 0.448 
+ VA (Maneuvering Speed) 
+ 118 
+ 136 
+ 0.448 
+ VFE (Flaps Extended Speed) 
+ 120 
+ 138 
+ 0.448 
+ VLO (Landing Gear Open. Speed) 
+ 120 
+ 138 
+ 0.448 
+ VLE (Landing Gear Ext. Speed) 
+ 120 
+ 138 
+ 0.448 
+ (NOTE: * whichever is lower)"
+CG Range,Refer to G 520T Pilot's Operating Handbook Page 2-7
+Empty Weight CG Range,None
+Datum,149 in forward of firewall front
+Leveling Means,"Leveling means is achieved by positioning the airplane on jacks, locating the lateral and 
+ longitudinal datum points on the bottom of the fuselage with a spirit level, and adjusting 
+ the center of gravity appropriately as specified in the maintenance manual."
+Maximum Weight,"Max. Zero Fuel 
+ 9334 lbs 
+ Max. Take-Off 
+ 10362 lbs 
+ Max. Landing 
+ 9773 lbs 
+ (refer to Note 1)."
+Minimum Crew,1 pilot
+Number of Seats,2
+Maximum Baggage,"Baggage compartments: 
+ 14 
+ Max. permitted baggage: 
+ Baggage compartments 1 and 4 
+ 150 lbs each 
+ Baggage compartments 2 and 5 
+ 225 lbs each 
+ Baggage compartments 3 and 6 
+ 225 lbs each 
+ Baggage compartment 7 
+ 150 lbs each 
+ Baggage compartments 9 and 10 
+ 150 lbs each 
+ Baggage compartments 11 and 12 
+ 150 lbs each 
+ Baggage compartment 13 
+ 525 lbs 
+ Baggage compartment 14 
+ 49 lbs"
+Fuel Capacity,348 U.S. Gal. usable
+Oil Capacity,7 qts usable
+Parts with Limited Operation,Refer to G 520T Maintenance Manual (Chapter 4)
+Control Surface Movements,Refer to G 520T Maintenance Manual (Chapter 27)
+Operational Altitude,"Max. permitted: 
+ 25,000 ft without pressure suit 
+ 50,000 ft with pressure suit"
+Serial Nos Eligible,Model G 520T Serial No. 10 200 and subsequent
+Certification Basis,"1. 
+ 14 CFR Sections 21.29, 21.183(c) and 14 CFR 23, effective February 11, 1965 
+ including amendment 23-1 through 23-34, and amendment 23-42, section 23.831 
+ 2. 
+ SFAR 27, effective February 1, 1974 including Amendments 27-1 through 5 
+ 3. 
+ 14 CFR Section 36, effective November 18, 1969, including amendments 36-1 
+ through amendment in effect at the time of U.S. Type Certification 
+ 4. 
+ Special Conditions pursuant to 14 CFR Section 21-16 as follows: 
+ - 
+ No. 23-ACE-66 (57FR9513 issued March 19, 1992) 
+ 5. 
+ Equivalent Levels of Safety (ELOS) findings per the provisions of 14 CFR Part 
+ 21.21(b)(1) as follows: 
+ - 
+ ELOS No. ACE-91-01, dated June 25, 1991. 
+ - 
+ ELOS No. ACE-92-01, dated April 1, 1992. 
+ - 
+ ELOS No. ACE-94-10 dated July 11, 1994 
+ - 
+ ELOS No. ACE-95-2 dated December 29, 1994 
+ 6. 
+ Exemptions approved by FAA (FAR 11.27) including No. 5223 dated September 
+ 13, 1990 
+ 7. 
+ Section 611 (b) of the FAA Act of 1958 
+ The German civil airworthiness authority, the Luftfahrt Bundesamt (LBA), originally 
+ type certificated this aircraft under its Type Certificate No. 2066. The FAA validated this 
+ product under U.S. Type Certificate No. A63EU. Effective September 28, 2003, the 
+ European Union Aviation Safety Agency (EASA) began oversight of this product on 
+ behalf of Germany. At this time, EASA has maintained the LBA Type Certificate Data 
+ Sheet No. 2066."
+Data Pertinent to all Models,
+Import Requirements,"The FAA can issue a U.S. Standard Airworthiness Certificate based on an Export 
+ Certificate of Airworthiness (Export C of A) signed by a representative of the LBA, on 
+ behalf of the European Community. The Export C of A should contain the following 
+ statement: ‘The aircraft covered by this certificate has been examined, tested, and found 
+ to comply with U.S. airworthiness regulations 14 CFR Part 23 approved under U.S. Type 
+ Certificate No. A63EU and to be in a condition for safe operation.’ 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United 
+ States of both new and used aircraft based on the scope of the agreement, to identify any 
+ required statements by the exporting authority on the export certificate of airworthiness 
+ (or equivalent document), and for procedures for coordinating exceptions to conformity 
+ statements on these documents. Refer to FAA Order 8130.2, Airworthiness Certification 
+ of Aircraft, for requirements for issuance of an airworthiness certificate for imported 
+ aircraft."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulation 
+ (see ""Certification Basis"") must be installed in the airplane for certification."
+Service Information,"Each of the documents listed below must state that it is approved by EASA or – for 
+ approvals made before September 28, 2003 – by the LBA. 
+  
+ Service bulletins 
+  
+ Structural repair manuals 
+  
+ Vendor manuals 
+  
+ Aircraft flight manuals 
+  
+ Overhaul and maintenance manuals. 
+ The FAA accepts such documents and considers them FAA-approved unless one of the 
+ following conditions exists: 
+  
+ The documents change the limitations, performance, or procedures of the FAA 
+ approved manuals; or 
+  
+ The documents make an acoustical or emissions changes to this product’s U.S. 
+ type certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. The FAA 
+ may delegate case-by-case approval to EASA on behalf of the FAA for the U.S. type 
+ certificate. If this is the case it will be noted on the document."
+NOTE 1,"Current weight and balance data together with a list of equipment included in the certificated empty weight, 
+ and loading instructions, when necessary, must be provided for each aircraft at the time of original 
+ certification. The certificated empty weight and corresponding center of gravity locations must include the 
+ following: 
+ G 520 
+ a) 
+ unusable fuel of 47 lbs (242 in (6147 mm) aft of datum) 
+ b) 
+ engine oil of 17 lbs (139 in (3531 mm) aft of datum) 
+ G 520T a) 
+ unusable fuel of 47 lbs (242 in (6147 mm) aft of datum) 
+ b) 
+ engine oil of 16.75 lbs (87.6 in (2225 mm) aft of datum)"
+NOTE 2,"All placards listed in Section 2, of the approved Pilot's Operating Handbook G 520 and G 520T must be 
+ installed in the appropriate locations. Each airplane must be supplied with a placard that specifies the kind of 
+ operations to which the operation of the airplane is limited by its installed equipment. 
+ The following placard must be displayed on the instrument panel in full view of the pilot: 
+ ""THE MARKINGS AND PLACARDS INSTALLED IN THIS AIRPLANE CONTAIN OPERATING 
+ LIMITATIONS WHICH MUST BE COMPLIED WITH WHEN OPERATING THIS AIRPLANE IN THE 
+ NORMAL CATEGORY. OTHER OPERATING LIMITATIONS WHICH MUST BE COMPLIED WITH 
+ WHEN OPERATING THIS AIRPLANE IN THIS CATEGORY ARE CONTAINED IN THE AIRPLANE 
+ FLIGHT MANUAL""."
+NOTE 3,"G 520 
+ Airworthiness Limitations. 
+ Chapter 04 of the G 520 EGRETT Maintenance Manual includes the Airworthiness Limitation 
+ Section 4-00-00. This section is FAA approved and specifies maintenance required under 
+ paragraphs 43.16 and 91.403 of the Federal Aviation Regulations unless an alternative program has 
+ been FAA approved. 
+ G 520T Airworthiness Limitations. 
+ Chapter 04 of the G 520T Maintenance Manual includes the Airworthiness Limitation Section 4- 
+ 00-00. This section is FAA approved and specifies maintenance required under paragraphs 43.16 
+ and 91.403 of the Federal Aviation Regulations unless an alternative program has been FAA 
+ approved. 
+ Note that Section 4-00-00 may not be changed without FAA-approval."
+NOTE 4,"The airframes of the G 520 and G 520T were demonstrated to be damage tolerant. Every 3,000 flight hours 
+ the ""Significant Structure Items Inspection"" and prior to 15,000 flight hours the ""Airframe Major Inspection"" 
+ must be performed. This may provide the necessary clearance for further flight."
+NOTE 5,"Major structural repairs must be accomplished by a properly certificated mechanic in accordance with data 
+ approved by the FAA."
+NOTE 6,"The G 520 and G 520T are approved for the following types of operations: 
+ VFR DAY and NIGHT 
+ IFR DAY and NIGHT 
+ Flight into known icing"

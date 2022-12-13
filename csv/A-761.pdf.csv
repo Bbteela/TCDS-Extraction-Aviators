@@ -1,0 +1,414 @@
+Keyterm,Info
+"A-761 
+ Revision 18 
+ American Champion 
+ (Bellanca) 
+ (Trytek) 
+ (Aeronca) 
+ 11AC 
+ S11AC 
+ 11BC 
+ S11BC 
+ January 9, 2009",
+Type Certificate Holder,"American Champion Aircraft Corp. 
+ P. O. Box 37 
+ Rochester, Wisconsin 53167"
+"I - Model 11AC, 2 PCLM, Approved September 28, 1945 
+ (See Section III for conversion to model 11BC)",
+Engine,Continental A-65-8
+Fuel,73 minimum octane aviation gasoline
+Engine Limits,"For all operations, 2300 r.p.m. (65 hp.)"
+Airspeed Limits CAS,"Level flight or climb 95 m.p.h. (83 knots) 
+ Glide or dive 128 m.p.h. (111 knots)"
+Propeller Limits,Static rpm at maximum permissible throttle setting:
+For fixed pitch wood propeller,"Not over 2300, not under 1990. No additional tolerance permitted 
+ Diameter: not over 72 in., not under 70 in."
+CG Range,(+12.4) to (+22.0) (Rear limit may be(+23.2) provided intentional spins are prohibited).
+Empty Weight CG Range,"(+12.9) to (+19.6) with standard fuel tank only 
+ (+12.9) to (+15.2) with Item 104 installed 
+ When the empty weight C.G. falls within these ranges, it is unnecessary to check the 
+ critical forward and aft C.G. positions. Ranges are not valid for arrangements other than 
+ indicated."
+Maximum Weight,1250 lbs.
+No of Seats,2 (adjustable from +21.5 to +25.5)
+Maximum Baggage,"70 lbs. (+48.5). Placard required on instrument panel: 
+ ""INTENTIONAL SPINNING PROHIBITED WHEN BAGGAGE IS CARRIED"""
+Fuel Capacity,15 gal. (-6)
+Oil Capacity,1 gal. (-32)
+Control Surface Movements,"Elevator 
+ Up 
+ 26° 
+ Down 
+ 24.5° 
+ Elevator Trim Tab 
+ Up 
+ 23° 
+ Down 
+ 31° 
+ Ailerons 
+ Up 
+ 28° 
+ Down 
+ 18° 
+ Rudder 
+ Right 
+ 28° 
+ Left 
+ 28°"
+Serial No Eligible,11AC-1 and up
+Page No 1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7"
+Rev No,"17 
+ 17 
+ 17 
+ 17 
+ 17 
+ 18 
+ 17"
+Required Equipment,"In addition to the pertinent required basic equipment specified in CAR 4a, the following 
+ items of equipment must be installed: 1, 101, 102, 201, 202"
+"II - Model S11AC, 2 PCSM, Approved July 22, 1947",
+Engine,Continental A-65-8F
+Fuel,73 minimum octane aviation gasoline
+Engine Limits,"For all operations, 2300 r.p.m. (65 hp.)"
+Airspeed Limits CAS,"Level flight or climb 90 m.p.h. (78 knots) 
+ Glide or dive 122 m.p.h. (106 knots)"
+Propeller Limits,Static rpm at maximum permissible throttle setting:
+For fixed pitch wood propeller,"Not over 2170, not under 2070. No additional tolerance permitted 
+ Diameter: not over 72 in., not under 70 in."
+CG Range,"(+17.0) to (+21.9) at 1350 lb. 
+ (+14.9) to (+21.9) at 1278 lb. or less. Straight line variation between points given. 
+ 1400 
+ 1350 
+ AFT 
+ 1300 
+ LIMIT 
+ FRONT 
+ LB. 
+ LIMIT 
+ 1250 
+ 1200 
+ 1150 
+ 14 15 16 17 18 19 20 21 22 
+ INCHES"
+Empty Weight CG Range,None
+Maximum Weight,1350 lbs.
+No of Seats,2 (adjustable from +21.5 to +25.5)
+Maximum Baggage,"70 lbs. (+48.5). Placard required on instrument panel: 
+ ""INTENTIONAL SPINNING PROHIBITED WHEN BAGGAGE IS CARRIED"""
+Fuel Capacity,15 gal. (-6)
+Oil Capacity,1 gal. (-32)
+Control Surface Movements,"Elevator 
+ Up 
+ 26° 
+ Down 
+ 24.5° 
+ Elevator Trim Tab 
+ Up 
+ 23° 
+ Down 
+ 31° 
+ Ailerons 
+ Up 
+ 28° 
+ Down 
+ 18° 
+ Rudder 
+ Right 
+ 28° 
+ Left 
+ 28°"
+Serial No Eligible,11AC-1 and up
+Required Equipment,"In addition to the pertinent required basic equipment specified in CAR 4a, the following 
+ items of equipment must be installed: 1, 101, 208, 209"
+"III - Model 11BC, 2 PCLM, Approved August 26, 1947 
+ (Model 11AC eligible for conversion to Model 11BC when accomplished in accordance with Aeronca Service Letter No. 17. 
+ The nameplate must be re-stamped with the proper model designation and the letters ""CONV"" added. The airplane serial 
+ number should not be changed",
+Engine,Continental C-85-8F
+Fuel,80 minimum octane aviation gasoline
+Engine Limits,"For all operations, 2575 r.p.m. (85 hp.)"
+Airspeed Limits CAS,"Level flight or climb 95 m.p.h. (83 knots) 
+ Glide or dive 129 m.p.h. (112 knots)"
+Propeller Limits,Static rpm at maximum permissible throttle setting:
+For fixed pitch wood propeller,"Not over 2380, not under 2160. No additional tolerance permitted 
+ Diameter: not over 72 in., not under 70.5 in."
+CG Range,(+12.4) to (+21.5)
+Empty Weight CG Range,"(+12.9) to (+19.1) with standard fuel tank only 
+ (+12.9) to (+14.7) with Item 104 installed 
+ When the empty weight C.G. falls within these ranges, it is unnecessary to check the 
+ critical forward and aft C.G. positions. Ranges are not valid for arrangements, except as 
+ noted."
+Maximum Weight,1250 lbs.
+No of Seats,2 (adjustable from +21.5 to +25.5)
+Maximum Baggage,70 lbs. (+48.5).
+Fuel Capacity,15.5 gal. (-6)
+Oil Capacity,4.5 quarts (-32)
+Control Surface Movements,"Elevator 
+ Up 
+ 26° 
+ Down 
+ 24.5° 
+ Elevator Trim Tab 
+ Up 
+ 23° 
+ Down 
+ 31° 
+ Ailerons 
+ Up 
+ 28° 
+ Down 
+ 18° 
+ Rudder 
+ Right 
+ 28° 
+ Left 
+ 28°"
+Serial No Eligible,11BC-1 and up
+Required Equipment,"In addition to the pertinent required basic equipment specified in CAR 4a, the following 
+ items of equipment must be installed: 1, 102, 107, 201, 202"
+"IV - Model S11BC, 2 PCSM, Approved September 17, 1948 
+ (Same float and fin installation as S11AC)",
+Engine,Continental C-85-8F
+Fuel,80 minimum octane aviation gasoline
+Engine Limits,"For all operations, 2575 r.p.m. (85 hp.)"
+Airspeed Limits CAS,"Level flight or climb 90 m.p.h. (78 knots) 
+ Glide or dive 122 m.p.h. (106 knots)"
+Propeller Limits,Static rpm at maximum permissible throttle setting:
+For fixed pitch wood propeller,"Not over 2380, not under 2280. No additional tolerance permitted 
+ Diameter: not over 72 in., not under 69.5 in."
+CG Range,"(+17.0) to (+21.9) at 1350 lb. 
+ (+14.9) to (+21.9) at 1278 lb. or less. 
+ Straight line variation between points given. 
+ Figure under Model S11AC also applicable here."
+Empty Weight CG Range,None
+Maximum Weight,1350 lbs.
+No of Seats,2 (adjustable from +21.5 to +25.5)
+Maximum Baggage,70 lbs. (+48.5).
+Fuel Capacity,15.5 gal. (-6)
+Oil Capacity,4.5 quarts (-32)
+Control Surface Movements,"Elevator 
+ Up 
+ 26° 
+ Down 
+ 24.5° 
+ Elevator Trim Tab 
+ Up 
+ 23° 
+ Down 
+ 31° 
+ Ailerons 
+ Up 
+ 28° 
+ Down 
+ 18° 
+ Rudder 
+ Right 
+ 28° 
+ Left 
+ 28°"
+Serial No Eligible,11BC-1 and up
+Required Equipment,"In addition to the pertinent required basic equipment specified in CAR 4a, the following 
+ items of equipment must be installed: 1, 102, 107, 208, 209"
+Specifications Pertinent to All Models,
+Datum,Wing leading edge at fuselage.
+Leveling Means,Any portion of the cabin floor to level laterally and longitudinally.
+Certification Basis,Type Certificate No. 761 (CAR 4a)
+Production Basis,"None. Prior to original certification, an FAA representative must perform a detailed 
+ inspection for workmanship, materials, and conformity with the approved technical data, 
+ and a check of the flight characteristics."
+Export Eligibility,"Eligible for export to all countries subject to the provisions of MOP 2-4 except as 
+ follows: 
+ Canada - Landplane and seaplane - eligible 
+ Skipland - not eligible"
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item indicates net weight change 
+ when that item is installed."
+1,"Propeller - Any fixed pitch wood propeller eligible for the engine speed and power which meets the 
+ 10 lb. 
+ (-44) 
+ static r.p.m. and diameter limits specified for the various models. (11BC cooling test required for 
+ the installation of a controllable propeller having a higher static low pitch r.p.m. than that specified 
+ under Section III above)."
+2,"Propeller spinner (Aeronca Dwg. 4-710 and 4-711) (Models 11AC and S11AC only). 
+ 1 lb. 
+ (-45)"
+3,"Propeller - McCauley 1A90 with following limits: 
+ 26 lb. 
+ (-44) 
+ (a) (Model 11AC only) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2250, not under 2100. No additional tolerance permitted. 
+ Diameter: Not over 74 in., not under 72.5 in. 
+ (b) (Model S11BC only) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2380, not under 2280. No additional tolerance permitted. 
+ Diameter: Not over 71 in., not under 69.5 in. 
+ (c) (Model 11BC only) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2380, not under 2160. No additional tolerance permitted. 
+ Diameter: Not over 71 in., not under 69.5 in. 
+ (d) (Model S11AC only) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2170, not under 2070. No additional tolerance permitted. 
+ Diameter: Not over 74 in., not under 72 in."
+4,"Propeller spinner (Aeronca Dwg. 4-708) (Model 11BC only). 
+ 1 lb. 
+ (-45)"
+5,"Propeller - Hartzell, ground adjustable, hub Model HA-12U, blades 7414 to 6814 or 7214M to 
+ 18 lb. 
+ (-45) 
+ 6814M. Eligible at diameter and static r.p.m. limits shown for fixed pitch wood models."
+6,Omitted.
+7,"Propeller - Koppers Aeromatic F200/00-72D. Parts List Assembly No. 4324, revised 
+ 31 lb. 
+ (-45) 
+ Feb. 21, 1949 (Eligible on Model 11AC and S11AC with A-65 engine only) 
+ Low pitch setting 13° measured at 24 in. sta. 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2300, not under 2200. No additional tolerance permitted. 
+ Diameter: Not over 72 in., not under 70.5 in. 
+ When this propeller is installed, installation and operation must be accomplished in accordance with 
+ Kopper's ""Installation Procedure and Operating Limitations No. 22A."""
+8,"Propeller - Sensenich M74CK, fixed pitch metal 
+ 21 lb. 
+ (-45) 
+ (a) (Model 11AC only) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2250, not under 2100. No additional tolerance permitted. 
+ Diameter: Not over 74 in., not under 72.5 in. 
+ (b) (Model S11AC only) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2170, not under 2070. No additional tolerance permitted. 
+ Diameter: Not over 74 in., not under 72.5 in."
+9,"Propeller - Sensenich M74CK-2, fixed pitch metal 
+ 21 lb. 
+ (-45) 
+ (a) (Model 11BC only) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2380, not under 2160. No additional tolerance permitted. 
+ Diameter: Not over 72 in., not under 70 in."
+9,"Propeller - Sensenich M74CK-2, fixed pitch metal (contd) 
+ (b) (Model S11BC only) 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2380, not under 2280. No additional tolerance permitted. 
+ Diameter: Not over 72 in., not under 70 in. 
+ Engine and Engine Accessories - Fuel and Oil Systems"
+101,"Carburetor air heater 
+ 1 lb. 
+ (-32)"
+102,"Carburetor air scoop (Continental A-5810 or Aeronca 4-601) 
+ 2 lb. 
+ (-38)"
+103,"Carburetor air cleaner 
+ 1 lb. 
+ (-38)"
+104,"Auxiliary fuel tank (8 gal. capacity) See NOTE 2(b) for required placard 
+ 8 lb. 
+ (+61)"
+105,"Cabin heater 
+ 2 lb. 
+ (-25)"
+106,"Starter - MacDowell (Aeronca Dwg. 7-600) 
+ 9 lb. 
+ (-39)"
+107,"Hanlon and Wilson mufflers and heaters Aeronca Dwg. 7-557 (NOTE: 11AC and S11AC, weight 
+ 13 lb. 
+ (-32) 
+ of exhaust stacks removed to permit the installation -4 lb.)"
+108,"Oil filter, Fram PB-5, Kit No. 510, Fram Industries Dwg. No. 61522 or 62399. 
+ 4 lb. 
+ (-21)"
+109,"Wright winter shutters, installed in accordance with Wright Installation Instructions No. 1, dated 
+ 2 lb. 
+ (-26) 
+ December 24, 1949, issued by Wright Flying Service, Williston, ND."
+201,"6.00-6 wheels with brakes ( Goodyear Model L6MBD, Wheel Assembly No. 511413-M, Brake 
+ 36 lb. 
+ ( 0) 
+ Assembly No. 511254-A) with 6.00-6 2 or 4 ply tires or 7.00-6 4-ply tires."
+202,"Tail wheel assemblies 
+ (a) 6 x 2.00 steerable Scott Model AST-8, with leaf spring 
+ 11 lb 
+ (+181) 
+ (b) Maule Model SFS-12, SAFS-12 or SAFS-14 
+ 6 lb. 
+ (+181) 
+ (c) Scott Model 3-24B steerable 
+ 7 lb. 
+ (+181) 
+ (d) Imperial Model B-100 
+ 6 lb. 
+ (+181) 
+ (e) Decker steerable Model D-501 
+ 7 lb. 
+ (+181)"
+203,"Parking brake (Aeronca Dwg. 7-527) 
+ 1 lb. 
+ ( -1)"
+204,"6.00-6 wheels with brakes ( Cleveland Model 6:00 DMB, Wheel Assembly No. C-38500, 
+ No weight change 
+ Brake Assembly No. C-7000) with 6.00-6 2 or 4 ply tires or 7.00-6 4-ply tires."
+205,"Skis 
+ (a) Federal A-1500 (Federal Instal. Dwg. 11R241) 
+ 37 lb. 
+ ( 0) 
+ (b) Federal CA-1850-6 (Federal Instal. Dwg. 11R241) 
+ 48 lb. 
+ ( 0) 
+ (c) Federal A-2000A (Federal Instal. Dwg. 11R241) 
+ 49 lb. 
+ ( 0) 
+ (d) Federal A-2000 (Federal Instal. Dwg. 11R241) 
+ 41 lb. 
+ ( 0) 
+ (e) Federal A-1850 (Federal Instal. Dwg. 11R241) 
+ 38 lb. 
+ ( 0) 
+ (f) Federal A-1500A (Federal Instal. Dwg. 11R241) 
+ 39 lb. 
+ ( 0) 
+ (g) Federal Model AWB-1500 wheel skis when installed in accordance with Federal Instal. 
+ 75 lb. 
+ Extended 
+ Dwg. 11R471. Placard required on ski position selector box: 
+ Retracted 
+ (-6) 
+ (-3.5) 
+ ""SKI CONTROL"" 
+ ""UP-NEUTRAL-DOWN"""
+205,"Skis (contd) 
+ (h) Federal Model AWB-1500A wheel skis when installed in accordance with Federal 
+ 84 lb. 
+ Extended 
+ Instal. Dwg. 11R471. Placard required on ski position selector box: 
+ Retracted 
+ (-6) 
+ (-3.5) 
+ ""SKI CONTROL"" 
+ ""UP-NEUTRAL-DOWN"""
+206,"Toe brakes (Aeronca Dwg. 7-554) 
+ 2 lb. 
+ ( -5)"
+207,"Wheel pants (Aeronca Dwg. 7-606B and 7-607A) 
+ 6 lb. 
+ ( 0)"
+208,"Edo 92-1400 float installation 
+ 167 lb. 
+ (+19)"
+209,"Auxiliary ventral fin (Aeronca Dwg. 4-657) 
+ 4 lb. 
+ (+161)"
+210,"Consolidair Model 17 wheel fenders (Consolidair Installation Dwg. No. 0036) 
+ 10 lb. 
+ ( 0)"
+301,"Generator - wind-driven (Champion 8 amp.) 
+ 8 lb. 
+ ( +9) 
+ NOTE 1. Current weight and balance report including list of equipment included in certificated weight empty, and loading 
+ instructions when necessary, must be in each aircraft at the time of original certification and at all times thereafter 
+ (except in the case of air carrier operations having an approved weight control system)."
+"NOTE 2. (a) On models 11AC and S11AC, the following placard must be installed on the instrument panel in plain view of the",

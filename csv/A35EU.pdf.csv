@@ -1,0 +1,4173 @@
+Keyterm,Info
+"A35EU 
+ Revision 32 
+ Airbus 
+ A300 
+ A300, Model B2-1A 
+ A300, Model B2-1C 
+ A300, Model B4-2C 
+ A300, Model B2K-3C 
+ A300, Model B4-103 
+ A300, Model B2-203 
+ A300, Model B4-203 
+ A310 
+ A310, Model 204 
+ A310, Model 221 
+ A310, Model 222 
+ A310, Model 203 
+ A310, Model 322 
+ A310, Model 324 
+ A310, Model 304 
+ A310, Model 325 
+ A300-600 
+ A300, Model B4-601 
+ A300, Model B4-603 
+ A300, Model B4-620 
+ A300, Model B4-605R 
+ A300, Model B4-622R 
+ A300, Model F4-605R 
+ A300, Model F4-622R 
+ A300, Model C4-605R Variant F 
+ A300, Model B4-622 
+ June 29, 2021",
+Type Certificate Holder,"Airbus SAS 
+ 2 rond-point Emile Dewoitine 
+ 31700 Blagnac France"
+Type Certificate Holder Record,"Name change from Airbus Industrie to Airbus January 2002. 
+ Name change from Airbus to Airbus SAS August 2017. 
+ To be considered eligible for operation in the United States, each aircraft manufactured under this type certificate must be 
+ accompanied by a certificate of airworthiness for export or certifying statement endorsed by the exporting foreign civil 
+ airworthiness authority which states (in the English language): This aircraft conforms to its U.S. type design (Type Certificate 
+ Number A35EU) and is in a condition for safe operation. 
+ The U.S. airworthiness certification basis for aircraft type certificated under FAR Section 21.29 and exported by the country of 
+ manufacture is FAR Sections 21.183(c) or 21.185(c). The U.S. airworthiness certification basis for aircraft type certificated 
+ under FAR Section 21.29 exported from countries other than the country of manufacture (e.g., third party country) is FAR"
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21"
+Rev No,"32 
+ 20 
+ 20 
+ 20 
+ 8 
+ 19 
+ 20 
+ 9 
+ 20 
+ 9 
+ 20 
+ 20 
+ 20 
+ 22 
+ 20 
+ 20 
+ 27 
+ 20 
+ 20 
+ 20 
+ 20"
+Page No,"22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 32 
+ 33 
+ 34 
+ 35 
+ 36 
+ 37 
+ 38 
+ 39 
+ 40 
+ 41 
+ 42"
+Rev No,"20 
+ 20 
+ 19 
+ 20 
+ 22 
+ 20 
+ 21 
+ 27 
+ 27 
+ 27 
+ 20 
+ 20 
+ 29 
+ 20 
+ 20 
+ 20 
+ 29 
+ 20 
+ 20 
+ 20 
+ 20"
+Page No,"43 
+ 44 
+ 45 
+ 46 
+ 47 
+ 48 
+ 49 
+ 50 
+ 51 
+ 52 
+ 53 
+ 54 
+ 55 
+ 56 
+ 57 
+ 58 
+ 59 
+ 60 
+ 61 
+ 62 
+ 63"
+Rev No,"20 
+ 29 
+ 21 
+ 20 
+ 19 
+ 29 
+ 32 
+ 31 
+ 30 
+ 27 
+ 27 
+ 20 
+ 20 
+ 20 
+ 20 
+ 20 
+ 20 
+ 22 
+ 22 
+ 27 
+ 22"
+Page No,"64 
+ 65 
+ 66 
+ 67 
+ 68 
+ 69"
+Rev No,"25 
+ 27 
+ 32 
+ 27 
+ 29 
+ 28"
+Sections 21183d or 21183b,"Notwithstanding that the FAR referenced in the above paragraph does not specifically address or require a foreign civil 
+ airworthiness authority certification, such certification is the only practical way for an applicant to show, and the Federal 
+ Aviation Administration (FAA) to find conformity to the FAA-approved type design and condition for safe operation. 
+ Propellers, and Related Products Imported into the United States."
+"I. Type 300, Model B2-1A, (Transport Category Airplane), approved May 30, 1974.",
+Engines,"2 - General Electric Turbofan, Model CF6-50A (Data Sheet FAA: 
+ No E 23 EA3 - Part B)"
+APU,Airesearch TS CP 700-5 (TSO C77 8C 6203)
+Fuel,"(a) The following fuels are eligible for engines and APU: 
+ MIL-T-5624H 
+ Grades JP-4 or JP-5 
+ AST-MD-1655-65T 
+ Grades Jet A, A1 (JP1) and Jet B 
+ AST-ES-2-74 
+ Grades Jet A, A1 and Jet B 
+ French specifications are: 
+ Air 3404 
+ Air 3407 
+ Air 3405 
+ With JP-4 or Jet B fuel, the following limitations apply: 
+ (1) Maximum altitude of 15,000 ft with gravity fuel supply from inboard tanks. 
+ (2) Maximum altitude of 20,000 ft with gravity fuel supply from outboard tanks. 
+ (b) The following additives may be used in approved fuels for engines and APU: 
+ (1) Phillips PFA-55MB or anti-icing additive to specifications MIL-I-27686E at a 
+ concentration not in excess of 0.15 percent by volume. 
+ (2) Sohio Bibor JF biocide additive at a concentration not in excess of 20 ppm 
+ elemental boron (270 ppm total additive). 
+ (3) Shell ASA-3 anti-static additive at a concentration that will provide not in 
+ excess of 300 conductivity units which is approximately equivalent to one 
+ ppm."
+Oil,"(a) The following oils are eligible for the CF6-50 engine: 
+ Synthetic type conforming to GE Specifications D 50 T F1, Classes A or B. 
+ (GE Service Bulletin No. 79-1 lists approved brand oils) 
+ (b) The following oil is eligible for the APU: 
+ See Maintenance Manual TS CP 70, Chap. 49.20.00 Table 303."
+Engine Limits,"Static thrust, sea level 
+ Takeoff (5 min) - (flat to 87ºF) 
+ 48,400 lb 
+ Maximum continuous (flat to 85ºF) 
+ 46,300 lb 
+ Maximum permissible engine rotor operating speeds. 
+ N1 (Low compressor) 
+ 4,068 rpm (118.5%) 
+ N2 (High compressor) 
+ 10,761 rpm (109.5%) 
+ Maximum permissible engine temperature. 
+ Turbine exhaust gas temperature at turbine outlet 
+ Takeoff (5 min) 
+ 945ºC 
+ Maximum continuous 
+ 910ºC 
+ Maximum acceleration (2 min) 
+ 960ºC 
+ Starting: 
+ up to 40 sec. 
+ 1,652ºF (900ºC) 
+ above 40 sec. 
+ 1,382ºF (750ºC) 
+ Oil maximum permissible outlet temperature 
+ Continuous operation 
+ 320ºF (160ºC) 
+ Transient operation listed to 15 min. 
+ 347ºF (175ºC)"
+APU Limits,"Power rating 
+ Maximum at sea level 
+ 142 hp. 
+ Maximum rotor speeds 
+ Low pressure speed (N1) 
+ 30,910 rpm (110%) 
+ High pressure speed (N2) 
+ 38,845 rpm (110%) 
+ Maximum exhaust gas temp. 
+ 1,085ºF (585º)"
+Airspeed Limits IAS,"VMO (Maximum Operating) 
+ up to 25,400 ft 360 K. 
+ MMO (Maximum Operating) 
+ at and over 25,400 ft 0.86 M 
+ VA (Maneuvering) 
+ See EASA Approved US Airplane Flight Manual 
+ VFE 
+ Slat Positions 
+ Flap Positions 
+ Takeoff 
+ 20 
+ 0 
+ 250 K 
+ Takeoff 
+ 20 
+ 8 
+ 215 K 
+ Approach 
+ 20 
+ 15 
+ 205 K 
+ Landing 
+ 25 
+ 25 
+ 180 K 
+ Enroute 
+ 20 
+ 0 
+ 210 K 
+ (M=0.47) 
+ VLO (Landing Gear) 
+ Extension 
+ 270 K 
+ Retraction 
+ 240 K 
+ VLE (Landing Gear Extended) 
+ 270 K 
+ (M=0.59) 
+ VMC (Minimum Control) Speed with the Critical Engine Inoperative 
+ In flight - VMCA 
+ 110 KIAS - 105 KCAS 
+ Takeoff and Landing - VMCG 
+ 106 KIAS - 101.5 KCAS 
+ V (Tires Limitation) 
+ 182.5 KCAS"
+Landing Gear Extended,"FORWARD 
+ AFT 
+ Gross Weight 
+ Enroute & 
+ Takeoff 
+ Enroute & 
+ Takeoff 
+ Landing 
+ Landing 
+ 137,900 kg 
+ 304,017 lb 
+ 18% MAC 
+ to 
+ to 
+ (Sta.1162.82) 
+ All 
+ All 
+ All 
+ 125,000 kg 
+ 275,575 lb 
+ weights 
+ weights 
+ weights 
+ 125,000 kg 
+ 275,575 lb 
+ Linear varia- 
+ 18% MAC 
+ 35% MAC 
+ 33% MAC 
+ to 
+ to 
+ tion between 
+ (Sta. 
+ (Sta. 
+ (Sta. 
+ 120,000 kg 
+ 264,550 lb 
+ 18% MAC and 
+ 1162.82) 
+ 1202.13) 
+ 1201.92) 
+ 15% MAC 
+ Below 
+ Below 
+ 15% MAC 
+ 120,000 kg 
+ 264,550 lb 
+ (Sta.1155.07) 
+ Landing gear retraction moment is 68,686 in lb., gear retraction moves c.g. forward."
+Maximum Weights,"kg 
+ lb 
+ Taxi Weight 
+ 137,900 
+ 304,017 
+ Takeoff Weight 
+ 137,000 
+ 302,033 
+ Landing Weight 
+ 127,500 
+ 281,089 
+ Zero Fuel Weight 
+ 116,500 
+ 256,838 
+ Gear Jacking Weight 
+ 137,000 
+ 302,033"
+Minimum Crew,"For all Flights: Pilot, Copilot and Flight Engineer."
+Maximum Passengers,"345 - Based on compliance with FAR 25 emergency exit requirements. 
+ Emergency evacuation demonstration of 25.803 (c) has been performed with 330 
+ passengers. See DGAC approved interior arrangement drawing for maximum passenger 
+ capacity approved for each airplane as delivered."
+Maximum Baggage,"Forward freight compartment with containers: 
+ 12 x 2,830 lb. 
+ Middle freight compartment with containers: 
+ 8 x 2,830 lb. 
+ Aft freight compartment: 
+ Maximum loading: 5,512 lb."
+Fuel Capacity,"Fuel Tank Capacity (lb) 
+ Usable Fuel (6.676 lb/gal) 
+ Location 
+ Arm 
+ (inches) 
+ Preselector 
+ Tank high Level 
+ Setting cut-off 
+ Sensor cut-off 
+ (lb) 
+ (US gal) 
+ Outboard 1 
+ 7,716 
+ 1,155 
+ 1327.04 
+ Outboard 2 
+ 7,716 
+ 1,155 
+ 1327.04 
+ Inboard 1 
+ 29,762 
+ 4,458 
+ 1156.88 
+ Inboard 2 
+ 29,762 
+ 4,458 
+ 1156.88 
+ Total 
+ 74,956 
+ 11,226"
+Fuel Management,"Fuel must be loaded symmetrically in outboard tanks first; fuel must be used from 
+ inboard tanks first. Maximum allowable wing fuel asymmetry is 8,820 lb (refere to latest 
+ EASA approved AFM revision)."
+Oil Capacity,"Engine oil capacity 24.4 lb/engine usable (at 8.1 lb/gal.) with engine moment arm 
+ 1011.10 in."
+Maximum Operating Altitude,"40,000 ft."
+Equipment,"The basic required equipment as prescribed in the applicable Federal Aviation 
+ Regulations must be installed. Airbus equipment list document AI/V 339/75 as revised 
+ identifies all required equipment and all optional equipment approved by the Direction 
+ General de l'Aviation Civile (D.G.A.C.) of France. In addition the following is required: 
+ EASA Approved US Airplane Flight Manual"
+Other Information,"See ""Data Pertinent to All A300 Models (except the A300B4-600, A300B4-600R, 
+ A300F4-600R and A300C4-600R Series)"""
+"II. Type A300, Model B2-1C (Transport Category Airplane), approved June 19, 1975.",
+Engines,"2 - General Electric Turbofan, Model CF6-50C (Data Sheet FAA No. 
+ FAA E 23 EA 3 part B)"
+APU,Airsearch TS CP 700-5 (TSO C77 SC 6203)
+Fuel,"(a) The following fuels are eligible for engines and APU: 
+ MIL-T-5624H 
+ Grades JP-4 or JP-5 
+ AST-MD-1655-65T 
+ Grades Jet A, A1 (JP-1) and Jet B 
+ AST-ES-2-74 
+ Grades Jet A, A1 and Jet B 
+ French specifications are: 
+ Air 3404 
+ Air 3407 
+ Air 3405 
+ With JP-4 or Jet B fuel, the following limitations apply: 
+ (1) Maximum altitude of 15,000 ft with gravity fuel supply from inboard tanks. 
+ (2) Maximum altitude of 20,000 ft with gravity fuel supply from outboard tanks. 
+ (b) The following additives may be used in approved fuels for engine and APU: 
+ (1) Phillips PFA-55MB or anti-icing additive to specifications MIL-I-27686E at a 
+ concentration not in excess of 0.15 percent by volume. 
+ (2) Sohio Biobor JF biocide additive at a concentration not in excess of 20 ppm 
+ elemental boron (270 ppm total additive). 
+ (3) Shell ASA-3 anti-static additive at a concentration that will provide not in 
+ excess of 300 conductivity units which is approximately equivalent to one 
+ ppm."
+Oil,"(a) The following oils are eligible for the CF6-50 engine. 
+ Synthetic type conforming to GE specification D 50 T F1, 
+ Classes A or B. (GE Service Bulletin No. 79-1 lists approved brand oils). 
+ (b) The following oil is eligible for the APU: 
+ See Maintenance Manual TSCP 700, Chap. 49.20.00 Table 303"
+Engine Limits,"Static thrust, sea level 
+ Takeoff (5 min) - (Flat to 86ºF) 
+ 50,400 lb 
+ Maximum continuous (Flat to 85ºF) 
+ 46,300 lb 
+ Maximum permissible engine rotor operating speeds 
+ N1 (Low compressor) 
+ 4,068 rpm (118.5%) 
+ N2 (High compressor) 
+ 10,761 rpm (109.5%) 
+ Maximum permissible engine temperature 
+ Turbine exhaust gas temperature at turbine outlet 
+ Takeoff (5 min) 
+ 945ºC 
+ Maximum Continuous 
+ 910ºC 
+ Maximum acceleration (2 min) 
+ 960ºC 
+ Starting: 
+ Up to 40 sec. 
+ 1,652ºF (900ºC) 
+ Above 40 sec. 
+ 1,382ºF (750ºC) 
+ Oil Maximum permissible outlet temperature 
+ Continuous operation 
+ 320ºF (160ºC) 
+ Transient operation limited 
+ to 15 min. 
+ 347ºF (175ºC)"
+APU Limits,"Power rating 
+ Maximum at sea level 
+ 142 hp. 
+ Maximum rotor speeds 
+ Low pressure speed (N1) 
+ 30,910 rpm (110%) 
+ High pressure speed (N2) 
+ 38,845 rpm (110%) 
+ Maximum exhaust gas 
+ temperature 
+ 1,085ºF (585ºC)"
+Airspeed Limits IAS,"VMO (Maximum Operating) 
+ up to 25,400 ft 
+ 360 K. 
+ MMO (Maximum Operating) 
+ at and over 25,400 ft 
+ 0.86 M 
+ VA (Maneuvering) 
+ See EASA Approved US Airplane Flight Manual 
+ VFE 
+ Slat Positions 
+ Flap Positions 
+ Takeoff 
+ 20 
+ 0 
+ 250 K 
+ Takeoff 
+ 20 
+ 8 
+ 215 K 
+ Approach 
+ 20 
+ 15 
+ 205 K 
+ Landing 
+ 25 
+ 25 
+ 180 K 
+ Enroute 
+ 20 
+ 0 
+ 210 K 
+ (M=0.47) 
+ VLO (Landing Gear) 
+ Extension 
+ 270 K 
+ Retraction 
+ 240 K 
+ VLE (Landing Gear Extended) 
+ 270 K 
+ (M=0.59) 
+ VMC (Minimum Control) Speed with the Critical Engine Inoperative 
+ In flight - VMCA 
+ 110 KIAS - 105 KCAS 
+ Takeoff and Landing - VMCG 
+ 106 KIAS - 101.5 KCAS 
+ V (Tires Limitation) 
+ 182.5 KCAS"
+CG Range Landing Gear Extended,"FORWARD 
+ AFT 
+ Gross Weight 
+ Enroute & 
+ Takeoff 
+ Enroute & 
+ Takeoff 
+ Landing 
+ Landing 
+ 137,900 kg 
+ 304,017 lb 
+ 18% MAC 
+ to 
+ to 
+ (Sta.1162.82) 
+ All 
+ All 
+ All 
+ 125,000 kg 
+ 275,575 lb 
+ weights 
+ weights 
+ weights 
+ 125,000 kg 
+ 275,575 lb 
+ Linear varia- 
+ 18% MAC 
+ 35% MAC 
+ 33% MAC 
+ to 
+ to 
+ tion between 
+ (Sta. 
+ (Sta. 
+ (Sta. 
+ 120,000 kg 
+ 264,550 lb 
+ 18% MAC and 
+ 1162.82) 
+ 1202.13) 
+ 1201.92) 
+ 15% MAC 
+ Below 
+ Below 
+ 15% MAC 
+ 120,000 kg 
+ 264,550 lb 
+ (Sta.1162.82) 
+ Landing gear retraction moment is 68,686 in lb., gear retraction moves c.g. forward. 
+ VARIANT 02"
+Maximum Weights,"BASIC MODEL 
+ with mod 1357 
+ kg 
+ lb 
+ kg 
+ lb"
+Taxi Weight,"137,900 
+ 304,017 
+ 142,900 
+ 315,040"
+Takeoff Weight,"137,000 
+ 302,033 
+ 142,000 
+ 313,056"
+Landing Weight,"127,500 
+ 281,089 
+ 130,000 
+ 286,601"
+Zero Fuel Weight,"116,500 
+ 256,838 
+ 120,500 
+ 265,657"
+Gear Jacking Weight,"137,000 
+ 302,033 
+ 142,000 
+ 313,056"
+Minimum Crew,"For all Flights: Pilot, Copilot and Flight Engineer"
+Maximum Passengers,"345 - Based on compliance with FAR 25 emergency exit requirements. 
+ Emergency evacuation demonstration of 25.803(c) has been performed 
+ with 330 passengers. See DGAC approved interior arrangement drawing for 
+ maximum passenger capacity approved for each airplane as delivered."
+Maximum Baggage,"Forward freight compartment with containers: 
+ 12 x 2,830 lb. 
+ Middle freight compartment with containers: 
+ 8 x 2,830 lb. 
+ Aft freight compartment: 
+ Maximum loading: 5,512 lb."
+Fuel Capacity,"Fuel Tank Capacity (lb) 
+ Usable Fuel (6.676 lb/gal) 
+ Location 
+ Arm 
+ (inches) 
+ Preselector 
+ Tank high Level 
+ Setting cut-off 
+ Sensor cut-off 
+ (lb) 
+ (US gal) 
+ Outboard 1 
+ 7,716 
+ 1,155 
+ 1327.04 
+ Outboard 2 
+ 7,716 
+ 1,155 
+ 1327.04 
+ Inboard 1 
+ 29,762 
+ 4,458 
+ 1156.88 
+ Inboard 2 
+ 29,762 
+ 4,458 
+ 1156.88 
+ Total 
+ 74,956 
+ 11226"
+Fuel Management,"Fuel must be loaded symmetrically in outboard tanks first; fuel must be used from 
+ inboard tanks first. Maximum allowable wing fuel asymmetry is 8,820 lb (refere to latest 
+ EASA approved AFM revision)."
+Oil Capacity,"Engine oil capacity 24.4 lb/engine usable (at 8.1 lb/gal) with engine moment arm 
+ 1011.10 in."
+Maximum Operating Altitude,"40,000 ft."
+Equipment,"The basic required equipment as prescribed in the applicable Federal Aviation 
+ Regulations must be installed. Airbus equipment list document AI/V 341/75 as revised 
+ identifies all required equipment and all optional equipment approved by the Direction 
+ General de l'Aviation Civile (D.G.A.C.) of France. In addition the following is required. 
+ EASA-approved US Airplane Flight Manual."
+Other Information,"See ""Data Pertinent to all A300 Models (except the A300B4-600, 
+ A300B4-600R, A300F4-600R and A300C4-600R series)"""
+"III. Type A300, Model B4-2C (Transport Category Airplane), approved June 30, 1976.",
+Engine,"2 - General Electric Turbofan, Model CF6-50C (Data Sheet FAA No. FAA E 23 EA3 
+ part B)"
+APU,Airesearch TS CP 700-5 (TSOC77 SC 6203)
+Fuel,"(a) The following fuels are eligible for engines and APU: 
+ MIL-T-5624 H 
+ Grades JP-4 or JP-5 
+ AST-MD-1655-65T 
+ Grades Jet A, A1 
+ (JP-1) and Jet B 
+ AST-ES-2-74 
+ Grades Jet A, A1 and Jet B 
+ French specifications are: 
+ Air 3404 
+ Air 3407 
+ Air 3405 
+ With JP-4 or Jet B fuel, the following limitation apply 
+ (1) Maximum altitude of 15,000 ft with gravity fuel supply from inboard tanks. 
+ (2) Maximum altitude of 20,000 ft with gravity fuel supply from outboard tanks. 
+ (b) The following additives may be used as approved fuels for engine and APU: 
+ (1) Phillips PFA-55MB or anti-icing additive to specifications MIL-I-27686 E at a 
+ concentration not in excess of 0.15 percent by volume. 
+ (2) Sohio Biobor JF biocide additive at a concentration not in excess of 20 ppm 
+ elemental boron (270 ppm total additive) 
+ (3) Shell ASA anti-static additive at a concentration that will provide not in 
+ excess of 300 conductivity units which is approximately equivalent to one ppm."
+Oil,"(a) The following oils are eligible for the CF6-50 Engines: 
+ Synthetic type conforming to GE specification D 50 T F1, 
+ Classes A or B. (GE Service Bulletin No. 79-1 lists approved brand oils.) 
+ (b) The following oil is eligible for APU: 
+ See Maintenance Manual TSCP 700, Chap. 49.20.00 Table 303"
+Engine Limits,"Static thrust, sea level 
+ Takeoff (5 Min) - (flat to 86ºF) 
+ 50,400 lb 
+ Maximum Continuous (flat to 86ºF) 
+ 46,300 lb 
+ Maximum permissible engine rotor operating speeds 
+ N1 (Low Compressor) 
+ 4,068 rpm (118.5%) 
+ N2 (Low Compressor) 
+ 10,761 rpm (109.5%) 
+ Maximum permissible engine temperature 
+ Turbine exhaust gas temperature at turbine outlet 
+ Takeoff (5 min) 
+ 945ºC 
+ Maximum Continuous 
+ 910ºC 
+ Maximum acceleration (2 min) 
+ 960ºC 
+ Starting: 
+ Up to 40 Sec. 
+ 1652ºF (900ºC) 
+ Above 40 Sec. 
+ 1382ºF (750ºC) 
+ Oil Maximum permissible outlet temperature 
+ Continuous operation 
+ 320ºF (160ºC) 
+ Transient operation limited to 15 min. 
+ 347ºF (175ºC)"
+APU Limits,"Power rating 
+ Maximum at sea level 
+ 142 hp. 
+ Maximum rotor speeds 
+ Low pressure speed (N1) 
+ 30,910 rpm (110%) 
+ High pressure speed (N2) 
+ 38,845 rpm (110%) 
+ Maximum exhaust gas temperature 
+ 1,085ºF (585ºC)"
+Airspeed Limits IAS,"BASIC MODEL 
+ VARIANTS 02, 03 and 14 
+ Max. Takeoff Weight 
+ 150,000 kg 
+ 157,500 kg 
+ VMO (Maximum Operating) 
+ 360K 
+ 345 K 
+ Up to 
+ 25,400 ft 
+ 25,000 ft 
+ MMO (Maximum Operating) 
+ 0.86 
+ 0.86/0.82 (See Note 3) 
+ At and over 
+ 25,400 ft 
+ 25,000 ft 
+ VA (Maneuvering) 
+ See EASA Approved US Airplane Flight Manual 
+ VFE 
+ Slat Positions 
+ Flap Positions 
+ Takeoff 
+ 16 
+ 0 
+ 250 K 
+ Takeoff & Approach 
+ 16 
+ 8 
+ 215 K 
+ Takeoff, Approach Land 
+ 16 
+ 15 
+ 205 K 
+ Landing 
+ 25 
+ 25 
+ 180 K 
+ Enroute 
+ 16 
+ 0 
+ 210 K 
+ (M=0.47) 
+ VLO (Landing Gear) 
+ Extension 
+ 270 K 
+ Retraction 
+ 240 K 
+ VLE (Landing Gear Extended) 
+ 270 K 
+ (M=0.59) 
+ VMC (Minimum Control) Speed with the Critical Engine Inoperative 
+ In flight - VMCA 
+ 110 KIAS - 105 KCAS 
+ Takeoff and Landing - VMCG 
+ 106 KIAS - 101.5 KCAS 
+ V (Tires Limitation) 
+ 195.5 KCAS"
+CG Range Landing Gear Extended,"FORWARD 
+ AFT 
+ Gross Weight 
+ Enroute & 
+ Takeoff 
+ Enroute & 
+ Takeoff 
+ Landing 
+ Landing 
+ Max taxi 
+ Max taxi 
+ 18% MAC 
+ to 
+ to 
+ (Sta.1162.82) 
+ All 
+ All 
+ All 
+ 128,000 kg 
+ 282,187 lb 
+ weights 
+ weights 
+ weights 
+ 128,000 kg 
+ 282,187 lb 
+ Linear varia- 
+ 18% MAC 
+ 35% MAC 
+ 33% MAC 
+ to 
+ to 
+ tion between 
+ (Sta. 
+ (Sta. 
+ (Sta. 
+ 122,000 kg 
+ 268,960 lb 
+ 18% MAC and 
+ 1162.82) 
+ 1202.13) 
+ 1201.83) 
+ 15% MAC 
+ Below 
+ Below 
+ 15% MAC 
+ 122,000 kg 
+ 268,960 lb 
+ (Sta.1155.07) 
+ Landing gear retraction moment is 74,772 in lb., gear retraction moves c.g. forward."
+Maximum Weights,"Basic Model 
+ Variant 02 with 
+ Variant 03 with 
+ Variant 14 with 
+ mod 1652 
+ Mods 1652 & 2032 
+ mod 6193 
+ kg 
+ lb 
+ kg 
+ lb 
+ kg 
+ lb 
+ kg 
+ lb"
+Taxi Weight,"150,900 
+ 332,672 
+ 158,400 
+ 349,206 
+ 158,400 
+ 349,206 
+ 158,400 
+ 349,206"
+Takeoff Weight,"150,000 
+ 330,687 
+ 157,500 
+ 347,222 
+ 157,500 
+ 347,222 
+ 157,500 
+ 347,222"
+Landing Weight,"133,000 
+ 293,210 
+ 133,000 
+ 293,210 
+ 134,000 
+ 295,410 
+ 134,000 
+ 295,410"
+Zero Fuel Weight,"122,000 
+ 268,960 
+ 122,000 
+ 268,960 
+ 124,000 
+ 273,370 
+ 126,000 
+ 277,780"
+Gear Jacking Weight,"150,000 
+ 330,687 
+ 157,500 
+ 347,222 
+ 157,500 
+ 347,222 
+ 157,500 
+ 347,222"
+Minimum Crew,"For all Flights: Pilot, Copilot and Flight Engineer"
+Maximum Passengers,"345 - Based on compliance with FAR 25 emergency exit requirements. 
+ Emergency evacuation demonstration of 25.803(c) has been performed with 330 
+ passengers. See DGAC approved interior arrangement drawing for maximum passenger 
+ capacity approved for each airplane as delivered."
+Maximum Baggage,"Forward freight compartment: max admissible load 23,980 lb. 
+ - With containers: 12 x 2,030 lb. or 
+ 6 x 5,660 lb. when Mod. 1844 is incorporated 
+ - A maximum container weight of 3,500 lb each side or 7000 lb both 
+ sides is permitted at station 22, 23 and 24 when Mod. 2317 is incorporated. 
+ - With pallets: 4 x 8,300 lb. 
+ - Split engine transport: 
+ - When Mod. 2001 is incorporated 
+ - Maximum weight of each pallet must not exceed 8,200 lb. 
+ - Pallets, engine stands and pallet net must be in accordance with specification 
+ AI/TI-431/77 
+ Middle freight compartment: max admissible load 23,980 lb. 
+ with containers 8 x 2,830 lb or 
+ 4 x 5,660 lb. when Mod. 1844 is incorporated 
+ A maximum of 3,500 lb. each side or 7,000 lb. both sides is permitted at station 42 
+ when Mod. 0470 is incorporated and at station 42 when Mod. 2317 is incorporated. 
+ Aft freight compartment: Maximum loading 5,512 lb."
+Fuel Capacity,"Usable fuel tank capacity (lb) - Density 6.676 lb./US gal. 
+ Without Mod 1664 
+ Without Mod 1664 
+ Location 
+ Preselector 
+ Tank high level 
+ Preselector 
+ Tank high level 
+ Arm (in.) 
+ Cutoff 
+ sensor cutoff 
+ cutoff 
+ sensor cutoff 
+ (lb) 
+ lb/U.S. gal 
+ (lb) 
+ lb/U.S. gal"
+Outboard 1,"7,716 
+ 7,942 
+ 7,710 
+ 7,994"
+132704,"1,189 
+ 1,197"
+Outboard 2,"7,716 
+ 7,942 
+ 7,710 
+ 79,941"
+132704,"1,189 
+ 1,197"
+Inboard 1,"29,762 
+ 29,791 
+ 29,760 
+ 30,281"
+115688,"4,462 
+ 4,535"
+Inboard 2,"29,762 
+ 29,791 
+ 29,760 
+ 30,281"
+115688,"4,462 
+ 4,535"
+Central,"24,251 
+ 24,701 
+ 29,760 
+ 30,346"
+110610,"3,699 
+ 4,545"
+Total,"99,207 
+ 100,167 
+ 104,700 
+ 106,896 
+ 15,001 
+ 16,009"
+Fuel Management,"Fuel must be loaded symmetrically in outboard tanks first; fuel must be used from 
+ inboard tanks first. Maximum allowable wing fuel asymmetry is 8,820 lb (refer to latest 
+ EASA approved AFM revision)."
+Oil Capacity,"Engine oil capacity 24.4 lb/engine usable (at 8.1 lb/gal.) with engine moment arm 
+ 1011.10 in."
+Maximum Operating Altitude,"40,000 ft."
+Equipment,"The basic required equipment as prescribed in the applicable Federal Aviation 
+ Regulations must be installed. Airbus equipment list document AI/V 333/75 as revised 
+ identifies all required equipment and all optional equipment approved by the Direction 
+ General de l'Aviation Civile (D.G.A.C.) of France. In addition the following is 
+ required: 
+ EASA-Approved US Airplane Flight Manual."
+Other Information,"See ""Data Pertinent to All 300 Model (except the A300B4-600, A300B4-600R, 
+ A300F4-600R and A300C4-600R series)"""
+"IV. Type A300, Model B2K-3C (Transport Category Airplane) approved June 30, 1976.",
+Engines,"2 - General Electric Turbofan, Model CF6-50C (Data Sheet FAA No. FAA E 23 EA3 
+ part B)"
+APU,Airesearch TS CP 700-5 (TSO C77 SC6203)
+Fuel,"(a) The following fuels are eligible for engines and APU. 
+ MIL-T-5624 H 
+ Grades JP-4 or JP-5 
+ AST-MD-1655-65T 
+ Grades Jet A, A1 (JP-1) and Jet B 
+ AST-TS-2-74 
+ Grades Jet A, A1 and Jet B 
+ French specifications are: 
+ Air 3404 
+ Air 3407 
+ Air 3405 
+ With JP-4 or Jet B fuel, the following limitations apply: 
+ (1) Maximum altitude of 15,000 ft with gravity fuel supply from outboard tanks. 
+ (2) Maximum altitude of 20,000 ft with gravity fuel supply from outboard tanks. 
+ (b) The following additives may be used in approved fuels for engine and APU: 
+ (1) Phillips PFA-55MB or anti-icing additive to specifications MIL-I-27686 E at a 
+ concentration not in excess of 0.15 percent by volume. 
+ (2) Sohio Biobor JF biocide additive at a concentration not in 
+ excess of 20 ppm elemental boron (270 ppm total additive). 
+ (3) Shell ASA-3 anti-static additive at a concentration that will provide not in 
+ excess of 300 conductivity units which is approximately equivalent to one 
+ ppm."
+Oil,"(a) The following oils are eligible for the CF6-50 engine: 
+ Synthetic type conforming to GE specification D 50 T F1, Classes A or B. (GE 
+ Service Bulletin No. 79-1 list approved brand oils). 
+ (b) The following oil is eligible for APU: 
+ See Maintenance Manual TSCP 700, Chap. 49.20.00 Table 303."
+Engine Limits,"Static thrust, sea level 
+ Takeoff (5 Min) - (flat to 86ºF) 
+ 50,400 lb 
+ Maximum continuous (flat to 85ºF) 
+ 46,300 lb 
+ Maximum permissible engine rotor operating speeds 
+ N1 (Low compressor) 
+ 4,068 rpm (118.5%) 
+ N2 (High compressor) 
+ 10,761 rpm (109.5%) 
+ Maximum permissible engine temperature 
+ Turbine exhaust gas temperature at turbine outlet 
+ Takeoff (5 min) 
+ 945ºC 
+ Maximum continuous 
+ 910ºC 
+ Maximum acceleration (2 min) 
+ 960ºC 
+ Starting: 
+ Up to 40 sec. 
+ 1,652ºF (900ºC) 
+ Above 40 sec. 
+ 1,382ºF (750ºC) 
+ Oil Maximum permissible outlet temperature 
+ Continuous operation 
+ 320ºF (160ºC) 
+ Transient operation limited 
+ to 15 min. 
+ 347ºF (175ºC)"
+APU Limits,"Power rating 
+ Maximum at sea level 
+ 142 hp. 
+ Maximum rotor speeds 
+ Low pressure speed (N1) 
+ 30,910 rpm (110%) 
+ High pressure speed (N2) 
+ 38,845 rpm (110%) 
+ Maximum Exhaust gas temperature 
+ 1,085ºF (585ºC)"
+Airspeed Limits IAS,"VMO (Maximum Operating) 
+ up to 25,400 ft 
+ 360 K. 
+ MMO (Maximum Operating 
+ at and over 25,400 ft 
+ 0.86 M 
+ VA (Maneuvering) 
+ See EASA Approved US Airplane Flight Manual 
+ VFE 
+ Slat Positions 
+ Flap Positions 
+ Takeoff 
+ 16 
+ 0 
+ 250 K 
+ Takeoff 
+ 16 
+ 8 
+ 215 K 
+ Approach 
+ 16 
+ 15 
+ 205 K 
+ Landing 
+ 25 
+ 25 
+ 180 K 
+ Enroute 
+ 20 
+ 0 
+ 210 K 
+ (M=0.47) 
+ VLO (Landing Gear) 
+ Extension 
+ 270 K 
+ Retraction 
+ 240 K 
+ VLE (Landing Gear Extended) 
+ 270 K 
+ (M=0.59) 
+ VMC (Minimum Control) Speed with the Critical Engine Inoperative 
+ In flight - VMCA 
+ 110 KIAS - 105 KCAS 
+ Takeoff and Landing - VMCG 
+ 106 KIAS - 101.5 KCAS 
+ V (Tires Limitation) 
+ 182.5 KCAS"
+Landing Gear Extended,"FORWARD 
+ AFT 
+ Gross Weight 
+ Enroute & 
+ Takeoff 
+ Enroute & 
+ Takeoff 
+ Landing 
+ Landing 
+ 142,900 kg 
+ 315,040 lb 18% MAC 
+ to 
+ to 
+ (Sta.1162.82) 
+ All 
+ All 
+ All 
+ 125,500 kg 
+ 277,042 lb 
+ weights 
+ weights 
+ weights 
+ 125,000 kg 
+ 277,042 lb Linear varia- 
+ 18% MAC 
+ 35% MAC 
+ 33% MAC 
+ to 
+ to 
+ tion between 
+ (Sta. 
+ (Sta. 
+ (Sta. 
+ 120,500 kg 
+ 265,657 lb 18% MAC and 
+ 1162.82) 
+ 1202.13) 
+ 1201.92) 
+ 15% MAC 
+ Below 
+ Below 
+ 15% MAC 
+ 120,500 kg 
+ 265,657 lb (Sta.1155.07) 
+ Landing gear retraction moment is 68,686 in lb., gear retraction moves c.g. forward."
+Maximum Weights,"kg 
+ lb 
+ Taxi Weight 
+ 142,900 
+ 315,040 
+ Takeoff Weight 
+ 142,000 
+ 313,056 
+ Landing Weight 
+ 130,000 
+ 286,601 
+ Zero Fuel Weight 
+ 120,500 
+ 256,657 
+ Gear Jacking Weight 
+ 142,000 
+ 313,056"
+Minimum Crew,"For all Flights: Pilot, Copilot and Flight Engineer"
+Maximum Passengers,"345 - Based on compliance with FAR 25 emergency exit requirements. 
+ Emergency evacuation demonstration of 25.803(c) has been performed 
+ with 330 passengers. See DGAC approved interior arrangement drawing for maximum 
+ passenger capacity approved for each airplane as delivered."
+Maximum Baggage,"Forward freight compartment with containers: 
+ 12 x 2,830 lb. 
+ Middle freight compartment with containers: 
+ 8 x 2,830 lb. 
+ Aft freight compartment: 
+ Maximum loading: 5,512 lb."
+Fuel Capacity,"Fuel Tank Capacity (lb.) 
+ Usable Fuel (6.676 lb/gal) 
+ Location 
+ Arm 
+ (inches) 
+ Preselector 
+ Tank high Level 
+ Setting cut-off 
+ Sensor cut-off 
+ (lb) 
+ (US gal) 
+ Outboard 1 
+ 7,716 
+ 1,155 
+ 1327.04 
+ Outboard 2 
+ 7,716 
+ 1,155 
+ 1327.04 
+ Inboard 1 
+ 29,762 
+ 4,458 
+ 1156.88 
+ Inboard 2 
+ 29,762 
+ 4,458 
+ 1156.88 
+ Total 
+ 74,956 
+ 11,226"
+Fuel Management,"Fuel must be loaded symmetrically in outboard tanks first; fuel must be used from 
+ inboard tanks first. Maximum allowable wing fuel asymmetry is 8,820 lb (refere to latest 
+ EASA approved AFM revision)."
+Oil Capacity,"Engine oil capacity 24.4 lb/engine usable (at 8.1 lb/gal.) with engine moment arm 
+ 1011.10 in."
+Maximum Operating Altitude,"40,000 ft."
+Equipment,"The basic required equipment as prescribed in the applicable Federal Aviation 
+ Regulations must be installed. Airbus equipment list document AI/V 760/76 as revised 
+ identifies all required equipment and all optional equipment approved by the Direction 
+ General de l'Aviation Civile (D.G.A.C.) of France. In addition the following is 
+ required. 
+ EASA-approved US Airplane Flight Manual."
+Other Information,"See ""Data Pertinent to All A300 Models (except the A300B4-600, A300B4-600R, 
+ A300F4-600R and A300C4-600R series)"""
+"V. Type A300, Model B4-103 (Transport Category Airplane), approved October 4, 1979.",
+Engines,"2 - General Electric Turbofan, Model CF-6-50C2 (See Note 7). (Data Sheet FAA No. 
+ FAA E 23 EA3 Part B)"
+APU,Airesearch TS CP 700-5 (TSO C77 SC 6203)
+Fuel,"(a) The following fuels are eligible for engines and APU: 
+ MIL-T-5624 H 
+ Grades JP-4 or JP-5 
+ AST-MD-1655-65T 
+ Grades Jet A, A1 (JP-1) and Jet B 
+ AST-ES-2-74 
+ Grades Jet A, A1 and Jet B 
+ French specifications are: 
+ Air 3404 
+ Air 3407 
+ Air 3405 
+ With JP-4 or Jet B fuel, the following limitations apply: 
+ (1) Maximum altitude of 15,000 ft with gravity fuel supply from inboard tanks. 
+ (2) Maximum altitude of 20,000 ft with gravity fuel supply from outboard tanks. 
+ (b) The following additives may be used in apporved fuels for engine and APU: 
+ (1) Phillips PFA-55MB or anti-icing additive to specifications MIL-I-27686 E at a 
+ concentration not in excess of 0.15 percent by volume. 
+ (2) Sohio Biobor JF biocide additive at a concentration not in excess of 20 ppm 
+ elemental boron (270 ppm total additive). 
+ (3) Shell ASA anti-static additive at a concentration that will provide not in 
+ excess of 300 conductivity units which is approximately equivalent to one ppm. 
+ (a) The following oils are eligible for the CF6-50 engine: 
+ Synthetic type conforming to GE specification D 50 T F1, Classes A or B. 
+ (b) The following oil is eligible for the APU: 
+ See Maintenance Manual TSCP 700 Chap. 49.20.00 Table 303."
+Engine Limits,"Static thrust, sea level 
+ Takeoff (5 Min) - (flat to 86ºF) 
+ 51,800 lb 
+ Maximum Continuous - (flat to 86ºF) 
+ 46,300 lb 
+ Maximum permissible engine rotor operating speeds 
+ N1 (Low Compressor) 
+ 4,068 rpm (118.5%) 
+ N2 (High Compressor) 
+ 10,761 rpm (109.5%) 
+ Maximum permissible engine temperature 
+ Turbine exhaust gas temperature at turbine outlet 
+ Takeoff (5 min) 
+ 945ºC 
+ Maximum Continuous 
+ 910ºC 
+ Maximum acceleration (2 min) 
+ 960ºC 
+ Starting: 
+ Up to 40 Sec. 
+ 1,652ºF (900ºC) 
+ Above 40 Sec. 
+ 1,382ºF (750ºC) 
+ Oil Maximum permissible outlet temperature 
+ Continuous operation 
+ 320ºF (160ºC) 
+ Transient operation limited to 15 min. 
+ 347ºF (175ºC)"
+APU Limits,"Power rating 
+ Maximum at sea level 
+ 142 hp. 
+ Maximum rotor speeds 
+ Low pressure speed (N1) 
+ 30,910 rpm (110%) 
+ High pressure speed (N2) 
+ 38,845 rpm (110%) 
+ Maximum Exhaust gas temperature 
+ 1,085ºF (585ºC)"
+Airspeed Limits IAS,"Basic Model 
+ Variants 02, 03, 14 
+ Max. Takeoff Weight 
+ 150,000 kg 
+ 157,500 kg"
+VMO Maximum Operating,"360 K 
+ 345 K 
+ Up to 
+ 25,400 ft 
+ 25,000 ft"
+MMO Maximum Operating,"0.86 
+ 0.86/0.82 (See Note 4) 
+ 25,000 ft 
+ At and over 
+ 25,400 ft 
+ VA (Maneuvering) 
+ See EASA Approved US Airplane Flight Manual 
+ VFE 
+ Slat Positions 
+ Flap Positions 
+ Takeoff 
+ 16 
+ 0 
+ 250 K 
+ Takeoff 
+ 16 
+ 8 
+ 215 K 
+ Approach 
+ 16 
+ 15 
+ 205 K 
+ Landing 
+ 25 
+ 25 
+ 180 K 
+ Enroute 
+ 16 
+ 0 
+ 210 K 
+ (M=0.47) 
+ VLO (Landing Gear) 
+ Extension 
+ 270 K 
+ Retraction 
+ 240 K 
+ VLE (Landing Gear Extended) 
+ 270 K 
+ (M=0.59) 
+ VMC (Minimum Control) Speed with the Critical Engine Inoperative 
+ In flight - VMCA 
+ 112 KIAS – 107.5 KCAS 
+ Takeoff and Landing - VMCG 
+ 107 KIAS - 102.5 KCAS 
+ V (Tires Limitation) 
+ 195.5 KCAS 
+ (225 mph)"
+CG Range Landing Gear Extended,"FORWARD 
+ AFT 
+ Gross Weight 
+ Enroute & 
+ Takeoff 
+ Enroute & 
+ Takeoff 
+ Landing 
+ Landing 
+ Max Taxi 
+ Max Taxi 
+ 18% MAC 
+ to 
+ to 
+ (Sta.1162.82) 
+ All 
+ All 
+ All 
+ 128,000 kg 
+ 282,187 lb 
+ weights 
+ weights 
+ weights 
+ 128,000 kg 
+ 282,187 lb Linear varia- 
+ 18% MAC 
+ 35% MAC 
+ 33% MAC 
+ to 
+ to 
+ tion between 
+ (Sta. 
+ (Sta. 
+ (Sta. 
+ 122,000 kg 
+ 268,960 lb 18% MAC and 
+ 1162.82) 
+ 1202.13) 
+ 1201.83) 
+ 15% MAC 
+ Below 
+ Below 
+ 15% MAC 
+ 122,000 kg 
+ 268,960 lb (Sta.1155.07) 
+ Landing gear retraction moment is 74,772 in lb., gear retraction moves c.g. forward."
+Maximum Weights,"Basic Model 
+ Variant 02 with 
+ Variant 03 with 
+ Variant 14 with 
+ mod 1652 
+ Mods 1652 & 2032 
+ mod 6193 
+ kg 
+ lb 
+ kg 
+ lb 
+ lb 
+ kg 
+ lb 
+ kg"
+Taxi Weight,"150,900 
+ 332,672 
+ 158,400 
+ 349,206 
+ 158,400 
+ 349,206 
+ 158,400 
+ 349,206"
+Takeoff Weight,"150,000 
+ 330,687 
+ 157,500 
+ 347,222 
+ 157,500 
+ 347,222 
+ 157,500 
+ 347,222"
+Landing Weight,"133,000 
+ 293,210 
+ 133,000 
+ 293,210 
+ 134,000 
+ 295,410 
+ 134,000 
+ 295,410"
+Zero Fuel Weight,"122,000 
+ 268,960 
+ 122,000 
+ 268,960 
+ 124,000 
+ 273,370 
+ 126,000 
+ 277,780"
+Gear Jacking Weight,"150,000 
+ 330,687 
+ 157,500 
+ 347,222 
+ 157,500 
+ 347,222 
+ 157,500 
+ 347,222"
+Minimum Crew,"For all Flights: Pilot, Copilot and Flight Engineer."
+Maximum Passengers,"345 - Based on compliance with FAR 25 emergency exit requirements. 
+ Emergency evacuation demonstration of 25.803(c) has been performed 
+ with 330 passengers. See DGAC approved interior arrangement drawing for maximum 
+ passenger capacity approved for each airplane as delivered."
+Maximum Baggage,"Forward freight compartment: Max admissible load 36,600 lb. 
+ - With containers: 12 x 2830 lb. or 
+ 6 x 5660 lb. when Mod. 1844 is incorporated 
+ - A maximum container weight of 3500 lb each side or 7000 lb both 
+ sides is permitted at station 22, 23 and 24 when Mod. 2317 is incorporated. 
+ - With pallets: 4 x 8,300 lb. 
+ A maximum pallet weight of 10,200 lb is permitted at station 22 when 
+ Mod. 2,488 is incorporated, 
+ OR 
+ 6 x 5,660 lb. when Mod. 1844 and 4171 are incorporated. 
+ A maximum pallet weight 7,000 lb is permitted at stations 22, 23, 24 
+ when Mods. 1844, 2317 and 4171 are incorporated. 
+ - Split engine transport: 
+ - When Mod. 2001 is incorporated 
+ - Maximum weight of each pallet must not exceed 8200 lb. 
+ - Pallets, engine stands and pallet net must be in accordance with 
+ specification AI/TI-431/77 
+ Middle freight compartment: Max admissible load 23,980 lb. 
+ - With containers: 8 x 2,830 lb or 
+ 4 x 5,660 lb. when Mod. 1844 is incorporated 
+ - With pallets: 2 x 5,660 lb. 
+ 2 x 7,000 lb. when Mods 1844, 2317 and 4171 are incorporated. 
+ A maximum of 3,500 lb. each side or 7,000 lb. both sides is permitted at station 41 
+ when Mod. 0470 is incorporated and at station 42 when Mod. 2317 is incorporated. 
+ Aft freight compartment: Maximum loading 5,512 lb."
+Fuel Capacity,"Usable fuel tank capacity (lb) - Density 6,676 lb./US gal. 
+ Without Mod 1664 
+ With Mod 1664 
+ Location 
+ Preselector 
+ Tank high level 
+ Preselector 
+ Tank high level 
+ Arm (in.) 
+ cutoff 
+ sensor cutoff 
+ cutoff 
+ sensor cutoff 
+ (lb) 
+ lb/U.S. gal 
+ (lb) 
+ lb/U.S. gal"
+Outboard 1,"7,716 
+ 7,942 
+ 7,710 
+ 7,994"
+132704,"1,189 
+ 1,197"
+Outboard 2,"7,716 
+ 7,942 
+ 7,710 
+ 7,994"
+132704,"1,189 
+ 1,197"
+Inboard 1,"29,762 
+ 29,791 
+ 29,760 
+ 30,281"
+115688,"4,462 
+ 4,535"
+Inboard 2,"29,762 
+ 29,791 
+ 29,760 
+ 30,281"
+115688,"4,462 
+ 4,535"
+Central,"24,251 
+ 24,701 
+ 29,760 
+ 30,346"
+110610,"3,699 
+ 4,545"
+Total,"99,207 
+ 100,167 
+ 104,700 
+ 106,896 
+ 15.001 
+ 16,009"
+Fuel Management,"Fuel must be loaded symmetrically in outboard tanks first; fuel must be used from 
+ inboard tanks first. Maximum allowable wing fuel asymmetry is 8,820 lb (refere to latest 
+ EASA approved AFM revision)."
+Oil Capacity,"Engine oil capacity 24.4 lb/engine usable (at 8.1 lb/gal.) with engine moment arm 
+ 1011.10 in."
+Maximum Operating Altitude,"40,000 ft."
+Equipment,"The basic required equipment as prescribed in the applicable Federal Aviation 
+ Regulations must be installed. Airbus equipment list document AI/V 549/79 as revised 
+ identifies all required equipment and all optional equipment approved by the Direction 
+ General de l'Aviation Civile (D.G.A.C.) of France. In addition the following is 
+ required: 
+ EASA-Approved US Airplane Flight Manual."
+Other Information,"See ""Data Pertinent to All A300 Models (except the A300B4-600, 
+ A300B4-600R, A300F4-600R and A300C4-600R Series)"""
+"VI. Type A300, Model B2-203 (Transport Category Airplane) approved October 1, 1980.",
+Engines,"2 - General Electric Turbofan, Model CF6-50C2 (See Note 7). Data Sheet FAA: No. 
+ E 23 EA3 - Part B."
+APU,Airesearch TS CP 700-5 (TSO C77 SC 6203)
+Fuel,"(a) The following fuels are eligible for engines and APU: 
+ MIL-T-5624H 
+ Grades JP-4 or JP-5 
+ AST-MD-1665-65T 
+ Grades Jet A, A1 (JP-1) and Jet B 
+ AST-ES-2-74 
+ Grades Jet A, A1 and Jet B 
+ French specifications are: 
+ Air 3404 
+ Air 3407 
+ Air 3405 
+ With JP-4 or Jet B fuel, the following limitations apply: 
+ (1) Maximum altitude of 15,000 ft with gravity fuel supply from inboard tanks. 
+ (2) Maximum altitude of 20,000 ft with gravity fuel supply from outboard tanks. 
+ (b) The following additives may be used in approved fuels for engines and APU: 
+ (1) Philips PFA-55MB or anti-icing additive to specifications MIL-I-27686 E at a 
+ concentration not in excess of 0.15 percent by volume. 
+ (2) Sohio Biobor JF biocide additive at a concentration not in excess of 20 ppm 
+ elemental boron (270 ppm total additive). 
+ (3) Shell ASA-3 anti-static additive at a concentration that will provide not in 
+ excess of 300 conductivity units which is approximately equivalent to one 
+ ppm."
+Oil,"(a) The following oils are eligible for the CF6-50 engine: 
+ Synthetic type conforming to GE specifications D 50 T F1, 
+ Classes A or B. (GE Service Bulletin No. 79-1 lists approved brand oils.) 
+ (b) The following oil is eligible for the APU: 
+ See Maintenance Manual TS CP 700, Chap. 49.20.00 Table 303."
+Engine Limits,"Static thrust, sea level 
+ Takeoff (5 min) - (flat to 86ºF) 
+ 51,800 lb 
+ Maximum Continuous (flat to 85ºF) 
+ 46,300 lb 
+ Maximum permissible engine rotor operating speeds 
+ N1 (Low compressor) 
+ 4068 rpm (118.5%) 
+ N2 (High compressor) 
+ 10,761 rpm (109.5%) 
+ Maximum permissible engine temperature 
+ Turbine exhaust gas temperature at turbine outlet 
+ Takeoff (5 min) 
+ 945ºC 
+ Maximum Continuous 
+ 910ºC 
+ Maximum acceleration (2 min) 
+ 960ºC 
+ Starting: 
+ Up to 40 Sec. 
+ 1652ºF (900ºC) 
+ Above 40 Sec. 
+ 1382ºF (750ºC) 
+ Oil Maximum permissible outlet temperature 
+ Continuous operation 
+ 320ºF (160ºC) 
+ Transient operation limited to 15 min. 
+ 347º (175ºC)"
+APU Limits,"Power rating 
+ Maximum at sea level 
+ 142 hp. 
+ Maximum rotor speeds 
+ Low pressure speed (N1) 
+ 30,910 rpm (110%) 
+ High pressure speed (N2) 
+ 38,845 rpm (110%) 
+ Maximum exhaust gas temperature 
+ 1,085ºF (585ºC) 
+ VA (Maneuvering) 
+ See EASA Approved US Airplane Flight Manual"
+Airspeed Limits IAS,"VMO (Maximum Operating) 
+ up to 28,400 ft 
+ 345 K. 
+ MMO (Maximum Operating) 
+ at and over 28,000 ft 
+ 0.86 
+ VA (Maneuvering) 
+ See EASA Approved US Airplane Flight Manual 
+ VFE 
+ Slat Positions 
+ Flap Positions 
+ Takeoff 
+ 16 
+ 0 
+ 250 K 
+ Takeoff 
+ 16 
+ 8 
+ 215 K 
+ Approach 
+ 16 
+ 15 
+ 205 K 
+ Landing 
+ 25 
+ 25 
+ 180 K 
+ Enroute 
+ 16 
+ 0 
+ 210 K 
+ (M=0.47) 
+ VLO (Landing Gear) 
+ Extension 
+ 270 K 
+ Retraction 
+ 240 K 
+ VLE (Landing Gear Extended) 
+ 270 K 
+ (M=0.59) 
+ VMC (Minimum Control) Speed with the Critical Engine Inoperative 
+ In flight - VMCA 
+ 112 KIAS - 105 KCAS 
+ Takeoff and Landing - VMCG 
+ 107 KIAS - 102.5 KCAS 
+ V (Tires Limitation) 
+ 195.5 KCAS"
+Landing Gear Extended,"FORWARD 
+ AFT 
+ Gross Weight 
+ Enroute & 
+ Takeoff 
+ Enroute & 
+ Takeoff 
+ Landing 
+ Landing 
+ 142,900 kg 
+ 315,040 lb 18% MAC 
+ to 
+ to 
+ (Sta.1162.82) 
+ All 
+ All 
+ All 
+ 125,500 kg 
+ 277,042 lb 
+ weights 
+ weights 
+ weights 
+ 125,500 kg 
+ 277,042 lb Linear varia- 
+ 18% MAC 
+ 35% MAC 
+ 33% MAC 
+ to 
+ to 
+ tion between 
+ (Sta. 
+ (Sta. 
+ (Sta. 
+ 120,500 kg 
+ 265,657 lb 18% MAC and 
+ 1162.82) 
+ 1202.13) 
+ 1201.92) 
+ 15% MAC 
+ Below 
+ Below 
+ 15% MAC 
+ 120,500 kg 
+ 265,657 lb (Sta.1155.07) 
+ Landing gear retraction moment is 68,686 in lb., gear retraction moves c.g. forward."
+Maximum Weights,"kg 
+ lb 
+ Taxi Weight 
+ 142,900 
+ 315,040 
+ Takeoff Weight 
+ 142,000 
+ 313,056 
+ Landing Weight 
+ 130,000 
+ 286,601 
+ Zero Fuel Weight 
+ 120,500 
+ 265,657 
+ Gear Jacking Weight 
+ 142,000 
+ 313,056"
+Minimum Crew,"For all Flight: Pilot, Copilot and Flight Engineer"
+Maximum Passengers,"345 - Based on compliance with FAR 25 emergency exit requirements. 
+ Emergency evacuation demonstration of 25.803(c) has been performed 
+ with 330 passengers. See DGAC approved interior arrangement drawing for maximum 
+ passenger capacity approved for each airplane as delivered."
+Maximum Baggage,"Forward freight compartment with containers: 
+ 12 x 2,830 lb. 
+ Middle freight compartment with containers: 
+ 8 x 2,830 lb. 
+ Aft freight compartment: 
+ Maximum loading: 5,512 lb."
+Fuel Capacity,"Fuel Tank Capacity (lb.) 
+ Usable Fuel (6.676 lb/gal) 
+ Location 
+ Arm 
+ (inches) 
+ Preselector 
+ Tank high Level 
+ Setting cut-off 
+ Sensor cut-off 
+ (lb) 
+ (US gal) 
+ Outboard 1 
+ 7,716 
+ 1,155 
+ 1327.04 
+ Outboard 2 
+ 7,716 
+ 1,155 
+ 1327.04 
+ Inboard 1 
+ 29,762 
+ 4,458 
+ 1156.88 
+ Inboard 2 
+ 29,762 
+ 4,458 
+ 1156.88 
+ Total 
+ 74,956 
+ 11,226"
+Fuel Management,"Fuel must be loaded symmetrically in outboard tanks first; fuel must be used from 
+ inboard tanks first. 
+ Maximum allowable wing fuel asymmetry is 8,820 lb (refer to latest EASA approved 
+ AFM revision)."
+Oil Capacity,"Engine oil capacity 24.4 lb/engine usable (at 8.1 lb/gal.) with engine moment arm 
+ 1011.10 in."
+Maximum Operating Altitude,"40,000 ft."
+Equipment,"The basic required equipment as prescribed in the applicable Federal Aviation 
+ Regulations must be installed. Airbus equipment list document AI/V 947/80 as revised 
+ identifies all required equipment and all optional equipment approved by the Direction 
+ General de l'Aviation Civile (D.G.A.C.) of France. In addition the following is 
+ required. 
+ EASA-approved US Airplane Flight Manual plus Document AI/V-F 902/79, 
+ Instrument Markings and Placards."
+Other Information,"See ""Data Pertinent to All A300 Models (except the A300B4-600, 
+ A300B4-600R, A300F4-600R and A300C4-600R Series)"""
+"VII. Type A300, Model B4-203 (Transport Category Airplane) approved October 2, 1981.",
+Engines,"2 - General Electric Turbofan, Model CF6-50C2 (See Note 7). 
+ (Data Sheet FAA No. E23EA3 - Part B)"
+APU,Airesearch TS CP 700-5 (TSO C77 SC 6203)
+Fuel,"(a) The following fuels are eligible for engines and APU: 
+ MIL-T-5624H 
+ Grades JP-4 or JP-5 
+ AST-MD-1655-65T 
+ Grades Jet A, A1 (JP-1) and Jet B 
+ AST-ES-2-74 
+ Grades Jet A, A1 and Jet B 
+ French specifications are: 
+ Air 3404 
+ Air 3407 
+ Air 3405 
+ With JP-4 or Jet B fuel, the following limitations apply: 
+ (1) Maximum altitude of 15,000 ft with gravity fuel supply from inboard tanks. 
+ (2) Maximum altitude of 20,000 ft with gravity fuel supply from outboard tanks. 
+ (b) The following additives may be used in approved fuels for engines and APU: 
+ (1) Philips PFA-55MB or anti-icing additive to specifications MIL-I-27686 E at a 
+ concentration not in excess of 0.15 percent by volume. 
+ (2) Sohio Biobor JF biocide additive at a concentration not in 
+ excess of 20 ppm elemental boron (270 ppm total additive). 
+ (3) Shell ASA-3 anti-static additive at a concentration that will 
+ provide not in excess of 300 conductivity units which is 
+ approximately equivalent to one ppm."
+Oil,"(a) The following oils are eligible for the CF6-50 engine: 
+ Synthetic type conforming to GE specifications D 50 T F1, 
+ Classes A or B. (GE Service Bulletin No. 79-1 lists approved brand oils.) 
+ (b) The following oil is eligible for the APU: 
+ See Maintenance Manual TS CP 700, Chap. 49.20.00 Table 303."
+Engine Limits,"Static thrust, sea level 
+ Takeoff (5 min) - (flat to 86ºF) 
+ 51,800 lb 
+ Maximum Continuous (flat to 85ºF) 
+ 46,300 lb 
+ Maximum permissible engine rotor operating speeds 
+ N1 (Low compressor) 
+ 4068 rpm (118.5%) 
+ N2 (High compressor) 
+ 10,761 rpm (109.5%) 
+ Maximum permissible engine temperature 
+ Turbine exhaust gas temperature at turbine outlet 
+ Takeoff (5 min) 
+ 945ºC 
+ Maximum Continuous 
+ 910ºC 
+ Maximum acceleration (2 min) 
+ 960ºC 
+ Starting: 
+ Up to 40 Sec. 
+ 1,652ºF (900ºC) 
+ Above 40 Sec. 
+ 1,382ºF (750ºC) 
+ Oil Maximum permissible outlet temperature 
+ Continuous operation 
+ 320ºF (160ºC) 
+ Transient operation limited to 15 min. 
+ 347ºF (175ºC)"
+APU Limits,"Power rating 
+ Maximum at sea level 
+ 142 hp. 
+ Maximum rotor speeds 
+ Low pressure speed (N1) 
+ 30,910 rpm (110%) 
+ High pressure speed (N2) 
+ 38,845 rpm (110%) 
+ Maximum exhaust gas temperature 
+ 1,085ºF (585ºC)"
+Airspeed Limits IAS,"VMO (Maximum Operating) 
+ up to 25,000 ft 
+ 345 K. 
+ MMO (Maximum Operating) 
+ at and over 25,400 ft 
+ 0.86/0.82 
+ (See Note 3) 
+ VA (Maneuvering) 
+ See EASA Approved US Airplane Flight Manual 
+ VFE 
+ Slat Positions 
+ Flap Positions 
+ Takeoff 
+ 16 
+ 0 
+ 250 K 
+ Takeoff 
+ 16 
+ 8 
+ 215 K 
+ Approach 
+ 16 
+ 15 
+ 205 K 
+ Landing 
+ 25 
+ 25 
+ 180 K 
+ Enroute 
+ 16 
+ 0 
+ 210 K 
+ (M=0.47) 
+ VLO (Landing Gear) 
+ Extension 
+ 270 K 
+ Retraction 
+ 240 K 
+ VLE (Landing Gear Extended) 
+ 270 K 
+ (M=0.59) 
+ VMC (Minimum Control) Speed with the Critical Engine Inoperative 
+ In flight - VMCA 
+ 112 KIAS - 105 KCAS 
+ Takeoff and Landing - VMCG 
+ 107 KIAS - 102.5 KCAS 
+ V (Tires Limitation) 
+ 195.5 KCAS"
+CG Range Landing Gear Extended,"FORWARD 
+ AFT 
+ Gross Weight 
+ Enroute & 
+ Takeoff 
+ Enroute & 
+ Takeoff 
+ Landing 
+ Landing 
+ Max Taxi 
+ Max Taxi 
+ 18% MAC 
+ to 
+ to 
+ (Sta.1162.82) 
+ All 
+ All 
+ All 
+ 130,000 kg 
+ 286,600 lb 
+ weights 
+ weights 
+ weights 
+ 130,000 kg 
+ 286,642 lb Linear varia- 
+ 18% MAC 
+ 35% MAC 
+ 33% MAC 
+ to 
+ to 
+ tion between 
+ (Sta. 
+ (Sta. 
+ (Sta. 
+ 124,000 kg 
+ 273,370 lb 18% MAC and 
+ 1162.82) 
+ 1202.13) 
+ 1201.83) 
+ 15% MAC 
+ Below 
+ Below 
+ 15% MAC 
+ 124,000 kg 
+ 273,370 lb (Sta.1155.07) 
+ Landing gear retraction moment is 74,772 in lb., gear retraction moves c.g. forward."
+Maximum Weights,"Basic Model 
+ Variant 07 with 
+ mod 3195 
+ kg 
+ lb 
+ kg 
+ lb 
+ Taxi Weight 
+ 165,900 
+ 365,740 
+ 165,900 
+ 365,740 
+ Takeoff Weight 
+ 165,000 
+ 363,760 
+ 165,000 
+ 363,760 
+ Landing Weight 
+ 134,000 
+ 295,410 
+ 136,000(1) 
+ 299,820(1) 
+ 134,000(2) 
+ 295,410(2) 
+ Zero Fuel Weight 
+ 124,000 
+ 273,370 
+ 126,000 
+ 277,782 
+ Gear Jacking Weight 
+ 165,000 
+ 363,750 
+ 165,000 
+ 363,750 
+ (1) 136,000 kg slats 16º/flaps 15º 
+ (2) 134,000 kg slats 25º/flaps 25º"
+Minimum Crew,"For all Flights: Pilot, Copilot and Flight Engineer"
+Maximum Passengers,"345 - Based on compliance with FAR 25 emergency exit requirements. 
+ Emergency evacuation demonstration of 25.803(c) has been performed 
+ with 330 passengers. See DGAC approved interior arrangement drawing for maximum 
+ passenger capacity approved for each airplane as delivered."
+Maximum Baggage,"Forward freight compartment: Max admissible load 36,600 lb. 
+ - With containers: 12 x 2,030 lb. or 
+ 6 x 5,660 lb. when Mod. 1844 is incorporated 
+ - A maximum container weight of 3,500 lb each side 
+ or 
+ 7,000 lb both sides is permitted at station 22, 23 and 24 when Mod. 2317 is 
+ incorporated. 
+ - With pallets: 4 x 8,300 lb. 
+ A maximum pallet weight of 10,200 lb is permitted at station 22 when Mod. 2488 is 
+ incorporated, 
+ OR 
+ 6 x 5,660 lb. when Mods. 1844 and 4171 are incorporated. 
+ A maximum pallet weight 7,000 lb is permitted at stations 22, 23, 24 when Mods. 1844, 
+ 2317 and 4171 are incorporated. 
+ - Split engine transport 
+ - When Mod. 2001 is incorporated 
+ - Maximum weight of each pallet must not exceed 8,200 lb. 
+ - Pallets, engine stands and pallet net must be in accordance with specification 
+ AI/TI-431/77 
+ Middle freight compartment: Max admissible load 23,980 lb. 
+ - With containers 8 x 2,830 lb or 
+ 4 x 5,660 lb. when Mod. 1844 is incorporated 
+ - With pallets: 2 x 5,660 lb. 
+ 2 x 7,000 lb. when Mods 1844, 2317 and 4171 are incorporated. 
+ A maximum of 3,500 lb. each side or 7000 lb. both sides is permitted 
+ at station 41 when Mod. 0470 is incorporated and at station 42 when 
+ mod. 2317 is incorporated. 
+ Aft freight compartment: Maximum loading 5512 lb."
+Fuel Capacity,"Usable fuel tank capacity (lb) - Density 6.676 lb./US gal. 
+ Without Mod 1664 
+ With Mod 1664 
+ Location 
+ Preselector 
+ Tank high level 
+ Preselector 
+ Tank high level 
+ Arm (in.) 
+ cutoff 
+ sensor cutoff 
+ cutoff 
+ sensor cutoff 
+ (lb) 
+ lb/U.S. gal 
+ (lb) 
+ lb/U.S. gal"
+Outboard 1,"7,716 
+ 7,942 
+ 7,710 
+ 7,994"
+132704,"1,189 
+ 1,197"
+Outboard 2,"7,716 
+ 7,942 
+ 7,710 
+ 7,994"
+132704,"1,189 
+ 1,197"
+Inboard 1,"29,762 
+ 29,791 
+ 29,760 
+ 30,281"
+115688,"4,462 
+ 4,535"
+Inboard 2,"29,762 
+ 29,791 
+ 29,760 
+ 30,281"
+115688,"4,462 
+ 4,535"
+Central,"24,251 
+ 24,701 
+ 29,760 
+ 30,346"
+110610,"3,699 
+ 4,545"
+Total,"99,207 
+ 100,167 
+ 104,700 
+ 106,896 
+ 15,001 
+ 16,009"
+Fuel Management,"Fuel must be loaded symmetrically in outboard tanks first; fuel must be used from 
+ inboard tanks first. Maximum allowable wing fuel asymmetry is 8,820 lb (refere to latest 
+ EASA approved AFM revision)."
+Oil Capacity,"Engine oil capacity 24.4 lb/engine usable (at 8.1 lb/gal.) with engine 
+ moment arm 1011.10 in."
+Maximum Operating Altitude,"40,000 ft."
+Equipment,"The basic required equipment as prescribed in the applicable Federal Aviation 
+ Regulations must be installed. Airbus equipment list document AI/V-C 379/81 as 
+ revised identifies all required equipment and all optional equipment approved by the 
+ Direction General de l'Aviation Civile (D.G.A.C.) of France. In addition the following 
+ is required: 
+ EASA-Approved US Airplane Flight Manual, plus for Model B4-203, document 
+ AI/V-F 902/79."
+Other Information,"See ""Data Pertinent to All A300 Models (except the A300B4-600, A300B4-600R, 
+ A300F4-600R and A300C4-600R Series)"""
+"DATA PERTINENT TO ALL A300 MODELS (EXCEPT THE A300B4-600, A300B4-600R, A300F4-600R AND A300C4- 
+ 600R SERIES 
+ Datum 
+ Station 0 (251.26 inches forward of fuselage nose) 
+ MAC 
+ 260.15 inches (Leading edge of MAC: Sta. 1116) 
+ Leveling Means 
+ Clinometer on the cabin rails. 
+ Control Surface Movements 
+ To insure operation of the airplane, the movement of the various 
+ control surfaces must be carefully controlled by proper rigging of the 
+ flight control systems. The airplane must therefore be rigged in 
+ accordance with the following DGAC-approved information and data: 
+ Control surface movement inspection - 
+ Airbus Reports A300B 
+ 8.27.010 
+ 011 
+ 012 
+ 013 
+ 014 
+ 015 
+ Rigging procedure - 
+ Airbus Reports A 007 
+ 10.063 
+ 10.094 
+ 10.095 
+ 10.100 
+ 10.102 
+ 10.103 
+ 10.105 
+ 10.114 (for type B2-1A & B2-1C) 
+ 10.123 (for type B4-2C, B2K-3C. 
+ B2-203, B4-103, & B4-203) 
+ Serial Numbers Eligible 
+ A French ""Certificat de Navigabilite pour Exportation"" endorsed as 
+ noted under ""Import Requirements"" must be submitted for each 
+ individual aircraft for which application for U.S. certification is made. 
+ Import Requirements 
+ An FAA Standard Airworthiness Certificate may be issued on the 
+ basis of a French ""Certificat de Navigabilite pour Exportation"" signed by a representative 
+ of the Direction Generale de 'Aviation Civile (D.G.A.C.) of France, containing the 
+ following statement: ""The airplane covered by this certificate has been examined, tested 
+ and found to conform to the type design approved under Type Certificate No. A35EU 
+ and to be in condition for safe operation"".Refer to the applicable bilateral agreement to 
+ verify eligibility for import into the United States of both new and used aircraft based on 
+ the scope of the agreement, to identify any required statements by the exporting authority 
+ on the export certificate of airworthiness (or equivalent document), and for procedures 
+ for coordinating exceptions to conformity statements on these documents. Refer to FAA 
+ Order 8130.2, Airworthiness Certification of Aircraft, for requirements for issuance of an 
+ airworthiness certificate for imported aircraft. 
+ Certification Basis 
+ FAR 21.29 (a)(1), based upon France/German requirements of FAR Part 25 effective 
+ February 1, 1965, including Amendments 25-1 through 25-20, plus Amendment 
+ 25-23 for Paragraphs 25.145, 25.1305, 25.1321, 23.1331, 25.1333, Amendment 25-24 
+ for Paragraph 25.1303; Amendment 25-23 for Paragraphs 25.785 through 25.791, 25.809 
+ through 25.812, 25.853 through 25.857, and 25.1557; Conditions Techniques 
+ Complementares as listed in DGAC documents 4080 DTA/M dated August 8, 1970, 
+ 3904 DTA/M dated July 20, 1972, and 2060 DTA/M dated March 30, 1973; 
+ Corresponding FAA certification requirements are FAR Part 25 as detailed above plus 
+ Special Conditions No. 25-52-EU-16, plus FAA Part 36 including appropriate 
+ amendments (See NOTE 8). SFAR-27 through 27-3 (see NOTE 9). 
+ Compliance has been shown with the following optional requirements: 
+ Ditching 
+ 25.801 
+ Ice Protection 
+ 25.1419 
+ Date of Application: February 4, 1970 Type Certificate No. A35EU, issued May 30, 
+ 1974. 
+ DGAC originally type cerificated this A300 under its type certificate number N°72, 
+ TCDS N°145. The FAA validated this product under U.S. Type Certificate Number 
+ A35EU. Effective September 28, 2003, the European Aviation Safety Agency (EASA) 
+ began oversight of this product on behalf of DGAC. 
+ Based on 14 CFR § 21.29(a) for new import TCs, or § 21.101(g) for changes to TCs, 
+ applicable provisions of part 26 are included in the certification basis. For any future 14 
+ CFR part 26 amendments, the holder of this TC must demonstrate compliance with the 
+ applicable sections 
+ Exemption 9969 
+ This exemption grants partial relief from having to meet the requirements of § 26.11 
+ See NOTE(10) 
+ NOTES TO ALL A300 MODELS (EXCEPT THE A300B4-600, A300B4-600R, A300F4-600R AND A300C4-600R 
+ SERIES 
+ NOTE 1 
+ Reserved 
+ NOTE 2 
+ Placards - Model A300B2-1A, B2-1C, B4-2C, B2K-3C: 
+ All placards listed in the EASA-approved US Airplane Flight Manual must be installed in the appropriate 
+ locations. 
+ Model A300B4-103, B2-203, B4-203; 
+ Instrument markings and placards must be in accordance with Document AI/V-F 902/79. 
+ NOTE 3 
+ Airworthiness limitations/ Maintenance Instructions 
+  
+ Safe Life Airworthiness Limitations items are provided in the EASA approved Airworthines 
+ Limitations Section (ALS) Part 1 ref. A300 ALS Part 1. 
+  
+ Damage Tolerance Airworthiness Limitaion Items are provided in the EASA approved Airbus 
+ documents ref SEM2/95A-1090/05 
+  
+ Fuel Airworthiness Limitations are provided in the EASA approved FAL Airbus document ref 
+ SEM2/95A1928/05 
+  
+ Maintenance Review Board Report 
+ NOTE 4 
+ For models B4-2C and B4-103 aircraft incorporating modification no. 1652 and for model B4-203 aircraft, 
+ the MMO warning selector of modification no. 1688 allows an MMO switching. MMO is 0.86 M for 
+ takeoff weights up to 153,000 kg (337,302 lb) and 0.82 M for takeoff weight greater than 153,000 kg 
+ (337,302 lb) provided the airplane is operated in accordance with the corresponding EASA approved US 
+ Airplane Flight Manual page 2.03.00 page 1. 
+ NOTE 5 
+ Cabin Equipment 
+ Seats, galleys and other cabin equipment aft of fuselage station 28.768m (94.38 ft) must be designed for 
+ upward load factor not less than 3.0 g. 
+ NOTE 6 
+ Cat III Maintenance Requirements 
+ Autoland Maintenance tasks and associated intervals are listed in Airbus document AI/V-C 
+ 387/79 dated March 27, 1979 Revision 1 dated April 20, 1979, and Revision 2, dated October 19, 1984. 
+ NOTE 7 
+ Alternate Engine Installations 
+ A - Alternate Engine Models eligible 
+ 2 General Electric Model CF6-50C1 
+ or 
+ 2 General Electric Model CF6-50C 
+ B - Engine Model Intermix 
+ 1 General Electric CF6-50C2 and 1 General Electric CF6-50C1 
+ or 
+ 1 General Electric CF6-50C2 and 1 General Electric CF6-50C 
+ The above engine configurations are permitted when installation is in accordance with Airbus 
+ Service Bulletin No. A300-71-011 and the engines are operated in accordance with Supplement No. 4 to the 
+ EASA-approved AFM. 
+ NOTE 8 
+ The following FAR 36 Noise Certification by Model reflects required as well as Airbus voluntary 
+ updated compliance to later 
+ FAR-36 amendments. 
+ Model B2-1A 
+ Amendment 
+ 36-1 
+ B2-1C 
+ 36-12 
+ B4-2C 
+ 36-3 
+ B2K-3C 
+ 36-3 
+ B2-203 
+ 36-12 
+ B4-103 
+ 36-12 
+ B4-203 
+ 36-12 
+ NOTE 9 
+ Model A300 series airplanes comply with SFAR 27 through 27-3 when Airbus's Modifications 
+ No. 1024, 1318 and 1351 are installed. 
+ NOTE 10 
+ The following models may be converted in accordance with Airbus Service Bulletin No. 
+ A300-00-001: 
+ Model A300 B2K-3C to Model A300 B2-203 
+ Model A300 B4-2C to Model A300 B4-103 
+ Model A300 B4-2C to Model A300 B4-203 
+ Model A300 B4-103 to Model A300 B4-203 
+ NOTE 11 
+ This exemption does not grant relief from the related operational requirements. Should a person choose to 
+ operate one of the airplane models covered by this exemption under 14 CFR Part 121 or 129 beyond the 
+ operational compliance deadlines as stated in § 121.1111 or § 129.111 (EWIS ICA) that person will be 
+ required to comply with those operational requirements. 
+ VIII. A300-B4-600 Series (A300B4-601 approved March 28, 1988; A300B4-603 and A300B4-620 
+ approved September 19, 1988 and A300B4-622 approved January 21, 2003 ) (Transport Aircraft)",
+Engines,"2 - General Electric CF6-80C2A1 (A300B4-601) or 2 General Electric 
+ CF6-80C2A3 (A300B4-603) (FAA Data Sheet E13NE). 
+ or 
+ 2 Pratt and Whitney JT9D-7R4H1 (A300B4-620) (FAA Data Sheet E3NE) 
+ 2 Pratt and Whitney PW 4158 (A300B4-622) (FAA Data Sheet E24NE)"
+APU,Airesearch GTCP 331-250 (Specification 31-2891)
+Fuel,"(a) The following fuels are eligible for engines and APU: 
+ MIL-T-5624H 
+ Grades JP-4 or JP-5 
+ AST-MD-1655-65T 
+ Grades Jet A1 (JP-1) and Jet B 
+ AST-ES-2-74 
+ Grades Jet A, A1 and Jet B 
+ French specifications are: 
+ Air 3404 
+ Air 3407 
+ Air 3405 
+ With JP-4 or Jet B fuel, the following limitations apply: 
+ (1) Maximum altitude of 15,000 ft with gravity fuel supply from 
+ inboard tanks. 
+ (2) Maximum altitude of 20,000 ft with gravity fuel supply from 
+ outboard tanks. 
+ (b) The following additives may be used in approved fuels for engines 
+ and APU: 
+ (1) Philips PFA-55MB or anti-icing additive to specifications MIL-I-278686 E 
+ at a concentration not in excess of 0.15 percent by volume. 
+ (2) Sohio Biobor JF biocide additive at a concentration not in 
+ excess of 20 ppm elemental boron (270 ppm total additive). 
+ (3) Shell ASA-3 anti-static additive at a concentration that will 
+ provide not in excess of 300 conductivity units which is 
+ approximately equivalent to one ppm."
+Oil,"(a) The following oils are eligible for the engines: 
+ Synthetic type conforming to GE specifications D50TF1, Classes A or B. 
+ (GE Service Bulletin No. 79-1 lists approved brand oils.) 
+ Synthetic type conforming to PW specification 521C (PW 
+ Service Bulletin No. 238 lists approved brand oils). 
+ (b) The following oil is eligible for the APU: 
+ See Maintenance Manual AIRESEARCH GTCP 331-250, 
+ Chapter 49.21.00 Table 2."
+Engine Limits,"PRATT AND WHTINEY 
+ GENERAL ELECTRIC 
+ JT9D-7R4H1 
+ PW 4158 
+ CF6-80C2A1 
+ CF6-80C2A3"
+Static Thrust Sea Level,"Takeoff (5 min-up to 87 F) 
+ 56,000 lb 
+ 58,000 
+ 57,860 lb 
+ 58,950 lb 
+ 50,000 lb 
+ 49,580 
+ 53,390 lb 
+ 58,780 lb 
+ Max. permissible engine rotor operating speeds"
+N1 Low compressor,"3,810 rpm 
+ 4,012 
+ 3,854 rpm 
+ 3,854 rpm 
+ (105.8%) 
+ (111.4%) 
+ (117.5%) 
+ (117.5%)"
+N2 High compressor,"8,080 rpm 
+ 10,450 
+ 11,055 rpm 
+ 11,055 rpm 
+ (103.5%) 
+ (105.5%)"
+Max permissible engine temperature –,Turbine exhaust temperature at turbine outlet
+Takeoff 5 min,"680ºC 
+ 650ºC 
+ 960ºC 
+ 960ºC 
+ 635ºC 
+ 625ºC 
+ 925ºC 
+ 925ºC"
+Acceleration 2 min,"680ºC 
+ 925ºC 
+ - 
+ -"
+up to 40 sec,"535ºC 
+ 535ºC 
+ 870ºC 
+ 870ºC"
+above 40 sec,"535ºC 
+ 535ºC 
+ 750ºC 
+ 750ºC"
+Continuous Operation,"135ºC 
+ 163ºC 
+ 160ºC 
+ 160ºC"
+Limited to 15 min,"163ºC 
+ 177ºC 
+ 175ºC 
+ 175ºC"
+APU Limits,"- Power rating maximum at sea level: 
+ 98.5 KW 
+ - Maximum operating speed: 
+ 43,562 rpm 
+ - Maximum gas temperature at turbine outlet: 
+ 585ºC"
+Airspeed Limits IAS,"BASIC MODEL 
+ MAXIMUM OPERATING MACH MMO 
+ 0.82 
+ MAXIMUM OPERATING SPEED VMO (Kt) 
+ 335 
+ VA (Maneuvering speed): refer to EASA-approved US Airplane Flight Manual 
+ Chapter 2.03. 
+ VFE 
+ SLATS (º) 
+ FLAPS (º) 
+ VFE (kt) 
+ 15 
+ 0 
+ 250 
+ 15 
+ 15 
+ 215 
+ 15 
+ 20 
+ 205 
+ 30 
+ 40 
+ 175 
+ VLO Gear extension . . . . . . . . . . . . . . 270 Kt 
+ Gear retraction . . . . . . . . . . . . . . 240 Kt 
+ VLE 
+ Landing gear extended . . . . . . . 270 Kt or M=0.59 
+ VMC (Minimum control speed with the critical engine inoperative) 
+ B4-620 
+ B4-601 
+ B4-603 
+ B4-622 
+ Inflight - VMCA 
+ 109 KCAS 
+ 115 KCAS 
+ 115.5 KCAS 
+ 111 KCAS 
+ Take off - VMCG 
+ 107.5 KCAS 
+ 113.5 KCAS 
+ 114 KCAS 
+ 109.5 KCAS 
+ Tire Speed Limit (Ground speed limit): 195.5 kt (225 mph)"
+CG Range,"For C.G. envelopes, see EASA Approved US Flight Manual."
+Maximum Weights,"BASIC MODEL 
+ kg 
+ lb 
+ Taxi Weight 
+ 165,900 
+ 365,740 
+ Take-off weight 
+ 165,000 
+ 363,760 
+ Landing weight 
+ 138,000 
+ 304,230 
+ Zero fuel weight 
+ 130,000 
+ 286,600"
+Minimum Flight Weight,"90,000 kg. (198,410 lb)"
+Minimum Crew,For all flights: 2 pilots
+Maximum Passengers,"345. 
+ For seating arrangement refer to AIRBUS 
+ specification TL 25/1110/74"
+Maximum Baggage,"Forward compartment - Maximum load: 
+ 40,800 lbs 
+ Aft compartment - Maximum load: 
+ 28,300 lbs 
+ Bulk compartment - Maximum load: 
+ 6,110 lbs"
+Fuel Capacity,"Location 
+ Usable fuel 6.676 lb/gal 
+ (lb) 
+ (US gal) 
+ (inches) 
+ Outboard Tanks 
+ 16,332 
+ 2,446 
+ 1325.99 
+ Inboard Tanks 
+ 61,976 
+ 9,284 
+ 1158.27 
+ Center Tank 
+ 31,041 
+ 4,649 
+ 1102.68 
+ TOTAL 
+ 109,349 
+ 16,379 
+ 1167.52"
+Fuel Management,"Fuel must be loaded symmetrically in outboard tanks first; fuel must be 
+ used from inboard tank first. Maximum allowable wing fuel asymmetry is 4,410 lb 
+ (refere to latest EASA approved AFM revision)."
+Oil Capacity,"GE Engine oil capacity 25.02 lb/engine usable (at 8.1 lb/gal) with engine mount arm 
+ 965.15 inches. 
+ PW - Engine oil capacity 33.40 lb/engine usable (at 8.1 lb/gal) with engine moment arm 
+ 1022.6 inches."
+Maximum Operating Altitude,"40,000 ft."
+Equipment,"The basic required equipment as prescribed in the applicable Federal Aviation 
+ Regulations must be installed in the aircraft. Airbus Equipment List A1/V-C No. 401/84 
+ as revised identifies all required equipment and all optional equipment approved by the 
+ Direction General de l'Aviation Civile (D.G.A.C.) of France. In addition, the 
+ following is required: 
+ EASA-Approved US Airplane Flight Manual."
+Other Information,"See ""Data Pertinent to all A300B4-600, A300B4-600R, A300F4-600R and 
+ A300C4-600R Series""."
+IX,"A300B4-600R Series (A300B4-605R approved March 28, 1988, A300B4-622R approved August 1, 1991) (Transport"
+Engines,"2 General Electric CF6-80C2A5 (A300B4-605R) (FAA Data Sheet E13 NE) 
+ or 
+ 2 Pratt & Whitney PW 4158 (A300B4-622R) (FAA Data Sheet E24NE)"
+APU,Airesearch GTCP 331-250 (Specification 31-2891)
+Fuel,"(a) The following fuels are eligible for engines and APU: 
+ MIL-T-5624H 
+ Grades JP-4 or JP-5 
+ AST-MD-1655-65T 
+ Grades Jet A1 (JP-1) and Jet B 
+ AST-ES-2-74 
+ Grades Jet A, A1 and Jet B 
+ French specifications are: 
+ Air 3404 
+ Air 3407 
+ Air 3405 
+ With JP-4 or Jet B fuel, the following limitations apply: 
+ (1) Maximum altitude of 15,000 ft with gravity fuel supply from 
+ inboard tanks. 
+ (2) Maximum altitude of 20,000 ft with gravity fuel supply from 
+ outboard tanks. 
+ (b) The following additives may be used in approved fuels for engines and APU: 
+ (1) PHILLIPS PFA-55MB or anti-icing additive to specifications 
+ MIL-I-278686 E at a concentration not in excess of 0.15 percent by volume. 
+ (2) Sohio Biobor JF biocide additive at a concentration not in 
+ excess of 20 ppm elemental boron (270 ppm total additive). 
+ (3) Shell ASA-3 anti-static additive at a concentration that will provide not in 
+ excess of 300 conductivity units which is approximately equivalent to one 
+ ppm."
+Oil,"(a) The following oils are eligible for the CF6-80C2A5 and PW 4158 engines 
+ respectively: 
+ - 
+ Synthetic type conforming to GE specifications D50TF1, 
+ Classes A or B. (GE Service Bulletin No. 79-1 lists approved 
+ brand oils.) 
+ - 
+ Synthetic type conforming to PW specification 521C (PW 
+ Service Bulletin No. 238 lists approved brand oils). 
+ (b) The following oil is eligible for the APU: 
+ See Maintenance Manual AIRESEARCH GTCP 331-250, Chapter 49.21.00 
+ Table 2."
+Engine Limits,"GENERAL ELECTRIC 
+ PRATT & WHITNEY 
+ CF6-80C2A5 
+ PW 4158"
+Takeoff 5 minup to 87ºF,"60,100 lb. 
+ 58,000 lb. 
+ 56,210 lb. 
+ 49,580 lb."
+N1 Low compressor,"3,854 rpm (117.5%) 
+ 4,012 rpm (111.4%)"
+N2 High compressor,"10,055 rpm (112.5%) 
+ 10,450 rpm (105.5%)"
+Maximum permissible engine temperature,Turbine exhaust temperature at turbine outlet
+Takeoff 5 min,"960ºC 
+ 650ºC 
+ 925ºC 
+ 625ºC"
+Acceleration 2 min,"- 
+ 925ºC"
+º up to 40 sec,"870ºC 
+ 535ºC"
+º above 40 sec,"750ºC 
+ 535ºC"
+Continuous Operation,"160ºC 
+ 163ºC"
+º Limited to 15 min,"175ºC 
+ -"
+º Limited to 20 min,177ºC
+APU Limits,"- Power rating maximum at sea level: 98.5 KW 
+ - Maximum operating speed: 43,562 rpm 
+ - Maximum gas temperature at turbine outlet: 585ºC"
+Airspeed Limits IAS,"MAXIMUM OPERATING MACH MMO 
+ 0.82 
+ MAXIMUM OPERATING SPEED VMO (Kt) 
+ 335 
+ VA (Maneuvering speed): refer to EASA-approved US Airplane 
+ Flight Manual Chapter 2.03. 
+ VFE 
+ SLATS (º) 
+ FLAPS (º) 
+ VFE (kt) 
+ 15 
+ 0 
+ 250 
+ 15 
+ 15 
+ 215 
+ 15 
+ 20 
+ 205 
+ 30 
+ 40 
+ 175"
+IX,"VLO 
+ Gear extension . . . . . . . . . . . . . . 270 Kt 
+ Gear retraction . . . . . . . . . . . . . . 240 Kt 
+ VLE 
+ Landing gear extended . . . . . . . 270 Kt or M=0.59 
+ VMC 
+ (Minimum control speed with the critical engine inoperative) 
+ A300B4-605R 
+ A300B4-622R 
+ Inflight - VMCA 
+ 117 KCAS 
+ 111 KCAS 
+ Take off - VMCG 
+ 115.5 KCAS 
+ 109,5 KCAS 
+ Tire Speed Limit (Ground speed limit): 195.5 KCAS (225 mph)"
+CG Range,"For C.G. envelopes, see EASA Approved US Flight Manual."
+Maximum Weights,"BASIC MODEL 
+ VARIANT 01** 
+ VARIANT 02** 
+ VARIANT 03** 
+ kg 
+ lb 
+ kg 
+ lb 
+ kg 
+ lb 
+ kg 
+ lb 
+ Taxi Weight 
+ 171,400 
+ 377,930 
+ 172,600 
+ 380,520 
+ 172,600 
+ 380,520 
+ 168,700 
+ 371,920 
+ Take-off Weight 
+ 170,500 
+ 375,890 
+ 171,700 
+ 378,530 
+ 171,700 
+ 378,530 
+ 167,800 
+ 369,930 
+ Landing Weight 
+ 140,000 
+ 308,650 
+ 140,000 
+ 308,650 
+ 138,000 
+ 304,235 
+ 140,000 
+ 308,650 
+ Zero Fuel Weight 
+ 130,000 
+ 286,600 
+ 123,000* 
+ 271,170 
+ 123,000* 
+ 271,170 
+ 131,000 
+ 288,800 
+ *Linear variation from 130T at MTOW 170.5T to 123T at MTOW 171.7T. 
+ **Variant 01: With modification 7047 applicable only for A300B4-605R 
+ **Variant 02: With modification 7486 applicable only for A300B4-605R 
+ **Variant 03: With modification 7619 applicable only for A300B4-605R"
+Minimum Flight Weight,"90,000 kg. (198,410 lb)"
+Minimum Crew,For all flights: 2 pilots
+Maximum Passengers,"345. 
+ For seating arrangement refer to AIRBUS 
+ specification TL 25/1110/74"
+Maximum Baggage,"Forward compartment - Maximum load: 
+ 40,800 lbs 
+ Aft compartment - Maximum load: 
+ 28,300 lbs 
+ Bulk compartment - Maximum load: 
+ 6,110 lbs"
+Fuel Capacity,"Location 
+ Usable fuel 6.676 lb/gal 
+ (lb) 
+ (US gal) 
+ (inches) 
+ Outboard Tanks 
+ 16,332 
+ 2,446 
+ 1325.99 
+ Inboard Tanks 
+ 61,976 
+ 9,284 
+ 1158.27 
+ Center Tank 
+ 31,041 
+ 4,649 
+ 1102.68 
+ 2182.56 
+ Trim Tank 
+ 10,864 
+ 1627 
+ 1259.46"
+Fuel Management,"Fuel must be loaded symmetrically in outboard tanks first; fuel must be 
+ used from inboard tank first. Maximum allowable wing fuel asymmetry is 4,410 lb 
+ (refere to latest EASA approved AFM revision)."
+Oil Capacity,"GE CF6-80C2A5 - Engine Oil Capacity 25.02 lb/engine usable (at 8.1 lb/gal) with 
+ engine moment arm 965.15 inches. 
+ PW 4158 - Engine Oil Capacity 28.44 lb/engine usable (at 8.1 lb/gal) 
+ with engine moment arm 1023.80 inches."
+Maximum Operating Altitude,"40,000 ft."
+Equipment,"The basic required equipment as prescribed in the applicable Federal 
+ Aviation Regulations must be installed in the aircraft. Airbus Equipment List A1/EA-A 
+ No. 413-288/88 as revised identifies all required equipment and all optional equipment 
+ approved by the Direction General de l'Aviation Civile (D.G.A.C.) of France. In 
+ addition, the following is required: 
+ EASA-Approved US Airplane Flight Manual."
+Other Information,"See ""Data Pertinent to all A300B4-600, A300B4-600R, A300F4-600R and 
+ A300C4-600R Series"". 
+ X. A300 F4-600R Series (A300F4-605R approved April 27, 1994, A300F4-622R approved July 14, 2000) (Transport Aircraft)"
+Engines,"2 General Electric CF6-80C2A5 or 2 General Electric CF6-80C2A5F (A300F4-605R) 
+ (FAA Data Sheet E13NE) 
+ or 
+ 2 Pratt & Whitney PW 4158 (A300F4-622R) (FAA Data Sheet E24NE)"
+APU,Airesearch GTCP 331-250 (Specification 31-2891)
+Fuel,"(a) The following fuels are eligible for engines and APU: 
+ MIL-T-5624H 
+ Grades JP-4 or JP-5 
+ AST-MD-1655-65T 
+ Grades Jet A1 (JP-1) and Jet B 
+ AST-ES-2-74 
+ Grades Jet A, A1 and Jet B 
+ French specifications are: 
+ Air 3404 
+ Air 3407 
+ Air 3405 
+ With JP-4 or Jet B fuel, the following limitations apply: 
+ (1) Maximum altitude of 15,000 ft with gravity fuel supply from inboard tanks. 
+ (2) Maximum altitude of 20,000 ft with gravity fuel supply from outboard tanks. 
+ (b) The following additives may be used in approved fuels for engines and APU: 
+ (1) PHILLIPS PFA-55MB or anti-icing additive to specifications MIL-I-278686 E 
+ at a concentration not in excess of 0.15 percent by volume. 
+ (2) Sohio Biobor JF biocide additive at a concentration not in excess of 20 ppm 
+ elemental boron (270 ppm total additive). 
+ (3) Shell ASA-3 anti-static additive at a concentration that will provide not in 
+ excess of 300 conductivity units which is approximately equivalent to one 
+ ppm."
+Oil,"(a) The following oils are eligible for the CF6-80C2A5/CF6-80C2A5F and PW 4158 
+ engines respectively: 
+ - 
+ Synthetic type conforming to GE specifications D50TF1, 
+ Classes A or B. (GE Service Bulletin No. 79-1 lists approved brand oils.) 
+ - 
+ Synthetic type conforming to PW specification 521C (PW 
+ Service Bulletin No. 238 lists approved brand oils). 
+ (b) The following oil is eligible for the APU: 
+ See Maintenance Manual AIRESEARCH GTCP 331-250, Chapter 49.21.00 
+ Table 2."
+Engine Limits,"GENERAL ELECTRIC 
+ PRATT & WHITNEY 
+ CF6-80C2A5 or 
+ PW 4158 
+ CF6-80C2A5F"
+Takeoff 5 minup to 87ºF,"60,100 lb. 
+ 58,000 lb. 
+ 56,210 lb. 
+ 49,580 lb."
+N1 Low compressor,"3,854 rpm (117.5%) 
+ 4,012 rpm (111.4%)"
+N2 High compressor,"10,055 rpm (112.5%) 
+ 10,450 rpm (105.5%)"
+Maximum permissible engine temperature,Turbine exhaust temperature at turbine outlet
+Takeoff 5 min,"960ºC 
+ 650ºC 
+ 925ºC 
+ 625ºC"
+Acceleration 2 min,"- 
+ 650ºC"
+º up to 40 sec,"870ºC 
+ 535ºC"
+º above 40 sec,"750ºC 
+ 535ºC"
+Continuous Operation,"160ºC 
+ 163ºC"
+º Limited to 15 min,"175ºC 
+ -"
+º Limited to 20 min,177ºC
+APU Limits,"- Power rating maximum at sea level: 
+ 98.5 KW 
+ - Maximum operating speed: 
+ 43,562 rpm 
+ - Maximum gas temperature at turbine outlet: 
+ 585ºC"
+Airspeed Limit IAS,"BASIC MODEL 
+ VARIANT 06 
+ VARIANT 09"
+MAXIMUM OPERATING MACH MMO,"0.82 
+ 0.82 
+ 0.82"
+MAXIMUM OPERATING SPEED VMO Kt,"335 
+ 335 
+ 335 
+ VA (Maneuvering speed): refer to EASA-approved US Airplane Flight Manual 
+ Chapter 2.03. 
+ VFE 
+ SLATS (º) 
+ FLAPS (º) 
+ VFE (kt) 
+ 15 
+ 0 
+ 250 
+ 15 
+ 15 
+ 215 
+ 15 
+ 20 
+ 205 
+ 30 
+ 40 
+ 175 
+ VLO Gear extension .............................270 Kt 
+ Gear retraction .............................240 Kt 
+ VLE Landing gear extended ..............270 Kt or M=0.59 
+ VMC (Minimum control speed with the critical engine inoperative) 
+ A300F4-605R 
+ A300F4-622R 
+ Inflight – VMCA 
+ 117 KCAS 
+ 111 KCAS 
+ Take off – VMCG 
+ 115.5 KCAS 
+ 109.5 KCAS 
+ Tire Speed Limit (Ground speed limit): 195.5 KCAS (225 mph)"
+CG Range,"For C.G. envelopes, see EASA Approved US Flight Manual."
+Maximum Weights,"BASIC MODEL 
+ VARIANT 06* 
+ VARIANT 09* 
+ kg 
+ Lb 
+ kg 
+ lb 
+ kg 
+ lb 
+ Taxi Weight 
+ 171,400 
+ 377,930 
+ 166,000 
+ 365,960 
+ 168,900 
+ 372,360 
+ Take-off 
+ 170,500 
+ 375,890 
+ 165,100 
+ 363,980 
+ 168,000 
+ 370,375 
+ Weight 
+ Landing 
+ 140,000 
+ 308,650 
+ 140,600 
+ 303,970 
+ 143,300 
+ 315,900 
+ Weight 
+ Zero Fuel 
+ 130,000 
+ 286,600 
+ 133,800 
+ 294,980 
+ 136,500 
+ 300,930 
+ Weight 
+ *With trim and center fuel tanks deactivated 
+ Variant 06: With modification 10395 for A300F4-605R 
+ Variant 09: With modification 12199 for A300F4-622R"
+Minimum Flight Weight,"90,000 kg* (198,410 lb) 
+ *With mod 11392 for A300F4-605R and A300F4-622R minimum flight weight: 
+ 80,000kg (176,360 lb)"
+Minimum Crew,For all flights: 2 pilots
+Maximum Passengers,"Six (6) persons on the main deck per Exemption 5864 or four (4) persons on the main 
+ deck per Exemption No. 7260. (see certification basis paragraph (g) for applicability and 
+ details)"
+Maximum Baggage,"Lower Forward compartment - Maximum load: 
+ 40,800 lbs 
+ Lower Aft compartment - Maximum load: 
+ 28,300 lbs 
+ Lower Bulk compartment - Maximum load: 
+ 6,110 lbs 
+ Main Deck Cargo compartment - Maximum load: 
+ 100,970 lbs 
+ For general freighter A300F4-605R: 
+ Lower Forward compartment - Maximum load: 
+ 40,800 lbs 
+ Lower Aft compartment - Maximum load: 
+ 30,400 lbs 
+ Lower Bulk compartment - Maximum load: 
+ 3,900 lbs 
+ Main Deck Cargo compartment - Maximum load: 
+ 100,900 lbs"
+Fuel Capacity,"Location 
+ Usable fuel 6.676 lb/gal 
+ (lb) 
+ (US gal) 
+ (inches) 
+ Outboard Tanks 
+ 16,332 
+ 2,446 
+ 1325.99 
+ Inboard Tanks 
+ 61,976 
+ 9,284 
+ 1158.27 
+ Center Tank 
+ 31,041 
+ 4,649 
+ 1102.68 
+ Trim Tank 
+ 10,864 
+ 1627 
+ 2182.56 
+ TOTAL 
+ 120,213 
+ 18,006 
+ 1259.46"
+Fuel Management,"Fuel must be loaded symmetrically in outboard tanks first; fuel must be 
+ used from inboard tank first. If cargo is symmetrically loaded, maximum allowable 
+ wing fuel asymmetry is 4,410 lb (refere to latest EASA approved AFM revision). 
+ In cases of asymmetrical loading configurations, 
+ reference must be made to Weight and Balance Manual."
+Oil Capacity,"GE CF6-80C2A5 and GE CF6-80C2A5F: 
+ Engine Oil Capacity 25.02 lb/engine usable (at 8.1 lb/gal) with engine 
+ moment arm 965.15 inches. 
+ PW 4158: 
+ Engine Oil Capacity 28.44 lb/engine usable fuel (at 8.1 lb/gal) with engine moment arm 
+ 1023.8 inches."
+Maximum Operating Altitude,"40,000 ft (Basic model) 
+ 35,000 ft (Variant 06) 
+ 35,000 ft (Variant 09)"
+Equipment,"The basic required equipment as prescribed in the applicable Federal 
+ Aviation Regulations must be installed in the aircraft. Airbus Equipment Lists, as 
+ revised, identifiy all required equipment and all optional equipment approved by the 
+ Direction Generale de l'Aviation Civile (D.G.A.C.) of France: 
+ - 
+ 00X00009102/C3S for A300F4-605R 
+ - 
+ 00X00009622/C3S for A300F4-622R 
+ In addition, the following is required: 
+ EASA-Approved US Airplane Flight Manual AI/ST-F3000."
+Other Information,"See ""Data Pertinent to all A300B4-600, A300B4-600R, A300F4-600R and 
+ A300C4-600R Series "". 
+ XI. A300 C4-600R Series (A300C4-605R Variant F approved June 21, 2002), (Transport Aircraft)"
+Engines,"2 General Electric CF6-80C2A5 (FAA Data Sheet E13NE),"
+APU,Airesearch GTCP 331-250 (Specification 31-2891)
+Fuel,"(a) 
+ The following fuels are eligible for engines and APU: 
+ MIL-T-5624H Grades JP-4 or JP-5 
+ AST-MD-1655-65T Grades Jet A1 (JP-1) and Jet B 
+ AST-ES-2-74 Grades Jet A, A1 and Jet B 
+ French specifications are: 
+ Air 3404 
+ Air 3407 
+ Air 3405 
+ With JP-4 or Jet B fuel, the following limitations apply: 
+ (1) Maximum altitude of 15,000 ft with gravity fuel supply from inboard tanks. 
+ (2) Maximum altitude of 20,000 ft with gravity fuel supply from outboard tanks. 
+ (b) 
+ The following additives may be used in approved fuels for engines and APU: 
+ (1) 
+ PHILLIPS PFA-55MB or anti-icing additive to specifications 
+ MIL-I-278686 E at a concentration not in excess of 0.15 percent by volume. 
+ (2) 
+ Sohio Biobor JF biocide additive at a concentration not in excess of 20 ppm 
+ elemental boron (270 ppm total additive). 
+ (3) 
+ Shell ASA-3 anti-static additive at a concentration that will provide not in 
+ excess of 300 conductivity units which is approximately equivalent to one ppm."
+Oil,"(a) 
+ The following oils are eligible for the CF6-80C2A5 Engines: 
+ - 
+ Synthetic type conforming to GE specifications D50TF1, Classes A or B. (GE 
+ Service Bulletin No. 79-1 lists approved brand oils.) 
+ (b) 
+ The following oil is eligible for the APU: 
+ See Maintenance Manual AIRESEARCH GTCP 331-250, Chapter 49.21.00 Table 2."
+Engine Limits,"GENERAL ELECTRIC 
+ CF6-80C2A5"
+Takeoff 5 minup to 87ºF,"60,100 lb. 
+ 56,210 lb."
+N1 Low compressor,"3,854 rpm (117.5%)"
+N2 High compressor,"10,055 rpm (112.5%)"
+Takeoff 5 min,"960ºC 
+ 925ºC"
+Acceleration 2 min,-
+º up to 40 sec,870ºC
+º above 40 sec,750ºC
+Oil Maximum Permissible Outlet Temperature,320oF (160ºC)
+Transient operationº,"347oF (175ºC) 
+ Limited to 15 min. 
+ Limited to 20 min. 
+ -"
+APU Limits,"Power rating maximum at sea level: 
+ 98.5 KW 
+ Maximum operating speed: 
+ 43,562 rpm 
+ Maximum gas temperature at turbine outlet: 
+ 1,085oF (585ºC)"
+Airspeed Limits IAS,"Basic Model 
+ MAXIMUM OPERATING MACH MMO 
+ 0.82 
+ MAXIMUM OPERATING SPEED VMO (Kt) 
+ 335 
+ V A 
+ (Maneuvering speed): refer to EASA-approved US Airplane 
+ Flight Manual Chapter 2.03. 
+ V FE 
+ SLATS (º) 
+ FLAPS (º) 
+ VFE (kt) 
+ 15 
+ 0 
+ 250 
+ 15 
+ 15 
+ 215 
+ 15 
+ 20 
+ 205 
+ 30 
+ 40 
+ 175 
+ V LO 
+ Gear extension . . . . . . . . . . . . . . 270 Kt 
+ Gear retraction . . . . . . . . . . . . . . 240 Kt 
+ V LE 
+ Landing gear extended . . . . .. . . 270 Kt or M=0.59 
+ V MC 
+ (Minimum control speed with the critical engine inoperative) 
+ A300C4-605R 
+ Variant F 
+ Inflight - VMCA 
+ 117 KCAS 
+ Take off - VMCG 
+ 115.5 KCAS 
+ Tire Speed Limit (Ground speed limit): 
+ 195.5 KCAS (225 mph)"
+CG Range,"For C.G. envelopes, see EASA Approved US Flight Manual."
+Maximum Weights,"Basic Model 
+ kg 
+ Lb 
+ Taxi Weight 
+ 171,400 
+ 377,930 
+ Take-off Weight 
+ 170,500 
+ 375,890 
+ Landing Weight 
+ 140,000 
+ 308,650 
+ Zero Fuel Weight 
+ 130,000 
+ 286,600"
+Minimum Flight Weight,"90,000 kg (198,410 lb)"
+Minimum Crew,For all flights: 2 pilots
+Maximum Passengers,Six (6) persons on the main deck per Exemption No. 7799 (See Certification Basis (g) paragraph)
+Maximum Baggage,"Lower Forward compartment - Maximum load: 
+ 40,800 lbs 
+ Lower Aft compartment - Maximum load: 
+ 28,300 lbs 
+ Lower Bulk compartment - Maximum load: 
+ 6,110 lbs 
+ Main Deck Cargo compartment - Maximum load: 
+ 100,970 lbs"
+Fuel Capacity,"Location 
+ Usable fuel 6.676 lb/gal 
+ (lb) 
+ (US gal) 
+ (inches) 
+ Outboard Tanks 
+ 16,332 
+ 2,446 
+ 1325.99 
+ Inboard Tanks 
+ 61,976 
+ 9,284 
+ 1158.27 
+ Center Tank 
+ 31,041 
+ 4,649 
+ 1102.68 
+ Trim Tank 
+ 10,864 
+ 1627 
+ 2182.56 
+ TOTAL 
+ 120,213 
+ 18,006 
+ 1259.46 
+ Fuel Management. Fuel must be loaded symmetrically in outboard tanks first; fuel must 
+ be used from inboard tank first. If cargo is symmetrically loaded, maximum allowable 
+ wing fuel asymmetry is 4,410 lb. (refere to latest EASA approved AFM revision). 
+ In cases of asymmetrical loading configurations, reference must be made to Weight and 
+ Balance Manual."
+Oil Capacity,"GE CF6-80C2A5 
+ Engine Oil Capacity 25.02 lb/engine usable (at 8.1 lb/gal) with engine moment arm 
+ 965.15 inches."
+Maximum Operating Altitude,"40,000 ft"
+Equipment,"The basic required equipment as prescribed in the applicable Federal Aviation 
+ Regulations must be installed in the aircraft. Airbus Equipment Lists, as revised identifies 
+ all required equipment and all optional equipment approved by the Direction Generale de 
+ l'Aviation Civile (D.G.A.C.) of France: 
+ - 00X0009605/C3S for A300C4-605R Variant F 
+ In addition, the following is required: 
+ EASA-Approved US Airplane Flight Manual AI/ST-F3000 adapted to aircraft model."
+Other Information,"See ""Data Pertinent to all A300B4-600, A300B4-600R, A300F4-600R 
+ and A300C4-600R Series"". 
+ DATA PERTINENT TO ALL A300 B4-600, A300 B4-600R, A300 F4-600R AND A300C4-600R SERIES."
+Datum,Station 0 (251.26 inches forward of fuselage nose)
+MAC,260.16 inches (leading edge of MAC: Sta. 1116.06 inches).
+Leveling Means,Clinometer on the cabin seat track rails.
+Serial Numbers Eligible,"A French ""Certificat de Navigabilite pour Exportation"" endorsed as noted under ""Import 
+ Requirements"" must be submitted for each individual aircraft for which application for 
+ U.S. certification is made."
+Import Requirements,"An FAA Standard Airworthiness Certificate may be issued on the 
+ basis of a French ""Certificat de Navigabilite pour Exportation"" signed by a representative 
+ of the Direction Generale de 'Aviation Civile (D.G.A.C.) of France, containing the 
+ following statement: ""The airplane covered by this certificate has been examined, tested 
+ and found to conform to the type design approved under Type Certificate No. A35EU 
+ and to be in condition for safe operation"".Refer to the applicable bilateral agreement to 
+ verify eligibility for import into the United States of both new and used aircraft based on 
+ the scope of the agreement, to identify any required statements by the exporting authority 
+ on the export certificate of airworthiness (or equivalent document), and for procedures 
+ for coordinating exceptions to conformity statements on these documents. Refer to FAA 
+ Order 8130.2, Airworthiness Certification of Aircraft, for requirements for issuance of an 
+ airworthiness certificate for imported aircraft."
+Certification Basis,"(a) For all A300 B4-600, A300 B4-600R, A300 F4-600R and A300C4-600R series 
+ airplanes, the certification basis is FAR Part 25 at the following amendments: 
+ Amendment 1 through 21 
+ Amendment 22 through 44 (elected) except for, 
+ 25.301 Amendment 23, 
+ 25.305(d) Amendment 23, 
+ 25.331(a)(2) Amendment 23, 
+ 25.109 Amendment 42; 
+ Amendment 45 (Elected) for paragraph 25.571; 
+ Amendment 46 (Elected) for paragraph 25.803(c), (d) and 
+ 25.809(f)(1)(iv)(v); 
+ Amendment 47 (Elected) for paragraph 25.809(f) (1) (iii); 
+ Amendment 49 (Elected) for paragraph 25.733; 
+ Amendment 54 (Elected) for paragraph 25.365(e)(i) and (e)(2). 
+ Additional later amendment Part 25 FARs for Models A300F4-605R , A300F4-622R 
+ and A300C4-605R Variant F: 
+ Amendment 54 (Elected) for paragraph 25.365(e)(3); 
+ Amendment 54 for paragraph 25.858; 
+ Amendment 72 (Elected) for paragraph 25.723; 
+ Amendment 72 for paragraph 25.783; 
+ Amendment 74 for paragraph 25.851(a)(3). 
+ Model A300F4-622R airplanes incorporating modifications for Main Deck Cargo 
+ Compartment Rearrangement (modifications 12047, 12048, 12049, 12054, 12055, 
+ 12063, 12103, 12118, 12139, 12194, 12227). For parts of the airplane that are changed 
+ or affected by these modifications, the certification basis includes the following later 
+ amendment Part 25 FARs: 
+ Amendment 86 for FAR Part 25 §§ 25.305, 25.321, 25.333, 25.341, 25.349 
+ Amendment 91 for FAR Part 25 §§ 25.331, 25.335, 25.351, 25.473, 25.479, 
+ 25.481, 25.483, 25.485, 25.491 
+ Amendment 91 for FAR Part 25 § 25.561 applicable to modified parts 
+ (L-shaped barrier, supemumerary seats and attachments) 
+ Amendment 86 for FAR Part 25 § 25.571 for modified parts 
+ Amendment 83 for FAR Part 25 §§ 25.853(a), (b) and (c) 
+ Amendment 51 for FAR Part 25 § 25.787 
+ Amendment 93 for FAR Part 25 §§ 25.855, 25.857, 25.858 
+ Amendment 64 for FAR Part 25 § 25.561 for cockpit seats 
+ See also pargraph (g) for the exemption applicable to A300F4-622R airplanes 
+ with the above modifications incorporated. 
+ Model A300F4-622R airplanes incorporating modifications for Lower Deck Cargo 
+ Compartment Rearrangement (modifications 12046, 12133, 12183). For parts of the 
+ airplane that are changed or affected by these modifications, the certification basis 
+ includes the following later amendment Part 25 FARs: 
+ Amendment 86 for FAR Part 25 §§ 25.305, 25.321, 25.333, 25.341, 25.349 
+ Amendment 91 for FAR Part 25 §§ 25.331, 25.335, 25.351, 25.473, 25.479, 
+ 25.481, 25.483, 25.485, 25.491 
+ Amendment 86 for FAR Part 25 § 25.571 for modified parts 
+ Amendment 83 for FAR Part 25 §§ 25.853(a), (b) and (c) 
+ Amendment 51 for FAR Part 25 § 25.787 
+ Amendment 93 for FAR Part 25 §§ 25.855, 25.857, 25.858 
+ Model A300F4-622R airplanes incorporating modifications for Weight Variant 09 
+ (Modifications 12050, 12102, 12181, 12199). For parts of the airplane that are changed 
+ or affected by these modifications, the certification basis includes the following later 
+ amendment Part 25 FARs: 
+ Amendment 86 for FAR Part 25 §§ 25.305, 25.321, 25.333, 25.341, 25.349 
+ Amendment 91 for FAR Part 25 §§ 25.331, 25.335, 25.351, 25.473, 25.479, 
+ 25.481, 25.483, 25.485, 25.491 
+ Model A300F4-622R airplanes incorporating partial avionics upgrade (Modifications 
+ 13829, 13831, 13836, 13838 and 13839) For parts of the airplane that are changed or 
+ affected by these modifications, the certification basis includes the following later 
+ amendment Part 25 FARs: 
+ Amendment 144 for 
+ FAR 25.869(a)(1) 
+ FAR 25.899 
+ FAR 25.1301(a) 
+ FAR 25.1302 
+ FAR 25.1303(b)(5) 
+ FAR 25.1309(a)(b)(c) 
+ FAR 25.1316 
+ FAR 25.1317 
+ FAR 25.1329(i) 
+ FAR 25.1360 
+ FAR 25.1362 
+ FAR 25.1431(d) 
+ FAR 25.1457(a)(6) 
+ FAR 25.1459(e) 
+ FAR K.25.1.1 
+ FAR K.25.1.2 
+ FAR 25.1543(b) 
+ Amendment 98 for 
+ FAR 25.1529 
+ Model A300F4-605R airplanes incorporating modifications for Main Deck Cargo 
+ Compartment Rearrangement (modifications 12054, 12118, 12227). For parts of the 
+ airplane that are changed or affected by these modifications, the certification basis 
+ includes the following later amendment Part 25 FARs: 
+ Amendment 86 for FAR Part 25 §§ 25.305, 25.321, 25.333, 25.341, 25.349 
+ Amendment 91 for FAR Part 25 §§ 25.331, 25.335, 25.351, 25.473, 25.479, 
+ 25.481, 25.483, 25.485, 25.491 
+ Amendment 86 for FAR Part 25 § 25.571 for modified parts 
+ Amendment 83 for FAR Part 25 §§ 25.853(a), (b) and (c) 
+ Amendment 51 for FAR Part 25 § 25.787 
+ Amendment 93 for FAR Part 25 §§ 25.855, 25.857, 25.858 
+ Amendment 64 for FAR Part 25 § 25.561 for cockpit seats 
+ See also pargraph (g) for the exemption applicable to A300F4-605R airplanes 
+ with the above modifications incorporated. 
+ Model A300F4-605R airplanes incorporating modifications for Lower Deck Cargo 
+ Compartment Rearrangement (modifications 12046, 12133, 12183,12860). For parts of 
+ the airplane that are changed or affected by these modifications, the certification basis 
+ includes the following later amendment Part 25 FARs: 
+ Amendment 86 for FAR Part 25 §§ 25.305, 25.321, 25.333, 25.341, 25.349 
+ Amendment 91 for FAR Part 25 §§ 25.331, 25.335, 25.351, 25.473, 25.479, 
+ 25.481, 25.483, 25.485, 25.491 
+ Amendment 86 for FAR Part 25 § 25.571 for modified parts 
+ Amendment 83 for FAR Part 25 §§ 25.853(a), (b) and (c) 
+ Amendment 51 for FAR Part 25 § 25.787 
+ Amendment 93 for FAR Part 25 §§ 25.855, 25.857, 25.858 
+ Model A300F4-605R airplanes incorporating modifications for Structural provisions for 
+ operations at Weight Variant 09 (Modifications 12050, 12102). For parts of the airplane 
+ that are changed or affected by these modifications, the certification basis includes the 
+ following later amendment Part 25 FARs: 
+ Amendment 86 for FAR Part 25 §§ 25.305, 25.321, 25.333, 25.341, 25.349 
+ Amendment 91 for FAR Part 25 §§ 25.331, 25.335, 25.351, 25.473, 25.479, 
+ 25.481, 25.483, 25.485, 25.491 
+ Note: FAR paragraphs at amendment 25-86 and 25-91 are revised by Vf definition used 
+ for the earlier FAA certified freighter, the A300F4-605R, through application of FAA 
+ issue paper A-101, dated May 18, 2000. 
+ (b) For precision approach and landing, the applicable technical 
+ requirements are complemented by AC 120-29 and AC 120-28C. For airplanes 
+ equipped with modification 12210, the applicable guidance material is AC 120-28D. 
+ For the automatic flight control system, the applicable technical 
+ requirements are complemented by AC 20-57A for automatic 
+ landing and by AC 25.1329-1A for cruise. 
+ (c) FAR Part 36. [See Note 4 for specific models and Amendment Levels] 
+ (d) FAR Part 34. ICAO Annex 16, Vol II, Aircraft Engine Emissions (fuel venting 
+ requirements). 
+ (e) Compliance with the following optional requirements has been established: 
+ Ditching provisions FAR 25.801 
+ Ice Protection Provisions FAR 25.1419. 
+ (f) Special Conditions: 
+ For the Model A300F4-605R and A300F4-622R: 
+ FAA Special Conditions as published in the Federal Register 17 June 1987 through 
+ Special Condition 25-ANM-12 on lightning protection (Special Condition P-8, 
+ dated June 10, 1987), protection from unwanted effects of radio frequency energy 
+ (Special condition P-10, dated June 10, 1987), 
+ and the propulsion control system (Special Condition P-11, dated June 10, 1987). 
+ (g) Exemptions: 
+ For the Model A300F4-605R: 
+ Exemption granted in accordance with FAR 11 from FAR Part 25: 
+ No. 5864 dated March 30, 1994, allows carriage of a maximum of six (6) non- 
+ crewmembers between the flight deck and the main deck class E cargo compartment. 
+ These 6 non-crewmembers are in addition to the maximum 4 flight deck occupants 
+ for a total of 10 occupants. 
+ For the Model A300F4-622R incorporating modifications for Main Deck Cargo 
+ Compartment Rearrangement (modifications 12047, 12048, 12049, 12054, 12055, 
+ 12063, 12103, 12118, 12139, 12194, 12227): 
+ Exemption granted in accordance with FAR 11 from FAR Part 25: 
+ No. 7260 dated June 30, 2000, allows carriage of a maximum of four (4) non- 
+ crewmembers in the courier area on the main deck. These 4 non-crewmembers are 
+ in addition to the maximum 3 flight deck occupants for a total of 7 occupants. 
+ For the model A300C4-605R Variant F model; 
+ Exemption granted in accordance with FAR 11 from FAR Part 25: 
+ No. 7799 dated June 6, 2002, allows carriage of maximum six (6) non crew 
+ members between the flight deck and the main deck Class E cargo compartment. 
+ These 6 non crewmembers are in addtion to the maximum 4 flight deck occupants 
+ for a total of 10 occupants. 
+ (h) Equivalent Safety Findings exist with respect to the following FARs: 
+ FAR part 25 § 25.841(b)(6) Amendment 38 applicable to A300F4-622R airplanes 
+ with the modification 12210 and 12211 incorporated 
+ FAR part 25 § 25.933(a) Amendment 25-40 applicable to model A300-600/A310 
+ airplanes equipped with Pratt&Whitney engines and modifications 12262, 12263 
+ and 12265 installed (Thrust Reverser Third Line of Defense) or airplanes equipped 
+ with General Electric engines and modifications 12349, 12350, 12511, 12514 
+ installed (Thrust Reverser Third Line of Defence). 
+ Based on 14 CFR § 21.29(a) for new import TCs, or § 21.101(g) for changes to TCs, 
+ applicable provisions of part 26 are included in the certification basis. For any future 14 
+ CFR part 26 amendments, the holder of this TC must demonstrate compliance with the 
+ applicable sections 
+ Exemption 9950 
+ This exemption grants relief from having to meet the requirements of § 26.33 
+ See NOTE(5) 
+ DGAC originally type cerificated this A300-600 under its type certificate number N°72, 
+ TCDS N°145. The FAA validated this product under U.S. Type Certificate Number 
+ A35EU. Effective September 28, 2003, the European Aviation Safety Agency (EASA) 
+ began oversight of this product on behalf of DGAC. 
+ NOTES TO ALL A300B4-600, A300B4-600R, A300F4-600R, AND A300C4-600R SERIES"
+NOTE 3,"Airworthines Limitations/Maintenance Instructions 
+ - Safe Life Airworthiness Limitations are provided in the A300-600 Airworthiness Limitation Section (ALS) 
+ Part 1 EASA approvedref. A300-600 ALS Part 1 
+ - Damage Tolerance Airworthiness Limitations items are provided in the EASA approved Airbus document 
+ ref. AI/SE-M2/95A.0502/06 
+ -Maintenance Tasks to comply with Certification Maintenance Requirements (CMR’s) are listed in the A300- 
+ 600 EASA approved Airbus document AI/ST5/829/85, which is included in appendix 1 of the Maintenance 
+ Review Board Report.were is the A300/310 language. 
+ - Ageing system maintenance items are provided in the EASA approved A300-600 Airworthiness Limitation 
+ Section (ALS) Part 4 ref A300-600 ALS Part 4 
+ - Fuel Airworthiness Limitations are provided in the EASA approved FAL document ref. 95A.1929/05 
+ -Mandatory structural inspections (Airworthiness Limitations Items) for models A300-600 series are quoted in 
+ the March 2000issue of the A300-600 Maintenance Review Bords Report Appendix1. Additional inspections 
+ ares detailed in the EASA approved Airbus document SE-M2/95A.0575/98 issue4 dated June 2000."
+NOTE 4,"The A300 B4-600 basic definition for US Import Certification is contained in document 
+ A1/EA-A No. 413-347/88. The A300B4-600R basic definition for US Import 
+ Certification is contained in document A1/EA-A No. 413-346/88. 
+ The A300F4-605R basic definition for US Import Certification is contained in document 
+ AI/EA-T 414-0326/94. 
+ The A300F4-622R basic definition for US Import Certification is contained in document 
+ AI/EA-N 415-1229/00 issue 2, dated July 7, 2000. 
+ The A300C4-605R Variant F basic definition for US Import Certification is contained in document EAW 
+ 414.0186/02."
+NOTE 5,"ETOPS: The type design, reliability and performance of the following airframe-engine combinations have 
+ been evaluated in accordance with AC120-42A and found suitable for (180 minute maximum diversion 
+ time) Extended Range Operations with the incorporation of the corresponding approved airplane 
+ configuration CMP document listed below: 
+ A300B4-605R: AI/EA3001, Revision 3, approved July 27, 1990 
+ A300F4-605R: AI/EA3001, Revision 4, approved Sept. 15, 1995 
+ A300F4-622R: AI/EA3001, Revision 5, approved July 14, 2000 
+ This finding does not constitute approval to conduct extended range operations. Operational 
+ approval must be obtained from the FAA by the operator. 
+ Any ETOPS approval for new aircraft model wherein the application was sent to FAA prior to 
+ February 15, 2007 is to be proceeded with the ETOPS approval against 14 CFR 25.1535 that have 
+ not yet already been approved under the provisions of AC120-42A."
+NOTE 6,"The following FAR 36 Noise Certification by Model reflects required as well as Airbus voluntary updated 
+ compliance to later FAR-36 amendments. 
+ - If modifications 13219 (New Noise Chapter 4 Requirements) is embodied on a Type A300 Model B4- 
+ 605R, F4-622R, F4-605R, C4-605R the aircraft is compliant with amendment 36-27 and certificated to Stage 
+ 4 Noise requirements. 
+ Group 
+ Series 
+ Specific Model 
+ Date Certified 
+ Amendment Level 
+ VIII 
+ A300-B4-600 
+ A300B4-601 
+ 3/28/1988 
+ 36-14 
+ A300B4-603 
+ 9/19/1988 
+ 36-15 
+ A300B4-620 
+ 9/19/1988 
+ 36-15 
+ A300B4-622 
+ 1/21/2003 
+ 36-24 
+ IX 
+ A300-B4- 
+ A300B4-605R 
+ 3/28/1988 
+ 36-14 
+ 600R 
+ A300B4-622R 
+ 8/01/1991 
+ 36-18 
+ X 
+ A300-F4-600R 
+ A300F4-605R 
+ 4/27/1994 
+ 36-20 
+ A300F4-622R 
+ 7/14/2000 
+ 36-22 
+ XI 
+ A300-C4- 
+ A300C4-605R 
+ 6/21/2002 
+ 36-23 
+ 600R 
+ Variant F"
+NOTE 7,"This exemption does not grant relief from the related operational requirements contained in §§ 121.1117, 
+ 125.509, or 129.117. Should a person choose to operate an Airbus A300, Model B4-605R or B4-622R 
+ airplane under part 129 (U.S. registered only), 121 or 125 beyond the operational compliance deadlines as 
+ stated in §§ 121.1117, 125.509, or 129.117, (Fuel Tank Flammability) that person will be required to comply 
+ with those operational requirements. Those operational requirements require a design change to the center 
+ fuel tank that either reduces its flammability to the level required by § 26.33(c)(1)(i) or provides a means to 
+ mitigate the effects of an ignition of fuel vapors to the level required by § 26.33(c)(2). See Exemption 9950 
+ for background information on this issue. 
+ XII. A310-200 Series (A310-221, A310-222 and A310-203 approved February 21, 1985, A310-204 approved January 8, 2001)"
+Engines,"2 Pratt & Whitney JT90-7R4D1 (A310-221) (FAA Data Sheet E3NE), 
+ 2 Pratt & Whitney JT9D-7R4E1 (A310-222) (FAA Data Sheet E3NE), 
+ 2 General Electric CF6-80A3 (A310-203) (FAA Data Sheet E13NE), 
+ 2 General Electric CF6-80C2A2 (A310-204) (FAA Data Sheet E13NE)."
+APU,Airesearch GTCP 331-250(F) (Specification 31-2891)
+Fuel,"(a) The following fuels are eligible for engines and APU: 
+ MIL-T-5624H 
+ Grades JP-4 or JP-5 
+ AST-MD-1655-65T 
+ Grades Jet A1 (JP-1) and Jet B 
+ AST-ES-2-74 
+ Grades Jet A, A1 and Jet B 
+ GOST 10227-86 
+ Grade TS-1 
+ GOST 10227-86 
+ Grade RT-1 
+ French specifications are: 
+ Air 3404 
+ Air 3407 
+ Air 3405 
+ With JP-4 or Jet B fuel, the following limitations apply: 
+ (1) Maximum altitude of 15,000 ft with gravity fuel supply from inboard tanks. 
+ (2) Maximum altitude of 20,000 ft with gravity fuel supply from outboard tanks. 
+ (b) The following additives may be used in approved fuels for engines and APU: 
+ (1) Philips PFA-55MB or anti-icing additive to specifications 
+ MIL-I-278686 E at a concentration not in excess of 0.15 percent by volume. 
+ (2) Sohio Biobor JF biocide additive at a concentration not in excess of 20 ppm 
+ elemental boron (270 ppm total additive). 
+ (3) Shell ASA-3 anti-static additive at a concentration that will provide not in 
+ excess of 300 conductivity units which is approximately equivalent to one 
+ ppm. 
+ (4) For Pratt & Whitney engines following additives may be used in RT or TS-1 
+ fuel grades: 
+ I and I-M 
+ TGF and TGF-M"
+Oil,"(a) The following oils are eligible for the CF6-80A3 engine and for the 
+ JT9D-7R4D1/E1 engines, respectively. 
+ Synthetic type conforming to GE specifications D50TF1, 
+ Classes A or B. (GE Service Bulletin No. 79-1 lists approved brand oils.) 
+ Synthetic type conforming to PW specification 521C (PW Service Bulletin No. 238 lists 
+ approved brand oils). 
+ (b) The following oil is eligible for the APU: 
+ See Maintenance Manual AIRESEARCH GTCP 331-250, Chapter 49.21.00 
+ Table 2."
+Engine Limits,"GENERAL 
+ GENERAL 
+ PRATT & 
+ PRATT& 
+ ELECTRIC 
+ ELECTRIC 
+ WHITNEY 
+ WHITNEY 
+ CF6-80A3 
+ CF6-80C2A2 
+ JT90-7R4D1 
+ JT9D-7R4E1"
+Takeoff 5 minup to 87ºF,"48,970 lb 
+ 52,460 lb 
+ 48,000 lb 
+ 50,000 lb 
+ 45,800 lb 
+ 48,080 lb 
+ 45,800 lb 
+ 47,500 lb"
+N1 Low compressor,"4,016 rpm (117%) 
+ 3,854 rpm (117.5%) 
+ 3,810rpm (105.8%) 
+ 3,810 rpm (105.8%)"
+N2 High compressor,"10,859 rpm (110.5%) 
+ 11,055 rpm (112.5%) 
+ 8,000 rpm (102.5%) 
+ 8,000 rpm (102.5%)"
+Takeoff 5 min,"940ºC 
+ 960ºC 
+ 625ºC 
+ 635ºC 
+ 895ºC 
+ 925ºC 
+ 600ºC 
+ 610ºC 
+ 625ºC 
+ 636ºC"
+Acceleration 2 min,"870ºC 
+ 870ºC 
+ 535ºC 
+ 535ºC"
+Starting,"750ºC 
+ 750ºC 
+ 535ºC 
+ 535ºC"
+Oil maximun permissible,"160ºC 
+ 160ºC 
+ 135ºC 
+ 135ºC"
+Continuous Operation,"175ºC 
+ 175ºC"
+Transient operation,"163ºC 
+ 163ºC"
+APU Limits,"- Power rating maximum at sea level: 
+ 98.5 KW 
+ - Maximum operating speed: 
+ 43,562 rpm 
+ - Maximum gas temperature at turbine outlet: 
+ 585ºC"
+Airspeed Limits IAS,"BASIC MODEL 
+ VARIANT 04 VARIANT 101 VARIANT 104 VARIANT 107 
+ VARIANT 01"
+MAXIMUM OPERATING MACH,"0.84 
+ 0.84 
+ 0.84 
+ 0.84 
+ 0.84"
+MAXIMUM OPERATING SPEED,"360* 
+ 340 
+ 360* 
+ 340 
+ 360*"
+"*VMO = 340 Kt for A310-203 and –204 models with less than 2 tons fuel in one of the outer tanks. 
+ VA (Maneuvering speed): refer to EASA-approved US Airplane Flight Manual Chapter 2.03. 
+ VFE 
+ SLATS º 
+ FLAPS (º) 
+ VFE (kt) 
+ 15 
+ 0 
+ 245 
+ 15 
+ 15 
+ 210 
+ 20 
+ 20 
+ 195 
+ 30 
+ 40 
+ 180 
+ VLO 
+ Gear extension . . . . . . . . . . . . . . 270 Kt 
+ Gear retraction . . . . . . . . . . . . . . 270 Kt 
+ VLE Landing gear extended . . . . . . . 270 Kt or M=0.59 
+ A310-203 
+ A310-204 
+ A310-221 
+ A310-222 
+ Inflight  VMCA 
+ 109 KCAS 
+ 115 KCAS 
+ 106 KCAS 
+ 109 KCAS 
+ Take off  VMCG 
+ 105 KCAS 
+ 111 KCAS 
+ 103 KCAS 
+ 105KCAS 
+ Tire Speed Limit (Ground speed limit): 195.5 kt (225 mph) 
+ CG Range 
+ For C.G. envelopes, see EASA Approved US Flight Manual. 
+ Maximum Weights 
+ A310-203, A310-221 
+ A310-203, A310-221, 
+ A310-222 
+ A310-222 
+ BASIC MODEL 
+ VARIANT 01 
+ VARIANT 04 
+ (with Mod. 3703) 
+ (with Mod. 5124) 
+ kg 
+ lb 
+ kg 
+ lb 
+ kg 
+ lb 
+ Taxi Weight 
+ 132,900 
+ 292,991 
+ 139,500 
+ 307,542 
+ 142,900 
+ 315,037 
+ Takeoff Weight 
+ 132,000 
+ 291,007 
+ 138,600 
+ 305,558 
+ 142,000 
+ 313,053 
+ Landing Weight 
+ 118,000 
+ 261,247 
+ 121,500 
+ 267,859 
+ 121,500 
+ 267,859 
+ Zero Fuel Weight 
+ 108,500 
+ 239,201 
+ 111,500 
+ 245,813 
+ 111,500 
+ 245,813 
+ A310-204 
+ A310-204 
+ A310-204 
+ VARIANT 101 
+ VARIANT 104 
+ VARIANT 107 
+ (with Mod. 6527) 
+ (with Mod. 6528) 
+ (with Mods. 6527 and 
+ 7290) 
+ kg 
+ lb 
+ kg 
+ lb 
+ kg 
+ lb 
+ Taxi Weight 
+ 139,500 
+ 307,500 
+ 142,900 
+ 315,000 
+ 134,900 
+ 297,450 
+ Takeoff Weight 
+ 138,600 
+ 305,600 
+ 142,000 
+ 313,100 
+ 134,000 
+ 295,470 
+ Landing Weight 
+ 122,000 
+ 269,000 
+ 122,000 
+ 269,000 
+ 122,000 
+ 269,000 
+ Zero Fuel Weight 
+ 112,000 
+ 246,960 
+ 112,000 
+ 246,960 
+ 112,000 
+ 246,960 
+ Minimum Flight Weight 
+ 80,000 kg (176,400lb). 
+ Minimum Crew 
+ For all flights: 2 pilots 
+ Maximum Passengers 
+ 265 or 255 when overwing exit is configured as a Type III. For seating arrangement 
+ refer to AIRBUS specification TL 25/1110/74 
+ Maximum Baggage 
+ Forward compartment - Maximum load: 
+ 27,999 lbs 
+ Aft compartment - Maximum load: 
+ 20,999 lbs 
+ Bulk compartment - Maximum load: 
+ 6,107 lbs 
+ Fuel Capacity 
+ Location 
+ (Usable fuel 6.676 lb/gal) 
+ Arm 
+ (lb) 
+ (US gal) 
+ (inches) 
+ Outboard Tanks 
+ 13,220 
+ 1,980 
+ 1181.5 
+ Inboard Tanks 
+ 49,300 
+ 7,384 
+ 1019.53 
+ Center Tanks 
+ 34,680 
+ 5,194 
+ 963.3 
+ TOTAL 
+ 97,200 
+ 14558 
+ 1021.5 
+ Fuel Management 
+ Fuel must be loaded symmetrically in outboard tanks first; fuel must be 
+ used from inboard tank first. Maximum allowable wing fuel 
+ asymmetry is 4,410 lb (refere to latest EASA approved AFM revision). 
+ Oil Capacity 
+ GE Engine oil capacity 25.02 lb/engine usable (at 8.1 lb/gal) with engine mount arm 
+ 842.8 inches. 
+ PW - Engine oil capacity 33.40 lb/engine usable (at 8.1 lb/gal) with engine moment arm 
+ 899.7 inches. 
+ Maximum Operating Altitude 
+ 41,000 ft. 
+ Equipment 
+ The basic required equipment as prescribed in the applicable Federal Aviation 
+ Regulations must be installed in the aircraft. Airbus Equipment List AI/V-C 895/85 as 
+ revised identifies all required equipment and all optional equipment approved by the 
+ Direction General de l'Aviation Civile (D.G.A.C.) of France. In addition, the 
+ following is required: 
+ EASA-Approved US Airplane Flight Manual. 
+ Other Information 
+ See ""Data Pertinent to all A310 Models"" 
+ XIII. A310-300 Series (A310-322 Approved June 10, 1987; A310-324 Approved June 10, 1987; A310-304 
+ Approved February 12, 1988, A310-325 Approved March 22, 1996) (Transport Aircraft)",
+Engines,"2 Pratt and Whitney JT9D-7R4E1 (A310-322) (FAA Data Sheet E3NE) or 
+ 2 Pratt and Whitney PW 4152 (A310-324) (FAA Data Sheet E24NE) or 
+ 2 General Electric CF6-80C2A2 (A310-304) (FAA Data Sheet E-13NE) 
+ 2 Pratt and Whitney PW4156A (A310-325) (FAA Data Sheet E24NE)"
+APU,Airesearch GTCP 331-250(H) (Specification 31-2891)
+Fuel,"(a) The following fuels are eligible for engines and APU: 
+ MIL-T-5624H 
+ Grades JP-4 or JP-5 
+ AST-MD-1655-65T 
+ Grades Jet A1 (JP-1) and Jet B 
+ AST-ES-2-74 
+ Grades Jet A, A1 and Jet B 
+ GOST 10227-86 
+ Grades TS-1 
+ GOST 10227-86 
+ Grades RT 
+ French specifications are: 
+ Air 3404 
+ Air 3407 
+ Air 3405 
+ With JP-4 or Jet B fuel, the following limitations apply: 
+ (1) Maximum altitude of 15,000 ft with gravity fuel supply from 
+ inboard tanks. 
+ (2) Maximum altitude of 20,000 ft with gravity fuel supply from 
+ outboard tanks. 
+ (b) The following additives may be used in approved fuels for engines 
+ and APU: 
+ (1) Philips PFA-55MB or anti-icing additive to specifications 
+ MIL-I-278686 E at a concentration not in excess of 0.15 
+ percent by volume. 
+ (2) Sohio Biobor JF biocide additive at a concentration not in 
+ excess of 20 ppm elemental boron (270 ppm total additive). 
+ (3) Shell ASA-3 anti-static additive at a concentration that will 
+ provide not in excess of 300 conductivity units which is 
+ approximately equivalent to one ppm. 
+ (4) For Pratt & Whitney engines and APU, the following 
+ additives may be used in RT or TS-1 fuel grades: 
+ anti-ice additives 
+ 1 and 1-M 
+ TGF and TGF-M"
+Oil,"(a) The following oils are eligible for the CF6-80C2A2 engines, for 
+ the PW JT9D-7R4E1 and for the PW 4152 and PW 4156A engines respectively: 
+ Synthetic type conforming to GE specification D50TF1, 
+ (GE Service Bulletin No. 79-1 lists approved brand oils.) 
+ Synthetic type conforming to PW specification 521C (PW 
+ Service Bulletin No. 238 lists approved brand oils). 
+ (b) The following oil is eligible for the APU: 
+ See Maintenance Manual AIRESEARCH GTCP 331-250, 
+ Chapter 49.21.00 Table 2."
+Engine Limits,"PRATT AND 
+ PRATT AND 
+ PRATT & 
+ GENERAL 
+ WHITNEY 
+ WHITNEY 
+ WHITNEY 
+ ELECTRIC 
+ PW 4156A 
+ PW 4152 
+ JT9D-7R4E1 
+ CF6-8C2A2"
+Takeoff 5 minup to 87ºF,"56,000 lb 
+ 52,000 lb 
+ 50,000 lb 
+ 52,460 lb 
+ 49,200 lb 
+ 49,200 lb 
+ 47,500 lb 
+ 48,080 lb"
+N1 Low compressor,"4,012 rpm (111.4%) 
+ 4,012 rpm (111.4%) 
+ 3,810rpm (105.8%) 
+ 3,854 rpm (117.5%)"
+N2 High compressor,"10,450 rpm (105.5%) 
+ 10,300 rpm (104%) 
+ 8,000 rpm (102.5%) 
+ 11,055 rpm (112.5%)"
+Takeoff 5 min,"650ºC 
+ 625ºC 
+ 635ºC 
+ 960ºC 
+ 625ºC 
+ 600ºC 
+ 610ºC 
+ 925ºC 
+ 650ºC 
+ 625ºC 
+ 635ºC"
+Starting,"535ºC 
+ 510ºC 
+ 535ºC 
+ 870ºC"
+º up to 40 sec,"535ºC 
+ 510ºC 
+ 535ºC 
+ 750ºC"
+outlet temperature,"163ºC 
+ 163ºC 
+ 135ºC 
+ 160ºC"
+Transient operation,"177ºC 
+ 177ºC 
+ 163ºC 
+ 175ºC"
+APU Limits,"- Power rating maximum at sea level: 
+ 98.5 KW 
+ - Maximum operating speed: 
+ 43,562 rpm 
+ - Maximum gas temperature at turbine outlet: 
+ 585ºC"
+Airspeed Limits IAS,"BASIC 
+ VARIANT 08 
+ MODEL 
+ VARIANT 01 
+ VARIANT 05 
+ VARIANT 12"
+MAXIMUM OPERATING MACH MMO,"0.84 
+ 0.84"
+MAXIMUM OPERATING SPEED VMO Kt,"360 
+ 340 
+ VA(Maneuvering speed): refer to EASA-approved US Airplane Flight Manual Chapter 2.03."
+SLATS º,"FLAPS (º) 
+ VFE (kt) 
+ 15 
+ 0 
+ 245 
+ 15 
+ 15 
+ 210 
+ 20 
+ 20 
+ 195 
+ 40 
+ 40 
+ 180"
+VLO,"Gear extension . . . . . . . . . . . . . . 270 Kt 
+ Gear retraction . . . . . . . . . . . . . . 270 Kt 
+ VLE Landing gear extended . . . . . . . 270 Kt or M=0.9 
+ A310-322 
+ A310-324 
+ A310-304 
+ A310-325"
+Inflight  VMC,"109 KCAS 
+ 115 KCAS 
+ 115.5 KCAS 
+ 121 KCAS (*)"
+Take off  VMCG,"105 KCAS 
+ 111 KCAS 
+ 111 KCAS 
+ 117 KCAS 
+ (*) Values at Zp = 0 ft. m the AFM, these values are scheduled with altitude. 
+ Tire Speed Limit (Ground speed limit): 195.5 kt (255 mph)"
+CG Range,"For C.G. envelopes, see EASA Approved US Flight Manual."
+Maximum Weights,"BASIC 
+ VARIANT 01 
+ VARIANT 05 
+ VARIANT 08 
+ VARIANT 12 
+ MODEL 
+ (with Mod. 5616) 
+ (with Mod. 7088) 
+ (with Mod. 8130, only 
+ (with Mod. 11103, 
+ for model A310-325) 
+ only for model A310- 
+ 324) 
+ kg 
+ lb 
+ kg 
+ lb 
+ kg 
+ Lb 
+ kg 
+ lb 
+ kg 
+ Lb"
+Taxi Weight,"150,900 
+ 332,735 
+ 153,900 
+ 339,350 
+ 157,900 
+ 363,604 
+ 164,900 
+ 348,170 
+ 160,900 
+ 354,784"
+Takeoff Weight,"150,000 
+ 330,750 
+ 153,000 
+ 337,365 
+ 157,000 
+ 361,620 
+ 164,000 
+ 346,185 
+ 160,000 
+ 352,800"
+Landing Weight,"123,000 
+ 271,215 
+ 123,000 
+ 271,215 
+ 124,000 
+ 273,420 
+ 124,000 
+ 273,420 
+ 124,000 
+ 273,420"
+Zero Fuel Weight,"113,000 
+ 249,165 
+ 113,000 
+ 249,165 
+ 114,000 
+ 251,370 
+ 114,000 
+ 251,370 
+ 114,000 
+ 251,370"
+Minimum Flight Weight,"80,000 kg. (176,400 lb)"
+Minimum Crew,For all flights: 2 pilots
+Maximum Passengers,"265 - For seating arrangement refer to AIRBUS 
+ specification TL 25/1110/74"
+Maximum Baggage,"Forward compartment - Maximum load: 
+ 27,999 lbs 
+ Aft compartment - Maximum load: 
+ 20,999 lbs 
+ Bulk compartment - Maximum load: 
+ 6,107 lbs"
+Fuel Capacity,"Location 
+ (Usable fuel 6.676 lb/gal) 
+ Arm 
+ (lb) 
+ (US gal) 
+ (inches) 
+ Outboard Tanks 
+ 13,051 
+ 1,955 
+ 1181.1 
+ Inboard Tanks 
+ 49,209 
+ 7,371 
+ 1018.9 
+ Center Tanks 
+ 34,642 
+ 5,189 
+ 963.3 
+ Trim Tank 
+ 10,848 
+ 1,625 
+ 1890.5 
+ TOTAL 
+ 107,750 
+ 16,140 
+ 1108.4 
+ For aircraft equipped with Auxiliary Centre Tank, refer to Note 8."
+Fuel Management,"Fuel must be loaded symmetrically in outboard tanks first; fuel must be used from 
+ inboard tank first. Maximum allowable wing fuel asymmetry is 4,410 lb (refere to latest 
+ EASA approved AFM revision)."
+Oil Capacity,"PW - JT9D-7R4E1 - Engine oil capacity 33.40 lb/engine usable (at 8.1 lb/gal) with 
+ engine moment arm 899.7 inches. 
+ PW 4152 and PW 4156A - Engine oil capacity 28.44 lb/engines usable (at 8.1 lb gal) 
+ with engine moment arm 900.24 inches. 
+ GE CF6-80C2A2 - Engine oil capacity 25.02 lb/engine usable (at 8.l lb/gal) with engine 
+ moment arm 840.4 inches."
+Maximum Operating Altitude,"41,000 ft."
+Equipment,"The basic required equipment as prescribed in the applicable Federal Aviation 
+ Regulations must be installed in the aircraft. Airbus Equipment List Document A1/EA- 
+ A No. 413.601/87 as revised identifies all required equipment and all optional equipment 
+ approved by the Direction General de l'Aviation Civile (D.G.A.C.) of France. In 
+ addition, the following is required: 
+ EASA-Approved US Airplane Flight Manual."
+Other Information,"See ""Data Pertinent to all A310 Models"""
+"DATA PERTINENT TO ALL A310 MODELS 
+ Datum 
+ Station 0 (251.26 inches forward of fuselage nose) 
+ MAC 
+ 229.48 inches (leading edge of MAC: Sta. 992) 
+ Leveling Means 
+ Clinometer on the cabin seat track rails. 
+ Serial Numbers Eligible 
+ A French ""Certificat de Navigabilite pour Exportation"" endorsed as noted under ""Import 
+ Requirements"" must be submitted for each individual aircraft for which application for 
+ U.S. certification is made. 
+ Import Requirements 
+ An FAA Standard Airworthiness Certificate may be issued on the 
+ basis of a French ""Certificat de Navigabilite pour Exportation"" signed by a representative 
+ of the Direction Generale de 'Aviation Civile (D.G.A.C.) of France, containing the 
+ following statement: ""The airplane covered by this certificate has been examined, tested 
+ and found to conform to the type design approved under Type Certificate No. A35EU 
+ and to be in condition for safe operation"".Refer to the applicable bilateral agreement to 
+ verify eligibility for import into the United States of both new and used aircraft based on 
+ the scope of the agreement, to identify any required statements by the exporting authority 
+ on the export certificate of airworthiness (or equivalent document), and for procedures 
+ for coordinating exceptions to conformity statements on these documents. Refer to FAA 
+ Order 8130.2, Airworthiness Certification of Aircraft, for requirements for issuance of an 
+ airworthiness certificate for imported aircraft. 
+ Certification Basis 
+ (a) FAR Part 25: Amendment 1 through 21 Basic; 
+ Amendment 22 through 45 (elected) except for 25.109 and 25.631; 
+ Amendment 46 (elected) for paragraph 25.803, and 25.809(f)(1)(v); 
+ Amendment 47 (elected) for paragraph 25-809(f)(1)(iii); 
+ Amendment 49 (elected) for paragraph 25.733; 
+ Amendment 54 (elected) for paragraph 25.365(e)(1) and (e)(2). 
+ For the A310-300 series and the Model A310-204 (vertical stabilizer only): FAR 
+ 25.631, Amendment 25-23 is included in the above certification basis. 
+ (b) For precision approach and landing, the applicable technical requirements are 
+ complemented by AC 120-29 and AC 120-28C. 
+ For the automatic flight control system, the applicable technical requirements are 
+ complemented by AC 20-57A for automatic landing and by AC 25.1329-1A for 
+ cruise. 
+ (c) ICAO Annex 16, Vol II, Aircraft Engine Emissions (fuel venting requirements). 
+ (d) Compliance with the following optional requirements has been established: 
+ Ditching provisions FAR 25.801 
+ Ice Protection Provisions FAR 25.1419. 
+ (e) An equivalent level of safety was found for FAR 25.813(c), 25.807 and 25.809 
+ through A310 issue paper CI-3. This finding is applicable to both the A310-200 
+ and A310-300 series. 
+ (f) An equivalent level of safety was found for FAR 25.173(c) and 25.175(c) through 
+ A310 issue paper F-1. This finding is applicable to both the A310-200 and A310- 
+ 300 series. 
+ (g) For the A310-200 series: The French/German complementary conditions (DGAC 
+ letter 53781). 
+ (h) Aircraft Noise: 
+ - For the A310-200 series (except the Model A310-204): FAR Part 
+ 36 through Amendment 36-12. 
+ - For the Model A310-204: FAR Part 36 through Amendment 36-22. 
+ - For the A310-300 series : FAR Part 36 through Amendement 36-12 
+ - If modifications 13219 (New Noise Chapter 4 Requirements) is embodied on a 
+ Type A310 Model -204, -304 the aircraft is compliant with amendment 36-27 and 
+ certificated to Stage 4 Noise requirements. 
+ (i) 
+ For the A310-300 model: FAA Special Conditions for the A310-300 published in 
+ the Federal Register 17 June 1987 through Special Conditions 25-ANM-12 on 
+ lightning protection, protection from 
+ unwanted effects of radio frequency energy, and the propulsion control system. 
+ (j) For the A310-300 model: Environmental Standards except Noise : 
+ (1) SFAR 27-5 
+ Based on 14 CFR § 21.29(a) for new import TCs, or § 21.101(g) for changes to TCs, 
+ applicable provisions of part 26 are included in the certification basis. For any future 14 
+ CFR part 26 amendments, the holder of this TC must demonstrate compliance with the 
+ applicable sections 
+ Exemption 10070 
+ This exemption grants relief from having to meet the requirements of § 26.33 
+ See NOTE(7) 
+ DGAC originally type cerificated this A310 under its type certificate number N°72, 
+ TCDS N°145. The FAA validated this product under U.S. Type Certificate Number 
+ A35EU. Effective September 28, 2003, the European Aviation Safety Agency (EASA) 
+ began oversight of this product on behalf of DGAC. 
+ NOTES TO ALL A310 MODELS 
+ NOTE 1 
+ NOTE 2 
+ NOTE 3 
+ Airworthines Limitations/Maintenance Instructions 
+ - Safe Life Airworthiness Limitations items are provided in the A310 Ariworthiness 
+ Limitations Section (ALS) Part 1 approved by EASA ref A310 ALS document 
+ - Damage Tolerance Airworthiness Limitations items are provided in the EASA approved 
+ Airbus document ref Airbus document AI/SE-M2/95A.0263/06. 
+ - Mandatory systems related tasks (Certification Maintenance Requirements) for the 
+ A310-200 and A310-300 series are quoted in the EASAapproved Airbus 
+ document AI/ST5/849/85, Section 1. 
+ - Ageing system maintenance items are provided in the A310 Airworthiness Limitation 
+ Section (ALS) Part 4 approved by EASA ref. A310 ALS document. 
+ - Fuel Airworthiness Limitations are provided in the EASA approved FAL document ref. 
+ Airbus document 95A.1930/05. 
+ - Maintenance Review Board Report 
+ NOTE 4 
+ Cabin Equipment: Seats and galleys must be designed in accordance with AIRBUS 
+ specifications: TL 25/1110/74 and TL 25/1109/74. 
+ NOTE 5 
+ If modifications 4941, 5502, 5429, 5428, 5757, 5953 are embodied, the aircraft is 
+ certificated for Category III precision approach (fail operational system). 
+ NOTE 6 
+ The A310-200 series basic definition for U.S. import certification, except Model A310- 
+ 204, is contained Document AI/V-C131/85. The Model A310-204 basic definition for 
+ U.S. import certification is contained Document AI/EA-N No. 415.2342/00. 
+ The A310-300 basic definition for U.S. import certification is contained in Document 
+ AI/EA-A No. 948/86. 
+ NOTE 7 
+ ETOPS for the A310-221 and A310-222: The type design, reliability and performance of 
+ these airframe-engine combinations has been evaluated in accordance with AC120-42A 
+ and found suitable for (180 minute maximum diversion time) Extended Range 
+ Operations with the incorporation of the corresponding approved airplane configuration 
+ CMP document (AI/EA3001, Revision 3, approved July 27, 1990 + TR approved Feb. 
+ 27, 1991). This finding does not constitute approval to conduct extended range 
+ operations. Operational approval must be obtained from the FAA by the operator. 
+ ETOPS for the A310-324: The type design, reliability and performance of these airframe- 
+ engine combinations has been evaluated in accordance with AC120-42A and found 
+ suitable for (120 minute maximum diversion time) Extended Range Operations with the 
+ incorporation of the corresponding approved airplane configuration CMP document 
+ (AI/EA3001, Revision 2, approved March 1, 1990). This finding does not constitute 
+ approval to conduct extended range operations. Operational approval must be 
+ obtained from the FAA by the operator. 
+ Any ETOPS approval for new aircraft model wherein the application was sent 
+ to FAA prior to February 15, 2007 is to be proceeded with the ETOPS approval 
+ against 14 CFR 25.1535 that have not yet already been approved under the 
+ provisions of AC120-42A. 
+ NOTE 8 
+ For A310-300 series airplanes: Modifications 6920 and 7468 provide for 
+ installation in the aft cargo compartment of respectively 1 and 2 Auxiliary Center 
+ Tanks (ACT) with the following characteristics : 
+ Tank 
+ Unusable fuel 
+ Usable fuel 
+ ACT 1 
+ 59.5 lb (27 kg) 
+ 12,698.5 lb (5760 kg) 
+ ACT 2 
+ 59.5 lb (27 kg) 
+ 12,698.5 lb (5760 kg) 
+ For corresponding limitations and associated procedures refer to the US Airplane Flight 
+ Manual. 
+ NOTE 9 
+ This exemption does not grant relief from the related operational requirements contained 
+ in §§ 121.1117, 125.509, or 129.117. Should a person choose to operate an Airbus A310, 
+ Models 304, 322, 324, and 325 airplanes under part 129 (U.S. registered only), 121 or 
+ 125 beyond the operational compliance deadlines as stated in §§ 121.1117, 125.509, or 
+ 129.117, (Fuel Tank Flammability) that person will be required to comply with those 
+ operational requirements. Those operational requirements require a design change to the 
+ center fuel tank that either reduces its flammability to the level required by § 
+ 26.33(c)(1)(i) or provides a means to mitigate the effects of an ignition of fuel vapors to 
+ the level required by § 26.33(c)(2). See Exemption 10070 for background information 
+ on this issue. 
+ GENERAL NOTES: APPLICABLE TO ALL AIRCRAFT 
+ NOTE 1 
+ WEIGHT AND BALANCE 
+ (a) Current weight and balance report including list of equipment, entitled ""Aircraft 
+ Inspection Report,"" included in certificated empty weight, and loading instructions, 
+ must be in each aircraft at the time of original certification and at all times thereafter 
+ except in the case of operators having an approved weight control system. Airbus 
+ Report, ""Weight and Balance Manual,"" contains loading information for each 
+ airplane and interior arrangement configuration as delivered. This report contains, 
+ or refers to, information relative to location of all passengers and crew member 
+ seats, location and capacity of all cargo and baggage compartments, buffets, storage 
+ spaces and coat rooms, location and capacity of lounges, lavatories, and the required 
+ placards in the passenger compartment. 
+ (b) The airplane must be loaded so that the C.G. is within specified limits at all times, 
+ considering fuel loading and usage, gear retraction and movement of crew and 
+ passengers from their assigned positions. 
+ (c) The weights of system fuel and oil, as defined below, and hydraulic fluid, all of 
+ which must be included in the airplane empty weight, are listed for each airplane 
+ in the Weight and Balance Manual specified in paragraph (a) above. 
+ (d) System fuel is the weight of all fuel required to fill all lines and tanks up to the 
+ zero-fuel point on the fuel gages in the most critical flight attitude, including the 
+ unusable tank fuel as defined by FAR Part 25.959. (The usable fuel in the crossfeed 
+ manifold lines, manifolds, and engine that is not part of the system fuel, must be 
+ included in the total usable fuel to obtain correct weight and C.G. for takeoff). 
+ (e) The unusable fuel is that amount of fuel in the tanks which is unavailable to the 
+ engines under critical flight conditions as defined in FAR Part 25.959. This 
+ ""unusable"" fuel is included in System Fuel as indicated in (d) above and need not 
+ be accounted for separately. 
+ (f) System oil is the weight of oil remaining in the engine, constant speed drive, lines 
+ and tanks after subtracting the oil in the tanks which is above the standpipe (zero 
+ gauge) levels. The engine oil capacities shown elsewhere in this data sheet 
+ includes only the usable oil for which the tanks must be placarded. 
+ NOTE 2 
+ Reserved 
+ NOTE 3 
+ SERVICE INFORMATION 
+ Each of the documents listed below must state that it is approved by the European 
+ Aviation Safety Agency (EASA) or – for approvals made before September 28, 2003 – 
+ by the DGAC France, are accepted by the FAA and are considered FAA approved. 
+ Additionally, approvals issued by Airbus under the Authority of EASA approved Design 
+ Organization EASA.21J.031 - or for approvals made before September 28, 2003- under 
+ the authority of DGAC Design Organization Approval No. F.JA.02 are considered FAA 
+ approved. These approvals pertain to the type design only. 
+ • Airbus Service Bulletins, except as noted below, 
+ • Structural repair manuals, 
+ • Vendor manuals referenced in Airbus Service Bulletins, 
+ • US Aircraft flight manuals, 
+ • Repair Instructions 
+ Note: Airbus Service Bulletins which contain design changes classified as Level 1 Major 
+ or Non-Basic in accordance with the US/France Bilateral Aviation Safety Agreement 
+ Implementation Procedures for Airworthiness must be approved by the FAA in 
+ accordance with those procedures. 
+ NOTE 4 
+ IMPORT REQUIREMENTS: 
+ The FAA can issue a U.S. airworthiness certificate based on an NAA Export Certificate 
+ of Airworthiness (Export C of A) signed by a representative of [insert name of the State 
+ of Design/Manufacture National Aviation Authority] on behalf of the European 
+ Community. The Export C of A should contain the following statement: 
+ ‘The aircraft covered by this certificate has been examined, tested, and found to comply 
+ with [insert document identifier, title revision, etc.] approved under U.S. Type 
+ Certificate No. A35EU and to be in a condition for safe operation.’ 
+ NOTE 5 
+ AIRWORTHINESS DIRECTIVES: 
+ Some airworthiness directives refer to Model A300 B4-600, B4-600R, C4-600R and F4- 
+ 600R series airplanes as ""Model A300-600 series airplanes."" The Model A300-600 is the 
+ common model designation. The phrase ""Model A300 B4-600, B4-600R, F4-600R and 
+ C4-600R series airplanes"" collectively refers to Model A300B4-601, B4-603, B4-620, 
+ B4-622, B4-605R, B4-622R, F4-605R, F4-622R and C4-605R Variant F airplanes. 
+ Some airworthiness directives refer to Model A300 B2 and B4 series airplanes simply as 
+ ""Model A300"" series airplanes. The phrase ""Model A300 B2 and B4 series airplanes"" 
+ collectively refers to Model A300 B2-1A, B2-1C, B4-2C, B2K-3C, B4-103, B2-203 and 
+ B4-203 airplanes. 
+ Some airworthiness directives refer to Model A310-200 and A310-300 series airplanes as 
+ “Model A310 series airplanes,” the common model designation. The phrase “Model 
+ A310-200 and A310-300 series airplanes” collectively refers to Model A310-221, 222, 
+ 203, 204, and Model A310-322, 324, 304, and 325 airplanes. 
+ NOTE 6 
+ A300/A310 Airworthiness Limitations Sections (ALS): 
+ A/C Model ALS Part Revision Approval Date 
+ A300 ALS 02-dec-2008 
+ A300 ALS Part 1 01 05-sep-2013 
+ A300 ALS Part 2 02 03-oct-2014 
+ A300 ALS Part 5 00 27-may-2014 
+ A300-600 ALS 18-apr-2012 
+ A300-600 ALS Part 1 01 05-sep-2013 
+ A300-600 ALS Part 2 01 07-aug-2015 
+ A300-600 ALS Part 3 00 18-apr-2012 
+ A300-600 ALS Part 4 02 18-apr-2012 
+ A300-600 ALS Part 5 00 27-may-2014 
+ A310 ALS 02-dec-2008 
+ A310 ALS Part 1 01 05-sep-2013 
+ A310 ALS Part 2 01 07-aug-2015 
+ A310 ALS Part 3 00 30-nov-2012 
+ A310 ALS Part 4 02 30-nov-2012 
+ A310 ALS Part 5 00 27-may-2014 
+ For all these documents, “EASA-approved"" is considered equivalent to ""FAA-approved"". FAA approved 
+ variations to these documents associated with the type design of the airplane are normally included in next 
+ scheduled revision cycle by design approval holder (DAH).",

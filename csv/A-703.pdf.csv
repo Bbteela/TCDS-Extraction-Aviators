@@ -1,0 +1,229 @@
+Keyterm,Info
+"A-703 
+ Revision 5 
+ Piper Aircraft, Inc 
+ J4 
+ J4A 
+ J4A-S 
+ August 7, 2006",
+Type Certificate Holder,"Piper Aircraft, Inc. 
+ 2926 Piper Drive 
+ Vero Beach, Florida 32960"
+Type Certificate Holder Record,"The New Piper Aircraft, Inc transferred TC A-703 to Piper Aircraft, Inc on August 7, 
+ 2006."
+"I - Model J4, 2 PCLM, Approved October 26, 1938",
+Engine,Continental A-50-1 (See Item 301 for optional engines)
+Fuel,73 min. octane aviation gasoline
+Engine Limits,"For all operations, 1900 r.p.m. (50 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 100 mph True Ind."
+CAS,"Glide or dive 
+ 135 mph True Ind."
+Propeller Limits,Maximum permissible diameter 84 in.
+C G Range,"(+12.9) to (+21.0). 
+ See NOTE 3(a) for restricted limits on Serial Nos. 4-400 through 4-410."
+Empty weight C G Range,"(+15.1) to (+19.6) when standard fuel tank only is installed. 
+ (+15.1) to (+16.6) when auxiliary fuel tank (Item 306) is installed. 
+ Ranges are not valid for non-standard arrangements or for restricted C. G. limits per 
+ NOTE 3(a). When empty weight C. G. falls within the pertinent range, computation of 
+ critical fore and aft C. G. positions is unnecessary."
+Maximum Weight,1200 lbs.
+Number of Seats,"2 
+ (+19.5)"
+Maximum Baggage,105 lbs. (+43.5)
+Fuel Capacity,"16 gallons 
+ (-10.5)"
+Oil Capacity,1 gallon (-30)
+Control Surface Movements,Not available.
+Serial Numbers Eligible,"4-400 and up. 
+ (See NOTE 3 for additional limitations on Serial Nos. 4-400 through 4-452)."
+Required Equipment,"Items 101, 102, 103, 105, 106, and 107."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5"
+Rev No,"5 
+ 4 
+ 4 
+ 4 
+ 4"
+"II - Model J4A, 2 PCLM, Approved March 4, 1939 and Model J4A-S, 2 PCSM, Approved July 25, 1939",
+Engine,Continental A-65-1 (See Item 301 for optional engines)
+Fuel,73 min. octane aviation gasoline
+Engine Limits,"For all operations, 2350 r.p.m. (65 hp.)"
+Airspeed Limits,"Level flight or climb 
+ 100 mph True Ind. 
+ Glide or dive 
+ 135 mph True Ind."
+Propeller Limits,"Maximum permissible diameter - 
+ Landplane 
+ 84 in."
+with Item 101,"Seaplane 
+ 91 in."
+C G Range,"Landplane 
+ (+12.9) to (+21.0) 
+ Seaplane 
+ (+12.0) to (+20.0)"
+Empty Weight C G Range,"Landplane 
+ (+14.9) to (+19.8) with standard fuel tank only. 
+ (+14.9) to (+17.1) when auxiliary fuel tank (Item 306) is installed. 
+ Seaplane 
+ (+13.5) to (+18.4) with standard fuel tank only. 
+ (+13.5) to (+16.0) when auxiliary fuel tank (Item 306) is installed. 
+ When empty weight C. G. falls within the pertinent range, computation of critical fore 
+ and aft C. G. positions is unnecessary. Ranges are not valid for non-standard 
+ arrangements."
+Maximum Weight,"Landplane 
+ 1200 lbs. (See NOTE 3 regarding approval for 1301 lbs.) 
+ Seaplane 
+ 1350 lbs."
+Number of Seats,2 (+19.5)
+Maximum Baggage,105 lbs. (+43.5)
+Fuel Capacity,16 gallons (-10.5)
+Oil Capacity,1 gallon (-30)
+Control Surface Movements,Not available.
+Serial Numbers Eligible,"4-400 and up. 
+ (See NOTE 3 for additional limitations on Serial Nos. 4-400 through 4-452)."
+Required Equipment,"Landplane 
+ Items 101, 102, 103, 105, 106, and 107. 
+ Seaplane 
+ Items 101, 105, 106, 107, and 151."
+Data Pertinent to All Models,
+Datum,Leading edge of wing
+Leveling Means,"Level with 30 inch level (Front and 9 inches aft wing leading edge) against bottom of 
+ second rib out with back end blocked down ¼ inch."
+Certification Basis,Type Certificate No. 703 (CAR 4a)
+Production Basis,Approved for manufacture of spare parts only under Production Certificate No. 206.
+Export Eligibility,"Deleted as of - July 31, 1995"
+Equipment,"A plus (+) or minus (-) sign preceding the weight of an item of equipment indicates net weight change when 
+ that item is installed. 
+ Approval for the installation of all items of equipment listed herein has been obtained by the aircraft 
+ manufacturer except those items preceded by an asterisk (*). The asterisk denotes that approval has been 
+ obtained by someone other than the aircraft manufacturer. An item marked with an asterisk may not have 
+ been manufactured under an FAA monitored or approved quality control system, and therefore attention 
+ should be paid to workmanship and conformity with pertinent data called for in this specification."
+101,Propeller - wood (fixed pitch) +12 lbs. (-50)
+1,"+32 lbs. (-50) 
+ interchangeable blades see Prop. Spec. No. 804 (NOTE 6)."
+Diameter 72 in,"Pitch settings at 24 in. station: 
+ Low 12°, High 19°"
+Propeller  McCauley Model 1A90,"+26 lbs. (-50) 
+ Diameter: Not over 74 in., not under 72.5 in. 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2250, not under 2060. No additional tolerance permitted."
+3,"Propeller - Sensenich 74-FK-49 or any other fixed pitch 
+ +11 lbs. (-50) 
+ wood propeller which is eligible for the engine power and 
+ speed and which meets the following limits: 
+ Diameter: Not over 74 in., not under 72.5 in. 
+ Static r.p.m. at maximum permissible throttle setting: 
+ Not over 2175, not under 2075. No additional tolerance permitted."
+4,"Propeller - Sensenich M74CK fixed pitch metal 
+ +21 lbs. (-50)"
+(Models J4A and J4A-S with A65 engine),
+"No aircraft of these models shall be eligible for original certification with single ignition engines after August 1, 
+ 1941. In addition, no aircraft of these models shall be eligible for recertification with single ignition engines unless",
+107,"Enclosed type engine cowling with revised exhaust system 
+ +29 lbs. (-29) 
+ (Dwg. 659-C and D 7239-C) (Serial Nos. 4-828 and up only)"
+"*108. 
+ Oil filter, Fram Model PB-5, Kit No. 510, Dwg. No. 61542",
+301,(-27)
+a Model J4,"(1) A-50-2 
+ +6 lbs. 
+ (2) A-50-3 or A-50-8 
+ +10 lbs. 
+ (3) A-50-4 
+ +3 lbs. 
+ (4) A-50-5 or A-50-9 
+ +13 lbs. 
+ (5) A-50-6 
+ +16 lbs. 
+ (6) A-50-7 
+ No Weight Change"
+b Models J4A and J4AS,"(1) A-65-3 or A-65-8 
+ +10 lbs. 
+ Engine limits: For all operations, 2300 r.p.m. (65 hp.) 
+ (2) A-65-6 or A-65-9 
+ +13 lbs. 
+ Engine limits: For all operations, 2300 r.p.m. (65 hp.) 
+ (3) A-65-7 
+ No Weight Change 
+ Engine limits: For all operations, 2300 r.p.m. (65 hp.) 
+ (4) C-85-12 (J4A with Item 3 propeller) 
+ +17 lbs. 
+ Engine limits: For all operations, 2575 r.p.m. (85 hp.)"
+306,"(a) Auxiliary 9 gallon fuel tank installation 
+ +11 lbs. (+57) 
+ Placard fuel selector valve: ""Use main tank 
+ for takeoff and landing. In level flight, 
+ use auxiliary tank before using main."""
+b 5 quart oil capacity,No Weight Change
+309,"Revised engine mount (Dwg. D7060-E, Revision G) 
+ Neglect Weight Change 
+ for engines incorporating integral rubber shocks."
+Oil cooler Harrison Model He202,+5 lbs. (-42)
+102,"8.00-4 wheels with brakes (Goodrich 841) and tires 
+ +25 lbs. (+7)"
+103,"(a) Shock cord tail wheel installation, Dwg D311-E 
+ +7 lbs. (+174) 
+ (Serial Nos. 4-400 to 4-827, inclusive) 
+ (b) Leaf spring tail wheel installation, Dwg. D395-E or D3010-E 
+ +10 lbs. (+176) 
+ (Serial Nos. 4-828 and subsequent)"
+151,"Float installation, Edo 60-1320 (including one water rudder -165 lbs.) 
+ +106 lbs. (+6)"
+Wheel streamlines,+6 lbs. (+7)
+Parking brake Dwg D4159C,+3 lbs. (-5)
+"313. 
+ Skis (Eligible on any airplane of these models",
+"landplane or that shown in parenthesis after ski model,",
+a,Piper S-1000 (maximum 1200 lbs.)
+b,Fairbanks MF-5 (maximum 1310 lbs.)
+c,"Federal SA-1 or SA-2 (maximum 1200 lbs. and 1400 lbs., respectively)"
+d,"Federal SC-1 or SC-2 (maximum 1400 lbs. and 1650 lbs., respectively)"
+e,Aviation Service B (maximum 1650 lbs.)
+f,Air Transport 1220-480 (maximum 1220 lbs.)
+g,Air Transport 1460-580 (maximum 1460 lbs.)
+h,Marston MFS-1600 (maximum 1600 lbs.)
+i,Heath 655 (maximum 1210 lbs.)
+j,Heath 725 or 725A (maximum 1450 lbs.)
+k,Jack Carr Service 16 (maximum 1600 lbs.)
+l,Federal A-1500 or A-1500A (maximum 1500 lbs.) per Federal Dwg. 11R262
+m,Federal A-1850 (maximum 1850 lbs.) per Federal Dwg. 11R262
+n,Federal A-2000 or A-2000A (maximum 2000 lbs.) per Federal Dwg. 11R262
+o,"Wesco per Western Aircraft Equipment Company Dwg. Nos. 12 and 148: 
+ (1) 
+ A-15 (maximum 1500 lbs.) 
+ (2) 
+ A-20 or AS-2 (maximum 200 lbs.) 
+ (3) 
+ A-25, AS-2A or AS-2B (maximum 2500 lbs.)"
+104,"Battery and box, Exide 3-AC-7 or Willard SYR-7-3 
+ +9 lbs. (+16)"
+Battery 12V Willard SYR76,+15 lbs. (+16)
+315,"Generator, Wind-driven, Air Associates No. GE20 
+ +7 lbs. (+5)"
+Landing light Grimes retractable,+4 lbs. (+15)
+Miscellaneous instruments,+10 lbs. (-1)
+Flares,+9 lbs. (+31)
+Stainless steel tail surfaces,"Neglect Weight Change 
+ (Budd Dwgs. Nos. 13-6200, 13-6600, 13-6500)"
+308,"Modified aileron leading edge (Dwg. D4113-C) 
+ Neglect Weight Change"
+Corrosion proofing,+7 lbs.
+NOTE 1,"Current weight and balance report including list of equipment included in certificated empty weight, and loading 
+ instructions when necessary, must be in each aircraft at the time of original certification and at all times 
+ thereafter (except in the case of air carrier operators having an approved weight control system)."
+NOTE 2,"Placard fuel selector valve as follows, when auxiliary tank (Item 306(a)) is installed: 
+ ""Use main tank for takeoff and landing. In level flight, use auxiliary tank before using main."""
+NOTE 3,"(a) Model J4. Serial Nos. 4-400 to 4-410, inclusive, eligible with forward C. G. limit of only (+14.1) unless 
+ leading edge of stabilizer is set so that the bolts in the stabilizer yoke adjustment bracket are located in next 
+ to the bottom hole in the fitting as shown on Piper Dwg. D450-F. Executed Repair and Alteration Form 
+ required as evidence of compliance. 
+ (b) Model J4A. Serial Nos. 4-400 to 4-501, inclusive, must have the leading edge of the stabilizer set so that 
+ the bolts in the stabilizer yoke attachment brackets are located in the top hole of the fitting as shown on 
+ Piper Dwg. D450-F. Serial Nos. 4-460, 4-481, 4-502 and up are eligible at maximum weight of 1301 lbs. 
+ (c) Model J4A-S. Serial Nos. 4-460, 4-481, 4-502 and up eligible provided the leading edge of stabilizer 
+ yoke attachment brackets are located in next to the top hole of the fitting as shown on Piper Dwg. D450-F."

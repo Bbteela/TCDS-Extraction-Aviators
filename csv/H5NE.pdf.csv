@@ -1,0 +1,857 @@
+Keyterm,Info
+TCDS NUMBER H5NE,
+"REVISION 16 
+ DATE: October 29, 2021",
+"SIKORSKY AIRCRAFT 
+ MODEL: S-70A, S-70M",
+Type Certificate Holder,"Sikorsky Aircraft Corporation 
+ 6900 Main Street 
+ Stratford, CT 06615-9129"
+MODEL NUMBER,"S-70A (Restricted Category) Approved: 10/22/88 
+ (Derivative aircraft of U.S. Army Models UH-60A and UH-60L)"
+ENGINES,"2 General Electric T700-GE-701A (See Notes 5, 13 and 14 for optional engines.)"
+FUEL,"JP-4, JP-5, JP-8, Jet A, Jet A1, or Jet B"
+ENGINE LIMITS,"SHAFT HP 
+ POWER TURBINE 
+ GAS GEN 
+ TURBINE GAS 
+ (S.L. STD) 
+ RPM/% 
+ RPM/% 
+ TEMP.oC"
+Contingency Rated,"1,723 
+ 20,900/100 
+ 44,700/102 
+ 917"
+Maximum Rating,"1,715 
+ 20,900/100 
+ 44,700/102 
+ 882"
+Intermediate Rated,"1,694 
+ 20,900/100 
+ 44,700/102 
+ 867"
+Maximum,"1,510 
+ 20,900/100 
+ 44,700/102 
+ 804"
+TRANSMISSION LIMITS,"TORQUE 
+ 120% Single Engine 
+ 106% Dual Engine 
+ (no time limits)"
+ROTOR LIMITS,"POWER OFF: 
+ Maximum 110% 
+ Minimum 90% 
+ POWER ON: 
+ Maximum 107% 
+ Minimum 91% 
+ AIRSPEED LIMITS: Vne Power on: 193 knots IAS, (221 MPH). See appropriate Rotorcraft Flight Manual 
+ (Operators Manual) for variation of Vne with gross weight, pressure altitude and 
+ temperature. 
+ I I I I I I I I I I I I I I"
+PAGE,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 8. 
+ 9 
+ 10 11 12 13"
+REV,16 15 13 13 15 16 13 13 13 13 13 13 16
+CG RANGE,"347.7 
+ 360.2 
+ 22,000 
+ A 
+ I 
+ R 
+ C 
+ R 
+ A 
+ F 
+ T 
+ 15,900 
+ W 
+ E 
+ 345.5 
+ I 
+ 13,700 
+ G 
+ 13,400 
+ H 
+ T 
+ 13,050 
+ L 
+ 366.3 
+ B 
+ S 
+ 11,500 
+ 342.6 
+ 358.1 
+ INCHES AFT OF DATUM"
+DATUM,341.2 inches forward of the main rotor centroid.
+MAXIMUM WEIGHT,"22,000 lbs."
+MINIMUM CREW,"2 (pilot, copilot)"
+NUMBER OF SEATS,a. 2 at Sta. 227.1; 2 at Sta. 264.6; 1 at Sta. 280.4; 2 at Sta. 282.5; 2 at Sta.
+No Passengers Permitted,"300.5; 1 at Sta. 301.4; 4 at Sta. 334.3; 4 at Sta. 355.3; 4 at Sta. 387.2. 
+ b. OPTIONAL SEATING: 2 at Sta. 227.1; 1 at Sta. 262.0; 3 at Sta. 282.0; 3 at 
+ Sta. 320.7; 4 at Sta. 339.8; 4 at Sta.387.2"
+FUEL CAPACITY,"361.5 gallons; 2 tanks (LH & RH interchangeable). An additional 460 gallons 
+ (2x230 gallons) or 920 gallons (4x230 gallons) with external fuel tanks installed."
+OIL CAPACITY,7 quarts each engine.
+OTHER OPERATING,"TM 55-1520-237-10T S-70A Operator's Manual dated October 20, 1988, as"
+LIMITATIONS,"revised. For aircraft Serial Numbers 701825, 701835 and 702127, TM 55-1520- 
+ 237-10HK Operator's Manual, dated October 29, 1992, as revised, is applicable. 
+ For aircraft Serial Numbers 701129 and 702029, TM55-1520-237-10B 
+ Operator’s Manual, dated June 22, 1992, as revised, is applicable. For aircraft 
+ Serial Numbers 700029, 702129 and 702929, TM 1-70-29-10 Operator’s 
+ Manual, dated October 6, 1997, as revised, is applicable."
+SERIAL NUMBERS,"700029, 701129, 701322, 701325, 701327, 701329, 701331, 701333, 701592,"
+ELIGIBLE,"701593, 701594, 701595, 701613, 701614, 701825, 701835, 702029, 702127, 
+ 702129, 702929. 
+ FAR 21.25(a)(2), effective January 6, 1975, for the purpose of:"
+TYPE CERTIFICATION,"(1) Agriculture, FAR 21.25(b)(1)"
+BASIS,"(2) External Cargo, FAR 21.25(b)(7) 
+ (3) Forest and Wildlife Conservation FAR 21.25(b)(2) 
+ FAR 29, Amendments 29-1 through 29-17 for non-U.S. Army approved 
+ modifications. 
+ See Note 15 for Noise Requirements."
+PRODUCTION BASIS,Production Certificate No. 105 and 8S0.
+EQUIPMENT,"The following must be installed in each type helicopter for certification: 
+ (1) Sikorsky Rotorcraft Flight Manual (Operator's Manual) Publication TM 551520-237- 
+ 10T. (See Note 5.) For aircraft Serial Numbers 701825 and 701835, TM 55-1520-237- 
+ 10HK, dated October 29, 1992, as revised, is applicable. For aircraft Serial Number 
+ 701129, TM55-1520-237-10B, dated June 22, 1992, as revised, is applicable. 
+ (2) Removal and replacement of equipment in accordance with Sikorsky Aircraft Kit 
+ Drawing No. 70010-00003 (Dash number as applicable). (See Notes 5, 6, 7, 13 and 14) 
+ (3) Aircraft must be modified with Stabilator Amplifier P/N 70902-02001-048; Pitot 
+ Static Probe Support, Assembly P/N 70219-02141-041 (left side), -042 (right side); and 
+ Pitot Static Probe Fairing, Assembly P/N 70219-02141-043 (left side), -44 (right side)."
+II MODEL NUMBER,"S-70M (Restricted Category) Approved: February 11, 2019 
+ (Derivative aircraft of U.S. Army Model UH-60M)"
+ENGINES,2 General Electric T700-GE-701D
+FUEL,"JP-4, JP-5, JP-8, Jet A, Jet A1, or Jet B"
+ENGINE LIMITS,"TURBINE GAS 
+ SHAFT HP 
+ GAS GEN 
+ POWER TURBINE 
+ TEMP.oC 
+ (S.L. STD) 
+ RPM/% 
+ RPM/%"
+Contingency Rated,"2,000 
+ 20,900/100 
+ 46,935/105 
+ 903"
+2 12 min OEI,"1,994 
+ 20,900/100 
+ 46,935/105 
+ 879"
+Intermediate Rated,"1,902 
+ 20,900/100 
+ 46,935/105 
+ 846"
+IRP 30 min dual,"1,716 
+ 20,900/100 
+ 46,935/105 
+ 793"
+TRANSMISSION LIMITS,"TORQUE 
+ 135% Single Engine 
+ 120% Dual Engine ( < 80 KIAS) 
+ 100% Dual Engine ( > 80 KIAS) 
+ (no time limits)"
+ROTOR LIMITS,"POWER OFF: 
+ Maximum 110% 
+ Minimum 90% 
+ POWER ON: 
+ Maximum 107% 
+ Minimum 91%"
+AIRSPEED LIMITS,"Vne Power on: 193 knots IAS, (221 MPH). See appropriate Rotorcraft Flight Manual 
+ (Operators Manual) for variation of Vne with gross weight, pressure altitude and 
+ temperature. 
+ S-70M Longitudinal Center of Gravity Envelope 
+ I 
+ I 
+ ' 
+ I 
+ ! 
+ I 
+ I 
+ I 
+ I 
+ 25000 
+ I 
+ I 
+ 34&.2 
+ ! 
+ 35~.2 
+ +- 
+ I 
+ t--- 
+ - 1 
+ I 
+ + 
+ I 
+ 11 
+ I I 
+ 23500 +- 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ i\ 
+ Wf, 
+ 23000 
+ I 
+ Note 1 I 
+ i\ 
+ I I 
+ m., 
+ I 
+ I i - 
+ I 
+ i 
+ - 
+ 22lWV""I ! I 
+ I 
+ . I/ 
+ I 
+ i \I 
+ i 
+ I 
+ 21000 
+ I 
+ I I 
+ I 
+ !/ 
+ : 
+ i\ 
+ I 
+ I 
+ I 
+ I 
+ I 
+ i 
+ I 
+ "" 
+ I\"
+0 z,I
+0,"19000 
+ I 
+ i 
+ I 
+ \ 
+ I"
+I,"I 
+ I"
+3,": 
+ \ 
+ 17000 
+ I 
+ ./ 
+ I 
+ 1.5 
+ M 
+ : 
+ : 
+ r,.. 
+ I 
+ ' 
+ . A7 
+ I 
+ \ 
+ i 
+ ~'IT.i,- 
+ 1/ 
+ '15.~ i 
+ I 
+ i\ : 
+ i 
+ i 
+ 15000 
+ I 
+ I 
+ I 
+ I 
+ I 
+ f_ 13700 
+ i 
+ ' 
+ I 
+ 131!()0 i 
+ I 
+ I 
+ I 
+ I 
+ I 
+ 13()50 -, - , 
+ 13000 
+ i 
+ I 
+ i i ustjo~ 
+ ...... !I 
+ I 
+ I 
+ 12op_o i I 
+ 1 
+ 1j_ 
+ L.3~6.3~ 
+ 115 
+ iJO L.J.. I 
+ i 
+ I 
+ I I 
+ I I I 
+ 35/! 
+ k;t1 1''' 
+ . 
+ 360,8 ! 
+ i 
+ i 363 . .2 
+ ! 
+ ! 
+ i 
+ I 
+ 11000 
+ 336 
+ 340 
+ 344 
+ 348 
+ 352 
+ 356 
+ 360 
+ 364. 
+ 368 
+ FUSELAGE STATION - IINCHES 
+ Note 1 - Excursion into th is region is permis.sible w hen perform ing extern al lift mis.sion.s w ith a c:argo hook lo ad above &000 J>OUn d.s and upto9000 ?OUnd.s."
+EMPTY WEIGHT,None.
+DATUM,341 inches forward of the main rotor centroid.
+LEVELING MEANS,"Leveling plate at STA 309.62, BL 35 LH, and plumb line from top of LH forward cabin 
+ doorframe."
+MAXIMUM WEIGHT,"INTERNAL: 22,000 lbs. 
+ EXTERNAL: 23,500 lbs."
+MINIMUM CREW,"2 (Pilot, Co-Pilot)"
+No Passengers Permitted,"a. 2 at Sta. 227; 2 at Sta. 284; 3 at Sta. 321; 4 at Sta. 340; 4 at Sta. 
+ 387 
+ b. OPTIONAL SEATING: 2 at Sta. 282; 1 at Sta. 282"
+MAXIMUM FLOOR LOADING,300 lb./sq. ft.
+STORAGE COMPARTMENT,125 lb.
+FUEL CAPACITY,360 gallons; 2 tanks.
+OIL CAPACITY,7 quarts each engine.
+OTHER OPERATING,"TM 1-S70M-280-10 S-70M Operator's Manual dated August 25, 2020, as"
+LIMITATIONS,revised.
+SERIAL NUMBERS,"704091, 704120 (See Note 19)"
+ELIGIBLE,"FAR 21.25(a)(2), effective January 6, 1975, for the purpose of:"
+BASIS,"(1) Agriculture, FAR 21.25(b)(1) 
+ (2) External Cargo, FAR 21.25(b)(7) 
+ (3) Forest and Wildlife Conservation FAR 21.25(b)(2) 
+ For modifications, the baseline certification basis (as defined in 8110.56B) is 14 
+ CFR 29 dated February 1, 1965, including Amendments 29-1 through 29-17. See Note 
+ 20. 
+ In accordance with 14CFR Part 36.1(a)(4), compliance with the noise requirements 
+ was not shown. Therefore, aircraft certificated under this Type Certificate are only 
+ eligible for agricultural operations defined in 14CFR 137.3, aerial dispensing of liquids 
+ and forest conservation material as defined by 14CFR 137.3, or external loads as 
+ defined in 14CFR 133.1(b). 
+ Helicopter fuel system safety per FAA Reauthorization Act of 2018 Section 317, enacted 
+ October 05, 2018. Compliance has been established with 49 U.S.C. §44737 (2018) 
+ [29.952(a)(1), (2), (3), (5), (6), 29.952(c)(1)(ii), (iii), (iv), (v), (c)(2)(excluding fatigue), (f), 
+ (g), and 29.963(b) as amended by Amendment 29-35 and 29.975(a)(7) as amended by 
+ Amendment 29-42. Equivalent Level of Safety AT02311BO-R / P-1 for 29.952(c)(1)(i) 
+ and the fatigue requirements of 29.952(c)(2) as amended by Amendment 29-35]. 
+ Sikorsky Aircraft Corporation"
+PRODUCTION BASIS,"Production Certificate Number 105 
+ The following must be installed in each type helicopter for certification:"
+EQUIPMENT,"(1) Sikorsky Rotorcraft Flight Manual (Operator's Manual) Publication TM 1-S70M-280- 
+ 10 (see Note 16), as revised. 
+ (2) Removal and replacement of equipment in accordance with Sikorsky Aircraft Kit 
+ Drawing No. 70000-00120-046. 
+ NOTES"
+NOTE 1,"Current weight and balance report, including list of equipment in certificated empty weight, and loading 
+ instructions must be in each type helicopter at time of original airworthiness certification and at all times 
+ thereafter."
+NOTE 2,"The following placard must be prominently displayed in the cockpit in full view of the pilots: ""THIS 
+ ROTORCRAFT MUST BE OPERATED IN ACCORDANCE WITH THE RESTRICTED CATEGORY 
+ OPERATING LIMITATIONS OF FAR 91.39."" FAR 91.39 became FAR 91.313 in the recodification dated 
+ August 18, 1989."
+NOTE 3,"For Model S-70A: Prior to Civil Airworthiness Certification, compliance with Sikorsky Aircraft document 
+ number IILS-L-88-006, dated October 5, 1988, as revised, must be accomplished. 
+ For Model S-70M: Prior to Civil Airworthiness Certification, compliance with Sikorsky Aircraft document 
+ number ASB/MAM-Armyint-PUB-001, dated August 18, 2017, as revised, must be accomplished."
+NOTE 4,"For Model S-70A: Information essential to proper maintenance of the aircraft is contained in the following 
+ U.S. Army publications, as revised: TM 11-1520-237-1, -2, and -3, dated June 10, 1989; TM 55-1520-237- 
+ 23, Volumes 1 thru 8, dated August 29, 1989; TM 55-1520-237T, dated August 29, 1989; TM 55-1520-237- 
+ PMS-1, dated June 30, 1990; TM 55-1520-237-PMS-2, dated August 30, 1990; TM 55-1520-237-CL, dated 
+ June 10, 1989; TM 55-1520-237-MTF, dated November 13, 1990, and Sikorsky Supplement C-7 to these 
+ publications. Information essential to the proper maintenance of the T700-GE-701A engines is contained in 
+ General Electric Publications SEI 671 and 673, as revised and U.S. Army TM 1-2840-24823&P, as revised. 
+ Component overhaul and replacement times shall be in accordance with U.S. Army TM 55-1520-237-23, 
+ Volume 1, Chapter 1, Table I-II, dated August 29, 1989, as revised, and Sikorsky Supplement C-7, unless 
+ superseded by appropriate airworthiness directive. (See NOTE 10).Alternate information essential to the 
+ proper maintenance of the aircraft is contained in the following U.S. Army publications, as revised: TM 11- 
+ 1520-237-23-1, -2, and -3, dated April 30, 1979; TM 55-1520-23723-1, dated December 8, 1987; TM 55- 
+ 1520-237-2, through -10, dated December 29, 1978; TM 55-1520-237-PMS-1, dated July 14, 1988; TM 55- 
+ 1520-237-PMS-2, dated April 12, 1988; TM 55-1520-237-CL, dated August 15, 1987; TM 55-1520-237-MTF, 
+ dated January 8, 1988, and Sikorsky Supplement No. C-1 to these publications. Information essential to the 
+ proper maintenance of the T700-GE-701A engines is contained in General Electric Publications SEI 671 and 
+ 673, as revised, and U.S. Army TM 1-2840-24823&P, as revised. Component and overhaul and replacement 
+ times shall be in accordance with U.S. Army TM 55-1520-237-23-2, dated December 29, 1978; and Sikorsky 
+ Supplement C-1 to this publication, unless superseded by appropriate Airworthiness Directive. (See NOTE 
+ 10) 
+ The U.S. Army replaced TM 55-1520-237-23-1 through -10 with a single manual, TM 55-1520-237-23, 
+ composed of 18 chapters and 8 appendices divided into 8 volumes. Either set of TM's may be 
+ used. (See NOTE 10) 
+ Information on civil aircraft serial number correlation to U.S. Army serial numbers is contained in 
+ Sikorsky Letter TPL-W91-450, dated July 23, 1991, as revised or Sikorsky Engineering Report SER- 
+ 51010189 dated 7 June 2016, as revised. 
+ For Model S-70M: Information essential to proper maintenance of the aircraft is contained in the 
+ following publications, as revised: TM 1-S70M-280-23, volume 1 thru 11, dated July 1, 2021; TM 11- 
+ S70M-280-23, dated September 1, 2021; TM 1-S70M-280-PMD (Work Packages 0001 through 
+ 0007) dated July 1, 2021; TM 1-S70M-280-PMI (Work Packages 0001 through 0015) dated July 1, 
+ 2021, TM 1-S70M-280-PMS (Work Packages 0001 through 0008), dated July 1, 2021; TM 1-S70M- 
+ 280-23P dated September 1, 2021; TM 11-S70M-280-23P dated 1 September 2021. Information 
+ essential to the proper maintenance of the T700-GE-701D engines is contained in General Electric 
+ Publication SEI 671, as revised. Component overhaul and replacement times shall be in accordance 
+ with TM 1-S70M-280-AWL dated July 20, 2021, as revised. (See NOTE 16). ."
+NOTE 5,"For Model S-70A: For aircraft equipped with optional engines: (UH-60L derivative) 
+ ENGINES: 
+ 2 General Electric T700-GE-701C 
+ FUEL: 
+ Aviation Kerosene JP-4, JP-5, JP-8, Jet A, Jet A1, or Jet B 
+ ENGINE LIMITS 
+ SHAFT 
+ POWER 
+ GAS. 
+ TURBIN 
+ HP 
+ TURBINE 
+ GEN. 
+ E GAS 
+ 1,940 
+ 20,900/100 
+ 44,70 
+ 903 
+ Contingency Rated 
+ Power (CRP) 
+ 2 1/2 min. OEI) 
+ 1,890 
+ 20,900/100 
+ 44,70 
+ 878 
+ Maximum Rating 
+ (10 min. dual 
+ Intermediate Rated 
+ 1,800 
+ 20,900/100 
+ 44,70 
+ 851 
+ Power 
+ (IRP) (30 min. dual) 
+ 1,662 
+ 20,900/100 
+ 44,70 
+ 810 
+ Maximum Continuous 
+ Power (MCP) 
+ TRANSMISSION LIMITS: 
+ TORQUE 
+ 135% Single Engine (No time limits) 
+ 120% Dual Engine (No time limits) 
+ Other Operating Limitations: U.S. Army TM 55-1520-237-10, UH-60A and EH-60A Operator's Manual, 
+ dated January 8, 1988, as revised, or U.S. Army TMI-1520-237-10, UH-60A, UH-60L, EH-60A 
+ Operator's Manual, dated August 31, 1994, as revised, and Sikorsky Supplements C-4 and C-5, dated 
+ October 26, 1990, as revised. For aircraft Serial Numbers 701825 and 701835, TM 55-1520-237-10HK, 
+ dated October 29, 1992, as revised, is applicable. 
+ Equipment: Each type certificated helicopter with T700-GE-701C engines installed must be equipped with 
+ U.S. Army TM 55-1520-237-10, UH-60A and EH-60A Operator's Manual, dated January 8, 1988 as 
+ revised, or U.S. Army TM-1-1520-237-10, UH-60A, UH-60L, EH-60A Operator's Manual, dated August 
+ 31,1994, as revised, and Sikorsky supplements No. C-4 and C-5, dated October 26, 1990, as revised. For 
+ aircraft serial numbers 701825 and 701835, TM 55-1520-237-10HK Operator's Manual dated October 29, 
+ 1992, as revised, is applicable. 
+ Removal and replacement of equipment is in accordance with Sikorsky Aircraft Kit Drawing No. 70010- 
+ 00003 (Dash number as applicable). 
+ Information essential to the proper maintenance of the aircraft is contained in the following U.S. Army 
+ publications, as revised: TM 11-1520-237-23-1, -2, and -3, dated June 10, 1989; TM 55-1520-237-23, 
+ Volumes 1 through 8, dated August 29, 1989; TM 55-1520-237T, dated August 29, 1989; TM 55-1520-237- 
+ PMS-1, dated June 30, 1990; TM 55-1520-237-PMS-2, dated August 30, 1990; TM 55-1520-237-CL, dated 
+ June 10, 1989; TM 55-1520-237-MTF, dated November 13, 1990; and Sikorsky supplement C-7 to these 
+ publications. Information essential to the proper maintenance of the T700-GE-701C engines is contained in 
+ U.S. Army TM 55-2840-248-23, dated December 31, 1981, as revised and General Electric Publication SEI- 
+ 671, as revised. Component overhaul and replacement times shall be in accordance with U.S. Army TM 55- 
+ 1520-237-23, Volume 1, Chapter 1, Table I-II, dated August 29, 1989, as revised, and Sikorsky supplement 
+ C-7 to this publication, unless superseded by appropriate airworthiness directive. (See NOTE 10) 
+ Alternate information essential to the proper maintenance of the aircraft is contained in the following U.S. 
+ Army publications, as revised: TM 11-1520-237-23-1, -2, and -3, dated April 30, 1979; TM 55-1520-23723-1, 
+ dated December 8, 1987; TM 55-1520-237-23-2 through -10, dated December 29, 1978; TM 55-1520-237- 
+ PMS-1, dated July 14, 1988; TM 55-1520-237-PMS-2, dated April 12, 1988; TM 55-1520-237-CL, dated 
+ August 15, 1987; TM 55-1520-237-MTF, dated January 8, 1988; and Sikorsky Supplement C-1 to these 
+ publications. Information essential to the proper maintenance of the T700-GE-701C engines is contained in 
+ U.S. Army TM 55-2840-248-23, dated December 31, 1981; as revised and General Electric Publication SEI- 
+ 671, as revised. Component overhaul and replacement times shall be in accordance with U.S. Army TM 55- 
+ 1520-237-23-2, dated December 29, 1978; and Sikorsky Supplement C-1 to this publication, unless 
+ superseded by appropriate Airworthiness Directive. (See NOTE 10) 
+ The U.S. Army replaced TM 55-1520-237-23-1 through -10 with a single manual, TM 55-1520-237-23, 
+ composed of 18 chapters and 8 appendices divided into 8 volumes. Either set of TM's may be used. 
+ (See NOTE 10) 
+ Information on civil aircraft serial number correlation to U.S. Army serial numbers is contained in Sikorsky 
+ Letter TPL-W91-450, dated July 23, 1991, as revised, or Engineering Report SER-51010189 dated 7 June 
+ 2016, as revised."
+NOTE 6,"For Model S-70A: 
+ For aircraft configured in accordance with Sikorsky Aircraft Kit Drawing No. 70010-00003-013. 
+ SERIAL NUMBERS ELIGIBLE: 701613 and 701614. 
+ Note 5 applies, except the only applicable TM 55-1520-237-10 Operator's Manual Sikorsky Supplement is 
+ C-7, dated May 24, 1991, as revised. Removal and replacement of equipment is in accordance with 
+ Sikorsky Aircraft Kit Drawing No. 70010-00003-013. 
+ NUMBER OF SEATS: 2 at Sta. 227.1; 2 at Sta. 283.5; 2 at Sta. 329.5; 4 at Sta. 384.3 Compliance with FAR 
+ 29.853 has been demonstrated."
+NOTE 7,"For Model S-70A: 
+ For aircraft configured in accordance with Sikorsky Aircraft Kit Drawing No. 70010-00003-015. 
+ SERIAL NUMBER ELIGIBLE: 701129 
+ For aircraft configured in accordance with Sikorsky Aircraft Kit Drawing No. 70080-95011-011. 
+ SERIAL NUMBER ELIGIBLE: 702029 
+ Information essential to the proper maintenance of the aircraft is contained in the following publications: 
+ TM1-1520-237-10B 
+ Operators Manual 
+ TM1-1520-237-CLB 
+ Operators and Crewmembers Checklist 
+ TM1-1520-237-MTFB 
+ Maintenance Test Flight Manual 
+ TM1-70-29-23 
+ Aircraft Maintenance Procedures Manual 
+ TM1-70-29-PMS-1 
+ 10 Hour/14Day (30 hour/42 day) Inspection Checklist 
+ TM1-70-29-PMS-2 
+ Periodic Inspection Checklist 
+ TM1-70-29-23P 
+ Airframe Repair Parts and Special Tools List 
+ TM11-70-29-23 
+ Avionics Maintenance Procedures Manual 
+ TM11-70-29-23P 
+ Avionics Configuration Repair Parts and Special Tools List 
+ NUMBER OF SEATS: 2 at Sta. 227.1; 2 at Sta. 283.5; 2 at Sta. 329.5; 3 at Sta. 384.3. 
+ Compliance with FAR 29.853 (a) only has been demonstrated."
+NOTE 8,"For Model S-70A: 
+ For aircraft configured in accordance with Sikorsky Aircraft Kit Drawing Nos. 33770-51668, 70080-60031, 
+ 33770-81008. SERIAL NUMBER ELIGIBLE: 
+ 700029 
+ For aircraft configured in accordance with Sikorsky Aircraft Kit Drawing Nos. 33770-51664, 33880-60013, 
+ 33770-81008. SERIAL NUMBER ELIGIBLE: 
+ 702129 
+ For aircraft configured in accordance with Sikorsky Aircraft Kit Drawing Nos. 33770-51666, 70080-60031, 
+ 33770-81008. SERIAL NUMBER ELIGIBLE: 702929 
+ Information essential to the proper maintenance of these aircraft is contained in the following publications: 
+ TM 1-70-29-10 
+ Operator’s Manual 
+ TM 1-70-29-CL 
+ Operator’s and Crewmember’s Checklist 
+ TM 1-70-29-MTF 
+ Maintenance Test Flight Manual 
+ TM 1-70-29-23 
+ Aircraft Maintenance Procedures Manual 
+ TM 1-70-29-PMS-1 
+ 10 hour/14 day(30 hour/42 day) Inspection Checklist 
+ TM 1-70-29-PMS-2 
+ Periodic Inspection Checklist 
+ TM 1-70-29-23P 
+ Airframe Repair Parts and Special Tools List 
+ TM 11-70-29-23 
+ Avionics Maintenance Procedures Manual 
+ TM 11-70-29-23P 
+ Avionics Configuration Repair Parts and Special Tools List 
+ Number of seats: 2 at Sta. 227.1; 2 at Sta. 283.5; 2 at Sta. 329.5; 3 at Sta. 384.3 
+ Compliance with FAR 29.853(a) only has been demonstrated."
+NOTE 9,"For Model S-70A: S-70A derivatives of UH-60L aircraft may be operated at gross weights up to 23,500 pounds 
+ during external load operations, and hook loads up to 9,000 pounds in accordance with U.S. Army Aviation 
+ Safety Message 051326Z Jul 94, or appropriately revised FAA approved Operator's Manual. U.S. Army Safety 
+ Message 051325Z Jul 94, Serial Number 91-26354 is Sikorsky Serial Number 701656 and Serial Number 91- 
+ 26421 is Sikorsky Serial Number 701771."
+"NOTE 10: For Model S-70A: The following table lists equivalent sets of technical data approved for proper maintenance 
+ of the aircraft. 
+ S-70A Commercial Manuals 
+ U.S. Army Manuals 
+ Old 
+ New 
+ TM 55-1520-237-10 
+ TM 1-1520-237-10 
+ FAA Approved RFM 
+ TM55-1520-237-MTF 
+ TM 1-1520-237-MTF 
+ Not Applicable 
+ TM 55-1520-237-CL 
+ TM 1-1520-237-CL 
+ Not Applicable 
+ TM 55-1520-237-PMS-1 
+ TM 1-1520-237-PMS-1 
+ TM 1-70-PMS-1 
+ TM 55-1520-237-PMS-2 
+ TM 1-1520-237-PMS-2 
+ TM 1-70-PMS-2 
+ TM 55-1520-237-23 
+ TM 1-1520-237-23 
+ TM 1-70-23 and TM 1-70-23AW-2 
+ TM 55-1520-237-T 
+ TM 1-1520-237-T 
+ TM 1-70-T 
+ TM 55-1520-237-23P 
+ TM 1-1520-237-23P 
+ TM 1-70-23P 
+ TM 11-1520-237-23 
+ TM 11-1520-237-23 
+ TM 11-70-23 
+ TM 11-1520-237-23P 
+ TM 11-1520-237-23P 
+ TM 11-70-23P 
+ TM 11-1520-237-23P 
+ TM 11-1520-237-23P 
+ Not Applicable 
+ The initial publication date of the U.S. Army TM 1 series was 31 August 1994. 
+ The initial publication date of the Sikorsky TM-1 series was 31 August 1994. 
+ NOTE 11: Deleted by previous revision. 
+ NOTE 12: Deleted by revision 12. 
+ NOTE 13: For Model S-70A: For aircraft equipped with optional engines: (UH-60L derivative only) 
+ ENGINES: 
+ 2 General Electric T700-GE-701D/CC 
+ FUEL: 
+ Aviation Kerosene JP-4, JP-5, JP-8, Jet A, Jet A1, or Jet B 
+ ENGINE LIMITS 
+ SHAFT HP 
+ POWER TURBINE 
+ GAS. GEN. 
+ TURBINE GAS 
+ (S.L. STD.) 
+ RPM/% 
+ RPM/% 
+ TEMP. oC 
+ Contingency Rated 
+ 1,940 
+ 20,900/100 
+ 44,700 /102 
+ 903 
+ Power CRP 
+ 2 12 min OEI 
+ Maximum Rating 
+ 1,890 
+ 20,900/100 
+ 44,700/102 
+ 878 
+ 10 min dual 
+ Intermediate Rated 
+ 1,800 
+ 20,900/100 
+ 44,700/102 
+ 851 
+ Power 
+ IRP 30 min dual 
+ 1,662 
+ 20,900/100 
+ 44,700/102 
+ 810 
+ Power MCP 
+ TRANSMISSION LIMITS: 
+ TORQUE 
+ 135% Single Engine (No time limits) 
+ 120% Dual Engine (No time limits) 
+ EQUIPMENT: 
+ Removal and replacement of equipment in accordance with Sikorsky Aircraft 
+ Top Kit Drawing 70070-30258 (dash number as applicable). 
+ Other Operating Limitations: U.S. Army TMI-1520-237-10, UH-60A, UH-60L, EH-60A Operator's 
+ Manual, dated August 31, 1994, as revised, and Sikorsky Supplements C-4 and C-5, dated October 26, 
+ 1990, as revised. For aircraft Serial Numbers 701825 and 701835, TM 55-1520-237-10HK, dated 
+ October 29, 1992, as revised, is applicable. 
+ Equipment: Each type certificated helicopter with T700-GE-701D/CC engines installed must be equipped 
+ with U.S. Army TM-1-1520-237-10, UH-60A, UH-60L, EH-60A Operator's Manual, dated August 31,1994, 
+ as revised, and Sikorsky supplements No. C-4 and C-5, dated October 26, 1990, as revised. For aircraft 
+ serial numbers 701825 and 701835, TM 55-1520-237-10HK Operator's Manual dated October 29, 1992, 
+ as revised is applicable 
+ Removal and replacement of equipment is in accordance with Sikorsky Aircraft Kit Drawing No. 70010- 
+ 00003 Dash number as applicable 
+ publications, as revised: TM 11-1520-237-23-1, -2, and -3, dated June 10, 1989; TM 55-1520-237-23, 
+ Volumes 1 through 8, dated August 29, 1989; TM 55-1520-237T, dated August 29, 1989; TM 55-1520-237- 
+ PMS-1, dated June 30, 1990; TM 55-1520-237-PMS-2, dated August 30, 1990; TM 55-1520-237-CL, dated 
+ June 10, 1989; TM 55-1520-237-MTF, dated November 13, 1990; and Sikorsky supplement C-7 to these 
+ in U.S. Army TM 55-2840-248-23, dated December 31, 1981, as revised and General Electric Publication 
+ SEI-671, as revised. Component overhaul and replacement times shall be in accordance with U.S. Army TM 
+ 55-1520-237-23, Volume 1, Chapter 1, Table I-II, dated August 29, 1989, as revised, and Sikorsky 
+ supplement C-7 to this publication, unless superseded by appropriate airworthiness directive. (See NOTE 
+ 10 
+ publications, as revised: TM 11-1520-237-23-1, -2, and -3, dated April 30, 1979; TM 55-1520-23723-1, dated 
+ December 8, 1987; TM 55-1520-237-23-2 through -10, dated December 29, 1978; TM 55-1520-237-PMS-1, 
+ dated July 14, 1988; TM 55-1520-237-PMS-2, dated April 12, 1988; TM 55-1520-237-CL, dated August 15, 
+ 1987; TM 55-1520-237-MTF, dated January 8, 1988; and Sikorsky Supplement C-1 to these publications. 
+ TM 55-2840-248-23, dated December 31, 1981; as revised and General Electric Publication SEI-671, as 
+ revised. Component overhaul and replacement times shall be in accordance with U.S. Army TM 55-1520-237- 
+ 23-2, dated December 29, 1978; and Sikorsky Supplement C-1 to this publication, unless superseded by 
+ appropriate Airworthiness Directive. (See NOTE 10) 
+ The U.S. Army replaced TM 55-1520-237-23-1 through -10 with a single manual, TM 55-1520-237-23, 
+ composed of 18 chapters and 8 appendices divided into 8 volumes. Either set of TM's may be used. (See 
+ NOTE 10 
+ Letter TPL-W91-450, dated July 23, 1991, as revised. 
+ NOTE 14: For Model S-70A: For aircraft equipped with optional engines: (UH-60A derivative only) 
+ ENGINES: 
+ 2 General Electric T700-GE-701D/CC 
+ FUEL: 
+ Aviation Kerosene JP-4, JP-5, JP-8, Jet A, Jet A1, or Jet B 
+ ENGINE LIMITS 
+ SHAFT HP 
+ POWER TURBINE 
+ GAS. GEN. 
+ TURBINE GAS 
+ (S.L. STD.) 
+ RPM/% 
+ RPM/% 
+ TEMP. oC 
+ Contingency Rated 
+ 1,940 
+ 20,900/100 
+ 44,700 /102 
+ 903 
+ Power CRP 
+ 2 12 min OEI 
+ Maximum Rating 
+ 1,890 
+ 20,900/100 
+ 44,700/102 
+ 878 
+ 10 min dual 
+ Intermediate Rated 
+ 1,800 
+ 20,900/100 
+ 44,700/102 
+ 851 
+ Power 
+ IRP 30 min dual 
+ 1,662 
+ 20,900/100 
+ 44,700/102 
+ 810 
+ Power MCP 
+ TRANSMISSION LIMITS: 
+ TORQUE 
+ 135% Single Engine (No time limits) 
+ 120% Dual Engine (No time limits) 
+ EQUIPMENT: 
+ Removal and replacement of equipment in accordance with Sikorsky Aircraft 
+ Drawings as listed below: 
+ 70351-48100 or 70351-58100 (Main Gearbox) 
+ 70070-55238-014 
+ INSTRUMENT PANEL 
+ 70000-30100-043 
+ HARDWARE SET 
+ 70070-30258-013 
+ MOD KIT 
+ 70070-60220-014 
+ KIT ENG HARNESS 
+ 70070-30258-015 
+ MOD KIT 
+ 70070-30258-025 
+ TUBE INSTL 
+ 70070-60220-013 
+ CONVERTER 
+ 70070-60220-016 
+ OVERHEAD CONSOLE 
+ 70070-60485-012 
+ AVIONICS 
+ 70550-01126-075 
+ AVIONICS 
+ 70550-01126-076 
+ AVIONICS 
+ 70070-40037-015 
+ FLIGHT CONTROLS KIT 
+ 70070-40037-016 
+ FLIGHT CONTROLS KIT 
+ 70070-40039-011 
+ MIXER ASSY KIT. 
+ 70070-30258 
+ ENGINE INSTALL 
+ Other Operating Limitations: U.S. Army TM 1-1520-237-10, UH-60A, UH-60L, EH-60A Operator's 
+ Manual, dated August 31, 1994, as revised, and Sikorsky Supplements C-4 and C-5, dated October 26, 
+ 1990, as revised. For aircraft Serial Numbers 701825 and 701835, TM 55-1520-237-10HK, dated 
+ October 29, 1992, as revised, is applicable. 
+ Equipment: Each type certificated helicopter with T700-GE-701D/CC engines installed must be equipped 
+ with U.S. Army TM-1-1520-237-10, UH-60A, UH-60L, EH-60A Operator's Manual, dated August 31,1994, 
+ as revised, and Sikorsky supplements No. C-4 and C-5, dated October 26, 1990, as revised. For aircraft 
+ serial numbers 701825 and 701835, TM 55-1520-237-10HK Operator's Manual dated October 29, 1992, 
+ as revised, is applicable. Removal and replacement of equipment is in accordance with Sikorsky Aircraft 
+ Kit Drawing No. 7001000003 (Dash number as applicable). 
+ publications, as revised: TM 11-1520-237-23-1, -2, and -3, dated June 10, 1989; TM 55-1520-237-23, 
+ Volumes 1 through 8, dated August 29, 1989; TM 55-1520-237T, dated August 29, 1989; TM 55-1520-237- 
+ PMS-1, dated June 30, 1990; TM 55-1520-237-PMS-2, dated August 30, 1990; TM 55-1520-237-CL, dated 
+ June 10, 1989; TM 55-1520-237-MTF, dated November 13, 1990; and Sikorsky supplement C-7 to these 
+ in U.S. Army TM 55-2840-248-23, dated December 31, 1981, as revised and General Electric Publication 
+ SEI-671, as revised. Component overhaul and replacement times shall be in accordance with U.S. Army TM 
+ 55-1520-237-23, Volume 1, Chapter 1, Table I-II, dated August 29, 1989, as revised, and Sikorsky 
+ supplement C-7 to this publication, unless superseded by appropriate airworthiness directive. (See NOTE 
+ 10 
+ publications, as revised: TM 11-1520-237-23-1, -2, and -3, dated April 30, 1979; TM 55-1520-23723-1, dated 
+ December 8, 1987; TM 55-1520-237-23-2 through -10, dated December 29, 1978; TM 55-1520-237-PMS-1, 
+ dated July 14, 1988; TM 55-1520-237-PMS-2, dated April 12, 1988; TM 55-1520-237-CL, dated August 15, 
+ 1987; TM 55-1520-237-MTF, dated January 8, 1988; and Sikorsky Supplement C-1 to these publications. 
+ TM 55-2840-248-23, dated December 31, 1981; as revised and General Electric Publication SEI-671, as 
+ revised. Component overhaul and replacement times shall be in accordance with U.S. Army TM 55-1520-237- 
+ 23-2, dated December 29, 1978; and Sikorsky Supplement C-1 to this publication, unless superseded by 
+ appropriate Airworthiness Directive. (See NOTE 10). 
+ The U.S. Army replaced TM 55-1520-237-23-1 through -10 with a single manual, TM 55-1520-237-23, 
+ composed of 18 chapters and 8 appendices divided into 8 volumes. Either set of TM's may be used. (See 
+ NOTE 10 
+ Letter TPL-W91-450, dated July 23, 1991, as revised or Engineering Report SER-51010189 dated 7 June 
+ 2016 as revised 
+ NOTE 15: For Model S-70A: In accordance with 14CFR Part 36.1(a)(4), compliance with the noise requirements was 
+ not shown. Therefore, aircraft certificated under this Type Certificate are only eligible for agricultural 
+ operations defined in 14CFR 137.3, aerial dispensing of liquids and forest conservation material as defined 
+ by 14CFR 137.3,or external loads as defined in 14CFR 133.1(b). 
+ NOTE 16: Technical manuals have been created in accordance with the tables below for Model S-70M (See Note 4). 
+ U.S. Army Manual 
+ S-70M Commercial 
+ Title 
+ Manual 
+ Operators Manual 
+ TM 1-1520-280-10 
+ TM 1-S70M-280-10 
+ Operators and Crewmembers Checklist 
+ TM 1-1520-280-CL 
+ TM 1-S70M-280-CL 
+ Maintenance Test Flight Manual 
+ TM 1-1520-280-MTF 
+ TM 1-S70M-280-MTF 
+ Aircraft Maintenance Procedures Manual 
+ TM 1-1520-280-23 
+ TM 1-S70M-280-23 
+ Aircraft Repair Parts and Special Tools List 
+ TM 1-1520-280-23P 
+ TM 1-S70M-280-23P 
+ Phased Maintenance Inspection Checklist 
+ TM 1-1520-280-PMI 
+ TM 1-S70M-280-PMI 
+ Preventive Maintenance Services Inspection 
+ TM 1-1520-280-PMS 
+ TM 1-S70M-280-PMS 
+ Checklist 
+ Preventive Maintenance Daily Inspection 
+ TM 1-1520-280-PMD 
+ TM 1-S70M-280-PMD 
+ Avionics Maintenance Procedures Manual 
+ TM 11-1520-280-23 
+ TM 11-S70M-280-23 
+ Avionics Configuration Repair Parts and Special 
+ TM 11-1520-280-23P 
+ TM 11-S70M-280-23P 
+ Tools List 
+ Airworthiness Limitations Manual 
+ N/A 
+ TM 1-S70M-280-AWL 
+ NOTE 17: Restricted category aircraft may not be operated in a foreign country without the express written approval of 
+ that country 
+ NOTE 18: This aircraft has not been shown to meet the requirements of the applicable comprehensive and detailed 
+ airworthiness code as provided by Annex 8 of the Convention on International Civil Aviation. 
+ NOTE 19: For Model S-70M: A physical helicopter must be produced and conformity inspections must be performed. All 
+ production quality requirements must be met, and the PC and PLR approval shall be worked with the 
+ appropriate Manufacturing Inspection Office 
+ The Rotorcraft and Powered Lift Aircraft Evaluation Group will perform a Flight Standardization Board (FSB) 
+ to determine the Type Rating, Training and Checking Requirements, prior to the S-70M entering operational 
+ service 
+ NOTE 20: For modifications approved in accordance with FAA Order 8110.56B (or latest revision) Section 4-15(e): 
+ Modifications Previously Qualified by the U.S. Armed Forces, or other modifications approved in accordance 
+ with the CFR 29 certification basis, reference Sikorsky Aircraft Drawing No’s. S7079-00000-012 (S-70M Type 
+ Certified Options) and 70070-00001-012 (S-70M Type Certified Field Modifications).",

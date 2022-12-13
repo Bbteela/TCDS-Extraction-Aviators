@@ -1,0 +1,288 @@
+Keyterm,Info
+"A22SO 
+ Revision 10 
+ Amphibian Aircraft Technologies, LLC. 
+ (Grumman) 
+ G-111 (Albatross) 
+ May 1, 2016",
+Type Certificate Holder,"Amphibian Aircraft Technologies, LLC. 
+ c/o Dunlap Bennett & Ludwig, PLLC 
+ 211 Church Street 
+ Leesburg, Virginia 20175"
+Type Certificate Holder Record,"Amphibian Aircraft International, Inc. transferred type certificate to Amphibian Aircraft 
+ Technologies, LLC. on May 1, 2016 
+ Flying Boat, Inc. transferred type certificate to Amphibian Aircraft International, Inc. on 
+ July 1, 2010."
+"I. - Model G-111, (Grumman), (Albatross), Transport Category, Amphibian, Approved April 29, 1980",
+Engine,"2 Wright Aeronautical Nine Cylinder 982C9HE3, Reciprocating Engines."
+Fuel,Minimum 100 Octane Low Lead (LL).
+Oil,"Engine: 
+ MIL-L-6082 Grade 1120 
+ MIL-L-22851 (WEP) 
+ Propeller: MIL-O-6081 (Grade 1010) (50%) and 
+ MIL-C-6529 (Type II) (50%). 
+ For other approved oil combinations, see NOTE 3."
+Engine Limits,"BHP 
+ RPM 
+ MP 
+ Altitude 
+ Takeoff (5 minutes) 
+ 1475 
+ 2800 
+ 54.5 
+ SL 
+ Takeoff (5 minutes) 
+ 1475 
+ 2800 
+ 54.0 
+ 1250 Ft. Critical Alt. 
+ Maximum Continuous 
+ 1275 
+ 2500 
+ 46.5 
+ SL 
+ Maximum Continuous 
+ 1275 
+ 2500 
+ 45.5 
+ 2550 Ft. Critical Alt."
+Propeller and Propeller Limits,"1. Number and Type 
+ Two Hamilton Standard 43D51-667 
+ Blades 
+ Three 7113( )-5 
+ Diameter 
+ 11 ft. 2 in. 
+ Pitch setting at 54 inch blade station 
+ Low 
+ 13° 
+ High (feathered) 
+ 84° 
+ Reverse 
+ -18° 
+ Operation between 2100 and 2200 rpm; 2550 and 2650 rpm is restricted to passing 
+ through only. 
+ 2. Number and Type 
+ Two Hamilton Standard 43D51-669 
+ Blades 
+ Three 6915 ( )-7 
+ Diameter 
+ 11 ft. 0 in. 
+ Pitch setting at 42 inch blade station 
+ Low 
+ 19.5° 
+ High (feathered) 
+ 89.5° 
+ Reverse 
+ -11.5° 
+ Operation between 2550 and 2650 rpm is restricted to passing through only. 
+ Avoid ground running between 1650 and 1900 rpm when off the low-pitch stop."
+Page No,"1 
+ 2 
+ 3 
+ 4"
+Rev No,"10 
+ 5 
+ 8 
+ 9"
+Airspeed Limits,"KIAS 
+ KCAS 
+ Vne 
+ (never exceed) 
+ 229 
+ 228 
+ Vno 
+ (normal operating) 
+ 206 
+ 205 
+ Va 
+ (design maneuvering) 
+ 134 
+ 133 
+ Vfe 
+ (max. flap extended) 
+ 142 
+ 141 
+ Vlo 
+ (max. landing gear operating) 
+ 131 
+ 130 
+ Vle 
+ (max. landing gear extended) 
+ 151 
+ 150 
+ Vlle 
+ (max. with landing lights extended) 
+ 120 
+ 119 
+ Vrb 
+ (max. with rudder boost on) 
+ 150 
+ 149 
+ Vmc (min. control speed-air) 
+ 81 
+ 80"
+Center of Gravity,The center of gravity range is between 22.5 and 27.5 percent MAC
+CG Range,(stations 296.96 and 303.54).
+Datum,"Reference Datum is 149 inches forward of jig point located in nose wheel well. The jig 
+ point is located by hanging a plumb bob from the small hole drilled in the beam on the 
+ aft bulkhead of the nose wheel well."
+Mean Aerodynamic Chord,The leading edge of the MAC is at Station 267.33.
+MAC,The length of the MAC is 131.67 inches.
+Leveling Means,Longitudinal leveling is determined by use of plumb bob hung from small hole drilled
+Longitudinal,in the shelf in either main wheel well.
+Lateral,"Lateral leveling is determined by use of leveling device on leveling brackets on nose 
+ wheel well bulkhead at station 150."
+Maximum Weights,"Takeoff: 
+ Landplane 
+ 30,605 pounds 
+ Seaplane 
+ 31,365 pounds 
+ Landing: 
+ Landplane 
+ 29,500 pounds 
+ Seaplane 
+ 31,365 pounds"
+Minimum Crew,Two: Pilot and Co-Pilot
+Number of Passengers,28
+Cargo,None
+Maximum Baggage,"Compartment 
+ Capacity (lbs.) 
+ Max. Loading 
+ C.G. (F.S.) 
+ I 
+ 700 
+ 50 lb/ft2 
+ 66.0 
+ II 
+ 300 
+ 200 lb/ft2 
+ 183.5 
+ III 
+ 300 
+ 200 lb/ft2 
+ 183.5 
+ IV 
+ 300 
+ 200 lb/ft2 
+ 186.5 
+ V 
+ 750 
+ 250 lb./ft2 
+ 535.0"
+Fuel Capacity,"Capacity 
+ Usable Fuel 
+ Total Fuel 
+ 662 gallons 
+ 625 gallons determined with full fuel 
+ (3,750 pounds at 297.3 (Arm)) 
+ 2 Main Tanks each 
+ 31 gallons 
+ 312.5 gallons (determine with full fuel) 
+ (1,875 pounds at 297.3 (Arm)) 
+ See NOTE 1 for Unusable Fuel Data"
+Oil Capacity,"Capacity 
+ Usable Oil 
+ Engine Total Oil 
+ 62 gallons 
+ 58 gallons (435 lbs. at 262.0) 
+ 2 Tanks ea. 
+ 31 gallons 
+ 29 gallons ( 217.5 lbs. at 262.0) 
+ See NOTE 1 for Unusable Oil Data. 
+ Propeller Total Oil 
+ 7.2 gallons 
+ 7.2 gallons (54 lbs. at 210.0) 
+ 2 Tanks ea. 
+ 3.6 gallons 
+ 3.6 gallons (27 lbs. at 210.0)"
+Control Surface Movements,"Degrees 
+ Inches 
+ Ailerons 
+ Up 
+ 17 ± 1 
+ 6-1/2 ± 3/16 
+ Down 
+ 17 ± 1 
+ 6-1/2 ± 3/16 
+ Elevators 
+ Up 
+ 30 ± 1 
+ 12-1/16 ± 13/32 
+ Down 
+ 20 ± 1 
+ 8-3/32 ± 13/32 
+ Rudder 
+ Right 
+ 20 ± 1 
+ 8-3/32 ± 3/16 
+ Left 
+ 15 ± 1 
+ 6-1/16 ± 3/16 
+ Trim Tabs 
+ Elevator 
+ Up 
+ 5 ± 1 
+ 23/32 ± 1/8 
+ Down 
+ 12 ± 1 
+ 1-21/32 ± 1/8 
+ Rudder 
+ Right 
+ 16 ± 1 
+ 3-1/8 ± 3/16 
+ Left 
+ 26 ± 1 
+ 5-1/32 ± 3/16 
+ Aileron 
+ Up 
+ 18 ± 1 
+ 1-5/8 ± 3/32 
+ Down 
+ 12 ± 1 
+ 1-1/16 ± 3/32"
+Serial Numbers Eligible,"148325, 148327, 148328(See NOTE 3), 148329. 
+ (Produced under Production Certificate (PC) Number 23 issued to 
+ Grumman Aerospace Corporation, Stuart, Florida, under licensing agreement 
+ dated March 9, 1978. This PC is no longer in effect.) 
+ 51-7243, 51-7244, 51-7249, 51-7168, 137901, 141282, 148326, 9304, 9308 
+ (Produced under Production Certificate Number 1050 issued to 
+ Grumman St. Augustine Corporation, St. Augustine, Florida, under licensing 
+ agreement dated 22 December 1981. This PC is no longer in effect.)"
+Certification Basis,"FAR 21.27, effective February 1, 1965; CAR 4b, effective December 31, 1953, 
+ including amendments 1 and 2; FAR 36, effective December 1,1969, including 
+ amendments 1 through 3; FAR 25.2. 
+ Equivalent Safety Finding: CAR 4b.113 applicable for seaplane takeoff only 
+ (See AFM)."
+Production Basis,"None. Prior to original certification of an aircraft, a FAA representative must perform a 
+ detailed inspection for workmanship, materials, and conformity with the approved 
+ technical data, a final inspection of the completed aircraft, and a check of the flight 
+ characteristics."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. Approved 
+ equipment for the Model G-111 is shown in Aviation Fire Control, Inc., Report No. 16, 
+ ""Equipment List."" FAA approved Airplane Flight Manual, revised May 27, 1981, is also 
+ required."
+NOTE 1,"a. 
+ Current weight and balance report including list of equipment included in certificate weight empty, and 
+ loading instructions when necessary, must be in each aircraft at the time of original certification and at 
+ all times thereafter. 
+ b. 
+ Refer to FAA Approved Airplane Flight Manual, Sections 7 and 8, for weight and balance and weighing 
+ instructions. 
+ c. 
+ The certificated empty weight must include unusable fuel of 37 gallons (222 lbs. at 300.6 inches (arm)), 
+ and unusable oil of 4 gallons (30 lbs. at 262 inches (arm))."
+NOTE 2,Required placards are listed in Resorts International Drawing RI100F2011.
+NOTE 3,"Aircraft Serial No. 148328 limited to a maximum of 8900 flight hours due to the installation of 7075-T6 spar 
+ caps in center section."
+NOTE 4,"Alternate propeller oil can be made by mixing 50% MIL-O-6081 (grade 1010) and 50% of mixture 
+ containing one part MIL-H-6083 (Type 1) and three parts MIL-L-6082 (grade 1100)."
+NOTE 5,"The intumescent nacelle paint must be inspected per (1) or (2) and if found deficient replaced before further 
+ flight: 
+ 1. 
+ Prior to the first flight of the day. 
+ 2. 
+ For a series of consecutive day flights the inspection may be conducted at a maximum interval of 
+ 24 hours from the last inspection."
+NOTE 6,Continuous electrical loads applied to the DC electrical system must not exceed 400 amperes.
+NOTE 7,Deleted

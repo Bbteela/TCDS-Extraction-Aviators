@@ -1,0 +1,371 @@
+Keyterm,Info
+"A9EU 
+ Revision10 
+ AERMACCHI S.p.A. 
+ S.205 - 18/F 
+ S.205 - 18/R 
+ S.205 - 20/F 
+ S.205 - 20/R 
+ S.205 - 22/R 
+ S.208 
+ S.208A 
+ March 11, 2022",
+Type Certificate Holder,"AERMACCHI S.p.A. 
+ Via P. Foresio, 1 
+ 21040 Venegono Superiore (VA) 
+ Italy"
+"I. Model S.205 - 18/F, 4PCLM (Utility Category), Approved March 7, 1966. 
+ Model S.205 - 18/R, 4PCLM (Utility Category), Approved June 7, 1966. 
+ (Model S.205 - 18/R same as Model S.205 - 18/F except for retractable landing gear)",
+Engine,Lycoming O-360-A1A
+Fuel,91-96 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2700 r.p.m. (180 hp.) See NOTE 2 (a)(3)"
+Propeller and Propeller Limits,"Hartzell HC-C2YK-1B/7666A-2 
+ Diameter: Maximum 74 in., minimum allowable for repairs 72 in. 
+ (no further reduction permitted) 
+ Pitch setting at 30 in. radius: Low 12 High 29"
+Airspeed Limits,"Never exceed 
+ 201 m.p.h. 
+ Maximum structural cruising 
+ 150 m.p.h. 
+ Maneuvering 
+ 137 m.p.h. 
+ Landing Gear Extended 
+ 109 m.p.h. (Model S.205 - 18/R) 
+ Flaps extended 
+ 102 m.p.h."
+CG Range Landing,(+94.8) to (+102.2) at 2314 lb. or less
+Gear Extended,"(+99.1) to (+102.2) at 2645 lb. 
+ Straight line variation between points given."
+Empty Weight CG Range,None
+Maximum Weight,2645 lb.
+No Seats,2 (+87.2) 2 (+119.3)
+Maximum Baggage,132 lb. (+147.6)
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8"
+Rev No,"10 
+ 7 
+ 7 
+ 7 
+ 9 
+ 10 
+ 8 
+ 8"
+Oil Capacity,"2 gal. (+31.5) (Unusable Oil - 2 qt.) 
+ See NOTE 1 for system oil"
+"II. Model S.205 - 20/F and S.205 - 20/R, 4 PCLM (Normal Category), Approved June 7, 1966. 
+ (Model S.205 - 20/F same as Model S.205 - 18/F except for increased maximum weight and Power Plant Installation) 
+ (Model S.205 - 20/R same as Model S.205 - 20/F except for retractable landing gear).",
+Engine,Lycoming IO-360-A1A
+Fuel,100-130 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2700 r.p.m. (200 hp.) (See NOTE 2 (c)(1))"
+Propeller and Propeller Limits,"Hartzell HC-C2YK-1B/7666A-2 
+ Diameter: Maximum 74 in., minimum allowable for repairs 72 in. 
+ (No further reduction permitted) 
+ Pitch setting at 30 in., radius: Low 14, High 29"
+Airspeed Limits,"Never exceed 
+ 201 m.p.h. 
+ Maximum structural cruising 
+ 150 m.p.h. 
+ Maneuvering 
+ 137 m.p.h. 
+ Landing gear extended 
+ 109 m.p.h. (Model S.205 - 20/R) 
+ Flaps extended 
+ 102 m.p.h."
+CG Range Landing Gear,(+94.8) to (+102.2) at 2314 lb. or less
+Extended,"(+99.1) to (+102.2) at 2866 lb. 
+ Straight line variation between points given."
+Empty CG Range,None
+Maximum Weight,2866 lb.
+No Seats,2 (+87.2). 2 (+119.3)
+Maximum Baggage,132 lb. (+147.6)
+Fuel Capacity,"55.5 gal. total; 55 gal. usable (2 wing tanks) (+99.9) 
+ See NOTE 1 for unusable fuel"
+Oil Capacity,"2 gal. (+31.5) Unusable oil - 2 qt.) 
+ See NOTE 1 for system oil"
+"III. Model S.205 - 22/R, 4PCLM (Normal Category), Approved June 7, 1966. 
+ (Same as Model S.205 - 20/R except for Power Plant and Propeller installation, increased maximum weight, number 
+ of seats increased maximum baggage",
+Engine,Franklin 6A-350-C1
+Fuel,100-130 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2800 r.p.m. (220 hp.) 
+ Diameter: Maximum 80 in., minimum allowable for repairs 78 in. 
+ (No further reduction permitted) 
+ Pitch setting at 30 in. radius: Low 1120’, High 2050’ 
+ Or: 
+ Hartzell HC-C2YF-1B/8459-4 
+ Diameter: Maximum 80 in., minimum allowable for repairs 78 in. 
+ (No further reduction permitted) 
+ Pitch setting at 30 in. radius: Low 11, High 3030’"
+Airspeed Limits,"Never exceed speed 
+ 201 m.p.h. 
+ Maximum structural cruising 
+ 150 m.p.h. 
+ Maneuvering 
+ 137 m.p.h. 
+ Landing gear extended 
+ 109 m.p.h. 
+ Flaps extended 
+ 102 m.p.h."
+CG Range Landing Gear,(+94.8) to (+102.2) at 2314 lb. or less
+Extended,"(+99.1) to (+102.2) at 2976 lb. 
+ Straight line variation between points given."
+Empty Weight CG Range,None
+Maximum Weight,2976 lb.
+No Seats,2 (+87.2). 2 (+119.3) (See NOTE 5 and 6)
+Maximum Baggage,176 lb. (+147.6) (See NOTE 5)
+Fuel Capacity,"55.5 U.S. gal. total; 55 U.S. gal. usable (2 wing tanks) (+99.9) 
+ (See NOTE 1 for unusable fuel) (See NOTE 7 for wing tip tanks)"
+Oil Capacity,8.8 U.S. qt. (+31.5) (Unusable oil - 2 qt.) See NOTE 1 for system oil.
+"IV. Model S.208, 4 PCLM (Normal Category), Approved May 24, 1968. 
+ (Same as Model S.205 - 22/R except for powerplant and propeller installation. 
+ See NOTE 8 for conversion into S.208A model)",
+Engine,Lycoming O-540-E4A5
+Fuel,91-96 minimum grade aviation gasoline
+Engine Limits,"For all operations, 2700 r.p.m. (260 hp.) (See NOTE 2(d)(1))"
+Propeller and Propeller Limits,"Hartzell: HC-C2YK-1B/8467-8R 
+ Diameter: Maximum 76 in., minimum allowable for repairs 75 in. 
+ (No further reduction permitted) 
+ Pitch setting at 30 in., radius: Low 1530’, High 32 
+ Or: 
+ Hartzell HC-C2YK-1B/8477-8R 
+ Diameter: Maximum 76 in., (No reduction permitted) 
+ Pitch setting at 30 in. radius: Low 1530’, High 32 
+ Maneuvering 
+ 137 m.p.h. 
+ Landing gear extended 
+ 109 m.p.h. 
+ Flap extended 
+ 102 m.p.h."
+CG Range Landing Gear,(+94.8) to (+102.2) at 2314 lb. or less
+Extended,"(+99.1) to (+102.2) at 2976 lb. 
+ Straight line variation between points given."
+Empty Weight CG Range,None
+Maximum Weight,2976 lb.
+No of Seats,"2 (+87.2), 2 (+119.3). (See NOTE 5)"
+Maximum Baggage,176 lb. (+147.6). (See NOTE 5)
+Fuel Capacity,"55.5 U.S. gal. total; 55 U.S. gal. usable (2 wing tanks ) (+99.9) 
+ (See NOTE 1 for unusable fuel) (See NOTE 7 for wing tip tanks)"
+Oil Capacity,12 U.S. qt. (+31.5) (Unusable oil - 2.75 qt.) (See NOTE 1 for system oil)
+"V. Model S.208A, 5 PCLM (Normal Category), Approved June 17, 1974. 
+ (Same as Model S.208 except for increased maximum weight, number of seats and increased maximum baggage).",
+Engine,Lycoming O-540-E4A5
+Fuel,91-96 minimum grade evaluation gasoline
+Engine Limits,"For all operations, 2700 r.p.m. (260 hp.) (See NOTE 2(d)(1))."
+Propeller and Propeller Limits,"Hartzell HC-C2YK-1B/8467-8R 
+ Diameter: Maximum 76 in. minimum allowable for repairs 75 in. 
+ (No further reduction permitted) 
+ Pitch setting at 30 in. radius: Low 1530’, High 32"
+,"Or: 
+ Hartzell HC-C2YK-1B/8477-8R 
+ Diameter: Maximum 76 in. (No reduction permitted) 
+ Pitch setting at 30 in. radius: Low 1530’, High 32"
+Airspeed Limits,"Never exceed speed 
+ 209 m.p.h. 
+ Maximum structural cruising 
+ 166 m.p.h. 
+ Maneuvering 
+ 142 m.p.h. 
+ Landing gear and flap extended 
+ 115 m.p.h."
+CG Range Landing Gear,(+94.8) to (+102.2) at 2645 lb. or less
+Extended,"(+101.2) to (+102.2) at 3318 lb. 
+ Straight line variation between points given."
+Empty Weight CG Range,None
+Maximum Weight,3318 lb.
+No Seats,"2 (+87.2), 2 (+118.1), 1(+147.6)"
+Fuel Capacity,"86 U.S. gal. total 83.5 U.S. gal. usable 
+ (2 wing tanks of 27.8 U.S. gal. each (+99.9) 
+ (2 tip tanks of 15.2 U.S. gal. each (+101.7) 
+ (See NOTE 1 for unusable fuel)."
+Oil Capacity,12 U.S. qt. (+31.5) (Unusable oil - 2.75 qt.) (See NOTE 1 for system oil)
+DATA PERTINENT TO ALL MODELS,
+Datum,40.2 in. forward of center line of nose gear attachment bolts.
+Leveling Means,Three screws on baggage compartment bulkheads.
+Control Surface Movements,"Wing flaps 
+ Down 43  1 
+ Ailerons 
+ Up 22  1 
+ Down 15  1 
+ Elevator 
+ Up 30  1 
+ Down 20  1 
+ Rudder 
+ Right 25  1 
+ Left 25  1 
+ Elevator Trim Tab 
+ Up 22  1 
+ Down 26  1"
+Certification Basis,"FAR - 21.29 - FAR 23 effective February 1, 1965, for models S.205 and S.208. 
+ FAR 23 effective February 1, 1965, including amendments 23-1, -4, -5, and -6 
+ for Model S.208A. 
+ Type Certificate No. A9EU issued March 7, 1966. 
+ Date of Application for Type Certificate June 30, 1965. 
+ The Ente Nazionale per l’Aviazone Civile (ENAC) originally type 
+ Certificated this aircraft under its Type Certificate Number A131. 
+ Effective September 28, 2003, the European Aviation Safety 
+ Agency (EASA) began oversight of this product under their 
+ Type certificate Number A131 on behalf of Italy."
+Serial Nos Eligible,"The Registro Aeronautico Italiano (R.A.I.) Certificate of Airworthiness endorsed as 
+ noted below under “Import Requirements” must be submitted for each individual aircraft 
+ for which certification is made."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (See Certification Basis) must be installed in the aircraf for certification. In addition, the 
+ following items of equipment are required: 
+ (a) 
+ Pre-stall warning indicator, Safe Flight Instrument Corp. 164 S. 
+ (P/N NS5F026) (All models) .51b +67 
+ (b) 
+ R.A.I. Approved Airplane Flight Manual 
+ (1) Flight Manual dated February 23, 1966 for Model S.205 - 18/F 
+ (2) Flight Manual dated April 14, 1966 for Model S.205 - 18/R 
+ (3) Flight Manual dated April 14, 1966 for Model S.205 - 20/F 
+ (4) Flight Manual dated April 14, 1966 for Model S.205 - 20/R 
+ (5) Flight Manual dated May 27, 1966 for Model S.205 - 22/R 
+ (6) Flight Manual dated March 5, 1968 for Model S.208. 
+ (7) Flight Manual dated January 18, 1973 for Model S.208A"
+Import requirements,"The FAA can issue a U.S. airworthiness certificate based on an NAA Export Certificate 
+ of Airworthiness (Export C of A) signed by a representative of the Ente Nazionale per 
+ l’Aviazone Civile (ENAC) on behalf of the European Community. The Export C of 
+ U.S. Type Certificate No. A 9EU and to be in a condition for safe operation”. 
+ The U.S. airworthiness certification basis for aircraft type certificated under FAR Section 
+ 21.29 and exported by the country of manufacture is FAR Sections 21.183(c) or .185(c). 
+ The U.S. airworthiness certification basis for aircraft type certificated under FAR Section 
+ 21.29 exported from countries other than the country of manufacture (e.g., third party 
+ country) is FAR Sections 21.183(d) or 21.183(b). 
+ Refer to the applicable bilateral agreement to verify eligibility for import into the United 
+ States of both new and used aircraft based on the scope of the agreement, to identify any 
+ required statements by the exporting authority on the export certificate of airworthiness 
+ (or equivalent document), and for procedures for coordinating exceptions to conformity 
+ statements on these documents. Refer to FAA Order 8130.2, Airworthiness Certification 
+ of Aircraft, for requirements for issuance of an airworthiness certificate for imported 
+ aircraft"
+Service Information,"Each of the documents listed below must state that it is approved by the 
+ European Aviation Safety Agency (EASA) or – for approvals made before September 28, 
+ 2003- by the Ente Nazionale per l’Aviazone Civile (ENAC) 
+ · Service bulletins 
+ · Structural Repair Manuals 
+ · Vendor Manuals 
+ · Aircraft Flight Manuals, and 
+ · Overhaul and Maintenance Manuals 
+ The FAA accepts such documents and considers them FAA-approved unless 
+ one of the following condition exists: 
+ · The documents change the limitations, performance, or procedures of the 
+ FAA approved manuals; or 
+ · The documents make an acoustical or emissions changes to this 
+ product’s U.S.type certificate as defined in 14 CFR § 21.93. 
+ The FAA uses the post type validation procedures to approve these documents. 
+ The FAA may delegate on case-by-case to EASA to approve on behalf of the 
+ FAA for the U.S. type certificate. If this is the case it will be noted on the 
+ document."
+NOTE 1,"Current weight and balance report including list of equipment included in certificated empty weight, and 
+ loading instructions when necessary, must be provided for each aircraft at time of original certification, and 
+ at all times thereafter. The certificated empty weight and corresponding center of gravity locations must 
+ include: 
+ - Unusable fuel 3.3. lbs. at (+99.9) (wing tanks) for all models. 
+ - Unusable fuel 12 lbs. at (+101.7) (tip tanks) for model S.205 - 22/R and S.208 when 
+ wing tip tanks are installed (See NOTE 7) and for model S.208A. 
+ System oil of 1 lb. at (+31.5) and unusable of 3.0 lb. at (+99.9)"
+NOTE 2,"The following placards must be displayed in front and in clear view of pilot: 
+ a) 
+ For Models S.205-18/F and S.205-18/R: 
+ (1) “THIS AIRPLANE MUST BE OPERATED AS A UTILITY 
+ CATEGORY AIRPLANE IN COMPLIANCE WITH THE 
+ OPERATING LIMITATIONS STATED IN THE FORM OF 
+ PLACARDS, MARKINGS AND THE FLIGHT MANUAL.” 
+ (2) “ACROBATIC MANEUVERS ARE LIMITED TO THE FOLLOWING: 
+ CHANDELLES 
+ 150 mph TIAS 
+ LAZY EIGHTS 
+ 160 mph TIAS 
+ (3) “AVOID CONTINUOUS OPERATIONS BETWEEN 2000 AND 2250 RPM” 
+ b) 
+ For Models S.205-20/F, S.205-20/R, S.208 and S.208A: 
+ (1) “THIS AIRPLANE MUST BE OPERATED AS A NORMAL 
+ CATEGORY AIRPLANE IN COMPLIANCE WITH THE OPERATING 
+ LIMITATIONS STATED IN THE FORM OF PLACARDS, MARKINGS 
+ AND THE FLIGHT MANUAL.” 
+ (2) “NO ACROBATIC MANEUVERS, INCLUDING SPINS, APPROVED” 
+ c) 
+ For Models S.205-20/F and S.205-20/R: 
+ (1) “AVOID CONTINUOUS OPERATION BETWEEN 2100 AND 2350 RPM” 
+ d) 
+ For Models S.208 and S.208A: (When Hartzell HC-C2YK-1B/8467-8R propeller is installed) 
+ (1) “AVOID CONTINUOUS OPERATION BETWEEN 2500 AND 2600 RPM 
+ ABOVE 25” HG. MANIFOLD PRESSURE.” 
+ e) For Models S-205 -18/R; -20/R; -22/R and S.208: 
+ (1) “DO NOT LOWER LANDING GEAR ABOVE 109 MPH CAS”. 
+ f) 
+ For Models S.208A: 
+ (1) “DO NOT LOWER LANDING GEAR ABOVE 115 MPH CAS”. 
+ g) 
+ For Models S.205 and S.208: 
+ (1) “MAX 
+ MANEUVERING 
+ SPEED 
+ FOR 
+ FULL 
+ APPLICATION 
+ OF 
+ CONTROLS IS 137 MPH CAS. MAX CROSSWING VELOCITY: 15 
+ KNOTS”. 
+ (2) “USE WING TIP TANKS IN LEVEL FLIGHT ONLY”. On 
+ Baggage Door: 
+ i) For Models S.205-18/F; -18/R, -20/F and 20/R: 
+ (1) “MAX LOAD IN THIS COMPARTMENT : 132 LBS”. 
+ j) 
+ For Model S.205 -22/R and S.208: 
+ (1) “MAX LOAD IN THIS COMPARTMENT : 176 LBS”. 
+ k) 
+ For Model S.208A: 
+ (1) “MAX LOAD IN THIS COMPARTMENT (220 LBS) INCLUDES THE 
+ BAGGAGE AND/OR FIFTH PASSENGER”. 
+ (2)"
+NOTE 3,"Each individual airplane will be supplied with a placard that specified the kinds of operations such as VFR or 
+ IFR, Day or Night, to which the operation of the airplane is limited by the equipment installed."
+NOTE 4,"The aircraft must be assembled and inspected in accordance with Registro Aeronautico 
+ Italiano approved Report No. 77, dated June 19, 1967 and later RAI-approved revision, 
+ “SIAI S.205-22/R Aircraft Assembly and Test procedure at the Waco Plant”."
+NOTE 5,"The fifth seat installation Drwg. No. 205-0-027-01 includes assemblies Part Nos. 205-2-038-01 (fifth seat at 
+ + 147.6) and 205-2-041-101 and -102 (rear seat a + 118.1) as defined in the Technical Instruction No. 
+ 205 I-3A. When the fifth seat is installed, the Appendix “2” of respective Flight Manuals must be followed 
+ and this placard must be installed in the baggage compartment: 
+ “THE MAXIMUM LOAD IN THIS COMPARTMENT (176 lbs.) INCLUDES THE 
+ BAGGAGE AND/OR FIFTH PASSENGER”. 
+ NOTE: 
+ On aircraft having the following Serial Nos., the fifth seat installation has been carried 
+ out by using two rear seats of fixed type with an arm of (+118.1): 
+ Model S.205-22/R: 
+ 373; 385; 4-142 to 4-158 inclusive; 
+ 4-176 to 4-194 inclusive. 
+ Model S.208: 
+ 002; 003."
+NOTE 6,"Installation of baggage compartment windows, as defined in Technical Instruction 
+ No. 205 I-8, is optional on S.205-22/R aircraft to be modified for the installation of fifth 
+ seat in the same compartment."
+NOTE 7,"The wing tip tank installation, Dwg. 205-8-197, includes the assemblies, part No. 
+ 205-8-193-01 and -02 (left and right wing tip tank) of 30.5 U.S. Gal. total capacity 
+ (15.25 gallons each tank) usable 28.5 U.S. Gal., at (+101.7), as defined in the Technical 
+ instruction No. 205 I-7. When the wing tip tanks are installed, the “Appendix 3” of 
+ “USE WING TIP TANKS IN LEVEL FLIGHT ONLY”."
+NOTE 8,"The Model S.208 may be converted into S.208A: 
+ a. 
+ By modifying it in accordance with “Technical Instruction No. 208I-1” by using 
+ “Kit P/No. 208I-1”; 
+ b. 
+ By replacing the nameplate and the Flight Manual with those for Model S.208A; and, 
+ c. 
+ By accomplishing the modifications reported on NOTES 5 (see NOTE 9 for the S.208 
+ aircraft S/N 001) and 7, if they are not already installed."
+NOTE 9,"The S.208 aircraft Serial No. 001 has been converted into S.208A without fifth seat 
+ installation with the rear seat, P/N 205-2-003, installed having an arm of (+119.3). 
+ In the baggage compartment is installed the placard: 
+ “MAX LOAD IN THIS COMPARTMENT : 220 LBS”."
+NOTE 10,"As of January 1, 1997, AERMACCHI S.p.A. has acquired SIAI Marchetti S.r.L."

@@ -1,0 +1,548 @@
+Keyterm,Info
+"A8SO 
+ Revision 27 
+ Aviat Aircraft, Inc. 
+ S-1S 
+ S-1T 
+ S-2 
+ S-2A 
+ S-2S 
+ S-2B 
+ S-2C 
+ April 4, 2017",
+Type Certificate Holder,"Aviat Aircraft, Inc. 
+ 672 South Washington Street 
+ Afton, Wyoming 83110"
+Type Certificate Ownership Record,"Christen Industries transferred ownership of Type Certificate A8SO to Aviat, 
+ Inc. on April 4, 1991. 
+ Aviat, Inc. transferred ownership of Type Certificate A8SO to White 
+ International, LTD. on December 3, 1992. 
+ White International, LTD. transferred ownership of Type Certificate A8SO to 
+ Sky International, Inc. on January 10, 1996. 
+ Sky International, Inc. transferred ownership to Aviat Aircraft, Inc., on 
+ February 27, 2012"
+"I - Model S-1S, 1POLB (Acrobatic Category), Approved 13 February 1973.",
+Engine,Lycoming IO-360-B4A with Bendix Injector No. RSA-5AD1
+Fuel,100/130 minimum grade aviation gasoline
+Engine Limits,180 HP @ 2700 RPM for all operations
+Propeller and,"Sensenich, fixed-pitch, 76EM8-0, diameter 76 in., no cutoff permitted."
+Propeller Limits,"Prop. Pitch vs. Allowable Static RPM 
+ Prop Pitch * 
+ Minimum 
+ Maximum 
+ 56"" 
+ 2350 
+ 2450 
+ 57"" 
+ 2325 
+ 2425 
+ 58"" 
+ 2300 
+ 2400 
+ 59"" 
+ 2275 
+ 2375 
+ 60"" 
+ 2250 
+ 2350 
+ 61"" 
+ 2225 
+ 2325 
+ * at 28.5 inch blade station."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12"
+Rev No,"26 
+ 25 
+ 25 
+ 24 
+ 27 
+ 25 
+ 25 
+ 25 
+ 24 
+ 26 
+ 24 
+ 25 
+ S.L. Static RPM limits at full throttle. No additional tolerance permitted."
+Propeller Spinner,"Pitts 1-602 required 
+ Avoid continuous operation between 2150 and 2350 RPM"
+Airspeed Limits CAS,"VNE (never exceed) 203 MPH (176 kts) 
+ VA(maneuvering) 154 MPH (134 kts) 
+ VNO (maximum structural cruising) 154 MPH (134 kts) 
+ (For acrobatic maneuver entry speeds see Airplane Flight Manual)"
+CG Range,"(+65.00 to +66.00) at 1150 pounds 
+ (+64.00) at 1115 pounds or less 
+ (+67.00) at 970 pounds or less 
+ Straight line variation between points given"
+Datum,65.06 inches forward of lower wing leading edge
+Leveling Means,Upper fuselage longerons at cockpit
+Maximum Weight,1150 pounds
+Maximum Baggage,15 pounds (@ +113.50)
+Number of Seats,One (@ +91.50)
+Fuel Capacity,"20 U.S. gallons (@ +59.63) (19 U.S. gallons usable) 
+ See Note 1 for unusable fuel"
+Oil Capacity,8 quarts (@ +33.26) (4 quarts usable)
+Control Surface,"Ailerons 
+ UP 25° ± 2° 
+ DOWN 23° ± 2°"
+Movements,"Elevator 
+ UP 25° ± 2° 
+ DOWN 25° ± 2° 
+ Elevator Tab (elevator neutral) 
+ UP 7.5° ± 2° 
+ DOWN 42° ± 2° 
+ Rudder 
+ LEFT 30° ± 2° 
+ RIGHT 30° ± 2°"
+Manufacturer’s,"Pitts Aviation Enterprises, Homestead, Fla. 001"
+Serial Nos,"Aerotek 1-0001 through 1-0064 
+ Aviat Aircraft Inc. 1-0065 and up"
+"II - Model S-1T, 1POLB (Acrobatic Category), Approved 24 July 1975, S/N 1007 and up approved 
+ September 15 1982",
+Engine,"Lycoming AEIO-360-A1D with Bendix Fuel Injector No. RSA-5AD1 
+ (S/N 002 only) Lycoming AEIO-360-A1E with Bendix Fuel Injector No. 
+ RSA-5AD1 (S/N 1007 and up)."
+Fuel,100/130 minimum grade aviation gasoline
+Engine Limits,200 HP @ 2700 RPM
+Propeller and,"Hartzell HC-C2YK-4CF/FC7666A-2 Constant Speed Pitch: High 28° ± 1/2° ,"
+Propeller Limits,"low 13 ½ at 30” station, 72” minimum diameter, 74” maximum diameter. 
+ Avoid continuous operation between 2000 and 2350 RPM, avoid continuous 
+ operation (red arc) above 2600 RPM in aerobatic flight and full throttle level 
+ flight."
+Propeller Spinner,Hartzell 836-60 required
+Propeller Governor,"Hartzell F6-3A (S/N 002 only) 
+ Hartzell F6-58Z (S/N 1007 and up)"
+Airspeed Limits CAS,"VNE (never exceed) 203 MPH (176 kts) 
+ VA (maneuvering) 154 MPH (134 kts) 
+ VNO (maximum structural cruising) 154 MPH (134 kts) (For acrobatic 
+ maneuver entry speeds see Airplane Flight Manual)"
+CG Range,"(+60.37 to +62.20) at 1150 pounds 
+ (+59.35) at 1115 pounds or less 
+ (62.48) at 970 pounds or less 
+ Straight line variation between points given."
+Datum,60.56 inches forward of lower wing leading edge
+Leveling Means,Upper fuselage longerons at cockpit
+Maximum Weight,1150 pounds
+Number of Seats,One (@ +90.46)
+Maximum Baggage,15 pounds (@ + 113.50)
+Fuel Capacity,"20 U.S. gallons (@ +59.50), (19 U.S. gallons usable) See Note 1 for unusable 
+ fuel."
+Oil Capacity,8 quarts (@ +29.26) (4 quarts usable)
+Control Surface,"Ailerons 
+ UP 25° + 2° 
+ DOWN 25° + 2°"
+Movements,"Elevator 
+ UP 25° + 2° 
+ DOWN 25° + 2° 
+ Elevator Tab (elevator neutral) 
+ UP 7.5° + 2° 
+ DOWN 42° + 2° 
+ Rudder 
+ LEFT 30° + 2° RIGHT 30° + 2°"
+Manufacturer’s,"Pitts Aviation Enterprises, Homestead, FL"
+Serial Numbers,"002 
+ Aerotek, Inc, Afton, Wyoming 1001 - 1012 
+ Pitts Aerobatics 1013 – 1049 
+ Christensen Industries 1050 – 1056 
+ Aviat Inc.1057 – 1060 
+ Aviat Aircraft Inc. 1061 and up"
+"III - Model S-2, 2 POLB (Acrobatic Category), Approved 8 March 1971",
+Engine,"Lycoming IO-360-B4A with Bendix Fuel Injector No. 
+ RSA-5AD1"
+Fuel,100/130 minimum grade aviation gasoline
+Engine Limits,180 HP @ 2700 RPM for all operations
+Propeller ,"Sensenich, fixed-pitch, 76EM8-0-61, diameter"
+Propeller limits,"76 inches no cutoff permitted. 
+ Prop. Pitch vs. Allowable Static RPM 
+ Prop Pitch * 
+ Minimum 
+ Maximum 
+ 56"" 
+ 2350 
+ 2450 
+ 57"" 
+ 2325 
+ 2425 
+ 58"" 
+ 2300 
+ 2400 
+ 59"" 
+ 2275 
+ 2375 
+ 60"" 
+ 2250 
+ 2350 
+ 61"" 
+ 2225 
+ 2325 
+ * at 28.5 inch blade station. 
+ S.L. Static RPM limits at full throttle. No additional tolerance permitted. 
+ Avoid continuous operation between 2150 and 2350 RPM."
+Propeller Spinner,Pitts 2-6002 required
+Airspeed Limits CAS,"VNE (never exceed) 203 MPH (176 kt.) 
+ VA (maneuvering) 154 MPH (134 kt.) 
+ VNO (maximum structural cruising) 154 MPH (134 kt.) 
+ (For acrobatic maneuver entry speed see Airplane Flight Manual)"
+CG Range,"(+95.58 to +96.50) at 1500 pounds 
+ (+92.35) at 1350 pounds or less 
+ (+97.12) at 1440 pounds or less 
+ Straight-line variation between points given"
+Datum,97.81” forward of lower wing leading edge
+Leveling Means,Upper fuselage longerons at rear cockpit
+Maximum Weight,1500 pounds
+Number of Seats,"2 (1 @ +108.61), (1 @ +136. 59)"
+Maximum Baggage,20 pounds (@ +157.81)
+Fuel Capacity,"24 U.S. gallons (@ +80.81), (23 U.S. gallons usable) 
+ See Note 1 for unusable fuel"
+Oil Capacity,8 quarts (@ +50.81) (4 quarts usable)
+Control Surface,"Ailerons 
+ UP 27° ± 2° 
+ DOWN 20° ± 2°"
+Movements,"Elevator 
+ UP 27° ± .75° 
+ DOWN 27° ± .75° 
+ Elevator Tab (elevator neutral) 
+ UP 7° ± 2° 
+ DOWN 19° ± 2° 
+ Rudder 
+ LEFT 30 ± .75° RIGHT 30 ± .75°"
+Manufacturer’s,"Pitts Aviation Enterprises, Homestead, Fla"
+Serial Nos,"1001 
+ Aerotek, Inc., Afton, Wyoming 
+ 2001 and up"
+"IV - Model S-2A, 2POLB (Normal and Acrobatic Category), Approved 11 Jun 1971. 
+ The Model S-2A (S/N 1001, 2001 thru 2205) is identical to the Model S-2 except for (1) 200 HP engine, 
+ 2206 and up are further modified by (1) Lycoming AEIO-360-A1E engine (2) 3” longer landing gear, and 
+ (3) 2” wider fuselage in forward cockpit area. S/N 2219, 2231 and up are further modified by 
+ incorporation of symmetric ailerons and aerodynamic counter balances.",
+Engine,"Lycoming IO-360-A1A with Bendix Fuel Injector No. RSA-5AD1 and as 
+ modified by STC SE469SO (Serial Numbers 1001, 2001 through 2085). 
+ Lycoming AEIO-360-A1A with Bendix Fuel Injector No. RSA-5AD1 (Serial 
+ Numbers 1001, 2001 and up). 
+ Lycoming AEIO-360-A1E with Bendix Fuel Injector No. RSA-5AD1 (Serial 
+ Numbers 2206 and up)."
+Fuel,100/130 minimum grade aviation gasoline
+Engine Limits,200 HP @ 2700 RPM
+Propellers,"Hartzell HC-C2YK-4AF/FC7666A-2 or HC-C2YK-4CF/FC7666A-2 Constant 
+ Speed"
+Propeller Limits,"Pitch: High 24° ± 1/2° , low 13 1/2° at 30” station, 72” minimum diameter, 
+ 74” maximum diameter. Avoid continuous operation between 2000 and 2350 
+ RPM. Avoid continuous operation (red arc) above 2600 RPM in aerobatic flight 
+ and full throttle level flight."
+Propeller Spinner,Hartzell 836-60 required
+Propeller Governor,"Hartzell F6-3A (S/N 1001, 2001 through 2205) 
+ Hartzell F6-58Z (S/N 2206 and up)"
+Airspeed Limits CAS,"VNE (never exceed) 203 MPH (176 kt.) 
+ VA (maneuvering) 154 MPH (134 kt.) 
+ VNO (maximum structural cruising) 154 MPH (134 kt.) 
+ (For acrobatic maneuver entry speeds see Airplane Flight Manual)"
+CG Range,"Normal Category: 
+ (+94.50 to +96.13) at 1575 pounds 
+ (+92.35) at 1350 pounds or less 
+ (+97.50) at 1472 pounds or less 
+ Acrobatic Category: 
+ (+95.58 to +96.50) at 1500 pounds 
+ (+92.35) at 1350 pounds or less 
+ (+97.12) at 1440 pounds or less 
+ Straight line variation between points given"
+Datum,97.81” forward of lower wing leading edge
+Leveling means,Upper fuselage longerons at rear cockpit
+Maximum weight,"Normal category 1575 pounds 
+ Acrobatic category 1500 pounds"
+Number of seats,"2 (1 @ +108.61), (1 @ +136.59)"
+Maximum baggage,20 pounds (@ + 157.81)
+Fuel Capacity,"24 U.S. gallons (@ + 80.81), (23 U.S. gallons usable) 
+ (See note 1 for unusable fuel)"
+Oil Capacity,8 quarts (@ + 54.81) (4 quarts usable)
+Control surface,"Ailerons (unsymmetrical) 
+ UP 27° ± 2° 
+ DOWN 20° ± 2°"
+Movements,"Ailerons (symmetrical) 
+ UP 25° ± 2° 
+ DOWN 25° ± 2° 
+ Elevator 
+ UP 27° ± .75° 
+ DOWN 27° ± .75° 
+ Elevator Tab (elevator neutral) 
+ UP 7° ± 2° 
+ DOWN 19° ± 2° 
+ Rudder 
+ LEFT 30° ± .75° RIGHT 30° ± .75°"
+Manufacturer’s,"Pitts Aviation Enterprises, Homestead Fla."
+Serial Numbers,"1001 
+ Aerotek, Inc., Afton, Wyoming 
+ 2001 through 2271 
+ Pitts Aerobatics Afton, Wyoming 
+ 2272 and up"
+"V - Model S-2S, 1 POLB (Normal and Acrobatic Category), Approved 29 May 1981. 
+ The Model S-2S is identical to the Model S-2A except for (1) 260 HP engine, (2) single cockpit, (3) a fuel 
+ system utilizing two fuel tanks, and (4) forward fuselage modification.",
+Engine,Lycoming AEIO-540-D4A5 with Bendix Fuel Injector No. RSA-5AD1
+Fuel,100/130 minimum grade aviation gasoline
+Engine Limits,260 HP @ 2700 RPM for all operations
+Propeller and,Hartzell HC-C2YR-4CF/FC8477A-4 Constant Speed
+Propeller Limits,"Pitch: High 32° to 34°; low 11° ± 0.1° at 30” station, 78” minimum diameter, 
+ 80” maximum diameter."
+Propeller Spinner,Hartzell 836-60 required
+Propeller governor,Hartzell F6-59Z
+Airspeed Limits CAS,"VNE (never exceed) 203 MPH (176 kts) 
+ VA (maneuvering) 154 MPH (134 kts) 
+ VNO (maximum structural cruising) 154 MPH (134 kts) (For acrobatic 
+ maneuver entry speeds see Airplane Flight Manual)"
+CG Range,"Normal Category: 
+ ( + 94.50 to +96.13) at 1575 pounds 
+ (+92.35) at 1350 pounds or less 
+ (+97.50) at 1472 pounds or less 
+ Acrobatic Category: 
+ (+95.58 to +96.50) at 1500 pounds 
+ (+92.35) at 1350 pounds or less 
+ (+97.12) at 1440 pounds or less 
+ Straight line variation between points given."
+Datum,97.81” forward of lower wing leading edge.
+Leveling Means,Upper fuselage longerons at rear cockpit.
+Maximum Weight,"Normal Category 1575 pounds 
+ Acrobatic Category 1500 pounds"
+Number of Seats,One (@ + 137.52)
+Maximum Baggage,20 pounds (@ 157.81)
+Fuel Capacity,"35 U.S. gallons (15 gal @ +92.0 and 20 gal. @ +107.2) 
+ (33 U.S. gallons usable) 
+ See Note 1 for unusable fuel"
+Oil Capacity,12 quarts (@ +68.60) (6 quarts usable)
+Control Surface,"Ailerons (symmetrical) 
+ UP 25° ± 2° 
+ DOWN 25° ± 2°"
+Movements,"Elevator 
+ UP 25° ± .75° 
+ DOWN 27° ± .75° 
+ Elevator Tab (elevator neutral) 
+ UP 7° ± 2° 
+ DOWN 19° ± 2° 
+ Rudder 
+ LEFT 30° ± .75° RIGHT 30° ± .75°"
+Manufacturer’s,"Aerotek, Inc., Afton, Wyoming"
+Serial Number,"3000 through 3011 
+ Pitts Aerobatics, Afton, Wyoming 
+ 3012 and up"
+"VI - Model S-2B, 2 POLB (Normal and Acrobatic Category), Approved 6 April 1983. 
+ The model S-2B is identical to the Model S-2A except for (1) 260 HP engine, (2) wings and landing gear 
+ moved forward 6”, and (3) upper wing auxiliary tank.",
+Engine,Lycoming AEIO-540-D4A5 with Bendix Fuel Injector NO. RSA-5AD1
+Fuel,100/130 minimum grade aviation gasoline
+Engine Limits,"260 HP @ 2700 RPM 
+ For all operations"
+Propeller and,Hartzell HC-C2YR-4CF/FC8477A-4 Constant Speed
+Propeller Limits,"Pitch: High 32° to 34°; low 11° ± 0.1° at 30” Station, 78” minimum diameter, 
+ 80” maximum diameter. 
+ MT Propeller MTV-9-BC/C190-18A Constant Speed. 
+ Pitch: High 29 to 31; Low: 13 +/-0.2 at 26.18” Station. 74.8” diameter, 
+ no cutoff permitted. (S/N) 5298 and up) See Note 3. 
+ Hartzell HC-C3YR-1A/7690C or 7690E Constant speed 
+ Pitch: High: 32o ± 1o, Low: 9.4o ±.1o at 30” Station, 
+ 78” minimum diameter, 80” maximum diameter. 
+ Hartzell HC-C3YR-4A/C7690E Constant speed 
+ Pitch: High: 32o ± 1o, Low: 9.4o ±.1o at 30” Station, 
+ 78” minimum diameter, 80” maximum diameter."
+Propeller Spinner,"Hartzell 836-60 required with Hartzell HC-C2YR-4CF/FC8477A-4 
+ MT P-308 required with MTV-9-BC/C190-18A 
+ Hartzell C-3570(P) required with HC-C3YR-1A/7690C or 7690E 
+ Hartzell D-7267-P required with HC-C3YR-4A/C7690E"
+Propeller Governor,"Hartzell F6-59Z required with Hartzell HC-C2YR-4CF/FC8477A-4 or HC- 
+ C3YR-4A/C7690E or MT Propeller MTV-9-BC/C190-18A 
+ Hartzell E2-2 required with HC-C3YR-1A/7690C or 7690E"
+Airspeed Limits CAS,"VNE (never exceed) 212 MPH (184 kts) 
+ VA (maneuvering) 154 MPH (134 kts) 
+ VNO (maximum structural cruising) 154 MPH (134 kts) 
+ (For acrobatic maneuver entry speed see Airplane Flight Manual)"
+CG Range,"Normal Category: 
+ (+ 88.50 to +90.20) at 1700 pounds 
+ (+86.35) at 1475 pounds or less 
+ Acrobatic Category: 
+ (+89.58 to +90.50) at 1625 pounds 
+ (+86.35) at 1475 pounds or less 
+ Straight line variation between points given."
+Datum,91.81” forward of lower wing leading edge.
+Leveling Means,Upper fuselage longerons at rear cockpit.
+Maximum Weight,"Normal Category 1700 pounds 
+ Acrobatic Category 1625 pounds"
+Number of Seats,2 (1 @ +105.15) (1 @ +136.50)
+Maximum Baggage,20 pounds (@ + 157.81)
+Fuel Capacity,"29 U.S. gallons (24 gal. @ +81.32 and 5 gal @ +81.75) 
+ (28 U.S. gallons usable) 
+ See Note 1 for unusable fuel"
+Oil Capacity,12 quarts (@ +49.70) (6 quarts usable)
+Control Surface,"Ailerons (symmetrical) 
+ UP 25° ± 2° 
+ DOWN 25° ± 2°"
+Movements,"Elevator 
+ UP 27° ± .75° 
+ DOWN 27° ± .75° 
+ Elevator tab (elevator neutral) 
+ UP 7° ± 2° 
+ DOWN 19° ± 2° 
+ Rudder 
+ LEFT 30° ± .75° RIGHT 30° ± .75°"
+Manufacturer’s,"Pitts Aerobatics, Afton, Wyoming"
+Serial Numbers,"5000 - 5120 
+ Christen Industries Afton, Wyoming 
+ 5121 – 5209 
+ Aviat Afton, Wyoming 
+ 5210 – 5330 
+ Aviat Aircraft Inc. Afton, Wyoming 
+ 5331 and up"
+"VII. Model S-2C, 2 POLB (Normal and Acrobatic Category), Approved 4 June 1998. 
+ The model S-2C is identical to the Model S-2B except for (1) wings, tail and ailerons of different shape 
+ (2) Bottom of fuselage of different shape. The S-2C is approved for +6, -5 g limit load operation.",
+Engine,"Lycoming AEIO-540-D4A5 with Bendix Fuel Injector NO. RSA-5AD1 Fuel 
+ 100/130 minimum grade aviation gasoline"
+Engine Limits,"260 HP @ 2700 RPM 
+ For all operations"
+Limits,"Manufacturer: 
+ Hartzell 
+ Model Number: 
+ HC-C3YR-1A/7690C or 7690E 
+ HC-C3YR-4A/C7690E 
+ Number of Blades: 
+ 3 Composite 
+ Diameter 
+ Maximum: 
+ 80 inches (1.98 m) 
+ Minimum: 
+ 78 inches (1.98 m) 
+ Propeller Pitch settings 
+ High: 
+ 32o ± 1o 
+ Low: 
+ 9.4o ±.1o @ 
+ 30 inch station 
+ Propeller Type: 
+ Constant speed and 
+ hydraulically actuated."
+Propeller Spinner,"Hartzell C-3570(P) required with HC-C3YR-1A/7690C or 7690E 
+ Hartzell D-7267-P required with HC-C3YR-4A/C7690E"
+Propeller governor,"Hartzell F6-59Z is used with HC-C3YR-4A/C7690E 
+ Hartzell E2-2 is required with HC-C3YR-1A/7690C or 7690E"
+Airspeed Limits CAS,"VNE (never exceed) 212 MPH (184 kts) 
+ VA (maneuvering) 154 MPH (134 kts) 
+ VNO (maximum structural cruising) 154 MPH (134 kts) 
+ (For acrobatic maneuver entry speed see Airplane Flight Manual)"
+CG Range,"Normal Category: 
+ (+ 88.50 to +90.20) at 1700 pounds 
+ (+86.35) at 1475 pounds or less-Straight line variation between points given."
+Acrobatic Category,"(+88.50 to +90.20) at 1700 pounds 
+ (+86.35) at 1475 pounds or less 
+ Straight line variation between points given."
+Datum,91.81” forward of lower wing leading edge.
+Leveling Means,Upper fuselage longerons at rear cockpit.
+Maximum Weight,"Normal Category 1700 pounds 
+ Acrobatic Category 1700 pounds"
+Number of Seats,2 (1 @ +105.15) (1 @ +136.50)
+Maximum Baggage,20 pounds (@ + 157.81)
+Fuel Capacity,"29 U.S. gallons (24 gal. @ +81.32 and 5 gal @ +81.75) 
+ (28 U.S. gallons usable) 
+ See Note 1 for unusable fuel"
+Oil Capacity,12 quarts (@ +49.70) (6 quarts usable)
+Control Surface,"Ailerons (symmetrical) 
+ UP 28.5° ± 2° 
+ DOWN 22° ± 2°"
+Movements,"Elevator 
+ UP 27° ± .75° 
+ DOWN 27° ± .75° 
+ Elevator tab (elevator neutral) 
+ UP 25° ± 2° 
+ DOWN 25° ± 2° 
+ Rudder 
+ LEFT 30° ± .75° RIGHT 30° ± .75°"
+Manufacturer’s,"Aviat Aircraft Inc., Afton, Wyoming"
+Serial Numbers,6001 and up
+DATA PERTINENT TO ALL MODELS,
+Empty weight,None.
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness 
+ regulations (see certification basis) must be installed in the aircraft for 
+ certification. In addition, the following is required. 
+ S-1S 
+ a. FAA approved flight manual revision C dated 29 October 1976, or later FAA 
+ approved revision. 
+ b. See approved equipment list Airplane Flight Manual, Weight and Balance Section. 
+ S-1T 
+ a. FAA approved flight manual revision C dated 26 July 1976, or later FAA approved 
+ revision. 
+ b. See approved equipment list Airplane Flight Manual, Weight and Balance section. 
+ S-2 
+ a. FAA approved flight manual revision IR dated 8 March 1971, or later FAA approved 
+ revision. 
+ b. See approved equipment list Airplane Flight Manual, Weight and Balance Section. 
+ S-2A 
+ a. FAA approved flight manual revision H dated 25 October 1980, or later FAA 
+ approved revision. 
+ b. See approved equipment list Airplane Flight Manual, Weight and Balance Section. 
+ S-2S 
+ a. FAA approved flight manual revision A dated 14 January 1998, or later FAA 
+ approved revision. 
+ b. See approved equipment list Airplane Flight Manual, Weight and Balance Section. 
+ S-2B 
+ a. FAA approved flight manual revision I dated 14 January 1998, or later FAA 
+ approved revision. 
+ b. See Approved equipment list Airplane Flight Manual, Weight and Balance Section. 
+ S-2C 
+ a. FAA approved flight manual revision C dated 12 March 2010, or later FAA 
+ approved revision. 
+ b. See Approved equipment list Airplane Flight Manual, Weight and Balance Section."
+Optional Equipment,"Refer to Weight and Balance Section of the Airplane Flight Manual for Optional 
+ Equipment."
+Certification Basis,"FAR 23, effective February 1, 1965, including amendments 1 through 6. Application for 
+ type certificate, August 16, 1968. 
+ FAR 36, dated December 1, 1969, plus amendments 36-1 through 36-11."
+Production Basis,"Production Certificate No 419, except the Model S-2. Prior to original certification of 
+ each Model S-2 aircraft, an FAA representative must perform a detailed inspection for 
+ workmanship, materials and conformity with the approved technical data and a check of 
+ the flight characteristics."
+Export Eligibility,"Aircraft will be eligible for issuance of an export certificate of airworthiness subject to 
+ compliance with Federal Aviation Regulations Part 21, Subpart L, Section 21.321 
+ through 21.339. Special requirements of specific foreign countries are contained in 
+ Advisory Circular 21.2."
+NOTE 1,"Current weight and balance report including list of equipment included in certificated 
+ empty weight, and loading instructions must be provided for each aircraft at the time of 
+ original certification. The empty weight and the corresponding center of gravity location 
+ must include the following unusable fuel: 
+ S-1S – 6 pounds (@ +59.63) 
+ S2 and S-2A – 6 pounds (@ + 80.81) 
+ S-1T – 6 pounds (@ +59.50) 
+ S-2S – 6 pounds (@ +92.00) and 6 pounds (@ +107.20) 
+ S-2B – 6 pounds (@ +81.32) 
+ S-2C – 6 pounds (@ +81.32)"
+NOTE 2,"All placards required in the approved Airplane Flight Manual must be installed in the 
+ appropriate locations."
+NOTE 3,"S-2B aircraft S/N 5000 and up are approved for installation of the MT Propeller when 
+ installed in accordance with serialized AVIAT Kit S-2B-Pitch limits and diameter for the 
+ MT Propeller are shown on page 9 of this Type Certificate Data Sheet. An FAA 
+ Approved Flight Manual revision for the MT Propeller, for the Pitts S-2B is required."
+NOTE 4,"S-2B aircraft S/N 5000 and up are approved for installation of the 3 blade Hartzell 
+ Composite Propeller when installed in accordance with serialized AVIAT Kit S-2B-526. 
+ Pitch limits and diameters for the propeller are shown on page 9 of this Type Certificate 
+ Data Sheet. An FAA Approved Flight Manual revision for the 3 blade composite 
+ Propeller, for the Pitts S-2B is required."
+NOTE 5,"The S-2C aircraft S/N 6001 and up are approved for installation of the Electronics 
+ International, Inc. FLC-1CAB electronic fuel quantity indicating system per the Type 
+ Design data for that model."
+NOTE 6,Deleted
+NOTE 7,"S-2B Aircraft S/N 5000 and up and S-2C aircraft S/N 6000 and up are approved 
+ for installation of the smoke system per Aviat Drawing No. 2-1018 dated 
+ 7/30/2007 or later FAA approved revision for use in air show work and aerial 
+ demonstrations and can also be field installed via AVIAT Kit # S-2B/S-2C-508 
+ per Sky International Service Letter No. 15. FAA Approved Flight Manual 
+ Supplement #70461, Revision IR, dated October 10, 2008 or later FAA 
+ approved revision and ICA Smoke System Document #70207-001, Revision IR, 
+ dated May 6, 2008 or later FAA accepted revision is required."
+NOTE 8,"S-2C serial number 6000 and up are approved in the Normal & Acrobatic 
+ airworthiness category with the exception of serial number 6044 due to an un- 
+ airworthy condition."

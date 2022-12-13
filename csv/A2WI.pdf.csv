@@ -1,0 +1,104 @@
+Keyterm,Info
+"A2WI 
+ Revision 4 
+ TKEF 
+ 44 
+ April 16, 2018",
+Type Certificate Holder,"The King’s Engineering Fellowship (TKEF) 
+ 1410 Arizona Place SW 
+ Orange City, IA 51041"
+"I. 
+ Model 44, Angel, 8 PCLM (Normal Category), Approved October 20, 1992",
+Engines,"Two Lycoming IO-540-M1A5 (See NOTE 5) 
+ Or Two Lycoming IO-540-M1C5"
+Fuel,100LL/100 minimum grade aviation fuel
+Engine Limits,"For all operations, 2700 rpm (300 hp)"
+Propeller and Propeller Limits,"(a) Hartzell constant speed, full feathering propeller 
+ HC-E3YR-2ALTF/FLC7468 (both engines) 
+ 3 blades aluminum alloy 
+ Diameter: 76 in. nominal 
+ Minimum allowed for repair 75 in., no further reduction permitted. 
+ Pitch setting at 30 in. station: low 13.2° ±0.2°, feather 84.5° ±1° 
+ (b) Hartzel hydraulic governor V-1-3 for narrow deck engine, 
+ V-1-4 for wide deck engine 
+ (c) TKEF spinner assembly 4459-3000"
+Airspeed Limits IAS,"Never exceed 
+ 209 knots (210 KCAS) 
+ Maximum structural cruising 
+ 174 knots (174 KCAS) 
+ Maneuvering 
+ 139 knots (138 KCAS) 
+ Flaps extended 
+ 104 knots (106 KCAS) 
+ Minimum control 
+ 65 knots (65 KCAS) 
+ Landing gear extension 
+ 130 knots (130 KCAS) 
+ Landing gear retraction 
+ 104 knots (104 KCAS)"
+CG Range,"(Landing Gear Extended) 
+ (+176.0) to (+186.0) for all operating weights 
+ (5800 lbs maximum)"
+Empty Weight CG Range,None
+Datum,3.0 in. forward of nose gear pivot point
+Leveling Means,Seat tracks
+Maximum Weight,5800 lbs for all operations
+Minimum Crew,One (1) pilot
+No of Seats,"8 maximum (2 at +95, 2 at +128, 2 at +161, 2 at +198)"
+Page No,"1 
+ 2"
+Rev No,"4 
+ 4"
+Maximum Baggage,"200 lbs Bay 1 (+96), 400 lbs Bay 2 (+126), 400 lbs Bay 3 (+161), 
+ 400 lbs Bay 4 (+195), 200 lbs Baggage Compartment (+258)"
+Fuel Capacity,"224 gal. (222 gal. useable), two 112 gal tanks in wings at +165.5. 
+ See NOTE 1 for data on system fuel and oil."
+Oil Capacity,"12 qt. (9.25 qt. useable) each engine at +216.5. 
+ See NOTE 1 for data on system fuel and oil."
+Control Surface,"Wing flaps 
+ Down 37° ±2° 
+ Ailerons 
+ Up 30° +3° 
+ Down 7° +5° 
+ Spoilers 
+ Up 60° ±4° 
+ Rudder 
+ Right 30° +2° 
+ Left 30° +2° 
+ Elevator 
+ Up 30° +0°, -1° 
+ Down 15° +2° 
+ Rudder tab 
+ Right 28° +2° 
+ Left 28° +2° 
+ Elevator tab 
+ Up 5° +1° 
+ Down 24° +2° 
+ (with elevator neutral)"
+Serial Nos Eligible,001 and On
+Certification Basis,"Part 23 of Federal Aviation Regulations (FAR) dated February 1, 1965, as amended by 
+ 23-1 through 23-36 and FAR 36 dated December 1, 1969, as amended by 36-1 through 
+ 36-18 and Special Conditions 23-ACE-59. 
+ Exemption: Stall warning FAR 23.207(c)."
+Production Basis,"S/N 001 
+ Manufactured under Type Certificate only by TKEF 
+ S/N 002 
+ Manufactured under Type Certificate only by Angel Aircraft Corporation (AAC) of 
+ Orange City, IA, under a licensing agreement between TKEF and AAC, dated 
+ October 4, 1986. 
+ S/N 003 and up 
+ Production Certificate 342CE. The manufacturer (AAC) is authorized to issue 
+ airworthiness certificates under 14 CFR 21.183 (a). NOTE: This model is listed on 
+ the AAC Production Limitation Record and is being produced under Licensing 
+ Agreement between TKEF and AAC, dated October 4, 1986."
+Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. This equipment 
+ must include a current Airplane Flight Manual (AFM)."
+NOTE 1,"Current weight and balance report including list of equipment included in certificated empty weight, and loading 
+ instructions when necessary must be provided for each aircraft at the time of original certification. 
+ (a) Basic empty weight includes unusable fuel of 12 lbs at +165.5. 
+ (b) Basic empty weight includes engine oil of 45 lbs at +216.5."
+NOTE 2,All required placards in the FAA Approved Airplane Flight Manual (AFM) must be installed in the appropriate
+NOTE 4,"All replacement seats (crew and passenger), although they may comply with TSO C39, must also be demonstrated to 
+ comply with FAR 23.321, 23.395, 23.561, 23.562, and 23.785."
+NOTE 5,Lycoming IO-540-M1A5 configured with two impulse magnetos per TKEF Engine Specification 4450-0001.

@@ -1,0 +1,1334 @@
+Keyterm,Info
+"R00024BO 
+ Revision 28 
+ Sikorsky Aircraft 
+ Model S-92A 
+ October 4, 2021",
+TYPE CERTIFICATE TC HOLDER,"Sikorsky Aircraft Corporation 
+ 6900 Main Street 
+ Stratford, CT 06615-9129"
+MODEL NUMBER,"S-92A (Transport Helicopter, Category A, Approved 17 
+ December 2002; Transport Helicopter, Category B, 
+ Approved May 7, 2004)"
+ENGINES,"2 General Electric Company Model GE CT7-8 (TC E8NE) or 
+ 2 General Electric Company Model GE CT7-8A (TC E8NE) or 
+ 2 General Electric Company Model GE CT7-8A6 (TC E8NE)"
+FUELS,"JET A, JET B, JET A-1, JP-4, JP-5, JP-8, PRC No. 3, TS-1, RT 
+ For all operations below –20°C (-4°F) ambient temperature, all fuel used 
+ must contain MIL-D-27686 or equivalent anti-icing additive."
+ENGINE AND TRANSMISSIONS APPROVED OILS,See Rotorcraft Flight Manual for list of approved oils.
+HYDRAULIC FLUID,"MIL-PRF-87257 is authorized for use at all approved ambient 
+ temperatures. 
+ MIL-PRF-83282 may only be used at ambient temperatures above -32°C (- 
+ 25°F)."
+DEICING FLUID,Kilfrost DF PLUS (88)
+Page,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ I I I I I I I I I I I I I I I I"
+Rev,"28 
+ 3 
+ 3 
+ 24 
+ 27 
+ 27 
+ 27 
+ 27 
+ 27 
+ 25 
+ 24 
+ 26 
+ 24 
+ 27 
+ 28 
+ CT7-8 Engine 
+ DUAL ENGINE LIMITS 
+ Ng (%) 
+ Np (%) 
+ Rated SHP 
+ Rated 
+ Rating 
+ Time 
+ Q (%) 
+ T4.5 
+ (°C) 
+ @ SLS 
+ Np (%) 
+ 100 
+ 920 
+ 99.9 
+ 106 
+ 2043 
+ 105 
+ 86 (1) 
+ when airspeed is greater than 100 KIAS"
+30 Min 2,"30 min 
+ 100 
+ 957 
+ 101.5 
+ 106 
+ 2336 
+ 105"
+Takeoff,"5 min 
+ 100 
+ 986 
+ 102.9 
+ 106 
+ 2520 
+ 105"
+Transient,"12 sec 
+ 987 
+ 103.2 
+ 116 
+ 10 sec 
+ 120 (3) 
+ SINGLE ENGINE LIMITS 
+ Ng (%) 
+ Np (%) 
+ Rated SHP 
+ Rated 
+ Rating 
+ Time 
+ Q (%) 
+ T4.5 
+ (°C) 
+ @ SLS 
+ Np (%) 
+ 120 
+ 920 
+ 99.9 
+ 106 
+ 2043 
+ 105"
+OEI,"30 min 
+ 120 
+ 979 
+ 102.4 
+ 106 
+ 2498 
+ 100"
+OEI,"2 min 
+ 120 
+ 990 
+ 102.9 
+ 106 
+ 2520 
+ 100"
+OEI,"30 sec 
+ 135 
+ 1010 
+ 103.7 
+ 106 
+ 2600 
+ 100"
+Transient,"5 sec 
+ 156(3)"
+Max starting,"peak 
+ 1000"
+,Q (%) values are gearbox limits.
+,(2) Rating applies to hovering flight only.
+,"100% Q corresponds to a combined power input from both engines to the MGB of 4,170 shp at a 
+ rotor speed of 105% (258 rpm). Power turbine speed (Np) of 105% corresponds to 21,945 rpm."
+,"provided that the torque on the other engine is proportionally less than 100% and the sum of the 
+ individual torque values does not exceed 200%."
+,Np overspeed trip is at 120%.
+,Ng overspeed trip is at 108.5%
+,"When flying at altitudes greater than 8,000 feet at outside air temperatures lower that –20 degrees C, it is 
+ possible to reach the corrected Ng speed limit of the engine. When this occurs, the engine will not produce 
+ more power. The only indication that the pilot will see when reaching this limit is that further increase in"
+collective will commensurately droop Nr,"CT7-8A Engine 
+ DUAL ENGINE LIMITS 
+ Ng (%) 
+ Np (%) 
+ Rated SHP 
+ Rated 
+ Rating 
+ Time 
+ Q (%) 
+ T4.5 
+ (°C) 
+ @ SLS 
+ Np (%) 
+ 100 
+ 935 
+ 99.9 
+ 106 
+ 2043 
+ 105 
+ 86 (1) 
+ when airspeed is greater than 100 KIAS"
+30 Min 2,"30 min 
+ 100 
+ 988 
+ 101.5 
+ 106 
+ 2336 
+ 105"
+Takeoff,"5 min 
+ 100 
+ 995 
+ 102.9 
+ 106 
+ 2520 
+ 105"
+Transient,"12 sec 
+ 1003 
+ 103.2 
+ 116 
+ 10 sec 
+ 120 (3) 
+ SINGLE ENGINE LIMITS 
+ Ng (%) 
+ Np (%) 
+ Rated SHP 
+ Rated 
+ Rating 
+ Time 
+ Q (%) 
+ T4.5 
+ (°C) 
+ @ SLS 
+ Np (%) 
+ 120 
+ 988 
+ 102.4 
+ 106 
+ 2498 
+ 105"
+OEI,"2 min 
+ 120 
+ 1006 
+ 102.9 
+ 106 
+ 2520 
+ 100"
+OEI,"30 sec 
+ 141 
+ 1049 
+ 103.7 
+ 106 
+ 2740 
+ 100"
+Transient,"5 sec 
+ 156(3)"
+Max starting,"peak 
+ 1000"
+,Q (%) values are gearbox limits.
+,(2) Rating applies to hovering flight only.
+,"100% Q corresponds to a combined power input from both engines to the MGB of 4,170 shp at a rotor 
+ speed of 105% (258 rpm). Power turbine speed (Np) of 105% corresponds to 21,945 rpm."
+,that the torque on the other engine is proportionally less than 100% and the sum of the individual torque
+,Np overspeed trip is at 120%.
+,Ng overspeed trip is at 108.5%
+,"When flying at altitudes greater than 8,000 feet at outside air temperatures lower that –20 
+ degrees C, it is possible to reach the corrected Ng speed limit of the engine. When this occurs, 
+ the engine will not produce more power. The only indication that the pilot will see when reaching 
+ this limit is that further increase in collective will commensurately droop Nr. 
+ CT7-8A6 Engine 
+ DUAL ENGINE LIMITS"
+Rating,"Time 
+ Q(%) 
+ T4.5(ºC) 
+ Ng(%) 
+ Np(%) 
+ Rated SHP @ SLS 
+ Rated Np(%) 
+ 100 
+ 946 
+ 100.6 
+ 106 
+ 2329 
+ 105 
+ 86 (1) when airspeed is greater than 100 KIAS **"
+30 Min 2,"30 min 
+ 100 
+ 996 
+ 102.9 
+ 106 
+ 2637 
+ 105"
+Takeoff,"5 min 
+ 100 
+ 1008 
+ 102.9 
+ 106 
+ 2695 
+ 105"
+Transient,"12 sec 
+ 1009 
+ 103.2 
+ 116 
+ 10 sec 
+ 120 (3) 
+ SINGLE ENGINE LIMITS"
+Rating,"Time 
+ Q(%) 
+ T4.5(ºC) 
+ Ng(%) 
+ Np(%) 
+ Rated SHP @ SLS 
+ Rated Np(%) 
+ 120 
+ 996 
+ 102.9 
+ 106 
+ 2637 
+ 105"
+OEI,"2 min 
+ 120 
+ 1013 
+ 102.9 
+ 106 
+ 2684 
+ 100"
+OEI,"30 sec 
+ 141 
+ 1097 
+ 103.7 
+ 106 
+ 2845 
+ 100"
+Transient,"5 sec 
+ 156(3)"
+Max starting,"peak 
+ 1000"
+,Q (%) values are gearbox limits.
+,"100% Q corresponds to a combined power input from both engines to the MGB of 4,170 SHP, at a rotor 
+ speed of 105% (258 RPM). Power turbine speed (NP) of 105% corresponds to 21,945 RPM."
+,that the torque on the other engine is proportionally less than 100% and the sum of the individual torque
+,Np overspeed trip is at 120%. Ng overspeed trip is at 108.5%.
+,"When flying at altitudes greater than 8,500 ft at outside air temperatures lower than −30°C, it is possible to 
+ reach the corrected Ng speed limit of the engines. When this occurs, the engine will not produce more power. 
+ The only indication that the pilot will see when reaching this limit is that any further increase in collective will"
+,"weight on wheels, and engine start cycle is completed."
+1,"Greater than 100 KIAS & below a density altitude of 6,000 ft Hd, the torque limit is reduced to 86% Q. greater 
+ than 100 KIAS & above 6,000 ft Hd, the torque limit is further reduced by 2% Q per 1,000 ft Hd. This is not a"
+3,Rating applies to hovering flight only.
+4,PCL must be at idle for limiter to function.
+ROTOR SPEED LIMITS,"POWER OFF 
+ Maximum 110% Nr 
+ Minimum 95% Nr 
+ POWER ON 
+ Maximum 110% Nr 
+ Minimum 95% Nr"
+DRIVE SYSTEM LIMITS,Dual Engine
+Torque ,"No Inspect Req’d 
+ Serviceability Check 
+ Remove/Replace MGB"
+0 to 100,Continuous
+101 to 120,"< 10 sec 
+ ≥ 10 sec"
+121 to 140,"< 10 sec 
+ ≥ 10 sec"
+greater than 140,"Any occurrence 
+ Single Engine"
+Torque ,"No Inspect Req’d 
+ Serviceability Check 
+ Remove/Replace MGB"
+0 to 120,Continuous
+121 to 140,"< 30 sec 
+ ≥ 30 sec"
+141 to 156,"< 5 sec 
+ ≥ 5 sec"
+greater than 156,Any occurrence
+Vne never exceed Power On,"165 KIAS. See Rotorcraft Flight Manual for variations of 
+ Vne with gross weight and density altitude."
+VleVlo gear extendedgear operating,165 KIAS/165 KIAS.
+Vne with floats “armed”,80 KIAS.
+Vne Power Off,120 KIAS.
+Vne Hoist Extended,120 KIAS.
+Vne Upper Sliding Door Open,120 KIAS.
+Vne External Cargo,120 KIAS. Heavy External Lift
+CENTER OF GRAVITY CG LIMITS,"Weight and Center of Gravity Envelope 
+ Maximum Gross Weight 26,500 Pounds"
+30000,"i 
+ I 
+ -,J 
+ ' 
+ I 
+ 3&0.3: 
+ I 
+ I 
+ : 
+ I 
+ 134r, 7 
+ I 
+ : 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ t--- 
+ ·t--- 
+ :--- 
+ -1-- 
+ -t- 1--t- --1----- 
+ ----1-----t----1""--- 1--- 
+ ·t-- 
+ ·t--- -1- 
+ ,- 
+ --: 1--~ 
+ --1 
+ ---, 
+ 2a,3ob - 1- ,-'---------------------------------------•·-.--·- 
+ ! 
+ ! 
+ I 
+ f 
+ I 
+ J60~ 
+ 2s,3oo 
+ 1 
+ I 
+ 26f, ou;-__,-,.._,;.._;...~ ........ -..;.-.;..-.;... ............ - ..... - ..... - .... - ~: -I--; 26fsoo: 
+ I 
+ ~- 
+ -t- 
+ -t- 
+ -~ 
+ ;• 
+ J 
+ : 
+ I 
+ 00111,.......;.! ~ +-'~-!--'--+--!--~-~--'--+-+-~--!,--l!----i! _ _ 
+ P.-_ -;--=>,: 00"
+J,",­"
+0,' ' ' '
+E,"r· 
+ , 
+ r 
+ r- 
+ -·--1 
+ r- - , 
+ r- 
+ r- 
+ r· 
+ r· 
+ T 
+ ,. 
+ --, 
+ - 
+ 1 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I"
+Cl,"I 
+ I 
+ I 
+ I 
+ : 
+ I 
+ I 
+ I 
+ I"
+qj s,":--;-~~ 
+ .. LE 
+ __ 
+ I 
+ I 
+ I 
+ I"
+15000,"345.0 
+ 350.0 
+ 355.0 
+ 360.0 
+ 365.0 
+ 340.0 
+ Aircraft Station (inches) 
+ Heavy External Lift Limit 
+ Light External Lift Limit 
+ Aircraft Without External Load 
+ Weight and Center of Gravity Envelope 
+ Maximum Gross Weight 27,700 Pounds"
+30000,": 347!.7 
+ 36L_, 
+ 360.~ 
+ 2a,300 
+ : I i 
+ -----;i 
+ I 
+ ' -- r--------------------.1--?8,390 
+ ' 
+ ' 2~.100--: 
+ : 
+ : 
+ : 
+ : 
+ : 
+ 360.8: 21_,100 
+ ·--- : -~--- r ~t:~~r-'.-----. -;~~--~-----:-----------r----r-r--r ----- --r--1---- ----r ·- 
+ I 
+ ' 
+ I 
+ ' 
+ ' 
+ ' 
+ ' 
+ ' 
+ ' 
+ I 
+ ' 
+ I 
+ '. 2s.soo 
+ ------' ---- '-----'-----' ____ _t_ ____ '- 
+ ·- 
+ '-----' ---- , _____ j ___________ , ---- 
+ , _____ , _____ 1 __________ '----- , __________ _L ___ ------'-----' ----------· 
+ ' 
+ ' 
+ : 
+ ' 
+ : 
+ : __ ! !--'. _i__: : __ : __ ) -i ___ j__ : ~~--"
+25000,": 346,8 : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ :"
+iii,"' 
+ ' 
+ ' 
+ ' 
+ ~45.~ 
+ : 
+ : 
+ : i 
+ : : : i 
+ : : 
+ : 
+ : :"
+0,": 
+ : 
+ : 
+ ! 
+ I 
+ : 
+ : 
+ : 
+ : 
+ I 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ :"
+Q ,"' 
+ I 
+ I 
+ I 
+ I"
+Cl,"---:- 2p,8s'.o 
+ :"
+3,"·e - :--7-- j - - ~ - - ! - - ! - -! --:---:-----1-- ! - - l -- ~ -----:-- 
+ ....... 
+ ' 
+ I 
+ : 
+ I 
+ : 
+ ' 
+ ' 
+ ' 
+ ' 
+ ' 
+ : 
+ :"
+20000,"----➔- 
+ - 
+ ..... .E -- ~----- 
+ ::::; 
+ :.::i 
+ : 
+ : 
+ : 
+ I 
+ : 
+ : 
+ : 
+ : 
+ I 
+ : 
+ : 
+ : 
+ I 
+ : 
+ : 
+ 1 
+ : 
+ I 
+ : 
+ : 
+ : 
+ : 
+ I 
+ : 
+ : 
+ : 
+ I 
+ : 
+ (.!) u 
+ ] 
+ ' 
+ 1 
+ I 
+ ' 
+ I 
+ t 
+ ' 
+ I 
+ t 
+ ' 
+ ' 
+ 1 
+ ' 
+ I 
+ ' 
+ LL 
+ ' 
+ I 
+ ' 
+ I 
+ ' 
+ ' 
+ I 
+ : 
+ I 
+ : 
+ : 
+ ' 
+ I 
+ I 
+ ---r\ -----;- : , -;----;-----~----:·----.-----------;----;-----·-----,------- -;--: --- :--T -- -1 -- T -·- 
+ , 
+ ; --+- :17,~00 : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ --,- 
+ 17,300 
+ - - 341.8 - +---+ --:----i-----j-16,f-oo.: _____ ;-----·-T : ___ :-----j----+------ --i- --+----·---- :-360.8- +--+ --- 
+ i 
+ , 
+ , 
+ , 
+ , 
+ 351:_7 i 
+ , 
+ i 
+ , 
+ i 
+ ,"
+15000,"345.0 
+ 350.0 
+ 355.0 
+ 360.0 
+ 365.0 
+ 340.0 
+ Aircraft Station (inches) 
+ Heavy External Lift Limit 
+ Light External Lift Limit 
+ Aircraft Without External Load"
+LATERAL CG LIMITS,"MAXIMUM GROSS WEIGHT 26,500 POUNDS 
+ S-92 Lateral CG Limits 
+ I 
+ ,+3.53 
+ -3.53 I 
+ I 
+ I 
+ ,-------r------,------- 
+ I 
+ ~8,300 
+ -----t- r---~,!------t-----➔-----1"
+r r,"I 
+ I 
+ I 
+ I 
+ I"
+LW ··L,"I 
+ I 
+ I 
+ I 
+ 21000--~----- 
+ U-----L------~------- 
+ 1 
+ I 
+ I 
+ 1 
+ I 
+ I"
+L,"------L------- 
+ I 
+ I 
+ 2~,500 
+ 2SOOE>--~------ -------L-------~------- 
+ I 
+ I 
+ I 
+ I 
+ 1 
+ -4.00 
+ I 
+ I 
+ 1 
+ I 
+ 1 
+ I 
+ I 
+ 2-&900 ---- 
+ ···----~------ ◄···----"
+◄  eoo  ,"1 
+ I 
+ I 
+ • 
+ • 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I"
+ ,"I 
+ I 
+ I 
+ 24000- ~~------~ ------~------~------- 
+ I 
+ I 
+ I 
+ I 
+ .0 , 
+ - 
+ 1 
+ I 
+ I 
+ I 
+ 23000""§[------~-------i------~------- 
+ +-t 1 
+ I 
+ I 
+ I"
+r,"I 
+ I 
+ 1"
+,". 
+ 1 _______ 1 ---- 
+ . 
+ ·; 
+ , 
+ I 
+ I 
+ I 
+ 22000-3~------~- 
+ _____ I------·------- 
+ 100,000 lbin. 
+ --~-------L------ 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ 21-000--~------~-- ----L------~------- 
+ 1 
+ I 
+ 1 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ 20000--~------~--- ---~------~------- 
+ I 
+ I 
+ I"
+ ,"I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ 49000--~------ ◄---- 
+ --~------➔-------"
+➔,"---➔-------~------ 
+ • 
+ I 
+ • 
+ I 
+ I 
+ I 
+ 1 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ -----,-------r------ 
+ I 
+ I 
+ 48000--~------~----- 
+ I 
+ 1 
+ I 
+ I 
+ I 
+ I 
+ I 
+ 47000--~------~------ 
+ I------~------- 
+ ------,-------,------ 
+ I 
+ I 
+ 1 
+ I 
+ I 
+ 1 
+ ------ ,------ t , ------ ,-------, ------ 
+ 15!200 
+ - 
+ I 
+ I 
+ I 
+ --1 ------ .-------11------ :------- 
+ 1 
+ I 
+ I 
+ I 
+ : 
+ +6 17 
+ : 
+ : 
+ I 
+ I 
+ -6.17 
+ I 
+ -2 
+ -4 
+ -6 
+ -8 
+ -10"
+10,"8 
+ 6 
+ 4 
+ 2 
+ 0 
+ RH 
+ LH 
+ Buttline in. 
+ Heavy External Lift Limit 
+ Light External Lift Limit 
+ Aircraft Without External Load 
+ MAXIMUM GROSS WEIGHT 27,700 POUNDS 
+ 5-92 Lateral CG Limits 
+ : 
+ +3.61 : +3r53 
+ -3 73 ;3 61 
+ I 
+ I 
+ - - - - - - ~ - - - - - - - ~2~,~o - - - : 
+ - - - - -: - - - - - - 
+ - 28000- -:- - - - - 
+ - _! - - - - - - -:- - - - - - - + ------- 
+ I 
+ I 27,700 ---,-,,_ ___ .,... ____ +-----,---- 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ •••••• J ••••••• L •••••• J 
+ •••••• L •••••• · 27000··~····· J ••••••• L •••••• ~ ••••••• 
+ ______ J _______ L ___ _ 
+ I 
+ I 
+ ______ L _____ _ 
+ I 
+ I 
+ I 
+ I 
+ I 
+ · 20000 • · ~ · · · · · · ,-4 iio · · · · ~ · · · · · · 1 · · · · · · · 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I__J 
+ I 
+ I 
+ I 
+ I 
+ 26000---- ........................ . 
+ I 
+ I 
+ I 
+ I"
+···········26000,"I 
+ I 
+ I 
+ 1 
+ I 
+ I 
+ I 
+ I"
+r,"I 
+ I 
+ - 24000- , ~------~ ------~------~------- 
+ 1 
+ I 
+ .C 1 
+ I 
+ I 
+ I 
+ - 
+ 1 
+ I 
+ I 
+ I 
+ I 
+ I 
+ · 23000if ······~ ······r······T······· 
+ ..,_, I 
+ I 
+ I 
+ I"
+r,"I 
+ I 
+ 'aj 1 
+ I 
+ I 
+ I 
+ I 
+ I 
+ · 22000~ ~······+· ·····~······+·······"
+r ········r······,"I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I"
+100000 lb1n,"-- .-------. ------ 
+ I 
+ I 
+ · 21000· ·:· • • • • • • ~ • • ----. ------ 1------- 
+ I 
+ I"
+ J  L ,"I 
+ I 
+ ___ 3 _______ L _____ _ 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ · 20000··~······~··· ___ L ______ i ______ _ 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ • r9000·· ... ······•···· --~------4------- 
+ I 
+ I 
+ I 
+ I"
+◄ ,"I 
+ I 
+ -raooe--~------~----- -~------~-------"
+it,"I 
+ I 
+ I 
+ I 
+ -----➔ -------t------- 
+ 1 
+ I 
+ 1 
+ I 
+ ' 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I 
+ J 
+ I 
+ I"
+ r,"I 
+ I 
+ I 
+ I 
+ • r rOOO••r••••••;•••••• r••••••T••••••• 
+ I 
+ I 
+ I 
+ I 
+ I 
+ I"
+············ r·············r······,"I 16,200 
+ · HlOOO··r······,·······~······+······· 
+ : 
+ +6_17 
+ : 
+ : 
+ : 
+ : 
+ -4.1 7 
+ : 
+ I 
+ I 
+ I 
+ I 
+ I 
+ -2 
+ -4 
+ -6 
+ -8 
+ -10 
+ 8 
+ 6 
+ 4 
+ 2"
+10,"0 
+ LH 
+ RH 
+ Buttline in. 
+ Heavy External Lift Limit 
+ Light External Lift Limit 
+ Aircraft Without External Load"
+EMPTY WEIGHT CG RANGE,None
+DATUM,341.2 inches forward of the main rotor centroid
+LEVELING MEANS,"Leveling plate at STA 238.3, BL 40 RH, and plumbline from 
+ top of RH forward doorframe."
+MAXIMUM WEIGHT,"26,500 pounds 
+ 27,700 pounds with Gross Weight Expansion Option (see 
+ Note 16) 
+ 28,300 pounds with external load. Heavy External Lift"
+MAXIMUM EXTERNAL LOAD,8000 pounds. Heavy External Lift
+ALTITUDE LIMITS,"Takeoff and landing 
+ 11,000 feet density altitude 
+ Enroute 
+ 15,000 feet density altitude 
+ 10,000 feet pressure altitude in icing conditions 
+ See Note 11"
+AMBIENT TEMPERATURE LIMITS,-40°C to ISA+35°C (see Note 9)
+MINIMUM FLIGHT CREW,"2 pilots (See Note 8) 
+ 3 (2 pilots, 1 cabin crew) Combination Passenger and 
+ Cargo"
+NUMBER OF SEATS,"2 Crew 
+ 1 Observer 
+ 19 Passenger maximum (See Notes 6, 8 and 
+ 14) 
+ Combination Passenger and Cargo Interior 
+ Option 
+ 3 Crew 
+ 9 Passenger maximum"
+MAXIMUM BAGGAGE,"1000 pounds 
+ Combination Passenger and Cargo Interior Option 
+ 0 pounds"
+MAXIMUM CARGO,Combination Passenger and Cargo Interior Option
+See Note 15,"92276-54000-011 kit installed 
+ 1650 lb at 200 lb./sq. ft., Sta 281 to 462 
+ 1100 lb at 200 lb./sq. ft., Sta 340 to 462 
+ 550 lb at 200 lb./sq. ft., Sta 397 to 462 
+ 92276-54000-012 kit installed 
+ 5000 lb at 200 lb./sq. ft., Sta 281 to 462 
+ 3100 lb at 200 lb./sq. ft., Sta 340 to 462 
+ 1200 lb at 200 lb./sq. ft., Sta 397 to 462"
+FUEL CAPACITY,"764 gals (pressure refuel) 
+ 713 gals. (gravity refuel) 
+ 4.8 gals. unusable 
+ at Station 362.5 
+ (See Notes 1 and 7)"
+OIL CAPACITY,"See General Electric Installation Manual SEI-866 
+ For rigging information refer to Maintenance Manual"
+MANUFACTURER’S SERIAL NUMBERS,"Sikorsky Aircraft Corporation under Production Certificate 
+ Number 105: 
+ 920006 through 920114, 920116 through 920126, 
+ 920128, 920130, 920133, 920137, 920143 and 
+ subsequent are eligible. 
+ Keystone Helicopter Corporation for Production under 
+ Type Certificate Only. 
+ 920115 is eligible 
+ Keystone Helicopter Corporation under Production 
+ Certificate Number 121NE: 
+ 920127*, 920129*, 920131, 920132, 920134 through 
+ 920136, 920138 through 920142 are eligible. 
+ *920127 and 920129 originally designated as eligible for 
+ production by Keystone Helicopter Corporation under 
+ Type Certificate Only and redesignated upon addition of 
+ S-92A to Production Certificate Number 121 NE."
+CERTIFICATION BASIS,"Type Certificate No. R00024BO 
+ 14 CFR Part 29 Amendments 29-1 to 29-47, inclusive 
+ 14 CFR Part 36 Amendment 24 
+ Equivalent Safety Findings: 
+ Number TC0309BO-R/F-1 
+ 14 CFR Part 29.173 Static longitudinal stability 
+ 14 CFR Part 29.175 Demonstration of static longitudinal stability. 
+ Number TC0309BO-R/F-4 
+ 14 CFR Part 29.177 Static directional stability. 
+ Number TC0309BO-R/P-1 
+ 14 CFR Part 29.1305(a)(24) Power Plant Instruments. 
+ Number TC0309BO-R/P-5 
+ 14 CFR Part 29.1 181(a)(4) Designated Fire Zones; Regions Included. 
+ Special Conditions: 
+ No. 29-011-SC for Dual-Engine 30 Minute Power 
+ No. 29-008-SC for High Intensity Radiated Frequency 
+ Noise Control Act of 1972 
+ Compliance with the following optional requirements has been 
+ established: Ditching provisions FAR 29.563 including 29.801 and 
+ 29.807(d) and excluding 29.1411, 29.1415, and 29.1561 when 
+ emergency flotation system is installed. For extended over-water 
+ operations, compliance with the operating rules and FAR 29.1411, 
+ 29.1415, and 29.1561 must be shown. 
+ Anticollision light system installed in accordance with Sikorsky Drawing 
+ 33792-52871 
+ Basis of certification is the same as the S-92A plus the following 
+ Equivalent Safety Findings: 
+ Number AT1610BO-R-S-1 
+ 14 CFR Part 29.1401(d) Anticollision light system 
+ Passenger Configuration with Side Facing Executive Seats: 
+ Basis of certification is the same as the S-92A plus the following 
+ Equivalent Safety Findings: 
+ Number AT01655BO-R-C-2, Number AT00407MC-R-C-1, and 
+ Number AT00407MC-R-C-2 
+ 14 CFR Part 29.809(a) Emergency exit arrangement 
+ 14 CFR Part 29.813(c)(2) Emergency exit access 
+ Special Conditions: 
+ None 
+ Combination Passenger and Cargo Configuration: 
+ Basis of certification is the same as the S-92A plus the following 
+ Equivalent Safety Findings: 
+ Number TD1454BO-R-S-1 
+ 14 CFR 29.855(a)(1), (d) Cargo and baggage compartments 
+ Number TD1454BO-R-C-1 
+ 14 CFR 29.809(a) Emergency exit arrangement 
+ 14 CFR 29.813(c)(2) Emergency exit access 
+ Special Conditions: 
+ None 
+ Search and Rescue (SAR) Automatic Flight Control System (AFCS) 
+ Installation: 
+ Basis of certification is the same as the S-92A plus the following 
+ Equivalent Safety Findings: 
+ None 
+ Special Conditions: 
+ No. 29-023-SC for Installation of a Search and Rescue (SAR) 
+ Automatic Flight Control System (AFCS) 
+ If CVR/FDR defined by 33792-54647 is installed, then compliance has also 
+ been shown to Amendment 29-52 of 14 CFR 29.1457 and 29.1459."
+PRODUCTION BASIS,"Sikorsky Aircraft Corporation 
+ Production Certificate Number 105 
+ Keystone Helicopter Corporation, Production Certificate Number 121 NE, 
+ under licensing agreement with Sikorsky Aircraft Corporation. 
+ In the event of an application for a standard airworthiness certificate or, if 
+ an applicant intends to produce a new aircraft under 14 CFR § 
+ 21.183(d), and the applicant is manufacturing, building, or assembling to 
+ another person’s type certificate, the applicant must provide written 
+ evidence of permission from the type certificate holder. Conduct of such 
+ activity without written evidence of permission may be a violation of 49 
+ U.S.C. § 44704(a)(3)."
+EQUIPMENT,"The basic required equipment as prescribed in the applicable 
+ Airworthiness regulations (see Certification Basis) must be installed in 
+ the aircraft for certification. 
+ In addition, the following item(s) of equipment is (are) required: 
+ Rotorcraft Flight Manual as shown in FAA Approved Sikorsky document 
+ SA S92A-FMCD-000. This document specifies the applicable flight 
+ manual number for each aircraft. The applicable flight manual number is 
+ determined by the aircraft configuration. SA S92A-FMCD-000 will be 
+ revised as required to add additional rotorcraft flight manual numbers, 
+ new revisions, and new aircraft as appropriate. 
+ - NOTES -"
+NOTE 1,"Current weight and balance report, including list of equipment included in certified empty 
+ weight, and loading instructions, when necessary, must be provided for each rotorcraft at 
+ the time of original certification. The certificated empty weight and corresponding C.G. 
+ locations must include un-drainable oil and unusable fuel. 
+ See Rotorcraft Flight Manual loading section for variations of fuel weight and moment- 
+ arm with variations of fuel and fuel quantity."
+NOTE 2,"The rotorcraft must be operated in accordance with the appropriate FAA-approved 
+ Rotorcraft Flight Manual as required under “EQUIPMENT”. All placards required in the 
+ FAA-approved Rotorcraft Flight Manual must be installed in the rotorcraft. The following 
+ placard must be displayed in front of and in clear view of the pilots: 
+ “THIS HELICOPTER MUST BE OPERATED IN ACCORDANCE WITH THE 
+ OPERATING 
+ LIMITATIONS 
+ SPECIFIED 
+ IN 
+ THE 
+ FAA 
+ APPROVED 
+ ROTORCRAFT FLIGHT MANUAL.” 
+ All placards listed in the approved flight manual must be installed in the specified 
+ locations."
+NOTE 3,"Information essential to the proper maintenance of the rotorcraft is contained in the 
+ Sikorsky S-92A Maintenance Manual, SA S92A-AMM-000 and in the Airworthiness 
+ Limitations and Inspection Requirements Manual, SA S92A-AWL-000. The Airworthiness 
+ Limitations and Inspection Requirements for gross weights above 26,500 pounds are 
+ contained in document number SIC920010 (see Note 16). The values of retirement 
+ (service) life are contained in Chapter 4 of the Airworthiness Limitations and Inspection 
+ Requirements Manual in documents SA S92A-AWL-000 and SIC920010 (if applicable). 
+ The values of retirement (service) life cannot be changed without FAA Engineering 
+ approval. Manuals SA S92A-AMM-000 and SA S92A-AWL-000 are provided with each 
+ helicopter. Manual SIC920010 is provided with helicopters with the 27,700 lb. Gross 
+ Weight Expansion option."
+NOTE 4,"The term “Unlimited Life” is defined as 30,000 flight hours for the Model S-92A rotorcraft. 
+ Operation of individual aircraft beyond 30,000 flight hours is contingent upon a Life 
+ Extension Program approved by FAA Engineering"
+NOTE 5,"The model S-92A rotorcraft employs electronic engine controls that are recognized to be 
+ more susceptible to Electromagnetic Interference (EMI) than manual (non-electronic) 
+ controls used on other rotorcraft. EMI may be the result of radiated or conducted 
+ interference. For this reason, modifications that add or change systems that have the 
+ potential for EMI, must either be qualified to an FAA acceptable standard or tested at the 
+ time of installation for interference to the engine controls. This type of testing must employ 
+ the particular engine control’s diagnostic techniques and external diagnostic techniques. 
+ This testing must be accomplished in accordance with an FAA Engineering approved 
+ alternate test plan."
+NOTE 6,"Seating arrangements for 19 passengers maximum have been approved by the FAA. With 
+ these seating arrangements, seats located along the aisle way shall not have armrests 
+ installed on the aisle way side of any aisle seat unless the aisle way seat armrest 
+ incorporates an armrest hold down feature. Installation of the Observer Seat and/or 
+ Passenger Seat located on the forward starboard bulkhead is prohibited with the 
+ installation of the Lower Search/Rescue Door. Occupancy of the Passenger Seat located 
+ on the forward starboard bulkhead is prohibited if Observer Seat is installed. Carriage of 
+ passengers is prohibited with the installation of the Lower Search/Rescue Door. These 
+ seating arrangements are shown in the Loading Information section of the FAA-approved 
+ Rotorcraft Flight Manual. Additional optional seating arrangements or related passenger 
+ provisions may be approved in accordance with the Type Certificate Basis."
+NOTE 7,"See the appropriate FAA approved Rotorcraft Flight Manual for fuel capacities of aircraft 
+ defined by SER-92020578 Revision -, or later approved revision."
+NOTE 8,"See the appropriate FAA approved Rotorcraft Flight Manual for minimum required crew and 
+ passenger limitations of aircraft defined by SER-92020578 Revision -, or later approved 
+ revision."
+NOTE 9,"Preheat must be used for cold soak starts when the OAT is -13°F (-25°C) or below. See 
+ Rotorcraft Flight Manual for Cold Weather Procedures."
+NOTE 10,"External lift operations utilizing the cargo hook include Heavy External Lift and Light 
+ External Lift. Heavy and Light External Lift limitations are defined in the Rotorcraft Flight 
+ Manual and the Airworthiness Limitations and Inspection Requirements Manual."
+NOTE 11,"For flight in icing conditions, aircraft must be equipped with Rotorcraft Ice Protection 
+ System (RIPS) and Rotorcraft Flight Manual as shown in FAA Approved Sikorsky 
+ document SA S92A-FMCD-000, Revision 5 and subsequent. For flight into icing 
+ conditions, RIPS must be turned on. RIPS equipped aircraft are not approved for flight in 
+ icing conditions above 10,000 ft pressure altitude, or for flight in freezing rain, freezing 
+ drizzle or Supercooled Large Drop (SLD) icing conditions."
+NOTE 12,"Any modifications, alterations, or other changes to the exterior of the aircraft that may affect 
+ the operation or function of the RIPS system, or create an area or surface for ice collection 
+ that may be released in flight, must be approved by FAA Engineering to allow the approval 
+ of flight in icing conditions to be continued."
+NOTE 13,"The S-92A rotorcraft has not been certified for Category A vertical takeoffs and landings 
+ from an elevated heliport."
+NOTE 14,"The S-92A has been certified for Category A with a maximum passenger seating 
+ configuration of 19 passenger seats and Category B with a maximum passenger seating 
+ configuration of 9 or less passenger seats"
+NOTE 15,"Only serial numbers 920140 and 920142 are eligible for carriage of approved cargo in the 
+ Passenger and Cargo Configuration."
+NOTE 16,"Capability to operate above 26,500 pounds and up to 27,700 pounds aircraft gross weight is 
+ predicated on the aircraft being structurally modified in accordance with the 92070-10004- 
+ 011, 92070-10004-013, 92070-10004-017, 92070-10004-019, or 92070-10004-021 Gross 
+ Weight Extension (GWE) modification kits. S-92A Rotorcraft Flight Manual Supplement No. 
+ 14 Part 1 “27,700 lb. Gross Weight Expansion” or S-92A Rotorcraft Flight Manual 
+ Supplement No. 91 Part 1 “CT7-8A6 Engines, 27,700 LB Gross Weight Expansion” must be 
+ complied with when operating above 26,500 pounds. The information contained in RFM 
+ Supplement No. 14 and 91 supplements or supersedes the limitations and procedures in 
+ the basic Rotorcraft Flight Manual. When operated at gross weights above 26,500 pounds, 
+ the helicopter must comply with document number SIC920010 “Airworthiness Limitations 
+ and Inspection Requirements Gross Weight Expansion (GWE) Supplement No. 1.” The 
+ information contained in document number SIC920010 supplements or supersedes the 
+ basic Airworthiness Limitations and Inspection Requirements Manual SA S92A-AWL-000."
+NOTE 17,"Special mission equipment installations and associated aircraft modifications defined in 
+ SER-92020578 Revision -, or later approved revision are intended for military, public, or 
+ government use aircraft only."
+NOTE 18,"All S/Ns on this TCDS meet or exceed the crash resistant fuel system certification basis 
+ requirements listed in section 44737 of Title 49 U.S.C."
+NOTE 19,"The type certificate data sheet for General Electric Company CT7-8A/8A6 series engines 
+ approves engine operation with certain faults in the engine control system. Operation with 
+ these faults present, known as Time Limited Dispatch, is approved for the S-92A when the 
+ aircraft is operated in accordance with Rotorcraft Flight Manual Supplement No. 45, Part 1 
+ revision 3, or later approved revision."

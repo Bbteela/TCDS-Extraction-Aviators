@@ -1,0 +1,1800 @@
+Keyterm,Info
+"A2WE 
+ Rev. 28 
+ | 
+ SABRELINER 
+ NA-265 
+ NA-265-20 
+ NA-265-30 
+ NA-265-40 
+ NA-265-60 
+ NA-265-65 
+ NA-265-70 
+ NA-265-80 
+ April 29, 2014 
+ |",
+Type Certificate Holder,"Sabreliner Aviation LLC 
+ Perryville Municipal Airport 
+ 1390 Highway H 
+ Perryville, Missouri 63775"
+Type Certificate Holder Record,"North America Rockwell Corporation transferred to 
+ Rockwell International Corporation on April 19, 1968 
+ Rockwell International Corporation transferred to 
+ Sabreliner Corporation on June 30, 1983 
+ Sabreliner Corporation transferred to 
+ Sabreliner Aviation LLC on April 29, 2014"
+"I. Model NA-265 (Transport Aircraft), Approved March 23, 1962 Military Model T-39A 
+ Model NA-265-20 (Transport Aircraft), Approved August 31, 1962 Military Model T-39B 
+ Model NA-265-30 (Transport Aircraft), Approved December 20, 1962 Military Model T-39D",
+Engines,2 Pratt and Whitney Turbo Wasp JT12A-6A
+Fuel,"Commercial Aircraft Turbine Engine Fuel conforming to PWA Specification PWA 522 
+ as revised. 
+ 2 Holley P/N 31501 hydro-mechanical controls. Minimum flow schedule must be 
+ adjusted between 308-325 p.p.h. per PWA components calibration schedule (CCS) 
+ requirements."
+Engine Limits,"Engine Model 
+ JT12A-6A 
+ Static thrust (see Engine Data Sheet 1E9, NOTE 5) 
+ Takeoff (5 min) 
+ 3,000 lbs. 
+ Maximum continuous 
+ 2,570 lbs. 
+ Maximum permissible engine rotor operating speed 
+ 16,700 r.p.m."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15"
+Rev No,"28 
+ 19 
+ 19 
+ 19 
+ 19 
+ 19 
+ 19 
+ 19 
+ 21 
+ 19 
+ 23 
+ 19 
+ 19 
+ 19 
+ 19"
+Page No,"16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28"
+Rev No,"19 
+ 19 
+ 19 
+ 19 
+ 27 
+ 19 
+ 19 
+ 19 
+ 19 
+ 24 
+ 26 
+ 19 
+ 27"
+"I. 
+ Maximum permissible gas temperature at the turbine outlet 
+ Takeoff 
+ 677°C 
+ 1,250°F 
+ Maximum continuous 
+ 577°C 
+ 1,070°F 
+ Maximum acceleration (2 min) 
+ 677°C 
+ 1,250°F 
+ Starting (momentary) 
+ 525°C 
+ 977°F 
+ Oil inlet temperature 
+ 121°C 
+ 250°F 
+ Maximum permissible air bleed extraction of total engine airflow 
+ Two engine operation (each engine) 
+ Idle to maximum continuous 
+ 4.0% 
+ Maximum continuous through takeoff 
+ 3.0% 
+ One engine operation 
+ Idle to maximum continuous 
+ 4.4% 
+ Maximum continuous through takeoff 
+ 3.7% 
+ NOTE: 
+ Thrust setting: Appropriate thrust setting curves (EPR) in FAA Approved 
+ Airplane Flight Manual must be used for control of the engine thrust. 
+ Engines installed must meet the minimum thrust coefficient (Cg) as shown in the 
+ following table. Engines are to be equipped with 443 series tapered PT5 probes. 
+ PT5/PO 
+ 1.2 
+ 1.4 
+ 1.6 
+ 1.8 
+ 2.0 
+ 2.2 
+ 2.4 
+ 2.6 
+ Cg - P and WA 
+ .850 
+ .870 
+ .890 
+ .905 
+ .918 
+ .925 
+ .934 
+ .938 
+ Acceptance Test* 
+ Cg - installed in 
+ .897 
+ .908 
+ .915 
+ .920 
+ .923 
+ .926 
+ .927 
+ .928 
+ NA-265** 
+ *With jet nozzle and exhaust pipe per PWA Drawing No. 403201 
+ **With tail pipe per NR Drawing No. 265-420023-11 
+ Oil 
+ Aircraft Turbine Engine Lubricant conforming to P&W Specification PWA 521, as 
+ revised. 
+ Airspeed Limits CAS 
+ NA-265-20 
+ NA-265 
+ NA-265-30 
+ VMO (Max. operating at S.L.) 
+ 333K 
+ 333K 
+ VMO (Max. operating - 21,340 ft.) 
+ 346K 
+ 346K 
+ VMO (Max. Operating above 21,340 ft.) 
+ .765M 
+ .765M 
+ VA 
+ (Maneuvering at S.L.) 
+ 218K 
+ 205K 
+ VA 
+ (Maneuvering - 39,000 ft. 
+ 236K 
+ - - 
+ MA 
+ (Maneuvering above 39,000 ft. 
+ .765M 
+ - - 
+ VA 
+ (Maneuvering - 40,500 ft.) 
+ - - 
+ 228K 
+ MA 
+ (Maneuvering above 40,500 ft.) 
+ - - 
+ .765M 
+ VFE (Flaps down 23.5° (100%) indicated) 
+ 183K 
+ 183K 
+ VLO (Landing gear operating) 
+ 183K 
+ 183K 
+ VLE (Landing gear extended) 
+ 183K 
+ 183K 
+ VSB (Speed brake extension) 
+ Any speed 
+ Any speed 
+ (Speed brake retraction) 
+ Any speed 
+ Any speed 
+ V 
+ (Fuel jettisoning) 
+ Any speed 
+ Any speed 
+ NOTE: 
+ For variation between values shown and corresponding IAS Limits, for the 
+ airspeed system installed, refer to FAA Approved Airplane Flight Manual. 
+ For Buffet Envelope and Limit Maneuvering Load Factor variation with 
+ airspeed, weight, fuel loading and altitude, refer to FAA Approved Airplane 
+ Flight Manual. 
+ I. 
+ CG Range 
+ The landing gear retraction moment is -380 in.-lb. and results in a negligible forward 
+ movement of the C.G. When the airplane is loaded within the above C.G. envelope 
+ limits as applicable at both the start of takeoff and zero fuel weights, and the restrictions 
+ concerning crew and passenger movement specified in the FAA Approved Load and 
+ Balance Schedule are complied with, the airplane will remain within the approved C.G. 
+ limits. 
+ I. 
+ Maximum Weight in Pounds 
+ NA-265, 
+ NA-265 Modified per Note 7(a) 
+ Airplane Model 
+ -20, -30 
+ NA-265-30 Modified per Note 7(b) 
+ Equipped with brake P/N 
+ 9541544 
+ 9543102 
+ 9543102 
+ 9550338 
+ Anti-skid installed and 
+ operational 
+ No 
+ No 
+ Yes 
+ Yes 
+ Ramp and taxi 
+ 17,760 
+ 17,760 
+ 18,650 
+ 18,650 
+ Start of takeoff 
+ 17,450 
+ 17,450 
+ 18,340 
+ 18,340 
+ Airborne 
+ 17,375 
+ 17,375 
+ 18,265 
+ 18,265 
+ Airborne (no fuselage fuel) 
+ 16,527 
+ -- 
+ -- 
+ -- 
+ Zero fuel 
+ 10,984 
+ 10,984 
+ 12,250 
+ 12,250 
+ Landing 
+ 13,000 
+ 14,000 
+ 17,500 
+ 17,500 
+ NOTE: 
+ Fuel jettison valves required for operation in excess of 105 percent of the 
+ maximum landing weight. Refer to the FAA Approved Airplane Flight Manual 
+ for fuel jettisoning procedures. See NOTE 1 
+ Minimum Crew 
+ 2 pilots 
+ Maximum Passengers 
+ 4 - NA-265, -20, -30 
+ 7 - NA-265 when modified per NOTE 7(a) 
+ NOTE: 
+ See NOTE 1(a) and (b) 
+ Maximum Baggage 
+ C.G. 
+ Inches 
+ Max. 
+ Inches 
+ Airplane Serial 
+ from 
+ Capacity 
+ Load 
+ from 
+ Airplane Model 
+ Numbers 
+ Location 
+ Datum 
+ (pounds) 
+ (p.s.f.) 
+ Datum 
+ NA-265 
+ 265-1 thru 265-88 
+ Forward 
+ 145-206 
+ 250 
+ 100 
+ 180 
+ NA-265-20 
+ 270-1 thru 270-6 
+ NA-265-30 
+ 277-1 thru 277-10 
+ 285-1 thru 285-32 
+ NA-265 
+ 276-1 thru 276-55 
+ Forward 
+ 145-206 
+ 250 
+ 100 
+ 180 
+ Aft 
+ 298-320 
+ 170 
+ 50 
+ 315 
+ NA-265 
+ 265-1 thru 265-88 
+ Forward 
+ 145-206 
+ 270 
+ 100 
+ 180 
+ Modified per 
+ 276-1 thru 276-55 
+ Aft 
+ 298-320 
+ 340 
+ 50 
+ 309 
+ NOTE 7(a) 
+ Fuel Capacity 
+ Pressure Refueling 
+ Gravity Refueling 
+ C.G. Inches 
+ (lbs.) 
+ (lbs.) 
+ from Datum 
+ Fuel at 6.50 lb/gal. 
+ Total 
+ Usable 
+ Total 
+ Usable 
+ 2 wing tanks 
+ 6,021 
+ 5,867 
+ 5,951 
+ 5,797 
+ 256 
+ 1 fuselage tank 
+ 1,046 
+ 1,043 
+ 1,065 
+ 1,063 
+ 345 
+ See NOTE 1(c) for system fuel 
+ Oil Capacity 
+ 1.6 gal./engine, 12 pounds each. C.G. is 324 inches from datum. 
+ This weight must be included in the aircraft empty weight. 
+ Maximum Operating 
+ 45,000 feet 
+ Altitude 
+ NOTE: 
+ Pressure cabin service life is based on the following pressurization limits which 
+ must not be exceeded. 
+ Airplane Model 
+ Airplane Altitude (feet) 
+ Cabin Altitude (feet) 
+ NA-265, NA-265-20, 
+ Sea Level to 8,000 
+ Ambient Pressure 
+ and NA-265-30 
+ 8,000 to 45,000 
+ 8,000 
+ I. 
+ Serial Numbers Eligible 
+ Rockwell 
+ Military Model 
+ International 
+ Military 
+ Deviation 
+ Civil Model 
+ Serial No. 
+ Model 
+ NR Report No. 
+ NA-265 
+ 265-1 thru 265-88 
+ USAF T-39A 
+ NA-62-399 
+ 276-1 thru 276-55 
+ NA-265-20 
+ 270-1 thru 270-6 
+ USAF T-39B 
+ NA-62-636 
+ NA-265-30 
+ 277-1 thru 277-10 
+ USAF T-39B 
+ NA-62-637 
+ 285-1 thru 285-32 
+ NOTE: 
+ Military Aircraft bearing the above serial numbers and having been issued 
+ Form ACA-970, Conformity Certificate - Military Aircraft, are eligible for 
+ FAA Certificate of Airworthiness when brought into the type design 
+ configuration as referenced in the deviation report. In addition, a supplemental 
+ name plate must be installed adjacent to the original name plate, listing the 
+ name of the modifier, the date of modification, and the civil model designation. 
+ The original name plate, however, must not be removed. See NOTE 5. 
+ Fatigue Life Limits 
+ See NOTE 3(b). 
+ II. Model NA-265-40 (Transport Aircraft), Approved April 17, 1963",
+Engines,"2 Pratt & Whitney Turbo Wasp JT12A-6A 
+ or 2 Pratt & Whitney Turbo Wasp JT12A-8 
+ NOTE: 
+ Engines may be intermixed on airplane S/N 282-1 through 282-97. See FAA 
+ Approved Airplane Flight Manual for Operating Limitations. 
+ Airplane S/N 282-98 and subsequent require two JT12A-8 engines."
+Fuel,"Commercial Aircraft Turbine Engine Fuel conforming to PWA Specification PWA 522 
+ as revised. 
+ Hamilton Standard JFC-46-8 Hydro-Mechanical Controls (JT12A-8 engine) 
+ Hamilton Standard JFC-46-4 Hydro-Mechanical Controls (JT12A-6A engine)"
+Engine Limits,"See Section I for Engine Model JT12A-6A, Engine Limits 
+ Engine Model (See Fatigue Life Limits Data for All Models and NOTE 7(d)) JT12A-8 
+ Static thrust (See Engine Data Sheet 1E9, NOTE 5). 
+ Takeoff (5 min.) 
+ 3,300 lbs. 
+ Maximum continuous 
+ 3,000 lbs. 
+ Maximum permissible engine rotor operating speed 
+ 16,700 r.p.m. 
+ Maximum permissible gas temperature at the turbine outlet 
+ Takeoff 
+ 718°C 
+ 1,325°F 
+ Maximum continuous 
+ 655°C 
+ 1,211°F 
+ Maximum acceleration (2 min.) 
+ 718°C 
+ 1,325°F 
+ Starting (momentary) 
+ 525°C 
+ 977°F 
+ Oil inlet temperature 
+ 121°C 
+ 250°F 
+ Maximum permissible air bleed extraction of total engine airflow 
+ Two engine operation (each engine) 
+ Idle to maximum continuous 
+ 4.0% 
+ Maximum continuous through takeoff 
+ 3.0% 
+ One engine operation 
+ Idle to maximum continuous 
+ 4.4% 
+ Maximum continuous through takeoff 
+ 3.7% 
+ NOTE: 
+ Thrust setting: Appropriate thrust setting curves (EPR) in FAA Approved 
+ Airplane Flight Manual must be used for control of the engine thrust."
+Oil,"Aircraft Turbine Engine Lubricant conforming to P&W Specification PWA 521, as 
+ revised."
+Airspeed Limits CAS,"S/N 282-1 thru 
+ S/N 282-1 thru 
+ 282-62 not 
+ 282-62 
+ modified 
+ modified per 
+ per Note 6 
+ Note 6 
+ SN 282-63 
+ & subsequent 
+ VMO (Max. operating) (at S.L.) 
+ 333K 
+ 350K 
+ VMO 
+ (at 21,340 ft.) 
+ 346K 
+ - - 
+ MMO 
+ (above 21,340 ft.) 
+ .765M 
+ - - 
+ VMO 
+ (at 21,130 ft.) 
+ - - 
+ 365K 
+ MMO 
+ (above 21,130 ft. 
+ - - 
+ .800M 
+ VA (Maneuvering) (at S.L.) 
+ 195K 
+ 197K 
+ VA 
+ (at 42,500 ft.) 
+ 218K 
+ - - 
+ VA 
+ (at 44,180 ft.) 
+ - - 
+ 220K 
+ MA 
+ (above 42,500 ft. 
+ .765M 
+ - - 
+ MA 
+ (above 44,180 ft.) 
+ - - 
+ .800M 
+ VFE (Flaps down 15.7°) (66% indicated) 
+ 225K 
+ 225K 
+ VFE (Flaps down 23.5°) (100% indicated) 
+ 179K 
+ 179K 
+ VLO (Landing gear operating) 
+ 179K 
+ 179K 
+ VLE (Landing gear extended) 
+ 179K 
+ 179K 
+ VSB (Speed brake extension) 
+ Any speed 
+ Any speed 
+ (Speed brake retraction) 
+ Any speed 
+ Any speed 
+ V 
+ (Fuel jettisoning) 
+ Any speed 
+ Any speed 
+ VTR (Minimum operating, max. reverse thrust) 
+ 60K 
+ 60K 
+ NOTE: 
+ For variation between values shown and corresponding IAS limits, for the 
+ airspeed system installed, refer to FAA Approved Airplane Flight Manual. 
+ For Buffet Envelope and Limit Maneuvering Load Factor variation with 
+ airspeed, weight, fuel, loading and altitude, refer to FAA Approved Airplane 
+ Flight Manual."
+CG Range,"Model NA-265-40 (Transport Aircraft) 
+ (S/N 282-1 thru 282-85 & S/N 282-90 thru 282-199) 
+ Gross weight vs. Center of Gravity 
+ (Approved Limits) 
+ The landing gear retraction moment is -500 in.-lbs. and results in a negligible 
+ movement of the C.G. When the airplane is loaded within the above C.G. envelope 
+ limits as applicable at both start of takeoff and zero fuel weights, and the 
+ restrictions concerning crew and passenger movement specified in the FAA 
+ Approved Load and Balance Schedule are complied with, the airplane will remain 
+ within the approved C .G. limits. 
+ The landing gear retraction moment is -500 in.-lbs. and results in a negligible 
+ movement of the C.G. When the airplane is loaded within the above C.G. envelope 
+ limits as applicable at both start of takeoff and zero fuel weights, and the 
+ restrictions concerning crew and passenger movement specified in the FAA 
+ Approved Load and Balance Schedule are complied with, the airplane will remain 
+ within the approved C .G. limits."
+Airplane Model,"NA-265-40 
+ NA-265-40 Modified Per: 
+ NA-265-40 
+ S/N 282-86 
+ S/N 282-98 
+ thru -89 
+ and sub- 
+ S/N 282-1 thru 282-97 only 
+ (FAA) Note 
+ S/N 282-1 thru S/N 
+ NOTE 
+ 282-97 
+ sequent 
+ NOTE 7(c) NOTE 7(f) 
+ 7(e) 
+ 7(e)"
+Equipped with,"9542384 9542384 
+ 9550338 
+ 9543102 9543102 9550338 9550338 9550338 
+ 9550338"
+AntiSkid Installed,"no 
+ yes 
+ no 
+ no 
+ yes 
+ no 
+ no 
+ no 
+ yes"
+Ramp and Taxi,"17,760 
+ 18,650 
+ 19,035 
+ 17,760 
+ 18,650 
+ 18,650 
+ 19,035 
+ 19,922 
+ 20,372"
+Start of Takeoff,"17,450 
+ 18,650 
+ 18,650 
+ 17,450 
+ 18,650 
+ 18,650 
+ 18,650 
+ 19,612 
+ 20,172"
+Airborne,"17,375 
+ 18,650 
+ 18,650 
+ 17,375 
+ 18,650 
+ 18,650 
+ 18,650 
+ 19,537 
+ 20,172"
+With JT12A6A,"17,450 
+ 18,340 
+ N/A 
+ 17,450 
+ 18,650 
+ 18,650 
+ 18,650 
+ N/A 
+ N/A"
+Start of Takeoff,"17,375 
+ 18,340 
+ N/A 
+ 17,450 
+ 18,265 
+ 18,265 
+ 18,650 
+ N/A 
+ N/A"
+Zero Fuel,"12,800 
+ 12,800 
+ 12,800 
+ 12,800 
+ 12,800 
+ 12,800 
+ 12,800 
+ 12,800 
+ 13,300"
+Landing,"14,000 
+ 15,000 
+ 17,500 
+ 14,000 
+ 17,500 
+ 17,500 
+ 17,500 
+ 17,500 
+ 17,500"
+Minimum Crew,"2 pilots 
+ NOTE: 
+ The delivery configuration minimum flight crew is one pilot and one flight 
+ crew assistant. No persons other than the flight crew may be carried. See FAA 
+ Approved Airplane Flight Manual (Addendum A) for additional limitations."
+Maximum Passengers,7
+Maximum Baggage,"In. from 
+ Capacity 
+ Capacity* 
+ Max. load 
+ In. from 
+ Location 
+ Datum 
+ (pounds) 
+ (pounds) 
+ (p.s.f.) 
+ Datum 
+ Forward 
+ 145-206 
+ 200 
+ 270 
+ 100 
+ 170 
+ Aft 
+ 298-320 
+ 340 
+ 510 
+ 50 
+ 311 
+ *When airplane is modified per NOTE 7(e)."
+Fuel Capacity,"Fuel at 6.70 lbs./gal.: 
+ Pressure Refueling 
+ Gravity Refueling 
+ (lbs.) 
+ (lbs.) 
+ C.G. Inches 
+ Total 
+ Usable 
+ Total 
+ Usable 
+ from Datum 
+ 2 wing tanks 
+ 6,206 
+ 6,047 
+ 6,134 
+ 5,975 
+ 256 
+ 1 fuselage tank 
+ 1,078 
+ 1,075 
+ 1,098 
+ 1,096 
+ 345 
+ See NOTE 1(c) for system fuel."
+Oil Capacity,"1.6 gal./engine, 12 pounds each. C.G. is 324 inches from Datum. 
+ This weight must be included in the aircraft empty weight."
+Maximum Operating Altitude,"45,000 feet 
+ NOTE: 
+ Pressure cabin service life is based on the following pressurization limits which 
+ must not be exceeded: 
+ Airplane Altitude 
+ Cabin Altitude 
+ Sea Level to 21,000 ft. 
+ Sea Level 
+ 21,000 ft. to 40,000 ft. 
+ 8.2 p.s.i. differential 
+ 40,000 ft. to 45,000 ft. 
+ 8,000 ft. altitude"
+Serial Nos Eligible,282-1 through 282-199
+Fatigue Life Limits,See NOTE 3(b)
+"III. Model NA-265-60 (Transport Aircraft), Approved April 28, 1967",
+Engines,2 Pratt and Whitney Turbo Wasp JT12A-8
+Fuel,"Commercial Aircraft Turbine Engine Fuel conforming to PWA Specification 
+ PWA 522 as revised. 
+ Hamilton Standard JFC-46-8 Hydro-Mechanical Controls"
+Engine Limits,"See Section II for Engine Model JT12A-8, Engine Limits."
+Oil,"Aircraft Turbine Engine Lubricant conforming to PWA Specification PWA 521, as 
+ revised."
+Airspeed Limits,"VMO 
+ (Max. operating) 
+ (at S.L.) 
+ 350K 
+ VMO 
+ (at 21,130 ft.) 
+ 365K 
+ VMO 
+ (above 21,130 ft.) 
+ .800M 
+ VA 
+ (at S.L.) 
+ 195K 
+ VA 
+ (at 44,300 ft.) 
+ 220K 
+ MA 
+ (above 44,300 ft.) 
+ .800M 
+ VFE 
+ (Flaps Down 16.7 deg.) (66% ind.) 
+ 225K 
+ VFE 
+ (Flaps Down 25 deg.) (100% ind.) 
+ 180K 
+ VLO 
+ (Landing Gear Operating) 
+ 180K 
+ VLE 
+ (Landing Gear Extended) 
+ 180K 
+ VSB 
+ (Speed Brake Extension) 
+ Any Speed 
+ (Speed Brake Retraction) 
+ Any Speed 
+ V 
+ (Fuel Jettisoning) 
+ Any Speed 
+ VTR 
+ (Minimum operating, Full reverse thrust) 
+ 60K 
+ NOTE: 
+ For variation between values shown and corresponding IAS limits, for the 
+ airspeed system installed, refer to FAA Approved Airplane Flight Manual. 
+ For Buffet Envelope and Limit Maneuvering Load Factor variation with 
+ airspeed, weight, fuel loading, and altitude, refer to FAA Approved Airplane 
+ Flight Manual."
+CG Range,"Model NA-265-60 (Transport Aircraft) 
+ Serial Numbers 306-1 Thru 306-63 (See NOTE 8) 
+ The landing gear retraction moment is -475 in.-lb. and results in a negligible movement 
+ of the C.G. When the airplane is loaded within the above C.G. envelope limits as 
+ applicable at both start of takeoff and zero fuel weights and the restrictions concerning 
+ crew and passenger movement specified in the FAA Approved Load and Balance 
+ Schedule are complied with, the airplane will remain within the approved C.G. limits."
+Maximum Weights,"(In pounds - With or without anti-skid equipment) 
+ Ramp and taxi 
+ 20,372 
+ Start of takeoff 
+ 20,172 
+ Airborne 
+ 20,172 
+ Zero fuel 
+ 13,250 (S/N 306-1 throught 306-63) (See NOTE 8) 
+ Zero fuel 
+ 13,800 (S/N 306-64 and subsequent) (See NOTE 8) 
+ Landing 
+ 17,500"
+Minimum Crew,"2 pilots 
+ NOTE: 
+ Delivery configuration minimum flight crew is one pilot and one flight crew 
+ assistant. No persons other than the flight crew may be carried. See FAA 
+ Approved Airplane Flight Manual (Addendum A) for additional limitations."
+Maximum Passengers,10
+Maximum Baggage,"Inches from 
+ Capacity 
+ Max. Load 
+ Inches from 
+ Location 
+ Datum 
+ (Pounds) 
+ (p.s.f.) 
+ Datum 
+ Forward 
+ 143-206 
+ 300 
+ 100 
+ 170 
+ Aft 
+ 336-371 
+ 510 
+ 80 
+ 342"
+Fuel Capacity,"Fuel at 6.70 lbs./gal. 
+ Pressure Refueling 
+ Gravity Refueling 
+ (lbs.) 
+ (lbs.) 
+ C.G. Inches 
+ Total 
+ Usable 
+ Total 
+ Usable 
+ from Datum 
+ 2 wing tanks 
+ 6,206 
+ 6,047 
+ 6,134 
+ 5,975 
+ 273 
+ 1 fuselage tank 
+ 1,078 
+ 1,075 
+ 1,098 
+ 1,096 
+ 383 
+ See NOTE 1(c) for system fuel"
+Oil Capacity,"1.6 gal./engine, 12 pounds each. C.G. is 362 inches from Datum. 
+ This weight must be included in the aircraft empty weight."
+Maximum Operating Altitude,"45,000 feet 
+ NOTE: 
+ Pressure cabin service life is based on the following pressurization limits which 
+ must not be exceeded: 
+ Airplane Altitude 
+ Cabin Altitude 
+ Sea Level to 21,000 ft. 
+ Sea level 
+ 21,000 ft. to 40,000 ft. 
+ 8.2 p.s.i. differential 
+ 40,000 ft. to 45,000 ft. 
+ 8,000 ft. altitude"
+Serial Nos Eligible,306-1 through 306-199
+Fatigue Life Limits,See NOTE 3(b)
+"IV. Model NA-265-70 (Transport Aircraft), Approved June 17, 1970",
+Engines,2 Pratt and Whitney Turbo Wasp JT12A-8
+Fuel,"Commericial Aircraft Turbine Engine Fuel conforming to PWA Specification PWA 522, 
+ as revised. 
+ Hamilton Standard JFC-46-8 Hydro-Mechanical Controls"
+Engine Limits,"See Section II for Engine Model JT12A-8, Engine Limits"
+Oil,"Aircraft Turbine Engine Lubricant conforming to PWA Specification PWA 521, as revised."
+Airspeed Limits,"VMO 
+ (Max. operating) 
+ (at S.L.) 
+ 350K"
+CAS,"VMO 
+ (at 21,130 ft.) 
+ 365K 
+ MMO 
+ (above 21,130 ft.) 
+ .800M 
+ VA 
+ (Maneuvering) 
+ (at S.L.) 
+ 221K 
+ VA 
+ (at 40,000 ft.) 
+ 243K 
+ MA 
+ (above 40,000 ft.) 
+ .800M 
+ VFE 
+ (Flaps Down 16.7°) 
+ (66% indicated) 
+ 225K 
+ VFE 
+ (Flaps Down 25°) 
+ (100% indicated) 
+ 180K 
+ VLO 
+ (Landing Gear Operating) 
+ 180K 
+ VLE 
+ (Landing Gear Extended) 
+ 180K 
+ VSB 
+ (Speed Brake Extension) 
+ Any Speed 
+ (Speed Brake Retraction) 
+ Any Speed 
+ V 
+ (Fuel Jettisoning) 
+ Any Speed 
+ VTR 
+ (Minimum operating, Full reverse thrust) 
+ 60K 
+ NOTE: 
+ For variation between values shown and corresponding IAS limits, for the 
+ airspeed system installed, refer to FAA Approved Airplane Flight Manual. 
+ For Buffet Envelope and Limit Maneuvering Load Factor variation with 
+ airspeed, weight, fuel loading, and altitude, refer to FAA Approved Airplane 
+ Flight Manual."
+CG Range,"Model NA-265-70 (Transport Aircraft) 
+ Gross Weight vs. Center of Gravity 
+ (Approved Limits) 
+ The landing gear retraction moment is +591 in.-lb. and results in a negligible movement 
+ of the C.G. When the airplane is loaded within the above C.G. envelope limits as 
+ applicable at both start of takeoff and zero fuel weights and the restrictions concerning 
+ crew and passenger movement specified in the FAA Approved Load and Balance 
+ Schedule are complied with, the airplane will remain within the approved C.G. limits."
+Maximum Weights,"(In pounds - With or without anti-skid equipment) 
+ Ramp and taxi 
+ 21,200 
+ Start of takeoff 
+ 21,000 
+ Airborne 
+ 21,000 
+ Zero fuel 
+ 14,300 
+ Landing 
+ 18,500 
+ NOTE: 
+ Fuel jettison valves are required for operation in excess of 105 percent of the 
+ maximum landing weight. Refer to the FAA Approved Airplane Flight Manual 
+ for fuel jettisoning procedures. See NOTE 1."
+Minimum Crew,"2 pilots 
+ NOTE: 
+ Delivery configuration minimum flight crew is one pilot and one flight crew 
+ assistant. No persons other than the flight crew may be carried. See FAA 
+ Approved Airplane Flight Manual (Addendum A) for additional limitations."
+Maximum Passengers,10
+Maximum Baggage,"Inches from 
+ Capacity 
+ Max. Load 
+ Inches from 
+ Location 
+ Datum 
+ (Pounds) 
+ (p.s.f.) 
+ Datum 
+ Forward 
+ 143-206 
+ 300 
+ 100 
+ 170 
+ Aft 
+ 336-371 
+ 510 
+ 80 
+ 342"
+Fuel Capacity,"Fuel at 6.70 lbs./gal. 
+ Pressure Refueling 
+ Gravity Refueling 
+ (lbs.) 
+ (lbs.) 
+ C.G. Inches 
+ Total 
+ Usable 
+ Total 
+ Usable 
+ from Datum 
+ 2 wing tanks 
+ 6,206 
+ 6,047 
+ 6,134 
+ 5,975 
+ 273 
+ 1 fuselage tank 
+ 1,338 
+ 1,333 
+ 1,369 
+ 1,365 
+ 383 
+ See NOTE 1(c) for system fuel"
+Oil Capacity,"1.6 gal./engine, 12 pounds each. C.G. is 362 inches from Datum. 
+ This weight must be included in the aircraft empty weight."
+Maximum Operating,"45,000 feet"
+Altitude,"NOTE: 
+ Pressure cabin service life is based on the following pressurization limits which 
+ must not be exceeded: 
+ Airplane Altitude 
+ Cabin Altitude 
+ Sea Level to 21,000 ft. 
+ Sea Level 
+ 21,000 ft. to 40,000 ft. 
+ 8.2 p.s.i. differential 
+ 40,000 ft. to 45,000 ft. 
+ 8,000 ft. altitude"
+Serial Nos Eligible,NA-370-1 through 370-199
+Fatigue Life Limits,See NOTE 3(b)
+"V. Model NA-265-80 (Transport Aircraft), Approved November 30, 1973 (FAA Flight Inspection Aircraft), 
+ Approved April 15, 1975 NOTE: See Serial Numbers Eligible, page 20",
+Engines,"2 General Electric Aft Turbofan CF700-2D-2 
+ ""B"" Suffix Serial Number"
+Fuel,"Aviation Turbine Fuels conforming to General Electric Specification D50TF2, Current 
+ Revision 
+ General Electric MFC-2"
+Engine Limits,"Engine Model CF700-2D-2 
+ Static Thrust (see Engine Data Sheet E7EA, as revised) 
+ Takeoff 
+ 4,500 lbs. 
+ Maximum Continuous 
+ 4,120 lbs. 
+ Maximum Permissible Engine Rotor Speed 
+ 16,700 r.p.m. 
+ (101.2%) 
+ Maximum Permissible Fan Rotor Speed 
+ 9,000 r.p.m. 
+ (105.0%) 
+ Maximum Permissible Exhaust Gas Temperatures 
+ Takeoff (5 min.) 
+ 1365°F 
+ (741°C) 
+ Maximum Continuous 
+ 1335°F 
+ (724°C) 
+ Starting (2 sec.) 
+ 1670°F 
+ (910°C) 
+ Oil Reservoir Temperature 
+ Steady State 
+ 365°F 
+ (185°C) 
+ Maximum Permissible Bleed Air 
+ Extraction of Compressor Inlet Airflow 
+ 6.0% 
+ NOTE: 
+ Thrust Setting: Appropriate Thrust Setting Curves (EPR) in FAA Approved 
+ Airplane Flight Manual must be used for Control of Engine Thrust. 
+ If the EGT obtained, when using the chart MAXIMUM CONTINUOUS THRUST EPR 
+ SETTING, is less than 670° C. below 20,000 feet or 695° at or above 20,000 feet 
+ pressure altitude, increased performance may be obtained by increasing the EGT to 
+ 670°/695° C. If the EGT obtained when setting the chart EPR exceeds 670°/695° C., 
+ then maintain chart EPR setting and observe the 724° C. EGT limit."
+Oil,"Aircraft Gas Turbine Lubricating Oil conforming to General Electric Specification 
+ D50TFI, current revision."
+Airspeed Limits,"VMO 
+ (Max. operating) 
+ (at S.L.) 
+ 350K"
+CAS,"VMO 
+ (at 21,200 ft.) 
+ 365K 
+ MMO 
+ (above 21,200 ft.) 
+ .800M 
+ VA 
+ (Maneuvering) 
+ (at S.L.) 
+ 221K 
+ VA 
+ (at 40,000 ft.) 
+ 243K 
+ MA 
+ (above 40,000 ft.) 
+ .800M 
+ VFE 
+ (Flaps Down 16.7º) 
+ (66% indicated) 
+ 225K 
+ VFE 
+ (Flaps Down 25º) 
+ (100% indicated) 
+ 180K 
+ VLO 
+ (Landing Gear Operating) 
+ 180K 
+ VLE 
+ (Landing Gear Extended) 
+ 180K 
+ (Landing-Taxi Lights Extended Speed) 
+ 250K 
+ VSB 
+ (Speed Brake Extension) 
+ Any Speed 
+ (Speed Brake Retraction) 
+ Any Speed 
+ NOTE: 
+ For variation between values shown and corresponding IAS limits, for the 
+ airspeed system installed, refer to FAA Approved Airplane Flight Manual. 
+ For Buffet and Stall Warning Envelope and Limit Maneuvering Load Factor 
+ variation with airspeed, weight, fuel loading, and altitude, refer to FAA 
+ Approved Airplane Flight Manual."
+CG Range,"Model NA-265-80 (Transport Aircraft) 
+ Gross Weight vs. Center of Gravity 
+ (Approved Limits) 
+ The landing gear retraction moment is +591 in.-lb. and results in a negligible movement 
+ of the C.G. When the airplane is loaded within the above C.G. envelope limits as 
+ applicable at both start of takeoff and zero fuel weights and the restriction concerning 
+ crew and passenger movement specified in the FAA Approved Load and Balance 
+ Schedule are complied with, the airplane will remain within the approved C.G. limits. 
+ *NOTE: The FAA Flight Inspection Aircraft Serial Nos. are 380-5, -10, -14, -16, -18, 
+ -20, -22, -24, -26, -28, -29, -31, -33, -35, and -37"
+Maximum Weights,"(In pounds) 
+ Ramp and Taxi 
+ 23,500 
+ Start of Takeoff 
+ 23,300 
+ Airborne 
+ 23,300 
+ Zero Fuel 
+ 15,620 
+ Landing 
+ 22,000"
+Minimum Crew,"2 pilots 
+ NOTE: 
+ Delivery configuration minimum flight crew is one pilot and one flight crew 
+ assistant. No persons other than the flight crew may be carried. See FAA 
+ Approved Airplane Flight Manual (Addendum A) for additional limitations."
+Maximum Passengers,10 (4 cabin occupants - FFIA)
+Maximum Baggage,"Inches from 
+ Capacity 
+ Max. Load 
+ Inches from 
+ Location 
+ Datum 
+ (Pounds) 
+ (p.s.f.) 
+ Datum 
+ FFIA Cabin 
+ 215-241 
+ 180 
+ 100 
+ 237 
+ Forward 
+ 143-206 
+ 300 
+ 100 
+ 170 
+ Aft 
+ 336-371 
+ 510 
+ 80 
+ 342"
+Fuel Capacity,"Fuel at 6.70 lbs./gal. 
+ Pressure Refueling 
+ Gravity Refueling 
+ (lbs.) 
+ (lbs.) 
+ C.G. Inches 
+ Total 
+ Usable 
+ Total 
+ Usable 
+ from Datum 
+ 2 wing tanks 
+ 6,206 
+ 6,047 
+ 6,134 
+ 5,975 
+ 273 
+ 1 fuselage tank 
+ 1,078 
+ 1,333 
+ 1,369 
+ 1,365 
+ 383 
+ Total Fuel 
+ 7,544 
+ 7,380 
+ See NOTE 1(c) for System Fuel."
+Oil Capacity,"4 qt./tank/engine, 15 pounds total. C.G. is 364 inches from Datum. 
+ This weight must be included in the aircraft empty weight."
+Maximum Operating,"45,000 feet"
+Altitude,"NOTE: 
+ Pressure cabin service life is based on the following pressurization limits which 
+ must not be exceeded. 
+ Airplane Altitude 
+ Cabin Altitude 
+ Sea Level to 21,000 ft. 
+ Sea Level 
+ 21,000 ft. to 40,000 ft. 
+ 8.2 p.s.i. differential 
+ 40,000 ft. to 45,000 ft. 
+ 8,000 ft. altitude"
+Serial Nos Eligible,"380-1 through 380-199 (380-5, -10, -14, -16, -18, -20, -22, -24, -26, -28, -29, 
+ -31, -33, -35, -37 for FFIA). Modification in accordance with Sabreliner Corporation 
+ Top Drawing RSC380016 is required to change an FAA Flight Inspection Aircraft 
+ (FFIA) to Transport configuration."
+Fatigue Life Limits,See NOTE 3(b)
+"VI. Model NA-265-65 (Transport Aircraft), Approved November 28, 1979",
+Engines,2 AiResearch Mfg. Co. TFE731-3R-1D Turbofan
+Fuel,"Turbine Engine Commercial Aircraft Fuel Conforming to AiResearch 
+ Mfg. Co. Specifications EMS53111, EMS53112, and EMS53116 
+ AiResearch Mfg. Co. P/N 3070800-7 (Hydromechanical) 
+ AiResearch Mfg. Co. P/N 2101144-2 (Electronic Computer)"
+Engine Limits,"Static Thrust (see Engine Data Sheet E6WE-5) 
+ Non-APR 
+ APR 
+ Takeoff (5 min.) 
+ 3700 lbs. 
+ 3880 lbs. 
+ Maximum Continuous 
+ 3700 lbs. 
+ Low Pressure Compressor 
+ 21,000 r.p.m. 
+ (LPC), Rotor Speed N1 
+ (101.5%) 
+ High Pressure Compressor 
+ 29,692 r.p.m. 
+ 29,989 r.p.m. 
+ (HPC), Rotor Speed N2 
+ (100%) 
+ (101%) 
+ Interstage Turbine Temp. (ITT) 
+ Takeoff (5 min.) 
+ 1665°F (907°C) 
+ 1705°F"
+929°C,"Maximum Continuous 
+ 1625°F 
+ (885°C) 
+ Starting 
+ 1665°F 
+ (907°C) 
+ Fan Gearbox Oil Temperature 
+ Up to 30,000 Feet 
+ 260°F 
+ (127°C) 
+ Above 30,000 Feet 
+ 284°F 
+ (140°C) 
+ Maximum Transient (2 min).) 
+ 300°F 
+ (149°C) 
+ Bleed Air Extraction Of Compressor (Core) Airflow 
+ Total 
+ 8% 
+ Low Pressure Compressor Bleed 
+ 5% 
+ High Pressure Compressor Bleed 
+ Above 30% Max. Continuous 
+ 3% 
+ Below 30% Max. Continuous 
+ 5% 
+ NOTE: 
+ Thrust Setting: Appropriate thrust setting curves (NI) in FAA Approved 
+ Airplane Flight Manual shall be used for setting engine thrust."
+Oil,"Synthetic Commercial Turbine Engine Lubricating Oil Conforming to 
+ AiResearch Mfg. Co. Specification EMS53110, Type 2"
+Airspeed Limits,"VMO 
+ (Max. Operating) 
+ (at S.L.) 
+ 347K"
+CAS,"VMO 
+ (at 25,000 ft.) 
+ 347K 
+ MMO 
+ (above 25,000 ft.) 
+ .825M 
+ VA 
+ (Maneuvering) 
+ (S.L. to 45,000 ft.) 
+ 209K 
+ VFE 
+ (Flaps Down 10°) 
+ 250K 
+ VFE 
+ (Flaps Down 20°) 
+ 225K 
+ VFE 
+ (Flaps Down 36°) 
+ 180K 
+ VLO 
+ (Landing Gear Operating) 
+ 180K 
+ VLE 
+ (Landing Gear Extended) 
+ 180K 
+ VSP 
+ (Spoiler Extension) 
+ Any Speed 
+ (Spoiler Retraction) 
+ Any Speed 
+ VTR 
+ (Minimum Operating, Full Reverse Thrust) 
+ 60K 
+ When equipped with optional speed brake: 
+ VSB 
+ (Speed Brake Extension) 
+ Any Speed 
+ (Speed Brake Retraction) 
+ Any Speed"
+CG Range,"The landing gear retraction moment is -250 in.-lb. and results in a negligible movement 
+ of the C.G. When the airplane is loaded within the above C.G. envelope limits as 
+ applicable at both start of takeoff and zero fuel weights and the restrictions concerning 
+ crew and passenger movement specified in the FAA Approved Load and Balance 
+ Schedule are complied with, the airplane will remain within the approved C.G. limits."
+Maximum Weights,"(In pounds - with or without anti-skid equipment) 
+ Ramp and Taxi 
+ 24,000 
+ Start of Takeoff 
+ 24,000 
+ Airborne 
+ 24,000 
+ Zero Fuel 
+ 16,250 
+ Minimum Flight 
+ 13,730 
+ Landing 
+ 21,755"
+Minimum Crew,"2 Pilots 
+ NOTE: 
+ Delivery configuration minimum flight crew is one pilot and one flight crew 
+ assistant. No persons other than the flight crew may be carried. See FAA 
+ Approved Airplane Flight Manual (Addendum B) for additional limitations."
+Maximum Passengers,10
+Maximum Baggage,"Inches from 
+ Capacity 
+ Max. Load 
+ Inches from 
+ Location 
+ Datum 
+ (Pounds) 
+ (p.s.f.) 
+ Datum 
+ Forward 
+ 143-206 
+ 300 
+ 100 
+ 170 
+ Aft 
+ 336-371 
+ 510 
+ 80 
+ 342"
+Fuel Capacity,"Fuel at 6.70 lbs./gal. 
+ Pressure Refueling 
+ Gravity Refueling 
+ (lbs.) 
+ (lbs.) 
+ C.G. Inches 
+ Total 
+ Usable 
+ Total 
+ Usable 
+ from Datum 
+ 465-Series: 
+ 465-1 thru -14 
+ 2 wing tanks 
+ 7,162 
+ 7,040 
+ 6,914 
+ 6,793 
+ 272 
+ 1 fuselage tank (aft) 
+ 1,078 
+ 1,075 
+ 1,098 
+ 1,095 
+ 383 
+ 1 fuselage tank (fwd) 
+ 393 
+ 377 
+ 393 
+ 377 
+ 206 
+ 465-Series: 
+ 465-15 thru -999 
+ 2 wing tanks 
+ 7,313 
+ 7,192 
+ 6,914 
+ 6,793 
+ 272 
+ 1 fuselage tank (aft) 
+ 1,078 
+ 1,075 
+ 1,098 
+ 1,095 
+ 383 
+ 1 fuselage tank (fwd) 
+ 393 
+ 377 
+ 393 
+ 377 
+ 206 
+ 306 Series: 
+ 306-1 thru -135, & 
+ -137 thru -146 
+ 2 wing tanks 
+ 7,313 
+ 7,192 
+ 6,914 
+ 6,793 
+ 272 
+ 1 fuselage tank (aft) 
+ 1,078 
+ 1,075 
+ 1,098 
+ 1,095 
+ 383 
+ See NOTE 1(c) for System Fuel."
+Oil Capacity,"1.5 gal./engine, 12 pounds each. C.G. is 362 inches from datum. 
+ This weight must be included in the aircraft empty weight."
+Maximum Operating,"45,000 feet"
+Altitude,"NOTE: 
+ Pressure cabin service life is based on the following pressurization limits which 
+ must not be exceeded: 
+ Airplane Altitude 
+ Cabin Altitude 
+ (465 Series) 
+ Sea Level to 23,000 ft. 
+ Sea Level 
+ 23,000 ft. to 45,000 ft. 
+ Sea Level to 8,000 ft. 
+ (306 Series) 
+ Sea Level to 21,000 ft. 
+ Sea Level 
+ 21,000 ft. to 40,000 ft. 
+ 8.2 p.s.i. differential 
+ 40,000 ft to 45,000 ft. 
+ 8,000 ft. altitude 
+ NOTE: 
+ Passengers are required to wear oxygen masks above 41,000 feet unless the 
+ airplane is inspected in accordance with the Annual Pressurization Control 
+ System Leakage & Structural Integrity Check-Out Procedure in Chapter 5 of 
+ the Model NA-265-65 Maintenance Manual, Report No. SR-78-030."
+Serial Nos Eligible,"(465-Series) 
+ 465-1 through 465-999 
+ NOTE: 
+ Model NA-265-60, S/N 306-136 has been modified in accordance with 
+ Rockwell International Drawing 60S-136-0011 and reidentified as Model NA- 
+ 265-65, S/N 465-1. 
+ (306-Series) 
+ 306-1 through 306-135 and 306-137 through 306-146 
+ NOTE: 
+ Model NA-265-60 serial number aircraft noted are eligible for modification and 
+ reidentification to Model NA-265-65, 306-Series aircraft in accordance with 
+ Rockwell International Drawing 60S-001-0012."
+Fatigue Life Limits,See NOTE 3(b)
+Data Pertinent to All Models (except as listed),
+Other Operating Limitations,"Required FAA Approved Airplane Flight Manual 
+ NA-265 
+ NAR Report No. NA-61-3 
+ NA-265-20 
+ NAR Report No. NA-61-3 
+ NA-265-30 
+ NAR Report No. NA-61-3 
+ NA-265-40 
+ (S/N 282-1 through 282-97) NAR Report No. NA-62-1300 
+ NA-265-40 
+ (S/N 282-98 & Subsequent) NAR Report No. NA-72-25 
+ NA-265-60 
+ NAR Report No. NA-66-1030 
+ NA-265-65 
+ Rockwell Report No. SR-77-006 
+ NA-265-70 
+ NAR Report No. NA-69-422 
+ NA-265-80 
+ Rockwell Report No. NA-72-928 (and Appendix II for FFIA) 
+ FFIA aircraft modified by Sabreliner Corporation Top Drawing RSC380016 
+ require AFM NA-72-928 with AFMS 80-52, 80-53, and 80-54"
+Datum,"Fuselage Station zero is the reference datum point for horizontal C.G.'s 
+ and it is located at the most forward point of the radome."
+MAC,"100.60 in. (L.E. of MAC at 225.1 inches from datum) 
+ NA-265, NA-265-20, NA-265-30, and NA-265-40 
+ 100.60 in. (L.E. of MAC at 242.1 inches from datum) 
+ NA-265-60, NA-265-70, and NA-265-80 only 
+ 103.27 in. (L.E. of MAC at 243.9 inches from datum) 
+ NA-265-65"
+Leveling Means,"Longitudinal: 
+ Lugs mounted on LH side of nose wheel well beams 
+ Lateral: 
+ Lugs mounted on LH and RH nose wheel well beams"
+Control Surface Movements,"Horizontal Stabilizer* 
+ - 9.0° 
+ to 
+ -1.0° 
+ Horizontal Stabilizer 
+ (NA-265-65- only) 
+ -12° 30’ to 
+ 0° 0’ 
+ Horizontal Stabilizer 
+ (NA-265-60 S/N’s 306-78, 
+ -81, -86 thru -146***, 
+ NA-265-70 & -80) 
+ - 8.0° 
+ to 
+ 0.0° 
+ Elevator 
+ -22.0° 
+ to 
+ +11.0° 
+ Aileron* 
+ -16.0° 
+ to 
+ +15.0° Neutral 
+ -0.5° 
+ Aileron (NA-265-60, -70 & 
+ -80 only) 
+ -15.5° 
+ to 
+ +15.5° Neutral 
+ 0.0° 
+ Aileron (NA-265-65 only) 
+ -15° 
+ to 
+ +15° Neutral 
+ 0.0° 
+ Aileron tab 
+ -12.0° 
+ to 
+ +12.0° 
+ Rudder 
+ -25.0° 
+ to 
+ +25.0° 
+ Rudder tab 
+ -15.0° 
+ to 
+ +15.0°"
+Control Surface Movements,"Wing flap 
+ - 1.5° 
+ to 
+ +23.5° Retracted 
+ -1.5°"
+con’t,"Wing flap (NA-265-60, -70, 
+ & -80 only) 
+ - 0.0° 
+ to 
+ +25.0° Retracted 
+ -0.0° 
+ Wing flap (NA-265-65 only) 
+ 0° 
+ to 
+ 36° Retracted 
+ 0.0° 
+ Speed brake** 
+ +47.0° 
+ (from the Closed Position) 
+ Wing spoilers (NA-265-65 only) 0° 
+ to 
+ 45° 
+ * All Models Except as Noted 
+ ** All Models Except NA-265-65 
+ *** NA-265-60 S/N's 306-1 through -77, -79, -80, and -82 through -85 when modified 
+ by Sabreliner Drawings 306-520032, 306-510104, 306-540210, 306-931003, and 
+ 306-522103 to the latest revisions."
+Certification Basis,"CAR 4b, dated December 31, 1953, Amendment 4b-1 through 4b-9 thereto, Special Civil 
+ Air Regulation No. SR 422B Item 2 and the Special Conditions set forth in Attachment 
+ ""A"" of FAA letter to NAA dated October 8, 1959, FAA letter to NAA dated January 30, 
+ 1962, Special Conditions No. 25-11-WE-4 dated August 29, 1969 (as applicable to NA- 
+ 265-65, NA-265-70, and NA-265-80 only), Special Conditions No. 25-92-WE-26 dated 
+ January 28, 1980 (NA-265-65 only), and FAR 36.1(c) and 36.2, dated December 1, 1969 
+ (as applicable to NA-265-70 and NA-265-80 only). 
+ The certification basis for the NA-265-65 is the same as above except the NA-265-65 has 
+ complied with the following requirements: 
+ FAR Part 36, effective December 1, 1969, and Amendments 36-1 through 36-9, 
+ inclusive. 
+ Even though not included in the type certification basis defined by FAR 21.101, the 
+ NA-265-65 has complied with the air pollution requirements of EPA Regulations, 
+ Part 87, as implemented by SFAR 27, effective February 1, 1974, and Amendments 
+ 27-1 and 27-2, as applicable to Class TI engines. 
+ FAR Part 25 effective February 1, 1965: FAR Parts 25.177, 25.181, 25.934, and 
+ 25.1091(d)(2). 
+ FAR Part 25, Amendment 25-7 effective November 4, 1965: FAR Parts 25.171, 
+ 25.173, and 25.175. 
+ FAR Part 25, Amendment 25-23 effective May 8, 1970: FAR Parts 25.251 and 
+ 25.253. 
+ FAR Part 25, Amendment 25-40 effective May 2, 1977: FAR Parts 25.933 and 
+ 25.943. 
+ FAR Part 25, Amendment 25-42 effective March 1, 1978: FAR Part 25.255. 
+ A fuel jettison system is not required for the Model NA-265-40 (when two JT12A-8 
+ engines are installed), nor the Models NA-265-60, NA-265-65, NA-265-70, and NA-265- 
+ 80 since these aircraft comply with FAR 25.1001(d) climb requirements, when operated 
+ at the maximum takeoff weights permitted by the respective FAA Approved Airplane 
+ Flight Manuals. 
+ Model NA-265-65: Width of main aisle. An equivalent safety finding permits the main 
+ cabin aisle width to be 9"" up to 25"" above floor and 12"" to 25"" and more above the floor 
+ in lieu of the requirements of CAR 4b.362(h). 
+ Models NA-265-40, NA-265-60, NA-265-65, NA-265-70, and NA-265-80: These 
+ airplanes have been shown to comply with the optional ditching requirements of CAR 
+ 4b.361. Overwater operation can be conducted when the airplane has been equipped and 
+ installation has been approved according to CAR 4b.361. Model NA-265-40 aircraft 
+ which do not incorporate two overwing exits are not certified for ditching. 
+ Model NA-265-65: Ice protection. Compliance has been demonstrated in accordance 
+ with CAR 4b.640 when ice protection equipment is installed per Airplane Master 
+ Equipment List SR-78-036 for 465 Series and SR-81-006 for 306 Series. 
+ FAA Exemption No. 26: Issued August 13, 1959, grants exemption from 4b.350(e) and 
+ (f) for executive transport operation and from that portion of 4b.353(e)(1) which requires 
+ the wing flap control to be located on the top of the pedestal. 
+ FAA Exemption No. 270: Issued July 10, 1963, and clarified in FAA letter to NAA 
+ dated July 17, 1964, grants an exemption from CAR 4b.362(h) to permit a main 
+ passenger aisle width of 15 inches measured 25 inches or more from the floor for a 
+ passenger seating capacity of six with certain provisions. 
+ FAA Exemption No. 588: Issued October 7, 1966, grants an exemption from CAR 
+ 4b.362(h) to permit a main aisle width of not less than 15 inches between the two 
+ aftermost seats on the aisle, measured 25 inches or more from the floor. 
+ FAA Exemption No. 709: Issued August 15, 1967, grants an exemption from CAR 
+ 4b.362(h) to the extent necessary to permit type certification of the Model NA-265-60 
+ airplane with a main aisle width of 15 inches, in the aisle space of 25 inches and more 
+ from the floor, for a maximum passenger seating capacity of 10. 
+ FAA Exemption No. 709A: Issued March 28, 1970, amends Exemption 709 to 
+ read: ""North American Rockwell Corporation"" and extends it to cover 
+ Model NA-265-70 and NA-265-80 airplanes, provided that their seating 
+ capacities are no greater than the NA-265-60, and their seating arrange- 
+ ment and exit accessibility are identical to those of the NA-265-60."
+Production Basis,"Production Certificate No. 602: 
+ All NA-265 Series aircraft except as noted below. 
+ Production Certificate No. 323CE: 
+ NA-265-60, S/N 306-139 and subsequent aircraft 
+ NA-265-65, S/N 465-1 and subsequent aircraft (465-Series) (excepting S/N 465-4, 
+ 465-11, and 465-12) 
+ NA-265-65, S/N 306-1 through 306-135 and 306-137 through 306-146 aircraft (306- 
+ Series) 
+ NA-265-80, S/N 380-66 and subsequent aircraft 
+ The following airplanes were certificated under the provisions of the Type Certificate in 
+ lieu of a Production Certificate: 
+ NA-265-60, S/N 306-137 and 306-138 
+ NA-265-65, S/N 465-4, 465-11, and 465-12 
+ NA-265-80, S/N 380-59 through 380-65"
+Required Equipment,"The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. All of the 
+ required equipment that must be installed, as well as optional equipment installation 
+ approved by the FAA are contained in the following: 
+ NA-265 NAR Reports No. NA-59-759 or NA-61-646, as applicable; 
+ NA-265-20 NAR Reports No. NA-59-759 or NA-61-646, as applicable; 
+ NA-265-30 NAR Reports No. NA-59-759 or NA-61-646, as applicable; 
+ NA-265-40 NAR Report No. NA-62-1271 (S/N 282-1 through 282-97); 
+ NA-265-40 NAR Report No. NA-71-1162 (S/N 282-98 and subsequent aircraft); 
+ NA-265-60 NAR Report No. NA-66-1071; 
+ NA-265-65 (465-Series) Rockwell International Report No. SR-78-036; 
+ NA-265-65 (306-Series) Rockwell International Report No. SR-81-006; 
+ NA-265-70 NAR Report No. NA-68-865; 
+ NA-265-80 Rockwell International Report No. NA-72-929."
+NOTE 1,"(a) 
+ The current load and balance schedule and the list of equipment included in the certificated empty weight 
+ and loading restrictions must be provided for each aircraft at the time of original certification. The load 
+ and balance schedule contains information for aircraft and interior arrangement as delivered. It also 
+ contains information relative to the location of crew and passengers, location and capacity of baggage area 
+ and fuel using tables. 
+ (b) 
+ The aircraft must be loaded so that the C.G. is within the approved limits at all times considering fuel 
+ loading and usage, gear retraction, and movement of crew and passengers from their assigned positions. 
+ (c) 
+ The weight of the system fuel, total oil and hydraulic fluid, all of which must be included in the aircraft 
+ empty weight, is listed in the applicable Rockwell International Master Equipment List. 
+ System Fuel: The weight of all fuel required to fill the lines and tanks up to the zero fuel point on the fuel 
+ gauges in the most critical flight attitude. This consists of trapped fuel and includes the unusable tank fuel 
+ as defined by CAR 4b.416."
+NOTE 2,This aircraft must be operated according to the FAA Approved Airplane Flight Manual.
+NOTE 3,"(a) 
+ Information essential to the proper servicing and maintenance of the appropriate model aircraft is 
+ contained in the following list of the manufacturer's Maintenance Manuals. 
+ NA-265, NA-265-20, NA-265-30 
+ The applicability of the Military Maintenance Manual 
+ for these models must be established for civil operations. 
+ NA-265-40 
+ NAR Report No. NA-62-1224 
+ NA-265-60 
+ NAR Report No. NA-62-1224 
+ NA-265-65 
+ (465-Series) Rockwell International Report No. SR-78-030 
+ NA-265-65 
+ (306-Series) Rockwell International Report No. SR-81-014 
+ NA-265-70 
+ NAR Report No. NA-69-420 
+ NA-265-80 
+ Rockwell International Report No. NA-69-420 
+ (b) 
+ Components which are life limited are listed in Rockwell International Report No. SR-81-013 and must be 
+ replaced as indicated therein. Report No. SR-81-013, Rev. H, or later FAA approved revision, is part of 
+ Data Sheet A2WE, by reference. Copies of this report may be obtained from the manufacturer."
+NOTE 4,"Applies to Models NA-265, NA-265-20, and NA-265-30. 
+ When these models are operated as military aircraft, they will be operated to military operating requirements and 
+ limitations concerning night, IFR, and weather operations. Due to the military instruments, communication and 
+ navigation equipment installed, these models have been substantiated for VFR operations only in civil use."
+NOTE 5,"Applies to NA-265, -20 and -30, all serial numbers except as otherwise indicated below: 
+ Prior to issuance of Certificate of Airworthiness, FAA Form 8100-2, for converted military models it must be 
+ determined that the aircraft complies with the requirements listed in Sabreliner Corporation Report No. TFD-68- 
+ 282, dated July 31, 1990, or later FAA approved revision. This is in addition to requirements listed under ""Serial 
+ Numbers Eligible"" heading of Section I of this data sheet."
+NOTE 6,"Applies to Model NA-265-40. 
+ (a) 
+ Aircraft Serial Number 282-1 through 282-25 must have the following installed to operate at 0.8 mach 
+ number: 
+ (1) 
+ 282-890014 Kit, Mach Warning Switch, 
+ (2) 
+ Kollsman A33907-10-011 Airspeed Indicator, 
+ (3) 
+ Red line on Machmeter at 0.808. 
+ (b) 
+ Aircraft Serial Number 282-26 through 282-62 must have the following installed to operate at 0.8 mach 
+ number: 
+ (1) 
+ Astek 8070410011 Mach Airspeed Switch, 
+ (2) 
+ Kollsman A33907-10-011 Airspeed Indicator, 
+ (3) 
+ Red line on Machmeter at 0.808."
+NOTE 7,"Applies as indicated. 
+ (a) 
+ Model NA-265 
+ Seven (7) passengers may be carried when the cabin interior configuration is modified in accordance with 
+ North American Rockwell Drawing No. 265-890356. 
+ (b) 
+ Model NA-265-30 
+ When the landing gear is modified in accordance with North American Rockwell Drawing No. 277- 
+ 890210, the airplane gross weight may be increased to 18,650 pounds. 
+ (c) 
+ Model NA-265-40 
+ Seven (7) passengers may be carried when the cabin interior configuration is modified in accordance with 
+ North American Rockwell Drawing No. 282-000006. 
+ (d) 
+ Model NA-265-40 
+ Installation of two (2) Pratt and Whitney Turbo Wasp JT12A-8 engines in lieu of two (2) Pratt and 
+ Whitney Turbo Wasp JT12A-6A engines may be accomplished in accordance with North American 
+ Rockwell Drawings No. 265-400001, 282-410001, 282-420001, 282-510104, and 282-530075. (See 
+ Fatigue Life Limit All Models.) 
+ (e) 
+ Model NA-265-40 
+ When modified in accordance with instructions contained in North American Rockwell Corporation 
+ Sabreliner Field Service Bulletin No. 68-12, dated November 11, 1969, Sabreliner Corporation Optional 
+ Kit No. 83-5, dated February 29, 1984, or later FAA approved revision, and NOTE 7(d) above, the 
+ airplane is eligible for 19,922 pound-maximum ramp and 19,537 pound-maximum airborne weights. 
+ (f) 
+ Model NA-265-40 (S/N 282-1 through 282-97) 
+ When modified in accordance with instructions contained in North American Rockwell Corporation 
+ Sabreliner Field Service Bulletin No. 69-23, dated February 18, 1971, or later FAA approved revision, the 
+ airplane is eligible for 19,035 pound-maximum ramp and 18,650 pound maximum airborne weights. 
+ (g) 
+ Models NA-265-40 and -60 
+ Allowable fuselage inertia distributions are contained in FAA Approved North American Rockwell Report 
+ No. TFD-67-817, revision dated July 23, 1968, or later FAA approved revision. 
+ (h) 
+ Deleted - See Fatigue Life Limits, NOTE 3(b). 
+ (i) 
+ Deleted - See Fatigue Life Limits, NOTE 3(b). 
+ (j) 
+ Models NA-265-40 and -60 
+ Thrust reversers may be installed on all Pratt and Whitney Turbo Wasp JT12A-6A and -8 engines. 
+ Modifications must be made in accordance with all applicable instructions and kits listed in North 
+ American Rockwell Sabreliner Field Service Bulletin No. 68-3, dated April 4, 1968, or later FAA 
+ approved revision. 
+ (k) 
+ Model NA-265-70 
+ Allowable fuselage inertia distributions are contained in FAA Approved North American Rockwell Report 
+ No. TFD-70-215, dated April 6, 1970, or later FAA approved revision. 
+ (l) 
+ Model NA-265-70, NA-265-40 (S/N 282-98 & subsequent), NA-265-80 
+ Cabin interiors installed with passenger seats and oxygen system must be evaluated for compatibility 
+ (m) 
+ Deleted - See Fatigue Life Limits, NOTE 3(b). 
+ (n) 
+ Model NA-265-80 
+ Allowable fuselage inertia distributions are contained in FAA Approved Rockwell Report No. SR 73-045, 
+ dated November 21, 1973, or later FAA approved revision. 
+ (o) 
+ Model NA-265-80 (FFIA) 
+ Modification is accomplished as described by Rockwell International Drawing No. 369-000002 (Sabreliner 
+ Service Bulletin 74-1). 
+ (p) 
+ Compliance with fuel venting emissions requirements of Special Federal Aviation Regulation 27. Model 
+ NA-265-70, Serial Numbers 370-1 and 370-7, and Model NA-265-80, Serial Numbers 380-24, -26, -28, - 
+ 29, and 380-31 and subsequent aircraft have complied with SFAR 27 at production. For other Model 265- 
+ 80 serial numbers see Rockwell International, Sabreliner Division, Service Bulletin 75-2. 
+ (q) 
+ Model NA-265-65 - Installation of Solar T-62T-40C Auxiliary Power Unit. 
+ (r) 
+ Model NA-265-65 - Installation of Garrett/AiResearch TFE-731-3R-1D Automatic Performance Reserve 
+ (APR)."
+NOTE 8,"Applies to Model NA-265-60 
+ Airplane Serial Numbers 306-54 and 306-59 through 306-63 are approved for operation at the weight and center 
+ of gravity limits for airplanes 306-64 and subsequent as defined by Flight Manual Supplement No. 60-76."
+NOTE 9. Applies to Model NA-265-65,
+NOTE 10,"When modified in accordance with Sabreliner Certification Drawing List No. 65S-060-0012, titled “Speed Brake 
+ Reactivation 65 Model”, the aircraft has fully operational speed brake. Limitations and operations procedure are 
+ defined by Airplane Flight Manual Supplement No. 65-91."

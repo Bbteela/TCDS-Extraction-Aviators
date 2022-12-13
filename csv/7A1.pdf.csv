@@ -1,0 +1,1263 @@
+Keyterm,Info
+"7A1 
+ Revision 20 
+ FAIRCHILD 
+ F-27 
+ F-27A 
+ F-27B 
+ F-27F 
+ F-27G 
+ F-27J 
+ FH-227 
+ FH-227B 
+ FH-227C 
+ FH-227D 
+ FH-227E 
+ F-27M 
+ May 13, 1992",
+Type Certificate Holder,"Maryland Air Industries, Inc. 
+ 1424 Davis Ford Road 
+ Woodbridge, Virginia 22192"
+"I - Model F-27 (Transport Category), Approved July 16, 1958; Model F-27A, Approved December 31, 1958; 
+ Model F-27B, Approved October 25, 1958; Model F-27F, Approved February 24, 1961; 
+ Model F-27G, Approved May 1, 1963; Model F-27J, Approved August 3, 1965; 
+ Model FH-227, Approved June 24, 1966; Model FH-227B, Approved February 27, 1967; 
+ Model FH-227C, Approved June 17, 1967; FH-227D and FH-227E, Approved December 21, 1967; 
+ Model F-27M, Approved June 12, 1969. 
+ F-27A same as F-27 except for engine installation. 
+ F-27B same as F-27 except for large forward cargo door. 
+ F-27F same as F-27 except for engine installation. 
+ F-27G same as F-27F except for large forward cargo door. 
+ F-27J same as F-27F except for engine installation. 
+ FH-227 same as F-27J except for 70.8 inch extension to fuselage and major structural changes. 
+ FH-227B same as FH-227 except for propeller installation, wheels and brakes installation and structural changes. 
+ FH-227C same as FH-227 except for propeller installation, wheels and brakes installation. 
+ FH-227D same as FH-227B except for engine installation. 
+ FH-227E same as FH-227C except for engine installation. 
+ F-27M same as F-27J except for propeller and engine installation, elevator trim tab change.",
+Engines,"F-27, F-27B 
+ : 
+ 2 Rolls-Royce Dart 511 or Dart 511-7E or Dart 514-7. 
+ Reduction gearing 0.086:1. 
+ F-27A 
+ : 
+ 2 Rolls-Royce Dart 528, Dart 528-7E (turboprop). 
+ Reduction gearing 0.093:1. 
+ F-27F, F-27G 
+ : 
+ 2 Rolls-Royce Dart 529-7E (turboprop). 
+ Reduction gearing 0.093:1."
+Page No,"1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12"
+Rev No,"20 
+ 20 
+ 20 
+ 20 
+ 20 
+ 20 
+ 20 
+ 20 
+ 20 
+ 20 
+ 20 
+ 20 
+ F-27M 
+ : 
+ 2 Rolls-Royce Dart 532-7N (turboprop). 
+ Reduction gearing 0.093:1. 
+ F-27J, FH-227 
+ : 
+ 2 Rolls-Royce Dart 532-7 (turboprop). 
+ Reduction gearing 0.093:1. 
+ FH-227C, FH-227B: 
+ 2 Rolls-Royce Dart 532-7 or 532-7P (turboprop). 
+ Reduction gearing 0.093:1. 
+ FH-227D, FH-227E: 
+ 2 Rolls-Royce Dart 532-7L (turboprop). 
+ Reduction gearing 0.093:1."
+Fuel Fuel shall,Aviation Kerosene Specifications.
+specifications as,United States A.S.T.M. D1655-72 (Jet A or A-1)
+listed or to,"United States MIL-T-5624H, Grade JP-5"
+subsequent revisions,Canadian 3-GP-23g
+thereof,"3-GP-24f 
+ British D. Eng. R.D. 2453 Issue 3 
+ 2494 Issue 7 
+ 2498 Issue 6 
+ U.S.S.R. TS-1 (GOST 10227-62 AM1) 
+ I.A.T.A. Nov. 1969, Kerosene Type Fuel 
+ Aviation Wide-Cut Specifications. 
+ United States A.S.T.M. D1655-72 (Jet B) 
+ United States MIL-T-5624H, Grade JP-4 
+ Canadian 3-GP-22g 
+ British D. Eng. R.D. 2454 Issue 3 
+ 2486 Issue 8 
+ I.A.T.A. Nov. 1969, Wide-Cut Fuel 
+ Any mixture of the above type fuels may be used without readjustment of the 
+ engine fuel control unit and without loss in engine power of airplane performance. 
+ Water/Methanol mixture: to Rolls-Royce Specification AEP-1-W/M 
+ (latest issue)."
+Oil Engine and Gearbox,"Refer to limitations section of the applicable Airplane Flight Manual for list of approved 
+ engine and gearbox lube oils."
+Engine limits,"Static Sea Level Ratings at ISA 
+ Shaft 
+ Jet 
+ Engine 
+ Max. Permissible 
+ Horsepower 
+ Thrust 
+ Speed 
+ Turb. Gas Temp. 
+ (shp) 
+ (lb.) 
+ (rpm) 
+ (°C) 
+ DART 511 
+ Wet takeoff (5 min.) 
+ 1570 
+ 310 
+ 14,500 
+ 595 
+ Dry takeoff 
+ 1535 
+ 310 
+ 14,500 
+ 580 
+ Max continuous 
+ 1535 
+ 310 
+ 14,500 
+ 580 
+ Starting (momentary) 
+ — 
+ — 
+ — 
+ 640 
+ DART 511-7E 
+ Wet takeoff (5 min.) 
+ 1570 
+ 310 
+ 14,500 
+ 595 
+ Dry takeoff 
+ 1535 
+ 310 
+ 14,500 
+ 625 
+ Max continuous 
+ 1535 
+ 310 
+ 14,500 
+ 625 
+ Starting (momentary) 
+ — 
+ — 
+ — 
+ 640 
+ DART 514-7 
+ Wet takeoff (5 min.) 
+ 1670 
+ 332 
+ 14,500 
+ 600 
+ Dry takeoff 
+ 1535 
+ 310 
+ 14,500 
+ 625 
+ Max continuous 
+ 1535 
+ 310 
+ 14,500 
+ 625 
+ Starting (momentary) 
+ — 
+ — 
+ — 
+ 640 
+ DART 528 
+ Wet takeoff (5 min.) 
+ 1870 
+ 495 
+ 15,000 
+ 810 
+ Dry takeoff 
+ 1835 
+ 485 
+ 15,000 
+ 780 
+ Max continuous 
+ 1835 
+ 485 
+ 15,000 
+ 780 
+ Starting (momentary) 
+ — 
+ — 
+ — 
+ 930 
+ DART 528-7E 
+ Wet takeoff (5 min.) 
+ 1870 
+ 495 
+ 15,000 
+ 860 
+ Dry takeoff 
+ 1835 
+ 485 
+ 15,000 
+ 850 
+ Max continuous 
+ 1835 
+ 485 
+ 15,000 
+ 850 
+ Starting (momentary) 
+ — 
+ — 
+ — 
+ 930 
+ DART 529-7E 
+ Wet takeoff (5 min.) 
+ 1950 
+ 510 
+ 15,000 
+ 860 
+ Dry takeoff 
+ 1910 
+ 500 
+ 15,000 
+ 850 
+ Max continuous 
+ 1910 
+ 500 
+ 15,000 
+ 850 
+ Starting (momentary) 
+ — 
+ — 
+ — 
+ 930 
+ DART 532-7 
+ -7 
+ -7P 
+ Wet takeoff (5 min.) 
+ 1990 
+ 520 
+ 15,000 
+ 860 
+ 860 
+ Dry takeoff 
+ 1835 
+ 485 
+ 15,000 
+ 850 
+ 850 
+ Max continuous 
+ 1835 
+ 485 
+ 15,000 
+ 850 
+ 850 
+ Starting (momentary) 
+ — 
+ — 
+ — 
+ 930 
+ 930 
+ DART 532-7L 
+ Wet takeoff (5 min.) 
+ 2040 
+ 520 
+ 15,000 
+ 905 
+ Dry takeoff 
+ 1835 
+ 485 
+ 15,000 
+ 885 
+ Max continuous 
+ 1835 
+ 485 
+ 15,000 
+ 885 
+ Starting (momentary) 
+ — 
+ — 
+ — 
+ 930 
+ DART 532-7N 
+ Wet takeoff (5 min.) 
+ 1990 
+ 520 
+ 15,000 
+ 905 
+ Dry takeoff 
+ 1835 
+ 485 
+ 15,000 
+ 885 
+ Max continuous 
+ 1835 
+ 485 
+ 15,000 
+ 885 
+ Starting (momentary) 
+ — 
+ — 
+ — 
+ 930"
+Oil Inlet Temperature,"Dart 511, 
+ Dart 528, 532-7L, 532-7N, 
+ 511-7E, 514-7 
+ 528-7E, 529-7E, 532-7 
+ Maximum 
+ 110° C 
+ 120° C 
+ Minimum for starting 
+ -30° C 
+ -30° C 
+ Minimum for opening power lever 
+ -15° C 
+ -15°C"
+Propeller and,"Dart 511, 511-7E, 514-7 
+ 2 Rotol Model (c) R 175/4-30-4/13E, with 4 R.A. 25899 blades each"
+propeller limits,"(F-27, F-27B) 
+ Diameter 12.0 ft. (nominal). 
+ Minimum allowable for repairs 11' 9.75"". 
+ No further reduction permitted. 
+ Pitch settings at .7 radius 
+ Ground fine pitch 
+ 0° 
+ Flight fine pitch 
+ +28° 48' 
+ Feathered 
+ +83° 
+ R.P.M. Limit (Max. 20 sec.) 17,000 
+ Avoid all continuous operation below 7,000 r.p.m. 
+ Dart 528, 528-7E, 
+ 2 Rotol Model (c) R 193/4-30-4/50, with 4 R.A. 25907 blades each. 
+ 529-7E, 532-7 
+ Diameter 11.5 ft. (nominal). 
+ (F-27A, F-27F, F-27G, 
+ Minimum allowable for repairs 11' 4.35"". 
+ F-27J, FH-227) 
+ Pitch settings at .7 radius 
+ Ground fine pitch 
+ 0° 
+ Flight fine pitch 
+ 20° 
+ Cruise pitch 
+ 32° 
+ Feathered 
+ 87° 
+ R.P.M. Limit (Max. 20 sec.) 16,500 
+ Avoid all continuous operation below 7,000 r.p.m. 
+ Dart 532-7, 532-7L, 
+ 2 Rotol Model (c) R 257/4-30-4/60, with 4 R.A. 25941 blades each. 
+ 532-7N, 
+ Diameter 12.5 ft. (nominal). 
+ (FH-227B, FH-227C, 
+ Minimum allowable for repairs 12' 3.2"". 
+ FH-227D, FH-227E 
+ Pitch settings at 0.7 radius 
+ F-27M) 
+ Ground fine pitch 
+ 0° 
+ Flight fine pitch 
+ 16° 
+ Cruise pitch 
+ 28° 
+ Feathered 
+ 83° 
+ R.P.M. Limit (Max. 20 sec.) 16,500 r.p.m. 
+ Avoid all continuous operation between 8,500 and 9,500 r.p.m."
+Airspeed limits,"Vne (Never exceed) 
+ 298 m.p.h. (259 kt.)"
+CAS,"Vmo (Maximum Operating) 
+ SL - 19,000 ft. 
+ 262 m.p.h. (227 kt.) 
+ at 20,000 ft. 
+ (226.5 kt.) 
+ above 20,000 ft., Vmo decreases 4.5 kt./1000 ft. 
+ Vmo (Maximum Operating) for FH-227B 
+ and FH-227D aircraft when modified in accordance 
+ with Fairchild Service Bulletin FH-227-53-2 
+ SL-14800 ft. 
+ 287 m.p.h. (249 kt.) 
+ above 14,800 ft. 
+ 0.493 MACH. 
+ Va (Maneuvering and rough-air speed) 
+ 177 m.p.h. (154 kt.) 
+ Va (Maneuvering and rough-air speed) 
+ for FH-227, FH-227B, FH-227C, FH-227D, and FH-227E 
+ 196 m.p.h. (170 kt.) 
+ Vfe (Flaps down to 27°/18°) 
+ 161 m.p.h. (140 kt.) 
+ Vfe (Flaps down 27°/18° to full down at 40°/26° 
+ 145 m.p.h. (126 kt.) 
+ Vlo (Landing gear operation) 
+ 196 m.p.h. (170 kt.) 
+ Vle (Landing gear extended) 
+ 196 m.p.h. (170 kt.) 
+ Vmc (Minimum control) for F-27, F-27A 
+ and F-27B with 0° takeoff flaps 
+ at sea level standard conditions 
+ 96 m.p.h. ( 83 kt.) 
+ Vmc (Minimum control) for F-27, F-27A 
+ and F-27B with 16.5° takeoff flaps 
+ at sea level standard conditions 
+ 90 m.p.h. ( 78 kt.) 
+ Vmc (Minimum control) for F-27F, F-27J 
+ and F-27M with 0° takeoff flaps at 
+ sea level standard conditions 
+ 99 m.p.h. ( 86 kt.) 
+ Vmc (Minimum control) for F-27F, F-27J 
+ and F-27M with 16.5° takeoff flaps 
+ at sea level standard conditions 
+ 93 m.p.h. ( 81 kt.) 
+ Vmc (Minimum control) for FH-227, 
+ FH-227B, FH-227C, FH-227D, and 
+ FH-227E with 16.5° flaps at sea 
+ level standard conditions 
+ 98 m.p.h. ( 85 kt.) 
+ Vmc (Minimum control) for FH-227, 
+ FH-227B, FH-227C, FH-227D, and 
+ FH-227E with 0° flaps at sea 
+ level standard conditions 
+ 104 m.p.h. ( 90 kt.) 
+ Vmc (Minimum control) for FH-227D 
+ and FH-227E with 9° flaps at sea 
+ level standard conditions 
+ 101 m.p.h. ( 87.5 kt.) 
+ Maximum speed for extending retractable 
+ type landing light and for operation with light extended 
+ 196 m.p.h. (170 kt.) 
+ Vdb (Drag Brake) 
+ 262 m.p.h. (227 kt.)"
+CG range,"For Models F-27, F-27A, F-27B, F-27FF, F-27G, F-27J and F-27M: 
+ Weight 
+ Fwd. 
+ Aft 
+ (lb.) 
+ % M.A.C. 
+ Sta. (in.) 
+ % M.A.C. 
+ Sta. (in.) 
+ (For aircraft with pneumatic nose gear steering system) 
+ Takeoff & landing (gear down) 
+ 22,000 
+ 21.0 
+ (361.29) 
+ 38.0 
+ (378.52) 
+ 25,400 
+ to 
+ 30,200 
+ 20.0 
+ (360.28) 
+ 38.0 
+ (378.52) 
+ 34,000 
+ 24.0 
+ (364.33) 
+ 38.0 
+ (378.52) 
+ 34,500 
+ 24.4 
+ (364.74) 
+ 38.0 
+ (378.52) 
+ 35,700 
+ 25.6 
+ (365.95) 
+ 38.0 
+ (378.52) 
+ 36,000 
+ 25.8 
+ (366.16) 
+ 38.0 
+ (378.52) 
+ 36,300 
+ 26.0 
+ (366.36) 
+ 38.0 
+ (378.52) 
+ 36,500 
+ 26.2 
+ (366.56) 
+ 38.0 
+ (378.52) 
+ 36,700 
+ 26.3 
+ (366.66) 
+ 38.0 
+ (378.52) 
+ 37,500 
+ 27.0 
+ (367.37) 
+ 38.0 
+ (378.52) 
+ 38,500 
+ 27.8 
+ (368.18) 
+ 38.0 
+ (378.52) 
+ *39,400 
+ 28.4 
+ (368.79) 
+ 38.0 
+ (378.52) 
+ *42,000 
+ 30.0 
+ (371.41) 
+ 38.0 
+ (378.52) 
+ Enroute (gear up) 
+ 22,000 
+ Same as Takeoff 
+ 40.7 
+ (381.26) 
+ to 
+ and Landing 
+ 30,200 
+ 31,300 
+ 20.0 
+ (360.28) 
+ 40.7 
+ (381.26) 
+ 34,000 
+ 23.0 
+ (363.32) 
+ 40.7 
+ (381.26) 
+ 37,500 
+ 25.8 
+ (366.16) 
+ 40.7 
+ (381.26) 
+ 38,500 
+ 26.6 
+ (366.97) 
+ 40.7 
+ (381.26) 
+ 39,400 
+ 27.3 
+ (367.68) 
+ 40.7 
+ (381.26) 
+ 42,000 
+ 29.4 
+ (369.81) 
+ 40.7 
+ (381.26)"
+CG range,"For Models F-27, F-27A, F-27B, F-27FF, F-27G, F-27J and F-27M: (cont'd) 
+ Weight 
+ Fwd. 
+ Aft 
+ (lb.) 
+ % M.A.C. 
+ Sta. (in.) 
+ % M.A.C. 
+ Sta. (in.) 
+ (For aircraft with hydraulic or pneumatic spur gear steering system.) 
+ Takeoff & landing (gear down) 
+ 22,000 
+ 21.0 
+ (361.29) 
+ 38.0 
+ (378.52) 
+ 25,400 
+ to 
+ 31,300 
+ 20.0 
+ (360.28) 
+ 38.0 
+ (378.52) 
+ 34,000 
+ 23.0 
+ (363.32) 
+ 38.0 
+ (378.52) 
+ 34,500 
+ 23.5 
+ (363.72) 
+ 38.0 
+ (378.52) 
+ 36,000 
+ 24.6 
+ (364.94) 
+ 38.0 
+ (378.52) 
+ 36,300 
+ 24.8 
+ (365.14) 
+ 38.0 
+ (378.52) 
+ 36,500 
+ 25.0 
+ (365.35) 
+ 38.0 
+ (378.52) 
+ 36,700 
+ 25.2 
+ (365.55) 
+ 38.0 
+ (378.52) 
+ 37,500 
+ 25.8 
+ (366.16) 
+ 38.0 
+ (378.52) 
+ 38,500 
+ 26.6 
+ (366.97) 
+ 38.0 
+ (378.52) 
+ *39,400 
+ 27.3 
+ (367.68) 
+ 38.0 
+ (378.52) 
+ 40,000 
+ 27.8 
+ (368.19) 
+ 38.0 
+ (378.52) 
+ *42,000 
+ 29.4 
+ (369.81) 
+ 38.0 
+ (378.52) 
+ *Takeoff only. 
+ Enroute (gear up) 
+ 22,000 
+ 21.0 
+ (361.29) 
+ 40.7 
+ (381.26) 
+ 25,400 
+ to 
+ 31,300 
+ 20.0 
+ (360.28) 
+ 40.7 
+ (381.26) 
+ 34,000 
+ 23.0 
+ (363.32) 
+ 40.7 
+ (381.26) 
+ 34,500 
+ 23.5 
+ (363.72) 
+ 40.7 
+ (381.26) 
+ 36,000 
+ 24.6 
+ (364.94) 
+ 40.7 
+ (381.26) 
+ 36,500 
+ 25.0 
+ (365.35) 
+ 40.7 
+ (381.26) 
+ 37,500 
+ 25.8 
+ (366.16) 
+ 40.7 
+ (381.26) 
+ 38,500 
+ 26.6 
+ (366.97) 
+ 40.7 
+ (381.26) 
+ 39,400 
+ 27.3 
+ (367.68) 
+ 40.7 
+ (381.26) 
+ 42,000 
+ 29.4 
+ (369.81) 
+ 40.7 
+ (381.26) 
+ For Model FH-227: 
+ Takeoff & landing (gear down) 
+ 26,000 
+ 18.0 
+ (358.25) 
+ 35.0 
+ (375.48) 
+ 39,000 
+ 18.0 
+ (358.25) 
+ 35.0 
+ (375.48) 
+ 43,500 
+ 20.0 
+ (360.28) 
+ 35.0 
+ (375.48) 
+ Enroute (gear up) 
+ 26,000 
+ 18.0 
+ (358.25) 
+ 38.0 
+ (378.52) 
+ 43,500 
+ 18.0 
+ (358.25) 
+ 38.0 
+ (378.52) 
+ For Models FH-227B and FH-227D: 
+ Takeoff & landing (gear down) 
+ 26,000 
+ 25.8 
+ (366.18) 
+ 35.0 
+ (375.48) 
+ 33,400 
+ 18.0 
+ (358.25) 
+ 35.0 
+ (375.48) 
+ 41,000 
+ 18.0 
+ (358.25) 
+ 35.0 
+ (375.48) 
+ 45,500 
+ 20.0 
+ (360.28) 
+ 35.0 
+ (375.48) 
+ Enroute (gear up) 
+ 26,000 
+ 25.8 
+ (366.18) 
+ 38.0 
+ (378.52) 
+ 33,400 
+ 18.0 
+ (358.25) 
+ 38.0 
+ (378.52) 
+ 41,000 
+ 18.0 
+ (358.25) 
+ 38.0 
+ (378.52) 
+ 45,000 
+ 20.0 
+ (360.28) 
+ 38.0 
+ (378.52) 
+ For Models FH-227C and FH-227E: 
+ Takeoff & landing (gear down) 
+ 26,000 
+ 25.8 
+ (366.18) 
+ 35.0 
+ (375.48) 
+ 33,400 
+ 18.0 
+ (358.25) 
+ 35.0 
+ (375.48) 
+ 41,000 
+ 18.0 
+ (358.25) 
+ 35.0 
+ (375.48) 
+ 43,500 
+ 19.1 
+ (359.38) 
+ 35.0 
+ (375.48) 
+ For Models FH-227C and FH-227E: (cont'd) 
+ Weight 
+ Fwd. 
+ Aft 
+ (lb.) 
+ % M.A.C. 
+ Sta. (in.) 
+ % M.A.C. 
+ Sta. (in.) 
+ Enroute (gear up) 
+ 26,000 
+ 25.8 
+ (366.18) 
+ 38.0 
+ (378.52) 
+ 33,400 
+ 18.0 
+ (358.25) 
+ 38.0 
+ (378.52) 
+ 41,000 
+ 18.0 
+ (358.25) 
+ 38.0 
+ (378.52) 
+ 43,500 
+ 19.1 
+ (359.38) 
+ 38.0 
+ (378.52) 
+ F-27, F-27A, F-27B, F-27F, F-27G, F-27J and F-27M: 
+ Linear variation of forward C.G. limit between points shown. 
+ Gear retraction moment change is +27,000 in.-lb. 
+ FH-227: 
+ Linear variation of forward C.G. limit between points shown. 
+ Gear retraction moment change is +29,000 in.-lb. 
+ FH-227B, FH-227C, FH-227D, and FH-227E: 
+ Linear variation of forward C.G. limit between points shown. 
+ Gear retraction moment change is +36,174 in.-lb."
+Datum,"The datum location is variable. The airplane Weight and Balance report provides the 
+ datum location for that particular airplane."
+MAC,101.4 in. (L.E. of M.A.C. +340.0)
+Leveling means,"The leveling means are variable. The Airplane Weight and Balance report provides 
+ means for that particular airplane."
+Maximum weights,"For Models F-27, F-27A, F-27B, F-27F, F-27G, F-27J and F-27M: 
+ Takeoff 
+ 36,225 lb. 
+ 36,500 lb. 
+ when modified in accordance with Fairchild Service 
+ Bulletin 51-5. 
+ 37,500 lb. 
+ when modified in accordance with Fairchild 
+ Service Bulletin 51-6. 
+ 38,500 lb. 
+ when modified in accordance with Fairchild 
+ Service Bulletin 51-7. 
+ 39,400 lb. 
+ when modified in accordance with Fairchild ECP-233. 
+ 40,500 lb. 
+ when modified in accordance with Fairchild 
+ ECP-268 or Service Bulletin 51-13. 
+ 42,000 lb. 
+ when modified in accordance with Fairchild ECP-247. 
+ Landing 
+ 34,000 lb. 
+ 34,500 lb. 
+ when Dowty 9027, Y.4 main landing gear drag 
+ link attachment bolt incorporated. 
+ 36,000 lb. 
+ when modified in accordance with Fairchild 
+ Service Bulletin 51-5. 
+ 36,700 lb. 
+ when modified in accordance with Fairchild 
+ Service Bulletin 51-7. 
+ 37,500 lb. 
+ when modified in accordance with Fairchild ECP-233. 
+ 38,500 lb. 
+ when modified in accordance with Fairchild 
+ ECP-268 or Service Bulletin 51-13. 
+ 40,000 lb. 
+ when modified in accordance with Fairchild 
+ ECP-269 or Service Bulletin 51-15 or 51-16. 
+ Zero Fuel, 
+ 34,000 lb. 
+ oil and 
+ 36,300 lb. 
+ when modified in accordance with Fairchild Service 
+ W/M fluid 
+ Bulletin 51-7. 
+ For Models FH-227, FH-227B, FH-227C, FH-227D, and FH-227E: 
+ Takeoff 
+ 43,500 lb. 
+ 45,500 lb. (FH-227B and FH-227D when modified per Fairchild 
+ Service Bulletin FH-227-32-8). 
+ Landing 
+ 43,000 lb. 
+ 45,000 lb. 
+ (FH-227B and FH-227D when modified per Fairchild 
+ Service Bulletin FH-227-32-8). 
+ Zero fuel, 
+ 39,000 lb. 
+ oil and 
+ 41,000 lb. 
+ (FH-227B and FH-227D when modified per 
+ W/M fluid 
+ Fairchild Service Bulletin FH-227-32-8)."
+Minimum crew,2. (Pilot and copilot)
+Maximum passengers,48 ). See Note 1 (d) regarding approved interior arrangements).
+Maximum baggage,"For Models F-27, F-27A, F-27B, F-27F, F-27G, F-27J and F-27M: 
+ Maximum Floor 
+ Capacity 
+ Loading 
+ Compartment 
+ Station 
+ (lb.) 
+ (#/ft.2) 
+ Fwd. Left 
+ 187-230 
+ 1200 
+ 150 
+ Fwd. Right 
+ 154-230 
+ 2055 
+ 150 
+ Fwd. Left 
+ 187-263(1) 
+ 2145 
+ 150 
+ Fwd. Right 
+ 154-263(1) 
+ 3000 
+ 150 
+ Fwd. Left 
+ 187-208 
+ 570 
+ 150 
+ Fwd. Right 
+ 154-208 
+ 1444 
+ 150 
+ Fwd. Right 
+ 136-208 
+ 1890 
+ 150 
+ Fwd. Right 
+ 136-230 
+ 2494 
+ 150 
+ Fwd. Left 
+ 205-230 
+ 705 
+ 150 
+ Aft 
+ 600-681 
+ 790(2) 
+ 100 
+ (1) 
+ Floor reinforcement required in accordance with Fairchild floor assembly Dwg. 
+ No. 27-313131, and installed per Fairchild Dwg. 27-310319. 
+ (2) 
+ Maximum capacity for aircraft with heater, air cycle and vapor cycle 
+ systems installed. REmoval of vapor cycle system increases capacity to 850 lb.; 
+ removal of both the vapor cycle system and the heater increases limit to 1040 lb. 
+ For Model FH-227, FH-227B, FH-227C, FH-227D, and FH-227E: 
+ Serial Nos. 501-512 
+ Maximum Floor 
+ Capacity 
+ Loading 
+ Compartment 
+ Station 
+ (lb.) 
+ (#/ft.2) 
+ Fwd. Left (1) 
+ 187-230 
+ 1200 
+ 150 
+ Fwd. Right (1) 
+ 154-230 
+ 2055 
+ 150 
+ Aft 
+ 600-691 
+ 2200 
+ 100 
+ Serial Nos. 513 and up 
+ Fwd. Left (1) 
+ 187-230 
+ 1200 
+ 150 
+ 230-265 
+ 665 
+ 105 
+ Fwd. Left (2) 
+ 187-265 
+ 1560 
+ 105 
+ Fwd. Right (1) 
+ 154-230 
+ 2055 
+ 150 
+ 230-265 
+ 689 
+ 105 
+ Fwd. Right (2) 
+ 154-265 
+ 2150 
+ 105 
+ Aft 
+ 600-691 
+ 2200 
+ 100 
+ (1) 
+ Sum of Fwd. Left and Right compartments must not exceed 2200 lb 
+ (2) 
+ Sum of Fwd. Left and Right compartments must not exceed 3554 lb"
+Fuel capacity,"For Models F-27, F-27A, F-27B, F-27F, F-27G, F-27J and F-27M: 
+ 2 outboard tanks of 668 gal. usable fuel each or 
+ 2 outboard tanks (ECP 246/256) of 741.5 gal. usable fuel each. 
+ 2 inboard tanks (optional) of 182 gal. usable fuel each in accordance with Fairchild 
+ ECP-29, or 2 inboard tanks (optional) of 286 gal. usable fuel each in accordance with 
+ Fairchild ECP-234, or 
+ 2 inboard tanks (optional) of 428.5 gal. usable fuel each in accordance with Fairchild 
+ ECP-245/256. 
+ 2 collector tanks of 14 gal. usable fuel each. 
+ See NOTE 1(b) for system fuel. 
+ For Models FH-227, FH-227B, FH-227C, FH-227D, and FH-227E: 
+ 2 outboard tanks of 668 gal. usable fuel each. 
+ 2 collector tanks of 14 gal. usable fuel each. 
+ See NOTE 1(e) for system fuel."
+WaterMethanol capacity,"For Models F-27, F-27A, F-27B, F-27F and F-27G: 
+ 80 gal. (total) in two nacelle tanks of 40 gal. each (467.0). 
+ For Models F-27J and F-27M: 
+ 120 gal. (total) in two center section tanks of 60 gal. each (378.0) 
+ For Models FH-227, FH-227B, FH-227C, FH-227D, and FH-227E: 
+ Optional for Models F-27, F-27A, F-27B, F-27F, F-27G, F-27J and 
+ F-27M 146 gal. (total) in two center section tanks of 73 gal. each (378.0)."
+Oil capacity,"8 gal. (total) in two engine tanks of 4 gal. each (267.5). 
+ See NOTE 1(c) for system oil."
+Maximum approved,"25,000 ft."
+Other operating,The aircraft must be operated in accordance with the FAA Approved Airplane
+limitations,Flight Manual.
+Control surface movements,"Elevator 
+ Up 
+ 25° 
+ Down 
+ 22° 
+ Elevator Trim Tab (left) 
+ Up 
+ 12.5° 
+ Down 
+ 32.5° 
+ ""tab trails 3 1/2° down when 
+ cockpit indicator reads zero."" 
+ Rudder 
+ Right 20° 
+ Left 
+ 20° 
+ Rudder (FH-227, FH-227B, FH-227C, 
+ FH-227D, and FH-227E) 
+ Right 
+ 17.5° 
+ Left 
+ 17.5° 
+ Rudder Balance Tab 
+ Right 
+ 6° 
+ Left 
+ 6° 
+ Rudder Trim Tab 
+ Right 
+ 14° 
+ Left 
+ 14° 
+ Rudder Trim Tab (FH-227, FH-227B, 
+ FH-227C, FH-227D, and FH-227E) 
+ Right 
+ 18° 
+ Left 
+ 18° 
+ Aileron (with spring tab neutral) 
+ Up 
+ 33° 
+ Down 
+ 22° 
+ Aileron Spring Tab (inner) 
+ Up 
+ 13° 
+ Down 
+ 13° 
+ Aileron Balance Tab (outer) 
+ Up 
+ 11° 
+ Down 
+ 16.5° 
+ Aileron Trim Tab (right outer) 
+ Up 
+ 15° 
+ Down 
+ 15° 
+ Flaps 
+ Down 
+ 40°/26°"
+Serial Nos eligible,"For Models F-27, F-27A, F-27B, F-27F, F-27G, F-27J and F-27M: 1 through 500. 
+ For Models FH-227, FH-227C, and FH-227E: 501 and up. 
+ For Models FH-227B and FH-227D: 513 and up."
+Certification basis,"For Models F-27, F-27A, F-27B, F-27F, F-27G, F-27J and F-27M: 
+ CAR 4 b dated December 31, 1953, including Amendment 4b-1, Amendment 4b-3 (Item 
+ 21 thru 33 plus Item 39), Amendment 4b-7 and Amendment 4b-8 (Item 17); Special 
+ Regulations SR-422 effective August 27, 1957; and F-27 Special Condition dated 
+ January 28, 1957, as amended. 
+ Type Certificate No. 7A1 issued November 13, 1957; reissued to Fairchild July 16, 
+ 1958. 
+ Date of Application for Type Certificate November 9, 1954. 
+ Complies with the following optional requirements: 
+ Ice Protection 
+ CAR 4b.640 
+ Ditching 
+ CAR 4b.361 
+ (F-27, F-27A, F-27F, F-27J, and F-27M eligible for ditching certification when modified 
+ in accordance with Fairchild Engineering Report No. R27-207 revised April 17, 1959, 
+ when incorporating 44 passenger interior arrangement per Dwg. 27-771164 and related 
+ drawings). 
+ Airplane Flight Manual Supplements Required: 
+ F-27 (with MK-511-7E engines), Supplement I dated September 22, 1959 
+ F-27 (with MK-514-7 engines), Supplement 19 dated February 18, 1963 
+ For Models FH-227, FH-227B, FH-227C, FH-227D, and FH-227E: 
+ CAR 4b dated December 31, 1953, including Amendment 4b-1, Amendment 4b-3, 
+ (Items 21 thru 33 plus Item 39), Amendment 4b-7 and Amendment 4b-8 (Item 17); 
+ Special Regulation SR-422B and SR-450A and F-27 Special Conditions dated 
+ January 28, 1957, as amended. 
+ Complies with the following optional requirements: 
+ Ice Protection 
+ CAR 4b.640"
+Production basis,Production Certificate No. 1.
+Equipment,"The basic equipment as prescribed in the applicable airworthiness regulations (see 
+ Certification Basis) must be installed in the aircraft for certification. In addition, the 
+ following items of equipment are required: 
+ (a) 
+ Stall warning system, Fairchild Dwgs. 27-710050/1, 27-721010, 27-740064 (Safe 
+ flight speed control indicator P/N C-30205, included in above Dwgs., is not 
+ required equipment). 
+ (b) 
+ FAA Approved Airplane Flight Manual 
+ (1) 
+ Model F-27 and F-27B, dated July 18, 1958 reissued April 10, 1959. 
+ Supplement ""0"" (dated August 5, 1959) required for 36,500 lb. takeoff weight 
+ and 36,000 lb. landing weight. Supplement ""T"" (dated April 1, 1960) required 
+ for 37,500 lb. takeoff weight with Dart 511 engine installation. Supplements 
+ ""T"" (dated April 1, 1960), ""AC"" (dated December 9, 1960) and ""AF"" (dated 
+ November 9, 1961), required for 37,500 lb. takeoff weight with Dart 511-7E 
+ engine installation. Supplements ""AC"" (dated December 9, 1960), ""AD"" 
+ (dated February 20, 1961) and ""AF"" (dated November 9, 1961), required for 
+ 38,500 lb. takeoff, 36,700 lb. landing, and 36,300 lb. zero fuel weights with 
+ Dart 511-7E engine installation. 38,500 lb. takeoff, 36,700 lb. landing, and 
+ 36,300 lb. zero fuel weights not applicable to aircraft with Dart 511 engine 
+ installation. 
+ (2) 
+ Model F-27 and F-27B with MK-514-7 engines, dated February 18, 1963. 
+ Supplement No. 13 (Rev. 1, dated June 1, 1964) required for 39,400 lb. takeoff 
+ and 37,500 lb. landing gross weights. Supplement No. 22 (dated June 1, 1964) 
+ required for 40,500 lb. takeoff and 38,500 lb. landing gross weights. 
+ Supplement No. 24 (dated August 3, 1965) required for 40,000 lb. landing 
+ gross weight. 
+ (3) 
+ Model F-27A dated December 31, 1958 reissued June 14, 1962. supplement 
+ No. 13 (dated June 14, 1962) required for 39,400 lb. takeoff and 37,500 lb. 
+ landing gross weights. supplement No. 15 (dated November 7, 1962) required 
+ for 42,000 lb. takeoff gross weight. Supplement No. 17 (dated June 1, 1964) 
+ required for 40,500 lb. takeoff gross weight. Supplement No. 18 (dated June 1, 
+ 1964) required for 38,500 lb. landing gross weight. Supplement No. 21 (dated 
+ August 3, 1965) required for 40,000 lb. landing gross weight. 
+ (4) 
+ Model F-27F/F-27G dated February 24, 1961, reissued August 11, 1964. 
+ Supplement No. 13 (dated August 11, 1964) required for 39,400 lb. takeoff, 
+ 37,500 lb. landing gross weight. Supplement No. 17 (dated August 11, 1964) 
+ required for 40,500 lb. takeoff gross weight. Supplement No. 18 (dated 
+ August 11, 1964) required for 38,500 lb. landing gross weight. Supplement 
+ No. 19 (dated August 11, 1964) required for 42,000 lb. takeoff gross weight. 
+ Supplement No. 16 (dated August 11, 1964) required for F-27G model only for 
+ convertible passenger - cargo version with large cargo door. Supplement No. 
+ 23 dated August 3, 1965 required for 40,000 lb. landing gross weight. 
+ (5) 
+ Model F-27J dated August 3, 1965. 
+ (6) 
+ Model FH-227 dated June 24, 1966. 
+ (7) 
+ Model FH-227B (Model FH-227 dated June 24, 1966 and Supplement No. 6 
+ dated February 27, 1967) or FH-227B dated June 17, 1967. 
+ (8) 
+ Model FH-227C dated June 17, 1967. 
+ (9) 
+ Model FH-227D dated December 21, 1967. 
+ (10) Model FH-227E dated December 21, 1967. 
+ (11) Model F-27M dated June 12, 1969."
+Service information,"Service Bulletins and other service information when FAA approved will carry a 
+ statement to that effect."
+NOTE 1,"(a) 
+ Current weight and balance report, including list of equipment included in certificated empty weight, 
+ and loading instructions, when necessary, must be in each aircraft at the time of original certification 
+ and at all times thereafter (except in the case of operators having an approved weight control system). 
+ (b) 
+ System fuel, which must be included in the empty weight, is the amount of fuel required to fill both 
+ systems, including the cross-feed, up to the level of the boost pump inlets in the collector tanks (3.3 gal. 
+ total), plus the unusable fuel of the main tanks (12.1 gal. total). The total amount of ""System Fuel"" is as 
+ follows: 15.4 gal. total, 101 lb. (365). 
+ (c) 
+ System oil which must be included in empty weight, is the amount of oil normally trapped in the 
+ propellers, plus the amount normally trapped in the engines after oil drainage. The total amount of 
+ ""System Oil"" is as follows: 
+ 2.4 gal. (total) contained in engines, 
+ 19 lb. (282) 
+ 2.0 gal. (total) contained in propellers, 
+ 16 lb. (243) 
+ (d) 
+ Fairchild Engineering Reports ""Weight and Balance Serial No. "" contain interior arrangement, 
+ equipment list, weight and balance and loading schedule for each airplane. 
+ (e) 
+ System fuel, which must be included in the empty weight, is the amount of fuel required to fill both 
+ systems, including the cross-feed, up to the level of the boost pump inlets in the collector tanks (12.0 
+ gal. total), plus the unusable fuel of the main tanks (12.1 gal. total). The total amount of the ""System 
+ Fuel"" is as follows: 
+ 24.1 gal. total, 
+ 161.1 lb. (370.9)."
+NOTE 2,"The following placards must be displayed in the locations indicated: 
+ For Models F-27, F-27A, F-27B, F-27F, F-27G, F-27J and F-27M: 
+ (a) 
+ Deleted June 13, 1960. 
+ (b) 
+ On the lavatory door (on aircraft with the emergency exit located in the lavatory): 
+ (1) 
+ ""This door must be open during take-off and landing"" 
+ (2) 
+ ""Emergency exit inside"" 
+ (c) 
+ On the forward face of the lavatory wall (on aircraft with the emergency exit located in the lavatory): 
+ ""Emergency exit thru lavatory"" 
+ (d) 
+ Deleted June 1, 1963. 
+ (e) 
+ On the forward side of the passenger compartment forward door: 
+ ""This Door Should be UNLOCKED for Take-off and Landing"" (this applies to aircraft 
+ with life raft stored forward of door). 
+ (f) 
+ In the immediate vicinity of swivel seats that do not have the proper back height (36 1/2 in.) in 
+ accordance with TSO C-39 4.1.1.2 and in full view of the passengers: 
+ ""This Seat Should Be in The Forward Facing Position During Take-off and Landing"". 
+ For Models FH-227, FH-227B, FH-227C, FH-227D, and FH-227E: 
+ (g) 
+ Deleted October 1, 1974 
+ (h) 
+ On the forward side of the aft passenger bulkhead on either side of the doorway with an appropriate 
+ arrow pointing down at approximately 45°: 
+ ""Fire Extinguisher"" 
+ (i) 
+ Adjacent to the curtain at the aft cargo door: 
+ ""This curtain must be held open during take-off and landing"""
+NOTE 3,"Information essential to the proper maintenance of the aircraft is included in the Fairchild F-27 and FH-227 
+ Maintenance Manual provided, with each aircraft. 
+ Current retirement times, which are subject to change, are as follows: 
+ Fuselage to Wing Fitting (27-313619) 
+ 40,000 hr. 
+ Fin and Stabilizer Attachment 
+ Brackets to Fuselage 
+ 27-213002 and 27-213003 
+ 40,000 hr. 
+ Cabin Windows 
+ (Windows may be replaced on an ""as condition basis"") 
+ Engine Mount Fittings 
+ 25,000 hr. 
+ (For Models FH-227, FH-227B, 
+ (P/N's: 27-503148-91, -92) 
+ FH-227C, FH-227D, and FH-227E) 
+ 27-503149-51, -52) 
+ The repetitive inspections specified in Fairchild Service Bulletin No. FH-227-51-1 
+ dated July 12, 1967, or later FAA approved revisions, and all FAA approved Supplements 
+ thereto, must be complied with."

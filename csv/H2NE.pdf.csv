@@ -1,0 +1,170 @@
+Keyterm,Info
+"H2NE 
+ REVISION 5 
+ SIKORSKY AIRCRAFT 
+ S-70 (UH-60A, UH-60L) 
+ February 13, 2017",
+TYPE CERTIFICATE TC,Sikorsky Aircraft Corporation
+HOLDER,"6900 Main Street 
+ Stratford, CT 06497-9129"
+MODEL NUMBER,"S-70 (Restricted Category), approved July 21, 1983 
+ (Derivative aircraft of U.S. Army Models UH-60A and UH-60L)"
+ENGINES,"2 General Electric T700-GE-700 (UH-60A), or 2 General Electric T700-GE-701C (UH-60L)"
+FUEL,"Aviation Kerosene JP-4, JP-5, JP-8, Jet A, Jet A-1 or Jet B."
+ENGINE LIMITS T700GE700,"SHAFT 
+ POWER TURBINE 
+ GAS GEN 
+ POWER TURBINE 
+ HP 
+ RPM 
+ RPM 
+ INLET (TGT)"
+Miliary Power 30 min,"1,561 
+ 20,900 
+ 44,700 
+ 850o C 
+ 1,318 
+ 20,900 
+ 44,700 
+ 775o C"
+ENGINE LIMITS T700 GE 701C,"SHAFT 
+ POWER TURBINE 
+ GAS GEN 
+ POWER TURBINE 
+ HP 
+ RPM/% 
+ RPM/% 
+ INLET (TGT)"
+Contingency Rated Power CRP 2,"1,940 
+ 20,900/100 
+ 44,700/102 
+ 903o C"
+Maximum Rating 10 Min dual,"1,890 
+ 20,900/100 
+ 44,700/102 
+ 878o C"
+Intermediate Rated Power IRP 30,"1,800 
+ 20,900/100 
+ 44,700/102 
+ 851o C"
+min dual,"1,662 
+ 20,900/100 
+ 44,700/102 
+ 810o C 
+ TORQUE:"
+TRANSMISSION LIMITS,110% Single Engine (No time limit)
+UH60A,100% Dual Engine (No time limit)
+UH60L,"135% Single Engine (No time limit) 
+ 120% Dual Engine, at or below 80 KIAS (No time limit) 100% Dual Engine, above 80 
+ KIAS (No time limit)"
+ROTOR LIMITS,"Max. 258 RPM 
+ Min. 232 RPM"
+AIRSPEED LIMITS,"Vne Power on: 193 knots IAS, (221 MPH). See appropriate Rotorcraft Flight Manual 
+ (Operators Manual) for variation of Vne with gross weight, pressure altitude and temperature."
+PAGE,"1 
+ 2 
+ 3 
+ 4"
+REV,"5 
+ 4 
+ 5 
+ 4 
+ 22,000"
+T,"15,900"
+E,345.5
+I,"13,700"
+G,"13,400"
+T,"13,050"
+L,3 66.3
+S,"11,500 
+ 342.6 
+ 358.1 
+ INCHES AFT OF DATUM"
+DATUM,341.2 inches forward of the main rotor centroid.
+MAXIMUM WEIGHT,"22,000 lbs."
+MINIMUM CREW,"2 (pilot, copilot)"
+NUMBER OF SEATS,"2 at Sta. 227.1; 1 at Sta. 262.0; 3 at Sta. 282.0; 3 at Sta. 320.7; 4 at Sta. 339.8; 4 at Sta. 
+ 387.2."
+FUEL CAPACITY,"361.5 gallons; 2 tanks (LH & RH interchangeable). 
+ 359.7 gallons; 2 tanks (LH &RH interchangeable) (with fuel boost pumps installed)."
+OIL CAPACITY,7 quarts each engine.
+OTHER OPERATING,"TM 55-1520-237-10 Operator's Manual dated January 8, 1988, as revised or TM 1-1520-"
+LIMITATIONS,"237-10, dated August 31, 1994, as revised."
+EQUIPMENT,"The following must be installed in each type helicopter for certification: 
+ 1. 
+ U.S. Army TM 55-1520-237-10, Operator's Manual dated August 31, 1988 as revised, 
+ or U.S. Army TM 1-1520-237-10, Operator's Manual dated August 31, 1994, as 
+ revised. 
+ 2. 
+ Removal and replacement of equipment in accordance with Sikorsky Aircraft Kit 
+ Drawing No. 70080-00100. See NOTE 5 for list of equipment to be removed."
+NOTE 1,"Current weight and balance report, including list of equipment included in certificated empty 
+ weight, and loading instructions must be in each type helicopter at time of original 
+ airworthiness certification and at all times thereafter."
+NOTE 2,"The following placard must be prominently displayed in the cockpit in full view of the pilots: 
+ ""THIS ROTORCRAFT MUST BE OPERATED IN ACCORDANCE WITH THE 
+ RESTRICTED CATEGORY OPERATING LIMITATIONS OF FAR 91.39."" FAR 91.39 
+ became FAR 91.313 in the recodification dated August 18, 1989."
+NOTE 3,"Prior to the Civil Airworthiness Certification, compliance with the following must be 
+ accomplished: 
+ (a) Comply with U.S. Army Messages listed in Sikorsky document No. IILS-L-88-006 
+ dated October 5, 1988."
+NOTE 4,"Information essential to the proper servicing, maintenance and repair of the aircraft is 
+ contained in the following U.S. Army publications, as revised: TM 11-1520-237-23-1, -2, 
+ and -3, dated June 10, 1989; TM 55- 1520-237-23, Volumes 1 through 8, dated August 29, 
+ 1989; TM 55-1520-237T, dated August 29, 1989; TM 55-1520-237-PMS-1, dated June 30, 
+ 1990; TM 55- 1520-237-PMS-2, dated August 30, 1990; TM 55-1520-237-CL, dated June 
+ 10, 1989; TM 55-1520-237-MTF, dated November 13, 1990. Information essential to the 
+ proper maintenance of the T700-GE-700 and T700-GE-701C engines is contained in U.S. 
+ Army TM 1-2840-248-23&P, as revised, and General Electric Publication SEI-671, as 
+ revised. Component overhaul and replacement times shall be in accordance with U.S. Army 
+ TM 55-1520-237-23, Volume 1, Chapter 1, Table I-II, dated August 29, 1989, as revised, 
+ unless superseded by appropriate airworthiness directive. (See NOTE 6) 
+ The U.S. Army replaced TM 55-1520-237-23-1 through -10 with a single manual, TM 55- 
+ 1520-237-23, composed of 18 chapters and 8 appendices divided into 8 volumes. Either set 
+ of TM's may be used. (See NOTE 6) 
+ Information on civil aircraft serial number correlation to U.S. Army serial numbers is 
+ contained in Sikorsky Letter TPL-W91-450, dated July 23, 1991, as revised."
+NOTE 5,"The following equipment is to be removed in accordance with Sikorsky Aircraft Kit Drawing 
+ No. 70080-00100: 
+ (a)Troop Seats. 
+ (b) Communications Security Set TSEC/KY-28 (3) per 
+ aircraft. (c)Tactical VH/FM Radio--AN/ARC-114A. 
+ (d) Night Vision Goggle Dimming System. 
+ (e) Caution Panel ""IRCM INOP"" Legend. 
+ (f) Armored Wing Panels (Pilot and Copilot). 
+ (g) Fairing and Mounting Bracket for AN/ALQ-144 Jammer. 
+ (h) Support of Chaff Dispenser. 
+ TM55-1520-237-MTF 
+ TM 1-1520-237-MTF 
+ Not Applicable 
+ TM 55-1520-237-CL 
+ TM 1-1520-237-CL 
+ Not Applicable 
+ TM 55-1520-237-PMS-1 
+ TM 1-1520-237-PMS-1 
+ TM 1-70-PMS-1 
+ TM 55-1520-237-PMS-2 
+ TM 1-1520-237-PMS-2 
+ TM 1-70-PMS-2 
+ TM 55-1520-237-23 
+ TM 1-1520-237-23 
+ TM 1-70-23 and 
+ TM 1-70-23AW 
+ TM 55-1520-237-T 
+ TM 1-1520-237-T 
+ TM 1-70-T 
+ TM 55-1520-237-23P 
+ TM 1-1520-237-23P 
+ TM 1-70-23P 
+ TM 11-1520-237-23 
+ TM 11-1520-237-23 
+ TM 11-70-23 
+ TM 11-1520-237-23P 
+ TM 11-1520-237-23P 
+ TM 11-70-23P 
+ TM 55-2840-248-23&P 
+ TM 1-2840-248-23&P 
+ Not Applicable 
+ The initial publication date of the U.S. Army TM 1 series was 31 August 1994. 
+ The initial publication date of the Sikorsky TM-1 series was 31 August 1994."

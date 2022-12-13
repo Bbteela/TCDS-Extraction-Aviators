@@ -1,0 +1,899 @@
+Keyterm,Info
+"4A30 
+ Revision 7 
+ AeroXin Industries, Inc. 
+ 30 
+ 30A 
+ June 13, 2012",
+Type Certificate Holder,"AeroXin Industries, Inc. 
+ 5840 West Craig Road, #120-262 
+ Las Vegas, Nevada 89130"
+Type Certificate Ownership Record,"D & R Nevada, LLC 
+ 5840 West Craig Road, #120-262 
+ Las Vegas, Nevada 89130 
+ Lost Bird Aviation Historical Society & Museum 
+ 3172 North Rainbow Blvd. 
+ Las Vegas, Nevada 89108 
+ Tracor Flight Systems 
+ 1326 Flight Line, Hangar 75 
+ Mojave, California 93501-1665 
+ General Dynamics Corporation 
+ P. O. Box 1950 
+ San Diego, California 92112"
+"I - 
+ Model 30 (Transport Aircraft, approved December 15, 1961 (See NOTE 4 for explanation of model identification) 
+ Model 30A (Transport Aircraft), approved October 10, 1962 (See NOTE 4 for explanation of model identification)",
+Engines,"Model 30 and Model 30A 
+ 4 General Electric Turbojet CJ805-23 k, o or CJ805-23B n Specification. 
+ See NOTE 7 for installation requirements."
+Fuel,"Commercial Jet Fuel, JP-4, JP-5, conforming to General Electric Specification 
+ D50TF2-S2. See NOTE 8 regarding use of Phillips anti-icing additive PFA55MB."
+Engine limits,"Static Thrust, S.L. 
+ Standard Day: 
+ Takeoff (5 min.) 
+ Max. Continuous 
+ CJ805-23 k Spec. 
+ 15,850 lbs. 
+ 14,100 lbs. 
+ CJ805-23 o Spec. 
+ 15,940 lbs. 
+ 14,100 lbs. 
+ CJ805-23B n Spec. 
+ 16,100 lbs. 
+ 14,400 lbs. 
+ Maximum permissible engine and fan rotor operating speeds, all engine models: 
+ Forward thrust: Engine rotor 7684 r.p.m. (103% max.) 
+ Fan rotor 
+ 5965 r.p.m. (99.4% max.) 
+ Reverse thrust: Engine rotor 7198 r.p.m. (96.5% max.) 
+ Fan rotor 
+ 5965 r.p.m. (99.4% max.) 
+ Maximum permissible temperatures, all engine models: 
+ (1) Turbine exhaust gas temperatures: 
+ Forward thrust:"
+1,"2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8"
+7,"- 
+ - 
+ 4 
+ - 
+ - 
+ - 
+ - 
+ Takeoff 
+ 652°C 1170°F 
+ Maximum Continuous 
+ 500°C 1005 F 
+ Maximum for Acceleration 
+ 650°C 1202°F 
+ (applies concurrently for 2 min. 
+ within 5 min. T.O. rating) 
+ Maximum Transient for Starting (4 sec.) 
+ 760°C 1400°F 
+ Reverse thrust 
+ 632°C 1170°F 
+ (2) Oil temperature, scavenge 
+ 149°C 300°F 
+ Maximum permissible compressor air bleed, 
+ percentage of total engine airflow, all engine models: 
+ Idle to 6714 r.p.m. (90%) 
+ 10% 
+ 6714 r.p.m. (90%) to maximum speed 
+ 5%"
+Airspeed limits ,"Models 30 & 3CA 
+ Models 30 & 30A 
+ *Models 30 & 30A"
+KNOTS IAS and M IND,"-5, -6 & -8 Versions 
+ -5 Version 
+ -6 & 8 Versions 
+ Outboard Anti-Shock 
+ Outboard Anti-Shock 
+ Outboard Anti-Shock 
+ Bodies Empty 
+ Bodies With Fuel 
+ Bodies With Fuel"
+VmoMmo Max Operating Speed,"377K at S.L. to 
+ 357K S.L. to 
+ 321K S.L. to 
+ 417 K at 21,500 ft. 
+ 21,400 ft. 
+ 21,600 ft. 
+ 0.912M above 
+ 0.784M above 
+ 0.718M above 
+ 21,500 ft. 
+ 21,400 ft. 
+ 21,600 ft."
+VneMne For Use in Emergency,"432K S.L. to 
+ See Vmo/Mmo 
+ See Vmo/Mmo"
+and Pilot Training Only,"20,200 ft. 
+ limits 
+ limits 
+ 0.912M above 20,200 ft."
+Va Maneuvering,"See Maneuvering Speeds and Buffet Envelope in FAA Approved Airplane Flight 
+ Manual Certificate Limitations Page 1-38."
+Vfe Flaps and Slats,"Model 30 
+ KNOTS 
+ M"
+Extended Speeds,"Flaps, slats and Kruegers extended 10° 
+ 246 
+ 0.602 
+ Flaps, slats and Kruegers extended 27° 
+ 241 
+ 0.587 
+ Flaps, slats and Kruegers extended 36° 
+ 221 
+ 0.512 
+ Flaps, slats and Kruegers extended 50° 
+ 195 
+ 0.401 
+ Model 30A 
+ Flaps and Kruegers extended 10° 
+ 246 
+ 0.602 
+ Flaps and Kruegers extended 27° 
+ 241 
+ 0.587 
+ Flaps and Kruegers extended 36° 
+ 221 
+ 0.512 
+ Flaps and Kruegers extended 50° 
+ 195 
+ 0.401 
+ Maximum speed with both hydraulic systems failed 
+ 362 
+ 0.784 
+ Maximum speed with speed stability system inoperative"
+Emergency descent,"402 
+ 0.835"
+Climb cruise and normal descent,"362 
+ 0.784 
+ Maximum speed with power rudder inoperative"
+SL,377
+at 21400 ft,"417 
+ 0.888"
+Main and Nose Gear Extension,"321 
+ 0.835"
+Main and Nose Gear Retraction,"271 
+ 0.703"
+Vle Landing Gear Extension,"321 
+ 0.835"
+Landing Gear Door Speed Limitation,"If the landing gear door unlocked warning light illuminates during gear retracted 
+ flight operation, the airspeed must be reduced to 
+ 321 
+ 0.835"
+Landing Light Extension,342
+Fuel Jettison Speed,"Vmo 
+ Mmo"
+V,"246 
+ 0.602"
+Spoiler Speed,"Vne 
+ Mne 
+ 110 
+ 140 
+ Maximum speed anti-fog system inoperative up to 10,000 ft. 
+ 301"
+"*Applicable to Model 30A-5 version modified in accordance with Model 30 Service Bulletin 990 S.B. No. 28-12. 
+ Model 30A 
+ NOTE 
+ In the event of a failure of the No. 2 hydraulic system, or any failure which does not permit 
+ application of the full closing load to the Krueger Flaps, or any mechanical defect which does not 
+ permit full closing of the Krueger Flaps, the following speed restrictions shall apply: 
+ Vmo = 366 knots at sea level varying linearly to Vmo = 385 knots at 22,000 feet and 
+ Mmo = .855 at 22,000 feet varying linearly at Mmo = .835 at 41,000 feet. 
+ CG range 
+ LEVEL ATTITUDE LANDING GEAR EXTENDED 
+ (Straight Line Variation Between Weights Shown) 
+ Model 30 -5, -6, and -8 Versions 
+ FLIGHT 
+ LANDING 
+ GROUND 
+ Gross Wt Fwd Limit 
+ Aft Limit 
+ Fwd. Limit 
+ Aft Limit 
+ Fwd. Limit 
+ Aft Limit 
+ lbs 
+ %MAC F.S. 
+ % MAC F.S. 
+ % MAC 
+ F.S. 
+ % MAC 
+ F.S. 
+ % MAC F.S. 
+ % MACF.S. 
+ 247000 
+ 19.6 
+ 870.0 
+ 31.0 
+ 898.5 
+ 245000 
+ 18.6 
+ 867.6 
+ 31.4 
+ 899.5 
+ 19.0 
+ 868.6 
+ 31.4 
+ 899.5 
+ 242000 
+ 18.5 
+ 867.4 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 202000 
+ 16.6 
+ 862.6 
+ 32.0 
+ 901.0 
+ 20.1 
+ 871.3 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868. 
+ 632.0 
+ 901.0 
+ 190000 
+ 16.0 
+ 861.1 
+ 32.0 
+ 901.0 
+ 19.5 
+ 869.8 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 185000 
+ 15.8 
+ 860.6 
+ 32.0 
+ 901.0 
+ 19.3 
+ 869.3 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 180000 
+ 15.7 
+ 860.4 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 150000 
+ 15.5 
+ 859.9 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 125000 
+ 15.5 
+ 859.9 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ Model 30A -5, -6, and -8 Versions 
+ 255000 
+ 20.3 
+ 871.8 
+ 29.6 
+ 895.0 
+ 253000 
+ 19.9 
+ 870.8 
+ 30.0 
+ 896.0 
+ 20.1 
+ 871.3 
+ 30.0 
+ 896.0 
+ 246200 
+ 18.9 
+ 868.3 
+ 31.2 
+ 899.0 
+ 19.3 
+ 869.3 
+ 31.2 
+ 899.0 
+ 245000 
+ 19.0 
+ 868.6 
+ 31.4 
+ 899.5 
+ 19.2 
+ 867.0 
+ 31.4 
+ 899.5 
+ 243500 
+ 18.8 
+ 868.0 
+ 31.7 
+ 900.2 
+ 19.0 
+ 868.6 
+ 31.7 
+ 900.2 
+ 242000 
+ 18.6 
+ 867.6 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 202000 
+ 16.6 
+ 862.6 
+ 32.0 
+ 901.0 
+ 20.1 
+ 871.3 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 190000 
+ 16.0 
+ 861.1 
+ 32.0 
+ 901.0 
+ 19.5 
+ 869.8 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 185000 
+ 15.8 
+ 860.6 
+ 32.0 
+ 901.0 
+ 19.3 
+ 869.3 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 180000 
+ 15.7 
+ 860.4 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 150000 
+ 15.5 
+ 859.9 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 125000 
+ 15.5 
+ 859.9 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ 19.0 
+ 868.6 
+ 32.0 
+ 901.0 
+ Maximum weights 
+ Model 30 - 5, -6, and -8 Versions 
+ Ramp weight 
+ 247,000 lb. 
+ Takeoff weight 
+ 246,200 lb. 
+ Landing weight 
+ 202,000 lb. 
+ Zero fuel weight 
+ 160,000 lb. 
+ Model 30A -5, -6, and -8 Versions 
+ Ramp weight 
+ 255,000 lb. 
+ *Takeoff weight 
+ 253,000 lb. 
+ Landing weight 
+ 202,000 lb. 
+ Zero fuel weight 
+ 160,000 lb. 
+ (Fuel dump valves required for operation in excess of maximum landing weight). 
+ (All weight in excess of 160,000 lb. must consist of fuel. All weight in excess of 
+ 202,000 lb. must consist of jettisonable fuel.) 
+ *Model 30A-5 Versions are limited to 246,200 pounds takeoff weight prior 
+ to incorporating Model 30 Service Bulletin 990 S.B. No. 28- 12. Model 30A-5 Versions 
+ modified in accordance with Model 30 Service Bulletin 990 S.B. No. 28-12 may be 
+ operated at 253,000 lbs. takeoff wt. 
+ Minimum crew 
+ For all flights: Pilot, Copilot and Flight Engineer 
+ Maximum passengers 
+ 121 
+ Maximum baggage 
+ Maximum Loading 
+ Capacity 
+ (lb./running 
+ C.G. 
+ Compt. 
+ Sta. 
+ (lb.) 
+ (lb./ft.2) 
+ ft.) 
+ (in.) 
+ Model 30-5 Version 
+ Forward 
+ 375-622 
+ 9820 
+ 100 
+ 571 
+ + 498 
+ and 30A 
+ Aft 
+ 1040-1363 
+ 9900 
+ 100 
+ 396 
+ +1188 
+ Model 30-6 Version 
+ Forward 
+ 375-622 
+ 9820 
+ 100 
+ 477 
+ + 498 
+ and 30A 
+ Aft 
+ 1040-1266 
+ 8800 
+ 100 
+ 477 
+ +1156 
+ Model 30-8 Version 
+ Forward 
+ 375-622 
+ 9820 
+ 100 
+ 471 
+ + 498 
+ and 30A 
+ Aft 
+ 1040-1268 
+ 8800 
+ 100 
+ 436 
+ +1156 
+ Fuel capacity 
+ Model 30 
+ Total Refuel (1) 
+ Usable 
+ -5 Version 
+ (lbs. each tank) 
+ (lbs. each tank) 
+ Arm 
+ 2 outboard main tanks 
+ 12,027 
+ 11,866 
+ 924 
+ 2 outboard replenish tanks 
+ 4,362 
+ 4,362 
+ 1078 
+ 2 outboard anti-shock body tanks 
+ 1,460 
+ 1,440 
+ 1072 
+ 2 inboard main tanks 
+ 20,140 
+ 19,920 
+ 810 
+ 2 inboard anti-shock body tanks 
+ 2,371 
+ 2,365 
+ 1002 
+ Center section 
+ 20,938 
+ 20,863 
+ 779 
+ -6 Version 
+ 2 outboard main tanks 
+ 12,027 
+ 11,866 
+ 924 
+ 2 outboard replenish tanks 
+ 4,362 
+ 4,362 
+ 1078 
+ 2 outboard anti-shock body tanks 
+ 3,008 
+ 2,997 
+ 1062 
+ 2 inboard main tanks 
+ 20,140 
+ 19,920 
+ 810 
+ 2 inboard anti-shock body tanks 
+ 2,372 
+ 2,365 
+ 1002 
+ Center section 
+ 20,938 
+ 20,863 
+ 779 
+ -8 Version 
+ 2 outboard main tanks 
+ 12,027 
+ 11,866 
+ 924 
+ 2 outboard replenish tanks 
+ 4,362 
+ 4,362 
+ 1078 
+ 2 outboard anti-shock body tanks 
+ 3,008 
+ 2,997 
+ 1062 
+ 2 inboard main tanks 
+ 20,140 
+ 19,920 
+ 810 
+ 2 inboard anti-shock body tanks 
+ 2,372 
+ 2,365 
+ 1002 
+ Center section 
+ 21,426 
+ 21,352 
+ 779 
+ Model 30A 
+ -5 Version 
+ 2 outboard main tanks 
+ 12,027 
+ 11,866 
+ 924 
+ 2 outboard replenish tanks 
+ 4,362 
+ 4,362 
+ 1078 
+ 2 outboard anti-shock body tanks 
+ 1,460 
+ 1,449 
+ 1072 
+ 2 inboard main tanks 
+ 20,140 
+ 19,920 
+ 810 
+ 2 inboard anti-shock body tanks 
+ 2,371 
+ 2,365 
+ 1002 
+ Center section 
+ 20,938 
+ 20,863 
+ 779 
+ -6 Version 
+ 2 outboard main tanks 
+ 12,027 
+ 11,876 
+ 924 
+ 2 outboard replenish tanks 
+ 4,362 
+ 4,362 
+ 1078 
+ 2 outboard anti-shock body tanks 
+ 3,008 
+ 2,997 
+ 1062 
+ 2 inboard main tanks 
+ 20,140 
+ 20,106 
+ 810 
+ 2 inboard anti-shock body tanks 
+ 2,372 
+ 2,365 
+ 1002 
+ Center section 
+ 20,938 
+ 20,863 
+ 779 
+ Model 30A (cont'd) 
+ -5 and -8 Versions (2) 
+ 2 outboard main tanks 
+ 12,027 
+ 11,876 
+ 924 
+ 2 outboard replenish tanks 
+ 4,362 
+ 4,362 
+ 1078 
+ 2 outboard anti-shock body tanks 
+ 3,008 
+ 2,997 
+ 1062 
+ 2 inboard main tanks 
+ 20,140 
+ 20,106 
+ 810 
+ 2 inboard anti-shock body tanks 
+ 2,372 
+ 2,365 
+ 1002 
+ Center section 
+ 21,426 
+ 21,352 
+ 779 
+ (1) ""Total Refuel Capacity"" consists of Unusable (drainable and undrainable quantities) and Usable Fuel. 
+ See NOTE 1 for disposition of these fuel weights and fuel system limitations. 
+ (2) Applies to Model 30A 5 Versions modified in accordance with Model 30 Service Bulletin 990 
+ S.B. No. 28-12. 
+ Fuel weights are based on 6.7 lb./gal. 
+ Oil capacity 
+ Arm 
+ Engine Oil 
+ Inboard 
+ Outboard 
+ 42.35 lb.ea. Total Capacity 
+ 686.0 
+ 901.0 
+ 26.56 lb.ea. Usable Oil 
+ 5.78 lb.ea. Tank System Including Unusable Oil 
+ 10.01 lb.ea. Engine System Oil 
+ NOTE: 
+ The total oil tank capacity is equal to the sum of the ""usable"" and ""tank system 
+ including unusable oil"" (4.10 gal. at 7.7 lb./gal. each tank). 
+ Constant Speed Drive and Thrust 
+ Arm 
+ Reverser (Common Supply) 
+ Inboard 
+ Outboard 
+ 24.87 lb.ea. Total Capacity 
+ 675.0 
+ 890.0 
+ 7.93 lb.ea. Usable Oil 
+ 3.32 lb.ea. Reverser Reserve 
+ 2.00 lb.ea. Tank System Oil 
+ 4.00 lb.ea. CSD System Oil 
+ 7.63 lb.ea. Reverser System Oil 
+ NOTE: 
+ The total oil tank capacity is equal to the sum of the usable, tank system and 
+ reverser reserve oil (1.7 gal. at 7.7 lb./gal. each tank). 
+ Maximum operating altitude 
+ 41,000 ft. 
+ Other operating limitations 
+ See FAA Approved Airplane Flight Manual. 
+ Control surface movements 
+ The airplane must be rigged in accordance with the following data: 
+ *(a) Convair Dwg. 30-40051, ""Operational Data - Leading Edge Slats"" 
+ (b) Convair Dwg. 30-40071, ""Operational Data - Rudder"" 
+ (c) Convair Dwg. 30-40070, ""Operational Data - Rudder Trim"" 
+ (d) Convair Dwg. 30-40053, ""Operational Data - Elevator"" 
+ (e) Convair Dwg. 30-40066, ""Operational Data - Stabilizer Trim Controls"" 
+ (f) Convair Dwg. 30-40054, ""Operational Data - Aileron and Spoiler"" 
+ (g) Convair Dwg. 30-40067, ""Operational Data - Aileron Trim Control General"" 
+ *(h) Convair Dwg. 30-40055, ""Operational Data - Flap"" 
+ (i) 
+ Convair Dwg. 30-40057, ""Operational Data - Power Plant"" 
+ (j) 
+ Convair Dwg. 30-40060, ""Operational Data - Landing Gear"" 
+ (k) Convair Dwg. 30-40061, ""Operational Data - Nose Wheel Steering"" 
+ (l) 
+ Convair Dwg. 30-40062, ""Operational Data - Brakes"" 
+ (m) Convair Dwg. 30-40063, ""Operational Data - Emergency Landing Gear"" 
+ *For Model 30A, these drawings are replaced by Drawings 30-40051, 
+ Revision E, and 30-40055, Revision K, respectively. 
+ Datum 
+ 100 in. forward of nose (Nose is F.S. 100). 
+ MAC 
+ 249.7 in. L.E. of MAC (+821.1) 
+ Leveling means 
+ Provisions for lateral and longitudinal leveling are installed in the left main landing gear 
+ well. The lateral leveling lugs are installed on the lower forward bulkhead stiffeners in 
+ the left main wheel well along W.L. 3.5. The longitudinal leveling lugs are located on 
+ the stiffeners of the center line web in the left main wheel well along W.L. 5.0. 
+ Serial Nos eligible 
+ 30-1 thru 30-31. 
+ 30A - 32 and up, and all Model 30 Serial Nos. when modified in accordance with 
+ NOTE 4. 
+ Certification basis 
+ CAR 4b dated December 31, 1953; Amendments 4b-1 through 4b-10 thereto; Special 
+ Civil Air Regulation No. SR422B; and the Special Conditions contained in Attachment 
+ ""A"" of the FAA Minutes of the Model 30 Preliminary Type Certification Board Meeting 
+ dated May 21, 1959. 
+ Type Certificate No. 4A30 issued December 15, 1961, Model 30. 
+ Application for Type Certificate dated July 21, 1958, Model 30. 
+ Type Certificate No. 4A30 revised October 10, 1962, to include Model 30A. 
+ Application for Amended Type Certificate for Model 30A dated March 21, 1962. 
+ Compliance with the following optional requirements has been established: 
+ Ditching Provisions only 4b.361 
+ Ice Protection Provisions 4b.640 
+ Production basis 
+ Model 30 and 30A, Production Certificate No. 605 
+ Required equipment 
+ The basic required equipment as prescribed in the applicable airworthiness regulations 
+ (see Certification Basis) must be installed in the aircraft for certification. Convair Report 
+ ZM-30-069, ""Master Equipment List, Models 30 and 30A,"" contains a list of all required 
+ equipment that must be installed as well as optional equipment installations approved by 
+ FAA. 
+ Service information 
+ Convair Report CS-61-053, ""Convair Models 30 and 30A Structural Repair Manual"" is 
+ FAA Approved. Service Bulletins and other service information, when FAA approved, 
+ will carry a statement to that effect. 
+ NOTE 1 
+ (a) Current weight and balance report, including list of equipment included in certificated empty weight, and 
+ loading instructions, must be provided for each aircraft at the time of original certification. Convair 
+ Report ZW-30-029-, ""Weight and Balance Report,"" for Airplane No. "", is applicable to both the 
+ Model 30 and 30A as indicated therein. 
+ (b) The airplane must be loaded so that the C.G. is within the specified limits at all times, with the effects of 
+ fuel use, gear retraction and crew and passenger movement being considered. See ""C.G. Range"" for 
+ restrictions on center of gravity limits for takeoff at gross weights below 155,000 lb. 
+ (c) The weight of system fuel and oil as defined below and hydraulic fluid, all of which must be included in 
+ the airplane empty weight, is listed in Convair Report ZM-30-069, ""Master Equipment List, Models 30 
+ and 30A."" 
+ System Fuel: The weight of all fuel required to fill all lines and tanks up to the zero fuel point on the fuel 
+ gages in the most critical flight altitude. This includes the unusable tank fuel as defined by CAR 4b.416. 
+ System Oil Including Usable: The weight of oil remaining in the engine, constant speed drive, thrust 
+ reverser, tanks and lines after subtracting the usable and reverser reserve oil from the total capacity. These 
+ values are noted under ""Oil Capacity"" and must be added to the empty weight of the airplane. 
+ (d) The ""unusable"" fuel, including drainable and undrainable quantities, is the amount of fuel in the tanks 
+ which is unavailable to the engines under critical flight conditions as defined by CAR 4b.416 and may be 
+ obtained by taking the difference between ""total refuel"" and ""usable"" tank capacities shown under ""Fuel 
+ Capacity."" This ""unusable"" fuel is included in System Fuel as indicated in 1(c) above. 
+ (e) Fuel loading and usable procedures are dictated by structural design and to maintain airplane C.G. within 
+ approved limits. Refer to Convair Report ZW-30-029-, the airplane weight and balance report for the 
+ Model 30 and 30A for loading, takeoff and landing fuel distribution limitations. 
+ (f) Fuel Jettison: Fuel jettisoning must be available for operation of the airplane in excess of the maximum 
+ landing weight. Refer to FAA Approved Airplane Flight Manual for limitations to be observed during 
+ fuel jettison operation. The unjettisonable fuel must be included in the airplane landing weight and the 
+ amount of usable fuel remaining in the tanks after complete jettisoning is as follows: 
+ Model 30 
+ All Versions 
+ Model 30A 
+ Model 30A 
+ -6 & -8 
+ -5 Version 
+ Versions 
+ Outboard tanks (1 and 4) 
+ 2452 lb. ea. 
+ 2462 lb. ea. 
+ Inboard tanks (2 and 3) 
+ 2600 lb. ea. 
+ *2786 lb. ea. 
+ *Applicable to Model 30A-5 Version when modified in accordance with Model 30 Service 
+ Bulletin 990 S.B. No. 28-12. 
+ Fuel weights are based on 6.7 lb./gal. 
+ NOTE 2 
+ Reserved. 
+ NOTE 3 
+ All replacement seats (crew, passenger and lounge), although they may comply with TSO-C39, must also be 
+ demonstrated to comply with CAR 4b.358(c). Other installations, such as berths, buffets, compartments or 
+ items of mass which could create a hazard to the safety of passengers and crew must also be demonstrated to 
+ meet the same requirements. 
+ NOTE 4 
+ The 30-5, 30-6, 30-8, 30A-5, 30A-6, 30A-6AASC, and 30A-8 are versions of the basic Model 30 and 30A, 
+ respectively, the certification basis for which is Type Certificate No. 4A30. These dash numbers were selected 
+ by Convair primarily for contractual and clerical purposes and should not be considered to define different 
+ models of airplanes. One version may be converted to another by incorporating pertinent required equipment 
+ and complete conformity with corresponding approved drawings. 
+ It should be noted that the identification plate in the cockpit identifies the specific airplane version and that 
+ different airplane flight manuals, primarily the result of different autopilot installations, air-conditioning 
+ system, and electrical system, are applicable. Accordingly, when converting from one version to another, the 
+ identification plate must be suitably revised. The airplane flight manual pertinent to the new version must also 
+ be installed. 
+ Model 30 airplanes may be modified to like versions of Model 30A airplanes in accordance with Addendum I 
+ to General Dynamics/Convair Report ZM-30-070, dated September 28, 1962, ""FAA Certification Drawing 
+ Index. When Model 30 airplanes are modified to model 30A airplanes, the ""Nameplate"" must be revised to 
+ indicate Model 30A, and the date of modification must be shown. 
+ NOTE 5 
+ Air Turbine Starter Ground Carts. Limitations on the use of ground bleed air sources used for starting the 
+ CJ805-23 series engines have been established and are noted under the recommendation section on Page 9 of 
+ Convair Report ZK-30-004. ""Failure Analysis of the Model 30 Engine Starting System."" 
+ NOTE 6 
+ The engine thrust reverser lubrication and servicing must be accomplished per the schedule shown in Chapter 
+ 78 of the CJ805-23 series Aft Fan Engine Maintenance Manual, GEI 67837. 
+ NOTE 7 
+ Applicable to the Model 30 and 30A Airplanes. 
+ (a) Installation of the CJ805-23 ""k"" and ""o"" Specification engines on the same airplane is permitted. 
+ (b) Limitations, procedures, and performance applicable to the Model 30 equipped with any combination of 
+ these engines, including 4 CJ805-23 ""o"" Specification engines, are contained in Supplement C to the FAA 
+ approved Model 30 Airplane Flight Manual, CS- 61-048. 
+ (c) The G.E. CJ805-23B (""n"" Specification) engine is approved for installation in the Model 30 and Model 
+ 30A airplanes (all versions), subject to the limitations, procedures, and airplane performance contained in 
+ Supplement B to the FAA approved Model 30 Airplane Flight Manual CS-61-048 and the FAA approved 
+ basic Model 30A Airplane Flight Manual CS-62-046,. This engine must be trimmed in accordance with 
+ the applicable procedures and limitations contained in Section 71 of the Model 30/30A Maintenance 
+ Manual. 
+ (d) Supplement B to the FAA approved Model 30A Airplane Flight Manual CS-62-046 is applicable for 
+ Model 30A airplanes equipped with 4 CJ805-23 ""o"" Specification engines or any combination of ""o"" and 
+ ""n"" Specification engines. (See NOTE 7(e).) 
+ (e) Installation of the CJ805-23 ""o"" and ""n"" Specification engines on the same airplane is permitted. 
+ Supplement F to the FAA approved Model 30A Airplane Flight Manual, CS- 62-046, is applicable for 
+ Model 30A airplanes equipped with CJ805-23 ""o"" Specification engines intermixed with CJ805-23B ""n"" 
+ Specification engines. 
+ (f) Supplement C to the FAA approved Model 30A Airplane Flight Manual is applicable for Model 30A 
+ airplanes equipped with 4 CJ805-23 ""k"" Specification engines or any combination of intermixed ""k"" or 
+ ""o"" Specification engines. 
+ (g) The use of the data presented in Supplement D to the FAA approved Model 30A Airplane Flight Manual 
+ is permitted only when CJ805-23 ""o"" Specification engines are installed and derated takeoff power 
+ performance is utilized. 
+ (h) The use of the data presented in Supplement E to the FAA approved Model 30A Airplane Flight Manual is 
+ permitted only when one or more CJ805-23 ""k"" Specification engines are installed and derated 
+ performance is utilized. 
+ (i) 
+ The basic FAA approved Model 30 Airplane Flight Manual is applicable for those airplanes equipped with 
+ 4 CJ805-23 ""k"" Specification engines. 
+ (j) 
+ Engines must be trimmed in accordance with applicable procedures and limitations contained in 
+ Section 71 of the Model 30/30A Maintenance Manual. 
+ NOTE 8 
+ Kerosene, JP-4 and JP-5 may be used separately or mixed in any proportions without adversely affecting the 
+ engine operation or power output. No fuel control adjustment is required when switching fuel types. 
+ Phillips anti-icing fuel additive PFA-55MB may be used at a maximum concentration of 0.15% by volume. 
+ No fuel system anti-icing credit is allowed. 
+ NOTE 9 
+ The Model 30 and 30A airplanes are approved for operation with the General Electric 7H- TR-30 and 7H-TR- 
+ 30A thrust reverser operating systems installed or an intermix of any combination thereof. Each system, when 
+ installed on the Model 30 engine installation, is approved for operation with either the TR-30 or the TR-30A 
+ blocker doors. 
+ NOTE 10 
+ Airplane 30A-5, S/M 2, was converted by AiResearch Aviation Service Company to a 30A-6 version and is 
+ described by General Dynamics/Convair Reports ZM-30-070 and GDC-63-130 plus AiResearch Aviation 
+ Service Company Report C-1447.",
